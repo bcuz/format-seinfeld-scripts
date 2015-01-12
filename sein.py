@@ -3,10 +3,10 @@ import urllib
 webpage = urllib.urlopen("http://www.seinology.com/scripts/script-08.shtml").read()
 
 start = webpage.find("=====================<br>")
-step2 = webpage.find(">", start)
-step3 = webpage.lower().find("the end", step2+1)
+begin_script = webpage.find(">", start)
+end_script = webpage.lower().find("the end", begin_script+1)
 
-output = webpage[step2+1:step3] + "The End"
+output = webpage[begin_script+1:end_script] + "The End"
 
 output = output.replace("\t", "")
 output = output.replace("&#146;", "'")
