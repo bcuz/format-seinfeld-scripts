@@ -10,9 +10,13 @@ output = webpage[step2+1:step3] + "The End"
 
 output = output.replace("\t", "")
 output = output.replace("&#146;", "'")
+output = output.replace("&#145;", "'")
+
+output = output.replace("&#150;", "-")
 output = output.replace("<br>", "")
 output = output.replace("\n\n\n", "\n\n")
 output = output.replace("\n\n\n\n", "\n\n\n")
+
 
 
 
