@@ -7,4 +7,7 @@ step2 = webpage.find(">", start)
 step3 = webpage.find("</head>", step2+1)
 
 output = webpage[step2+1:step3]
-print output
+
+f = open("new_file.txt", 'w')
+f.write(output)
+f.close()
