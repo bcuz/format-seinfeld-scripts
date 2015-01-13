@@ -1,29 +1,36 @@
 import urllib
 
-webpage = urllib.urlopen("http://www.seinology.com/scripts/script-08.shtml").read()
+def find_nth(str1, substr1):
+  return str1.find(substr1,str1.find(substr1)+1)
 
-find_title = webpage.lower().find(" - the")
-begin_title = webpage.lower().find("t", find_title)
-end_title = webpage.find("<", begin_title+1)
+for num in range(1, 10):
+	if num in range(1, 10):
+		webpage = urllib.urlopen("http://www.seinology.com/scripts/script-0" + str(num) + ".shtml").read()
+	else:
+		webpage = urllib.urlopen("http://www.seinology.com/scripts/script-" + str(num) + ".shtml").read()
+	
+	find_title = find_nth(webpage, " - ") 
+	begin_title = webpage.lower().find("-", find_title)
+	end_title = webpage.find("<", begin_title+1)
 
-title = webpage[begin_title:end_title]
+	title = webpage[begin_title+2:end_title]
+	
+	find_script = webpage.find("=====================<br>")
+	begin_script = webpage.find(">", find_script)
+	end_script = webpage.lower().find("the end", begin_script+1)
 
-find_script = webpage.find("=====================<br>")
-begin_script = webpage.find(">", find_script)
-end_script = webpage.lower().find("the end", begin_script+1)
+	output = webpage[begin_script+1:end_script] + "\n\nThe End"
 
-output = webpage[begin_script+1:end_script] + "The End"
+	output = output.replace("\t", "")
+	output = output.replace("&#146;", "'")
+	output = output.replace("&#145;", "'")
+	output = output.replace("&#148;", "\"")
+	output = output.replace("&#147;", "\"")
+	output = output.replace("&#150;", "-")
+	output = output.replace("<br>", "")
+	output = output.replace("\n\n\n", "\n\n")
+	output = output.replace("\n\n\n\n", "\n\n\n")
 
-output = output.replace("\t", "")
-output = output.replace("&#146;", "'")
-output = output.replace("&#145;", "'")
-output = output.replace("&#148;", "\"")
-output = output.replace("&#147;", "\"")
-output = output.replace("&#150;", "-")
-output = output.replace("<br>", "")
-output = output.replace("\n\n\n", "\n\n")
-output = output.replace("\n\n\n\n", "\n\n\n")
-
-f = open("new_file.txt", 'w')
-f.write(output)
-f.close()
+	f = open("Seinfeld ep" + str(num) + " " + title + ".txt", 'w')
+	f.write(output)
+	f.close()
