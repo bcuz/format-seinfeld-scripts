@@ -2,6 +2,12 @@ import urllib
 
 webpage = urllib.urlopen("http://www.seinology.com/scripts/script-08.shtml").read()
 
+find_title = webpage.lower().find(" - the")
+begin_title = webpage.lower().find("t", find_title)
+end_title = webpage.find("<", begin_title+1)
+
+title = webpage[begin_title:end_title]
+
 find_script = webpage.find("=====================<br>")
 begin_script = webpage.find(">", find_script)
 end_script = webpage.lower().find("the end", begin_script+1)
