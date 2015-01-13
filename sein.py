@@ -16,14 +16,16 @@ def find_nth(str1, substr1):
   return str1.find(substr1,str1.find(substr1)+1)
 
 # episodes that have the same link and are wierdly conjoined like "82and83"
-conjoined = [82, 83, 100, 101, 177, 178, 179, 180]
-
+conjoined = [82, 100, 177, 179]
+break_on = [83, 101, 178, 180]
 
 for num in range(start_num, end_num+1):
 	# deals with the conjoined scripts
 	if num in conjoined:
 		webpage = urllib.urlopen("http://www.seinology.com/scripts/script-" + str(num) + "and" + str(num+1) + ".shtml").read()
 	# deals with scripts 1-9, which are formatted like script-01	
+	elif num in break_on:
+		continue
 	elif num in range(1, 10):
 		webpage = urllib.urlopen("http://www.seinology.com/scripts/script-0" + str(num) + ".shtml").read()		
 	# deals with the rest of the scripts	
