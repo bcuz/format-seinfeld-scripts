@@ -3,9 +3,13 @@ import urllib
 def find_nth(str1, substr1):
   return str1.find(substr1,str1.find(substr1)+1)
 
-for num in range(1, 10):
-	if num in range(1, 10):
-		webpage = urllib.urlopen("http://www.seinology.com/scripts/script-0" + str(num) + ".shtml").read()
+other = [82, 83, 100, 101, 177, 178, 179, 180]
+
+for num in range(1, 181):
+	if num in other:
+		webpage = urllib.urlopen("http://www.seinology.com/scripts/script-" + str(num) + "and" + str(num+1) + ".shtml").read()
+	elif num in range(1, 10):
+		webpage = urllib.urlopen("http://www.seinology.com/scripts/script-0" + str(num) + ".shtml").read()		
 	else:
 		webpage = urllib.urlopen("http://www.seinology.com/scripts/script-" + str(num) + ".shtml").read()
 	
@@ -14,7 +18,7 @@ for num in range(1, 10):
 	end_title = webpage.find("<", begin_title+1)
 
 	title = webpage[begin_title+2:end_title]
-	
+
 	find_script = webpage.find("=====================<br>")
 	begin_script = webpage.find(">", find_script)
 	end_script = webpage.lower().find("the end", begin_script+1)
