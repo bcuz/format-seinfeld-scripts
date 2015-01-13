@@ -55,7 +55,12 @@ for num in range(start_num, end_num+1):
 
 	#find the index where the scripts begin
 	find_script = webpage.find("=====================<br>")
-	#go to the last character of find_script
+	
+	# if "=====<br>" is not found, look for "=&nbsp;<br>", which is how two episodes are formatted instead
+	if find_script == -1:
+		find_script = webpage.find("=&nbsp;<br>")
+
+	#go to the last character of find_script	
 	begin_script = webpage.find(">", find_script)
 	#start looking for the end of script after the index of begin_script. Episodes end when there's a </td>
 	end_script = webpage.lower().find("</td>", begin_script+1)
