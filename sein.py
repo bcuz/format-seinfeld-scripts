@@ -8,6 +8,11 @@ script, start_num, end_num = argv
 start_num = int(start_num)
 end_num = int(end_num)
 
+duplicates = [83, 101, 178, 180]
+
+if start_num in duplicates:
+	start_num -= 1
+
 if end_num == 0:
 	end_num	= 180
 
@@ -17,14 +22,14 @@ def find_nth(str1, substr1):
 
 # episodes that have the same link and are wierdly conjoined like "82and83"
 conjoined = [82, 100, 177, 179]
-break_on = [83, 101, 178, 180]
 
 for num in range(start_num, end_num+1):
 	# deals with the conjoined scripts
+
 	if num in conjoined:
 		webpage = urllib.urlopen("http://www.seinology.com/scripts/script-" + str(num) + "and" + str(num+1) + ".shtml").read()
 	# deals with scripts 1-9, which are formatted like script-01	
-	elif num in break_on:
+	elif num in duplicates:
 		continue
 	elif num in range(1, 10):
 		webpage = urllib.urlopen("http://www.seinology.com/scripts/script-0" + str(num) + ".shtml").read()		
