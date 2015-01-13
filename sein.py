@@ -15,6 +15,7 @@ duplicates = [83, 101, 178, 180]
 if start_num in duplicates:
 	start_num -= 1
 
+# if 0 is entered then all the scripts from the start_num to episode 180 (inclusive) are extracted
 if end_num == 0:
 	end_num	= 180
 
@@ -27,15 +28,15 @@ conjoined = [82, 100, 177, 179]
 
 for num in range(start_num, end_num+1):
 	# deals with the conjoined scripts
-
 	if num in conjoined:
 		webpage = urllib.urlopen("http://www.seinology.com/scripts/script-" + str(num) + "and" + str(num+1) + ".shtml").read()
-	# deals with scripts 1-9, which are formatted like script-01	
+	# if the episode number is a duplicate, go on to the next episode number
 	elif num in duplicates:
 		continue
+	# deals with scripts 1-9, which are formatted like script-01		
 	elif num in range(1, 10):
 		webpage = urllib.urlopen("http://www.seinology.com/scripts/script-0" + str(num) + ".shtml").read()		
-	# deals with the rest of the scripts	
+	# deals with the rest of the episodes
 	else:
 		webpage = urllib.urlopen("http://www.seinology.com/scripts/script-" + str(num) + ".shtml").read()
 	
@@ -52,12 +53,17 @@ for num in range(start_num, end_num+1):
 	# right before "<"
 	title = webpage[begin_title+2:end_title]
 
+	#find the index where the scripts begin
 	find_script = webpage.find("=====================<br>")
+	#go to the last character of find_script
 	begin_script = webpage.find(">", find_script)
+	#start looking for the end of script after the index of begin_script. Episodes end when there's a </td>
 	end_script = webpage.lower().find("</td>", begin_script+1)
-
+	# the script starts at the character after ">" and ends at the character just befoer </td> This extracts
+	# all the information between these two points
 	output = webpage[begin_script+1:end_script]
 
+	# tidying up the script contents
 	output = output.replace("\t", "")
 	output = output.replace("&#146;", "'")
 	output = output.replace("&#145;", "'")
@@ -68,6 +74,8 @@ for num in range(start_num, end_num+1):
 	output = output.replace("\n\n\n", "\n\n")
 	output = output.replace("\n\n\n\n", "\n\n\n")
 
+	# open a file with the designated title in writing mode
 	f = open("Seinfeld ep" + str(num) + " " + title + ".txt", 'w')
+	# write the script to the file
 	f.write(output)
 	f.close()
