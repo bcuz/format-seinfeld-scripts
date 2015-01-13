@@ -1,12 +1,16 @@
 import urllib
+from sys import argv
+
+script, start_num = argv
+start_num = int(start_num)
 
 def find_nth(str1, substr1):
   return str1.find(substr1,str1.find(substr1)+1)
 
-other = [82, 83, 100, 101, 177, 178, 179, 180]
+two_part = [82, 83, 100, 101, 177, 178, 179, 180]
 
-for num in range(179, 181):
-	if num in other:
+for num in range(start_num, 181):
+	if num in two_part:
 		webpage = urllib.urlopen("http://www.seinology.com/scripts/script-" + str(num) + "and" + str(num+1) + ".shtml").read()
 	elif num in range(1, 10):
 		webpage = urllib.urlopen("http://www.seinology.com/scripts/script-0" + str(num) + ".shtml").read()		

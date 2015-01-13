@@ -9,5 +9,3 @@ error was encountered while trying to use an ErrorDocument to handle the request
 <hr>
 <address>Apache Server at www.seinology.com Port 80</address>
 </body></html>
-
-The End
