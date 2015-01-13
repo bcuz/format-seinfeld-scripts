@@ -1,10 +1,15 @@
 import urllib
 from sys import argv
 
-# after "py filename.py" you put a number and the program starts at that number and goes to script 180
-script, start_num = argv
+# after "py filename.py" you put the first script you want up to and including the last script
+# It'll download all scripts in between. If you just want one script, you enter the same number twice
+script, start_num, end_num = argv
 # converts the number from a string to a num, so it can be used in a range
 start_num = int(start_num)
+end_num = int(end_num)
+
+if end_num == 0:
+	end_num	= 180
 
 # custom function to find the second instance of " - ", which helps in locating the pages title
 def find_nth(str1, substr1):
@@ -13,7 +18,8 @@ def find_nth(str1, substr1):
 # episodes that have the same link and are wierdly conjoined like "82and83"
 conjoined = [82, 83, 100, 101, 177, 178, 179, 180]
 
-for num in range(start_num, 181):
+
+for num in range(start_num, end_num+1):
 	# deals with the conjoined scripts
 	if num in conjoined:
 		webpage = urllib.urlopen("http://www.seinology.com/scripts/script-" + str(num) + "and" + str(num+1) + ".shtml").read()
