@@ -5,7 +5,7 @@ def find_nth(str1, substr1):
 
 other = [82, 83, 100, 101, 177, 178, 179, 180]
 
-for num in range(1, 181):
+for num in range(179, 181):
 	if num in other:
 		webpage = urllib.urlopen("http://www.seinology.com/scripts/script-" + str(num) + "and" + str(num+1) + ".shtml").read()
 	elif num in range(1, 10):
@@ -21,9 +21,9 @@ for num in range(1, 181):
 
 	find_script = webpage.find("=====================<br>")
 	begin_script = webpage.find(">", find_script)
-	end_script = webpage.lower().find("the end", begin_script+1)
+	end_script = webpage.lower().find("</td>", begin_script+1)
 
-	output = webpage[begin_script+1:end_script] + "\n\nThe End"
+	output = webpage[begin_script+1:end_script]
 
 	output = output.replace("\t", "")
 	output = output.replace("&#146;", "'")

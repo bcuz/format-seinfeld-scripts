@@ -3,11 +3,9 @@
 <title>404 Not Found</title>
 </head><body>
 <h1>Not Found</h1>
-<p>The requested URL /scripts/script-180.shtml was not found on this server.</p>
+<p>The requested URL /scripts/script-180and181.shtml was not found on this server.</p>
 <p>Additionally, a 404 Not Found
 error was encountered while trying to use an ErrorDocument to handle the request.</p>
 <hr>
 <address>Apache Server at www.seinology.com Port 80</address>
 </body></html>
-
-The End
