@@ -30,8 +30,11 @@ for num in range(start_num, 181):
 	# So we're really only moving the cursor from the first character of " - " to the "-" character itself
 	# this can probably be deleted actually, and more added to begin_title (which would become find_title) below
 	begin_title = webpage.lower().find("-", find_title)
+	# find where the title grabbing will stop. Starts searching after the index given by begin_title
 	end_title = webpage.find("<", begin_title+1)
 
+	# the title starts to be grabbed at the character right after "- " and ends being extracted at the character
+	# right before "<"
 	title = webpage[begin_title+2:end_title]
 
 	find_script = webpage.find("=====================<br>")
