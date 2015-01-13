@@ -8,8 +8,10 @@ script, start_num, end_num = argv
 start_num = int(start_num)
 end_num = int(end_num)
 
+# episodes that are just duplicates of the previous one
 duplicates = [83, 101, 178, 180]
 
+# if the episode is a duplicate of the previous one, treat it as the previous one
 if start_num in duplicates:
 	start_num -= 1
 
