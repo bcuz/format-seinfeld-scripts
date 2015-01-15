@@ -26,6 +26,8 @@ def find_nth(str1, substr1):
 # episodes that have the same link and are wierdly conjoined like "82and83"
 conjoined = [82, 100, 177, 179]
 
+# the first script saved is start_num, and the last script saved is end_num - 1
+# since range stops at the number before second in range(first, second)
 for num in range(start_num, end_num+1):
 	# deals with the conjoined scripts
 	if num in conjoined:
@@ -71,6 +73,7 @@ for num in range(start_num, end_num+1):
 	# tidying up the script contents
 	output = output.replace("\t", "")
 	output = output.replace("<br>", "")
+	output = output.replace("&nbsp;", "") # this might cause problems, but for now it gets rid of special code
 	output = output.replace("&#146;", "'")
 	output = output.replace("&#145;", "'")
 	output = output.replace("&quot;", "\"")
