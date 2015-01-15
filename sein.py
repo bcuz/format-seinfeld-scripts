@@ -71,14 +71,16 @@ for num in range(start_num, end_num+1):
 	output = webpage[begin_script+1:end_script]
 
 	# tidying up the script contents
+	replace_with_quote = ["&quot;", "&#148;", "&#147;"]
+
+	for special_char in replace_with_quote:
+		output = output.replace(special_char, "\"")
+
 	output = output.replace("\t", "")
 	output = output.replace("<br>", "")
 	output = output.replace("&nbsp;", "") # this might cause problems, but for now it gets rid of special code
 	output = output.replace("&#146;", "'")
 	output = output.replace("&#145;", "'")
-	output = output.replace("&quot;", "\"")
-	output = output.replace("&#148;", "\"")
-	output = output.replace("&#147;", "\"")
 	output = output.replace("&#150;", "-")
 	output = output.replace("&#133;", "...")
 	output = output.replace("\n\n\n", "\n\n")
