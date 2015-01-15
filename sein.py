@@ -54,7 +54,7 @@ for num in range(start_num, end_num+1):
 	title = webpage[begin_title+2:end_title]
 
 	#find the index where the scripts begin
-	find_script = webpage.find("=====================<br>")
+	find_script = webpage.find("=====<br>")
 	
 	# if "=====<br>" is not found, look for "=&nbsp;<br>", which is how two episodes are formatted instead
 	if find_script == -1:
@@ -70,12 +70,14 @@ for num in range(start_num, end_num+1):
 
 	# tidying up the script contents
 	output = output.replace("\t", "")
+	output = output.replace("<br>", "")
 	output = output.replace("&#146;", "'")
 	output = output.replace("&#145;", "'")
+	output = output.replace("&quot;", "\"")
 	output = output.replace("&#148;", "\"")
 	output = output.replace("&#147;", "\"")
 	output = output.replace("&#150;", "-")
-	output = output.replace("<br>", "")
+	output = output.replace("&#133;", "...")
 	output = output.replace("\n\n\n", "\n\n")
 	output = output.replace("\n\n\n\n", "\n\n\n")
 
