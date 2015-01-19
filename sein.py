@@ -82,7 +82,8 @@ for num in range(start_num, end_num+1):
 	output = output.replace("&#146;", "'")
 	output = output.replace("&#145;", "'")
 	output = output.replace("&#150;", "-")
-	output = output.replace("&#133;", "...")
+	output = output.replace("&#133;", "...") 
+	output = output.replace("&amp;", "&")
 	output = output.replace("\n\n\n", "\n\n")
 	output = output.replace("\n\n\n\n", "\n\n\n")
 
