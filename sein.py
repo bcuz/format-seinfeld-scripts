@@ -87,8 +87,13 @@ for num in range(start_num, end_num+1):
 	output = output.replace("\n\n\n", "\n\n")
 	output = output.replace("\n\n\n\n", "\n\n\n")
 
+	season_2 = range(6, 18)
+
+	if num in season_2:
+		episode = "s2e" + str(season_2.index(num)+1)
+
 	# open a file with the designated title in writing mode
-	f = open("Seinfeld ep" + str(num) + " " + title + ".txt", 'w')
+	f = open("Seinfeld " + episode + " - " + title + ".txt", 'w')
 	# write the script to the file
 	f.write(output)
 	f.close()
