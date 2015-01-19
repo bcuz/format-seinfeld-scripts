@@ -87,10 +87,34 @@ for num in range(start_num, end_num+1):
 	output = output.replace("\n\n\n", "\n\n")
 	output = output.replace("\n\n\n\n", "\n\n\n")
 
-	season_2 = range(6, 18)
+	season1 = range(1, 6)
+	season2 = range(6, 18)
+	season3 = range(18, 41)
+	season4 = range(41, 65)
+	season5 = range(65, 87)
+	season6 = range(87, 110)
+	season7 = range(111, 135)
+	season8 = range(135, 157)
+	season9 = range(157, 181)
 
-	if num in season_2:
-		episode = "s2e" + str(season_2.index(num)+1)
+	if num in season1:
+		episode = "s1e" + str(season1.index(num)+1)
+	elif num in season2:
+		episode = "s2e" + str(season2.index(num)+1)
+	elif num in season3:
+		episode = "s3e" + str(season3.index(num)+1)
+	elif num in season4:
+		episode = "s4e" + str(season4.index(num)+1)
+	elif num in season5:
+		episode = "s5e" + str(season5.index(num)+1)
+	elif num in season6:
+		episode = "s6e" + str(season6.index(num)+1)
+	elif num in season7:
+		episode = "s7e" + str(season7.index(num)+1)
+	elif num in season8:
+		episode = "s8e" + str(season8.index(num)+1)
+	else:
+		episode = "s9e" + str(season9.index(num)+1)
 
 	# open a file with the designated title in writing mode
 	f = open("Seinfeld " + episode + " - " + title + ".txt", 'w')
