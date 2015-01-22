@@ -29,8 +29,6 @@ def find_nth(str1, substr1):
 # since range stops at the number before second in range(first, second)
 def magic(start_num):
 	for num in range(start_num, end_num+1):
-		global counter
-	 	counter = num
 	 	# if the episode number is a duplicate, go on to the next episode number
 		if num in duplicates:
 			continue
