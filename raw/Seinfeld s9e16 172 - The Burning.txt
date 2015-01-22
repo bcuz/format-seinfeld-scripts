@@ -1,0 +1,1204 @@
+<tdOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+<html>
+
+	<head>
+		<meta http-equiv="content-type" content="text/html;charset=ISO-8859-1">
+		<meta name="description" content="Top Source for Seinfeld">
+		<meta name="keywords" content="seinfeld, sienfeld, Jerry Seinfeld, Julia Louis Dreyfus, Jason Alexander, Michael Richards, Kramer, George, Costanza, Elaine Benes, morty, Larry David">
+		<title>Seinology.com :: Scripts :: 172-The Burning</title>
+	<link rel='stylesheet' href='/stylesheet.css' type='text/css'>
+	</head>
+
+	<body>
+			<table align="center" width="787" border="0" cellspacing="0" cellpadding="0">
+				<tr>
+					<td><font size="-2" color="red">Seinology.com - </font><font size="-3" color="black">Where Seinfeld Content and Accuracy Matter Most. Seinfeld scripts in pdf form, Seinfeld episode video clips, Seinfeld episode audio clips, Jerry Seinfeld appearances, Julia Louis-Dreyfus appearances, Michael Richards appearances, Jason Alexander appearances, Seinfeld discussion Forum, Seinfeld Where are they Now? Seinlanguage Newsletter, Popular Seinfeld Lists, Seinfeld episode standup, Seinfeld episode guide, Seinfeld fan fiction. Seinfeld content all on one domain. Seinology.com enjoy your stay.</font></td>
+				</tr>
+			</table>
+		
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr height="100">
+				<td class="logo"></td>
+			</tr>
+			<tr><td class="ads" align="center" background=#8694fa>
+				<script type="text/javascript"><!--
+google_ad_client = "pub-1924026976931416";
+google_ad_width = 728;
+google_ad_height = 90;
+google_ad_format = "728x90_as";
+google_ad_type = "text";
+google_ad_channel = "";
+google_color_border = "FFFFFF";
+google_color_bg = "8694fa";
+google_color_link = "0000FF";
+google_color_text = "000000";
+google_color_url = "002E3F";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></td></tr>
+		</table>
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr>
+				<td valign="top" width="136">
+					<table width="136" border="0" cellspacing="0" cellpadding="0">
+						<tr height="24">
+							<td class="navigation">
+								<div align="center">
+									
+									<b>Navigation</b></div>
+							</td>
+						</tr>
+						<tr height="199">
+							<td class="spacer1" valign="top" width="136" height="199">
+								<div align="center">
+									<font size="-1"><a href="http://www.seinology.com">Home</a><br>
+										<a href="http://board.seinology.com">Forum</a><br>
+										<a href="http://www.seinology.com/av.shtml">Audio/Video</a><br>
+										<a href="http://www.seinology.com/scripts.shtml">Scripts</a><br>
+										<a href="http://www.seinology.com/survivor.shtml">Survivor</a><br>
+										<a href="http://www.seinology.com/fanfics.shtml">Fan Fiction</a><br>
+										<a href="http://www.seinology.com/gallery/">Gallery</a><br>
+										<a href="http://www.seinology.com/newsletter.shtml">Newsletter</a><br>
+										<a href="http://www.seinology.com/lists.shtml">Lists</a><br>
+										<a href="http://www.seinology.com/epguide.shtml">Episode Guide</a><br>
+										<a href="http://www.seinology.com/links.shtml">Links</a><br>
+										<a href="http://www.seinology.com/faqother.shtml">Faq + others</a><br>
+										<a href="http://www.seinology.com/legal.shtml">Legal</a></font></div>
+							</td>
+						</tr>
+						
+						<tr>
+							<td class="nav2" width="136">
+							<div align="center"><b>Search</b></div></td>
+						</tr>
+						<tr>
+							<td class="spacer1" width="136" valign="top"><div align="center"><form method="get" action="http://www.seinology.com/search/search.cgi">
+<p><label for="fdse_Match">Match</label><br>
+<select name="Match" id="fdse_Match" size="1">
+<option value="1">All</option>
+<option value="0">Any</option>
+<option value="2">Phrase</option>
+</select></p>
+<p><label for="fdse_Realm">Where?</label><br>
+<select name="Realm" id="fdse_Realm" size="1">
+<option selected="selected" value="All">EntireSite</option>
+<option value="Ep Guide">Ep Guide</option>
+<option value="Images">Images</option>
+<option value="Lists">Lists</option>
+<option value="Newsletters">Newsletters</option>
+<option value="Scripts">Scripts</option>
+<option value="Notes..Nothing">Notes..Nothing</option>
+</select></p>
+<p><input type="text" name="Terms" size="14" id="fdse_Terms"><br>
+<input type="submit" class="submit" name="submitButtonName" value="Search"></p>
+</div></form></td>
+						</tr>
+						<tr><td class="bottom" width="136" height="10" valign="top">
+						</td>
+						</tr>
+					</table>
+				</td>
+				<td width="4"></td>
+				<td valign="top" width="645">
+					<table width="645" border="0" cellspacing="0" cellpadding="0">
+						<tr height="18">
+							<td width="645" height="35" class="bar">
+								<div align="center">
+									<b><font size="+2" color="black">Script</font></b></div>
+							</td>
+						</tr>
+						<tr height="362">
+							<td class="spacer2" valign="top" width="645" height="362">
+
+						<p><font size="-2">Episode 172 - The Burning<br>
+							
+						pc: 916 season 9, episode 16<br>
+							
+						Broadcast date: March 19, 1998<br>
+							<br>
+							
+						Written by Jennifer Crittenden<br>
+							
+						Directed by Andy Ackerman<br>
+							<br>
+							
+						-------------------------------------------------------------------------------<br>
+							<br>
+							
+						The Cast<br>
+							
+						Regulars:<br>
+							
+						Jerry Seinfeld ......................&nbsp; Jerry Seinfeld<br>
+							
+						Jason Alexander .................. George Costanza<br>
+							
+						Julia Louis-Dreyfus .............. Elaine Benes<br>
+							
+						Michael Richards .................. Cosmo Kramer<br>
+							<br>
+							
+						Guest Stars:<br>
+							<br>
+							
+						Daniel Von Bargen ............... Kruger<br>
+							
+						Cindy Ambuehl .................... Sophie<br>
+							
+						Henry Woronicz .................. Father Curtis<br>
+							
+						Ursaline Bryant .................... Dr. Wexler<br>
+							
+						Daniel Dae Kim .................... Student #1<br>
+							
+						Alex Craig Mann .................. Student #2<br>
+							
+						Brian Posehn ....................... Artie<br>
+							
+						Alec Holland ........................ Co-Worker #1<br>
+							
+						Suli McCullough ................... Co-Worker #2<br>
+							
+						rc:&nbsp; Patrick Warburton ......... David Puddy<br>
+							
+						rc: Danny Woodburn ........... Mickey Abbott<br>
+							<br>
+							
+						==================================================================<br>
+							<br>
+							
+						[Elaine is getting ready to drive Puddy's car, he's giving her last minute instructions.]<br>
+							<br>
+							
+						PUDDY: Alright, be careful with the car, babe.<br>
+							<br>
+							
+						ELAINE: Yeah, yeah.<br>
+							<br>
+							
+						PUDDY: And don't move the seat, I got it right where I like it.<br>
+							<br>
+							
+						ELAINE: Goodbye?<br>
+							<br>
+							
+						PUDDY: Two and ten, babe.<br>
+							<br>
+							
+						ELAINE: Okay.<br>
+							<br>
+							
+						PUDDY: Don't peel out.<br>
+							<br>
+							
+						ELAINE: I won't.<br>
+							<br>
+							
+						(Elaine peels out and turns on the car stereo. She hears: &quot;Jesus is one, Jesus is all, Jesus picks me up when I fall...&quot; Elaine changes the stations but all of the presets are set to religious radio stations; &quot;And he said unto Abraham...&quot;, &quot;Amen! Amen!&quot;, &quot;So we pray...&quot;, &quot;Saved!&quot;, &quot;Jey-sus!&quot; She turns off the radio.)<br>
+							<br>
+							
+						ELAINE: Jesus?<br>
+							<br>
+							<br>
+							<br>
+							
+						[Meeting at George's office. His Boss, Mr. Kruger, is speaking.]<br>
+							<br>
+							
+						KRUGER: According to our latest quarterly thing,Kruger Industrial Smoothing is heading into the red. Or the black, or whatever the bad one is. Any thoughts?<br>
+							<br>
+							
+						GEORGE: Well, I know when I'm a little strapped, I sometimes drop off my rent check having forgotten to sign it. That could buy us some time.<br>
+							<br>
+							
+						KRUGER: Works for me. Good thinking, George.<br>
+							<br>
+							
+						CO-WORKER #1: Alright, George.<br>
+							<br>
+							
+						CO-WORKER #2: Way to go man.<br>
+							<br>
+							
+						GEORGE: Or we don't even send the check and then when they call, we pretend we're the cleaning service. Heh heh. &quot;Hello? I sorry, no here Kruger.&quot;<br>
+							<br>
+							
+						KRUGER: Are you done? Silly voices, c'mon people, let's get real.<br>
+							<br>
+							
+						CO-WORKER #1: Good one.<br>
+							<br>
+							
+						CO-WORKER #2: That was bad.<br>
+							<br>
+							<br>
+							<br>
+							
+						[George and Jerry are at the coffee shop.]<br>
+							<br>
+							
+						GEORGE: I had 'em, Jerry. They loved me.<br>
+							<br>
+							
+						JERRY: And then?<br>
+							<br>
+							
+						GEORGE: I lost them. I can usually come up with one good comment during a meeting but by the end it's buried under a pile of gaffs and bad puns.<br>
+							<br>
+							
+						JERRY: Showmanship, George. When you hit that high note, you say goodnight and walk off.<br>
+							<br>
+							
+						GEORGE: I can't just leave.<br>
+							<br>
+							
+						JERRY: That's the way they do it in Vegas.<br>
+							<br>
+							
+						GEORGE: You never played Vegas.<br>
+							<br>
+							
+						JERRY: I hear things.<br>
+							<br>
+							
+						(Elaine enters and has a seat.)<br>
+							<br>
+							
+						ELAINE: Here's one. I borrowed Puddy's car and all the presets on his radio were Christian rock stations.<br>
+							<br>
+							
+						GEORGE: I like Christian rock. It's very positive. It's not like those real musicians who think they're so cool and hip.<br>
+							<br>
+							
+						ELAINE: So, you think that Puddy actually believes in something?<br>
+							<br>
+							
+						JERRY: It's a used car, he probably never changed the presets.<br>
+							<br>
+							
+						ELAINE: Yes, he is lazy.<br>
+							<br>
+							
+						JERRY: Plus he probably doesn't even know how to program the buttons.<br>
+							<br>
+							
+						ELAINE: Yes, he is dumb.<br>
+							<br>
+							
+						JERRY: So you prefer dumb and lazy to religious?<br>
+							<br>
+							
+						ELAINE: Dumb and lazy, I understand.<br>
+							<br>
+							
+						GEORGE: Tell you how you could check.<br>
+							<br>
+							
+						ELAINE: How?<br>
+							<br>
+							
+						GEORGE: Reprogram all the buttons, see if he changes them back. You know? The old switcheroo.<br>
+							<br>
+							
+						JERRY: No, no, the old switcheroo is you poison your drink then you switch it with the other person's.<br>
+							<br>
+							
+						GEORGE: No, it's doing the same thing to someone that they did to you.<br>
+							<br>
+							
+						JERRY: Yeah, Elaine's gonna do the same thing to Puddy's radio that the radio did to her.<br>
+							<br>
+							
+						GEORGE: Well that's the gist of it!<br>
+							<br>
+							
+						ELAINE: Quiet! So where is this Sophie?<br>
+							<br>
+							
+						JERRY: Oh, she's picking me up in a few minutes.<br>
+							<br>
+							
+						ELAINE: How long have you two been together?<br>
+							<br>
+							
+						JERRY: I dunno. Since the last one. Oh, here she is. You wanna meet her?<br>
+							<br>
+							
+						ELAINE &amp; GEORGE: Nah.<br>
+							<br>
+							
+						(Jerry leaves to go meet Sophie by the register.)<br>
+							<br>
+							
+						GEORGE: By the way, how did Puddy get back in the picture?<br>
+							<br>
+							
+						ELAINE: I needed to move a bureau.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Kramer and Mickey enter Jerry's apartment.]<br>
+							<br>
+							
+						KRAMER: Hey Jerry, you got any pepper?<br>
+							<br>
+							
+						MICKEY: Hey Jerry.<br>
+							<br>
+							
+						JERRY: Hey Mickey. Check the pepper shaker.<br>
+							<br>
+							
+						KRAMER: Yeah. (inhales some pepper then sneezes violently) See? It should sound like that, something like that.<br>
+							<br>
+							
+						MICKEY: Aah-choo.<br>
+							<br>
+							
+						KRAMER: A little wetter. See, I didn't believe it.<br>
+							<br>
+							
+						JERRY: What's with the fake sneezing?<br>
+							<br>
+							
+						KRAMER: Yeah, we're going down to Mt. Sinai Hospital, See they hire actors to help the students practice diagnosing.<br>
+							<br>
+							
+						MICKEY: They assign you a specific disease and you act out the symptoms. It's an easy gig.<br>
+							<br>
+							
+						JERRY: Do medical schools actually do this?<br>
+							<br>
+							
+						KRAMER: Well the better ones. Alright, let's practice retching.<br>
+							<br>
+							
+						KRAMER &amp; MICKEY: HUAAHHH!!<br>
+							<br>
+							
+						JERRY: I think the phone is ringing.<br>
+							<br>
+							
+						KRAMER &amp; MICKEY: HUAAHHH!!<br>
+							<br>
+							
+						JERRY: Would you hold it a second?! Thank you, will you get out of here with that stuff?<br>
+							<br>
+							
+						KRAMER: Mickey, DTs.<br>
+							<br>
+							
+						(Kramer and Mickey exit, shaking, while Jerry answers the phone.)<br>
+							<br>
+							
+						JERRY: Hello?<br>
+							<br>
+							
+						SOPHIE: Hey. It's me.<br>
+							<br>
+							
+						JERRY: Elaine?<br>
+							<br>
+							
+						SOPHIE: No, it's me.<br>
+							<br>
+							
+						JERRY: George??<br>
+							<br>
+							
+						SOPHIE: Jerry, it's Sophie. I can't believe you don't recognize my voice.<br>
+							<br>
+							
+						JERRY: Oh, I knew it was you, I was joking. I'm a comedian.<br>
+							<br>
+							
+						(Kramer enters.)<br>
+							<br>
+							
+						KRAMER: You got any Ipecac?<br>
+							<br>
+							
+						JERRY: Ipecac? Kramer, I really think you guys are going too far with this.<br>
+							<br>
+							
+						KRAMER: No, Mickey, he swallowed twelve aspirin.<br>
+							<br>
+							
+						JERRY: Did he overdose?<br>
+							<br>
+							
+						KRAMER: No, it's just too much.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Office meeting at Kruger Industrial Smoothing.]<br>
+							<br>
+							
+						KRUGER: ...And it gets worse. The team working on the statue in Lafayette Square kind of over-smoothed it. They ground the head down to about the size of a softball, and that spells trouble.<br>
+							<br>
+							
+						GEORGE: Alright, well why don't we smooth the head down to nothing, stick a pumpkin under its arm and change the nameplate to Ichabod Crane?<br>
+							<br>
+							
+						(Everyone at the meeting breaks out in laughter.)<br>
+							<br>
+							
+						GEORGE: (getting up and leaving) Alright! That's it for me. Goodnight everybody.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Mt. Sanai Hospital, a woman in a lab coat is handing out envelopes to a group of people, Mickey and Kramer included.]<br>
+							<br>
+							
+						DR. WEXLER: In your packet you will find the disease you have been assigned and the symptoms you will need to exhibit.<br>
+							<br>
+							
+						MICKEY: Bacterial Meningitis. Jackpot!<br>
+							<br>
+							
+						KRAMER: Gonorrhea? You wanna trade?<br>
+							<br>
+							
+						MICKEY: Sorry buddy, this is the &quot;Hamlet&quot; of diseases. Severe pain, nausea, delusions, it's got everything.<br>
+							<br>
+							
+						KRAMER (to the man beside him) Howbout you, do you wanna trade?<br>
+							<br>
+							
+						MAN: Sure.<br>
+							<br>
+							
+						KRAMER: Okay, what do you got?<br>
+							<br>
+							
+						MAN: The surgeon left a sponge inside me.<br>
+							<br>
+							
+						KRAMER: Good luck with that.<br>
+							<br>
+							<br>
+							<br>
+							
+						[George and Jerry are at Jerry's apartment.]<br>
+							<br>
+							
+						GEORGE: I knew I had hit my high note so I thanked the crowd and I was gone.<br>
+							<br>
+							
+						JERRY: What did you do the rest of the day?<br>
+							<br>
+							
+						GEORGE: I saw &quot;Titanic&quot;. So that old woman, she's just a liar, right?<br>
+							<br>
+							
+						JERRY: And a bit of a tramp if you ask me.<br>
+							<br>
+							
+						(Elaine enters.)<br>
+							<br>
+							
+						ELAINE: Hello boys.<br>
+							<br>
+							
+						GEORGE: Hey, so, did you give that radio the old switcheroo?<br>
+							<br>
+							
+						ELAINE: I did.<br>
+							<br>
+							
+						GEORGE: And the Christian rock?<br>
+							<br>
+							
+						ELAINE: Ressurected! And look what I pried off of his bumper, a Jesus fish!<br>
+							<br>
+							
+						GEORGE: Jerry, do you have any fishsticks?<br>
+							<br>
+							
+						JERRY: No. So you're disappointed he's a spiritual person?<br>
+							<br>
+							
+						ELAINE: Well yeah, I got him because he seemed so one-dimensional, I feel misled.<br>
+							<br>
+							
+						GEORGE: I think it's neat. You don't hear that much about god anymore.<br>
+							<br>
+							
+						JERRY: I hear things. Hey, so Sophie gave me the &quot;It's me&quot; on the phone today.<br>
+							<br>
+							
+						ELAINE: &quot;It's me?&quot; Isn't it a little premature?<br>
+							<br>
+							
+						JERRY: I thought so.<br>
+							<br>
+							
+						ELAINE: Hah. She's not a &quot;me&quot;. I'm a &quot;me&quot;.<br>
+							<br>
+							
+						GEORGE: I'm against all &quot;it's me&quot;s. So self-absorbed and egotistical, it's like those hip musicians with their complicated shoes!<br>
+							<br>
+							
+						(Kramer enters.)<br>
+							<br>
+							
+						KRAMER: Well, I got gonorrhea.<br>
+							<br>
+							
+						ELAINE: That seems about right.<br>
+							<br>
+							
+						KRAMER: That's what they gave me.<br>
+							<br>
+							
+						GEORGE: They? The Government?<br>
+							<br>
+							
+						JERRY: No, no. He's pretending he's got gonorrhea so med students can diagnose it.<br>
+							<br>
+							
+						KRAMER: And it's a waste of my talent. It's just a little burning. Mickey, he got bacterial meningitis.<br>
+							<br>
+							
+						GEORGE: I guess there are no small diseases, only small actors.<br>
+							<br>
+							
+						(The other three start laughing.)<br>
+							<br>
+							
+						GEORGE: (leaving) Alright that's it for me. Good night everybody.<br>
+							<br>
+							
+						ELAINE: What was that?<br>
+							<br>
+							
+						JERRY: Showmanship, George is trying to get out on a high note.<br>
+							<br>
+							
+						KRAMER: See, showmanship. Maybe that's what my gonorrhea is missing.<br>
+							<br>
+							
+						JERRY: Yes! Step into that spotlight and belt that gonorrhea out to the back row.<br>
+							<br>
+							
+						KRAMER: Yes, yes I will! I'm gonna make people feel my gonorrhea, and feel the gonorrhea themselves.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Mt. Sanai Hospital. Kramer is on the table surrounded by med students.]<br>
+							<br>
+							
+						STUDENT #1: And are you experiencing any discomfort?<br>
+							<br>
+							
+						KRAMER: Just a little burning during urination.<br>
+							<br>
+							
+						STUDENT #1: Okay, any other pain?<br>
+							<br>
+							
+						KRAMER: The haunting memories of lost love. May I? (signals to Mickey) Lights? (Mickey turns down the lights and Kramer lights a cigar) Our eyes met across the crowded hat store. I, a customer, and she a coquettish haberdasher. Oh, I pursued and she withdrew, then she pursued and I withdrew, and so we danced. I burned for her, much like the burning during urination that I would experience soon afterwards.<br>
+							<br>
+							
+						STUDENT #1: Gonorrhea?!<br>
+							<br>
+							
+						KRAMER: Gonorrhea!<br>
+							<br>
+							
+						(The lab breaks out in spontaneous applause as Mickey turns up the lights and Kramer takes a bow.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Jerry and George are back at Jerry's apartment. Jerry is checking his phone messages.]<br>
+							<br>
+							
+						JERRY: One message. Hope it's not from you.<br>
+							<br>
+							
+						ANSWERING MACHINE: &quot;Hey Jerry, it's me. Call me back.&quot;<br>
+							<br>
+							
+						JERRY: Sophie.<br>
+							<br>
+							
+						GEORGE: She's still doing that?<br>
+							<br>
+							
+						JERRY: Yep.<br>
+							<br>
+							
+						GEORGE: Alright, I'll tell you what you do. You call her back and give her the &quot;it's me&quot;, heh? Pull the old switcheroo.<br>
+							<br>
+							
+						JERRY: I think that's a &quot;what's good for the goose is good for the gander&quot;.<br>
+							<br>
+							
+						GEORGE: What the hell is a gander, anyway?<br>
+							<br>
+							
+						JERRY: (picking up the phone and dialing) It's a goose that's had the old switcheroo pulled on it. Hi Sophie, it's me.<br>
+							<br>
+							
+						SOPHIE: Hey Raef.<br>
+							<br>
+							
+						JERRY: (to George) She thinks it's someone named Raef.<br>
+							<br>
+							
+						GEORGE: Good, let her think it.<br>
+							<br>
+							
+						JERRY: (into the phone, with a disguised voice) So, what's going on?<br>
+							<br>
+							
+						SOPHIE: Not a lot.<br>
+							<br>
+							
+						GEORGE: Ask about you, ask about you.<br>
+							<br>
+							
+						JERRY: So, uh, how are things with Jerry?<br>
+							<br>
+							
+						SOPHIE: Oh, I really like him but, well, I still haven't told him the tractor story.<br>
+							<br>
+							
+						JERRY: Right, right, the tractor story.<br>
+							<br>
+							
+						SOPHIE: Are you sick, Raef? You sound kinda funny.<br>
+							<br>
+							
+						JERRY: I sound funny?<br>
+							<br>
+							
+						GEORGE: Abort! Abort!<br>
+							<br>
+							
+						JERRY: Yeah I better get to a doctor, bye. (Hangs up) That was close! What drives me to take chances like that?<br>
+							<br>
+							
+						GEORGE: That was very real.<br>
+							<br>
+							
+						JERRY: She said there's some tractor story that she hasn't told me about.<br>
+							<br>
+							
+						GEORGE: Woah, back it up, back it up. Beep, beep, beep. Tractor story?<br>
+							<br>
+							
+						JERRY: Beep, beep, beep? What are you doing?<br>
+							<br>
+							<br>
+							<br>
+							
+						[Elaine and Puddy are at Puddy's apartment.]<br>
+							<br>
+							
+						ELAINE: So where do you wanna eat?<br>
+							<br>
+							
+						PUDDY: Feels like an Arby's night.<br>
+							<br>
+							
+						ELAINE: Arby's. Beef and cheese and do you believe in god?<br>
+							<br>
+							
+						PUDDY: Yes.<br>
+							<br>
+							
+						ELAINE: Oh. So, you're pretty religious?<br>
+							<br>
+							
+						PUDDY: That's right.<br>
+							<br>
+							
+						ELAINE: So is it a problem that I'm not really religious?<br>
+							<br>
+							
+						PUDDY: Not for me.<br>
+							<br>
+							
+						ELAINE: Why not?<br>
+							<br>
+							
+						PUDDY: I'm not the one going to hell.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Jerry and George are at the coffee shop.]<br>
+							<br>
+							
+						GEORGE: You know what I think? I bet she stole a tractor.<br>
+							<br>
+							
+						JERRY: No one's stealing a tractor, it's a five-mile-an-hour getaway. We're dancing around the obvious, it's gotta be disfigurement.<br>
+							<br>
+							
+						GEORGE: Does she walk around holding a pen she never seems to need?<br>
+							<br>
+							
+						JERRY: No, she looks completely normal.<br>
+							<br>
+							
+						GEORGE: Oh. Okay, here it is, I got it. She lost her thumbs in a tractor accident and they grafted her big toes on. They do it every day.<br>
+							<br>
+							
+						JERRY: You think she's got toes for thumbs?<br>
+							<br>
+							
+						GEORGE: How's her handshake? A little firm, isn't it? Maybe a little too firm?<br>
+							<br>
+							
+						JERRY: I don't know.<br>
+							<br>
+							
+						GEORGE: Hands a little smelly?<br>
+							<br>
+							
+						JERRY: Why do I seek your counsel?<br>
+							<br>
+							
+						(Elaine walks in.)<br>
+							<br>
+							
+						ELAINE: Well I'm going to hell.<br>
+							<br>
+							
+						JERRY: That seems about right.<br>
+							<br>
+							
+						ELAINE: According to Puddy.<br>
+							<br>
+							
+						JERRY: Hey, have you heard the one about the guy in hell with the coffee and the doughtnuts and--<br>
+							<br>
+							
+						ELAINE: I'm not in the mood.<br>
+							<br>
+							
+						GEORGE: (To a passing waitress) I'll have some coffee and a doughnut.<br>
+							<br>
+							
+						JERRY: What do you care? You don't believe in hell.<br>
+							<br>
+							
+						ELAINE: I know, but he does.<br>
+							<br>
+							
+						JERRY: So it's more of a relationship problem than the final destination of your soul.<br>
+							<br>
+							
+						ELAINE: Well, relationships are very important to me.<br>
+							<br>
+							
+						JERRY: Maybe you can strike one up with the prince of darkness as you burn for all eternity.<br>
+							<br>
+							
+						GEORGE: (to the waitress bringing his doughnut) And a slice of devil's food cake.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Kruger's office. George enters, seeing nobody but Mr. Kruger.]<br>
+							<br>
+							
+						GEORGE: Hey. Where is everyone?<br>
+							<br>
+							
+						KRUGER: They're all off the project. They were boring. George, you are my main man.<br>
+							<br>
+							
+						GEORGE: I am?<br>
+							<br>
+							
+						KRUGER: I don't know what it is, I can't put my finger on it, but lately you have just seemed 'on'. And you always leave me wanting more.<br>
+							<br>
+							
+						GEORGE: This is a huge project involving lots of numbers and papers and folders.<br>
+							<br>
+							
+						KRUGER: Ah, I'm not too worried about it. Let's get started.<br>
+							<br>
+							
+						GEORGE: Okay.<br>
+							<br>
+							
+						KRUGER: George? Check it out. (He begins to spin around in his chair) Three times around, no feet.<br>
+							<br>
+							
+						GEORGE: And?<br>
+							<br>
+							
+						KRUGER: All me.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Kramer and Mickey are back at Mt. Sinai.]<br>
+							<br>
+							
+						DR. WEXLER: Alright, and here are you ailments for this week. By the way, Mr. Kramer, you were excellent.<br>
+							<br>
+							
+						KRAMER: Oh, thank you.<br>
+							<br>
+							
+						MICKEY: Cirrhosis of the liver with jaundice! Alright I get to wear make-up! What did you get?<br>
+							<br>
+							
+						KRAMER: Gonorrhea? Excuse me, I think there's been a mistake, see, I had gonorrhea last week.<br>
+							<br>
+							
+						DR. WEXLER: Oh, it's no mistake. We loved what you did with it.<br>
+							<br>
+							
+						KRAMER: I don't believe this, I'm being typecast.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Jerry and Sophie are at Jerry's playing chess.]<br>
+							<br>
+							
+						SOPHIE: I move my knight... here. Check.<br>
+							<br>
+							
+						JERRY: They should update these pieces, nobody rides horses anymore. Maybe they should change it to a tractor.<br>
+							<br>
+							
+						SOPHIE: Jerry, are you embarrassed that you're losing?<br>
+							<br>
+							
+						JERRY: Losing? You know, yesterday I lost control of my car, almost bought the farm.<br>
+							<br>
+							
+						SOPHIE: Bought the farm?<br>
+							<br>
+							
+						JERRY: Tractor!<br>
+							<br>
+							
+						SOPHIE: This is an odd side of you, Jerry. I feel uncomfortable.<br>
+							<br>
+							
+						JERRY: Wait, don't go. Let's thumb wrestle.<br>
+							<br>
+							
+						(Sophie drops her purse and when she bends down to pick it up, Jerry nods knowingly.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Jerry and George are at the coffee shop.]<br>
+							<br>
+							
+						GEORGE: A scar?<br>
+							<br>
+							
+						JERRY: A big long scar where her leg would dangle when she's riding a...?<br>
+							<br>
+							
+						GEORGE: A tractor.<br>
+							<br>
+							
+						JERRY: I'm sure she's a little self-conscious and doesn't like to talk about it.<br>
+							<br>
+							
+						GEORGE: I don't see why's she more self-conscious about that than her toe thumbs.<br>
+							<br>
+							
+						JERRY: She doesn't have toe thumbs.<br>
+							<br>
+							
+						GEORGE: Well, if she keeps horsing around with that tractor--<br>
+							<br>
+							
+						JERRY: Alright. So how's the two-man operation at Kruger?<br>
+							<br>
+							
+						GEORGE: Two-man? It's all me. Kruger doesn't do anything; Disappears for hours at a time, gives me fake excuses. This afternoon I found him with sleep creases on his face. The only reason I got out to get a bite today was that he finally promised to buckle down and do some actual work. (turning around, George sees Mr. Kruger at a booth eating a piece of cake) Oh, I don't believe this. This is what I have to put up with, Jerry. (He walks over) Mr. Kruger? Who said he was going to do some actual work today? Who?<br>
+							<br>
+							
+						KRUGER: I'm not too worried about it.<br>
+							<br>
+							
+						GEORGE: Well I am. Couldn't you try to go through some of that stuff I put in your shoebox?<br>
+							<br>
+							
+						KRUGER: Alright, alright I'm going.<br>
+							<br>
+							
+						GEORGE: (to Jerry) Huh-ho! Have you ever seen anything like this?<br>
+							<br>
+							
+						JERRY: Never.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Elaine's hallway. The door opens, Puddy steps out in his bathrobe. There's a newspaper in front of the door across from Elaine's.]<br>
+							<br>
+							
+						PUDDY: Elaine, they forgot to deliver your paper today. Why don't you just grab that one.<br>
+							<br>
+							
+						ELAINE: 'Cause that belongs to Mr. Potato Guy, that's his.<br>
+							<br>
+							
+						PUDDY: C'mon, get it.<br>
+							<br>
+							
+						ELAINE: Well if you want it, you get it.<br>
+							<br>
+							
+						PUDDY: Sorry, thou shalt not steal.<br>
+							<br>
+							
+						ELAINE: Oh, but it's ok for me?<br>
+							<br>
+							
+						PUDDY: What do you care, you know where you're going.<br>
+							<br>
+							
+						ELAINE: Alright, that is it! I can't live like this.<br>
+							<br>
+							
+						PUDDY: Nah.<br>
+							<br>
+							
+						ELAINE: C'mon.<br>
+							<br>
+							
+						PUDDY: Alright, what did I do?<br>
+							<br>
+							
+						ELAINE: David, I'm going to hell! The worst place in the world! With devils and those caves and the ragged clothing! And the heat! My god, the heat! I mean, what do you think about all that?<br>
+							<br>
+							
+						PUDDY: Gonna be rough.<br>
+							<br>
+							
+						ELAINE: Uh, you should be trying to save me!<br>
+							<br>
+							
+						PUDDY: Don't boss me! This is why you're going to hell.<br>
+							<br>
+							
+						ELAINE: I am not going to hell and if you think I'm going to hell, you should care that I'm going to hell even though I am not.<br>
+							<br>
+							
+						PUDDY: You stole my Jesus fish, didn't you?<br>
+							<br>
+							
+						ELAINE: Yeah, that's right!<br>
+							<br>
+							
+						(Elaine places her hands beside her head, index fingers raised as 'horns' and she emits a gutteral growling sound.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Mt Sanai Hospital. The actors are gathered. Mickey is practicing his part.]<br>
+							<br>
+							
+						MICKEY: Oh, my liver! Why did I drink all those years? Why did I look for love in a bottle?<br>
+							<br>
+							
+						DR. WEXLER: Mr. Kramer? You're up.<br>
+							<br>
+							
+						(Kramer walks in, his face is noticably yellow.)<br>
+							<br>
+							
+						MICKEY: Wait a minute. You are doing gonorrhea, aren't you?<br>
+							<br>
+							
+						KRAMER: Well, we'll see.<br>
+							<br>
+							
+						STUDENT #2: So, what seems to be bothering you today, Mr. Kramer?<br>
+							<br>
+							
+						KRAMER: (pulling a liquor bottle from his jacket pocket) Well, I guess it started about twenty years ago when I got back from Viet Nam, and this was the only friend I had left.<br>
+							<br>
+							
+						MICKEY: Hey! That's my cirrhosis! He's stealing my cirrhosis! (he jumps Kramer) You wanna be sick? I'll make you sick.<br>
+							<br>
+							
+						(They fall to the floor, wrestling.)<br>
+							<br>
+							
+						STUDENT #2: Cirrhosis of the liver and PCP addiction?<br>
+							<br>
+							<br>
+							<br>
+							
+						[Elaine and Puddy have gone to see a priest, Father Curtis.]<br>
+							<br>
+							
+						FATHER CURTIS: Let me see if I understand this. You're concerned that he isn't concerned that you're going to hell. And you feel that she's too bossy.<br>
+							<br>
+							
+						ELAINE &amp; PUDDY: Yeah, that's right.<br>
+							<br>
+							
+						FATHER CURTIS: Well, oftentimes in cases of inter-faith marriages, couples have difficulty--<br>
+							<br>
+							
+						ELAINE (Interrupting) Woah, woah, woah! No one's getting married here.<br>
+							<br>
+							
+						FATHER CURTIS: You aren't?<br>
+							<br>
+							
+						PUDDY: No.<br>
+							<br>
+							
+						ELAINE: We're just, you know, having a good time.<br>
+							<br>
+							
+						FATHER CURTIS: Oh, well then it's simple. You're both going to hell.<br>
+							<br>
+							
+						PUDDY: No way, this is bogus, man!<br>
+							<br>
+							
+						ELAINE: Well, thank you father.<br>
+							<br>
+							
+						FATHER CURTIS: Oh, did you hear the one about the new guy in hell who's talkng to the devil by the coffee machine?<br>
+							<br>
+							
+						PUDDY: I'm really not in the mood, I'm going to hell.<br>
+							<br>
+							
+						ELAINE: Oh, lighten up. It'll only feel like an eternity.<br>
+							<br>
+							
+						(Elaine makes the same 'fingers up' devil gesture as she did in her apartment and Father Curtis joins in.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Jerry and Sophie ar at Jerry's apartment.]<br>
+							<br>
+							
+						SOPHIE: You know, Jerry, there's this thing that I haven't told you about. See, there was this tractor and, oh boy, this is really difficult.<br>
+							<br>
+							
+						JERRY: Sophie, it's me. I know about the tractor story and I'm fine with it.<br>
+							<br>
+							
+						SOPHIE: How could you know?<br>
+							<br>
+							
+						JERRY: (putting his finger to Sophie's lips, then to his own, then back to Sopie's) Shh. Shh. Shh. It's not important. What's important is I'm not gonna let a little thing like that ruin what could be a very long-term and meaningful relationship.<br>
+							<br>
+							
+						(Kramer and Mickey barge in, they're in the middle of an argument.)<br>
+							<br>
+							
+						KRAMER: ...I didn't say that, no.<br>
+							<br>
+							
+						MICKEY: You gave me gonorrhea, you didn't even tell me!<br>
+							<br>
+							
+						KRAMER: Well, I'm sorry. I gave you gonorrhea because I thought you'd have fun with it.<br>
+							<br>
+							
+						JERRY: Hey, hey! I'm with someone.<br>
+							<br>
+							
+						KRAMER: Oh. Hello.<br>
+							<br>
+							
+						SOPHIE: No, I understand. This could be a tough thing to deal with. The important thing is that you have a partner who's supportive.<br>
+							<br>
+							
+						KRAMER: (to Mickey) You know? She's right.<br>
+							<br>
+							
+						SOPHIE: Unfortunately, I didn't have a partner. I got gonorrhea from a tractor.<br>
+							<br>
+							
+						JERRY: You got gonorrhea from a tractor?? And you call *that* your tractor story??<br>
+							<br>
+							
+						KRAMER: You can't get it from that.<br>
+							<br>
+							
+						SOPHIE: But I did. My boyfriend said I got gonorrhea from riding the tractor in my bathing suit.<br>
+							<br>
+							
+						JERRY: (walking out) Alright, that's it for me. You've been great. Goodnight everybody.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Mr. Kruger and George are burning the midnight oil. George is working, Mr. Kruger is bouncing a ball against the wall and catching it. George is percolating.]<br>
+							<br>
+							
+						GEORGE: Would you mind helping me out with some of this stuff?!?<br>
+							<br>
+							
+						KRUGER: You seem like you've got a pretty good handle on it.<br>
+							<br>
+							
+						GEORGE: No! I don't! Don't you even care? This is your company! It's your name on the outside of the building! Speaking of which, the 'R' fell off and all it says now is K-uger!<br>
+							<br>
+							
+						KRUGER: K-uger, that sounds like one of those old-time car horns, huh? K-uger! K-uger!<br>
+							<br>
+							
+						GEORGE: Huh-ho! Oh! You are too much, Mr. Kruger! Too much!<br>
+							<br>
+							
+						KRUGER: (getting up to leave) Thank you George, you've been great. That's it for me.<br>
+							<br>
+							
+						GEORGE: Oh no, you're not going out on a high note with me Mr. Kruger!<br>
+							<br>
+							
+						KRUGER: It's K-uger!<br>
+							<br>
+							
+						GEORGE: No! No!<br>
+							<br>
+							
+						KRUGER: Goodnight everybody!<br>
+							<br>
+							<br>
+							
+						The End<br>
+							<br>
+							
+						Dedication: In memory of our friend, Lloyd Bridges. </td>
+						</tr>
+						<tr height="6">
+							<td class="bottom2" width="645" height="6"></td>
+						</tr>
+						<tr>
+							<td width="645">
+								<div align="center">
+									<font size="-1">Copyright 2006 seinology.com | All Rights Reserved | Designed by 13erla</font></div>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+		<p></p>
+	</body>
+
+</html>

@@ -1,0 +1,1113 @@
+<tdOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+<html>
+
+	<head>
+		<meta http-equiv="content-type" content="text/html;charset=ISO-8859-1">
+		<meta name="description" content="Top Source for Seinfeld">
+		<meta name="keywords" content="seinfeld, sienfeld, Jerry Seinfeld, Julia Louis Dreyfus, Jason Alexander, Michael Richards, Kramer, George, Costanza, Elaine Benes, morty, Larry David">
+		<title>Seinology.com :: Scripts :: 26-The Nose Job</title>
+	<link rel='stylesheet' href='/stylesheet.css' type='text/css'>
+	</head>
+
+	<body>
+			<table align="center" width="787" border="0" cellspacing="0" cellpadding="0">
+				<tr>
+					<td><font size="-2" color="red">Seinology.com - </font><font size="-3" color="black">Where Seinfeld Content and Accuracy Matter Most. Seinfeld scripts in pdf form, Seinfeld episode video clips, Seinfeld episode audio clips, Jerry Seinfeld appearances, Julia Louis-Dreyfus appearances, Michael Richards appearances, Jason Alexander appearances, Seinfeld discussion Forum, Seinfeld Where are they Now? Seinlanguage Newsletter, Popular Seinfeld Lists, Seinfeld episode standup, Seinfeld episode guide, Seinfeld fan fiction. Seinfeld content all on one domain. Seinology.com enjoy your stay.</font></td>
+				</tr>
+			</table>
+		
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr height="100">
+				<td class="logo"></td>
+			</tr>
+			<tr><td class="ads" align="center" background=#8694fa>
+				<script type="text/javascript"><!--
+google_ad_client = "pub-1924026976931416";
+google_ad_width = 728;
+google_ad_height = 90;
+google_ad_format = "728x90_as";
+google_ad_type = "text";
+google_ad_channel = "";
+google_color_border = "FFFFFF";
+google_color_bg = "8694fa";
+google_color_link = "0000FF";
+google_color_text = "000000";
+google_color_url = "002E3F";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></td></tr>
+		</table>
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr>
+				<td valign="top" width="136">
+					<table width="136" border="0" cellspacing="0" cellpadding="0">
+						<tr height="24">
+							<td class="navigation">
+								<div align="center">
+									
+									<b>Navigation</b></div>
+							</td>
+						</tr>
+						<tr height="199">
+							<td class="spacer1" valign="top" width="136" height="199">
+								<div align="center">
+									<font size="-1"><a href="http://www.seinology.com">Home</a><br>
+										<a href="http://board.seinology.com">Forum</a><br>
+										<a href="http://www.seinology.com/av.shtml">Audio/Video</a><br>
+										<a href="http://www.seinology.com/scripts.shtml">Scripts</a><br>
+										<a href="http://www.seinology.com/survivor.shtml">Survivor</a><br>
+										<a href="http://www.seinology.com/fanfics.shtml">Fan Fiction</a><br>
+										<a href="http://www.seinology.com/gallery/">Gallery</a><br>
+										<a href="http://www.seinology.com/newsletter.shtml">Newsletter</a><br>
+										<a href="http://www.seinology.com/lists.shtml">Lists</a><br>
+										<a href="http://www.seinology.com/epguide.shtml">Episode Guide</a><br>
+										<a href="http://www.seinology.com/links.shtml">Links</a><br>
+										<a href="http://www.seinology.com/faqother.shtml">Faq + others</a><br>
+										<a href="http://www.seinology.com/legal.shtml">Legal</a></font></div>
+							</td>
+						</tr>
+						
+						<tr>
+							<td class="nav2" width="136">
+							<div align="center"><b>Search</b></div></td>
+						</tr>
+						<tr>
+							<td class="spacer1" width="136" valign="top"><div align="center"><form method="get" action="http://www.seinology.com/search/search.cgi">
+<p><label for="fdse_Match">Match</label><br>
+<select name="Match" id="fdse_Match" size="1">
+<option value="1">All</option>
+<option value="0">Any</option>
+<option value="2">Phrase</option>
+</select></p>
+<p><label for="fdse_Realm">Where?</label><br>
+<select name="Realm" id="fdse_Realm" size="1">
+<option selected="selected" value="All">EntireSite</option>
+<option value="Ep Guide">Ep Guide</option>
+<option value="Images">Images</option>
+<option value="Lists">Lists</option>
+<option value="Newsletters">Newsletters</option>
+<option value="Scripts">Scripts</option>
+<option value="Notes..Nothing">Notes..Nothing</option>
+</select></p>
+<p><input type="text" name="Terms" size="14" id="fdse_Terms"><br>
+<input type="submit" class="submit" name="submitButtonName" value="Search"></p>
+</div></form></td>
+						</tr>
+						<tr><td class="bottom" width="136" height="10" valign="top">
+						</td>
+						</tr>
+					</table>
+				</td>
+				<td width="4"></td>
+				<td valign="top" width="645">
+					<table width="645" border="0" cellspacing="0" cellpadding="0">
+						<tr height="18">
+							<td width="645" height="35" class="bar">
+								<div align="center">
+									<b><font size="+2" color="black">Script</font></b></div>
+							</td>
+						</tr>
+						<tr height="362">
+							<td class="spacer2" valign="top" width="645" height="362">
+
+						<p><font size="-2">Episode 26 - The Nose Job<br>
+							
+						pc: 309, season 3, episode 9<br>
+							
+						Broadcast date: November 20, 1991<br>
+							<br>
+							
+						Written By Peter Mehlman<br>
+							
+						Directed By Tom Cherones<br>
+							<br>
+							
+						-------------------------------------------------------------------------------<br>
+							<br>
+							
+						The Cast<br>
+							
+						Regulars:<br>
+							
+						Jerry Seinfeld ....................... Jerry Seinfeld<br>
+							
+						Jason Alexander .................. George Costanza<br>
+							
+						Julia Louis-Dreyfus ............. Elaine Benes<br>
+							
+						Michael Richards ................. Kramer<br>
+							<br>
+							
+						Guest Stars:<br>
+							<br>
+							
+						Susan Diol ............................ Audrey<br>
+							
+						Roy Brocksmith .................. Landlord<br>
+							
+						Tawny Kitaen ...................... Isabel<br>
+							
+						Joseph V. Perry ................... Newsstand Owner<br>
+							
+						David Blackwood ............... Interviewer<br>
+							<br>
+							
+						==================================================================<br>
+							<br>
+							
+						[Opening monologue]<br>
+							<br>
+							
+						Can you give me an explanation as to why the pharmacist has to be two-and-a-half feet up above everybody else? What the hell is he doing, he can't be down there on the floor with you and me? Brain surgeons, airline pilots, nuclear physicists, we're all on the same level. Oh no, he's gotta be two-and-a-half feet up. &quot;Look out, everybody, I'm working with pills. Spread out, give me some room.&quot; The only hard part of his whole job that I could see is typing everything onto that little tiny label. He has to try and get all the words on there, keep the paper in the- it's a little piece of paper, in the roller of the typewriter. Oh no, he's gotta be two-and-a-half feet up. &quot;Yeah, I'd like to get this prescription filled.&quot; &quot;Alright, and you wait down there, only I'm allowed up here.&quot;<br>
+							<br>
+							<br>
+							
+						[Jerry and George are at a newsstand]<br>
+							<br>
+							
+						GEORGE: Where'd you meet her?<br>
+							<br>
+							
+						JERRY: I met her on an elevator.<br>
+							<br>
+							
+						GEORGE: On an elevator? You met a woman on an elevator?<br>
+							<br>
+							
+						JERRY: Impossible, right?<br>
+							<br>
+							
+						GEORGE: You got less than sixty seconds. That's like dismantling a time bomb. What got into you?<br>
+							<br>
+							
+						JERRY: I don't know. She was so beautiful, it was like a pure reflex. The words just came out of my mouth.<br>
+							<br>
+							
+						GEORGE: Wow. What'd you say?<br>
+							<br>
+							
+						(flashback to Jerry and Isabel on the elevator)<br>
+							<br>
+							
+						JERRY: You know, I'm the one responsible for those crop circles in England.<br>
+							<br>
+							
+						(end of flashback)<br>
+							<br>
+							
+						GEORGE: Wow.<br>
+							<br>
+							
+						JERRY: Can you believe I did that?<br>
+							<br>
+							
+						GEORGE: What did she say?<br>
+							<br>
+							
+						(another flashback)<br>
+							<br>
+							
+						ISABEL: What crop circles?<br>
+							<br>
+							
+						(end of flashback)<br>
+							<br>
+							
+						JERRY: Not a good sign.<br>
+							<br>
+							
+						GEORGE: Not everybody knows what the crop circles are. (to the newsstand owner) Do you know what the crop circles are?<br>
+							<br>
+							
+						NEWSSTAND OWNER: Crop circles? Why don't you buy something?<br>
+							<br>
+							
+						JERRY: You got something in your teeth there.<br>
+							<br>
+							
+						GEORGE: What?<br>
+							<br>
+							
+						JERRY: It's green.<br>
+							<br>
+							
+						GEORGE: Oh, man, it's spinach! I've been walking around like this all afternoon.<br>
+							<br>
+							
+						JERRY: Did you bump into anybody you knew?<br>
+							<br>
+							
+						GEORGE: I had a job interview.<br>
+							<br>
+							
+						JERRY: How'd it go?<br>
+							<br>
+							
+						GEORGE: Take a guess.<br>
+							<br>
+							
+						(flashback to George's job interview, with close-ups of George's spinached teeth.)<br>
+							<br>
+							
+						INTERVIEWER: Well, Mr. Costanza, we have nothing available at the present time, but should anything open up, we'll be in touch.<br>
+							<br>
+							
+						GEORGE: Ok, thanks.<br>
+							<br>
+							
+						(end of flashback)<br>
+							<br>
+							
+						JERRY: What do you need a job, you got Audrey.<br>
+							<br>
+							
+						GEORGE: Yeah, right.<br>
+							<br>
+							
+						JERRY: What's the matter?<br>
+							<br>
+							
+						GEORGE: Oh, nothing.<br>
+							<br>
+							
+						JERRY: What?<br>
+							<br>
+							
+						GEORGE: You won't think I'm a bad person?<br>
+							<br>
+							
+						JERRY: Too late for that.<br>
+							<br>
+							
+						GEORGE: 'Cause believe me, I would only say this to you and maybe a psychiatrist, maybe. Well, her nose is a little big.<br>
+							<br>
+							
+						JERRY: Yeah, she's got a big nose.<br>
+							<br>
+							
+						GEORGE: I mean, big would even be ok, a little beyond big.<br>
+							<br>
+							
+						(momentary flashback to Audrey's tremendous nose)<br>
+							<br>
+							
+						JERRY: It's a schnoz.<br>
+							<br>
+							
+						GEORGE: Now, I'm aware that my own physical dimensions are perhaps a little short of perfection.<br>
+							<br>
+							
+						JERRY: A little.<br>
+							<br>
+							
+						GEORGE: So who am I to be thinking about someone's nose? I mean, I should be grateful someone like her even looks at me. I have no job, nothing. But I have to say, I think about the nose. I don't want to think about the nose. I don't ask to think about the nose, but I think about it. I go to bed at night, I tell myself, 'Don't think about the nose, forget the nose,' but I think about it. I look at her, I see nose.<br>
+							<br>
+							
+						JERRY: Stop being so concerned with looks.<br>
+							<br>
+							
+						(momentary flashback to Isabel giving Jerry her number)<br>
+							<br>
+							
+						JERRY: Have you said anything to her about it?<br>
+							<br>
+							
+						GEORGE: I could never do that. You know the ironic thing is if she had a smaller nose, I never could have gone out with her in the first place. She'd be out of my league with a smaller nose. And I really like her, I know that. And I know one other thing. I'm not getting past that nose.<br>
+							<br>
+							
+						JERRY: Alright, shut up, here they come.<br>
+							<br>
+							
+						GEORGE: (waving) How can I not think about it? Look at the size of this thing.<br>
+							<br>
+							<br>
+							
+						[Jerry, Elaine, George, Audrey and Kramer are sharing a pizza at Jerry's apartment]<br>
+							<br>
+							
+						KRAMER: So my mother's going out with this guy who leaves a jacket in her house so, you know, she gives it to me. Well, two years later he shows up and he takes it back. And now he's in prison. He got arrested for mail fraud. So Elaine, all you have to do is go over to the apartment, tell the landlord that you're his daughter and you want to bring him the jacket in prison.<br>
+							<br>
+							
+						ELAINE: Won't the landlord know I'm not the daughter?<br>
+							<br>
+							
+						KRAMER: No no, he's never met her. She's in California.<br>
+							<br>
+							
+						ELAINE: Are you coming with me?<br>
+							<br>
+							
+						KRAMER: Oh, yeah yeah, I have to. I'm your fianc&eacute;, Peter Von Nostrand.<br>
+							<br>
+							
+						GEORGE: Why don't you just commit yourself already?<br>
+							<br>
+							
+						AUDREY: What is so special about this jacket?<br>
+							<br>
+							
+						ELAINE: He believes it possesses some extraordinary power over women.<br>
+							<br>
+							
+						AUDREY: What's the smudge on your hand?<br>
+							<br>
+							
+						KRAMER: Oh, I got stamped at the reggae lounge last night. Yeah, I'm going back there tonight, you know, I'm not gonna pay another cover charge.<br>
+							<br>
+							
+						GEORGE: What, you didn't wash all day?<br>
+							<br>
+							
+						KRAMER: Yeah, I washed, just not the hand. You wouldn't believe the women at this club. Ohh, man.<br>
+							<br>
+							
+						AUDREY: It's amazing how many beautiful women live in New York. I actually find it kind of intimidating.<br>
+							<br>
+							
+						KRAMER: Well, you're as pretty as any of them, you just need a nose job.<br>
+							<br>
+							
+						ELAINE: Kramer!<br>
+							<br>
+							
+						KRAMER: What? What?<br>
+							<br>
+							
+						ELAINE: How could you say something like that?!<br>
+							<br>
+							
+						KRAMER: What? What do you mean? I just said she needs a nose job.<br>
+							<br>
+							
+						ELAINE: No no, there's nothing wrong with her nose! I'm so sorry, Audrey.<br>
+							<br>
+							
+						AUDREY: No, it's ok.<br>
+							<br>
+							
+						ELAINE: What did you have to say that for?<br>
+							<br>
+							
+						KRAMER: Well, I was just trying to help out.<br>
+							<br>
+							
+						ELAINE: Yeah? Well, you can kiss that jacket goodbye, Mr. Von Nozzin.<br>
+							<br>
+							
+						KRAMER: You see what happens when you try to be nice?<br>
+							<br>
+							<br>
+							
+						[Middle Monologue]<br>
+							<br>
+							
+						But what would the world be like if people said whatever they were thinking, all the time, whenever it came to them? How long would a blind date last? About thirteen seconds, I think. &quot;Oh, sorry. Your rear end is too big.&quot; &quot;That's ok, your breath stinks anyway. See you later, no problem, good-bye, ok, thank you very much.&quot;<br>
+							<br>
+							<br>
+							
+						[George and Audrey are in Elaine's apartment]<br>
+							<br>
+							
+						AUDREY: Elaine said I could stay with her another month until Tina gets back. What are you thinking about?<br>
+							<br>
+							
+						GEORGE: Thinking? Nothing. What could I possibly be thinking?<br>
+							<br>
+							
+						AUDREY: You look like you've got something on your mind.<br>
+							<br>
+							
+						GEORGE: Oh, yeah, right. I wish I had something on my mind. (pregnant pause) So how about that Kramer, huh?<br>
+							<br>
+							
+						AUDREY: How about him?<br>
+							<br>
+							
+						GEORGE: They way he just says stuff.<br>
+							<br>
+							
+						AUDREY: He sure does.<br>
+							<br>
+							
+						GEORGE: Yeah. Yeah, he's quite a character.<br>
+							<br>
+							
+						AUDREY: So, what did you think?<br>
+							<br>
+							
+						GEORGE: About the pizza?<br>
+							<br>
+							
+						AUDREY: No, about the nose job.<br>
+							<br>
+							
+						GEORGE: Oh, the nose job. I don't know, what did you think?<br>
+							<br>
+							
+						AUDREY: Well, I've thought about it, but I don't know.<br>
+							<br>
+							
+						GEORGE: Yeah. (another pause) Not that I care, one way or the other, but these doctors today really do amazing things, you know, if you were so inclined. And again, I'm not suggesting.<br>
+							<br>
+							
+						AUDREY: I know, they're good.<br>
+							<br>
+							
+						GEORGE: Peter Jennings had one.<br>
+							<br>
+							
+						AUDREY: Really?<br>
+							<br>
+							
+						GEORGE: Probably. They all do. In my high school, half my graduating class had them. Of course, I'm from Long Island, so...<br>
+							<br>
+							
+						AUDREY: Uh huh.<br>
+							<br>
+							
+						GEORGE: It's really nothing, it's like going to the dentist.<br>
+							<br>
+							
+						AUDREY: I hate the dentist.<br>
+							<br>
+							
+						GEORGE: It's a cleaning.<br>
+							<br>
+							
+						AUDREY: So you really think I should do this?<br>
+							<br>
+							
+						GEORGE: If it makes you happy, I don't focus on these things. I will tell you this: Unfortunately, we live in a very superficial society. I don't condone it, but it's a fact of life.<br>
+							<br>
+							
+						AUDREY: Well, maybe I should.<br>
+							<br>
+							
+						GEORGE: What the hell.<br>
+							<br>
+							
+						ELAINE: (barging in) Aw, now you talked her into getting a nose job?<br>
+							<br>
+							
+						GEORGE: Me? I didn't say anything.<br>
+							<br>
+							
+						ELAINE: You encouraged her to get one.<br>
+							<br>
+							
+						GEORGE: I didn't encourage. No encourage.<br>
+							<br>
+							
+						ELAINE: Peter Jennings had one?<br>
+							<br>
+							
+						GEORGE: It's possible.<br>
+							<br>
+							
+						ELAINE: Well, I think you should accept her for who she is.<br>
+							<br>
+							
+						AUDREY: No, George is right. I want to get one.<br>
+							<br>
+							
+						ELAINE: I think it's a mistake.<br>
+							<br>
+							
+						GEORGE: Me too, really. Unless you'd really like to get one.<br>
+							<br>
+							
+						&nbsp;<br>
+							
+						[Jerry and George are at the coffee shop]<br>
+							<br>
+							
+						GEORGE: I'm going straight to hell, no two ways about it.<br>
+							<br>
+							
+						JERRY: Well, it might not be hell but you're gonna run into some bad dudes.<br>
+							<br>
+							
+						GEORGE: (checking his watch) Hey, let's get the check, she's taking the bandages off at four o'clock.<br>
+							<br>
+							
+						JERRY: We have time.<br>
+							<br>
+							
+						GEORGE: It's exciting, isn't it? She's gonna have a whole new face.<br>
+							<br>
+							
+						JERRY: It is exciting.<br>
+							<br>
+							
+						GEORGE: Of course, not as exciting as miss crop circles, but...<br>
+							<br>
+							
+						JERRY: Please, please, Isabel? She is the most despicable woman I have ever met in my life. I have never been so repulsed by someone mentally and so attracted to them physically at the same time. It's like my brain is facing my penis in a chess game. And I'm letting him win.<br>
+							<br>
+							
+						GEORGE: You're not letting him win. He wins till you're forty.<br>
+							<br>
+							
+						JERRY: Then what?<br>
+							<br>
+							
+						GEORGE: He still wins but it's not a blowout.<br>
+							<br>
+							
+						JERRY: She wants to be an actress. She makes me read these moronic acting scenes with her, and I do it because I'm so addicted to the sex, I'm helpless, I'll do anything. So finally Kramer comes in the other day.<br>
+							<br>
+							
+						(flashback to Kramer and Jerry in Jerry's apartment)<br>
+							<br>
+							
+						JERRY: (holding up a piece of paper) I don't want to see this woman anymore but I haven't got the will power to throw out her number. Please, help me. Help me.<br>
+							<br>
+							
+						KRAMER: (taking the paper and tearing it to pieces) I'm proud of you.<br>
+							<br>
+							
+						(end of flashback)<br>
+							<br>
+							
+						JERRY: So I'm never gonna see her again, I'm going cold turkey.<br>
+							<br>
+							
+						GEORGE: Good for you.<br>
+							<br>
+							
+						JERRY: I'll tell you, the sex... I mean, I was like an animal. I mean it was just completely uninhibited.<br>
+							<br>
+							
+						GEORGE: It's like going to the bathroom in front of a lot of people and not caring.<br>
+							<br>
+							
+						JERRY: It's not like that at all.<br>
+							<br>
+							
+						&nbsp;<br>
+							
+						[Elaine, George, Jerry, Kramer and Audrey are at Elaine's apartment]<br>
+							<br>
+							
+						ELAINE: How do you even know the jacket is there?<br>
+							<br>
+							
+						KRAMER: Well I don't, I'm guessing.<br>
+							<br>
+							
+						GEORGE: Okay, look, Audrey, before you take the bandage off just remember that I was the one that encouraged you to do this, you know? Now that you're gonna be a great beauty, let's not forget how this all began. You know, like if you'd listened to your friend, Elaine,<br>
+							<br>
+							
+						AUDREY: George?<br>
+							<br>
+							
+						GEORGE: Yeah?<br>
+							<br>
+							
+						AUDREY: Enough.<br>
+							<br>
+							
+						JERRY: Alright, are we ready? Come on, let's get this show on the road.<br>
+							<br>
+							
+						ELAINE: Are you sure you want us here for this?<br>
+							<br>
+							
+						AUDREY: Yes.<br>
+							<br>
+							
+						JERRY: Shouldn't a doctor do it?<br>
+							<br>
+							
+						AUDREY: No, he said I could do it. Okay, here goes.<br>
+							<br>
+							
+						GEORGE: Very exciting, very exciting, it's like watching a birth.<br>
+							<br>
+							
+						(Audrey removed the bandage, the gang tries to disguise their horror.)<br>
+							<br>
+							
+						ELAINE: It looks good.<br>
+							<br>
+							
+						JERRY: Great job.<br>
+							<br>
+							
+						KRAMER: You got butchered.<br>
+							<br>
+							
+						(George faints)<br>
+							<br>
+							
+						(An undetermined time later, Jerry and Elaine are helping George to his feet.)<br>
+							<br>
+							
+						JERRY: Let's put him over here.<br>
+							<br>
+							
+						KRAMER: (to a fleeing Audrey) Where are you going?<br>
+							<br>
+							
+						AUDREY: (with hand covering nose) To the doctor!<br>
+							<br>
+							
+						KRAMER: Wait, wait, wait, I'll go with you.<br>
+							<br>
+							
+						(Kramer leaves, Elaine sits on the couch near George.)<br>
+							<br>
+							
+						ELAINE: How ya feeling?<br>
+							<br>
+							
+						GEORGE: Too much salt in my diet.<br>
+							<br>
+							
+						ELAINE: Can I get you anything?<br>
+							<br>
+							
+						GEORGE: Nah, I'm good.<br>
+							<br>
+							
+						ELAINE: You sure? Anything?<br>
+							<br>
+							
+						GEORGE: Mmm, no. Boy, it really didn't come out too well, did it?<br>
+							<br>
+							
+						ELAINE: No, it didn't. No, it didn't.<br>
+							<br>
+							
+						GEORGE: It's like, all dented.<br>
+							<br>
+							
+						ELAINE: Seems to be.<br>
+							<br>
+							
+						GEORGE: Well, I'm sure they'll be able to fix it. You can't stop modern science. Can't stop it, you can't stop it. Can't stop science. Can't be stopped, no way, no how, science just marches--<br>
+							<br>
+							
+						ELAINE: Shut up, George.<br>
+							<br>
+							
+						GEORGE: Shut up?<br>
+							<br>
+							
+						ELAINE: Yeah.<br>
+							<br>
+							
+						GEORGE: Interesting.<br>
+							<br>
+							
+						&nbsp;<br>
+							
+						[Jerry and Kramer are at Jerry's apartment. Kramer is pouring a bowl of cereal, Jerry has cracked.]<br>
+							<br>
+							
+						JERRY: Come on, Kramer, seriously, give me her number!<br>
+							<br>
+							
+						KRAMER: I don't have it, I threw it out.<br>
+							<br>
+							
+						JERRY: You're lying! You got it, I want that number!<br>
+							<br>
+							
+						KRAMER: I told you, I threw it out.<br>
+							<br>
+							
+						JERRY: Give it to me!<br>
+							<br>
+							
+						KRAMER: You told me not to give it to you, you made me promise.<br>
+							<br>
+							
+						JERRY: Well, I changed my mind, I want that number.<br>
+							<br>
+							
+						KRAMER: You said, no matter what you do or say, I'm not to give you the number.<br>
+							<br>
+							
+						JERRY: I was lying, give it to me!<br>
+							<br>
+							
+						KRAMER: No, you told me not to!<br>
+							<br>
+							
+						JERRY: I want that number!<br>
+							<br>
+							
+						KRAMER: Alright! (flinging pieces of torn paper to the ground) Yeah! Yeah! Yeah! (Jerry falls to the floor and starts arranging pieces) Look at you! Look at what you've sunk to! Look at what you've become! Look in the mirror, cause you need help, Jerry. You need help, because I can't stand by and do it anymore. It's turning my stomach! I can't stand around here watching you destroy yourself. It's eating me up inside!<br>
+							<br>
+							
+						(Kramer storms out, then storms back in to grab the box of cereal and the bowl, then storms out again.)<br>
+							<br>
+							<br>
+							
+						[George and Audrey are at the coffee shop, Audrey is talking about her nose, George is trying not to look at it.]<br>
+							<br>
+							
+						AUDREY: The doctor said that they need to build the lateral wall of the septum. Over here...<br>
+							<br>
+							
+						GEORGE: Yeah.<br>
+							<br>
+							
+						AUDREY: You see this perinasal sinus cavity?<br>
+							<br>
+							
+						GEORGE: Oh, I got it.<br>
+							<br>
+							
+						AUDREY: You see how it's collapsing? That's what's causing this huge dent.<br>
+							<br>
+							
+						GEORGE: Yeah, phew.<br>
+							<br>
+							
+						AUDREY: So anyway, George, do you know what I was thinking about?<br>
+							<br>
+							
+						GEORGE: What?<br>
+							<br>
+							
+						AUDREY: Remember we talked about taking a trip together?<br>
+							<br>
+							
+						GEORGE: We did?<br>
+							<br>
+							
+						AUDREY: Yeah, we talked about going to Hawaii?<br>
+							<br>
+							
+						GEORGE: Hawaii?<br>
+							<br>
+							
+						AUDREY: Anyway, I think it would be great to get away after all this.<br>
+							<br>
+							
+						GEORGE: (removing his glasses) You know, Hawaii could be a little tricky right now, there's a lot of high pressure winds down there this time of year, there's a lot of debris constantly flying around. Wood, and uh, lava, pretty dangerous.<br>
+							<br>
+							
+						AUDREY: I never heard that.<br>
+							<br>
+							
+						GEORGE: Oh yeah. My friend lived there.<br>
+							<br>
+							
+						AUDREY: We could go to the Caribbean.<br>
+							<br>
+							
+						GEORGE: You know, I have to tell you something. You couldn't get me on a plane right now. I get those FAA reports directly. My uncle sends them to me, he used to be a pilot, so. Big investigation in the, uh, what's the word there, uh, offing. It's in the offing. But, you know, you shouldn't let that stop you from going. You could go. I don't mind.<br>
+							<br>
+							
+						AUDREY: George, I don't think this is working.<br>
+							<br>
+							<br>
+							
+						[Jerry is rehearsing with Isabel.]<br>
+							<br>
+							
+						ISABEL: Ever since you came back from the Army, you've changed. I swear Nelson, I don't even know who you are anymore.<br>
+							<br>
+							
+						JERRY: I'm Nelson!<br>
+							<br>
+							
+						ISABEL: That's not the line, Jerry.<br>
+							<br>
+							
+						JERRY: Alright, alright, I'm sorry. (reading) Nothing's changed, Alma, I just need more time.<br>
+							<br>
+							
+						ISABEL: I swear, Nelson, sometimes at night, when you're not around, I just go crazy thinking about you.<br>
+							<br>
+							
+						JERRY: Well, you just need to relax. Maybe a hobby, bowling is fun.<br>
+							<br>
+							
+						ISABEL: Yeah, bowling's good if you're really gross and ugly.<br>
+							<br>
+							
+						JERRY: (to himself: Uh oh. My organs are playing chess again.<br>
+							<br>
+							
+						(Cut to the table where a slightly translucent Jerry's brain is playing chess with a similarly visible Jerry's penis.)<br>
+							<br>
+							
+						JERRY'S BRAIN: Well I'm getting a little tired of this. What do you say we play one for all the marbles?<br>
+							<br>
+							
+						JERRY'S PENIS: Oh Brain, what are you doing? You cannot beat me. Do you have any idea who you're dealing with? Forget about it!<br>
+							<br>
+							
+						JERRY'S BRAIN: I can't take her anymore. I hate reading her stupid little acting scenes.<br>
+							<br>
+							
+						JERRY'S PENIS: Oh, so what? So you read from a little play. You can't put up with that for an hour to make me happy? You're so selfish. Give me one hour, then I will take over, you will not have to think for the rest of the night.<br>
+							<br>
+							
+						JERRY'S BRAIN: What about tomorrow morning? Do you have any idea what that's like for me? Do you care? No, you don't care. So long as you get to do whatever it is you do. You disgust me.<br>
+							<br>
+							
+						JERRY'S PENIS: Oh, go read a book.<br>
+							<br>
+							
+						JERRY'S BRAIN: Enough chatting, let's play.<br>
+							<br>
+							<br>
+							
+						[Elaine and Kramer are outside the landlord's apartment.]<br>
+							<br>
+							
+						ELAINE: You know the only reason I'm doing this is because you took Audrey to the hospital.<br>
+							<br>
+							
+						KRAMER: (filling a pipe) Yeah, yeah, ok, now uh, you're clear, you got everything?<br>
+							<br>
+							
+						ELAINE: Yeah.<br>
+							<br>
+							
+						KRAMER: Wait wait wait wait wait. (putting a ring on Elaine's finger) Here.<br>
+							<br>
+							
+						ELAINE: What do I need this for?<br>
+							<br>
+							
+						KRAMER: Because we're engaged.<br>
+							<br>
+							
+						ELAINE: We're engaged?<br>
+							<br>
+							
+						KRAMER: Um hm.<br>
+							<br>
+							
+						ELAINE: Kramer, this is too big.<br>
+							<br>
+							
+						KRAMER: (lighting his pipe) It's my mom's.<br>
+							<br>
+							
+						(A stout man walks around the corner.)<br>
+							<br>
+							
+						LANDLORD: Hello?<br>
+							<br>
+							
+						ELAINE: Oh, uh, hi. I'm Wanda Pepper, I'm Albert Pepper's daughter. My father asked me to come here and pick up his jacket for him.<br>
+							<br>
+							
+						LANDLORD: Oh, hello Miss Pepper, it's a pleasure to meet you. (To Kramer) And you must be Professor Von Nostrand?<br>
+							<br>
+							
+						KRAMER: Yes, yes I am.<br>
+							<br>
+							
+						LANDLORD: I've read your book, Professor, and I was quite intrigued by it.<br>
+							<br>
+							
+						KRAMER: Uh, yes. Well, it's, uh, very intriguing.<br>
+							<br>
+							
+						LANDLORD: Tell me, is it your contention that Shakespeare was an imposter?<br>
+							<br>
+							
+						KRAMER: My contention?<br>
+							<br>
+							
+						LANDLORD: Yes, your contention.<br>
+							<br>
+							
+						KRAMER: Yes, that's my contention.<br>
+							<br>
+							
+						ELAINE: I heard him contend that.<br>
+							<br>
+							
+						LANDLORD: It's too bad about your father.<br>
+							<br>
+							
+						ELAINE: Oh, it was a frame-up.<br>
+							<br>
+							
+						LANDLORD: A fine man, he spoke often of you. He's very proud of the work you're doing.<br>
+							<br>
+							
+						ELAINE: Oh, well, we're all proud of the work I'm doing.<br>
+							<br>
+							
+						KRAMER: She does fine work.<br>
+							<br>
+							
+						LANDLORD: Your father gave me strict orders not to turn the jacket over to anyone, but I suppose I can make an exception in your case. The closet's this way.<br>
+							<br>
+							
+						ELAINE: How kind of you.<br>
+							<br>
+							
+						LANDLORD: You know, your father has a very extensive wardrobe.<br>
+							<br>
+							
+						(Kramer enters after Elaine, banging his pipe on the door frame.)<br>
+							<br>
+							
+						(Jerry's Brain and Penis are still playing chess, Jerry's Brain appears to have the upper hand.)<br>
+							<br>
+							
+						JERRY'S BRAIN: What's the matter, fella? You look a little tired. Ha ha ha ha ha!<br>
+							<br>
+							
+						ISABEL: Nelson, don't you see? You are a part of me, and I, I am a part of you.<br>
+							<br>
+							
+						JERRY'S PENIS: It's killing me. (Makes a move)<br>
+							<br>
+							
+						JERRY'S BRAIN: That's your move?<br>
+							<br>
+							
+						JERRY'S PENIS: Yeah.<br>
+							<br>
+							
+						JERRY'S BRAIN: Well that's trouble, my friend. That's big trouble. Checkmate!<br>
+							<br>
+							
+						JERRY'S PENIS: (beginning to cough and struggle) Getting weak... Losing power... You haven't seen the last of me. I'll be back. You're nothing without me. Nothing!<br>
+							<br>
+							
+						(Jerry's Penis disappears with an audible pop)<br>
+							<br>
+							
+						JERRY'S BRAIN: (before disappearing himself) Punk.<br>
+							<br>
+							
+						JERRY: Isabel, uh, I don't think this is working.<br>
+							<br>
+							
+						(Isabel checks the script with a puzzled look on her face)<br>
+							<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						[Back to Elaine, Kramer and the landlord at Albert Pepper's apartment]<br>
+							<br>
+							
+						ELAINE: Daddy certainly does have an extensive wardrobe.<br>
+							<br>
+							
+						LANDLORD: He is a fine dresser and I'm sure I don't have to tell you he's quite popular with the ladies.<br>
+							<br>
+							
+						ELAINE: My father, really? I had no idea.<br>
+							<br>
+							
+						LANDLORD: Yes, they're crazy about him. There was one in particular, came around about two years ago, looked a lot like you, Professor. Could have been your mother. What was her name again? Carter? Kramer! That's it, Babs<br>
+							<br>
+							
+						Kramer. Nasty woman, many a night I had to throw her out on the street, drunken stumblebum.<br>
+							<br>
+							
+						KRAMER: You don't say?<br>
+							<br>
+							
+						ELAINE: I found it!<br>
+							<br>
+							
+						LANDLORD: The woman used to walk around here half naked, sucking Colt 45 from a can. Her big fat stomach hanging out, orthopedic hose up to her knees, screaming down the hall, &quot;Come back to bed, Albert, you big hairy ape, and bring back that box of Danish!&quot;<br>
+							<br>
+							
+						(Throughout the landlord's narrative, Kramer becomes more and more agitated. Finally, he grabs the pipe out of his mouth.)<br>
+							<br>
+							
+						&nbsp;<br>
+							
+						[The four are at their usual booth at the coffee shop.]<br>
+							<br>
+							
+						KRAMER: So I grabbed the guy by the collar.<br>
+							<br>
+							
+						ELAINE: Yeah, and I yelled out, Kramer! Kramer, you're killing him!&quot;<br>
+							<br>
+							
+						JERRY: So I assume the jig was up.<br>
+							<br>
+							
+						ELAINE: Yeah, pretty much.<br>
+							<br>
+							
+						(Kramer shows off the fruits of their labor; he's wearing the jacket. Audrey walks in, her nose has been repaired and she's absolutely beautiful)<br>
+							<br>
+							
+						AUDREY: Hi.<br>
+							<br>
+							
+						ELAINE: Hi!<br>
+							<br>
+							
+						JERRY: Hey.<br>
+							<br>
+							
+						AUDREY: (to George) Hello.<br>
+							<br>
+							
+						GEORGE: (smitten) Audrey? My god, you look incredible! I can't believe it!<br>
+							<br>
+							
+						AUDREY: (motioning to Kramer) Well, it was his doctor. He was wonderful.<br>
+							<br>
+							
+						ELAINE: So, will I see you later tonight?<br>
+							<br>
+							
+						AUDREY: Not sure.<br>
+							<br>
+							
+						KRAMER: (rising and putting his arm around Audrey's shoulder) Well, I'll check you guys out later. (To Audrey) Ready?<br>
+							<br>
+							
+						AUDREY: (holding up her hand to show the stamp) I didn't wash.<br>
+							<br>
+							
+						KRAMER: Neither did I. We're off to the Reggae Lounge.<br>
+							<br>
+							
+						ELAINE: (after they leave) Isn't she beautiful? Her nose is in such perfect proportion with the rest of her face. She's breathtaking! Who would have though she's like--<br>
+							<br>
+							
+						GEORGE: (interrupting) Elaine. Shut up.<br>
+							<br>
+							<br>
+							
+						[Closing Monologue]<br>
+							<br>
+							
+						The technical term for a nose job is rhinoplasty. Rhino, okay? Do we really need to insult the person at this particular moment of their lives? They know they have a big nose, that's why they're coming in. Do they really need the abuse of being compared to a rhinoceros on top of everything else? When someone goes in for a hair transplant, they don't go, &quot;We're going to perform a cue-ballectomy on you, Mr. Johnson. We're going to attempt to remove the skinheadia of your chrome-domus which is the technical term.&quot;<br>
+							<br>
+							<br>
+							
+						The End</td>
+						</tr>
+						<tr height="6">
+							<td class="bottom2" width="645" height="6"></td>
+						</tr>
+						<tr>
+							<td width="645">
+								<div align="center">
+									<font size="-1">Copyright 2006 seinology.com | All Rights Reserved | Designed by 13erla</font></div>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+		<p></p>
+	</body>
+
+</html>

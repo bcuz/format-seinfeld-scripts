@@ -1,0 +1,1350 @@
+<tdOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+<html>
+
+	<head>
+		<meta http-equiv="content-type" content="text/html;charset=ISO-8859-1">
+		<meta name="description" content="Top Source for Seinfeld">
+		<meta name="keywords" content="seinfeld, sienfeld, Jerry Seinfeld, Julia Louis Dreyfus, Jason Alexander, Michael Richards, Kramer, George, Costanza, Elaine Benes, morty, Larry David">
+		<title>Seinology.com :: Scripts :: 98-The Label Maker</title>
+	<link rel='stylesheet' href='/stylesheet.css' type='text/css'>
+	</head>
+
+	<body>
+			<table align="center" width="787" border="0" cellspacing="0" cellpadding="0">
+				<tr>
+					<td><font size="-2" color="red">Seinology.com - </font><font size="-3" color="black">Where Seinfeld Content and Accuracy Matter Most. Seinfeld scripts in pdf form, Seinfeld episode video clips, Seinfeld episode audio clips, Jerry Seinfeld appearances, Julia Louis-Dreyfus appearances, Michael Richards appearances, Jason Alexander appearances, Seinfeld discussion Forum, Seinfeld Where are they Now? Seinlanguage Newsletter, Popular Seinfeld Lists, Seinfeld episode standup, Seinfeld episode guide, Seinfeld fan fiction. Seinfeld content all on one domain. Seinology.com enjoy your stay.</font></td>
+				</tr>
+			</table>
+		
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr height="100">
+				<td class="logo"></td>
+			</tr>
+			<tr><td class="ads" align="center" background=#8694fa>
+				<script type="text/javascript"><!--
+google_ad_client = "pub-1924026976931416";
+google_ad_width = 728;
+google_ad_height = 90;
+google_ad_format = "728x90_as";
+google_ad_type = "text";
+google_ad_channel = "";
+google_color_border = "FFFFFF";
+google_color_bg = "8694fa";
+google_color_link = "0000FF";
+google_color_text = "000000";
+google_color_url = "002E3F";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></td></tr>
+		</table>
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr>
+				<td valign="top" width="136">
+					<table width="136" border="0" cellspacing="0" cellpadding="0">
+						<tr height="24">
+							<td class="navigation">
+								<div align="center">
+									
+									<b>Navigation</b></div>
+							</td>
+						</tr>
+						<tr height="199">
+							<td class="spacer1" valign="top" width="136" height="199">
+								<div align="center">
+									<font size="-1"><a href="http://www.seinology.com">Home</a><br>
+										<a href="http://board.seinology.com">Forum</a><br>
+										<a href="http://www.seinology.com/av.shtml">Audio/Video</a><br>
+										<a href="http://www.seinology.com/scripts.shtml">Scripts</a><br>
+										<a href="http://www.seinology.com/survivor.shtml">Survivor</a><br>
+										<a href="http://www.seinology.com/fanfics.shtml">Fan Fiction</a><br>
+										<a href="http://www.seinology.com/gallery/">Gallery</a><br>
+										<a href="http://www.seinology.com/newsletter.shtml">Newsletter</a><br>
+										<a href="http://www.seinology.com/lists.shtml">Lists</a><br>
+										<a href="http://www.seinology.com/epguide.shtml">Episode Guide</a><br>
+										<a href="http://www.seinology.com/links.shtml">Links</a><br>
+										<a href="http://www.seinology.com/faqother.shtml">Faq + others</a><br>
+										<a href="http://www.seinology.com/legal.shtml">Legal</a></font></div>
+							</td>
+						</tr>
+						
+						<tr>
+							<td class="nav2" width="136">
+							<div align="center"><b>Search</b></div></td>
+						</tr>
+						<tr>
+							<td class="spacer1" width="136" valign="top"><div align="center"><form method="get" action="http://www.seinology.com/search/search.cgi">
+<p><label for="fdse_Match">Match</label><br>
+<select name="Match" id="fdse_Match" size="1">
+<option value="1">All</option>
+<option value="0">Any</option>
+<option value="2">Phrase</option>
+</select></p>
+<p><label for="fdse_Realm">Where?</label><br>
+<select name="Realm" id="fdse_Realm" size="1">
+<option selected="selected" value="All">EntireSite</option>
+<option value="Ep Guide">Ep Guide</option>
+<option value="Images">Images</option>
+<option value="Lists">Lists</option>
+<option value="Newsletters">Newsletters</option>
+<option value="Scripts">Scripts</option>
+<option value="Notes..Nothing">Notes..Nothing</option>
+</select></p>
+<p><input type="text" name="Terms" size="14" id="fdse_Terms"><br>
+<input type="submit" class="submit" name="submitButtonName" value="Search"></p>
+</div></form></td>
+						</tr>
+						<tr><td class="bottom" width="136" height="10" valign="top">
+						</td>
+						</tr>
+					</table>
+				</td>
+				<td width="4"></td>
+				<td valign="top" width="645">
+					<table width="645" border="0" cellspacing="0" cellpadding="0">
+						<tr height="18">
+							<td width="645" height="35" class="bar">
+								<div align="center">
+									<b><font size="+2" color="black">Script</font></b></div>
+							</td>
+						</tr>
+						<tr height="362">
+							<td class="spacer2" valign="top" width="645" height="362">
+
+						<p><font size="-2">Episode 98 - The Label Maker<br>
+							
+						pc: 611, season 6, episode 12<br>
+							
+						Broadcast date: January 19, 1995<br>
+							<br>
+							
+						Written by Alec Berg &amp; Jeff Schaffer<br>
+							
+						Directed by Andy Ackerman<br>
+							<br>
+							
+						-------------------------------------------------------------------------------<br>
+							<br>
+							
+						The Cast<br>
+							
+						Regulars:<br>
+							
+						Jerry Seinfeld ....................... Jerry Seinfeld<br>
+							
+						Jason Alexander .................. George Costanza<br>
+							
+						Julia Louis-Dreyfus ............. Elaine Benes<br>
+							
+						Michael Richards ................. Cosmo Kramer<br>
+							<br>
+							
+						Guest Stars:<br>
+							<br>
+							
+						Bryan Cranston ................... Dr. Tim Whatley<br>
+							
+						Jessica Tuck ......................... Bonnie<br>
+							
+						Cleto Augusto ..................... Scott<br>
+							
+						Wayne Grace ...................... Ukranian<br>
+							
+						rc: Wayne Knight ................ Newman<br>
+							<br>
+							
+						==================================================================<br>
+							<br>
+							
+						[Opening monologue]<br>
+							<br>
+							
+						Loyalty to any one sports team is pretty hard to justify.&nbsp; Because the players are always changing, the team can move to another city, you're actually rooting for the clothes when you get right down to it.&nbsp; You know what I mean, you are standing and cheering and yelling for your clothes to beat the clothes from another city.&nbsp; Fans will be so in love with a player but if he goes to another team, they boo him.&nbsp; This is the same human being in a different shirt, they *hate* him now.&nbsp; Boo!&nbsp; different shirt!!&nbsp; Boo.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Jerry and George are at a hot dog vendor's cart.]<br>
+							<br>
+							
+						JERRY:&nbsp; You sure you don't want the tickets?<br>
+							<br>
+							
+						GEORGE:&nbsp; No thanks.<br>
+							<br>
+							
+						JERRY:&nbsp; I can't believe I'm having trouble getting rid of Super Bowl tickets.<br>
+							<br>
+							
+						GEORGE:&nbsp; I'm telling you, skip the Drake's wedding, go to the game.<br>
+							<br>
+							
+						JERRY:&nbsp; I can't, the Drake put me in the wedding party.<br>
+							<br>
+							
+						GEORGE:&nbsp; Well who schedules his wedding on Super Bowl Sunday?<br>
+							<br>
+							
+						JERRY:&nbsp; Maybe he didn't know?<br>
+							<br>
+							
+						GEORGE:&nbsp; Lemme see.&nbsp; I can't believe you got these for free. (Looking at the tickets)&nbsp; Row F?!<br>
+							<br>
+							
+						JERRY:&nbsp; Row F, in front of the Gs, hobnobbing with the Ds and Es.<br>
+							<br>
+							
+						GEORGE:&nbsp; Howbout Kramer or Elaine, they don't want them?<br>
+							<br>
+							
+						JERRY:&nbsp; I asked.&nbsp; Elaine laughed at me, Kramer's only interested in Canadian football.<br>
+							<br>
+							
+						GEORGE:&nbsp; Wish I could help you.<br>
+							<br>
+							
+						JERRY:&nbsp; Come on, take them.&nbsp; You could take Bonnie.<br>
+							<br>
+							
+						GEORGE:&nbsp; You paying my hotel and airfare to Miami?<br>
+							<br>
+							
+						JERRY:&nbsp; What do you think?<br>
+							<br>
+							
+						GEORGE:&nbsp; So in order to use these, I gotta spend like fifteen-hundred bucks. This is a bill for fifteen-hundred dollars.&nbsp; Plus, she'd ask about the sleeping arrangements, that whole sleeping arrangement conversation is depressing.<br>
+							<br>
+							
+						JERRY:&nbsp; Yeah, sleeping arrangements.&nbsp; So, you haven't, uh...<br>
+							<br>
+							
+						GEORGE:&nbsp;&nbsp; Oh, no no no, I haven't even seen her apartment yet.&nbsp; Tomorrow night's the first night.<br>
+							<br>
+							
+						JERRY:&nbsp; Aah.<br>
+							<br>
+							
+						GEORGE:&nbsp; Hey, is that Tim Whatley?<br>
+							<br>
+							
+						JERRY:&nbsp; The Dentist?<br>
+							<br>
+							
+						GEORGE:&nbsp; Yeah, is he still mad at you for crashing his Thanksgiving party?<br>
+							<br>
+							
+						JERRY:&nbsp; Oh, no.&nbsp; I explained the whole thing to him, he was fine with it.<br>
+							<br>
+							
+						GEORGE:&nbsp; Oh good.<br>
+							<br>
+							
+						JERRY:&nbsp; Yeah, I blamed it on you.&nbsp; Hi Tim.<br>
+							<br>
+							
+						TIM:&nbsp; Hey Jerry!&nbsp; George.&nbsp; What are you up to?<br>
+							<br>
+							
+						JERRY:&nbsp; Ah, just a couple of gals out on the town, shopping and gabbing.<br>
+							<br>
+							
+						GEORGE:&nbsp; I'm getting a makeover.<br>
+							<br>
+							
+						JERRY:&nbsp; Hey.&nbsp; How would you like to go to the Super Bowl?<br>
+							<br>
+							
+						TIM:&nbsp; What, are you kidding?<br>
+							<br>
+							
+						JERRY:&nbsp; Here.&nbsp; Two tickets.&nbsp; Have a good time.<br>
+							<br>
+							
+						TIM:&nbsp; How can I think you?&nbsp; I'll tell you what, I'll take you to dinner sometime.&nbsp; You ever been to Mendys?<br>
+							<br>
+							
+						JERRY:&nbsp; No no no.&nbsp; No dinner.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Jerry's apartment, Jerry is on the phone.]<br>
+							<br>
+							
+						JERRY:&nbsp; Tim, you didn't have to get me a thank you gift.&nbsp; I know, it's a label maker.&nbsp; The Label Baby Junior.&nbsp; Yeah, I hear they're good.&nbsp; Well, label me thankful.&nbsp; Okay, well you enjoy those tickets.&nbsp; Buh-bye.<br>
+							<br>
+							
+						(Jerry hangs up, there's a pounding on the door.)<br>
+							<br>
+							
+						JERRY:&nbsp; Come in.<br>
+							<br>
+							
+						(More pounding.&nbsp; Jerry opens the door and Kramer backs in carrying a board game.)<br>
+							<br>
+							
+						KRAMER:&nbsp; Where can I put this?<br>
+							<br>
+							
+						JERRY:&nbsp; What is it?<br>
+							<br>
+							
+						KRAMER:&nbsp; It's Risk, Jerry.&nbsp; The game of world conquest. (brushing newspapers off the table with his foot and setting the game board down)&nbsp; Alright, that's perfect.<br>
+							<br>
+							
+						(Newman walks in.)<br>
+							<br>
+							
+						JERRY:&nbsp; Kramer, why do you have to (noticing Newman)&nbsp; Hello, Newman.<br>
+							<br>
+							
+						NEWMAN:&nbsp; Hello, Jerry.&nbsp; Will he take it?&nbsp; I gotta go to work.<br>
+							<br>
+							
+						JERRY:&nbsp; Take what?<br>
+							<br>
+							
+						KRAMER:&nbsp; The board, Jerry.&nbsp; We've been playing at Newman's for six hours but he's gotta go.<br>
+							<br>
+							
+						JERRY:&nbsp; So why don't you leave it at Newman's?<br>
+							<br>
+							
+						NEWMAN:&nbsp; I wanted to, he won't let me.<br>
+							<br>
+							
+						KRAMER:&nbsp; We have to put the board in a neutral place where no one will tamper with it.<br>
+							<br>
+							
+						JERRY:&nbsp; So that's here?<br>
+							<br>
+							
+						KRAMER:&nbsp; Yes, yes.&nbsp; You're like Switzerland.<br>
+							<br>
+							
+						JERRY:&nbsp; I don't wanna be Switzerland.<br>
+							<br>
+							
+						KRAMER:&nbsp; Jerry, Newman and I are engaged in a epic struggle for world domination.&nbsp; It's winner take all.&nbsp; People cannot be trusted.<br>
+							<br>
+							
+						NEWMAN:&nbsp; Don't look at me.<br>
+							<br>
+							
+						KRAMER:&nbsp; Oh, I'm looking right at you, big daddy.<br>
+							<br>
+							
+						JERRY:&nbsp; Alright, soldier boys, let's fall out.<br>
+							<br>
+							
+						KRAMER:&nbsp; Alright, so you're gonna look after it?<br>
+							<br>
+							
+						JERRY:&nbsp; Yeah, yeah.<br>
+							<br>
+							
+						KRAMER:&nbsp; Stay strong buddy.<br>
+							<br>
+							
+						JERRY:&nbsp; Yeah.<br>
+							<br>
+							
+						KRAMER: Watch it good.<br>
+							<br>
+							
+						JERRY:&nbsp; Ok.<br>
+							<br>
+							
+						(Kramer leaves, Elaine enters.)<br>
+							<br>
+							
+						ELAINE:&nbsp; Hey.<br>
+							<br>
+							
+						JERRY:&nbsp; Hey.<br>
+							<br>
+							
+						ELAINE:&nbsp; Hey.&nbsp; Oh, is that a label maker?<br>
+							<br>
+							
+						JERRY:&nbsp; Yes it is.&nbsp; I got it as a gift, it's a Label Baby Junior.<br>
+							<br>
+							
+						ELAINE:&nbsp; Love the Label Baby, baby.&nbsp; You know those things make great gifts, I just got one of those for Tim Whatley for Christmas.<br>
+							<br>
+							
+						JERRY:&nbsp; Tim Whatley?<br>
+							<br>
+							
+						ELAINE:&nbsp; Yeah.&nbsp; Who sent you that one?<br>
+							<br>
+							
+						JERRY:&nbsp; One Tim Whatley!<br>
+							<br>
+							
+						ELAINE:&nbsp; Not, my Tim Whatley?<br>
+							<br>
+							
+						JERRY:&nbsp; The same, he sent it as a thank you for my Super Bowl tickets.<br>
+							<br>
+							
+						ELAINE:&nbsp; I think this is the same one I gave him.&nbsp; He recycled this gift.&nbsp; He's a regifter!<br>
+							<br>
+							
+						JERRY:&nbsp; Or maybe he liked your gift so much, he decided to get me the same thing.&nbsp; Perhaps it's an homage.<br>
+							<br>
+							
+						ELAINE:&nbsp; Yeah, perhaps.<br>
+							<br>
+							
+						JERRY:&nbsp; Well how did he react when you gave it to him?<br>
+							<br>
+							
+						ELAINE:&nbsp; Um, he said, &quot;Oh.&nbsp; A label maker.&nbsp; Howbout that?&quot;<br>
+							<br>
+							
+						JERRY:&nbsp; He repeated the name of the gift?<br>
+							<br>
+							
+						ELAINE:&nbsp; Yeah, so?<br>
+							<br>
+							
+						JERRY:&nbsp; Oh, well, if you repeat the name of the gift, you can't possibly like it.<br>
+							<br>
+							
+						ELAINE:&nbsp; What do you mean?<br>
+							<br>
+							
+						JERRY:&nbsp; Oh, you know, like when someone opens something up and they go, &quot;Oh. Tube socks.&quot;&nbsp; What are you gonna do about it?<br>
+							<br>
+							
+						ELAINE:&nbsp; I don't know, I guess I'll just get invited up to his apartment and see if he's got a label maker.<br>
+							<br>
+							
+						JERRY:&nbsp; Why'd you get him a gift anyway?<br>
+							<br>
+							
+						ELAINE:&nbsp; Oh, he did some dental work for me and he didn't charge me so I thought I'd get him a Christmas present.<br>
+							<br>
+							
+						JERRY:&nbsp; Yeah, well, if you're getting him anything for his birthday, I'm alarge.<br>
+							<br>
+							<br>
+							<br>
+							
+						[George and his girlfriend, Bonnie, are entering her apartment.]<br>
+							<br>
+							
+						BONNIE:&nbsp; Well, here we are.&nbsp; This is the place.<br>
+							<br>
+							
+						GEORGE:&nbsp; Wow.<br>
+							<br>
+							
+						BONNIE:&nbsp; Do you like it?<br>
+							<br>
+							
+						GEORGE:&nbsp; I love it!&nbsp; This is fantastic!&nbsp; Look at this couch, is this velvet?!<br>
+							<br>
+							
+						BONNIE:&nbsp; Are you a velvet fan?<br>
+							<br>
+							
+						GEORGE:&nbsp; A fan?&nbsp; I would drape myself in velvet if it were socially acceptable. And look at this, hardwood floors!<br>
+							<br>
+							
+						BONNIE:&nbsp; Aren't they great? (sees a man enter from the bedroom)&nbsp; Oh, Scott, hi. This is George.&nbsp; George, this is Scott, my roommate.<br>
+							<br>
+							
+						(Scott walks into the kitchen.)<br>
+							<br>
+							
+						GEORGE: (bewildered)&nbsp; Heh heh.<br>
+							<br>
+							
+						BONNIE:&nbsp; Here, check out this view.&nbsp; If you lean out this window, you can see the river.<br>
+							<br>
+							
+						(Scott returns from the kitchen eating an apple, and heads back to the bedroom.)<br>
+							<br>
+							
+						GEORGE:&nbsp; So Scott's your roommate, huh?<br>
+							<br>
+							
+						BONNIE:&nbsp; Yes.&nbsp; Oh, I'm sure I've mentioned him.<br>
+							<br>
+							
+						GEORGE:&nbsp; No, you didn't mention it.<br>
+							<br>
+							
+						BONNIE:&nbsp; He's a great guy, you'll really like him.<br>
+							<br>
+							
+						GEORGE:&nbsp; I'm sure I will.<br>
+							<br>
+							<br>
+							<br>
+							
+						[George and Jerry are at the coffee shop.]<br>
+							<br>
+							
+						JERRY:&nbsp; Male roommate, huh?<br>
+							<br>
+							
+						GEORGE:&nbsp; Yes.&nbsp; A male roommate.<br>
+							<br>
+							
+						JERRY:&nbsp; Is this a problem?<br>
+							<br>
+							
+						GEORGE:&nbsp; It's a huge problem, Jerry.&nbsp; The hardest part about having sex with a woman is getting her to come back to your place!&nbsp; He's already got that.<br>
+							<br>
+							
+						JERRY:&nbsp; Well, maybe he's --<br>
+							<br>
+							
+						GEORGE:&nbsp; No.&nbsp; Believe me, he's not.<br>
+							<br>
+							
+						JERRY:&nbsp; So he's an eligible receiver.<br>
+							<br>
+							
+						GEORGE:&nbsp; She's confiding in him about our dates.&nbsp; You always like the person you talk to about the date more than the date!&nbsp; It's just a matter of time till they realize, 'Hey, we could have sex.'<br>
+							<br>
+							
+						JERRY:&nbsp; What's stopping them?<br>
+							<br>
+							
+						GEORGE:&nbsp; Exactly!&nbsp; You know how they get animals to reproduce in captivity? They just put them in the same cage.<br>
+							<br>
+							
+						JERRY:&nbsp; What does he look like?<br>
+							<br>
+							
+						GEORGE:&nbsp; Oh, that's the worst part of it.&nbsp; He looks just like me.<br>
+							<br>
+							
+						JERRY:&nbsp; He looks like you and he's working from the inside?<br>
+							<br>
+							
+						GEORGE:&nbsp; I look like me and I'm working from the outside.&nbsp; Who do you think is in the better position?<br>
+							<br>
+							
+						JERRY:&nbsp; Not you.<br>
+							<br>
+							
+						GEORGE:&nbsp; Ho ho.&nbsp; This bizarre ?harrod? experiment must end!<br>
+							<br>
+							
+						JERRY:&nbsp; We'll take a check please.<br>
+							<br>
+							
+						GEORGE: I gotta find a way to work this out, I love that apartment.&nbsp; It's so cozy, I'm ensconced in velvet.&nbsp; You know, if it were socially acceptable--<br>
+							<br>
+							
+						JERRY:&nbsp; I know, you would drape yourself in velvet.<br>
+							<br>
+							
+						GEORGE:&nbsp; I've said that before?<br>
+							<br>
+							
+						JERRY:&nbsp; Many times.&nbsp; You love velvet, you want to live in velvet, everything with the velvet.<br>
+							<br>
+							
+						KRAMER: (entering)&nbsp; Hey.<br>
+							<br>
+							
+						GEORGE:&nbsp; Hey.<br>
+							<br>
+							
+						JERRY:&nbsp; Hey.<br>
+							<br>
+							
+						KRAMER:&nbsp; Guess what?&nbsp; I saw Newman talking to the super.<br>
+							<br>
+							
+						JERRY:&nbsp; So what?<br>
+							<br>
+							
+						KRAMER:&nbsp; The super has keys to your apartment.&nbsp; Don't you see what's going on? Newman is planning a sneak attack.<br>
+							<br>
+							
+						JERRY:&nbsp; Oh, maybe he's got no hot water.<br>
+							<br>
+							
+						KRAMER:&nbsp; Yeah, alright, fine.&nbsp; You sit there and you watch while Newman takes over the world.&nbsp; But he'd be a horrible leader.&nbsp; And you know who's gonna suffer?&nbsp; The little people; you and George.<br>
+							<br>
+							
+						JERRY:&nbsp; Are you through?<br>
+							<br>
+							
+						KRAMER:&nbsp; Oh.&nbsp; I talked to Arthur Jobanian.&nbsp; Yeah, the Drake's wedding?&nbsp; That's off.<br>
+							<br>
+							
+						JERRY:&nbsp; The wedding is off?&nbsp; What happened?<br>
+							<br>
+							
+						KRAMER:&nbsp; The Drake, he found out that the wedding is on the same day as the Super Bowl.&nbsp; So he wanted to postpone it, they got in a big argument and *phlf* it's over.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Jerry and George are entering Jerry's apartment]<br>
+							<br>
+							
+						GEORGE:&nbsp; The wedding is off.&nbsp; Now you can go to the Super Bowl.<br>
+							<br>
+							
+						JERRY:&nbsp; I can't call Tim Whatley and ask for the tickets back.<br>
+							<br>
+							
+						GEORGE:&nbsp; You just gave them to him two days ago, he's gotta give you a grace period.<br>
+							<br>
+							
+						JERRY:&nbsp; Are you even vaguely familiar with the concept of giving?&nbsp; There's no grace period.<br>
+							<br>
+							
+						GEORGE:&nbsp; Well, didn't he regift the label maker?<br>
+							<br>
+							
+						JERRY:&nbsp; Possibly.<br>
+							<br>
+							
+						GEORGE:&nbsp; Well, if he can regift, why can't you degift?<br>
+							<br>
+							
+						JERRY:&nbsp; You may have a point.<br>
+							<br>
+							
+						GEORGE:&nbsp; I have a point, I have a point.<br>
+							<br>
+							
+						JERRY:&nbsp; Alright, I'll call him.<br>
+							<br>
+							
+						GEORGE:&nbsp; Yeah.&nbsp; What's that?<br>
+							<br>
+							
+						JERRY:&nbsp; Oh, it's Risk, it's a game of world domination being played by two guys who can barely run their own lives. (Picks up phone and dials)&nbsp; Hello Tim? Yeah, hi, it's Jerry Seinfeld, remember those tickets I gave you?&nbsp; Well it turns out I can use them.&nbsp; Oh, you do?&nbsp; I understand.&nbsp; Okay.&nbsp; Bye.&nbsp; He already made plans, he can't change them.<br>
+							<br>
+							
+						GEORGE: (eating a pickle)&nbsp; Well they're his tickets, he can do what he wants with them.<br>
+							<br>
+							
+						JERRY:&nbsp; Thanks.<br>
+							<br>
+							
+						GEORGE:&nbsp; Alright, I gotta go.&nbsp; I'm heading over to Bonnie's.<br>
+							<br>
+							
+						JERRY:&nbsp; What are you gonna do about the roommate?<br>
+							<br>
+							
+						GEORGE:&nbsp; I gotta try and find a way to switch places with him.&nbsp; It's like a Sigfried and Roy trick.<br>
+							<br>
+							
+						JERRY:&nbsp; Well, the pickle breath is a good start.<br>
+							<br>
+							
+						(George leaves, Newman enters, or would except Jerry tries slamming the door on him.)<br>
+							<br>
+							
+						NEWMAN:&nbsp; Hello Jerry, may I come in?<br>
+							<br>
+							
+						JERRY:&nbsp; What do you want?<br>
+							<br>
+							
+						NEWMAN: (squeezing himself through the narrow space)&nbsp; Nothing, just being neighborly.&nbsp; Do you wanna hang out?&nbsp; Shoot the breeze?<br>
+							<br>
+							
+						JERRY:&nbsp; I'm not letting you cheat, Newman.&nbsp; You're not getting anywhere near that board.<br>
+							<br>
+							
+						NEWMAN:&nbsp; Jerry?&nbsp; I'm a little insulted.<br>
+							<br>
+							
+						JERRY:&nbsp; You're not a little anything, Newman.&nbsp; So just pack it up and move it out of here.<br>
+							<br>
+							
+						NEWMAN: (leaving)&nbsp; Oh, by the way, what are you doing for the Super Bowl?<br>
+							<br>
+							
+						JERRY:&nbsp; I dunno, watch it on TV I guess.&nbsp; Why?<br>
+							<br>
+							
+						NEWMAN:&nbsp; Well if you watch closely enough, you just might see me.&nbsp; I'll be the one waving to the camera from my seat on the forty yard line.<br>
+							<br>
+							
+						JERRY:&nbsp; You're going to the Super Bowl?<br>
+							<br>
+							
+						NEWMAN:&nbsp; Yes I am, a guy on my mail route just got a couple of tickets and he offered one to me.<br>
+							<br>
+							
+						JERRY:&nbsp; What's his name?<br>
+							<br>
+							
+						NEWMAN:&nbsp; Tim Whatley.<br>
+							<br>
+							
+						JERRY:&nbsp; That's my ticket!<br>
+							<br>
+							
+						NEWMAN:&nbsp; Is it?!&nbsp; Ohhh, well if only you'd known, you could have saved some time and given it directly to me!&nbsp; Ha ha ha.<br>
+							<br>
+							
+						JERRY: (as Newman leaves)&nbsp; Newman!<br>
+							<br>
+							<br>
+							<br>
+							
+						[George and Bonnie are at Bonnie's]<br>
+							<br>
+							
+						GEORGE:&nbsp; What a movie.&nbsp; Good choice.<br>
+							<br>
+							
+						BONNIE:&nbsp; Thank Scott.&nbsp; He recommended it.<br>
+							<br>
+							
+						GEORGE:&nbsp; Oh, Scott, Scott.&nbsp; He's really great, isn't he?<br>
+							<br>
+							
+						BONNIE:&nbsp; Yes he is.<br>
+							<br>
+							
+						GEORGE:&nbsp; Yes he is.&nbsp; Let me ask you something.&nbsp; When you come out of the shower and you put your robe on, do you cinch it real tight, are you concerned about that?<br>
+							<br>
+							
+						BONNIE:&nbsp; George?<br>
+							<br>
+							
+						GEORGE:&nbsp; Do you hold the neck together with one hand, or are you just letting it flap in the breeze?<br>
+							<br>
+							
+						BONNIE:&nbsp; George, you're being ridiculous.<br>
+							<br>
+							
+						GEORGE:&nbsp; What's the massage situation?<br>
+							<br>
+							
+						BONNIE:&nbsp; What do you mean?<br>
+							<br>
+							
+						GEORGE:&nbsp; Is there any work being done?&nbsp; Is there any rubbing, touching, finger manipulation on the other person, and if so, who's making the request?<br>
+							<br>
+							
+						BONNIE:&nbsp; George, would you just stop?<br>
+							<br>
+							
+						GEORGE:&nbsp; Say you go to the bathroom at two o'clock in the morning, what's the outfit?&nbsp; I mean, you dressing up or is it come as you are?<br>
+							<br>
+							
+						BONNIE:&nbsp; George, what is wrong with you?<br>
+							<br>
+							
+						GEORGE:&nbsp; I'll tell you what's wrong, a grown woman with a male roommate!&nbsp; It's unnatural, it's an abomination!<br>
+							<br>
+							
+						(Scott enters.)<br>
+							<br>
+							
+						SCOTT:&nbsp; Hey!<br>
+							<br>
+							
+						GEORGE:&nbsp; Hey!<br>
+							<br>
+							
+						SCOTT:&nbsp; How ya going?<br>
+							<br>
+							
+						GEORGE:&nbsp; I'm good.<br>
+							<br>
+							
+						SCOTT: (to Bonnie) Are you gonna need the bathroom?&nbsp; 'Cause I'm gonna jump in the shower.<br>
+							<br>
+							
+						BONNIE:&nbsp; No, just throw my bras out of the way.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Elaine and Tim Whatley are walking together on the street.]<br>
+							<br>
+							
+						TIM:&nbsp; Well, this is my building.<br>
+							<br>
+							
+						ELAINE:&nbsp; Yes it is.<br>
+							<br>
+							
+						TIM:&nbsp; This was fun, you know?<br>
+							<br>
+							
+						ELAINE:&nbsp; Yeah.<br>
+							<br>
+							
+						TIM:&nbsp; So, I'll call.<br>
+							<br>
+							
+						ELAINE:&nbsp; Aren't you gonna invite me upstairs?<br>
+							<br>
+							
+						TIM:&nbsp; Upstairs?&nbsp; You wanna go upstairs?<br>
+							<br>
+							
+						ELAINE:&nbsp; I would love to go upstairs.<br>
+							<br>
+							
+						TIM:&nbsp; Elaine, you are something else.&nbsp; No one can ever put a label on you, huh?<br>
+							<br>
+							
+						ELAINE:&nbsp; We'll see.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Jerry and George are at their booth in the coffee shop.]<br>
+							<br>
+							
+						JERRY:&nbsp; Newman.&nbsp; He's going with Newman.<br>
+							<br>
+							
+						GEORGE:&nbsp; How does Tim Whatley even know Newman?<br>
+							<br>
+							
+						JERRY:&nbsp; Newman's his mailman.<br>
+							<br>
+							
+						GEORGE:&nbsp; Who goes to the Super Bowl with their mailman?!<br>
+							<br>
+							
+						JERRY:&nbsp; Who goes *anywhere* with Newman?!<br>
+							<br>
+							
+						GEORGE:&nbsp; Well, he's merry.<br>
+							<br>
+							
+						JERRY:&nbsp; He is merry, I'll give him that.&nbsp; (notices a cactus on the table) What's this plant for?<br>
+							<br>
+							
+						GEORGE:&nbsp; I had a little tiff with Bonnie about the roommate.<br>
+							<br>
+							
+						JERRY:&nbsp; Oh, well the cactus will smooth things over.<br>
+							<br>
+							
+						(Elaine enters.)<br>
+							<br>
+							
+						ELAINE:&nbsp; Hey, guess what?&nbsp; I'm going to the Super Bowl with Tim Whatley.<br>
+							<br>
+							
+						JERRY:&nbsp; What?<br>
+							<br>
+							
+						ELAINE:&nbsp; We went out for coffee last night and he offered me a ticket.<br>
+							<br>
+							
+						JERRY:&nbsp; What about the label maker?<br>
+							<br>
+							
+						ELAINE:&nbsp; Ah, well.<br>
+							<br>
+							
+						JERRY:&nbsp; Wait a minute, that's my ticket!&nbsp; You didn't even want to go.<br>
+							<br>
+							
+						ELAINE:&nbsp; It was totally out of the blue.&nbsp; We went upstairs to his apartment, you know, to look for the label maker.<br>
+							<br>
+							
+						JERRY:&nbsp; So, how did you get up there?&nbsp; Did you say you had to use the bathroom?<br>
+							<br>
+							
+						ELAINE:&nbsp; No.<br>
+							<br>
+							
+						JERRY:&nbsp; Then how'd you get up there?<br>
+							<br>
+							
+						ELAINE:&nbsp; I said, &quot;Do you wanna go upstairs?&quot;<br>
+							<br>
+							
+						GEORGE:&nbsp; And there's you ticket.<br>
+							<br>
+							
+						ELAINE:&nbsp; What?<br>
+							<br>
+							
+						JERRY:&nbsp; That's why you're going to the Super Bowl.<br>
+							<br>
+							
+						ELAINE:&nbsp; Why?<br>
+							<br>
+							
+						JERRY:&nbsp; You go out with a guy one time, you ask him to go upstairs like you're Mae West?&nbsp; Of course he's gonna try and get you alone for the weekend.<br>
+							<br>
+							
+						ELAINE:&nbsp; You mean just because I asked him to go upstairs, he thinks he's going downtown?<br>
+							<br>
+							
+						JERRY:&nbsp; Obviously.<br>
+							<br>
+							
+						ELAINE:&nbsp; You're crazy.<br>
+							<br>
+							
+						GEORGE:&nbsp; Well, what happened when you got upstairs?<br>
+							<br>
+							
+						ELAINE:&nbsp; As soon as we walked in, he got a call from one of his patients with an impacted molar or something so he had to leave.&nbsp; I didn't even get a chance to look for the label maker.<br>
+							<br>
+							
+						JERRY:&nbsp; Yeah, well I don't trust this guy.&nbsp; I think he regifted, he degifted, and now he's using an upstairs invite as a springboard to a Super Bowl sex romp.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Jerry is in the hallway approaching his apartment door.&nbsp; Kramer walks out of his apartment.]<br>
+							<br>
+							
+						KRAMER:&nbsp; Hey.<br>
+							<br>
+							
+						JERRY:&nbsp; Hey.&nbsp; What are you doing?<br>
+							<br>
+							
+						KRAMER:&nbsp; I'm watching your door.<br>
+							<br>
+							
+						JERRY:&nbsp; My door?<br>
+							<br>
+							
+						KRAMER:&nbsp;&nbsp; Yeah, from my peephole.&nbsp; Fisheye, sees all.<br>
+							<br>
+							
+						(Cut to the interior of Jerry's apartment.&nbsp; Newman sneaks out from the bedroom towards the table where the Risk board is sitting.&nbsp; He accidentally knocks some CDs off the shelving unit, making a lot of noise.)<br>
+							<br>
+							
+						JERRY: (still outside)&nbsp; What was that?<br>
+							<br>
+							
+						KRAMER:&nbsp; Newman!<br>
+							<br>
+							
+						(Jerry begins opening the door, Newman does not have enough time to change the board pieces.)<br>
+							<br>
+							
+						NEWMAN: (fleeing to the bedroom)&nbsp; Damn!<br>
+							<br>
+							
+						JERRY: (after entering)&nbsp; The bedroom!<br>
+							<br>
+							
+						(Jerry runs to the bedroom, catching a glimpse of Newman climbing out the open window and up the fire escape.&nbsp; Jerry and Kramer rush to the window.)<br>
+							<br>
+							
+						JERRY:&nbsp; I see you, Newman!&nbsp; I see you!<br>
+							<br>
+							
+						KRAMER:&nbsp; I'm taking the Congo as a penalty!<br>
+							<br>
+							<br>
+							<br>
+							
+						[Elaine and Tim Whatley are sharing a cab.]<br>
+							<br>
+							
+						ELAINE:&nbsp; I've got a confession to make.<br>
+							<br>
+							
+						TIM:&nbsp; Oh?&nbsp; What's that?<br>
+							<br>
+							
+						ELAINE:&nbsp; I've got Super Bowl fever.<br>
+							<br>
+							
+						TIM:&nbsp; Oh yeah, me too.<br>
+							<br>
+							
+						ELAINE:&nbsp; So where are we staying?<br>
+							<br>
+							
+						TIM:&nbsp; Oh, the Ambassador.<br>
+							<br>
+							
+						ELAINE:&nbsp; Oh.&nbsp; Big room?<br>
+							<br>
+							
+						TIM:&nbsp; It's a regular room, but it's right downtown.<br>
+							<br>
+							
+						ELAINE:&nbsp; Downtown?<br>
+							<br>
+							
+						TIM:&nbsp; Right downtown.<br>
+							<br>
+							
+						ELAINE:&nbsp; What do they have there, a couple of beds?<br>
+							<br>
+							
+						TIM:&nbsp; Why?&nbsp; You bringing someone else?<br>
+							<br>
+							
+						ELAINE:&nbsp; No, but don't you think there should be two beds?&nbsp; There's two of us.<br>
+							<br>
+							
+						(Tim's grin disappears.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[George enters Bonnie's apartment.]<br>
+							<br>
+							
+						BONNIE:&nbsp; Oh, a cactus.<br>
+							<br>
+							
+						GEORGE:&nbsp; They don't need any water, so you don't have to keep taking them to the bathroom.<br>
+							<br>
+							
+						(They share a laugh.&nbsp; Scott enters from the back holding a cardboard box.&nbsp; He places it on a stack of similar boxes.)<br>
+							<br>
+							
+						SCOTT:&nbsp; Well, look who's here.<br>
+							<br>
+							
+						BONNIE:&nbsp; I asked Scott to move out.<br>
+							<br>
+							
+						GEORGE:&nbsp; Oh.&nbsp; Oh!<br>
+							<br>
+							<br>
+							<br>
+							
+						[George and Jerry are at Jerry's apartment.&nbsp; Kramer and Newman are seated at the Risk board on the living room table.]<br>
+							<br>
+							
+						JERRY:&nbsp; So she kicked him out of the apartment.<br>
+							<br>
+							
+						GEORGE:&nbsp; That's right.&nbsp; It's just me and her.<br>
+							<br>
+							
+						JERRY:&nbsp; Wow, she rearranged her whole life for you.<br>
+							<br>
+							
+						GEORGE:&nbsp; I guess she did.&nbsp; He's gone, now I'm the man.<br>
+							<br>
+							
+						JERRY:&nbsp; That's not a good role for you.<br>
+							<br>
+							
+						GEORGE:&nbsp; No, it's not.<br>
+							<br>
+							
+						JERRY:&nbsp; You unwittingly made a major commitment.&nbsp; That's a lot of pressure.<br>
+							<br>
+							
+						GEORGE:&nbsp; Oh my god.<br>
+							<br>
+							
+						JERRY:&nbsp; You wanted to be ensconced in velvet, you're buried.<br>
+							<br>
+							
+						GEORGE:&nbsp; I had the perfect situation here, he was shouldering half the load.<br>
+							<br>
+							
+						JERRY:&nbsp; He was shouldering.<br>
+							<br>
+							
+						GEORGE: (walking towards the door)&nbsp; I couldn't leave well enough alone?!<br>
+							<br>
+							
+						JERRY:&nbsp; Where are you going?<br>
+							<br>
+							
+						GEORGE:&nbsp; I gotta go help her tape up all his boxes and get them ready for shipping.<br>
+							<br>
+							
+						JERRY:&nbsp; Oh, well here.&nbsp; Take Whatley's label maker, I don't want to see it again.<br>
+							<br>
+							
+						GEORGE:&nbsp; Thanks.<br>
+							<br>
+							
+						KRAMER: (rolling the dice) Yeah.&nbsp; I am taking over South America and there ain't nothing you can do about it.<br>
+							<br>
+							
+						JERRY:&nbsp; So, too bad about that Super Bowl ticket, eh Newman?<br>
+							<br>
+							
+						NEWMAN:&nbsp; Yeah.&nbsp; I just hope Tim Whatley's electric bills don't suddenly get lost in the mail, or it could be lights out for him.<br>
+							<br>
+							
+						JERRY: (walking out)&nbsp; Thanks for having me over, guys.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Jerry and George are out on the street, Tim Whatley comes running up.]<br>
+							<br>
+							
+						JERRY:&nbsp; Alright, I'll see you later.<br>
+							<br>
+							
+						TIM:&nbsp; Hey Jerry?<br>
+							<br>
+							
+						JERRY:&nbsp; Ah, Tim Whatley.&nbsp; Out scalping?<br>
+							<br>
+							
+						TIM:&nbsp; Ah, see, now I've been thinking a lot about what happened and I feel horrible.&nbsp; Listen, I want to give you a ticket back.<br>
+							<br>
+							
+						JERRY:&nbsp; Are you serious, what about Elaine?<br>
+							<br>
+							
+						TIM: Oh, Elaine.&nbsp; Yeah, well, things just didn't work out like I thought they would.<br>
+							<br>
+							
+						JERRY:&nbsp; Oh.&nbsp; (notices a car being jacked up by a tow truck)&nbsp; Hey, isn't this Kramer's car? (yelling up)&nbsp; Hey, Cosmo!!&nbsp; They're towing your car!!<br>
+							<br>
+							
+						KRAMER: (running to the window)&nbsp; What?!&nbsp; Not my car!!&nbsp; Hey!!&nbsp; They're towing my car!!<br>
+							<br>
+							
+						(Kramer runs out the door, leaving Newman alone with the Risk board, but only for a moment.&nbsp; He runs back in and grabs the board.)<br>
+							<br>
+							
+						NEWMAN:&nbsp; What are you doing?<br>
+							<br>
+							
+						KRAMER:&nbsp; I'm taking the board with me.<br>
+							<br>
+							
+						(Kramer runs out carrying the board, Newman follows a moment later.)<br>
+							<br>
+							
+						(Back on the street, Kramer's car is jacked up and the driver is just taking off. Kramer comes running after it, yelling at the driver and balancing the game board with Newman at his heels.)<br>
+							<br>
+							
+						TIM:&nbsp; So, I guess I'll see you at the game.<br>
+							<br>
+							
+						JERRY:&nbsp; Yeah, see you there.<br>
+							<br>
+							<br>
+							<br>
+							
+						[George walks into Bonnie's apartment, *everything* is boxed up and Bonnie is taping up the last of the boxes.&nbsp; He knocks to get her attention.]<br>
+							<br>
+							
+						BONNIE:&nbsp; Hi, George.<br>
+							<br>
+							
+						GEORGE:&nbsp; What, what happened?&nbsp; Where's, where's all the stuff?<br>
+							<br>
+							
+						BONNIE:&nbsp; It's gone.&nbsp; It was all his.&nbsp; Is this a label maker?<br>
+							<br>
+							
+						GEORGE:&nbsp; The table, the stereo, the VCR, the velvet couch, where's the velvet?<br>
+							<br>
+							
+						BONNIE:&nbsp; They were his.&nbsp; Besides, we don't need any of those things.&nbsp; We have each other.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Kramer and Newman are on a subway car, the Risk board sits on their laps.]<br>
+							<br>
+							
+						NEWMAN:&nbsp; Are you sure you know where the impound yard is?<br>
+							<br>
+							
+						KRAMER:&nbsp; Oh, stop stalling.&nbsp; Come on.<br>
+							<br>
+							
+						NEWMAN:&nbsp; I can't think, there's all this noise.<br>
+							<br>
+							
+						KRAMER:&nbsp; Or is it because I've built a stronghold around Greenland?&nbsp; I've driven you out of Western Europe and I've left you teetering on the brink of complete annihilation.<br>
+							<br>
+							
+						NEWMAN:&nbsp; I'm not beaten yet.&nbsp; I still have armies in the Ukraine.<br>
+							<br>
+							
+						(This comment perks up the ears of what appears to be a Russian immigrant.)<br>
+							<br>
+							
+						KRAMER:&nbsp; Ha ha, the Ukraine.&nbsp; Do you know what the Ukraine is?&nbsp; It's a sitting duck.&nbsp; A road apple, Newman.&nbsp; The Ukraine is weak.&nbsp; It's feeble.&nbsp; I think it's time to put the hurt on the Ukraine.<br>
+							<br>
+							
+						UKRAINIAN:&nbsp; I come from Ukraine.&nbsp; You not say Ukraine weak.<br>
+							<br>
+							
+						KRAMER:&nbsp; Yeah, well we're playing a game here, pal.<br>
+							<br>
+							
+						UKRAINIAN:&nbsp; Ukraine is game to you?!&nbsp; Howbout I take your little board and smash it!!<br>
+							<br>
+							
+						(The Ukrainian pounds the game board, destroying it and sending army pieces flying.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Tim Whatley approaches his building, Elaine is waiting at the door.]<br>
+							<br>
+							
+						ELAINE:&nbsp; Hello, Tim.<br>
+							<br>
+							
+						TIM: (startled)&nbsp; Elaine, hi.<br>
+							<br>
+							
+						ELAINE:&nbsp; Don't worry, Tim.&nbsp; I didn't come by to yell at you, I didn't come by for that at all.&nbsp; I just came by to pick up my label maker.&nbsp; I gave you a label maker and now I would like to have it back.<br>
+							<br>
+							
+						TIM:&nbsp; But you gave it to me.<br>
+							<br>
+							
+						ELAINE:&nbsp; But you gave me a ticket to the Super Bowl.&nbsp; Hand it over, Whatley.<br>
+							<br>
+							
+						TIM:&nbsp; Uh, ok.<br>
+							<br>
+							
+						ELAINE:&nbsp; You don't have the label maker, do you?<br>
+							<br>
+							
+						TIM:&nbsp; Uh, no.<br>
+							<br>
+							
+						ELAINE:&nbsp; I knew it!&nbsp; You're a regifter!<br>
+							<br>
+							
+						TIM:&nbsp; Oh, yeah, some gift.&nbsp; That thing didn't work at all.<br>
+							<br>
+							
+						ELAINE:&nbsp; What?<br>
+							<br>
+							
+						TIM:&nbsp; You put a label on something, then ten minutes later it would peel right off.&nbsp; It was the worst gift I ever got.<br>
+							<br>
+							
+						ELAINE: (visibly upset)&nbsp; Well, I bought it for you because you were so nice to me for not charging me for the dental work.&nbsp; The way you worked on my filling, you were so, so gentle and so caring and so sensitive.<br>
+							<br>
+							
+						TIM:&nbsp; Oh, Elaine!<br>
+							<br>
+							
+						(They embrace passionately.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[First the exterior, then the interior of a mail truck.&nbsp; Boxes are being jostled. A close-up of a box labeled with &quot;Scott Thomas&quot; and a street address is shown. The labels fall off the box, one by one.]<br>
+							<br>
+							<br>
+							<br>
+							
+						[First the exterior, then the interior of a football stadium.&nbsp; Jerry is walking down the aisle.]<br>
+							<br>
+							
+						JERRY:&nbsp; H... G... F.&nbsp; Seat four.&nbsp; One, two, three... f-- Hello Newman.<br>
+							<br>
+							
+						NEWMAN:&nbsp; Hello, Jerry.&nbsp; Tim couldn't make it, he's in love.&nbsp; Isn't that wonderful?<br>
+							<br>
+							
+						JERRY:&nbsp; Oh, it's enchanting.<br>
+							<br>
+							<br>
+							<br>
+							
+						[George is bringing a portable TV to Bonnie's so they can watch the game.]<br>
+							<br>
+							
+						BONNIE:&nbsp; Hi.<br>
+							<br>
+							
+						GEORGE:&nbsp; Here's the TV.&nbsp; I know you wanted to watch the Super Bowl.&nbsp; Do you at least have some towels we could sit on?&nbsp; It's, like, a four hour game.<br>
+							<br>
+							
+						BONNIE:&nbsp; George, Scott's gonna drop by.&nbsp; He said he never got his boxes.&nbsp; I'll get the towels.<br>
+							<br>
+							
+						GEORGE: (internally)&nbsp; How am I gonna get out of this?&nbsp; Think Costanza, think!<br>
+							<br>
+							
+						BONNIE:&nbsp; Here we are.<br>
+							<br>
+							
+						GEORGE:&nbsp; Hey, do you know, Bonnie, I just had a pretty wild idea.<br>
+							<br>
+							
+						BONNIE:&nbsp; What is it?<br>
+							<br>
+							
+						GEORGE:&nbsp; Well I, uh, I'm not sure how you pronounce it or anything, but I, uh, I believe it's M&eacute;nage &agrave; Trois?<br>
+							<br>
+							
+						BONNIE:&nbsp; What?<br>
+							<br>
+							
+						(Just then, Scott enters.)<br>
+							<br>
+							
+						SCOTT:&nbsp; Hi.<br>
+							<br>
+							
+						BONNIE:&nbsp; Scott!&nbsp; Remember what we talked about the other day?&nbsp; George is into it.<br>
+							<br>
+							
+						SCOTT:&nbsp; Oh really?!<br>
+							<br>
+							
+						(Scott walks towards George, the camera moves in on a close-up of an increasingly horrified George, and freezes.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Jerry and Newman are at the Super Bowl]<br>
+							<br>
+							
+						NEWMAN:&nbsp; Great streak of luck I'm having.&nbsp; First, Kramer almost beat me at Risk but I narrowly escaped, and then Tim Whatley gives me his Super Bowl ticket.<br>
+							<br>
+							
+						JERRY:&nbsp; Can you move over at all?!<br>
+							<br>
+							
+						NEWMAN:&nbsp; And then, just as I'm about to go, these boxes show up at the post office with no labels.&nbsp; No labels, Jerry.&nbsp; You know what that means?&nbsp; Freebies!! I got this great mini-TV and a VCR, oh it's unbelievable.<br>
+							<br>
+							
+						JERRY:&nbsp; An inch!&nbsp; Can you move over an inch?!?<br>
+							<br>
+							<br>
+							
+						The End</td>
+						</tr>
+						<tr height="6">
+							<td class="bottom2" width="645" height="6"></td>
+						</tr>
+						<tr>
+							<td width="645">
+								<div align="center">
+									<font size="-1">Copyright 2006 seinology.com | All Rights Reserved | Designed by 13erla</font></div>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+		<p></p>
+	</body>
+
+</html>

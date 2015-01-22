@@ -1,0 +1,902 @@
+<tdOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+<html>
+
+	<head>
+		<meta http-equiv="content-type" content="text/html;charset=ISO-8859-1">
+		<meta name="description" content="Top Source for Seinfeld">
+		<meta name="keywords" content="seinfeld, sienfeld, Jerry Seinfeld, Julia Louis Dreyfus, Jason Alexander, Michael Richards, Kramer, George, Costanza, Elaine Benes, morty, Larry David">
+		<title>Seinology.com :: Scripts :: 30-The Subway</title>
+	<link rel='stylesheet' href='/stylesheet.css' type='text/css'>
+	</head>
+
+	<body>
+			<table align="center" width="787" border="0" cellspacing="0" cellpadding="0">
+				<tr>
+					<td><font size="-2" color="red">Seinology.com - </font><font size="-3" color="black">Where Seinfeld Content and Accuracy Matter Most. Seinfeld scripts in pdf form, Seinfeld episode video clips, Seinfeld episode audio clips, Jerry Seinfeld appearances, Julia Louis-Dreyfus appearances, Michael Richards appearances, Jason Alexander appearances, Seinfeld discussion Forum, Seinfeld Where are they Now? Seinlanguage Newsletter, Popular Seinfeld Lists, Seinfeld episode standup, Seinfeld episode guide, Seinfeld fan fiction. Seinfeld content all on one domain. Seinology.com enjoy your stay.</font></td>
+				</tr>
+			</table>
+		
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr height="100">
+				<td class="logo"></td>
+			</tr>
+			<tr><td class="ads" align="center" background=#8694fa>
+				<script type="text/javascript"><!--
+google_ad_client = "pub-1924026976931416";
+google_ad_width = 728;
+google_ad_height = 90;
+google_ad_format = "728x90_as";
+google_ad_type = "text";
+google_ad_channel = "";
+google_color_border = "FFFFFF";
+google_color_bg = "8694fa";
+google_color_link = "0000FF";
+google_color_text = "000000";
+google_color_url = "002E3F";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></td></tr>
+		</table>
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr>
+				<td valign="top" width="136">
+					<table width="136" border="0" cellspacing="0" cellpadding="0">
+						<tr height="24">
+							<td class="navigation">
+								<div align="center">
+									
+									<b>Navigation</b></div>
+							</td>
+						</tr>
+						<tr height="199">
+							<td class="spacer1" valign="top" width="136" height="199">
+								<div align="center">
+									<font size="-1"><a href="http://www.seinology.com">Home</a><br>
+										<a href="http://board.seinology.com">Forum</a><br>
+										<a href="http://www.seinology.com/av.shtml">Audio/Video</a><br>
+										<a href="http://www.seinology.com/scripts.shtml">Scripts</a><br>
+										<a href="http://www.seinology.com/survivor.shtml">Survivor</a><br>
+										<a href="http://www.seinology.com/fanfics.shtml">Fan Fiction</a><br>
+										<a href="http://www.seinology.com/gallery/">Gallery</a><br>
+										<a href="http://www.seinology.com/newsletter.shtml">Newsletter</a><br>
+										<a href="http://www.seinology.com/lists.shtml">Lists</a><br>
+										<a href="http://www.seinology.com/epguide.shtml">Episode Guide</a><br>
+										<a href="http://www.seinology.com/links.shtml">Links</a><br>
+										<a href="http://www.seinology.com/faqother.shtml">Faq + others</a><br>
+										<a href="http://www.seinology.com/legal.shtml">Legal</a></font></div>
+							</td>
+						</tr>
+						
+						<tr>
+							<td class="nav2" width="136">
+							<div align="center"><b>Search</b></div></td>
+						</tr>
+						<tr>
+							<td class="spacer1" width="136" valign="top"><div align="center"><form method="get" action="http://www.seinology.com/search/search.cgi">
+<p><label for="fdse_Match">Match</label><br>
+<select name="Match" id="fdse_Match" size="1">
+<option value="1">All</option>
+<option value="0">Any</option>
+<option value="2">Phrase</option>
+</select></p>
+<p><label for="fdse_Realm">Where?</label><br>
+<select name="Realm" id="fdse_Realm" size="1">
+<option selected="selected" value="All">EntireSite</option>
+<option value="Ep Guide">Ep Guide</option>
+<option value="Images">Images</option>
+<option value="Lists">Lists</option>
+<option value="Newsletters">Newsletters</option>
+<option value="Scripts">Scripts</option>
+<option value="Notes..Nothing">Notes..Nothing</option>
+</select></p>
+<p><input type="text" name="Terms" size="14" id="fdse_Terms"><br>
+<input type="submit" class="submit" name="submitButtonName" value="Search"></p>
+</div></form></td>
+						</tr>
+						<tr><td class="bottom" width="136" height="10" valign="top">
+						</td>
+						</tr>
+					</table>
+				</td>
+				<td width="4"></td>
+				<td valign="top" width="645">
+					<table width="645" border="0" cellspacing="0" cellpadding="0">
+						<tr height="18">
+							<td width="645" height="35" class="bar">
+								<div align="center">
+									<b><font size="+2" color="black">Script</font></b></div>
+							</td>
+						</tr>
+						<tr height="362">
+							<td class="spacer2" valign="top" width="645" height="362">
+
+						<p><font size="-2">Episode 30 - The Subway<br>
+							
+						pc: 313, season 3, episode 13<br>
+							
+						Broadcast date: January 8, 1992<br>
+							<br>
+							
+						Written By Larry David<br>
+							
+						Directed By Tom Cherones<br>
+							<br>
+							
+						-------------------------------------------------------------------------------<br>
+							<br>
+							
+						The Cast<br>
+							
+						Regulars:<br>
+							
+						Jerry Seinfeld ....................... Jerry Seinfeld<br>
+							
+						Jason Alexander .................. George Costanza<br>
+							
+						Julia Louis-Dreyfus ............. Elaine Benes<br>
+							
+						Michael Richards ................. Kramer<br>
+							<br>
+							
+						Guest Stars:<br>
+							<br>
+							
+						Ernie Sabella ........................ Naked Man<br>
+							
+						Barbara Stock ...................... Scam Woman<br>
+							
+						Rhoda Gemignani .............. Woman with Elaine<br>
+							
+						Mark Boone Junior ............. OTB Patron<br>
+							
+						Christopher Collins ............ Thug<br>
+							
+						Barry Vigon ......................... Player #1<br>
+							
+						Joe Restivo ........................... Player #2<br>
+							
+						Daryl Roach ......................... Violinist/Cop<br>
+							
+						Chet Nelson ......................... Kid<br>
+							<br>
+							
+						==================================================================<br>
+							<br>
+							
+						[Monk's Caf&eacute;, the whole gang at a booth]<br>
+							<br>
+							
+						KRAMER: All right, Coney Island. Ok, you can take the B or the F and switch for the N at Broadway Lafayette, or you can go over the bridge to DeKalb and catch the Q to Atlantic Avenue, then switch to the IRT 2, 3, 4 or 5, but don't get on the G. See that's very tempting, but you wind up on Smith and 9th street, then you got to get on the R.<br>
+							<br>
+							
+						ELAINE: Couldn't he just take the D straight to Coney Island?<br>
+							<br>
+							
+						KRAMER: Well, yeah...<br>
+							<br>
+							
+						ELAINE: Ok, what time is your job interview George?<br>
+							<br>
+							
+						GEORGE: 9:45<br>
+							<br>
+							
+						JERRY: Remember, don't whistle on the elevator.<br>
+							<br>
+							
+						GEORGE: Why not?<br>
+							<br>
+							
+						JERRY: That's what Willie Loman told Biff before his interview, in 'Death of a salesman'.<br>
+							<br>
+							
+						GEORGE: What, you are comparing me to Biff Loman, very encouraging. The biggest loser in history of American literature.<br>
+							<br>
+							
+						ELAINE: All right, I'm gonna go.<br>
+							<br>
+							
+						JERRY: What time is the lesbian wedding?<br>
+							<br>
+							
+						ELAINE: 9:30<br>
+							<br>
+							
+						GEORGE: Lesbian wedding. How do they work bride and groom out, what do they flip a coin?<br>
+							<br>
+							
+						ELAINE: Yeah, they flip a coin.<br>
+							<br>
+							
+						GEORGE: What, was that not politically correct? It's a legitimate question.<br>
+							<br>
+							
+						JERRY: I'm so tired. I'll fall asleep on that train (yawns)<br>
+							<br>
+							
+						GEORGE: I get the feeling when lesbians are looking at me, they're thinking: &quot;That's why I'm not heterosexual&quot;.<br>
+							<br>
+							
+						KRAMER: Jerry, come on let's go, pick up the check so we can go.<br>
+							<br>
+							
+						JERRY: Oh, I'm paying for breakfast?<br>
+							<br>
+							
+						KRAMER: Yeah.<br>
+							<br>
+							
+						ELAINE: Yeah.<br>
+							<br>
+							
+						GEORGE: Yeah.<br>
+							<br>
+							
+						JERRY: Why do I always pay? What am I made of money? You bunch of deadbeats.<br>
+							<br>
+							<br>
+							
+						[On the Subway]<br>
+							<br>
+							
+						GEORGE: How many tickets are you paying today?<br>
+							<br>
+							
+						KRAMER: Well, let's see: speeding, running a red light, no license, no registration, no plates, no brake lights, no rear view mirror...yeah. (gives George a ticket)<br>
+							<br>
+							
+						GEORGE: No doors?<br>
+							<br>
+							
+						KRAMER: I'm fighting that one. You know, this is gonna cost me over six hundred bucks.<br>
+							<br>
+							
+						(Blind violinist comes playing, with mug for the money. Everybody else gives him some change, except George)<br>
+							<br>
+							
+						GEORGE: I can't carry any changes in these pants, it falls out.<br>
+							<br>
+							
+						VIOLIN PLAYER: Thank you.<br>
+							<br>
+							
+						GEORGE: That guy is not blind.<br>
+							<br>
+							
+						JERRY: So, can I convince anybody to come down to Coney Island with me? I got to pick up my car at the pound. George?<br>
+							<br>
+							
+						GEORGE: I can't believe they actually found your stolen car.<br>
+							<br>
+							
+						JERRY: Not only that they found it. It was simonized and the front end was aligned.<br>
+							<br>
+							
+						GEORGE: That's amazing.<br>
+							<br>
+							
+						JERRY: So what do you say? Run in the cyclone. Hotdogs on Nathan's is on me.<br>
+							<br>
+							
+						GEORGE: What are you? Satan? I'm close to a job here. It's my second interview with them.<br>
+							<br>
+							
+						JERRY: All right, biff. Elaine, merry-go-round?<br>
+							<br>
+							
+						ELAINE: I can't. I'm the best man.<br>
+							<br>
+							
+						JERRY: Kramer, bumper-cars?<br>
+							<br>
+							
+						KRAMER: I've gotta go to court, I'll get in trouble. What's the matter with you?<br>
+							<br>
+							
+						JERRY: Could be years before I get back to Coney Island. I can't go to rides alone.<br>
+							<br>
+							
+						SUBWAY ANNOUNCEMENT: 42th street. Change to D,N,RR,2,3,4,5,7,C,E,F train.<br>
+							<br>
+							
+						(They all get off and go to different directions.)<br>
+							<br>
+							
+						ELAINE: See'ya.<br>
+							<br>
+							<br>
+							
+						[Multiple Subway Train Intro Scenes]<br>
+							<br>
+							
+						(Jerry comes in and sits down. A fat man across from him gives a look.)<br>
+							<br>
+							
+						(George gets on another subway train. Sits next to a beautiful woman. They smile to another.)<br>
+							<br>
+							
+						(Kramer rushes to yet another subway and tries to find a seat. Stumbles around as all seats get filled right before him. He squeezes himself into a seat with a young obese man.)<br>
+							<br>
+							
+						(Jerry is falling asleep and leans towards the next guy who leaves and Jerry falls in his seat.)<br>
+							<br>
+							<br>
+							
+						[George's Train]<br>
+							<br>
+							
+						(Woman next to George rubs her leg and George looks at her)<br>
+							<br>
+							
+						WOMAN: You looking for a job?<br>
+							<br>
+							
+						GEORGE: Me, why?<br>
+							<br>
+							
+						WOMAN: Well, you're reading the classifieds.<br>
+							<br>
+							
+						GEORGE: Oh, no no no. I was just looking for stock-pages. Here it is. Looking for the quotes. Gotta check to quotes. Love a good quote. Oh, IBM up a quarter.<br>
+							<br>
+							
+						WOMAN: You didn't look like someone who needed a job.<br>
+							<br>
+							
+						GEORGE: Me? No, no, I don't, I don't. Doing very well, very well, yep.<br>
+							<br>
+							
+						WOMAN: So, you're in 'the market'?<br>
+							<br>
+							
+						GEORGE: Yeah I'm, eh, in 'the market'.<br>
+							<br>
+							
+						WOMAN: Which market?<br>
+							<br>
+							
+						GEORGE: Which market, the, eh, big one, the big market, the big board. Bull market, bear market, you name the market, I'm there.<br>
+							<br>
+							
+						WOMAN: So, do you work for one of those big broker-houses?<br>
+							<br>
+							
+						GEORGE: They wish. I hate the big broker-houses. Hate them with a passion. Big broker-houses killed my father.<br>
+							<br>
+							
+						WOMAN: Really?<br>
+							<br>
+							
+						GEORGE: Well, they hurt him bad. Really hurt his feelings. It's a long story. I- I don't like to talk about it, but I swore then that I would never work for big broker-houses. See, all they care about is money. I'm about more than money, I'm about people, always gone my own way and I've never looked back.<br>
+							<br>
+							
+						(Train horn blows and George looks back)<br>
+							<br>
+							<br>
+							
+						[Elaine's Train]<br>
+							<br>
+							
+						(She's carrying a wedding present. A older woman approaches her)<br>
+							<br>
+							
+						WOMAN: I started riding these trains in the forties. Those days a man would give up their seat for a woman. Now we're liberated and we have to stand.<br>
+							<br>
+							
+						ELAINE: It's ironic.<br>
+							<br>
+							
+						Women: What's ironic?<br>
+							<br>
+							
+						ELAINE: This, that we've come all this way, we have made all this progress, but you know we've lost the little things, the niceties.<br>
+							<br>
+							
+						WOMAN: No, I mean what does 'ironic' mean?<br>
+							<br>
+							
+						ELAINE: Oh...<br>
+							<br>
+							
+						WOMAN: Where are you up to, with such a nice present, birthday party?<br>
+							<br>
+							
+						ELAINE: A wedding.<br>
+							<br>
+							
+						Women: A wedding?<br>
+							<br>
+							
+						ELAINE: Yeah<br>
+							<br>
+							
+						WOMAN: Hah, I didn't know people still get married. It's hard today with men and women.<br>
+							<br>
+							
+						ELAINE: You're telling me.<br>
+							<br>
+							
+						WOMAN: So, are they a nice couple?<br>
+							<br>
+							
+						ELAINE: Oh, very nice.<br>
+							<br>
+							
+						WOMAN: What does he do, if you don't mind me asking?<br>
+							<br>
+							
+						ELAINE: She.<br>
+							<br>
+							
+						Women: She? She works, he doesn't. He sounds like my son.<br>
+							<br>
+							
+						ELAINE: There is no he.<br>
+							<br>
+							
+						Women: There is no he. So, who's getting married?<br>
+							<br>
+							
+						ELAINE: Em, two women. It's, eh...lesbian wedding.<br>
+							<br>
+							
+						Women: Lesbian wedding.<br>
+							<br>
+							
+						ELAINE: Aha, yep. I'm the...eh...bes tman.<br>
+							<br>
+							
+						Women (talks to man next to her): My luck. I don't talk to a soul in the subway for 35 years. I get a best man at a lesbian wedding. (leaves)<br>
+							<br>
+							
+						ELAINE: No, no, no, you don't understand! I'm not a lesbian! I hate men, but I'm not a lesbian!<br>
+							<br>
+							<br>
+							
+						[Kramer's train]<br>
+							<br>
+							
+						(A man leaves and lefts a newspaper to his seat. Kramer and another guy glance each other and rush to get the paper. The other man gets to it first and Kramer gets only little piece of one page.)<br>
+							<br>
+							<br>
+							
+						[Jerry's train]<br>
+							<br>
+							
+						(He is still sleeping and trying not to fall to the floor. Man across gives him a look.)<br>
+							<br>
+							<br>
+							
+						[Elaine's train<br>
+							<br>
+							
+						(Train is full packed)<br>
+							<br>
+							
+						ELAINE'S VOICE: I'm really looking forward to this. I love weddings. Maybe I'll meet somebody, umm maybe not.<br>
+							<br>
+							
+						(Train suddenly stops)<br>
+							<br>
+							
+						ELAINE'S VOICE: Oh, man. We're stopping?<br>
+							<br>
+							<br>
+							
+						[George's train]<br>
+							<br>
+							
+						WOMAN: Well, this is where I get off.<br>
+							<br>
+							
+						GEORGE: Oh, you do?<br>
+							<br>
+							
+						WOMAN: Eh, hey why don't you...oh nothing.<br>
+							<br>
+							
+						GEORGE: No, no, what, what?<br>
+							<br>
+							
+						WOMAN: Well, I was going to say: why don't you get off with me, but you're obviously very busy on your way to some important meeting or something.<br>
+							<br>
+							
+						GEORGE: Yeah, well....<br>
+							<br>
+							
+						WOMAN: Yeah I knew it was a bad idea.<br>
+							<br>
+							
+						(George is in agony thinking if he should go or stay. Then runs after her)<br>
+							<br>
+							
+						GEORGE: Hey, what's another million, give or take. I get off where and when I wanna get off.<br>
+							<br>
+							
+						(He gets stuck between closing doors)<br>
+							<br>
+							
+						GEORGE: I'm stuck. Pull a little, just a second. Don't start the train! Don't start the train!!<br>
+							<br>
+							<br>
+							
+						[Kramer's Train]<br>
+							<br>
+							
+						(Kramer is reading a newspaper. Couple of men behind him are talking)<br>
+							<br>
+							
+						MAN1: This, it's the fourth horse of the first race, Pappanick.<br>
+							<br>
+							
+						MAN2: How do you know it's going to win?<br>
+							<br>
+							
+						MAN1: My UPS-guy tells. Guys who own the horses are regular customers. Every horse he has ever given me has won. See, they've been sandbagging and looking for a good spot. He's been getting it light cause they've been using bug boy and the workout hasn't been published. Now they are ready to run with it. They are gonna break his maiden. It's going to go to great price, maybe 30:1. I'm telling you, it's a lock.<br>
+							<br>
+							
+						MAN2: But it rained last night.<br>
+							<br>
+							
+						MAN1: Exactly, this horse loves the slop. It's in his bloodlines. His father was a mudda', his mother was a mudda'.<br>
+							<br>
+							
+						MAN2: His mudda' was a mudda'?<br>
+							<br>
+							
+						MAN1: What did I just say? Come on, let's go to the office, I'm going to call my bookie. (looks around to see if anyone is listening) Hey, don't tell anybody.<br>
+							<br>
+							
+						(Kramer quickly turns away)<br>
+							<br>
+							<br>
+							
+						[Jerry's Train]<br>
+							<br>
+							
+						(Jerry wakes up and looks to guy opposite to him. The fat guy is naked and reading a paper.)<br>
+							<br>
+							
+						JERRY: O-K. You realize of course, you're naked?<br>
+							<br>
+							
+						NAKED MAN: Naked, dressed. I don't see any difference.<br>
+							<br>
+							
+						JERRY: You oughta' sit here. There is a difference.<br>
+							<br>
+							
+						NAKED MAN: You got something against naked body?<br>
+							<br>
+							
+						JERRY: I got something against yours. How about a couple of deep knee bends, maybe a squat thrust?<br>
+							<br>
+							
+						NAKED MAN: Who's got time for squat thrusts?<br>
+							<br>
+							
+						JERRY: All right, how about skipping breakfast. I'm guessing you're not a 'half-grapefruit and black coffee' guy.<br>
+							<br>
+							
+						NAKED MAN: I like a good breakfast.<br>
+							<br>
+							
+						JERRY: I understand, I like good breakfast. Long as you don't wind up trapped in a room with bib overalls and pigtails, been counseled by Dick Gregory.<br>
+							<br>
+							
+						NAKED MAN: I'm not ashamed of my body.<br>
+							<br>
+							
+						JERRY: That's your problem, you should be.<br>
+							<br>
+							
+						(Naked man drops half of his newspaper)<br>
+							<br>
+							
+						JERRY: Don't get up, please, allow me.<br>
+							<br>
+							
+						(Jerry picks up the paper)<br>
+							<br>
+							<br>
+							
+						[Elaine's Train]<br>
+							<br>
+							
+						(Elaine is still trapped in a stopped train.)<br>
+							<br>
+							
+						ELAINE'S VOICE: Oh, this is great. This is what I need, just what I need. Ok, take it easy I'm sure it's nothing. Probably rats on the track, we're stopping for rats. God, it's so crowded. How can there be so many people? This guy really smells, doesn't anyone use deodorant in the city? What is so hard, you take the cap off, you roll it on. What's that? I feel something rubbing against me. Disgusting animals, these people should be in a gage. We are in a gage. What if I miss the wedding? I got the ring. What'll they do? You can't get married without the ring. Oh, I can't breath, I feel faint. Take it easy, it'll start moving soon. Think about the people on the concentration camps, what they went through. And hostages, what would you do if you were a hostage? Think about that. This is nothing. No, it's not nothing, it's something. It's a nightmare! Help me! Move it! Com'on move this fu(beep) thing!! Why isn't it moving?!? What can go wrong with a train!?! It's on tracks, there's no traffic! How can a train get stuck. Step on the gas!! What could it be? You'de think the conductor would explain it to us? 'I'm sorry there's a delay we'll be moving in 5 minutes'!! I wanna hear a voice. What's that on my leg?!!<br>
+							<br>
+							
+						(Lights in the train go off)<br>
+							<br>
+							<br>
+							
+						[George and the woman step in to a hotel room]<br>
+							<br>
+							
+						GEORGE: Are you often on business trip? Nice...oh, hey nice ice-bucket.<br>
+							<br>
+							
+						WOMAN: Make your-self comfortable.<br>
+							<br>
+							
+						(She steps in to bathroom.)<br>
+							<br>
+							
+						GEORGE'S VOICE: Make myself comfortable. What does that mean? Does she want me to take my clothes off? Is she taking her clothes off? What if I take my clothes off and she still has hers' on? Then I really look like an idiot. She could get offended and leave. So maybe I should leave them on, but what then if she takes her off? Then she'll feel humiliated. 'Make yourself comfortable'. I got this unbelievable woman and this 'comfortable'-thing can ruin me. I got it! I take my shoes off and sit on the bed. There, that's comfortable. She can't accuse me being unconvertible.<br>
+							<br>
+							
+						(She comes out from the bathroom, wearing a nightie.)<br>
+							<br>
+							
+						GEORGE: Gotta tell you I'm pretty comfortable.<br>
+							<br>
+							<br>
+							
+						[Kramer is in the &quot;Off-track betting&quot; office. He is talking with a guy behind in the line.]<br>
+							<br>
+							
+						KRAMER: Oh yeah, it's all set. They got the bug boy on him.<br>
+							<br>
+							
+						GUY: The bug boy.<br>
+							<br>
+							
+						KRAMER: Yeah, the little father has run his hard out. They're gonna break his maiden.<br>
+							<br>
+							
+						GUY: Really? But, it's a little bit slow out there it rained last night.<br>
+							<br>
+							
+						KRAMER: Oh, this baby loves the slob, loves it, eats it up. Eats the slob. Born in the slob. His father was a mudda'.<br>
+							<br>
+							
+						GUY: His father was a mudda'?<br>
+							<br>
+							
+						KRAMER: His mudda' was a mudda'.<br>
+							<br>
+							
+						GUY: His mudda' was a mudda'?<br>
+							<br>
+							
+						KRAMER: What did I just say?<br>
+							<br>
+							
+						(Kramer gets to the cashier)<br>
+							<br>
+							
+						KRAMER: Hey, all right, 600 Pappanick to win.<br>
+							<br>
+							<br>
+							
+						[Jerry's train]<br>
+							<br>
+							
+						NAKED MAN: They still have no pitching. Goodin's a question mahk. ...You don't recover from those rotator cuffs so fast.<br>
+							<br>
+							
+						JERRY: I'm not worried about their best pitching. They got pitching. ...They got no hitting.<br>
+							<br>
+							
+						NAKED MAN: No hitting? They got hitting! Bonilla, Murry. ...They got no defence.<br>
+							<br>
+							
+						JERRY: Defence? Please. ...They need speed.<br>
+							<br>
+							
+						NAKED MAN: Speed? They got Coleman. ...They need a bullpen.<br>
+							<br>
+							
+						JERRY: Franco's no good? ...They got no team leaders.<br>
+							<br>
+							
+						NAKED MAN: They got Franco! ...What they need is a front office.<br>
+							<br>
+							
+						JERRY: But you gotta like their chances.<br>
+							<br>
+							
+						NAKED MAN: I LUV their chances.<br>
+							<br>
+							
+						JERRY: Tell you what. If they win the penant I'll sit naked with you at the World Series.<br>
+							<br>
+							
+						NAKED MAN: It's a deal!<br>
+							<br>
+							<br>
+							
+						[Elaine is in a stopped train with no lights]<br>
+							<br>
+							
+						ELAINE'S VOICE: Why couldn't I take a cab. For 6 dollars my whole life could've changed. What is that on my leg? I'll never get out of here. What if I'm here for the rest of my life? Maybe I'll get out in 5 seconds. 1 banana, 2 banana, 3 banana, 4 banana, 5 banana...no, I'm still here! Still here! Why don't they start moving? Move! Move!! Move!!! *Train starts moving, lights get back on* It's moving! It's moving! Yes! Yes!! *Train stops again and lights go off* Motherf(beep-beep)!!!<br>
+							<br>
+							<br>
+							
+						[George and the beautiful woman are still in the hotel room. The woman is putting handcuffs on George and the other end to the backboard of the bed]<br>
+							<br>
+							
+						GEORGE: Eh, gee, I hope you have the key for these things.<br>
+							<br>
+							
+						WOMAN: Oh, don't worry. I do.<br>
+							<br>
+							
+						(She steps in to the bathroom)<br>
+							<br>
+							
+						GEORGE: You know, my mother used to walk around on our apartment just in her bra and panties. She didn't look anything like you, she was really disgusting, really bad body. If you could imagine uglier and fatter version of Shirley Booth. Remember Shirley Booth from Hazel. Really embarrassing, cause you know I had only mother in the whole neighborhood who was worse looking than Hazel. Imagine the taunts I would hear.<br>
+							<br>
+							
+						WOMAN: Like what?<br>
+							<br>
+							
+						GEORGE: Like a &quot;Hey your mother is uglier than Hazel. Hazel really puts your mother to shame&quot;<br>
+							<br>
+							
+						(She comes out of the bathroom fully clothed)<br>
+							<br>
+							
+						GEORGE: What's going on?<br>
+							<br>
+							
+						WOMAN: It was a pleasure doing business with you George, but I'm afraid I have to get going.<br>
+							<br>
+							
+						GEORGE: Get going? But we haven't really, you know....<br>
+							<br>
+							
+						WOMAN: Eight dollars? Eight dollars?<br>
+							<br>
+							
+						GEORGE: What are you doing? You're robbing me?<br>
+							<br>
+							
+						WOMAN: I wasted my whole morning with you for eight dollars?<br>
+							<br>
+							
+						GEORGE: Wait, wait a second, what are you doing?<br>
+							<br>
+							
+						WOMAN: I'm taking your clothes.<br>
+							<br>
+							
+						GEORGE: No, that's my only suit. It cost me 350 dollars. I got it at Moe Ginsburg.<br>
+							<br>
+							
+						WOMAN: Bye George.<br>
+							<br>
+							
+						GEORGE: No wait, you can't just leave me here! Will I see you again?<br>
+							<br>
+							<br>
+							
+						[Kramer is in the &quot;Off-track betting&quot; office]<br>
+							<br>
+							
+						(The race is on and Pappanick is slowly making ground. Kramer is pounding himself imitating the jockey and shouts: Yes, yes, yes... The winner is Pappanick)<br>
+							<br>
+							
+						KRAMER: Yes! Yes! I won, hey (shouts to cashier)<br>
+							<br>
+							
+						(Kramer collects the winnings. A big pile of cash. Shows the money around. There is a big thug looking at the money. Kramer goes into the subway and sees that the thug followed him. He makes a run for it. Thug follows. Kramer steps out of the train and so does the thug. Kramer tries to jump back on the train, but door closes. The naked man has put his clothes back on and he and Jerry are getting of the train.)<br>
+							<br>
+							
+						NAKED MAN: I haven't had a hotdog at Nathan's for 20 years.<br>
+							<br>
+							
+						JERRY: First we ride the cyclone.<br>
+							<br>
+							
+						NAKED MAN: Chilly out.<br>
+							<br>
+							
+						(Jerry takes a deep breath)<br>
+							<br>
+							
+						JERRY: Aah, French fries.<br>
+							<br>
+							<br>
+							
+						[Kramer is running away from the thug and enters the train where the blind violinist is playing. Kramer knocks down the violin player and the thug picks Kramer up and looks for the money.]<br>
+							<br>
+							
+						THUG: Give me the money. Give me the money!<br>
+							<br>
+							
+						BLIND VIOLIN PLAYER: (puts a gun to the thug's head) Freeze, Police!<br>
+							<br>
+							<br>
+							
+						[Back to the Monk's caf&eacute;. Jerry, Kramer and Elaine are sitting in a booth]<br>
+							<br>
+							
+						JERRY: No, I never got the car. We were having such a good time, by the time I got to the police garage, it was closed.<br>
+							<br>
+							
+						ELAINE: Too bad.<br>
+							<br>
+							
+						JERRY: You wouldn't believe what this guy put away at Nathan's. Look at what we won!<br>
+							<br>
+							
+						(Waves around a stuffed monkey)<br>
+							<br>
+							
+						JERRY: You want him?<br>
+							<br>
+							
+						ELAINE: Get that out of my face.<br>
+							<br>
+							
+						JERRY: So, you missed the wedding. You'll catch the bris!<br>
+							<br>
+							
+						(George enters wearing a sheet)<br>
+							<br>
+							
+						MAN AT THE COUNTER: (yelling) Hare Krishna, Hare Krishna!<br>
+							<br>
+							
+						GEORGE: How would you like a 'Hare Krishna' fist on your throat, you little punk?<br>
+							<br>
+							
+						ELAINE: George?<br>
+							<br>
+							
+						JERRY: Biff, what did you whistle on the elevator?<br>
+							<br>
+							
+						GEORGE: You have my spare-key in your apartment, right?<br>
+							<br>
+							
+						JERRY: Yeah, it's in the kitchen drawer.<br>
+							<br>
+							
+						GEORGE: Give me your key, I gotta get it.<br>
+							<br>
+							
+						KRAMER: What happened?<br>
+							<br>
+							
+						GEORGE: Never mind what happened, just give me the key.<br>
+							<br>
+							
+						JERRY: Come on, I'll go with you.<br>
+							<br>
+							
+						ELAINE: Here, pay. (Gives the check to Jerry)<br>
+							<br>
+							
+						KRAMER: Wait, wait, wait...<br>
+							<br>
+							
+						(Kramer gets the check, looks at it and gets pile of cash and pays. Jerry and Elaine look amazed)<br>
+							<br>
+							<br>
+							
+						The End</td>
+						</tr>
+						<tr height="6">
+							<td class="bottom2" width="645" height="6"></td>
+						</tr>
+						<tr>
+							<td width="645">
+								<div align="center">
+									<font size="-1">Copyright 2006 seinology.com | All Rights Reserved | Designed by 13erla</font></div>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+		<p></p>
+	</body>
+
+</html>

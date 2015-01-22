@@ -1,0 +1,1258 @@
+<tdOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+<html>
+
+	<head>
+		<meta http-equiv="content-type" content="text/html;charset=ISO-8859-1">
+		<meta name="description" content="Top Source for Seinfeld">
+		<meta name="keywords" content="seinfeld, sienfeld, Jerry Seinfeld, Julia Louis Dreyfus, Jason Alexander, Michael Richards, Kramer, George, Costanza, Elaine Benes, morty, Larry David">
+		<title>Seinology.com :: Scripts :: 92-The Gymnast</title>
+	<link rel='stylesheet' href='/stylesheet.css' type='text/css'>
+	</head>
+
+	<body>
+			<table align="center" width="787" border="0" cellspacing="0" cellpadding="0">
+				<tr>
+					<td><font size="-2" color="red">Seinology.com - </font><font size="-3" color="black">Where Seinfeld Content and Accuracy Matter Most. Seinfeld scripts in pdf form, Seinfeld episode video clips, Seinfeld episode audio clips, Jerry Seinfeld appearances, Julia Louis-Dreyfus appearances, Michael Richards appearances, Jason Alexander appearances, Seinfeld discussion Forum, Seinfeld Where are they Now? Seinlanguage Newsletter, Popular Seinfeld Lists, Seinfeld episode standup, Seinfeld episode guide, Seinfeld fan fiction. Seinfeld content all on one domain. Seinology.com enjoy your stay.</font></td>
+				</tr>
+			</table>
+		
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr height="100">
+				<td class="logo"></td>
+			</tr>
+			<tr><td class="ads" align="center" background=#8694fa>
+				<script type="text/javascript"><!--
+google_ad_client = "pub-1924026976931416";
+google_ad_width = 728;
+google_ad_height = 90;
+google_ad_format = "728x90_as";
+google_ad_type = "text";
+google_ad_channel = "";
+google_color_border = "FFFFFF";
+google_color_bg = "8694fa";
+google_color_link = "0000FF";
+google_color_text = "000000";
+google_color_url = "002E3F";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></td></tr>
+		</table>
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr>
+				<td valign="top" width="136">
+					<table width="136" border="0" cellspacing="0" cellpadding="0">
+						<tr height="24">
+							<td class="navigation">
+								<div align="center">
+									
+									<b>Navigation</b></div>
+							</td>
+						</tr>
+						<tr height="199">
+							<td class="spacer1" valign="top" width="136" height="199">
+								<div align="center">
+									<font size="-1"><a href="http://www.seinology.com">Home</a><br>
+										<a href="http://board.seinology.com">Forum</a><br>
+										<a href="http://www.seinology.com/av.shtml">Audio/Video</a><br>
+										<a href="http://www.seinology.com/scripts.shtml">Scripts</a><br>
+										<a href="http://www.seinology.com/survivor.shtml">Survivor</a><br>
+										<a href="http://www.seinology.com/fanfics.shtml">Fan Fiction</a><br>
+										<a href="http://www.seinology.com/gallery/">Gallery</a><br>
+										<a href="http://www.seinology.com/newsletter.shtml">Newsletter</a><br>
+										<a href="http://www.seinology.com/lists.shtml">Lists</a><br>
+										<a href="http://www.seinology.com/epguide.shtml">Episode Guide</a><br>
+										<a href="http://www.seinology.com/links.shtml">Links</a><br>
+										<a href="http://www.seinology.com/faqother.shtml">Faq + others</a><br>
+										<a href="http://www.seinology.com/legal.shtml">Legal</a></font></div>
+							</td>
+						</tr>
+						
+						<tr>
+							<td class="nav2" width="136">
+							<div align="center"><b>Search</b></div></td>
+						</tr>
+						<tr>
+							<td class="spacer1" width="136" valign="top"><div align="center"><form method="get" action="http://www.seinology.com/search/search.cgi">
+<p><label for="fdse_Match">Match</label><br>
+<select name="Match" id="fdse_Match" size="1">
+<option value="1">All</option>
+<option value="0">Any</option>
+<option value="2">Phrase</option>
+</select></p>
+<p><label for="fdse_Realm">Where?</label><br>
+<select name="Realm" id="fdse_Realm" size="1">
+<option selected="selected" value="All">EntireSite</option>
+<option value="Ep Guide">Ep Guide</option>
+<option value="Images">Images</option>
+<option value="Lists">Lists</option>
+<option value="Newsletters">Newsletters</option>
+<option value="Scripts">Scripts</option>
+<option value="Notes..Nothing">Notes..Nothing</option>
+</select></p>
+<p><input type="text" name="Terms" size="14" id="fdse_Terms"><br>
+<input type="submit" class="submit" name="submitButtonName" value="Search"></p>
+</div></form></td>
+						</tr>
+						<tr><td class="bottom" width="136" height="10" valign="top">
+						</td>
+						</tr>
+					</table>
+				</td>
+				<td width="4"></td>
+				<td valign="top" width="645">
+					<table width="645" border="0" cellspacing="0" cellpadding="0">
+						<tr height="18">
+							<td width="645" height="35" class="bar">
+								<div align="center">
+									<b><font size="+2" color="black">Script</font></b></div>
+							</td>
+						</tr>
+						<tr height="362">
+							<td class="spacer2" valign="top" width="645" height="362">
+
+						<p><font size="-2">Episode 92 - The Gymnast<br>
+							
+						pc: 606, season 6, episode 6<br>
+							
+						Broadcast date: November 3, 1994<br>
+							<br>
+							
+						Written by Alec Berg &amp; Jeff Schaffer<br>
+							
+						Directed by Andy Ackerman<br>
+							<br>
+							
+						-------------------------------------------------------------------------------<br>
+							<br>
+							
+						The Cast<br>
+							
+						Regulars:<br>
+							
+						Jerry Seinfeld ....................... Jerry Seinfeld<br>
+							
+						Jason Alexander .................. George Costanza<br>
+							
+						Julia Louis-Dreyfus ............. Elaine Benes<br>
+							
+						Michael Richards ................. Kramer<br>
+							<br>
+							
+						Guest Stars:<br>
+							<br>
+							
+						Lois Nettleton&nbsp;&nbsp; .................... Mrs. Enright<br>
+							
+						Elina L&ouml;wensohn ................. Katya<br>
+							
+						Jessica Hecht ........................ Lindsay<br>
+							
+						Maurice Godin ..................... Misha<br>
+							
+						James Sweeney .................... Aronson<br>
+							
+						David Blackwood ................ Beck<br>
+							
+						Phil Ramsey .......................... Man in Car<br>
+							
+						Damian London ................... Party Guest<br>
+							
+						rc:&nbsp; Ian Abercrombie ............ Mr. Pitt<br>
+							<br>
+							
+						==================================================================<br>
+							<br>
+							
+						[Nightclub]<br>
+							<br>
+							
+						JERRY: I've never been able to figure out why they make these bizarre toilet seats that they have. You know, like those clear Lucite ones, with all the, the coins in it? It's a lovely tribute to our past president, by the way. It's not bad enough Lincoln got shot in the head, we gotta pull down our pants and sit on him, too. It's just incomprehensible that you would buy a thing like this, you install it on your toilet seat, and this says what about you? &quot;Well, I can't afford to just throw money down the toilet, but look how close I am!&quot;<br>
+							<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						[Jerry's apartment]<br>
+							<br>
+							
+						JERRY: I cannot believe Lindsay's still seeing you after that &quot;Breakfast at Tiffany's&quot; thing.<br>
+							<br>
+							
+						GEORGE: I think she finds my stupidity charming.<br>
+							<br>
+							
+						JERRY: As we all do.<br>
+							<br>
+							
+						GEORGE: Yeah, anyway, she's uh, having some kind of a family lunch, I'll swing by after.<br>
+							<br>
+							
+						JERRY: Oh, so you're gonna meet the mother?<br>
+							<br>
+							
+						GEORGE: Yeah, I'll zip in, &quot;How do you do?&quot;, zip out. She'll love me.<br>
+							<br>
+							
+						JERRY: You're good with the mothers.<br>
+							<br>
+							
+						GEORGE: Y'know, I'm better with the mothers than I am with the daughters.<br>
+							<br>
+							
+						JERRY: Maybe you should date the mothers.<br>
+							<br>
+							
+						GEORGE: Well, if I could talk to the mothers and have sex with the daughters, then I'd really have something goin'.<br>
+							<br>
+							
+						JERRY: Oh, you got something goin'.<br>
+							<br>
+							
+						GEORGE: Yeah.<br>
+							<br>
+							
+						KRAMER: (enters apartment) Hey.<br>
+							<br>
+							
+						GEORGE: Hey! (heads toward bathroom)<br>
+							<br>
+							
+						KRAMER: Hey, you got a hammer?<br>
+							<br>
+							
+						JERRY: What do you need a hammer for?<br>
+							<br>
+							
+						KRAMER: Well, I got this new poster. 3-D art? Computers generate 'em.<br>
+							<br>
+							
+						JERRY: Oh, yeah! I wanna see that. Bring it over.<br>
+							<br>
+							
+						KRAMER: No, no, I don't have it now. I gotta pick it up at Mr. Pitt's. Elaine was framing a bunch of stuff for him, so she did me a favor. What, you wanna take a ride?<br>
+							<br>
+							
+						JERRY: Nah, I don't think so.<br>
+							<br>
+							
+						KRAMER: (shouting to the bathroom door) George, you wanna go for a ride?<br>
+							<br>
+							
+						GEORGE: (inside bathroom) Nah.<br>
+							<br>
+							
+						KRAMER: Oh, COME ON!<br>
+							<br>
+							
+						JERRY: Hey, could you wait until the man finishes?<br>
+							<br>
+							
+						KRAMER: All right, I've had it with you two. (opens apartment door to leave)<br>
+							<br>
+							
+						JERRY: Hey, guess what? Remember that woman you saw me with the other day? You know, she used to be an Olympic gymnast?<br>
+							<br>
+							
+						KRAMER: A gymnast!<br>
+							<br>
+							
+						JERRY: Yeah, she's Romanian, she won a silver at the '84 Olympics.<br>
+							<br>
+							
+						KRAMER: A gymnast, Jerry. Think of the flexibility. Mmm, that sex'll melt your face.<br>
+							<br>
+							
+						JERRY: Yeah, well, I think I'm bailing.<br>
+							<br>
+							
+						KRAMER: (shuts door) &quot;Bailing&quot;?<br>
+							<br>
+							
+						JERRY: Yeah, you know, Kramer, there's always a price to pay for just a sexual dalliance.<br>
+							<br>
+							
+						KRAMER: Jerry, you should pay that price.<br>
+							<br>
+							
+						JERRY: She's Romanian. What am I gonna talk to her about, Ceausescu?<br>
+							<br>
+							
+						KRAMER: Ch- oo-... what?<br>
+							<br>
+							
+						GEORGE: (emerging from bathroom, buttoning his shirt) A gymnast! I can't believe it, you didn't tell me she was a gymnast.<br>
+							<br>
+							
+						JERRY: (watching George buttoning his shirt) What is this?<br>
+							<br>
+							
+						GEORGE: What, I'm puttin' my shirt back on.<br>
+							<br>
+							
+						JERRY: (stares at George, incredulous) &quot;Back on&quot;? What was it doing off?<br>
+							<br>
+							
+						GEORGE: I take it off when I go to the, uh, y'know, to the &quot;office&quot;.<br>
+							<br>
+							
+						JERRY: (laughing) What for?<br>
+							<br>
+							
+						GEORGE: Well, it frees me up. No encumbrances.<br>
+							<br>
+							
+						JERRY: Unbuttoned, or all the way off?<br>
+							<br>
+							
+						GEORGE: ALL the way, baby!<br>
+							<br>
+							
+						JERRY: Of course.<br>
+							<br>
+							
+						KRAMER: (convulses in pain) Yeow! Whoa.<br>
+							<br>
+							
+						JERRY: What, again? Kramer, if you keep getting these attacks, you should see the doctor and have it checked out.<br>
+							<br>
+							
+						KRAMER: (exiting apartment) Yeah, yeah, yeah...<br>
+							<br>
+							
+						JERRY: (picks up newspaper, turns to George) You always take the shirt off?<br>
+							<br>
+							
+						GEORGE: Always.<br>
+							<br>
+							
+						JERRY: Boy, I tell ya', knowing you is like going out in the jungle. I never know what I'm going to find next, and I'm real scared.<br>
+							<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						[Mr. Pitt's office]<br>
+							<br>
+							
+						MR. PITT: Elaine, I need you to proofread this report for my meeting with the Poland Creek Bottled Water people.<br>
+							<br>
+							
+						ELAINE: What meeting?<br>
+							<br>
+							
+						MR. PITT: I told you. I sit on the Board of Trustees for Morgan Springs, and we're trying to acquire Poland Creek.<br>
+							<br>
+							
+						ELAINE: Oh! (tries to take paper)<br>
+							<br>
+							
+						MR. PITT: (pulls away) Are you using a fountain pen?<br>
+							<br>
+							
+						ELAINE: Yes?<br>
+							<br>
+							
+						MR. PITT: They smear! Under no circumstances is ink to be used in this office.<br>
+							<br>
+							
+						ELAINE: All right! I'll use a pencil, Mr. Pitt.<br>
+							<br>
+							
+						(knock at door)<br>
+							<br>
+							
+						KRAMER: Elaine?<br>
+							<br>
+							
+						ELAINE: Come in, come in!<br>
+							<br>
+							
+						KRAMER: Yeah. (enters, points at package) Yah, huh?<br>
+							<br>
+							
+						ELAINE: Ah, right there, yeah.<br>
+							<br>
+							
+						KRAMER: (rips open package) Yeah, that's...<br>
+							<br>
+							
+						ELAINE: Kramer, it's...<br>
+							<br>
+							
+						KRAMER: (holds up framed picture): There she blows! (throws paper around)<br>
+							<br>
+							
+						ELAINE: Kramer, Kramer, can you do this at home? I've got, I've got work to do, okay?<br>
+							<br>
+							
+						KRAMER: Oh, these are nice corners, huh?<br>
+							<br>
+							
+						MR. PITT: Elaine, did I hear... (sees Kramer) Oh, this is very odd.<br>
+							<br>
+							
+						KRAMER: (looking at picture) Yeah, it's 3-D art. Computers generate 'em. BIG computers.<br>
+							<br>
+							
+						MR. PITT: Yes, I've heard about these. How do they work?<br>
+							<br>
+							
+						KRAMER: Well, you blur your eyes like you're starin' straight through the picture. And you keep your eyes unfocused. And then... (Kramer and Pitt stare at picture) Oh, oh, oh, YEAH!<br>
+							<br>
+							
+						MR. PITT: I don't see it.<br>
+							<br>
+							
+						KRAMER: Yeah, it's a spaceship, surrounded by planets, asteroids...<br>
+							<br>
+							
+						MR. PITT: I still don't see it.<br>
+							<br>
+							
+						ELAINE: Okay, Kramer, that's enough. Mr. Pitt has got work to do.<br>
+							<br>
+							
+						KRAMER: Ya' ever dream in 3-D? It's like the boogeyman is comin' right at you.<br>
+							<br>
+							
+						MR. PITT: A spaceship, where?<br>
+							<br>
+							
+						KRAMER: (pointing) Right in here. Just keep your eyes unfocused. (convulses in pain) Waahh! Oh, mama!<br>
+							<br>
+							
+						ELAINE: Kramer, what's wrong?<br>
+							<br>
+							
+						KRAMER: Mama!<br>
+							<br>
+							
+						ELAINE: Kramer, Kramer, are you okay?<br>
+							<br>
+							
+						KRAMER: I think I gotta go to the doctor! (exits) Oh, mama!<br>
+							<br>
+							
+						MR. PITT: (still staring at picture) How long does it usually take?<br>
+							<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						[Lindsay's mother's apartment]<br>
+							<br>
+							
+						(Lindsay's relatives are laughing, and George has apparently been witty and charming)<br>
+							<br>
+							
+						MRS. ENRIGHT: Oh, George, it is so nice to finally meet you. And I'm sorry we've kept Lindsay so long.<br>
+							<br>
+							
+						LINDSAY: Mother...<br>
+							<br>
+							
+						GEORGE: Oh, no, no, not at all. No, I have always felt that the most important thing in the world is spending time with family.<br>
+							<br>
+							
+						MRS. ENRIGHT: Oh? Are you and your family close?<br>
+							<br>
+							
+						GEORGE: (hesitates) Very close, yes. Almost painfully close.<br>
+							<br>
+							
+						LINDSAY: Mother, I'm going to walk Nana and Aunt Phyllis to the elevator. George, do you mind waiting just one more minute?<br>
+							<br>
+							
+						GEORGE: Mind? Why would I mind? I would love to wait! (shakes hands with Nana) Nana, nice to see you. Ni-ni-ni-ni-NANA! (embraces another guest, kisses her) Aunt Phyllis, always a pleasure. What a pleasure! Hey, let's do this again real soon. I had fun, huh?<br>
+							<br>
+							
+						MRS. ENRIGHT: Can I offer you anything to eat?<br>
+							<br>
+							
+						GEORGE: Oh, no no no, I'm fine. Let me help you with these dishes, huh?<br>
+							<br>
+							
+						MRS. ENRIGHT: Oh no, George, you don't have to...<br>
+							<br>
+							
+						GEORGE: No, I know I don't have to, I want to.<br>
+							<br>
+							
+						MRS. ENRIGHT: George, you are such a gentleman.<br>
+							<br>
+							
+						GEORGE: I'd argue if I could, Mrs. Enright. (exits) Here we go, all right.<br>
+							<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						[Kitchen]<br>
+							<br>
+							
+						(George opens trash bin, sees an &eacute;clair at the top with one bite taken out of it. After looking around to make sure no one is watching, he picks up the &eacute;clair and takes a bite just as Mrs. Enright enters the kitchen.)<br>
+							<br>
+							
+						MRS. ENRIGHT: (wide-eyed) Oh...<br>
+							<br>
+							
+						GEORGE: (spits out mouthful of food): Mrs. Enright! Mrs. Enright!<br>
+							<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						[Mr. Pitt's office]<br>
+							<br>
+							
+						ELAINE: (pointing at 3-D picture) Look, there's a spaceship! That is so cool!<br>
+							<br>
+							
+						MR. PITT: Where is it?<br>
+							<br>
+							
+						ELAINE: (pointing) Right here.<br>
+							<br>
+							
+						MR. PITT: I'm looking there!<br>
+							<br>
+							
+						ELAINE: No, no, unfocus.<br>
+							<br>
+							
+						MR. PITT: I am unfocused!<br>
+							<br>
+							
+						(phone rings)<br>
+							<br>
+							
+						ELAINE: (answering phone) Hello? Oh, yeah, okay fine. Uh, he'll be right down. (to Pitt) Car's here to pick you up and take you to the meeting.<br>
+							<br>
+							
+						MR. PITT: (still staring at picture) Meeting?<br>
+							<br>
+							
+						ELAINE: Yeah, the Poland Creek merger?<br>
+							<br>
+							
+						MR. PITT: Why don't you go for me?<br>
+							<br>
+							
+						ELAINE: How can I go?<br>
+							<br>
+							
+						MR. PITT: Oh, all they're gonna do is read the report.<br>
+							<br>
+							
+						ELAINE: Mr. Pitt, I do not think that is such a good idea.<br>
+							<br>
+							
+						MR. PITT: Oh, DAMN this thing!<br>
+							<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						[Jerry's car]<br>
+							<br>
+							
+						JERRY: (trying desperately to make conversation) So, Ceausescu. He must've been some dictator.<br>
+							<br>
+							
+						KATYA: Oh yes. He was not shy about dictating.<br>
+							<br>
+							
+						JERRY: He, uh, he must've been dictating first thing in the morning. &quot;I want a cup of coffee and a muffin!&quot;<br>
+							<br>
+							
+						KATYA: And you could not refuse.<br>
+							<br>
+							
+						JERRY: No, you'd have to be crazy.<br>
+							<br>
+							
+						KATYA: He was a very bad dictator.<br>
+							<br>
+							
+						JERRY: Yes. Very bad. Very, very bad.<br>
+							<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						[Monk's Diner]<br>
+							<br>
+							
+						JERRY: So lemme get this straight: you find yourself in the kitchen. You see an &eacute;clair, in the receptacle. And you think to yourself, &quot;What the hell, I'll just eat some trash.&quot;<br>
+							<br>
+							
+						GEORGE: No, no. No, no, no. It was not trash!<br>
+							<br>
+							
+						JERRY: Was it in the trash?<br>
+							<br>
+							
+						GEORGE: Yes.<br>
+							<br>
+							
+						JERRY: Then it was trash.<br>
+							<br>
+							
+						GEORGE: It wasn't down in, it was sort of on top.<br>
+							<br>
+							
+						JERRY: But it was in the cylinder!<br>
+							<br>
+							
+						GEORGE: Above the rim.<br>
+							<br>
+							
+						JERRY: Adjacent to refuse, is refuse.<br>
+							<br>
+							
+						GEORGE: It was on a magazine! And it still had the doily on.<br>
+							<br>
+							
+						JERRY: Was it eaten?<br>
+							<br>
+							
+						GEORGE: One little bite.<br>
+							<br>
+							
+						JERRY: Well, that's garbage.<br>
+							<br>
+							
+						GEORGE: But I know who took the bite. It was her aunt!<br>
+							<br>
+							
+						JERRY: Well, you, my friend, have crossed the line that divides Man and Bum. You are now a Bum.<br>
+							<br>
+							
+						(Kramer enters, walking awkwardly)<br>
+							<br>
+							
+						JERRY: Hey!<br>
+							<br>
+							
+						KRAMER: Hey.<br>
+							<br>
+							
+						JERRY: What's with you?<br>
+							<br>
+							
+						KRAMER: I got a stone.<br>
+							<br>
+							
+						JERRY: What stone?<br>
+							<br>
+							
+						KRAMER: A kidney stone.<br>
+							<br>
+							
+						JERRY: What is that, anyway?<br>
+							<br>
+							
+						KRAMER: It's a, it's a stony mineral concretion, formed abnormally in the kidney. And this jagged shard of calcium pushes its way through the ureter into the bladder. It's forced out through the urine!<br>
+							<br>
+							
+						JERRY: Oh, that's gotta hurt.<br>
+							<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						[Poland Creek office]<br>
+							<br>
+							
+						ARONSON: Our shareholders have given basic approval for the merger, including the stock swap.<br>
+							<br>
+							
+						ELAINE: Ah. The &quot;stock swap&quot;. Let's swap some stock. (giggles)<br>
+							<br>
+							
+						BECK: And if you'll just give this to Mr. Pitt, and tell him we expect to be in full-scale production by the spring.<br>
+							<br>
+							
+						ELAINE: All right. (standing up) Hey, you guys--what's the name of the new company gonna be?<br>
+							<br>
+							
+						BECK: Moland Spring.<br>
+							<br>
+							
+						ELAINE: (making a face) &quot;Moland&quot;?<br>
+							<br>
+							
+						ARONSON: Yes, we combined Morgan and Poland.<br>
+							<br>
+							
+						ELAINE: Yeah, I know, but... &quot;Moland&quot;? I wouldn't drink anything called &quot;Moland&quot;.<br>
+							<br>
+							
+						ARONSON: But it was Mr. Pitt's idea.<br>
+							<br>
+							
+						ELAINE: Oh! Well, ah, what's in a name? I mean, water's water. Right?<br>
+							<br>
+							
+						ARONSON: (to Beck) We've got to do something about that name.<br>
+							<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						[Jerry's apartment]<br>
+							<br>
+							
+						GEORGE: (on phone, as Jerry gestures beside him) No, Lindsay, it was not IN the garbage. It was above the garbage. Hovering. Like an angel. Of course I know your aunt bit it. I kissed her goodbye. Listen, can I tell you something else? In my family, we used to eat out of the garbage all the time. (Jerry makes a face) It was no big thing. That's right. Oh, okay. Buh-bye. (hangs up phone) I'm back in, she gave me a second chance.<br>
+							<br>
+							
+						JERRY: Good for you.<br>
+							<br>
+							
+						GEORGE: Yes, good for me!<br>
+							<br>
+							
+						JERRY: Y'know what you should do now? Get her some flowers, smooth it out.<br>
+							<br>
+							
+						GEORGE: Yes, flowers. I will get her flowers, I will go to the florist!<br>
+							<br>
+							
+						KRAMER: (enters apartment, holding up videotape) Behold! The Games of the '84 Olympiad! Katya's silver medal performance! (inserts tape into VCR, sets up TV)<br>
+							<br>
+							
+						JERRY: Kramer, are you still on this? I've seen gymnasts. I know what they do. It's not going to make any difference.<br>
+							<br>
+							
+						KRAMER: Jerry, what is your problem?<br>
+							<br>
+							
+						JERRY: Kramer, y'know, guys like you, with no conscience, don't know what it's like for guys like me. I'm in the unfortunate position of having to consider people's feelings.<br>
+							<br>
+							
+						KRAMER: All right, Jerry--are you familiar with the Kama Sutra?<br>
+							<br>
+							
+						JERRY: No.<br>
+							<br>
+							
+						KRAMER: Tantric yoga?<br>
+							<br>
+							
+						JERRY: No.<br>
+							<br>
+							
+						KRAMER: Jerry, you stand on the threshold to the magical world of sensual delights that most men dare not dream of!<br>
+							<br>
+							
+						JERRY: Boy, you can really talk some trash. (to George) I guess that's better than eating it.<br>
+							<br>
+							
+						KRAMER: All right, all right, why don't we just watch the tape? (starts playback)<br>
+							<br>
+							
+						JERRY: All right.<br>
+							<br>
+							
+						GEORGE: Did you pass your stone yet?<br>
+							<br>
+							
+						KRAMER: Not yet. But the suspense is killing me.<br>
+							<br>
+							
+						JERRY: (pointing at TV) Hey, that's her!<br>
+							<br>
+							
+						KRAMER: Oh yeah. Oh yeah, that's her. (feminine grunts and sighs can be heard as they watch the tape) Look at the height, Jerry, the extension! Now watch the tuck. Handstand, half-turn, giant into a straddle, back into another handstand. Nice kip. Reverse hecht. Oh, nice leg extension, good form! Now, here comes the big dismount. Look at the rotation, full in, double back, and she sticks the landing! (gets up to leave as George and Jerry continue to watch, mouths agape) Perhaps you'd like to keep the tape? (silence) Well, I'll take that as a yes.<br>
+							<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						[Jerry's car, night]<br>
+							<br>
+							
+						JERRY: (smiling and excited) Well, here we are.<br>
+							<br>
+							
+						KATYA: Yes. We are here.<br>
+							<br>
+							
+						JERRY: How did you stay on that beam like that? (holds up hand) I mean, it's only this wide!<br>
+							<br>
+							
+						KATYA: I can balance myself in any position.<br>
+							<br>
+							
+						(Jerry swallows)<br>
+							<br>
+							
+						KATYA: It is amazing after years of training how one can contort one's body. Of course, it is only useful in gymnastics.<br>
+							<br>
+							
+						JERRY: Oh boy...<br>
+							<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						[Jerry's apartment, morning]<br>
+							<br>
+							
+						JERRY: I couldn't believe it. Uh, I mean I thought I was entering a &quot;magical world&quot; of sensual delights, but it was just so ordinary. I mean, there was nothing gymnastic about it.<br>
+							<br>
+							
+						ELAINE: Well, what did you think she was gonna do?<br>
+							<br>
+							
+						JERRY: Well, you know. I mean... I dunno.<br>
+							<br>
+							
+						ELAINE: No, what?<br>
+							<br>
+							
+						JERRY: Well, obviously I prefer not to mention any, you know...<br>
+							<br>
+							
+						ELAINE: What did you think, she was going to take some of that chalk and...<br>
+							<br>
+							
+						JERRY: You see, now I really don't want to get into this, any kind of specifics...<br>
+							<br>
+							
+						ELAINE: Oh, come on. One thing? One thing! What?<br>
+							<br>
+							
+						JERRY: Well... Frankly, I thought, you know, I was gonna kinda' be like the apparatus.<br>
+							<br>
+							
+						KRAMER: You mean like the uneven parallel bars?<br>
+							<br>
+							
+						JERRY: See, again, I really don't feel that...<br>
+							<br>
+							
+						ELAINE: The balance beam?<br>
+							<br>
+							
+						JERRY: Could we stop?<br>
+							<br>
+							
+						ELAINE: (gasps in mock surprise) Not the pommel horse?<br>
+							<br>
+							
+						JERRY: All right. Let's just drop it.<br>
+							<br>
+							
+						(Jerry and Elaine move to couch)<br>
+							<br>
+							
+						JERRY: So lemme ask you this: how long would you say I have to put in now because of, you know, last night.<br>
+							<br>
+							
+						ELAINE: I dunno, at least three weeks.<br>
+							<br>
+							
+						JERRY: (sarcastic) Oh, great.<br>
+							<br>
+							
+						ELAINE: Jerry, that is such small potatoes. I think that I may have single-handedly put the kibosh on the big water merger.<br>
+							<br>
+							
+						JERRY: Between Poland and Morgan?<br>
+							<br>
+							
+						ELAINE: Yeah. Started a big name controversy.<br>
+							<br>
+							
+						(Kramer shouts from off-screen)<br>
+							<br>
+							
+						JERRY: Kramer! The stone!<br>
+							<br>
+							
+						(Jerry and Elaine rush to Kramer's apartment, stand in doorway)<br>
+							<br>
+							
+						JERRY: What happened, did you pass the stone?<br>
+							<br>
+							
+						KRAMER: (Off-screen) No, I tried to do a reverse hecht off my couch and I didn't make it.<br>
+							<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						[City street]<br>
+							<br>
+							
+						GEORGE: (singing as he exits florist with bouquet and a cup of coffee) &quot;...tootsie, good-bye. Too-too, tootsie...&quot; (takes a drink, makes a face, shouts back at shop) You call this coffee? (dumps out coffee behind him, accidentally hitting a parked car's windshield)<br>
+							<br>
+							
+						MAN IN CAR: Hey! What the hell was that?!<br>
+							<br>
+							
+						GEORGE: I'm sorry! I'm terribly sorry! I- I-<br>
+							<br>
+							
+						MAN IN CAR: Clean that up!<br>
+							<br>
+							
+						GEORGE: Oh, sure. Of course. (looks for place to set down flowers) Um, uh, could you hold these? For just a second, just a second. (grabs newspapers from trash bin, begins wiping windshield) Here you go, now don't worry about a thing. It's gonna be fine. Here we go. Look at this shine.<br>
+							<br>
+							
+						MRS. ENRIGHT: (sees George cleaning car windshield, looks appalled)<br>
+							<br>
+							
+						GEORGE: Look at this sparkle. (looks up, sees Lindsay's mother) Mrs. Enright! (runs after her) Mrs. Enright! Mrs. Enright!<br>
+							<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						[Jerry's apartment]<br>
+							<br>
+							
+						GEORGE: (on phone, as Jerry gestures beside him) No, Lindsay, I had accidentally spilled coffee on the gentleman's windshield. Why would I do that? I have a job! Well, did she see a squeegee? Well, you're not going to make a dime without a squeegee. That's right, that's right, just tell your mother it was all a big misunderstanding. You won't regret it. Okay, I'll see you later. Buh-bye. (hangs up)<br>
+							<br>
+							
+						JERRY: Strike two!<br>
+							<br>
+							
+						GEORGE: You think I'm going down?<br>
+							<br>
+							
+						JERRY: You're behind in the count.<br>
+							<br>
+							
+						GEORGE: I know.<br>
+							<br>
+							
+						KRAMER: (enters apartment, points at Jerry) Hey, what are you doing later?<br>
+							<br>
+							
+						JERRY: I'm going out with Katya, thanks to you.<br>
+							<br>
+							
+						KRAMER: Well, maybe you should try again. You know what happens the first time: people are a little shy, a little reticent.<br>
+							<br>
+							
+						JERRY: If I do it again, that extends my payment book another two weeks.<br>
+							<br>
+							
+						KRAMER: All right, where you going?<br>
+							<br>
+							
+						JERRY: We're going to the circus. One of her old Olympic teammates is an acrobat. I don't even feel like going out.<br>
+							<br>
+							
+						KRAMER: Well, Jerry, it's your obligation. C'mon.<br>
+							<br>
+							
+						JERRY: Yeah, well, y'know what? If I gotta go, and spend time with this girl, then you're coming with me, Dr. Cyclops!<br>
+							<br>
+							
+						KRAMER: No, no, no, I don't wanna go to the circus, Jerry.<br>
+							<br>
+							
+						JERRY: Yeah, well you're going.<br>
+							<br>
+							
+						KRAMER: Yeah, but I'm afraid of clowns!<br>
+							<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						[Mr. Pitt's office]<br>
+							<br>
+							
+						MR. PITT: (in polo outfit, complete with jacket and high boots) I didn't send you over there to complain about the name.<br>
+							<br>
+							
+						ELAINE: Well, I couldn't help it. &quot;Moland Spring&quot;?<br>
+							<br>
+							
+						MR. PITT: I like the name &quot;Moland&quot;. I picked it out. After all those months of negotiating!<br>
+							<br>
+							
+						ELAINE: Well, I'm so sorry! I-<br>
+							<br>
+							
+						MR. PITT: Well, I'm going riding. I haven't been on Jenny for three days, all because of this blasted painting. (phone rings) Elaine?<br>
+							<br>
+							
+						ELAINE: Oh, sorry. (picks up phone) Hello?<br>
+							<br>
+							
+						MR. PITT: (walks by 3-D poster, stops) Wait a minute! Wait a minute. Ah!<br>
+							<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						[Circus, backstage]<br>
+							<br>
+							
+						(Clowns rush by Jerry and Kramer, Kramer flinches in fear)<br>
+							<br>
+							
+						KATYA: So, Jerry, you're enjoying the circus?<br>
+							<br>
+							
+						JERRY: &quot;Greatest Show on Earth&quot;!<br>
+							<br>
+							
+						KATYA: My father used to take me to the circus. When the elephants came by, he would scream curses at them, blaming them for all the ills of society.<br>
+							<br>
+							
+						JERRY: Well, they certainly take up a lot of space.<br>
+							<br>
+							
+						(Katya's friend walks up)<br>
+							<br>
+							
+						KATYA: Ah, Misha!<br>
+							<br>
+							
+						MISHA: Katya!<br>
+							<br>
+							
+						KATYA: Misha, this is Jerry.<br>
+							<br>
+							
+						MISHA: Ah, yes. The &quot;co-me-dian&quot;, eh? (speaks in Romanian to Katya)<br>
+							<br>
+							
+						KATYA: (laughs, replies in Romanian while pointing at Jerry)<br>
+							<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						[Mr. Pitt's office]<br>
+							<br>
+							
+						ELAINE: (on phone) Oh, yes, yes I'll tell him. Yes, thank you. Um, um hold on. (to Pitt) Mr. Pitt!<br>
+							<br>
+							
+						MR. PITT: (staring at 3-D poster) I think I'm on to something!<br>
+							<br>
+							
+						ELAINE: Mr. Pitt! The board of directors is on the phone. They've called an emergency meeting. They want you to be there to discuss the merger!<br>
+							<br>
+							
+						MR. PITT: You said keep your eyes out of focus, which is misleading. You want DEEP focus!<br>
+							<br>
+							
+						ELAINE: (on phone) Yes, hi. Okay, fine, yeah, hold on just a second. Lemme just... (reaches into purse) Yeah, I've got it... (pulls out both hands completely covered in black ink) Oh! Oh! Yeah, yeah, he'll be there. (drops phone, rushes to Pitt) Mr. Pitt, you have GOT to stop staring at that poster!<br>
+							<br>
+							
+						MR. PITT: I see something that could be a spaceship. Is it round? Is it pointy?<br>
+							<br>
+							
+						ELAINE: (grabs poster, smashes it) No, you don't see it, and you're never going to see it! (grabs Pitt by the lapels, getting ink all over his jacket) Mr. Pitt, you have to meet with the shareholders, you have to leave now. Do you hear me? Do you hear me?!<br>
+							<br>
+							
+						MR. PITT: Hmm, what's happened to me? (straightens lapels) When's the meeting?<br>
+							<br>
+							
+						ELAINE: In about twenty minutes.<br>
+							<br>
+							
+						MR. PITT: Oh! (puts finger to face, smearing ink on his upper lip which now resembles an &quot;Adolph Hitler&quot;-style moustache) Do I have time to change?<br>
+							<br>
+							
+						ELAINE: Um, no.<br>
+							<br>
+							
+						MR. PITT: Well, excuse me, I'd better get straight over there.<br>
+							<br>
+							
+						ELAINE: Uh, Mr. Pitt...<br>
+							<br>
+							
+						MR. PITT: Yes?<br>
+							<br>
+							
+						ELAINE: Um, there's a just... (points at her own upper lip)<br>
+							<br>
+							
+						MR. PITT: (sees Elaine's hands covered in ink) Is that ink?<br>
+							<br>
+							
+						ELAINE: No?<br>
+							<br>
+							
+						(Pitt exits)<br>
+							<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						[George's car]<br>
+							<br>
+							
+						GEORGE: Well, here we are.<br>
+							<br>
+							
+						LINDSAY: Do you want to come in? My mother's having a little party.<br>
+							<br>
+							
+						GEORGE: Maybe I could just use the bathroom.<br>
+							<br>
+							
+						LINDSAY: Sure.<br>
+							<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						[Circus, back stage]<br>
+							<br>
+							
+						ANNOUNCER: (voiceover) Ladies and gentlemen, could I direct your attention to the center ring, where the incomparable Misha will balance ten stories above the circus floor on a wire no wider than a human thumb.<br>
+							<br>
+							
+						MISHA: It is time.<br>
+							<br>
+							
+						JERRY: Well, break a leg.<br>
+							<br>
+							
+						(Misha gives Jerry a dark look)<br>
+							<br>
+							
+						JERRY: Eh, show biz...<br>
+							<br>
+							
+						ANNOUNCER: Ladies and gentlemen, the incomparable Misha!<br>
+							<br>
+							
+						(Misha exits)<br>
+							<br>
+							
+						JERRY: Boy, those capes are really coming back.<br>
+							<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						[Lindsay's mother's apartment]<br>
+							<br>
+							
+						PARTY GUEST: (exits bathroom, finds George waiting) Oh, sorry I took so long. They've got one of those 3-D art posters in there. (wipes eyes) It's mesmerizing.<br>
+							<br>
+							
+						(George enters bathroom)<br>
+							<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						[Circus]<br>
+							<br>
+							
+						(Kramer repeatedly convulses in pain, spilling popcorn and food everywhere, enters Men's room)<br>
+							<br>
+							
+						(Misha walks slowly across tightrope)<br>
+							<br>
+							
+						(Long scream bellows forth from Men's room, causing other occupant to flee and Misha to wobble)<br>
+							<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						[Circus, back stage]<br>
+							<br>
+							
+						JERRY: What is that sound?<br>
+							<br>
+							
+						KATYA: (covering ears) It is horrible!<br>
+							<br>
+							
+						(Shots of various circus performers reacting to the reverberating scream. Misha falls off the tightrope as audience gasps in horror)<br>
+							<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						[Lindsay's mother's apartment]<br>
+							<br>
+							
+						(George emerges from bathroom, shirtless and rubbing eyes)<br>
+							<br>
+							
+						GEORGE: Whew! Anybody see that poster in there? That is weird, wild stuff, huh? Whew!<br>
+							<br>
+							
+						(George looks around and sees all the party guests staring at him, then realizes he's shirtless. Tries to act casual)<br>
+							<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						[Morgan Springs shareholder meeting]<br>
+							<br>
+							
+						(Mr. Pitt stands at a podium, and still has the small black &quot;ink moustache&quot;. He speaks harshly and with conviction, gesturing emphatically.)<br>
+							<br>
+							
+						MR. PITT: I have been accused of wrong-doing. But these false accusations will not deter us. We WILL annex Poland by the Spring, at any cost! AND... our stock will rise HIGH! (raises hand)<br>
+							<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						[Circus, back stage]<br>
+							<br>
+							
+						KATYA: He'll be all right. I must go and be with Misha now. I don't want you to come with me.<br>
+							<br>
+							
+						JERRY: Oh, why not?<br>
+							<br>
+							
+						KATYA: It has been three days since our night together. Misha said that was all the time I needed to put in.<br>
+							<br>
+							
+						JERRY: Really?<br>
+							<br>
+							
+						KATYA: In my country, they speak of a man so virile, so potent, that to spend a night with such a man is to enter a world of such sensual delights most women dare not dream of. This man is known as the &quot;Comedian&quot;. You may tell jokes, Mr. Jerry Seinfeld, but you are no Comedian. (walks off)<br>
+							<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						[Circus, Men's room]<br>
+							<br>
+							
+						(Kramer walks out, jubilant and whistling)<br>
+							<br>
+							<br>
+							
+						The End</td>
+						</tr>
+						<tr height="6">
+							<td class="bottom2" width="645" height="6"></td>
+						</tr>
+						<tr>
+							<td width="645">
+								<div align="center">
+									<font size="-1">Copyright 2006 seinology.com | All Rights Reserved | Designed by 13erla</font></div>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+		<p></p>
+	</body>
+
+</html>

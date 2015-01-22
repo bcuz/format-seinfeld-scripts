@@ -1,0 +1,1414 @@
+<tdOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+<html>
+
+	<head>
+		<meta http-equiv="content-type" content="text/html;charset=ISO-8859-1">
+		<meta name="description" content="Top Source for Seinfeld">
+		<meta name="keywords" content="seinfeld, sienfeld, Jerry Seinfeld, Julia Louis Dreyfus, Jason Alexander, Michael Richards, Kramer, George, Costanza, Elaine Benes, morty, Larry David">
+		<title>Seinology.com :: Scripts :: 162-The Merv Griffin Show</title>
+	<link rel='stylesheet' href='/stylesheet.css' type='text/css'>
+	</head>
+
+	<body>
+			<table align="center" width="787" border="0" cellspacing="0" cellpadding="0">
+				<tr>
+					<td><font size="-2" color="red">Seinology.com - </font><font size="-3" color="black">Where Seinfeld Content and Accuracy Matter Most. Seinfeld scripts in pdf form, Seinfeld episode video clips, Seinfeld episode audio clips, Jerry Seinfeld appearances, Julia Louis-Dreyfus appearances, Michael Richards appearances, Jason Alexander appearances, Seinfeld discussion Forum, Seinfeld Where are they Now? Seinlanguage Newsletter, Popular Seinfeld Lists, Seinfeld episode standup, Seinfeld episode guide, Seinfeld fan fiction. Seinfeld content all on one domain. Seinology.com enjoy your stay.</font></td>
+				</tr>
+			</table>
+		
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr height="100">
+				<td class="logo"></td>
+			</tr>
+			<tr><td class="ads" align="center" background=#8694fa>
+				<script type="text/javascript"><!--
+google_ad_client = "pub-1924026976931416";
+google_ad_width = 728;
+google_ad_height = 90;
+google_ad_format = "728x90_as";
+google_ad_type = "text";
+google_ad_channel = "";
+google_color_border = "FFFFFF";
+google_color_bg = "8694fa";
+google_color_link = "0000FF";
+google_color_text = "000000";
+google_color_url = "002E3F";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></td></tr>
+		</table>
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr>
+				<td valign="top" width="136">
+					<table width="136" border="0" cellspacing="0" cellpadding="0">
+						<tr height="24">
+							<td class="navigation">
+								<div align="center">
+									
+									<b>Navigation</b></div>
+							</td>
+						</tr>
+						<tr height="199">
+							<td class="spacer1" valign="top" width="136" height="199">
+								<div align="center">
+									<font size="-1"><a href="http://www.seinology.com">Home</a><br>
+										<a href="http://board.seinology.com">Forum</a><br>
+										<a href="http://www.seinology.com/av.shtml">Audio/Video</a><br>
+										<a href="http://www.seinology.com/scripts.shtml">Scripts</a><br>
+										<a href="http://www.seinology.com/survivor.shtml">Survivor</a><br>
+										<a href="http://www.seinology.com/fanfics.shtml">Fan Fiction</a><br>
+										<a href="http://www.seinology.com/gallery/">Gallery</a><br>
+										<a href="http://www.seinology.com/newsletter.shtml">Newsletter</a><br>
+										<a href="http://www.seinology.com/lists.shtml">Lists</a><br>
+										<a href="http://www.seinology.com/epguide.shtml">Episode Guide</a><br>
+										<a href="http://www.seinology.com/links.shtml">Links</a><br>
+										<a href="http://www.seinology.com/faqother.shtml">Faq + others</a><br>
+										<a href="http://www.seinology.com/legal.shtml">Legal</a></font></div>
+							</td>
+						</tr>
+						
+						<tr>
+							<td class="nav2" width="136">
+							<div align="center"><b>Search</b></div></td>
+						</tr>
+						<tr>
+							<td class="spacer1" width="136" valign="top"><div align="center"><form method="get" action="http://www.seinology.com/search/search.cgi">
+<p><label for="fdse_Match">Match</label><br>
+<select name="Match" id="fdse_Match" size="1">
+<option value="1">All</option>
+<option value="0">Any</option>
+<option value="2">Phrase</option>
+</select></p>
+<p><label for="fdse_Realm">Where?</label><br>
+<select name="Realm" id="fdse_Realm" size="1">
+<option selected="selected" value="All">EntireSite</option>
+<option value="Ep Guide">Ep Guide</option>
+<option value="Images">Images</option>
+<option value="Lists">Lists</option>
+<option value="Newsletters">Newsletters</option>
+<option value="Scripts">Scripts</option>
+<option value="Notes..Nothing">Notes..Nothing</option>
+</select></p>
+<p><input type="text" name="Terms" size="14" id="fdse_Terms"><br>
+<input type="submit" class="submit" name="submitButtonName" value="Search"></p>
+</div></form></td>
+						</tr>
+						<tr><td class="bottom" width="136" height="10" valign="top">
+						</td>
+						</tr>
+					</table>
+				</td>
+				<td width="4"></td>
+				<td valign="top" width="645">
+					<table width="645" border="0" cellspacing="0" cellpadding="0">
+						<tr height="18">
+							<td width="645" height="35" class="bar">
+								<div align="center">
+									<b><font size="+2" color="black">Script</font></b></div>
+							</td>
+						</tr>
+						<tr height="362">
+							<td class="spacer2" valign="top" width="645" height="362">
+
+						<p><font size="-2">Episode 162 - The Merv Griffin Show<br>
+							
+						pc: 906, season 9, episode 6<br>
+							
+						Broadcast date: November 6, 1997<br>
+							<br>
+							
+						Written by Bruce Eric Kaplan<br>
+							
+						Directed by Andy Ackerman<br>
+							<br>
+							
+						-------------------------------------------------------------------------------<br>
+							<br>
+							
+						The Cast<br>
+							
+						Regulars:<br>
+							
+						Jerry Seinfeld ....................... Jerry Seinfeld<br>
+							
+						Jason Alexander .................. George Costanza<br>
+							
+						Julia Louis-Dreyfus ............. Elaine Benes<br>
+							
+						Michael Richards ................. Cosmo Kramer<br>
+							<br>
+							
+						Guest Stars:<br>
+							<br>
+							
+						Rick Hall ............................. Vet<br>
+							
+						Brent Hinkley ..................... Lou<br>
+							
+						Julia Pennington ................ Celia<br>
+							
+						Arabella Field ..................... Miranda<br>
+							
+						Jim Fowler .......................... Himself<br>
+							
+						rc: Wayne Knight ............... Newman<br>
+							
+						rc: John O'Hurley ............... J. Peterman<br>
+							
+						rc: Jerry Stiller ..................... Frank Costanza (voice only, uncredited)<br>
+							
+						rc: Estelle Harris ................. Estelle Costanza (voice only, uncredited)<br>
+							<br>
+							
+						==================================================================<br>
+							<br>
+							
+						[Jerry and Kramer walking along on the sidewalk]<br>
+							<br>
+							
+						JERRY: I just think if you borrow my blender you should return it.<br>
+							<br>
+							
+						KRAMER: Well what&#146;s the difference -- Come on (pats him on the back) -- were like Cain and Able.<br>
+							<br>
+							
+						JERRY: Yeah, ya know Cain slew Able.<br>
+							<br>
+							
+						(there is a light pole, so Jerry puts his hand on it and swings gently around it and keeps walking)<br>
+							<br>
+							
+						KRAMER: No he didn&#146;t. They were in business together&#133; it was dry wall, or somethin&#146;.<br>
+							<br>
+							
+						JERRY: Oh, no.<br>
+							<br>
+							
+						KRAMER: All right then, what was it?<br>
+							<br>
+							
+						JERRY: Well I think Able worked hard all summer harvesting his crops, while Cain just played in the field. Then when Winter came, Able had all the nuts; Cain had no nuts, so he killed him.<br>
+							<br>
+							
+						KRAMER: The way I remember it, Cain, he was a successful doctor, but when he took this special formula, he became Mr. Able.<br>
+							<br>
+							
+						JERRY: Ya broke my blender, didn&#146;t ya?<br>
+							<br>
+							
+						KRAMER: Yeah. Well I was trying to make gravel and it just (moves hands around) just didn&#146;t work out.<br>
+							<br>
+							
+						JERRY: I knew it.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Jerry and Kramer still walking along the sidewalk talking]<br>
+							<br>
+							
+						JERRY: Why were you making gravel?<br>
+							<br>
+							
+						KRAMER: Well ... I like the sound it makes when you walk on it.<br>
+							<br>
+							
+						(Jerry and Kramer see a huge dumpster in an alley)<br>
+							<br>
+							
+						KRAMER: Aahh, this looks familiar&#133;<br>
+							<br>
+							
+						JERRY: Of course. It's garbage.<br>
+							<br>
+							
+						KRAMER: No, no, no, no. These brown things. The chairs. (hits his hand on the rim) Jerry, this is the set from the old Merv Griffin Show! (he climbs into the dumpster) They must be throwing it out. This stuff belongs in the Smithsonian!<br>
+							<br>
+							
+						JERRY: Yeah, at least in the dumpster behind the Smithsonian.<br>
+							<br>
+							
+						KRAMER: Look at this. Boy, one minute Elliot Gould is sitting on you and the next thing - you're yesterday's trash.<br>
+							<br>
+							
+						JERRY: Come on, Kramer, get out of there.<br>
+							<br>
+							
+						KRAMER: No, no, no. You go on ahead. I'm not finished taking this in. Oh, Jerry look ... Merv Griffin's cigar.<br>
+							<br>
+							
+						JERRY: (moans) Ohhh (walks away)<br>
+							<br>
+							<br>
+							
+						&nbsp;<br>
+							
+						[In George's car]<br>
+							<br>
+							
+						GEORGE: You know I uh, spilled a yogurt smoothie in here two days ago. Hm, Can't smell anything, can ya?<br>
+							<br>
+							
+						MIRANDA: Banana?<br>
+							<br>
+							
+						GEORGE: Right.<br>
+							<br>
+							
+						MIRANDA: George watch out for those pigeons.<br>
+							<br>
+							
+						GEORGE: Oh they'll get out of the way. You really smell banana?<br>
+							<br>
+							
+						(George hits the pigeons. As the feathers fly, Miranda is frantic.)<br>
+							<br>
+							
+						MIRANDA: (gasp) Oh my God. (trying to catch her breath, she puts her hand to her chest.)<br>
+							<br>
+							
+						GEORGE: So uh&#133; where we eating?<br>
+							<br>
+							
+						(Miranda takes a couple more breaths)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Celia's apartment]<br>
+							<br>
+							
+						JERRY: And it was his idea to put a sprig of parsley on the plate.<br>
+							<br>
+							
+						CELIA: You're making this up. There was never a Joseph Garnish.<br>
+							<br>
+							
+						JERRY: Wow! (Jerry spots all the classic toys)<br>
+							<br>
+							
+						CELIA: Oh yeah the toys.<br>
+							<br>
+							
+						JERRY: Where did you get all these?<br>
+							<br>
+							
+						CELIA: My dad was a collector. I inherited them after he died from a long painful bout with&#133;<br>
+							<br>
+							
+						JERRY: Super bowl! Hey, an original G.I. Joe. (picks up both items) With a full frogman suit.<br>
+							<br>
+							
+						CELIA: Jerry, what are you doing?<br>
+							<br>
+							
+						JERRY: I'm putting this on him and we're going to the sink.<br>
+							<br>
+							
+						CELIA: Ohhh Jerry. (takes them from Jerry and puts them back with the other toys) They're priceless. They've never been played with.<br>
+							<br>
+							
+						JERRY: I just want a, touch &#145;em a little.<br>
+							<br>
+							
+						CELIA: I said no. Now come here.<br>
+							<br>
+							
+						(They embrace in a kiss with eyes closed. Jerry opens his eyes looking at all the toys)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Peterman's]<br>
+							<br>
+							
+						(Elaine in the kitchen, is getting some coffee and turns around from the counter, lou is standing way too close)<br>
+							<br>
+							
+						LOU: Hi (startled, Elaine spills her coffee on her sleeve) I'm Lou Filerman. I'm new here.<br>
+							<br>
+							
+						(Lou turns and walks away. Walter enters the kitchen)<br>
+							<br>
+							
+						ELAINE: Hey Walter, what is the deal with that guy?<br>
+							<br>
+							
+						WALTER: uh-He's Lou Filerman. He's new here.<br>
+							<br>
+							
+						ELAINE: (exhales)<br>
+							<br>
+							
+						WALTER: Hey your coffee stain looks like Fidel Castro.<br>
+							<br>
+							
+						ELAINE: You've been an enormous help.<br>
+							
+						&nbsp;<br>
+							<br>
+							<br>
+							
+						[Monk's]<br>
+							<br>
+							
+						JERRY: You ran over some pigeons? How many?<br>
+							<br>
+							
+						GEORGE: What ever they had. Miranda thinks I'm a butcher but i-i-it's not my fault is it? Don't we have a deal with the pigeons?<br>
+							<br>
+							
+						JERRY: Course we have a deal. They get out of the way of our cars, we look the other way on the statue defecation.<br>
+							<br>
+							
+						GEORGE: Right! And these pigeons broke the deal. I will not accept the blame for this!<br>
+							<br>
+							
+						JERRY: So Miranda's cooled on ya?<br>
+							<br>
+							
+						GEORGE: I'm getting nothing.<br>
+							<br>
+							
+						JERRY: Yeah, me neither.<br>
+							<br>
+							
+						GEORGE: Really? I thought you and Celia were sleeping together?<br>
+							<br>
+							
+						JERRY: Oh, the sex is wild but she's got this incredible toy collection and she won't let me near it!<br>
+							<br>
+							
+						(Elaine enters)<br>
+							<br>
+							
+						GEORGE: I don't understand women.<br>
+							<br>
+							
+						JERRY: Here comes one.<br>
+							<br>
+							
+						ELAINE: Hey. What's going on?<br>
+							<br>
+							
+						GEORGE: Hey (sees the coffee stain) Art Garfunkel?<br>
+							<br>
+							
+						ELAINE: No, Castro.<br>
+							<br>
+							
+						GEORGE: Right.<br>
+							<br>
+							
+						ELAINE: All because of this creepy new guy at work. He just - he just comes out of nowhere and he's right next to you!<br>
+							<br>
+							
+						JERRY: So he just sidles up?<br>
+							<br>
+							
+						ELAINE: That's right! He's a real sidler. (points at Jerry)<br>
+							<br>
+							
+						JERRY: Maybe you just didn't see him.<br>
+							<br>
+							
+						ELAINE: Wha-You never see him. He sidled me again in my office. I was sitting there making Cup-A-Soup singing that song from &quot;The Lion King&quot;.<br>
+							<br>
+							
+						JERRY: Hakuna Matata?<br>
+							<br>
+							
+						ELAINE: I thought I was alone.<br>
+							<br>
+							
+						JERRY: That doesn't make it right.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Jerry and Elaine walking in the hallway up to Jerry's apartment door]<br>
+							<br>
+							
+						JERRY: See, to me, the Hakuna Matata is not nearly as embarrassing as the cup of soup...<br>
+							<br>
+							
+						ELAINE: Would you just, let it go?<br>
+							<br>
+							
+						KRAMER: (from his apartment) Hey, Jerry! Come here a sec!<br>
+							<br>
+							
+						(Jerry and Elaine head into Kramer&#146;s apartment. There is a large blue, spangly curtain through which they enter)<br>
+							<br>
+							
+						KRAMER: Hey! (moving a chair onto the set)<br>
+							<br>
+							
+						JERRY: Oh my God!<br>
+							<br>
+							
+						KRAMER: (Outstretched arms) It's the Merv Griffin set. (Claps 7 times)<br>
+							<br>
+							
+						JERRY: How did you get this in here?<br>
+							<br>
+							
+						KRAMER: Oh, you just bring it in sideways and (pop) hook it.<br>
+							<br>
+							
+						JERRY: So where you gonna sleep?<br>
+							<br>
+							
+						KRAMER: Yeah ... backstage.<br>
+							<br>
+							
+						ELAINE: Ehnn! This chair smells like garbage.<br>
+							<br>
+							
+						KRAMER: (putting on jacket) Oh, well a lot of the stars from the 70's - they were not as hygienic as they appeared on TV. You take Mannix for example.<br>
+							<br>
+							
+						(phone rings)<br>
+							<br>
+							
+						JERRY: I'm gonna get that. (walks across the set towards the blue curtain)<br>
+							<br>
+							
+						KRAMER: All right. Well, Jerry, we'd love to have you back anytime. (stretches his arm out, as if he&#146;s reaching out a good-bye)<br>
+							<br>
+							
+						(Jerry turns and looks at Kramer like he&#146;s nuts. The phone rings again and Jerry exits)<br>
+							<br>
+							
+						KRAMER: Well, Elaine Benes! Well, it's great to have you! (Elaine sits down) Boy, is it possible that you&#146;re even more beautiful than the last time I saw you?<br>
+							<br>
+							
+						ELAINE: (giggles)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Central Park]<br>
+							<br>
+							
+						(George watches a jogger running through a bunch of pigeons and they scatter. George runs at the pigeons. They don't move for him and he steps on one - feathers fly everywhere)<br>
+							<br>
+							
+						GEORGE: Ahh, Ah-Ah&#133;We had a deal!<br>
+							<br>
+							
+						(a mother and son sitting on a park bench are horrified witnessing what just happened in front of them)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Peterman's Office]<br>
+							<br>
+							
+						ELAINE: Mr. Peterman, here are these pages that you wanted.<br>
+							<br>
+							
+						PETERMAN: One moment. I'm reading the most fascinating article on the most fascinating people of the year. Annnnnd, done. Oh, yes. I'm sorry I needed this so quickly (leafing through the pages). It must have been an awful lot of work. Thank you very much, you two.<br>
+							<br>
+							
+						ELAINE: What? (with arms crossed, she turns quickly and&#133; )<br>
+							<br>
+							
+						(Lou Filerman is standing behind her)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Kramer's Apartment - The Merv Griffin set]<br>
+							<br>
+							
+						JERRY: So three dates and she still won't let me play with her toys.<br>
+							<br>
+							
+						KRAMER: Hm, That's interesting. You know someone mentioned to me you were not very happy with your toys, growing up.<br>
+							<br>
+							
+						JERRY: Yeah, that was me.<br>
+							<br>
+							
+						KRAMER: Oh, that's right, right, right. And uh you mentioned that uh, you didn't get a G.I. Joe. You had an&#133;<br>
+							<br>
+							
+						JERRY: An Army Pete.<br>
+							<br>
+							
+						KRAMER: Right.<br>
+							<br>
+							
+						JERRY: He was made of wood and in the rain he would swell up and then split.<br>
+							<br>
+							
+						KRAMER: And we all know how painful that can be. (as he says this, he turns and speaks directly into the non-existent television camera. Jerry looks a bit confused.)<br>
+							<br>
+							
+						(Elaine enters)<br>
+							<br>
+							
+						ELAINE: Jerry. Oh there - -<br>
+							<br>
+							
+						KRAMER: Oh, Elaine Benes. Well, this is quite a thrill, yes. Come - - (motions for Jerry to move down one seat as the new guest has arrived for her segment. Kramer gives Jerry a little push) Come on sit down. Yes.<br>
+							<br>
+							
+						ELAINE: (clears throat) (to Jerry) Well, I'll tell ya, this sidler guy is really chapping my hide.<br>
+							<br>
+							
+						KRAMER: Ju - Excuse me. Yeah we're, talking this way.<br>
+							<br>
+							
+						ELAINE: Well, he's getting credit for work that I did! He's gonna sidle me right out of a job.<br>
+							<br>
+							
+						KRAMER: Ah, Now, for those of us who don't know, uh, sidling is what?<br>
+							<br>
+							
+						ELAINE: Kramer, what is wrong with you?<br>
+							<br>
+							
+						KRAMER: What do you mean?<br>
+							<br>
+							
+						ELAINE: Well, for starters, you're looking at note cards<br>
+							<br>
+							
+						(Kramer puts the note cards inside his jacket)<br>
+							<br>
+							
+						ELAINE: (to Jerry) I'm gonna have to give that guy a taste of his own medicine, so, I am going to sidle, the sidler.<br>
+							<br>
+							
+						JERRY: You, sidle? Y-You ... you stomp around like a Clydesdale!<br>
+							<br>
+							
+						ELAINE: Not with these honeys. ... Wrestling shoes!<br>
+							<br>
+							
+						KRAMER: (to the imaginary TV camera) Only in New York. ... ha ha<br>
+							<br>
+							
+						GEORGE: Jerry?<br>
+							<br>
+							
+						(George enters)<br>
+							<br>
+							
+						KRAMER: Oh! (turns on the Merv Griffin theme music) Heeeyy! Well, ladies and gentlemen! It's our good friend, George Costanza! What a surprise!<br>
+							<br>
+							
+						(George looks confused. Kramer motions for Jerry and Elaine to move down another seat to make room for the new guest George. Kramer points, laughs, claps and pats George on the back)<br>
+							<br>
+							
+						TAPE RECORDER: Turn Music Off (Kramer pushes the off button turning the music off)<br>
+							<br>
+							
+						KRAMER: Yeah, sit, sit, sit&#133; Weeell! (laughing, clapping)<br>
+							<br>
+							
+						GEORGE: Well, it happened again.<br>
+							<br>
+							
+						JERRY: What happened?<br>
+							<br>
+							
+						KRAMER: Eyaaaya-ya-ya, I'll ask the questions. What happened?<br>
+							<br>
+							
+						GEORGE: Well I just stomped some pigeons in the park. They - they didn't move.<br>
+							<br>
+							
+						KRAMER: All right, let's uh, change the subject, ah. (looking at the yellow note cards) Now, uh you and uh, Jerry dated for a while. Tell us ah ... what was that like?<br>
+							<br>
+							
+						(Confused, Jerry and Elaine look at each other while George stares at Kramer.)<br>
+							<br>
+							
+						KRAMER: That was the wrong card.<br>
+							<br>
+							
+						GEORGE: I-I don't get these birds! They're breaking the deal. It-it's like the pigeons decided to ignore me!<br>
+							<br>
+							
+						JERRY: So they're like everyone else.<br>
+							<br>
+							
+						KRAMER: (laughs too loudly) All right, let's take a short break.<br>
+							<br>
+							
+						(George, Elaine and Jerry sit there watching - fascinated, as Kramer munches on some chips, sits back, takes a drink of soda, sets the can down, burps and adjusts his tie)<br>
+							<br>
+							
+						KRAMER: &#133; Okay ah, (checks his watch) We're back!<br>
+							<br>
+							<br>
+							<br>
+							
+						[George's Car]<br>
+							<br>
+							
+						GEORGE: Boy that-that bank clock is-is eight minutes off.<br>
+							<br>
+							
+						MIRANDA: Then why don't you just run IT over too?<br>
+							<br>
+							
+						GEORGE: Zing.<br>
+							<br>
+							
+						(George sees a lone pigeon in the middle of the road - shot of George&#146;s worried face - back to the pigeon, as the car is almost on top of it and still not moving out of the way. George swerves the car to avoid hitting the pigeon. George pulls the car over and stops)<br>
+							<br>
+							
+						MIRANDA: George, what are you doing?<br>
+							<br>
+							
+						GEORGE: Did you see that? That-that pigeon didn't move! I had to swerve to get out of the way! I saved that pigeons life!<br>
+							<br>
+							
+						MIRANDA: What pigeon? You drove right into that squirrel. (leaves the car)<br>
+							<br>
+							
+						GEORGE: Squirrel? Well, we have no deal with THEM!<br>
+							<br>
+							<br>
+							<br>
+							
+						[Celia's Apartment]<br>
+							<br>
+							
+						(Jerry and Celia are getting comfortable, sitting on the couch, watching TV. Jerry reaches over to the shelves with all the toys and picks up a plastic army man and pretends like he&#146;s shooting another plastic army man)<br>
+							<br>
+							
+						JERRY: (sound of gunfire) Pkew, pkew, pkew, pkew, Pkeeew!<br>
+							<br>
+							
+						(Celia sees Jerry playing)<br>
+							<br>
+							
+						CELIA: Jerry! (she slides away from him) &#133; Those hands! They never stop!<br>
+							<br>
+							
+						JERRY: I'm sorry. Got any booze? What's say you and I get ripped!<br>
+							<br>
+							
+						CELIA: No. Thanks. I have a headache. Can you just get me an aspirin?<br>
+							<br>
+							
+						JERRY: All right.<br>
+							<br>
+							
+						(Jerry gets up and walks to the bathroom - Opens the medicine cabinet, picks up a pill bottle, reading the label)<br>
+							<br>
+							
+						JERRY: Ohh, will not &#147;cause drowsiness&quot;<br>
+							<br>
+							
+						(picks up another bottle) May &#147;cause&#133;drowsiness&quot;<br>
+							<br>
+							
+						(Jerry puts the first bottle back and takes the second one)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Peterman's office]<br>
+							<br>
+							
+						LOU: Here's the new copy you wanted.<br>
+							<br>
+							
+						PETERMAN: Ah, yes. Well this certainly looks like a lot of words. In record time. I'm very impressed ... with both of you.<br>
+							<br>
+							
+						(Elaine is quietly standing behind Lou - she sidled him)<br>
+							<br>
+							
+						ELAINE: (winks and clicks) Thank you. ha ha ha ha. (sits down)<br>
+							<br>
+							
+						PETERMAN: Unfortunately, I am also disgusted. This is incoherent drivel! This is a total redo. And I'm assuming I need it right away.<br>
+							<br>
+							
+						ELAINE: Well, I guess we'll just have - (Lou has left) Ohh, just gimme that. (takes the papers and walks away)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Celia's apartment ]<br>
+							<br>
+							
+						(Celia is passed out sleeping. Camera pans to a toy monkey going full speed. Jerry is playing with the original G.I. Joe in the full frogman suit. He pretends the G.I. Joe is swimming into the monkey - and beats the monkey, making it fall off the coffee table)<br>
+							<br>
+							
+						JERRY: Uhn-uh-uhn - Uhn-uh-uhn - - veeer, veeer, veeer, veeer, veeer, veeer, veeer, veeer&#133; A-Ha ha! Mission accomplished! Back to base, Joe. (singing) dee, de-de, de-de-de-de-de (Makes G.I. Joe swim off, legs kicking)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Veterinary Clinic]<br>
+							<br>
+							
+						MIRANDA: Doctor is the squirrel going to live?<br>
+							<br>
+							
+						DOCTOR: There's been massive trauma. We could of course try to save him but, it would be costly, difficult and we'd have to send away for some special really tiny instruments.<br>
+							<br>
+							
+						GEORGE: Well, uh, are there any other options?<br>
+							<br>
+							
+						DOCTOR: We, could put him to sleep.<br>
+							<br>
+							
+						GEORGE: What might that cost?<br>
+							<br>
+							
+						DOCTOR: Well it's by the pound. So ... about 80 cents.<br>
+							<br>
+							
+						GEORGE: Well? (Miranda hits George) I was just - I'm curious, that's all. We, uh. We'd like you to, do everything possible.<br>
+							<br>
+							
+						DOCTOR: He, um. He's not going to be the same, you know?<br>
+							<br>
+							
+						GEORGE: Yeah. yeah. I-I know.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Kramer's Apartment - The Merv Griffin set]<br>
+							<br>
+							
+						GEORGE: So they're flying the tiny instruments in from El Paso.<br>
+							<br>
+							
+						KRAMER: El Paso? I spent a month there one night.<br>
+							<br>
+							
+						NEWMAN: (laughs - T-heheheheheheheh) El Paso!<br>
+							<br>
+							
+						(Kramer is now laughing cause Newman is laughing)<br>
+							<br>
+							
+						JERRY: What's he here for?<br>
+							<br>
+							
+						NEWMAN: eue-aaa.<br>
+							<br>
+							
+						KRAMER: Ah to take some of the pressure off of me. So, Jerry ah, what's going on with you? I understand there's a young lady in your life. mmm.<br>
+							<br>
+							
+						JERRY: Well, actually, it's kind of a funny story because she has this amazing toy collection and last night I finally got to play with them.<br>
+							<br>
+							
+						KRAMER: Well. Sounds like things are progressing. Do I hear, wedding bells?<br>
+							<br>
+							
+						NEWMAN: Are you married right now? (points at Jerry)<br>
+							<br>
+							
+						KRAMER: Newman. (Kramer smacks Newmans&#146; arm)<br>
+							<br>
+							
+						JERRY: Actually she doesn't even know about the toys. I gave her the wrong kind of medicine and I, guess she passed out!<br>
+							<br>
+							
+						KRAMER: What do you mean &quot;wrong kind of medicine&quot;?<br>
+							<br>
+							
+						JERRY: She's even got that old Mattel football game that we love!<br>
+							<br>
+							
+						GEORGE: Oh, come on! You gotta get me over there!<br>
+							<br>
+							
+						KRAMER: Wait a minute, wait a minute! You mean to say that you drugged a woman so you could take advantage of her toys? Let's pause a moment. (Newman starts the taped music) Jerry, now, what you do with your personal life is your business, but when you're on my set - you clean it up, mister!<br>
+							<br>
+							
+						NEWMAN: I told you he was a risk.<br>
+							<br>
+							
+						JERRY: Oh, like he's not just carrying you! And has been for years!<br>
+							<br>
+							
+						NEWMAN: Yeah? Well, you bombed! That story stunk worse than these chairs!<br>
+							<br>
+							
+						KRAMER: Smile, everyone! We're back!<br>
+							<br>
+							<br>
+							<br>
+							
+						[Elaine's office]<br>
+							<br>
+							
+						LOU: You wanted to see me, Elaine?<br>
+							<br>
+							
+						ELAINE: Yes, Lou. (exhales) You've got a lot going for you. You're um ... you're spontaneous. You're, symmetrical. You're, uh, ... (spins around as Lou is behind her now) Ehh - you're very quick, aren't ya. Um, It's just that your...<br>
+							<br>
+							
+						LOU: My dead tooth?<br>
+							<br>
+							
+						ELAINE: No. Your. (breathes)<br>
+							<br>
+							
+						LOU: Not my breath?<br>
+							<br>
+							
+						ELAINE: Uuhhh.<br>
+							<br>
+							
+						LOU: What can I do?<br>
+							<br>
+							
+						ELAINE: Well, you should never ever go anywhere, (shakes a box of Tic Tacs) without these.<br>
+							<br>
+							
+						LOU: Thanks, Elaine. You're such a super lady! (he opens the door and goes into the hall - now he clicks and clacks when he walks)<br>
+							<br>
+							
+						(Elaine smiles, nodding her head, thinking she has fixed Lou&#146;s Sidling ability)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Celia's apartment]<br>
+							<br>
+							
+						GEORGE: More wine and turkey? (Pours Celia more wine)<br>
+							<br>
+							
+						CELIA: Hmm. (takes a sip)<br>
+							<br>
+							
+						JERRY: So when I saw George on the street with an 18 pound turkey and a giant box of wine, I thought: ... What a coincidence. We're just about to eat.<br>
+							<br>
+							
+						CELIA: What is that stuff in turkey that makes you sleepy?<br>
+							<br>
+							
+						JERRY and GEORGE: Tryptophan.* (*footnote - see end of script)<br>
+							<br>
+							
+						CELIA: Ahh.<br>
+							<br>
+							
+						JERRY: ... I think. Have some more wine. (Jerry pours his whole glass of wine into her glass.)<br>
+							<br>
+							
+						CELIA: What video did you get?<br>
+							<br>
+							
+						GEORGE: Oh.<br>
+							<br>
+							
+						JERRY: Oh, George brought home movies of his boyhood trip to Michigan.<br>
+							<br>
+							
+						GEORGE: Four hours.<br>
+							<br>
+							
+						JERRY: More heavy gravy?<br>
+							<br>
+							
+						(Celia is sleeping )<br>
+							<br>
+							
+						GEORGE: (playing with toys) Ahhhh, Yes! Touch down! Your turn, Jerry. (hands Jerry the Mattel Football. George starts playing with the Etch-a-sketch.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Kramer's Apartment - The Merv Griffin set]<br>
+							<br>
+							
+						NEWMAN: Lately, though, I've been, uh, - I've been buying the generic brand of waxed beans. You know, I rip of the label&#133; I can hardly tell the difference.<br>
+							<br>
+							
+						KRAMER: We've officially bottomed out, mm. Who's our next guest?<br>
+							<br>
+							
+						NEWMAN: We got no one!<br>
+							<br>
+							
+						KRAMER: We need a new format. We should shut down and re-tool.<br>
+							<br>
+							
+						(Kramer pulls the plug, hitting Newman in the process, and the show goes dark -Kramer exhales as they sit there for 7 seconds, silently, thinking )<br>
+							<br>
+							
+						NEWMAN: What about a guest-host?<br>
+							<br>
+							
+						KRAMER: I'll pretend I didn't hear that.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Veterinary Clinic]<br>
+							<br>
+							
+						MIRANDA: Doctor, how's the squirrel?<br>
+							<br>
+							
+						GEORGE: Is he dead?<br>
+							<br>
+							
+						DOCTOR: No. Fortunately, the special tiny instruments arrived just in time. Would you like to visit him?<br>
+							<br>
+							
+						MIRANDA: Yes he would.<br>
+							<br>
+							
+						(The Vet opens the door to the room with the squirrel laying on the bed. George is standing in the doorway, then takes a few steps to the bed as the doctor moves to the door.)<br>
+							<br>
+							
+						DOCTOR: You uh, You have 30 minutes. (Doctor exits. George turns and looks towards the doctor)<br>
+							<br>
+							
+						GEORGE: So ... uh, squirrel.<br>
+							<br>
+							
+						(Doctor enters)<br>
+							<br>
+							
+						DOCTOR: One more thing Mister Costanza, we just need to know what time you'll be picking him up tomorrow.<br>
+							<br>
+							
+						GEORGE: What's that?<br>
+							<br>
+							
+						DOCTOR: Oh, we're discharging the squirrel. We think he'll be better off at home.<br>
+							<br>
+							
+						GEORGE: He has no home. He's a squirrel.<br>
+							<br>
+							
+						DOCTOR: Hmm-hm. Your home, Mister Costanza. Just make sure he gets his medicine six times a day and keep his tail elevated. (exits)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Monk's]<br>
+							<br>
+							
+						JERRY: Maybe it'll be fun having a pet.<br>
+							<br>
+							
+						GEORGE: It's not a pet! It's a wild invalid! And it knows that I tried to kill it. As soon as it gets better, it's gonna gnaw my brain out in my sleep!<br>
+							<br>
+							
+						(Kramer enters)<br>
+							<br>
+							
+						KRAMER: Jerry, (claps) aaya - what are you doin' tomorrow? I want you to come by the set.<br>
+							<br>
+							
+						JERRY: What about my &quot;questionable material&quot;?<br>
+							<br>
+							
+						KRAMER: Nope, we got a whole new format. Edgy, youthful, plus ... we got Jim Fowler!<br>
+							<br>
+							
+						JERRY: Jim Fowler? The animal guy from &quot;Wild Kingdom&quot; is coming to your apartment?<br>
+							<br>
+							
+						KRAMER: Well, I practically raised his kids.<br>
+							<br>
+							
+						GEORGE: That's perfect! He's a zoo guy! He take's care of animals. C-Can I bring the squirrel by?<br>
+							<br>
+							
+						KRAMER: What? Two animal acts on the same show? (turns to Jerry) What is this, amateur hour? Look, George, I'm sorry, maybe another time, all right? (drums table and exits)<br>
+							<br>
+							
+						GEORGE: I gotta get to Fowler. I know that he would take this squirrel off my hands. It's practically bionic!<br>
+							<br>
+							
+						(Elaine enters)<br>
+							<br>
+							
+						ELAINE: Hey! (startles Jerry and George) ha ha ha ha. Nice sidle, huh? Speaking, of which I think I&#146;ve got that problem, solved.<br>
+							<br>
+							
+						JERRY: Tic-Tacs work?<br>
+							<br>
+							
+						ELAINE: He's a human maraca.<br>
+							<br>
+							
+						GEORGE: Boy, my knuckles are still cramped from that football game.<br>
+							<br>
+							
+						ELAINE: You took him over to Celia's?<br>
+							<br>
+							
+						JERRY: What? It's a victimless crime.<br>
+							<br>
+							
+						ELAINE: What about the woman who's been drugged and taken advantage of?<br>
+							<br>
+							
+						JERRY: Okay, one victim.<br>
+							<br>
+							
+						ELAINE: I think it's unconscionable.<br>
+							<br>
+							
+						GEORGE: Hey, last night, I found a whole Weeble Village right behind the EZ Bake oven.<br>
+							<br>
+							
+						ELAINE: EZ Bake oven?<br>
+							<br>
+							<br>
+							<br>
+							
+						[Celia's apartment]<br>
+							<br>
+							
+						(Celia at the dinner table, passed out again. We hear a ding from the EZ Bake Oven. Elaine, Jerry and George are sitting on the floor around the coffee table full of toys.)<br>
+							<br>
+							
+						ELAINE: Who wants cupcake?<br>
+							<br>
+							
+						GEORGE: Oh, me, me, me, me, me!<br>
+							<br>
+							
+						JERRY: You know, that batter is, like, 30 years old.<br>
+							<br>
+							
+						FRANK: (on TV) You step on it and it flushes.<br>
+							<br>
+							
+						ELAINE: Why is your father giving a tour of a rest stop?<br>
+							<br>
+							
+						ESTELLE: (on TV) Stop squirming.<br>
+							<br>
+							
+						GEORGE: Oh, don't look. T-This is the part where they change me.<br>
+							<br>
+							
+						JERRY: You're like eight years old.<br>
+							<br>
+							
+						ESTELLE: (on TV) Georgie.<br>
+							<br>
+							
+						GEORGE: I was seven and a half.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Elaine's office]<br>
+							<br>
+							
+						(Elaine is shaking some Tic Tacs into her hand)<br>
+							<br>
+							
+						PETERMAN: That noise. That's the noise!<br>
+							<br>
+							
+						ELAINE: What?<br>
+							<br>
+							
+						PETERMAN: That infernal rattling sound that has plagued me these past two days - and I could not find the source. In my office, in the hallway. Even in the men's room! Shame on you, Elaine!<br>
+							<br>
+							
+						ELAINE: No, no, Mr. Peterman that wasn't me!<br>
+							<br>
+							
+						PETERMAN: That reminds me of the Hatian Voodoo rattle torture! You haven't gone over to their side have you?<br>
+							<br>
+							
+						ELAINE: No Mister Peterman.<br>
+							<br>
+							
+						PETERMAN: Because, if I hear one more rattle - just one - your out on your can. And if you are undead - I'll find out about that too. (Exits)<br>
+							<br>
+							
+						(Elaine hears the click-clack click-clack rattling of the Tic-Tacs in the hall - she searches for the source of the sound)<br>
+							<br>
+							<br>
+							
+						[Coffee room]<br>
+							<br>
+							
+						ELAINE: (pushes Lou into the room) Lou! In here! (closes the door) We have to talk.<br>
+							<br>
+							
+						LOU: Oh, right.<br>
+							<br>
+							
+						ELAINE: (Takes the Tic Tacs away from Lou) Ooh, stop it! Bad voodoo. You gotta stop using these.<br>
+							<br>
+							
+						LOU: Why?<br>
+							<br>
+							
+						ELAINE: Because they're turning your teeth green?<br>
+							<br>
+							
+						LOU: I only buy the white ones.<br>
+							<br>
+							
+						ELAINE: O-kay ... well then your teeth are green for a different reason. You just gotta stop carrying these, okay? Just ... just mouth wash.<br>
+							<br>
+							
+						LOU: I can't. It burns my cankers.<br>
+							<br>
+							
+						ELAINE: Binaca?<br>
+							<br>
+							
+						LOU: Again.<br>
+							<br>
+							
+						ELAINE: Right, right, cankers. Um, I got it! Chew gum!<br>
+							<br>
+							
+						LOU: I hate gum. The only guy I ever liked came with the Mickey Mouse gumball machine. They stopped making that 20 years ago.<br>
+							<br>
+							
+						ELAINE: Well, stinky, this is your lucky day.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Kramer's Apartment - The Merv Griffin set]<br>
+							<br>
+							
+						KRAMER: Okay. A little later, we're gonna be talking with animal expert, Jim Fowler.<br>
+							<br>
+							
+						FOWLER: Where are the cameras? (he has a live Hawk perched on his arm)<br>
+							<br>
+							
+						KRAMER: But first, we're talking with, Jerry. (looks down to his yellow note cards) Okay, Jerry, uh, you uh, you drugged a woman in order to play with her toy, collection. How do you feel about that?<br>
+							<br>
+							
+						JERRY: It was great! I've done it a few more time since then.<br>
+							<br>
+							
+						KRAMER: And she doesn't know anything, about this?<br>
+							<br>
+							
+						JERRY: No, not a thing.<br>
+							<br>
+							
+						(Newman laughs)<br>
+							<br>
+							
+						KRAMER: Well, Jerry, we have a little surprise for you! Come on out, Celia!<br>
+							<br>
+							
+						(just like the &#147;The Jerry Springer Show&#148;)<br>
+							<br>
+							
+						CELIA: What kind of a sick twisted creep are you?<br>
+							<br>
+							
+						NEWMAN &amp; KRAMER: Woah.<br>
+							<br>
+							
+						JERRY: What, What is this? What is she doing here?<br>
+							<br>
+							
+						KRAMER: It's the new format. Scandals and Animals. Git gt gt.<br>
+							<br>
+							
+						CELIA: If you think you can drug me and play with my toys, you got another thing coming, buddy!<br>
+							<br>
+							
+						NEWMAN: Go girl!<br>
+							<br>
+							
+						JERRY: Well, what kind of woman drinks an entire box of wine?<br>
+							<br>
+							
+						NEWMAN and KRAMER: Ohhh!<br>
+							<br>
+							
+						(George enters with the squirrel)<br>
+							<br>
+							
+						GEORGE: Mister Fowler, I-I have a squirrel here that is a miracle of modern science! (laughs)<br>
+							<br>
+							
+						KRAMER: George I told you we're booked!<br>
+							<br>
+							
+						FOWLER: Careful. Hawks and squirrels don't get along together.<br>
+							<br>
+							
+						(the Hawk starts making squawking sounds)<br>
+							<br>
+							
+						KRAMER: Ohhh. another interesting confrontation. This could be spicy. Yeah, George bring him over.<br>
+							<br>
+							
+						GEORGE: Uh.<br>
+							<br>
+							
+						FOWLER: No, you idiot! Hawks eat squirrels!<br>
+							<br>
+							
+						(in slow motion - the hawk flies straight at George and the squirrel. Then a shot of Jerry looking amazed, Kramer looking stunned, Newman totally amused. Then the screeching hawk, again in slow motion, coming right at George. George puts his crossed arms up in front of him)<br>
+							<br>
+							
+						GEORGE: Ahhhh, Ahh, Ah, Ahhh, Ahh, Ah!<br>
+							<br>
+							
+						KRAMER: (off camera) Are we getting this?<br>
+							<br>
+							<br>
+							<br>
+							
+						[Monk's]<br>
+							<br>
+							
+						(George has some scratches on his forehead)<br>
+							<br>
+							
+						JERRY: So the whole set was destroyed?<br>
+							<br>
+							
+						KRAMER: Well, the squirrel kept scurrying and the hawk kept clawing.<br>
+							<br>
+							
+						GEORGE: Well, at least we know the prosthetic squirrel hips work ... sorry &#145;bout the set.<br>
+							<br>
+							
+						KRAMER: I&#146;ll tell ya it was a grind having to fill 10 hours a day. I'm not sure I was ready to have my own talk show set.<br>
+							<br>
+							
+						MIRANDA: I got the nut bread, George. Let's go. (exits)<br>
+							<br>
+							
+						JERRY: So the squirrel's gonna make it?<br>
+							<br>
+							
+						GEORGE: Yeah, he's in my bed. I'm&#133; sleeping on the couch.<br>
+							<br>
+							
+						JERRY: On the couch? So you're...<br>
+							<br>
+							
+						GEORGE: Still getting nothing!<br>
+							<br>
+							
+						(George sees some pigeons outside the window, making pigeon noises)<br>
+							<br>
+							
+						GEORGE: So go ahead pigeons. hu hu hu. Laugh it up. I'm getting in my car now and the last I heard ... we have NO DEAL!<br>
+							<br>
+							<br>
+							<br>
+							
+						[Celia's]<br>
+							<br>
+							
+						CELIA: I'm glad you called, Elaine. I really needed to talk to someone.<br>
+							<br>
+							
+						ELAINE: Oh well, hey, I dated Jerry too. I-I know what a monster he can be. More wine and turkey?<br>
+							<br>
+							
+						CELIA: Who's he? (Lou)<br>
+							<br>
+							
+						ELAINE: Oh, he's nobody. Hey, listen, ... let me top that off for ya. (pours her glass of wine into Celia&#146;s glass)<br>
+							<br>
+							
+						(Merv Griffin Show theme music plays)<br>
+							<br>
+							<br>
+							
+						The End<br>
+							<br>
+							<br>
+							
+						==================================================================<br>
+							<br>
+							
+						* Tryptophan<br>
+							
+						http://home.howstuffworks.com/question519.htm<br>
+							
+						Is there something in turkey that makes you sleepy?<br>
+							<br>
+							
+						Turkey does have the makings of a natural sedative in it, an amino acid called tryptophan. Tryptophan is an essential amino acid, meaning that the body cannot<br>
+							
+						manufacture it. The body has to get tryptophan and other essential amino acids from<br>
+							
+						food. Tryptophan helps the body produce the B-vitamin niacin, which, in turn, helps the<br>
+							
+						body produce serotonin, a remarkable chemical that acts as a calming agent in the brain<br>
+							
+						and plays a role in sleep. So you might think that if you eat a lot of turkey, your body<br>
+							
+						would produce more serotonin and you would feel calm and want a nap.<br>
+							<br>
+							<br>
+							<br>
+							
+						http://www.ehso.com/ehshome/FoodSafety/foodtryptophan.php<br>
+							<br>
+							
+						What is tryptophan?<br>
+							<br>
+							
+						Tryptophan is an essential Amino Acid. It is a precursor for serotonin (which aids sleep and anxiety),and helps in niacin (B vitamins) production. Foods that are considered sources of tryptophan are dairy products, beef, poultry, barley, brown rice, fish, soybeans, and peanuts.<br>
+							<br>
+							
+						L-tryptophan is a natural sedative. It is normally found in turkey meat, and many people believe it to be the cause of a sleepiness common after a Thanksgiving feast.<br>
+							<br>
+							
+						Tryptophan is a component of many plant and animal proteins, and a normal part of the diet that humans must get from outside sources. It also happens to be the precursor (starting material) from which our brains make serotonin, which calms you down and makes you sleepy.<br>
+							<br>
+							<br>
+							
+						The Answer<br>
+							<br>
+							
+						Now, back to our original question. Does the tryptophan in turkey make you sleepy after eating a big Thanksgiving turkey dinner?<br>
+							<br>
+							
+						Sorry to say, that if you're looking for the sedative effect, it's unlikely you'll get it from eating meats like turkey. L-tryptophan doesn't act on the brain unless you take it on an empty stomach with no protein present. So it probably isn't at fault for the sudden drowsiness that hits right after the meal when the football games come on, and the dishes are waiting!<br>
+							<br>
+							
+						It's more likely due to the combination of drinking alcohol and overeating - not just turkey, but also mashed potatoes, ham, creamed onions, cranberries, sweet potatoes, peas, stuffing (or dressing, if you prefer), carrots, bread, pies, and whipped cream - all of which have the effect of puling the blood away from your brain to help your digestive tract do it's work, and the sugar/insulin effect.<br>
+							<br>
+							
+						On the bright side, more evidence suggest that caffeine is not only not bad for you; it actually helps many brain functions, alertness, learning, memory and countering Alzheimers... so have a cup of coffee or tea (yeah, green tea if you really want to claim additional health benefits! )!<br>
+						</td>
+						</tr>
+						<tr height="6">
+							<td class="bottom2" width="645" height="6"></td>
+						</tr>
+						<tr>
+							<td width="645">
+								<div align="center">
+									<font size="-1">Copyright 2006 seinology.com | All Rights Reserved | Designed by 13erla</font></div>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+		<p></p>
+	</body>
+
+</html>

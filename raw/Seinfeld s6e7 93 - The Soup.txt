@@ -1,0 +1,1609 @@
+<tdOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+<html>
+
+	<head>
+		<meta http-equiv="content-type" content="text/html;charset=ISO-8859-1">
+		<meta name="description" content="Top Source for Seinfeld">
+		<meta name="keywords" content="seinfeld, sienfeld, Jerry Seinfeld, Julia Louis Dreyfus, Jason Alexander, Michael Richards, Kramer, George, Costanza, Elaine Benes, morty, Larry David">
+		<title>Seinology.com :: Scripts :: 93-The Soup</title>
+	<link rel='stylesheet' href='/stylesheet.css' type='text/css'>
+	</head>
+
+	<body>
+			<table align="center" width="787" border="0" cellspacing="0" cellpadding="0">
+				<tr>
+					<td><font size="-2" color="red">Seinology.com - </font><font size="-3" color="black">Where Seinfeld Content and Accuracy Matter Most. Seinfeld scripts in pdf form, Seinfeld episode video clips, Seinfeld episode audio clips, Jerry Seinfeld appearances, Julia Louis-Dreyfus appearances, Michael Richards appearances, Jason Alexander appearances, Seinfeld discussion Forum, Seinfeld Where are they Now? Seinlanguage Newsletter, Popular Seinfeld Lists, Seinfeld episode standup, Seinfeld episode guide, Seinfeld fan fiction. Seinfeld content all on one domain. Seinology.com enjoy your stay.</font></td>
+				</tr>
+			</table>
+		
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr height="100">
+				<td class="logo"></td>
+			</tr>
+			<tr><td class="ads" align="center" background=#8694fa>
+				<script type="text/javascript"><!--
+google_ad_client = "pub-1924026976931416";
+google_ad_width = 728;
+google_ad_height = 90;
+google_ad_format = "728x90_as";
+google_ad_type = "text";
+google_ad_channel = "";
+google_color_border = "FFFFFF";
+google_color_bg = "8694fa";
+google_color_link = "0000FF";
+google_color_text = "000000";
+google_color_url = "002E3F";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></td></tr>
+		</table>
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr>
+				<td valign="top" width="136">
+					<table width="136" border="0" cellspacing="0" cellpadding="0">
+						<tr height="24">
+							<td class="navigation">
+								<div align="center">
+									
+									<b>Navigation</b></div>
+							</td>
+						</tr>
+						<tr height="199">
+							<td class="spacer1" valign="top" width="136" height="199">
+								<div align="center">
+									<font size="-1"><a href="http://www.seinology.com">Home</a><br>
+										<a href="http://board.seinology.com">Forum</a><br>
+										<a href="http://www.seinology.com/av.shtml">Audio/Video</a><br>
+										<a href="http://www.seinology.com/scripts.shtml">Scripts</a><br>
+										<a href="http://www.seinology.com/survivor.shtml">Survivor</a><br>
+										<a href="http://www.seinology.com/fanfics.shtml">Fan Fiction</a><br>
+										<a href="http://www.seinology.com/gallery/">Gallery</a><br>
+										<a href="http://www.seinology.com/newsletter.shtml">Newsletter</a><br>
+										<a href="http://www.seinology.com/lists.shtml">Lists</a><br>
+										<a href="http://www.seinology.com/epguide.shtml">Episode Guide</a><br>
+										<a href="http://www.seinology.com/links.shtml">Links</a><br>
+										<a href="http://www.seinology.com/faqother.shtml">Faq + others</a><br>
+										<a href="http://www.seinology.com/legal.shtml">Legal</a></font></div>
+							</td>
+						</tr>
+						
+						<tr>
+							<td class="nav2" width="136">
+							<div align="center"><b>Search</b></div></td>
+						</tr>
+						<tr>
+							<td class="spacer1" width="136" valign="top"><div align="center"><form method="get" action="http://www.seinology.com/search/search.cgi">
+<p><label for="fdse_Match">Match</label><br>
+<select name="Match" id="fdse_Match" size="1">
+<option value="1">All</option>
+<option value="0">Any</option>
+<option value="2">Phrase</option>
+</select></p>
+<p><label for="fdse_Realm">Where?</label><br>
+<select name="Realm" id="fdse_Realm" size="1">
+<option selected="selected" value="All">EntireSite</option>
+<option value="Ep Guide">Ep Guide</option>
+<option value="Images">Images</option>
+<option value="Lists">Lists</option>
+<option value="Newsletters">Newsletters</option>
+<option value="Scripts">Scripts</option>
+<option value="Notes..Nothing">Notes..Nothing</option>
+</select></p>
+<p><input type="text" name="Terms" size="14" id="fdse_Terms"><br>
+<input type="submit" class="submit" name="submitButtonName" value="Search"></p>
+</div></form></td>
+						</tr>
+						<tr><td class="bottom" width="136" height="10" valign="top">
+						</td>
+						</tr>
+					</table>
+				</td>
+				<td width="4"></td>
+				<td valign="top" width="645">
+					<table width="645" border="0" cellspacing="0" cellpadding="0">
+						<tr height="18">
+							<td width="645" height="35" class="bar">
+								<div align="center">
+									<b><font size="+2" color="black">Script</font></b></div>
+							</td>
+						</tr>
+						<tr height="362">
+							<td class="spacer2" valign="top" width="645" height="362">
+
+						<p><font size="-2">Episode 93 - The Soup<br>
+							
+						pc: 607, season 6, episode 7<br>
+							
+						Broadcast date: November 10, 1994<br>
+							<br>
+							
+						Written by Fred Stoller<br>
+							
+						Directed by Andy Ackerman<br>
+							<br>
+							
+						-------------------------------------------------------------------------------<br>
+							<br>
+							
+						The Cast<br>
+							
+						Regulars:<br>
+							
+						Jerry Seinfeld ....................... Jerry Seinfeld<br>
+							
+						Jason Alexander .................. George Costanza<br>
+							
+						Julia Louis-Dreyfus ............. Elaine Benes<br>
+							
+						Michael Richards ................. Kramer<br>
+							<br>
+							
+						Guest Stars:<br>
+							<br>
+							
+						Tracy Kolis&nbsp; ......................... Kelly<br>
+							
+						Daniel Gerroll ..................... Simon<br>
+							
+						Linda Wallem&nbsp; ..................... Hildy<br>
+							
+						Lawrence A. Mandley ........ Manager / Monk's<br>
+							
+						Michael Kaplan .................... Waiter<br>
+							
+						rc:&nbsp; Steve Hytner ................. Kenny Bania<br>
+							<br>
+							
+						==================================================================<br>
+							<br>
+							
+						[Opening monologue]<br>
+							<br>
+							
+						You have a close friend and they get involved, with someone in a relationship. It affects your friendship doesn't it? Because it's like you were a comedy team, and now there's this third person, you know, it kind of throws off the timing. Who's on first, I don't know, uh dear, who, who do you think is on first? In fact, whenever a friend of mine ah, starts with a new girlfriend, he should just say, &#147;I look like the person you use to know, but I've been modified to survive in this relationship. In other words, if were having an argument and she's there, I may say I totally disagree with you, but what that means is, I&#146;d like to help you out, but I&#146;d rather continue to see her naked.&#148;<br>
+							<br>
+							<br>
+							<br>
+							
+						[Exterior daylight shot of Monk's restaurant -- then inside where Jerry and George are sitting in the usual booth. A waitress (Kelly) walks up to the table to take their order.]<br>
+							<br>
+							
+						WAITRESS: O.K. Cowboys, (taps pencil on her pad) What'll you have?<br>
+							<br>
+							
+						JERRY: I&#146;ll have the, ah, turkey club without the bacon.<br>
+							<br>
+							
+						GEORGE: And ah, I&#146;ll have the bacon club without the turkey. (raises eyebrows)<br>
+							<br>
+							
+						WAITRESS: George, don't make me get tough with you.<br>
+							<br>
+							
+						GEORGE: Why, you think you can, beat me up?<br>
+							<br>
+							
+						WAITRESS: You wouldn't want me to mess up the beautiful face of yours.<br>
+							<br>
+							
+						GEORGE: Huh, nggh [snort] Stop. (flirting with her he playfully hits her arm with the menu, then flicks it into the air)<br>
+							<br>
+							
+						WAITRESS: You don't want bacon I&#146;ll surprise you. (she turns and walks away)<br>
+							<br>
+							
+						GEORGE: Wow, is she not terrific?<br>
+							<br>
+							
+						JERRY: She does have a way.<br>
+							<br>
+							
+						GEORGE: You think she thinks I have a beautiful face, or is she just saying that?<br>
+							<br>
+							
+						JERRY: Well they do work on tips.<br>
+							<br>
+							
+						GEORGE: &#147;George, don't make me get tough with you.&#148; Whu, hu, hu, hu huuuu (raises arms) Who says that? She is really cool. What do you think? You think she likes me?<br>
+							<br>
+							
+						JERRY: Ah, I should have got the egg white omelet.<br>
+							<br>
+							
+						GEORGE: Why should she like me? Who am I? Huh, there's a million people to like.<br>
+							<br>
+							
+						JERRY: The omelet. Damn.<br>
+							<br>
+							
+						GEORGE: Maybe she could like me? Is it that far fetched? Maybe she sees something? Is it possible?<br>
+							<br>
+							
+						JERRY: No.<br>
+							<br>
+							
+						GEORGE: No.<br>
+							<br>
+							
+						JERRY: Not possible.<br>
+							<br>
+							
+						GEORGE: Not possible.<br>
+							<br>
+							
+						(Elaine enters and walks up to the table)<br>
+							<br>
+							
+						ELAINE: Heyyyyyy (leaning in, very friendly and happy)<br>
+							<br>
+							
+						GEORGE: Hey Elaine.<br>
+							<br>
+							
+						JERRY: Lannie, how was the trip?<br>
+							<br>
+							
+						(Elaine sits down next to George in the booth)<br>
+							<br>
+							
+						GEORGE: What trip? You were gone?<br>
+							<br>
+							
+						ELAINE: I went to England ... with Mr. Pitt, for 5 days.<br>
+							<br>
+							
+						GEORGE: Hunh, pph (raises hands slightly, in amazement) How was it?<br>
+							<br>
+							
+						ELAINE: Actually it was great. I met an Englishman, and we really, hit it off.<br>
+							<br>
+							
+						JERRY: Yeah, well that relationships really got a lot of potential.<br>
+							<br>
+							
+						GEORGE: he he (laughs)<br>
+							<br>
+							
+						ELAINE: Yeah well Jerome, I, happen to be flying him in on my frequent flyer miles.<br>
+							<br>
+							
+						GEORGE: Flying him in? How long&#146;s he staying for?<br>
+							<br>
+							
+						ELAINE: It's an open ended ticket. He can return any time he wants.<br>
+							<br>
+							
+						GEORGE: All this in 5 days. Hmm.<br>
+							<br>
+							
+						JERRY: Oh no, it's Kenny Bania.<br>
+							<br>
+							
+						(Kenny Bania is hanging up his coat on the coat rack by the front door)<br>
+							<br>
+							
+						GEORGE: Who's he?<br>
+							<br>
+							
+						JERRY: (quietly) Oh, he's this awful comedian.<br>
+							<br>
+							
+						(Bania walks over to the table, stands there with his arms on his hips)<br>
+							<br>
+							
+						BANIA: Hey Jerry.<br>
+							<br>
+							
+						JERRY: Hey Kenny. (with some fake enthusiasm, just to be polite)<br>
+							<br>
+							
+						JERRY: Elaine, George (introducing them to Bania with less enthusiasm)<br>
+							<br>
+							
+						ELAINE: Hi. (she flips her hair)<br>
+							<br>
+							
+						GEORGE: Hi (raises his left hand in a slight gesture to say hi)<br>
+							<br>
+							
+						BANIA: Hi. (to Elaine)<br>
+							<br>
+							
+						JERRY: How's it going?<br>
+							<br>
+							
+						BANIA: Great. I've been working out. Went from a size 40, to a 42.<br>
+							<br>
+							
+						JERRY: No kidding.<br>
+							<br>
+							
+						BANIA: Yeah, I&#146;m huge (ducks his head into his right shoulder with false modesty) Well, I&#146;ll leave you guys alone. (raps his knuckle twice on the table, turns and walks away)<br>
+							<br>
+							
+						JERRY: All right.<br>
+							<br>
+							
+						ELAINE: O.K. Thanks.<br>
+							<br>
+							
+						(Bania gets about 3-4 steps away then turns around quickly)<br>
+							<br>
+							
+						BANIA: Oh. Jerry, You know what just hit me? I was thinking -- What size suit are you?<br>
+							<br>
+							
+						JERRY: Ahh, I&#146;m a 40. Why?<br>
+							<br>
+							
+						BANIA: I just got a brand new Armani suit -- doesn't fit me anymore. You want it?<br>
+							<br>
+							
+						JERRY: Well I don't know if I ...<br>
+							<br>
+							
+						BANIA: Oh come on. Why should it just sit in the closet?<br>
+							<br>
+							
+						ELAINE: An Armani suit?<br>
+							<br>
+							
+						GEORGE: Take the suit.<br>
+							<br>
+							
+						JERRY: Well ... ok, I guess (voice trailing off)<br>
+							<br>
+							
+						BANIA: You gonna be home later?<br>
+							<br>
+							
+						JERRY: Yeah.<br>
+							<br>
+							
+						BANIA: I&#146;ll drop it off. (raps his knuckle twice on the table again, turns and walks away)<br>
+							<br>
+							
+						GEORGE: Heh heh heh hey, new suit (raises coffee cup as a salute / toast)<br>
+							<br>
+							
+						JERRY: Yeah, yeah, lucky me. (sips coffee)<br>
+							<br>
+							
+						(The waitress walks up to the table with Jerry and George's plates)<br>
+							<br>
+							
+						WAITRESS: (to George) Here I personally made you a cold chicken sandwich. It's not even on the menu.<br>
+							<br>
+							
+						GEORGE: (takes a large bite - with his mouth still full, his speech is muffled) Oh, this is fabulous.<br>
+							<br>
+							
+						(The waitress cocks her head and looks at George as if she is glad he likes the sandwich)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Exterior of the restaurant, then to Jerry and George standing outside on the sidewalk. Jerry is zipping up his leather jacket. George is wearing a larger green jacket.]<br>
+							<br>
+							
+						GEORGE: Boy, she is nice. I like her, I like her Jerry. She's got substance. She oozes substance.<br>
+							<br>
+							
+						JERRY: Well, go in there and talk to her. She's not going to put &#145;em on the glass.<br>
+							<br>
+							
+						GEORGE: You mean a walk back in? That's the toughest move in the business. You're sending me out into no-man&#146;s-land, and if I get shot down I have to crawl all the way back. Well I can't do it! I can't do it, I tell ya!<br>
+							<br>
+							
+						(Jerry grabs George forcefully by the collar of his coat)<br>
+							<br>
+							
+						JERRY: Pull yourself together. Your going in there soldier! That's an order!<br>
+							<br>
+							
+						(Jerry lightly slaps George on his right arm. George turns to look at the restaurant and the task at hand)<br>
+							<br>
+							
+						JERRY: Get in there. (he pushes George in the direction of the restaurant)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Exterior daylight shot of Jerry's brick apt. building, then to the interior of his apt. Kramer enters quickly, sliding on his right foot.]<br>
+							<br>
+							
+						KRAMER: Hey. (walking over to Jerry, who sits at the table reading the newspaper)<br>
+							<br>
+							
+						JERRY: Hey.<br>
+							<br>
+							
+						KRAMER: Listen, I need you to do me a favor.<br>
+							<br>
+							
+						JERRY: What?<br>
+							<br>
+							
+						KRAMER: Well, I need you to help me move my refrigerator.<br>
+							<br>
+							
+						JERRY: Why?<br>
+							<br>
+							
+						KRAMER: Cause I&#146;m getting rid of it.<br>
+							<br>
+							
+						[Intercom buzzes]<br>
+							<br>
+							
+						(Kramer turns &amp; goes over to the intercom to push the speaker button. He says something like &#147;ya go,&#148; but it's difficult to make out what he says)<br>
+							<br>
+							
+						JERRY: YEAH? (speaking loudly so the visitor can hear him through the intercom)<br>
+							<br>
+							
+						BANIA: [It's K.B., I have the suit]<br>
+							<br>
+							
+						JERRY: ALL RIGHT, COME ON UP (Jerry puts his head down - he's not looking forward to Kenny Bania)<br>
+							<br>
+							
+						KRAMER: (claps hands) So ...<br>
+							<br>
+							
+						JERRY: Well, well, why are you getting rid of your refrigerator? (he gets up from the table and carries a dish into the kitchen)<br>
+							<br>
+							
+						KRAMER: Well after that Kidney Stone I only want fresh food. It's gotta be fresh. I&#146;m not eating any more stored food. Plus you know I want the space.<br>
+							<br>
+							
+						JERRY: What for?<br>
+							<br>
+							
+						KRAMER: Well I could put a, dresser in there. I could get dressed while I&#146;m making breakfast.<br>
+							<br>
+							
+						(Bania opens the door and leans his head in)<br>
+							<br>
+							
+						BANIA: Hey (holds the Armani suit up) Here you go. (walks into the apt.)<br>
+							<br>
+							
+						JERRY: Yeah.<br>
+							<br>
+							
+						BANIA: You didn&#146;t think I was really going to give you a suit, did you?<br>
+							<br>
+							
+						KRAMER: What, you're giving him this suit?<br>
+							<br>
+							
+						BANIA: That's right, and it's an Armani.<br>
+							<br>
+							
+						KRAMER: Armani? Hey, Armani Jerry. (Kramer takes the suit and looks it over)<br>
+							<br>
+							
+						JERRY: Yes, yes, I heard.<br>
+							<br>
+							
+						KRAMER: Come on, try it on.<br>
+							<br>
+							
+						(Kramer takes the jacket off of the hangar and put the pans, still on the hanger, on the kitchen counter -- he opens the jacket for Jerry to slip in to)<br>
+							<br>
+							
+						JERRY: No, it's ok.<br>
+							<br>
+							
+						KRAMER: Come on, I want to see how it fits.<br>
+							<br>
+							
+						JERRY: All right, all right. (trying on the suit jacket)<br>
+							<br>
+							
+						KRAMER: There you go.<br>
+							<br>
+							
+						JERRY: Ok, Yeah all right.<br>
+							<br>
+							
+						KRAMER: Oh boy, that looks great. I can't believe you're giving him this.<br>
+							<br>
+							
+						BANIA: I don't even want anything for it.<br>
+							<br>
+							
+						(grinning like a Hyena, Bania looks at Jerry -- Jerry's _expression looks like &#147;what have I gotten myself into here.&#148;)<br>
+							<br>
+							
+						KRAMER: He's very generous, isn't he?<br>
+							<br>
+							
+						JERRY: Yes, yes, he is.<br>
+							<br>
+							
+						BANIA: I&#146;ll tell you what -- you can take me out to dinner sometime.<br>
+							<br>
+							
+						(Jerry starts taking the jacket off and stops -- looking very surprised at Bania)<br>
+							<br>
+							
+						JERRY: Dinner?<br>
+							<br>
+							
+						BANIA: Yeah. You buy me a meal -- you can't get a better deal than that (pats Jerry on the shoulder)<br>
+							<br>
+							
+						KRAMER: No, you'll never get a better deal than that.<br>
+							<br>
+							
+						BANIA: All right. I&#146;ll leave you alone. (turns and walks out the door)<br>
+							<br>
+							
+						JERRY: Yeah, I&#146;ll see you.<br>
+							<br>
+							
+						KRAMER: All right, ooh look at that Armani, huh, yeah.<br>
+							<br>
+							
+						(Jerry has the jacket off and walks over to the table -- he tosses the it onto the table)<br>
+							<br>
+							
+						JERRY: Yeah, that's a deal. That's a terrible deal. I don't want to go out to dinner with him. I&#146;d rather make my own suit.<br>
+							<br>
+							
+						(Kramer rubs his fingers through his high standing hair as George enters the apt.)<br>
+							<br>
+							
+						GEORGE: I did it! It's all done!<br>
+							<br>
+							
+						JERRY: Hey. (raises hands into &#147;fists of encouragement&#148;)<br>
+							<br>
+							
+						GEORGE: I did it. Hunh, we're going out as soon as she gets off of work and it'll still be daytime. You know I, I&#146;m much better in the daytime then I am at night. it's less pressure.<br>
+							<br>
+							
+						JERRY: I love the day date. No wine, No shower.<br>
+							<br>
+							
+						GEORGE: There ya go.<br>
+							<br>
+							<br>
+							<br>
+							
+						[A daylight shot of a yellow taxi driving down the street, then inside to the back seat of the taxi -- Simon, the Englishman that Elaine met on her trip is riding with her.]<br>
+							<br>
+							
+						ELAINE: So the trip was good?<br>
+							<br>
+							
+						SIMON: Yes (nice English accent) Apart from that, dreadful airline food. It tends to reek havoc with my stomach.<br>
+							<br>
+							
+						ELAINE: You know I, I have to say, I've never admitted this to anyone, but um, I kind of like airline food. (leans in and laughs, flirting with him)<br>
+							<br>
+							
+						SIMON: That's probably because of ... [muttering]<br>
+							<br>
+							
+						ELAINE: What?<br>
+							<br>
+							
+						SIMON: What?<br>
+							<br>
+							
+						ELAINE: Yeah, what?<br>
+							<br>
+							
+						SIMON: [sighs]<br>
+							<br>
+							
+						ELAINE: What?<br>
+							<br>
+							
+						SIMON: Where I come from, we don't say &#147;What?&#148; It's proper to say &#147;Pardon?&#148;<br>
+							<br>
+							
+						ELAINE: Huh. (muttering) This should be interesting.<br>
+							<br>
+							
+						SIMON: Pardon?<br>
+							<br>
+							
+						ELAINE: Nothing.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Beautiful aerial shot of Central Park and part of the city (visible off to the left) -- looks to be a beautiful autumn day. Then to the waitress (Kelly) and George strolling along a path in the park. Each has a coat on and their hands are in their pockets.]<br>
+							<br>
+							
+						KELLY: So then about a year ago I started selling, these funky little hair clips. It's going pretty good. I make them in my apartment.<br>
+							<br>
+							
+						(a horse with rider walks by)<br>
+							<br>
+							
+						KELLY: I&#146;m just doing this waitress thing for a while, because I wanted to go to Europe this summer&#133;<br>
+							<br>
+							
+						GEORGE: (quietly) ahh.<br>
+							<br>
+							
+						KELLY: &#133;and I could use a few extra ... Careful<br>
+							<br>
+							
+						(she points to the ground, so George will see the fresh horse manure and avoid stepping in it)<br>
+							<br>
+							
+						GEORGE: Oh. It's just horse manure (huh huh - laughs, he points back at the horse that walked by) Horse manure's not that bad. I don't even mind the word &#147;manure.&#148; You know, it's, it's &#147;nure,&#148; which is good. and a &#147;ma&#148; in front of it. MA-NURE. I mean when you consider the other choices, &#147;manure&#148; is actually pretty refreshing.<br>
+							<br>
+							
+						(they both laugh a little and George glances at his watch)<br>
+							<br>
+							
+						KELLY: That's a nice watch George.<br>
+							<br>
+							
+						GEORGE: Yeah.<br>
+							<br>
+							
+						KELLY: You know, my boyfriend has the same one.<br>
+							<br>
+							
+						GEORGE: Huh. Really?<br>
+							<br>
+							
+						KELLY: Yeah, he loves watches. He's a real watch freak.<br>
+							<br>
+							
+						GEORGE: Well, how about that?<br>
+							<br>
+							
+						KELLY: Ooh look out. (pointing at the ground - squishing sound) You stepped right in it.<br>
+							<br>
+							
+						GEORGE: Yes, I sure did.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Exterior of Jerry's brick apartment building with the staircase - then inside where George and Jerry are talking.]<br>
+							<br>
+							
+						JERRY: So you just pretended it didn&#146;t bother you?<br>
+							<br>
+							
+						GEORGE: What is that, Boyfriend? I don't understand that. What, what does she think I asked her out for?<br>
+							<br>
+							
+						JERRY: Boy, It's the way they just slip it in there too.<br>
+							<br>
+							
+						GEORGE: Yeah, yeah, like it's just part of the conversation. &#147;Oh my boyfriend really likes watches. He's a real watch freak.&#148; We-e-ell that's fabulous. (snaps fingers in the air a couple of times)<br>
+							<br>
+							
+						JERRY: Well let me ask you this. What exactly did you say when you asked her out?<br>
+							<br>
+							
+						GEORGE: I said, &#147;would you like to go for a walk or something.&#148;<br>
+							<br>
+							
+						JERRY: Oh, a walk, well --<br>
+							<br>
+							
+						GEORGE: Or something. I said, &#147;Or Something!&#148;<br>
+							<br>
+							
+						JERRY: Or something. Yeah, that's a date.<br>
+							<br>
+							
+						GEORGE: (snaps fingers) There you go.<br>
+							<br>
+							
+						JERRY: Course you know there is always the possibility, that she called an audible.<br>
+							<br>
+							
+						GEORGE: What do you mean?<br>
+							<br>
+							
+						JERRY: Well she got up to the line of scrimmage, didn&#146;t like the looks of the defense and changed the play.<br>
+							<br>
+							
+						GEORGE: I think things were going ok. We were having a nice conversation.<br>
+							<br>
+							
+						JERRY: Uh huh.<br>
+							<br>
+							
+						GEORGE: I mentioned how I liked horse manure.<br>
+							<br>
+							
+						JERRY: You did?<br>
+							<br>
+							
+						GEORGE: Yeah.<br>
+							<br>
+							
+						JERRY: Yeah. You said you liked horse manure.<br>
+							<br>
+							
+						GEORGE: Yeah.<br>
+							<br>
+							
+						JERRY: (quietly) Mm-hm.<br>
+							<br>
+							
+						GEORGE: You know, about how when you break it down, it's really a very positive thing. you know, you have a &#147;nure,&#148; with a &#147;ma&#148; in front of it. MA-NURE. I&#146;z not bad.<br>
+							<br>
+							
+						JERRY: And it was around this point that she mentioned the boyfriend?<br>
+							<br>
+							
+						GEORGE: Yeah. (Jerry nodding) ... Oh, you think because of what I said about the manure. I wa, wa, was just saying how it takes a negative thing, and puts it on a positive spin on it.<br>
+							<br>
+							
+						JERRY: I&#146;m just saying there's a chance she may not have been enamored with your thoughts and feelings on manure.<br>
+							<br>
+							
+						GEORGE: So you don't think she really has a boyfriend?<br>
+							<br>
+							
+						JERRY: My honest opinion, I think she made it up.<br>
+							<br>
+							
+						GEORGE: Well then she's just a Liar, Isn't she?<br>
+							<br>
+							
+						(Kramer enters)<br>
+							<br>
+							
+						KRAMER: Hey.<br>
+							<br>
+							
+						JERRY: Aaa. Well ... you want something to eat, don't you?<br>
+							<br>
+							
+						KRAMER: Ahh, no, no, no. You got me all wrong buddy. I am loving this no refrigerator. You know what I discovered? I really like depriving myself of things. It's fun. Very monastic.<br>
+							<br>
+							
+						GEORGE: Well what do you eat?<br>
+							<br>
+							
+						KRAMER: It's all fresh. Fresh fish, fresh foul, fresh fruit. I buy it, I omniga nominga, I eat it.<br>
+							<br>
+							
+						JERRY: Well I&#146;m glad it's working out.<br>
+							<br>
+							
+						KRAMER: Oh yeah, it's working out. And I got a date with that waitress who works at Reggie&#146;s.<br>
+							<br>
+							
+						JERRY: Boy, if I could meet a hostess, we could open up our own place.<br>
+							<br>
+							
+						KRAMER: Ha ha ha ha. Yeah, well, I&#146;ll tell you, she's a full-figured gal.<br>
+							<br>
+							
+						JERRY: Is she?<br>
+							<br>
+							
+						KRAMER: Oh you better believe it buddy. Hey George, we could double sometime.<br>
+							<br>
+							
+						GEORGE: Yeah, yeah, yeah we could. You know, ah, Kramer, the next time you talk to her, find out if she knows Kelly, from Monk's. I wanna know if she really has a boyfriend.<br>
+							<br>
+							
+						KRAMER: All right it's done.<br>
+							<br>
+							
+						(George and Kramer go over by the computer. George is writing something on a piece of paper)<br>
+							<br>
+							
+						(Telephone rings - Jerry picks up the phone)<br>
+							<br>
+							
+						JERRY: Hello?<br>
+							<br>
+							
+						BANIA: Hi, Jerry. It's Kenny.<br>
+							<br>
+							
+						JERRY: Oh, Hi.<br>
+							<br>
+							
+						BANIA: You know, I was thinking if you're not busy, maybe I can get my meal today?<br>
+							<br>
+							
+						(Jerry pauses and thinks for a few seconds)<br>
+							<br>
+							
+						JERRY: Yeah, you wanna get that meal, don't you?<br>
+							<br>
+							
+						BANIA: How about Mendy&#146;s, ooh, ever been there?<br>
+							<br>
+							
+						JERRY: No I haven't?<br>
+							<br>
+							
+						BANIA: Ah you&#146;re gonna love it. I&#146;ll meet you there around 7:00.<br>
+							<br>
+							
+						JERRY: All right.<br>
+							<br>
+							
+						BANIA: Ahh.<br>
+							<br>
+							
+						JERRY: (hangs up the phone) Yeah, I really needed that suit.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Exterior of Mendy&#146;s Restaurant at dusk - then inside where Bania is sitting across the table from Jerry.]<br>
+							<br>
+							
+						BANIA: I start off with curls. That's good for the bicep. (motions with 2 fingers along his right bicep) I do 10 reps, 2 sets.<br>
+							<br>
+							
+						JERRY: Mm. That's fantastic. (he could care less)<br>
+							<br>
+							
+						BANIA: You work out with weights?<br>
+							<br>
+							
+						JERRY: No I don't.<br>
+							<br>
+							
+						BANIA: You should.<br>
+							<br>
+							
+						JERRY: Why?<br>
+							<br>
+							
+						(Bania&#146;s broad smile of enthusiasm turns into a dumb founded look ...)<br>
+							<br>
+							
+						BANIA: You worn the suit yet?<br>
+							<br>
+							
+						JERRY: No, not yet.<br>
+							<br>
+							
+						WAITER: have you decided?<br>
+							<br>
+							
+						BANIA: Oh, get the swordfish. Best swordfish in the city. The best, Jerry.<br>
+							<br>
+							
+						JERRY: I&#146;ll have the salmon.<br>
+							<br>
+							
+						WAITER: And you?<br>
+							<br>
+							
+						BANIA: Ahh, you know what I think. I&#146;m just going to have soup. Yeah, I&#146;ll save the meal for another time.<br>
+							<br>
+							
+						JERRY: Another time? What other time?<br>
+							<br>
+							
+						BANIA: I had a hot dog earlier. I&#146;m not that hungry.<br>
+							<br>
+							
+						JERRY: No, no, Bania, no. This is the dinner. The soup counts.<br>
+							<br>
+							
+						BANIA: Soup's not a meal. You're supposed to buy me a meal.<br>
+							<br>
+							
+						JERRY: I&#146;m not stopping you from eating. Go ahead and eat. Get anything you want.<br>
+							<br>
+							
+						BANIA: But I don't want anything but soup.<br>
+							<br>
+							
+						JERRY: Then that's the meal.<br>
+							<br>
+							
+						BANIA: But I had the hot dog.<br>
+							<br>
+							
+						JERRY: I didn&#146;t tell you to have a hot dog. Who told you to have a hot dog?<br>
+							<br>
+							
+						BANIA: Hey, I give you a brand-new Armani suit, and you won't even buy me a meal?<br>
+							<br>
+							
+						JERRY: All right, fine. Get the soup!<br>
+							<br>
+							<br>
+							<br>
+							
+						[The camera fades from the previous scene into the next scene. It's the next day, outside in front of an apartment building. Elaine sits on the front stoop while Jerry leans against the railing as they talk.]<br>
+							<br>
+							
+						JERRY: So he just gets soup. He wants to save the meal. So now I got to do it all over again.<br>
+							<br>
+							
+						ELAINE: What kind of soup did he get?<br>
+							<br>
+							
+						JERRY: I don't know? Consomm&eacute; or something.<br>
+							<br>
+							
+						ELAINE: Consomm&eacute;, hmm.<br>
+							<br>
+							
+						JERRY: What?<br>
+							<br>
+							
+						ELAINE: Well, that's not really a meal Jerry. I mean, if he had gotten, Chicken Gumbo, or Matzah Ball, even Mushroom Barley. Then I would agree with you. Those are very hardy soups.<br>
+							<br>
+							
+						JERRY: Elaine you're missing the whole point.<br>
+							<br>
+							
+						ELAINE: What?<br>
+							<br>
+							
+						JERRY: The meal is the act of sitting down with him. It doesn't matter what you get, as long as he's sitting in that restaurant, its a meal.<br>
+							<br>
+							
+						ELAINE: Was it a cup or a bowl?<br>
+							<br>
+							
+						JERRY: You see -- ah, uh ...<br>
+							<br>
+							
+						ELAINE: I&#146;m just curious.<br>
+							<br>
+							
+						JERRY: A bowl, ok?<br>
+							<br>
+							
+						ELAINE: Did he crumble any crackers in it?<br>
+							<br>
+							
+						(Jerry blows out a breath)<br>
+							<br>
+							
+						ELAINE: (reiterating the question) Did he crumble, any crackers in it?<br>
+							<br>
+							
+						JERRY: As a mater of fact, he did.<br>
+							<br>
+							
+						ELAINE: Oh, well. Crackers in a bowl. That -- That could be a meal.<br>
+							<br>
+							
+						JERRY: It's like I&#146;m talking to my Aunt Sylvia here.<br>
+							<br>
+							
+						(Simon comes out of the apartment building onto the steps next to Jerry)<br>
+							<br>
+							
+						ELAINE: Oh, hi Simon. This is Jerry.<br>
+							<br>
+							
+						SIMON: Hello. (to Jerry, politely -- then quickly turns to Elaine) Elaine, do you have any cash on you?<br>
+							<br>
+							
+						ELAINE: Um, yeah in my purse.<br>
+							<br>
+							
+						SIMON: No. There was only six dollars.<br>
+							<br>
+							
+						JERRY: Well, I have some money. What do you need? (pulls out some bills)<br>
+							<br>
+							
+						SIMON: Well, 20 should cover me. (snatches the cash) Thanks mate. (he walks down the stairs to the sidewalk)<br>
+							<br>
+							
+						ELAINE: Where you going?<br>
+							<br>
+							
+						SIMON: (starts to turn back to Elaine) Just visiting.<br>
+							<br>
+							
+						ELAINE: Oh, OK, see you later.<br>
+							<br>
+							
+						SIMON: I won't be back for dinner. (turns and walks off down the street)<br>
+							<br>
+							
+						ELAINE: (English accent) Pardon?<br>
+							<br>
+							<br>
+							<br>
+							
+						[Exterior shot of Monk&#146;s Restaurant, then inside - George is sitting at the usual booth and Jerry sits down on the other side of the table.]<br>
+							<br>
+							
+						JERRY: So is she working? Is she here?<br>
+							<br>
+							
+						GEORGE: Yeah, yeah, she's here.<br>
+							<br>
+							
+						JERRY: Have you said anything to her?<br>
+							<br>
+							
+						GEORGE: No, but I&#146;m very uncomfortable.<br>
+							<br>
+							
+						JERRY: Are you going to say anything?<br>
+							<br>
+							
+						GEORGE: There she is. (waiving his arms quickly above the table - to nix the conversation) No no no no no no.<br>
+							<br>
+							
+						KELLY: Hello<br>
+							<br>
+							
+						GEORGE: Hello.<br>
+							<br>
+							
+						KELLY: Well, what's it going to be?<br>
+							<br>
+							
+						GEORGE: What's it gonna be?<br>
+							<br>
+							
+						KELLY: Yes. What'll you have? Are you eating? It's in that vein.<br>
+							<br>
+							
+						GEORGE: I&#146;ll eh, I&#146;ll just have a bowl of chili.<br>
+							<br>
+							
+						JERRY: I&#146;ll have an egg white omelet.<br>
+							<br>
+							
+						(Kelly the Waitress walks away)<br>
+							<br>
+							
+						GEORGE: What's it gonna be? ... You hear that?<br>
+							<br>
+							
+						JERRY: Yeah, that was bad.<br>
+							<br>
+							
+						GEORGE: Did you feel that tension? We use to have banter - (puts menu back with frustration) - there's no more banter.<br>
+							<br>
+							
+						(looking towards the front door, Jerry sees Kenny Bania hanging up his coat on the coat rack)<br>
+							<br>
+							
+						JERRY: Oh, no, it's Kenny. Slide out so he can't sit down. (George &amp; Jerry each slide to the end of their booth seats)<br>
+							<br>
+							
+						BANIA: Hey.<br>
+							<br>
+							
+						JERRY: Hey.<br>
+							<br>
+							
+						BANIA: You worn the suit yet?<br>
+							<br>
+							
+						JERRY: Actually, I did. I put it on last night and slept in it.<br>
+							<br>
+							
+						BANIA: You did?<br>
+							<br>
+							
+						JERRY: ... Oh, I&#146;m joking.<br>
+							<br>
+							
+						BANIA: OH! Ha ha ha ha ha ha ha ha. Can I squeeze in? (to George)<br>
+							<br>
+							
+						GEORGE: Sure you can.<br>
+							<br>
+							
+						(Bania sits next to George as he and Jerry slid back to their original seats in the booth. Kelly the Waitress brings George his bowl of chili)<br>
+							<br>
+							
+						KELLY: Can I take your order?<br>
+							<br>
+							
+						BANIA: What kind of soup do you have?<br>
+							<br>
+							
+						JERRY: Why don't you get a sandwich?<br>
+							<br>
+							
+						BANIA: Ok, I&#146;ll have tomato soup and ah, tuna on toast.<br>
+							<br>
+							
+						JERRY: OK ... (nodding his head up and down) This is it &#145;cha know<br>
+							<br>
+							
+						(George grabs some napkins)<br>
+							<br>
+							
+						JERRY: This is the meal ... so stock up buddy boy.<br>
+							<br>
+							
+						BANIA: What are you talking about? this isn't a meal.<br>
+							<br>
+							
+						(George tucks a napkin over his shirt collar)<br>
+							<br>
+							
+						JERRY: Yes it is. Soup and sandwich. That is a meal.<br>
+							<br>
+							
+						BANIA: You're supposed to buy me dinner in a nice restaurant, like Mendy&#146;s.<br>
+							<br>
+							
+						JERRY: I tried to do that.<br>
+							<br>
+							
+						BANIA: This is lunch in a coffee shop<br>
+							<br>
+							
+						JERRY: Doesn't matter, This is it. This completes the transaction.<br>
+							<br>
+							
+						BANIA: Ah, soup and a sandwich for a brand-new Armani suit. Is that any kind of gesture? (turns to George)<br>
+							<br>
+							
+						BANIA: I&#146;m really not comfortable ...<br>
+							<br>
+							
+						(Kramer walks up to the table, leans in, with both hands on the table)<br>
+							<br>
+							
+						KRAMER: (to George) Hey, I just spoke to ah, Hilde about your friend.<br>
+							<br>
+							
+						GEORGE: Yeah.<br>
+							<br>
+							
+						KRAMER: She doesn't have a boyfriend. She made it up.<br>
+							<br>
+							
+						(Kramer points at George, and makes the &#147;pop&#148; sound with his lips. George looks over his left shoulder, back into the kitchen, then takes his napkin off of his shirt and throws it down on the table)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Elaine walks into Jerry's apartment and then over to the couch.]<br>
+							<br>
+							
+						JERRY: Hi.<br>
+							<br>
+							
+						ELAINE: Hi.<br>
+							<br>
+							
+						JERRY: Where's Simon?<br>
+							<br>
+							
+						ELAINE: Oh, he'll be right up. He's just getting some beer. And I&#146;m not expecting ... any change. (leans forward as she brings her hands together in front of her, then sits on the couch)<br>
+							<br>
+							
+						JERRY: When's he leaving? (putting some items into the refrigerator)<br>
+							<br>
+							
+						ELAINE: About 2 days. Although he's hinting at how he'd like to stay. Fortunately he has no money, and no prospects. (she smiles)<br>
+							<br>
+							
+						(Simon walks in the open door carrying some beer)<br>
+							<br>
+							
+						SIMON: Hey mate. Fancy a beer?<br>
+							<br>
+							
+						JERRY: Ah, no thanks.<br>
+							<br>
+							
+						(Telephone rings)<br>
+							<br>
+							
+						(Simon leans down to kiss Elaine)<br>
+							<br>
+							
+						JERRY: (on the phone) Hello? No, I&#146;m sorry Bania ... I&#146;m not going over this again. Well who told you to order soup? ... No! There's no dinner. There's not going to be any dinner. You've had a sandwich and 2 bowls of soup and that's it. Good-bye.<br>
+							<br>
+							
+						(hangs up the cordless phone and sets it down -- blows air out of his mouth and cheeks ... Then he snaps his fingers)<br>
+							<br>
+							
+						JERRY: Hey, what size suit are you?<br>
+							<br>
+							
+						SIMON: 40.<br>
+							<br>
+							
+						JERRY: 40. Perfect. Brand-new Armani suit, you want it?<br>
+							<br>
+							
+						SIMON: Absolutely.<br>
+							<br>
+							
+						(Jerry hands Simon the suit on the hanger)<br>
+							<br>
+							
+						JERRY: Great, its yours. I can't stand the sight of it. Elaine, here&#146;s the car keys. (tosses her the keys)<br>
+							<br>
+							
+						ELAINE: Thanks<br>
+							<br>
+							
+						(Telephone rings; Jerry picks up the cordless phone)<br>
+							<br>
+							
+						JERRY: Yo?<br>
+							<br>
+							
+						BANIA: Listen Jerry, I've been doing some thinking. I want my suit back.<br>
+							<br>
+							
+						JERRY: I don't have your suit. I gave it away.<br>
+							<br>
+							
+						(Elaine and Simon are exiting the apartment door, Simon goes first. Elaine with a big smile, realizing it's Bania on the phone, bends forward from the waist slightly, opens her mouth and sticks out her tongue like she is throwing up and then exits the apartment and closes the door.)<br>
+							<br>
+							
+						BANIA: Well it's my suit.<br>
+							<br>
+							
+						JERRY: Well it's gone. I&#146;m sorry. Good-bye Bania.<br>
+							<br>
+							
+						(he hangs up the cordless phone. Kramer bursts in)<br>
+							<br>
+							
+						KRAMER: Hey.<br>
+							<br>
+							
+						JERRY: Hey.<br>
+							<br>
+							
+						KRAMER: Um, yeah. (glances around the apt.) Oh, uh ... well, how's everything? (clap)<br>
+							<br>
+							
+						JERRY: Ok.<br>
+							<br>
+							
+						KRAMER: Good, ah, (clap) what's going on?<br>
+							<br>
+							
+						JERRY: Nothing.<br>
+							<br>
+							
+						KRAMER: Really.<br>
+							<br>
+							
+						JERRY: You want food, don't cha? (nodding his head up and down)<br>
+							<br>
+							
+						KRAMER: It's not for me. It's for Hilde -- the waitress I was telling you about. She's hungry, she wants food. If I go back in there without any food ... there's gonna be trouble. (his voice gets really high pitched on his last sentence)<br>
+							<br>
+							
+						JERRY: All right, go ahead<br>
+							<br>
+							
+						KRAMER: Thanks buddy. (goes over to the fridge and pulls out a few things)<br>
+							<br>
+							
+						(Hilde walking into the open doorway of Jerry's apt. - she stands with her arms on her hips)<br>
+							<br>
+							
+						HILDE: Did you find anything!<br>
+							<br>
+							
+						KRAMER: Uh, yeah, ah ...<br>
+							<br>
+							
+						(looking down at the food he is clutching between his elbow and chest)<br>
+							<br>
+							
+						KRAMER: There's a few things in here, ah, peanut butter, cheese, yeah ...<br>
+							<br>
+							
+						HILDE: Cheese is good. Yeah, what kind?<br>
+							<br>
+							
+						KRAMER: Uh, Swiss.<br>
+							<br>
+							
+						HILDE: All right, it'll have to do. Come on.<br>
+							<br>
+							
+						(Hilde and Kramer go back to his apt. Kramer shuffles both feet wildly as he exits)<br>
+							<br>
+							<br>
+							<br>
+							
+						[On the sidewalk, Jerry walks up to George, who is outside, one store over from the coffee shop.]<br>
+							<br>
+							
+						JERRY: What are we doing out here? Aren't we going to go in and eat?<br>
+							<br>
+							
+						GEORGE: I can't go in there. I&#146;m too uncomfortable.<br>
+							<br>
+							
+						JERRY: Oh, w-what are you saying? So we're not going to go in there anymore?<br>
+							<br>
+							
+						ELAINE: Hey, What are you doing out here?<br>
+							<br>
+							
+						JERRY: We can't eat here anymore, because he took a waitress out for a walk.<br>
+							<br>
+							
+						GEORGE: What's the difference? Let's go to Reggie&#146;s.<br>
+							<br>
+							
+						ELAINE: Reggie&#146;s? I can't eat anything there.<br>
+							<br>
+							
+						GEORGE: It's the same menu.<br>
+							<br>
+							
+						ELAINE: There's no &#147;Big Salad.&#148;<br>
+							<br>
+							
+						GEORGE: They'll make you a &#147;Big Salad.&#148; What do you think, they're the only one's that make a &#147;Big Salad&#148;?<br>
+							<br>
+							
+						ELAINE: All right. Let's go, to Reggie&#146;s.<br>
+							<br>
+							
+						(George half-bows to Elaine and they start to walk down the sidewalk)<br>
+							<br>
+							
+						JERRY: So what's going on with Simon? Did he leave?<br>
+							<br>
+							
+						ELAINE: Ahh ... wait till you hear this.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Daytime exterior of Reggie&#146;s, then inside, where George sits on the left side of the booth while Elaine and Jerry sit on the right side of the booth.]<br>
+							<br>
+							
+						ELAINE: So Simon picks this woman up, right in front of me.<br>
+							<br>
+							
+						JERRY: Look at this. They make a point of saying on the menu, &#147;No egg white omelets.&#148; Look at that.<br>
+							<br>
+							
+						GEORGE: So what! Have a yoke! It won't kill you.<br>
+							<br>
+							
+						HILDE: (walks up to the table) Hello.<br>
+							<br>
+							
+						JERRY: Oh, hi Hilde. Can I get an egg white omelet?<br>
+							<br>
+							
+						HILDE: Did you read the menu?<br>
+							<br>
+							
+						JERRY: All right, just give me a western. (unhappy)<br>
+							<br>
+							
+						ELAINE: How &#145;bout a Big Salad?<br>
+							<br>
+							
+						HILDE: A big salad?<br>
+							<br>
+							
+						ELAINE: (to George) Ya see?<br>
+							<br>
+							
+						GEORGE: Just tell her what&#146;cha want, they'll make it for ya.<br>
+							<br>
+							
+						ELAINE: It's a salad, only bigger, with lots of stuff in it.<br>
+							<br>
+							
+						HILDE: I can bring you 2 small salads.<br>
+							<br>
+							
+						ELAINE: Could you put it in a big bowl?<br>
+							<br>
+							
+						HILDE: We don't have big bowls.<br>
+							<br>
+							
+						ELAINE: All right. Just give me a cup of decaf.<br>
+							<br>
+							
+						HILDE: We have Sanka.<br>
+							<br>
+							
+						(Elaine looks up at Hilde with subtle disbelief)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Exterior of Jerry's apartment building, then inside where Jerry and George enter.]<br>
+							<br>
+							
+						GEORGE: I mean, it's not fair. I've been going there for 7 years. She's been there 3 weeks.<br>
+							<br>
+							
+						JERRY: Not fair.<br>
+							<br>
+							
+						GEORGE: If anyone should be forced to leave that place, it should be her!<br>
+							<br>
+							
+						JERRY: She's on your turf.<br>
+							<br>
+							
+						GEORGE: If only she could get fired. Is there any way that could happen? I mean I know how to get myself fired.<br>
+							<br>
+							
+						JERRY: You're the best.<br>
+							<br>
+							
+						GEORGE: Well ...... but how do I get someone else fired?<br>
+							<br>
+							
+						JERRY: Well as I see it, you've got to apply the same principles that get you fired, but redirected, outwardly.<br>
+							<br>
+							
+						(Kramer enters)<br>
+							<br>
+							
+						KRAMER: H-Hey. She's hungry Jerry.<br>
+							<br>
+							
+						JERRY: Well, there's nothing left. There's no food.<br>
+							<br>
+							
+						KRAMER: No food? Well you gotta have something -- (rummages through Jerry's cupboards and refrigerator) -- I can't go back in there with no food. She's expecting something Jerry. You don't know what she's like when that blood sugar drops.<br>
+							<br>
+							
+						HILDE: (from Kramer's apartment) Food!<br>
+							<br>
+							
+						KRAMER: There, you see. She's already in a bad mood. She just got fired.<br>
+							<br>
+							
+						JERRY: Why'd she get fired?<br>
+							<br>
+							
+						KRAMER: Oh, because I called over there a couple of times and the manager didn&#146;t like it.<br>
+							<br>
+							
+						(Jerry turns quickly and looks at George -- George, sitting on the couch, immediately understands, he picks up the phone with his right hand, points at Jerry with his left arm extended, dials and licks his lips)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Exterior of the coffee shop the inside where Elaine and Jerry sit at the usual booth.]<br>
+							<br>
+							
+						ELAINE: So, Simon is definitely going back now. He's meeting me here to return my keys.<br>
+							<br>
+							
+						JERRY: Boy, he's a real bounder, isn't he?<br>
+							<br>
+							
+						ELAINE: Yes. He's one of those bounders.<br>
+							<br>
+							
+						KELLY: Egg white omelet and Big Salad.<br>
+							<br>
+							
+						ELAINE: AHhh. Thank you.<br>
+							<br>
+							
+						KELLY: I just wanted you guys know that Friday's my last day. Bloomingdales ordered a bunch of my clips, thank God, I don't have to do this any more. (turns and walks away)<br>
+							<br>
+							
+						ELAINE: Ah (hu ha - small laugh)<br>
+							<br>
+							
+						(Bania walks up to the table)<br>
+							<br>
+							
+						BANIA: Hey Jerry, where's my suit?<br>
+							<br>
+							
+						JERRY: I don't have it. You want half my omelet? (holds his omelet plate up to Bania)<br>
+							<br>
+							
+						MONK'S MANAGER: (on the phone, we assume it's George calling) I told you, she's busy. She can't come to the phone now! (hangs up)<br>
+							<br>
+							
+						MONK'S MANAGER: You better tell your boyfriend to stop calling here.<br>
+							<br>
+							
+						KELLY: Oh he's not my boyfriend. It's that bald guy with the glasses, who's always here with them. He's trying to get me in trouble.<br>
+							<br>
+							
+						(Monk's Manager stands there for a second thinking -- looking at Elaine and Jerry. Both of them have a hand up on the side of their faces. Monk's Manager walks over and puts both hands on the table and leans in)<br>
+							<br>
+							
+						MONK'S MANAGER: HEY! Yeah. I got a message for you. You tell your friend George, that the next time I see him around here, I&#146;m going to turn him into my Own, Personal, Hand-Puppet.<br>
+							<br>
+							
+						(Jerry makes a face and silent &#147;Ouoo&#148;)<br>
+							<br>
+							
+						SIMON: Well, hello. Here you are as promised. You see, I&#146;m a man of my word. (drops keys into Elaine's extended palm)<br>
+							<br>
+							
+						ELAINE: When are you leaving?<br>
+							<br>
+							
+						SIMON: Elaine, are you trying to get rid of me? Aha ha ha ha ha ha ha. I was supposed to leave tomorrow, but all of a sudden, I've been set up with a job interview that might enable me to extend my visit indefinitely. And it is all due, to this suit. How do I look? I&#146;m a shoe-in aren't I. Thanks again love. (touches the table, turns and walks to the exit)<br>
+							<br>
+							
+						ELAINE: (turns towards the lunch counter) Hey Kenny. You still want to get that suit back?<br>
+							<br>
+							
+						BANIA: (leans backwards from the counter) Yeah!<br>
+							<br>
+							
+						ELAINE: There it goes. (pointing at Simon walking out the door)<br>
+							<br>
+							
+						BANIA: Hey! Hey! (he runs out the door after Simon; from outside) Come Here You!<br>
+							<br>
+							
+						(Elaine and Jerry watch as Bania runs out the door after Simon)<br>
+							<br>
+							
+						SIMON: (from outside Monk's) What are you doing? Unhand me!<br>
+							<br>
+							
+						BANIA: (from outside Monk's) Take It Off!<br>
+							<br>
+							
+						(Sounds of struggling is heard from outside; Material rips)<br>
+							<br>
+							
+						(Elaine and Jerry look at each other, and toast each other by raising their forks in the air. Their mouths are open with the silent Ahhhhh _expression of joy)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Inside Reggie&#146;s dinner. George sits silently in a booth. A plate of food on the table in front of him. Another patron is at the counter by himself.]<br>
+							<br>
+							
+						George pours a bit of ketchup onto his plate / food (*Actually we see the end of the bottle, which is supposed to be obscured by some elements on the table -- it does not look like any ketchup comes out of the bottle). He replaces the ketchup bottle cap and sets the bottle down on the table.<br>
+							<br>
+							
+						He picks up his fork and takes a bite from his plate. Then he picks up a bottle of A1 sauce and pours a bit on his food, replaces the cap and sets the bottle down. Then he picks up (what looks to be) a smaller bottle of Tabasco, pours a bit of it on his food, replaces the cap and sets the bottle in the table caddy on the table.<br>
+							<br>
+							
+						Then he struggles with something on the table (it's near impossible to distinguish what the item is, as it's a wide shot) -- trying to get the item open, the lid flips into the air and flies over his right shoulder, making a noise as it lands on the ground. Hearing the noise, the man at the counter turns to see what it is and George looks over at him.<br>
+							<br>
+							<br>
+							
+						The End</td>
+						</tr>
+						<tr height="6">
+							<td class="bottom2" width="645" height="6"></td>
+						</tr>
+						<tr>
+							<td width="645">
+								<div align="center">
+									<font size="-1">Copyright 2006 seinology.com | All Rights Reserved | Designed by 13erla</font></div>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+		<p></p>
+	</body>
+
+</html>

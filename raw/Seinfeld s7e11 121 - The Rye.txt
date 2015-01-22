@@ -1,0 +1,1124 @@
+<tdOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+<html>
+
+	<head>
+		<meta http-equiv="content-type" content="text/html;charset=ISO-8859-1">
+		<meta name="description" content="Top Source for Seinfeld">
+		<meta name="keywords" content="seinfeld, sienfeld, Jerry Seinfeld, Julia Louis Dreyfus, Jason Alexander, Michael Richards, Kramer, George, Costanza, Elaine Benes, morty, Larry David">
+		<title>Seinology.com :: Scripts :: 121-The Rye</title>
+	<link rel='stylesheet' href='/stylesheet.css' type='text/css'>
+	</head>
+
+	<body>
+			<table align="center" width="787" border="0" cellspacing="0" cellpadding="0">
+				<tr>
+					<td><font size="-2" color="red">Seinology.com - </font><font size="-3" color="black">Where Seinfeld Content and Accuracy Matter Most. Seinfeld scripts in pdf form, Seinfeld episode video clips, Seinfeld episode audio clips, Jerry Seinfeld appearances, Julia Louis-Dreyfus appearances, Michael Richards appearances, Jason Alexander appearances, Seinfeld discussion Forum, Seinfeld Where are they Now? Seinlanguage Newsletter, Popular Seinfeld Lists, Seinfeld episode standup, Seinfeld episode guide, Seinfeld fan fiction. Seinfeld content all on one domain. Seinology.com enjoy your stay.</font></td>
+				</tr>
+			</table>
+		
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr height="100">
+				<td class="logo"></td>
+			</tr>
+			<tr><td class="ads" align="center" background=#8694fa>
+				<script type="text/javascript"><!--
+google_ad_client = "pub-1924026976931416";
+google_ad_width = 728;
+google_ad_height = 90;
+google_ad_format = "728x90_as";
+google_ad_type = "text";
+google_ad_channel = "";
+google_color_border = "FFFFFF";
+google_color_bg = "8694fa";
+google_color_link = "0000FF";
+google_color_text = "000000";
+google_color_url = "002E3F";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></td></tr>
+		</table>
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr>
+				<td valign="top" width="136">
+					<table width="136" border="0" cellspacing="0" cellpadding="0">
+						<tr height="24">
+							<td class="navigation">
+								<div align="center">
+									
+									<b>Navigation</b></div>
+							</td>
+						</tr>
+						<tr height="199">
+							<td class="spacer1" valign="top" width="136" height="199">
+								<div align="center">
+									<font size="-1"><a href="http://www.seinology.com">Home</a><br>
+										<a href="http://board.seinology.com">Forum</a><br>
+										<a href="http://www.seinology.com/av.shtml">Audio/Video</a><br>
+										<a href="http://www.seinology.com/scripts.shtml">Scripts</a><br>
+										<a href="http://www.seinology.com/survivor.shtml">Survivor</a><br>
+										<a href="http://www.seinology.com/fanfics.shtml">Fan Fiction</a><br>
+										<a href="http://www.seinology.com/gallery/">Gallery</a><br>
+										<a href="http://www.seinology.com/newsletter.shtml">Newsletter</a><br>
+										<a href="http://www.seinology.com/lists.shtml">Lists</a><br>
+										<a href="http://www.seinology.com/epguide.shtml">Episode Guide</a><br>
+										<a href="http://www.seinology.com/links.shtml">Links</a><br>
+										<a href="http://www.seinology.com/faqother.shtml">Faq + others</a><br>
+										<a href="http://www.seinology.com/legal.shtml">Legal</a></font></div>
+							</td>
+						</tr>
+						
+						<tr>
+							<td class="nav2" width="136">
+							<div align="center"><b>Search</b></div></td>
+						</tr>
+						<tr>
+							<td class="spacer1" width="136" valign="top"><div align="center"><form method="get" action="http://www.seinology.com/search/search.cgi">
+<p><label for="fdse_Match">Match</label><br>
+<select name="Match" id="fdse_Match" size="1">
+<option value="1">All</option>
+<option value="0">Any</option>
+<option value="2">Phrase</option>
+</select></p>
+<p><label for="fdse_Realm">Where?</label><br>
+<select name="Realm" id="fdse_Realm" size="1">
+<option selected="selected" value="All">EntireSite</option>
+<option value="Ep Guide">Ep Guide</option>
+<option value="Images">Images</option>
+<option value="Lists">Lists</option>
+<option value="Newsletters">Newsletters</option>
+<option value="Scripts">Scripts</option>
+<option value="Notes..Nothing">Notes..Nothing</option>
+</select></p>
+<p><input type="text" name="Terms" size="14" id="fdse_Terms"><br>
+<input type="submit" class="submit" name="submitButtonName" value="Search"></p>
+</div></form></td>
+						</tr>
+						<tr><td class="bottom" width="136" height="10" valign="top">
+						</td>
+						</tr>
+					</table>
+				</td>
+				<td width="4"></td>
+				<td valign="top" width="645">
+					<table width="645" border="0" cellspacing="0" cellpadding="0">
+						<tr height="18">
+							<td width="645" height="35" class="bar">
+								<div align="center">
+									<b><font size="+2" color="black">Script</font></b></div>
+							</td>
+						</tr>
+						<tr height="362">
+							<td class="spacer2" valign="top" width="645" height="362">
+
+						<p><font size="-2">Episode 121 - The Rye<br>
+							
+						pc: 711, season 7, episode 11<br>
+							
+						Broadcast date: January 4, 1996<br>
+							<br>
+							
+						Written by Carol Leifer<br>
+							
+						Directed by Andy Ackerman<br>
+							<br>
+							
+						-------------------------------------------------------------------------------<br>
+							<br>
+							
+						The Cast<br>
+							
+						Regulars:<br>
+							
+						Jerry Seinfeld .......................&nbsp; Jerry Seinfeld<br>
+							
+						Jason Alexander ..................&nbsp; George Costanza<br>
+							
+						Julia Louis-Dreyfus .............&nbsp; Elaine Benes<br>
+							
+						Michael Richards .................&nbsp; Cosmo Kramer<br>
+							<br>
+							
+						Guest Stars:<br>
+							<br>
+							
+						Grace Zabriskie ................... Mrs. Ross<br>
+							
+						Warren Frost ....................... Mr. (Henry) Ross<br>
+							
+						Jeff Yagher .......................... John<br>
+							
+						Frances Bay ......................... Mabel Choate<br>
+							
+						Leonard Lightfoot ............... Clyde<br>
+							
+						Don Amendolia .................... Dennis<br>
+							
+						Kathryn Kates ..................... Counter Woman<br>
+							
+						Steve Ireland ....................... Music Guy<br>
+							
+						Dean Fortunato ................... Manager<br>
+							
+						rc: Estelle Harris .................. Estelle Costanza<br>
+							
+						rc: Jerry Stiller ...................... Frank Costanza<br>
+							
+						rc: Heidi Swedberg .............. Susan Biddle Ross<br>
+							<br>
+							
+						==================================================================<br>
+							<br>
+							
+						ELAINE: (thinking) I can't believe I'm going out with this guy. Wow! He's so cool. Maybe he'll write a song about me. That would be amazing. Oh, Elaine, you are so beautiful. So, so beautiful. Not so mention your personality which is so, so, interesting. If you want, you can quit your job and never work again.<br>
+							<br>
+							
+						(club applauds)<br>
+							<br>
+							
+						ELAINE: Jerry, you have got to come see him. He is so terrific.<br>
+							<br>
+							
+						JERRY: Maybe he'll write a song about you.<br>
+							<br>
+							
+						ELAINE: Yeah. Right. (laughing) Like that really matters.<br>
+							<br>
+							
+						JERRY: So I take it he's spongeworthy?<br>
+							<br>
+							
+						ELAINE: Oh, yeah.<br>
+							<br>
+							
+						JERRY: Well, he's a musician. I guess they're supposed to be very, you know, uninhibited and free.<br>
+							<br>
+							
+						ELAINE: Well, actually, he's - he's not that way at all.<br>
+							<br>
+							
+						JERRY: Oh, no?<br>
+							<br>
+							
+						ELAINE: Yeah. In fact, he....(moaning)<br>
+							<br>
+							
+						JERRY: Come on. Come on.<br>
+							<br>
+							
+						ELAINE: I don't wanna!<br>
+							<br>
+							
+						JERRY: Elaine, you're among friends.<br>
+							<br>
+							
+						ELAINE: (sighs) Well, actually, he, um, doesn't really like to do... everything.<br>
+							<br>
+							
+						JERRY: Oh.<br>
+							<br>
+							
+						ELAINE: Yeah. It's surprising.<br>
+							<br>
+							
+						JERRY: Yes, it is. It is surprising. Does that bother you?<br>
+							<br>
+							
+						ELAINE: No. No, it doesn't bother me. I mean, it would be nice. I'm not gonna lie to you and say it wouldn't be nice.<br>
+							<br>
+							
+						JERRY: Sure. Why not? You're there.<br>
+							<br>
+							
+						ELAINE: Exactly.<br>
+							<br>
+							
+						JERRY: But you said he was just coming out of a very serious relationship. Maybe he's, you know, still....kind of...he...not gonna happen.<br>
+							<br>
+							
+						KRAMER: Hey, Jerry! Listen, I need you to come downstairs, help me get my stuff outta the car.<br>
+							<br>
+							
+						JERRY: What stuff?<br>
+							<br>
+							
+						KRAMER: I just came from the price club. I'm loaded up, baby.<br>
+							<br>
+							
+						JERRY: All right. What are you, outta your mind? Look at this. What did you buy here? You will never be able to finish all this stuff.<br>
+							<br>
+							
+						KRAMER: Course I will. These are staples.<br>
+							<br>
+							
+						JERRY: A four-pound can of black olives? That's a staple?<br>
+							<br>
+							
+						KRAMER: Lindsay olives, Jerry.<br>
+							<br>
+							
+						JERRY: A forty-eight pack of Eggo waffles? A gallon of barbecue sauce? Ten pounds of cocktail meatballs?<br>
+							<br>
+							
+						KRAMER: $17.50. You can't beat that.<br>
+							<br>
+							
+						JERRY: Look...look at this can of tuna!<br>
+							<br>
+							
+						KRAMER: Yeah. Star Kist, Jerry. Most tuna don't make their cut.<br>
+							<br>
+							
+						JERRY: This isn't for a person. This is for Biosphere 3.<br>
+							<br>
+							
+						KRAMER: Hey, Clyde!<br>
+							<br>
+							
+						CLYDE: Hey, Kramer! What's happening, dude?<br>
+							<br>
+							
+						KRAMER: Yeah. Ahh. Hey, this is Jerry here.<br>
+							<br>
+							
+						CLYDE: How ya doin'?<br>
+							<br>
+							
+						JERRY: Hi.<br>
+							<br>
+							
+						KRAMER: You know, Clyde, he plays backup with John Germaine.<br>
+							<br>
+							
+						JERRY: John Germaine? That is amazing. I was just talking about him upstairs with Elaine.<br>
+							<br>
+							
+						CLYDE: Oh yeah?<br>
+							<br>
+							
+						JERRY: Oh, yeah. My friend Elaine and him are goin' out. They're pretty hot and heavy.<br>
+							<br>
+							
+						CLYDE: Is that right?<br>
+							<br>
+							
+						KRAMER: Hey, how 'bout giving me a hand? You know, bring some of this stuff upstairs.<br>
+							<br>
+							
+						CLYDE: Oh, sorry Kramer, I got to watch the hands. My hands are my life.<br>
+							<br>
+							
+						ESTELLE: Georgie, can you zip me up?<br>
+							<br>
+							
+						GEORGE: Yeah. Yeah, one second.<br>
+							<br>
+							
+						ESTELLE: Well, come on!<br>
+							<br>
+							
+						GEORGE: All right. All right. Let's not get into panic mode! Let's not make a big deal outta this thing or we're never gonna get through this night.<br>
+							<br>
+							
+						ESTELLE: Well, I'm meeting your in-laws, I think I should look nice.<br>
+							<br>
+							
+						GEORGE: My in-laws. Oh, my....<br>
+							<br>
+							
+						FRANK: So, what do you think? Your old man can look pretty good when he wants to, huh?<br>
+							<br>
+							
+						ESTELLE: I don't like that tie.<br>
+							<br>
+							
+						FRANK: What's the matter with this tie? I've hardly worn it.<br>
+							<br>
+							
+						ESTELLE: It's too thin. They're wearing wide now.<br>
+							<br>
+							
+						FRANK: How do you know what kind of ties they wear?<br>
+							<br>
+							
+						ESTELLE: Go to any office building on 7th Avenue and tell me if there's anyone there wearing a thin tie like that. Go ahead!<br>
+							<br>
+							
+						FRANK: Oh, get the hell outta here. 7th Avenue.<br>
+							<br>
+							
+						ESTELLE: George, do you think he should wear a tie like that?<br>
+							<br>
+							
+						FRANK: Huh?<br>
+							<br>
+							
+						GEORGE: I think he should wear whatever tie he wants.<br>
+							<br>
+							
+						FRANK: We gotta stop off and pick up a marble rye from Schnitzer's.<br>
+							<br>
+							
+						ESTELLE: It's out of our way. Why can't we pick up something at Lord's? It's right over here.<br>
+							<br>
+							
+						FRANK: No! We have to go to Schnitzer's! I'll show these people something about taste!<br>
+							<br>
+							
+						GEORGE: This is gonna be fun.<br>
+							<br>
+							
+						JERRY: Hey, you'll never guess who I bumped into. This guy Clyde. He's in your friend John Germaine's band there.<br>
+							<br>
+							
+						ELAINE: So what did he have to say?<br>
+							<br>
+							
+						JERRY: Nothing. I told him you two were pretty hot and heavy.<br>
+							<br>
+							
+						ELAINE: Hot and heavy? You said hot and heavy?<br>
+							<br>
+							
+						JERRY: Yeah.<br>
+							<br>
+							
+						ELAINE: What did you do that for?<br>
+							<br>
+							
+						JERRY: What?<br>
+							<br>
+							
+						ELAINE: What if he tells John? Then John's gonna think that I think that we're hot and heavy. I don't want John thinking that I'm hot and heavy if he's not hot and heavy.<br>
+							<br>
+							
+						JERRY: Oh<br>
+							<br>
+							
+						ELAINE: I'm trying to get a little squirrel to come over to me here. I don't wanna make any big, sudden movements. I'll frighten him away.<br>
+							<br>
+							
+						JERRY: Well, Clyde might not tell him.<br>
+							<br>
+							
+						ELAINE: How do you know that?<br>
+							<br>
+							
+						JERRY: I should have helped Kramer with those packages.<br>
+							<br>
+							
+						ELAINE: Ohh!<br>
+							<br>
+							
+						(Kramer, walking down hall to his apartment, his arms loaded with dozens of pop cans, falls forward, spilling cans about in hallway)<br>
+							<br>
+							
+						DENNIS: Let me give you a hand. Hey, Kramer. I wonder, could you do me a favor? I'm taking the family to Disneyworld next week. I wonder...<br>
+							<br>
+							
+						KRAMER: Uh-huh.<br>
+							<br>
+							
+						DENNIS: I wonder, could you pick up my mail?<br>
+							<br>
+							
+						KRAMER: Yeah. Sure. Sure.<br>
+							<br>
+							
+						DENNIS: In fact, you know what, how would you like to take my hansom cab for the week?<br>
+							<br>
+							
+						KRAMER: Drive the horse?<br>
+							<br>
+							
+						DENNIS: It'll just be sitting there. You can really clean up. 500 bucks a day. I'll split it with ya.<br>
+							<br>
+							
+						KRAMER: Oh, giddyup. Yeah.<br>
+							<br>
+							
+						GEORGE: This is delicious, Mrs. Ross.<br>
+							<br>
+							
+						MRS. ROSS: Oh.<br>
+							<br>
+							
+						MR. ROSS: What are you complimenting her for? She didn't make it Rowenna did.<br>
+							<br>
+							
+						FRANK: What is this thing anyway?<br>
+							<br>
+							
+						MRS. ROSS: It's Cornish gamehen.<br>
+							<br>
+							
+						FRANK: What is that, like a little chicken?<br>
+							<br>
+							
+						GEORGE: It's, uh, it's not a little chicken. (laughing) Little chicken. It's a gamebird.<br>
+							<br>
+							
+						FRANK: Gamebird?<br>
+							<br>
+							
+						GEORGE: Yeah.<br>
+							<br>
+							
+						FRANK: What do you mean? Like, you - you hunt it?<br>
+							<br>
+							
+						MR. ROSS: Yes.<br>
+							<br>
+							
+						FRANK: How hard could it be to kill this thing?<br>
+							<br>
+							
+						ESTELLE: I couldn't help but notice that you have quite a library in there.<br>
+							<br>
+							
+						MRS. ROSS: If I had a dime for every book he's actually read, (laughing) I'd be broke.<br>
+							<br>
+							
+						SUSAN: More wine anyone?<br>
+							<br>
+							
+						FRANK: Yeah. I'll take some.<br>
+							<br>
+							
+						SUSAN: Hmmm?<br>
+							<br>
+							
+						FRANK: Thank you.<br>
+							<br>
+							
+						SUSAN: How do you like the Merlot?<br>
+							<br>
+							
+						ESTELLE: Merlot? I never heard of it. Did they just invent it?<br>
+							<br>
+							
+						MRS. ROSS: Oh, mother.<br>
+							<br>
+							
+						GEORGE: She's, uh, she's heard of Merlot.<br>
+							<br>
+							
+						FRANK: Let me understand, you got the hen, the chicken and the rooster. The rooster goes with the chicken. So, who's having sex with the hen?<br>
+							<br>
+							
+						GEORGE: Why don't we talk about it another time.<br>
+							<br>
+							
+						FRANK: But you see my point here? You only hear of a hen, a rooster and a chicken. Something's missing!<br>
+							<br>
+							
+						MRS. ROSS: Something's missing all right.<br>
+							<br>
+							
+						MR. ROSS: They're all chickens. The rooster has sex with all of them.<br>
+							<br>
+							
+						FRANK: That's perverse.<br>
+							<br>
+							
+						GEORGE: Did anybody see Firestorm?<br>
+							<br>
+							
+						MR. ROSS: Firestorm, that's a hell of a picture.<br>
+							<br>
+							
+						GEORGE: Yeah.<br>
+							<br>
+							
+						MR. ROSS: Remember when they had the helicopter land on top of that car --<br>
+							<br>
+							
+						FRANK: Hey! Hey! Come on! Come on! I haven't seen it yet.<br>
+							<br>
+							
+						MR. ROSS: It doesn't have anything to do with the plot!<br>
+							<br>
+							
+						FRANK: Still! Still! I like to go in fresh!<br>
+							<br>
+							
+						GEORGE: Oh mother of God.<br>
+							<br>
+							
+						(clip clop)<br>
+							<br>
+							
+						KRAMER: Of course, uh, this is Central Park. Uh, this was designed in 1850 by Joe Peppitone. Um, built during the Civil War so the northern armies could practice fighting on...on grass. Oh, yeah. Giddyup. On Rusty!<br>
+							<br>
+							
+						(applause)<br>
+							<br>
+							
+						JOHN: Thank you. Now, I'd like to play something th -- well, actually, it's my latest so it's nice and fresh. It's called &quot; Hot And Heavy.&quot;<br>
+							<br>
+							
+						(saxophone playing)<br>
+							<br>
+							
+						GEORGE: Thank God that's over.<br>
+							<br>
+							
+						ESTELLE: The mother seems to hit the sauce pretty hard. I didn't like that.<br>
+							<br>
+							
+						FRANK: And who doesn't serve cake after a meal? What kind of people? Would it kill them to put out a pound cake? Something!<br>
+							<br>
+							
+						GEORGE: So, they didn't give you a piece of cake? Big deal.<br>
+							<br>
+							
+						ESTELLE: It is a big deal. You're supposed to serve cake after a meal. I'm sorry. It's impolite.<br>
+							<br>
+							
+						FRANK: Not impolite...it's stupid, that's what it is. You gotta be stupid to do something like that!<br>
+							<br>
+							
+						ESTELLE: Your father's absolutely right. We're sitting there like idiots drinking coffee without a piece of cake!<br>
+							<br>
+							
+						GEORGE: What is this? The marble rye?<br>
+							<br>
+							
+						MRS. ROSS: Oh, dear. I forgot to put out that - that bread they brought.<br>
+							<br>
+							
+						ESTELLE: We forgot to bring it in.<br>
+							<br>
+							
+						FRANK: No, I brought it in. They never put it out.<br>
+							<br>
+							
+						MRS. ROSS: Where is it?<br>
+							<br>
+							
+						SUSAN: I don't know. Where'd you put it?<br>
+							<br>
+							
+						MRS. ROSS: Right over there.<br>
+							<br>
+							
+						SUSAN: Well, it's gone.<br>
+							<br>
+							
+						GEORGE: You stole the bread?<br>
+							<br>
+							
+						FRANK: What do you mean stole? It's my bread. They didn't eat it. Why should I leave it there?<br>
+							<br>
+							
+						GEORGE: Because we brought it for them!<br>
+							<br>
+							
+						FRANK: Apparently, it wasn't good enough for them to serve.<br>
+							<br>
+							
+						MRS. ROSS: Is it possible they took it back?<br>
+							<br>
+							
+						SUSAN: Who would bring a bread and take it back?<br>
+							<br>
+							
+						MR. ROSS: Those people, that's who. I think they're sick.<br>
+							<br>
+							
+						ESTELLE: People take buses to get that rye.<br>
+							<br>
+							
+						GEORGE: Maybe they forgot to put it out!<br>
+							<br>
+							
+						FRANK: Aw, they didn't forget to put it out! It's deliberate! Deliberate, I tell ya!<br>
+							<br>
+							
+						JERRY: He stole back the rye?<br>
+							<br>
+							
+						GEORGE: Yeah.<br>
+							<br>
+							
+						JERRY: Why?<br>
+							<br>
+							
+						GEORGE: Why? Why? 'Cause he's off his rocker! That's why.<br>
+							<br>
+							
+						JERRY: So, do the Ross's know?<br>
+							<br>
+							
+						GEORGE: I don't know. They're all very suspicious.<br>
+							<br>
+							
+						JERRY: Why wouldn't they be? A rye bread doesn't just disappear.<br>
+							<br>
+							
+						GEORGE: Now, because of that stupid rye bread, I gotta keep them all separated for the rest of my life.<br>
+							<br>
+							
+						JERRY: Bad situation.<br>
+							<br>
+							
+						GEORGE: I'll tell you what I'd like to do. I'd like to replace that rye.<br>
+							<br>
+							
+						JERRY: What do you mean replace it?<br>
+							<br>
+							
+						GEORGE: You know, you go out, you get another rye. Of course, it would have to be the same one from Schnitzer's. You put it in the kitchen somewhere and you say Ohh! There it is.<br>
+							<br>
+							
+						JERRY: Well, there ya go. What's so hard about that?<br>
+							<br>
+							
+						GEORGE: What's so hard about that? How am I supposed to get it in there? I can't just walk in with it. I have to get the Rosses out of the apartment!<br>
+							<br>
+							
+						JERRY: All right. All right. Don't panic. Let's just think about it. Get the Ross's out of the apartment. That can't be so hard. Wait a minute. Wait a second. Wait a second! You know, Kramer's been driving that hansom cab.<br>
+							<br>
+							
+						GEORGE: So?<br>
+							<br>
+							
+						JERRY: Well, Kramer'll take them around for a while.<br>
+							<br>
+							
+						GEORGE: And it's their anniversary Friday night. I could send them for a hansom cab ride. Y -- you think they'd like that?<br>
+							<br>
+							
+						JERRY: Are you kidding? People love it. There's something about the clip clop, clip clop. They're nuts for it.<br>
+							<br>
+							
+						GEORGE: So, they go off for the ride, by the time they come back the bread is there.<br>
+							<br>
+							
+						JERRY: What about Susan?<br>
+							<br>
+							
+						GEORGE: She's working late that night. We're - were supposed to have dinner with everybody at eight o'clock so I'll set up the ride for seven o'clock.<br>
+							<br>
+							
+						JERRY: Beautiful!<br>
+							<br>
+							
+						GEORGE: You think Kramer'll do it?<br>
+							<br>
+							
+						KRAMER: Of course I'll do it. I'd be happy to. So, all I gotta do is be there at seven?<br>
+							<br>
+							
+						GEORGE: Yeah. Just take 'em out and ride 'em around for about..half an hour.<br>
+							<br>
+							
+						KRAMER: Hey.<br>
+							<br>
+							
+						JERRY: What the hell are you doing there?<br>
+							<br>
+							
+						KRAMER: It's Beef-A-Reeno..and I got fifty cans. You want some?<br>
+							<br>
+							
+						JERRY: No. No thanks.<br>
+							<br>
+							
+						KRAMER: Jerry, I think I bought too much at that price club. I don't have any room for it all.<br>
+							<br>
+							
+						GEORGE: Hold on. Hold on. Wait a minute. How am I gonna get the rye bread into the apartment?<br>
+							<br>
+							
+						JERRY: Just put it under your shirt.<br>
+							<br>
+							
+						GEORGE: Have you ever seen a Schnitzer's rye? It - it's huge!<br>
+							<br>
+							
+						JERRY: I'll tell ya what, I'll bring it over. I'll stop by Schnitzer's, I'll come by five after seven right after they leave.<br>
+							<br>
+							
+						GEORGE: Oh, this is all locking in now. It is all locking in! (laughing)<br>
+							<br>
+							
+						ELAINE: Hey. Is that your horse outside?<br>
+							<br>
+							
+						KRAMER: Yeah. That's Rusty.<br>
+							<br>
+							
+						GEORGE: What? He's outside?<br>
+							<br>
+							
+						KRAMER: Uh-huh.<br>
+							<br>
+							
+						GEORGE: Aw, come on. I wanna go see him.<br>
+							<br>
+							
+						KRAMER: You wanna go see him?<br>
+							<br>
+							
+						GEORGE: Yeah. Hey! Hey!<br>
+							<br>
+							
+						KRAMER: I'll show ya Rusty.<br>
+							<br>
+							
+						GEORGE: Hey, Lainey, wanna see the horsey?<br>
+							<br>
+							
+						ELAINE: Well, you really did me in this time, didn't ya? First guy I like in a really long time. I mean, we're getting along, everything is just great. I mean, all right, so he doesn't do... everything, and then you have to come along with your hot and your heavy.<br>
+							<br>
+							
+						JERRY: So, you think Clyde told him?<br>
+							<br>
+							
+						ELAINE: He wrote a song about it!<br>
+							<br>
+							
+						JERRY: Well, maybe it's a good thing.<br>
+							<br>
+							
+						ELAINE: No! It's not a good thing! It's a bad thing! Do you know what this is like? To have no control over a relationship? And - and you feel sick to your stomach all the time? Do you know what that's like?<br>
+							<br>
+							
+						JERRY: No, but I've read articles and I must say it, doesn't sound very pleasant.<br>
+							<br>
+							
+						ELAINE: You know, one of these days, something terrible is gonna happen to you. It has to!<br>
+							<br>
+							
+						JERRY: No. I'm gonna be just fine, but as far as your situation, you're seeing him tonight so talk to him about it.<br>
+							<br>
+							
+						ELAINE: I can't! He's got a big showcase for record producers at his late show tonight. I don't wanna upset him. Aw, what the hell, I'll upset him.<br>
+							<br>
+							
+						MR. ROSS: Yeah George, I gotta tell ya, this is a very nice gesture. We really appreciate it.<br>
+							<br>
+							
+						GEORGE: Aw, well, you know, it's your anniversary. It's - it's the least I can do. I - I just want you guys to go out and have a good time. Ha ha. So, you think we should, uh, we should get downstairs?<br>
+							<br>
+							
+						MR. ROSS: Oh, we got about twenty minutes. You, uh, seem a little nervous George. Anything wrong?<br>
+							<br>
+							
+						GEORGE: Oh, no. No. No. No. No. Nothing. I'm fine. Everything's fine. Fine. Just get a little nervous on the weekends, that's all. Could I, uh, could I get a glass of water?<br>
+							<br>
+							
+						MRS. ROSS: We've got water. I don't think we have any bread, but we've got water.<br>
+							<br>
+							
+						KRAMER: Yeah. There ya go. That's Beef-A-Reeno. (singing) I'm so keen-o On Beef-A-Reeno What a delicious cuisine-o Fit for a king and queen-o! Yeah. Eat up. I got thirty four more cans.<br>
+							<br>
+							
+						MR. ROSS: Nice night for a hansom cab ride, 'ay George?<br>
+							<br>
+							
+						MRS. ROSS: You know, George we haven't done anything romantic like this in ....years.<br>
+							<br>
+							
+						GEORGE: (thinking) Oh my God, it's 7:01. What have I done? My whole plan is depending on Kramer? Have I learned nothing? How could I make such a stupid mistake? He'll never show up!<br>
+							<br>
+							
+						(clip clop)<br>
+							<br>
+							
+						KRAMER: Ah ha!<br>
+							<br>
+							
+						GEORGE: There he is. Right on time as usual.<br>
+							<br>
+							
+						COUNTER WOMAN: 53.<br>
+							<br>
+							
+						MABEL: 53. I'd like a marble rye, no plastic, in a bag.<br>
+							<br>
+							
+						COUNTER WOMAN: Ah! You're lucky. It's our last one.<br>
+							<br>
+							
+						JERRY: Wait a second, that's your last marble rye?<br>
+							<br>
+							
+						COUNTER WOMAN: That's right.<br>
+							<br>
+							
+						JERRY: There's none left?<br>
+							<br>
+							
+						COUNTER WOMAN: That's what I said. Number 54.<br>
+							<br>
+							
+						JERRY: Uh, excuse me. I know this is gonna sound crazy but I - I have to have that rye. It's a - it's a long story, but a person's whole future may depend on it.<br>
+							<br>
+							
+						MABEL: Well, I'm sorry, but you should have got here earlier.<br>
+							<br>
+							
+						JERRY: Yes. Well, be that as it may, if you could just find it in yourself to give it up.<br>
+							<br>
+							
+						MABEL: You're not getting this rye --<br>
+							<br>
+							
+						JERRY: All right. All right. I'll tell ya what I'm gonna do, I will give you double what you paid for it.<br>
+							<br>
+							
+						MABEL: You're in my way!<br>
+							<br>
+							
+						KRAMER: Ahh! Mr. Ross. Mrs. Ross. My name is Cosmo and I'll be your driver for this evening. We have blankets for your comfort. I also have hot chocolate if the mood should strike you.<br>
+							<br>
+							
+						MRS. ROSS: My favorite.<br>
+							<br>
+							
+						KRAMER: Well, if we're all set to go, why don't you two hop aboard and let me show you a little taste of old New York...the way it once was. Oh, happy anniversary. On, Rusty!<br>
+							<br>
+							
+						(clip clop)<br>
+							<br>
+							
+						JERRY: All right. Look, I'll tell ya what, I'll give you $50. Now, be reasonable you cannot turn down $50 for a $6 rye.<br>
+							<br>
+							
+						MABEL: No? Watch me.<br>
+							<br>
+							
+						JERRY: Give me that rye!<br>
+							<br>
+							
+						MABEL: Stop it!<br>
+							<br>
+							
+						JERRY: I want that rye, lady!<br>
+							<br>
+							
+						MABEL: Help! Someone help!<br>
+							<br>
+							
+						JERRY: Shut up, you old bag!<br>
+							<br>
+							
+						MABEL: Stop thief! Stop him! He's got my marble rye!<br>
+							<br>
+							
+						ELAINE: I'm sorry to just show up unexpectedly like this. I know you've got your big showcase coming up later and I know how important it is, I know how hard you work for this night, but I just had to tell you that I never told Jerry hot and heavy. I didn't think we were hot and heavy. I mean - I mean, who's hot and who's heavy?<br>
+							<br>
+							
+						JOHN: Whoa. Hold on, Elaine I.....I'm kinda disappointed.<br>
+							<br>
+							
+						ELAINE: Disappointed?<br>
+							<br>
+							
+						JOHN: Yeah. I mean, I was excited when Clyde told me that.<br>
+							<br>
+							
+						ELAINE: You were?<br>
+							<br>
+							
+						JOHN: Absolutely.<br>
+							<br>
+							
+						ELAINE: Ohh! Whew! I am so relieved!<br>
+							<br>
+							
+						JOHN: Listen, uh, I've still got a couple of hours to kill before the next show. My place is only a few blocks from here.<br>
+							<br>
+							
+						ELAINE: Really?<br>
+							<br>
+							
+						JOHN: And you know what?<br>
+							<br>
+							
+						ELAINE: What?<br>
+							<br>
+							
+						JOHN: I've been thinking about what we do and I'm thinking..of...adding a new number to my, you know, repertoire.<br>
+							<br>
+							
+						ELAINE: Ohh!<br>
+							<br>
+							
+						(clip clop)<br>
+							<br>
+							
+						(Rusty snorting)<br>
+							<br>
+							
+						KRAMER: Y'aah!<br>
+							<br>
+							
+						(clip clop)<br>
+							<br>
+							
+						(Rusty farts)<br>
+							<br>
+							
+						MRS. ROSS: (sniffing) What is that?<br>
+							<br>
+							
+						MR. ROSS: I think it's the horse.<br>
+							<br>
+							
+						MRS. ROSS: Oh, God.<br>
+							<br>
+							
+						KRAMER: Hey, how's everything? You..you need anything?<br>
+							<br>
+							
+						MRS. ROSS: This is - this is...horrible.<br>
+							<br>
+							
+						MR. ROSS: Excuse me,...what do you feed this animal?<br>
+							<br>
+							
+						KRAMER: Oh, you know, oats and hay. You know, they like that stuff.<br>
+							<br>
+							
+						MRS. ROSS: I can't take this. Let me out of this thing!<br>
+							<br>
+							
+						MR. ROSS: Turn this thing around. We've had it. We can't breathe back here! And hurry it up!<br>
+							<br>
+							
+						KRAMER: Rusty! Rusty!<br>
+							<br>
+							
+						GEORGE: (whistling)<br>
+							<br>
+							
+						(clip clopping beginning in distance and growing discernibly louder)<br>
+							<br>
+							
+						KRAMER: Whoa!<br>
+							<br>
+							
+						GEORGE: Wha - what happened? What are you doing back so soon?<br>
+							<br>
+							
+						MR. ROSS: Ask Rusty.<br>
+							<br>
+							
+						KRAMER: I'm terribly sorry, Mr. Ross. One never knows how the gastrointestinal workings of the equine are going to function.<br>
+							<br>
+							
+						MRS. ROSS: Thanks for nothing! Come on, George. Let's go upstairs.<br>
+							<br>
+							
+						GEORGE: What the hell happened?<br>
+							<br>
+							
+						KRAMER: The horse is gassy. Must have been the Beef-A-Reeno.<br>
+							<br>
+							
+						GEORGE: Beef-A-Reeno? You fed the horse Beef-A-Reeno?!<br>
+							<br>
+							
+						KRAMER: Well, I overbought!<br>
+							<br>
+							
+						MR. ROSS: George.<br>
+							<br>
+							
+						GEORGE: (muttering)<br>
+							<br>
+							
+						MUSIC GUY: What's going on? Where is he?<br>
+							<br>
+							
+						MANAGER: Uh...he'll be here soon.<br>
+							<br>
+							
+						MUSIC GUY: I'll give him ten more minutes. I'm not gonna stay here all night.<br>
+							<br>
+							
+						JERRY: How much did you give him?<br>
+							<br>
+							
+						KRAMER: Just a can. But he really liked it, though.<br>
+							<br>
+							
+						GEORGE: Jerry! Up here!<br>
+							<br>
+							
+						JERRY: Yeah. Hey, what do you want me to do with this?<br>
+							<br>
+							
+						GEORGE: I can't come out. They're standing right by the door. Throw it up!<br>
+							<br>
+							
+						JERRY: Really?<br>
+							<br>
+							
+						GEORGE: Yeah. Yeah. It's the only way. Come on. What are you, kidding me?<br>
+							<br>
+							
+						JERRY: Will you get this horse outta here. He's killing me. I can't get any oxygen.<br>
+							<br>
+							
+						KRAMER: I don't wanna go back on there!<br>
+							<br>
+							
+						GEORGE: Come on!<br>
+							<br>
+							
+						JERRY: (grunting as he throws bread into the air)<br>
+							<br>
+							
+						GEORGE: (grunting) Hey! Hey, wait a second. I got an idea.<br>
+							<br>
+							
+						ELAINE: No. No. Don't be silly, John, you were very good. You just don't have to try so hard. Good luck, honey.<br>
+							<br>
+							
+						GEORGE: Come on! Come on!<br>
+							<br>
+							
+						JERRY: Wait a second! I never baited a hook with a rye before. Your hook is too small. This is for, like, a muffin. All right. Take it away.<br>
+							<br>
+							
+						(George finally gets rye into apartment, turning around to discover everyone staring at him)<br>
+							<br>
+							
+						GEORGE: Come on. Come on. Come on. Yeah. Yeah. (grunting)<br>
+							<br>
+							
+						MANAGER: Ladies and gentlemen, John Germaine.<br>
+							<br>
+							
+						(applause)<br>
+							<br>
+							
+						(John attempts to play saxophone, discovering that no sound is being created by the instrument)<br>
+							<br>
+							<br>
+							
+						The End<br>
+						</td>
+						</tr>
+						<tr height="6">
+							<td class="bottom2" width="645" height="6"></td>
+						</tr>
+						<tr>
+							<td width="645">
+								<div align="center">
+									<font size="-1">Copyright 2006 seinology.com | All Rights Reserved | Designed by 13erla</font></div>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+		<p></p>
+	</body>
+
+</html>

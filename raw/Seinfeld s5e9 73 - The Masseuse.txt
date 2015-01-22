@@ -1,0 +1,1438 @@
+<tdOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+<html>
+
+	<head>
+		<meta http-equiv="content-type" content="text/html;charset=ISO-8859-1">
+		<meta name="description" content="Top Source for Seinfeld">
+		<meta name="keywords" content="seinfeld, sienfeld, Jerry Seinfeld, Julia Louis Dreyfus, Jason Alexander, Michael Richards, Kramer, George, Costanza, Elaine Benes, morty, Larry David">
+		<title>Seinology.com :: Scripts :: 73-The Masseuse</title>
+	<link rel='stylesheet' href='/stylesheet.css' type='text/css'>
+	</head>
+
+	<body>
+			<table align="center" width="787" border="0" cellspacing="0" cellpadding="0">
+				<tr>
+					<td><font size="-2" color="red">Seinology.com - </font><font size="-3" color="black">Where Seinfeld Content and Accuracy Matter Most. Seinfeld scripts in pdf form, Seinfeld episode video clips, Seinfeld episode audio clips, Jerry Seinfeld appearances, Julia Louis-Dreyfus appearances, Michael Richards appearances, Jason Alexander appearances, Seinfeld discussion Forum, Seinfeld Where are they Now? Seinlanguage Newsletter, Popular Seinfeld Lists, Seinfeld episode standup, Seinfeld episode guide, Seinfeld fan fiction. Seinfeld content all on one domain. Seinology.com enjoy your stay.</font></td>
+				</tr>
+			</table>
+		
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr height="100">
+				<td class="logo"></td>
+			</tr>
+			<tr><td class="ads" align="center" background=#8694fa>
+				<script type="text/javascript"><!--
+google_ad_client = "pub-1924026976931416";
+google_ad_width = 728;
+google_ad_height = 90;
+google_ad_format = "728x90_as";
+google_ad_type = "text";
+google_ad_channel = "";
+google_color_border = "FFFFFF";
+google_color_bg = "8694fa";
+google_color_link = "0000FF";
+google_color_text = "000000";
+google_color_url = "002E3F";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></td></tr>
+		</table>
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr>
+				<td valign="top" width="136">
+					<table width="136" border="0" cellspacing="0" cellpadding="0">
+						<tr height="24">
+							<td class="navigation">
+								<div align="center">
+									
+									<b>Navigation</b></div>
+							</td>
+						</tr>
+						<tr height="199">
+							<td class="spacer1" valign="top" width="136" height="199">
+								<div align="center">
+									<font size="-1"><a href="http://www.seinology.com">Home</a><br>
+										<a href="http://board.seinology.com">Forum</a><br>
+										<a href="http://www.seinology.com/av.shtml">Audio/Video</a><br>
+										<a href="http://www.seinology.com/scripts.shtml">Scripts</a><br>
+										<a href="http://www.seinology.com/survivor.shtml">Survivor</a><br>
+										<a href="http://www.seinology.com/fanfics.shtml">Fan Fiction</a><br>
+										<a href="http://www.seinology.com/gallery/">Gallery</a><br>
+										<a href="http://www.seinology.com/newsletter.shtml">Newsletter</a><br>
+										<a href="http://www.seinology.com/lists.shtml">Lists</a><br>
+										<a href="http://www.seinology.com/epguide.shtml">Episode Guide</a><br>
+										<a href="http://www.seinology.com/links.shtml">Links</a><br>
+										<a href="http://www.seinology.com/faqother.shtml">Faq + others</a><br>
+										<a href="http://www.seinology.com/legal.shtml">Legal</a></font></div>
+							</td>
+						</tr>
+						
+						<tr>
+							<td class="nav2" width="136">
+							<div align="center"><b>Search</b></div></td>
+						</tr>
+						<tr>
+							<td class="spacer1" width="136" valign="top"><div align="center"><form method="get" action="http://www.seinology.com/search/search.cgi">
+<p><label for="fdse_Match">Match</label><br>
+<select name="Match" id="fdse_Match" size="1">
+<option value="1">All</option>
+<option value="0">Any</option>
+<option value="2">Phrase</option>
+</select></p>
+<p><label for="fdse_Realm">Where?</label><br>
+<select name="Realm" id="fdse_Realm" size="1">
+<option selected="selected" value="All">EntireSite</option>
+<option value="Ep Guide">Ep Guide</option>
+<option value="Images">Images</option>
+<option value="Lists">Lists</option>
+<option value="Newsletters">Newsletters</option>
+<option value="Scripts">Scripts</option>
+<option value="Notes..Nothing">Notes..Nothing</option>
+</select></p>
+<p><input type="text" name="Terms" size="14" id="fdse_Terms"><br>
+<input type="submit" class="submit" name="submitButtonName" value="Search"></p>
+</div></form></td>
+						</tr>
+						<tr><td class="bottom" width="136" height="10" valign="top">
+						</td>
+						</tr>
+					</table>
+				</td>
+				<td width="4"></td>
+				<td valign="top" width="645">
+					<table width="645" border="0" cellspacing="0" cellpadding="0">
+						<tr height="18">
+							<td width="645" height="35" class="bar">
+								<div align="center">
+									<b><font size="+2" color="black">Script</font></b></div>
+							</td>
+						</tr>
+						<tr height="362">
+							<td class="spacer2" valign="top" width="645" height="362">
+
+						<p><font size="-2">Episode 73 - The Masseuse<br>
+							
+						pc: 509, season 5, episode 9<br>
+							
+						Broadcast date: November 18, 1993<br>
+							<br>
+							
+						Written by Peter Mehlman<br>
+							
+						Directed by Tom Cherones<br>
+							<br>
+							
+						-------------------------------------------------------------------------------<br>
+							<br>
+							
+						The Cast<br>
+							
+						Regulars:<br>
+							
+						Jerry Seinfeld ....................... Jerry Seinfeld<br>
+							
+						Jason Alexander .................. George Costanza<br>
+							
+						Julia Louis-Dreyfus ............. Elaine Benes<br>
+							
+						Michael Richards ................. Kramer<br>
+							<br>
+							
+						Guest Stars:<br>
+							<br>
+							
+						Lisa Edelstein&nbsp; .....................&nbsp; Karen<br>
+							
+						Jennifer Coolidge ................&nbsp; Jody<br>
+							
+						Anthony Cistaro ................. Joel Rifkin<br>
+							
+						John Glen Bishop ................. Ticket Man<br>
+							
+						Hiram Kasten&nbsp; ..................... Michael<br>
+							
+						Lisa Pescia ........................... Lisa<br>
+							<br>
+							
+						==================================================================<br>
+							<br>
+							
+						[Setting: Night club] <br>
+							<br>
+							
+						JERRY: If there's a serial killer lose in your neighborhood, it seems like the safest thing is to be the neighbor. They never kill the neighbor. The neighbor always survives to do the interview afterwards. Right? &quot;Oh, he was kind of quiet.&quot; I love these neighbors. They're never disturbed by the sounds of murdering, just stereo. Chain saws, people screaming, fine. Just keep the music down. And all these women who always fall in love with the serial killer. They write to him in prison. Here's a woman that's hard to disappoint. I guess she's only upset when she finds out he's stopped killing people and she goes: &quot;You know sometimes I feel like I don't even know who you are anymore&quot;. <br>
+							<br>
+							<br>
+							
+						[setting: Elaine's office and Jerry's apartment] <br>
+							<br>
+							
+						(Elaine's on the phone with Jerry) <br>
+							<br>
+							
+						JERRY: No eight years isn't such a long streak. <br>
+							<br>
+							
+						ELAINE: It isn't? <br>
+							<br>
+							
+						JERRY: No I haven't vomited in thirteen years. <br>
+							<br>
+							
+						ELAINE: Get out! <br>
+							<br>
+							
+						JERRY: Not since June 29, 1980. <br>
+							<br>
+							
+						ELAINE: You remember the date? <br>
+							<br>
+							
+						JERRY: Yes, because my previous vomit was also June 29th... 1972. That's why during the '80 vomit, I was yelling to George: &quot;Can you believe it? I'm vomiting on June 29th again.&quot; <br>
+							<br>
+							
+						ELAINE: Boy, you know when Joel told me he hadn't thrown up in eight years, I was wondering if he was normal. <br>
+							<br>
+							
+						JERRY: No Elaine he's normal. Your boyfriend is a normal guy. He just happens to have the same name as one of the worst serial killers in the history of New-York. <br>
+							<br>
+							
+						ELAINE: Yeah... (2 co-workers enter Elaine's office) Oh Jer, I gotta go. I gotta go. (she hangs up) <br>
+							<br>
+							
+						JOANNE: Hi, we just saw your boyfriend at a bus stop. <br>
+							<br>
+							
+						ELAINE: Oh, yeah? <br>
+							<br>
+							
+						JOANNE: Yeah. What's his name? <br>
+							<br>
+							
+						ELAINE: Joel... <br>
+							<br>
+							
+						JOANNE: Joel what? <br>
+							<br>
+							
+						ELAINE: Uh... (clears her throat) Rifkin. <br>
+							<br>
+							
+						MICHAEL: Rifkin? Joel Rifkin? <br>
+							<br>
+							
+						ELAINE: Yeah. It's just a coincidence obviously. <br>
+							<br>
+							
+						MICHAEL: Guess you better keep on his good side. <br>
+							<br>
+							
+						ELAINE: Very funny. That's very funny. <br>
+							<br>
+							
+						JOANNE: I wouldn't sleep with my back to him if I were you. <br>
+							<br>
+							
+						ELAINE: All right. Well that's enough of that. That's enough. <br>
+							<br>
+							
+						MICHAEL: Hey Elaine listen. If you smell anything decaying in the trunk of his car... <br>
+							<br>
+							
+						ELAINE: (she's upset, gets up and yells) OK look this is my boyfriend we're talking about OK? And he's a gentlemen, he's good looking, he's a good shaver and he hasn't thrown up in eigth years so just shut up about him! Shut up! <br>
+							<br>
+							
+						(scene ends) <br>
+							<br>
+							<br>
+							
+						[setting: Jerry's] <br>
+							<br>
+							
+						ELAINE: The whole city is talking about this monster Joel Rifkin, and I am dating a Joel Rifkin. <br>
+							<br>
+							
+						JERRY: But you like your Joel Rifkin. <br>
+							<br>
+							
+						ELAINE: Yeah. I just wish he has a different name. <br>
+							<br>
+							
+						JERRY: Ask him to change it. <br>
+							<br>
+							
+						ELAINE: You can't ask a person to change their name. <br>
+							<br>
+							
+						JERRY: Why not? <br>
+							<br>
+							
+						ELAINE: Would you change yours? <br>
+							<br>
+							
+						JERRY: If someone asked me nicely. I'm Claude Seinfeld. <br>
+							<br>
+							
+						(Kramer enters) <br>
+							<br>
+							
+						ELAINE: Hey, how many people did Rifkin strangle? Eighteen? <br>
+							<br>
+							
+						JERRY: Yeah. Eighteen strangles. <br>
+							<br>
+							
+						KRAMER: You know why Rifkin was a serial killer? Because he was adopted. (saying it as he's taking a lot of paper towels from Jerry's roll; Elaine and Jerry are confused at Kramer's statement) Just like Son of Sam was adopted. So apparently adoption leads to serial killing. (Kramer leaves and we don't know why he needed so much paper towels) <br>
+							<br>
+							
+						ELAINE: You know Joel and I have an extra ticket to the Giants game. <br>
+							<br>
+							
+						(Jerry doesn't have the time to open his mouth before Kramer pops in again) <br>
+							<br>
+							
+						KRAMER: I'll go. <br>
+							<br>
+							
+						ELAINE: O.K. I'll leave the ticket for you at will call. <br>
+							<br>
+							
+						KRAMER: Yeah! Ooh! (leaves again) <br>
+							<br>
+							
+						ELAINE: You think I should have asked George? <br>
+							<br>
+							
+						JERRY: Hey did you hear that George got back with Karen? <br>
+							<br>
+							
+						ELAINE: Karen? <br>
+							<br>
+							
+						JERRY: Risotto. (we see a flashback from The Mango where Karen tells George that she feels full after a Risotto, as opposed to when she has sex with him) <br>
+							<br>
+							
+						ELAINE: Oh! The Risotto broad. <br>
+							<br>
+							
+						JERRY: Yeah. He's really got a good thing with her. In fact I'm doubling with them tonight. <br>
+							<br>
+							
+						ELAINE: I tought you didn't like double dates. <br>
+							<br>
+							
+						JERRY: George likes them, he feels it's a good personality showcase. He likes a date to see him with a friend so she can get a window into his nondate personality. <br>
+							<br>
+							
+						ELAINE: I've looked through that window and screamed at him to shut the blinds. <br>
+							<br>
+							
+						JERRY: He feels he's funnier, more relaxed. <br>
+							<br>
+							
+						ELAINE: And you're taking... <br>
+							<br>
+							
+						JERRY: Jody the masseuse. <br>
+							<br>
+							
+						ELAINE: Hey, did you get a massage yet? <br>
+							<br>
+							
+						JERRY: No! How many times do I have to go out with her before I get a massage? <br>
+							<br>
+							
+						ELAINE: Jerry, she gives massages all day. She doesn't wanna to give them on dates. <br>
+							<br>
+							
+						JERRY: Yeah I know... She just wants to have sex. <br>
+							<br>
+							
+						ELAINE: So what? <br>
+							<br>
+							
+						JERRY: So it's like going to Idhao and eating carrots. I like carrots, but I'm in Idhao, I want a potato. <br>
+							<br>
+							
+						(scene ends) <br>
+							<br>
+							<br>
+							
+						[setting: The Chinese restaurant (the same as in 'The Chinese Restaurant')] <br>
+							<br>
+							
+						(Jerry, Jody, Karen and George sitting at a table. Yes! They got a table!) <br>
+							<br>
+							
+						GEORGE: (George is telling a story. Karen is laughing and she seems to be the only one to find him funny) So I go into this clothing store and the saleswoman is wearing this (whistling) low cut thing. So I said to her: &quot;Can I ask you a question? When you put on a top like that, what's your tought process? What's going on in your mind?&quot; <br>
+							<br>
+							
+						KAREN: That is so funny. <br>
+							<br>
+							
+						GEORGE: (to Jody) You're listening to this? <br>
+							<br>
+							
+						JODI: Yeah. I heard you. <br>
+							<br>
+							
+						JERRY: (to Jody) My neck is killing me. Right in this spot. Very tender over here. <br>
+							<br>
+							
+						JODI: (to George) So what did she say? <br>
+							<br>
+							
+						GEORGE: Well nothing. I didn't actually say that. (Karen is still laughing) <br>
+							<br>
+							
+						JODI: You just said that you said it. <br>
+							<br>
+							
+						GEORGE: Sweetheart, I was exaggerating. <br>
+							<br>
+							
+						KAREN: I'm learning a lot about you tonight George. I've never seen you like this. <br>
+							<br>
+							
+						JERRY: (touching the back of his neck) It's like somebody's pulling on wires back here. <br>
+							<br>
+							
+						GEORGE: You know it's like you never see a really attractive woman getting a traffic ticket. <br>
+							<br>
+							
+						JODI: How can you say that? My sister got a ticket last week. Are you saying she's not attractive? <br>
+							<br>
+							
+						GEORGE: Well I've never met your sister but obviously these are not hard-and-fast rules. (to the waitress) Darling, the tea is getting a little cold sweetheart. <br>
+							<br>
+							
+						JODI: (to Jerry) Can we go? <br>
+							<br>
+							
+						JERRY: Yeah. Let's go. <br>
+							<br>
+							
+						KAREN: So soon? (they get up) <br>
+							<br>
+							
+						JERRY: Yeah. Good seeing you again Karen. <br>
+							<br>
+							
+						KAREN: Yeah. <br>
+							<br>
+							
+						JODI: Nice meeting you Karen. <br>
+							<br>
+							
+						KAREN: Yeah. Nice to meet you too and I'm gonna call you about that massage. <br>
+							<br>
+							
+						JODI: Oh yeah. <br>
+							<br>
+							
+						GEORGE: Jody let's do this agian real soon (he tends his arms for a hug but she avoids him) <br>
+							<br>
+							
+						JODI: Yeah. (she and Jerry walk away) <br>
+							<br>
+							
+						(scene ends) <br>
+							<br>
+							<br>
+							
+						[setting: Jerry's place later that night] <br>
+							<br>
+							
+						(Jerry and Jody are sitting next to each other on the couch, watching TV) <br>
+							<br>
+							
+						JERRY: I strained my neck last night. <br>
+							<br>
+							
+						JODI: Really, how? <br>
+							<br>
+							
+						JERRY: I tried brushing my teeth by holding the brush and moving my head from side to side. It didn't work. <br>
+							<br>
+							
+						JODI: So what's the deal with your friend George? <br>
+							<br>
+							
+						JERRY: No deal. Why? <br>
+							<br>
+							
+						JODI: What was all that &quot;attractive women not getting tickets&quot; nonsense? <br>
+							<br>
+							
+						JERRY: Oh well, he was just showcasing his nondate pesonality. <br>
+							<br>
+							
+						JODI: I don't know how you can hang out with that guy. <br>
+							<br>
+							
+						JERRY: Yeah. Sometimes he really makes me tense (he takes Jody's hand and put it on his shoulder) <br>
+							<br>
+							
+						JODI: Did you see the way that he was eating? <br>
+							<br>
+							
+						JERRY: Yeah, he's disgusting. (putting her hand back on his shoulder. She unconsciously starts to massage a little while watching TV) <br>
+							<br>
+							
+						JODI: I have to tell you, I really don't like him. <br>
+							<br>
+							
+						JERRY: Yeah, me either. (he takes her other hand and put it on his other shoulder) <br>
+							<br>
+							
+						JODI: It's just I hate that type. <br>
+							<br>
+							
+						JERRY: Yeah, he's a bad seed. <br>
+							<br>
+							
+						JODI: Now you however, you, I like. (she stops massaging and kisses Jerry) <br>
+							<br>
+							
+						JERRY: What are you doing? <br>
+							<br>
+							
+						JODI: What do you think I'm doing? (he won't get his massage...) <br>
+							<br>
+							
+						(scene ends) <br>
+							<br>
+							<br>
+							
+						[setting: The Chinese restaurant] <br>
+							<br>
+							
+						(George and Karen are still at the table, they're about to leave) <br>
+							<br>
+							
+						GEORGE: So, what do you think? <br>
+							<br>
+							
+						KAREN: Really enjoyed it. <br>
+							<br>
+							
+						GEORGE: Jody's nice. <br>
+							<br>
+							
+						KAREN: She's very nice. (grabs George's hand) Let's discuss this later. <br>
+							<br>
+							
+						GEORGE: You think she liked me? She seemed to like me. <br>
+							<br>
+							
+						KAREN: Yeah <br>
+							<br>
+							
+						GEORGE: I was personable. Don't you think I was personable? <br>
+							<br>
+							
+						KAREN: You were extremely personable. <br>
+							<br>
+							
+						GEORGE: I tought I picked up a little something. I'm very good at this. Did you pick up anything? <br>
+							<br>
+							
+						KAREN: I didn't pick up anything. <br>
+							<br>
+							
+						GEORGE: The second time I sent the noodles back, I tought she made a face... <br>
+							<br>
+							
+						KAREN: I didn't see a face. <br>
+							<br>
+							
+						GEORGE: I tought I saw a face. <br>
+							<br>
+							
+						KAREN: Anyhow, what is the difference? <br>
+							<br>
+							
+						GEORGE: No difference. I could care less. She's Jerry's girlfriend. <br>
+							<br>
+							
+						KAREN: George, George, instead of talking about this, we could be... you know... (she makes a move with her head like George did in 'The Mango' while saying: &quot;instead of the movie...&quot;) <br>
+							<br>
+							
+						GEORGE: He he he he <br>
+							<br>
+							
+						KAREN: Ah ah ah ah <br>
+							<br>
+							
+						GEORGE: So you think she likes me? <br>
+							<br>
+							
+						(Karen gives up and slams her forehead down on the table) <br>
+							<br>
+							
+						(scene ends) <br>
+							<br>
+							<br>
+							
+						[setting: Elaine's place] <br>
+							<br>
+							
+						(She's sitting on the couch, reading, and Joel is coming quietly behind her to massage her neck.) <br>
+							<br>
+							
+						ELAINE: (as he touches her) Uhh! What are you doing? <br>
+							<br>
+							
+						JOEL: Massaging your neck. <br>
+							<br>
+							
+						ELAINE: Oh. Huh. Of course. Massaging. <br>
+							<br>
+							
+						JOEL: Uh, boning up on football? (talking about the magazine she's reading as he sits beside her) <br>
+							<br>
+							
+						ELAINE: Yeah, yeah. You know what? There are a lot of players named Deon these days. What a cool name, Deon. If I were gonna change my name, I'd go with Deon. <br>
+							<br>
+							
+						JOEL: Deon Benes? <br>
+							<br>
+							
+						ELAINE: Well as a woman, it makes no sense. But, I mean, let's say I was you. And I decided I was gonna change my name for no real reasons whatsoever-- Deon Rifkin. Wow! That is so cool. <br>
+							<br>
+							
+						JOEL: D-Deon Rifkin? <br>
+							<br>
+							
+						ELAINE: Well maybe you're not the Dion type. O.K. then let's see, let's see, what do we got? (looking at the magazine, she starts to gasp and loses it) Oh! Oh oh oh! O.J.! O.J. Rifkin! You don't even use a name, it's just initials. Oh please please please change your name to O.J.! Please, it would be so great! <br>
+							<br>
+							
+						JOEL: Elaine! What is going on? <br>
+							<br>
+							
+						(scene ends) <br>
+							<br>
+							<br>
+							
+						[setting: Monk's] <br>
+							<br>
+							
+						(Jerry and George at a booth) <br>
+							<br>
+							
+						GEORGE: She stayed over? <br>
+							<br>
+							
+						JERRY: Yeah. (disappointed) <br>
+							<br>
+							
+						GEORGE: The sex wasn't so good? <br>
+							<br>
+							
+						JERRY: No. The sex was fabulous. <br>
+							<br>
+							
+						GEORGE: So? <br>
+							<br>
+							
+						JERRY: I want the massage! <br>
+							<br>
+							
+						GEORGE: Did you ask her? <br>
+							<br>
+							
+						JERRY: I tried putting her hands there (on his neck) but she pulls it away immediately, she's not into it. <br>
+							<br>
+							
+						GEORGE: Why not? <br>
+							<br>
+							
+						JERRY: I guess 'cause it's her job. It's very frustrating. <br>
+							<br>
+							
+						GEORGE: So we had a good time... the four of us. <br>
+							<br>
+							
+						JERRY: Yeah. <br>
+							<br>
+							
+						GEORGE: We all got along. Everyone seemed very pleasant. <br>
+							<br>
+							
+						JERRY: Yeah. <br>
+							<br>
+							
+						GEORGE: What did Jodi say? <br>
+							<br>
+							
+						JERRY: She had a good time. <br>
+							<br>
+							
+						GEORGE: Is that it? <br>
+							<br>
+							
+						JERRY: Pretty much. <br>
+							<br>
+							
+						GEORGE: Did she say anything about, uh... <br>
+							<br>
+							
+						JERRY: What? <br>
+							<br>
+							
+						GEORGE: Nah. It's all right. Great! She had a good time. <br>
+							<br>
+							
+						JERRY: Yeah (a so-so yeah as he takes a sip of coffee) <br>
+							<br>
+							
+						GEORGE: You just hesitated. <br>
+							<br>
+							
+						JERRY: I was blowing on the coffee. <br>
+							<br>
+							
+						GEORGE: She didn't like me? <br>
+							<br>
+							
+						JERRY: Look it's not like you're gonna be spending a lot of time with her. <br>
+							<br>
+							
+						GEORGE: So she doesn't like me? <br>
+							<br>
+							
+						JERRY: No. <br>
+							<br>
+							
+						GEORGE: She said that? <br>
+							<br>
+							
+						JERRY: Yes. <br>
+							<br>
+							
+						GEORGE: She told you she doesn't like me! <br>
+							<br>
+							
+						JERRY: Yes. <br>
+							<br>
+							
+						GEORGE: What were her exact-- <br>
+							<br>
+							
+						JERRY: &quot;I don't like him.&quot; <br>
+							<br>
+							
+						GEORGE: Uh-Huh (gulp) Why didn't she like me? <br>
+							<br>
+							
+						JERRY: Not everybody likes everybody! <br>
+							<br>
+							
+						GEORGE: I tried to be nice. I wasn't nice? <br>
+							<br>
+							
+						JERRY: You were very nice! <br>
+							<br>
+							
+						GEORGE: I bent over backwards for that woman! Is it that thing I said about her sister? <br>
+							<br>
+							
+						JERRY: It has nothing to do with her sister. <br>
+							<br>
+							
+						GEORGE: I don't even know her sister but believe me, if she's getting traffic tickets, she's not that good-looking! Woah<br>
+							<br>
+							
+						(scene ends) <br>
+							<br>
+							<br>
+							
+						[setting: hall in Jerry's building] <br>
+							<br>
+							
+						(George and Jerry are coming back from Monk's) <br>
+							<br>
+							
+						GEORGE: You vomited in 1987. <br>
+							<br>
+							
+						JERRY: Oh no. That was the dry heaves. <br>
+							<br>
+							
+						(Jodi is in front of Jerry's door) <br>
+							<br>
+							
+						JERRY: Jodi. <br>
+							<br>
+							
+						JODI: Hey, Jerry. <br>
+							<br>
+							
+						GEORGE: Ha! Ha! Hey! (moving his arms like: it's so great to be all here) <br>
+							<br>
+							
+						JERRY: What are you doing here? <br>
+							<br>
+							
+						JODI: I was giving Kramer a massage. <br>
+							<br>
+							
+						JERRY: Kramer! (tries to hide he's upset and jealous) <br>
+							<br>
+							
+						JODI: I got to run. I have an appointment downtown. <br>
+							<br>
+							
+						GEORGE: Here. Let me take your tabe downstairs for you. <br>
+							<br>
+							
+						JODI: No that's O.K. <br>
+							<br>
+							
+						GEORGE: Please give it to me. I love to help people. This is what I do. Come on. I'm going this way. (he takes the table from Jodi's hands and she has no choice but to follow him) <br>
+							<br>
+							
+						JERRY: I'll see you tonight. (he's opening his door apartment as Kramer comes out of his in a bathrobe) <br>
+							<br>
+							
+						KRAMER: Hey! I am looser than creamed corn! <br>
+							<br>
+							
+						JERRY: Who told you to get a massage from her. I haven't gotten a massage from her yet! <br>
+							<br>
+							
+						KRAMER: You don't know what you're missing buddy. <br>
+							<br>
+							
+						(they enter Jerry's apartment) <br>
+							<br>
+							
+						(scene ends) <br>
+							<br>
+							<br>
+							
+						[setting: street in front of Jerry's building] <br>
+							<br>
+							
+						(George and Jodi) <br>
+							<br>
+							
+						GEORGE: No one hails a cab like me. My hailing technique is unmatched. I get the wrist going from side to side and boom! Cabs are crashing into themselves to just pick me up. (a cab stops) All right, here we go. Let me get door. Feminists aside, I know women like the door holding. Here we are all righty. O.K. Jodi let's get together again real soon and say hello to your sister for me. <br>
+							<br>
+							
+						JODI: You've never met. (the cab starts and George is following to keep talking to Jodi) <br>
+							<br>
+							
+						GEORGE: Whatever. Believe me, if I wasn't involved right now, I wouldn't mind being set up. Something tells me she's a knockout. (we see, from the camera inside the cab, George's hand waving as the cab drives away) <br>
+							<br>
+							
+						(scene ends) <br>
+							<br>
+							<br>
+							
+						[setting: Jerry's apartment] <br>
+							<br>
+							
+						(Kramer is lying on the couch as Jerry is cutting a block of cheese on the kitchen counter) <br>
+							<br>
+							
+						KRAMER: (Kramer is talking much more slowly and smoother than usual) First she sets the mood perfectly with this new age music played over ocean sounds. Then she lays you out on this table, and she proceeds to rub oil over your entire body. And she rubs long... and deep... Jerry, she rubs with love. (Jerry is obviously cutting much harder than the cheese needs it as he listens to Kramer) Every muscles she touches just... (long pause) ooo-zz-es. Beneath those silky, soft fingers, you can scarcely contain yourself, buddy. (Jerry slams down the knife and goes to the couch) <br>
+							<br>
+							
+						JERRY: So you had a good time. <br>
+							<br>
+							
+						KRAMER: Oh... yeah... <br>
+							<br>
+							
+						JERRY: Enjoyed yourself. <br>
+							<br>
+							
+						KRAMER: Very... much... <br>
+							<br>
+							
+						JERRY: All right now you listen and you listen good! (he grabs Kramer's legs and throws him down the couch) <br>
+							<br>
+							
+						KRAMER: What! (Kramer is back to his usual way of speaking) <br>
+							<br>
+							
+						JERRY: The massages are out! <br>
+							<br>
+							
+						KRAMER: Wha-- <br>
+							<br>
+							
+						JERRY: Ahh!!! They're out! <br>
+							<br>
+							
+						KRAMER: Why?! <br>
+							<br>
+							
+						JERRY: Because if I can't get one, you're not getting one. <br>
+							<br>
+							
+						KRAMER: Wait a minute! Wait a minute! I need my massages! Can't you see I'm burned out! <br>
+							<br>
+							
+						JERRY: I'm sorry, Kramer. (he goes back to the kitchen) <br>
+							<br>
+							
+						KRAMER: Why? Why? Look, I paid for her. (Jerry stops walking) <br>
+							<br>
+							
+						JERRY: Don't you ever talk about her like that! <br>
+							<br>
+							
+						KRAMER: But why? <br>
+							<br>
+							
+						JERRY: That's final!!! <br>
+							<br>
+							
+						KRAMER: Ah!!! Yahh!!! <br>
+							<br>
+							
+						(scene ends) <br>
+							<br>
+							<br>
+							
+						[setting: Giants Stadium] <br>
+							<br>
+							
+						(Elaine and Joel) <br>
+							<br>
+							
+						ANNOUNCER: Ladies and Gentlemen, welcome to Giants stadium.<br>
+							<br>
+							
+						ELAINE: Oh, you have photos in your wallet? <br>
+							<br>
+							
+						JOEL: Yeah. Why? Is that weird? <br>
+							<br>
+							
+						ELAINE: No, it's normal. You're very normal. You're totally normal. Who's this? <br>
+							<br>
+							
+						JOEL: That's my mother. <br>
+							<br>
+							
+						ELAINE: Oh yeah. I see the resemblance. <br>
+							<br>
+							
+						JOEL: No, there's no resemblance. <br>
+							<br>
+							
+						ELAINE: Yeah, there is, right here you see-- <br>
+							<br>
+							
+						JOEL: Elaine, I was adopted. <br>
+							<br>
+							
+						ELAINE: (pause) Oh. That's nice. <br>
+							<br>
+							
+						JOEL: Oh, the game's about to start. I wonder where your friend Kramer is. <br>
+							<br>
+							
+						(scene ends) <br>
+							<br>
+							<br>
+							
+						[setting: ticket counter] <br>
+							<br>
+							
+						KRAMER: (to the ticket man) Uh, yeah, a ticket for Kramer. <br>
+							<br>
+							
+						TICKET MAN: Here it is. I need some I.D. <br>
+							<br>
+							
+						KRAMER: Oh, yeah. (snaps fingers) You know, I forgot my wallet. <br>
+							<br>
+							
+						TICKET MAN: Well, I can't give it to you then. <br>
+							<br>
+							
+						KRAMER: Are you kidding me? <br>
+							<br>
+							
+						TICKET MAN: I'm afraid not. <br>
+							<br>
+							
+						KRAMER: Come on, just look at me. Tell me I'm not Kramer. <br>
+							<br>
+							
+						TICKET MAN: I'm sorry. I need proof. <br>
+							<br>
+							
+						KRAMER: Look, I'll drive out here tomorrow and I'll show the I.D. I got nothing to do all day. <br>
+							<br>
+							
+						TICKET MAN: Neither do I. But without I.D., I need confirmation from the person who left the ticket. <br>
+							<br>
+							
+						KRAMER: Where's a phone? <br>
+							<br>
+							
+						(scene ends) <br>
+							<br>
+							<br>
+							
+						[setting: back to Elaine and Joel watching the game] <br>
+							<br>
+							
+						ANNOUNCER: Ladies and gentlemen, may I have your attention, please? Would Joel Rifkin report to the stadium office. Joel Rifkin...telephone. (the crowd stops cheering and we see a football player, Lawrence Taylor of the N.Y. Giants, distracted from the game while hearing the announcer saying Joel Rifkin) <br>
+							<br>
+							
+						JOEL: Who would be calling me here? (he stands up and look around) <br>
+							<br>
+							
+						ELAINE: (to the person in front of her) He's not the murderer. <br>
+							<br>
+							
+						(scene ends) <br>
+							<br>
+							<br>
+							
+						[setting: Jerry's apartment] <br>
+							<br>
+							
+						(Kramer enters, moaning) <br>
+							<br>
+							
+						KRAMER: Oh, God. <br>
+							<br>
+							
+						JERRY: What's the matter with you? <br>
+							<br>
+							
+						KRAMER: Jerry, I need another massage! <br>
+							<br>
+							
+						JERRY: You just had one yesterday. What do you need another one for? <br>
+							<br>
+							
+						KRAMER: Because of the Giant game! I told you, It went overtime! You know what those seats are like. They're very unforgiving. <br>
+							<br>
+							
+						JERRY: Oh please. <br>
+							<br>
+							
+						KRAMER: And then the game-winning field goal went over the net and into the crowd and I dove over three rows! My back, it's killing me! (whining) It's killing me Jerry! <br>
+							<br>
+							
+						JERRY: Well, did you get the ball? <br>
+							<br>
+							
+						KRAMER: Oh I got the ball. <br>
+							<br>
+							
+						JERRY: Well, I never even caught a foul ball at a baseball game. <br>
+							<br>
+							
+						KRAMER: Well, It's quite a thrill. <br>
+							<br>
+							
+						JERRY: Why don't you get somebody else? <br>
+							<br>
+							
+						KRAMER: Because nobody does it like she does. She's the best. <br>
+							<br>
+							
+						JERRY: Well, that's it! Tonight's the night. I'm getting one. No &quot;if and's or but's&quot;. <br>
+							<br>
+							
+						KRAMER: What about my massage? <br>
+							<br>
+							
+						JERRY: (whining like Kramer) Ask Newman. <br>
+							<br>
+							
+						(scene ends) <br>
+							<br>
+							<br>
+							
+						[setting: Monk's] <br>
+							<br>
+							
+						(George and Karen at a booth) <br>
+							<br>
+							
+						GEORGE: So I lugged that table. That big heavy massage table all the way down to the cab! You ever seen one of those things? <br>
+							<br>
+							
+						KAREN: Of course. <br>
+							<br>
+							
+						GEORGE: No, I don't know. Maybe you haven't. You know, not everybody's seen a massage table. <br>
+							<br>
+							
+						KAREN: What, do you think I've never had a massage before? <br>
+							<br>
+							
+						GEORGE: Anyway, I don't even get a thank you. I don't get it! <br>
+							<br>
+							
+						KAREN: George, frankly, I'm getting a little tired of hearing about her. <br>
+							<br>
+							
+						GEORGE: I wanna know what I did to this woman. <br>
+							<br>
+							
+						KAREN: What, you got a little thing for her? <br>
+							<br>
+							
+						GEORGE: No, No! She's going out with a friend of mine. It's only courteous that we should try and like each other. <br>
+							<br>
+							
+						KAREN: What difference does it make? Who cares if she doesn't like you? Does everybody in the world have to like you? <br>
+							<br>
+							
+						GEORGE: Yes! Yes! Everybody has to like me. I must be liked! <br>
+							<br>
+							
+						(scene ends) <br>
+							<br>
+							<br>
+							
+						[setting: Elaine's apartment] <br>
+							<br>
+							
+						(Elaine and Joel sitting on the couch) <br>
+							<br>
+							
+						ELAINE: Of course I support your decision to change your name. <br>
+							<br>
+							
+						JOEL: After the Giant game I realized that this--this problem isn't going away. <br>
+							<br>
+							
+						ELAINE: Well, listen, I just want you to know that I was more than willing to stick it out with Joel Rifkin. <br>
+							<br>
+							
+						JOEL: Sure? <br>
+							<br>
+							
+						ELAINE: (she fakes a strangling) RRR... <br>
+							<br>
+							
+						JOEL: O.K. you got your list? <br>
+							<br>
+							
+						ELAINE: Yeah. Yeah. 10 names. <br>
+							<br>
+							
+						JOEL: Right. <br>
+							<br>
+							
+						ELAINE: O.K. And if somebody objects, you can just veto it. <br>
+							<br>
+							
+						JOEL: O.K. <br>
+							<br>
+							
+						ELAINE: O.K. You start. What's your first choice? <br>
+							<br>
+							
+						JOEL: Stuart. <br>
+							<br>
+							
+						ELAINE: (right away) No. Second choice. <br>
+							<br>
+							
+						JOEL: Stu--Stuart's no good? <br>
+							<br>
+							
+						ELAINE: I have never met a normal guy named Stuart. <br>
+							<br>
+							
+						JOEL: O-O.K. My second choice is... Todd. <br>
+							<br>
+							
+						ELAINE: (repeating to hear how it sounds) Todd. (pause) No. Veto. <br>
+							<br>
+							
+						JOEL: All right. Oh, hey, I think you're gonna like my first my third choice. <br>
+							<br>
+							
+						ELAINE: Great... <br>
+							<br>
+							
+						JOEL: Alex. <br>
+							<br>
+							
+						ELAINE: I gotta tell ya, I have a bad association with the name Alex. <br>
+							<br>
+							
+						JOEL: Bad bad association? <br>
+							<br>
+							
+						ELAINE: Yeah, in college I sat next to an Alex in art history. And he was always drinking coffee and after every sip he would go: &quot;Ahh&quot;. I mean every two seconds: &quot;Ahh&quot;. And he would take like 40 sips and after everyone: &quot;Ahh&quot;. I had to drop the class. <br>
+							<br>
+							
+						(scnen ends) <br>
+							<br>
+							<br>
+							
+						[setting: Jerry's place] <br>
+							<br>
+							
+						(Jerry is opening the door for Jodi. She has her massage table. New age music is playing, and the lights are shaded) <br>
+							<br>
+							
+						JODI: Hey. <br>
+							<br>
+							
+						JERRY: Hi. <br>
+							<br>
+							
+						JODI: Hi. (kiss) I was running late and I didn't have a chance to drop off my stuff before I came over. <br>
+							<br>
+							
+						JERRY: Ah, no problem. That's fine. <br>
+							<br>
+							
+						JODI: What's with this music? <br>
+							<br>
+							
+						JERRY: That's new age music. Sounds of the forest. I find it soothing. Hey, look at this! What do you know? A massage table! This is great! (he starts to install the table) <br>
+							<br>
+							
+						JODI: What are you doing? <br>
+							<br>
+							
+						JERRY: Just checking it out. Look at how this thing is made. Can I tell you something? That's a hell of a piece of equipment. <br>
+							<br>
+							
+						JODI: Actually, I should get a new one. <br>
+							<br>
+							
+						JERRY: No, nonsense. This one's fine. (as he sits on the table) <br>
+							<br>
+							
+						JODI: So, where do you wanna go? (as she puts her hand on his shoulder) <br>
+							<br>
+							
+						JERRY: Go? Why go anywhere? (as he places his hand over hers. She starts to massage his shoulders a little) Ahh, that feels good. Yeah. That's, uh... That's good. (he tries to go further. He grabs her hands over his shoulders and he lies down on the table on his chest) Yeah, that's nice. That's very nice. <br>
+							<br>
+							
+						JODI: (she stops massaging) No. No, this isn't good. I can't do this. <br>
+							<br>
+							
+						JERRY: Why, what's wrong? (he grabs her hands and force her to keep them on his shoulders) <br>
+							<br>
+							
+						JODI: I can't (she tries harder to pull her hands away) <br>
+							<br>
+							
+						JERRY: No. Yes you can. (he hangs on) <br>
+							<br>
+							
+						JODI: No, I can't! <br>
+							<br>
+							
+						JERRY: Come on! I know it's something you wanna do! (she pulls harder and he falls right off the table) <br>
+							<br>
+							
+						(scene ends) <br>
+							<br>
+							<br>
+							
+						[setting: Karen's place] <br>
+							<br>
+							
+						(George and Karen are making out on the couch) <br>
+							<br>
+							
+						GEORGE: You know what? I should really go talk to her. Nothing confrontational. Just two adults sitting down trying to clear the air. You know, I just know if I could spend some time alone with her. I've got to. (he grabs his jacket) I've got to. <br>
+							<br>
+							
+						KAREN: You're going now? <br>
+							<br>
+							
+						GEORGE: I think I can still catch her. <br>
+							<br>
+							
+						KAREN: All right George. I have had just about enough of this. <br>
+							<br>
+							
+						GEORGE: What? What are you talking about. <br>
+							<br>
+							
+						KAREN: I am talking about you and Jodi. You're completely obsessed with her! <br>
+							<br>
+							
+						GEORGE: I know. I know. <br>
+							<br>
+							
+						KAREN: Who is more important to you, her or me? I like you, she doesn't. Who are you gonna pick? <br>
+							<br>
+							
+						GEORGE: (he thinks a little about it... and as he puts his hand on his knee and gets up) I'm sorry Karen. I know I care for you, but I just can't stand when someone doesn't like me. (he opens the door) <br>
+							<br>
+							
+						KAREN: Well, now I hate you! <br>
+							<br>
+							
+						GEORGE: That I'm used to. (he leaves) <br>
+							<br>
+							
+						(scene ends) <br>
+							<br>
+							<br>
+							
+						[setting: back to Elaine's place] <br>
+							<br>
+							
+						JOEL: Ned? <br>
+							<br>
+							
+						ELAINE: What is wrong with Ned? <br>
+							<br>
+							
+						JOEL: Ned's a guy who buys irregular underwear. Next! <br>
+							<br>
+							
+						ELAINE: Ellis. <br>
+							<br>
+							
+						JOEL: Ellis?! You might as well go with Alex. It's the same thing! <br>
+							<br>
+							
+						ELAINE: Ellis and Alex aren't even close. <br>
+							<br>
+							
+						JOEL: NEXT! <br>
+							<br>
+							
+						ELAINE: Ohh, what is the point? <br>
+							<br>
+							
+						JOEL: NO, NO. COME ON! <br>
+							<br>
+							
+						ELAINE: O.K. O.K. Remy. <br>
+							<br>
+							
+						JOEL: Remy Rifkin? Should I get a beret? <br>
+							<br>
+							
+						ELAINE: Oh, Stuart's a lot better! (talking like a baby) Little Stuart Rifkin likes to go shopping with his mother. <br>
+							<br>
+							
+						JOEL: Grrrr! <br>
+							<br>
+							
+						(scene ends) <br>
+							<br>
+							<br>
+							
+						[setting: back to Jerry's] <br>
+							<br>
+							
+						JERRY: What do you mean, no? <br>
+							<br>
+							
+						JODI: No means no. <br>
+							<br>
+							
+						JERRY: Look, who are you kidding? You come up to my apartment with your table and your little oils, and I'm not supposed to expect anything? You're a massage teaser. <br>
+							<br>
+							
+						JODI: Listen. I massage who I want, when I want. I don't submit to forcible massage. (he tries desperately to get her hands on his shoulders again but she pulls them away immediately) I'm getting out of here. <br>
+							<br>
+							
+						JERRY: Fine. Go. <br>
+							<br>
+							
+						(George enters. He's staring at Jodi) <br>
+							<br>
+							
+						GEORGE: Jerry, could you excuse us for a few minutes, please? <br>
+							<br>
+							
+						JERRY: What for? <br>
+							<br>
+							
+						GEORGE: We need to talk. <br>
+							<br>
+							
+						JERRY: You need to talk? <br>
+							<br>
+							
+						JODI: We have nothing to talk about. <br>
+							<br>
+							
+						GEORGE: Look it's no secret what's going on between us. (to Jerry) She doesn't like me. Now Jerry if you don't mind. <br>
+							<br>
+							
+						JERRY: George, anything you have to say to her, you can say in front of me. <br>
+							<br>
+							
+						GEORGE: (he makes a sign to Jodi to wait and turns to Jerry) Jerry... This woman hates me so much. I'm starting to like her. <br>
+							<br>
+							
+						JERRY: What? <br>
+							<br>
+							
+						GEORGE: She just dislikes me so much... It's irresistable. <br>
+							<br>
+							
+						JERRY: I can see that. <br>
+							<br>
+							
+						JODI: I'm getting out of here. (to Jerry) Don't call me. <br>
+							<br>
+							
+						JERRY: Don't worry. (she leaves) <br>
+							<br>
+							
+						GEORGE: A woman that hates me this much comes along once in a lifetime. <br>
+							<br>
+							
+						JERRY: You're a lucky guy. <br>
+							<br>
+							
+						GEORGE: I got to go after her. <br>
+							<br>
+							
+						JERRY: George. I wouldn't push for the massage. (George nods) <br>
+							<br>
+							
+						GEORGE: JODI! (he starts running after her) <br>
+							<br>
+							
+						(scene ends)<br>
+							<br>
+							<br>
+							
+						[Closing Monologue]<br>
+							<br>
+							
+						JERRY: The swedish are very big massagers. You know? They like the swedish meatballs, swedish massage. They like having meat in their hands these people, for some reason. But it's weird because they have the highest suicide rate, they're rubbing each other's necks all the time for a neutral country they seem kinda tense. I don't really like the idea of getting a professional massage. I don't want people touching me that don't know me and don't want to have sex with me. You know what are you bothering me for? You get me all loosened up, juices flowing, and then that's it ok, you're done. It's like having chocolate rubbed all over your face, you know you wanna go &quot;Excuse me, I think you missed a spot.&quot; <br>
+							<br>
+							<br>
+							
+						The End</td>
+						</tr>
+						<tr height="6">
+							<td class="bottom2" width="645" height="6"></td>
+						</tr>
+						<tr>
+							<td width="645">
+								<div align="center">
+									<font size="-1">Copyright 2006 seinology.com | All Rights Reserved | Designed by 13erla</font></div>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+		<p></p>
+	</body>
+
+</html>

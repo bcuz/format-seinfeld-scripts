@@ -1,0 +1,1250 @@
+<tdOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+<html>
+
+	<head>
+		<meta http-equiv="content-type" content="text/html;charset=ISO-8859-1">
+		<meta name="description" content="Top Source for Seinfeld">
+		<meta name="keywords" content="seinfeld, sienfeld, Jerry Seinfeld, Julia Louis Dreyfus, Jason Alexander, Michael Richards, Kramer, George, Costanza, Elaine Benes, morty, Larry David">
+		<title>Seinology.com :: Scripts :: 109-The Face Painter</title>
+	<link rel='stylesheet' href='/stylesheet.css' type='text/css'>
+	</head>
+
+	<body>
+			<table align="center" width="787" border="0" cellspacing="0" cellpadding="0">
+				<tr>
+					<td><font size="-2" color="red">Seinology.com - </font><font size="-3" color="black">Where Seinfeld Content and Accuracy Matter Most. Seinfeld scripts in pdf form, Seinfeld episode video clips, Seinfeld episode audio clips, Jerry Seinfeld appearances, Julia Louis-Dreyfus appearances, Michael Richards appearances, Jason Alexander appearances, Seinfeld discussion Forum, Seinfeld Where are they Now? Seinlanguage Newsletter, Popular Seinfeld Lists, Seinfeld episode standup, Seinfeld episode guide, Seinfeld fan fiction. Seinfeld content all on one domain. Seinology.com enjoy your stay.</font></td>
+				</tr>
+			</table>
+		
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr height="100">
+				<td class="logo"></td>
+			</tr>
+			<tr><td class="ads" align="center" background=#8694fa>
+				<script type="text/javascript"><!--
+google_ad_client = "pub-1924026976931416";
+google_ad_width = 728;
+google_ad_height = 90;
+google_ad_format = "728x90_as";
+google_ad_type = "text";
+google_ad_channel = "";
+google_color_border = "FFFFFF";
+google_color_bg = "8694fa";
+google_color_link = "0000FF";
+google_color_text = "000000";
+google_color_url = "002E3F";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></td></tr>
+		</table>
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr>
+				<td valign="top" width="136">
+					<table width="136" border="0" cellspacing="0" cellpadding="0">
+						<tr height="24">
+							<td class="navigation">
+								<div align="center">
+									
+									<b>Navigation</b></div>
+							</td>
+						</tr>
+						<tr height="199">
+							<td class="spacer1" valign="top" width="136" height="199">
+								<div align="center">
+									<font size="-1"><a href="http://www.seinology.com">Home</a><br>
+										<a href="http://board.seinology.com">Forum</a><br>
+										<a href="http://www.seinology.com/av.shtml">Audio/Video</a><br>
+										<a href="http://www.seinology.com/scripts.shtml">Scripts</a><br>
+										<a href="http://www.seinology.com/survivor.shtml">Survivor</a><br>
+										<a href="http://www.seinology.com/fanfics.shtml">Fan Fiction</a><br>
+										<a href="http://www.seinology.com/gallery/">Gallery</a><br>
+										<a href="http://www.seinology.com/newsletter.shtml">Newsletter</a><br>
+										<a href="http://www.seinology.com/lists.shtml">Lists</a><br>
+										<a href="http://www.seinology.com/epguide.shtml">Episode Guide</a><br>
+										<a href="http://www.seinology.com/links.shtml">Links</a><br>
+										<a href="http://www.seinology.com/faqother.shtml">Faq + others</a><br>
+										<a href="http://www.seinology.com/legal.shtml">Legal</a></font></div>
+							</td>
+						</tr>
+						
+						<tr>
+							<td class="nav2" width="136">
+							<div align="center"><b>Search</b></div></td>
+						</tr>
+						<tr>
+							<td class="spacer1" width="136" valign="top"><div align="center"><form method="get" action="http://www.seinology.com/search/search.cgi">
+<p><label for="fdse_Match">Match</label><br>
+<select name="Match" id="fdse_Match" size="1">
+<option value="1">All</option>
+<option value="0">Any</option>
+<option value="2">Phrase</option>
+</select></p>
+<p><label for="fdse_Realm">Where?</label><br>
+<select name="Realm" id="fdse_Realm" size="1">
+<option selected="selected" value="All">EntireSite</option>
+<option value="Ep Guide">Ep Guide</option>
+<option value="Images">Images</option>
+<option value="Lists">Lists</option>
+<option value="Newsletters">Newsletters</option>
+<option value="Scripts">Scripts</option>
+<option value="Notes..Nothing">Notes..Nothing</option>
+</select></p>
+<p><input type="text" name="Terms" size="14" id="fdse_Terms"><br>
+<input type="submit" class="submit" name="submitButtonName" value="Search"></p>
+</div></form></td>
+						</tr>
+						<tr><td class="bottom" width="136" height="10" valign="top">
+						</td>
+						</tr>
+					</table>
+				</td>
+				<td width="4"></td>
+				<td valign="top" width="645">
+					<table width="645" border="0" cellspacing="0" cellpadding="0">
+						<tr height="18">
+							<td width="645" height="35" class="bar">
+								<div align="center">
+									<b><font size="+2" color="black">Script</font></b></div>
+							</td>
+						</tr>
+						<tr height="362">
+							<td class="spacer2" valign="top" width="645" height="362">
+
+						<p><font size="-2">Episode 109 - The Face Painter<br>
+							
+						pc: 622, season 6, episode 23<br>
+							
+						Broadcast date: May 11, 1995<br>
+							<br>
+							
+						Written by Larry David<br>
+							
+						Story by Larry David &amp; Fred Stoller<br>
+							
+						Directed by Andy Ackerman<br>
+							<br>
+							
+						-------------------------------------------------------------------------------<br>
+							<br>
+							
+						The Cast<br>
+							
+						Regulars:<br>
+							
+						Jerry Seinfeld ....................... Jerry Seinfeld<br>
+							
+						Jason Alexander .................. George Costanza<br>
+							
+						Julia Louis-Dreyfus ............. Elaine Benes<br>
+							
+						Michael Richards ................. Cosmo Kramer<br>
+							<br>
+							
+						Guest Stars:<br>
+							<br>
+							
+						Katy Selverstone ................. Siena<br>
+							
+						Mark DeCarlo ..................... Alec Berg<br>
+							
+						Raye Birk ............................ Mr. Pless<br>
+							
+						Pierrino Mascarino .............. Father Hernandez<br>
+							
+						Joe Lala ............................... Priest<br>
+							
+						Peggy Lane O'Rourke ........ Waitress<br>
+							
+						David Richardson ............... Fan #1<br>
+							
+						Dave Powledge .................. Fan #2<br>
+							
+						Jan Eddy ............................ Fan #3<br>
+							
+						Lawrence LeJohn ............... Crowd Member<br>
+							
+						Fred Stoller.......................... Crowd Member (uncredited cameo)<br>
+							
+						rc:&nbsp; Patrick Warburton ........ David Puddy<br>
+							<br>
+							
+						==================================================================<br>
+							<br>
+							
+						[Opening monologue]<br>
+							<br>
+							
+						Monkeys are really the end of the line in the pet world. I think when you're at the monkey level of pet ownership, have a kid. I mean, come on, you know, I mean, you're *so* close. If you need a pet that can roller skate and smoke cigars, it's time to think about a family. Monkeys, of course, were the first astronauts in the sixties, which I'm sure made perfect sense in the monkey brain. 'Maybe that is the next logical step for me, because I've been working with the Italian guy and the crank organ, and I think I'm ready to handle the maximum re-entry g-forces.<br>
+							<br>
+							<br>
+							<br>
+							
+						[George and his date are talking in his car.]<br>
+							<br>
+							
+						GEORGE: Take toilet paper for example. Do you realize that toilet paper has not changed in my lifetime? It's just paper on a cardboard roll, that's it. And in ten thousand years, it will still be exactly the same because really, what else can they do?<br>
+							<br>
+							
+						SIENA: That's true. There really has been no development in toilet paper.<br>
+							<br>
+							
+						GEORGE: And everything else has changed. But toilet paper is exactly the same, and will be so until we're dead.<br>
+							<br>
+							
+						SIENA: Yeah, you're right George. What else can they do?<br>
+							<br>
+							
+						GEORGE: It's just paper on a roll, that's it. And that's all it will ever be.<br>
+							<br>
+							
+						SIENA: Wow.<br>
+							<br>
+							
+						GEORGE: You find this interesting, don't you?<br>
+							<br>
+							
+						SIENA: Yes. yes, I do.<br>
+							<br>
+							
+						(They stare at each other for a moment, then embrace.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Jerry and Elaine are at the coffee shop.]<br>
+							<br>
+							
+						ELAINE: (to the busboy) Oh, thanks very much, the soup was really good.<br>
+							<br>
+							
+						JERRY: What are you telling him for?<br>
+							<br>
+							
+						ELAINE: What?<br>
+							<br>
+							
+						JERRY: He's the busboy, you think he cares about the soup?<br>
+							<br>
+							
+						ELAINE: Yeah, why? Wouldn't he want the soup to be good?<br>
+							<br>
+							
+						JERRY: Elaine, it's all this guy can do to keep from killing himself. You think he's back there, talking to the chef, going, &quot;Hey, they like the soup! Keep it up!&quot;?<br>
+							<br>
+							
+						ELAINE: Hey, isn't that Alec Berg?<br>
+							<br>
+							
+						JERRY: Yep, Alec Berg. He's got a good 'John Houseman' name. Alec Beeerg. Mr. Beeerg.<br>
+							<br>
+							
+						ELAINE: I can't stand him, he is so pretentious.<br>
+							<br>
+							
+						JERRY: John Houseman?<br>
+							<br>
+							
+						ELAINE: No, Alec Berg.<br>
+							<br>
+							
+						ALEC: (approaching) Elaine!<br>
+							<br>
+							
+						ELAINE: Hi!<br>
+							<br>
+							
+						ALEC: Hi, how are you? Jerry.<br>
+							<br>
+							
+						JERRY: Hi, Alec.<br>
+							<br>
+							
+						ALEC: Did you hear about Gary Fogel?<br>
+							<br>
+							
+						JERRY: Yeah.<br>
+							<br>
+							
+						ALEC: You gonna go to the funeral on Friday?<br>
+							<br>
+							
+						JERRY: Yeah, hey did I see you on TV at the Ranger game? Were those your seats right behind the glass?<br>
+							<br>
+							
+						ALEC: Those are them, yeah. Season tickets. Uh, you know, unfortunately I can't go tonight, so they're available if you'd like to use them.<br>
+							<br>
+							
+						JERRY: Oh, I'd love to, are you sure?<br>
+							<br>
+							
+						ALEC: Absolutely, you just call my secretary, she'll arrange everything.<br>
+							<br>
+							
+						JERRY: Gee thanks! Thanks a lot!<br>
+							<br>
+							
+						ALEC: It's my pleasure. Be good. (Walking away, he stops abruptly) You know, I actually might not use them on Friday either so I'll let you know.<br>
+							<br>
+							
+						JERRY: Alright, thanks again.<br>
+							<br>
+							
+						ELAINE: Thank you very much.<br>
+							<br>
+							
+						JERRY: Really, thank you.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Jerry and Elaine are back at his apartment.]<br>
+							<br>
+							
+						JERRY: Well what about these nitwits that get on a plane with nothing to read? You know who these people are?<br>
+							<br>
+							
+						ELAINE: Who?<br>
+							<br>
+							
+						JERRY: These are the people that want to talk to you. They got nothing else to do, why not disturb you?<br>
+							<br>
+							
+						ELAINE: I will never understand people.<br>
+							<br>
+							
+						JERRY: They're the worst.<br>
+							<br>
+							
+						(George enters, carrying a bouquet of flowers and singing.)<br>
+							<br>
+							
+						GEORGE: Something's up, there's something in the air.<br>
+							<br>
+							
+						JERRY: Well, what is with you?<br>
+							<br>
+							
+						GEORGE: Well, I think this is it.<br>
+							<br>
+							
+						ELAINE: What's it?<br>
+							<br>
+							
+						GEORGE: I saw Siena again.<br>
+							<br>
+							
+						ELAINE: Siena?<br>
+							<br>
+							
+						JERRY: Yeah, he's dating a crayon.<br>
+							<br>
+							
+						GEORGE: We discussed toilet paper.<br>
+							<br>
+							
+						JERRY: Toilet paper?<br>
+							<br>
+							
+						GEORGE: Yeah, I told her how toilet paper hasn't changed in my lifetime, and probably wouldn't change in the next fifty thousand years and she was fascinated, fascinated!<br>
+							<br>
+							
+						JERRY: What are you talking about?<br>
+							<br>
+							
+						ELAINE: Yeah.<br>
+							<br>
+							
+						JERRY: Toilet paper's changed.<br>
+							<br>
+							
+						ELAINE: Yeah.<br>
+							<br>
+							
+						JERRY: It's softer.<br>
+							<br>
+							
+						ELAINE: Softer.<br>
+							<br>
+							
+						JERRY: More sheets per roll<br>
+							<br>
+							
+						ELAINE: Sheets.<br>
+							<br>
+							
+						JERRY: Comes in a wide variety of colors.<br>
+							<br>
+							
+						ELAINE: Colors.<br>
+							<br>
+							
+						GEORGE: Ok, ok, fine! It's changed, it's not really the point. Anyway, I'm thinking of making a big move.<br>
+							<br>
+							
+						JERRY: What?<br>
+							<br>
+							
+						GEORGE: I might tell her that I love her. I came this close last night, then I just chickened out.<br>
+							<br>
+							
+						JERRY: Well, that's a big move, Georgie boy. Are you confident in the 'I love you' return?<br>
+							<br>
+							
+						GEORGE: Fifty-fifty.<br>
+							<br>
+							
+						JERRY: Cause if you don't get that return, that's a pretty big matzoh ball hanging out there.<br>
+							<br>
+							
+						GEORGE: Aw, I've just got to say it once, everybody else gets to say it, why can't I say it?<br>
+							<br>
+							
+						ELAINE: What, you never said it?<br>
+							<br>
+							
+						GEORGE: Once, to a dog. He licked himself and left the room.<br>
+							<br>
+							
+						JERRY: Well, so it wasn't a total loss.<br>
+							<br>
+							
+						(Kramer enters.)<br>
+							<br>
+							
+						KRAMER: Hey.<br>
+							<br>
+							
+						JERRY: Hey, I forgot to tell you! I got tickets to the Rangers-Devils playoff game tonight!<br>
+							<br>
+							
+						KRAMER: Oh, I'm there, Monongahela!<br>
+							<br>
+							
+						JERRY: What about you, George?<br>
+							<br>
+							
+						GEORGE: Eh eh eh, can't do it, can't do it, sorry, I got a date.<br>
+							<br>
+							
+						KRAMER: So, so.<br>
+							<br>
+							
+						GEORGE: Oh no no no, if you must know, I would rather be with her than go to the game.<br>
+							<br>
+							
+						KRAMER: She must be a very special lady, huh George, yeah.<br>
+							<br>
+							
+						JERRY: Well, what do I do with the extra ticket?<br>
+							<br>
+							
+						ELAINE: Oh hey, can I bring David Puddy? He's a big Devils' fan.<br>
+							<br>
+							
+						JERRY: Sure, fine with me.<br>
+							<br>
+							
+						GEORGE: Hey, by the way, if anybody wants an inside tour of the zoo, Siena works there as a trainer.<br>
+							<br>
+							
+						KRAMER: So she works at the zoo?<br>
+							<br>
+							
+						GEORGE: Yeah, yeah.<br>
+							<br>
+							
+						KRAMER: Yeah, like Diane Fosse. You know she's the only person that's ever been accepted into gorilla society. And you know, once those gorillas accept you, you got it made in the shade.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Elaine is at Puddy's apartment, waiting in the living room while he gets ready.]<br>
+							<br>
+							
+						ELAINE: So how long have you been a Devils' fan?<br>
+							<br>
+							
+						PUDDY: (off camera) Since I was a kid, I'm from Jersey.<br>
+							<br>
+							
+						ELAINE: Yeah? Well, we're gonna kick your butts tonight.<br>
+							<br>
+							
+						PUDDY: Hey, no way, man.<br>
+							<br>
+							
+						ELAINE: Yes.<br>
+							<br>
+							
+						PUDDY: We're primed.<br>
+							<br>
+							
+						ELAINE: Alright, you almost ready? Cause Jerry and Kramer are gonna be here any second.<br>
+							<br>
+							
+						(Puddy enters wearing a Devils' jersey and red and green paint all over his face.)<br>
+							<br>
+							
+						ELAINE: What the--<br>
+							<br>
+							
+						PUDDY: So what do you think?<br>
+							<br>
+							
+						ELAINE: What is that?<br>
+							<br>
+							
+						PUDDY: I painted my face.<br>
+							<br>
+							
+						ELAINE: (still in disbelief) You painted your face?<br>
+							<br>
+							
+						PUDDY: Yeah.<br>
+							<br>
+							
+						ELAINE: Why?<br>
+							<br>
+							
+						PUDDY: You know, support the team.<br>
+							<br>
+							
+						ELAINE: Well, you can't walk around like that.<br>
+							<br>
+							
+						PUDDY: Why not?<br>
+							<br>
+							
+						ELAINE: Because it's insane?<br>
+							<br>
+							
+						PUDDY: Hey, you gotta let them know you're out there, this is the playoffs.<br>
+							<br>
+							
+						(There's a knock at the door, Puddy answers it. It's Jerry and Kramer. Kramer enters first and does a typical 'Kramer take' when he sees Puddy's painted face. He recovers quickly.)<br>
+							<br>
+							
+						KRAMER: Hey.<br>
+							<br>
+							
+						PUDDY: Hey.<br>
+							<br>
+							
+						ELAINE: Dave, um, painted his face.<br>
+							<br>
+							
+						KRAMER: Yeah, that's cool. Well, you gotta support your team.<br>
+							<br>
+							
+						PUDDY: Ok, ready to go?<br>
+							<br>
+							
+						KRAMER: Yeah.<br>
+							<br>
+							
+						PUDDY: (startlingly loud) LET'S GET IT ON!!! Alright!! Go Devils!! Go Devils!! Let's go Devils!!<br>
+							<br>
+							<br>
+							<br>
+							
+						[Madison Square Garden, the four of them are at the game. Three are seated, Puddy has his face pressed against the glass as there's action in his corner.]<br>
+							<br>
+							
+						PUDDY: You're dead, Messier! We're gonna get you, Messier!<br>
+							<br>
+							
+						FAN #1: Will you sit down?<br>
+							<br>
+							
+						PUDDY: Hey man, I'm just trying to support the team.<br>
+							<br>
+							
+						ELAINE: Will you sit down? You're disturbing everybody. Sit down!<br>
+							<br>
+							
+						PUDDY: Oh yeah, because you're a Ranger fan and you know I'm messing with their heads.<br>
+							<br>
+							
+						(Just then the Devils score a goal and Puddy is back up, banging the glass.)<br>
+							<br>
+							
+						PUDDY: Go Devils!!<br>
+							<br>
+							<br>
+							<br>
+							
+						[George and Siena are sitting in the car again. They're listening to the hockey game on the radio.]<br>
+							<br>
+							
+						RADIO ANNOUNCER: Devils goal! Stephan Richer scores from just inside the blue line! And the Devils take-- (George turns down the volume)<br>
+							<br>
+							
+						GEORGE: You know, I could have actually gone to that.<br>
+							<br>
+							
+						SIENA: So why didn't you?<br>
+							<br>
+							
+						GEORGE: Well, I didn't want to break our date.<br>
+							<br>
+							
+						SIENA: Oh, well.<br>
+							<br>
+							
+						GEORGE: Because I... I love you.<br>
+							<br>
+							
+						SIENA: You know, I'm hungry. Let's get something to eat.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Jerry, Elaine, Kramer and Puddy are walking on the street after the game. The Devils must have won because Puddy is gloating.]<br>
+							<br>
+							
+						PUDDY: Ha ha! We took it to you! You couldn't get it out of your zone all night. We were aggressive, we didn't let you penetrate!<br>
+							<br>
+							
+						KRAMER: Alright, that's enough out of you, there's still three more games left in this series, my friend, and it's far from being over. Very far from being over. (Notices a car coming right towards Puddy, who's crossing the street) Watch out!<br>
+							<br>
+							
+						(The car stops just short of hitting Puddy. There's an old priest in the passenger seat.)<br>
+							<br>
+							
+						PUDDY: (pounding the hood) Hey, what are you doing?! Watch where you're driving, man! (He approaches the passenger side window) Don't mess with the Devils, buddy. We're number one, we beat anybody! We're the Devils! The Devils!! Haaaa!!!<br>
+							<br>
+							
+						(Puddy runs away, leaving the old priest shaken.)<br>
+							<br>
+							
+						FATHER HERNANDEZ: El Diablo! Dios mio! El Diablo!!<br>
+							<br>
+							<br>
+							<br>
+							
+						[Jerry and George are at the coffee shop.]<br>
+							<br>
+							
+						JERRY: &quot;I'm hungry. Let's get something to eat.&quot;<br>
+							<br>
+							
+						GEORGE: Yup.<br>
+							<br>
+							
+						JERRY: Big matzoh ball.<br>
+							<br>
+							
+						GEORGE: Huge matzoh ball.<br>
+							<br>
+							
+						JERRY: Those damn 'I love you' returns.<br>
+							<br>
+							
+						GEORGE: Well, it's all over. I slipped up.<br>
+							<br>
+							
+						JERRY: Oh, you don't know.<br>
+							<br>
+							
+						GEORGE: You have any idea how fast these things deteriorate when there's an 'I love you' out of the bag? You can't have a relationship where one person says, &quot;I love you&quot;, and the other says, &quot;I'm hungry. Let's get something to eat.&quot;.<br>
+							<br>
+							
+						JERRY: Unless you're married.<br>
+							<br>
+							
+						GEORGE: I mean, now she thinks that I'm one of these guys that love her. Nobody wants to be with somebody that loves them.<br>
+							<br>
+							
+						JERRY: No, people hate that.<br>
+							<br>
+							
+						GEORGE: You want to be with somebody that doesn't like you.<br>
+							<br>
+							
+						JERRY: Ideally.<br>
+							<br>
+							
+						GEORGE: I am never saying 'I love you' again unless they say it first.<br>
+							<br>
+							
+						WAITRESS: Matzoh ball soup?<br>
+							<br>
+							
+						GEORGE: That'd be me.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Jerry enters his apartment carrying a bag of groceries. As soon as Jerry closes the door, we hear Kramer's door open and close. That moment, Kramer walks in.]<br>
+							<br>
+							
+						KRAMER: Hey, Jerry? You're a smart guy, right?<br>
+							<br>
+							
+						JERRY: No question about it.<br>
+							<br>
+							
+						KRAMER: Alright, you know I'm supposed to go on this special tour today with George's girlfriend.<br>
+							<br>
+							
+						JERRY: At the zoo?<br>
+							<br>
+							
+						KRAMER: Yeah, but before I met up with her, I stopped to look at the monkeys, when all of a sudden I am hit in the face with a banana peel. I turn and look and there is this monkey really laughing it up. Then someone tells me that he did it. Well, I pick up the banana peel and I wait for that monkey to turn around. And then I *whap* let him have it.<br>
+							<br>
+							
+						JERRY: Kramer, you threw a banana peel at a monkey?<br>
+							<br>
+							
+						KRAMER: Well, he started it!<br>
+							<br>
+							
+						JERRY: It's a monkey, Kramer!<br>
+							<br>
+							
+						KRAMER: Well, he pushed my buttons, I couldn't help it, Jerry.<br>
+							<br>
+							
+						JERRY: Well, I still think it's wrong.<br>
+							<br>
+							
+						KRAMER: Alright, alright, fine. You take the monkey's side, alright, go ahead.<br>
+							<br>
+							
+						JERRY: I'm not taking anyone's side.<br>
+							<br>
+							
+						KRAMER: (walking out) Cause I know what happened, Jerry. (remembering something and walking back in) Did you call Alec Berg and thank him for the hockey tickets?<br>
+							<br>
+							
+						JERRY: No.<br>
+							<br>
+							
+						KRAMER: Oh, Jerry, what are you waiting for?<br>
+							<br>
+							
+						JERRY: What do I gotta call him for? I thanked him five times when he gave them to me, how many time I gotta thank him?<br>
+							<br>
+							
+						KRAMER: Oh, no no no, you gotta call him the next day, it's common courtesy.<br>
+							<br>
+							
+						JERRY: No, I don't believe in it. I'm taking a stand against all this over thanking.<br>
+							<br>
+							
+						KRAMER: Jerry, good manners are the glue of society.<br>
+							<br>
+							
+						JERRY: Hey, if I knew I had to give him eight million 'thank you's, I wouldn't have taken the tickets in the first place.<br>
+							<br>
+							
+						KRAMER: Alright, you know what this is gonna do? He's gonna be upset because you didn't call him and we're not gonna get those tickets for Friday night.<br>
+							<br>
+							
+						JERRY: Ah, you're out of your mind.<br>
+							<br>
+							
+						KRAMER: Alright, where you going?<br>
+							<br>
+							
+						JERRY: I gotta get a suit cleaned, I have a funeral on Friday.<br>
+							<br>
+							
+						KRAMER: Who died?<br>
+							<br>
+							
+						JERRY: Remember the guy who pretended he had cancer so O would buy him the toupee?<br>
+							<br>
+							
+						KRAMER: So he actually had it?<br>
+							<br>
+							
+						JERRY: No, car accident. He was trying to adjust his toupee while he was driving and he lost control of the car.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Riverside Gramercy Chapel. Jerry and Elaine are at Gary Fogel's funeral.]<br>
+							<br>
+							
+						ELAINE: That poor priest. He was just visiting from El Salvador. Now he's gone completely loco.<br>
+							<br>
+							
+						JERRY: The one Puddy screamed at in the car?<br>
+							<br>
+							
+						ELAINE: Yeah. He thinks he saw the devil. He won't leave his room in the church basement.<br>
+							<br>
+							
+						JERRY: Well, that's what you get for getting mixed up with a face painter.<br>
+							<br>
+							
+						ELAINE: I mean, what compels a seemingly normal human being to do something like that?<br>
+							<br>
+							
+						JERRY: Gotta support the team.<br>
+							<br>
+							
+						(Several women weep off camera. Elaine inspects her outfit.)<br>
+							<br>
+							
+						ELAINE: You know I really hate my clothes.<br>
+							<br>
+							
+						JERRY: Hm.<br>
+							<br>
+							
+						ELAINE: I open up my closet, there's just nothing.<br>
+							<br>
+							
+						JERRY: Hm.<br>
+							<br>
+							
+						ELAINE: Nothing. I hate everything I have, I really hate it. (The weeping increases in volume and intensity) I mean, at this point, it's like I can wear something three or four times and that's it.<br>
+							<br>
+							
+						JERRY: Hm.<br>
+							<br>
+							
+						ELAINE: It's getting to be a terrible problem for me.<br>
+							<br>
+							
+						JERRY: (noticing Alec Berg walk in, whispers) Hey, Alec!<br>
+							<br>
+							
+						(Alec barely acknowledges the greeting and takes a seat.)<br>
+							<br>
+							
+						JERRY: Did you see that? What kind of a 'hello' was that?<br>
+							<br>
+							<br>
+							<br>
+							
+						[Kramer is in the office at the zoo.]<br>
+							<br>
+							
+						MR. PLESS: Ah, Mr. Kramer?<br>
+							<br>
+							
+						KRAMER: Yes.<br>
+							<br>
+							
+						MR. PLESS: Thanks for coming.<br>
+							<br>
+							
+						KRAMER: So, uh, what did you want to see me about?<br>
+							<br>
+							
+						MR. PLESS: Well, Mr. Kramer, to get right to it, we're having a bit of a problem with Barry.<br>
+							<br>
+							
+						KRAMER: Barry?<br>
+							<br>
+							
+						MR. PLESS: The chimpanzee.<br>
+							<br>
+							
+						KRAMER: Oh. Well, uh, what's the problem?<br>
+							<br>
+							
+						MR. PLESS: Well, he's not functioning the way he normally does. He seems depressed. He's lost his appetite. He's even curtailed his autoerotic activities. And we think this is directly related to the altercation he had with you the other day.<br>
+							<br>
+							
+						KRAMER: So, so what do you want me to do?<br>
+							<br>
+							
+						MR. PLESS: Well, frankly we'd like you to apologize.<br>
+							<br>
+							
+						KRAMER: Yeah, well he started it.<br>
+							<br>
+							
+						MR. PLESS: Mr. Kramer, he is an innocent primate.<br>
+							<br>
+							
+						KRAMER: So am I. What about my feelings? Don't my feelings count for anything? Oh, only the poor monkey's important. Everything has to be done for the monkey! Look, I'm sorry. I--<br>
+							<br>
+							
+						SIENA: Hey, that's ok. Well, I've gotta go feed the marmosets.<br>
+							<br>
+							
+						KRAMER: (to Siena as she's walking out, but she appears to ignore) You know George really likes you.<br>
+							<br>
+							
+						MR. PLESS: She doesn't hear too well out of her left ear.<br>
+							<br>
+							
+						KRAMER: Oh.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Jerry and George are at Jerry's apartment.]<br>
+							<br>
+							
+						JERRY: I mean, do you think it's possible that he's mad at me because he didn't get the day-after 'thank you'?<br>
+							<br>
+							
+						GEORGE: Wait a minute, you were at a funeral, right?<br>
+							<br>
+							
+						JERRY: Yeah.<br>
+							<br>
+							
+						GEORGE: Well, people never give a good 'hello' at a funeral. I mean, they go like this (George gives an extremely understated nod) That's the biggest.<br>
+							<br>
+							
+						JERRY: Yeah, yeah, that's kinda what he gave me.<br>
+							<br>
+							
+						GEORGE: Hey, they can't go, &quot;Hey! You look fabulous!&quot;<br>
+							<br>
+							
+						(Kramer enters.)<br>
+							<br>
+							
+						JERRY: Hey.<br>
+							<br>
+							
+						KRAMER: Hey. Well, I just spoke to your girlfriend.<br>
+							<br>
+							
+						GEORGE: Girlfriend, yeah, right.<br>
+							<br>
+							
+						KRAMER: Anyway, she asked me to apologize to Barry.<br>
+							<br>
+							
+						GEORGE: Barry?<br>
+							<br>
+							
+						KRAMER: The monkey.<br>
+							<br>
+							
+						JERRY: Well?<br>
+							<br>
+							
+						KRAMER: Nothing doing. Jerry, I didn't do anything. It's the monkey that should be apologizing to me.<br>
+							<br>
+							
+						JERRY: Well, I don't think that's gonna happen.<br>
+							<br>
+							
+						KRAMER: Well, I'm sorry. Well, George, I tried to put the good word in for you with Siena, but I don't think she heard me. You know, left ear?<br>
+							<br>
+							
+						GEORGE: What?<br>
+							<br>
+							
+						KRAMER: Yeah, her boss told me that she can't hear very well out of her left ear. What, you didn't know that?<br>
+							<br>
+							
+						GEORGE: Oh my god.<br>
+							<br>
+							
+						JERRY: What?<br>
+							<br>
+							
+						GEORGE: She probably never heard it. Don't you see what this means? It's like the whole thing never happened. It's like when Superman reversed the rotation of the earth to save Lois Lane!<br>
+							<br>
+							
+						JERRY: Are you gonna say it again?<br>
+							<br>
+							
+						GEORGE: That's the question, Jimmy.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Jerry and George are still at Jerry's apartment, some time has passed.]<br>
+							<br>
+							
+						GEORGE: I'm gonna do it.<br>
+							<br>
+							
+						JERRY: What? After what you just went through, I thought you said you'd never say it again.<br>
+							<br>
+							
+						GEORGE: I'd like to say it once to someone that can actually hear it!<br>
+							<br>
+							
+						(George storms out of the apartment as Kramer enters.)<br>
+							<br>
+							
+						KRAMER: What's going on?<br>
+							<br>
+							
+						JERRY: He's gonna talk into her other ear.<br>
+							<br>
+							
+						KRAMER: Oh. Well listen, I almost forgot to ask you. What happened at the funeral? Now, did you talk to Alec berg?<br>
+							<br>
+							
+						JERRY: Yeah, I saw him.<br>
+							<br>
+							
+						KRAMER: Alright, so he's gonna give you the hockey tickets, huh?<br>
+							<br>
+							
+						JERRY: Well, not exactly.<br>
+							<br>
+							
+						KRAMER: He's mad, isn't he? See, I knew it.<br>
+							<br>
+							
+						JERRY: I don't know if he's mad.<br>
+							<br>
+							
+						KRAMER: Alright, so what happened when you saw him?<br>
+							<br>
+							
+						JERRY: Well, I didn't really get a good 'hello', but see, I was at a funeral.<br>
+							<br>
+							
+						KRAMER: Uh huh.<br>
+							<br>
+							
+						JERRY: See, so I don't know if I got a funeral 'hello' or he was mad because he didn't get his day-after 'thank you'.<br>
+							<br>
+							
+						KRAMER: See, I told you, Jerry, I told you!<br>
+							<br>
+							
+						JERRY: Look, what do you want me to do?<br>
+							<br>
+							
+						KRAMER: I want you to get on this phone and give him his 'thank you'!<br>
+							<br>
+							
+						JERRY: No. No, I can't!<br>
+							<br>
+							
+						KRAMER: Jerry, this is the way society functions. Aren't you a part of society? Because if you don't want to be a part of society, Jerry, why don't you just get in your car and move to the East Side!<br>
+							<br>
+							
+						JERRY: Look, we got five hours before the game. I am betting it was a funeral 'hello'. He knows we're here, he knows the number, he knows we want to go. There's plenty of time for him to call and give us the tickets.<br>
+							<br>
+							
+						KRAMER: You stubborn, stupid, silly man!<br>
+							<br>
+							<br>
+							<br>
+							
+						[Elaine and Puddy are at Elaine's apartment.]<br>
+							<br>
+							
+						PUDDY: Hey, great dip. You made this?<br>
+							<br>
+							
+						ELAINE: No, it's from the store.<br>
+							<br>
+							
+						PUDDY: Oh. Hey, how come people don't have dip for dinner? Why is it only a snack, why can't it be a meal, you know? I don't understand stuff like that.<br>
+							<br>
+							
+						ELAINE: David? David, I think we aught to talk.<br>
+							<br>
+							
+						PUDDY: Alright, that's cool.<br>
+							<br>
+							
+						ELAINE: David, I don't think we should see each other anymore.<br>
+							<br>
+							
+						PUDDY: You gotta be kidding, how come?<br>
+							<br>
+							
+						ELAINE: Well, you see, David, you're a face painter.<br>
+							<br>
+							
+						PUDDY: Yeah, that's right.<br>
+							<br>
+							
+						ELAINE: Well, it's not that I don't like you, but, well to be perfectly honest, I'm just having some trouble getting past the face painting.<br>
+							<br>
+							
+						PUDDY: Well, alright, so you don't like the face painting, I just won't paint it anymore.<br>
+							<br>
+							
+						ELAINE: Yeah, but you like the face painting.<br>
+							<br>
+							
+						PUDDY: Well, I don't need to do it. It's not like a habit or anything.<br>
+							<br>
+							
+						ELAINE: Oh. You mean you'd stop it for me?<br>
+							<br>
+							
+						PUDDY: Yeah, that's right.<br>
+							<br>
+							
+						ELAINE: That's so, that's so sweet.<br>
+							<br>
+							
+						PUDDY: Ah, c'mere. (They kiss) Alright, I gotta go home and get changed before the game. I'll be back, we'll make out.<br>
+							<br>
+							<br>
+							<br>
+							
+						[George and Siena are making out in his car.]<br>
+							<br>
+							
+						GEORGE: Siena, I love you.<br>
+							<br>
+							
+						SIENA: Yeah, I know. I heard you the first time.<br>
+							<br>
+							
+						GEORGE: Yeah. Just confirming.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Jerry is sitting alone in his apartment waiting for Alec to call. The phone rings, Jerry answers.]<br>
+							<br>
+							
+						JERRY: Hello? Oh, hi mom. No, listen, I was expecting somebody else. I'm sorry, I can't talk now, I gotta keep the line clear, I'll call you later. Yes, I know I have call waiting but I don't trust it in an emergency. Good bye.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Kramer is at the zoo, talking with Barry, the monkey.]<br>
+							<br>
+							
+						KRAMER: Anyway, I um, I just want to say that I'm sorry. I lost my temper and I probably shouldn't have. I took it out on you and, look, if I've caused you any problems as a result of my behavior, well then, I'm sorry. I apologize. Even though, Barry, between me and you, we both know that you started it. I mean, who's kidding who? But they tell me that you're very upset, and god forbid I should disturb the very important monkey, I'm just hoping we can put this behind us, let's just move on with our lives, ok? So no hard feelings?<br>
+							<br>
+							
+						(Kramer moves in for a handshake, Barry spits water all over his jacket. Kramer<br>
+							
+						gets defensive and Barry starts screaming and climbing the cage bars.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Elaine's apartment, Elaine and Puddy are making out. She unbuttons his shirt and notices something peculiar.]<br>
+							<br>
+							
+						ELAINE: What is that?<br>
+							<br>
+							
+						PUDDY: That's the letter 'D'.<br>
+							<br>
+							
+						ELAINE: Why is the letter 'D' painted on your chest?<br>
+							<br>
+							
+						PUDDY: Well, I'm going to the game tonight, and me and these five other guys are gonna take our shirts off and spell out 'Devils'.<br>
+							<br>
+							
+						ELAINE: But you said no more painting.<br>
+							<br>
+							
+						PUDDY: No, I said no more face painting, and as you can see this is not my face.<br>
+							<br>
+							
+						ELAINE: Yeah, that's right.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Jerry is still waiting for the phone call. Kramer enters.]<br>
+							<br>
+							
+						KRAMER: Well? Did he call?<br>
+							<br>
+							
+						JERRY: No.<br>
+							<br>
+							
+						KRAMER: Oh, come on, Jerry! Come on, this is stupid! It's six o'clock! It's all over, just pick up the phone and thank him!<br>
+							<br>
+							
+						JERRY: Alright! (picks up the phone and dials) Hello, Alec? Hi, it's Jerry Seinfeld. You know, you got a great 'John Houseman' name. Alec Berg. Did you hand in your assignment, Mr. Berg?<br>
+							<br>
+							
+						ALEC: What can I do for you, Jerry?<br>
+							<br>
+							
+						JERRY: Well, Alec, the reason I called is I just wanted to thank you for the tickets from the other night.<br>
+							<br>
+							
+						ALEC: I wish you'd called me earlier, I could have given you my tickets for tonight.<br>
+							<br>
+							
+						JERRY: Oh, you already gave them away?<br>
+							<br>
+							
+						ALEC: Yeah, but you know what? I have a friend, he's got a couple of seats. If you don't mind the nose bleed section, they're yours.<br>
+							<br>
+							
+						JERRY: No, we don't care, we just want to go.<br>
+							<br>
+							
+						ALEC: There is one little catch, though.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Exterior shot of MSG marquee announcing the Rangers vs Devils playoff game tonight. Cut to some on-ice action, then to the cheap seats where Puddy, Jerry and Kramer are seated, shirtless.]<br>
+							<br>
+							
+						PUDDY: Hey, great game, huh?<br>
+							<br>
+							
+						(The Devils score a goal, Puddy stands up screaming and drags Jerry and Kramer to their feet. Alongside Puddy's 'D', Jerry sports an 'E' on his chest, Kramer has a 'V' on his, and three more shirtless guys bearing 'I',' L' and 'S' rise alongside them. All are cheering wildly, except for Jerry and Kramer who stand silent.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[The El Salvadoran priest is in his bedroom, another priest is at his bedside.]<br>
+							<br>
+							
+						PRIEST: Father Hernandez?<br>
+							<br>
+							
+						FATHER HERNANDEZ: Huh?<br>
+							<br>
+							
+						PRIEST: Una senora que te vino a ver. Ella dice que tiene informacion muy importante, y que te puede ayudar. (Subtitled: &quot;A woman here to see you, she has important information that could be helpful to you.&quot;)<br>
+							<br>
+							
+						FATHER HERNANDEZ: Bueno.<br>
+							<br>
+							
+						PRIEST: Al fini finalmente par&oacute; el llover. (Subtitled: &quot;Finally it stopped raining.&quot;)<br>
+							<br>
+							
+						FATHER HERNANDEZ: Aha, bueno.<br>
+							<br>
+							
+						(The priest shows Elaine into the room, she's wearing a white raincoat with a hood. As she approaches the bed, she's backlit by the sunlight coming through the window.)<br>
+							<br>
+							
+						ELAINE: Hello father.<br>
+							<br>
+							
+						FATHER HERNANDEZ: Oh. La Madonna! Madre de Christo! Yo estoy lista!<br>
+							<br>
+							<br>
+							
+						The End</td>
+						</tr>
+						<tr height="6">
+							<td class="bottom2" width="645" height="6"></td>
+						</tr>
+						<tr>
+							<td width="645">
+								<div align="center">
+									<font size="-1">Copyright 2006 seinology.com | All Rights Reserved | Designed by 13erla</font></div>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+		<p></p>
+	</body>
+
+</html>

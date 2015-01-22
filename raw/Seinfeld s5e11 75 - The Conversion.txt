@@ -1,0 +1,1298 @@
+<tdOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+<html>
+
+	<head>
+		<meta http-equiv="content-type" content="text/html;charset=ISO-8859-1">
+		<meta name="description" content="Top Source for Seinfeld">
+		<meta name="keywords" content="seinfeld, sienfeld, Jerry Seinfeld, Julia Louis Dreyfus, Jason Alexander, Michael Richards, Kramer, George, Costanza, Elaine Benes, morty, Larry David">
+		<title>Seinology.com :: Scripts :: 75-The Conversion</title>
+	<link rel='stylesheet' href='/stylesheet.css' type='text/css'>
+	</head>
+
+	<body>
+			<table align="center" width="787" border="0" cellspacing="0" cellpadding="0">
+				<tr>
+					<td><font size="-2" color="red">Seinology.com - </font><font size="-3" color="black">Where Seinfeld Content and Accuracy Matter Most. Seinfeld scripts in pdf form, Seinfeld episode video clips, Seinfeld episode audio clips, Jerry Seinfeld appearances, Julia Louis-Dreyfus appearances, Michael Richards appearances, Jason Alexander appearances, Seinfeld discussion Forum, Seinfeld Where are they Now? Seinlanguage Newsletter, Popular Seinfeld Lists, Seinfeld episode standup, Seinfeld episode guide, Seinfeld fan fiction. Seinfeld content all on one domain. Seinology.com enjoy your stay.</font></td>
+				</tr>
+			</table>
+		
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr height="100">
+				<td class="logo"></td>
+			</tr>
+			<tr><td class="ads" align="center" background=#8694fa>
+				<script type="text/javascript"><!--
+google_ad_client = "pub-1924026976931416";
+google_ad_width = 728;
+google_ad_height = 90;
+google_ad_format = "728x90_as";
+google_ad_type = "text";
+google_ad_channel = "";
+google_color_border = "FFFFFF";
+google_color_bg = "8694fa";
+google_color_link = "0000FF";
+google_color_text = "000000";
+google_color_url = "002E3F";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></td></tr>
+		</table>
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr>
+				<td valign="top" width="136">
+					<table width="136" border="0" cellspacing="0" cellpadding="0">
+						<tr height="24">
+							<td class="navigation">
+								<div align="center">
+									
+									<b>Navigation</b></div>
+							</td>
+						</tr>
+						<tr height="199">
+							<td class="spacer1" valign="top" width="136" height="199">
+								<div align="center">
+									<font size="-1"><a href="http://www.seinology.com">Home</a><br>
+										<a href="http://board.seinology.com">Forum</a><br>
+										<a href="http://www.seinology.com/av.shtml">Audio/Video</a><br>
+										<a href="http://www.seinology.com/scripts.shtml">Scripts</a><br>
+										<a href="http://www.seinology.com/survivor.shtml">Survivor</a><br>
+										<a href="http://www.seinology.com/fanfics.shtml">Fan Fiction</a><br>
+										<a href="http://www.seinology.com/gallery/">Gallery</a><br>
+										<a href="http://www.seinology.com/newsletter.shtml">Newsletter</a><br>
+										<a href="http://www.seinology.com/lists.shtml">Lists</a><br>
+										<a href="http://www.seinology.com/epguide.shtml">Episode Guide</a><br>
+										<a href="http://www.seinology.com/links.shtml">Links</a><br>
+										<a href="http://www.seinology.com/faqother.shtml">Faq + others</a><br>
+										<a href="http://www.seinology.com/legal.shtml">Legal</a></font></div>
+							</td>
+						</tr>
+						
+						<tr>
+							<td class="nav2" width="136">
+							<div align="center"><b>Search</b></div></td>
+						</tr>
+						<tr>
+							<td class="spacer1" width="136" valign="top"><div align="center"><form method="get" action="http://www.seinology.com/search/search.cgi">
+<p><label for="fdse_Match">Match</label><br>
+<select name="Match" id="fdse_Match" size="1">
+<option value="1">All</option>
+<option value="0">Any</option>
+<option value="2">Phrase</option>
+</select></p>
+<p><label for="fdse_Realm">Where?</label><br>
+<select name="Realm" id="fdse_Realm" size="1">
+<option selected="selected" value="All">EntireSite</option>
+<option value="Ep Guide">Ep Guide</option>
+<option value="Images">Images</option>
+<option value="Lists">Lists</option>
+<option value="Newsletters">Newsletters</option>
+<option value="Scripts">Scripts</option>
+<option value="Notes..Nothing">Notes..Nothing</option>
+</select></p>
+<p><input type="text" name="Terms" size="14" id="fdse_Terms"><br>
+<input type="submit" class="submit" name="submitButtonName" value="Search"></p>
+</div></form></td>
+						</tr>
+						<tr><td class="bottom" width="136" height="10" valign="top">
+						</td>
+						</tr>
+					</table>
+				</td>
+				<td width="4"></td>
+				<td valign="top" width="645">
+					<table width="645" border="0" cellspacing="0" cellpadding="0">
+						<tr height="18">
+							<td width="645" height="35" class="bar">
+								<div align="center">
+									<b><font size="+2" color="black">Script</font></b></div>
+							</td>
+						</tr>
+						<tr height="362">
+							<td class="spacer2" valign="top" width="645" height="362">
+
+						<p><font size="-2">Episode 75 - The Conversion<br>
+							
+						pc: 511, season 5, episode 11<br>
+							
+						Broadcast date: December 16, 1993<br>
+							<br>
+							
+						Written by Bruce Kirschbaum<br>
+							
+						Directed by Tom Cherones<br>
+							<br>
+							
+						-------------------------------------------------------------------------------<br>
+							<br>
+							
+						The Cast<br>
+							
+						Regulars:<br>
+							
+						Jerry Seinfeld ....................... Jerry Seinfeld<br>
+							
+						Jason Alexander .................. George Costanza<br>
+							
+						Julia Louis-Dreyfus ............. Elaine Benes<br>
+							
+						Michael Richards ................. Kramer<br>
+							<br>
+							
+						Guest Stars:<br>
+							<br>
+							
+						Kay E. Kuter&nbsp; ...................... Older Priest<br>
+							
+						Molly Hagan ....................... Sister Roberta<br>
+							
+						Tom Verica ......................... Doctor<br>
+							
+						Kimberley Campbell ............ Tawni<br>
+							
+						Jana Marie Hupp&nbsp;&nbsp; .............. Sasha<br>
+							
+						Bill Rose .............................. Younger Priest<br>
+							
+						Randy Brenner ................... Waiter<br>
+							
+						Darlene Kardon .................. Mrs. Lupchek<br>
+							
+						Karen Rizzo. ....................... Woman Hailing Cab<br>
+							
+						rc: Jerry Stiller ..................... Frank Costanza<br>
+							
+						rc: Estelle Harris ................. Estelle Costanza<br>
+							<br>
+							
+						==================================================================<br>
+							<br>
+							
+						[Opening Monologue] <br>
+							<br>
+							
+						JERRY: You know doctor is supposed to be such a prestigious occupation. But it&#146;s really like one of the only jobs where you have to have your diploma right up there on the wall. It makes them seem so insecure, doesn&#146;t it? &quot;I really am a doctor you know. You think I&#146;m not, just check it out.&quot; I don&#146;t know why they need these little bits of psychological leverage over us all the time. &quot;Go in that little room, take your pants off, wait 15 minutes, and I&#146;ll give you my opinion.&quot; After that, anyone that comes in with pants on seems like they know what they&#146;re talking about. In any difference of opinion, pants always beats no-pants. <br>
+							<br>
+							<br>
+							
+						[At a restaurant.] <br>
+							<br>
+							
+						GEORGE: Can I say one word to you? Lobster. The lobster here is unbelievable. (looks at the menu) Ooh, a little expensive. <br>
+							<br>
+							
+						SASHA: Twenty five dollars. <br>
+							<br>
+							
+						GEORGE: Yes, well, you know, I&#146;m not thinking about the price. You know you&#146;re the only woman I&#146;ve never thought about the price. Get the lobster. I beg you to get the lobster. Go for the lobster. <br>
+							<br>
+							
+						SASHA: George, George, uh, I think we have to talk. I think we have a problem. <br>
+							<br>
+							
+						GEORGE: We do? <br>
+							<br>
+							
+						SASHA: We can&#146;t keep seeing each other. <br>
+							<br>
+							
+						GEORGE: Why? <br>
+							<br>
+							
+						SASHA: (crying) Because it&#146;s over. (sob, sob, sob) It&#146;s my parents George, the differences in our religion. Oh George, can you ever forgive me? (sob) <br>
+							<br>
+							
+						WAITER:: Uh, have you decided yet? <br>
+							<br>
+							
+						SASHA: (crying) Yes. I&#146;ll have the lobster. <br>
+							<br>
+							
+						GEORGE: Um, you know I&#146;m starting to think that maybe lobster isn&#146;t the way to go. <br>
+							<br>
+							<br>
+							
+						[The hallway outside Jerry&#146;s apartment.] <br>
+							<br>
+							
+						JERRY: Then he asked you out? <br>
+							<br>
+							
+						ELAINE: We started to talk, and I told him that I jog, and then he put his hand on my heart. <br>
+							<br>
+							
+						JERRY: On your heart? <br>
+							<br>
+							
+						ELAINE: Jerry, the man is a doctor. <br>
+							<br>
+							
+						JERRY: Doctor? He&#146;s a podiatrist. <br>
+							<br>
+							
+						ELAINE: So, it&#146;s the same thing. <br>
+							<br>
+							
+						JERRY: Anyone can get into podiatry school. George got into podiatry school. <br>
+							<br>
+							
+						ELAINE: Really? <br>
+							<br>
+							
+						TAWNI: Hello. <br>
+							<br>
+							
+						JERRY: Oh hi. <br>
+							<br>
+							
+						TAWNI: Are you going to be stopping by later? <br>
+							<br>
+							
+						JERRY: Yes, I&#146;ll be stopping. <br>
+							<br>
+							
+						TAWNI: Ok, see you later.<br>
+							<br>
+							
+						JERRY: See you later. (to Elaine) Well we can&#146;t all be dating podiatrists. (Elaine laughs)<br>
+							<br>
+							
+						(They enter Jerry&#146;s apartment. George is laying on the couch) <br>
+							<br>
+							
+						GEORGE: It&#146;s over. <br>
+							<br>
+							
+						ELAINE: What? <br>
+							<br>
+							
+						JERRY: How did you get in? <br>
+							<br>
+							
+						GEORGE: Kramer. <br>
+							<br>
+							
+						ELAINE: What&#146;s that? (points at some foil on the table)<br>
+							<br>
+							
+						GEORGE: Lobster. <br>
+							<br>
+							
+						JERRY: Looks like a swan. <br>
+							<br>
+							
+						GEORGE: She says we can&#146;t go out anymore. <br>
+							<br>
+							
+						ELAINE: Why? <br>
+							<br>
+							
+						GEORGE: Because I&#146;m not Latvian Orthodox. Her parents won&#146;t let her get involved with anyone who isn&#146;t Latvian Orthodox. <br>
+							<br>
+							
+						ELAINE: Latvian Orthodox? (gasps) Mmm, it is lobster. <br>
+							<br>
+							
+						JERRY: She&#146;s limiting herself to Latvian Orthodox? Too bad. <br>
+							<br>
+							
+						GEORGE: I know. This was the only woman I never lied to. Well that&#146;s not entirely true. <br>
+							<br>
+							
+						(Jerry hands Elaine a folk and they dig into the lobster)<br>
+							<br>
+							
+						JERRY: Oh, whatever.<br>
+							<br>
+							
+						ELAINE: Mmm, this is delicious. <br>
+							<br>
+							
+						JERRY: Mmm, succulent. <br>
+							<br>
+							
+						GEORGE: She knew I didn&#146;t have a job, she knew I lived at home. Didn&#146;t seem to bother her. I think I could have married this woman. <br>
+							<br>
+							
+						ELAINE: Why don&#146;t you just ask her parents? <br>
+							<br>
+							
+						GEORGE: I can&#146;t. I met them. They&#146;re devout. You know, in the cab on the way over here, I actually thought about converting. <br>
+							<br>
+							
+						JERRY: To Latvian Orthodox? <br>
+							<br>
+							
+						GEORGE: Why not? What do I care? <br>
+							<br>
+							
+						JERRY: You know it&#146;s not like changing toothpaste. <br>
+							<br>
+							
+						ELAINE: I think it would be romantic. <br>
+							<br>
+							
+						GEORGE: Really? <br>
+							<br>
+							
+						ELAINE: Yeah, it&#146;s like Edward the Eighth abdicating the throne and marrying Mrs. Simpson. Ooh. <br>
+							<br>
+							
+						GEORGE: King Edward. (snapping his fingers) King Edward, Jerry. <br>
+							<br>
+							
+						JERRY: Yeah well King Edward didn&#146;t live in Queens with Frank and Estelle Costanza. <br>
+							<br>
+							
+						GEORGE: You know what? I could probably do this. What&#146;s the difference. <br>
+							<br>
+							
+						ELAINE: George I was just kidding around. <br>
+							<br>
+							
+						GEORGE: No. I wouldn&#146;t even have to tell her. I could surprise her. <br>
+							<br>
+							
+						ELAINE: George I wasn&#146;t serious. <br>
+							<br>
+							
+						GEORGE: How hard could it be? You make a little contribution, you have a ceremony. I am going to think about this. I am really going to think about this. <br>
+							<br>
+							
+						(George leaves.) <br>
+							<br>
+							
+						ELAINE: I guess this one is my fault. <br>
+							<br>
+							
+						JERRY: Oh yeah. <br>
+							<br>
+							<br>
+							
+						[At Tawni&#146;s apartment] <br>
+							<br>
+							
+						TAWNI: (kiss, kiss, kiss) Oh that was nice. Have you always been such a good kisser? <br>
+							<br>
+							
+						JERRY: Oh I don&#146;t know. Not always. No I uh I had to work at it. When I was a kid all the kids would be out playing, I would be up in my room practicing my kissing. <br>
+							<br>
+							
+						TAWNI: Well it was worth it. (kiss) I&#146;ll be (kiss) right (kiss) back (kiss). Where are you going? <br>
+							<br>
+							
+						JERRY: To wash my hands. They&#146;re sticky from the orange. <br>
+							<br>
+							
+						TAWNI: Meet you back here? <br>
+							<br>
+							
+						JERRY: Right there. <br>
+							<br>
+							
+						(Jerry goes into the bathroom and washes his hands. He sees the medicine cabinet open slightly and peeks in. )<br>
+							<br>
+							
+						JERRY: (thinking to himself; picks up a tube) &quot;Fungicide&quot;. Fungus? <br>
+							<br>
+							<br>
+							
+						[At Monk&#146;s.] <br>
+							<br>
+							
+						(Jerry, Kramer, and Elaine eating at the normal booth)<br>
+							<br>
+							
+						JERRY: Fungicide. I mean what could she have? <br>
+							<br>
+							
+						ELAINE: I don&#146;t know. <br>
+							<br>
+							
+						KRAMER: Fungus. <br>
+							<br>
+							
+						JERRY: Exactly<br>
+							<br>
+							
+						ELAINE: So what did you say? <br>
+							<br>
+							
+						JERRY: I said I was coming down with the flu or something and I had to go home. <br>
+							<br>
+							
+						ELAINE: I don't know, what were you doing opening her medicine cabinet? <br>
+							<br>
+							
+						JERRY: I didn&#146;t open it. It was open. I just nudged it a little. <br>
+							<br>
+							
+						ELAINE: You were snooping. <br>
+							<br>
+							
+						JERRY: I was not snooping. I did not break the seal. There was no breaking and entering. I wouldn&#146;t do that. <br>
+							<br>
+							
+						KRAMER: I would. I always open medicine cabinets. <br>
+							<br>
+							
+						ELAINE: Well I trust people not to do that. <br>
+							<br>
+							
+						KRAMER: Big mistake. <br>
+							<br>
+							
+						JERRY: Why don&#146;t you ask that doctor what it is? <br>
+							<br>
+							
+						ELAINE: What? Now he&#146;s a doctor? Before he was a podiatrist. <br>
+							<br>
+							
+						JERRY: But that&#146;s what podiatrists do. They deal in fungus. They&#146;re knee- deep in fungus. This guy knows fungus. <br>
+							<br>
+							
+						ELAINE: I am not going to ask him about funguses. <br>
+							<br>
+							
+						KRAMER: Fungi. <br>
+							<br>
+							
+						JERRY: What? <br>
+							<br>
+							
+						KRAMER: Fungi. <br>
+							<br>
+							<br>
+							
+						[In the priest&#146;s office.] <br>
+							<br>
+							
+						FATHER-PRIEST: Why do you want to accept the Latvian Orthodox faith? <br>
+							<br>
+							
+						GEORGE: (ahem) In this age of uncertainty and confusion, a man begins to ask himself certain questions. How can one even begin to put into words something so um&#133; (trying to think of a word) <br>
+							<br>
+							
+						FATHER-PRIEST: Enigmatic? <br>
+							<br>
+							
+						GEORGE: No. <br>
+							<br>
+							
+						FATHER-PRIEST: Vast? (he pronounces it as &quot;vost&quot;) <br>
+							<br>
+							
+						GEORGE: No not vast (he pronounces it as &quot;vost&quot;) <br>
+							<br>
+							
+						FATHER-PRIEST: Well whatever it is, basically you like the religion. <br>
+							<br>
+							
+						GEORGE: Yes. <br>
+							<br>
+							
+						FATHER-PRIEST 2: Is there one aspect of the faith that you find particularly attractive? <br>
+							<br>
+							
+						GEORGE: (he thinks) I think the hats. The hat conveys that solemn religious look you want in a faith. Very pious. <br>
+							<br>
+							
+						FATHER-PRIEST: Are you familiar with Orthodox theology? <br>
+							<br>
+							
+						GEORGE: Well perhaps, not to the extent that you are. But I know the basic plot. Yeah. <br>
+							<br>
+							
+						FATHER-PRIEST: Plot? <br>
+							<br>
+							
+						GEORGE: Yes. You know the uh flood, and the uh lepers, and the commandments and all that. <br>
+							<br>
+							
+						FATHER-PRIEST 2: Well it&#146;s obvious that you are sincere in your desire. <br>
+							<br>
+							
+						GEORGE: Oh yes I am Father. Incredibly sincere. So, uh, pffft, am I in? <br>
+							<br>
+							
+						FATHER-PRIEST: The first step would be to familiarize yourself with these texts (brings out a pile of books). <br>
+							<br>
+							
+						GEORGE: Ah hah. You see Father, I&#146;m I&#146;m incredibly anxious to become a member. Um, don&#146;t you offer any kind of an express conversion? A quick change? <br>
+							<br>
+							
+						(Sister Roberta enters)<br>
+							<br>
+							
+						SISTER ROBERTA: Oh I&#146;m sorry. Father, there&#146;s a man waiting in the chapel. <br>
+							<br>
+							
+						FATHER-PRIEST: You may attend to it Sister, oh this is George Costanza. He is interested in joining the church. <br>
+							<br>
+							
+						SISTER ROBERTA: Oh are you? That&#146;s wonderful. Well good luck to you. <br>
+							<br>
+							
+						(They bow back and forth; Sister Roberta leaves)<br>
+							<br>
+							
+						GEORGE: Nice nun. <br>
+							<br>
+							
+						FATHER-PRIEST: No, Sister Roberta is not a nun. She is what we call a novice. <br>
+							<br>
+							
+						FATHER-PRIEST 2: She won&#146;t be taking her final vows until next Thursday. <br>
+							<br>
+							<br>
+							
+						[In the chapel.]<br>
+							<br>
+							
+						SISTER ROBERTA: May I help you? <br>
+							<br>
+							
+						KRAMER: Oh yeah, I&#146;m here to pick up my friend George Costanza. <br>
+							<br>
+							
+						SISTER ROBERTA: Well he&#146;s in with the Father. <br>
+							<br>
+							
+						KRAMER: Oh yeah. <br>
+							<br>
+							
+						SISTER ROBERTA: I&#146;m Sister Roberta. <br>
+							<br>
+							
+						KRAMER: Oh. Kramer. Pleasure. <br>
+							<br>
+							
+						SISTER ROBERTA: Mine. (she smiles at Kramer) <br>
+							<br>
+							<br>
+							
+						[At Jerry&#146;s apartment.] <br>
+							<br>
+							
+						(George and Jerry in the kitchen area; George is taking a small cake out of a box)<br>
+							<br>
+							
+						GEORGE: I can&#146;t believe how easy it is. I&#146;m virtually Orthodox. All I have to do is read a few books, memorize a few prayers, and I&#146;m in the club. <br>
+							<br>
+							
+						JERRY: That&#146;s all there is to it. <br>
+							<br>
+							
+						GEORGE: That&#146;s all there is to it. By Christmas day I will be Brother Costanza. <br>
+							<br>
+							
+						JERRY: And when is Brother Costanza planning on telling Mother Costanza? <br>
+							<br>
+							
+						GEORGE: Brother Costanza will be taking the vow of silence. <br>
+							<br>
+							
+						(Kramer enters. He is flinging a slinky.) <br>
+							<br>
+							
+						JERRY: Oh a slinky.<br>
+							<br>
+							
+						KRAMER: Sister Roberta gave it to me. <br>
+							<br>
+							
+						JERRY: Why did she give you that? <br>
+							<br>
+							
+						KRAMER: I think she liked me. <br>
+							<br>
+							
+						JERRY: What do you mean she liked you? <br>
+							<br>
+							
+						KRAMER: Liked me. <br>
+							<br>
+							
+						GEORGE: Kramer, they like everybody. They&#146;re friendly people. <br>
+							<br>
+							
+						KRAMER: No. I think I picked up on a vibe. <br>
+							<br>
+							
+						JERRY: You picked up on a vibe, from a nun. <br>
+							<br>
+							
+						KRAMER: Yeah, Jerry I&#146;m telling you I have this power. And I have no control over it. <br>
+							<br>
+							
+						JERRY: Yea alright. <br>
+							<br>
+							
+						(ringing sounds from Kramer's apartment)<br>
+							<br>
+							
+						KRAMER: Oh, that's my phone.<br>
+							<br>
+							
+						(Kramer leaves. Jerry&#146;s girlfriend appears at the doorway.) <br>
+							<br>
+							
+						JERRY: Oh hi. <br>
+							<br>
+							
+						TAWNI: Hi, I just wanted to stop by and see how you were feeling. <br>
+							<br>
+							
+						JERRY: (weakly) A little better. (fake cough) <br>
+							<br>
+							
+						TAWNI: If you need anything let me know. <br>
+							<br>
+							
+						JERRY: Okay.<br>
+							<br>
+							
+						TAWNI: Okay.<br>
+							<br>
+							
+						JERRY: All right.<br>
+							<br>
+							
+						TAWNI: Bye.<br>
+							<br>
+							
+						JERRY: Bye.<br>
+							<br>
+							
+						(Tawni leaves; Jerry closes the door)<br>
+							<br>
+							
+						GEORGE: Story. <br>
+							<br>
+							
+						JERRY: She&#146;s subletting Carol&#146;s place for a month. <br>
+							<br>
+							
+						GEORGE: Yea, she likes you. <br>
+							<br>
+							
+						JERRY: Yeah but there&#146;s a problem. I found a tube of a fungicide in her medicine cabinet. <br>
+							<br>
+							
+						GEORGE: So? <br>
+							<br>
+							
+						JERRY: So I don&#146;t know what she&#146;s using it for. <br>
+							<br>
+							
+						GEORGE: Well how do you even know it&#146;s hers? Maybe it belonged to Carol. Did you see a name on the tube? <br>
+							<br>
+							
+						JERRY: I didn&#146;t even think to look. <br>
+							<br>
+							
+						GEORGE: Well take a look. It might not even belong to her. <br>
+							<br>
+							
+						JERRY: Yeah. <br>
+							<br>
+							
+						GEORGE: People always leave old things in their medicine cabinet. <br>
+							<br>
+							
+						JERRY: Yeah I&#146;ve got this old bottle of cough medicine. <br>
+							<br>
+							
+						GEORGE: I still have brill cream. <br>
+							<br>
+							<br>
+							
+						[At Tawni&#146;s apartment. ]<br>
+							<br>
+							
+						(Jerry knocks on the door )<br>
+							<br>
+							
+						(knock, knock, knock) <br>
+							<br>
+							
+						JERRY: Hi<br>
+							<br>
+							
+						TAWNI: Hi. <br>
+							<br>
+							
+						JERRY: Hi. Can I use your bathroom? <br>
+							<br>
+							<br>
+							
+						[At the doctor&#146;s apartment.] <br>
+							<br>
+							
+						ELAINE: You sure you don&#146;t mind? <br>
+							<br>
+							
+						DOCTOR: No of course not. People ask me medical questions all the time. <br>
+							<br>
+							
+						ELAINE: Well I mean the question isn&#146;t even for me it&#146;s for a friend. <br>
+							<br>
+							
+						DOCTOR: Elaine, I&#146;m used to it. I&#146;m a doctor. <br>
+							<br>
+							
+						ELAINE: Well&#133; podiatrist. <br>
+							<br>
+							
+						DOCTOR: Huh? <br>
+							<br>
+							
+						ELAINE: No no, I&#146;m just saying you didn&#146;t really go to medical school, you went to podiatry school. Which I&#146;m sure is very grueling in it&#146;s own way. <br>
+							<br>
+							
+						DOCTOR: I went to podiatry school because I like feet. I chose to work with feet. <br>
+							<br>
+							
+						ELAINE: I like feet too. I&#146;m just saying&#133; <br>
+							<br>
+							
+						DOCTOR: Saying what? <br>
+							<br>
+							<br>
+							
+						[In Jerry&#146;s girlfriend&#146;s apartment. ]<br>
+							<br>
+							
+						(She knocks on the bathroom door.) <br>
+							<br>
+							
+						(knock, knock, knock) <br>
+							<br>
+							
+						TAWNI: How are you doing in there? <br>
+							<br>
+							
+						JERRY: Fine all done, just looking for the soap. <br>
+							<br>
+							
+						(Jerry is looking around for the bottle of fungicide.) <br>
+							<br>
+							
+						TAWNI: No soap? <br>
+							<br>
+							
+						JERRY: No I don&#146;t see it. <br>
+							<br>
+							
+						(Jerry finds the bottle of fungicide and picks it up. Jerry&#146;s girlfriend enters the bathroom with soap. Hastily, Jerry puts the bottle of fungicide in his pocket.) <br>
+							<br>
+							
+						TAWNI: (giving Jerry the soap) Here you go. <br>
+							<br>
+							<br>
+							
+						[At George&#146;s parent&#146;s house.] <br>
+							<br>
+							
+						(George is in the bathroom with his Latvian Orthodox books.) <br>
+							<br>
+							
+						(knock, knock, knock) <br>
+							<br>
+							
+						ESTELLE: George what are you doing in there? <br>
+							<br>
+							
+						GEORGE: What? Nothing. <br>
+							<br>
+							
+						FRANK: You&#146;ve been in there an hour. <br>
+							<br>
+							
+						ESTELLE: You don&#146;t feel well? <br>
+							<br>
+							
+						GEORGE: I&#146;m fine. <br>
+							<br>
+							
+						ESTELLE: I want to know what you&#146;re doing in there. <br>
+							<br>
+							
+						GEORGE: Nothing. <br>
+							<br>
+							
+						FRANK: George, open the door. <br>
+							<br>
+							
+						GEORGE: No. <br>
+							<br>
+							
+						ESTELLE: Georgie. <br>
+							<br>
+							
+						GEORGE: No! <br>
+							<br>
+							<br>
+							
+						[At Kramer&#146;s apartment.] <br>
+							<br>
+							
+						(Sister Roberta is knocking on the door.) <br>
+							<br>
+							
+						(knock, knock, knock) <br>
+							<br>
+							
+						KRAMER: Hey. <br>
+							<br>
+							
+						SISTER ROBERTA: Good evening. I hope I&#146;m not disturbing you, but I found another toy I thought you might like. <br>
+							<br>
+							<br>
+							
+						[At Jerry&#146;s Apartment.] <br>
+							<br>
+							
+						JERRY: Okay, Latvius was the son of which apostle? And I&#146;ll need that in the form of a question. <br>
+							<br>
+							
+						GEORGE: I don&#146;t know. I can&#146;t believe they&#146;re making me take this test. <br>
+							<br>
+							
+						(Elaine enters.) <br>
+							<br>
+							
+						JERRY: Hey, did you talk to the doctor? <br>
+							<br>
+							
+						ELAINE: No. <br>
+							<br>
+							
+						JERRY: All right, the next time you see him show him this. (He presents the bottle of fungicide.) <br>
+							<br>
+							
+						ELAINE: You took her medicine. <br>
+							<br>
+							
+						JERRY: Not on purpose. I was hoping there would be a name on the tube. When are you seeing him again? <br>
+							<br>
+							
+						ELAINE: I don&#146;t know. We got into this whole thing about how podiatrists aren&#146;t real doctors. <br>
+							<br>
+							
+						JERRY: How could you say that? <br>
+							<br>
+							
+						ELAINE: It&#146;s you fault. You just got me thinking. <br>
+							<br>
+							
+						JERRY: I was merely speaking extemporaneously. <br>
+							<br>
+							
+						ELAINE: I&#146;ve got nothing against the foot. I&#146;m pro-foot. <br>
+							<br>
+							
+						JERRY: Me too. <br>
+							<br>
+							
+						ELAINE: Do you think I should call him and apologize? <br>
+							<br>
+							
+						JERRY: Yes. He&#146;s a doctor. (Elaine starts to leave. ) Wait a second. (Jerry puts the bottle of fungicide in Elaine&#146;s purse.) (to George) What are you doing? <br>
+							<br>
+							
+						GEORGE: What does it look like I&#146;m doing? <br>
+							<br>
+							
+						JERRY: (Reading words George wrote on his hand) &quot;Matthew, Luke, Paul&quot;, what you&#146;re cheating on your conversion chest? <br>
+							<br>
+							
+						(Kramer enters.) <br>
+							<br>
+							
+						KRAMER: I told you. <br>
+							<br>
+							
+						JERRY: What? <br>
+							<br>
+							
+						KRAMER: I told you she liked me. <br>
+							<br>
+							
+						JERRY: Who? <br>
+							<br>
+							
+						KRAMER: Sister Roberta. <br>
+							<br>
+							
+						JERRY: How do you know? <br>
+							<br>
+							
+						KRAMER: She told me. She said she&#146;s never had a man stir up all of these feelings inside of her. She&#146;s questioning her faith. She&#146;s thinking of leaving the church. <br>
+							<br>
+							
+						JERRY: Wow<br>
+							<br>
+							
+						KRAMER: Oh, uh, this power. I&#146;m dangerous Jerry, I&#146;m very very dangerous. <br>
+							<br>
+							<br>
+							
+						[At the priest&#146;s office.] <br>
+							<br>
+							
+						FATHER-PRIEST: I must say George, I was somewhat surprised at the results of your conversion test. I don&#146;t recall having seen such an impressive performance. You truly must be filled with the spirit of the Lord. <br>
+							<br>
+							
+						GEORGE: Oh, I&#146;m I&#146;m full of it Father. <br>
+							<br>
+							
+						FATHER-PRIEST 2: (muttering something to Father-Priest 1) &#133;(mumble)&#133; Kramer &#133;(mumble)&#133; <br>
+							<br>
+							
+						FATHER-PRIEST: Yes, yes I see. (To George) I&#146;m sorry something has come up. <br>
+							<br>
+							
+						GEORGE: Oh, I understand. (George exits; Sees Kramer in the hallway) Hey.<br>
+							<br>
+							
+						KRAMER: (rushed) Yea, Hey. (Kramer enters.) Um, you wanted to see me Father? <br>
+							<br>
+							
+						FATHER-PRIEST: Yes. Please, sit down. Sister Roberta came to see me yesterday. <br>
+							<br>
+							
+						KRAMER: I know what this is about Father. I didn&#146;t do anything. I just spoke to her innocently for just a few minutes. It&#146;s just that, that I have this power. <br>
+							<br>
+							
+						FATHER-PRIEST: Yes. Kavorka. <br>
+							<br>
+							
+						KRAMER: Kavorka? <br>
+							<br>
+							
+						FATHER-PRIEST: It is a Latvian word which means &quot;the lure of the animal&quot;. <br>
+							<br>
+							
+						KRAMER: I don&#146;t understand. <br>
+							<br>
+							
+						FATHER-PRIEST: Women are drawn to you. They would give anything to be possessed by you. <br>
+							<br>
+							
+						KRAMER: Help me Father. Help me. <br>
+							<br>
+							
+						FATHER-PRIEST: Yes, yes I will help you. Listen very carefully. I want you to buy ten cloves of garlic, three quarts of vinegar, six ounces&#133; <br>
+							<br>
+							<br>
+							
+						[The hallway by Jerry&#146;s apartment]<br>
+							<br>
+							
+						JERRY: What is that stench? I got it. (He follows the smell to Kramer&#146;s door) Ah hah. <br>
+							<br>
+							
+						(knock, knock, knock) <br>
+							<br>
+							
+						(Kramer opens his door. He is wearing a ring of garlics around his neck.) <br>
+							<br>
+							
+						KRAMER: Hey. <br>
+							<br>
+							
+						JERRY: Hey. What are you doing? <br>
+							<br>
+							
+						KRAMER: I&#146;ve got the Kavorka Jerry. <br>
+							<br>
+							
+						JERRY: The Kavorka? What&#146;s that? <br>
+							<br>
+							
+						KRAMER: The lure of the animal. I&#146;m dangerous. <br>
+							<br>
+							
+						JERRY: What is this thing around your neck? <br>
+							<br>
+							
+						KRAMER: The priests they&#146;re helping me. I just bathed in vinegar. <br>
+							<br>
+							
+						JERRY: You know you&#146;re funcifying the whole building. <br>
+							<br>
+							
+						KRAMER: Keep away Jerry. Keep away. <br>
+							<br>
+							
+						(He closes his door.) <br>
+							<br>
+							
+						JERRY: Kramer. (knock, knock, knock) Kramer. <br>
+							<br>
+							<br>
+							
+						[At the entrance of the church. There is a sign there. It reads: CONVERSION CEREMONY - FOR - GEORGE COSTANZA - 3:P.M. The sign is on a black background with white stick-on letters.]<br>
+							<br>
+							
+						(A woman reads the sign.) <br>
+							<br>
+							
+						WOMAN: George Costanza? Estelle&#146;s son? <br>
+							<br>
+							<br>
+							
+						[At George&#146;s parent&#146;s house.] <br>
+							<br>
+							
+						ESTELLE: Latvian Orthodox? Why are you doing this? <br>
+							<br>
+							
+						GEORGE: For a woman. <br>
+							<br>
+							
+						FRANK: A woman? What are you out of your mind? <br>
+							<br>
+							
+						ESTELLE: Why can&#146;t you do anything like a normal person? <br>
+							<br>
+							
+						FRANK: Wait. Is this the group that goes around mutilating squirrels? <br>
+							<br>
+							
+						GEORGE: No it&#146;s a regular religion. <br>
+							<br>
+							
+						FRANK: I&#146;m calling my lawyer. It might not be too late to get out of this. <br>
+							<br>
+							
+						GEORGE: I don&#146;t want to get out of it. <br>
+							<br>
+							
+						ESTELLE: Bu George, you don&#146;t know what you&#146;re saying. You&#146;re under their control. <br>
+							<br>
+							
+						FRANK: What, they brainwashed you? <br>
+							<br>
+							
+						GEORGE: No no. <br>
+							<br>
+							
+						FRANK: You&#146;re not performing any rituals in this house. <br>
+							<br>
+							
+						ESTELLE: Go back to the psychiatrist. I beg you. <br>
+							<br>
+							
+						FRANK: And stay away from those squirrels. <br>
+							<br>
+							<br>
+							
+						[At Tawni&#146;s apartment.] <br>
+							<br>
+							
+						TAWNI: Oh how you doing Jerry? <br>
+							<br>
+							
+						JERRY: Good. What&#146;s the matter? <br>
+							<br>
+							
+						TAWNI: I&#146;m tired. I hardly slept last night with all this scratching. Bonkers was going crazy. <br>
+							<br>
+							
+						JERRY: Bonkers? <br>
+							<br>
+							
+						TAWNI: My cat. He&#146;s got this weird sort of skin condition. Some type of fungus, I couldn&#146;t find his medicine. <br>
+							<br>
+							
+						JERRY: Oh it&#146;s your cat! <br>
+							<br>
+							
+						TAWNI: What? <br>
+							<br>
+							
+						JERRY: Ooh, nothing. <br>
+							<br>
+							<br>
+							
+						[At the church.]<br>
+							<br>
+							
+						FATHER-PRIEST: Are you ready my son? <br>
+							<br>
+							
+						GEORGE: Yes faddah. <br>
+							<br>
+							
+						FATHER-PRIEST: What did you say? <br>
+							<br>
+							
+						GEORGE: What? <br>
+							<br>
+							
+						FATHER-PRIEST: I thought you said faddah. <br>
+							<br>
+							
+						GEORGE: I said faddah, I meant Father. Just a little bit nervous. <br>
+							<br>
+							
+						FATHER-PRIEST: Ooh, of course.<br>
+							<br>
+							<br>
+							
+						[Outside on a sidewalk.] <br>
+							<br>
+							
+						(A woman is waiting for a cab. Kramer walks up to her.) <br>
+							<br>
+							
+						KRAMER: How you doing? <br>
+							<br>
+							
+						WOMAN: Get away from me you creep. (She walks away.) <br>
+							<br>
+							
+						KRAMER: Yes, Yes. It worked. Sister Roberta I&#146;ve still got time to catch her. <br>
+							<br>
+							<br>
+							
+						[At the church. It is George&#146;s conversion ceremony.] <br>
+							<br>
+							
+						(Church music plays. George is dressed in a white church gown. He walks down the church aisle carrying a candle. Father-priest says some Latvian words. Kramer is running down the street going to the church. The church music is still playing. George takes a drink of some wine. He spills some on his gown. He makes a hand motion on his gown. Kramer is still running to the church.) <br>
+							<br>
+							
+						FATHER-PRIEST: Congratulations George. Welcome to the faith. Sister Roberta would you please offer the final benediction. <br>
+							<br>
+							
+						SISTER ROBERTA: (hesitates) I can&#146;t. (crowd murmurs) I&#146;m sorry. It&#146;s a beautiful religion, but I am not worthy of it. I found something else. <br>
+							<br>
+							
+						(Kramer enters the church.) <br>
+							<br>
+							
+						SISTER ROBERTA: Him. <br>
+							<br>
+							
+						CROWD: Kavorka, Kavorka. <br>
+							<br>
+							<br>
+							
+						[At Elaine&#146;s apartment.] <br>
+							<br>
+							
+						ELAINE: (kiss, kiss) You know, because I love the foot. I&#146;m a big fan of the foot. <br>
+							<br>
+							
+						DOCTOR: Well it&#146;s my fault. I got a little defensive. <br>
+							<br>
+							
+						ELAINE: And that pinkie toe, come on . How adorable is the pinkie toe. <br>
+							<br>
+							
+						DOCTOR: It&#146;s my favorite toe. <br>
+							<br>
+							
+						ELAINE: Let&#146;s face it, you get a bunion, where are you going? You&#146;re not going to the ear guy. <br>
+							<br>
+							
+						DOCTOR: No you&#146;re not. <br>
+							<br>
+							
+						(phone rings) <br>
+							<br>
+							
+						ELAINE: I&#146;ll be right back. <br>
+							<br>
+							
+						DOCTOR: Oh uh, where&#146;s the bathroom? <br>
+							<br>
+							
+						ELAINE: It&#146;s right down here to the left. I will uh meet you right back here. <br>
+							<br>
+							
+						JERRY: Elaine it&#146;s her cat. Her cat had the fungus. So I need the tube back. <br>
+							<br>
+							
+						(The doctor is in Elaine&#146;s bathroom. He peeks into the medicine cabinet and finds the tube of fungicide.)<br>
+							<br>
+							
+						DOCTOR: (Thinking to himself) &quot;Fungicide&quot;? Fungus? <br>
+							<br>
+							<br>
+							
+						[At the church]<br>
+							<br>
+							
+						SISTER ROBERTA: Something&#146;s wrong. I don&#146;t feel the same lure. <br>
+							<br>
+							
+						KRAMER: You don&#146;t? <br>
+							<br>
+							
+						SISTER ROBERTA: What have I&#133;? I must return to the church. By the way you really need to take a bath. You stink. <br>
+							<br>
+							
+						KRAMER: Yeah yeah. <br>
+							<br>
+							<br>
+							
+						[Closing Monologue]<br>
+							<br>
+							
+						JERRY: But once you put medicine in your medicine cabinet you're never using it again. Any medicine you're using, is on the sink. It's not really even a medicine cabinet, it's really like an ointment museum isn't it? It's like here's a saff from 1983, some cream from the 70s. But you want to keep it private, because a medicine cabinet is a place that reveals our weaknesses and it can really throw off the balance between two people that might be going out. Somebody peeks in there, &quot;Oh I see Mr. Perfect needs tough actin' Tinactin. Well I guess I'll be calling the shots in this relationship from now on.&quot;<br>
+							<br>
+							
+						[At Monk&#146;s]<br>
+							<br>
+							
+						SASHA: For me? <br>
+							<br>
+							
+						GEORGE: Well I didn&#146;t do it for my mother. <br>
+							<br>
+							
+						SASHA: I&#146;m really flattered. But I just don&#146;t feel ready to make a commitment yet. Maybe when I get back from Latvia. <br>
+							<br>
+							
+						GEORGE: Latvia? <br>
+							<br>
+							
+						SASHA: Yes. I&#146;m going to stay with some relatives there for a year. Isn&#146;t it great? <br>
+							<br>
+							
+						GEORGE: Enjoy, enjoy. <br>
+							<br>
+							
+						SASHA: Oh George, you are so sweet. Don&#146;t ever change. <br>
+							<br>
+							
+						(She leaves)<br>
+							<br>
+							
+						GEORGE: I&#146;d like a doggie bag for this please. (hands her plate to the waitress)<br>
+							<br>
+							<br>
+							
+						The End</td>
+						</tr>
+						<tr height="6">
+							<td class="bottom2" width="645" height="6"></td>
+						</tr>
+						<tr>
+							<td width="645">
+								<div align="center">
+									<font size="-1">Copyright 2006 seinology.com | All Rights Reserved | Designed by 13erla</font></div>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+		<p></p>
+	</body>
+
+</html>

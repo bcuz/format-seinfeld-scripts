@@ -1,0 +1,1194 @@
+<tdOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+<html>
+
+	<head>
+		<meta http-equiv="content-type" content="text/html;charset=ISO-8859-1">
+		<meta name="description" content="Top Source for Seinfeld">
+		<meta name="keywords" content="seinfeld, sienfeld, Jerry Seinfeld, Julia Louis Dreyfus, Jason Alexander, Michael Richards, Kramer, George, Costanza, Elaine Benes, morty, Larry David">
+		<title>Seinology.com :: Scripts :: 40-The Keys</title>
+	<link rel='stylesheet' href='/stylesheet.css' type='text/css'>
+	</head>
+
+	<body>
+			<table align="center" width="787" border="0" cellspacing="0" cellpadding="0">
+				<tr>
+					<td><font size="-2" color="red">Seinology.com - </font><font size="-3" color="black">Where Seinfeld Content and Accuracy Matter Most. Seinfeld scripts in pdf form, Seinfeld episode video clips, Seinfeld episode audio clips, Jerry Seinfeld appearances, Julia Louis-Dreyfus appearances, Michael Richards appearances, Jason Alexander appearances, Seinfeld discussion Forum, Seinfeld Where are they Now? Seinlanguage Newsletter, Popular Seinfeld Lists, Seinfeld episode standup, Seinfeld episode guide, Seinfeld fan fiction. Seinfeld content all on one domain. Seinology.com enjoy your stay.</font></td>
+				</tr>
+			</table>
+		
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr height="100">
+				<td class="logo"></td>
+			</tr>
+			<tr><td class="ads" align="center" background=#8694fa>
+				<script type="text/javascript"><!--
+google_ad_client = "pub-1924026976931416";
+google_ad_width = 728;
+google_ad_height = 90;
+google_ad_format = "728x90_as";
+google_ad_type = "text";
+google_ad_channel = "";
+google_color_border = "FFFFFF";
+google_color_bg = "8694fa";
+google_color_link = "0000FF";
+google_color_text = "000000";
+google_color_url = "002E3F";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></td></tr>
+		</table>
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr>
+				<td valign="top" width="136">
+					<table width="136" border="0" cellspacing="0" cellpadding="0">
+						<tr height="24">
+							<td class="navigation">
+								<div align="center">
+									
+									<b>Navigation</b></div>
+							</td>
+						</tr>
+						<tr height="199">
+							<td class="spacer1" valign="top" width="136" height="199">
+								<div align="center">
+									<font size="-1"><a href="http://www.seinology.com">Home</a><br>
+										<a href="http://board.seinology.com">Forum</a><br>
+										<a href="http://www.seinology.com/av.shtml">Audio/Video</a><br>
+										<a href="http://www.seinology.com/scripts.shtml">Scripts</a><br>
+										<a href="http://www.seinology.com/survivor.shtml">Survivor</a><br>
+										<a href="http://www.seinology.com/fanfics.shtml">Fan Fiction</a><br>
+										<a href="http://www.seinology.com/gallery/">Gallery</a><br>
+										<a href="http://www.seinology.com/newsletter.shtml">Newsletter</a><br>
+										<a href="http://www.seinology.com/lists.shtml">Lists</a><br>
+										<a href="http://www.seinology.com/epguide.shtml">Episode Guide</a><br>
+										<a href="http://www.seinology.com/links.shtml">Links</a><br>
+										<a href="http://www.seinology.com/faqother.shtml">Faq + others</a><br>
+										<a href="http://www.seinology.com/legal.shtml">Legal</a></font></div>
+							</td>
+						</tr>
+						
+						<tr>
+							<td class="nav2" width="136">
+							<div align="center"><b>Search</b></div></td>
+						</tr>
+						<tr>
+							<td class="spacer1" width="136" valign="top"><div align="center"><form method="get" action="http://www.seinology.com/search/search.cgi">
+<p><label for="fdse_Match">Match</label><br>
+<select name="Match" id="fdse_Match" size="1">
+<option value="1">All</option>
+<option value="0">Any</option>
+<option value="2">Phrase</option>
+</select></p>
+<p><label for="fdse_Realm">Where?</label><br>
+<select name="Realm" id="fdse_Realm" size="1">
+<option selected="selected" value="All">EntireSite</option>
+<option value="Ep Guide">Ep Guide</option>
+<option value="Images">Images</option>
+<option value="Lists">Lists</option>
+<option value="Newsletters">Newsletters</option>
+<option value="Scripts">Scripts</option>
+<option value="Notes..Nothing">Notes..Nothing</option>
+</select></p>
+<p><input type="text" name="Terms" size="14" id="fdse_Terms"><br>
+<input type="submit" class="submit" name="submitButtonName" value="Search"></p>
+</div></form></td>
+						</tr>
+						<tr><td class="bottom" width="136" height="10" valign="top">
+						</td>
+						</tr>
+					</table>
+				</td>
+				<td width="4"></td>
+				<td valign="top" width="645">
+					<table width="645" border="0" cellspacing="0" cellpadding="0">
+						<tr height="18">
+							<td width="645" height="35" class="bar">
+								<div align="center">
+									<b><font size="+2" color="black">Script</font></b></div>
+							</td>
+						</tr>
+						<tr height="362">
+							<td class="spacer2" valign="top" width="645" height="362">
+
+						<p><font size="-2">Episode 40 - The Keys<br>
+							
+						pc: 321, season 3, episode 23<br>
+							
+						Broadcast date: May 6, 1992<br>
+							<br>
+							
+						Written by: Larry Charles<br>
+							
+						Directed By Tom Cherones<br>
+							<br>
+							
+						-------------------------------------------------------------------------------<br>
+							<br>
+							
+						The Cast<br>
+							
+						Regulars:<br>
+							
+						Jerry Seinfeld ....................... Jerry Seinfeld<br>
+							
+						Jason Alexander .................. George Costanza<br>
+							
+						Julia Louis-Dreyfus ............. Elaine Benes<br>
+							
+						Michael Richards ................. Kramer<br>
+							<br>
+							
+						Guest Stars:<br>
+							<br>
+							
+						Nina Tremblay ................... Jerry's Girlfriend<br>
+							
+						Eric Allan Kramer .............. Biker<br>
+							
+						Ricky Dean Logan ............. Hippie #1<br>
+							
+						Sharon Barr ......................... Trucker<br>
+							
+						Maud Winchester ............... Hippie #2<br>
+							
+						Heather James .................... Waitress<br>
+							
+						Carissa Channing .............. Kramer's Girlfriend<br>
+							
+						Candice Bergen .................. Herself (as Murphy Brown)<br>
+							
+						rc: Wayne Knight ............... Newman<br>
+							<br>
+							
+						==================================================================<br>
+							<br>
+							
+						Jerry's stand-up: So, I fly a lot. I like planes. I was on a plane the other day and I was wondering - are there keys to the plane? Do they need keys to start the plane? Maybe that's what those delays on the ground are sometimes. When you're just sitting there at the gate, maybe the pilot's just up there in the cockpit going (mimics looking for keys) &quot;Oh, I don't believe this. Oh my god...I did it again.&quot; They tell you it's something mechanical, because they don't want to come on the PA system...&quot;Ladies and gentlemen, we're going to be delayed here on the ground for a little while, I uh...Oh God, this is so embarrassing...I - I left the keys to the plane in my apartment.&quot; You see the technicians all running underneath the plane; you think they're servicing it, but they're actually looking for the magnet &quot;hide-a-key&quot; under the wing...&quot;maybe he left it up there somewhere...&quot;<br>
+							<br>
+							
+						Opening scene: Jerry's apartment in the middle of the night. Jerry comes out of his room. We hear his thoughts.<br>
+							<br>
+							
+						JERRY's brain: What is it about sleep that makes you so thirsty? Do dreams require liquid? It's not like I'm running a marathon, I'm just lying there.<br>
+							<br>
+							
+						(Jerry notices his door is open.)<br>
+							<br>
+							
+						JERRY's brain: What the hell...? Why is the door open?<br>
+							<br>
+							
+						(Jerry looks out into the hallway, turns back into his apartment, and runs into Kramer in the dark. They both scream. Kramer turns on the light.)<br>
+							<br>
+							
+						JERRY: Kramer, what are you doing here!?<br>
+							<br>
+							
+						KRAMER: Jerry, now calm down, it's okay. I'm sorry. I didn't want to wake you up! Y'know, I was watching &quot;Thirty Seconds Over Tokyo,&quot; and I - y'know, I wanted to get some popcorn, and I, uh...I used the spare keys that you gave me to come into your apartment to get your popper.<br>
+							<br>
+							
+						JERRY: You scared me!<br>
+							<br>
+							
+						KRAMER: It's just me.<br>
+							<br>
+							
+						JERRY: That's enough!<br>
+							<br>
+							
+						KRAMER: Forgot the popper... (goes to the kitchen, grabs the popper, drops the lid, juggles it around, then exits.)<br>
+							<br>
+							<br>
+							
+						[Jerry's apartment, daytime. We hear Jerry hurriedly trying to get in the door.]<br>
+							<br>
+							
+						JERRY (from outside the door): C'mon...c'mon...<br>
+							<br>
+							
+						(Jerry enters, sheds his jacket, drops his luggage and heads for the bathroom. He opens the door to find Kramer taking a bubble bath in his tub.)<br>
+							<br>
+							
+						JERRY: Kramer! What are you doing?!<br>
+							<br>
+							
+						KRAMER: What does it look like I'm doing? What?<br>
+							<br>
+							
+						JERRY: Get out! Get out of the bathroom, I gotta go!<br>
+							<br>
+							
+						KRAMER: Alright, alright...<br>
+							<br>
+							
+						JERRY: C'mon!<br>
+							<br>
+							
+						KRAMER: Sorry.<br>
+							<br>
+							
+						JERRY: Move it! Move it! Get going!<br>
+							<br>
+							
+						KRAMER: My drain's all clogged up! (Comes out of the bathroom in a towel, covered in soap suds.)<br>
+							<br>
+							
+						JERRY (from inside the bathroom): Is that my towel?<br>
+							<br>
+							
+						(Kramer loses the towel in the hallway and throws it on Jerry's floor from the other side of the door.)<br>
+							<br>
+							<br>
+							
+						[Jerry's hallway at night. Jerry approaches his door with a girlfriend.]<br>
+							<br>
+							
+						GIRLFRIEND: I'm really happy the movie was sold out.<br>
+							<br>
+							
+						JERRY: Hey, did you ever pretend there's like, murderers chasing you, and you try and see how fast you can get your keys out and get into your apartment?<br>
+							<br>
+							
+						GIRLFRIEND: I'm from Witchita, so...<br>
+							<br>
+							
+						JERRY: Oh. I see. There he is! (Pretends the murderers are coming.)<br>
+							<br>
+							
+						GIRLFRIEND: Hurry, Jerry! He's coming! Hurry!<br>
+							<br>
+							
+						JERRY: The murderers! (Jerry unlocks his door and they both run inside.)<br>
+							<br>
+							
+						GIRLFRIEND: That was close!<br>
+							<br>
+							
+						JERRY: Did you see the look on that guy's face?<br>
+							<br>
+							
+						GIRLFRIEND: You were so fast with those keys. (They prepare to kiss, but are interrupted by Kramer and his girlfriend coming out of Jerry's bedroom, laughing and horsing around.)<br>
+							<br>
+							
+						JERRY: Kramer! What the hell are you doing here?!<br>
+							<br>
+							
+						KRAMER: Hey, Jerry! How are ya? I thought you were going to the movies.<br>
+							<br>
+							
+						JERRY: All right, that's it. Hand 'em over.<br>
+							<br>
+							
+						KRAMER: What?<br>
+							<br>
+							
+						JERRY: What, you know what, the keys. I want the keys. You've lost your key privileges.<br>
+							<br>
+							
+						KRAMER: Oh, come on!<br>
+							<br>
+							
+						JERRY: No, come on!<br>
+							<br>
+							
+						KRAMER: What, what, I thought you went to the movies!<br>
+							<br>
+							
+						JERRY: It was sold out!<br>
+							<br>
+							
+						KRAMER: Now how was I supposed to know it was going to be sold out?<br>
+							<br>
+							
+						JERRY: That's the point.<br>
+							<br>
+							
+						KRAMER: What point?<br>
+							<br>
+							
+						JERRY: Just, look, just give the keys.<br>
+							<br>
+							
+						KRAMER: Just give me another chance!<br>
+							<br>
+							
+						JERRY: Don't ask me!<br>
+							<br>
+							
+						KRAMER: I'm asking you!<br>
+							<br>
+							
+						JERRY: I'm telling you.<br>
+							<br>
+							
+						KRAMER: You're joking.<br>
+							<br>
+							
+						JERRY: I'm serious!<br>
+							<br>
+							
+						KRAMER: It's not going to happen again!<br>
+							<br>
+							
+						JERRY: Yes it will, now give me those keys!<br>
+							<br>
+							
+						(Jerry and Kramer begin struggling over the keys. Kramer loses his footing and falls on the floor, taking his girlfriend down with him.)<br>
+							<br>
+							
+						KRAMER (getting up): O.K., fine, go ahead, you take the keys! But you're going to regret this. (He angrily storms out. Kramer then re-enters seconds later when he realizes he's left his girlfriend in Jerry's apartment.)<br>
+							<br>
+							<br>
+							
+						[Jerry's apartment, the next day. Jerry is now giving his spare keys to Elaine.]<br>
+							<br>
+							
+						JERRY: So put 'em in a safe place.<br>
+							<br>
+							
+						ELAINE: I will.<br>
+							<br>
+							
+						JERRY: Where?<br>
+							<br>
+							
+						ELAINE: I don't know. I'll hide 'em. So, is Kramer upset?<br>
+							<br>
+							
+						JERRY: I think so. I mean, he's acting really weird lately...he's different.<br>
+							<br>
+							
+						ELAINE: Well, maybe you should just give him the keys back.<br>
+							<br>
+							
+						JERRY: I can't.<br>
+							<br>
+							
+						)There's a gentle knock at the door.)<br>
+							<br>
+							
+						ELAINE (mouths the words): Is that Kramer? (Jerry nods.)<br>
+							<br>
+							
+						JERRY: Who's there?<br>
+							<br>
+							
+						KRAMER (in hallway): Uh, Kramer. (Jerry opens the door, Kramer enters. Elaine waves at Kramer with the keys in her hand.) Oh, hi...uh...you got the...<br>
+							<br>
+							
+						ELAINE: Oh, I'm not, uh...<br>
+							<br>
+							
+						KRAMER: No, no, no, it's o.k. I don't care about the keys. It's my fault. I gave the keys away with my stupidity. I broke &quot;the covenant of the keys.&quot;<br>
+							<br>
+							
+						ELAINE: Jerry, give him the keys back.<br>
+							<br>
+							
+						JERRY: Elaine...<br>
+							<br>
+							
+						(Elaine tries to give the keys to Kramer, but Jerry won't let her. Jerry and Elaine begin struggling over the keys. Kramer breaks it up.)<br>
+							<br>
+							
+						KRAMER: I don't want the keys back! No, I'm glad the way things turned out. I was clingin' to those keys, man! Like a branch on the banks of a raging river. And now I have let go. And I'm free...to go with the current. To float. (To Jerry) And I thank you.<br>
+							<br>
+							
+						JERRY: Take the keys.<br>
+							<br>
+							
+						KRAMER: I don't want the keys! (Jerry tries to force the keys on Kramer, but Kramer refuses.)<br>
+							<br>
+							
+						JERRY: O.K.!<br>
+							<br>
+							
+						KRAMER: Now, one more thing - I would like my keys back.<br>
+							<br>
+							
+						JERRY: Your spare set?<br>
+							<br>
+							
+						KRAMER: That's right.<br>
+							<br>
+							
+						JERRY: You want 'em back?<br>
+							<br>
+							
+						KRAMER: Yeah. Yeah, I think it would be for the best.<br>
+							<br>
+							
+						(Jerry takes a huge ring with hundreds of keys on it out of his drawer, and hands it to Kramer. Kramer begins going through them.)<br>
+							<br>
+							<br>
+							
+						[the coffee shop. Kramer is now giving the huge keyring to George.]<br>
+							<br>
+							
+						GEORGE: Gee, Kramer, I uh...I don't know what to say.<br>
+							<br>
+							
+						KRAMER: Say yes! Yes, George. Yes!<br>
+							<br>
+							
+						GEORGE: Should I give you my keys, is that the transaction, trading keys...? Because Elaine has my keys.<br>
+							<br>
+							
+						KRAMER: Well, you can get 'em back.<br>
+							<br>
+							
+						GEORGE: I suppose I could.<br>
+							<br>
+							
+						KRAMER: Because you see, George, having the keys to Jerry's apartment? That kept me in a fantasy world. Every time I went over to his house, it was like I was on vacation. Better food, better view, better TV. And cleaner? Oh - much cleaner. That became my reality. I ignored the squalor in my own life because I'm looking at life, you see, through Jerry's eyes. I was living in twilight, George. Living in the shadows. Living in the darkness...like you.<br>
+							<br>
+							
+						GEORGE: Me?<br>
+							<br>
+							
+						KRAMER: Oh, yeah. I can barely see you, George.<br>
+							<br>
+							
+						GEORGE: Alright, stop it Kramer, you're freakin' me out. (The waitress comes over.)<br>
+							<br>
+							
+						WAITRESS: Hi, are you ready to order? (George tries to order, but Kramer interrupts.)<br>
+							<br>
+							
+						KRAMER (moves over and sits next to George): Do you ever yearn?<br>
+							<br>
+							
+						GEORGE: Yearn? Do I yearn?<br>
+							<br>
+							
+						KRAMER: I yearn.<br>
+							<br>
+							
+						GEORGE: You yearn.<br>
+							<br>
+							
+						KRAMER: Oh, yes. Yes, I yearn. Often, I...I sit...and yearn. Have you yearned?<br>
+							<br>
+							
+						GEORGE: Well, not recently. I craved. I crave all the time, constant craving...but I haven't yearned.<br>
+							<br>
+							
+						KRAMER (in disgust): Look at you.<br>
+							<br>
+							
+						GEORGE: Aw, Kramer, don't start...<br>
+							<br>
+							
+						KRAMER (moving back to the othe side of the booth): You're wasting your life.<br>
+							<br>
+							
+						GEORGE: I am not! What you call wasting, I call living! I'm living my life!<br>
+							<br>
+							
+						KRAMER: O.K., like what? No, tell me! Do you have a job?<br>
+							<br>
+							
+						GEORGE: No.<br>
+							<br>
+							
+						KRAMER: You got money?<br>
+							<br>
+							
+						GEORGE: No.<br>
+							<br>
+							
+						KRAMER: Do you have a woman?<br>
+							<br>
+							
+						GEORGE: No.<br>
+							<br>
+							
+						KRAMER: Do you have any prospects?<br>
+							<br>
+							
+						GEORGE: No.<br>
+							<br>
+							
+						KRAMER: You got anything on the horizon?<br>
+							<br>
+							
+						GEORGE: Uh...no.<br>
+							<br>
+							
+						KRAMER: Do you have any action at all?<br>
+							<br>
+							
+						GEORGE: No.<br>
+							<br>
+							
+						KRAMER: Do you have any conceivable reason for even getting up in the morning?<br>
+							<br>
+							
+						GEORGE: I like to get the Daily News!<br>
+							<br>
+							
+						KRAMER: George, it's time for us to grow up - and be men. Not little boys.<br>
+							<br>
+							
+						GEORGE: Why?<br>
+							<br>
+							
+						KRAMER: I'm goin' to California. You know, I got the bug.<br>
+							<br>
+							
+						GEORGE: Yeah, I think I got a touch of something, too.<br>
+							<br>
+							
+						KRAMER: No, the acting bug. Ever since I was in that Woody Allen movie.<br>
+							<br>
+							
+						GEORGE: &quot;These pretzels are making me thirsty&quot;? That was one line! You got fired!<br>
+							<br>
+							
+						KRAMER: I know, I know, but man! I never felt so alive! Now, are you coming with me?<br>
+							<br>
+							
+						GEORGE: Uh, no, I'm not.<br>
+							<br>
+							
+						KRAMER: Alright, suit yourself. But let's keep this between us - we're key brothers now. (Gets up to leave.)<br>
+							<br>
+							
+						GEORGE: You're not really gonna go to California, are you?<br>
+							<br>
+							
+						KRAMER (points to his head): Up here, I'm already gone. (Kramer exits.)<br>
+							<br>
+							<br>
+							
+						[Elaine's apartment at night. George is picking up his spare keys from Elaine.]<br>
+							<br>
+							
+						GEORGE: Anyway, so he gave me his spare keys, now he wants to have my keys, so I need mine back from you.<br>
+							<br>
+							
+						ELAINE: Just 'cause you have his keys? Why does he need yours?<br>
+							<br>
+							
+						GEORGE: I don't know. He said he wants to be my &quot;key brother.&quot;<br>
+							<br>
+							
+						ELAINE: That's ridiculous.<br>
+							<br>
+							
+						GEORGE (shakes huge keyring): That's Kramer.<br>
+							<br>
+							
+						ELAINE: I'll give you back your spare keys - but now I want mine back.<br>
+							<br>
+							
+						GEORGE: What for?<br>
+							<br>
+							
+						ELAINE: 'Cause. I'll give 'em to Jerry.<br>
+							<br>
+							
+						GEORGE: Jerry? Why?<br>
+							<br>
+							
+						ELAINE: 'Cause he gave me his.<br>
+							<br>
+							
+						GEORGE: So what?<br>
+							<br>
+							
+						ELAINE: So, if he has my keys, I should have his.<br>
+							<br>
+							
+						GEORGE: Well, I don't see why if you have his, he should have yours.<br>
+							<br>
+							
+						ELAINE: I just said the same thing to you.<br>
+							<br>
+							
+						GEORGE: What?<br>
+							<br>
+							
+						ELAINE: What?<br>
+							<br>
+							
+						GEORGE: Alright, listen, I'll give you your spare keys, but I don't have them with me. Can I please have mine to give to back to Kramer?<br>
+							<br>
+							
+						ELAINE: Yeah, O.K. I'll go get 'em. (George begins to leaf through papers on Elaine's counter.) What are you doing? Would you just put that down? (Takes the papers away from George.) I gotta get some new friends.<br>
+							<br>
+							<br>
+							
+						[Jerry's apartment the next day.]<br>
+							<br>
+							
+						JERRY: Did you bring the keys?<br>
+							<br>
+							
+						GEORGE: Yes, but I still don't feel right about letting you into Kramer's apartment without his permission.<br>
+							<br>
+							
+						JERRY: This could be an emergency!<br>
+							<br>
+							
+						GEORGE: You never should have taken away his keys!<br>
+							<br>
+							
+						JERRY: I tried to give 'em back, he wouldn't take 'em. (Jerry and George go out into the hallway to Kramer's apartment.)<br>
+							<br>
+							
+						GEORGE: How'd the Mets do?<br>
+							<br>
+							
+						JERRY: They lost.<br>
+							<br>
+							
+						(Jerry and George open Kramer's door and poke their heads in.)<br>
+							<br>
+							
+						JERRY: Kramer?<br>
+							<br>
+							
+						(Newman walks up behind them.)<br>
+							<br>
+							
+						NEWMAN (startling them): Hello, boys.<br>
+							<br>
+							
+						JERRY: Hello, Newman.<br>
+							<br>
+							
+						NEWMAN: You lookin' for someone?<br>
+							<br>
+							
+						JERRY: Don't play coy with me, Newman, I'm not in the mood!<br>
+							<br>
+							
+						NEWMAN: Coy? I'm not being coy.<br>
+							<br>
+							
+						JERRY (to George): Is he being coy?<br>
+							<br>
+							
+						GEORGE: Yeah, coy.<br>
+							<br>
+							
+						JERRY: You're being coy. Now where's Kramer, Newman?<br>
+							<br>
+							
+						NEWMAN (coyly): Who?<br>
+							<br>
+							
+						JERRY: Listen, Tiny. I wanna know where Kramer is and wanna know now!<br>
+							<br>
+							
+						NEWMAN: Alright, go ahead and hit me, Seinfeld. I got witnesses.<br>
+							<br>
+							
+						JERRY: Turn around, George.<br>
+							<br>
+							
+						GEORGE: Sure. (Turns around.)<br>
+							<br>
+							
+						NEWMAN: George?<br>
+							<br>
+							
+						JERRY: Now, you better tell me where Kramer is, or are we gonna have to do this the hard way? (Hits wall with his fist.)<br>
+							<br>
+							
+						NEWMAN: Help! Help!<br>
+							<br>
+							
+						JERRY: Where's Kramer?<br>
+							<br>
+							
+						NEWMAN: HELP! (Elaine enters.)<br>
+							<br>
+							
+						ELAINE: What's going on?<br>
+							<br>
+							
+						(Newman grabs Elaine and hides behind her.)<br>
+							<br>
+							
+						NEWMAN: They're gonna beat me up!<br>
+							<br>
+							
+						GEORGE: No we're not.<br>
+							<br>
+							
+						JERRY: We're trying to find out what happened to Kramer.<br>
+							<br>
+							
+						NEWMAN: You wanna know what happened to Kramer? I'll tell you what happened to Kramer. He was ticked off. About the keys. Yeah, that's right - about the keys. Thought he got a bad rap.<br>
+							<br>
+							
+						JERRY: Bad rap?<br>
+							<br>
+							
+						NEWMAN: Yeah. From you.<br>
+							<br>
+							
+						JERRY: Me?<br>
+							<br>
+							
+						NEWMAN: You heard me. So he packed it up and split for the coast. La-La Land. L.A.<br>
+							<br>
+							
+						JERRY: L.A.?<br>
+							<br>
+							<br>
+							
+						[Cut to Kramer in his car on the highway, listening to rock music. The car's engine starts to fail, then stalls. Kramer can't believe it.]<br>
+							<br>
+							<br>
+							
+						[Jerry's apartment at night]<br>
+							<br>
+							
+						(Jerry's at the window, George and Elaine are on the couch ).<br>
+							<br>
+							
+						JERRY: I never should have taken his keys away. But he drove me to it! I had no choice! He wouldn't take 'em back. Elaine, you saw it, remember? I said, 'Take the keys back.' He wouldn't do anything. You saw it, didn't you see it?<br>
+							<br>
+							
+						ELAINE: Yeah, yeah, I saw it. (mutters under her breath) I mean, it's complete bullshit.<br>
+							<br>
+							
+						JERRY: Huh?<br>
+							<br>
+							
+						ELAINE: What...?<br>
+							<br>
+							
+						JERRY: No, what'd you say?<br>
+							<br>
+							
+						ELAINE: Nothing. I didn't say anything.<br>
+							<br>
+							
+						JERRY: Oh, you didn't see it.<br>
+							<br>
+							
+						ELAINE: Yeah, I saw it. I saw it! I did, I saw it. Yep.<br>
+							<br>
+							
+						JERRY: I heard you say something, there.<br>
+							<br>
+							
+						ELAINE: I didn't say anything.<br>
+							<br>
+							
+						JERRY: I'm calling Kramer's mother. (Picks up the phone, dials.) (To Elaine) I don't know what you said. But it was something. I heard something. Hello? Hello, Mrs. Kramer? Mrs. Kramer? Could you turn the music down? Could you turn the music down!<br>
+							<br>
+							
+						GEORGE: Ask her about Kramer.<br>
+							<br>
+							
+						JERRY: She's drunk out of her mind.<br>
+							<br>
+							<br>
+							
+						[Cut back to Kramer with his car broken down on the side of the highway. He tries to thumb a ride.]<br>
+							<br>
+							
+						&nbsp;<br>
+							
+						Jerry approaching his apartment door. He tries to unlock it, but realizes Elaine has his keys. Jerry goes to the coffee shop to call Elaine.]<br>
+							<br>
+							
+						JERRY (leaving a message on Elaine's machine): Elaine? Are you there? It's me, I'm locked out of my apartment, I need my spare keys. Where are you? I'm at the coffee shop.<br>
+							<br>
+							
+						&nbsp;<br>
+							
+						[Kramer's managed to hitch a ride on the back of a motorcycle.]<br>
+							<br>
+							
+						KRAMER (shouting over the cycle's engine): Hey! You ever been in an accident?<br>
+							<br>
+							
+						BIKER: About five years ago. I was going down this very road. Same time of day, going about the same speed I'm going now...there was a rock in the road. Couldn't have been more than a pebble. Never really saw it! Lost control of the bike, went flyin' about a hundred feet - came down right on my head. Cracked it wide open! Blood and stuff was just splattered all over the road, there...I broke every bone in my face. Hey, you know, when they found me, my eyes were hanging out of their sockets? Yeah, they pronounced me dead at the scene. I was in a coma for...well, they told me about a year...said I'd be a vegetable for life. Yeah, but I showed 'em. Ever since then I always wear a helmet! (The biker goes into a turn.) Lean! (Kramer yells.)<br>
+							<br>
+							
+						&nbsp;<br>
+							
+						[Jerry in a booth at the coffee shop waiting for George. George enters, spare keys in hand.]<br>
+							<br>
+							
+						JERRY (applauding): Georgie Boy! Way to come through with the keys! Sit down, I'm buying you dinner.<br>
+							<br>
+							
+						GEORGE: Look, I gotta tell ya...I been thinkin' about it, I just don't feel right about letting you into Elaine's apartment.<br>
+							<br>
+							
+						JERRY: Don't feel right? What are you talking about?<br>
+							<br>
+							
+						GEORGE: Well, you know, I shouldn't have let you into Kramer's, now you want to go into Elaine's...she entrusted me with her spare keys, how can I just let you in?<br>
+							<br>
+							
+						JERRY: What is the big deal?<br>
+							<br>
+							
+						GEORGE: Just because you have someone's spare keys, it doesn't entitle you to break into their apartment. That's the reason you took away Kramer's keys.<br>
+							<br>
+							
+						JERRY: First of all, you're not even supposed to have Elaine's keys. You're supposed to give 'em back to her, so she can give 'em back to me, because she has mine. So technically, those are my keys.<br>
+							<br>
+							
+						GEORGE: Yes, well, if you had never taken your keys back from Kramer, he never would have taken his back from you and given 'em to me, in which case I wouldn't have had to take mine back from her.<br>
+							<br>
+							
+						JERRY: Well, I want those keys. (Tries to grab the keys from George.)<br>
+							<br>
+							
+						GEORGE: Nope, no can do.<br>
+							<br>
+							
+						JERRY: George, give them to me, I want these keys. (They struggle over the keys.) I don't want to get physical!<br>
+							<br>
+							
+						GEORGE: Do you wanna fight?<br>
+							<br>
+							
+						JERRY: Do you wanna fight?<br>
+							<br>
+							
+						GEORGE: I'll fight ya! Not the face! Not the face! (The struggle continues.)<br>
+							<br>
+							
+						&nbsp;<br>
+							
+						[Kramer's managed to hitch another ride, this time with a van full of drugged-out hippies. Kramer is telling them a story as they go down the road... ]<br>
+							<br>
+							
+						KRAMER: And then, the evil ogre took back the magical keys from the handsome young prince.<br>
+							<br>
+							
+						HIPPIE #1: Oh no. He didn't take back the keys, no way.<br>
+							<br>
+							
+						KRAMER: Yes! And then the handsome young prince was cast out into the cruel, cruel world.<br>
+							<br>
+							
+						HIPPIE #1: Oh man, what a bummer. That ogre dude's pretty cold, huh?<br>
+							<br>
+							
+						KRAMER: Oh, he's cold.<br>
+							<br>
+							
+						HIPPIE #1: Lemme tell you something, Kramer. If that ogre dude pulled that crap on me (pulls out a knife) - I'D STAB HIM! I'D CUT HIM IN HALF! I'D GUT HIM LIKE A FISH, MAN! That's what I'd do!<br>
+							<br>
+							
+						KRAMER: Yeah, yeah...that'd be funny. (To driver) Hey, you can drop me here!<br>
+							<br>
+							
+						HIPPIE #1: Hey, what's the rush, man?<br>
+							<br>
+							
+						KRAMER: Well, you know, I gotta be goin' now.<br>
+							<br>
+							
+						HIPPIE #1: Hey, Kramer - have you ever killed a man?<br>
+							<br>
+							
+						KRAMER: What do you think, junior? You think these hands have been soakin' in Ivory liquid? (mimics choking somebody)<br>
+							<br>
+							
+						HIPPIE #2: Don't leave, Kramer, stay with us. You know so much about the world, we need you, please Kramer! (they all start chanting) Please, Kramer! Please, Kramer! (Scene ends with Kramer trying to escape their clutches.)<br>
+							<br>
+							
+						&nbsp;<br>
+							
+						[Elaine's building at night. Jerry and George approach Elaine's door, still arguing about the keys.]<br>
+							<br>
+							
+						JERRY: Don't you see? You're just avoiding the middle man. You were gonna give her her spare keys, so she was gonna give 'em to me. So, all that's happening is that instead of giving them to her, you're giving them to me. It's just unfortunate that when she gave you yours, you didn't give her hers. 'Cause then she would have given 'em to me, because she has mine. So then I would have never had to ask you for hers, so that I could get mine.<br>
+							<br>
+							
+						GEORGE: You're right, how did I miss that? (Begins unlocking the door, mutters under his breath) Maybe because it's a crock of shit.<br>
+							<br>
+							
+						JERRY: What's that?<br>
+							<br>
+							
+						GEORGE: Nothing.<br>
+							<br>
+							
+						JERRY: I heard something.<br>
+							<br>
+							
+						GEORGE: Didn't say anything. (They go into Elaine's apartment.)<br>
+							<br>
+							
+						&nbsp;<br>
+							
+						[Kramer's managed to hitch yet another ride, this time with a woman driving an eighteen-wheeler.]<br>
+							<br>
+							
+						KRAMER: So, how long you been drivin' this thing?<br>
+							<br>
+							
+						WOMAN: Goin' on four years.<br>
+							<br>
+							
+						KRAMER: Well, nothin's sexier than a woman behind the wheel of a semi.<br>
+							<br>
+							
+						WOMAN: Nothin'? (They exchange a glance, then laugh.) Listen to you, you're quite the sweet-talker.<br>
+							<br>
+							
+						KRAMER: You know, I always wanted to drive the big rigs. I used to watch those commercials during the reruns of Gomer Pyle.<br>
+							<br>
+							
+						WOMAN: You want to give it a try?<br>
+							<br>
+							
+						KRAMER: Really?<br>
+							<br>
+							
+						WOMAN: Do you know how to double-clutch?<br>
+							<br>
+							
+						KRAMER: Yeah.<br>
+							<br>
+							
+						WOMAN: Well, come on! (They trade places and Kramer gets behind the wheel. Kramer turns out to be really rusty on the ol' double-clutch.)<br>
+							<br>
+							
+						&nbsp;<br>
+							
+						[Jerry and George in Elaine's apartment looking for Jerry's spare keys.]<br>
+							<br>
+							
+						GEORGE: They were in here, I saw her put 'em in here!<br>
+							<br>
+							
+						JERRY: Well, this is great.<br>
+							<br>
+							
+						GEORGE: Well, what do they look like?<br>
+							<br>
+							
+						JERRY: They look like keys, George. They look exactly like keys. (In disgust) &quot;What do they look like.&quot;<br>
+							<br>
+							
+						GEORGE: Well, they're obviously not here.<br>
+							<br>
+							
+						JERRY: Well, they've gotta be here somewhere.<br>
+							<br>
+							
+						GEORGE: Jerry, unless I pull down on this statuette and a hidden wall opens up, we have checked every square inch of this apartment!<br>
+							<br>
+							
+						JERRY (looking through some papers on the desk): What is this? &quot;Murphy Brown&quot;?<br>
+							<br>
+							
+						GEORGE: What?<br>
+							<br>
+							
+						JERRY: By Elaine Benes?<br>
+							<br>
+							
+						GEORGE: What?<br>
+							<br>
+							
+						JERRY: Elaine's writing a &quot;Murphy Brown&quot;?<br>
+							<br>
+							
+						GEORGE: Lemme see this. (Tries to grab the papers.)<br>
+							<br>
+							
+						JERRY: Wait a second! (They fight over the paper.)<br>
+							<br>
+							
+						GEORGE: Gimme half!<br>
+							<br>
+							
+						JERRY: All right, here!<br>
+							<br>
+							
+						GEORGE: Why didn't she tell us?<br>
+							<br>
+							
+						JERRY (making fun): Elaine is writing a sitcom...! (Elaine enters the room behind Jerry and George. Jerry spots her and tosses his half of the script at George. George throws it back and paper goes flying everywhere.)<br>
+							<br>
+							
+						ELAINE: You weasels!<br>
+							<br>
+							
+						JERRY: What? What?<br>
+							<br>
+							
+						ELAINE: How dare you!<br>
+							<br>
+							
+						GEORGE: We hardly read anything!<br>
+							<br>
+							
+						JERRY: It was funny!<br>
+							<br>
+							
+						ELAINE: Who gave you permission to come into my house and just go through all my things? You thought it was funny?<br>
+							<br>
+							
+						JERRY: Well... (picks up some of the pages) From what I saw...<br>
+							<br>
+							
+						ELAINE (grabs the papers from Jerry): Well, it's just a first draft!<br>
+							<br>
+							
+						JERRY: I was locked out of my apartment, I'm just trying to get my keys.<br>
+							<br>
+							
+						ELAINE (turning on George): Why did you let him in?! (Shoves George.)<br>
+							<br>
+							
+						GEORGE: He forced me to!<br>
+							<br>
+							
+						JERRY: I did not!<br>
+							<br>
+							
+						GEORGE: Yes you did!<br>
+							<br>
+							
+						ELAINE: You! Get out! Get out! Get out!<br>
+							<br>
+							
+						JERRY: Elaine, wait! I need my spare keys!<br>
+							<br>
+							
+						ELAINE: Here! Here's your damn keys, you keep 'em! I don't want 'em anymore!<br>
+							<br>
+							
+						JERRY: Good!<br>
+							<br>
+							
+						ELAINE (to George): And I want my keys back from you!<br>
+							<br>
+							
+						GEORGE: What, you don't want me to hold your keys?<br>
+							<br>
+							
+						ELAINE: No, you can't be trusted!<br>
+							<br>
+							
+						GEORGE: Alright, alright, fine. (Gives the keys to Elaine.)<br>
+							<br>
+							
+						JERRY (to Elaine): And I don't want you to hold mine!<br>
+							<br>
+							
+						ELAINE: Good! I won't!<br>
+							<br>
+							
+						JERRY: Good! Don't! Are these my keys?<br>
+							<br>
+							
+						ELAINE: These aren't my keys!<br>
+							<br>
+							
+						GEORGE: Whose are these?<br>
+							<br>
+							
+						ELAINE: I don't know!<br>
+							<br>
+							
+						(Meanwhile, Kramer's finally made it to Los Angeles. He's shown roller-skating through traffic, and nearly running over some guy on a scooter.)<br>
+							<br>
+							
+						&nbsp;<br>
+							
+						[Jerry and Elaine watching &quot;Murphy Brown&quot; in Jerry's apartment.]<br>
+							<br>
+							
+						ELAINE: I just thought I could write it.<br>
+							<br>
+							
+						JERRY: Is that something you want to do?<br>
+							<br>
+							
+						ELAINE: I don't know. Those writers make a lot of money.<br>
+							<br>
+							
+						JERRY: Elaine, let me tell you something about show business. It's hard work! You don't just write a &quot;Murphy Brown.&quot; You gotta watch the show, study it, get a sense of the characters, how they relate to each other.<br>
+							<br>
+							
+						ELAINE: O.K., can I just watch the show? (mutters under her breath) God, what an asshole.<br>
+							<br>
+							
+						JERRY: What did you say?<br>
+							<br>
+							
+						ELAINE: I didn't say anything.<br>
+							<br>
+							
+						JERRY: I heard something. (Looks at the TV) Elaine, Elaine! It's Kramer! Kramer's on &quot;Murphy Brown&quot;!<br>
+							<br>
+							
+						ELAINE (laughing): Kramer's on &quot;Murphy Brown&quot;!<br>
+							<br>
+							
+						JERRY: Look, there he is, he's sittin' at the desk!<br>
+							<br>
+							<br>
+							
+						[Cut to the screen of Jerry's TV.]<br>
+							<br>
+							
+						CANDICE BERGEN: Hi, I'm Murphy Brown, you must be my new secretary.<br>
+							<br>
+							
+						KRAMER: Oh, good morning, Miss Brown.<br>
+							<br>
+							
+						CANDICE BERGEN: And you are...?<br>
+							<br>
+							
+						KRAMER: Oh, I'm uh, Steven Snell.<br>
+							<br>
+							
+						CANDICE BERGEN: Snell. Well, hello, Mr. Snell.<br>
+							<br>
+							
+						KRAMER: Steven.<br>
+							<br>
+							
+						CANDICE BERGEN: Steven. Are you familiar with this computer system?<br>
+							<br>
+							
+						KRAMER: Oh - I'm familiar with it.<br>
+							<br>
+							
+						CANDICE BERGEN: Steven Snell? I know people...and I have a very good feeling about you. (exits.)<br>
+							<br>
+							
+						(Episode ends with Kramer typing rapidly on his keyboard as he takes a bite out of a donut.)<br>
+							<br>
+							<br>
+							
+						The End</td>
+						</tr>
+						<tr height="6">
+							<td class="bottom2" width="645" height="6"></td>
+						</tr>
+						<tr>
+							<td width="645">
+								<div align="center">
+									<font size="-1">Copyright 2006 seinology.com | All Rights Reserved | Designed by 13erla</font></div>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+		<p></p>
+	</body>
+
+</html>

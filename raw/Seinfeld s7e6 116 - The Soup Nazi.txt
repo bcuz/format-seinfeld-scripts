@@ -1,0 +1,1394 @@
+<tdOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+<html>
+
+	<head>
+		<meta http-equiv="content-type" content="text/html;charset=ISO-8859-1">
+		<meta name="description" content="Top Source for Seinfeld">
+		<meta name="keywords" content="seinfeld, sienfeld, Jerry Seinfeld, Julia Louis Dreyfus, Jason Alexander, Michael Richards, Kramer, George, Costanza, Elaine Benes, morty, Larry David">
+		<title>Seinology.com :: Scripts :: 116-The Soup Nazi</title>
+	<link rel='stylesheet' href='/stylesheet.css' type='text/css'>
+	</head>
+
+	<body>
+			<table align="center" width="787" border="0" cellspacing="0" cellpadding="0">
+				<tr>
+					<td><font size="-2" color="red">Seinology.com - </font><font size="-3" color="black">Where Seinfeld Content and Accuracy Matter Most. Seinfeld scripts in pdf form, Seinfeld episode video clips, Seinfeld episode audio clips, Jerry Seinfeld appearances, Julia Louis-Dreyfus appearances, Michael Richards appearances, Jason Alexander appearances, Seinfeld discussion Forum, Seinfeld Where are they Now? Seinlanguage Newsletter, Popular Seinfeld Lists, Seinfeld episode standup, Seinfeld episode guide, Seinfeld fan fiction. Seinfeld content all on one domain. Seinology.com enjoy your stay.</font></td>
+				</tr>
+			</table>
+		
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr height="100">
+				<td class="logo"></td>
+			</tr>
+			<tr><td class="ads" align="center" background=#8694fa>
+				<script type="text/javascript"><!--
+google_ad_client = "pub-1924026976931416";
+google_ad_width = 728;
+google_ad_height = 90;
+google_ad_format = "728x90_as";
+google_ad_type = "text";
+google_ad_channel = "";
+google_color_border = "FFFFFF";
+google_color_bg = "8694fa";
+google_color_link = "0000FF";
+google_color_text = "000000";
+google_color_url = "002E3F";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></td></tr>
+		</table>
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr>
+				<td valign="top" width="136">
+					<table width="136" border="0" cellspacing="0" cellpadding="0">
+						<tr height="24">
+							<td class="navigation">
+								<div align="center">
+									
+									<b>Navigation</b></div>
+							</td>
+						</tr>
+						<tr height="199">
+							<td class="spacer1" valign="top" width="136" height="199">
+								<div align="center">
+									<font size="-1"><a href="http://www.seinology.com">Home</a><br>
+										<a href="http://board.seinology.com">Forum</a><br>
+										<a href="http://www.seinology.com/av.shtml">Audio/Video</a><br>
+										<a href="http://www.seinology.com/scripts.shtml">Scripts</a><br>
+										<a href="http://www.seinology.com/survivor.shtml">Survivor</a><br>
+										<a href="http://www.seinology.com/fanfics.shtml">Fan Fiction</a><br>
+										<a href="http://www.seinology.com/gallery/">Gallery</a><br>
+										<a href="http://www.seinology.com/newsletter.shtml">Newsletter</a><br>
+										<a href="http://www.seinology.com/lists.shtml">Lists</a><br>
+										<a href="http://www.seinology.com/epguide.shtml">Episode Guide</a><br>
+										<a href="http://www.seinology.com/links.shtml">Links</a><br>
+										<a href="http://www.seinology.com/faqother.shtml">Faq + others</a><br>
+										<a href="http://www.seinology.com/legal.shtml">Legal</a></font></div>
+							</td>
+						</tr>
+						
+						<tr>
+							<td class="nav2" width="136">
+							<div align="center"><b>Search</b></div></td>
+						</tr>
+						<tr>
+							<td class="spacer1" width="136" valign="top"><div align="center"><form method="get" action="http://www.seinology.com/search/search.cgi">
+<p><label for="fdse_Match">Match</label><br>
+<select name="Match" id="fdse_Match" size="1">
+<option value="1">All</option>
+<option value="0">Any</option>
+<option value="2">Phrase</option>
+</select></p>
+<p><label for="fdse_Realm">Where?</label><br>
+<select name="Realm" id="fdse_Realm" size="1">
+<option selected="selected" value="All">EntireSite</option>
+<option value="Ep Guide">Ep Guide</option>
+<option value="Images">Images</option>
+<option value="Lists">Lists</option>
+<option value="Newsletters">Newsletters</option>
+<option value="Scripts">Scripts</option>
+<option value="Notes..Nothing">Notes..Nothing</option>
+</select></p>
+<p><input type="text" name="Terms" size="14" id="fdse_Terms"><br>
+<input type="submit" class="submit" name="submitButtonName" value="Search"></p>
+</div></form></td>
+						</tr>
+						<tr><td class="bottom" width="136" height="10" valign="top">
+						</td>
+						</tr>
+					</table>
+				</td>
+				<td width="4"></td>
+				<td valign="top" width="645">
+					<table width="645" border="0" cellspacing="0" cellpadding="0">
+						<tr height="18">
+							<td width="645" height="35" class="bar">
+								<div align="center">
+									<b><font size="+2" color="black">Script</font></b></div>
+							</td>
+						</tr>
+						<tr height="362">
+							<td class="spacer2" valign="top" width="645" height="362">
+
+						<p><font size="-2">Episode 116 - The Soup Nazi<br>
+							
+						pc: 706, season 7, episode 6<br>
+							
+						Broadcast date: November 2, 1995<br>
+							<br>
+							
+						Written by Spike Feresten<br>
+							
+						Directed by Andy Ackerman<br>
+							<br>
+							
+						-------------------------------------------------------------------------------<br>
+							<br>
+							
+						The Cast<br>
+							
+						Regulars:<br>
+							
+						Jerry Seinfeld .......................&nbsp; Jerry Seinfeld<br>
+							
+						Jason Alexander ..................&nbsp; George Costanza<br>
+							
+						Julia Louis-Dreyfus .............&nbsp; Elaine Benes<br>
+							
+						Michael Richards .................&nbsp; Cosmo Kramer<br>
+							<br>
+							
+						Guest Stars:<br>
+							<br>
+							
+						Alexandra Wentworth ........ Sheila<br>
+							
+						Larry Thomas ..................... Soup Nazi<br>
+							
+						John Paragon ...................... Ray<br>
+							
+						Yul Vazquez ........................ Bob<br>
+							
+						Thom Barry ......................... Super<br>
+							
+						Vince Melocchi .................... Furniture Guy<br>
+							
+						Ana Gasteyer ..................... Woman<br>
+							
+						Cedric Duplechain .............. Customer<br>
+							
+						Mike Michaud .................... Customer<br>
+							
+						rc: Wayne Knight ............... Newman<br>
+							
+						rc: Heidi Swedberg ............ Susan Biddle Ross<br>
+							
+						rc:&nbsp; Steve Hytner ................ Kenny Bania<br>
+							<br>
+							
+						==================================================================<br>
+							<br>
+							
+						GEORGE: All right. So, what theatre you wanna go to tonight? We got 61st and 3rd or 84th and Broadway.<br>
+							<br>
+							
+						JERRY: Which one you wanna go to shmoopy?<br>
+							<br>
+							
+						SHEILA: You called me shmoppy. You're a shmoopy.<br>
+							<br>
+							
+						JERRY: You're a shmoopy!<br>
+							<br>
+							
+						SHEILA: You're a shmoopy!<br>
+							<br>
+							
+						JERRY: You're a shmoopy!<br>
+							<br>
+							
+						GEORGE: All right, shmoopies...what's it gonna be? Pick a theater.<br>
+							<br>
+							
+						JERRY: Uh,..we'll go to 3rd Avenue. So, can you come with us for lunch to the soup place?<br>
+							<br>
+							
+						SHEILA: No. You have a good lunch. But I'll meet you back here for the movie.<br>
+							<br>
+							
+						GEORGE: Hey.<br>
+							<br>
+							
+						ELAINE: Hey.<br>
+							<br>
+							
+						SHEILA: Hi Elaine.<br>
+							<br>
+							
+						ELAINE: Hi Sheila.<br>
+							<br>
+							
+						JERRY: All right, then. I'll see you later.<br>
+							<br>
+							
+						SHEILA: Bye shmoopy.<br>
+							<br>
+							
+						JERRY: Bye shmoopy.<br>
+							<br>
+							
+						ELAINE: Okay. We ready to go?<br>
+							<br>
+							
+						GEORGE: Yes. Please. Please, let's go.<br>
+							<br>
+							
+						ELAINE: Boy, I'm in the mood for a cheeseburger.<br>
+							<br>
+							
+						JERRY: No. We gotta go to the soup place.<br>
+							<br>
+							
+						ELAINE: What soup place?<br>
+							<br>
+							
+						GEORGE: Oh, there's a soup stand, Kramer's been going there.<br>
+							<br>
+							
+						JERRY: He's always raving. I finally got a chance to go there the other day, and I tell you this, you will be stunned.<br>
+							<br>
+							
+						ELAINE: Stunned by soup?<br>
+							<br>
+							
+						JERRY: You can't eat this soup standing up, your knees buckle.<br>
+							<br>
+							
+						ELAINE: Huh. All right. Come on.<br>
+							<br>
+							
+						JERRY: There's only one caveat -- the guy who runs the place is a little temperamental, especially about the ordering procedure. He's secretly referred to as the Soup Nazi.<br>
+							<br>
+							
+						ELAINE: Why? What happens if you don't order right?<br>
+							<br>
+							
+						JERRY: He yells and you don't get your soup.<br>
+							<br>
+							
+						ELAINE: What?<br>
+							<br>
+							
+						JERRY: Just follow the ordering procedure and you will be fine.<br>
+							<br>
+							
+						GEORGE: All right. All right. Let's - let's go over that again.<br>
+							<br>
+							
+						JERRY: All right. As you walk in the place move immediately to your right.<br>
+							<br>
+							
+						ELAINE: What?<br>
+							<br>
+							
+						JERRY: The main thing is to keep the line moving.<br>
+							<br>
+							
+						GEORGE: All right. So, you hold out your money, speak your soup in a loud, clear voice, step to the left and receive.<br>
+							<br>
+							
+						JERRY: Right. It's very important not to embellish on your order. No extraneous comments. No questions. No compliments.<br>
+							<br>
+							
+						ELAINE: Oh, boy, I'm really scared!<br>
+							<br>
+							
+						JERRY: Elaine.<br>
+							<br>
+							
+						ELAINE: All right. Jerry, that's enough now about the Soup Nazi. Whoa! Wow! Look at this. You know what this is? This is an antique armoire. Wow! It's French. Armoire.<br>
+							<br>
+							
+						JERRY: Ar-moire.<br>
+							<br>
+							
+						ELAINE: How much is this?<br>
+							<br>
+							
+						FURNITURE GUY: I was asking 250, but you got a nice face. 2 even.<br>
+							<br>
+							
+						ELAINE: Huh? Ha. 200. You know, I've always wanted one of these things.<br>
+							<br>
+							
+						JERRY: He gave you the nice face discount.<br>
+							<br>
+							
+						ELAINE: Yeah. All right. You guys go ahead.<br>
+							<br>
+							
+						JERRY: What about the soup?<br>
+							<br>
+							
+						ELAINE: I'm getting an armoire, Jerry.<br>
+							<br>
+							
+						JERRY: [in French accent] Pardon.<br>
+							<br>
+							
+						GEORGE: This line is huge.<br>
+							<br>
+							
+						JERRY: It's like this all the time.<br>
+							<br>
+							
+						GEORGE: Isn't that that Bania guy?<br>
+							<br>
+							
+						JERRY: Oh, no. It is. Just be still.<br>
+							<br>
+							
+						GEORGE: Whoop! Too late. I think he picked up the scent.<br>
+							<br>
+							
+						BANIA: Hey, Jerry! I didn't know you liked soup.<br>
+							<br>
+							
+						JERRY: Hard to believe.<br>
+							<br>
+							
+						BANIA: This guy makes the best soup in the city, Jerry. The best. You know what they call him? Soup Nazi.<br>
+							<br>
+							
+						JERRY: Shhhhh! All right, Bania, I - I'm not letting you cut in line.<br>
+							<br>
+							
+						BANIA: Why not?<br>
+							<br>
+							
+						JERRY: Because if he catches us, we'll never be able to get soup again.<br>
+							<br>
+							
+						BANIA: Okay. Okay.<br>
+							<br>
+							
+						GEORGE: Medium turkey chili.<br>
+							<br>
+							
+						JERRY: Medium crab bisque.<br>
+							<br>
+							
+						GEORGE: I didn't get any bread.<br>
+							<br>
+							
+						JERRY: Just forget it. Let it go.<br>
+							<br>
+							
+						GEORGE: Um, excuse me, I - I think you forgot my bread.<br>
+							<br>
+							
+						SOUP NAZI: Bread -- $2 extra.<br>
+							<br>
+							
+						GEORGE: $2? But everyone in front of me got free bread.<br>
+							<br>
+							
+						SOUP NAZI: You want bread?<br>
+							<br>
+							
+						GEORGE: Yes, please.<br>
+							<br>
+							
+						SOUP NAZI: $3!<br>
+							<br>
+							
+						GEORGE: What?<br>
+							<br>
+							
+						SOUP NAZI: No soup for you! [snaps fingers]<br>
+							<br>
+							
+						(cahsier takes George's soup and gives him back his money)<br>
+							<br>
+							
+						ELAINE: What do you mean I can't bring in here? I live here.<br>
+							<br>
+							
+						SUPER: Its Sunday, Elaine. There's no moving on Sunday. That's the rule.<br>
+							<br>
+							
+						ELAINE: But I didn't know, Tom. I g -- can't you just make an exception? Please. I've got a nice face.<br>
+							<br>
+							
+						SUPER: Tomorrow, okay? You can move it in tommorrow. I'll even give you a hand, all right?<br>
+							<br>
+							
+						ELAINE: Ohh! Well, you're just gonna have to hold this for me.<br>
+							<br>
+							
+						FURNITURE GUY: I'm a guy on the sidewalk. I don't have layaway.<br>
+							<br>
+							
+						ELAINE: Oh, no...please don't go. Please - please don't walk away.<br>
+							<br>
+							
+						JERRY: Oh, man. Ohh! This is fantastic. How does he do it?<br>
+							<br>
+							
+						GEORGE: You know, I don't see how you can sit there eating that and not even offer me any?<br>
+							<br>
+							
+						JERRY: I gave you a taste. What do you want?<br>
+							<br>
+							
+						GEORGE: Why can't we share?<br>
+							<br>
+							
+						JERRY: I told you not to say anything. You can't go in there, brazenly flaunt the rules and then think I'm gonna share with you!<br>
+							<br>
+							
+						GEORGE: Do you hear yourself?<br>
+							<br>
+							
+						JERRY: I'm sorry. This is what comes from living under a Nazi regime.<br>
+							<br>
+							
+						GEORGE: Well, I gotta go back there and try again. Hi Sheila.<br>
+							<br>
+							
+						SHEILA: Hi. Hi shmoopy.<br>
+							<br>
+							
+						JERRY: Hi shmoopy.<br>
+							<br>
+							
+						SHEILA: No, you're a shmoopy!<br>
+							<br>
+							
+						JERRY: You're a shmoopy!<br>
+							<br>
+							
+						GEORGE: I'm going.<br>
+							<br>
+							
+						JERRY: Hey, listen, so we'll meet you and Susan at the movie tonight?<br>
+							<br>
+							
+						GEORGE: You know what? I changed my mind. I, uh, I don't think so.<br>
+							<br>
+							
+						JERRY: Why?<br>
+							<br>
+							
+						GEORGE: I just don't feel like it anymore.<br>
+							<br>
+							
+						JERRY: Just like that?<br>
+							<br>
+							
+						GEORGE: Just like that.<br>
+							<br>
+							
+						SHEILA: Boy, he's a weird guy, isn't he?<br>
+							<br>
+							
+						KRAMER: Hey.<br>
+							<br>
+							
+						JERRY: Hey.<br>
+							<br>
+							
+						KRAMER: [taking Jerry's couch cushion] Yeah.<br>
+							<br>
+							
+						JERRY: Hey. Hey. Hey. Hey. Hey. Hey. Hey. Wha -- what are you doing?<br>
+							<br>
+							
+						KRAMER: Yeah. Elaine, she has to leave her armoire on the street all night...I'm gonna guard it for her. I need something to sit on.<br>
+							<br>
+							
+						JERRY: Well, sit on one of your couch cushions.<br>
+							<br>
+							
+						KRAMER: Yeah, but this is so nice and thick. Ahoy there!<br>
+							<br>
+							
+						ELAINE: Oh, Kramer! Thank God. I really appreciate you doing this.<br>
+							<br>
+							
+						KRAMER: Yeah. Well, you ask for it, you got it.<br>
+							<br>
+							
+						ELAINE: Do you need anything?<br>
+							<br>
+							
+						KRAMER: Well, a bowl of muligatawny would hit the spot.<br>
+							<br>
+							
+						ELAINE: Mulligatawny?<br>
+							<br>
+							
+						KRAMER: Yeah. It's an Indian soup. It's simmered to perfection by one of the great soup artisans in the modern era.<br>
+							<br>
+							
+						ELAINE: Oh! Who? The Soup Nazi?<br>
+							<br>
+							
+						KRAMER: He's not a Nazi. He just happens to be a little eccentric. Most geniuses are.<br>
+							<br>
+							
+						ELAINE: All right. I'll be back.<br>
+							<br>
+							
+						KRAMER: Wait a second. You don't even know how to order.<br>
+							<br>
+							
+						ELAINE: Oh, no. No. No. No. I got it.<br>
+							<br>
+							
+						KRAMER: No. No, Elaine!<br>
+							<br>
+							
+						ELAINE: Hey, I got it. Hey. Didn't you already get soup?<br>
+							<br>
+							
+						GEORGE: No. I didn't get it.<br>
+							<br>
+							
+						ELAINE: Why? What happened?<br>
+							<br>
+							
+						GEORGE: I made a mistake.<br>
+							<br>
+							
+						ELAINE: [laughing]<br>
+							<br>
+							
+						GEORGE: All right. Well, we'll see what happens to you.<br>
+							<br>
+							
+						ELAINE: Yeah. No. Listen, George, I am quite certain I'm walking out of there with a bowl of soup.<br>
+							<br>
+							
+						GEORGE: Yeah. Hey, let ask you something. Is it just me, or - or do you find it unbearable to be around Jerry and that girl?<br>
+							<br>
+							
+						ELAINE: Oh, I know! It is awful!<br>
+							<br>
+							
+						GEORGE: Why do they have to do that in front of people?<br>
+							<br>
+							
+						ELAINE: I don't know.<br>
+							<br>
+							
+						GEORGE: What is that with the shmoopy?<br>
+							<br>
+							
+						ELAINE: Ohh!<br>
+							<br>
+							
+						GEORGE: The shmoopy, shmoopy, shmoopy, shmmopy, shmoopy!<br>
+							<br>
+							
+						ELAINE: Ohh! Stop it! I know.<br>
+							<br>
+							
+						GEORGE: I had to listen to a five minute discussion on which one is actually called shmoopy.<br>
+							<br>
+							
+						ELAINE: Ugh!<br>
+							<br>
+							
+						GEORGE: And I cancelled plans to go to the movies with them tonight.<br>
+							<br>
+							
+						ELAINE: You know, we should say something.<br>
+							<br>
+							
+						GEORGE: You know, we absolutely should.<br>
+							<br>
+							
+						ELAINE: I mean, why does he do that? Doesn't he know what a huge turnoff that is?<br>
+							<br>
+							
+						GEORGE: I don't know. He can be so weird sometimes.<br>
+							<br>
+							
+						ELAINE: Yeah.<br>
+							<br>
+							
+						GEORGE: I still haven't figured him out.<br>
+							<br>
+							
+						ELAINE: No. Me neither.<br>
+							<br>
+							
+						GEORGE: All right. Shh! I gotta focus. I'm shifting into soup mode.<br>
+							<br>
+							
+						ELAINE: Oh, God!<br>
+							<br>
+							
+						GEORGE: Good afternoon. One large crab bisque to go. Bread. Beautiful.<br>
+							<br>
+							
+						SOUP NAZI: You're pushing your luck little man.<br>
+							<br>
+							
+						GEORGE: Sorry. Thank you.<br>
+							<br>
+							
+						ELAINE: Hi there. Um, uh -- [drumming on countertop] Oh! Oh! Oh! One mulligatawny and, um.... what is that right there? Is that lima bean?<br>
+							<br>
+							
+						SOUP NAZI: Yes.<br>
+							<br>
+							
+						ELAINE: Never been a big fan. [coughing] Um..you know what? Has anyone ever told you you look exactly like Al Pacino? You know, &quot; Scent Of A Woman.&quot; Who-ah! Who-ah!<br>
+							<br>
+							
+						SOUP NAZI: Very good. Very good.<br>
+							<br>
+							
+						ELAINE: Well, I --<br>
+							<br>
+							
+						SOUP NAZI: You know something?<br>
+							<br>
+							
+						ELAINE: Hmmm?<br>
+							<br>
+							
+						SOUP NAZI: No soup for you!<br>
+							<br>
+							
+						ELAINE: What?<br>
+							<br>
+							
+						SOUP NAZI: Come back one year! Next!<br>
+							<br>
+							
+						RAY: Look at this.<br>
+							<br>
+							
+						BOB: It's an antique.<br>
+							<br>
+							
+						RAY: It's all hand made and I love the in-lay.<br>
+							<br>
+							
+						BOB: Yes. Yes. me, too. Ay, it's gorgeous. Completely. Pick it up. No. No. Pick it up from the bottom over there.<br>
+							<br>
+							
+						KRAMER: Wait. Wait. Wait. Wait. What are you doing?<br>
+							<br>
+							
+						BOB: What does it look like we're doing? We're taking this.<br>
+							<br>
+							
+						KRAMER: You can't take this. This belongs to a friend of mine.<br>
+							<br>
+							
+						BOB: Look, you wanna get hurt?<br>
+							<br>
+							
+						KRAMER: Huh?<br>
+							<br>
+							
+						BOB: I don't think you wanna get hurt. Because if you wanna get hurt I can hurt you. Now, just back off.<br>
+							<br>
+							
+						RAY: Bob.<br>
+							<br>
+							
+						BOB: Just pick it up.<br>
+							<br>
+							
+						KRAMER: What is this, huh?<br>
+							<br>
+							
+						BOB: You have some kind of problem here? What is it you not understanding? We taking the armoire and that's all there is to it. Okay?<br>
+							<br>
+							
+						ELAINE: I mean, is he allowed to do this? It's discrimination! I'm gonna call the states' attorney office. I really am.<br>
+							<br>
+							
+						GEORGE: Oh, this is fabulous. My God Elaine, you have to taste this.<br>
+							<br>
+							
+						ELAINE: All right. All right. Give me a tsate. Mmm! Oh God, I gotta sit down. What happened? Where's my armoire?<br>
+							<br>
+							
+						KRAMER: Well, b -- it was stolen.<br>
+							<br>
+							
+						ELAINE: Wha--?<br>
+							<br>
+							
+						KRAMER: These street toughs, they robbed me.<br>
+							<br>
+							
+						ELAINE: Street toughs took my armoire?<br>
+							<br>
+							
+						KRAMER: Yeah. It was very frightening. My life was in danger. You should've seen the way they talked to me.<br>
+							<br>
+							
+						ELAINE: I can't believe this!<br>
+							<br>
+							
+						KRAMER: Well, where's the soup?<br>
+							<br>
+							
+						ELAINE: Wha -- the Soup Nazi threw me out.<br>
+							<br>
+							
+						KRAMER: Oh...yeah!<br>
+							<br>
+							
+						JERRY: What are you gonna get?<br>
+							<br>
+							
+						SHEILA: I'll decide at the last minute.<br>
+							<br>
+							
+						JERRY: You better decide, sister. You're on deck. Sheila!<br>
+							<br>
+							
+						(Soup Nazi pounding on countertop)<br>
+							<br>
+							
+						JERRY: Uh-oh.<br>
+							<br>
+							
+						SOUP NAZI: Hey, what is this? You're kissing in my line? Nobody kisses in my line!<br>
+							<br>
+							
+						SHEILA: I can kiss anywhere I want to.<br>
+							<br>
+							
+						SOUP NAZI: You just cost yourself a soup!<br>
+							<br>
+							
+						SHEILA: How dare you? Come on, Jerry, we're leaving. Jerry?<br>
+							<br>
+							
+						JERRY: Do I know you?<br>
+							<br>
+							
+						ELAINE: So, essentially, you chose soup over a woman?<br>
+							<br>
+							
+						JERRY: It was a bisque.<br>
+							<br>
+							
+						ELAINE: Yeah. You know what I just realized? Suddenly, George has become much more normal than you.<br>
+							<br>
+							
+						JERRY: Really?<br>
+							<br>
+							
+						ELAINE: Yeah. Come on. I mean, think about it. He's engaged to be married. Your top priority is soup.<br>
+							<br>
+							
+						JERRY: Have you tastes the soup?<br>
+							<br>
+							
+						ELAINE: Yeah. All right. You made the right decision.<br>
+							<br>
+							
+						JERRY: See, the way I figure it, it's much easier to patch things up with Sheila than with the Soup Nazi.<br>
+							<br>
+							
+						JERRY: Hey.<br>
+							<br>
+							
+						KRAMER: Yeah.<br>
+							<br>
+							
+						ELAINE: Hey.<br>
+							<br>
+							
+						KRAMER: Yeah.<br>
+							<br>
+							
+						JERRY: Oh, thanks.<br>
+							<br>
+							
+						ELAINE: There he is.<br>
+							<br>
+							
+						KRAMER: Elaine, I'm really sorry about the armoire.<br>
+							<br>
+							
+						ELAINE: Yeah. I know. Me, too.<br>
+							<br>
+							
+						JERRY: So, did these thieves want any money?<br>
+							<br>
+							
+						KRAMER: No.<br>
+							<br>
+							
+						JERRY: They just wanted the armoire?<br>
+							<br>
+							
+						KRAMER: Yeah. They were..quite taken with it.<br>
+							<br>
+							
+						(interom buzzes)<br>
+							<br>
+							
+						JERRY: Yeah?<br>
+							<br>
+							
+						GEORGE: Hup! Hup!<br>
+							<br>
+							
+						JERRY: Hey, have you noticed George is acting a little strange lately?<br>
+							<br>
+							
+						ELAINE: No. In what way?<br>
+							<br>
+							
+						JERRY: I don't know. A lot of attitude, like he's better than me, or something.<br>
+							<br>
+							
+						ELAINE: I don't think George has ever thought he's better than anybody.<br>
+							<br>
+							
+						GEORGE: Hello.<br>
+							<br>
+							
+						JERRY: Hello.<br>
+							<br>
+							
+						KRAMER: Hey.<br>
+							<br>
+							
+						GEORGE: Hello.<br>
+							<br>
+							
+						ELAINE: Hello.<br>
+							<br>
+							
+						GEORGE: Were you just talking about me? What's going on?<br>
+							<br>
+							
+						JERRY: Absolutely not.<br>
+							<br>
+							
+						GEORGE: Something's going on here.<br>
+							<br>
+							
+						KRAMER: All right, [claps hands] I'm gonna go get some soup.<br>
+							<br>
+							
+						ELAINE: One of these days that guy is gonna get his.<br>
+							<br>
+							
+						GEORGE: So, how was the movie?<br>
+							<br>
+							
+						JERRY: Aw, we didn't go. Sheila and I are kind of on the outs.<br>
+							<br>
+							
+						GEORGE: Oh, yeah?<br>
+							<br>
+							
+						JERRY: Yeah. Wha - wha - what are you, happy?<br>
+							<br>
+							
+						GEORGE: Happy? Why should I be happy?<br>
+							<br>
+							
+						JERRY: I don't know, but you look like you're happy.<br>
+							<br>
+							
+						GEORGE: Why should I care?<br>
+							<br>
+							
+						JERRY: You can't fool me. Don't insult me, George because I know when you're happy.<br>
+							<br>
+							
+						GEORGE: All right. I am happy, and I'll tell ya why -- because the two of you were making me and every one of your friends sick! Right, Elaine?<br>
+							<br>
+							
+						(Elaine sneaks out of Jerry's apartment)<br>
+							<br>
+							
+						JERRY: Is that so?<br>
+							<br>
+							
+						GEORGE: Yeah. Yeah. With all that kissing and the shmoopy, shmoopy, shmoopy, shmoopy, shmoopy out in public like that. It's disgusting!<br>
+							<br>
+							
+						JERRY: Disgusting?<br>
+							<br>
+							
+						GEORGE: People who do that should be arrested.<br>
+							<br>
+							
+						JERRY: Well, I guess I have all the more reason to get back with her.<br>
+							<br>
+							
+						GEORGE: Ye - yeah. And we had a pact, you know.<br>
+							<br>
+							
+						JERRY: What?<br>
+							<br>
+							
+						GEORGE: You shook my hand in that coffee shop.<br>
+							<br>
+							
+						JERRY: You're still with the pact?<br>
+							<br>
+							
+						GEORGE: Mmm-hmm. You reneged.<br>
+							<br>
+							
+						JERRY: All I did was shake your hand.<br>
+							<br>
+							
+						GEORGE: Ah-ha!<br>
+							<br>
+							
+						KRAMER: And then they just ran off with the armoire, just like that.<br>
+							<br>
+							
+						SOUP NAZI: Ohh! This city.<br>
+							<br>
+							
+						NEWMAN: One large jambalaya, please.<br>
+							<br>
+							
+						SOUP NAZI: So, continue.<br>
+							<br>
+							
+						KRAMER: Well, my friend is awful disappointed is all. You know, she's very emotional.<br>
+							<br>
+							
+						NEWMAN: Thank you. [inhaling deeply] Jambalaya!<br>
+							<br>
+							
+						SOUP NAZI: All right, now listen to me. You have been a good friend. I have an armoire in my basement. If you want to pick it up, you're welcome to it. So, take it, it's yours.<br>
+							<br>
+							
+						KRAMER: How can I possibly thank you?<br>
+							<br>
+							
+						SOUP NAZI: You are the only one who understands me.<br>
+							<br>
+							
+						KRAMER: You suffer for your soup.<br>
+							<br>
+							
+						SOUP NAZI: Yes. That is right.<br>
+							<br>
+							
+						KRAMER: You demand perfection from yourself, from your soup.<br>
+							<br>
+							
+						SOUP NAZI: How can I tolerate any less from my customer?<br>
+							<br>
+							
+						CUSTOMER: Uh, gazpacho, por favor.<br>
+							<br>
+							
+						SOUP NAZI: Por favor?<br>
+							<br>
+							
+						CUSTOMER: Um, I'm part Spanish.<br>
+							<br>
+							
+						SOUP NAZI: Adios muchacho!<br>
+							<br>
+							
+						KRAMER: Git.<br>
+							<br>
+							
+						JERRY: It was stupid of me.<br>
+							<br>
+							
+						SHEILA: Well, it was very insulting.<br>
+							<br>
+							
+						JERRY: No. I know. I - I was really sort of half-kidding.<br>
+							<br>
+							
+						SHEILA: Well, behind every joke there's some truth.<br>
+							<br>
+							
+						JERRY: What about that Bavarian cream pie joke I told you? There's no truth to that. Nobody with a terminal illness goes from the United States to Europe for a piece of Bavarian cream pie and then when they get there and they don't have it he says &quot; Aw, I'll just have some coffee.&quot; There's no truth to that.<br>
+							<br>
+							
+						SHEILA: Well, I guess you're right.<br>
+							<br>
+							
+						JERRY: So, am I forgiven, shmoopy?<br>
+							<br>
+							
+						SHEILA: Yes, shmoopy.<br>
+							<br>
+							
+						JERRY: Aw!<br>
+							<br>
+							
+						SUSAN: Hey, Jerry!<br>
+							<br>
+							
+						JERRY: Oh, hi Susan, George. You remember Sheila.<br>
+							<br>
+							
+						GEORGE: Oh, yes. Hello.<br>
+							<br>
+							
+						SHEILA: Hello. Won't you join us?<br>
+							<br>
+							
+						GEORGE: No, thanks.<br>
+							<br>
+							
+						SUSAN: Of course.<br>
+							<br>
+							
+						GEORGE: Yes. Well -- So, uh, sit on the same side at a booth, huh?<br>
+							<br>
+							
+						JERRY: Yeah. That's right. You got a problem?<br>
+							<br>
+							
+						GEORGE: I, uh, just think it's a little unusual. Two people to sit on one side...and leave the other side empty.<br>
+							<br>
+							
+						JERRY: Well, we're changing the rules.<br>
+							<br>
+							
+						GEORGE: Ahh. Good for you.<br>
+							<br>
+							
+						SUSAN: Aw, what are you getting George?<br>
+							<br>
+							
+						GEORGE: I don't know, honey. What do you want to get? [in babying voice] I want you to get anything you want...'cause I love you so much. I want you to be happy. Okay, sweetie?<br>
+							<br>
+							
+						SUSAN: Oh, George, you're so sweet.<br>
+							<br>
+							
+						GEORGE: Well, I could be a little sweetie tweetie weetie weetie.<br>
+							<br>
+							
+						SUSAN: Aww!<br>
+							<br>
+							
+						JERRY: What about you, shmoopy? How 'bout a little tuna? You want a little tuna fishy?<br>
+							<br>
+							
+						SHEILA: Yeah.<br>
+							<br>
+							
+						JERRY: Yum yum little tuna fishy?<br>
+							<br>
+							
+						GEORGE: Come here.<br>
+							<br>
+							
+						[George &amp; Susan begin making out; Jerry &amp; Sheila begin making out in order to keep up]<br>
+							<br>
+							
+						KRAMER: And..voila!<br>
+							<br>
+							
+						ELAINE: [gasps]<br>
+							<br>
+							
+						KRAMER: Yeah.<br>
+							<br>
+							
+						ELAINE: Oh! Oh, I love it! I absolutely love it!<br>
+							<br>
+							
+						KRAMER: Yeah. Did the K Man do it or did the K Man do it?<br>
+							<br>
+							
+						ELAINE: The K Man did it!<br>
+							<br>
+							
+						KRAMER: Yeah!<br>
+							<br>
+							
+						ELAINE: [laughing] How much did you pay for this thing?<br>
+							<br>
+							
+						KRAMER: How 'bout zero?<br>
+							<br>
+							
+						ELAINE: What?<br>
+							<br>
+							
+						KRAMER: Yeah.<br>
+							<br>
+							
+						ELAINE: What? Who's was it? Where'd you get it?<br>
+							<br>
+							
+						KRAMER: I'll tell ya where I got it. I got it from the guy you so callously refer to as the Soup Nazi.<br>
+							<br>
+							
+						ELAINE: Get out!<br>
+							<br>
+							
+						[Elaine pushes on Kramer's chest, causing in to fall backwards through her swinging door]<br>
+							<br>
+							
+						ELAINE: The Soup Nazi gave it to you?<br>
+							<br>
+							
+						KRAMER: Yeah.<br>
+							<br>
+							
+						ELAINE: Why?<br>
+							<br>
+							
+						KRAMER: Well, I told him the whole story and he just let me have it. Wha -- Yeah. He's a wonderful man.<br>
+							<br>
+							
+						ELAINE: [gasps]<br>
+							<br>
+							
+						KRAMER: Yeah. Well, a little bit misunderstood but, uh....<br>
+							<br>
+							
+						ELAINE: Well, I'm just gonna go down there and personally thank him. I mean, I had this guy all wrong. This is wonderful!<br>
+							<br>
+							
+						KRAMER: Yeah. Well, he's a dear.<br>
+							<br>
+							
+						GEORGE: How much tip do you leave on $8.15?<br>
+							<br>
+							
+						SUSAN: You know sweetie, I just want you to know that I was so proud of you today expressing your feelings so freely in front of Jerry and all. Just knowing that you're not afraid of those things is such a great step forward in our relationship.<br>
+							<br>
+							
+						GEORGE: Huh?<br>
+							<br>
+							
+						SUSAN: [in babying voice] Because you love your little kiki don't you?<br>
+							<br>
+							
+						CUSTOMER: How is he today?<br>
+							<br>
+							
+						BANIA: I think he's in a good mood.<br>
+							<br>
+							
+						ELAINE: Hi. You know, Kramer gave me the armoire and it is so beautiful. I'm mean, I just can't tell you how much I appreciate it.<br>
+							<br>
+							
+						SOUP NAZI: You? If I knew it was for you, I never would have given it to him in the first place! I would have taken a hatchet and smashed it to pieces! Now, who wants soup? Next! Speak up!<br>
+							<br>
+							
+						JERRY: I'm heading over to Elaine's.<br>
+							<br>
+							
+						KRAMER: Oh. Jerry, those are the guys that mugged me for the armoire.<br>
+							<br>
+							
+						JERRY: Those two?<br>
+							<br>
+							
+						KRAMER: Yeah.<br>
+							<br>
+							
+						JERRY: Are you sure?<br>
+							<br>
+							
+						KRAMER: Yeah. That's them.<br>
+							<br>
+							
+						JERRY: Well, let's confront 'em.<br>
+							<br>
+							
+						KRAMER: No. No. No. No. Let's get a cop.<br>
+							<br>
+							
+						JERRY: There's no cops around. They're gonna leave. Come on.<br>
+							<br>
+							
+						KRAMER: No!<br>
+							<br>
+							
+						JERRY: Let's go.<br>
+							<br>
+							
+						BOB: Oh, wow look, that one is gorgeous. I would just kill for that one.<br>
+							<br>
+							
+						RAY: Oh, not in blue. Blue does not go with all.<br>
+							<br>
+							
+						BOB: Oh, please. Do you know what you're talking about? Because I don't think you know what you're talking about. Take a look at that.<br>
+							<br>
+							
+						KRAMER: Excuse me.<br>
+							<br>
+							
+						RAY: Are you talking to me?<br>
+							<br>
+							
+						KRAMER: Uh, well, uh, we --<br>
+							<br>
+							
+						RAY: I said, are you talking to me?<br>
+							<br>
+							
+						BOB: Well, maybe, he was talking to me. Was you talking to him? Because you was obviously talking to one of us. So what is it? Who?! Who was you talking to?!<br>
+							<br>
+							
+						KRAMER: Well, wha -- I, uh -- uh, we were kind of, uh, talking to each other, weren't we?<br>
+							<br>
+							
+						[Jerry &amp; Kramer turn around and run away]<br>
+							<br>
+							
+						ELAINE: I mean, you know, I've never been so insulted in my entire life. There's something really wrong with this man. He is a Soup Nazi. What? What is that?<br>
+							<br>
+							
+						JERRY: I don't know. &quot; 5 cups chopped Porcine mushrooms, half a cup of olive oil, 3 pounds of celery, chopped parsley...&quot;<br>
+							<br>
+							
+						ELAINE: Let me see this. [gasps] You know what this is? This is a recipe for soup, and look at this. There are like thirty different recipes. These are his recipes!<br>
+							<br>
+							
+						JERY: So?<br>
+							<br>
+							
+						ELAINE: So? So, his secret's out. Don't you see? I could give these to every restaurant in town. I could have 'em published! I could - I could drop fliers from a plane above the city.<br>
+							<br>
+							
+						JERRY: Wait a second, Elaine. Where do you think you're going?<br>
+							<br>
+							
+						ELAINE: What do you care?<br>
+							<br>
+							
+						JERRY: Elaine, I don't want you causing any trouble down at that soup stand. I happen to love that soup.<br>
+							<br>
+							
+						ELAINE: Get out of my way, Jerry.<br>
+							<br>
+							
+						JERRY: Elaine, let the man make his soup!<br>
+							<br>
+							
+						ELAINE: Don't make me hurt you, Jerry.<br>
+							<br>
+							
+						SUSAN: Look, they have it in blue...for my baby bluey. Are you my baby bluey?<br>
+							<br>
+							
+						GEORGE: Oh, yes. I - I'm your baby bluey.<br>
+							<br>
+							
+						JERRY: Well. Well.<br>
+							<br>
+							
+						SUSAN: Hi, Jerry.<br>
+							<br>
+							
+						JERRY: Hey, Susan, George.<br>
+							<br>
+							
+						SUSAN: You know, I really like Sheila a lot.<br>
+							<br>
+							
+						JERRY: Oh, really?<br>
+							<br>
+							
+						SUSAN: Mmm-hmm.<br>
+							<br>
+							
+						JERRY: Because we're kind of not seeing each other anymore.<br>
+							<br>
+							
+						SUSAN: Oh, no! That's too bad.<br>
+							<br>
+							
+						JERRY: Yeah. Well, she was very affectionate - which I love. You know I love that - but mentally, we couldn't quite make the connection.<br>
+							<br>
+							
+						GEORGE: Really?<br>
+							<br>
+							
+						JERRY: Yeah. Too bad, 'cause you gotta have the affection - which you obviously have. I think it's great that you're so open with your affections in public. See, we had that.<br>
+							<br>
+							
+						SUSAN: Mmm-hmm.<br>
+							<br>
+							
+						GEORGE: You did?<br>
+							<br>
+							
+						JERRY: Oh, yeah. But the mental thing. But anyway. I'll see ya.<br>
+							<br>
+							
+						GEORGE: Yeah. See ya.<br>
+							<br>
+							
+						SOUP NAZI: Go on! Leave! Get out!<br>
+							<br>
+							
+						WOMAN: But I didn't do anything.<br>
+							<br>
+							
+						SOUP NAZI: Next!<br>
+							<br>
+							
+						ELAINE: Hello.<br>
+							<br>
+							
+						SOUP NAZI: You. You think you can get soup? Please. You're wasting everyone's time.<br>
+							<br>
+							
+						ELAINE: I don't want soup. I can make my own soup. &quot; 5 cups chopped Porcine mushrooms, half a cup of olive oil, 3 pounds celery.&quot;<br>
+							<br>
+							
+						SOUP NAZI: That is my recipe for wild mushroom.<br>
+							<br>
+							
+						ELAINE: Yeah, that's right. I got 'em all. Cold cucumber, corn and crab chowder, mulligatawny.<br>
+							<br>
+							
+						SOUP NAZI: Mulliga...tawny?<br>
+							<br>
+							
+						ELAINE: You're through Soup Nazi. Pack it up. No more soup for you. Next!<br>
+							<br>
+							
+						NEWMAN: [panting] Jerry! Jerry! Jerry!<br>
+							<br>
+							
+						JERRY: What is it?<br>
+							<br>
+							
+						NEWMAN: Something's happened with the Soup Nazi!<br>
+							<br>
+							
+						JERRY: Wha - wha - what's the matter?<br>
+							<br>
+							
+						NEWMAN: Elaine's down there causing all kinds of commotion. Somehow she got a hold of his recipes and she says she's gonna drive him out of business! The Soup Nazi said that now that his recipes are out, he's not gonna make anymore soup! He's moving out of the country, moving to Argentina! No more soup, Jerry! No more for of us!<br>
+							<br>
+							
+						JERRY: Well, where are you going?<br>
+							<br>
+							
+						NEWMAN: He's giving away what's left! I gotta go home and get a big pot!<br>
+							<br>
+							
+						&nbsp;<br>
+							
+						The End</td>
+						</tr>
+						<tr height="6">
+							<td class="bottom2" width="645" height="6"></td>
+						</tr>
+						<tr>
+							<td width="645">
+								<div align="center">
+									<font size="-1">Copyright 2006 seinology.com | All Rights Reserved | Designed by 13erla</font></div>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+		<p></p>
+	</body>
+
+</html>

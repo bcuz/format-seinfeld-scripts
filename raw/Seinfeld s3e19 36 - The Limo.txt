@@ -1,0 +1,1160 @@
+<tdOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+<html>
+
+	<head>
+		<meta http-equiv="content-type" content="text/html;charset=ISO-8859-1">
+		<meta name="description" content="Top Source for Seinfeld">
+		<meta name="keywords" content="seinfeld, sienfeld, Jerry Seinfeld, Julia Louis Dreyfus, Jason Alexander, Michael Richards, Kramer, George, Costanza, Elaine Benes, morty, Larry David">
+		<title>Seinology.com :: Scripts :: 36-The Limo</title>
+	<link rel='stylesheet' href='/stylesheet.css' type='text/css'>
+	</head>
+
+	<body>
+			<table align="center" width="787" border="0" cellspacing="0" cellpadding="0">
+				<tr>
+					<td><font size="-2" color="red">Seinology.com - </font><font size="-3" color="black">Where Seinfeld Content and Accuracy Matter Most. Seinfeld scripts in pdf form, Seinfeld episode video clips, Seinfeld episode audio clips, Jerry Seinfeld appearances, Julia Louis-Dreyfus appearances, Michael Richards appearances, Jason Alexander appearances, Seinfeld discussion Forum, Seinfeld Where are they Now? Seinlanguage Newsletter, Popular Seinfeld Lists, Seinfeld episode standup, Seinfeld episode guide, Seinfeld fan fiction. Seinfeld content all on one domain. Seinology.com enjoy your stay.</font></td>
+				</tr>
+			</table>
+		
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr height="100">
+				<td class="logo"></td>
+			</tr>
+			<tr><td class="ads" align="center" background=#8694fa>
+				<script type="text/javascript"><!--
+google_ad_client = "pub-1924026976931416";
+google_ad_width = 728;
+google_ad_height = 90;
+google_ad_format = "728x90_as";
+google_ad_type = "text";
+google_ad_channel = "";
+google_color_border = "FFFFFF";
+google_color_bg = "8694fa";
+google_color_link = "0000FF";
+google_color_text = "000000";
+google_color_url = "002E3F";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></td></tr>
+		</table>
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr>
+				<td valign="top" width="136">
+					<table width="136" border="0" cellspacing="0" cellpadding="0">
+						<tr height="24">
+							<td class="navigation">
+								<div align="center">
+									
+									<b>Navigation</b></div>
+							</td>
+						</tr>
+						<tr height="199">
+							<td class="spacer1" valign="top" width="136" height="199">
+								<div align="center">
+									<font size="-1"><a href="http://www.seinology.com">Home</a><br>
+										<a href="http://board.seinology.com">Forum</a><br>
+										<a href="http://www.seinology.com/av.shtml">Audio/Video</a><br>
+										<a href="http://www.seinology.com/scripts.shtml">Scripts</a><br>
+										<a href="http://www.seinology.com/survivor.shtml">Survivor</a><br>
+										<a href="http://www.seinology.com/fanfics.shtml">Fan Fiction</a><br>
+										<a href="http://www.seinology.com/gallery/">Gallery</a><br>
+										<a href="http://www.seinology.com/newsletter.shtml">Newsletter</a><br>
+										<a href="http://www.seinology.com/lists.shtml">Lists</a><br>
+										<a href="http://www.seinology.com/epguide.shtml">Episode Guide</a><br>
+										<a href="http://www.seinology.com/links.shtml">Links</a><br>
+										<a href="http://www.seinology.com/faqother.shtml">Faq + others</a><br>
+										<a href="http://www.seinology.com/legal.shtml">Legal</a></font></div>
+							</td>
+						</tr>
+						
+						<tr>
+							<td class="nav2" width="136">
+							<div align="center"><b>Search</b></div></td>
+						</tr>
+						<tr>
+							<td class="spacer1" width="136" valign="top"><div align="center"><form method="get" action="http://www.seinology.com/search/search.cgi">
+<p><label for="fdse_Match">Match</label><br>
+<select name="Match" id="fdse_Match" size="1">
+<option value="1">All</option>
+<option value="0">Any</option>
+<option value="2">Phrase</option>
+</select></p>
+<p><label for="fdse_Realm">Where?</label><br>
+<select name="Realm" id="fdse_Realm" size="1">
+<option selected="selected" value="All">EntireSite</option>
+<option value="Ep Guide">Ep Guide</option>
+<option value="Images">Images</option>
+<option value="Lists">Lists</option>
+<option value="Newsletters">Newsletters</option>
+<option value="Scripts">Scripts</option>
+<option value="Notes..Nothing">Notes..Nothing</option>
+</select></p>
+<p><input type="text" name="Terms" size="14" id="fdse_Terms"><br>
+<input type="submit" class="submit" name="submitButtonName" value="Search"></p>
+</div></form></td>
+						</tr>
+						<tr><td class="bottom" width="136" height="10" valign="top">
+						</td>
+						</tr>
+					</table>
+				</td>
+				<td width="4"></td>
+				<td valign="top" width="645">
+					<table width="645" border="0" cellspacing="0" cellpadding="0">
+						<tr height="18">
+							<td width="645" height="35" class="bar">
+								<div align="center">
+									<b><font size="+2" color="black">Script</font></b></div>
+							</td>
+						</tr>
+						<tr height="362">
+							<td class="spacer2" valign="top" width="645" height="362">
+
+						<p><font size="-2">Episode 36 - The Limo<br>
+							
+						pc: 318, season 3, episode 19<br>
+							
+						Broadcast date: February 26, 1992<br>
+							<br>
+							
+						Written By Larry Charles / Story By Marc Jaffe<br>
+							
+						Directed By Tom Cherones<br>
+							<br>
+							
+						-------------------------------------------------------------------------------<br>
+							<br>
+							
+						The Cast<br>
+							
+						Regulars:<br>
+							
+						Jerry Seinfeld ....................... Jerry Seinfeld<br>
+							
+						Jason Alexander .................. George Costanza<br>
+							
+						Julia Louis-Dreyfus ............. Elaine Benes<br>
+							
+						Michael Richards ................. Kramer<br>
+							<br>
+							
+						Guest Stars:<br>
+							<br>
+							
+						Peter Krause ....................... Tim<br>
+							
+						Suzanne Snyder ................. Eva<br>
+							
+						Jeremy Roberts&nbsp; ................ Chauffeur<br>
+							
+						Jodi Baskerville&nbsp; ................. Herself<br>
+							
+						I.M. Hobson&nbsp; ...................... Businessman<br>
+							
+						Harley Venton&nbsp; ................. Dan<br>
+							
+						Adam Leslie&nbsp; ...................... Man at Protest<br>
+							
+						Norman Brenner&nbsp; ............. Man at Airport<br>
+							
+						Aaron Kanarek&nbsp; ................ Protester #1<br>
+							
+						Ray Glanzmann&nbsp; ............... Protester #2<br>
+							<br>
+							
+						==================================================================<br>
+							<br>
+							
+						[Opening Monologue]<br>
+							<br>
+							
+						Do you think that the people at the airport that run the stores have any idea what the prices are every place else in the world? Or do you think they just feel they have their own little country out there and they can charge anything they want? You're hungry? Tuna sandwich is nine dollars. You don't like it; go back to your own country. I think the whole airport airline complex is a huge scam just to sell the tuna sandwiches. I think that profit is what's supporting the whole air travel industry. I mean think about it; the terminals, the airplanes, it's all just a distraction so that you don't notice the beating that you're taking on the tuna.<br>
+							<br>
+							<br>
+							
+						[George is at the airport]<br>
+							<br>
+							
+						GEORGE: It's all departures. I see nothing but departures. (to the woman beside him) Do you know where the arrivals are?<br>
+							<br>
+							
+						(The woman walks away. George addresses the man standing on the other side.)<br>
+							<br>
+							
+						GEORGE: Excuse me, sir, do you have the time?<br>
+							<br>
+							
+						MAN: There's a clock over there.<br>
+							<br>
+							
+						GEORGE: Where?<br>
+							<br>
+							
+						MAN: (pointing) There.<br>
+							<br>
+							
+						GEORGE: But you have a watch on.<br>
+							<br>
+							
+						MAN: It's right by the escalator.<br>
+							<br>
+							
+						GEORGE: Why don't you just look at your watch?<br>
+							<br>
+							
+						MAN: I told you, it's right over there.<br>
+							<br>
+							
+						GEORGE: Let me see the watch.<br>
+							<br>
+							
+						(George grabs the man's wrist.)<br>
+							<br>
+							
+						MAN: Hey! What are you, some kind of nut?!<br>
+							<br>
+							
+						GEORGE: You know we're living in a society!<br>
+							<br>
+							
+						(Jerry walks up from the ramp.)<br>
+							<br>
+							
+						JERRY: George.<br>
+							<br>
+							
+						GEORGE: Jerry. Jerry.<br>
+							<br>
+							
+						JERRY: Sorry, the flight was delayed, how long've you been waiting?<br>
+							<br>
+							
+						GEORGE: I just got here. My car broke down on the Belt Parkway.<br>
+							<br>
+							
+						JERRY: Oh I can't believe-- why don't you get rid of that piece of junk.<br>
+							<br>
+							
+						GEORGE: One mile from the exit it starts shaking, really violently shaking, like it's having a nervous breakdown. It completely stopped dead.<br>
+							<br>
+							
+						JERRY: So you have no car?<br>
+							<br>
+							
+						GEORGE: No.<br>
+							<br>
+							
+						JERRY: So what good are you?<br>
+							<br>
+							
+						Jerry looks over towards a chauffer holding a sign that says O'BRIEN<br>
+							<br>
+							
+						JERRY: I'll tell you one thing, this chauffeur's gonna be waiting a while, O'Brien's not showing up.<br>
+							<br>
+							
+						GEORGE: How do you know?<br>
+							<br>
+							
+						JERRY: He was in Chicago, the flight was overbooked, wouldn't let him on the plane. He kept screaming how he had to get to Madison Square Garden.<br>
+							<br>
+							
+						GEORGE: We should take his limo.<br>
+							<br>
+							
+						JERRY: Yeah, right.<br>
+							<br>
+							
+						GEORGE: Wait a second. Think about it. He's not showing up. Wait till you see the line of cabs, its like forty-five minutes long. You said he's in Chicago.<br>
+							<br>
+							
+						JERRY: He's definitely in Chicago.<br>
+							<br>
+							
+						GEORGE: Well the guy's just standing there.<br>
+							<br>
+							
+						JERRY: How would we do it?<br>
+							<br>
+							
+						GEORGE: We just go up to him, we say, &quot;We're O'Brien.&quot;<br>
+							<br>
+							
+						JERRY: Maybe he knows O'Brien?<br>
+							<br>
+							
+						GEORGE: No, he doesn't know O'Brien, if he knew O'Brien he wouldn't have a sign. Let's just do it.<br>
+							<br>
+							
+						JERRY: What if we get caught?<br>
+							<br>
+							
+						GEORGE: What's gonna happen? They can't kill us.<br>
+							<br>
+							
+						JERRY: Who's gonna be O'Brien?<br>
+							<br>
+							
+						GEORGE: I'll be O'Brien.<br>
+							<br>
+							
+						JERRY: Who am I?<br>
+							<br>
+							
+						GEORGE: You're you.<br>
+							<br>
+							
+						JERRY: Just me?<br>
+							<br>
+							
+						GEORGE: Yeah.<br>
+							<br>
+							
+						JERRY: Okay.<br>
+							<br>
+							
+						GEORGE: What, you don't want to be you?<br>
+							<br>
+							
+						JERRY: Well if you're gonna be O'Brien, why can't I be somebody?<br>
+							<br>
+							
+						GEORGE: Like who?<br>
+							<br>
+							
+						JERRY: Dylan Murphy.<br>
+							<br>
+							
+						(George mumbles something.)<br>
+							<br>
+							
+						JERRY: What, now you wanna be Dylan Murphy?<br>
+							<br>
+							
+						GEORGE: Well I like Dylan.<br>
+							<br>
+							
+						JERRY: You could be Colin.<br>
+							<br>
+							
+						GEORGE: Colin O'Brien.<br>
+							<br>
+							
+						JERRY: I'm Dylan Murphy.<br>
+							<br>
+							
+						GEORGE: I'm Colin O'Brien.<br>
+							<br>
+							
+						(They walk towards the chauffeur.)<br>
+							<br>
+							
+						GEORGE: Are we really doing this?<br>
+							<br>
+							
+						JERRY: Come on,<br>
+							<br>
+							
+						MAN: (to George) Hey, do you have the time?<br>
+							<br>
+							
+						GEORGE: Clock over there. (to chauffer) O'Brien.<br>
+							<br>
+							
+						CHAUFFEUR: Yes sir.<br>
+							<br>
+							
+						GEORGE: Sorry we're late.<br>
+							<br>
+							
+						CHAUFFEUR: Here let me take that for you.<br>
+							<br>
+							
+						GEORGE: Oh thank you.<br>
+							<br>
+							
+						CHAUFFEUR: I'll get the car and I'll bring it around front.<br>
+							<br>
+							
+						GEORGE: Thank you very much. Dylan?<br>
+							<br>
+							
+						JERRY: Colin?<br>
+							<br>
+							<br>
+							
+						[George and Jerry are in the back of a limo. George is giddy with excitement.]<br>
+							<br>
+							
+						GEORGE: This is incredible! This is one of the greatest things I've ever done in my life! I'm gonna call my mother.<br>
+							<br>
+							
+						JERRY: What for?<br>
+							<br>
+							
+						GEORGE: I dunno, I'm in a limo. (dials) Hello ma? It's me. Guess where I am. In the back of a limo. No, nobody died. It's a long story, I can't tell you now. Because I can't. I said I can't. If I could, I would. Would you stop it? Alright, look, I'm getting off. No, I'm not telling you! How's this? I'm *never* telling you! I don't care! No! Fine! Never!!<br>
+							<br>
+							
+						JERRY: She happy for you?<br>
+							<br>
+							
+						GEORGE: Can he hear us?<br>
+							<br>
+							
+						JERRY: No. Why?<br>
+							<br>
+							
+						GEORGE: I thought I saw him look in the mirror suspiciously.<br>
+							<br>
+							
+						JERRY: He can't hear us.<br>
+							<br>
+							
+						GEORGE: Let's test him. Hey, driver. What do you say we stop off, pick up your sister, have a little fun back here? No, he can't hear us.<br>
+							<br>
+							
+						JERRY: Where's he dropping us? Maybe we can get him to drop us right at my house?<br>
+							<br>
+							
+						GEORGE: We'll ask him. (opens partition) My dear fellow, where are you dropping us?<br>
+							<br>
+							
+						CHAUFFEUR: Madison Square Garden, of course. I have the four passes.<br>
+							<br>
+							
+						GEORGE: Of course, the uh, the four passes. (closes partition) Four passes to Madison Square Garden? Wait a minute. Wait a minute! Of course! Chicago! The Knicks are playing the Bulls tonight!<br>
+							<br>
+							
+						JERRY: What?<br>
+							<br>
+							
+						GEORGE: We are going to the Knick game! Michael Jordan!<br>
+							<br>
+							
+						JERRY: We're going to the Knick game!<br>
+							<br>
+							
+						GEORGE: Did I tell you?! Did I tell you?!<br>
+							<br>
+							
+						JERRY: I can't believe it! You may have hit with this one!<br>
+							<br>
+							
+						GEORGE: You see, you see? I see things as they are and I say, 'no!' Uh, wait, you see things as they are not and you s- Wait, uh, you see things, do you see things as they are? What do you say when you see things?<br>
+							<br>
+							
+						JERRY: Lemme call Elaine and Kramer.<br>
+							<br>
+							
+						GEORGE: If I see things as they are, I would ask 'why' or 'why not?'<br>
+							<br>
+							
+						JERRY: Elaine? It's me. What are you doing tonight? Great. George and I have tickets, four free passes to the Knicks-Bulls game, Madison Square Garden. Can you go? Great, listen, call Kramer, tell him to meet us on the corner at seven o'clock. Alright. We're gonna pick you up in a limo. That's right baby-doll. Hey listen, when we pick you up, I'm Murphy and George is O'Brien. I can't tell you now, it's a long story. I am serious. Okay. Okay bye. (opens partition) 'Scuse me, driver, we have to make a little stop first.<br>
+							<br>
+							
+						CHAUFFEUR: I know.<br>
+							<br>
+							
+						Jerry and GEORGE: He knows?<br>
+							<br>
+							
+						GEORGE: Where are we going? Why are we pulling off here?<br>
+							<br>
+							
+						JERRY: Maybe it's a shortcut.<br>
+							<br>
+							
+						GEORGE: We're on the Grand Central, there's no traffic.<br>
+							<br>
+							
+						JERRY: (opens partition) 'Scuse me, driver, why are we getting off this exit?<br>
+							<br>
+							
+						CHAUFFEUR: Pick up the other members of your party.<br>
+							<br>
+							
+						GEORGE: Right. The other members of our party. (closes partition) Other members of our party? What other members of our party? I didn't even know we were in a party. Oh, I'm telling you, the jig is up.<br>
+							<br>
+							
+						JERRY: It was a bad jig to begin with, we never should have started this jig.<br>
+							<br>
+							
+						GEORGE: It was a good jig.<br>
+							<br>
+							
+						JERRY: It was a bad jig, a terrible terrible jig. What are we gonna do now? They're gonna know you're not O'Brien.<br>
+							<br>
+							
+						GEORGE: There could be more than one O'Brien on a plane who ordered a limo.<br>
+							<br>
+							
+						JERRY: First of all, you don't look like any O'Brien, period.<br>
+							<br>
+							
+						GEORGE: Well you should have been O'Brien.<br>
+							<br>
+							
+						JERRY: I don't want to be Murphy anymore; do I still have to be Murphy?<br>
+							<br>
+							
+						GEORGE: Yes, you have to be Murphy.<br>
+							<br>
+							
+						JERRY: It makes no sense now, me being Murphy.<br>
+							<br>
+							
+						GEORGE: You're Murphy!<br>
+							<br>
+							
+						JERRY: I'm Seinfeld!<br>
+							<br>
+							
+						GEORGE: You're Murphy!! Look, let's just jump out of the car.<br>
+							<br>
+							
+						JERRY: We're doing sixty miles an hour!<br>
+							<br>
+							
+						GEORGE: So we jump and roll, you won't get hurt.<br>
+							<br>
+							
+						JERRY: Who are you, Mannix?<br>
+							<br>
+							
+						GEORGE: We're slowing down. Are those the people?<br>
+							<br>
+							
+						JERRY: Alright put your hands up over your face, pretend you're sleeping.<br>
+							<br>
+							
+						(The limo pulls over, two people, a man (Tim) and a woman (Eva), get in.)<br>
+							<br>
+							
+						WOMAN: (reaches out to Jerry) Mr. O'Brien?<br>
+							<br>
+							
+						JERRY: No, I'm, uh, Dylan Murphy. Mr. O'Brien had a long trip, he's sleeping.<br>
+							<br>
+							
+						EVA: (whispering) Oh, well I don't want to disturb him. We're just rather excited to meet him face to face, finally. We're faithful readers of his newsletter.<br>
+							<br>
+							
+						JERRY: Newsletter?<br>
+							<br>
+							
+						TIM: And of course, his great book, &quot;The Game&quot;.<br>
+							<br>
+							
+						JERRY: Oh, yes, he's very proud of his work in the big game. So you've never uh, met him before?<br>
+							<br>
+							
+						EVA: No.<br>
+							<br>
+							
+						JERRY: Never seen a picture of him?<br>
+							<br>
+							
+						EVA: Never.<br>
+							<br>
+							
+						JERRY: Not even on the book jacket?<br>
+							<br>
+							
+						EVA: There was no picture on the book jacket.<br>
+							<br>
+							
+						JERRY: (nudging George) Hey O'Brien, wake up, c'mon, we got company. Wake up.<br>
+							<br>
+							
+						GEORGE: Hello. I'm O'Brien.<br>
+							<br>
+							<br>
+							
+						[Elaine meets Kramer of Jerry's corner.]<br>
+							<br>
+							
+						KRAMER: Hey!<br>
+							<br>
+							
+						ELAINE: Hey!<br>
+							<br>
+							
+						KRAMER: What, you took a cab?<br>
+							<br>
+							
+						ELAINE: Yeah? So?<br>
+							<br>
+							
+						KRAMER: How much do you make?<br>
+							<br>
+							
+						ELAINE: I'm not telling you.<br>
+							<br>
+							
+						KRAMER: C'mon.<br>
+							<br>
+							
+						ELAINE: No!<br>
+							<br>
+							
+						KRAMER: I'll tell you how much I make.<br>
+							<br>
+							
+						ELAINE: I know how much you make. I don't even know why I'm doing this, I don't even like basketball.<br>
+							<br>
+							
+						KRAMER: You ever seen Michael Jordan?<br>
+							<br>
+							
+						ELAINE: Just in those commercials.<br>
+							<br>
+							
+						KRAMER: Maybe you'll see him do one of those three-sixty dunks.<br>
+							<br>
+							
+						ELAINE: What's that?<br>
+							<br>
+							
+						KRAMER: Oh, it's like this, here, you guard me.<br>
+							<br>
+							
+						ELAINE: Huh?<br>
+							<br>
+							
+						KRAMER: Yeah.<br>
+							<br>
+							
+						(Kramer then drives to 'the hoop' and tumbles headfirst into a bunch of garbage cans.)<br>
+							<br>
+							<br>
+							
+						[Cut back to 'O'Brien' and 'Murphy' in the limo.]<br>
+							<br>
+							
+						JERRY: (checking his watch) I don't think we're gonna make the tip off.<br>
+							<br>
+							
+						TIM: You think someone's been tipped off?<br>
+							<br>
+							
+						GEORGE: So, um, you've read &quot;The Big Game&quot;, have you?<br>
+							<br>
+							
+						EVA: (fawning) Yes I've read it and I've memorized it.<br>
+							<br>
+							
+						GEORGE: Tell me your impressions, I would love to hear what a young woman thinks of &quot;The Big Game&quot;.<br>
+							<br>
+							
+						EVA: Well, this is sort of embarrassing, but it's changed my life. The way you analyzed the game? The way you identify the major players? Well it left me breathless. You're a brilliant, brilliant man.<br>
+							<br>
+							
+						GEORGE: Well, it's just a game. Remember that, kids.<br>
+							<br>
+							
+						TIM: Just a game. He's so humble. Don't forget what you wrote in the epilogue, the fate of the world depends on the outcome of this game.<br>
+							<br>
+							
+						GEORGE: Well, I was exaggerating a bit, just for effect.<br>
+							<br>
+							
+						JERRY: He tends to exaggerate.<br>
+							<br>
+							
+						GEORGE: Okay, I mean it's serious but--<br>
+							<br>
+							
+						EVA: We are really looking forward to your speech tonight.<br>
+							<br>
+							
+						GEORGE: Uh, my speech?<br>
+							<br>
+							
+						EVA: Yes, your secretary faxed me the copy. Would you like to look it over?<br>
+							<br>
+							
+						JERRY: Well you might as well look it over.<br>
+							<br>
+							<br>
+							
+						[Cut back to Kramer and Elaine waiting on the corner.]<br>
+							<br>
+							
+						KRAMER: So what's going on, how did all this happen?<br>
+							<br>
+							
+						ELAINE: Jerry and George called me from this limo and they said we're all going to the Knicks-Bulls game.<br>
+							<br>
+							
+						KRAMER: Limo? I thought that George went to pick him up.<br>
+							<br>
+							
+						ELAINE: He did.<br>
+							<br>
+							
+						KRAMER: Well then why would they take a limo from the airport?<br>
+							<br>
+							
+						ELAINE: I don't know.<br>
+							<br>
+							
+						KRAMER: That's pretty strange. Did he say anything else?<br>
+							<br>
+							
+						ELAINE: Yeah. He said, um, he said it's really important that we call them O'Brien and Murphy.<br>
+							<br>
+							
+						KRAMER: O'Brien. Why would he want to be called O'Brien?<br>
+							<br>
+							<br>
+							
+						[Cut back to the limo, George is reading from O'Brien's speech.]<br>
+							<br>
+							
+						GEORGE: ...and the Jews steal our money through their Zionist occupied government and use the black man to bring drugs into our oppressed white minority communities.<br>
+							<br>
+							
+						JERRY: You're not going to open with that, are you?<br>
+							<br>
+							
+						EVA: What was that you said about the myth of the Holocaust?<br>
+							<br>
+							
+						GEORGE: I said so many things.<br>
+							<br>
+							
+						(Suddenly they hear a loud bang.)<br>
+							<br>
+							
+						GEORGE: They're shooting! They're shooting!<br>
+							<br>
+							
+						TIM: (pulling out a gun) Alright, get down!<br>
+							<br>
+							
+						(The limo comes to a screeching halt. Tim exits the limo to look around, Eva has fallen on top of George.)<br>
+							<br>
+							
+						EVA. Ohhh. I'm ready to die for you.<br>
+							<br>
+							
+						GEORGE: That's really very nice of you, Eva. Thank you.<br>
+							<br>
+							
+						EVA: But of course you know I would. I would do anything for you. Anything.<br>
+							<br>
+							
+						(Tim returns.)<br>
+							<br>
+							
+						TIM: Nothing to worry about, it was just a flat tire. But rest assured, we're prepared to handle anything that might come up.<br>
+							<br>
+							
+						Tim opens a briefcase filled with firearms. Eva grabs one and starts handling it sensually.<br>
+							<br>
+							
+						JERRY: Nice looking Lugar.<br>
+							<br>
+							<br>
+							
+						{Jodi Baskerville, reporting live.}<br>
+							<br>
+							
+						JODI: I'm standing in front of the Paramount adjacent to Madison Square Garden where a growing number of vociferous and angry demonstrators are gathering to protest the very first public appearance of Donald O'Brien, the leader of the midwestern regional chapter of the Aryan Union, and reputed to be their most charismatic spokesman. The reclusive Mr. O'Brien is an advocate of the violent overthrow of the government. He has openly professed a deep admiration of Adolf Hitler. Even David Duke has denounced him as a dangerous extremist. There is a full house inside awaiting his arrival from the airport. Sources tell me he is in route and should be arriving momentarily. Police have set up barricades, but quite frankly Bill and Jean, I don't think they're any match for the emotional fuse that has been lit here tonight. Reporting from the Paramount, I'm Jodi Baskerville, back to you in the studio.<br>
+							<br>
+							<br>
+							
+						[Cut back to Kramer and Elaine on the corner.]<br>
+							<br>
+							
+						KRAMER: Something's very strange. George goes to the airport to pick up Jerry. They come back in a limo with four tickets to the basketball game and wanna be called O'Brien and Murphy? O'Brien. O'Brien, why O'Brien?<br>
+							<br>
+							
+						(A group of people approach from the adjacent sidewalk. One of them recognized Elaine.)<br>
+							<br>
+							
+						DAN: Elaine?<br>
+							<br>
+							
+						ELAINE: Dan! Oh, hi Dan, how are you?<br>
+							<br>
+							
+						DAN: Good.<br>
+							<br>
+							
+						ELAINE: Um, oh, this is um, Kramer.<br>
+							<br>
+							
+						DAN: Oh, Kramer?<br>
+							<br>
+							
+						(They shake hands.)<br>
+							<br>
+							
+						ELAINE: What's going on?<br>
+							<br>
+							
+						DAN: Oh, we're heading down to protest this big neo-nazi rally. The head of the Aryan Union is speaking, he's in from Chicago. You should come.<br>
+							<br>
+							
+						ELAINE: Oh, can't, I'm going to the Knicks-Bulls game.<br>
+							<br>
+							
+						DAN: Oh, well that's where the rally is. The Paramount, right next door.<br>
+							<br>
+							
+						ELAINE: Oh, well, maybe we'll run into you.<br>
+							<br>
+							
+						DAN: Yeah, yeah ok. It's really gonna be something, this is the first time he's ever appeared in public, no one even knows what he looks like.<br>
+							<br>
+							
+						KRAMER: Who?<br>
+							<br>
+							
+						DAN: The head of the Aryan Union; O'Brien.<br>
+							<br>
+							<br>
+							
+						[Cut back to the limo.]<br>
+							<br>
+							
+						(Jerry and George are alone inside.)<br>
+							<br>
+							
+						JERRY: What's taking him so long out there?<br>
+							<br>
+							
+						GEORGE: Didja see the way she was looking at me?<br>
+							<br>
+							
+						JERRY: She's a Nazi, George. A Nazi!<br>
+							<br>
+							
+						GEORGE: I know, I know. Kind of a cute Nazi though.<br>
+							<br>
+							
+						JERRY: Well we gotta make a plan before they come back, what are we gonna do?<br>
+							<br>
+							
+						GEORGE: I don't know.<br>
+							<br>
+							
+						JERRY: Let's just make a run for it.<br>
+							<br>
+							
+						GEORGE: I can't run, I have a bad hamstring.<br>
+							<br>
+							
+						JERRY: How'd that happen?<br>
+							<br>
+							
+						GEORGE: I hurt it in a hotel room. You know where they tuck the covers in real tight in those hotel rooms? I can't sleep like that so I tried to kick it out and I pulled it.<br>
+							<br>
+							
+						JERRY: I know, why do they make that bed so tight? You gotta sleep with your feet like that.<br>
+							<br>
+							
+						GEORGE: For a mental patient. Wait a minute, the phone, we'll call the police.<br>
+							<br>
+							
+						(George grabs the phone and dials.)<br>
+							<br>
+							
+						GEORGE: 9... 1... 1. She said she'd do anything. Hello, police? Uh, yeah listen, we're in the back of a limo in Queens--<br>
+							<br>
+							
+						(Tim re-enters the limo.)<br>
+							<br>
+							
+						GEORGE: --Astroturf? You know who's responsible for that, don't you?! The Jews! Ah, the Jews hate grass. They always have, they always will.<br>
+							<br>
+							
+						TIM: We'll be ready in a minute.<br>
+							<br>
+							
+						GEORGE: Would you excuse us for a minute Tim boy, we're kind of in the middle of something.<br>
+							<br>
+							
+						TIM: With all due respect, Mr. O'Brien, we're just about to leave.<br>
+							<br>
+							
+						GEORGE: Tim, who's the head of the Aryan Union, you or me?<br>
+							<br>
+							
+						TIM: You are.<br>
+							<br>
+							
+						GEORGE: And who's responsible for making hate mongering and fascism popular again?<br>
+							<br>
+							
+						TIM: You are.<br>
+							<br>
+							
+						GEORGE: Good. I think you forgot something.<br>
+							<br>
+							
+						TIM: I'm sorry.<br>
+							<br>
+							
+						GEORGE: Good. Now get out.<br>
+							<br>
+							
+						(Tim leaves.)<br>
+							<br>
+							
+						GEORGE: Okay, what are we gonna do?<br>
+							<br>
+							
+						JERRY: I don't know.<br>
+							<br>
+							
+						GEORGE: Alright, how's this? We wait till we get to your street corner, we see Elaine and Kramer then we get out. They can't shoot us in the city.<br>
+							<br>
+							
+						JERRY: Nah. No one's ever been shot in the city.<br>
+							<br>
+							<br>
+							
+						[Cut back to Elaine and Kramer on the corner.]<br>
+							<br>
+							
+						KRAMER: I'm telling you, something's going on. I can feel it, sense it.<br>
+							<br>
+							
+						ELAINE: I'm sure he was just joking around.<br>
+							<br>
+							
+						KRAMER: Oh no no no, this is no joke. O'Brien's coming in from Chicago, Jerry's in a limo, says he's O'Brien? That's not funny. Oh my god. Yes. Yes!<br>
+							<br>
+							
+						ELAINE: What is it?<br>
+							<br>
+							
+						KRAMER: Don't you see? There's always been something very strange about Jerry, always so clean and organized. Do I have to spell it out for you? The limo? The name? The rally at Madison Square Garden? Jerry, O'Brien are the same person. Jerry is the leader of the Aryan Union!<br>
+							<br>
+							
+						ELAINE: Jerry's a nazi?!<br>
+							<br>
+							
+						KRAMER: I can't believe I didn't see it.<br>
+							<br>
+							
+						ELAINE: Listen, you idiot! Just calm down! I know Jerry, he's not a nazi.<br>
+							<br>
+							
+						KRAMER: You don't think so.<br>
+							<br>
+							
+						ELAINE: No, he's just neat.<br>
+							<br>
+							<br>
+							
+						[Cut back to the limo]<br>
+							<br>
+							
+						TIM: You know it's funny. You don't look like an O'Brien.<br>
+							<br>
+							
+						GEORGE: Me??<br>
+							<br>
+							
+						(George and Jerry laugh nervously.)<br>
+							<br>
+							
+						TIM: And you really don't look like a Murphy.<br>
+							<br>
+							
+						JERRY: I may not look like a Murphy but I act like a Murphy.<br>
+							<br>
+							
+						GEORGE: He's extremely Murphy. He's Murphy to a fault.<br>
+							<br>
+							
+						TIM: Where are you from?<br>
+							<br>
+							
+						JERRY: Dublin. Originally. Parents came over here when I was eighteen. Cereal famine. Couldn't get a bowl anywhere. Bad. 'Tis a beautiful country though; lush rolling hills, and the peat, ah the peat.<br>
+							<br>
+							
+						TIM: Sounds more like Scottish.<br>
+							<br>
+							
+						JERRY: We were right on the border.<br>
+							<br>
+							<br>
+							
+						[Cut back to the street corner]<br>
+							<br>
+							
+						KRAMER: Maybe he's with the company.<br>
+							<br>
+							
+						ELAINE: What?<br>
+							<br>
+							
+						KRAMER: The CIA! Maybe they placed him in there to infiltrate the organization from within.<br>
+							<br>
+							
+						ELAINE: What about his comedy act?<br>
+							<br>
+							
+						KRAMER: That's the perfect cover! All that time on the road? Look Jerry, he's too normal to be a comedian. These comedians, they're sick, neurotic people.<br>
+							<br>
+							
+						ELAINE: What about George?<br>
+							<br>
+							
+						KRAMER: What about him, he's part of it. His whole personality is a disguise. No real person can act the way he does. Elaine, I'm telling you they're with the organization. They're all part of it. He's in there with Helms and Hunt and Liddy, that whole crowd. George and Jerry, they probably know who killed Kennedy!<br>
+							<br>
+							
+						ELAINE: I'll bet they were even in on it.<br>
+							<br>
+							
+						KRAMER: Alright, what are we gonna do? I'm not gonna let him hurt you. (grabs and hugs Elaine tightly) I'm not gonna.<br>
+							<br>
+							
+						ELAINE: Kramer, you're hurting me!<br>
+							<br>
+							<br>
+							
+						[Quick cut to the now approaching limo.]<br>
+							<br>
+							
+						GEORGE: Those are my friends I was telling you about. We're gonna talk to them, pull over.<br>
+							<br>
+							
+						ELAINE: Get off of me!!<br>
+							<br>
+							
+						(The limo pulls over and George and Jerry get out.)<br>
+							<br>
+							
+						KRAMER: O'Brien.<br>
+							<br>
+							
+						(This attracts the attention of Dan and his friends standing at a nearby bus stop.)<br>
+							<br>
+							
+						MAN #1: O'Brien? Is that him?<br>
+							<br>
+							
+						MAN #2: Yeah, that's him.<br>
+							<br>
+							
+						MAN #3: Look there's O'Brien!<br>
+							<br>
+							
+						MAN #4: Filthy nazi bastard!<br>
+							<br>
+							
+						ALL FOUR MEN: Let's get him!!<br>
+							<br>
+							
+						(They begin running full speed towards the gang.)<br>
+							<br>
+							
+						GEORGE: What do I do?! What do I do?!<br>
+							<br>
+							
+						JERRY: Get in the car! Get in the car!<br>
+							<br>
+							
+						(George, Elaine, Jerry and Kramer all jump into the limo which speeds off.)<br>
+							<br>
+							
+						KRAMER: (pointing to Jerry) O'Brien. Long time no see. How's tricks, Murphy?<br>
+							<br>
+							
+						TIM: Why did you call him O'Brien and him Murphy?<br>
+							<br>
+							
+						JERRY: No, he was talking to me, he's cross-eyed.<br>
+							<br>
+							
+						ELAINE: It could be very confusing.<br>
+							<br>
+							
+						(The limo phone rings Kramer answers it.)<br>
+							<br>
+							
+						KRAMER: Yeah? Eva?<br>
+							<br>
+							
+						EVA: It's for me. (takes phone) Hello? (cups receiver) It's O'Brien.<br>
+							<br>
+							
+						KRAMER: O'Brien? Well that's weird.<br>
+							<br>
+							
+						EVA: (gun drawn) Who are you?<br>
+							<br>
+							
+						(George and Jerry begin simultaneous explanations about how George's car broke down when he went to pick Jerry up at the airport.)<br>
+							<br>
+							<br>
+							
+						[Cut back to Jodi Baskerville, reporting live.]<br>
+							<br>
+							
+						JODI: A limousine has just pulled up it's being surrounded by a huge group of protestors, this has the makings of a very ugly scene.<br>
+							<br>
+							<br>
+							
+						[Cut back to the limo, Elaine has joined the group explanation, none of the three are intelligible at this point.]<br>
+							<br>
+							
+						JODI: They are banging on the car, trying to flip it over. The police seem unable or unwilling to control the crowd, I would imagine Mr. O'Brien must be having some very grave doubts if he made the right choice for his first public appearance.<br>
+							<br>
+							
+						Cut back to the limo. The explanations are becoming more heated and less understandable, the limo is rocking violently and Tim and Eva are becoming unnerved.<br>
+							<br>
+							
+						EVA: Get out!!<br>
+							<br>
+							
+						ELAINE: Look, it's Dan! Hi Dan!<br>
+							<br>
+							
+						DAN: Elaine?<br>
+							<br>
+							
+						ELAINE: Hey!<br>
+							<br>
+							<br>
+							
+						[Cut to George in front of a news camera, the on screen graphic says 'DONALD O'BRIEN Leader of the Aryan Union'.]<br>
+							<br>
+							
+						GEORGE: I am not O'Brien! I am not O'Brien! I'm not O'Brien! Ask anyone! Jerry?! Jerry?!!<br>
+							<br>
+							<br>
+							
+						[Closing monologue]<br>
+							<br>
+							
+						So I was watching this movie the other night, it was a World War Two movie and there was Nazis in the movie and I noticed that the Nazis in those movies always had like two separate heils. They had like the regular heil that they would do and then when they were around the offices they had like this casual heil, remember that one, you ever notice that? They come in, yeah, heil, how are ya, is the kid back with the coffee yet? Come on, are you finished with the copier? Yeah. World domination, Aryan race, whose donuts are those? Yeah, heil, nice to see ya, can I have one of those donuts?<br>
+							<br>
+							<br>
+							
+						The End</td>
+						</tr>
+						<tr height="6">
+							<td class="bottom2" width="645" height="6"></td>
+						</tr>
+						<tr>
+							<td width="645">
+								<div align="center">
+									<font size="-1">Copyright 2006 seinology.com | All Rights Reserved | Designed by 13erla</font></div>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+		<p></p>
+	</body>
+
+</html>

@@ -1,0 +1,1352 @@
+<tdOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+<html>
+
+	<head>
+		<meta http-equiv="content-type" content="text/html;charset=ISO-8859-1">
+		<meta name="description" content="Top Source for Seinfeld">
+		<meta name="keywords" content="seinfeld, sienfeld, Jerry Seinfeld, Julia Louis Dreyfus, Jason Alexander, Michael Richards, Kramer, George, Costanza, Elaine Benes, morty, Larry David">
+		<title>Seinology.com :: Scripts :: 64-The Pilot(2)</title>
+	<link rel='stylesheet' href='/stylesheet.css' type='text/css'>
+	</head>
+
+	<body>
+			<table align="center" width="787" border="0" cellspacing="0" cellpadding="0">
+				<tr>
+					<td><font size="-2" color="red">Seinology.com - </font><font size="-3" color="black">Where Seinfeld Content and Accuracy Matter Most. Seinfeld scripts in pdf form, Seinfeld episode video clips, Seinfeld episode audio clips, Jerry Seinfeld appearances, Julia Louis-Dreyfus appearances, Michael Richards appearances, Jason Alexander appearances, Seinfeld discussion Forum, Seinfeld Where are they Now? Seinlanguage Newsletter, Popular Seinfeld Lists, Seinfeld episode standup, Seinfeld episode guide, Seinfeld fan fiction. Seinfeld content all on one domain. Seinology.com enjoy your stay.</font></td>
+				</tr>
+			</table>
+		
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr height="100">
+				<td class="logo"></td>
+			</tr>
+			<tr><td class="ads" align="center" background=#8694fa>
+				<script type="text/javascript"><!--
+google_ad_client = "pub-1924026976931416";
+google_ad_width = 728;
+google_ad_height = 90;
+google_ad_format = "728x90_as";
+google_ad_type = "text";
+google_ad_channel = "";
+google_color_border = "FFFFFF";
+google_color_bg = "8694fa";
+google_color_link = "0000FF";
+google_color_text = "000000";
+google_color_url = "002E3F";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></td></tr>
+		</table>
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr>
+				<td valign="top" width="136">
+					<table width="136" border="0" cellspacing="0" cellpadding="0">
+						<tr height="24">
+							<td class="navigation">
+								<div align="center">
+									
+									<b>Navigation</b></div>
+							</td>
+						</tr>
+						<tr height="199">
+							<td class="spacer1" valign="top" width="136" height="199">
+								<div align="center">
+									<font size="-1"><a href="http://www.seinology.com">Home</a><br>
+										<a href="http://board.seinology.com">Forum</a><br>
+										<a href="http://www.seinology.com/av.shtml">Audio/Video</a><br>
+										<a href="http://www.seinology.com/scripts.shtml">Scripts</a><br>
+										<a href="http://www.seinology.com/survivor.shtml">Survivor</a><br>
+										<a href="http://www.seinology.com/fanfics.shtml">Fan Fiction</a><br>
+										<a href="http://www.seinology.com/gallery/">Gallery</a><br>
+										<a href="http://www.seinology.com/newsletter.shtml">Newsletter</a><br>
+										<a href="http://www.seinology.com/lists.shtml">Lists</a><br>
+										<a href="http://www.seinology.com/epguide.shtml">Episode Guide</a><br>
+										<a href="http://www.seinology.com/links.shtml">Links</a><br>
+										<a href="http://www.seinology.com/faqother.shtml">Faq + others</a><br>
+										<a href="http://www.seinology.com/legal.shtml">Legal</a></font></div>
+							</td>
+						</tr>
+						
+						<tr>
+							<td class="nav2" width="136">
+							<div align="center"><b>Search</b></div></td>
+						</tr>
+						<tr>
+							<td class="spacer1" width="136" valign="top"><div align="center"><form method="get" action="http://www.seinology.com/search/search.cgi">
+<p><label for="fdse_Match">Match</label><br>
+<select name="Match" id="fdse_Match" size="1">
+<option value="1">All</option>
+<option value="0">Any</option>
+<option value="2">Phrase</option>
+</select></p>
+<p><label for="fdse_Realm">Where?</label><br>
+<select name="Realm" id="fdse_Realm" size="1">
+<option selected="selected" value="All">EntireSite</option>
+<option value="Ep Guide">Ep Guide</option>
+<option value="Images">Images</option>
+<option value="Lists">Lists</option>
+<option value="Newsletters">Newsletters</option>
+<option value="Scripts">Scripts</option>
+<option value="Notes..Nothing">Notes..Nothing</option>
+</select></p>
+<p><input type="text" name="Terms" size="14" id="fdse_Terms"><br>
+<input type="submit" class="submit" name="submitButtonName" value="Search"></p>
+</div></form></td>
+						</tr>
+						<tr><td class="bottom" width="136" height="10" valign="top">
+						</td>
+						</tr>
+					</table>
+				</td>
+				<td width="4"></td>
+				<td valign="top" width="645">
+					<table width="645" border="0" cellspacing="0" cellpadding="0">
+						<tr height="18">
+							<td width="645" height="35" class="bar">
+								<div align="center">
+									<b><font size="+2" color="black">Script</font></b></div>
+							</td>
+						</tr>
+						<tr height="362">
+							<td class="spacer2" valign="top" width="645" height="362">
+
+						<p><font size="-2">Episode 64 - The Pilot (2)<br>
+							
+						pc: 424, season 4, episode 24<br>
+							
+						Broadcast date: May 20, 1993<br>
+							
+						NOTE: Originally broadcast as part of a 60 min episode.<br>
+							<br>
+							
+						Written by&nbsp; Larry David<br>
+							
+						Directed by Tom Cherones<br>
+							<br>
+							
+						-------------------------------------------------------------------------------<br>
+							<br>
+							
+						The Cast<br>
+							
+						Regulars:<br>
+							
+						Jerry Seinfeld ....................... Jerry Seinfeld<br>
+							
+						Jason Alexander .................. George Costanza<br>
+							
+						Julia Louis-Dreyfus ............. Elaine Benes<br>
+							
+						Michael Richards ................. Kramer<br>
+							<br>
+							
+						Guest Stars:<br>
+							<br>
+							
+						Anne Twomey ................... Rita<br>
+							
+						Jeremy Piven ...................... Michael Barth (TV George)<br>
+							
+						Larry Hankin ..................... Tom Pepper (TV Kramer)<br>
+							
+						Kevin Page ......................... Stu<br>
+							
+						Elena Wohl ......................... Sandi Robbins (TV Elaine)<br>
+							
+						Al Ruscio ............................ Manager<br>
+							
+						Richard Gant ...................... Fred<br>
+							
+						Peter Blood ........................ Jay<br>
+							
+						Brian Bradley ..................... Butler<br>
+							
+						Bob Shaw ........................... Paul<br>
+							
+						Deborah Swisher ............... 1st AD<br>
+							
+						Jeff Oetjen .......................... Wilton<br>
+							
+						Pat Hazell ........................... Himself<br>
+							
+						Kari Coleman ..................... Allison<br>
+							
+						Bill Erwin ........................... Sid<br>
+							
+						Lanei Chapman ................. Housekeeper<br>
+							
+						Jane Leeves ....................... Marla<br>
+							
+						Unknown .......................... John-John (Kennedy)<br>
+							
+						Rick Overton .................... The Drake<br>
+							
+						Elizabeth Dennehy ........... Allison<br>
+							
+						Maggie Han ..................... Cheryl<br>
+							
+						Ping Wu ........................... Ping<br>
+							
+						Brian Doyle-Murray ......... Mel<br>
+							
+						Carol Mansell ................... Mother<br>
+							
+						Jon Hayman ..................... Voice of Donald (The Bubble Boy)<br>
+							
+						Jennifer Campbell ............ Tia<br>
+							
+						Nicholas Hormann .......... Calvin Klein<br>
+							
+						Teri Hatcher .................... Sidra<br>
+							
+						Tony Amendola .............. Rushdie<br>
+							
+						rc: Bob Balaban ............... Russell Dalrimple<br>
+							
+						rc: Peter Crombie ............ Crazy&quot; Joe Davola<br>
+							
+						rc: Heidi Swedberg ......... Susan Biddle Ross<br>
+							
+						rc: Barney Martin ............ Morty Seinfeld<br>
+							
+						rc: Liz Sheridan ............... Helen Seinfeld<br>
+							
+						rc: Wayne Knight ............ Newman<br>
+							<br>
+							
+						==================================================================<br>
+							<br>
+							
+						[setting: NBC, pilot's set]<br>
+							<br>
+							
+						(Jerry, Tom, and Michael are at the counter, rehearsing. George is standing and watching them next to another guy. Rita, Jay, Stu and Russell are sitting in the crowd's bleachers)<br>
+							<br>
+							
+						TOM: What do you mean made up?<br>
+							<br>
+							
+						JERRY: It's made up. Haagen-Dazs is made up. It's not Danish.<br>
+							<br>
+							
+						TOM: You're crazy.<br>
+							<br>
+							
+						JERRY: No I'm not. (to Michael) George. Is Haagen-Dazs Danish?<br>
+							<br>
+							
+						MICHAEL: What do you mean Danish?<br>
+							<br>
+							
+						GEORGE: (to the guy next to him) This guy stinks. (speaking of Michael)<br>
+							<br>
+							
+						JERRY: Danish. Is it from Denmark?<br>
+							<br>
+							
+						MICHAEL: No, they make it in New Jersey. It's just a Danishy name.<br>
+							<br>
+							
+						TOM: I can't believe that. They fooled *me* Jerry.<br>
+							<br>
+							
+						RITA: (to Jay) Boy, talk about a show about nothing. (Jay, the integral producer, smiles stupidly)<br>
+							<br>
+							
+						GEORGE: Uh, excuse me. (stopping them from rehearsing) Excuse me. (he walks to the guy's in charge of yelling: &quot;take #!&quot;) This--This is not right. May I? (the guy looks at George with a bothered face. George then walks up to Tom and takes him away from Jerry and Michael to talk to him in private)(to Tom) You see, you're going: &quot;They fooled *me* Jerry!&quot; (George shakes his head with disapproval) You wanna hit 'fooled' more: &quot;They *fooled* me Jerry!&quot;. You see the difference?<br>
+							<br>
+							
+						TOM: I'm not gonna say it like that.<br>
+							<br>
+							
+						GEORGE: Just a suggestion. (chuckles and walks back to the yelling guy)<br>
+							<br>
+							
+						YELLING GUY: (with the same bothered face and while he's looking at George) All right everybody, take a five.<br>
+							<br>
+							
+						GEORGE: (very casual and raising his hand in the air) Yep. That's five!<br>
+							<br>
+							
+						JERRY: George? (walks away to talk privately. George, still casual, taps on Jerry's shoulder) I don't have a lot of experience with this acting stuff. But from what I can gather, they're a little touchy about being told how to say the lines.<br>
+							<br>
+							
+						GEORGE: Why is that?<br>
+							<br>
+							
+						JERRY: I don't know, but they don't seem to like it. By the way how am I doing?<br>
+							<br>
+							
+						GEORGE: Oh, you're fine... you're fine. (looking at Tom in the back and then quieter to Jerry) So you think this guy playing Kramer took the raisins?<br>
+							<br>
+							
+						JERRY: Why would he steal a box of raisins?<br>
+							<br>
+							
+						GEORGE: Yeah, it's bizarre. (they both look around them suspiciously)<br>
+							<br>
+							
+						(scene cuts to the bleachers with the producers)<br>
+							<br>
+							
+						RITA: (to Jay about Russell) What's with him? (to Russell) Russell? (louder) Russell?<br>
+							<br>
+							
+						RUSSELL: What?<br>
+							<br>
+							
+						RITA: You O.K.?<br>
+							<br>
+							
+						RUSSELL: Yeah. No, uh, I was just thinking of something. I'll be back in a second. (he gets up and leaves)<br>
+							<br>
+							
+						(scene cuts to Jerry sitting next to Sandi. They're both going through their copy of the script)<br>
+							<br>
+							
+						SANDI: What's the matter?<br>
+							<br>
+							
+						JERRY: Nothing.<br>
+							<br>
+							
+						SANDI: You're acting weird. Is anything wrong?<br>
+							<br>
+							
+						JERRY: No.<br>
+							<br>
+							
+						SANDI: Are you breaking up with me?<br>
+							<br>
+							
+						JERRY: Are we going out?<br>
+							<br>
+							
+						SANDI: You're breaking up with me, aren't you? (almost crying)<br>
+							<br>
+							
+						JERRY: Do you want me to break up with you?<br>
+							<br>
+							
+						SANDI: If that's what you want.<br>
+							<br>
+							
+						JERRY: I don't even know what you're talking about.<br>
+							<br>
+							
+						SANDI: Fine. Break up with me.<br>
+							<br>
+							
+						JERRY: All right. We're broken up.<br>
+							<br>
+							
+						SANDI: (little pause) Can we still be friends? (Jerry raises his head, staring ahead and wondering what's going on)<br>
+							<br>
+							
+						(scene cuts to George and Tom standing, backstage)<br>
+							<br>
+							
+						GEORGE: Remember when you came to audition for us?<br>
+							<br>
+							
+						TOM: Yeah.<br>
+							<br>
+							
+						GEORGE: There was a box of raisins on the coffee table. Did you, by any chance, take them with you when left?<br>
+							<br>
+							
+						TOM: What are you talking about?<br>
+							<br>
+							
+						GEORGE: Well we were all eating the raisins. And I remember you--you were eating some of the raisins. And then you left, and the raisins were gone. And I was just wondering if, you know (chuckles), maybe you took them with you.<br>
+							<br>
+							
+						TOM: Are you accusing me of stealing the raisins?<br>
+							<br>
+							
+						GEORGE: Oh, no, no--<br>
+							<br>
+							
+						TOM: (angry) Why would I steal a box of raisins!?<br>
+							<br>
+							
+						GEORGE: No you wouldn't. Nobody would. It's just that... they were missing, and... well I'm just inquiring. (chuckles nervously)<br>
+							<br>
+							
+						TOM: Let me give you a word of advice. O.K.? I want you to stay away from me. I don't wanna talk to you, and I don't wanna hear anymore of your stupid little notes and suggestions. I don't like you. So if you got any other problems whether it's raisins, prunes, figs, or any other dried fruit, just keep it to yourself and stay out of my way, O.K.?<br>
+							<br>
+							
+						GEORGE: Mm-hmm. Mm-hmm. All right. I don't think we're gonna have any problem with that. (chuckles nervously) Good talking to you Tom. Really.<br>
+							<br>
+							
+						(scene cuts to Russell, still on the set, but on the phone with Elaine)<br>
+							<br>
+							
+						RUSSELL: (nervously, almost desperately) Elaine. Elaine. What do you want? What can I do? Is it my job? Is that what it is? Elaine I can't go on like this. Will you call me? Would you call me? Well, why? All right. May I call you? Elaine? Elaine? (she hung up. An employee walks by, bumps into Russell and spills coffee accidentally on him)<br>
+							<br>
+							
+						DAVID: Excuse me Mr. Dalrimple. I am so sorry.<br>
+							<br>
+							
+						RUSSELL: All right. All right. What's your name?<br>
+							<br>
+							
+						DAVID: David Richardson.<br>
+							<br>
+							
+						RUSSELL: Get out! You're fired!<br>
+							<br>
+							
+						DAVID: But Mr. Dalrimple--<br>
+							<br>
+							
+						RUSSELL: Don't talk back to me. Didn't you hear what I say? Get out! You want me to call the cops? I make and break little worms like you every day. Do you know how much money I make? Do you have any idea! Do you know where I live? I can have any woman in this city that I want. Any one. Now, GET OUT! (David leaves. Everyone on the set is looking at Russell) What are you all looking at? Go back to work! BACK! NOW! (they do, Russell leaves)<br>
+							<br>
+							
+						(scene ends)<br>
+							<br>
+							
+						&nbsp;<br>
+							
+						[setting: Jerry's]<br>
+							<br>
+							
+						GEORGE: The doc called and said the lab's backed up and now I'm not gonna get the results for another two days.<br>
+							<br>
+							
+						JERRY: Ah! You're fine. There's nothing wrong with you. I'm the one who's dying.<br>
+							<br>
+							
+						GEORGE: What do you mean?<br>
+							<br>
+							
+						JERRY: Because I can't act! I stink! I don't what I'm doing!<br>
+							<br>
+							
+						GEORGE: Come on you're... uh... you're fine.<br>
+							<br>
+							
+						JERRY: This show's gonna ruin my entire career. I don't know how I got involved in this.<br>
+							<br>
+							
+						GEORGE: What about me? I was a total failure. Everything was fine. Now this thing's gonna be a success and God's gonna give me a terminal disease.<br>
+							<br>
+							
+						JERRY: This actress playing Elaine, she's out of her mind.<br>
+							<br>
+							
+						GEORGE: The guy playing Kramer threatened me.<br>
+							<br>
+							
+						JERRY: Why?<br>
+							<br>
+							
+						GEORGE: 'cause I asked him about the raisins.<br>
+							<br>
+							
+						JERRY: You mentioned the raisins.<br>
+							<br>
+							
+						GEORGE: Oh yeah.<br>
+							<br>
+							
+						JERRY: Did he take 'em?<br>
+							<br>
+							
+						GEORGE: I don't know.<br>
+							<br>
+							
+						JERRY: Well if he didn't take 'em, what happened to 'em?<br>
+							<br>
+							
+						GEORGE: That's what I'm trying to find out.<br>
+							<br>
+							
+						(Kramer enters slowly and carefully)<br>
+							<br>
+							
+						JERRY: Hey.<br>
+							<br>
+							
+						KRAMER: Hey.<br>
+							<br>
+							
+						JERRY: Any luck?<br>
+							<br>
+							
+						KRAMER: No. No, nothing. I got no... peristalsis.<br>
+							<br>
+							
+						JERRY: What about bran?<br>
+							<br>
+							
+						KRAMER: I tried bran-- 40%, 50% 100%. The bran isn't working for me.<br>
+							<br>
+							
+						JERRY: Well my friend, (Jerry puts his hand on Kramer's shoulder) it may be time to consider the dreaded apparatus.<br>
+							<br>
+							
+						KRAMER: Pfft! Hold it right there. If you're suggesting what I think you're suggesting, you're wasting your time. I am not Jerry, under any circumstances, doing any inserting in that area.<br>
+							<br>
+							
+						JERRY: Oh, it's not that bad!<br>
+							<br>
+							
+						GEORGE: Yes it is.<br>
+							<br>
+							
+						(Elaine enters)<br>
+							<br>
+							
+						ELAINE: Well it's all taken care of. I filed a report. An investigation is underway.<br>
+							<br>
+							
+						JERRY: (to Elaine) So, you going to the taping tomorrow night?<br>
+							<br>
+							
+						ELAINE: No. I don't think I should go. I really don't wanna bump into Russell. He called me the other day. He won't quit.<br>
+							<br>
+							
+						JERRY: Oh, come on you gotta go! He's harmless. He's got a little crush on you.<br>
+							<br>
+							
+						ELAINE: Jerry, this is not a crush. This is a complete fixation. he makes me very uncomfortable.<br>
+							<br>
+							
+						JERRY: We need you there!<br>
+							<br>
+							
+						ELAINE: (to Kramer) Hey are you gonna go?<br>
+							<br>
+							
+						KRAMER: No. No. I'm gonna stay home. I want to be close to my home base in case there's any news from the front. (he leaves)<br>
+							<br>
+							
+						(scene ends)<br>
+							<br>
+							
+						&nbsp;<br>
+							
+						[setting: NBC, pilot's set, the taping]<br>
+							<br>
+							
+						The taping is about to begin.<br>
+							<br>
+							
+						People are walking into the studio.<br>
+							<br>
+							
+						Jerry is getting a makeup.<br>
+							<br>
+							
+						Michael walks around backstage, he seems nervous and agitated.<br>
+							<br>
+							
+						Rita, Stu and Jay are sitting in the crowd. Russell is missing.<br>
+							<br>
+							
+						George looks at his lip in a mirror.<br>
+							<br>
+							
+						Tom is sitting in his dressing room, eating the raisins.<br>
+							<br>
+							
+						Elaine walks into the studio, wearing and adjusting a blonde short-haired wig, and also wearing bold glsasses.<br>
+							<br>
+							
+						Scene cuts to the drugstore where Kramer is buying the dreaded apparatus.<br>
+							<br>
+							
+						Sandi, sitting next to Jerry who's still getting a makeup, is having her hair done.<br>
+							<br>
+							
+						SANDI: (to her hairdresser) No! Pick it up more in the front! It's got to be higher! Higher! Make a wall! A wall!<br>
+							<br>
+							
+						ASSISTANT DRESSER: Sandi, are you in wardrobe? Sandi?<br>
+							<br>
+							
+						JERRY: Try Elaine.<br>
+							<br>
+							
+						ASSISTANT DRESSER: Elaine?<br>
+							<br>
+							
+						SANDI: Yes?<br>
+							<br>
+							
+						(scene cuts to the crowd. Elaine is sitting in the front with her disguise, and a guy behind her taps on her shoulder)<br>
+							<br>
+							
+						WILTON: Elaine? It's me-- Wilton Marshall. Remember? Camp Tioga-- 1978? Remember?<br>
+							<br>
+							
+						ELAINE: Oh, right.<br>
+							<br>
+							
+						WILTON: Wow! You know you haven't changed a bit.<br>
+							<br>
+							
+						(scene cuts to Michael, backstage, still walking around nervously. He sees Jerry andruns to him)<br>
+							<br>
+							
+						MICHAEL: I can't remember my lines!!!<br>
+							<br>
+							
+						JERRY: Just relax, you'll be fine.<br>
+							<br>
+							
+						MICHAEL: I can't relax. I don't know what line! I don't know any of 'em!<br>
+							<br>
+							
+						JERRY: You're just like George. George'd do the same thing. You're just like him. It's amazing!<br>
+							<br>
+							
+						MICHAEL: Help me Jerry! Help me!<br>
+							<br>
+							
+						(scene cuts to the producers in the crowd)<br>
+							<br>
+							
+						RITA: (to Stu) Where is Russell?<br>
+							<br>
+							
+						STU: You know I don't know. I thought he was coming. I assumed he wouldn't miss it.<br>
+							<br>
+							
+						JAY: He hasn't been well.<br>
+							<br>
+							
+						STU: (to Rita) Can I tell you something in confidence? I think it's a woman.<br>
+							<br>
+							
+						RITA: How pathetic.<br>
+							<br>
+							
+						(scene cuts to George on the same phone as Russell earlier)<br>
+							<br>
+							
+						GEORGE: This is George Costanza, I'm calling for my test results. Negative? Oh, my God. WHY! WHY! WHY? What? What? Negative is good? Oh, yes of course! How stupid of me. Thank you. Thank you very much. (he hangs up)<br>
+							<br>
+							
+						(scene cuts to the crowd and we see Joe Devola is there)<br>
+							<br>
+							
+						(scene cuts to Kramer entering his apartment with the dreaded apparatus)<br>
+							<br>
+							
+						(scene cuts to George, happy, eating and double-dipping chips. Tom is staring at him, George notices him, and aborts a double-dip)<br>
+							<br>
+							
+						GEORGE: (he walks casually to Tom, and taps his arm) Listen. I know we've had our problems in the past, but we got a show to do tonight. Time to pull together as a team. Life's too short. I say, let's let bygones be bygones. If you took the raisins, if you didn't take the raisins-- They weren't even my raisins. I was just curious because it seems like a strange to do to walk into a room, audition, and to walk out with a box of raisins. Anyway, whatever. If you ever want to tell me about it, the door to my office is always opened. In the event that I get an office. You'll come in, we'll talk about the raisins. We'll have a nice laugh.<br>
+							<br>
+							
+						TOM: How would you like it if I just pulled your heart out of your chest right now, and shoved it down your throat?<br>
+							<br>
+							
+						(scene cuts to the presentor, Pat Hazell, talking to the crowd)<br>
+							<br>
+							
+						PAT HAZELL: Are you ready to meet our cast? (crowd applause) All right.<br>
+							<br>
+							
+						(scene cuts to Kramer holding and staring at the dreaded apparatus, then closing his bathroom's door.)<br>
+							<br>
+							
+						(scene cuts to Jerry, holding a microphone and talking to the crowd)<br>
+							<br>
+							
+						JERRY: Good evening, folks. How you doing? (small reaction from the crowd) Well, you sound like a great crowd. We have a show we're gonna put on for you tonight. It's a new TV show. It's what they call a pilot. And we hope it becomes a series. It's called 'Jerry', and I'm playing Jerry--<br>
+							<br>
+							
+						JOE DEVOLA: (getting up then shouting) SIC SEMPER TYRANNIS! (he jumps over a balcony and on the stage. The crowd is yelling)<br>
+							<br>
+							
+						(scene ends)<br>
+							<br>
+							<br>
+							
+						[setting: Jerry's]<br>
+							<br>
+							
+						GEORGE: Sic semper tyrannis? What is that, Latin?<br>
+							<br>
+							
+						JERRY: Yeah, it's what John Wilkes Booth yelled out when he shot Lincoln.<br>
+							<br>
+							
+						GEORGE: Really? What does it mean?<br>
+							<br>
+							
+						JERRY: It means: &quot;Death to tyrants&quot;.<br>
+							<br>
+							
+						GEORGE: I can see that.<br>
+							<br>
+							
+						(Elaine enters)<br>
+							<br>
+							
+						ELAINE: See, now this is exciting! This is exciting! Did I miss anything already?<br>
+							<br>
+							
+						JERRY: No, it starts in five minutes. You were there at the taping, what's the big deal?<br>
+							<br>
+							
+						ELAINE: Nah, now it's on TV. It's different. I told everybody I know to watch it.<br>
+							<br>
+							
+						GEORGE: Yeah, me too.<br>
+							<br>
+							
+						JERRY: Hey, what about Russell? Did you hear from him?<br>
+							<br>
+							
+						ELAINE: No.<br>
+							<br>
+							
+						JERRY: Strange. Even not showing up at the taping...<br>
+							<br>
+							
+						(Kramer enters, singing and dancing)<br>
+							<br>
+							
+						KRAMER: Hey, pistol-packin mama, you swing that gal around, Allemande left with the old gray hag, around and around you go. Yee-ha!!<br>
+							<br>
+							
+						JERRY: Well, well, well.<br>
+							<br>
+							
+						ELAINE: Congratulations.<br>
+							<br>
+							
+						KRAMER: Well, thank you.<br>
+							<br>
+							
+						GEORGE: You went for the big &quot;E&quot;.<br>
+							<br>
+							
+						KRAMER: Wet and wild.<br>
+							<br>
+							
+						JERRY: All right. Come on sit down. It's about to start.<br>
+							<br>
+							
+						KRAMER: Oh, yes.<br>
+							<br>
+							
+						(Elaine finds something under the couch cushions)<br>
+							<br>
+							
+						ELAINE: Hey, what's this? Look. A wallet.<br>
+							<br>
+							
+						JERRY: A wallet? Let me see that.<br>
+							<br>
+							
+						ELAINE: Here.<br>
+							<br>
+							
+						JERRY: Ah, man! It's my father's wallet! The one he thought they stole at the doctor's office that time.<br>
+							<br>
+							
+						GEORGE: Shh! This is it!<br>
+							<br>
+							
+						JERRY: How do you like that?<br>
+							<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						(The show begins. There are three different settings while the show is on TV. Each line or description will be preceded by the right setting:<br>
+							<br>
+							
+						[Jerry's] Jerry's apartment with Elaine, George and Kramer watching the pilot.<br>
+							<br>
+							
+						[TV] The pilot<br>
+							<br>
+							
+						[Viewers] Characters from the season 4, watching TV in their home and commenting on the pilot.)<br>
+							<br>
+							
+						===[TV]===<br>
+							<br>
+							
+						(Jerry's doing his stand-up routine at a comedy club. There's the music theme and we don't hear what he is saying, but the closed captions put that:<br>
+							<br>
+							
+						&quot;I get into a car accident. The guy that hit me doesn't have any insurance. So the judge sentences him to be my butler. Sounds like a sitcom, doesn't it?&quot;<br>
+							<br>
+							
+						We see the title 'Jerry', then, sitting at the comedy club, we see:<br>
+							<br>
+							
+						Micheal, Sandi, and Tom, and finally Jerry, and the four of them make a toast while it's written: &quot;Created by Jerry Seinfeld and George Costanza&quot;.<br>
+							<br>
+							
+						===[Jerry's]===<br>
+							<br>
+							
+						(they all applause as the intro ends)<br>
+							<br>
+							
+						ELAINE: Bravo!<br>
+							<br>
+							
+						(Kramer taps George on the shoulder)<br>
+							<br>
+							
+						GEORGE: You hurt me.<br>
+							<br>
+							
+						===[TV]===<br>
+							<br>
+							
+						(Jerry's apartment, Michael knocks and enters)<br>
+							<br>
+							
+						MICHAEL: Hey.<br>
+							<br>
+							
+						JERRY: Hey George.<br>
+							<br>
+							
+						MICHAEL: New sneakers?<br>
+							<br>
+							
+						JERRY: Yeah.<br>
+							<br>
+							
+						MICHAEL: What do you need new sneakers for?<br>
+							<br>
+							
+						JERRY: I like sneakers.<br>
+							<br>
+							
+						MICHAEL: How do you make a decision which one to wear? I'd go crazy if I have to decide which sneakers to wear every day.<br>
+							<br>
+							
+						JERRY: Nah, you're crazy anyway.<br>
+							<br>
+							
+						===[Viewers]====<br>
+							<br>
+							
+						***<br>
+							<br>
+							
+						(Susan and Allison from 'The Smelly Car'. They're eating popcorn, sitting on a couch)<br>
+							<br>
+							
+						SUSAN AND ALLSION: (to each other while they recognize one of George's behaviors in Michael) George!<br>
+							<br>
+							
+						***<br>
+							<br>
+							
+						(Sid and the housekeeper from 'The Old Man')<br>
+							<br>
+							
+						SID: What kind of stupid show is this? Hey! It's that idiot that took all my records! (the houskeeper starts laughing)<br>
+							<br>
+							
+						***<br>
+							<br>
+							
+						(John-John and Marla the virgin from 'The Contest'. Marla is under the bed sheets while John-John is sitting at the end of the bed, with the TV remote in his hands)<br>
+							<br>
+							
+						MARLA: John, what are you doing? Come back to bed.<br>
+							<br>
+							
+						JOHN: (with a Boston accent) This show looks interesting. Isn't he that Seinfeld fellow you went out with?<br>
+							<br>
+							
+						MARLA: Ooh, he's horrible! Horrible!<br>
+							<br>
+							
+						JOHN: Nevertheless...<br>
+							<br>
+							
+						***<br>
+							<br>
+							
+						(The Drake, who went back with the Drakette, Allison, from 'The Handicap Spot'. They watch the pilot on a tiny mini-TV with a tiny antenna)<br>
+							<br>
+							
+						THE DRAKE: Ah, that Jerry's a funny guy. Huh? Got to love the Sein!<br>
+							<br>
+							
+						ALLSION: Hate the Sein! (while she adjusts the tiny antenna)<br>
+							<br>
+							
+						***<br>
+							<br>
+							
+						(Ping and Cheryl from 'The Visa'. They talk in Chinese and we see sub-titles in English)<br>
+							<br>
+							
+						PING: I can't believe you liked him.<br>
+							<br>
+							
+						CHERYL: I thought he was dark and disturbed.<br>
+							<br>
+							
+						PING: Real perceptive.<br>
+							<br>
+							
+						***<br>
+							<br>
+							
+						(Donald and his parents from 'The Bubble boy'. We see his arm coming off the bubble, between his parents. He doesn't have the TV remote anymore. His parents are laughing)<br>
+							<br>
+							
+						DONALD: This is a piece of crap!<br>
+							<br>
+							
+						MOTHER: Donald, you used to like him.<br>
+							<br>
+							
+						DONALD: What a sellout! Give me that remote!<br>
+							<br>
+							
+						MEL: No, Donald.<br>
+							<br>
+							
+						(he grabs the remote from his father's hand and the three of them start to fight)<br>
+							<br>
+							
+						===[Jerry's]===<br>
+							<br>
+							
+						(Jerry is getting a soda from the refrigerator)<br>
+							<br>
+							
+						KRAMER: Come on Jerry, the commercials almost over.<br>
+							<br>
+							
+						JERRY: All right.<br>
+							<br>
+							
+						ELAINE: You know Jerry I really like this guy who's playing the butler.<br>
+							<br>
+							
+						JERRY: Oh yeah. He's good. You know he's John Ritter's cousin.<br>
+							<br>
+							
+						ELAINE: Really?<br>
+							<br>
+							
+						JERRY: Yeah.<br>
+							<br>
+							
+						===[TV]===<br>
+							<br>
+							
+						(doorbell, Jerry opens the door, it's the butler, Charles)<br>
+							<br>
+							
+						JERRY: Hello, Charles.<br>
+							<br>
+							
+						CHARLES: Hello. So, where do you want me to start today?<br>
+							<br>
+							
+						JERRY: Why don't you start in the bedroom?<br>
+							<br>
+							
+						CHARLES: (to himself, upset) Start in the bedroom...<br>
+							<br>
+							
+						(Tom enters)<br>
+							<br>
+							
+						TOM: Hey.<br>
+							<br>
+							
+						JERRY: Hey. The butler's here.<br>
+							<br>
+							
+						TOM: He is? Listen. When he's finished, send him over to my house.<br>
+							<br>
+							
+						JERRY: I'm not sending him to your house.<br>
+							<br>
+							
+						TOM: Why not?<br>
+							<br>
+							
+						JERRY: Because the judge decreed he'd become my butler, not my friend's butler.<br>
+							<br>
+							
+						TOM: Jerry, he is your butler. You can give him any order you want. That's what butlers do.<br>
+							<br>
+							
+						JERRY: But I don't want to.<br>
+							<br>
+							
+						KRAMER: Jerry, my house is a pigsty, come on.<br>
+							<br>
+							
+						(buzzer, Jerry presses the button)<br>
+							<br>
+							
+						JERRY: Yeah?<br>
+							<br>
+							
+						SANDI: (from the buzzer's speaker) It's Elaine.<br>
+							<br>
+							
+						JERRY: Come on up.<br>
+							<br>
+							
+						(The butler comes back from the bedroom with a can of Pledge)<br>
+							<br>
+							
+						CHARLES: I need more Pledge.<br>
+							<br>
+							
+						JERRY: More Pledge! I just bought two cans last week and I don't even have any wood in the house!<br>
+							<br>
+							
+						CHARLES: Well, it goes fast.<br>
+							<br>
+							
+						(Sandi enters)<br>
+							<br>
+							
+						SANDI: (to Charles, very friendly) Hello.<br>
+							<br>
+							
+						CHARLES: Hello. (he goes back in the bedroom)<br>
+							<br>
+							
+						JERRY: What's all this about?<br>
+							<br>
+							
+						SANDI: We had a date.<br>
+							<br>
+							
+						JERRY: You had a date? You went out with my butler? Who said you could go out with my butler?<br>
+							<br>
+							
+						SANDI: Why do I need your permission?<br>
+							<br>
+							
+						JERRY: Because he's my butler!<br>
+							<br>
+							
+						===[Viewers]===<br>
+							<br>
+							
+						***<br>
+							<br>
+							
+						(Morty and Helen laughing)<br>
+							<br>
+							
+						MORTY: That's terrific!<br>
+							<br>
+							
+						HELEN: How could anyone not like him?<br>
+							<br>
+							
+						***<br>
+							<br>
+							
+						(Calvin Klein with Tia from 'The Pick')<br>
+							<br>
+							
+						C.K.: I like his style. He has a sort of casual elegance.<br>
+							<br>
+							
+						TIA: But he picks his nose.<br>
+							<br>
+							
+						C.K.: Nevertheless...<br>
+							<br>
+							
+						***<br>
+							<br>
+							
+						(Sal Bass and Sidra from 'The Implant')<br>
+							<br>
+							
+						SAL BASS: He's a member of our health club. Isn't he?<br>
+							<br>
+							
+						SIDRA: Yeah...<br>
+							<br>
+							
+						SAL BASS: You know that Kim Novak has some big breasts?<br>
+							<br>
+							
+						***<br>
+							<br>
+							
+						(Newman sleeping and snoring in his chair while a baseball game is on TV)<br>
+							<br>
+							
+						===[TV]===<br>
+							<br>
+							
+						(final monologue at the comedy club)<br>
+							<br>
+							
+						JERRY: Ever notice a lot of butlers are named Jeeves?<br>
+							<br>
+							
+						(quick shot at ===[Jerry's]=== they all watch)<br>
+							<br>
+							
+						JERRY: You know I think when you name a baby Jeeves, you've pretty much mapped out his future, wouldn't you say? Not much chance is gonna be a hitman I think after that. (with a British accent) &quot;Terribly sorry Sir, but I'm going to have to whack you&quot;.<br>
+							<br>
+							
+						(end of the pilot and of the three different settings)<br>
+							<br>
+							
+						[setting: back to Jerry's]<br>
+							<br>
+							
+						ALL: (applauding and shaking hands) Wooh! Yeah!<br>
+							<br>
+							
+						ELAINE: Wow! That was great! That show was so funny. It was really funny. I'm not just saying that cause I know you. Honestly.<br>
+							<br>
+							
+						JERRY: Let's go out and celebrate! (they all get up)<br>
+							<br>
+							
+						ELAINE: That was so good.<br>
+							<br>
+							
+						JERRY: Come on let's eat something. (phone rings)<br>
+							<br>
+							
+						ELAINE: You know what I think this thing is gonna get picked up George. You guys are gonna be rich!<br>
+							<br>
+							
+						GEORGE: Do you really think so?<br>
+							<br>
+							
+						ELAINE: Oh yeah.<br>
+							<br>
+							
+						GEORGE: And God didn't kill me.<br>
+							<br>
+							
+						JERRY: (to the phone) Hello?<br>
+							<br>
+							
+						RITA: Hi Jerry, this is Rita Kierson.<br>
+							<br>
+							
+						JERRY: Oh, hi Rita.<br>
+							<br>
+							
+						RITA: I'm calling to let you know that Russell Dalrimple is no longer with this network.<br>
+							<br>
+							
+						JERRY: Oh, my God. Did he get fired?<br>
+							<br>
+							
+						RITA: To be honest with you. Nobody really knows. He seems to have disappeared.<br>
+							<br>
+							
+						JERRY: Russell's disappeared?<br>
+							<br>
+							
+						RITA: In any event, I've been made the new president of NBC. As you may or may not know, Russell and I did not see eye to eye on many, many projects. And as my first order of business, I'm, uh, passing on your show.<br>
+							<br>
+							
+						JERRY: You're passing already? But the show just ended two minutes ago!<br>
+							<br>
+							
+						RITA: Well, I just got the job. Goodbye, Jerry.<br>
+							<br>
+							
+						JERRY: Yeah, see ya. (he hangs up)<br>
+							<br>
+							
+						(Jerry and George stare at Elaine)<br>
+							<br>
+							
+						ELAINE: What-- What are you looking at me for?<br>
+							<br>
+							
+						GEORGE: It was you!<br>
+							<br>
+							
+						ELAINE: What did I do?<br>
+							<br>
+							
+						JERRY: Do you realize his obsession with you cost us a TV series?<br>
+							<br>
+							
+						ELAINE: I didn't know that he'd fall for me and I'd drive him insane. I mean, you know, that's not my fault.<br>
+							<br>
+							
+						GEORGE: Yes it is! You're very charming!<br>
+							<br>
+							
+						ELAINE: I can't believe this? What happened to him? Where the hell is he?<br>
+							<br>
+							
+						JERRY: No one knows.<br>
+							<br>
+							
+						(scene ends)<br>
+							<br>
+							<br>
+							
+						[setting: Greenpeace raft on the ocean, following a whaler]<br>
+							<br>
+							
+						(Russell with two other guys in the Greenpeace boat)<br>
+							<br>
+							
+						RUSSELL: She works for Pendant Publishing. She's the most beautiful woman I've ever seen. You know, I used to work for NBC, but when I go back to her this time, she'll respect me.<br>
+							<br>
+							
+						MAN ON RAFT: You'd better get down. They might start firing soon. (harpoon fires)<br>
+							<br>
+							
+						(scene ends)<br>
+							<br>
+							
+						&nbsp;<br>
+							
+						[setting: Monk's]<br>
+							<br>
+							
+						(The restaurant is full of men, some of them standing and waiting for a table. Jerry, Elaine, George and Kramer enters)<br>
+							<br>
+							
+						JERRY: Hey look at this. What is going on here?<br>
+							<br>
+							
+						GEORGE: Well, well, well.<br>
+							<br>
+							
+						ELAINE: Nothing has changed. How did this happen? (she sees the two guys of the Equal Employment Opportunity Commission at a table) Ah, these are the two guys I talked to at the Equal Employment Opportunity Commission. Hey! What are you two guys doing here? I thought you were gonna do something about this. Now you're eating here?<br>
+							<br>
+							
+						FRED: Oh no. That's why we're here. We're checking things out.<br>
+							<br>
+							
+						PAUL: Yeah, we're checking it out.<br>
+							<br>
+							
+						ELAINE: (to Paul) You're checking it out?<br>
+							<br>
+							
+						(a man is leaving the restaurant and walks by Fred and Paul's table)<br>
+							<br>
+							
+						MAN: (to Fred and Paul) See you back at the office, guys.<br>
+							<br>
+							
+						Mr. VISAKI: Fred, Paul, lunch and dinner? Boy, you guys ought to move in. How about a piece of pie on me? Sophia! Take care of these fellows.<br>
+							<br>
+							
+						ELAINE: (to the manager) Hey! Come here a second. I want you to know something. You are not gonna get away with this!<br>
+							<br>
+							
+						Mr. VISAKI: Get away with what?<br>
+							<br>
+							
+						ELAINE: Ah, &quot;with what?&quot; You know what. With the waitresses. How they're all... alike.<br>
+							<br>
+							
+						Mr. VISAKI: Of course they're alike. They're my daughters.<br>
+							<br>
+							
+						(they all show smiles of surprise)<br>
+							<br>
+							
+						ELAINE: (embarrassed, but smiling) Oh, your daughters.<br>
+							<br>
+							
+						GEORGE: You must be very proud Mr. Visaki. (shaking his hand) And may I say sir they're lovely girls, absolutely lovely girls. It's nice to see such fine upstanding women in gainful employment, Mr. Visaki.<br>
+							<br>
+							
+						Mr. VISAKI: Oh, here's a table for you.<br>
+							<br>
+							
+						GEORGE: A table right here.<br>
+							<br>
+							
+						Mr. VISAKI: Peggy!<br>
+							<br>
+							
+						GEORGE: Peggy! (they all sit) His daughter Peggy. Peggy's coming over to serve.<br>
+							<br>
+							
+						JERRY: What a family!<br>
+							<br>
+							
+						Mr. VISAKI: My daughter Peggy.<br>
+							<br>
+							
+						GEORGE: Ah! Peggy. Good to see you.<br>
+							<br>
+							
+						ELAINE: Hi Peggy.<br>
+							<br>
+							
+						GEORGE: Thank you very much. (Peggy leaves the menus and walks away) So guess what I got do tomorrow?<br>
+							<br>
+							
+						JERRY: What?<br>
+							<br>
+							
+						GEORGE: Start looking for a job.<br>
+							<br>
+							
+						KRAMER: You know what you ought to do George? You should work for Greenpeace. You those people they attack the whalers out on the open sea.<br>
+							<br>
+							
+						GEORGE: Are you crazy? You take your life in your hands with those nuts.<br>
+							<br>
+							
+						(scene ends)<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						[setting: Greenpeace raft]<br>
+							<br>
+							
+						(Russell fell off the boat but still hangs on to a rope. The other man, still in the boat is screaming to him and holds the rope.)<br>
+							<br>
+							
+						MAN: Keep fighting matey! Get your head above the water! I've got you matey! I've got you! Matey! (he loses the rope) I'll remember her name! Elaine Benes! I'll write to her. I'll tell her all about you and what you did out here! Goodbye, matey! Goddbye!<br>
+							<br>
+							
+						(we see the script of the pilot 'Jerry' floating on the ocean)<br>
+							<br>
+							<br>
+							
+						The End</td>
+						</tr>
+						<tr height="6">
+							<td class="bottom2" width="645" height="6"></td>
+						</tr>
+						<tr>
+							<td width="645">
+								<div align="center">
+									<font size="-1">Copyright 2006 seinology.com | All Rights Reserved | Designed by 13erla</font></div>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+		<p></p>
+	</body>
+
+</html>

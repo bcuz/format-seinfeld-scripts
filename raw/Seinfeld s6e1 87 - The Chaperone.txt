@@ -1,0 +1,1195 @@
+<tdOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+<html>
+
+	<head>
+		<meta http-equiv="content-type" content="text/html;charset=ISO-8859-1">
+		<meta name="description" content="Top Source for Seinfeld">
+		<meta name="keywords" content="seinfeld, sienfeld, Jerry Seinfeld, Julia Louis Dreyfus, Jason Alexander, Michael Richards, Kramer, George, Costanza, Elaine Benes, morty, Larry David">
+		<title>Seinology.com :: Scripts :: 87-The Chaperone</title>
+	<link rel='stylesheet' href='/stylesheet.css' type='text/css'>
+	</head>
+
+	<body>
+			<table align="center" width="787" border="0" cellspacing="0" cellpadding="0">
+				<tr>
+					<td><font size="-2" color="red">Seinology.com - </font><font size="-3" color="black">Where Seinfeld Content and Accuracy Matter Most. Seinfeld scripts in pdf form, Seinfeld episode video clips, Seinfeld episode audio clips, Jerry Seinfeld appearances, Julia Louis-Dreyfus appearances, Michael Richards appearances, Jason Alexander appearances, Seinfeld discussion Forum, Seinfeld Where are they Now? Seinlanguage Newsletter, Popular Seinfeld Lists, Seinfeld episode standup, Seinfeld episode guide, Seinfeld fan fiction. Seinfeld content all on one domain. Seinology.com enjoy your stay.</font></td>
+				</tr>
+			</table>
+		
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr height="100">
+				<td class="logo"></td>
+			</tr>
+			<tr><td class="ads" align="center" background=#8694fa>
+				<script type="text/javascript"><!--
+google_ad_client = "pub-1924026976931416";
+google_ad_width = 728;
+google_ad_height = 90;
+google_ad_format = "728x90_as";
+google_ad_type = "text";
+google_ad_channel = "";
+google_color_border = "FFFFFF";
+google_color_bg = "8694fa";
+google_color_link = "0000FF";
+google_color_text = "000000";
+google_color_url = "002E3F";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></td></tr>
+		</table>
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr>
+				<td valign="top" width="136">
+					<table width="136" border="0" cellspacing="0" cellpadding="0">
+						<tr height="24">
+							<td class="navigation">
+								<div align="center">
+									
+									<b>Navigation</b></div>
+							</td>
+						</tr>
+						<tr height="199">
+							<td class="spacer1" valign="top" width="136" height="199">
+								<div align="center">
+									<font size="-1"><a href="http://www.seinology.com">Home</a><br>
+										<a href="http://board.seinology.com">Forum</a><br>
+										<a href="http://www.seinology.com/av.shtml">Audio/Video</a><br>
+										<a href="http://www.seinology.com/scripts.shtml">Scripts</a><br>
+										<a href="http://www.seinology.com/survivor.shtml">Survivor</a><br>
+										<a href="http://www.seinology.com/fanfics.shtml">Fan Fiction</a><br>
+										<a href="http://www.seinology.com/gallery/">Gallery</a><br>
+										<a href="http://www.seinology.com/newsletter.shtml">Newsletter</a><br>
+										<a href="http://www.seinology.com/lists.shtml">Lists</a><br>
+										<a href="http://www.seinology.com/epguide.shtml">Episode Guide</a><br>
+										<a href="http://www.seinology.com/links.shtml">Links</a><br>
+										<a href="http://www.seinology.com/faqother.shtml">Faq + others</a><br>
+										<a href="http://www.seinology.com/legal.shtml">Legal</a></font></div>
+							</td>
+						</tr>
+						
+						<tr>
+							<td class="nav2" width="136">
+							<div align="center"><b>Search</b></div></td>
+						</tr>
+						<tr>
+							<td class="spacer1" width="136" valign="top"><div align="center"><form method="get" action="http://www.seinology.com/search/search.cgi">
+<p><label for="fdse_Match">Match</label><br>
+<select name="Match" id="fdse_Match" size="1">
+<option value="1">All</option>
+<option value="0">Any</option>
+<option value="2">Phrase</option>
+</select></p>
+<p><label for="fdse_Realm">Where?</label><br>
+<select name="Realm" id="fdse_Realm" size="1">
+<option selected="selected" value="All">EntireSite</option>
+<option value="Ep Guide">Ep Guide</option>
+<option value="Images">Images</option>
+<option value="Lists">Lists</option>
+<option value="Newsletters">Newsletters</option>
+<option value="Scripts">Scripts</option>
+<option value="Notes..Nothing">Notes..Nothing</option>
+</select></p>
+<p><input type="text" name="Terms" size="14" id="fdse_Terms"><br>
+<input type="submit" class="submit" name="submitButtonName" value="Search"></p>
+</div></form></td>
+						</tr>
+						<tr><td class="bottom" width="136" height="10" valign="top">
+						</td>
+						</tr>
+					</table>
+				</td>
+				<td width="4"></td>
+				<td valign="top" width="645">
+					<table width="645" border="0" cellspacing="0" cellpadding="0">
+						<tr height="18">
+							<td width="645" height="35" class="bar">
+								<div align="center">
+									<b><font size="+2" color="black">Script</font></b></div>
+							</td>
+						</tr>
+						<tr height="362">
+							<td class="spacer2" valign="top" width="645" height="362">
+
+						<p><font size="-2">Episode 87 - The Chaperone<br>
+							
+						pc: 601, season 6, episode 1<br>
+							
+						Broadcast date: September 22, 1994<br>
+							<br>
+							
+						Written by Larry David, Bill Masters &amp; Bob Shaw<br>
+							
+						Directed by Andy Ackerman<br>
+							<br>
+							
+						-------------------------------------------------------------------------------<br>
+							<br>
+							
+						The Cast<br>
+							
+						Regulars:<br>
+							
+						Jerry Seinfeld ....................... Jerry Seinfeld<br>
+							
+						Jason Alexander .................. George Costanza<br>
+							
+						Julia Louis-Dreyfus ............. Elaine Benes<br>
+							
+						Michael Richards ................. Kramer<br>
+							<br>
+							
+						Guest Stars:<br>
+							<br>
+							
+						Gail Strickland&nbsp; .................... Landis<br>
+							
+						Marguerite MacIntyre ......... Karen (Miss Rhode Island)<br>
+							
+						Danny Tartabull&nbsp; ................. Himself<br>
+							
+						Buck Showalter&nbsp;&nbsp; ................. Himself<br>
+							
+						rc:&nbsp; Ian Abercrombie ........... Mr. Pitt<br>
+							<br>
+							
+						==================================================================<br>
+							<br>
+							
+						[Opening Monologue]<br>
+							<br>
+							
+						Baseball is so associated with sex. &quot;He's playing the field,&quot; &quot;Hoo, he scored,&quot; &quot;oh, he didn't get to first base.&quot; &quot;I struck out.&quot; &quot;Why?&quot; &quot;She wanted a diamond.&quot; It's always about baseball. Always baseball. As far as baseball goes, I prefer the fat umpires...I feel if you're on the field and you're not in the game, you should be in the worst physical condition a human being could possibly be in. They should be allowed to eat during the game. We're a little too into sports in this country, I think we gotta throttle back. Know what I mean? People come home from these games, &quot;We won! We won!&quot; No, they won - you watched.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Opening scene - A locker room at Yankee Stadium. George is helping Danny Tartabull with his swing.]<br>
+							<br>
+							
+						GEORGE: O.K., Danny, take a swing. (Tartabull swings the bat.) N-No! No! No! You're opening up your shoulder.<br>
+							<br>
+							
+						TARTABULL: Really?<br>
+							<br>
+							
+						GEORGE: No, not really. I'm just saying this to you because I like to hear myself talk. Yes, really!<br>
+							<br>
+							
+						TARTABULL (wiping sweat from his brow): Alright, alright.<br>
+							<br>
+							
+						GEORGE: What are all sweatin' for?<br>
+							<br>
+							
+						TARTABULL: It's hot in this uniform.<br>
+							<br>
+							
+						GEORGE: Hot? (Feels Tartabull's material.) What is this?<br>
+							<br>
+							
+						TARTBULL: What is what?<br>
+							<br>
+							
+						GEORGE: This uniform, what's it made from?<br>
+							<br>
+							
+						TARTBULL: I don't know, cotton?<br>
+							<br>
+							
+						GEORGE: No. This is not cotton. Here, lemme see. (Tries to look at the tag on the uniform. Tartabull gets creeped out and resists.) Will you stop it? (Looks at the tag.) Oh. Of course. Polyester!<br>
+							<br>
+							
+						TARTABULL: So?<br>
+							<br>
+							
+						GEORGE: I can't believe you're not playing in cotton.<br>
+							<br>
+							
+						TARTABULL: Well, this is what they give us.<br>
+							<br>
+							
+						GEORGE: You know they used to make leisure suits out of this fabric?<br>
+							<br>
+							
+						TARTABULL: You really think cotton's better?<br>
+							<br>
+							
+						GEORGE: Of course! Alright, maybe I'll say something to Buck.<br>
+							<br>
+							
+						TARTABULL: Yeah, good idea. Catch ya later. (Leaves.)<br>
+							<br>
+							
+						GEORGE: Hey, don't embarrass me today. I got some friends in the stands. (George makes a swinging motion with an imaginary bat and pulls something in his back.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[New scene - Jerry and Elaine watching the ball game in the stands.<br>
+							<br>
+							
+						HOT DOG VENDOR: Hot dogs here! Yankee franks!<br>
+							<br>
+							
+						ELAINE: Oh, you want one?<br>
+							<br>
+							
+						JERRY: Yeah.<br>
+							<br>
+							
+						ELAINE: I'll get it. (Reaches in her bag for money.)<br>
+							<br>
+							
+						JERRY: That's alright, I got it.<br>
+							<br>
+							
+						ELAINE: Jerry!<br>
+							<br>
+							
+						JERRY: Elaine, stop it.<br>
+							<br>
+							
+						ELAINE: Hey, just because I'm not working doesn't mean I haven't got any money. (To vendor) Yo! Dogs! Two!<br>
+							<br>
+							
+						JERRY: I'm sorry.<br>
+							<br>
+							
+						ANNOUNCER ON P.A. SYSTEM: Your attention please...the New York Yankees would like to welcome Miss Connecticut, Miss Rhode Island and Miss North Dakota, all of whom will be competing in the Miss America pageant this weekend in Atlantic City. (The three contestants make their way to their seats, right across the aisle from Jerry and Elaine.)<br>
+							<br>
+							
+						JERRY (to Elaine): Now, there's a career path you may have overlooked.<br>
+							<br>
+							
+						ELAINE: Ooh, I gotta check my machine. I'm waiting to hear about an interview. Doubleday is looking for somebody to replace Jackie Onassis.<br>
+							<br>
+							
+						JERRY: Oh, she worked at Doubleday...?<br>
+							<br>
+							
+						ELAINE: Yeah, she was an editor.<br>
+							<br>
+							
+						JERRY: Right, just like you.<br>
+							<br>
+							
+						ELAINE: Yeah. Can you hold my seat? (Elaine gets up.)<br>
+							<br>
+							
+						CROWD: Hey! Down in front! (Elaine clambers over Jerry and exits.)<br>
+							<br>
+							
+						JERRY (offers a hot dog to Miss Rhode Island): Hot dog?<br>
+							<br>
+							
+						MISS RHODE ISLAND: No, thanks. I'm watching my weight.<br>
+							<br>
+							
+						JERRY: Ah. I'm watching my height. My doctor doesn't want me to get any taller. So you're Miss, uh...<br>
+							<br>
+							
+						MISS RHODE ISLAND: Rhode Island.<br>
+							<br>
+							
+						JERRY: I was almost Mr. Coffee. They felt I was a little too relaxed. (Miss Rhode Island laughs.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[New scene - Jerry and George in Jerry's apartment later that day.]<br>
+							<br>
+							
+						GEORGE: Miss Rhode Island? When are you seeing her?<br>
+							<br>
+							
+						JERRY: Tonight. I have to call her, she's staying in a hotel.<br>
+							<br>
+							
+						GEORGE: You're incredible.<br>
+							<br>
+							
+						JERRY: And get this - I'm working in Atlantic City this weekend, and she's going to be down there for the pageant.<br>
+							<br>
+							
+						GEORGE: What if she becomes Miss America? You could be dating Miss America, Jerry!<br>
+							<br>
+							
+						JERRY: The only bad thing is, we have to go out with a chaperone.<br>
+							<br>
+							
+						GEORGE: Chaperone? What, are you kidding?<br>
+							<br>
+							
+						JERRY: No, it's part of the contest rules.<br>
+							<br>
+							
+						GEORGE: What does the chaperone do?<br>
+							<br>
+							
+						JERRY: I don't know, she just sits there.<br>
+							<br>
+							
+						GEORGE: Can she talk?<br>
+							<br>
+							
+						JERRY: I'm not sure if she's allowed to talk. (Picks up the phone and dials.)<br>
+							<br>
+							
+						GEORGE: You're calling her?<br>
+							<br>
+							
+						JERRY: Yeah. (sings) There she is...Miss - yes, room 417 please? Karen Hanson?<br>
+							<br>
+							
+						GEORGE: Hey, did you know that the Yankees don't wear cotton jerseys?<br>
+							<br>
+							
+						JERRY: Of course, they're polyester.<br>
+							<br>
+							
+						GEORGE: Well, what is that? That's a crime! Do you know how hot those things get? They should be wearing cotton.<br>
+							<br>
+							
+						JERRY: Why do they wear polyester?<br>
+							<br>
+							
+						GEORGE: I don't know. That's all gonna change.<br>
+							<br>
+							
+						JERRY: You're going to do something about it?<br>
+							<br>
+							
+						GEORGE: Why shouldn't I?<br>
+							<br>
+							
+						JERRY (doubtfully): No reason...<br>
+							<br>
+							<br>
+							<br>
+							
+						[New scene - Elaine at her job interview at Doubleday with Mrs. Landis.]<br>
+							<br>
+							
+						LANDIS: Of course, Jackie O. was a great lady. Those are going to be some tough shoes to fill. Everyone loved her. She had such...grace.<br>
+							<br>
+							
+						ELAINE (gushing): Yes! Grace!<br>
+							<br>
+							
+						LANDIS: Not many people have grace.<br>
+							<br>
+							
+						ELAINE: Well, you know, grace is a tough one. I like to think I have a little grace...not as much as Jackie -<br>
+							<br>
+							
+						LANDIS: You can't have &quot;a little grace.&quot; You either have grace, or you...don't.<br>
+							<br>
+							
+						ELAINE: O.K., fine, I have...no grace.<br>
+							<br>
+							
+						LANDIS: And you can't acquire grace.<br>
+							<br>
+							
+						ELAINE: Well, I have no intention of &quot;getting&quot; grace.<br>
+							<br>
+							
+						LANDIS: Grace isn't something you can pick up at the market.<br>
+							<br>
+							
+						ELAINE (fed up): Alright, alright, look - I don't have grace, I don't want grace...I don't even say grace, O.K.?<br>
+							<br>
+							
+						LANDIS: Thank you for coming in.<br>
+							<br>
+							
+						ELAINE: Yeah, yeah, right.<br>
+							<br>
+							
+						LANDIS: We'll make our choice in a few days, and we'll let you know.<br>
+							<br>
+							
+						ELAINE (stands up): I have no chance, do I?<br>
+							<br>
+							
+						LANDIS: No. (They shake hands.)<br>
+							<br>
+							
+						LANDIS'S INTERCOM: Justin Pitt to see you.<br>
+							<br>
+							
+						ELAINE: Justin Pitt?<br>
+							<br>
+							
+						LANDIS: He was a very close friend of Mrs. Onassis's.<br>
+							<br>
+							
+						ELAINE: &quot;Mrs. Onassis's&quot;? That's hard to pronounce.<br>
+							<br>
+							
+						LANDIS: Excuse me?<br>
+							<br>
+							
+						ELAINE: Nothing. (Mr. Pitt comes in with some papers in hand.)<br>
+							<br>
+							
+						PITT: Mrs. Landis, there's something wrong with this copying machine, it's all coming out slanted. Now, I don't know if this is your department or not.<br>
+							<br>
+							
+						LANDIS: Justin Pitt, this is Elaine Benes. (Elaine turns around. With sunglasses and a scarf on her head, she bears a close resemblance to Jackie O.)<br>
+							<br>
+							
+						PITT (clearly affected by Elaine's appearance): Charmed.<br>
+							<br>
+							
+						ELAINE: I was a great admirer of Mrs. Onass-sis-sis-sis...<br>
+							<br>
+							<br>
+							<br>
+							
+						[Cut back to Jerry's apartment; Jerry's on the phone with Miss Rhode Island.]<br>
+							<br>
+							
+						JERRY: Hello, Karen? It's Jerry Seinfeld. Oh, that's very sweet of you. You know, you better be careful, you don't want to get too congenial. They'll slap that &quot;Miss Congeniality&quot; on you, and you'll congene yourself right out of the contest. So, what time do you want to get together later? What? So what, we don't need the chaperone. (To George) The chaperone can't make it. (To Karen) Oh, you're not gonna get disqualified! So, we're not going? (Kramer enters.) Hold on one second. (To Kramer) Hey, what are you doing tonight?<br>
+							<br>
+							
+						KRAMER: Nothin.'<br>
+							<br>
+							
+						JERRY: I'm going out with one of the Miss America contestants, you wanna go?<br>
+							<br>
+							
+						KRAMER: What state?<br>
+							<br>
+							
+						JERRY: Rhode Island.<br>
+							<br>
+							
+						KRAMER: They're never in contention.<br>
+							<br>
+							
+						GEORGE: How do you know?<br>
+							<br>
+							
+						KRAMER: Because I've seen every Miss America pageant since I was six.<br>
+							<br>
+							
+						JERRY: Look, do you want to go or not? I'll buy you dinner.<br>
+							<br>
+							
+						KRAMER: Giddy-up!<br>
+							<br>
+							
+						JERRY (to Karen): I think I got someone!<br>
+							<br>
+							<br>
+							<br>
+							
+						[New scene - Elaine and Mr. Pitt having lunch at the coffee shop.]<br>
+							<br>
+							
+						PITT (looking at Elaine and smiling): The resemblance is uncanny. (Elaine, sipping soda through a straw, looks up with a sour expression on her face.) Even the brown eyes.<br>
+							<br>
+							
+						ELAINE: Well, a lot of people have brown eyes.<br>
+							<br>
+							
+						PITT: No, there's something else. An indefinable quality.<br>
+							<br>
+							
+						ELAINE: Grace?<br>
+							<br>
+							
+						PITT: Grace, yes.<br>
+							<br>
+							
+						ELAINE: You think Ihave grace?<br>
+							<br>
+							
+						PITT: Some grace, yes.<br>
+							<br>
+							
+						ELAINE: Just some?<br>
+							<br>
+							
+						PITT: Well, you don't want too much grace or you won't be able to stand.<br>
+							<br>
+							
+						ELAINE (laughing): Oh, Mr. Pitt.<br>
+							<br>
+							
+						PITT: Elaine, I want you to come and work for me as my personal assistant. Now, I'll pay you the same as Pendant, but I would need you to start right away.<br>
+							<br>
+							<br>
+							<br>
+							
+						[New scene - George approaches Buck Showalter at Yankee Stadium.]<br>
+							<br>
+							
+						GEORGE: Hey, Buck. Talk to you for a second?<br>
+							<br>
+							
+						SHOWALTER: Sure, George.<br>
+							<br>
+							
+						GEORGE: How's everything going? Everything O.K.?<br>
+							<br>
+							
+						SHOWALTER: Well, all of a sudden there's a problem with Tartabull's swing...<br>
+							<br>
+							
+						GEORGE: Listen, Buck, I uh...obviously I don't need to talk to you about the importance of player morale, but uh...I've been talking to some of the guys, and some of them - I don't want to mention any names - but some of them...they're not too happy with the polyester uniforms.<br>
+							<br>
+							
+						SHOWALTER: How so?<br>
+							<br>
+							
+						GEORGE: Well, they get very hot in the polyester. You know, it's not a natural fibre. I think they would prefer cotton.<br>
+							<br>
+							
+						SHOWALTER: Cotton, huh?<br>
+							<br>
+							
+						GEORGE: Yeah. Cotton breathes, you see, it's much softer. Imagine playing games and your team is five degrees cooler than the other team. Don't you think that would be an advantage? They're cooler, they're more comfortable...they're happier - they're gonna play better.<br>
+							<br>
+							
+						SHOWALTER: You may have something there, George.<br>
+							<br>
+							
+						GEORGE: Oh - I've got something.<br>
+							<br>
+							
+						SHOWALTER (considering): Hmm. Cotton uniforms.<br>
+							<br>
+							<br>
+							<br>
+							
+						[New scene - Jerry and Elaine in Jerry's apartment.]<br>
+							<br>
+							
+						JERRY: Congratulations!<br>
+							<br>
+							
+						ELAINE: Yeah! And the best part is, I still get to look for work in publishing.<br>
+							<br>
+							
+						JERRY: Now, what is it that you do, exactly?<br>
+							<br>
+							
+						ELAINE: I attend to his personal affairs.<br>
+							<br>
+							
+						JERRY: Like what?<br>
+							<br>
+							
+						ELAINE: Well, like tomorrow for example, I have to uh...I have to buy him some socks.<br>
+							<br>
+							
+						JERRY: Really! Socks!<br>
+							<br>
+							
+						ELAINE: Yeah. White ones. Like the ones you wear with sneakers.<br>
+							<br>
+							
+						JERRY: Hey, maybe you can pick me up some underwear! (Kramer enters.)<br>
+							<br>
+							
+						KRAMER (shows Jerry his outfit): So, what do you think? Does this work?<br>
+							<br>
+							
+						JERRY: Listen...tonight, after we finish eating, you make like you got something else to do and just &quot;recede into the night,&quot; if you know what I mean.<br>
+							<br>
+							
+						KRAMER: No way!<br>
+							<br>
+							
+						JERRY: What?<br>
+							<br>
+							
+						KRAMER: Look, if you think I'm just going to step aside and do nothing while you defile this woman, you're crazy.<br>
+							<br>
+							
+						JERRY: I'm not going to &quot;defile&quot; her!<br>
+							<br>
+							
+						KRAMER: That's right, because I'm going to see it doesn't happen. Look, Jerry, these girls are Miss America contestants. It's every little girl's dream. And I'm not going to let you trample that dream and make a mockery of everything the pageant stands for.<br>
+							<br>
+							
+						JERRY: But -<br>
+							<br>
+							
+						KRAMER (holds up his hand): AAAH! No buts! Those are my rules.<br>
+							<br>
+							
+						JERRY: But wait a minute...<br>
+							<br>
+							
+						KRAMER: Now, if you want to go out and have some good, wholesome fun with a nice girl, I'd be glad to help you out...if you're looking for something more than that, you've got the wrong guy, buddy! (Jerry tries to get a word in during this entire speech, but Kramer won't budge an inch.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[New scene - Jerry and Kramer at the restaurant with Miss Rhode Island.]<br>
+							<br>
+							
+						KRAMER: If you were Miss America, what would you do to make the world a better place?<br>
+							<br>
+							
+						KAREN: As Miss America, I would try and bring an end to world hunger. If every person sacrificed one meal a week, there would be enough to feed the whole world!<br>
+							<br>
+							
+						JERRY: That's a hell of a plan. (To Kramer) Listen -<br>
+							<br>
+							
+						KRAMER (to Karen): What advice would you give young people?<br>
+							<br>
+							
+						JERRY: Alright, Kramer!<br>
+							<br>
+							
+						KRAMER: This is important stuff! She's got to be able to answer these questions. She's not going to have time to think, out there, with millions of people watching her. Any hesitation could cost her the crown. You know, poise counts.<br>
+							<br>
+							
+						KAREN: You really know a lot about this, don't you?<br>
+							<br>
+							
+						KRAMER: Oh yeah, like last year? Miss Texas? Now, she should have won easily, but she lost points in the swimsuit competition.<br>
+							<br>
+							
+						KAREN: Well, what could she have done?<br>
+							<br>
+							
+						KRAMER: Tape her breasts together. (Jerry is shocked.)<br>
+							<br>
+							
+						KAREN: What else?<br>
+							<br>
+							
+						KRAMER: Well, take you for example. Now, you're very attractive, but you got a big waist.<br>
+							<br>
+							
+						JERRY: Hey, come on!<br>
+							<br>
+							
+						KAREN: No, no...it's O.K. (To Kramer) Go on.<br>
+							<br>
+							
+						KRAMER: Well, I'd recommend a waist cincher.<br>
+							<br>
+							
+						KAREN: Really.<br>
+							<br>
+							
+						KRAMER: Oh, yeah. Just - thip! - suck you in.<br>
+							<br>
+							
+						JERRY: I'll be right back. (Leaves the table.)<br>
+							<br>
+							
+						KRAMER: So, what's your talent?<br>
+							<br>
+							
+						KAREN: Magic.<br>
+							<br>
+							
+						KRAMER: Mmm. I'm thinking of a number from one to ten.<br>
+							<br>
+							
+						KAREN: Six.<br>
+							<br>
+							
+						KRAMER: No, five. But you were close.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Cut to Jerry on his way past the restaurant bar. He notices the ballgame on TV.]<br>
+							<br>
+							
+						ANNOUNCER #1: And the Yankees take the field!<br>
+							<br>
+							
+						ANNOUNCER #2: Is it my imagination, or do the Yankees look a little different tonight? I can't put my finger on it...<br>
+							<br>
+							
+						ANNOUNCER #1: Well, from what I understand, they've switched to cotton uniforms.<br>
+							<br>
+							
+						ANNOUNCER #2: They seem blousier, softer...<br>
+							<br>
+							
+						ANNOUNCER #1: Well, it is a natural fibre...<br>
+							<br>
+							
+						(Jerry shakes his head and continues on his way.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[New scene - Jerry, Karen and Kramer heading home in the limo. Kramer is still going on about the pageant.]<br>
+							<br>
+							
+						KRAMER: How's your evening?<br>
+							<br>
+							
+						KAREN: Well, I'm wearing this red dress -<br>
+							<br>
+							
+						KRAMER: Stop right there.<br>
+							<br>
+							
+						KAREN: No good?<br>
+							<br>
+							
+						KRAMER: Disaster.<br>
+							<br>
+							
+						KAREN: Why?<br>
+							<br>
+							
+						KRAMER: Well, you got brown eyes. You want to wear a green dress.<br>
+							<br>
+							
+						KAREN: That makes sense. (The limo stops at Karen's hotel.)<br>
+							<br>
+							
+						JERRY: Well, here we are...<br>
+							<br>
+							
+						KAREN: Kramer, would you consider being my personal consultant for the pageant?<br>
+							<br>
+							
+						KRAMER: Okay. But if I'm going to do this, we play by my rules or we don't play at all.<br>
+							<br>
+							
+						KAREN: I am in your hands. (They shake hands.) Well! Oh, good night, Jerry. (They're about to kiss, but Kramer stops them by clearing his throat.) Kenneth will take you home. (She gets out, leaving Jerry staring at Kramer with an angry expression on his face.)<br>
+							<br>
+							
+						(Scene ends with an exterior shot of the limo going down the street. We hear Kramer singing the Miss America theme song, and Jerry telling him to &quot;shut the f*ck up.&quot;)<br>
+							<br>
+							<br>
+							<br>
+							
+						[New scene - Jerry's apartment the next day. Jerry's packing to go to Atlantic City. Kramer enters.]<br>
+							<br>
+							
+						KRAMER: Hey.<br>
+							<br>
+							
+						JERRY: Well, if it isn't Mr. Blackwell.<br>
+							<br>
+							
+						KRAMER: Oh, come on.<br>
+							<br>
+							
+						JERRY: And that waist cincher, that was the topper!<br>
+							<br>
+							
+						KRAMER: Oh, you're poo-pooing!<br>
+							<br>
+							
+						JERRY: Yes, I poo-poo.<br>
+							<br>
+							
+						KRAMER: Well, let me tell you something. I'm taking this kid to the top. To the top, Jerry! We're going for the crown, and you can't stop her!<br>
+							<br>
+							
+						JERRY: I don't want to stop her!<br>
+							<br>
+							
+						KRAMER: You can't stop her, Jerry! Oh, I've seen 'em come and go, but this kid has got something! (Turns to leave.)<br>
+							<br>
+							
+						JERRY: Yeah, so do you. (George enters with a newspaper.)<br>
+							<br>
+							
+						GEORGE: Well, did you see it?<br>
+							<br>
+							
+						JERRY: See what?<br>
+							<br>
+							
+						GEORGE: The uniforms! Did you see how they played? Listen to these comments! (reads from the paper) &quot;Wade Boggs: 'What a fabric! Finally we can breathe.' Luis Palonia: 'Cotton is king.' Paul O'Neill: 'I never dreamed anything could be so soft and fluffy.' &quot;<br>
+							<br>
+							
+						JERRY: Boy, they really do sound comfortable.<br>
+							<br>
+							
+						GEORGE (noticing Jerry's suitcase): Hey, where ya goin'?<br>
+							<br>
+							
+						JERRY: I'm working in Atlantic City.<br>
+							<br>
+							
+						GEORGE: Really!<br>
+							<br>
+							
+						JERRY: Yeah. Hey, you're not working this weekend, why don't you come down?<br>
+							<br>
+							
+						GEORGE: Atlantic City? (thinks) Yes! Yes! I will go to Atlantic City. I'm in. I'm down.<br>
+							<br>
+							
+						JERRY: You know what, maybe Elaine wants to go too, lemme call her. (Picks up the phone.) She's at Mr. Pitt's, I think I got the number...<br>
+							<br>
+							<br>
+							<br>
+							
+						[New scene - Elaine at Mr. Pitt's. He's trying on the socks she's brought him.]<br>
+							<br>
+							
+						ELAINE: So, what do you think?<br>
+							<br>
+							
+						PITT (pulling up the socks): No.<br>
+							<br>
+							
+						ELAINE: You don't like them?<br>
+							<br>
+							
+						PITT: No, I don't like them.<br>
+							<br>
+							
+						ELAINE: What's wrong?<br>
+							<br>
+							
+						PITT: They're too tight.<br>
+							<br>
+							
+						ELAINE: Too tight?<br>
+							<br>
+							
+						PITT: There's no elastic, you need to pull too much (pulls them up more).<br>
+							<br>
+							
+						ELAINE (examining the socks): I think they look good!<br>
+							<br>
+							
+						PITT: They're cutting off the circulation.<br>
+							<br>
+							
+						ELAINE: Alright, well, I'll just take them back. (The phone rings.)<br>
+							<br>
+							
+						PITT: Hello?<br>
+							<br>
+							
+						JERRY: Hi, Mr. Pitt! Is Elaine there?<br>
+							<br>
+							
+						PITT (hands the phone to Elaine): It's for you.<br>
+							<br>
+							
+						ELAINE: Sorry. Hello?<br>
+							<br>
+							
+						JERRY: Hey Elaine, it's me.<br>
+							<br>
+							
+						ELAINE: Jerry?<br>
+							<br>
+							
+						JERRY: We're going to Atlantic City.<br>
+							<br>
+							
+						ELAINE: Really? When?<br>
+							<br>
+							
+						JERRY: Today, right now! Are you in?<br>
+							<br>
+							
+						ELAINE: One second, hang on. (To Mr. Pitt) Excuse me, Mr. Pitt? Would it be alright if I got you the socks tomorrow?<br>
+							<br>
+							
+						PITT: Tomorrow?<br>
+							<br>
+							
+						ELAINE: Yes.<br>
+							<br>
+							
+						PITT: But I was hoping for my new socks today!<br>
+							<br>
+							
+						ELAINE: Well, it's just one more day.<br>
+							<br>
+							
+						PITT: I'm sorry. I must have them today.<br>
+							<br>
+							
+						ELAINE (to Jerry): I can't go.<br>
+							<br>
+							
+						JERRY: Why not?<br>
+							<br>
+							
+						ELAINE: Because I have to return the socks and get different ones.<br>
+							<br>
+							
+						PITT: Elaine!<br>
+							<br>
+							
+						ELAINE: I gotta go. (Hangs up.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[New scene - Kramer and Karen at the hotel in Atlantic City. Karen is rehearsing her stage-walking with Kramer. She does it once, but Kramer isn't satisfied.]<br>
+							<br>
+							
+						KRAMER: No. Alright, watch me now. (Karen sits on the bed. Kramer walks across the room like a Miss America contestant with a big smile on his face.) Turn, back, head up, shoulders back...posture. You see? Posture.<br>
+							<br>
+							
+						KAREN: Yes, I see. O.K.<br>
+							<br>
+							
+						KRAMER: Let's try a few more questions, alright? (Karen stands up.) If you were Miss America, and the U.S. was on the brink of a nuclear war, and the only way the conflict could be averted was if you agreed to sleep with the enemy's leader, what would you do?<br>
+							<br>
+							
+						KAREN: Kramer, are these questions really that important...?<br>
+							<br>
+							
+						KRAMER: Yes, they're important! If you stumble, if you hesitate, you can kiss the crown goodbye. Now if I've told you once, I've told you a thousand times - poise counts! It's just as important as the others. Swimsuit! Evening wear! Talent! POISE!<br>
+							<br>
+							<br>
+							<br>
+							
+						[New scene - Jerry in he and George's hotel room on the floor above Karen's. George enters.]<br>
+							<br>
+							
+						GEORGE: Hey.<br>
+							<br>
+							
+						JERRY: Hey.<br>
+							<br>
+							
+						GEORGE: How was the show?<br>
+							<br>
+							
+						JERRY: Good. How was the roulette?<br>
+							<br>
+							
+						GEORGE: I won fifty bucks! Boy, this is great. Too bad Elaine's not here.<br>
+							<br>
+							
+						JERRY: Yeah, all she had to do was buy Mr. Pitt a pair of socks!<br>
+							<br>
+							<br>
+							<br>
+							
+						[Cut back to Elaine at Mr. Pitt's. There are pairs of socks everywhere. Pitt has on the latest pair.]<br>
+							<br>
+							
+						PITT: It's good, but...<br>
+							<br>
+							
+						ELAINE: But what??<br>
+							<br>
+							
+						PITT: Ultimately I don't think they'll stay up.<br>
+							<br>
+							
+						ELAINE (pulling up Pitt's socks): No, no! They'll stay up!<br>
+							<br>
+							
+						PITT: For a while, yes, but not in the long run.<br>
+							<br>
+							
+						ELAINE: But that's why I got you the tighter ones! (Holds them up.)<br>
+							<br>
+							
+						PITT: Oh, forget about those! (Takes the socks from Elaine and throws them on the floor.) Why do you keep mentioning those?<br>
+							<br>
+							
+						ELAINE: What do you want!?<br>
+							<br>
+							
+						PITT: I want a decent sock that's comfortable, that will stay on my foot!!<br>
+							<br>
+							
+						(Elaine curls up into a fetal position.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Cut back to Atlantic City, the middle of the night. Jerry and George are trying to sleep, but a flock of birds outside is keeping them awake.]<br>
+							<br>
+							
+						JERRY: What the hell is that?<br>
+							<br>
+							
+						GEORGE: I don't know, it sounds like pigeons or something!<br>
+							<br>
+							
+						JERRY (getting out of bed): Well, I can't sleep with that noise.<br>
+							<br>
+							
+						GEORGE: Me either. Is there anything you can do to shut them up?<br>
+							<br>
+							
+						JERRY: Wait a second. (Grabs the icebucket off the counter.) This'll scare 'em off. (Dumps the bucket of water over the balcony. We hear a loud squawking noise and the flapping of wings, then the noise is gone. Jerry gets back into bed.) Well, good night, Ollie.<br>
+							<br>
+							
+						GEORGE: Good night, Stan.<br>
+							<br>
+							<br>
+							<br>
+							
+						[New scene - Karen's hotel room the next morning. Upset, she lets Kramer in.]<br>
+							<br>
+							
+						KRAMER: What is it?<br>
+							<br>
+							
+						KAREN: My doves! They're dead! I trained those birds for eight years! How am I supposed to do my magic act now?<br>
+							<br>
+							
+						KRAMER: How did this happen?<br>
+							<br>
+							
+						KAREN: They like it outside, so I kept them in a cage on the terrace...then I found them dead in a pool of water!<br>
+							<br>
+							
+						KRAMER (goes out on the terrace to look, and slips in the water): Well, how did this happen?<br>
+							<br>
+							
+						KAREN: It must have been an accident.<br>
+							<br>
+							
+						KRAMER: Accident? This was no accident. These doves were murdered.<br>
+							<br>
+							<br>
+							<br>
+							
+						[New scene - Jerry watching TV in his room. There's a knock at the door; Jerry lets Kramer in.]<br>
+							<br>
+							
+						KRAMER: Well, that's it! She's out of the pageant!<br>
+							<br>
+							
+						JERRY: What? Why? What happened?<br>
+							<br>
+							
+						KRAMER: Her birds are dead.<br>
+							<br>
+							
+						JERRY: Birds?<br>
+							<br>
+							
+						KRAMER: Yeah, birds. She's got these trained doves, she does this magic act, that was her talent for the pageant. You know what I think, Jerry? I think somebody murdered those doves. Somebody wanted her out of that contest bad. Somebody who was just eaten up with jealousy. Somebody who just couldn't stand to have the spotlight taken off of them! (Kramer turns around and notices the empty icebucket on the edge of Jerry's balcony.)<br>
+							<br>
+							
+						JERRY: What are you looking at? (Kramer goes out onto the terrace and looks down.) Oh, that! We had to leave that outside, last night, because the water was making the room too cold.<br>
+							<br>
+							
+						KRAMER (comes back inside with his finger pointed at Jerry): You killed them, didn't you?<br>
+							<br>
+							
+						JERRY: No, you don't understand - it's not what you think! It was an accident!<br>
+							<br>
+							
+						KRAMER: Well, don't think you've won, because you haven't! This kid is a fighter! And if you think I'm gonna let a couple of dead birds get in our way, you're crazy!<br>
+							<br>
+							
+						JERRY: Kramer, you gotta explain to her what happened...! (Kramer exits.)<br>
+							<br>
+							
+						GEORGE (comes out of the bathroom brushing his teeth): What was that all about?<br>
+							<br>
+							
+						JERRY: Oh, it was just Kramer...apparently I killed Miss Rhode Island's doves with a bucket of water last night.<br>
+							<br>
+							
+						GEORGE: Oh. (Goes back into the bathroom.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[New scene - The night of the Miss America pageant. Kramer and Karen are backstage. Regis Philbin is about to introduce Miss Rhode Island in the talent competition.]<br>
+							<br>
+							
+						KAREN: O.K., this is it!<br>
+							<br>
+							
+						KRAMER: How ya feelin'?<br>
+							<br>
+							
+						KAREN: I'm a little nervous!<br>
+							<br>
+							
+						KRAMER: There's nothing to be nervous about.<br>
+							<br>
+							
+						KAREN: But I've never sung before in my life!<br>
+							<br>
+							
+						PHILBIN: And now, let's welcome Karen Ann Hanson, Miss Rhode Island!<br>
+							<br>
+							
+						(Karen walks out on stage and starts singing, badly. Cut to Jerry and George watching the pageant on TV at the hotel.)<br>
+							<br>
+							
+						JERRY: I heard those doves were really incredible.<br>
+							<br>
+							
+						GEORGE: That's a shame. (Karen is shown singing off-key on the television.)<br>
+							<br>
+							
+						JERRY: It's like watching an animal get tortured.<br>
+							<br>
+							
+						GEORGE: Hey, hey! Yankee game! (Changes the channel.)<br>
+							<br>
+							
+						JERRY: Oh, great! Alright. (We hear the announcers calling the game.)<br>
+							<br>
+							
+						ANNOUNCER #1: And the Yankees take the field!<br>
+							<br>
+							
+						ANNOUNCER #2: What is with the Yankees? They look like they're having trouble running, they can't move!<br>
+							<br>
+							
+						ANNOUNCER #1: It's their uniforms, they're too tight, they've shrunk! They're running like penguins! Forget this game!<br>
+							<br>
+							
+						ANNOUNCER #2: Oh my God, Mattingly just split his pants!<br>
+							<br>
+							
+						JERRY: That's a shame.<br>
+							<br>
+							
+						(Cut back to Karen on-stage at the pageant, still singing horribly. Kramer is shown in the wings, still trying to coach her.)<br>
+							<br>
+							
+						KRAMER: Poise. Poise!<br>
+							<br>
+							<br>
+							
+						[Closing Monologue]<br>
+							<br>
+							
+						The Miss America pageant seems like a really tough contest. You know, you gotta come out there in the bathing suit, in the dress shoes...they got that &quot;sanitized for your protection&quot; toilet seat-thing hangin' off them, you know...plus, they gotta wear all the other outfits. I don't know why, the bathing suit is the contest. You win the bathing suit, you win. What is the formal wear? Everybody looks good in formal wear; it's dark, it covers everything - that's why we have weddings in it. I mean, if we had weddings in bathing suits, a lot of ceremonies wouldn't be able to get past &quot;If anyone sees any reason why these two people should not be joined together...&quot; About eighty hands go up...<br>
+							<br>
+							<br>
+							
+						The End</td>
+						</tr>
+						<tr height="6">
+							<td class="bottom2" width="645" height="6"></td>
+						</tr>
+						<tr>
+							<td width="645">
+								<div align="center">
+									<font size="-1">Copyright 2006 seinology.com | All Rights Reserved | Designed by 13erla</font></div>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+		<p></p>
+	</body>
+
+</html>

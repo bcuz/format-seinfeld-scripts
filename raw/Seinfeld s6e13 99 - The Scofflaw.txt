@@ -1,0 +1,1567 @@
+<tdOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+<html>
+
+	<head>
+		<meta http-equiv="content-type" content="text/html;charset=ISO-8859-1">
+		<meta name="description" content="Top Source for Seinfeld">
+		<meta name="keywords" content="seinfeld, sienfeld, Jerry Seinfeld, Julia Louis Dreyfus, Jason Alexander, Michael Richards, Kramer, George, Costanza, Elaine Benes, morty, Larry David">
+		<title>Seinology.com :: Scripts :: 99-The Scofflaw</title>
+	<link rel='stylesheet' href='/stylesheet.css' type='text/css'>
+	</head>
+
+	<body>
+			<table align="center" width="787" border="0" cellspacing="0" cellpadding="0">
+				<tr>
+					<td><font size="-2" color="red">Seinology.com - </font><font size="-3" color="black">Where Seinfeld Content and Accuracy Matter Most. Seinfeld scripts in pdf form, Seinfeld episode video clips, Seinfeld episode audio clips, Jerry Seinfeld appearances, Julia Louis-Dreyfus appearances, Michael Richards appearances, Jason Alexander appearances, Seinfeld discussion Forum, Seinfeld Where are they Now? Seinlanguage Newsletter, Popular Seinfeld Lists, Seinfeld episode standup, Seinfeld episode guide, Seinfeld fan fiction. Seinfeld content all on one domain. Seinology.com enjoy your stay.</font></td>
+				</tr>
+			</table>
+		
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr height="100">
+				<td class="logo"></td>
+			</tr>
+			<tr><td class="ads" align="center" background=#8694fa>
+				<script type="text/javascript"><!--
+google_ad_client = "pub-1924026976931416";
+google_ad_width = 728;
+google_ad_height = 90;
+google_ad_format = "728x90_as";
+google_ad_type = "text";
+google_ad_channel = "";
+google_color_border = "FFFFFF";
+google_color_bg = "8694fa";
+google_color_link = "0000FF";
+google_color_text = "000000";
+google_color_url = "002E3F";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></td></tr>
+		</table>
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr>
+				<td valign="top" width="136">
+					<table width="136" border="0" cellspacing="0" cellpadding="0">
+						<tr height="24">
+							<td class="navigation">
+								<div align="center">
+									
+									<b>Navigation</b></div>
+							</td>
+						</tr>
+						<tr height="199">
+							<td class="spacer1" valign="top" width="136" height="199">
+								<div align="center">
+									<font size="-1"><a href="http://www.seinology.com">Home</a><br>
+										<a href="http://board.seinology.com">Forum</a><br>
+										<a href="http://www.seinology.com/av.shtml">Audio/Video</a><br>
+										<a href="http://www.seinology.com/scripts.shtml">Scripts</a><br>
+										<a href="http://www.seinology.com/survivor.shtml">Survivor</a><br>
+										<a href="http://www.seinology.com/fanfics.shtml">Fan Fiction</a><br>
+										<a href="http://www.seinology.com/gallery/">Gallery</a><br>
+										<a href="http://www.seinology.com/newsletter.shtml">Newsletter</a><br>
+										<a href="http://www.seinology.com/lists.shtml">Lists</a><br>
+										<a href="http://www.seinology.com/epguide.shtml">Episode Guide</a><br>
+										<a href="http://www.seinology.com/links.shtml">Links</a><br>
+										<a href="http://www.seinology.com/faqother.shtml">Faq + others</a><br>
+										<a href="http://www.seinology.com/legal.shtml">Legal</a></font></div>
+							</td>
+						</tr>
+						
+						<tr>
+							<td class="nav2" width="136">
+							<div align="center"><b>Search</b></div></td>
+						</tr>
+						<tr>
+							<td class="spacer1" width="136" valign="top"><div align="center"><form method="get" action="http://www.seinology.com/search/search.cgi">
+<p><label for="fdse_Match">Match</label><br>
+<select name="Match" id="fdse_Match" size="1">
+<option value="1">All</option>
+<option value="0">Any</option>
+<option value="2">Phrase</option>
+</select></p>
+<p><label for="fdse_Realm">Where?</label><br>
+<select name="Realm" id="fdse_Realm" size="1">
+<option selected="selected" value="All">EntireSite</option>
+<option value="Ep Guide">Ep Guide</option>
+<option value="Images">Images</option>
+<option value="Lists">Lists</option>
+<option value="Newsletters">Newsletters</option>
+<option value="Scripts">Scripts</option>
+<option value="Notes..Nothing">Notes..Nothing</option>
+</select></p>
+<p><input type="text" name="Terms" size="14" id="fdse_Terms"><br>
+<input type="submit" class="submit" name="submitButtonName" value="Search"></p>
+</div></form></td>
+						</tr>
+						<tr><td class="bottom" width="136" height="10" valign="top">
+						</td>
+						</tr>
+					</table>
+				</td>
+				<td width="4"></td>
+				<td valign="top" width="645">
+					<table width="645" border="0" cellspacing="0" cellpadding="0">
+						<tr height="18">
+							<td width="645" height="35" class="bar">
+								<div align="center">
+									<b><font size="+2" color="black">Script</font></b></div>
+							</td>
+						</tr>
+						<tr height="362">
+							<td class="spacer2" valign="top" width="645" height="362">
+
+						<p><font size="-2">Episode 99 - The Scofflaw<br>
+							
+						pc: 613, season 6, episode 13<br>
+							
+						Broadcast date: January 26, 1995<br>
+							<br>
+							
+						Written by Peter Mehlman<br>
+							
+						Directed by Andy Ackerman<br>
+							<br>
+							
+						-------------------------------------------------------------------------------<br>
+							<br>
+							
+						The Cast<br>
+							
+						Regulars:<br>
+							
+						Jerry Seinfeld ....................... Jerry Seinfeld<br>
+							
+						Jason Alexander .................. George Costanza<br>
+							
+						Julia Louis-Dreyfus ............. Elaine Benes<br>
+							
+						Michael Richards ................. Cosmo Kramer<br>
+							<br>
+							
+						Guest Stars:<br>
+							<br>
+							
+						Marty Rackham ................... Jake Jarmel<br>
+							
+						Barbara Alyn Woods .......... Debby<br>
+							
+						Ivory Ocean ........................ Officer Morgan<br>
+							
+						Basil Hoffman ...................... Salesman<br>
+							
+						Lillian Lehman ..................... Judge<br>
+							
+						Jon Lovitz ........................... Gary Fogel<br>
+							
+						Danny Breen ....................... Guy With Glasses<br>
+							
+						Bob Shaw ............................ Cabbie<br>
+							
+						Dale Harimoto ..................... Reporter<br>
+							
+						Joe Ochman ......................... Customer<br>
+							
+						Elisabeth Sjoli ....................... Woman<br>
+							
+						rc: Wayne Knight ................. Newman<br>
+							
+						rc: Richard Fancy ................. Mr. Lippman<br>
+							<br>
+							
+						==================================================================<br>
+							<br>
+							
+						[Opening Monologue]<br>
+							<br>
+							
+						The big new accessory with eyeglasses, seems to be that strap, that connects in the back so you can take 'em on and off. Which I don't get, because I thought, if you have glasses, isn't that because you need to wear glasses? 'You need glasses', isn't that what they say? I mean, an eye doctor doesn't say 'Would you care for some glasses?' When people have crutches, they don't have like a little chain attached to their belt, so they can just let go of 'em every now and then. Why not get a toupee with a rubber band for when you're water-skiing, the thing could just... (mimes semi-airborne wig with hand)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Street]<br>
+							<br>
+							
+						(George hurrying along, he passes Gary who recognises him.)<br>
+							<br>
+							
+						GARY: Hey George.<br>
+							<br>
+							
+						GEORGE: Gary? Well, well, well well. Where the hell've you been? I've been leaving you phone messages for months.<br>
+							<br>
+							
+						GARY: I know. I've been pretty busy.<br>
+							<br>
+							
+						GEORGE: Busy. Don't give me busy. Who's not busy? I'm busy, we're all busy, everybody's busy. All right, tell me, what's kept you so busy?<br>
+							<br>
+							
+						GARY: Mostly chemotherapy. 'Kay, I'll see you.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Different Street]<br>
+							<br>
+							
+						(A cop, with an eye patch, is writing a ticket for a car. Kramer is about to cross the street. He waits for a car to pass. As it passes, a tray of litter is tossed from its window and lands near Kramer.)<br>
+							<br>
+							
+						KRAMER: (to car as it accelerates away) Hey pig!<br>
+							<br>
+							
+						(The cop hears this and turns to see who said it. As he does so, the car he is ticketing starts up and speeds away.)<br>
+							<br>
+							
+						COP: (at car) Hey! Hey! Hey!<br>
+							<br>
+							
+						(Kramer takes advantage of the distraction to run away.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Jerry's Apartment]<br>
+							<br>
+							
+						JERRY: So you called the cop a pig?<br>
+							<br>
+							
+						KRAMER: I was yelling at the litterbug. I mean this is my town. You don't throw trash on the streets of my town.<br>
+							<br>
+							
+						JERRY: Didn't you explain that to the cop?<br>
+							<br>
+							
+						KRAMER: No, I fled the scene.<br>
+							<br>
+							
+						(George enters. He looks disquieted.)<br>
+							<br>
+							
+						JERRY: (to George) Hey.<br>
+							<br>
+							
+						KRAMER: (to George) Hey buddy.<br>
+							<br>
+							
+						GEORGE: Hey, uh...<br>
+							<br>
+							
+						KRAMER: What?<br>
+							<br>
+							
+						GEORGE: Kramer, I, I, I, uh, I need to talk to Jerry privately.<br>
+							<br>
+							
+						KRAMER: Oh. What about?<br>
+							<br>
+							
+						GEORGE: Kramer...<br>
+							<br>
+							
+						KRAMER: Aw come on George, you can share it with me, huh?<br>
+							<br>
+							
+						(Kramer grabs George in a headlock.)<br>
+							<br>
+							
+						GEORGE: Hey, you're hurting me!<br>
+							<br>
+							
+						KRAMER: You gonna share it with me next time, huh?<br>
+							<br>
+							
+						GEORGE: I swear, I swear!<br>
+							<br>
+							
+						KRAMER: Aw, all right, I'm looking forward to it.<br>
+							<br>
+							
+						(He releases George from the headlock and exits, but he closes the door slowly and can be seen peering in through the decreasing gap until it finally shuts completely. Jerry and George watch him until the door is closed.)<br>
+							<br>
+							
+						GEORGE: Right, I got news. You ready? (deep breath) Gary Fogel had cancer.<br>
+							<br>
+							
+						JERRY: Oh yeah, I knew.<br>
+							<br>
+							
+						GEORGE: You knew? How did you know?<br>
+							<br>
+							
+						JERRY: He told me a few months ago.<br>
+							<br>
+							
+						GEORGE: Why did he tell you and not me?<br>
+							<br>
+							
+						JERRY: I don't know.<br>
+							<br>
+							
+						GEORGE: How are you closer to him than me?<br>
+							<br>
+							
+						(Jerry shrugs.)<br>
+							<br>
+							
+						GEORGE: So, is he okay?<br>
+							<br>
+							
+						JERRY: Oh yeah, he's fine, fine. He was in bad shape for a while though.<br>
+							<br>
+							
+						GEORGE: Huh, really? How bad? Was he on his death bed?<br>
+							<br>
+							
+						JERRY: No, he was on his regular bed.<br>
+							<br>
+							
+						GEORGE: So why didn't you tell me?<br>
+							<br>
+							
+						JERRY: He swore me to secrecy.<br>
+							<br>
+							
+						GEORGE: So?<br>
+							<br>
+							
+						JERRY: It's not like you're my wife.<br>
+							<br>
+							
+						GEORGE: Well, I still think you shoulda told me.<br>
+							<br>
+							
+						JERRY: Hey, believe me, you were better off not knowing. It's not easy to deal with someone in a situation like this. I was so nice to him I almost made myself sick.<br>
+							<br>
+							
+						GEORGE: Well, I wanna talk to him about this.<br>
+							<br>
+							
+						JERRY: That's right, you let him have it.<br>
+							<br>
+							
+						GEORGE: Mmm-mm.<br>
+							<br>
+							
+						JERRY: Who is he not to tell you about his life-threatening illness?<br>
+							<br>
+							
+						GEORGE: That's what I'm saying.<br>
+							<br>
+							
+						JERRY: His illness is your business.<br>
+							<br>
+							
+						GEORGE: If not mine, whose?<br>
+							<br>
+							
+						JERRY: If not now, when?<br>
+							<br>
+							
+						(The door opens and Elaine enters. She senses a conversation has just ceased.)<br>
+							<br>
+							
+						ELAINE: Were you just talking about me?<br>
+							<br>
+							
+						GEORGE: No, an old friend of ours, Gary.<br>
+							<br>
+							
+						ELAINE: Oh, the guy with cancer?<br>
+							<br>
+							
+						GEORGE: (to Jerry, yelling) You told her? She's not your wife!<br>
+							<br>
+							
+						JERRY: If I told you, you woulda given it away.<br>
+							<br>
+							
+						GEORGE: You don't think I can keep a secret?<br>
+							<br>
+							
+						JERRY: No, but he would've read your face.<br>
+							<br>
+							
+						GEORGE: You don't trust my poker face?<br>
+							<br>
+							
+						JERRY: Do you ever win at poker?<br>
+							<br>
+							
+						GEORGE: (shamefaced) No.<br>
+							<br>
+							
+						(Door opens and Kramer enters. He sees Elaine.)<br>
+							<br>
+							
+						KRAMER: Hey. (to Elaine) Oh, I just saw your old boyfriend on TV.<br>
+							<br>
+							
+						ELAINE: Egh, Jake Jarmel?<br>
+							<br>
+							
+						KRAMER: Yeah. I really liked those glasses he was wearing. Where'd he get those.<br>
+							<br>
+							
+						ELAINE: Why? You don't wear glasses.<br>
+							<br>
+							
+						KRAMER: I know, I know. But I need a new look, I'm stagnating.<br>
+							<br>
+							
+						GEORGE: I have to say, as a glasses wearer I take exception to that. That's like me buying a wheelchair to cruise around in.<br>
+							<br>
+							
+						KRAMER: Yeah, I've considered that. (to Elaine) Look, how do I get in touch with this guy?<br>
+							<br>
+							
+						ELAINE: Well, he's having a two day book signing at Waldens.<br>
+							<br>
+							
+						KRAMER: Ah.<br>
+							<br>
+							
+						ELAINE: You know, we had a really bad break-up.<br>
+							<br>
+							
+						JERRY: The Jujy Fruits?<br>
+							<br>
+							
+						ELAINE: (upset) Yeah, the Jujy Fruits.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Waldenbooks]<br>
+							<br>
+							
+						(A queue of people wait to have their hardbacks signed by Jake Jarmel, who sits at a table, wearing spectacles with dark oval frames. Kramer is having his copy signed.)<br>
+							<br>
+							
+						JAKE: Okay, K-Man, enjoy the book.<br>
+							<br>
+							
+						KRAMER: Okay, thank you. Listen Jake, uh, where did you get those eyeglass frames?<br>
+							<br>
+							
+						JAKE: I can't tell you that.<br>
+							<br>
+							
+						KRAMER: So you don't know where you got 'em?<br>
+							<br>
+							
+						JAKE: Yes I do. But I don't want anyone else to have them.<br>
+							<br>
+							
+						KRAMER: Well, that's peculiar. (leaves)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Monk's]<br>
+							<br>
+							
+						(George and Gary sit in a booth. Among the other customers is an attractive woman sitting in the corner, reading a book.)<br>
+							<br>
+							
+						GEORGE: Eh, there's that woman that never talks to anybody.<br>
+							<br>
+							
+						GARY: Really?<br>
+							<br>
+							
+						GEORGE: Every day she comes in, she sits at that table and reads. Never talks to anybody.<br>
+							<br>
+							
+						GARY: Oh, I talked to Debby Bibelo. She said to say hi.<br>
+							<br>
+							
+						GEORGE: (pleasant surprise) Really? (admonishing) You know Gary, I really have to say, I'm a little bit hurt that you didn't decide to confide in me.<br>
+							<br>
+							
+						GARY: Well frankly, you can't keep a secret. You know, you'd get two pair, the whole table knows.<br>
+							<br>
+							
+						GEORGE: Well I still think it was wrong.<br>
+							<br>
+							
+						GARY: Right, well I'm sorry, all right. I guess I was just thinking of myself.<br>
+							<br>
+							
+						GEORGE: (well, obviously) Yes.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Another street]<br>
+							<br>
+							
+						(Kramer is talking to the eyepatch-wearing cop.)<br>
+							<br>
+							
+						KRAMER: ...so I called the litterbug a pig, not you. I like policeman. I wanted to be a policeman.<br>
+							<br>
+							
+						COP: Yeah? So why didn't you?<br>
+							<br>
+							
+						KRAMER: Scared of being shot.<br>
+							<br>
+							
+						COP: Mr Kramer, let me tell you a story. In nineteen-seventy-nine I ticketed a brown Dodge Diplomat for parking in a Church zone. That fine was never paid, and since then that scofflaw has piled up more parking tickets than anyone in New York City. For sixteen years I pursued him, only to see him give me the slip time and time again. I never got a clean look at his face, but he's become my 'white whale'. Mr Kramer, that day was yesterday! But thanks to you, I don't know if I'll ever get that chance again!<br>
+							<br>
+							
+						KRAMER: I like that eye patch.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Monks']<br>
+							<br>
+							
+						GEORGE: (standing) All right, I'm gonna move my car, my meter's up. Can't park in this city.<br>
+							<br>
+							
+						GARY: (standing) Hey, George, listen. You know that company I work for, they own that parking lot around the corner.<br>
+							<br>
+							
+						GEORGE: Wha, that's a Kinney lot?<br>
+							<br>
+							
+						GARY: Yeah, and there's a space opening up, and I could get it for you. You just have to pay the tax on it. It'd be like, fifty a month.<br>
+							<br>
+							
+						GEORGE: Fifty bucks a month, that's incredible! Okay, thanks.<br>
+							<br>
+							
+						GARY: All right, I got lunch, all right.<br>
+							<br>
+							
+						GEORGE: You still owe me a secret.<br>
+							<br>
+							
+						GARY: All right, listen. There is something I haven't told you, all right?<br>
+							<br>
+							
+						GEORGE: Yeah?<br>
+							<br>
+							
+						GARY: Yeah, but uhm, you can't tell Jerry.<br>
+							<br>
+							
+						GEORGE: What do think I tell Jerry everything? It's not like he's my wife.<br>
+							<br>
+							
+						GARY: Okay. Well, the thing is, I've been living a lie.<br>
+							<br>
+							
+						GEORGE: Just one? I'm living like twenty. (chuckles) What's yours?<br>
+							<br>
+							
+						GARY: Well, I (laughs) I never actually had cancer. (laughs) I'll see you. (leaves)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Jerry's apartment]<br>
+							<br>
+							
+						(Kramer and Jerry sit on the couch, Elaine in the chair. Kramer and Elaine are talking, Jerry reads a magazine.)<br>
+							<br>
+							
+						ELAINE: So he refused to tell you where he got the glasses?<br>
+							<br>
+							
+						KRAMER: (rising) Flat out refused! (walks past Jerry, who moves his legs)<br>
+							<br>
+							
+						ELAINE: Yeah, isn't that just like him? (she steps over Jerry's legs) You know, he has to be the only one who has 'em.<br>
+							<br>
+							
+						KRAMER: Yeah, tell me about it, soul sister. (he opens the door to leave) Anyway, I told Jake that you said hi.<br>
+							<br>
+							
+						ELAINE: What? (she slams the door shut before Kramer can exit) You told Jake I said hi?<br>
+							<br>
+							
+						KRAMER: Yeah.<br>
+							<br>
+							
+						ELAINE: I can't believe you did that! Why did you tell him I said hi? I never said hi! (to Jerry) When did I say hi?<br>
+							<br>
+							
+						JERRY: I never heard her say hi.<br>
+							<br>
+							
+						KRAMER: Well, it's uh, common courtesy.<br>
+							<br>
+							
+						ELAINE: No, no. (stamps foot) Kramer, you don't understand. He made the last contact between us. I had the upper hand in the post-breakup relationship. If he thinks that I said hi, then I lose the upper hand.<br>
+							<br>
+							
+						JERRY: It's like a game of tag.<br>
+							<br>
+							
+						(Elaine gathers her stuff together, ready to leave.)<br>
+							<br>
+							
+						JERRY: Where you going?<br>
+							<br>
+							
+						ELAINE: Nowhere.<br>
+							<br>
+							
+						JERRY: You're going to the book store to see Jake Jarmel, aren't you?<br>
+							<br>
+							
+						ELAINE: So what if I do? (heads for the door)<br>
+							<br>
+							
+						KRAMER: (to the exiting Elaine) Yeah, well, listen. If you're going there, (following her out the door) maybe you can get him to tell you where he got those glasses. (shouting after her) Elaine!<br>
+							<br>
+							
+						(George enters as Kramer and Elaine leave. He closes the door behind him.)<br>
+							<br>
+							
+						JERRY: Hey. How'd it go with Gary?<br>
+							<br>
+							
+						GEORGE: (shifty, avoiding Jerry's eyes) Fine, fine. (he removes his coat)<br>
+							<br>
+							
+						JERRY: (suspicious) Really?<br>
+							<br>
+							
+						GEORGE: (shifty) Yeah.<br>
+							<br>
+							
+						JERRY: You look like something's on your mind.<br>
+							<br>
+							
+						GEORGE: No. Nothing. Fine. (he sits at the table)<br>
+							<br>
+							
+						JERRY: So, that's your poker face.<br>
+							<br>
+							
+						GEORGE: My regular face.<br>
+							<br>
+							
+						JERRY: No it isn't. I've seen your regular face. That is not it.<br>
+							<br>
+							
+						GEORGE: What are you saying?<br>
+							<br>
+							
+						JERRY: All right George, c'mon, what d'you got? (sits opposite George)<br>
+							<br>
+							
+						GEORGE: I got nothing.<br>
+							<br>
+							
+						JERRY: What you got, a pair of bullets?<br>
+							<br>
+							
+						GEORGE: What you talking about?<br>
+							<br>
+							
+						JERRY: Two pair? Three of a kind?<br>
+							<br>
+							
+						GEORGE: Will you stop it?<br>
+							<br>
+							
+						JERRY: Oh my God, you got a flush! You're holding a flush!<br>
+							<br>
+							
+						GEORGE: I don't have a flush.<br>
+							<br>
+							
+						JERRY: A full house? You got a full house? Turn 'em over George, I wanna see 'em. Come on, I'm calling! (thumps hand on table) What d'you got!<br>
+							<br>
+							
+						GEORGE: (broken, shouts) Gary Fogel never had cancer!<br>
+							<br>
+							<br>
+							<br>
+							
+						[Waldenbooks]<br>
+							<br>
+							
+						(Jake Jarmel is at the same table as before. Elaine is talking to him. There are other people queuing behind her.)<br>
+							<br>
+							
+						ELAINE: So you see, Kramer took it upon himself to say hi to you from me. When in fact it was an unauthorised hi.<br>
+							<br>
+							
+						JAKE: You're saying you didn't say hi.<br>
+							<br>
+							
+						ELAINE: That's what I'm saying.<br>
+							<br>
+							
+						JAKE: So that's what you came down here to tell me?<br>
+							<br>
+							
+						ELAINE: Correct.<br>
+							<br>
+							
+						JAKE: You never said hi?<br>
+							<br>
+							
+						ELAINE: Correct.<br>
+							<br>
+							
+						JAKE: You still like me, don't you?<br>
+							<br>
+							
+						ELAINE: Correct. (catches herself) What's that?<br>
+							<br>
+							
+						MAN: Hey, I have been trying to get this book signed all day.<br>
+							<br>
+							
+						ELAINE: (takes the book from the guy and signs it herself) How can you say that I still like you, when I didn't even say hi to you?<br>
+							<br>
+							
+						JAKE: Elaine, coming down here to say that you didn't say hi is more of a gesture than if you did say hi.<br>
+							<br>
+							
+						ELAINE: Ah, Jake... (realises his logic) I, uh...<br>
+							<br>
+							<br>
+							<br>
+							
+						[Jerry's apartment]<br>
+							<br>
+							
+						GEORGE: The doctors thought he had cancer, but the surgery revealed he never actually had it.<br>
+							<br>
+							
+						JERRY: So what was wrong with him?<br>
+							<br>
+							
+						GEORGE: Nothing!<br>
+							<br>
+							
+						JERRY: So he's been lying to me for two months?!<br>
+							<br>
+							
+						GEORGE: That's right.<br>
+							<br>
+							
+						JERRY: What kind of person is this? There's only one other person who might be able to do something like this, and that's you.<br>
+							<br>
+							
+						GEORGE: Well...<br>
+							<br>
+							
+						JERRY: I don't even think you could do it.<br>
+							<br>
+							
+						GEORGE: Oh, I could do it.<br>
+							<br>
+							
+						JERRY: Yeah, I guess you could.<br>
+							<br>
+							
+						GEORGE: (snorts) C'mon.<br>
+							<br>
+							
+						JERRY: Did you know he was so worried about losing more hair if he had to get chemo treatment, I bought him an unlimited gift certificate at the Hair Team For Men, just to put his mind at ease?<br>
+							<br>
+							
+						GEORGE: You did that?<br>
+							<br>
+							
+						JERRY: Yeah. Oh, I can't wait to talk to this guy. (moves to pick up phone)<br>
+							<br>
+							
+						GEORGE: Wait a minute, wait a minute. You can't say anything. (rushes to take phone from Jerry)<br>
+							<br>
+							
+						JERRY: Why not?<br>
+							<br>
+							
+						GEORGE: (puts down handset) Because he'll know I told you. Besides, he's giving me a parking spot around the corner for practically nothing.<br>
+							<br>
+							
+						JERRY: So you're telling me, because you're getting free parking, I gotta pretend this guy had cancer when he didn't?<br>
+							<br>
+							
+						GEORGE: Yeah.<br>
+							<br>
+							
+						JERRY: Well I don't like it. I don't like it one bit! And, I'm supposed to see him tomorrow.<br>
+							<br>
+							
+						GEORGE: Yeah, well you have to maintain the same disposition too. You can't start acting any differently. You have to be nice.<br>
+							<br>
+							
+						JERRY: Why didn't he tell me?<br>
+							<br>
+							
+						GEORGE: Because you were being so nice.<br>
+							<br>
+							
+						JERRY: I don't think I can be that nice.<br>
+							<br>
+							
+						GEORGE: (shouts) You be nice!<br>
+							<br>
+							
+						(George and Jerry turn their backs to other and angrily stalk away from each other.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Monk's]<br>
+							<br>
+							
+						(Jerry enters. He looks around for Gary, and does a double-take as he see him sitting in a booth, wearing a wig.)<br>
+							<br>
+							
+						JERRY: Gary?<br>
+							<br>
+							
+						GARY: What d'you think? Check it out. (he tries a number of expressions, turning his head side to side, to show off the hairpiece)<br>
+							<br>
+							
+						JERRY: Is that from my gift certificate?<br>
+							<br>
+							
+						GARY: Yeah buddy. You really came through for me man. You've been so nice. (shakes Jerry by the hand)<br>
+							<br>
+							
+						JERRY: (through gritted teeth) Yeah, well, I'm glad you could take advantage.<br>
+							<br>
+							
+						GARY: Hey, you know what I'm thinking of doing? I'm getting rid of all my fillings, 'cos that mercury's toxic. Hey, let me see your fillings.<br>
+							<br>
+							
+						JERRY: I don't think so.<br>
+							<br>
+							
+						GARY: Oh come on, open up. Let me take a look.<br>
+							<br>
+							
+						(Jerry can be seen struggling against his instincts. He hears George's words from earlier.)<br>
+							<br>
+							
+						GEORGE (V.O.): You be nice! He's giving me a parking space (echoes) parking space... parking space...<br>
+							<br>
+							
+						(Jerry leans forward and opens his mouth, but he's not happy about it.)<br>
+							<br>
+							
+						GARY: (peering in) Well, what d'you know. Hey, lookee there, you're loaded.<br>
+							<br>
+							
+						JERRY: Okay. (shuts mouth)<br>
+							<br>
+							
+						GARY: Hey, look who's over there. Miss Cool-toes. Check this out, Jack! (rises)<br>
+							<br>
+							
+						(Kramer enters. He's wearing an eyepatch like the cop's.)<br>
+							<br>
+							
+						KRAMER: (to Jerry) Hey buddy.<br>
+							<br>
+							
+						JERRY: Hey. Look at you. Wha... what's this?<br>
+							<br>
+							
+						KRAMER: It's an eyepatch.<br>
+							<br>
+							
+						JERRY: You look like a pirate.<br>
+							<br>
+							
+						KRAMER: I wanna be a pirate.<br>
+							<br>
+							
+						JERRY: (gesturing) This is Gary.<br>
+							<br>
+							
+						KRAMER: (to Gary) How you doing?<br>
+							<br>
+							
+						GARY: All right.<br>
+							<br>
+							
+						(Kramer goes to shake Gary by the hand, but due to his impaired vision, he misses by several inches at the first attempt. He lifts the patch up to restore his depth perception. They shake, and Gary leaves to talk to the 'girl who never talks'. Kramer moves to sit in the vacant seat.)<br>
+							<br>
+							
+						KRAMER: Well, I tell you there's only one problem.<br>
+							<br>
+							
+						(Kramer sits down, misjudges the seat and almost slides under the table. He upsets plates and glasses.)<br>
+							<br>
+							
+						JERRY: Can't see on your right side?<br>
+							<br>
+							
+						KRAMER: No. It's uh, (swaps patch to the other eye) it's itchy<br>
+							<br>
+							<br>
+							<br>
+							
+						[George's car]<br>
+							<br>
+							
+						DEBBY: Nice car.<br>
+							<br>
+							
+						GEORGE: Yeah. Once belonged to Jon Voight.<br>
+							<br>
+							
+						DEBBY: So, what made you just call me out of the blue like that?<br>
+							<br>
+							
+						GEORGE: Oh, well, uh. Gary told me you said hi.<br>
+							<br>
+							
+						DEBBY: I didn't say hi.<br>
+							<br>
+							
+						GEORGE: You didn't?<br>
+							<br>
+							
+						DEBBY: Uh, no. I told him to send you my regards. I didn't say hi.<br>
+							<br>
+							
+						GEORGE: Regards?<br>
+							<br>
+							
+						DEBBY: Yeah, regards.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Cab]<br>
+							<br>
+							
+						ELAINE: Anyway, I admit I was dumb to go to the bookstore to tell him I didn't say hi, but he didn't have to act so smug. Oh, I hate smugness. Don't you hate smugness?<br>
+							<br>
+							
+						CABBIE: (heavy accent) Smugness is not a good quality.<br>
+							<br>
+							
+						ELAINE: (looking out of window) Oh my God. That man over there. I think he's wearing glasses that look just like Jake's. Pull over, stop the car. (hands money to cabbie as she exits) Here, here. I think I got a way of getting back at my ex-boyfriend.<br>
+							<br>
+							
+						CABBIE: Good. Revenge is very good.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Street]<br>
+							<br>
+							
+						(Elaine is running after a guy who is indeed wearing identical spectacles to Mr Jarmel.)<br>
+							<br>
+							
+						ELAINE: (calling down street) 'Scuse me! 'Scuse me. (catches up to guy) Excuse me, sir. Sir?<br>
+							<br>
+							
+						GUY: Yes?<br>
+							<br>
+							
+						ELAINE: Uh. Ah, if you don't mind my asking, could you tell me where you got your glasses?<br>
+							<br>
+							
+						GUY: Malaysia.<br>
+							<br>
+							
+						ELAINE: Malaysia?<br>
+							<br>
+							
+						GUY: Yeah.<br>
+							<br>
+							
+						ELAINE: Uhm, look, I know this'll sound odd, but can I buy them from you?<br>
+							<br>
+							
+						GUY: Actually, I was gonna buy a new pair.<br>
+							<br>
+							
+						ELAINE: (positive) Oh! (little chuckle)<br>
+							<br>
+							
+						GUY: But I, I can barely see without these.<br>
+							<br>
+							
+						ELAINE: C'mon.<br>
+							<br>
+							
+						GUY: Well, these were expensive.<br>
+							<br>
+							
+						ELAINE: Let's start the bidding.<br>
+							<br>
+							<br>
+							<br>
+							
+						[George's car]<br>
+							<br>
+							
+						GEORGE: So, you didn't think this was a date?<br>
+							<br>
+							
+						DEBBY: N... no, not really. Why, is it... a date?<br>
+							<br>
+							
+						GEORGE: I thought it was a date.<br>
+							<br>
+							
+						DEBBY: No. It's not a date.<br>
+							<br>
+							
+						GEORGE: What about the regards?<br>
+							<br>
+							
+						DEBBY: Regards don't mean anything. I mean, it's not like I said hi. Hey, the fact is... (sighs) I shouldn't say anything.<br>
+							<br>
+							
+						GEORGE: No, tell me.<br>
+							<br>
+							
+						DEBBY: Can you keep a secret?<br>
+							<br>
+							
+						GEORGE: Me? Oh yeah.<br>
+							<br>
+							
+						DEBBY: (deep breath) I never had feelings for Gary until he got sick. But, h... he was so brave and... and gained such a wonderful perspective on life. I... I fell in love with him.<br>
+							<br>
+							
+						GEORGE: Oh, the guy's got some perspective there.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Monk's]<br>
+							<br>
+							
+						(Jerry and Kramer in their booth.)<br>
+							<br>
+							
+						JERRY: Hey, do you know what the Whip does?<br>
+							<br>
+							
+						KRAMER: What whip?<br>
+							<br>
+							
+						JERRY: The Whip. In the Senate, in the House.<br>
+							<br>
+							
+						KRAMER: Well, you know in the old days, when the senators didn't vote the way that the party leaders wanted 'em to... they whipped them. (holds imaginary whip) You better vote the way we want you to, or there's gonna be big trouble. (cracks invisible whip and makes sound effect)<br>
+							<br>
+							
+						(Gary returns from talking to the 'girl who never talks'.)<br>
+							<br>
+							
+						GARY: She won't talk to anyone, huh? Oh no, she won't say a word to anybody. Well, she's talking a blue streak now, Jack!<br>
+							<br>
+							<br>
+							<br>
+							
+						[Street]<br>
+							<br>
+							
+						(The eye patch-wearing cop spots a familiar Dodge.)<br>
+							<br>
+							
+						COP: Well, well. The 'white whale'.<br>
+							<br>
+							
+						(He moves in for the kill.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[George's car]<br>
+							<br>
+							
+						GEORGE: (frustrated) Oh, look at this. There's no place to park around here. I don't even know why they sell cars in Manhattan.<br>
+							<br>
+							
+						DEBBY: Don't complain, at least you have your health.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Street]<br>
+							<br>
+							
+						The guy Elaine bought the glasses from is peering blurrily about. It's clear he<br>
+							
+						can barely see anything. He steps between cars and out into the road.<br>
+							<br>
+							<br>
+							<br>
+							
+						[George's car]<br>
+							<br>
+							
+						DEBBY: George, look out for that man!<br>
+							<br>
+							<br>
+							<br>
+							
+						[Monk's]<br>
+							<br>
+							
+						(The sound of tires squealing is heard from outside, followed immediately by the crash of cars colliding. Kramer leaps to his feet and heads out to investigate.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Street]<br>
+							<br>
+							
+						(The cop has obviously been distracted by the same noises whilst writing a ticket. The scofflaw has taken advantage, and the Dodge squeals away, passing Kramer as he emerges from Monk's.)<br>
+							<br>
+							
+						COP: (to escaping car) Hey! Hey, get back here!<br>
+							<br>
+							
+						KRAMER: (looking after fleeing car) Newman! The white whale!<br>
+							<br>
+							<br>
+							<br>
+							
+						[Jerry's apartment]<br>
+							<br>
+							
+						GEORGE: Can you believe he sold his glasses on the street?<br>
+							<br>
+							
+						JERRY: Can you believe someone would lie about chemotherapy to get a wig? Would you do that?<br>
+							<br>
+							
+						GEORGE: No. Definitely not.<br>
+							<br>
+							
+						JERRY: Yeah.<br>
+							<br>
+							
+						GEORGE: I'm pretty sure I wouldn't.<br>
+							<br>
+							
+						JERRY: And you know what else? He picked up that woman in the coffee shop.<br>
+							<br>
+							
+						GEORGE: The one who always sits by herself?<br>
+							<br>
+							
+						JERRY: Yeah!<br>
+							<br>
+							
+						GEORGE: How did he do that?<br>
+							<br>
+							
+						JERRY: Because he was brimming with confidence from the toupee.<br>
+							<br>
+							
+						GEORGE: Really? And Debby told me that she fell in love with him because he has all this perspective!<br>
+							<br>
+							
+						JERRY: She thinks a guy who lies about a life-threatening illness, so he can get some phony hair has perspective?<br>
+							<br>
+							
+						GEORGE: (opening door to leave) He picked her up?<br>
+							<br>
+							
+						JERRY: Walked right over to her table.<br>
+							<br>
+							
+						GEORGE: Wow. (he runs his fingers through his hair, and then brushes the resulting fallout off his jacket)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Waldenbooks]<br>
+							<br>
+							
+						(Jake still at the signing table. People still queuing. Elaine skips past the queue.)<br>
+							<br>
+							
+						ELAINE: Jake, Jake. Take a look. (puts on the frames she bought) Aaw, see, you're not the only one who has 'em. I have them too.<br>
+							<br>
+							
+						JAKE: Where did you get those?<br>
+							<br>
+							
+						ELAINE: Malaysia. I was in the area.<br>
+							<br>
+							
+						(Jake thumps the desk in frustrated rage.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Newman's car]<br>
+							<br>
+							
+						(Newman is sitting alone. The door opens and Kramer jumps in.)<br>
+							<br>
+							
+						NEWMAN: (surprised) Kramer.<br>
+							<br>
+							
+						KRAMER: Just drive.<br>
+							<br>
+							
+						(Newman puts the car in gear and sets off.)<br>
+							<br>
+							
+						KRAMER: All right. Now you listen, and you listen good. I know who you are. You're the scofflaw.<br>
+							<br>
+							
+						NEWMAN: (defensive) What're you talking about...<br>
+							<br>
+							
+						KRAMER: (interrupting) Ah, don't play dumb. It's me, Cosmo.<br>
+							<br>
+							
+						NEWMAN: All right, so it's me. So what?<br>
+							<br>
+							
+						KRAMER: You don't think I know how you're feeling, every second of the day? Looking over your shoulder to see if someone's coming up from behind. Sitting alone at night, knowing they could be closing in.<br>
+							<br>
+							
+						NEWMAN: I can't sleep, I tell you! I can't sleep!<br>
+							<br>
+							
+						KRAMER: Ga, of course you can't, you poor sap! Now why didn't you tell me?<br>
+							<br>
+							
+						NEWMAN: I couldn't. I couldn't tell anyone.<br>
+							<br>
+							
+						KRAMER: So you been living this secret the whole time by yourself?<br>
+							<br>
+							
+						NEWMAN: (sobbing) Yes, it's been awful. I wanted to tell somebody. (pleading) Help me Kramer! Help me!<br>
+							<br>
+							
+						KRAMER: All right, all right, I'm gonna help you.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Street]<br>
+							<br>
+							
+						(George and Jerry, walking together.)<br>
+							<br>
+							
+						GEORGE: I'll try some on and see how they look. It's just hair.<br>
+							<br>
+							
+						JERRY: You ever see what that thing looks like in the back? You got your natural little curls on the bottom, and then that big phony mat coming down on top of 'em.<br>
+							<br>
+							
+						GEORGE: Well, some of 'em look good. The ones that look good you don't even know about.<br>
+							<br>
+							
+						JERRY: What if you get involved with a woman? How're you gonna tell her?<br>
+							<br>
+							
+						GEORGE: The way they make 'em these days, I'll never have to tell her.<br>
+							<br>
+							
+						JERRY: So you keep it a secret your whole life, then at your funeral the mortician comes out (as mortician) 'Here, Mrs Costanza, I thought you might want this'. (as Mrs Costanza, horrified) Aahh!<br>
+							<br>
+							<br>
+							<br>
+							
+						[Monk's]<br>
+							<br>
+							
+						(Elaine and Mr Lippman, sitting in a booth.)<br>
+							<br>
+							
+						LIPPMAN: It's no secret that it's my dream to have my own publishing house, and if this Jake Jarmel book does, you know, what I think it's gonna do. If I can get this whole thing off the ground, then , you know, I think I'll have something for you. (laughs)<br>
+							<br>
+							
+						ELAINE: Oh, Mr Lippman. (joins laughter) That is so exciting. I mean, you have no idea how sick I am of running around town looking for socks.<br>
+							<br>
+							
+						LIPPMAN: Yeah, by the way, those are great glasses.<br>
+							<br>
+							
+						ELAINE: Oh really, you like 'em?<br>
+							<br>
+							
+						LIPPMAN: Uh huh. Very unusual.<br>
+							<br>
+							
+						ELAINE: Well, you know what? (removes glasses)<br>
+							<br>
+							
+						LIPPMAN: What?<br>
+							<br>
+							
+						ELAINE: (hands them over) You can have 'em.<br>
+							<br>
+							
+						LIPPMAN: Oh, no no no. (waves them away) Please.<br>
+							<br>
+							
+						ELAINE: No no no no. Go to that place on the corner, they'll change the prescription in an hour. Take 'em.<br>
+							<br>
+							
+						LIPPMAN: Really?<br>
+							<br>
+							
+						ELAINE: Yeah, I've no use for them anymore. Honestly.<br>
+							<br>
+							
+						LIPPMAN: (accepting) I could use a new pair of reading glasses.<br>
+							<br>
+							
+						ELAINE: They're from Malaysia.<br>
+							<br>
+							
+						LIPPMAN: (putting on spectacles) Oh yeah?<br>
+							<br>
+							
+						ELAINE: (admiring gasp) Fabulous.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Courtroom]<br>
+							<br>
+							
+						(Newman stands before a female Judge. Kramer stands beside him. There are the usual personnel for a courtroom.)<br>
+							<br>
+							
+						JUDGE: Well Mr Newman, in all my years on the bench, I have never come across anything quite like this. I have given this matter some very serious consideration and I've decided that what's best for the city and possibly for yourself, is for you to keep your car, in a garage...<br>
+							<br>
+							
+						(Newman bursts into anguished tears.)<br>
+							<br>
+							
+						JUDGE: ...convenient to your home.<br>
+							<br>
+							
+						NEWMAN: (sobbing) I can't afford that!<br>
+							<br>
+							
+						JUDGE: Afford it you will, Mr Newman. Or this court will see that your car is impounded...<br>
+							<br>
+							
+						(Newman's sobbing reaches new heights.)<br>
+							<br>
+							
+						JUDGE: ...and sold at auction.<br>
+							<br>
+							
+						KRAMER: Well, don't you worry, your honour. He's in my custody.<br>
+							<br>
+							
+						(The judge peers at Kramer. She does not look impressed by this statement.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Hair Team For Men]<br>
+							<br>
+							
+						(George, Jerry and a Salesman, wearing a substandard toupee, are in a fitting room (?). George is sitting before a mirror, trying on a wig, assisted by the salesman, while Jerry looks on.)<br>
+							<br>
+							
+						GEORGE: (to Jerry) Well, what d'you think?<br>
+							<br>
+							
+						JERRY: (unimpressed) I, really can't say.<br>
+							<br>
+							
+						GEORGE: No, say. I want you to say.<br>
+							<br>
+							
+						JERRY: It's not good, okay. It's not good. You look (searches for word) stupid. (to salesman) I'm sorry.<br>
+							<br>
+							
+						SALESMAN: You have to realise this has not been custom-fitted to his scalp.<br>
+							<br>
+							
+						GEORGE: (examining reflection) I really think this looks pretty good.<br>
+							<br>
+							
+						JERRY: Why don't you get a pair of white shoes, move down to Miami Beach and get the whole thing over with?<br>
+							<br>
+							
+						GEORGE: (to salesman) Well, maybe you could show me something else.<br>
+							<br>
+							
+						SALESMAN: As I said, it'll be different once we design something specifically for you. But I don't think your friend here is being very helpful.<br>
+							<br>
+							
+						JERRY: Oh, hey, I'm being helpful. I am the only one being helpful!<br>
+							<br>
+							
+						SALESMAN: (getting annoyed) No, I don't think you're being helpful! I think you're being disruptive, and you make it very difficult for your friend here to improve his life!<br>
+							<br>
+							
+						JERRY: Hey! I'm trying to prevent my friend from becoming one of those guys people snicker at behind their back, because they look ridiculous! No offence to you personally!<br>
+							<br>
+							
+						SALESMAN: (angry) All you people with hair think you're so damn superior! You have no idea what it's like. You ever look down in the bottom of your tub and see a fist fulla hair? How'd you like to start your day with that?! (looks ready to punch Jerry)<br>
+							<br>
+							
+						JERRY: All right! Take it easy! Take it easy.<br>
+							<br>
+							
+						GEORGE: (leaps to feet) Jerry!<br>
+							<br>
+							
+						JERRY: I'm sorry.<br>
+							<br>
+							
+						GEORGE: Please. (sits again)<br>
+							<br>
+							
+						(The door opens and Gary enters. He's humming to himself.)<br>
+							<br>
+							
+						GARY: Hey Jerry, th... (spots George) George, you decided to get a rug! Good for you, Jack!<br>
+							<br>
+							
+						GEORGE: Well, I'm, I'm just looking.<br>
+							<br>
+							
+						GARY: Oh. (to salesman) Uh, Tommy, I'm gonna need a little adjustment.<br>
+							<br>
+							
+						SALESMAN: I'll be right with you.<br>
+							<br>
+							
+						(The salesman/Tommy leaves.)<br>
+							<br>
+							
+						GARY: Listen, George, I got some bad news. I'm not gonna be able to give you that parking space.<br>
+							<br>
+							
+						GEORGE: What?<br>
+							<br>
+							
+						JERRY: What?<br>
+							<br>
+							
+						GARY: This judge has to use it for some scofflaw. And you know you can't fight City Hall.<br>
+							<br>
+							
+						(Jerry gives a questioning look to George, who responds with a 'go ahead' expression.)<br>
+							<br>
+							
+						JERRY: You know, Gary (slams shut the door) I had a little chat with George the other day...<br>
+							<br>
+							
+						GARY: (to George) You didn't?!<br>
+							<br>
+							
+						GEORGE: (admiring himself in mirror) I did.<br>
+							<br>
+							
+						JERRY: (advancing on Gary) ...and he told me that that... (becomes indistinct)<br>
+							<br>
+							
+						(We see George continuing to admire himself as, off-camera, Gary and Jerry are heard struggling for possession of Gary's wig.)<br>
+							<br>
+							
+						GARY: (indistinct) I'm not a hundred percent recovered yet!<br>
+							<br>
+							
+						JERRY: Gimme that thing!<br>
+							<br>
+							<br>
+							<br>
+							
+						[Monk's]<br>
+							<br>
+							
+						(Typical number of customers. George enters, wearing his new toupee. One or two of the staff give him a glance. He looks around, and taps the counter by the cash register. A beautiful brunette sitting at the nearest table give him an admiring look.)<br>
+							<br>
+							
+						GEORGE: How's your life? All right?<br>
+							<br>
+							
+						WOMAN: Yeah, not bad at all.<br>
+							<br>
+							
+						(She pushes the chair opposite her out from the table in an invitation for George to sit down. George looks pleasantly surprised by the beneficial effects of his hairpiece.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Press conference]<br>
+							<br>
+							
+						(Mr Lippman and Jake Jarmel are on a small stage with a lectern. In front of it are a group of reporters and, amongst them sits Elaine.)<br>
+							<br>
+							
+						LIPPMAN: (at lectern) And now, uh, ladies and gentlemen of the press, it is my pleasure to introduce you to Mr Jake Jarmel. (he applauds Jake as he vacates the lectern in his favour)<br>
+							<br>
+							
+						(There is a brief ripple of applause as Jake steps up to take questions.)<br>
+							<br>
+							
+						REPORTER: So Jake, what's your percentage on this book?<br>
+							<br>
+							
+						(Several of the reporters laugh, as does Jake. Mr Lippman steps back to the lectern. He has some notes, and is extracting his glasses from his pocket.)<br>
+							<br>
+							
+						LIPPMAN: Oh, actually I, uh, I have some very interesting information on that. (puts on glasses) You know, uh, this is a co-venture and as...<br>
+							<br>
+							
+						JAKE: (notices glasses) Where did you get those?<br>
+							<br>
+							
+						LIPPMAN: ... as such, it...<br>
+							<br>
+							
+						JAKE: Those glasses, where did you get those glasses?<br>
+							<br>
+							
+						LIPPMAN: (confused) Where... what?<br>
+							<br>
+							
+						JAKE: (to Elaine) Is this supposed to be some kind of a joke on me? Because it's not very funny. (to the nonplussed Lippman) Give me those! (yelling) I want the glasses! Give me those!<br>
+							<br>
+							
+						(He tries to pull them from Lippman's face, and a struggle ensues. Jake can be heard demanding the glasses. The reporters endeavour to get a view of the noisy fracas. Elaine rises and begins to make her way toward the exit. She is apologetic to her neighbour.)<br>
+							<br>
+							
+						ELAINE: (mouths) 'Scuse me. Have to go (audible) look for some socks.<br>
+							<br>
+							<br>
+							
+						The End</td>
+						</tr>
+						<tr height="6">
+							<td class="bottom2" width="645" height="6"></td>
+						</tr>
+						<tr>
+							<td width="645">
+								<div align="center">
+									<font size="-1">Copyright 2006 seinology.com | All Rights Reserved | Designed by 13erla</font></div>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+		<p></p>
+	</body>
+
+</html>

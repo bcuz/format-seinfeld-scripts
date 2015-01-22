@@ -1,0 +1,1303 @@
+<tdOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+<html>
+
+	<head>
+		<meta http-equiv="content-type" content="text/html;charset=ISO-8859-1">
+		<meta name="description" content="Top Source for Seinfeld">
+		<meta name="keywords" content="seinfeld, sienfeld, Jerry Seinfeld, Julia Louis Dreyfus, Jason Alexander, Michael Richards, Kramer, George, Costanza, Elaine Benes, morty, Larry David">
+		<title>Seinology.com :: Scripts :: 66-The Puffy Shirt</title>
+	<link rel='stylesheet' href='/stylesheet.css' type='text/css'>
+	</head>
+
+	<body>
+			<table align="center" width="787" border="0" cellspacing="0" cellpadding="0">
+				<tr>
+					<td><font size="-2" color="red">Seinology.com - </font><font size="-3" color="black">Where Seinfeld Content and Accuracy Matter Most. Seinfeld scripts in pdf form, Seinfeld episode video clips, Seinfeld episode audio clips, Jerry Seinfeld appearances, Julia Louis-Dreyfus appearances, Michael Richards appearances, Jason Alexander appearances, Seinfeld discussion Forum, Seinfeld Where are they Now? Seinlanguage Newsletter, Popular Seinfeld Lists, Seinfeld episode standup, Seinfeld episode guide, Seinfeld fan fiction. Seinfeld content all on one domain. Seinology.com enjoy your stay.</font></td>
+				</tr>
+			</table>
+		
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr height="100">
+				<td class="logo"></td>
+			</tr>
+			<tr><td class="ads" align="center" background=#8694fa>
+				<script type="text/javascript"><!--
+google_ad_client = "pub-1924026976931416";
+google_ad_width = 728;
+google_ad_height = 90;
+google_ad_format = "728x90_as";
+google_ad_type = "text";
+google_ad_channel = "";
+google_color_border = "FFFFFF";
+google_color_bg = "8694fa";
+google_color_link = "0000FF";
+google_color_text = "000000";
+google_color_url = "002E3F";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></td></tr>
+		</table>
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr>
+				<td valign="top" width="136">
+					<table width="136" border="0" cellspacing="0" cellpadding="0">
+						<tr height="24">
+							<td class="navigation">
+								<div align="center">
+									
+									<b>Navigation</b></div>
+							</td>
+						</tr>
+						<tr height="199">
+							<td class="spacer1" valign="top" width="136" height="199">
+								<div align="center">
+									<font size="-1"><a href="http://www.seinology.com">Home</a><br>
+										<a href="http://board.seinology.com">Forum</a><br>
+										<a href="http://www.seinology.com/av.shtml">Audio/Video</a><br>
+										<a href="http://www.seinology.com/scripts.shtml">Scripts</a><br>
+										<a href="http://www.seinology.com/survivor.shtml">Survivor</a><br>
+										<a href="http://www.seinology.com/fanfics.shtml">Fan Fiction</a><br>
+										<a href="http://www.seinology.com/gallery/">Gallery</a><br>
+										<a href="http://www.seinology.com/newsletter.shtml">Newsletter</a><br>
+										<a href="http://www.seinology.com/lists.shtml">Lists</a><br>
+										<a href="http://www.seinology.com/epguide.shtml">Episode Guide</a><br>
+										<a href="http://www.seinology.com/links.shtml">Links</a><br>
+										<a href="http://www.seinology.com/faqother.shtml">Faq + others</a><br>
+										<a href="http://www.seinology.com/legal.shtml">Legal</a></font></div>
+							</td>
+						</tr>
+						
+						<tr>
+							<td class="nav2" width="136">
+							<div align="center"><b>Search</b></div></td>
+						</tr>
+						<tr>
+							<td class="spacer1" width="136" valign="top"><div align="center"><form method="get" action="http://www.seinology.com/search/search.cgi">
+<p><label for="fdse_Match">Match</label><br>
+<select name="Match" id="fdse_Match" size="1">
+<option value="1">All</option>
+<option value="0">Any</option>
+<option value="2">Phrase</option>
+</select></p>
+<p><label for="fdse_Realm">Where?</label><br>
+<select name="Realm" id="fdse_Realm" size="1">
+<option selected="selected" value="All">EntireSite</option>
+<option value="Ep Guide">Ep Guide</option>
+<option value="Images">Images</option>
+<option value="Lists">Lists</option>
+<option value="Newsletters">Newsletters</option>
+<option value="Scripts">Scripts</option>
+<option value="Notes..Nothing">Notes..Nothing</option>
+</select></p>
+<p><input type="text" name="Terms" size="14" id="fdse_Terms"><br>
+<input type="submit" class="submit" name="submitButtonName" value="Search"></p>
+</div></form></td>
+						</tr>
+						<tr><td class="bottom" width="136" height="10" valign="top">
+						</td>
+						</tr>
+					</table>
+				</td>
+				<td width="4"></td>
+				<td valign="top" width="645">
+					<table width="645" border="0" cellspacing="0" cellpadding="0">
+						<tr height="18">
+							<td width="645" height="35" class="bar">
+								<div align="center">
+									<b><font size="+2" color="black">Script</font></b></div>
+							</td>
+						</tr>
+						<tr height="362">
+							<td class="spacer2" valign="top" width="645" height="362">
+
+						<p><font size="-2">Episode 66 - The Puffy Shirt<br>
+							
+						pc: 503, season 5, episode 2<br>
+							
+						Broadcast date: September 23, 1993<br>
+							<br>
+							
+						Written by Larry David<br>
+							
+						Directed by Tom Cherones<br>
+							<br>
+							
+						-------------------------------------------------------------------------------<br>
+							<br>
+							
+						The Cast<br>
+							
+						Regulars:<br>
+							
+						Jerry Seinfeld ....................... Jerry Seinfeld<br>
+							
+						Jason Alexander .................. George Costanza<br>
+							
+						Julia Louis-Dreyfus ............. Elaine Benes<br>
+							
+						Michael Richards ................. Kramer<br>
+							<br>
+							
+						Guest Stars:<br>
+							<br>
+							
+						Wendel Meldrum ................ Leslie<br>
+							
+						David Brisbin ...................... Client<br>
+							
+						Bryant Gumbel .................... Himself<br>
+							
+						Deborah May ...................... Elsa<br>
+							
+						Michael Mitz ........................ Photographer<br>
+							
+						Kim Gillingham .................... Assistant<br>
+							
+						Terence Riggins .................. Stage Manager<br>
+							
+						Ron Ross ............................. Homeless Man<br>
+							
+						rc: Jerry Stiller ..................... Frank Costanza<br>
+							
+						rc: Estelle Harris .................. Estelle Costanza<br>
+							<br>
+							
+						==================================================================<br>
+							<br>
+							
+						[Opening Monologue]<br>
+							<br>
+							
+						There's no way that moving in with your parents is a sign that your life is right on track. There's no way that you could fake this even, 'Ya things doing great, I've got a terrific girl, I got a great girl, making a lot of money, and if everything goes according to plan I'm gonna be moving back in with my parents soon.' It's like getting busted on a parole violation and getting thrown back into the slammer. 'In the opinion of the board you need further rehabilitation I'm afraid.' And y-you go back into that little room of yours. You feel so huge, it's like you could take your bed and crush it with your hands. You can hold your parents between your fingers (hands like he is holding two parents between his fingers) and going 'Why was I so afraid of you people when I was growing up?'<br>
+							<br>
+							<br>
+							<br>
+							
+						[Setting: Jerry's apartment]<br>
+							<br>
+							
+						(Jerry and George are waiting for Kramer, so he can help them move George's stuff back into his parent's house)<br>
+							<br>
+							
+						GEORGE: I can't believe this.<br>
+							<br>
+							
+						JERRY: Oh, it won't be for that long.<br>
+							<br>
+							
+						GEORGE: How can I do this? How can I move back in with those people? Please, tell me. They're insane. You know that.<br>
+							<br>
+							
+						JERRY: Hey, my parents are just as crazy as your parents.<br>
+							<br>
+							
+						GEORGE: How can you compare you parents to my parents?!<br>
+							<br>
+							
+						JERRY: My father has never thrown anything out. Ever!<br>
+							<br>
+							
+						GEORGE: My father wears his sneakers in the pool! Sneakers!<br>
+							<br>
+							
+						JERRY: My mother has never set foot in a natural body of water.<br>
+							<br>
+							
+						GEORGE: (Showing Jerry up) Listen carefully. My mother has never laughed. Ever. Not a giggle, not a chuckle, not a tee-hee.. never went 'Ha!'<br>
+							<br>
+							
+						JERRY: A smirk?<br>
+							<br>
+							
+						GEORGE: Maybe!.. And I'm moving back in there!<br>
+							<br>
+							
+						JERRY: I told you I'd lend you the money for the rent.<br>
+							<br>
+							
+						GEORGE: No, no, no, no. Borrowing money from a friend is like having sex. It just completely changes the relationship.<br>
+							<br>
+							
+						(Kramer stumbles in)<br>
+							<br>
+							
+						KRAMER: Alright. I'm ready. (To George) You know, I still don't understand - why do you want to move back in with your parents?<br>
+							<br>
+							
+						GEORGE: I don't want to! I'm outta money! I got 714 dollars left in the bank.<br>
+							<br>
+							
+						KRAMER: Well, move in here.<br>
+							<br>
+							
+						JERRY: (Stopping the notion) What's that?<br>
+							<br>
+							
+						KRAMER: Why doesn't he just move in here?<br>
+							<br>
+							
+						GEORGE: (Sarcastic) Yeah, yeah. I'm gonna move in with him. He doesn't even let you use the toilet!<br>
+							<br>
+							
+						KRAMER: You can move in with me, if you want.<br>
+							<br>
+							
+						GEORGE: (Sincerely) Thank you.. I, uh.. that might not work out.<br>
+							<br>
+							
+						(Scene ends)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Setting: The Costanza's house]<br>
+							<br>
+							
+						(Jerry, George, and Kramer enter carrying George's luggage. Kramer clumsily bangs the wall with one of the suitcases)<br>
+							<br>
+							
+						ESTELLE: Careful! Careful with the suitcases! We just painted!<br>
+							<br>
+							
+						KRAMER: Hello, Mrs. Costanza.<br>
+							<br>
+							
+						JERRY: (quietly) Hello, Mrs. Costanza.<br>
+							<br>
+							
+						ESTELLE: (not really noticing Jerry said Hello) Hello, Kramer. Close the door.<br>
+							<br>
+							
+						(They set down George's luggage)<br>
+							<br>
+							
+						KRAMER: Well, I gotta bring in more stuff. (Heads for the door)<br>
+							<br>
+							
+						ESTELLE: More stuff?!<br>
+							<br>
+							
+						KRAMER: Yeah. (Exits)<br>
+							<br>
+							
+						ESTELLE: (To George) How much is there?!<br>
+							<br>
+							
+						GEORGE: (Annoyed) There's more.<br>
+							<br>
+							
+						ESTELLE: So, how are ya, Jerry?<br>
+							<br>
+							
+						JERRY: Fine, Mrs. Costanza. (Attempts to get Estelle to laugh) Hey, I got a terrific joke for you..<br>
+							<br>
+							
+						ESTELLE: (Sits down on the couch) Nah, not interested.<br>
+							<br>
+							
+						JERRY: No, no. It-It's really funny. There's these two guys-<br>
+							<br>
+							
+						ESTELLE: (Interrupting) Tell it to the audience. (George gives Jerry an 'I told you so' look) Here, (Picks up a plate full of sandwiches) I made some bologna sandwiches.<br>
+							<br>
+							
+						GEORGE: Bologna?! No one eats bologna anymore!<br>
+							<br>
+							
+						ESTELLE: What are you talking about?! (to Jerry) Have a sandwich.<br>
+							<br>
+							
+						JERRY: (setting down a box) No thanks.<br>
+							<br>
+							
+						(Kramer enters with some more suitcases)<br>
+							<br>
+							
+						ESTELLE: Oh, stop it! You don't want one, Kramer?<br>
+							<br>
+							
+						KRAMER: Uhh.. no thanks. (Goes back out the door)<br>
+							<br>
+							
+						ESTELLE: I think you're all a little touched in the head. (Puts the plate down) You're so worried about your health.. You're young men.<br>
+							<br>
+							
+						JERRY: I really don't eat it.<br>
+							<br>
+							
+						ESTELLE: What am I gonna do with all these sandwiches?! Will you take them home? Give them to someone in your building?<br>
+							<br>
+							
+						JERRY: I don't know if I'd feel comfortable handing out bologna sandwiches in the building..<br>
+							<br>
+							
+						KRAMER: (Enters with a box) Alright, that's it. Anything else?<br>
+							<br>
+							
+						GEORGE: (Muttering) No, that's it.<br>
+							<br>
+							
+						(A horn honks from outside the house)<br>
+							<br>
+							
+						KRAMER: Oh, I gotta go move the car. Alright (Leaves)<br>
+							<br>
+							
+						JERRY: Well, I guess we'll be going.. (Heads for the door)<br>
+							<br>
+							
+						GEORGE: (Runs over to him, not wanting him to leave) What? You're going?<br>
+							<br>
+							
+						JERRY: Yeah.<br>
+							<br>
+							
+						GEORGE: Wha - what are you doing later?<br>
+							<br>
+							
+						JERRY: Oh, Elaine and I are going out to dinner with Kramer and his new girlfriend.<br>
+							<br>
+							
+						GEORGE: Really?<br>
+							<br>
+							
+						JERRY: Yeah, You can't believe this woman. She's one of those low-talkers. You can't hear a word she's saying! You're always going 'excuse me?', 'what was that?'<br>
+							<br>
+							
+						GEORGE: Yeah.. may - maybe I'll meet ya?<br>
+							<br>
+							
+						ESTELLE: No, George. We're going out to eat tonight with your father.<br>
+							<br>
+							
+						GEORGE: (Mutters) Oh.. okay.. talk to you later.<br>
+							<br>
+							
+						JERRY: Yeah, take it easy. (Leaves)<br>
+							<br>
+							
+						(George watches his mother sitting contentedly on the couch. She's staring off into space)<br>
+							<br>
+							
+						GEORGE: Oh, my God.. (Buries his face into his hands)<br>
+							<br>
+							
+						(Scene ends)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Setting: A Restaurant]<br>
+							<br>
+							
+						(Jerry, Elaine, Kramer, and Leslie are all laughing)<br>
+							<br>
+							
+						ELAINE: Okay, well, he had this idea of a pizza place where you make your own pie! (Laughs)<br>
+							<br>
+							
+						JERRY: Right.<br>
+							<br>
+							
+						ELIANE: You remember that?<br>
+							<br>
+							
+						KRAMER: Yeah, well, that was a good one.<br>
+							<br>
+							
+						JERRY: Well..<br>
+							<br>
+							
+						(Kramer's girlfriend starts to mumble out some words, but Kramer's the only one who seems to hear her. Jerry and Elaine both bend forward, trying to hear what she's saying)<br>
+							<br>
+							
+						ELAINE: What's that?<br>
+							<br>
+							
+						JERRY: Excuse me?<br>
+							<br>
+							
+						(She 'talks' some more. Jerry and Elaine still can't hear her. They give up - leaning back in their seats)<br>
+							<br>
+							
+						JERRY: Yeah.. yeah.<br>
+							<br>
+							
+						ELAINE: Yep. Yeah..<br>
+							<br>
+							
+						KRAMER: You know that, uh, Leslie (Points to her) is in the clothing business? She's a designer.<br>
+							<br>
+							
+						ELAINE: (Interested) Oh?<br>
+							<br>
+							
+						KRAMER: In fact, she's come up with a new one that is going to be the big new look in men's fashion.. It's a, a puffy shirt. (Leslie mumbles to Kramer) Well, yeah, it - it's all puffy. Like the pirates used to wear.<br>
+							<br>
+							
+						ELAINE: Oh, a puffy shirt.<br>
+							<br>
+							
+						JERRY: Puffy.<br>
+							<br>
+							
+						KRAMER: Yeah, see, I think people want to look like pirates. You know, it's the right time for it.. to be all puffy, and devil-may-care..<br>
+							<br>
+							
+						(Leslie starts 'talking', Kramer laughs. Jerry and Elaine have no clue what she's saying. They lean closer)<br>
+							<br>
+							
+						KRAMER: (Still laughing) That's true.. (Gets up) I'll be right back. (Walks off laughing. Jerry and Elaine are left with the low-talker. A moment passes)<br>
+							<br>
+							
+						ELAINE: Uh, o... (Remembers something they could talk about) Jerry's going to be on the &quot;Today&quot; show on Friday.<br>
+							<br>
+							
+						JERRY: Yeah, that's right!<br>
+							<br>
+							
+						ELAINE: Yep.. yep. Um, he's promoting a (pauses) benefit for Goodwill, you know, they, uh, they clothe the (clears her throat) poor, and the homeless..<br>
+							<br>
+							
+						JERRY: (Points at Elaine) And the indigent.<br>
+							<br>
+							
+						ELAINE: And the indigent, yeah.. I, I do volunteer work for them. I-I set the whole thing up, and I got Jerry to do it.<br>
+							<br>
+							
+						(Leslie starts talking. Jerry sitting back not hearing what she said, just shacks his head; Elaine who can't hear either is leaned in trying hard to listen)<br>
+							<br>
+							
+						JERRY: Sure.<br>
+							<br>
+							
+						ELAINE: Ohh, yeah. Yeah.. yep.<br>
+							<br>
+							
+						(Leslie talks some more)<br>
+							<br>
+							
+						JERRY: Uh-huh.<br>
+							<br>
+							
+						ELAINE: Yep.<br>
+							<br>
+							
+						JERRY: Yep..<br>
+							<br>
+							
+						ELAINE: Mmm<br>
+							<br>
+							
+						(Scene ends)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Setting: A Restaurant]<br>
+							<br>
+							
+						ESTELLE: Maybe you should take a civil service test.<br>
+							<br>
+							
+						GEORGE: (Studying the salt shaker) I'm not taking a civil service test.<br>
+							<br>
+							
+						FRANK: Look at this, George. (Takes a coin out of his pocket) You ever seen a silver dollar?<br>
+							<br>
+							
+						GEORGE: Yes, I've seen a silver dollar.<br>
+							<br>
+							
+						ELAINE: Why don't you want to take a civil service test?<br>
+							<br>
+							
+						GEORGE: To do what?! Work in a post office? Is that what you want me to do?<br>
+							<br>
+							
+						FRANK: Would you believe when I was 18, I had a ssssilver dollar collection?<br>
+							<br>
+							
+						ESTELLE: I don't understand. You get job security - you get a pay check every week..<br>
+							<br>
+							
+						GEORGE: I'm a college graduate. You want me to be a mailman?<br>
+							<br>
+							
+						FRANK: (Still looking at his coin) You know, I couldn't bring myself to spend one of these. I got some kind of a-a-a-a-a phobia.<br>
+							<br>
+							
+						ESTELLE: So what are you gonna do?!<br>
+							<br>
+							
+						GEORGE: I don't know. I do know that I have some kind of a talent - something to offer. I just don't know what it is yet!<br>
+							<br>
+							
+						FRANK: I bet that collection would be worth a lot of money today. (does a form of magic trick making the coin disappear as he shows George an empty hand)<br>
+							<br>
+							
+						GEORGE: (Looks fed up with his parents) Oh my God..<br>
+							<br>
+							
+						FRANK: I don't like this waiter. (Holds up his hand to get the waiters attention - starts snapping) Look at him.. He sees us.. he doesn't want to come over.<br>
+							<br>
+							
+						GEORGE: (Needing to get away from his parents, he gets up) I need some air..<br>
+							<br>
+							
+						ESTELLE: George, where are you going?!<br>
+							<br>
+							
+						GEORGE: (Walks off) I got a lot of thinking to do.<br>
+							<br>
+							
+						(Scene cuts to the front of the restaurant. George accidentally runs into a woman - causing her to drop her purse. Items spill out onto the floor)<br>
+							<br>
+							
+						GEORGE: Oh, I'm sorry. I'm terribly sorry.. (Bends down, and starts picking up her things)<br>
+							<br>
+							
+						WOMAN: Look at what you've done! You spilled my bag!<br>
+							<br>
+							
+						GEORGE: (Stuttering) I, I, I, .. here, let me - let me help you..<br>
+							<br>
+							
+						WOMAN: No, no ,no. It's all right. (Begins helping him pick her things up)<br>
+							<br>
+							
+						GEORGE: It - it's just that I'm here with my parents, and my mother wants me to take a civil service test - and to tell you the truth, I don't even think I'd pass it.. So..<br>
+							<br>
+							
+						(George hands the last of the items to her, she takes them from him, then starts to admire his hand)<br>
+							<br>
+							
+						WOMAN: Hmm..<br>
+							<br>
+							
+						GEORGE: What?<br>
+							<br>
+							
+						WOMAN: (Looking at both his hands intensely) Your hands.<br>
+							<br>
+							
+						GEORGE: What about them?<br>
+							<br>
+							
+						WOMAN: They're quite exquisite!<br>
+							<br>
+							
+						GEORGE: They are?<br>
+							<br>
+							
+						WOMAN: (Mesmerized) Extraordinary! Have you ever done any hand modeling?<br>
+							<br>
+							
+						GEORGE: Hand modeling? (Shakes his head 'No')<br>
+							<br>
+							
+						WOMAN: (Fishes a card out of her purse, then hands it to George) Here's my card. Why don't you, uh, give me a call? (Walks off)<br>
+							<br>
+							
+						(George looks at the card; A shot of the card is shown saying &quot;Specialty Models&quot;)<br>
+							<br>
+							
+						(Scene ends)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Setting: Jerry's apartment]<br>
+							<br>
+							
+						(George is holding up his hands for Jerry to see)<br>
+							<br>
+							
+						JERRY: (Shrugs) I - I don't get it.<br>
+							<br>
+							
+						GEORGE: Me neither!<br>
+							<br>
+							
+						JERRY: What is it?<br>
+							<br>
+							
+						GEORGE: I don't know.<br>
+							<br>
+							
+						JERRY: They're hands!<br>
+							<br>
+							
+						GEORGE: This woman just set me up for a job!<br>
+							<br>
+							
+						JERRY: (Gets up, and displays his own hands) Well, what about my hands? I don't see how your hands are any better than my hands.<br>
+							<br>
+							
+						GEORGE: What, are you kidding? (Points at the flaws of Jerry's hands) The knuckles are all out of proportion. you got hair over there - where do you get off comparing your hands to my hands?! This is a one-in-a-million hand. (Points to his own hand)<br>
+							<br>
+							
+						JERRY: Well, that's what comes from avoiding manual labor your whole life.<br>
+							<br>
+							
+						GEORGE: This is it! It happened to me, Jerry! I was sitting in the restaurant, the two nut jobs were talking - I couldn't take it any more. I got up, and (Makes a noise) I bop into this woman..<br>
+							<br>
+							
+						JERRY: It's just like in the movies.<br>
+							<br>
+							
+						(Enter Kramer)<br>
+							<br>
+							
+						KRAMER: Hey. (He's carrying a suit cover. He hangs it on Jerry's coat hooks)<br>
+							<br>
+							
+						JERRY: Hey.<br>
+							<br>
+							
+						KRAMER: Hey, George! (Holds out his hand. George shakes it - a hand buzzer goes off. George starts freaking out. Kramer laughs)<br>
+							<br>
+							
+						GEORGE: OH!!!! What are you, crazy?! Are you, crazy?!<br>
+							<br>
+							
+						KRAMER: What?!<br>
+							<br>
+							
+						GEORGE: You coulda damaged my hand!<br>
+							<br>
+							
+						KRAMER: (Laughing) But, it's only a toy!<br>
+							<br>
+							
+						JERRY: (Explaining) George has become a hand model.<br>
+							<br>
+							
+						KRAMER: A hand model?<br>
+							<br>
+							
+						JERRY: Yes.<br>
+							<br>
+							
+						KRAMER: (To George) Really? Let me see your hands.<br>
+							<br>
+							
+						GEORGE: (Defensively) You can look at them, but do NOT touch them. (Holds them out)<br>
+							<br>
+							
+						KRAMER: Let's see.. (studies them) oh, those are nice. You know, I've never noticed this before? They're smooth.. creamy.. delicate, yet (Turns to Jerry) masculine.<br>
+							<br>
+							
+						GEORGE: (Takes two oven mitts from his back pack) Alright, (puts them on) I gotta get going.<br>
+							<br>
+							
+						JERRY: Oven mitts?<br>
+							<br>
+							
+						GEORGE: (Embarrassed) That's all I could find. (A moment passes) Would you mind getting the door?<br>
+							<br>
+							
+						KRAMER: Yeah..<br>
+							<br>
+							
+						JERRY: Alright. (Jerry opens the door for George)<br>
+							<br>
+							
+						GEORGE: Thank you very much. (Walks out)<br>
+							<br>
+							
+						(Jerry shuts the door, then starts going through his mail)<br>
+							<br>
+							
+						KRAMER: You're not going to believe what happening with Leslie. You know, ever since you agreed to wear the puffy shirt on the Today show, she's been getting all these orders from boutiques and department stores..<br>
+							<br>
+							
+						JERRY: Uh-huh.. (Finally realizes what Kramer said, he looks up) Since I said what?<br>
+							<br>
+							
+						KRAMER: Agreed to wear the puffy shirt. (Starts unzipping the suit cover)<br>
+							<br>
+							
+						JERRY: What are you talking about?<br>
+							<br>
+							
+						KRAMER: When you said that you'd agree to wear the puffy shirt on the Today show. (Takes the ridiculous puffy shirt out of the cover)<br>
+							<br>
+							
+						JERRY: (Goes up to it) This?<br>
+							<br>
+							
+						KRAMER: Yea.<br>
+							<br>
+							
+						JERRY: I agreed to wear this?!<br>
+							<br>
+							
+						KRAMER: Yeah, yeah.<br>
+							<br>
+							
+						JERRY: But, when did I do that?<br>
+							<br>
+							
+						KRAMER: When we went to dinner the other night.<br>
+							<br>
+							
+						JERRY: What are you, crazy?!<br>
+							<br>
+							
+						KRAMER: What were you talking about when I went to the bathroom?<br>
+							<br>
+							
+						JERRY: I don't know! I couldn't understand a word she was saying! I was just nodding!<br>
+							<br>
+							
+						KRAMER: (makes his pop sound) There you go.<br>
+							<br>
+							
+						JERRY: Where I go? You mean she was asking me to wear this ridiculous shirt on national TV, and I said 'Yes'?!<br>
+							<br>
+							
+						KRAMER: Yes, yes! You said it!<br>
+							<br>
+							
+						JERRY: But, I - I didn't know what she was talking about. I couldn't hear her!<br>
+							<br>
+							
+						KRAMER: (Takes it off the hook, and starts walking toward Jerry with it. He backs defensively backs away from it) Well, she asked you.<br>
+							<br>
+							
+						JERRY: I - I can't wear this puffy shirt on TV! I mean, look at it! It looks ridiculous!<br>
+							<br>
+							
+						KRAMER: Well, you gotta wear it now! All those stores are stocking it based on the condition that you're gonna wear this on the TV show! The factory in New Jersey is already makin' em.<br>
+							<br>
+							
+						JERRY: They're making these?<br>
+							<br>
+							
+						KRAMER: Yes, yes. This pirate trend that she's come up with, Jerry, this-this is gonna be the new look for the 90's. You're gonna be the first pirate!<br>
+							<br>
+							
+						JERRY: (Like a little kid) But, I don't want to be a pirate!<br>
+							<br>
+							
+						(Scene ends)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Setting: The Costanza house]<br>
+							<br>
+							
+						(George is giving himself a manicure over a tray. He's carefully primping his fingernails)<br>
+							<br>
+							
+						ESTELLE: I knew it. I knew it.. I always knew you always had beautiful hands. I used to tell people. Frank, didn't I use to talk about his hands?<br>
+							<br>
+							
+						FRANK: (Looking up from his paper) Who the hell did'ya ever mention his hands to?<br>
+							<br>
+							
+						ESTELLE: (Getting annoyed) I mentioned his hands to plenty of people!<br>
+							<br>
+							
+						FRANK: You never mentioned them to me!<br>
+							<br>
+							
+						GEORGE: (Snaps, then points to the coffee table) Hand me an Emory board.<br>
+							<br>
+							
+						(Estelle hands an Emory board to George. He takes it, then goes back to his manicure)<br>
+							<br>
+							
+						ESTELLE: I always talk about your hands - how they're so soft and milky white..<br>
+							<br>
+							
+						FRANK: No! You never said milky white!<br>
+							<br>
+							
+						ESTELLE: (Getting angry) I said milky white!<br>
+							<br>
+							
+						(A moment passes as George fights to keep his temper down around his parents)<br>
+							<br>
+							
+						GEORGE: (To Estelle) Scissor. (She gets the scissors from the coffee table and hands them to George with the point facing him) Don't hand them to me with the point facing out!<br>
+							<br>
+							
+						(Estelle, visibly nervous, reacts, flipping the scissors around)<br>
+							<br>
+							
+						ESTELLE: I'm sorry.<br>
+							<br>
+							
+						GEORGE: You're sorry?!<br>
+							<br>
+							
+						ESTELLE: (Apologizing) I'll try to be more careful.<br>
+							<br>
+							
+						GEORGE: (Stern, angered) I hope so. (Takes the scissors)<br>
+							<br>
+							
+						(Another moment passes as George primps his hands)<br>
+							<br>
+							
+						ESTELLE: Georgie.. (Nudges George's arm, disrupting his work with the scissors) Oh, Georgie, would you like some Jell-O?<br>
+							<br>
+							
+						FRANK: (To Estelle, referring to the Jell-O) Why'd you put the bananas in there?!<br>
+							<br>
+							
+						ESTELLE: (Yelling) George likes the bananas!<br>
+							<br>
+							
+						FRANK: (Trying to match her tone) So let him have bananas on the side!<br>
+							<br>
+							
+						(George stands up with the manicure tray. He's obviously had enough)<br>
+							<br>
+							
+						GEORGE: Alright! Please, please! I cannot have this constant bickering!.. Stress is very damaging to the epidermis! Now, I have an important photo session in the morning - my hands have got to be in tip-top shape, so please - keep the television down, and the conversation to a minimum.<br>
+							<br>
+							
+						ESTELLE: (Meek) But Georgie.. what about the Jell-O?<br>
+							<br>
+							
+						GEORGE: (Definite) I'll take it in my room. (Walks off)<br>
+							<br>
+							
+						(Scene ends)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Setting: A Today Show dressing room]<br>
+							<br>
+							
+						(Jerry's in a back room, getting dressed while Kramer's thumbing through a magazine. There's a knock at the door)<br>
+							<br>
+							
+						KRAMER: Yeah, come in.<br>
+							<br>
+							
+						(A Today Show stagehand enters)<br>
+							<br>
+							
+						STAGEHAND: I just wanted to let you know he's got about five minutes.<br>
+							<br>
+							
+						KRAMER: Giddy-Up. (Stagehand leaves) Jerry! Five minutes!<br>
+							<br>
+							
+						(Jerry walks out from the back room wearing the 'puffy' shirt. He has the expression of extreme resentment)<br>
+							<br>
+							
+						KRAMER: Now that's a great looking shirt! (Gets up, admiring the shirt) Aye Captain! (Growls like a pirate) Yeah! I'm glad I ironed it. It's perfect. (Walks around Jerry, inspecting the shirt) Look at it! It's fantastic!<br>
+							<br>
+							
+						JERRY: (Resisting) Kramer, how am I gonna wear this?! I-I can't wear this!<br>
+							<br>
+							
+						KRAMER: (Reassuring) Hey, this look's better than anything you own. You know, in two months time, everybody's gonna be wearing the (imitates a pirate) pirate look!<br>
+							<br>
+							
+						(A knock at the door, Kramer answers it - it's Elaine)<br>
+							<br>
+							
+						KRAMER: Yeah.<br>
+							<br>
+							
+						ELAINE: Hi, Kramer. Guess what - I just saw Bryant Gumbel, he said he might help out at the benefit!<br>
+							<br>
+							
+						KRAMER: Great.<br>
+							<br>
+							
+						(Elaine stops in her tracks when she sees Jerry in the shirt. Then, bursts out laughing hysterically)<br>
+							<br>
+							
+						ELAINE: (Between laughs) What is that?!<br>
+							<br>
+							
+						KRAMER: It's the puffy shirt. Look at it, eh? Whatd'ya think? Is it cool or what?<br>
+							<br>
+							
+						ELAINE: (To Jerry) Why're you wearing that now?<br>
+							<br>
+							
+						JERRY: (Obviously mad at the situation he's in) 'Why am I wearing is now?? I'll tell you why I'm wearing it now - because the lowtalker asked me to, that's why! And I said 'yes'. Do you know why? Because I couldn't HEAR her!<br>
+							<br>
+							
+						ELAINE: When did she, (Snickers) when did she ask you this?<br>
+							<br>
+							
+						JERRY: When we were at dinner, when Kramer went to the bathroom.<br>
+							<br>
+							
+						ELAINE: I didn't hear anything.<br>
+							<br>
+							
+						JERRY: (Yelling out) Of course not! Nobody hears anything when this woman speaks!<br>
+							<br>
+							
+						ELAINE: (Just now making the matter serious) Well, you can't wear that on the show.<br>
+							<br>
+							
+						KRAMER: (To Elaine, muffled, low, and threatening) Elaine, you want to stop?<br>
+							<br>
+							
+						ELAINE: (Turning around to Kramer) Wha- What? No. (Back to Jerry) Jerry, you are promoting a benefit to CLOTHE homeless people. You can't come out dressed like that! You're all puffed up!.. You look like the Count of Monte Cristo!<br>
+							<br>
+							
+						JERRY: (Arms out, complaining) I have to wear it! The woman has orders for this shirt based on me wearing it on TV.. they're producing them as we speak!<br>
+							<br>
+							
+						ELAINE: (Arguing) Yeah, but you're supposed to be a compassionate person! That cares about poor people! You look like you're gonna.. swing in on a chandelier!<br>
+							<br>
+							
+						(A knock at the door, Jerry answers)<br>
+							<br>
+							
+						STAGEHAND: (Looking down at a clipboard, enters) Okay, let's go. (Looks up, points at Jerry's puffy shirt) Is that what you're wearing?<br>
+							<br>
+							
+						(Scene ends)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Setting: A photographer's studio]<br>
+							<br>
+							
+						(George is holding out his hands while a man and woman marvel at them. A photographer is fooling around with a camera towards the right wall)<br>
+							<br>
+							
+						MAN: I've never seen hands like these before..<br>
+							<br>
+							
+						WOMAN: They're so soft and milky white.<br>
+							<br>
+							
+						PHOTOGRAPHER: You know who's hands they remind me of? (Pauses for effect) Ray McKigney.<br>
+							<br>
+							
+						(The woman nods as the man looks off into space)<br>
+							<br>
+							
+						MAN: Ugh.. Ray.<br>
+							<br>
+							
+						PHOTOGRAPHER: He was it.<br>
+							<br>
+							
+						GEORGE: Who was he?<br>
+							<br>
+							
+						PHOTOGRAPHER: The most exquisite hands you've ever seen.. Oh, he had it all.<br>
+							<br>
+							
+						GEORGE: (Hands still out, even though they've stopped looking at them) What happened to him?<br>
+							<br>
+							
+						(Obviously a touchy subject, the woman coyly walks over to the photographer, and they both occupy themselves. The man is left to tell George the answer to his question)<br>
+							<br>
+							
+						MAN: (Clears throat) Tragic story, I'm afraid. He could've had any woman in the world.. but none could match the beauty of his own hand.. and that became his one true love..<br>
+							<br>
+							
+						(Long pause)<br>
+							<br>
+							
+						GEORGE: You mean, uh..?<br>
+							<br>
+							
+						MAN: Yes. he was not.. master of his domain.<br>
+							<br>
+							
+						GEORGE: (Makes a gesture saying he understands. The man nods) But how.. uh..?<br>
+							<br>
+							
+						MAN: (Quick, to the point) The muscles.. became so strained with.. overuse, that eventually the hand locked into a deformed position, and he was left with nothing but a claw. (Holds hand up, displaying a claw-like shape) He traveled the world seeking a cure.. acupuncturists.. herbalists.. swamis.. nothing helped. Towards the end, his hands became so frozen the was unable to manipulate utensils, (Visibly disgusted by this last part) and was dependent on Cub Scouts to feed him. I hadn't seen another pair of hands like Ray McKigney's until today. You are his successor. (George looks down at his hands) I uh only hope you have a little more self-control.<br>
+							<br>
+							
+						GEORGE: (Smiling to himself) You don't have to worry about me. (Nodding, gloating) I won a contest.<br>
+							<br>
+							
+						(The man nods, unsure of what to say or do)<br>
+							<br>
+							
+						PHOTOGRAPHER: Ok, let's get to work.<br>
+							<br>
+							
+						(Scene ends)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Setting: The Today Show]<br>
+							<br>
+							
+						(Jerry's in the guest chair, and Bryant Gumbel's in the interviewer's spot. Jerry, visibly, does not want to be there)<br>
+							<br>
+							
+						BRYANT: (Talking directly to the camera) Back now, 7:46. On Tuesday the 19th here in New York there will be a benefit for the Goodwill Industries - a used clothing organization that provides services to the needy. One of the performers will be comedian Jerry Seinfeld. (Turns to face Jerry) Jerry, good morning.<br>
+							<br>
+							
+						JERRY: (Mumbling out) Thank you, Bryant.<br>
+							<br>
+							
+						BRYANT: (Pointing out) And speaking of clothing, that is a very, very unusual shirt you have on.<br>
+							<br>
+							
+						JERRY: (Looking down at the shirt; mumbling) Oh, thank you.<br>
+							<br>
+							
+						(Backstage, Kramer's standing with his girlfriend. She's brimming with pride)<br>
+							<br>
+							
+						BRYANT: You're all kinda, (Waves his hands around) kinda &quot;puffed up&quot;. (Chuckles)<br>
+							<br>
+							
+						JERRY: Yeah, it's a puffy shirt.<br>
+							<br>
+							
+						BRYANT: (Laughing) You look kinda like a pirate.<br>
+							<br>
+							
+						(Elaine, also standing backstage, closes her eyes - showing her dissatisfaction)<br>
+							<br>
+							
+						JERRY: (Nervous laughter) Yeah.. like a pirate.. (Attempting to get on another subject) Anyway, ah, you know, we're hoping to, um, raise enough money.. with this.. uh..<br>
+							<br>
+							
+						BRYANT: (Rudely interrupting, still snickering at the shirt) You.. ah, look, I'm sorry, it is just a VERY unusual shirt. It could be kind of a whole new look for you.. you know, you could put a patch over an eye, you could be kind of like the pirate-comedian.<br>
+							<br>
+							
+						JERRY: Uh-huh, yeah. (Smiling, nodding, clearly wanting Bryant to shut up)<br>
+							<br>
+							
+						BRYANT: Are you going to be wearing the shirt at the concert?<br>
+							<br>
+							
+						JERRY: (Losing it, mad) Look, it's not my shirt.<br>
+							<br>
+							
+						BRYANT: (Confused) Whose shirt is it?<br>
+							<br>
+							
+						JERRY: What's the difference? I agreed to wear it. It's - it's a puffy shirt. I feel ridiculous in it, and I think it's the stupidest shirt I've ever seen, to be perfectly honest with you. (Nodding)<br>
+							<br>
+							
+						LESLIE: (Off camera, shrill, high pitched yelling) You bastard!<br>
+							<br>
+							
+						BRYANT: (To Jerry) Did you hear that?<br>
+							<br>
+							
+						JERRY: (Pointing off screen, nodding) THAT I heard.<br>
+							<br>
+							
+						(Scene ends)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Setting: Photographer's studio]<br>
+							<br>
+							
+						(George is modeling a watch as the man and woman stand by. The photographer is setting the camera)<br>
+							<br>
+							
+						PHOTOGRAPHER: (Instructing George) Alright, a little to the left.. Little higher, little higher. Good. Perfect! Perfect.<br>
+							<br>
+							
+						GEORGE: Like that?<br>
+							<br>
+							
+						PHOTOGRAPHER: Just like that. Hold it. (Takes picture) Good, ok, let me get just one more, one more. (Takes another picture) Good, that's it. You're done.<br>
+							<br>
+							
+						GEORGE: That's it?<br>
+							<br>
+							
+						PHOTOGRAPHER: (Smiling) That's it.<br>
+							<br>
+							
+						MAN: (Pulling a slip of paper out of his coat pocket) And here's your check. (George accepts) Thank you very much. (Pats him on the back) It was an honor.<br>
+							<br>
+							
+						WOMAN: It was great working with you. (Somewhat coy) Your hands are beautiful.<br>
+							<br>
+							
+						GEORGE: (Modest) Oh, thank you very much. (Chuckles)<br>
+							<br>
+							
+						WOMAN: You know, I was wondering - if you're not doing anything later, maybe you'd like to get together..?<br>
+							<br>
+							
+						(Scene ends)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Setting: Park]<br>
+							<br>
+							
+						(George skipping along the city park path, dancing arms all the way up, rejoicing)<br>
+							<br>
+							
+						(Scene ends)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Setting: Today Show dressing room]<br>
+							<br>
+							
+						(Jerry, still in the puffy shirt, is getting yelled at by Leslie. Kramer's trying to calm her down, she's hysterical)<br>
+							<br>
+							
+						LESLIE: You ruined me! You ruined my career!<br>
+							<br>
+							
+						JERRY: Oh, just keep your voice down. Everyone can hear you.<br>
+							<br>
+							
+						LESLIE: (Shouting out) Oh, I don't give a damn!<br>
+							<br>
+							
+						JERRY: (Reasoning) You know, if you talked this loud to begin with, I wouldn't be in this costume in the first place!<br>
+							<br>
+							
+						(Leslie, deeply let down, finds comfort in Kramer as they go back and sit together on a sofa. George enters, ecstatic)<br>
+							<br>
+							
+						GEORGE: (Quick, excited talking) Hey, hey! You can't believe this. Look at this check! (Hands it to Jerry) They told me I had the most beautiful hands they'd ever seen in their lives - except for this McKigney guy - this great looking girl gave me her phone number.. I got it! I got it all! I'm busting. Jerry, I'm busting!<br>
+							<br>
+							
+						ELAINE: Hey, I've never noticed your hands before. Let me see.<br>
+							<br>
+							
+						GEORGE: Alright. (Holds them up)<br>
+							<br>
+							
+						ELAINE: (Obviously not impressed, dull) Yeah, real nice.<br>
+							<br>
+							
+						GEORGE: (Turning back to Jerry, he takes the check back. He just now notices the shirt Jerry's wearing, and snickers, pointing) Nice shirt.. (Laughs, Jerry shrugs) What is this? Is this what you wore on the show?<br>
+							<br>
+							
+						(Leslie is in full attention of what George is saying, quietly steaming)<br>
+							<br>
+							
+						JERRY: Yeah.<br>
+							<br>
+							
+						(Kramer notices Leslie's state of mind)<br>
+							<br>
+							
+						GEORGE: What, have you completely lost your mind?<br>
+							<br>
+							
+						KRAMER: (Faint, trying to shut George up) Hey..<br>
+							<br>
+							
+						GEORGE: Who's dressing you? (Laughs) You look like a complete idiot! You know, I wouldn't wipe my- (Unable to take anymore, Leslie gets up and shoves George violently. His hands go straight for the hot iron sitting on the dressing room table. George screams out in agony) AAHHHH!!!!! (his voice is heard outside the building, on the street, and in the park were a bunch of pigeons are scared by the yelling)<br>
+							<br>
+							
+						(Scene ends)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Setting: A Restaurant]<br>
+							<br>
+							
+						(George's hands are completely bandaged up. Elaine's stirring a cup of coffee for him)<br>
+							<br>
+							
+						ELAINE: You ready?<br>
+							<br>
+							
+						(George nods. She holds the cup up to his mouth, he takes a sip)<br>
+							<br>
+							
+						GEORGE: Ow! Hot! Hot!<br>
+							<br>
+							
+						ELAINE: (Sincere) I'm sorry.<br>
+							<br>
+							
+						GEORGE: (Reflecting on his life gone wrong) This McKigney guy had a few good years.. (To Kramer, bitter) How could you forget to turn off an iron?<br>
+							<br>
+							
+						KRAMER: Well, I was excited because Jerry was putting on the puffy shirt.<br>
+							<br>
+							
+						GEORGE: My whole life is ruined because of the (Mocking, bitter tone) &quot;puffy shirt&quot;.<br>
+							<br>
+							
+						JERRY: (Pointing out) It didn't do me any good either! That benefit was the worst show I ever did. Some of those heckles were really uncalled for: &quot;Avast ye matey&quot; - what the hell does that mean?! &quot;20 degrees off the starboard side - the Spanish Galleon!&quot; - there's no comeback for that!<br>
+							<br>
+							
+						ELAINE: (Reflecting) Well, it got me fired from the benefit committee.<br>
+							<br>
+							
+						KRAMER: You know all those stores canceled out on her? She's finished. (Concluding) We're (Leslie and him) finished.<br>
+							<br>
+							
+						JERRY: Really? What happened?<br>
+							<br>
+							
+						KRAMER: (Showing pure irony) I just can't be with someone who's life is in complete disarray.<br>
+							<br>
+							
+						JERRY: What happened with all the shirts?<br>
+							<br>
+							
+						KRAMER: They gave them all to Goodwill.<br>
+							<br>
+							
+						(Finished, they all exit the cafe. George is muttering &quot;puffy shirt.. puffy shirt..&quot; as they meet up with two homeless men dressed in the puffy shirts with their hands out - begging for some change. George shows his two bandaged hands, then walks off with Elaine)<br>
+							<br>
+							
+						HOMELESS MAN: Ahh, can you spare a little change for an old buccaneer?<br>
+							<br>
+							
+						JERRY: (While digging in his pocket for some money, he looks over the shirts one last time) You know, it's really not a bad looking shirt..<br>
+							<br>
+							
+						(Scene ends)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Closing Monologue]<br>
+							<br>
+							
+						Why.. do we always have to say 'excuse ME', when we can't hear what someone is saying? Why are we so guilty and so appol.. 'excuse ME, pardon ME, I'm sorry' Why can't once I go 'Nope not loud enough' Why can't I do that? Just once I would like to have the guts, you know to make that judgment, someone mumbles something you go 'Your Fault. I'm not sorry because it's your fault.'<br>
+							<br>
+							<br>
+							
+						The End</td>
+						</tr>
+						<tr height="6">
+							<td class="bottom2" width="645" height="6"></td>
+						</tr>
+						<tr>
+							<td width="645">
+								<div align="center">
+									<font size="-1">Copyright 2006 seinology.com | All Rights Reserved | Designed by 13erla</font></div>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+		<p></p>
+	</body>
+
+</html>

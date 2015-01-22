@@ -1,0 +1,949 @@
+<tdOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+<html>
+
+	<head>
+		<meta http-equiv="content-type" content="text/html;charset=ISO-8859-1">
+		<meta name="description" content="Top Source for Seinfeld">
+		<meta name="keywords" content="seinfeld, sienfeld, Jerry Seinfeld, Julia Louis Dreyfus, Jason Alexander, Michael Richards, Kramer, George, Costanza, Elaine Benes, morty, Larry David">
+		<title>Seinology.com :: Scripts :: 57-The Outing</title>
+	<link rel='stylesheet' href='/stylesheet.css' type='text/css'>
+	</head>
+
+	<body>
+			<table align="center" width="787" border="0" cellspacing="0" cellpadding="0">
+				<tr>
+					<td><font size="-2" color="red">Seinology.com - </font><font size="-3" color="black">Where Seinfeld Content and Accuracy Matter Most. Seinfeld scripts in pdf form, Seinfeld episode video clips, Seinfeld episode audio clips, Jerry Seinfeld appearances, Julia Louis-Dreyfus appearances, Michael Richards appearances, Jason Alexander appearances, Seinfeld discussion Forum, Seinfeld Where are they Now? Seinlanguage Newsletter, Popular Seinfeld Lists, Seinfeld episode standup, Seinfeld episode guide, Seinfeld fan fiction. Seinfeld content all on one domain. Seinology.com enjoy your stay.</font></td>
+				</tr>
+			</table>
+		
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr height="100">
+				<td class="logo"></td>
+			</tr>
+			<tr><td class="ads" align="center" background=#8694fa>
+				<script type="text/javascript"><!--
+google_ad_client = "pub-1924026976931416";
+google_ad_width = 728;
+google_ad_height = 90;
+google_ad_format = "728x90_as";
+google_ad_type = "text";
+google_ad_channel = "";
+google_color_border = "FFFFFF";
+google_color_bg = "8694fa";
+google_color_link = "0000FF";
+google_color_text = "000000";
+google_color_url = "002E3F";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></td></tr>
+		</table>
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr>
+				<td valign="top" width="136">
+					<table width="136" border="0" cellspacing="0" cellpadding="0">
+						<tr height="24">
+							<td class="navigation">
+								<div align="center">
+									
+									<b>Navigation</b></div>
+							</td>
+						</tr>
+						<tr height="199">
+							<td class="spacer1" valign="top" width="136" height="199">
+								<div align="center">
+									<font size="-1"><a href="http://www.seinology.com">Home</a><br>
+										<a href="http://board.seinology.com">Forum</a><br>
+										<a href="http://www.seinology.com/av.shtml">Audio/Video</a><br>
+										<a href="http://www.seinology.com/scripts.shtml">Scripts</a><br>
+										<a href="http://www.seinology.com/survivor.shtml">Survivor</a><br>
+										<a href="http://www.seinology.com/fanfics.shtml">Fan Fiction</a><br>
+										<a href="http://www.seinology.com/gallery/">Gallery</a><br>
+										<a href="http://www.seinology.com/newsletter.shtml">Newsletter</a><br>
+										<a href="http://www.seinology.com/lists.shtml">Lists</a><br>
+										<a href="http://www.seinology.com/epguide.shtml">Episode Guide</a><br>
+										<a href="http://www.seinology.com/links.shtml">Links</a><br>
+										<a href="http://www.seinology.com/faqother.shtml">Faq + others</a><br>
+										<a href="http://www.seinology.com/legal.shtml">Legal</a></font></div>
+							</td>
+						</tr>
+						
+						<tr>
+							<td class="nav2" width="136">
+							<div align="center"><b>Search</b></div></td>
+						</tr>
+						<tr>
+							<td class="spacer1" width="136" valign="top"><div align="center"><form method="get" action="http://www.seinology.com/search/search.cgi">
+<p><label for="fdse_Match">Match</label><br>
+<select name="Match" id="fdse_Match" size="1">
+<option value="1">All</option>
+<option value="0">Any</option>
+<option value="2">Phrase</option>
+</select></p>
+<p><label for="fdse_Realm">Where?</label><br>
+<select name="Realm" id="fdse_Realm" size="1">
+<option selected="selected" value="All">EntireSite</option>
+<option value="Ep Guide">Ep Guide</option>
+<option value="Images">Images</option>
+<option value="Lists">Lists</option>
+<option value="Newsletters">Newsletters</option>
+<option value="Scripts">Scripts</option>
+<option value="Notes..Nothing">Notes..Nothing</option>
+</select></p>
+<p><input type="text" name="Terms" size="14" id="fdse_Terms"><br>
+<input type="submit" class="submit" name="submitButtonName" value="Search"></p>
+</div></form></td>
+						</tr>
+						<tr><td class="bottom" width="136" height="10" valign="top">
+						</td>
+						</tr>
+					</table>
+				</td>
+				<td width="4"></td>
+				<td valign="top" width="645">
+					<table width="645" border="0" cellspacing="0" cellpadding="0">
+						<tr height="18">
+							<td width="645" height="35" class="bar">
+								<div align="center">
+									<b><font size="+2" color="black">Script</font></b></div>
+							</td>
+						</tr>
+						<tr height="362">
+							<td class="spacer2" valign="top" width="645" height="362">
+
+						<p><font size="-2">Episode 57 - The Outing<br>
+							
+						pc: 416, season 4, episode 17<br>
+							
+						Broadcast date: February 11, 1993<br>
+							<br>
+							
+						Written by Larry Charles<br>
+							
+						Directed by Tom Cherones<br>
+							<br>
+							
+						-------------------------------------------------------------------------------<br>
+							<br>
+							
+						The Cast<br>
+							
+						Regulars:<br>
+							
+						Jerry Seinfeld ....................... Jerry Seinfeld<br>
+							
+						Jason Alexander .................. George Costanza<br>
+							
+						Julia Louis-Dreyfus ............. Elaine Benes<br>
+							
+						Michael Richards ................. Kramer<br>
+							<br>
+							
+						Guest Stars:<br>
+							<br>
+							
+						Paula Marshall .................... Sharon<br>
+							
+						Kari Coleman ..................... Allison<br>
+							
+						Anthony Mangano ............ Sailor<br>
+							
+						Ben Reed ........................... Male Nurse<br>
+							
+						Lawrence A. Mandley ....... Manager<br>
+							
+						Charley Garrett ................. Man #1<br>
+							
+						Deck McKenzie .................. Scott<br>
+							
+						David Gibbs ....................... Man #2<br>
+							
+						rc: Liz Sheridan .................. Helen Seinfeld<br>
+							
+						rc: Barney Martin .............. Morty Seinfeld<br>
+							
+						rc: Estelle Harris ................ Estelle Costanza<br>
+							<br>
+							
+						==================================================================<br>
+							<br>
+							
+						[Opening monologue]<br>
+							<br>
+							
+						I don't know about you, but I'm getting sick of pretending to be excited every time it's somebody's birthday, you know what I mean? What is the big deal? How many times do we have to celebrate that someone was born? Every year, over and over... All you did was not die for twelve months. That's all you've done, as far as I can tell. Now those astrology things where they tell you all the people that have the same birthday as you? It's always an odd group of people too, isn't it? It's like Ed Asner, Elijah Muhammed and Secretariat.<br>
+							<br>
+							<br>
+							
+						[The scene opens with George dropping off his date for the night. She obviously has had a wonderful evening]<br>
+							<br>
+							
+						ALLISON: I don't want to *live*! I don't want to *live*!<br>
+							<br>
+							
+						GEORGE: Because of me? You must be joking! Who wouldn't want to live because of me? I'm nothing!<br>
+							<br>
+							
+						ALLISON: No... You're *something*.<br>
+							<br>
+							
+						GEORGE: You can do better than me. You could throw a dart out the window and hit someone better than me. I'm no good!<br>
+							<br>
+							
+						ALLISON: You're good. You're *good*!<br>
+							<br>
+							
+						GEORGE: I'm bad. I'm *bad*!<br>
+							<br>
+							
+						ALLISON: You're *killing* me!<br>
+							<br>
+							
+						&nbsp;<br>
+							
+						[We cut to Monk's where George, Jerry &amp; Elaine are dining (it being a diner, and all). Jerry is over making a phone call while George &amp; Elaine talk at the table.]<br>
+							<br>
+							
+						GEORGE: So what could I do? I couldn't go through with it. She threatened to kill herself.<br>
+							<br>
+							
+						ELAINE: Over you?<br>
+							<br>
+							
+						GEORGE: Yes. Why, is that so inconceivable?<br>
+							<br>
+							
+						(Cut to Jerry who is over at the phone trying to get Sharon Leanord at NYU. Elaine and George exchange thoughts on what they got Jerry for his birthday.)<br>
+							<br>
+							
+						GEORGE: I got two tickets to see &quot;Guys And Dolls&quot;.<br>
+							<br>
+							
+						ELAINE: I got him a two-line phone.<br>
+							<br>
+							
+						(Jerry returns to the booth and explains the phone call.)<br>
+							<br>
+							
+						JERRY: Unbelievable! She's not there.<br>
+							<br>
+							
+						GEORGE: What paper does she write for?<br>
+							<br>
+							
+						JERRY: The works for the NYU school newspaper. She's a grad student in journalism. Never been to a comedy club. Never even seen me, has no idea who I am.<br>
+							<br>
+							
+						ELAINE: Never even seen you? Gotta kinda envy that...<br>
+							<br>
+							
+						JERRY: Y'know, you've been developing quite the acid-tongue lately...<br>
+							<br>
+							
+						ELAINE: [Proudly] Really?<br>
+							<br>
+							
+						(The camera pans out some so that we can see the three at their table and a girl sitting with her back to George at the next table. She starts to become interested in what the people behind her are talking about as Elaine pops the following philosophical dilemma to her companions)<br>
+							<br>
+							
+						ELAINE: Hey, who do you think is the most unattractive world leader?<br>
+							<br>
+							
+						JERRY: Living or all time?<br>
+							<br>
+							
+						ELAINE: All time.<br>
+							<br>
+							
+						JERRY: Well, if it's all time, then there's no contest. It begins and ends with Brezhnev.<br>
+							<br>
+							
+						ELAINE: I dunno. You ever get a good look at DeGaulle?<br>
+							<br>
+							
+						GEORGE: Lyndon Johnson was uglier than Degaulle.<br>
+							<br>
+							
+						ELAINE: I got news for you. Golda Meir could make 'em all run up a tree.<br>
+							<br>
+							
+						(Elaine notices the woman sitting behind George is eavesdropping on their conversation and discreetly alerts J+G. She decides to add some spice to the conversation. The makes sure to say it loud enough so that the spy at the next table is sure to hear... )<br>
+							<br>
+							
+						ELAINE: Y'know, just because you two are homosexuals, so what? I mean you should just come out of the closet and be openly gay already.<br>
+							<br>
+							
+						(Jerry rolls his eyes and turns away in disbelief while George on the other hand addresses Jerry directly)<br>
+							<br>
+							
+						GEORGE: So, whaddya say? You know you'll always be the only man I'll ever love.<br>
+							<br>
+							
+						JERRY: [indignantly] What's the matter with you?<br>
+							<br>
+							
+						GEORGE: [quietly] C'mon, go along...<br>
+							<br>
+							
+						JERRY: I'm not goin' along. I can just see you in Berlin in 1939 goose- stepping past me: &quot;C'mon Jerry, go along, go along...&quot;<br>
+							<br>
+							
+						JERRY: Y'know I hear that all the time.<br>
+							<br>
+							
+						ELAINE: Hear what?<br>
+							<br>
+							
+						JERRY: That I'm gay. People think I'm gay.<br>
+							<br>
+							
+						ELAINE: Yeah, you know people ask me that about you, too.<br>
+							<br>
+							
+						JERRY: Yeah, 'cuz I'm single, I'm thin and I'm neat.<br>
+							<br>
+							
+						ELAINE: And you get along well with women.<br>
+							<br>
+							
+						GEORGE: I guess that leaves me in the clear...<br>
+							
+						&nbsp;<br>
+							
+						(Meanwhile over at the phone booth, the eavesdropper reveals that she is one Sharon Leonard and she's calling the newspaper that she got to the diner late and missed out on meeting up with Jerry. As she's hanging up, George and Jerry make a trip to the bathroom (have two guys ever actually gone to the bathroom together? Hmmmm...)<br>
+							<br>
+							
+						&nbsp;<br>
+							
+						[Jerry's apartment]<br>
+							<br>
+							
+						(Jerry's unpacking groceries (no cereal to be seen) and George comes in.)<br>
+							<br>
+							
+						GEORGE: I just thought of a great name for myself, if I ever become a porno actor.<br>
+							<br>
+							
+						JERRY: Oh yeah, what? &quot;Buck Naked&quot;?<br>
+							<br>
+							
+						GEORGE: Yeah, how did you know that?<br>
+							<br>
+							
+						JERRY: You told me that already like two months ago.<br>
+							<br>
+							
+						GEORGE: Allison bought it for me.<br>
+							<br>
+							
+						JERRY: How you gonna get out of *that* one?<br>
+							<br>
+							
+						GEORGE: I dunno. I guess I have to wait for her to die.<br>
+							<br>
+							
+						(Sharon buzzes and comes up to Jerry's apartment. George decides to stay. There's a knock at the door and when Jerry answers it, the two decide if they've ever met before. It's pretty obvious Sharon remembers Jerry and George as that &quot;funny&quot; couple from Monk's. Jerry hasn't placed her face, however. Sharon is introduced to George and)<br>
+							<br>
+							
+						JERRY: He's gonna hang around if that's alright with you?<br>
+							<br>
+							
+						SHARON: Sure, I'd like to talk to him, too.<br>
+							<br>
+							
+						GEORGE: Jerry did you wash this pear?<br>
+							<br>
+							
+						JERRY: Yeah, I washed it.<br>
+							<br>
+							
+						GEORGE: It looks like it hasn't been washed.<br>
+							<br>
+							
+						JERRY: So *wash* *it*.<br>
+							<br>
+							
+						GEORGE: You hear the way he talks to me?<br>
+							<br>
+							
+						SHARON: You should hear how *my* boyfriend talks to me...<br>
+							<br>
+							
+						(Again, Jerry seems confused as to what Sharon is saying. Something's not quite right... But, before another question can be asked, again George has a question-- this time for Sharon)<br>
+							<br>
+							
+						GEORGE: Let me ask you something. What do you think of this shirt?<br>
+							<br>
+							
+						SHARON: It's nice.<br>
+							<br>
+							
+						GEORGE: Jerry said he didn't like it.<br>
+							<br>
+							
+						JERRY: I didn't say I didn't like it. I said it was O.K...<br>
+							<br>
+							
+						GEORGE: No, you said you didn't like it...<br>
+							<br>
+							
+						JERRY: Oh, so what if I don't like it. Is that like the end of the world, or something?<br>
+							<br>
+							
+						SHARON: So how did you two meet?<br>
+							<br>
+							
+						JERRY: Actually, we met in the gym locker room.<br>
+							<br>
+							
+						GEORGE: Yeah. Actually it was in gym class. I was trying to climb the ropes and Jerry was spotting me. I kept slipping and burning my thighs and then finally I slipped and fell on Jerry's head. We've been close ever since.<br>
+							<br>
+							
+						(George takes a hold of Jerry's leg to stress the point and Sharon, who obviously thinks she has a real story here now, asks another question:)<br>
+							<br>
+							
+						SHARON: Do you guys live together?<br>
+							<br>
+							
+						JERRY: [quizzically] Live together?<br>
+							<br>
+							
+						GEORGE: No, I got my own place.<br>
+							<br>
+							
+						(Jerry is about *this* close (picture my thumb and forefinger *really* close together) to figuring out what is going on here, when the &quot;question fatale&quot; is asked:)<br>
+							<br>
+							
+						SHARON: And do your parents know?<br>
+							<br>
+							
+						JERRY: Know *what*?<br>
+							<br>
+							
+						GEORGE: My parents? They don't know *what's* goin' on...<br>
+							<br>
+							
+						JERRY: Oh God, you're that girl in the coffee shop that was eavesdropping on us. I *knew* you looked familiar!<br>
+							<br>
+							
+						(All three rise from the couch and a rather excited J+G try to explain things to a very confused reporter.)<br>
+							<br>
+							
+						JERRY: There's been a big misunderstanding here! We did that whole thing for your benefit. We knew you were eavesdropping. That's why my friend said all that. It was on purpose! We're not gay! Not that there's anything wrong with that...<br>
+							<br>
+							
+						GEORGE: No, of course not...<br>
+							<br>
+							
+						JERRY: I mean that's fine if that's who you are...<br>
+							<br>
+							
+						GEORGE: Absolutely...<br>
+							<br>
+							
+						JERRY: I mean I have many gay friends...<br>
+							<br>
+							
+						GEORGE: My *father* is gay...<br>
+							<br>
+							
+						SHARON: Look, I know what I heard.<br>
+							<br>
+							
+						JERRY: It was a *joke*...<br>
+							<br>
+							
+						GEORGE: Look, you wanna have sex right now? Do want to have sex with me right now? Let's go! C'mon, let's go baby! C'mon!<br>
+							<br>
+							
+						(Not that that approach was going to work, or anything, but what minute chance they had of convincing her is blown away as the door bursts open and:)<br>
+							<br>
+							
+						KRAMER: Hey, C'mon! Let's go! I thought we were going to take a steam!<br>
+							<br>
+							
+						GEORGE: No!<br>
+							<br>
+							
+						JERRY: No steam!<br>
+							<br>
+							
+						KRAMER: Well I don't want to sit there naked all by myself!<br>
+							<br>
+							
+						&nbsp;<br>
+							
+						[We fast forward a couple of hours and Jerry and Elaine are talking in the apartment. Elaine offers to talk to her and Jerry reveals that he has convinced her to &quot;think about it&quot; before she prints anything in the NYU paper. And, for some unknown reason, Elaine refuses to take her jacket off. Kramer enters, graceful as always.]<br>
+							<br>
+							
+						KRAMER: Happy birthday paruba!<br>
+							<br>
+							
+						JERRY: Today's not my birthday.<br>
+							<br>
+							
+						KRAMER: Well, I beg to differ...<br>
+							<br>
+							
+						(Kramer convinces Jerry it's his birthday and, after Elaine refuses to take her jacket off again, Kramer presents the big guy with his present.)<br>
+							<br>
+							
+						JERRY: Look at this! A phone! A two-line phone!<br>
+							<br>
+							
+						(Elaine can be seen mouthing the word &quot;sh*t&quot; and is, for some reason, not impressed with the gift. She picks up her purse to leave.)<br>
+							<br>
+							
+						JERRY: Hey, where you going?<br>
+							<br>
+							
+						ELAINE: I gotta go return something...<br>
+							<br>
+							
+						(Kramer goes to his apartment and Jerry calls him to try out the phone. And, as luck would have it, a call comes in on the other line.)<br>
+							<br>
+							
+						SHARON: Jerry, it's Sharon from NYU. I'm just calling to tell you that I'm not going to play up that angle we talked about and I'm sorry.<br>
+							<br>
+							
+						JERRY: Thank you very much, that's great- &gt;click&lt; Oh! Hold on a sec, I got a call on the other line. &gt;click click&lt; Hello?<br>
+							<br>
+							
+						GEORGE: Hey.<br>
+							<br>
+							
+						JERRY: Hey, how ya doin'? Y'know I got that reporter from the newspaper on the other line.<br>
+							<br>
+							
+						GEORGE: So, what did she say?<br>
+							<br>
+							
+						JERRY: She says she's not going to play up that angle of the story. She thinks we're heterosexual. [sarcastically] I guess we *fooled* her. I'll get rid of her, hold on... &gt;click click&lt; Sharon? Hello? Sharon, are you there? &gt;click click&lt; I'm back...<br>
+							<br>
+							
+						GEORGE: Y'know... I could hear you on the other line...<br>
+							<br>
+							
+						JERRY: What are you talkin' about?<br>
+							<br>
+							
+						GEORGE: I heard what you said: &quot;Sharon, are you there?&quot;.<br>
+							<br>
+							
+						JERRY: You heard me talkin' on the other line, are you sure?<br>
+							<br>
+							
+						GEORGE: Yes, I heard you!<br>
+							<br>
+							
+						JERRY: Well, maybe she was disconnected.<br>
+							<br>
+							
+						GEORGE: Maybe she wasn't! Maybe she heard the whole conversation!<br>
+							<br>
+							
+						JERRY: Alright, hang on. Let me call Kramer and see if you can hear anything, hold on. &gt;click click click&lt;...<br>
+							<br>
+							
+						KRAMER: Yello?<br>
+							<br>
+							
+						JERRY: Kramer, there may be a problem with the phone, hold on. &gt;click click&lt;<br>
+							<br>
+							
+						GEORGE: &quot;There may be a problem with the phone, hold on&quot;!<br>
+							<br>
+							
+						JERRY: Oh no! &gt;click click&lt; Kramer, this phone's a piece of junk, goodbye!<br>
+							<br>
+							
+						GEORGE: &quot;The phone's a piece of junk, goodbye&quot;!<br>
+							<br>
+							
+						JERRY: Oh no! Now she's heard everything! What are we gonna do?!?<br>
+							<br>
+							
+						GEORGE: Now she thinks we're gay, not that there's anything wrong with it...<br>
+							<br>
+							
+						JERRY: No, no, of course not! People's personal sexual preferences are nobody's business but their own!<br>
+							<br>
+							<br>
+							
+						[We shift to Sharon's apartment where Elaine is paying a visit]<br>
+							<br>
+							
+						SHARON: Why don't you take a seat?<br>
+							<br>
+							
+						ELAINE: Thank-you.<br>
+							<br>
+							
+						SHARON: Why don't you take your coat off?<br>
+							<br>
+							
+						&nbsp;<br>
+							
+						[Monk's; Jerry George and Elaine drinking coffee]<br>
+							<br>
+							
+						ELAINE: So she kept insisting I take off my coat. I refused, and then she forcibly tried to get me to remove it.<br>
+							<br>
+							
+						JERRY: She wouldn't take her coat off at my house, either.<br>
+							<br>
+							
+						GEORGE: Y'know there are tribes in Indonesia where if you keep your coat on in somebody's house, the families go to war!<br>
+							<br>
+							
+						JERRY: So you don't take your coat off, and now everyone at NYU thinks I'm gay. Not that there's anything wrong with that...<br>
+							<br>
+							
+						GEORGE: Not at all.<br>
+							<br>
+							
+						(Jerry tries to &quot;forcibly remove the coat&quot; in pursuit of some satisfaction. George springs his birthday gift on Jerry.)<br>
+							<br>
+							
+						GEORGE: Two tickets to &quot;Guys And Dolls&quot;! I'm gonna go with you!<br>
+							<br>
+							
+						JERRY: &quot;Guys And Dolls&quot;? Isn't that a lavish, Broadway musical?<br>
+							<br>
+							
+						GEORGE: It's &quot;Guys And *Dolls*&quot;, not &quot;Guys And *Guys*&quot;.<br>
+							<br>
+							
+						JERRY: &quot;The Collected Works Of Bette Midler&quot;.<br>
+							<br>
+							
+						(Nope. Unfortunately for Jerry, things are about to get worse. Elaine notices that there are a couple of guys pointing at Jerry from the other side of the cafe. Jerry goes to investigate.)<br>
+							<br>
+							
+						JERRY: What do you got there?<br>
+							<br>
+							
+						MAN #1: _The New York Post_, they've got an article about you.<br>
+							<br>
+							
+						JERRY: &quot;Although they maintain separate residences, the comedian and his long-time *companion* seem to be inseparable...&quot; Oh no! The Associated Press picked up the NYU story. That's going to be in every paper! I've been &quot;outed&quot;! I wasn't even &quot;in&quot;!<br>
+							<br>
+							
+						GEORGE: Now everyone's going to think we're gay!<br>
+							<br>
+							
+						JERRY: Not that there's anything wrong with that...<br>
+							<br>
+							
+						GEORGE: No, not at all...<br>
+							<br>
+							<br>
+							
+						[Back in the apartment, E+G+J read from _The Post_]<br>
+							<br>
+							
+						JERRY: &quot;Within the confines of his fastidious bachelor *pad*, Seinfeld and Costanza bicker over the cleanliness of a piece of *fruit* like an old married couple--&quot; *I told you that pear was washed*!<br>
+							<br>
+							
+						(Kramer Enters)<br>
+							<br>
+							
+						KRAMER: I thought we were friends...<br>
+							<br>
+							
+						JERRY: Here we go...<br>
+							<br>
+							
+						KRAMER: I mean, how could you two keep this a secret from me?<br>
+							<br>
+							
+						JERRY: It's not true!<br>
+							<br>
+							
+						KRAMER: Aaaah! Enough lying! The lying is through! C'mon, Jerry, the masquerade is over. You're thin, late thirties, single...<br>
+							<br>
+							
+						JERRY: So are you...<br>
+							<br>
+							
+						KRAMER: Yeah--<br>
+							<br>
+							
+						(It's at this point that Kramer, well, &quot;Pulls a Kramer&quot;. He does that mini-epileptic, losing his balance, &quot;waaaaugh&quot; thing and he retreats to his apartment, probably to confront his own sexuality. In Jerry's apartment, the phone rings, George answers.)<br>
+							<br>
+							
+						GEORGE: Hello?<br>
+							<br>
+							
+						MRS. S: George?<br>
+							<br>
+							
+						GEORGE: Mrs. Seinfeld?!?<br>
+							<br>
+							
+						MRS. S: Oh, my God...<br>
+							<br>
+							
+						JERRY: Oh, my God! [takes the phone] Ma?<br>
+							<br>
+							
+						MRS. S: Jerry?<br>
+							<br>
+							
+						JERRY: Ma!<br>
+							<br>
+							
+						GEORGE: Oh, my God! My *MOTHER*!!!<br>
+							<br>
+							
+						&nbsp;<br>
+							
+						[Back at Mr. and Mrs. Seinfeld's place, the conversation continues.]<br>
+							<br>
+							
+						MRS. S: Jerry?<br>
+							<br>
+							
+						JERRY: Ma, it's not true!<br>
+							<br>
+							
+						MR. S: It's those damn culottes you made him wear when he was five!<br>
+							<br>
+							
+						MRS. S: They weren't culottes, they were shorts.<br>
+							<br>
+							
+						MR. S: They were culottes! You bought them in the girl's department.<br>
+							<br>
+							
+						MRS. S: By mistake! By mistake, Jerry! I'm sorry!<br>
+							<br>
+							
+						MR. S: It looked like he was wearing a skirt, for crying out loud!<br>
+							<br>
+							
+						JERRY: Ma, it has nothing to do with the culottes!<br>
+							<br>
+							
+						MRS. S: Not that there's anything wrong with that, Jerry.<br>
+							<br>
+							
+						&nbsp;<br>
+							
+						[Back at the Metropolitan Hospital Center, George pays his mother a visit. She seems to be in the same bed from episode ... (yes, that includes the thin sheet covering that allowed for that infamous silhouette]<br>
+							<br>
+							
+						MRS. C: I open up the paper, and *this* is what I have to read about? I fell right off the toilet. My back went out again, I couldn't move... The super had to come and get help me up. I was half naked!<br>
+							<br>
+							
+						GEORGE: It's *not* *true*!<br>
+							<br>
+							
+						MRS. C: Every *day* it's something else with you. I don't know anything about you any more. Who are you? What kind of life are you leading? Who knows *what* you're doing? Maybe you're making porno films.<br>
+							<br>
+							
+						GEORGE: Yeah. I'm Buck Naked.<br>
+							<br>
+							
+						MRS. C: Jerry, I can see. He's so neat and thin. Not that there's anything wrong with it.<br>
+							<br>
+							
+						GEORGE: Of course not...<br>
+							<br>
+							
+						(In comes a hulking male nurse. He parts the screen and announces)<br>
+							<br>
+							
+						NURSE: 6:30, Scott. Time for your sponge bath.<br>
+							<br>
+							
+						(Ack! It's deja vu all over again! Except instead of a couple of women behind the screen (as in the &quot;M&quot; episode), there are two guys. George is transfixed. Mrs. C. has to scream to get his attention off of the &quot;show&quot; going on beside him.)<br>
+							<br>
+							<br>
+							
+						[at Monk's, E+G+J converge yet again. Jerry informs G+E that Sharon has left a message on his machine. George has other things on his mind.]<br>
+							<br>
+							
+						GEORGE: Alright, now the play is tomorrow night. So do you want to have dinner first, or do you just want to meet at the theatre?<br>
+							<br>
+							
+						(Before Jerry can utter his response, a military guy approaches the table.)<br>
+							<br>
+							
+						SAILOR: Excuse me, sir? I don't mean to bother you. I just wanted you to know that it took a lot of guts to come out the way you did, and that you've inspired me to do the same, even though that may mean a discharge from the service. Thanks.<br>
+							<br>
+							
+						(And, just as quickly as he appeared, he leaves before Jerry can respond (Colonel Flagg, anyone?) He does have an answer to George's previous question, though.)<br>
+							<br>
+							
+						JERRY: Y'know, I think I'll pass on the &quot;Guys And Dolls&quot;...<br>
+							<br>
+							
+						(George throws a &quot;hissy fit&quot; and it told to pipe down by a rather bulky manager from the diner and resolves to take Elaine instead. Elaine then queries George if Allison has seen the article yet.)<br>
+							<br>
+							
+						GEORGE: No. Just imagine her reaction.<br>
+							<br>
+							
+						ELAINE: Yeah...<br>
+							<br>
+							
+						GEORGE: Oh, my God...<br>
+							<br>
+							
+						JERRY: What?<br>
+							<br>
+							
+						GEORGE: She hasn't seen the article! When she sees it, she's gonna think-- *I'm out baby*!! I'm out!!!!!<br>
+							<br>
+							<br>
+							
+						[So, we flash forward to George dropping off Allison. She is mulling over the article that George has given her.]<br>
+							<br>
+							
+						ALLISON: Yeah? So?<br>
+							<br>
+							
+						GEORGE: Yeah so??<br>
+							<br>
+							
+						ALLISON: Well this is nice. They mention your name.<br>
+							<br>
+							
+						GEORGE: Don't you see what it says here? Don't you understand what that's implying?<br>
+							<br>
+							
+						ALLISON: No, what?<br>
+							<br>
+							
+						GEORGE: I'm gay! I'm a gay man! I'm very, very gay.<br>
+							<br>
+							
+						ALLISON: You're *gay*?<br>
+							<br>
+							
+						GEORGE: Extraordinarily gay. Steeped in gayness.<br>
+							<br>
+							
+						ALLISON: [matter-of-factly] I don't believe it.<br>
+							<br>
+							
+						GEORGE: You don't believe me? Ask Jerry.<br>
+							<br>
+							
+						ALLISON: I will.<br>
+							<br>
+							
+						GEORGE: What do you mean you will? That's a bad idea. Jerry is a very private person.<br>
+							<br>
+							
+						ALLISON: [Grabs George's lapels] I want to hear it from *Jerry*...<br>
+							<br>
+							<br>
+							
+						[Back at Jerry's apartment, Sharon and Jerry are, well, &quot;making out on the couch&quot;. Apparently, she's all turned around on the subject.]<br>
+							<br>
+							
+						SHARON: Oh, can you ever forgive me?<br>
+							<br>
+							
+						JERRY: I dunno... [they kiss again] *Alright*, I forgive you...<br>
+							<br>
+							
+						SHARON: Y'know the funny thing is, I was attracted to you immediately.<br>
+							<br>
+							
+						JERRY: I was attracted to you, too. You remind me of Lois Lane.<br>
+							<br>
+							
+						(George Enters)<br>
+							<br>
+							
+						GEORGE: Jerry! Oh, my God! What are you doing!?!<br>
+							<br>
+							
+						JERRY: What!?<br>
+							<br>
+							
+						GEORGE: You're with a *woman*!<br>
+							<br>
+							
+						JERRY: I know! What are you doin' here?!?<br>
+							<br>
+							
+						GEORGE: I leave you alone for two seconds, and this is what you do! I trusted you!<br>
+							<br>
+							
+						JERRY: [forcibly removing G. from the apt] Would you get the Hell out of here!<br>
+							<br>
+							
+						SHARON: What's going on?<br>
+							<br>
+							
+						ALLISON: Yeah, what's going on?<br>
+							<br>
+							
+						GEORGE: Alright, tell her. Go ahead.<br>
+							<br>
+							
+						JERRY: Tell her what?<br>
+							<br>
+							
+						GEORGE: Y'know. About *us*.<br>
+							<br>
+							
+						(George has emphasized his point by reaching up and putting his hand in J's hair. Jerry flips out at this point. His arms are flailing about and he's well, gone loopy. George embraces Jerry to keep it going, but Jerry's not buying any of it. Sharon leaves, much to Jerry's chagrin. Allison asks (again) for an explanation.)<br>
+							<br>
+							
+						GEORGE: Alright, I'll tell you the truth. I'm not gay. My name's Buck Naked, I'm a porno actor.<br>
+							<br>
+							
+						ALLISON: *Really*?<br>
+							<br>
+							
+						(Allison takes George's arm (not quite the reaction he wanted, I'm sure). Kramer walks by the open door to go to his apartment. He is escorted by what appears to be a virile young man. Kramer addresses G+J (and Allison) before he goes into his apartment.)<br>
+							<br>
+							
+						KRAMER: We'll see you later...<br>
+							<br>
+							
+						(George &amp; Jerry look disbelievingly at each other, obviously at a loss for words over Kramer's new, interest. Kramer notices this and)<br>
+							<br>
+							
+						KRAMER: He's the *phone* man!<br>
+							<br>
+							
+						(George + Jerry see the light and are visibly relieved)<br>
+							<br>
+							
+						KRAMER: Not that there's anything wrong with that...<br>
+							<br>
+							<br>
+							
+						[Closing Monologue]<br>
+							<br>
+							
+						I am not gay. I am, however, thin, single and neat. Sometimes when someone is thin, single and neat people assume they are gay because that is a stereotype. They normally don't think of gay people as fat, sloppy and married. Although I'm sure there are, I don't want to perpetuate the stereotype. I'm sure they are the minority though within the gay community. They're probably discriminated against because of that, people say to them &quot;Y'know Joe, I enjoy being gay with you but I think think it's about time, y'know that you got in shape, tucked the shirt in and lost the wife&quot;. But if people are even going to assume that people that are neat are gay, maybe instead of doin' this: &quot;Y'know I think Joe might be a little... [waves hand back and forth]&quot;, they should vacuum: &quot;Y'know I think Joe might be &gt;vroom&lt; [makes vacuuming motion]. Yeah, I got a feeling he's a little &gt;vrooom&lt;...&quot;<br>
+							<br>
+							<br>
+							
+						The End</td>
+						</tr>
+						<tr height="6">
+							<td class="bottom2" width="645" height="6"></td>
+						</tr>
+						<tr>
+							<td width="645">
+								<div align="center">
+									<font size="-1">Copyright 2006 seinology.com | All Rights Reserved | Designed by 13erla</font></div>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+		<p></p>
+	</body>
+
+</html>

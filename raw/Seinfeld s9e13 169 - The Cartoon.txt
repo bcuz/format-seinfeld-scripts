@@ -1,0 +1,1177 @@
+<tdOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+<html>
+
+	<head>
+		<meta http-equiv="content-type" content="text/html;charset=ISO-8859-1">
+		<meta name="description" content="Top Source for Seinfeld">
+		<meta name="keywords" content="seinfeld, sienfeld, Jerry Seinfeld, Julia Louis Dreyfus, Jason Alexander, Michael Richards, Kramer, George, Costanza, Elaine Benes, morty, Larry David">
+		<title>Seinology.com :: Scripts :: 169-The Cartoon</title>
+	<link rel='stylesheet' href='/stylesheet.css' type='text/css'>
+	</head>
+
+	<body>
+			<table align="center" width="787" border="0" cellspacing="0" cellpadding="0">
+				<tr>
+					<td><font size="-2" color="red">Seinology.com - </font><font size="-3" color="black">Where Seinfeld Content and Accuracy Matter Most. Seinfeld scripts in pdf form, Seinfeld episode video clips, Seinfeld episode audio clips, Jerry Seinfeld appearances, Julia Louis-Dreyfus appearances, Michael Richards appearances, Jason Alexander appearances, Seinfeld discussion Forum, Seinfeld Where are they Now? Seinlanguage Newsletter, Popular Seinfeld Lists, Seinfeld episode standup, Seinfeld episode guide, Seinfeld fan fiction. Seinfeld content all on one domain. Seinology.com enjoy your stay.</font></td>
+				</tr>
+			</table>
+		
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr height="100">
+				<td class="logo"></td>
+			</tr>
+			<tr><td class="ads" align="center" background=#8694fa>
+				<script type="text/javascript"><!--
+google_ad_client = "pub-1924026976931416";
+google_ad_width = 728;
+google_ad_height = 90;
+google_ad_format = "728x90_as";
+google_ad_type = "text";
+google_ad_channel = "";
+google_color_border = "FFFFFF";
+google_color_bg = "8694fa";
+google_color_link = "0000FF";
+google_color_text = "000000";
+google_color_url = "002E3F";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></td></tr>
+		</table>
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr>
+				<td valign="top" width="136">
+					<table width="136" border="0" cellspacing="0" cellpadding="0">
+						<tr height="24">
+							<td class="navigation">
+								<div align="center">
+									
+									<b>Navigation</b></div>
+							</td>
+						</tr>
+						<tr height="199">
+							<td class="spacer1" valign="top" width="136" height="199">
+								<div align="center">
+									<font size="-1"><a href="http://www.seinology.com">Home</a><br>
+										<a href="http://board.seinology.com">Forum</a><br>
+										<a href="http://www.seinology.com/av.shtml">Audio/Video</a><br>
+										<a href="http://www.seinology.com/scripts.shtml">Scripts</a><br>
+										<a href="http://www.seinology.com/survivor.shtml">Survivor</a><br>
+										<a href="http://www.seinology.com/fanfics.shtml">Fan Fiction</a><br>
+										<a href="http://www.seinology.com/gallery/">Gallery</a><br>
+										<a href="http://www.seinology.com/newsletter.shtml">Newsletter</a><br>
+										<a href="http://www.seinology.com/lists.shtml">Lists</a><br>
+										<a href="http://www.seinology.com/epguide.shtml">Episode Guide</a><br>
+										<a href="http://www.seinology.com/links.shtml">Links</a><br>
+										<a href="http://www.seinology.com/faqother.shtml">Faq + others</a><br>
+										<a href="http://www.seinology.com/legal.shtml">Legal</a></font></div>
+							</td>
+						</tr>
+						
+						<tr>
+							<td class="nav2" width="136">
+							<div align="center"><b>Search</b></div></td>
+						</tr>
+						<tr>
+							<td class="spacer1" width="136" valign="top"><div align="center"><form method="get" action="http://www.seinology.com/search/search.cgi">
+<p><label for="fdse_Match">Match</label><br>
+<select name="Match" id="fdse_Match" size="1">
+<option value="1">All</option>
+<option value="0">Any</option>
+<option value="2">Phrase</option>
+</select></p>
+<p><label for="fdse_Realm">Where?</label><br>
+<select name="Realm" id="fdse_Realm" size="1">
+<option selected="selected" value="All">EntireSite</option>
+<option value="Ep Guide">Ep Guide</option>
+<option value="Images">Images</option>
+<option value="Lists">Lists</option>
+<option value="Newsletters">Newsletters</option>
+<option value="Scripts">Scripts</option>
+<option value="Notes..Nothing">Notes..Nothing</option>
+</select></p>
+<p><input type="text" name="Terms" size="14" id="fdse_Terms"><br>
+<input type="submit" class="submit" name="submitButtonName" value="Search"></p>
+</div></form></td>
+						</tr>
+						<tr><td class="bottom" width="136" height="10" valign="top">
+						</td>
+						</tr>
+					</table>
+				</td>
+				<td width="4"></td>
+				<td valign="top" width="645">
+					<table width="645" border="0" cellspacing="0" cellpadding="0">
+						<tr height="18">
+							<td width="645" height="35" class="bar">
+								<div align="center">
+									<b><font size="+2" color="black">Script</font></b></div>
+							</td>
+						</tr>
+						<tr height="362">
+							<td class="spacer2" valign="top" width="645" height="362">
+
+						<p><font size="-2">Episode 169 - The Cartoon<br>
+							
+						pc: 913 season 9, episode 13<br>
+							
+						Broadcast date: January 29, 1998<br>
+							<br>
+							
+						Written by Bruce Eric Kaplan<br>
+							
+						Directed by Andy Ackerman<br>
+							<br>
+							
+						-------------------------------------------------------------------------------<br>
+							<br>
+							
+						The Cast<br>
+							
+						Regulars:<br>
+							
+						Jerry Seinfeld ......................&nbsp; Jerry Seinfeld<br>
+							
+						Jason Alexander .................. George Costanza<br>
+							
+						Julia Louis-Dreyfus .............. Elaine Benes<br>
+							
+						Michael Richards .................. Cosmo Kramer<br>
+							<br>
+							
+						Guest Stars:<br>
+							<br>
+							
+						Kathy Griffin ......................... Sally Weaver<br>
+							
+						Tracy Nelson ......................... Janet<br>
+							
+						Joe Urla ................................. Dugan<br>
+							
+						Paul Benedict ......................... Mr. Elinoff<br>
+							
+						Bart McCarthy ...................... Cab Driver<br>
+							
+						rc: Wayne Knight .................. Newman<br>
+							
+						rc: John O'Hurley .................. J. Peterman<br>
+							<br>
+							
+						==================================================================<br>
+							<br>
+							
+						[Some street, Jerry and Kramer walking]<br>
+							<br>
+							
+						JERRY: So your saying UNICEF is a scam?<br>
+							<br>
+							
+						KRAMER: It's the perfect cover for a money laundering operation . No one can keep track of all those kids with the little orange boxes of change.<br>
+							<br>
+							
+						JERRY: Oh! No it's Sally Weaver.<br>
+							<br>
+							
+						(We see Sally from a distance.)<br>
+							<br>
+							
+						KRAMER: Oh! Yeah your old college roommate huh?<br>
+							<br>
+							
+						JERRY: No, It's Susan Ross's old college roommate; she moved to New York a few years ago . she's trying to become an actress.<br>
+							<br>
+							
+						KRAMER: Hmmm,, Dramatica comedia heh!<br>
+							<br>
+							
+						JERRY: Untalented, She's always inviting me to see her in some bad play in tiny room without ventilation. It's really depressing.<br>
+							<br>
+							
+						KRAMER: Euh.. We don't go to enough theater.<br>
+							<br>
+							
+						JERRY: She should just give up.<br>
+							<br>
+							
+						(She recognizes them.)<br>
+							<br>
+							
+						JERRY: Heeyyy!...<br>
+							<br>
+							
+						SALLY: Hey there Mr. Too big to come to my shows. I just came back from (?) Whoooooooo.....I'm on my way to an audition still waiting for that big break.<br>
+							<br>
+							
+						KRAMER: Why don't you just give up?<br>
+							<br>
+							
+						JERRY: Kramer!!!<br>
+							<br>
+							
+						KRAMER: At least that's what Jerry says. Now face it. If it hasn't happen it's not gonna happen. All right, we go grab some bouffe . Join us?<br>
+							<br>
+							
+						(Kramer leaves both Sally and Jerry speechless)<br>
+							<br>
+							
+						JERRY: So......Susan's dead.....<br>
+							<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						[At Monks]<br>
+							<br>
+							
+						KRAMER: I think she was happy someone finally said it.<br>
+							<br>
+							
+						JERRY: Why'd you have to say anything to her?<br>
+							<br>
+							
+						KRAMER: 'felt that the conversation was lagging.<br>
+							<br>
+							
+						JERRY: Why can't you ever keep your big mouth shut?<br>
+							<br>
+							
+						KRAMER: I come in here to get a pleasant meal and if we're not gonna have one I'll grab a bite to eat at your place.<br>
+							<br>
+							
+						(Pushes Jerry out of the booth and leaves.)<br>
+							<br>
+							
+						ELAINE: You know, maybe Kramer is right, some people should just give up . I have.<br>
+							<br>
+							
+						JERRY: What did you wanna be?<br>
+							<br>
+							
+						ELAINE: I don't remember, but it certainly wasn't this. Look at this cartoon in the New Yorker, I don't get this.<br>
+							<br>
+							
+						JERRY: I don't either.<br>
+							<br>
+							
+						ELAINE: And you're on the fringe of the humor business.<br>
+							<br>
+							
+						(George comes in)<br>
+							<br>
+							
+						GEORGE: Hey!<br>
+							<br>
+							
+						ELAINE: Hey! George look at this.<br>
+							<br>
+							
+						GEORGE: That's cute.<br>
+							<br>
+							
+						ELAINE: You got it?<br>
+							<br>
+							
+						GEORGE: No, never mind.<br>
+							<br>
+							
+						ELAINE: Come on, We're two intelligent people here. We can figure this out. Now we got a dog and a cat in an office.<br>
+							<br>
+							
+						JERRY: It looks like my accountant's office but there's no pets working there.<br>
+							<br>
+							
+						ELAINE: The cat is saying &quot; I've enjoyed reading your E-mail&quot;.<br>
+							<br>
+							
+						GEORGE: Maybe it's got something to do with that 42 in the corner .<br>
+							<br>
+							
+						ELAINE: It's a page number.<br>
+							<br>
+							
+						GEORGE: Well, I can't crack this one.<br>
+							<br>
+							
+						ELAINE: Aahh! this has got to be a mistake.<br>
+							<br>
+							
+						GEORGE: try shaking it...(long pause) Well,Janet should be here any minute.<br>
+							<br>
+							
+						JERRY: You've been hiding her from us. you must really like her?<br>
+							<br>
+							
+						GEORGE: Aah! the minute I saw this girl, we just clicked. She's got such a nice face. hummmm her eyes, her mouth, nose<br>
+							<br>
+							
+						ELAINE: We know what a face consists of.<br>
+							<br>
+							
+						(Janet arrives)<br>
+							<br>
+							
+						JANET: I'm sorry I'm late.<br>
+							<br>
+							
+						GEORGE: Jerry, Elaine, I give you.. Janet.<br>
+							<br>
+							
+						JANET: Nice to meet you.<br>
+							<br>
+							
+						ELAINE: Hi!<br>
+							<br>
+							
+						JANET: Do we still have time to make the movie?<br>
+							<br>
+							
+						GEORGE: Oh! euh.. Yeah We just can't go to the supermarket to get some candy.<br>
+							<br>
+							
+						(George goes to the cashier and empties out the candy bowl, they leave.)<br>
+							<br>
+							
+						ELAINE: Jerry, She looks exactly like you.<br>
+							<br>
+							
+						JERRY: She does not.<br>
+							<br>
+							
+						ELAINE: Well maybe she doesn't, I don't care.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Jerry's place, Kramer is already there making himself a lunch.]<br>
+							<br>
+							
+						JERRY: Hey! Kramer.<br>
+							<br>
+							
+						KRAMER: hey! you got some messages.. Yeahumm.. .George, George, Elaine, George again, Elaine, Newman; but that was a crank call. and some Sally woman called said &quot;Thanks a lot, she's quitting the business, you ruined her life.<br>
+							<br>
+							
+						JERRY: What! You're the one who ruined her life.<br>
+							<br>
+							
+						KRAMER: Well that's not how she remembers it.<br>
+							<br>
+							
+						JERRY: Well, I got to talk her out of this.<br>
+							<br>
+							
+						KRAMER: I thought you said she stinks<br>
+							<br>
+							
+						JERRY: She does stink and she should quit. But I don't want it to be because of me. It should be the traditional route; years of rejections and failures till she's spit out the bottom of the porn industry.<br>
+							<br>
+							
+						(Door buzzer rings)<br>
+							<br>
+							
+						JERRY: Yeah...<br>
+							<br>
+							
+						GEORGE: Hey! George and Janet.<br>
+							<br>
+							
+						KRAMER: Aahh...Who's Janet?<br>
+							<br>
+							
+						JERRY: George's girlfriend, Elaine thinks she looks like me but I think it's as you would say,kookie talk.<br>
+							<br>
+							
+						KRAMER: You know what woman I always thought you looked like; Leena Horne.<br>
+							<br>
+							
+						ALL: Hey, Hey!<br>
+							<br>
+							
+						KRAMER: And you must....look exactly like Jerry. You don't see this; you're like twins .. WOoooohhhhh!!! this is eerie.<br>
+							<br>
+							
+						GEORGE: Kramer, what are you talking about...Janet doesn't look anything like Jerry<br>
+							<br>
+							
+						JANET: well maybe we do look a little like each other.<br>
+							<br>
+							
+						GEORGE: No..hummm, What do you know about what you look like.<br>
+							<br>
+							
+						KRAMER: C'mon George relax . Just because they look alike doesn't mean you're secretly in love with Jerry.<br>
+							<br>
+							
+						GEORGE: (nervous) All right now we're going bye bye.<br>
+							<br>
+							
+						JANET: We just got here George<br>
+							<br>
+							
+						GEORGE: Well,,, it's getting dark.<br>
+							<br>
+							
+						(They leave.)<br>
+							<br>
+							
+						KRAMER: yeah, she's a nice girl, kinda quiet though.<br>
+							<br>
+							
+						(Jerry slaps him in the back.)<br>
+							<br>
+							
+						JERRY: What are you doing? Don't tell a woman she looks like a man and George doesn't want to hear his girlfriend looks like me and frankly neither do I<br>
+							<br>
+							
+						KRAMER: Well how should I have &quot;broached the subject&quot;<br>
+							<br>
+							
+						JERRY: You don't broach, you keep your mouth shut.<br>
+							<br>
+							
+						KRAMER: Well sounds like someone's having a bad day.<br>
+							<br>
+							
+						JERRY: Yeah! Because of you.<br>
+							<br>
+							
+						KRAMER: Well, I think one of us should leave.<br>
+							<br>
+							
+						(They stare at each other for a while)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Monks]<br>
+							<br>
+							
+						JERRY: Sally, you can't quit the business. This is all because of me.<br>
+							<br>
+							
+						SALLY: (nods) Hehumm!!<br>
+							<br>
+							
+						JERRY: You can't give up. You don't think people tell me I stink? When I'm on stage that's all I hear; You stink, You suck. We like magic.<br>
+							<br>
+							
+						SALLY: Really?<br>
+							<br>
+							
+						JERRY: Of course, I stink, you stink. It's show bizz. everybody stinks..<br>
+							<br>
+							
+						SALLY: Yeah! You've been stinking since the Eighties.<br>
+							<br>
+							
+						JERRY: All right, I think we've covered my act. Now you get out there and stink it up with everybody else.<br>
+							<br>
+							
+						SALLY: Right!, Yesss!! Thank you I'm gonna do it. (starts to eat her food)<br>
+							<br>
+							
+						JERRY: NOW!!!!.... (she leaves in a hurry)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Back to Jerry's place, evening.]<br>
+							<br>
+							
+						ELAINE: Well I've asked every one at work and nobody gets this cartoon. I mean I don't understand why no one can explain it, but I'm gonna get to the bottom of this.<br>
+							<br>
+							
+						JERRY: Oh! I think we're at the bottom.<br>
+							<br>
+							
+						ELAINE: (to George who just came in) Hey! George, Janet looks very nice and she's quite a handsome woman.<br>
+							<br>
+							
+						GEORGE: What does that mean?<br>
+							<br>
+							
+						JERRY: Yeah. What does that mean?<br>
+							<br>
+							
+						GEORGE: (to Jerry) What do you mean by that?<br>
+							<br>
+							
+						ELAINE: Enjoy. (she leaves)<br>
+							<br>
+							
+						JERRY: Elaine huh?.. She's completely..<br>
+							<br>
+							
+						GEORGE: Oh! I know....'Cos you don't think Janet?..<br>
+							<br>
+							
+						JERRY: No....<br>
+							<br>
+							
+						GEORGE: Why would I...<br>
+							<br>
+							
+						JERRY: It's ludicrous..<br>
+							<br>
+							
+						GEORGE: Yes.<br>
+							<br>
+							
+						JERRY: For either one of us..<br>
+							<br>
+							
+						GEORGE: No...<br>
+							<br>
+							
+						JERRY: So...<br>
+							<br>
+							
+						GEORGE: Exactly.<br>
+							<br>
+							
+						JERRY: I'm not gay.<br>
+							<br>
+							
+						GEORGE: ...neither am I.<br>
+							<br>
+							
+						BOTH: Kramer, Kramer, get in here.<br>
+							<br>
+							
+						GEORGE: Where's the crazy man, Come on up.<br>
+							<br>
+							
+						JERRY: Come on in here.<br>
+							<br>
+							
+						(As Kramer steps out and comes in)<br>
+							<br>
+							
+						GEORGE: Haaaaaa!!!<br>
+							<br>
+							
+						JERRY: What's happening? What, you doing, come and talk to us.<br>
+							<br>
+							
+						KRAMER: I've made an important life decision.<br>
+							<br>
+							
+						JERRY: Lets talk about that.<br>
+							<br>
+							
+						GEORGE: Don't leave (George slams the door)<br>
+							<br>
+							
+						KRAMER: Aw right. I know I've been shooting off at the mouth lately; First with that girl whose life you destroyed and.. emm...about George dating a lady Jerry<br>
+							<br>
+							
+						GEORGE: What's the decision?<br>
+							<br>
+							
+						KRAMER: I know you want me to keep my big mouth shut and that's exactly what I'm going to do. I'm never gonna talk again.<br>
+							<br>
+							
+						JERRY: Yeah right.<br>
+							<br>
+							
+						KRAMER: What do I need to talk for.. ha!, For to blab to the neighbors about George has a new fem-Jerry friend or to tell everybody at the coffee shop ho George is all mixed up in a perverse sexual amalgam of some girl and his best friend. See now, I've done all that.....Now it's time for silence.<br>
+							<br>
+							
+						GEORGE: Silence YES!!<br>
+							<br>
+							
+						JERRY: Kramer you're never gonna be able to completely stop talking.<br>
+							<br>
+							
+						KRAMER: Jerry, ninety four percent of communications is non-verbal. Here watch.<br>
+							<br>
+							
+						(Kramer does mimics but you can make out somebody angry saying &quot;What are you talking about, twice and then some crying))<br>
+							<br>
+							
+						JERRY: Well what does this mean?<br>
+							<br>
+							
+						KRAMER: Well it's Frank and Estelle's reaction of hearing George's man love towards she-Jerry.<br>
+							<br>
+							
+						GEORGE: (frantic by now) SHUT UP,SHUT UP, SHUT UP,...(then leaves)<br>
+							<br>
+							
+						KRAMER: That's the idea.<br>
+							<br>
+							
+						JERRY: Kramer there's no way you stick to this.<br>
+							<br>
+							
+						KRAMER: (makes a zipper gesture to his mouth) ..Weeeeeepp!!<br>
+							<br>
+							
+						JERRY: Oh! you just startin' now?<br>
+							<br>
+							
+						KRAMER: that's right......Aye oooh!! ...Right now.<br>
+							<br>
+							
+						(Kramer turns abruptly and hit his knees on the coffee table)<br>
+							<br>
+							
+						KRAMER: Ouch!!..........Now!!<br>
+							<br>
+							<br>
+							<br>
+							
+						[Next day at the New Yorker]<br>
+							<br>
+							
+						MR. ELINOFF: So, J. Peterman wants to hire some of our cartoonists to illustrate your catalog?<br>
+							<br>
+							
+						ELAINE: Well we're hoping that if perhaps that the catalog is a little funnier,people won't be so quick to return the clothes ha ha....For example.. I..I really do....Well I love this one<br>
+							<br>
+							
+						(Elaine shows him the cartoon)<br>
+							<br>
+							
+						MR. ELINOFF: Oh! yeah... That's a rather clever jab at inter office politics don't you think.<br>
+							<br>
+							
+						ELAINE: Ahan, Ahan....yeah...Euh but, Why is it that the, that the animals enjoy reading the email?<br>
+							<br>
+							
+						MR. ELINOFF: Well Miss Benes . Cartoons are like gossamer and one doesn't dissect gossamer. heh..hemm..<br>
+							<br>
+							
+						ELAINE: Well you don't have to dissect if you can just tell me. Why this is suppose to be funny?<br>
+							<br>
+							
+						MR. ELINOFF: Ha! It's merely a commentary on contemporary mores. (slides the magazine to her)<br>
+							<br>
+							
+						ELAINE: But, what is the comment. (she slides the magazine back to him)<br>
+							<br>
+							
+						MR. ELINOFF: It's a slice of life.<br>
+							<br>
+							
+						ELAINE: No it isn't.<br>
+							<br>
+							
+						MR. ELINOFF: Pun?<br>
+							<br>
+							
+						ELAINE: I don,t think so.<br>
+							<br>
+							
+						MR. ELINOFF: Vorshtein?<br>
+							<br>
+							
+						ELAINE: That's not a word.....You have no idea what this means do you?<br>
+							<br>
+							
+						MR. ELINOFF: No.<br>
+							<br>
+							
+						ELAINE: Then why did you print it.<br>
+							<br>
+							
+						MR. ELINOFF: I liked the kitty.<br>
+							<br>
+							
+						ELAINE: (gets up) You know what? you people should be ashamed of yourself, you know ya doodle a couple of bears at a cocktail party talking about the stock market. You think you're doing comedy.<br>
+							<br>
+							
+						MR. ELINOFF: Actually that's not bad..<br>
+							<br>
+							
+						ELAINE: Oh! really (laughs) well you know..... I have others<br>
+							<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						[Cuts to the Samuel Beckett Theatre]<br>
+							<br>
+							
+						JERRY: Sally, I can't believe you're already doing a One-woman show?<br>
+							<br>
+							
+						SALLY: No, no.. It's just a little performance piece I wrote... You know what? You really inspired me,oKay, a tear.<br>
+							<br>
+							
+						(Kramer joins Jerry just as the show starts)<br>
+							<br>
+							
+						JERRY: Ah! There you are.(Kramer motions silence)<br>
+							<br>
+							
+						JERRY: Aw.. right, code of silence.. how's that going?....Ha!!...<br>
+							<br>
+							
+						(Applause, Sally starts her show)<br>
+							<br>
+							
+						SALLY: Hi everybody think you're really going to like this 'cos it' about me...All right it's not just about me It's about me and this guy; Jerry Seinfeld. who I like to call; The Devil...Okay, Okay so.. I run into this Jerry on the street and he says to me &quot; Sally, You stink, You should give up acting.&quot; Oh! I'm doing Jerry Now so you've got imagine I have ; horns, a tail and hooks instead of feet. (big laughs from the audience and Kramer is cracking up)<br>
+							<br>
+							
+						JERRY: (to Kramer) Oh! Shut up!!!<br>
+							<br>
+							<br>
+							<br>
+							
+						[Next day at Jerry's]<br>
+							<br>
+							
+						ELAINE: She does a full hour about how you're the devil .I got to go see this thing.<br>
+							<br>
+							
+						JERRY: Good luck, It's sold out for the next three weeks.<br>
+							<br>
+							
+						ELAINE: Well I bet I can get in once I mention I'm from ...The New Yorker.<br>
+							<br>
+							
+						JERRY: The New Yorker?<br>
+							<br>
+							
+						ELAINE: Yes, The New Yorker, I've met with their cartoon editor and I got him to admit that that cartoon ...MADE NO SENSE....<br>
+							<br>
+							
+						JERRY: Wow! Good work, Nancy Drew<br>
+							<br>
+							
+						ELAINE: Then we ended up going out to lunch and he had some great gossip about James Thurber.<br>
+							<br>
+							
+						JERRY: Nodding off...<br>
+							<br>
+							
+						ELAINE: ....And he said I could submit some of my own cartoons.<br>
+							<br>
+							
+						JERRY: Wow! that's incredible......But you don't draw.<br>
+							<br>
+							
+						ELAINE: I do to.<br>
+							<br>
+							
+						JERRY: What, your sad little horsies, the house with the little curl of smoke, the sunflower with the smiley face. the transparent cube... (as she leaves)<br>
+							<br>
+							
+						ELAINE: It's better than your drawings of naked Lois Lane.<br>
+							<br>
+							
+						JERRY: Where did you see that? Those are private!!!<br>
+							<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						[Back to Monks, same day]<br>
+							<br>
+							
+						SALLY: Jerry, sorry I'm late. Channel Nine is doing a piece on my show. Isn't that great? Do you hate me?<br>
+							<br>
+							
+						JERRY: No,no I tought the show was terrific. I was just wondering if you have to keep saying Jerry Seinfeld is the devil.<br>
+							<br>
+							
+						SALLY: Well...That is the title.<br>
+							<br>
+							
+						JERRY: I know but I thought that maybe you could mention how I apologized then encouraged you to stick with it.<br>
+							<br>
+							
+						SALLY: You know I workshopped that and.. SNOOZERS!!! he he he....but I'll tell you what I'll think... It's all a journey.<br>
+							<br>
+							
+						JERRY: You got a little shmootz there (picks something on her sweater)<br>
+							<br>
+							
+						(Newman shyly approaches the table)<br>
+							<br>
+							
+						NEWMAN: Excuse me Miss Weaver, OH! My god it is you! I.. I've seen your show six times..<br>
+							<br>
+							
+						JERRY: What a surprise.<br>
+							<br>
+							
+						NEWMAN: Aahh! You're great,It's great, It's so great to see a show that's (looks at Jerry) about something.<br>
+							<br>
+							
+						(Kramer climbs into a cab)<br>
+							<br>
+							
+						DRIVER: Where to?<br>
+							<br>
+							
+						(Kramer realizes that he can't talk so quickly gets out of the cab.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Evening at Janet's apt.]<br>
+							<br>
+							
+						GEORGE: (we hear him think) My friends are idiots, she doesn't look like Jerry. She doesn't look like anybody. And so what if does look like Jerry,what does that mean?. That I could have everything I have with Jerry but because it's a woman I could also have sex with her....And that somehow that would be exactly what I always wanted.....She doesn't even look like Jerry..<br>
+							<br>
+							
+						SALLY: You know I really do look like your friend Jerry.<br>
+							<br>
+							
+						GEORGE: I know....<br>
+							<br>
+							<br>
+							<br>
+							
+						[Back to Jerry's]<br>
+							<br>
+							
+						TV ANNOUNCER: Thanks for watching Nine News. We leave you tonight with a scene from Sally Weavers One woman show.<br>
+							<br>
+							
+						SALLY: Ok so I go to meet Jerry Seinfeld at this horrible coffee shop right? And he's like &quot;Hey stop doing your show.&quot; and I'm like, Hello! It's a free country. So then he goes.&quot; Okay Shmootsie&quot; and he starts pulling at my sweater right?. He's getting, you know, Hands Across America.<br>
+							<br>
+							
+						JERRY: There really was shmootz on I didn't try to grab her<br>
+							<br>
+							
+						SALLY: ...And this is what he looks like when he's eating...<br>
+							<br>
+							
+						JERRY: Get Out of my House!!.<br>
+							<br>
+							
+						(Elaine walks in the door looking terrible)<br>
+							<br>
+							
+						ELAINE: Well boys, I did it. I had to stay up all night but I finally came up with a great New Yorker cartoon.<br>
+							<br>
+							
+						JERRY: I'd stayed up all night I'd fixed myself up a little before I'd go out.<br>
+							<br>
+							
+						ELAINE: That is not the point.<br>
+							<br>
+							
+						JERRY: some mouthwash, a hat, something.<br>
+							<br>
+							
+						ELAINE: Just read it!<br>
+							<br>
+							
+						JERRY: (glances at it) Pretty good.<br>
+							<br>
+							
+						ELAINE: Pretty good? Well uh! This is a gem . Kramer look it....(Kramer stays silent).....What? It's funny.<br>
+							<br>
+							
+						JERRY: It's a pig at a complain department.<br>
+							<br>
+							
+						ELAINE: And he's saying &quot; I wish I was taller&quot; ha ha. See? that's his complaint.<br>
+							<br>
+							
+						JERRY: I get it.<br>
+							<br>
+							
+						ELAINE: Do you!!!.. because that's not a normal complaint.<br>
+							<br>
+							
+						JERRY: How 'bout if it was something like &quot; I can't find my receipt my place's a stye.<br>
+							<br>
+							
+						ELAINE: Everything with you has to be so .. jokey.<br>
+							<br>
+							
+						JERRY: I'm a comedian.<br>
+							<br>
+							
+						ELAINE: I wish I was taller, that's, that's, that's nice. that's real.<br>
+							<br>
+							
+						JERRY: Well I got a complaint. This cartoon stinks.<br>
+							<br>
+							
+						ELAINE: I'll tell you who doesn't think it stinks, The New Yorker. that's right. They're publishing it in their next issue. Oh! you know what I just ran into Newman in the hall and he said you tried to grope Sally Weaver.<br>
+							<br>
+							
+						JERRY: oh! that's it I'm gonna put an end to this.<br>
+							<br>
+							
+						(Picks up a phone and dials Sally's number. Kramer taps on a sheet of paper that he gives to Elaine to read.)<br>
+							<br>
+							
+						ELAINE: The pig says &quot;my wife is a slut.&quot;<br>
+							<br>
+							
+						JERRY: Now that's a complaint. ...Hello Sally, yeah this is Jerry,I just wanted to leave you a message that I caught your little piece on TV and..<br>
+							<br>
+							
+						(Instant switch to the club where Sally is playing the message that Jerry left on her message.)<br>
+							<br>
+							
+						JERRY: ....I'm getting a little tired of hearing how horrible I am and would appreciate it if you would leave me out of your act all together.<br>
+							<br>
+							
+						JERRY: (from the back of the club, leaving) That's it I'm calling in the big guns.<br>
+							<br>
+							
+						(Still Sally's act but seen on his TV back in his apartment.)<br>
+							<br>
+							
+						SALLY: To cease and desist on behalf of my client, Jerry Seinfeld. Signed ; Crybaby Jerry Seinfeld's Lawyer. Ok but I got two words for you Jerry Seinfeld...(censored beep)...You<br>
+							<br>
+							
+						JERRY: How could she say that on TV?.. And how did she get a cable special . I 've never gotten a cable special.....well that's it I'm not giving her any more material. We are incommunicado. (to the silent Kramer on the couch beside him) ...Exactly.<br>
+							<br>
+							<br>
+							<br>
+							
+						[At Peterman's office, next day. Elaine posted her cartoon on her door.]<br>
+							<br>
+							
+						ELAINE: Check it out, from the new issue of the New Yorker...huh!...Funny isn't it? (Dugan shrugs) Look at it, the pig wants to be taller and what's this guy gonna say?.. he he...Nothin'..he he.<br>
+							<br>
+							
+						PETERMAN: Elaine, I'm afraid I have incurred yet another flat tire.<br>
+							<br>
+							
+						ELAINE: Can I fix that after lunch sir?<br>
+							<br>
+							
+						PETERMAN: Oh! no right away, chop, chop........Oh! a new cartoon.....&quot;I wish I was taller (hearty laugh) I'd like to see that complaint get rectified. (more laughs and he leaves)<br>
+							<br>
+							
+						ELAINE: (to Dugan ) You see? You see? Smart people think this is funny and you want to know why? 'Cause I wrote it.<br>
+							<br>
+							
+						DUGAN: You shouldn't make fun of pigs. (he leaves)<br>
+							<br>
+							
+						PETERMAN: (returns) Flash of lightning Elaine I just realized why I like this cartoon so much.<br>
+							<br>
+							
+						ELAINE: Oh! Do tell sir?<br>
+							<br>
+							
+						PETERMAN: It's a Ziggy!<br>
+							<br>
+							
+						ELAINE: A Ziggy?<br>
+							<br>
+							
+						PETERMAN: That irreverence, that wit I'd recognize it anywhere. Some charlatan has stolen a Ziggy and passed it off as his own. I can prove it. Quick Elaine, to my archives.<br>
+							<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						[In a restaurant later that evening.]<br>
+							<br>
+							
+						GEORGE: You know, you know what's great about our relationship?...It's not about looks.<br>
+							<br>
+							
+						JANET: It's not?<br>
+							<br>
+							
+						GEORGE: No, Can't be...For instance I remember when we first met, we had a great conversation.<br>
+							<br>
+							
+						JANET: I remember you said I was the prettiest girl at the party.<br>
+							<br>
+							
+						GEORGE: ....But after that we really talked didn't we?<br>
+							<br>
+							
+						JANET: Well,you told me how familiar I looked and that you must have seen me somewhere before.<br>
+							<br>
+							
+						GEORGE: Na....no ... This relationship he..he..has got to be about something and fast or I'm in very serious and weird trouble....hum What else happened?<br>
+							<br>
+							
+						JANET: You asked for a piece of gum because you thought your breath smelled like hummus.<br>
+							<br>
+							
+						GEORGE: Aw right YES! GUM! Good enough I'll take it.<br>
+							<br>
+							
+						JANET: I like gum.<br>
+							<br>
+							
+						GEORGE: I do too. you see that's what we're about . You don't remind me of anyone and we love gum.<br>
+							<br>
+							
+						JANET: I have gum in my hair.<br>
+							<br>
+							
+						GEORGE: I'm losin' it<br>
+							<br>
+							<br>
+							<br>
+							
+						[Monks]<br>
+							<br>
+							
+						SALLY: (joining Kramer) Hey! Your Jerry's friend. You're Goofy, mind if I sit. My show is going really well. Have you seen it yet? you should. Everybody else have and you know what? I got recognized the other day, How weird is that. I know . At first I liked the attention but it's like Whoa!! take three steps back, Get a life, okay. but then there wouldn't be a Sally Weaver without the fans, know what I mean. But who am I? anyway. I mean there's Sally weaver the woman, Sally Weaver the artist, Sally Weaver the person...<br>
+							<br>
+							
+						KRAMER: (loudly) Now you gotta shut up!.....(Sally is speechless)...I'm sorry, I..I haven't spoken in days.<br>
+							<br>
+							
+						SALLY: Well, lay it on me string bean.<br>
+							<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						[Janet's apt. She is in the bedroom.]<br>
+							<br>
+							
+						JANET: Let me get this gum out of my hair and then I'll be ready for bed.<br>
+							<br>
+							
+						GEORGE: OK Look, the gum isn't cutting it for me. We need to be about something else...anything..please.<br>
+							<br>
+							
+						JANET: George.<br>
+							<br>
+							
+						(George turns around to see Janet with short Jerry like hair and a jerry like blue shirt.)<br>
+							<br>
+							
+						GEORGE: Your hair?<br>
+							<br>
+							
+						JANET: Well I had to cut the gum out and I had a little trouble getting it even. So why don't you get undressed George. (George speeds out the door)<br>
+							<br>
+							
+						GEORGE: George is in big trouble....<br>
+							<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						[At Jerry's the next day.]<br>
+							<br>
+							
+						JERRY: You ripped off a Ziggy?<br>
+							<br>
+							
+						ELAINE: It must've seeped up my subconscious, Puddy has Ziggy bed sheets....D'you read the comics today?<br>
+							<br>
+							
+						JERRY: I see that Ziggy's back at the complaint department.. &quot;The New Yorker is stealing my ideas.&quot; ha ha ha See that's funny.....'cause it's real.<br>
+							<br>
+							
+						(Kramer comes in)<br>
+							<br>
+							
+						ELAINE: Hey look it ;Sally's cable show's on (Kramer turns around to leave)<br>
+							<br>
+							
+						JERRY: Hey! Kramer come on in. You've got to watch this, now she's got nothing.<br>
+							<br>
+							
+						SALLY: (on TV) Master of Evil Jerry Seinfeld has broke off all contacts with me.<br>
+							<br>
+							
+						JERRY: That's right sister. Why don't you just give up?<br>
+							<br>
+							
+						ELAINE: Why are you yelling at the TV?<br>
+							<br>
+							
+						SALLY: ..OK get this; I heard he makes his best friend date women that look just like him.Hello issues..<br>
+							<br>
+							
+						JERRY: Elaine, have you been talking to her?<br>
+							<br>
+							
+						ELAINE: Hey! I'm just a fan..ha ha...<br>
+							<br>
+							
+						SALLY: Oh and speaking of issues . Guess who got a no-polish manicure and begged his neighbor not to tell anyone?<br>
+							<br>
+							
+						JERRY: (to Kramer) I thought you stopped talking??<br>
+							<br>
+							
+						KRAMER: ...All right ..Starting now......<br>
+							<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						[Monks]<br>
+							<br>
+							
+						JERRY: You broke up with her just because she cut her hair! how short?<br>
+							<br>
+							
+						GEORGE: like that (looking at Jerry)<br>
+							<br>
+							
+						JERRY: You mean like.. (points to his hair)<br>
+							<br>
+							
+						GEORGE: ..That.<br>
+							<br>
+							
+						JERRY: So she..<br>
+							<br>
+							
+						GEORGE: Yes..<br>
+							<br>
+							
+						JERRY: And you don't...<br>
+							<br>
+							
+						GEORGE: Nooo...<br>
+							<br>
+							
+						JERRY: So...<br>
+							<br>
+							
+						GEORGE: Exactly..<br>
+							<br>
+							
+						JERRY: Hmmmm...<br>
+							<br>
+							
+						GEORGE: We...must never ever speak of this again..<br>
+							<br>
+							
+						JERRY: No, no......(long pause . they stare at the walls) Hey uh.. you want to see a movie?<br>
+							<br>
+							
+						GEORGE: Actually I think I'm gonna take a few days off (starts to leave)<br>
+							<br>
+							
+						JERRY: I think that's for the best.<br>
+							<br>
+							
+						&nbsp;<br>
+							
+						The End</td>
+						</tr>
+						<tr height="6">
+							<td class="bottom2" width="645" height="6"></td>
+						</tr>
+						<tr>
+							<td width="645">
+								<div align="center">
+									<font size="-1">Copyright 2006 seinology.com | All Rights Reserved | Designed by 13erla</font></div>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+		<p></p>
+	</body>
+
+</html>

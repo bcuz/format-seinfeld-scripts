@@ -1,0 +1,1181 @@
+<tdOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+<html>
+
+	<head>
+		<meta http-equiv="content-type" content="text/html;charset=ISO-8859-1">
+		<meta name="description" content="Top Source for Seinfeld">
+		<meta name="keywords" content="seinfeld, sienfeld, Jerry Seinfeld, Julia Louis Dreyfus, Jason Alexander, Michael Richards, Kramer, George, Costanza, Elaine Benes, morty, Larry David">
+		<title>Seinology.com :: Scripts :: 09-The Phone Message</title>
+	<link rel='stylesheet' href='/stylesheet.css' type='text/css'>
+	</head>
+
+	<body>
+			<table align="center" width="787" border="0" cellspacing="0" cellpadding="0">
+				<tr>
+					<td><font size="-2" color="red">Seinology.com - </font><font size="-3" color="black">Where Seinfeld Content and Accuracy Matter Most. Seinfeld scripts in pdf form, Seinfeld episode video clips, Seinfeld episode audio clips, Jerry Seinfeld appearances, Julia Louis-Dreyfus appearances, Michael Richards appearances, Jason Alexander appearances, Seinfeld discussion Forum, Seinfeld Where are they Now? Seinlanguage Newsletter, Popular Seinfeld Lists, Seinfeld episode standup, Seinfeld episode guide, Seinfeld fan fiction. Seinfeld content all on one domain. Seinology.com enjoy your stay.</font></td>
+				</tr>
+			</table>
+		
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr height="100">
+				<td class="logo"></td>
+			</tr>
+			<tr><td class="ads" align="center" background=#8694fa>
+				<script type="text/javascript"><!--
+google_ad_client = "pub-1924026976931416";
+google_ad_width = 728;
+google_ad_height = 90;
+google_ad_format = "728x90_as";
+google_ad_type = "text";
+google_ad_channel = "";
+google_color_border = "FFFFFF";
+google_color_bg = "8694fa";
+google_color_link = "0000FF";
+google_color_text = "000000";
+google_color_url = "002E3F";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></td></tr>
+		</table>
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr>
+				<td valign="top" width="136">
+					<table width="136" border="0" cellspacing="0" cellpadding="0">
+						<tr height="24">
+							<td class="navigation">
+								<div align="center">
+									
+									<b>Navigation</b></div>
+							</td>
+						</tr>
+						<tr height="199">
+							<td class="spacer1" valign="top" width="136" height="199">
+								<div align="center">
+									<font size="-1"><a href="http://www.seinology.com">Home</a><br>
+										<a href="http://board.seinology.com">Forum</a><br>
+										<a href="http://www.seinology.com/av.shtml">Audio/Video</a><br>
+										<a href="http://www.seinology.com/scripts.shtml">Scripts</a><br>
+										<a href="http://www.seinology.com/survivor.shtml">Survivor</a><br>
+										<a href="http://www.seinology.com/fanfics.shtml">Fan Fiction</a><br>
+										<a href="http://www.seinology.com/gallery/">Gallery</a><br>
+										<a href="http://www.seinology.com/newsletter.shtml">Newsletter</a><br>
+										<a href="http://www.seinology.com/lists.shtml">Lists</a><br>
+										<a href="http://www.seinology.com/epguide.shtml">Episode Guide</a><br>
+										<a href="http://www.seinology.com/links.shtml">Links</a><br>
+										<a href="http://www.seinology.com/faqother.shtml">Faq + others</a><br>
+										<a href="http://www.seinology.com/legal.shtml">Legal</a></font></div>
+							</td>
+						</tr>
+						
+						<tr>
+							<td class="nav2" width="136">
+							<div align="center"><b>Search</b></div></td>
+						</tr>
+						<tr>
+							<td class="spacer1" width="136" valign="top"><div align="center"><form method="get" action="http://www.seinology.com/search/search.cgi">
+<p><label for="fdse_Match">Match</label><br>
+<select name="Match" id="fdse_Match" size="1">
+<option value="1">All</option>
+<option value="0">Any</option>
+<option value="2">Phrase</option>
+</select></p>
+<p><label for="fdse_Realm">Where?</label><br>
+<select name="Realm" id="fdse_Realm" size="1">
+<option selected="selected" value="All">EntireSite</option>
+<option value="Ep Guide">Ep Guide</option>
+<option value="Images">Images</option>
+<option value="Lists">Lists</option>
+<option value="Newsletters">Newsletters</option>
+<option value="Scripts">Scripts</option>
+<option value="Notes..Nothing">Notes..Nothing</option>
+</select></p>
+<p><input type="text" name="Terms" size="14" id="fdse_Terms"><br>
+<input type="submit" class="submit" name="submitButtonName" value="Search"></p>
+</div></form></td>
+						</tr>
+						<tr><td class="bottom" width="136" height="10" valign="top">
+						</td>
+						</tr>
+					</table>
+				</td>
+				<td width="4"></td>
+				<td valign="top" width="645">
+					<table width="645" border="0" cellspacing="0" cellpadding="0">
+						<tr height="18">
+							<td width="645" height="35" class="bar">
+								<div align="center">
+									<b><font size="+2" color="black">Script</font></b></div>
+							</td>
+						</tr>
+						<tr height="362">
+							<td class="spacer2" valign="top" width="645" height="362">
+
+						<p><font size="-2">Episode 9 - The Phone Message<br>
+							
+						pc: 207, season 2, episode 4<br>
+							
+						Broadcast date: February 13, 1991<br>
+							<br>
+							
+						Written By Larry David &amp; Jerry Seinfeld<br>
+							
+						Directed By Tom Cherones<br>
+							<br>
+							
+						-------------------------------------------------------------------------------<br>
+							<br>
+							
+						The Cast<br>
+							
+						Regulars:<br>
+							
+						Jerry Seinfeld ....................... Jerry Seinfeld<br>
+							
+						Jason Alexander .................. George Costanza<br>
+							
+						Julia Louis-Dreyfus ............. Elaine Benes<br>
+							
+						Michael Richards ................. Kramer<br>
+							<br>
+							
+						Guest Stars:<br>
+							<br>
+							
+						Tory Polone ......................... Carol<br>
+							
+						Gretchen German ................Donn<br>
+							<br>
+							
+						==================================================================<br>
+							<br>
+							
+						INT. COMEDY CLUB &#150; NIGHT<br>
+							<br>
+							
+						(Jerry is on stage, performing.)<br>
+							<br>
+							
+						JERRY: The bad thing about television is that everybody you see on television is doing something better than what you&#146;re doing. You ever see anybody on TV like just sliding off the front of the sofa with potato chip crumbs on their face? Some people have a little too much fun on television. The soda commercial people. Where do they summon this enthusiasm? Have you seen them? &#147;We have soda, we have soda, we have soda&#148;, jumping, laughing, flying through the air. It&#146;s a can of soda! Have you ever been standing there and you&#146;re watching TV and you&#146;re drinking the exact same product that they&#146;re advertising right there on TV, and it&#146;s like, you know, they&#146;re spiking volleyballs, jet-skiing, girls in bikinis and I&#146;m standing there, &#147;Maybe I&#146;m putting too much ice in mine.&#148;<br>
+							<br>
+							<br>
+							<br>
+							
+						INT. MONK&#146;S DINER &#150; DAY<br>
+							<br>
+							
+						(George and Jerry enter.)<br>
+							<br>
+							
+						GEORGE: (excited) So then, as we were leaving, we were just kind of standing there, and she was sort of smiling at me, and I wasn&#146;t sure if she wanted me to ask her out, because when women smile at me I don&#146;t know what it means. Sometimes I interpret it like they&#146;re psychotic or something and I don&#146;t know if I&#146;m supposed to smile back, I don&#146;t know what to do. So I just stood there like &#150; remember how Quayle looked when Benson gave him that Kennedy line? That&#146;s what I looked like.<br>
+							<br>
+							
+						JERRY: So you didn&#146;t ask?<br>
+							<br>
+							
+						GEORGE: No, I froze.<br>
+							<br>
+							
+						(Jerry points to the coffee shop&#146;s counter.)<br>
+							<br>
+							
+						JERRY: Counter.<br>
+							<br>
+							
+						(Jerry and George sit down at the counter.)<br>
+							<br>
+							
+						GEORGE: Oh yeah. So wait, wait. A half-hour later I&#146;m back in the office, I tell Lloyd the whole story. He says, &#147;So why don&#146;t you call her?&#148; I says, &#147;I can&#146;t.&#148; I couldn&#146;t, I couldn&#146;t do it right then. For me to ask a woman out I gotta get into a mental state like the karate guys before they break the bricks. So Lloyd calls me a wuss.<br>
+							<br>
+							
+						JERRY: He said wuss?<br>
+							<br>
+							
+						GEORGE: Yeah. Anyway, he shamed me into it.<br>
+							<br>
+							
+						JERRY: So you called.<br>
+							<br>
+							
+						GEORGE: Right. And, and to cover my nervousness I started eating an apple, because I think if they hear you chewing on the other end of the phone, it makes you sound casual.<br>
+							<br>
+							
+						JERRY: Yeah. Like a farm boy.<br>
+							<br>
+							
+						GEORGE: Right. So I call her up, I tell her it&#146;s me, she gives me an enthusiastic &#145;Hi!&#146;<br>
+							<br>
+							
+						JERRY: Wow. The enthusiastic hi. That&#146;s beautiful.<br>
+							<br>
+							
+						GEORGE: Oh, I don&#146;t get the enthusiastic hi, I&#146;m outta there.<br>
+							<br>
+							
+						JERRY: All right, so you&#146;re chewing your apple, you got your enthusiastic hi... Go ahead.<br>
+							<br>
+							
+						GEORGE: So, we&#146;re talking, and I don&#146;t like to go too long before I ask them out, I wanna get it over with right away, so I just blurt out, &#147;What are you doing Saturday night?&#148;<br>
+							<br>
+							
+						JERRY: And?<br>
+							<br>
+							
+						GEORGE: She bought.<br>
+							<br>
+							
+						JERRY: Great day in the morning.<br>
+							<br>
+							
+						GEORGE: Then I got off the phone right away.<br>
+							<br>
+							
+						JERRY: Sure, it&#146;s like robbing a bank. You don&#146;t loiter around in front of the teller holding that big bag of money. You come in, you hit and get out.<br>
+							<br>
+							
+						GEORGE: It&#146;s amazing. We, we both have dates on the same night. I can&#146;t remember the last time that happened.<br>
+							<br>
+							<br>
+							<br>
+							
+						INT. GEORGE&#146;S CAR &#150; SATURDAY NIGHT<br>
+							<br>
+							
+						(George and his date, Carol, are parked outside Carol&#146;s building.)<br>
+							<br>
+							
+						GEORGE: I can&#146;t stand doing laundry. That&#146;s why I have forty pairs of underwear.<br>
+							<br>
+							
+						CAROL: You do not.<br>
+							<br>
+							
+						GEORGE: Absolutely. Because instead of doing a wash, I just keep buying underwear. My goal is to have over three hundred and sixty pair. That way, I only have to do wash once a year.<br>
+							<br>
+							
+						(They both laugh.)<br>
+							<br>
+							<br>
+							<br>
+							
+						INT. JERRY&#146;S CAR &#150; SATURDAY NIGHT<br>
+							<br>
+							
+						(Jerry and his date, DONNA are parked outside Donna&#146;s building.)<br>
+							<br>
+							
+						JERRY: (in an attempted Scottish accent) Come on, try it. Let me hear you try a Scottish accent.<br>
+							<br>
+							
+						DONNA: That&#146;s Irish.<br>
+							<br>
+							
+						JERRY: Irish, Scottish, what&#146;s the difference, lassie?<br>
+							<br>
+							
+						(Donna laughs.)<br>
+							<br>
+							<br>
+							<br>
+							
+						INT. GEORGE&#146;S CAR &#150; CONTINUED<br>
+							<br>
+							
+						CAROL: So, uh, thanks for dinner. It was great.<br>
+							<br>
+							
+						GEORGE: Yeah. (clears his throat) We should do this again.<br>
+							<br>
+							
+						CAROL: Would you like to come upstairs for some coffee?<br>
+							<br>
+							
+						GEORGE: Oh, no, thanks. I can&#146;t drink coffee late at night, it keeps me up.<br>
+							<br>
+							
+						CAROL: (confused by his response) So, um, okay.<br>
+							<br>
+							
+						GEORGE: Okay.<br>
+							<br>
+							
+						CAROL: Goodnight.<br>
+							<br>
+							
+						GEORGE: Yeah, take it easy.<br>
+							<br>
+							
+						(Carol exits the car. George realizes what he has done and slaps his forehead in disgust.)<br>
+							<br>
+							<br>
+							<br>
+							
+						INT. JERRY&#146;S CAR &#150; CONTINUED<br>
+							<br>
+							
+						DONNA: Thanks again for the movie.<br>
+							<br>
+							
+						JERRY: You&#146;re welcome.<br>
+							<br>
+							
+						DONNA: I&#146;d invite you up, but the place is being painted.<br>
+							<br>
+							
+						JERRY: Oh, that&#146;s okay.<br>
+							<br>
+							
+						DONNA: Unless you want to go to your place.<br>
+							<br>
+							
+						JERRY: Okay... but there&#146;s no cake or anything, if that&#146;s what you&#146;re looking for.<br>
+							<br>
+							<br>
+							<br>
+							
+						INT. GEORGE&#146;S CAR (MOVING) &#150; CONTINUED<br>
+							<br>
+							
+						GEORGE: (frustrated) Take it easy! Huh! Take it easy!<br>
+							<br>
+							<br>
+							<br>
+							
+						INT. JERRY&#146;S APARTMENT<br>
+							<br>
+							
+						(Jerry and Donna sit on the sofa.)<br>
+							<br>
+							
+						JERRY: I think if one&#146;s going to kill oneself, the least you could do is leave a note. It&#146;s common courtesy. I don&#146;t know. That&#146;s just the way I was brought up.<br>
+							<br>
+							
+						DONNA: Values are very important.<br>
+							<br>
+							
+						JERRY: Oh, so important. So what are you doing uh Thursday night? You wanna have dinner?<br>
+							<br>
+							
+						DONNA: Thursday&#146;s great.<br>
+							<br>
+							
+						(Pause. Jerry looks down at his pants.)<br>
+							<br>
+							
+						JERRY: Tan pants. Why do I buy tan pants, Donna? I don&#146;t feel comfortable in them.<br>
+							<br>
+							
+						DONNA: Are those Cotton Dockers?<br>
+							<br>
+							
+						JERRY: Oh, I can&#146;t begin to tell you how much I hate that commercial.<br>
+							<br>
+							
+						DONNA: Really? I like that commercial.<br>
+							<br>
+							
+						(Donna gets closer and more comfortable leaning on Jerry. Jerry Pauses thinking about what she said)<br>
+							<br>
+							
+						JERRY: You like that commercial?<br>
+							<br>
+							
+						DONNA: Yeah, it&#146;s clever.<br>
+							<br>
+							
+						JERRY: Now wait a second, you mean the one where the guys are all standing around, supposedly being very casual and witty?<br>
+							<br>
+							
+						DONNA: Yeah, that&#146;s the one.<br>
+							<br>
+							
+						JERRY: What could you possibly like about that?<br>
+							<br>
+							
+						DONNA: I don&#146;t know. I like the, guys.<br>
+							<br>
+							
+						JERRY: Yeah, they&#146;re so funny and so comfortable with each other, and I could be comfortable too, if I had pants like that. I could sit on a porch and wrestle around, and maybe even be part of a real bull session.<br>
+							<br>
+							
+						DONNA : Hey, I know guys like that. To me the dialogue rings true.<br>
+							<br>
+							
+						(After Jerry sits back again, Donna continues get more comfortable in Jerry's arms. Jerry pauses.)<br>
+							<br>
+							
+						JERRY: Even if the dialogue did ring true. (Donna starts to get annoyed that Jerry won't let the conversation go) Even if somehow somewhere men actually talk like that, what does that have to do with the pants? Doesn&#146;t that bother you?<br>
+							<br>
+							
+						DONNA: (annoyed) That&#146;s the idea. That&#146;s what&#146;s clever about it, that they&#146;re not talking about the pants.<br>
+							<br>
+							
+						JERRY: But they&#146;re talking about nothing.<br>
+							<br>
+							
+						DONNA: That&#146;s the point.<br>
+							<br>
+							
+						JERRY: I know the point.<br>
+							<br>
+							
+						DONNA: No one is telling you to like it.<br>
+							<br>
+							
+						JERRY: I mean, all those quick shots of the pants. Just pants, pants, pants, pants, pants, pants, pants. What is that supposed to be?<br>
+							<br>
+							
+						(Donna sighs, leans away from Jerry and looks at her watch.)<br>
+							<br>
+							<br>
+							<br>
+							
+						INT. COMEDY CLUB &#150; NIGHT<br>
+							<br>
+							
+						(Jerry is on stage, performing.)<br>
+							<br>
+							
+						JERRY: What&#146;s brutal about the date is the scrutiny that you put each other through. Because whenever you think about this person in terms of the future, you have to magnify everything about them. You know, like the guy&#146;ll be like, &#147;I don&#146;t think her eyebrows are even. Could I look at uneven eyebrows for the rest of my life?&#148; And of course the woman&#146;s looking at the guy, thinking, &#147;What is he looking at? Do I want somebody looking at me like this for the rest of my life?&#148;<br>
+							<br>
+							<br>
+							<br>
+							
+						INT. JERRY&#146;S APARTMENT &#150; DAY<br>
+							<br>
+							
+						(Jerry and Elaine are talking.)<br>
+							<br>
+							
+						JERRY: I&#146;m supposed to see her again on Thursday, but can I go out with someone who actually likes this commercial?<br>
+							<br>
+							
+						ELAINE: I once broke up with a guy because he didn&#146;t keep his bathroom clean enough.<br>
+							<br>
+							
+						JERRY: No kidding. Did you tell him that was the reason?<br>
+							<br>
+							
+						ELAINE: Oh yeah, I told him all the time. You would not have believed his tub. Germs were building a town in there &#150; they were constructing offices. Houses near the drain were going for a hundred and fifty thousand dollars.<br>
+							<br>
+							
+						(George enters, looking miserable, holding a brown paper bag.)<br>
+							<br>
+							
+						ELAINE: Hi.<br>
+							<br>
+							
+						(George produces a bottle of Pepto-Bismol and box of bicarb (sic) from bag, placing them on counter.)<br>
+							<br>
+							
+						JERRY: You&#146;re still thinking about this?<br>
+							<br>
+							
+						GEORGE: She invites me up at twelve o&#146;clock at night, for coffee, and I don&#146;t go up. &#147;No thank you. I don&#146;t want coffee. It keeps me up. Too late for me to drink coffee.&#148; I said this to her. People this stupid shouldn&#146;t be allowed to live. I can&#146;t imagine what she must think of me.<br>
+							<br>
+							
+						JERRY: She thinks you&#146;re a guy that doesn&#146;t like coffee.<br>
+							<br>
+							
+						GEORGE: She invited me up. Coffee&#146;s not coffee, coffee is sex.<br>
+							<br>
+							
+						ELAINE: Maybe coffee was coffee.<br>
+							<br>
+							
+						GEORGE: Coffee&#146;s coffee in the morning. It&#146;s not coffee at twelve o&#146;clock at night.<br>
+							<br>
+							
+						ELAINE: Well some people drink coffee that late.<br>
+							<br>
+							
+						GEORGE: Yeah, people who work at NORAD, who&#146;re on twenty-four hour missile watch. Everything was going along so great. She was laughing, I was funny... I kept saying to myself, &#147;Keep it up, don&#146;t blow it, you&#146;re doing great.&#148;<br>
+							<br>
+							
+						ELAINE: It&#146;s all in your head. All she knows is she had a good time. I think you should call her.<br>
+							<br>
+							
+						GEORGE: I can&#146;t call her now. It&#146;s too soon. I&#146;m planning a Wednesday call.<br>
+							<br>
+							
+						ELAINE: Oh, why? I love it when guys call me the next day.<br>
+							<br>
+							
+						GEORGE: Of course you do, but you&#146;re imagining a guy you like, not a guy who goes, &#147;Oh no, I don&#146;t drink coffee late at night.&#148; If I call her now, she&#146;s gonna think I&#146;m too needy. Women don&#146;t wanna see need. They want a take-charge guy &#150; a colonel, a Kaiser, a tsar.<br>
+							<br>
+							
+						ELAINE: All she&#146;ll think is that you like her.<br>
+							<br>
+							
+						GEORGE: That's exactly what I'm trying to avoid!<br>
+							<br>
+							
+						ELAINE: Well, she wants you to like her.<br>
+							<br>
+							
+						GEORGE: Yes, she wants me to like her, if she likes me. But she doesn&#146;t like me!<br>
+							<br>
+							
+						ELAINE: I don&#146;t know what your parents did to you.<br>
+							<br>
+							
+						(Kramer enters and addresses Jerry.)<br>
+							<br>
+							
+						KRAMER: Hey, I just thought of a really funny thing for your act. All right, you&#146;re up there, you&#146;re on the stage and you go, &#147;Hey, you ever notice how cars here in New York, they never get out of the way of ambulances anymore. Someone&#146;s in a life-and-death situation, and we&#146;re thinking, &#147;Well, sorry buddy, you should&#146;ve thought of that when you were eating cheese omelettes and sauages for breakfast every morning for the last thirty years.&#148;<br>
+							<br>
+							
+						(Elaine laughs. Jerry humors Kramer with a smile.)<br>
+							<br>
+							
+						KRAMER: So you gonna use it?<br>
+							<br>
+							
+						JERRY : I don&#146;t think so.<br>
+							<br>
+							
+						KRAMER: It&#146;s funny.<br>
+							<br>
+							
+						ELAINE: It is funny.<br>
+							<br>
+							
+						JERRY: I like to use my own material.<br>
+							<br>
+							
+						KRAMER: That&#146;s as good as anything you do.<br>
+							<br>
+							
+						GEORGE: All right, I gotta make a call. Everybody out, come on.<br>
+							<br>
+							
+						JERRY: Why do we have to leave?<br>
+							<br>
+							
+						GEORGE: Because I can&#146;t call a woman with other people in the room. Come on, let&#146;s go.<br>
+							<br>
+							
+						ELAINE: Oh, see, this is the problem.<br>
+							<br>
+							
+						JERRY: You&#146;re kicking me out of my house?<br>
+							<br>
+							
+						GEORGE: Yes.<br>
+							<br>
+							
+						(Jerry exits. Elaine is in the doorway.)<br>
+							<br>
+							
+						ELAINE: (encouraging) Don&#146;t forget.<br>
+							<br>
+							
+						GEORGE: (to Elaine) Right, alright. (to Jerry) Oh Jerry, do you have any apples?<br>
+							<br>
+							
+						JERRY: Don&#146;t do the apples. It&#146;s enough already with the apples.<br>
+							<br>
+							
+						(Elaine, Kramer and Jerry exit. George removes his jacket and dials the phone.)<br>
+							<br>
+							
+						CAROL: (from the phone; a recorded message) Hi, it&#146;s Carol, I&#146;ll get back to you.<br>
+							<br>
+							
+						(A beep follows.)<br>
+							<br>
+							
+						GEORGE: Um, hi, it&#146;s George, George Costanza, remember me? The guy that didn&#146;t come up for coffee. You see, I didn&#146;t realise that coffee didn&#146;t really mean... well, whatever. Anyway, it was fun. It was... it was fun, so... oh boy, um, so... You call me back. If you want. It&#146;s up to you, you know, whatever you wanna do. Either way. The ball&#146;s in your court. So uh, take it easy.<br>
+							<br>
+							
+						(George hangs up. Jerry enters.)<br>
+							<br>
+							
+						JERRY: I&#146;m just gonna get my jacket, I&#146;ll meet you downstairs. What&#146;s the matter, did you call?<br>
+							<br>
+							
+						(Elaine enters.)<br>
+							<br>
+							
+						GEORGE: Got her machine. I&#146;m dead, I&#146;m a dead man. That&#146;s it. I&#146;m dead, I&#146;m a dead man. Dead man.<br>
+							<br>
+							
+						JERRY: What did you say?<br>
+							<br>
+							
+						GEORGE: I don&#146;t know what the hell I said. I gave her an ultimatum and there&#146;s nothing I can do. It&#146;s a machine. The little light is blinking right now, &#147;Come and listen to the idiot. Hey everybody, the idiot&#146;s on!&#148;<br>
+							<br>
+							
+						JERRY: After one date you try and improvise on her machine?<br>
+							<br>
+							
+						GEORGE: Now I&#146;m in the worst position of all.<br>
+							<br>
+							
+						ELAINE: Y&#146;know, my brother-in-law once left a message on this guy&#146;s machine, and he blurted out some business information he wasn&#146;t supposed to, and it would have cost him fifteen thousand dollars, so he waited outside the guy&#146;s house and when the guy came home he went upstairs with him and he switched the tape.<br>
+							<br>
+							
+						GEORGE: He did that?<br>
+							<br>
+							
+						ELAINE: Yeah.<br>
+							<br>
+							
+						GEORGE: Somebody did that?<br>
+							<br>
+							
+						JERRY: She&#146;ll call you back. You&#146;re overreacting.<br>
+							<br>
+							<br>
+							<br>
+							
+						INT. JERRY&#146;S APARTMENT &#150; NIGHT<br>
+							<br>
+							
+						(Jerry is in the kitchen. Donna is on the other side of the counter.)<br>
+							<br>
+							
+						JERRY: Not once.<br>
+							<br>
+							
+						DONNA: Never?<br>
+							<br>
+							
+						JERRY: I have never seen one episode of I Love Lucy in my life, ever.<br>
+							<br>
+							
+						DONNA: That&#146;s amazing.<br>
+							<br>
+							
+						JERRY: Thank you.<br>
+							<br>
+							
+						DONNA: Is there anything else about you I should know?<br>
+							<br>
+							
+						JERRY: Yes, I&#146;m lactose intolerant.<br>
+							<br>
+							
+						DONNA: Really?<br>
+							<br>
+							
+						JERRY: I have no patience for lactose. And I won&#146;t stand for it. Um, I&#146;ll be right back.<br>
+							<br>
+							
+						(Jerry goes to the bathroom. George bursts into the apartment.)<br>
+							<br>
+							
+						GEORGE: Wait till you hear this! (George sees Donna and no Jerry.) Whoa, ah, I&#146;m sorry, I didn&#146;t, I had no idea.<br>
+							<br>
+							
+						(He goes to leave.)<br>
+							<br>
+							
+						DONNA: Wait, wait. He&#146;s in the bathroom.<br>
+							<br>
+							
+						GEORGE: I just wanted to talk to him for a minute, but I&#146;ll come back.<br>
+							<br>
+							
+						DONNA: You don&#146;t have to leave.<br>
+							<br>
+							
+						GEORGE: You sure?<br>
+							<br>
+							
+						DONNA: Yes.<br>
+							<br>
+							
+						GEORGE: Okay.<br>
+							<br>
+							
+						DONNA: I&#146;m Donna.<br>
+							<br>
+							
+						GEORGE: Donna. Oh, you&#146;re the one that likes that commercial!<br>
+							<br>
+							
+						DONNA: He told you about that?<br>
+							<br>
+							
+						GEORGE: (back-pedalling) No, he, he didn&#146;t actually tell me that, uh, we were talking about that commercial &#150; in fact I think I brought it up because I like that commercial. No, he, he would never tell me anything. He never discusses anything. He&#146;s, he&#146;s like a clam. You&#146;re not gonna mention this, to him...<br>
+							<br>
+							
+						(Jerry re-enters.)<br>
+							<br>
+							
+						DONNA: (to Jerry) So you go around telling your friends I&#146;m not hip because I like that commercial.<br>
+							<br>
+							
+						JERRY: What? (to George) What did, what did you say?<br>
+							<br>
+							
+						GEORGE: Say? What? Nothing, I...<br>
+							<br>
+							
+						DONNA: You told him how I like the commercial.<br>
+							<br>
+							
+						JERRY: Well, so what if I said that?<br>
+							<br>
+							
+						DONNA: Well, so, you didn&#146;t have to tell your friends.<br>
+							<br>
+							
+						JERRY: No, I had to tell my friends &#150; my friends didn&#146;t have to tell you.<br>
+							<br>
+							
+						GEORGE: (to Donna) Why did you have to get me in trouble?<br>
+							<br>
+							
+						DONNA: I don&#146;t like you talking about me with your friends behind my back.<br>
+							<br>
+							
+						GEORGE: Boy oh boy.<br>
+							<br>
+							
+						JERRY: I said I couldn&#146;t believe you liked that commercial. So what?<br>
+							<br>
+							
+						DONNA: I asked some friends of mine this week, and all of them liked the commercial.<br>
+							<br>
+							
+						JERRY: Boy, I bet you got a regular Algonquin round table there.<br>
+							<br>
+							
+						(Kramer enters.)<br>
+							<br>
+							
+						KRAMER: Hey.<br>
+							<br>
+							
+						JERRY: Oh uh, Kramer, this is Donna.<br>
+							<br>
+							
+						KRAMER: Oh. Cotton Dockers!<br>
+							<br>
+							
+						GEORGE: Hello! All right, we should be going. Come on...<br>
+							<br>
+							
+						(George grabs Kramer.)<br>
+							<br>
+							
+						KRAMER: What? Where are we going?<br>
+							<br>
+							
+						GEORGE: Come on!<br>
+							<br>
+							
+						DONNA: Don&#146;t bother, I&#146;m leaving.<br>
+							<br>
+							
+						JERRY: Donna, really, you&#146;re making too much of this.<br>
+							<br>
+							
+						KRAMER: &#147;One hundred percent Cotton Dockers. If they&#146;re not Dockers, they&#146;re just pants&#148;<br>
+							<br>
+							
+						JERRY: Please, Donna...<br>
+							<br>
+							
+						DONNA: I don&#146;t wanna hear it.<br>
+							<br>
+							
+						(Donna leaves.)<br>
+							<br>
+							
+						GEORGE: I can&#146;t believe I said that. You know me, I&#146;m a vault.<br>
+							<br>
+							
+						JERRY: Don&#146;t worry about it, it wasn&#146;t working anyway.<br>
+							<br>
+							
+						KRAMER: What happened there?<br>
+							<br>
+							
+						JERRY: I&#146;ll tell you later.<br>
+							<br>
+							
+						GEORGE: You are not gonna believe what&#146;s going on with this woman.<br>
+							<br>
+							<br>
+							<br>
+							
+						INT. MONK&#146;S DINER &#150; DAY<br>
+							<br>
+							
+						(George and Jerry sat at a booth.)<br>
+							<br>
+							
+						GEORGE: Okay, so you remember I made the initial call Sunday, she doesn&#146;t call back. I call again Monday, I leave another message. I call Tuesday, I get the machine again, &#147;I know you&#146;re there, I don&#146;t know what your story is.&#148; Yesterday, I&#146;m a volcano &#150; I try one more call, the machine comes on, and I let fly like Mussolini from the balcony, &#147;Where the hell do you get the nerve? You invite me up for coffee and then you don&#146;t call me back for four days? I don&#146;t like coffee, I don&#146;t have to come up. I&#146;d like to get one more shot at the coffee just so I could spit it in your face.&#148;<br>
+							<br>
+							
+						JERRY: You said that?<br>
+							<br>
+							
+						GEORGE: I lost it.<br>
+							<br>
+							
+						JERRY: I can&#146;t blame you. I can&#146;t believe she never called you back.<br>
+							<br>
+							
+						GEORGE: She did. Today.<br>
+							<br>
+							
+						JERRY: What?<br>
+							<br>
+							
+						GEORGE: She called my office. She said she&#146;s been in the Hamptons since Sunday. She didn&#146;t know if I was trying to get in touch with her. Her machine broke, and she&#146;s been using her old machine and she doesn&#146;t have the beeper for it.<br>
+							<br>
+							
+						JERRY: So she didn&#146;t get the messages.<br>
+							<br>
+							
+						GEORGE: Exactly, but they&#146;re on there &#150; waiting. She said she can&#146;t wait to see me, we&#146;re having dinner tonight. She&#146;s supposed to call me as soon as she gets home.<br>
+							<br>
+							
+						JERRY: But what about the messages?<br>
+							<br>
+							
+						(George produces cassette tape from pocket.)<br>
+							<br>
+							
+						JERRY: Elaine&#146;s thing? How you gonna get in?<br>
+							<br>
+							
+						GEORGE: I&#146;ll meet her outside the building.<br>
+							<br>
+							
+						JERRY: But you know as soon as she gets in the apartment she&#146;s going right for that machine.<br>
+							<br>
+							
+						GEORGE: Unless she goes for the bathroom. That&#146;s my only chance. (George crumbles. He drops the cassette on the table.) Who am I kidding? I can&#146;t do this, I can&#146;t do this. I don&#146;t even know how to work those stupid machines.<br>
+							<br>
+							
+						JERRY: There&#146;s nothing to it. You lift the lid, it comes right out.<br>
+							<br>
+							
+						GEORGE: You do it for me.<br>
+							<br>
+							
+						JERRY: What?<br>
+							<br>
+							
+						GEORGE: Come on, it&#146;ll be so much easier.<br>
+							<br>
+							
+						JERRY: How you gonna get me up there?<br>
+							<br>
+							
+						GEORGE: I&#146;ll tell her I bumped into you, I&#146;m giving you a ride uptown.<br>
+							<br>
+							
+						JERRY: And who makes the switch?<br>
+							<br>
+							
+						GEORGE: You do.<br>
+							<br>
+							
+						JERRY: I do.<br>
+							<br>
+							
+						GEORGE : I can&#146;t do it. I&#146;ll, I&#146;ll keep her busy.<br>
+							<br>
+							
+						JERRY: I can&#146;t get involved in this.<br>
+							<br>
+							
+						GEORGE: I think I may be in love with this woman.<br>
+							<br>
+							
+						JERRY: What if she sees me?<br>
+							<br>
+							
+						GEORGE: Oh, you are such a wuss.<br>
+							<br>
+							
+						JERRY: A wuss?<br>
+							<br>
+							
+						GEORGE: Yeah.<br>
+							<br>
+							
+						JERRY: Did you call me a wuss?<br>
+							<br>
+							<br>
+							<br>
+							
+						EXT. CAROL&#146;S BUILDING &#150; NIGHT<br>
+							<br>
+							
+						(George and Jerry are sitting on a low wall beside the door to the building.)<br>
+							<br>
+							
+						GEORGE: Well there is traffic. It might take her till eight-fifteen.<br>
+							<br>
+							
+						JERRY: I got one problem. You&#146;re keeping her busy in the other room. Now, what if she somehow gets away from you and is coming in? You have to signal me that she&#146;s coming.<br>
+							<br>
+							
+						GEORGE: A signal, right, um, okay, uh, okay, the signal is, I&#146;ll call out tippy-toe!<br>
+							<br>
+							
+						JERRY: Tippy Toe? I don&#146;t think so.<br>
+							<br>
+							
+						GEORGE: You don&#146;t like tippy toe?<br>
+							<br>
+							
+						JERRY: No tippy toe.<br>
+							<br>
+							
+						GEORGE: All right, uh, okay, I got it, um, I&#146;ll sing.<br>
+							<br>
+							
+						JERRY: What song?<br>
+							<br>
+							
+						GEORGE: &#147;How Do You Solve A Problem Like Maria?&#148;<br>
+							<br>
+							
+						JERRY: What is that?<br>
+							<br>
+							
+						GEORGE: Oh, it&#146;s a lovely song. (singing) &#147;How do you solve a problem like Maria?...&#148;<br>
+							<br>
+							
+						JERRY: Anything else?<br>
+							<br>
+							
+						GEORGE: You pick it.<br>
+							<br>
+							
+						JERRY: &#147;Lemon Tree.&#148;<br>
+							<br>
+							
+						GEORGE: Peter, Paul and Mary.<br>
+							<br>
+							
+						JERRY: No, Trini Lopez.<br>
+							<br>
+							
+						JERRY &amp; GEORGE: (singing) &#147;Lemon tree, very pretty and a lemon flower...&#148;<br>
+							<br>
+							
+						GEORGE: Alright ok. You got the tape?<br>
+							<br>
+							
+						(Jerry takes out two different sizes of cassettes.)<br>
+							<br>
+							
+						JERRY: Standard. Micro.<br>
+							<br>
+							
+						GEORGE: How do you feel? Confident?<br>
+							<br>
+							
+						JERRY: Feel good.<br>
+							<br>
+							
+						GEORGE: You nervous?<br>
+							<br>
+							
+						JERRY: Not at all.<br>
+							<br>
+							
+						GEORGE: Get up, get up, it&#146;s her! Oh, the hell with this, I&#146;m scared to death, just walk away, it&#146;s off, cancel everything, go!<br>
+							<br>
+							
+						(Carol enters.)<br>
+							<br>
+							
+						CAROL: Hey! What are you doing here? I thought I was supposed to call you when I got home.<br>
+							<br>
+							
+						GEORGE: I, I couldn&#146;t wait. I was too anxious to see you.<br>
+							<br>
+							
+						CAROL: Oh, that&#146;s so sweet.<br>
+							<br>
+							
+						GEORGE: Oh, this is my friend, Jerry Seinfeld. I just bumped into him around the corner. Isn&#146;t that a coincidence? The funny thing is, I see him all the time.<br>
+							<br>
+							
+						JERRY: All the time.<br>
+							<br>
+							
+						CAROL: It&#146;s nice to meet you.<br>
+							<br>
+							
+						JERRY: Hi.<br>
+							<br>
+							
+						CAROL: So, I&#146;m starving. Where are we gonna eat?<br>
+							<br>
+							
+						GEORGE: You know, we could go uptown, and that way we could give Jerry a ride home.<br>
+							<br>
+							
+						CAROL: Okay. Let&#146;s go, I&#146;m ready, where&#146;d you park?<br>
+							<br>
+							
+						GEORGE: Don&#146;t you wanna go upstairs first?<br>
+							<br>
+							
+						CAROL: No, what for? I&#146;ll just give my bag to the doorman.<br>
+							<br>
+							
+						JERRY: You know, I really need to use the bathroom.<br>
+							<br>
+							
+						CAROL: Oh well there&#146;s a bathroom in the coffee shop just next door.<br>
+							<br>
+							
+						GEORGE: Yes, yes, but uh, I have to make a call, so...<br>
+							<br>
+							
+						CAROL: Well they have a phone.<br>
+							<br>
+							
+						(George takes Carol aside.)<br>
+							<br>
+							
+						GEORGE: I know Jerry. He has this phobia about public toilets. I think we really should go upstairs.<br>
+							<br>
+							
+						CAROL: (aloud) You know, I think I will go upstairs. I can check my machine.<br>
+							<br>
+							
+						GEORGE: Right, right.<br>
+							<br>
+							
+						(They enter her building.)<br>
+							<br>
+							<br>
+							<br>
+							
+						INT. CAROL&#146;S APARTMENT &#150; CONTINUING<br>
+							<br>
+							
+						(Carol, Jerry and George enter.)<br>
+							<br>
+							
+						CAROL: The bathroom&#146;s on the hall to the right.<br>
+							<br>
+							
+						JERRY: Uh, you know, why don&#146;t you go first, you just had a long trip.<br>
+							<br>
+							
+						CAROL: No, I&#146;m fine.<br>
+							<br>
+							
+						JERRY: Um, you know, it&#146;s the damnedest thing. It went away.<br>
+							<br>
+							
+						CAROL: Oh, that&#146;s weird.<br>
+							<br>
+							
+						GEORGE: No, no that can happen. I&#146;ve, uh, I&#146;ve read about that in medical journals. It&#146;s a freak thing, but...<br>
+							<br>
+							
+						CAROL: Well, let me just check my messages, and we&#146;ll go.<br>
+							<br>
+							
+						GEORGE: Uh, Carol, can I talk to you for a second? Right now?<br>
+							<br>
+							
+						CAROL: Sure.<br>
+							<br>
+							
+						GEORGE: Please, this is very, very important.<br>
+							<br>
+							
+						(George leads her to another room. Jerry goes over and lifts the lid of the machine.)<br>
+							<br>
+							
+						GEORGE: (from other room) Uh, tippy toe! Tippy toe! Lemon tree!<br>
+							<br>
+							
+						(Carol reappears, followed by George.)<br>
+							<br>
+							
+						CAROL: (to Jerry) Now I know who you are! You&#146;re a comedian. I&#146;ve seen you, it&#146;s driving me crazy.<br>
+							<br>
+							
+						JERRY: Right. I am.<br>
+							<br>
+							
+						GEORGE: Carol, that&#146;s so rude. Please, I&#146;m serious, just for a moment, if you wouldn&#146;t mind. And then we&#146;ll talk to Jerry.<br>
+							<br>
+							
+						(George leads Carol back out. Jerry switches the tapes.)<br>
+							<br>
+							
+						JERRY: (calls) Hey you two. I&#146;m ready to go.<br>
+							<br>
+							
+						(George and Carol return.)<br>
+							<br>
+							
+						CAROL: That&#146;s what you had to tell me? Your father wears sneakers in the pool?<br>
+							<br>
+							
+						GEORGE: (to Jerry) Don&#146;t you find that strange?<br>
+							<br>
+							
+						JERRY: Yes.<br>
+							<br>
+							
+						CAROL: Well, I&#146;ll just check my machine and we&#146;ll go.<br>
+							<br>
+							
+						(She lifts the lid of the machine, and drops it.)<br>
+							<br>
+							
+						CAROL: No, nothing here, let&#146;s go. (Carol, George and Jerry head for the door. Carol opens it.) Oh, I forgot to tell you. After I talked to you today my neighbour called me and played my messages to me over the phone.<br>
+							<br>
+							
+						GEORGE: Oh, uh...<br>
+							<br>
+							
+						CAROL: Yours were hilarious, we were both cracking up. I just love jokes like that.<br>
+							<br>
+							
+						(Carol exits. Jerry laughs acidly while looking at George. They exit as well.)<br>
+							<br>
+							<br>
+							<br>
+							
+						INT. COMEDY CLUB &#150; NIGHT<br>
+							<br>
+							
+						(Jerry in on stage, performing.)<br>
+							<br>
+							
+						JERRY: I love my phone machine. I wish I was a phone machine. I wish if I saw somebody on the street I didn&#146;t want to talk to, I could go, &#147;Excuse me, I&#146;m not in right now. If you would just leave a message, I could walk away.&#148; I also have a cordless phone, but I don&#146;t like that as much, because you can&#146;t slam down a cordless phone. You get mad at somebody on a real phone &#150; &#147;You can&#146;t talk to me like that!&#148; Bang! You know. You get mad at somebody on a cordless phone &#150; &#147;You can&#146;t talk to me like that!&#148;<br>
+							
+						(Jerry searches for the &#145;off&#146; button on his mimed phone, and presses it feebly.) &#147;I told him!&#148;<br>
+							<br>
+							<br>
+							
+						The End</td>
+						</tr>
+						<tr height="6">
+							<td class="bottom2" width="645" height="6"></td>
+						</tr>
+						<tr>
+							<td width="645">
+								<div align="center">
+									<font size="-1">Copyright 2006 seinology.com | All Rights Reserved | Designed by 13erla</font></div>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+		<p></p>
+	</body>
+
+</html>

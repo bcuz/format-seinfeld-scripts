@@ -1,0 +1,1402 @@
+<tdOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+<html>
+
+	<head>
+		<meta http-equiv="content-type" content="text/html;charset=ISO-8859-1">
+		<meta name="description" content="Top Source for Seinfeld">
+		<meta name="keywords" content="seinfeld, sienfeld, Jerry Seinfeld, Julia Louis Dreyfus, Jason Alexander, Michael Richards, Kramer, George, Costanza, Elaine Benes, morty, Larry David">
+		<title>Seinology.com :: Scripts :: 133-The Wait Out</title>
+	<link rel='stylesheet' href='/stylesheet.css' type='text/css'>
+	</head>
+
+	<body>
+			<table align="center" width="787" border="0" cellspacing="0" cellpadding="0">
+				<tr>
+					<td><font size="-2" color="red">Seinology.com - </font><font size="-3" color="black">Where Seinfeld Content and Accuracy Matter Most. Seinfeld scripts in pdf form, Seinfeld episode video clips, Seinfeld episode audio clips, Jerry Seinfeld appearances, Julia Louis-Dreyfus appearances, Michael Richards appearances, Jason Alexander appearances, Seinfeld discussion Forum, Seinfeld Where are they Now? Seinlanguage Newsletter, Popular Seinfeld Lists, Seinfeld episode standup, Seinfeld episode guide, Seinfeld fan fiction. Seinfeld content all on one domain. Seinology.com enjoy your stay.</font></td>
+				</tr>
+			</table>
+		
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr height="100">
+				<td class="logo"></td>
+			</tr>
+			<tr><td class="ads" align="center" background=#8694fa>
+				<script type="text/javascript"><!--
+google_ad_client = "pub-1924026976931416";
+google_ad_width = 728;
+google_ad_height = 90;
+google_ad_format = "728x90_as";
+google_ad_type = "text";
+google_ad_channel = "";
+google_color_border = "FFFFFF";
+google_color_bg = "8694fa";
+google_color_link = "0000FF";
+google_color_text = "000000";
+google_color_url = "002E3F";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></td></tr>
+		</table>
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr>
+				<td valign="top" width="136">
+					<table width="136" border="0" cellspacing="0" cellpadding="0">
+						<tr height="24">
+							<td class="navigation">
+								<div align="center">
+									
+									<b>Navigation</b></div>
+							</td>
+						</tr>
+						<tr height="199">
+							<td class="spacer1" valign="top" width="136" height="199">
+								<div align="center">
+									<font size="-1"><a href="http://www.seinology.com">Home</a><br>
+										<a href="http://board.seinology.com">Forum</a><br>
+										<a href="http://www.seinology.com/av.shtml">Audio/Video</a><br>
+										<a href="http://www.seinology.com/scripts.shtml">Scripts</a><br>
+										<a href="http://www.seinology.com/survivor.shtml">Survivor</a><br>
+										<a href="http://www.seinology.com/fanfics.shtml">Fan Fiction</a><br>
+										<a href="http://www.seinology.com/gallery/">Gallery</a><br>
+										<a href="http://www.seinology.com/newsletter.shtml">Newsletter</a><br>
+										<a href="http://www.seinology.com/lists.shtml">Lists</a><br>
+										<a href="http://www.seinology.com/epguide.shtml">Episode Guide</a><br>
+										<a href="http://www.seinology.com/links.shtml">Links</a><br>
+										<a href="http://www.seinology.com/faqother.shtml">Faq + others</a><br>
+										<a href="http://www.seinology.com/legal.shtml">Legal</a></font></div>
+							</td>
+						</tr>
+						
+						<tr>
+							<td class="nav2" width="136">
+							<div align="center"><b>Search</b></div></td>
+						</tr>
+						<tr>
+							<td class="spacer1" width="136" valign="top"><div align="center"><form method="get" action="http://www.seinology.com/search/search.cgi">
+<p><label for="fdse_Match">Match</label><br>
+<select name="Match" id="fdse_Match" size="1">
+<option value="1">All</option>
+<option value="0">Any</option>
+<option value="2">Phrase</option>
+</select></p>
+<p><label for="fdse_Realm">Where?</label><br>
+<select name="Realm" id="fdse_Realm" size="1">
+<option selected="selected" value="All">EntireSite</option>
+<option value="Ep Guide">Ep Guide</option>
+<option value="Images">Images</option>
+<option value="Lists">Lists</option>
+<option value="Newsletters">Newsletters</option>
+<option value="Scripts">Scripts</option>
+<option value="Notes..Nothing">Notes..Nothing</option>
+</select></p>
+<p><input type="text" name="Terms" size="14" id="fdse_Terms"><br>
+<input type="submit" class="submit" name="submitButtonName" value="Search"></p>
+</div></form></td>
+						</tr>
+						<tr><td class="bottom" width="136" height="10" valign="top">
+						</td>
+						</tr>
+					</table>
+				</td>
+				<td width="4"></td>
+				<td valign="top" width="645">
+					<table width="645" border="0" cellspacing="0" cellpadding="0">
+						<tr height="18">
+							<td width="645" height="35" class="bar">
+								<div align="center">
+									<b><font size="+2" color="black">Script</font></b></div>
+							</td>
+						</tr>
+						<tr height="362">
+							<td class="spacer2" valign="top" width="645" height="362">
+
+						<p><font size="-2">Episode 133 - The Wait Out<br>
+							
+						pc: 723, season 7, episode 23<br>
+							
+						Broadcast date: May 9, 1996<br>
+							<br>
+							
+						Written by Peter Mehlman<br>
+							
+						Story by Peter Mehlman &amp; Matt Selman<br>
+							
+						Directed by Andy Ackerman<br>
+							<br>
+							
+						-------------------------------------------------------------------------------<br>
+							<br>
+							
+						The Cast<br>
+							
+						Regulars:<br>
+							
+						Jerry Seinfeld ....................... Jerry Seinfeld<br>
+							
+						Jason Alexander .................. George Costanza<br>
+							
+						Julia Louis-Dreyfus ............. Elaine Benes<br>
+							
+						Michael Richards ................. Cosmo Kramer<br>
+							<br>
+							
+						Guest Stars:<br>
+							<br>
+							
+						Cary Elwes ........................... David<br>
+							
+						Debra Messing ..................... Beth<br>
+							
+						Allan Havey.......................... Policeman<br>
+							
+						Diana Castle.......................... Mrs. Zanfino<br>
+							
+						Todd Bosley.......................... Joey<br>
+							
+						J.C. Hertzler.......................... Mr. Berger<br>
+							
+						Nicole Tocantins.................... Barbara<br>
+							
+						rc: Heidi Swedberg .............. Susan Biddle Ross<br>
+							
+						rc: Danny Woodburn ........... Mickey Abbott<br>
+							<br>
+							
+						==================================================================<br>
+							<br>
+							
+						[Opening Monologue]<br>
+							
+						The whole concept of being separated to me is strange, it&#146;s like you&#146;re engaged to be divorced. We&#146;re gonna try making not being together work. First we we&#146;re separated, then we met, then we were together, now we are gonna try being separated again. We actually think some kind of giant rubber band might be the best solution. 'Course when you were a kid in school you would get separated for having too good of a time, 'if you too kids don't stop laughing and having fun i'm gonna have to separate you' Then the kid finds out his parents are breaking up and he thinks it's because they got caught fooling around, which is probably true.<br>
+							<br>
+							<br>
+							
+						[Setting: The Coffee Shop]<br>
+							<br>
+							
+						(Elaine and Jerry are sitting across from each other in a booth)<br>
+							<br>
+							
+						JERRY: Hairdo?<br>
+							<br>
+							
+						ELAINE: (Looking up from a menu) Yeah.<br>
+							<br>
+							
+						JERRY: You look like Brenda Starr.<br>
+							<br>
+							
+						ELAINE: Is that good?<br>
+							<br>
+							
+						JERRY: It's better than Dondi.<br>
+							<br>
+							
+						(Elaine laughs, then draws her attention to a table across the room)<br>
+							<br>
+							
+						ELAINE: Hey, my God, look at that. (Jerry looks over at the table. A man and a woman are dining) David and Beth Lookner. (Leaning in for confidentiality) You know, I heard a rumor their marriage was a little rocky.<br>
+							<br>
+							
+						JERRY: (Interested, still looking at the couple) Really?<br>
+							<br>
+							
+						ELAINE: Mm-hmm.<br>
+							<br>
+							
+						JERRY: You know, I have a little thing for Beth Lookner.<br>
+							<br>
+							
+						ELAINE: Well, I have to admit, I've always thought David was kind of sponge-worthy. (Winks, making a clicking sound with her tongue)<br>
+							<br>
+							
+						JERRY: Yeah.. I've been waitin' out their marriage for three years.<br>
+							<br>
+							
+						ELAINE: Yeah, me too. Well, I've been waiting out two or three marriages, but this is the one I really had my eye on.<br>
+							<br>
+							
+						(George enters, somewhat annoyed. He's gesturing to the parking lot)<br>
+							<br>
+							
+						GEORGE: This car out there is taking up, like, three parking spaces.<br>
+							<br>
+							
+						(Jerry moves over, making room for George to sit)<br>
+							<br>
+							
+						ELAINE: Oh, (Laughs at George's misfortune) that's mine.<br>
+							<br>
+							
+						GEORGE: You have a car?<br>
+							<br>
+							
+						ELAINE: Well, my friend, Elise, lent it to me for the week. She's out of town.<br>
+							<br>
+							
+						JERRY: (Noting) You know, I've never seen you drive.<br>
+							<br>
+							
+						GEORGE: Me either.<br>
+							<br>
+							
+						(David and Beth Lookner, on their way out, approach the booth)<br>
+							<br>
+							
+						BETH: (Unsure as to whether it's him or not) Jerry? Elaine, Hi!<br>
+							<br>
+							
+						ELAINE: (Overly generous) Hi, David!<br>
+							<br>
+							
+						JERRY: Hi, Beth!<br>
+							<br>
+							
+						BETH: Oh, uh, George, (Introducing to two) this is my husband, David.<br>
+							<br>
+							
+						GEORGE: Oh, hi.. (They shake hands)<br>
+							<br>
+							
+						DAVID: Hello. So, George, uh, you're the one who works for the Yankees, right?<br>
+							<br>
+							
+						GEORGE: Yeah. Why, what do you do?<br>
+							<br>
+							
+						DAVID: Well, I sell insurance, but Beth used to be Don Mattingly's doctor.<br>
+							<br>
+							
+						GEORGE: Really?<br>
+							<br>
+							
+						BETH: Mm-hm.<br>
+							<br>
+							
+						DAVID: Yeah.<br>
+							<br>
+							
+						GEORGE: (Laughs slightly) A physician married to a salesman. (Chuckles) Well, I gotta tell you, Beth, you coulda done a lot better than him.<br>
+							<br>
+							
+						(George and Elaine both laugh out loud. Beth and David look at each other, taking in the awkward moment)<br>
+							<br>
+							
+						(Scene ends)<br>
+							<br>
+							<br>
+							
+						[Setting: Jerry's apartment]<br>
+							<br>
+							
+						(Jerry's in the kitchen. Kramer slides in, followed by Mickey. Mickey's reading a script)<br>
+							<br>
+							
+						KRAMER: Hey!<br>
+							<br>
+							
+						JERRY: Hey. Hey, Mickey. What's going on?<br>
+							<br>
+							
+						MICKEY: I'm very nervous. I'm auditioning to be in the Actor's Studio tonight.<br>
+							<br>
+							
+						JERRY: Really?<br>
+							<br>
+							
+						KRAMER: It's a method, Jerry. It's intense. (Clicks his tongue)<br>
+							<br>
+							
+						MICKEY: Kramer's going to be my scene partner.<br>
+							<br>
+							
+						JERRY: Kramer?<br>
+							<br>
+							
+						MICKEY: He doesn't have to say anything, he just has to sit there. I'm playing a detective.<br>
+							<br>
+							
+						KRAMER: Yeah, and I'm playing a business man accused of murder.<br>
+							<br>
+							
+						JERRY: Ohh boy. Well, I gotta meet Elaine and run some errands. So.. (Goes for his coat)<br>
+							<br>
+							
+						KRAMER: (Fixing up his pants) Yeah.. look at this, Mickey. These pants are fallin' apart, huh?<br>
+							<br>
+							
+						JERRY: (Fishing for his keys in a kitchen drawer) You know, when I first met you, Kramer, you used to wear jeans all the time.<br>
+							<br>
+							
+						KRAMER: (Looking over Mickey's shoulder at the script) Yeah, well, I was a different man then.<br>
+							<br>
+							
+						JERRY: (Jokingly playing off Kramer's statement) With a different body.<br>
+							<br>
+							
+						KRAMER: (Slightly offended) Hey, I got the body of a.. taught, pre-teen, Swedish boy.<br>
+							<br>
+							
+						(Mickey visibly rolls his eyes)<br>
+							<br>
+							
+						JERRY: Ehh, I dunno..<br>
+							<br>
+							
+						KRAMER: Now, what are you thinkin'? (Getting upset) You think that I'm not able to wear jeans anymore? Is that what you're sayin'? Because if that's what you're sayin', Jerry, I'll go and I'll buy some jeans. (Jerry shrugs. Kramer raises his voice to a menacing tone) I swear to God I will! (Jerry's showing off a skeptical face.<br>
+							<br>
+							
+						Kramer points a finger at him) Don't think I won't, Jerry!<br>
+							<br>
+							
+						(Scene ends)<br>
+							<br>
+							<br>
+							
+						[Setting: Elaine's car]<br>
+							<br>
+							
+						(Elaine is obviously an incredibly bad driver. Jerry, in the passenger's seat, looks car sick)<br>
+							<br>
+							
+						ELAINE: God, it is so great to drive again. I miss it so much! (Suddenly swerves to the right, then yells out of her window) How about a left turn signal, ya moron?!<br>
+							<br>
+							
+						(Looks ahead, then breaks suddenly) Woah..<br>
+							<br>
+							
+						JERRY: (His thoughts) I'm so nauseous. She's the worst driver.<br>
+							<br>
+							
+						ELAINE: You know what? On my first road test, I hit a dog. (Jerry nods, blinking) I think it was a golden retriever. No, no, no, it was a - it was a yellow lab. (Picks up the car phone) I'm gonna check my messages. (Begins to dial as she pulls up to a pedestrian crosswalk. She stops right before hitting a man crossing the street)<br>
+							<br>
+							
+						MAN: Hey!<br>
+							<br>
+							
+						JERRY: (Once again, the audience hears his thoughts) I'm so car sick. I'm gonna vomit!<br>
+							<br>
+							
+						(Elaine's expression changes as she's listening to her messages)<br>
+							<br>
+							
+						ELAINE: Oh my God! Jerry! My friend, Kim called - David and Beth got separated last night!<br>
+							<br>
+							
+						JERRY: (Out of it) Huh?<br>
+							<br>
+							
+						ELAINE: They're gettin' divorced! (Quickly breaks, stopping traffic)<br>
+							<br>
+							
+						(Scene ends)<br>
+							<br>
+							<br>
+							
+						[Setting: Monk's coffee shop]<br>
+							<br>
+							
+						(Elaine and Jerry sitting across from each other in a booth)<br>
+							<br>
+							
+						ELAINE: So, now, what is our move? What do we do?<br>
+							<br>
+							
+						JERRY: I don't know, but we don't have much time.<br>
+							<br>
+							
+						ELAINE: (Agreeing) Mm.<br>
+							<br>
+							
+						JERRY: The city's probably teeming with people who've been waiting out that marriage.<br>
+							<br>
+							
+						ELAINE: Right.<br>
+							<br>
+							
+						JERRY: It's like when tenant dies in a rent controlled building - you gotta take immediate action.<br>
+							<br>
+							
+						ELAINE: Yeeah, but David and Beth are going to need their grieving time.<br>
+							<br>
+							
+						JERRY: Their grieving time is a luxury I can't afford. I'm calling Beth tonight, and if you want a clean shot at David, I suggest you do likewise.<br>
+							<br>
+							
+						ELAINE: (Nodding) Yeah, yeah..<br>
+							<br>
+							
+						JERRY: But we gotta make it seem like we're not calling for dates.<br>
+							<br>
+							
+						ELAINE: Then why are we calling?<br>
+							<br>
+							
+						JERRY: Good question. (More to himself than to Elaine) Why are we calling?<br>
+							<br>
+							
+						(Both start chanting &quot;why are we calling..&quot;, thinking deeply)<br>
+							<br>
+							
+						ELAINE: Ah! (Jerry has a surprised look) I've got it! I've got it! We're calling just to say, &quot;I'm there for you.&quot;<br>
+							<br>
+							
+						JERRY: (Nodding, trying it out) &quot;I'm there for you.&quot;<br>
+							<br>
+							
+						ELAINE: Then, after a period of being &quot;there for you&quot;, we slowly remove the two words &quot;for you&quot;, and we're just (Makes a &quot;ta-da!&quot; gesture) &quot;there&quot;.<br>
+							<br>
+							
+						(Scene ends)<br>
+							<br>
+							<br>
+							
+						[Setting: Jerry's apartment]<br>
+							<br>
+							
+						(George enters)<br>
+							<br>
+							
+						ELAINE: Hey.<br>
+							<br>
+							
+						JERRY: Hey, remember Beth and David from yesterday? They got separated.<br>
+							<br>
+							
+						GEORGE: Really? (Realizes) Well, you don't think it had anything to do with what I said, do you?<br>
+							<br>
+							
+						JERRY: What'd you say?<br>
+							<br>
+							
+						GEORGE: You know, that, that thing about her being too good for him. I mean, I was just bein' folksy. They could tell I was just being folksy..?<br>
+							<br>
+							
+						ELAINE: Yeah, I thought you were being folksy.<br>
+							<br>
+							
+						GEORGE: Totally folksy.<br>
+							<br>
+							
+						(Kramer enters wearing a new pair of jeans. They're obviously way too small. Unable to bend his knees, he walks awkwardly into the room. Elaine, Jerry, and George are speechless - staring at him. Kramer walks past them, and attempts to pick a magazine off the table, but does so with great difficulty. Jerry starts to laugh as Kramer throws the magazine back down)<br>
+							<br>
+							
+						JERRY: hey, uh.. (Kramer walks around a little) what'd you get there?<br>
+							<br>
+							
+						KRAMER: Uh, yeah, I bought Dungarees.<br>
+							<br>
+							
+						ELAINE: Kramer, they're painted on!<br>
+							<br>
+							
+						KRAMER: Well, they're slim-fit.<br>
+							<br>
+							
+						JERRY: Slim-fit?<br>
+							<br>
+							
+						KRAMER: (Talking fast) Yeah, they're streamlined.<br>
+							<br>
+							
+						JERRY: You're walkin' like Frankenstein!<br>
+							<br>
+							
+						KRAMER: (Making his way toward the door) What? They just gotta be worked in a little bit, that's all. (Pulling the door shut behind him) Alright, see you later.<br>
+							<br>
+							
+						(Everyone stares after him)<br>
+							<br>
+							
+						(Scene ends)<br>
+							<br>
+							<br>
+							
+						[Setting: Elaine's apartment]<br>
+							<br>
+							
+						(Sitting up on her bed, she's on the phone with David Lookner)<br>
+							<br>
+							
+						ELAINE: (Mock sympathy) Well.. David, it happens.<br>
+							<br>
+							
+						(Scene cuts to Jerry - he's on the phone with Beth)<br>
+							<br>
+							
+						JERRY: Sure, Beth, these things happen. (Brief pause) So, have you told many.. people yet?<br>
+							<br>
+							
+						(Scene jumps back to Elaine)<br>
+							<br>
+							
+						ELAINE: Because it's really nobody's business.<br>
+							<br>
+							
+						(Back to Jerry)<br>
+							<br>
+							
+						JERRY: Anyway, I just called to tell you that, I'm there for you.<br>
+							<br>
+							
+						(Cut back to Elaine)<br>
+							<br>
+							
+						ELAINE: &quot;There&quot; is, um.. anywhere you want me to be..<br>
+							<br>
+							
+						(Back to Jerry)<br>
+							<br>
+							
+						JERRY: Sure, dinner would be fine.<br>
+							<br>
+							
+						(Back to Elaine)<br>
+							<br>
+							
+						ELAINE: And I could just be there. (Adding) For you.<br>
+							<br>
+							
+						(Scene takes a final cut back to Jerry. Kramer enters, still in his pants, as Jerry hangs up. Kramer's frantic)<br>
+							<br>
+							
+						KRAMER: Jerry, you gotta help me!<br>
+							<br>
+							
+						JERRY: What's wrong?<br>
+							<br>
+							
+						KRAMER: I can't get my pants off, and Mickey's audition is in twenty minutes! You know, I'm supposed to be a business man, I gotta be in costume!<br>
+							<br>
+							
+						JERRY: Alright, alright. Uh, undo them. I'll help you get them off.<br>
+							<br>
+							
+						KRAMER: (Bracing himself on a bar stool) Yeah, I already did it. It won't come off. The zipper's suck..<br>
+							<br>
+							
+						JERRY: (Walks over and starts pulling on Kramer's pants) You just gotta wiggle your hips a little bit.<br>
+							<br>
+							
+						KRAMER: (Wiggling and floppin) Pull Down<br>
+							<br>
+							
+						JERRY: (Stops pulling on the pants) Alright, alright, That's no good. (Moves Kramer over to the couch) Let me try getting them from the bottom. (Goes for Kramer's Leg) Just gimme one leg.<br>
+							<br>
+							
+						KRAMER: (Feet off the ground, his body going everywhere on the couch) Wait, Jerry...Wait a minu...<br>
+							<br>
+							
+						JERRY: (Still pulling on Kramer's pants from the ankles) Man these are tight. (Yanking) Squinch your hips in<br>
+							<br>
+							
+						KRAMER; I am Squinching my Hips!<br>
+							<br>
+							
+						JERRY: (Still pulling) Squinch em!<br>
+							<br>
+							
+						KRAMER: (Getting Pulled and pulled) I...um...ei...<br>
+							<br>
+							
+						JERRY: (Stops) Alright, that's not gonna work, it's not gonna work. Let me just think for a second here.<br>
+							<br>
+							
+						KRAMER: (Starts to tilt back onto the couch) You better get me. (Falls back and Jerry starts to him upright) Get me up, Get me up, Get me up.<br>
+							<br>
+							
+						JERRY: Hold it, hold it...Look your gonna need the jaws of life to get out of those things.<br>
+							<br>
+							
+						KRAMER: (walking toward the door) Look I don't have time to wait, I'm gonna be late.<br>
+							<br>
+							
+						JERRY: (Kramer waddling out the door) Maybe you can soak in the tub.<br>
+							<br>
+							
+						KRAMER: You better get the door.<br>
+							<br>
+							
+						(Scene Ends)<br>
+							<br>
+							
+						(Kramer waddling through the city down the sidewalk)<br>
+							<br>
+							<br>
+							
+						[Setting: Restaurant]<br>
+							<br>
+							
+						(Jerry and Beth)<br>
+							<br>
+							
+						BETH: It was nice to get your call.<br>
+							<br>
+							
+						JERRY: Well, I just want you to know I'm there for you. Course now I'm here for you, but when i'm not here for you, i'm there for you.<br>
+							<br>
+							
+						BETH: (Laughing) Well where ever you are i appreciate it.<br>
+							<br>
+							
+						JERRY: So how did this all happen?<br>
+							<br>
+							
+						BETH: Well actually, it had a lot to do with George's comment.<br>
+							<br>
+							
+						JERRY: (stunned) Is that right?<br>
+							<br>
+							
+						BETH: I thought maybe i could do better.<br>
+							<br>
+							
+						JERRY: Maybe, maybe<br>
+							<br>
+							
+						BETH: Well it wasn't just that, i realized after 3 years of marriage that David's little quirks were getting on my nerves a little.<br>
+							<br>
+							
+						JERRY: (agreeing) well three years is a long time to be married.<br>
+							<br>
+							
+						BETH: Like in the middle of our fight last night he did this thing that he always does where he asks questions to himself, aloud. And then answers them.<br>
+							<br>
+							<br>
+							
+						[Jump to David and Elaine out to Dinner]<br>
+							<br>
+							
+						DAVID: Am I happy Beth left me? Of course not. Do I hope to pick up the pieces and move on? Absolutely<br>
+							<br>
+							
+						ELAINE: You're gonna pick up the pieces.<br>
+							<br>
+							
+						DAVID: Just had our third anniversary on April 8th<br>
+							<br>
+							
+						ELAINE: 10th<br>
+							<br>
+							
+						DAVID: (very sad) right<br>
+							<br>
+							
+						ELAINE: Right<br>
+							<br>
+							
+						DAVID: (Mad) You know as far as I'm concerned, this whole thing is George's fault<br>
+							<br>
+							
+						ELAINE: Well, David the thing about George is that he's an idiot.<br>
+							<br>
+							
+						(End Scene)<br>
+							<br>
+							<br>
+							
+						[Setting: Play House]<br>
+							<br>
+							
+						(Mickey and the other people auditioning in the crowd)<br>
+							<br>
+							
+						CASTING DIRECTOR: Alright, auditioning next is Mickey Abbott (Mickey starts looking around for Kramer and checks his watch) Doing a scene from the Terrance Clifford play &quot;Press wounds in Ithaca&quot;<br>
+							<br>
+							
+						MICKEY: (stands up) Sorry my scene partner isn't here yet so I guess uh..(Kramer enters and runs into some chairs) Oh<br>
+							<br>
+							
+						KRAMER: Hey, sorry I'm late.<br>
+							<br>
+							
+						MICKEY: (quietly talking to Kramer) What's with the jeans you're supposed to be a business man<br>
+							<br>
+							
+						KRAMER: I know, it's a long story.<br>
+							<br>
+							
+						MICKEY: Well just get up there<br>
+							<br>
+							
+						(Kramer and Mickey get on the stage, Kramer trips on the step, They start the scene)<br>
+							<br>
+							
+						MICKEY: So, Bradley. I guess this is the last place you expected to find yourself.<br>
+							<br>
+							
+						KRAMER: (takes a breath)<br>
+							<br>
+							
+						MICKEY: Well we're gonna be here a while so take a seat. (Kramer starts trying to sit down, Mickey has his back to him and gets out a pack of cigarettes, Mickey then turns around once he has his cigarette to find Kramer struggling to sit down) You know if it hadn't been for that secretary of yours...I said sit down! (Kramer still trying to sit down, Mickey throws the pack of cigarettes to the floor) Are you deaf Bradley?! I said sit down!<br>
+							<br>
+							
+						KRAMER: (still trying to sit down, says under his breath) I'm trying. {hard to make out}<br>
+							<br>
+							
+						MICKEY: (almost starts to laugh) Bradley! (looking to the crowd) It's very important that you sit down (Kramer still trying to sit down) Now for the last time, (angry) Try again to Sit Down! (Running at Kramer with his arms in the air) Sit down you big stupid Ape! (Mickey tackles Kramer)<br>
+							<br>
+							
+						(Scene Ends)<br>
+							<br>
+							<br>
+							
+						[Setting: Jerry's Apartment]<br>
+							<br>
+							
+						(Elaine sitting in a chair and Jerry in his Kitchen)<br>
+							<br>
+							
+						ELAINE: Did I have a great time with David Lickner last night? I sure did. (Jerry comes over to the couch with a beverage and sits down) Do I think there is a future here? I don't see why not.<br>
+							<br>
+							
+						JERRY: I'll tell you, that There for you crap was a stroke of genius.<br>
+							<br>
+							
+						ELAINE: Ooooh, please.<br>
+							<br>
+							
+						JERRY: Never mind<br>
+							<br>
+							
+						ELAINE: Ah come on<br>
+							<br>
+							
+						JERRY: You're a Genius!<br>
+							<br>
+							
+						ELAINE: Aaalright!<br>
+							<br>
+							
+						(George Enters)<br>
+							<br>
+							
+						ELAINE: Mmmnn, Georgie!<br>
+							<br>
+							
+						(Jerry and Elaine clapping and yelling get up to great George)<br>
+							<br>
+							
+						GEORGE: (confused) What, what's going on?<br>
+							<br>
+							
+						JERRY: What's going on? You're the man of the hour, That's what's going on.<br>
+							<br>
+							
+						ELAINE: Right<br>
+							<br>
+							
+						GEORGE: What do you mean?<br>
+							<br>
+							
+						ELAINE: Well thanks to you and your little comment there to David and Beth. Jerry and I are in prime pouncing position to scoop these two up (Jerry and Elaine do a little slow dance of joy) before they know what hit em.<br>
+							<br>
+							
+						GEORGE: So it was my comment that broke them up?<br>
+							<br>
+							
+						(Jerry and Elaine stop their dance)<br>
+							<br>
+							
+						JERRY: According to them<br>
+							<br>
+							
+						ELAINE: Ya<br>
+							<br>
+							
+						GEORGE: I feel terrible, I can't be responsible for breaking up a marriage. Oh no (starting moving for the door, Elaine begins to stop him)<br>
+							<br>
+							
+						JERRY: (moving over to block the door) Where are you going?<br>
+							<br>
+							
+						GEORGE: Well I gotta go talk to Beth.<br>
+							<br>
+							
+						JERRY: Talk to Beth?<br>
+							<br>
+							
+						GEORGE: Well I gotta undo what I did.<br>
+							<br>
+							
+						JERRY: You're not undoing anything.<br>
+							<br>
+							
+						GEORGE: Oh yes I am<br>
+							<br>
+							
+						JERRY: Oh no you're not!<br>
+							<br>
+							
+						GEORGE: (starts to try to get passed Jerry and Elaine) Alright get out of my way. (Jerry and Elaine push him back, George very annoyed) Alright don't make me get physical here!<br>
+							<br>
+							
+						ELAINE: (Put her finger in George's face) You be careful George.<br>
+							<br>
+							
+						George (Starts to fight his way through them) Oh uh Ho<br>
+							<br>
+							
+						(Scene Ends with Elaine jumping on George back and Jerry taking out George's Legs)<br>
+							<br>
+							<br>
+							
+						[Setting: Beth's Apartment]<br>
+							<br>
+							
+						BETH: (Opens the door to reveal a ruffed up George) George?!<br>
+							<br>
+							
+						GEORGE: Hi Beth (Scene Ends then re-begins with Beth and George on Beth's couch) Um anyway Jerry told me that uh.. it might have been my comment in the Coffee Shop that broke you up.<br>
+							<br>
+							
+						BETH: Oh, well you know it's funny George. Sometimes you don't know how you're really feeling about something until a person like you comes along and articulates it so perfectly.<br>
+							<br>
+							
+						GEORGE: Oh (snorts) Articulate....Me? I've never articulated anything, i'm completely incoherent.<br>
+							<br>
+							
+						(Phone Rings)<br>
+							<br>
+							
+						BETH: (gets up to answer the phone) I don't know about that. Hold on (Picks phone up) Hello...Hi (pauses for Jerry to speak) ya last night I had a good time too (pauses for Jerry to speak) Really? that's so funny he's here right now.<br>
+							<br>
+							
+						JERRY: (talking to Beth on the phone) Could you put him on, I'd love to say hello.<br>
+							<br>
+							
+						BETH: (talk to Jerry) Sure. (starts to hand George the phone) George it's Jerry.<br>
+							<br>
+							
+						GEORGE: He..he wants to talk to me?<br>
+							<br>
+							
+						BETH: Ya he says he wants to say hello.<br>
+							<br>
+							
+						GEORGE: Sweet guy (Receives the phone from Beth, Starts to talk to Jerry) Hello<br>
+							<br>
+							
+						JERRY: George what the hell are you doing over there? I told you to mind your own business now stay out of my affairs!<br>
+							<br>
+							
+						GEORGE: Oh Jerry, that is so sweet of you but actually i already ate.<br>
+							<br>
+							
+						JERRY: Ate? What? What the hell are you talking about? Now you listen to me, you get out of that apartment this instant. If you screw this up for me I swear....<br>
+							<br>
+							
+						GEORGE: (cuts into Jerry talking) Chocolate chip mint? Oh well, actually Jerry I prefer chocolate chip. What is it about the chocolate and the mint that makes it go so well together?<br>
+							<br>
+							
+						JERRY: What are you talking about?<br>
+							<br>
+							
+						GEORGE: Oh of course you can use it, sure. (Jerry saying stuff through the phone) Ok, bye. (hangs the phone up)<br>
+							<br>
+							
+						(Scene Ends)<br>
+							<br>
+							<br>
+							
+						[Setting: Jerry's Apartment]<br>
+							<br>
+							
+						(Jerry sitting on his couch watching tv)<br>
+							<br>
+							
+						(Kramer enters still wearing the tight jeans)<br>
+							<br>
+							
+						KRAMER: Hey<br>
+							<br>
+							
+						JERRY: Hey, are you still wearing those things.<br>
+							<br>
+							
+						KRAMER: Oh ya, I think they are starting to loosen up a bit. (Mrs. Anvino come to Jerry's threshold) Oh hi Mrs. Anvino.<br>
+							<br>
+							
+						MRS. ANVINO: Oh Kramer would you do me a favor my baby sitter hasn't show up could you come watch Joey for an hour I gotta run out.<br>
+							<br>
+							
+						KRAMER: Sure Mrs. Anvino, ya.<br>
+							<br>
+							
+						MRS. ANVINO: He's sleeping already, you don't have to do anything, just wait till i get back<br>
+							<br>
+							
+						KRAMER: (salutes Jerry on his way out) See you later buddy.<br>
+							<br>
+							
+						JERRY: See you later<br>
+							<br>
+							
+						(Phone rings)<br>
+							<br>
+							
+						JERRY: Hello<br>
+							<br>
+							
+						BETH: Hi Jerry it's Beth.<br>
+							<br>
+							
+						JERRY: (excited) Oh, Hi Beth<br>
+							<br>
+							
+						BETH: Hi, i've been doing a lot of thinking today and i don't know maybe i made a huge mistake<br>
+							<br>
+							
+						JERRY: (under his breath) George.<br>
+							<br>
+							
+						(Elaine enters)<br>
+							<br>
+							
+						BETH: I'm feeling really confused.<br>
+							<br>
+							
+						JERRY: Um. I'll call you back ok?<br>
+							<br>
+							
+						BETH: ok<br>
+							<br>
+							
+						(Jerry hangs up the phone)<br>
+							<br>
+							
+						JERRY: Trouble<br>
+							<br>
+							
+						ELAINE: What<br>
+							<br>
+							
+						JERRY: George<br>
+							<br>
+							
+						ELAINE: is it?<br>
+							<br>
+							
+						JERRY: ya<br>
+							<br>
+							
+						ELAINE: Dam<br>
+							<br>
+							
+						JERRY: What are we gonna do?<br>
+							<br>
+							
+						ELAINE: What do we do? You get your ass over to Beth's, toot sweet. That's what you do and turn on some of that so called charm you're always telling me about.<br>
+							<br>
+							
+						JERRY: Ya i could try and do that.<br>
+							<br>
+							
+						ELAINE: (Pushing Jerry) You don't try, you Do It! I got the loser in this relationship and I'm breathing new life into him, you give me three more days, he won't be able to remember her name. You got the winner, you got the easy part. Alright let's go (claps) I'll drive you over there. Come on.<br>
+							<br>
+							
+						JERRY: No you go on ahead, I'll take the bus.<br>
+							<br>
+							
+						ELAINE: What? I'm parked right outside, let's go. Come on (grabs Jerry's arm) come on.<br>
+							<br>
+							
+						JERRY: No, no. I'll take the subway.<br>
+							<br>
+							
+						ELAINE: (pulling Jerry out the door) Nah It doesn't matter come on, I'll take you.<br>
+							<br>
+							
+						JERRY: Na, uh, no, uh, I'll hitch hike.<br>
+							<br>
+							
+						ELAINE: What's your Problem?<br>
+							<br>
+							
+						JERRY: It's really not necessary.<br>
+							<br>
+							
+						(Jerry is pulled passed his open door by Elaine and doesn't get a chance to close it.)<br>
+							<br>
+							
+						(Scene Ends)<br>
+							<br>
+							<br>
+							
+						[Setting: Monk's]<br>
+							<br>
+							
+						(George and Susan sitting at the middle table)<br>
+							<br>
+							
+						GEORGE: (breaks a long silence) The uh, the shoe laces that you bought me, they uh, they worked out well. (thumbs up)<br>
+							<br>
+							
+						SUSAN: Well you know, if you need some more. I can get them for ya.<br>
+							<br>
+							
+						GEORGE: Should be a while though.<br>
+							<br>
+							
+						(Scene Ends)<br>
+							<br>
+							<br>
+							
+						[Setting: Jerry and Elaine driving through the city]<br>
+							<br>
+							
+						(Elaine is weaving in and out of traffic)<br>
+							<br>
+							
+						ELAINE: (Car tires screeching) Woah, ahhh. Hehe Ha ha ha. That was close. Confide in her, open up to her. You know women like that.<br>
+							<br>
+							
+						JERRY: I don't feel so good.<br>
+							<br>
+							
+						(Scene ends)<br>
+							<br>
+							<br>
+							
+						[Setting: Beth's apartment]<br>
+							<br>
+							
+						JERRY: Anyway Beth, you know i was thinking on my way over how when i was 9. I wanted these handball sneakers, they were all black but they came in adult sizes so you know i never got the sneakers. (Beth looks him confused)<br>
+							<br>
+							
+						BETH: Oh really?<br>
+							<br>
+							
+						(Scene ends)<br>
+							<br>
+							<br>
+							
+						[Setting: Elaine and David walking]<br>
+							<br>
+							
+						ELAINE: My father left us when I was 9 so I guess that is why i have such a fear of abandonment.<br>
+							<br>
+							
+						DAVID: Wow that's so touching<br>
+							<br>
+							
+						ELAINE: Yes it is.<br>
+							<br>
+							
+						(Jump to George and Susan still in Monk's)<br>
+							<br>
+							
+						DAVID: (Looking in through the window) Hey it's George<br>
+							<br>
+							
+						ELAINE: Oh, maybe we should go some place else.<br>
+							<br>
+							
+						DAVID: No, let's go in.<br>
+							<br>
+							
+						(Elaine and David enter Monk's, George is very surprised)<br>
+							<br>
+							
+						GEORGE: Oh uh hi Hi, David<br>
+							<br>
+							
+						DAVID: Hi George<br>
+							<br>
+							
+						GEORGE: Elaine<br>
+							<br>
+							
+						ELAINE: Hi<br>
+							<br>
+							
+						GEORGE: Listen uh, David, I, I, I want to apologize about that comment<br>
+							<br>
+							
+						DAVID: (interrupting) George please, please I'm fine.<br>
+							<br>
+							
+						GEORGE: Oh ya, This is my fiance, Susan. This is David<br>
+							<br>
+							
+						SUSAN: David<br>
+							<br>
+							
+						DAVID: Oh fiance. Boy you coulda done a lot better than him. (Susan laughs) Come on Elaine lets go.<br>
+							<br>
+							
+						(Susan starts pondering something, George notices and has a big smirk on his face)<br>
+							<br>
+							
+						(Scene Ends)<br>
+							<br>
+							<br>
+							
+						[Setting: The Anvino Apartment]<br>
+							<br>
+							
+						(Joey Anvino sleeping in his bed, Kramer walking through the halls of this seemingly large apartment with his tight jeans still on)<br>
+							<br>
+							
+						JOEY: (wakes up to see a shadow image of Kramer and takes off out of the apartment) Aah! It's Frankinstein! Frankinstein!<br>
+							<br>
+							
+						KRAMER: (waddling after Joey) Joey! Joey!<br>
+							<br>
+							
+						(Scene Jump)<br>
+							<br>
+							<br>
+							
+						[Setting: Apartment}<br>
+							<br>
+							
+						(Mickey with a girl from his Scene audition)<br>
+							<br>
+							
+						GIRL: Mickey you were so incredible in that scene yesterday, the rage.<br>
+							<br>
+							
+						MICKEY: Right, the rage. Tons of rage.<br>
+							<br>
+							
+						(Scene Jump back to Kramer in the Anvino Apartment)<br>
+							<br>
+							
+						KRAMER: (Going to the phone) I don't believe this<br>
+							<br>
+							
+						(Jump to Mickey)<br>
+							<br>
+							
+						MICKEY: (phone rings, sighs, answers) Hello?<br>
+							<br>
+							
+						KRAMER: Mickey<br>
+							<br>
+							
+						MICKEY: Oh Hi Kramer. What do you want, I'm a little busy.<br>
+							<br>
+							
+						KRAMER: Look, you gotta do me a favor.<br>
+							<br>
+							
+						MICKEY: What? Now? I can't<br>
+							<br>
+							
+						KRAMER: Hey, you owe me. I got you into Actor's Studio. They thought what we did was the scene.<br>
+							<br>
+							
+						MICKEY: Oh alright, alright. I'll be right over.<br>
+							<br>
+							
+						(Scenes end)<br>
+							<br>
+							
+						(Resume George and Susan at Monk's)<br>
+							<br>
+							
+						GEORGE: (coming back to the table from the bathroom) Oh uh. You ready?<br>
+							<br>
+							
+						SUSAN: (sighs) You know what George, uh. Why don't you go ahead. I think I'd like to be alone for a while.<br>
+							<br>
+							
+						GEORGE: Oh sure, sure. You wanna be alone, sure. I understand that, you wanna a little time to think uh thing..ponder things..you know..ruminant..(chuckles) you go ahead, lotta stuff on your mind..you think things out..Think, mull, mull, do a lot of mulling. (short laugh then exits Monk's)<br>
+							<br>
+							
+						(Scene Ends)<br>
+							<br>
+							<br>
+							
+						[Setting: Anvino Apartment, Joey's bedroom]<br>
+							<br>
+							
+						KRAMER: I gotta go find this kid. So all you gotta do is lay here, pretend you're asleep in case she gets back, here (grabs the covers and throws em over Mickey) keep the covers over ya.<br>
+							<br>
+							
+						MICKEY: Why don't you just cut the stupid pants and get them off already/<br>
+							<br>
+							
+						KRAMER: I'm breaking them in, and they're feeling better.<br>
+							<br>
+							
+						MICKEY: What am I gonna do in here?<br>
+							<br>
+							
+						KRAMER: Just keep the lights down and your eyes closed. I'll be back.<br>
+							<br>
+							
+						(Scene ends)<br>
+							<br>
+							<br>
+							
+						[Setting: Jerry's Apartment]<br>
+							<br>
+							
+						GEORGE: Jerry! Jerry! Je Jerry Jerry . The most unbelievable thing has just happened, it's too Unbelievable! I'm sitting in the coffee shop, i'm talking to Susan, were talking about shoe laces (does two guns to the head) so in walks..in walks David, right, he walks right to the table..righ I introduced him to Susan..and he says get this (laughs) he says 'boy you could do a lot better than this guy' huh right (more laughing by George, Jerry is totally just mellow and straight faced) The exact same thing that I said to him, just to get back at me just to get back at me..and then, and then she says she wants to be alone for awhile..Alone Jerry! I think that she thinks that she could do better (laughs) Do you appreciate this? Do you see the irony of this? Do you see what is going on here? What's the matter?<br>
+							<br>
+							
+						JERRY: I'm nauseous.<br>
+							<br>
+							
+						GEORGE: Is that what's hurting your appreciation for the story?<br>
+							<br>
+							
+						JERRY: A little<br>
+							<br>
+							
+						GEORGE: Because it's really a pretty good little story. Don't you think?<br>
+							<br>
+							
+						JERRY: It's not bad.<br>
+							<br>
+							
+						GEORGE: Yea<br>
+							<br>
+							
+						(Scene Ends)<br>
+							<br>
+							<br>
+							
+						[Setting Streets of NY]<br>
+							<br>
+							
+						(Kramer waddling down the sidewalk)<br>
+							<br>
+							
+						KRAMER: Joey, there you are. Hey<br>
+							<br>
+							
+						JOEY: AH!!<br>
+							<br>
+							
+						KRAMER: Joey<br>
+							<br>
+							
+						JOEY: (runs into the arms of a police officer) A Monster<br>
+							<br>
+							
+						KRAMER: I'm the babysitter<br>
+							<br>
+							
+						(Jump to Mickey laying in Joey's Bed, In walks Joey's mom)<br>
+							<br>
+							
+						MRS. ANVINO: Goodnight, Honey.<br>
+							<br>
+							
+						MICKEY: Goodnight<br>
+							<br>
+							
+						(Jump to Jerry's, Jerry and George sitting on his couch watching TV, Mrs Anvino screams and it is heard at Jerry's)<br>
+							<br>
+							
+						JERRY: It's gotta have something to do with Kramer<br>
+							<br>
+							
+						(Scenes End)<br>
+							<br>
+							<br>
+							
+						[Setting: David and Elaine at David's apartment]<br>
+							<br>
+							
+						DAVID: Elaine, here's to you being there.<br>
+							<br>
+							
+						ELAINE: and here.<br>
+							<br>
+							
+						(knock on the door)<br>
+							<br>
+							
+						DAVID: Excuse me. (answers the door) Beth<br>
+							<br>
+							
+						BETH: David<br>
+							<br>
+							
+						(Beth and David fall into each other's arms)<br>
+							<br>
+							
+						ELAINE: (takes a huge shot) I'll tell ya, it's not bad.<br>
+							<br>
+							
+						(Beth and David making out ends the Scene)<br>
+							<br>
+							<br>
+							
+						[Setting: George and Susans' Apartment]<br>
+							<br>
+							
+						(In walks Susan, George comes down the hall with a bunch of clothes and one of Susan's dolls)<br>
+							<br>
+							
+						SUSAN: George?<br>
+							<br>
+							
+						GEORGE: (Places the doll presumingly where it belongs on a shelf) Ya?<br>
+							<br>
+							
+						SUSAN: Can I talk to you for a minute?<br>
+							<br>
+							
+						GEORGE: Ya, sure sure.<br>
+							<br>
+							
+						SUSAN: I've been doing a lot of thinking about the wedding and all. and uh (George puts his head down and his hand on her shoulder as if to brace himself for something big) I've decided to go with the chicken.<br>
+							<br>
+							
+						(Scene ends with George confused after Susan heads for the bedroom)<br>
+							<br>
+							<br>
+							
+						[Setting: Kramer at the police station]<br>
+							<br>
+							
+						OFFICER: So chasing little kids huh? You're in a lot of trouble mister.<br>
+							<br>
+							
+						KRAMER: No no look, I was baby-sitting<br>
+							<br>
+							
+						OFFICER: Ya ya right. Sit down!<br>
+							<br>
+							
+						(Kramer looks at the chair then looks at the officer)<br>
+							<br>
+							
+						OFFICER: What are you deaf? I said sit down! (Kramer tries to sit down but struggles) Hey, for the last time, sit down.<br>
+							<br>
+							
+						KRAMER: (somewhat under his breath) Ya ya.<br>
+							<br>
+							
+						(Scene ends with Kramer leaning on the chair seat with his legs out stretched under the table)<br>
+							<br>
+							
+						END OF SHOW<br>
+							<br>
+							<br>
+						</td>
+						</tr>
+						<tr height="6">
+							<td class="bottom2" width="645" height="6"></td>
+						</tr>
+						<tr>
+							<td width="645">
+								<div align="center">
+									<font size="-1">Copyright 2006 seinology.com | All Rights Reserved | Designed by 13erla</font></div>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+		<p></p>
+	</body>
+
+</html>

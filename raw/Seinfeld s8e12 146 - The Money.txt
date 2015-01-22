@@ -1,0 +1,1765 @@
+<tdOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+<html>
+
+	<head>
+		<meta http-equiv="content-type" content="text/html;charset=ISO-8859-1">
+		<meta name="description" content="Top Source for Seinfeld">
+		<meta name="keywords" content="seinfeld, sienfeld, Jerry Seinfeld, Julia Louis Dreyfus, Jason Alexander, Michael Richards, Kramer, George, Costanza, Elaine Benes, morty, Larry David">
+		<title>Seinology.com :: Scripts :: 146-The Money</title>
+	<link rel='stylesheet' href='/stylesheet.css' type='text/css'>
+	</head>
+
+	<body>
+			<table align="center" width="787" border="0" cellspacing="0" cellpadding="0">
+				<tr>
+					<td><font size="-2" color="red">Seinology.com - </font><font size="-3" color="black">Where Seinfeld Content and Accuracy Matter Most. Seinfeld scripts in pdf form, Seinfeld episode video clips, Seinfeld episode audio clips, Jerry Seinfeld appearances, Julia Louis-Dreyfus appearances, Michael Richards appearances, Jason Alexander appearances, Seinfeld discussion Forum, Seinfeld Where are they Now? Seinlanguage Newsletter, Popular Seinfeld Lists, Seinfeld episode standup, Seinfeld episode guide, Seinfeld fan fiction. Seinfeld content all on one domain. Seinology.com enjoy your stay.</font></td>
+				</tr>
+			</table>
+		
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr height="100">
+				<td class="logo"></td>
+			</tr>
+			<tr><td class="ads" align="center" background=#8694fa>
+				<script type="text/javascript"><!--
+google_ad_client = "pub-1924026976931416";
+google_ad_width = 728;
+google_ad_height = 90;
+google_ad_format = "728x90_as";
+google_ad_type = "text";
+google_ad_channel = "";
+google_color_border = "FFFFFF";
+google_color_bg = "8694fa";
+google_color_link = "0000FF";
+google_color_text = "000000";
+google_color_url = "002E3F";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></td></tr>
+		</table>
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr>
+				<td valign="top" width="136">
+					<table width="136" border="0" cellspacing="0" cellpadding="0">
+						<tr height="24">
+							<td class="navigation">
+								<div align="center">
+									
+									<b>Navigation</b></div>
+							</td>
+						</tr>
+						<tr height="199">
+							<td class="spacer1" valign="top" width="136" height="199">
+								<div align="center">
+									<font size="-1"><a href="http://www.seinology.com">Home</a><br>
+										<a href="http://board.seinology.com">Forum</a><br>
+										<a href="http://www.seinology.com/av.shtml">Audio/Video</a><br>
+										<a href="http://www.seinology.com/scripts.shtml">Scripts</a><br>
+										<a href="http://www.seinology.com/survivor.shtml">Survivor</a><br>
+										<a href="http://www.seinology.com/fanfics.shtml">Fan Fiction</a><br>
+										<a href="http://www.seinology.com/gallery/">Gallery</a><br>
+										<a href="http://www.seinology.com/newsletter.shtml">Newsletter</a><br>
+										<a href="http://www.seinology.com/lists.shtml">Lists</a><br>
+										<a href="http://www.seinology.com/epguide.shtml">Episode Guide</a><br>
+										<a href="http://www.seinology.com/links.shtml">Links</a><br>
+										<a href="http://www.seinology.com/faqother.shtml">Faq + others</a><br>
+										<a href="http://www.seinology.com/legal.shtml">Legal</a></font></div>
+							</td>
+						</tr>
+						
+						<tr>
+							<td class="nav2" width="136">
+							<div align="center"><b>Search</b></div></td>
+						</tr>
+						<tr>
+							<td class="spacer1" width="136" valign="top"><div align="center"><form method="get" action="http://www.seinology.com/search/search.cgi">
+<p><label for="fdse_Match">Match</label><br>
+<select name="Match" id="fdse_Match" size="1">
+<option value="1">All</option>
+<option value="0">Any</option>
+<option value="2">Phrase</option>
+</select></p>
+<p><label for="fdse_Realm">Where?</label><br>
+<select name="Realm" id="fdse_Realm" size="1">
+<option selected="selected" value="All">EntireSite</option>
+<option value="Ep Guide">Ep Guide</option>
+<option value="Images">Images</option>
+<option value="Lists">Lists</option>
+<option value="Newsletters">Newsletters</option>
+<option value="Scripts">Scripts</option>
+<option value="Notes..Nothing">Notes..Nothing</option>
+</select></p>
+<p><input type="text" name="Terms" size="14" id="fdse_Terms"><br>
+<input type="submit" class="submit" name="submitButtonName" value="Search"></p>
+</div></form></td>
+						</tr>
+						<tr><td class="bottom" width="136" height="10" valign="top">
+						</td>
+						</tr>
+					</table>
+				</td>
+				<td width="4"></td>
+				<td valign="top" width="645">
+					<table width="645" border="0" cellspacing="0" cellpadding="0">
+						<tr height="18">
+							<td width="645" height="35" class="bar">
+								<div align="center">
+									<b><font size="+2" color="black">Script</font></b></div>
+							</td>
+						</tr>
+						<tr height="362">
+							<td class="spacer2" valign="top" width="645" height="362">
+
+						<p><font size="-2">Episode 146 - The Money<br>
+							
+						pc: 812, season 8, episode 12<br>
+							
+						Broadcast date: January 16, 1997<br>
+							<br>
+							
+						Written by Peter Mehlman<br>
+							
+						Directed by Andy Ackerman<br>
+							<br>
+							
+						-------------------------------------------------------------------------------<br>
+							<br>
+							
+						The Cast<br>
+							
+						Regulars:<br>
+							
+						Jerry Seinfeld ......................&nbsp; Jerry Seinfeld<br>
+							
+						Jason Alexander .................. George Costanza<br>
+							
+						Julia Louis-Dreyfus .............. Elaine Benes<br>
+							
+						Michael Richards .................. Cosmo Kramer<br>
+							<br>
+							
+						Guest Stars:<br>
+							<br>
+							
+						Sarah Silverman .................... Emily<br>
+							
+						Leon W. Grant ..................... Counterperson<br>
+							
+						rc: Liz Sheridan .................... Helen Seinfeld<br>
+							
+						rc: Barney Martin ................. Morty Seinfeld<br>
+							
+						rc: Jerry Stiller ...................... Frank Costanza<br>
+							
+						rc: Estelle Harris ................... Estelle Costanza<br>
+							
+						rc: John O'Hurley ................. J. Peterman<br>
+							
+						rc:&nbsp; Sandy Baron ................... Jack Klompus<br>
+							<br>
+							
+						==================================================================<br>
+							<br>
+							
+						[Kramer's Apartment]<br>
+							<br>
+							
+						(Kramer and Emily are in bed, having just finished their lovemaking. They're both looking very satisfied and smiling.(<br>
+							<br>
+							
+						KRAMER: Well, that was alright, huh?<br>
+							<br>
+							
+						EMILY: Yeah.<br>
+							<br>
+							
+						KRAMER: Well, um, goodnight.<br>
+							<br>
+							
+						EMILY: Goodnight.<br>
+							<br>
+							
+						(Kramer rolls over to go to sleep. The bedside clock reads 12:30. Emily snuggles up to him and puts an arm around him. Kramer doesn't look comfortable with this.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Kramer's Apartment, Later]<br>
+							<br>
+							
+						(The clock reads 3:31. Kramer is lying on his back, sleeping. Beside him, Emily lies face-down, sleeping, with her arms flung out wide. One hand is on the pillow above Kramer's head, then it moves and Emily's forearm runs across Kramer's face, waking him. Kramer looks disgruntled at being awakened.)<br>
+							<br>
+							
+						KRAMER: (quietly, to himself) Look at this.<br>
+							<br>
+							
+						(He picks up Emily's hand and moves it back to the pillow behind his head, only for the same thing to happen again. Emily's hand moves across his face. Kramer looks unhappy at the disturbance.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Kramer's Apartment, Later Still]<br>
+							<br>
+							
+						(The clock reads 5:11. A wide awake Kramer is right over to the edge of the bed, with Emily cuddled up to him, sleeping happily. Kramer tries to carefully move, so as to not wake Emily, but as he shifts his weight, he slips off the end of the mattress and falls to the floor. Emily rolls into the space vacated, continuing to sleep.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Jerry's Apartment]<br>
+							<br>
+							
+						(Jerry and his parents enter, carrying a selection of luggage.)<br>
+							<br>
+							
+						HELEN: Jerry, we can only stay four days.<br>
+							<br>
+							
+						JERRY: Well, I'm upset, but we'll make the most of it.<br>
+							<br>
+							
+						(Morty and Helen remove their coats.)<br>
+							<br>
+							
+						MORTY: Helen, did you pack my travel gym?<br>
+							<br>
+							
+						HELEN: Yes. (to Jerry) Oh, your father bought a exercise device off the television. He does it every morning at four.<br>
+							<br>
+							
+						MORTY: Only twenty-five minutes a day, and you can attach it to any doorknob.<br>
+							<br>
+							
+						JERRY: Huh. So, I guess your travel miles are about to expire.<br>
+							<br>
+							
+						(Jerry carries two cases through into the bedroom as his parents sit on the couch.)<br>
+							<br>
+							
+						HELEN: Well, actually, Jerry, we wanted to talk to you about something.<br>
+							<br>
+							
+						(Jerry reenters.)<br>
+							<br>
+							
+						JERRY: Am I finally getting a baby brother?<br>
+							<br>
+							
+						HELEN: Jerry, be serious.<br>
+							<br>
+							
+						MORTY: How would you feel if we sold the Cadillac?<br>
+							<br>
+							
+						JERRY: What? The Cadillac I bought for you?<br>
+							<br>
+							
+						MORTY: It's too much car, Jerry.<br>
+							<br>
+							
+						JERRY: Aw, c'mon, you love that car. What about the Northstar system?<br>
+							<br>
+							
+						MORTY: I don't think we even use it.<br>
+							<br>
+							
+						JERRY: Well, it's a gift and I want you to keep it.<br>
+							<br>
+							
+						HELEN: We already sold it.<br>
+							<br>
+							
+						JERRY: Wh..why didn't you tell me before you sold it?<br>
+							<br>
+							
+						MORTY: Because we had a buyer, and we couldn't get a free flight until now.<br>
+							<br>
+							
+						HELEN: Well, we could, but we wanted the bulkhead.<br>
+							<br>
+							
+						JERRY: (exasperated) Ugh.<br>
+							<br>
+							
+						(Jerry turns away towards the kitchen as Kramer enters.)<br>
+							<br>
+							
+						KRAMER: (to Jerry) Man, that Emily is wearing me out.<br>
+							<br>
+							
+						JERRY: Kramer.<br>
+							<br>
+							
+						KRAMER: No, no, no. It's not the sex, Jerry. (noticing Morty and Helen) Heyy! Seinfelds.<br>
+							<br>
+							
+						HELEN: Hi Kramer.<br>
+							<br>
+							
+						MORTY: Hiya Kramer.<br>
+							<br>
+							
+						JERRY: We're in the middle of a discussion here.<br>
+							<br>
+							
+						KRAMER: Oh yeah? What about?<br>
+							<br>
+							
+						HELEN: Jerry's upset we sold the Cadillac.<br>
+							<br>
+							
+						KRAMER: What'd you get for it?<br>
+							<br>
+							
+						MORTY: Jack Klompus gave us six grand.<br>
+							<br>
+							
+						(Kramer whistles, impressed)<br>
+							<br>
+							
+						JERRY: You sold my Cadillac to Jack Klompus?<br>
+							<br>
+							
+						(Morty rises from the couch, taking a cheque out of his pocket.)<br>
+							<br>
+							
+						MORTY: (trying to press the cheque on Jerry) And we want you to have the money.<br>
+							<br>
+							
+						JERRY: (getting worked up) I don't need the money.<br>
+							<br>
+							
+						MORTY: What're you talking about? You had a cheque bounce at the bodega.<br>
+							<br>
+							
+						JERRY: (animated) Oh, is that what this is all about?! I bounce a cheque and you sold a Cadillac?!<br>
+							<br>
+							
+						HELEN: Well, also, Jerry, we read an article in the Sun Sentinel. (digs in her purse and extracts a newspaper clipping) It says standup comedy is not what it used to be, what with def jam and all.<br>
+							<br>
+							
+						(Helen passes the clipping to Jerry.)<br>
+							<br>
+							
+						KRAMER: Yeah, that def jam is a force.<br>
+							<br>
+							
+						HELEN: Jerry, you know, I hear wonderful things about Bloomingdales' executive training program.<br>
+							<br>
+							
+						JERRY: (sits on the back of the couch) Oh my god.<br>
+							<br>
+							
+						KRAMER: Y'know you've given this comedy thing your best shot. Yeah, you had some good observations, but it's over. Now, this Bloomingdale thing, that could be the next wave.<br>
+							<br>
+							
+						(Jerry lets out an exasperated groan, as Helen rubs his back.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Fresh Roasted Coffee Store]<br>
+							<br>
+							
+						(Jerry and Elaine have cups of coffee, George is ordering his beans from the guy behind the counter.)<br>
+							<br>
+							
+						GEORGE: Uh, excuse me. Uh, pound of Arabian mocha java, please.<br>
+							<br>
+							
+						(The counterperson nods to George, and moves to fill the order.)<br>
+							<br>
+							
+						ELAINE: So, you understand how my Peterman stock options are gonna work?<br>
+							<br>
+							
+						GEORGE: I'm going to the bathroom.<br>
+							<br>
+							
+						(George leaves.)<br>
+							<br>
+							
+						ELAINE: Just, very interesting.<br>
+							<br>
+							
+						JERRY: Yeah, when it's your money, it's fascinating.<br>
+							<br>
+							
+						(The guy behind the counter brings a bag of coffee over.)<br>
+							<br>
+							
+						COUNTERPERSON: Arabian mocha java?<br>
+							<br>
+							
+						ELAINE: (looks for George) Mmm. (can't see him) Oh, um, I got it.<br>
+							<br>
+							
+						(Elaine takes the bag and pays for it.)<br>
+							<br>
+							
+						JERRY: That Arabian is strong coffee.<br>
+							<br>
+							
+						ELAINE: It's PLO blend.<br>
+							<br>
+							
+						(George rejoins the gang.)<br>
+							<br>
+							
+						ELAINE: Ohh, I got your coffee.<br>
+							<br>
+							
+						(Elaine proffers the bag to George. He takes it and reaches for his pocket.)<br>
+							<br>
+							
+						GEORGE: Oh Oh, here, lemme uh...<br>
+							<br>
+							
+						ELAINE: (waving away) Nah, nah, it's on me. (looks at her watch) Aww, man. Okay, listen guys, I'm gonna be late. (taking her cup of coffee) I'll see you, okay? (begins to walk away)<br>
+							<br>
+							
+						GEORGE: Yeah.<br>
+							<br>
+							
+						ELAINE: Bye.<br>
+							<br>
+							
+						GEORGE: Mmm.<br>
+							<br>
+							
+						(Elaine leaves. Jerry moves to wander out of the store also, when George stops him.)<br>
+							<br>
+							
+						GEORGE: You see what just happened here?<br>
+							<br>
+							
+						JERRY: What?<br>
+							<br>
+							
+						GEORGE: She treated me to the Arabian mocha java.<br>
+							<br>
+							
+						JERRY: And you misinterpret this how?<br>
+							<br>
+							
+						GEORGE: She's stickin' it to me that she makes more money than me.<br>
+							<br>
+							
+						JERRY: I'm sure she was just being nice, buying you the coffee.<br>
+							<br>
+							
+						GEORGE: No, not nice. She's stickin' it to me.<br>
+							<br>
+							
+						JERRY: You're crazy.<br>
+							<br>
+							
+						GEORGE: (worked up) Stickin' it to me, Jerry.<br>
+							<br>
+							
+						JERRY: George.<br>
+							<br>
+							
+						GEORGE: (angry) Stickin' it!<br>
+							<br>
+							
+						(George walks off, pulling an angry face.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Monk's]<br>
+							<br>
+							
+						(Jerry and George sit in a booth.)<br>
+							<br>
+							
+						GEORGE: So you're buying the car back for your parents?<br>
+							<br>
+							
+						JERRY: I'm flying down to Florida tomorrow.<br>
+							<br>
+							
+						GEORGE: Your parents'll never let you do it.<br>
+							<br>
+							
+						JERRY: They lied to me about selling the car. I'll lie to them about buying it back. They think they can dump six grand on me? Think again.<br>
+							<br>
+							
+						GEORGE: What kind of money you think your parents have?<br>
+							<br>
+							
+						JERRY: Excuse me?<br>
+							<br>
+							
+						GEORGE: I bet they have more money than mine.<br>
+							<br>
+							
+						JERRY: Come on, your parents have money.<br>
+							<br>
+							
+						GEORGE: You think?<br>
+							<br>
+							
+						JERRY: When did they ever spend any money?<br>
+							<br>
+							
+						GEORGE: Never.<br>
+							<br>
+							
+						JERRY: What are their living expenses?<br>
+							<br>
+							
+						GEORGE: Nothing.<br>
+							<br>
+							
+						JERRY: Where do they ever go on vacation?<br>
+							<br>
+							
+						GEORGE: Nowhere.<br>
+							<br>
+							
+						(Jerry gives a little 'you do the math' shrug to George.)<br>
+							<br>
+							
+						GEORGE: How much money d'you think they have?<br>
+							<br>
+							
+						JERRY: Few hundred grand?<br>
+							<br>
+							
+						GEORGE: (excited) You're saying I stand to inherit three hundred thousand dollars, is that what you're saying?!<br>
+							<br>
+							
+						JERRY: Course you may not see it for twenty years.<br>
+							<br>
+							
+						GEORGE: Twenty years? That long?<br>
+							<br>
+							
+						JERRY: Does your father still eat bacon and eggs every day?<br>
+							<br>
+							
+						GEORGE: Fortunately, yes.<br>
+							<br>
+							
+						JERRY: How's your family history?<br>
+							<br>
+							
+						GEORGE: I have an aunt that died at seven.<br>
+							<br>
+							
+						JERRY: Really?<br>
+							<br>
+							
+						GEORGE: Aunt Baby.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Elaine's Office]<br>
+							<br>
+							
+						(Elaine sits behind her desk, in the big fancy office she gets standing in for Peterman as president. Kramer enters.)<br>
+							<br>
+							
+						KRAMER: Elaine. Uh, you got a moment?<br>
+							<br>
+							
+						ELAINE: Yeah, Kramer, come on in.<br>
+							<br>
+							
+						KRAMER: I, uh, need to speak to you about some lady problems.<br>
+							<br>
+							
+						(Kramer sits in front of Elaine's desk.)<br>
+							<br>
+							
+						ELAINE: (unsure) Oh-kay.<br>
+							<br>
+							
+						KRAMER: (a little anxious) You know, after I have sex with Emily, uh, I don't want her in the bed any more.<br>
+							<br>
+							
+						ELAINE: Ah.<br>
+							<br>
+							
+						KRAMER: Yeah, because she's throwing off my whole sleep. She's got the jimmy legs.<br>
+							<br>
+							
+						ELAINE: (confused) Jimmy legs?<br>
+							<br>
+							
+						(Kramer raises one leg and judders it in the air, as illustration.)<br>
+							<br>
+							
+						KRAMER: Jimmy leg.<br>
+							<br>
+							
+						ELAINE: (grasping the concept) Ohh.<br>
+							<br>
+							
+						KRAMER: So, uh, well, maybe I should just be honest with her, huh?<br>
+							<br>
+							
+						ELAINE: Tell her after sex, you just want her outta there?<br>
+							<br>
+							
+						KRAMER: Well, I'd say it nicely.<br>
+							<br>
+							
+						ELAINE: I don't think so.<br>
+							<br>
+							
+						KRAMER: Well, you know, I really like this girl and I, you know, I think if I could just work out this one thing...<br>
+							<br>
+							
+						ELAINE: (interrupting) Yeah. I gotta be honest with you Kramer. You might be more than just a coupla tweaks away from a healthy relationship.<br>
+							<br>
+							
+						KRAMER: Well you're not exactly zeroing in yourself, lady.<br>
+							<br>
+							
+						ELAINE: (pointing to the door, angry) Alright, get out.<br>
+							<br>
+							
+						(Kramer starts to move, and thumps his knee on the underside of the desk. He rises and begins to head for the door.)<br>
+							<br>
+							
+						ELAINE: (impatient) Get out!<br>
+							<br>
+							<br>
+							<br>
+							
+						[Jerry's Apartment]<br>
+							<br>
+							
+						(Morty and Helen sit on the couch, watching TV and doing a crossword, respectively. Jerry enters from the bedroom, carrying a suitcase.)<br>
+							<br>
+							
+						JERRY: So listen, I gotta go down to Atlantic City. I'm performing at Bally's.<br>
+							<br>
+							
+						MORTY: You just heard about this today?<br>
+							<br>
+							
+						JERRY: (pulling on a jacket) They had a cancellation and they instantly called me.<br>
+							<br>
+							
+						HELEN: Who cancelled?<br>
+							<br>
+							
+						JERRY: Carrot Top. I told you, my career's fine.<br>
+							<br>
+							<br>
+							<br>
+							
+						[The Costanza Home, Queens]<br>
+							<br>
+							
+						(George and his parents are seated at the table in the kitchen, eating a meal of spaghetti.)<br>
+							<br>
+							
+						GEORGE: I been, uh, thinking about the family. Tell me, uh, about Aunt Baby.<br>
+							<br>
+							
+						FRANK: (looks up to heaven) She's deceased.<br>
+							<br>
+							
+						GEORGE: (glances upwards) Yeah. Uhm, why did she die so young?<br>
+							<br>
+							
+						FRANK: (looks to Estelle) She had problems. (Estelle nods) Internal.<br>
+							<br>
+							
+						GEORGE: Is that common in our family?<br>
+							<br>
+							
+						ESTELLE: Well, your uncle Moe, he died a young man.<br>
+							<br>
+							
+						FRANK: Also internal problems.<br>
+							<br>
+							
+						ESTELLE: It's that temper on your side. They're yelling and yelling, and then one day, they're all gone.<br>
+							<br>
+							
+						FRANK: What about your side? Your cousin Hennie. (animated) She was sickly from the moment I met her!<br>
+							<br>
+							
+						ESTELLE: (shouts) Don't you talk about Hennie!<br>
+							<br>
+							
+						GEORGE: I guess you two are the lucky ones.<br>
+							<br>
+							
+						FRANK: So far.<br>
+							<br>
+							
+						ESTELLE: Frank, if Aunt Baby were alive today, how old would she be?<br>
+							<br>
+							
+						FRANK: She'd never make it.<br>
+							<br>
+							
+						(George thinks a little and looks hopeful.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Monk's]<br>
+							<br>
+							
+						(Kramer and Emily sit at a table. Emily looks a little angry.)<br>
+							<br>
+							
+						EMILY: So let me get this straight. You enjoy the lovemaking...<br>
+							<br>
+							
+						KRAMER: Shh, shh.<br>
+							<br>
+							
+						EMILY: (quieter) Well, do you?<br>
+							<br>
+							
+						KRAMER: Oh yeah, like strawberry pie.<br>
+							<br>
+							
+						EMILY: Okay, but you have a problem sharing a bed with me?<br>
+							<br>
+							
+						KRAMER: I know it's not what the ladies like. But without some solid sack time, I'm a zombie.<br>
+							<br>
+							
+						EMILY: I don't know.<br>
+							<br>
+							
+						KRAMER: (pleading) Aww, c'mon, man. Meet me halfway.<br>
+							<br>
+							
+						EMILY: You're not easy, Kramer.<br>
+							<br>
+							
+						KRAMER: I know.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Animation]<br>
+							<br>
+							
+						(On a map of the East Coast of the US, a long red arrow appears from New York to Del Boca Vista.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Klompus Home, Del Boca Vista]<br>
+							<br>
+							
+						(Jerry sits on a chair as Jack, standing, speaks.)<br>
+							<br>
+							
+						JACK: So, to what do I owe the pleasure of this, unannounced, visit?<br>
+							<br>
+							
+						JERRY: I wanna buy back the Cadillac.<br>
+							<br>
+							
+						JACK: You wanna buy it back? Why, you go drugs hidden in the trunk?<br>
+							<br>
+							
+						(Jack chuckles at his own joke. Jerry stares back at him, unamused.)<br>
+							<br>
+							
+						JACK: I'm kidding.<br>
+							<br>
+							
+						JERRY: (reaching into his pocket) Alright, I'll give you nine thousand for it.<br>
+							<br>
+							
+						(Jerry puts is chequebook on the table)<br>
+							<br>
+							
+						JACK: Nine thousand for a Cadillac? It's got no miles on it.<br>
+							<br>
+							
+						JERRY: You bought it for six!<br>
+							<br>
+							
+						JACK: You're not me.<br>
+							<br>
+							
+						JERRY: (standing) How much d'you want for it?<br>
+							<br>
+							
+						JACK: The Kelly blue book value. Twenty-two thousand dollars.<br>
+							<br>
+							
+						(Jerry pulls a 'you have to be kidding' face.)<br>
+							<br>
+							
+						JERRY: Fourteen thousand.<br>
+							<br>
+							
+						JACK: Done. But, I get to drive it tomorrow, because Doris wants to go to Naples.<br>
+							<br>
+							
+						(Jerry starts to write the cheque, but his pen is obviously not working properly. Jack pulls out his own pen (the astronaut pen from 'The Pen') and offers it to Jerry.)<br>
+							<br>
+							
+						JACK: Need a pen?<br>
+							<br>
+							
+						(Jerry scribbles with his pen, to try and encourage it, but to no avail. He looks to Jack, who's holding out his pen.)<br>
+							<br>
+							
+						JACK: Still works.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Jerry's Apartment]<br>
+							<br>
+							
+						(Morty and Helen are by the counter, as Kramer comes in.)<br>
+							<br>
+							
+						KRAMER: Hey, where's Jerry?<br>
+							<br>
+							
+						HELEN: He's performing at Bally's in Atlantic City.<br>
+							<br>
+							
+						KRAMER: Aw, okay. (picks up the phone and starts dialling) Yeah, I need his shoeshine kit. (still dialling) He always hides it from me. (puts the phone to his ear and waits for a second or two) Yeah, Bally's? Yeah, Jerry Seinfeld's room, please.<br>
+							<br>
+							
+						MORTY: You know that number?<br>
+							<br>
+							
+						KRAMER: I used to have a problem. (into phone) Well, what d'you mean, he's not registered? Wha..S, E, I, N, V...<br>
+							<br>
+							
+						HELEN: F. F, E, L , D.<br>
+							<br>
+							
+						KRAMER: ...F, E, L, D. (half-laughing) Well, I think you're wrong. (listens) Alright, you have a lucky day, too.<br>
+							<br>
+							
+						(Kramer rings off.)<br>
+							<br>
+							
+						HELEN: He's not there?<br>
+							<br>
+							
+						KRAMER: No, they never heard of him.<br>
+							<br>
+							
+						(Kramer puts down the phone, and walks off to look for the shoeshine kit. Morty and Helen exchange worried looks.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Restaurant]<br>
+							<br>
+							
+						(George, Elaine and Jerry's parents sit at a table in a fancy restaurant.)<br>
+							<br>
+							
+						ELAINE: This is so nice of you to take us all out to dinner, George.<br>
+							<br>
+							
+						GEORGE: (oozing fake sincerity) Well, as much as I enjoy all the good-natured ribbing, nothing really makes me happier than spending money on the people I care about.<br>
+							<br>
+							
+						HELEN: Where's Jerry?<br>
+							<br>
+							
+						GEORGE: Oh, he'll be here. By the way, Elaine, (reaches under the table and brings out a large coffee machine) thank you for laying out for the Arabian mocha java.<br>
+							<br>
+							
+						(George puts the gift in front of Elaine.)<br>
+							<br>
+							
+						ELAINE: George, you didn't have to do this. I'm president of a big company. I can afford to buy you coffee.<br>
+							<br>
+							
+						MORTY: (surprised) President?<br>
+							<br>
+							
+						ELAINE: Yeah.<br>
+							<br>
+							
+						(Jerry enters, with his bag over his shoulder.)<br>
+							<br>
+							
+						GEORGE: Hey look, he's back.<br>
+							<br>
+							
+						JERRY: I got your message, (sitting) so I came straight from Atlantic City.<br>
+							<br>
+							
+						HELEN: Jerry, Kramer called Bally's. You weren't registered.<br>
+							<br>
+							
+						JERRY: (extemporising) Well, I can't stay under my own name. I was registered under Slappy White.<br>
+							<br>
+							
+						(Helen looks unconvinced. A spiffily-dressed Frank and Estelle enter the restaurant and are spotted by George.)<br>
+							<br>
+							
+						GEORGE: Mom? Dad?<br>
+							<br>
+							
+						ESTELLE: Well, look who's here. Hello, Seinfelds.<br>
+							<br>
+							
+						(Morty half-nods a greeting.)<br>
+							<br>
+							
+						GEORGE: Wh..what're you doing here?<br>
+							<br>
+							
+						FRANK: We're having an upscale dinner.<br>
+							<br>
+							
+						GEORGE: What?<br>
+							<br>
+							
+						ESTELLE: Well, after talking to you, we realised we may not have much time left.<br>
+							<br>
+							
+						FRANK: So, we're blowing it all.<br>
+							<br>
+							
+						(George looks unhappy at this news.)<br>
+							<br>
+							
+						FRANK: (holding out his tie) Look George, it's a Pierre Cardin.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Emily's Apartment]<br>
+							<br>
+							
+						(Once again, Kramer and Emily are basking in the afterglow.)<br>
+							<br>
+							
+						KRAMER: That was alright.<br>
+							<br>
+							
+						EMILY: Yeah.<br>
+							<br>
+							
+						(They both lie still for a few seconds.)<br>
+							<br>
+							
+						KRAMER: (abruptly) Well, I'll see you.<br>
+							<br>
+							
+						(Kramer climbs quickly out of the bed to leave.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Jerry's Apartment]<br>
+							<br>
+							
+						(Morty, dressed in exercise gear, emerges from the bedroom. He is carrying the travel gym. He creeps across the room, so as not to wake Jerry, who is asleep on the couch, quietly opens the door and slips outside.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Kramer's Apartment/Hallway]<br>
+							<br>
+							
+						(Kramer is asleep in his bed, when something wakes him. He can hear a thumping and a rattling sound. Kramer turns over and looks across at his door, to see the handle turning, as if someone outside were trying to open it. A look of horror comes to Kramer's face.)<br>
+							<br>
+							
+						(Outside in the hallway, Morty has his travel gym attached to Kramer's doorknob. As he pulls on the arrangement of cords and pulleys, they in turn pull at the doorknob.)<br>
+							<br>
+							
+						(Inside Kramer's apartment, a terrified Kramer pulls the blankets over his head and lies quivering underneath.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Jerry's Apartment/Florida]<br>
+							<br>
+							
+						(Morty and Helen are eating at the table. The phone rings and Jerry answers.)<br>
+							<br>
+							
+						JERRY: Hello.<br>
+							<br>
+							
+						(A dishevelled and muddy Jack Klompus is on the other end of the line, using a cellular phone somewhere outdoors in Florida.)<br>
+							<br>
+							
+						JACK: (shouting like there's a bad line) Jerry, I had a little mishap with the car.<br>
+							<br>
+							
+						(The front portion of the Cadillac is submerged in a swamp, with the tail end pointed upwards.)<br>
+							<br>
+							
+						JACK: I'm down here in alligator alley. You better get down here.<br>
+							<br>
+							
+						(Jerry tries not to give anything away to his parents.)<br>
+							<br>
+							
+						JERRY: (quiet) Huh. Alright.<br>
+							<br>
+							
+						(Jerry puts down the phone and moves towards the bedroom.)<br>
+							<br>
+							
+						HELEN: Who was that?<br>
+							<br>
+							
+						JERRY: (extemporising) That was the Golden Nugget. Also in Atlantic City. They heard such good things about my show at Bally's, they want me for tonight. So I'll have to repack, and go.<br>
+							<br>
+							
+						(Jerry leaves to the bedroom. Helen and Morty don't look convinced by Jerry's spiel. They talk quietly so's Jerry can't hear in the next room.)<br>
+							<br>
+							
+						MORTY: That didn't sound like the Golden Nugget.<br>
+							<br>
+							
+						HELEN: I'm worried. What happens if we have to support Jerry?<br>
+							<br>
+							
+						MORTY: I'd have to go back to work.<br>
+							<br>
+							
+						HELEN: Where would you work?<br>
+							<br>
+							
+						MORTY: Maybe I should talk to Elaine.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Elaine's Office]<br>
+							<br>
+							
+						(Elaine sits behind her desk, interviewing a smartly dressed Morty.)<br>
+							<br>
+							
+						ELAINE: Well, Mr Seinfeld, I..I'm not sure I understand why you want a job here.<br>
+							<br>
+							
+						MORTY: What's not to understand?<br>
+							<br>
+							
+						ELAINE: Well, for one thing, you live in Florida.<br>
+							<br>
+							
+						MORTY: I'm very comfortable working outta the house. I have a phone, we have a Kinko's nearby. You know, I think that my resume speaks for itself.<br>
+							<br>
+							
+						ELAINE: (looking around her desk) Where is your resume?<br>
+							<br>
+							
+						MORTY: I don't have it. I'll mail you one.<br>
+							<br>
+							
+						ELAINE: Alright, Mr Seinfeld, I... What kind of position did you have in mind?<br>
+							<br>
+							
+						MORTY: You sell clothes here, don't you?<br>
+							<br>
+							
+						ELAINE: Yeah.<br>
+							<br>
+							
+						MORTY: Well, I sold raincoats in the garment centre for thirty-eight years. In nineteen forty-nine...<br>
+							<br>
+							
+						ELAINE: (interrupting) Alright. Alright, alright. You come in tomorrow, we'll find something for you to do.<br>
+							<br>
+							
+						MORTY: You won't regret this, Miss Benes. What time should I be in? I get up at four, I could be here as early as four twenty-five.<br>
+							<br>
+							
+						ELAINE: Uhm...<br>
+							<br>
+							
+						(Peterman enters the office.)<br>
+							<br>
+							
+						PETERMAN: (upbeat) Oh, Elaine, this dry air is curing me like a Black Forest ham.<br>
+							<br>
+							
+						(Peterman strides across the office to another door.)<br>
+							<br>
+							
+						ELAINE: (stunned) Mr Peterman. You're back.<br>
+							<br>
+							
+						(Peterman goes through the other door, and closes it behind him. Elaine, stands, her mouth agape in shock.)<br>
+							<br>
+							
+						MORTY: Who's Mr Fancy?<br>
+							<br>
+							<br>
+							<br>
+							
+						[Emily's Apartment]<br>
+							<br>
+							
+						(Kramer and Emily in bed again.)<br>
+							<br>
+							
+						KRAMER: (hesitant) I uh, I was thinking maybe I should spend the night.<br>
+							<br>
+							
+						EMILY: Aww, that's sweet, but actually I, I think I'd prefer it if you left.<br>
+							<br>
+							
+						KRAMER: (surprise) What?<br>
+							<br>
+							
+						EMILY: You were completely right. I sleep so much better when I'm alone. (pause) And you scream in your sleep.<br>
+							<br>
+							
+						KRAMER: I do?<br>
+							<br>
+							
+						(Kramer looks intensely nervous.)<br>
+							<br>
+							
+						KRAMER: (fearful) There was a man, he was trying to get into my apartment last night. He was jiggling the doorknob for twenty-five minutes.<br>
+							<br>
+							
+						EMILY: C'mon, it was probably the wind.<br>
+							<br>
+							
+						KRAMER: No, no, no. It was a fearless cat burglar. (pleading) Now listen, you gotta let me sleep here, huh? Y'know, I'll stay here on my side, and I'll stuff a sock in my mouth. (panicky) 'Cos I don't wanna sleep alone.<br>
+							<br>
+							
+						EMILY: (adamant) Well, I do.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Animation]<br>
+							<br>
+							
+						(Another arrow is drawn from New York to Del Boca Vista.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Street, Del Boca Vista]<br>
+							<br>
+							
+						(A tow truck has hauled the Cadillac out of the swamp and back to Del Boca Vista. It's plastered with mud and filth over its entire length. Jack Klompus stands beside it, still mud-spattered. Jerry climbs out of a cab.)<br>
+							<br>
+							
+						JACK: What took you so long?<br>
+							<br>
+							
+						JERRY: I live in New York. (slams the cab door) What the hell happened?<br>
+							<br>
+							
+						(The cab drives away.)<br>
+							<br>
+							
+						JACK: This thing is a, is a behemoth.<br>
+							<br>
+							
+						JERRY: What did you do?<br>
+							<br>
+							
+						JACK: I was, I was making a, a simple lane change. I, I put on the blinker and it took off on me. And the next thing you know, I was submerged. I'm telling you, Jerry, I'm very lucky that those crocs didn't get me.<br>
+							<br>
+							
+						(Jerry opens the door of the Cadillac and a torrent of muddy water containing a couple of catfish spills out over his feet.)<br>
+							<br>
+							
+						JERRY: (exasperation) You are such an idiot. Well, we gotta get the car cleaned up for my parents.<br>
+							<br>
+							
+						JACK: (shrugging) Do whatever you want. It's your car.<br>
+							<br>
+							
+						JERRY: My car? You drove it into the swamp!<br>
+							<br>
+							
+						JACK: It drove itself into the swamp! Besides, I think I lost my pen, too.<br>
+							<br>
+							
+						JERRY: (smiling with pleasure) You know, that almost makes this all worthwhile.<br>
+							<br>
+							<br>
+							<br>
+							
+						[The Costanza Home, Queens]<br>
+							<br>
+							
+						(Frank and Estelle sit in the living room as George walks in from the front door.)<br>
+							<br>
+							
+						GEORGE: (pointing outside) Why is there a Cadillac parked in front of the house?<br>
+							<br>
+							
+						FRANK: That's your mother's new car.<br>
+							<br>
+							
+						GEORGE: You bought that?<br>
+							<br>
+							
+						FRANK: It's a Coupe de Elegance.<br>
+							<br>
+							
+						ESTELLE: Your father wanted a Mercedes, but I won't ride in a German car.<br>
+							<br>
+							
+						(George looks like he's going to say something, but then the door to the kitchen opens and Kramer walks in, wearing a dressing gown and pyjamas and carrying a mug of coffee. He slaps George on the back.)<br>
+							<br>
+							
+						KRAMER: Mornin'.<br>
+							<br>
+							
+						(Kramer walks round the stunned George, and sits on the couch.)<br>
+							<br>
+							
+						KRAMER: Oh, boy.<br>
+							<br>
+							
+						GEORGE: What the hell is going on here?<br>
+							<br>
+							
+						KRAMER: I had some trouble at my place, so I need a little company at night to sleep.<br>
+							<br>
+							
+						ESTELLE: George, your mother and I, and Kramer (holds Kramer's hand) have been talking.<br>
+							<br>
+							
+						GEORGE: (dread) Oh god.<br>
+							<br>
+							
+						KRAMER: Uh, George, your parents can't blow through their savings in this community. It's low-rent. Now, we feel that Florida is really the place where they should be.<br>
+							<br>
+							
+						FRANK: (claps his hands) You can drop a grand in Disneyworld, like that.<br>
+							<br>
+							
+						GEORGE: Wait a minute. (astonished) You're thinking of moving to Florida again?!<br>
+							<br>
+							
+						ESTELLE: Well, it's either that or we stay here, near you, and just sit on the money. What do you think we should do, Georgie?<br>
+							<br>
+							
+						(George looks surprised, confused and thoughtful, all at the same time.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Peterman's Office]<br>
+							<br>
+							
+						(Peterman sits behind his desk in the office which was, until recently, Elaine's. Employees sit around the desk, including Morty and Elaine, who sits depressed at the end of the desk.)<br>
+							<br>
+							
+						PETERMAN: So, anyway, effective immediately, Miss Benes will return to her old position, at her original salary...<br>
+							<br>
+							
+						(Elaine does a double take at this, and looks unhappy.)<br>
+							<br>
+							
+						PETERMAN: ...and I, of course, will return to mine. Kudos, Elaine, on a job... done.<br>
+							<br>
+							
+						ELAINE: (hardly daring to ask) What about my stock options?<br>
+							<br>
+							
+						PETERMAN: I think not.<br>
+							<br>
+							
+						(Elaine puts a hand to her head and sighs.)<br>
+							<br>
+							
+						PETERMAN: Now, down to business. (thoughtful) I have had this vision of a diaphanous rum-runner scarf.<br>
+							<br>
+							
+						(The employees take notes.)<br>
+							<br>
+							
+						ELAINE: Well, we could fly some fabric in from our silk factories, for about a thousand dollars a bolt.<br>
+							<br>
+							
+						MORTY: (shocked) A thousand?! I know a coupla Chinamen over there on Forty-third Street, who'll do it for half that.<br>
+							<br>
+							
+						ELAINE: (tactful) It's, ah, Asian-Americans.<br>
+							<br>
+							
+						MORTY: What?<br>
+							<br>
+							
+						PETERMAN: (puzzled) Who are you?<br>
+							<br>
+							
+						ELAINE: Don't worry, I...<br>
+							<br>
+							
+						MORTY: Morty Seinfeld. I cut velvet for forty years with Harry Altman.<br>
+							<br>
+							
+						ELAINE: Okay, Mr Seinfeld, this is not the t...<br>
+							<br>
+							
+						PETERMAN: Elaine, did you hire this man?<br>
+							<br>
+							
+						ELAINE: (worried) No, no. Well, I mean, you know, he's more like an intern, you know, at best.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Monk's]<br>
+							<br>
+							
+						(George and Elaine sit in a booth.)<br>
+							<br>
+							
+						ELAINE: So, if your parents move to Florida, you're poor.<br>
+							<br>
+							
+						GEORGE: (pointing out the positive) But happy.<br>
+							<br>
+							
+						ELAINE: Obviously. And if they stay, you're rich, but...<br>
+							<br>
+							
+						(Elaine gestures with her hand.)<br>
+							<br>
+							
+						GEORGE: Obviously.<br>
+							<br>
+							
+						ELAINE: Quite a dilemma. You know, I have a bit of a dilemma of my own.<br>
+							<br>
+							
+						GEORGE: No, no. No, no, no. (determined) We're staying on me. We haven't solved anything yet.<br>
+							<br>
+							
+						ELAINE: Alright, this is easy. Let 'em go.<br>
+							<br>
+							
+						GEORGE: What d'you mean, let 'em go? They're spending all my money.<br>
+							<br>
+							
+						ELAINE: Alright, well, then they stay. Lemma ask you something...<br>
+							<br>
+							
+						GEORGE: (upset) Could you put a little thought into this? Jerry's gone, you could humour me. He humours me.<br>
+							<br>
+							
+						ELAINE: Speaking of Jerry, his father is driving me so crazy down at Peterman's.<br>
+							<br>
+							
+						GEORGE: You know what I do at the Yankees, when one of these old guys is breathing down my neck?<br>
+							<br>
+							
+						ELAINE: What?<br>
+							<br>
+							
+						GEORGE: You schedule a late meeting.<br>
+							<br>
+							
+						ELAINE: (puzzlement) Huh? What does that do?<br>
+							<br>
+							
+						GEORGE: These old guys, they're up at 4 a.m., by two thirty they're wiped. (animated) How did we get back onto you?!<br>
+							<br>
+							
+						ELAINE: (grabbing her bag and coat) I gotta split.<br>
+							<br>
+							
+						(Elaine gets up and leaves.)<br>
+							<br>
+							
+						GEORGE: (shouted after Elaine) You know, I got nothing outta this!<br>
+							<br>
+							<br>
+							<br>
+							
+						[The Costanza Home, Queens]<br>
+							<br>
+							
+						(Kramer, wrapped in a quilt enters the Costanza's bedroom. Frank enters from the bathroom, drying his hands with a towel.)<br>
+							<br>
+							
+						KRAMER: Hey Frank, you got two beds in here.<br>
+							<br>
+							
+						FRANK: That's right. That's me on the left.<br>
+							<br>
+							
+						KRAMER: So, you sleep in separate beds.<br>
+							<br>
+							
+						FRANK: Thirty years ago, we came to an agreement. It was the only way I could get some rest.<br>
+							<br>
+							
+						KRAMER: (intrigued) Really?<br>
+							<br>
+							
+						FRANK: (confidential) Estelle's got the (jerks his elbow) jimmy arms.<br>
+							<br>
+							
+						KRAMER: You can get that in your arms?<br>
+							<br>
+							
+						FRANK: Like you wouldn't believe.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Klompus Home, Del Boca Vista]<br>
+							<br>
+							
+						(A grubby Jerry sits at the table, with Jack hovering over him.)<br>
+							<br>
+							
+						JACK: Jerry, it's getting late. You've cleaned up the car. You've made all your phone calls. Why are you still here?<br>
+							<br>
+							
+						JERRY: Well, I uh, maxed out my credit cards, and I don't have enough cash for a hotel room. So...<br>
+							<br>
+							
+						JACK: You are uh, thinking of staying here?<br>
+							<br>
+							
+						JERRY: Well...<br>
+							<br>
+							
+						JACK: (laughing) You've got some nerve. I almost break my neck in that death-trap of yours, and now you ask me for a favour!<br>
+							<br>
+							
+						JERRY: You didn't like that crack about the pen.<br>
+							<br>
+							
+						JACK: I did not.<br>
+							<br>
+							<br>
+							<br>
+							
+						[The Costanza Home, Queens]<br>
+							<br>
+							
+						(George and his parents sit at the kitchen table, while Kramer does some washing up in the sink.)<br>
+							<br>
+							
+						GEORGE: Well, I've given this a lot of thought, and I've gotta say...<br>
+							<br>
+							
+						(George is distracted momentarily by Kramer clattering dishes. He gives Kramer a look and continues.)<br>
+							<br>
+							
+						GEORGE: (attempting sincerity) As much as I'd like to see the two of you living it up in a warm, tropical, setting, I, I would just miss you too much. (smiling) So, I've decided, I want you to stay.<br>
+							<br>
+							
+						FRANK: It's too late. We bought a condo at Del Boca Vista. We're leaving tonight.<br>
+							<br>
+							
+						(Estelle and Frank smile at each other.)<br>
+							<br>
+							
+						GEORGE: (crestfallen) But you said it was my call.<br>
+							<br>
+							
+						ESTELLE: We were just being nice.<br>
+							<br>
+							
+						(George looks crushed.)<br>
+							<br>
+							
+						ESTELLE: (motherly concern) Cosmo, are you sure you're gonna be alright here alone?<br>
+							<br>
+							
+						KRAMER: Oh, yeah, yeah. I got Emily coming over tonight.<br>
+							<br>
+							
+						GEORGE: (animated) You're letting him have a woman over?!<br>
+							<br>
+							
+						FRANK: He's not family. It's different, psychologically.<br>
+							<br>
+							
+						(Kramer is examining the label on a wine bottle, as George turns to look at him. He gives George a little smile.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Peterman's Office]<br>
+							<br>
+							
+						(The employees, including Elaine and Morty, sit round Peterman's desk as he waxes lyrical about his adventures. Morty looks impatient, glancing at his watch as Peterman speaks.)<br>
+							<br>
+							
+						PETERMAN: And so, I made an explosive out of chick peas, and I stopped that great rhino right in his tracks.<br>
+							<br>
+							
+						MORTY: Well, it's getting kinda late, why don't we uh...<br>
+							<br>
+							
+						ELAINE: Mr Peterman, that can't have been the only time that you faced mortal danger.<br>
+							<br>
+							
+						PETERMAN: (smiles and laughs) Ha ha ha. Funny you should ask, Elaine.<br>
+							<br>
+							
+						MORTY: Look, if we're gonna stay here until all hours of the night, can we at least get some food here?<br>
+							<br>
+							
+						PETERMAN: (looks at his watch) It's only five fifteen. So, later on that same day, I developed a great hankering for some wild honey...<br>
+							<br>
+							
+						MORTY: (standing) Okay, I'm done. I'll be back in the morning, when he's close to finish with his story.<br>
+							<br>
+							
+						(Morty heads for the door. Peterman's voice brings him to a halt.)<br>
+							<br>
+							
+						PETERMAN: Morty. My stories are what sell these clothes.<br>
+							<br>
+							
+						MORTY: Cheap fabric, and dim lighting. That's how you move merchandise.<br>
+							<br>
+							
+						PETERMAN: (winks) Morty, you're out.<br>
+							<br>
+							
+						MORTY: (unconcerned) Ach, I never knew what the hell I was peddling with those stupid cartoons and that paper book, anyway.<br>
+							<br>
+							
+						(Morty walks out, leaving a not entirely unhappy Elaine behind.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Animation]<br>
+							<br>
+							
+						(An arrow is drawn on the East Coast map, this time from Queens to Del Boca Vista.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Street, Del Boca Vista]<br>
+							<br>
+							
+						(Frank walks along the sidewalk, past a familiar looking Cadillac. Something catches his eye, and he looks into the car. A figure is asleep on the back seat with his face covered. Frank 'gives a what is the world coming to' look and throws up his hands as he walks away.)<br>
+							<br>
+							
+						(After he leaves, the figure shifts in his sleep, turning over. It's Jerry, sleeping in his parent's Cadillac.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[The Costanza Home, Queens]<br>
+							<br>
+							
+						(Kramer stands in the doorway of the bathroom, while Emily sits on Estelle's bed, reading a paperback.)<br>
+							<br>
+							
+						KRAMER: I don't know why I let you talk me into that corned beef at Snitzer's.<br>
+							<br>
+							
+						EMILY: (not looking up from her book) No-one held a gun to your head.<br>
+							<br>
+							
+						KRAMER: (dismissive) Yeah.<br>
+							<br>
+							
+						EMILY: (still reading) Don't forget, we're eating dinner at the Feinerman's tomorrow night.<br>
+							<br>
+							
+						KRAMER: (moody) Oh, why do I have to go? They're your friends.<br>
+							<br>
+							
+						EMILY: You like 'em.<br>
+							<br>
+							
+						KRAMER: I've had it with 'em.<br>
+							<br>
+							
+						(Kramer disappears into the bathroom.)<br>
+							<br>
+							
+						EMILY: Then we won't go.<br>
+							<br>
+							
+						(Kramer reemerges with a glass of water.)<br>
+							<br>
+							
+						KRAMER: (yielding) Okay, okay. What time?<br>
+							<br>
+							
+						EMILY: Eight thirty.<br>
+							<br>
+							
+						(Kramer downs the glass of water in one go, and then belches.)<br>
+							<br>
+							
+						KRAMER: (satisfied) Ahh. That was alright.<br>
+							<br>
+							
+						(Emily smiles at him, then returns to her book.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Monk's]<br>
+							<br>
+							
+						(Jerry, George and Elaine sit in a booth. Jerry drinking coffee, George eating and Elaine reading from the pages of a newspaper.)<br>
+							<br>
+							
+						ELAINE: 'One bright note in today's market, was the stock of retailer J Peterman, whose founder's surprise return generated a rise of twelve and a half points.'<br>
+							<br>
+							
+						(Elaine folds the paper and drops it on the table.)<br>
+							<br>
+							
+						JERRY: Mmm-mmm-mmm. That means, if you still had those stock options...<br>
+							<br>
+							
+						ELAINE: (downcast) Yeah.<br>
+							<br>
+							
+						GEORGE: (Jerry-style) That's a shame.<br>
+							<br>
+							
+						ELAINE: (sharp) What, are you sticking it to me?<br>
+							<br>
+							
+						GEORGE: (innocent) What?<br>
+							<br>
+							
+						ELAINE: I think you're sticking it to me.<br>
+							<br>
+							
+						JERRY: Elaine, I'm sure George is just being sympathetic.<br>
+							<br>
+							
+						ELAINE: (leaning forward and accusing) Stickin' it!<br>
+							<br>
+							
+						(George doesn't meet Elaine's stare.)<br>
+							<br>
+							
+						JERRY: You're not alone. I'm practically broke.<br>
+							<br>
+							
+						ELAINE: Really?<br>
+							<br>
+							
+						JERRY: No. But, I did blow over twenty thousand on that Cadillac.<br>
+							<br>
+							
+						(George takes another forkful of what's on his plate.)<br>
+							<br>
+							
+						GEORGE: (relishing) Hmm-hmm-hmm-hmm. Delicious.<br>
+							<br>
+							
+						JERRY: Well, you seem happy.<br>
+							<br>
+							
+						GEORGE: I am. The folks are twelve hundred miles away. (gleeful) I'm basking in the buffer zone. (looks for the waitress) 'Nother piece of pie here!<br>
+							<br>
+							
+						ELAINE: So, were your parents shocked to see the Cadillac?<br>
+							<br>
+							
+						JERRY: Actually, I haven't heard from 'em yet.<br>
+							<br>
+							
+						ELAINE: Hmm.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Florida]<br>
+							<br>
+							
+						(Morty and Helen sit on a couch, reading magazines.)<br>
+							<br>
+							
+						MORTY: When are we gonna tell Jerry?<br>
+							<br>
+							
+						HELEN: I don't wanna worry him. We'll tell him next time we go up.<br>
+							<br>
+							
+						MORTY: He thought he could buy back that Cadillac for us? He's not getting away with that.<br>
+							<br>
+							
+						(It's revealed that the Seinfelds are in a trailer parked behind the Cadillac.)<br>
+							<br>
+							
+						HELEN: Besides, that condo was too much house.<br>
+							<br>
+							<br>
+							<br>
+							
+						[The Costanza Home, Del Boca Vista]<br>
+							<br>
+							
+						(Estelle is sitting on the couch in the condo, while Frank peers out of the window.)<br>
+							<br>
+							
+						ESTELLE: How many times can you check the car?<br>
+							<br>
+							
+						FRANK: (coming away from the window) I saw a bum sleeping in a Cadillac the other day.<br>
+							<br>
+							
+						(Frank sits in a chair.)<br>
+							<br>
+							
+						ESTELLE: Why would someone break into a car to take a nap?<br>
+							<br>
+							
+						FRANK: They don't nap. They make it their home. They urinate in there!<br>
+							<br>
+							
+						ESTELLE: (shouts) You're driving me crazy!<br>
+							<br>
+							
+						FRANK: (standing) That's it, we're going back to Queens. (claps hands) Where's my hat?<br>
+							<br>
+							
+						(Frank walks out of the room.)<br>
+							<br>
+							
+						ESTELLE: (shouts) Nooh!<br>
+							<br>
+							<br>
+							
+						The End</td>
+						</tr>
+						<tr height="6">
+							<td class="bottom2" width="645" height="6"></td>
+						</tr>
+						<tr>
+							<td width="645">
+								<div align="center">
+									<font size="-1">Copyright 2006 seinology.com | All Rights Reserved | Designed by 13erla</font></div>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+		<p></p>
+	</body>
+
+</html>

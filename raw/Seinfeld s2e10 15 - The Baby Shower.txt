@@ -1,0 +1,1019 @@
+<tdOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+<html>
+
+	<head>
+		<meta http-equiv="content-type" content="text/html;charset=ISO-8859-1">
+		<meta name="description" content="Top Source for Seinfeld">
+		<meta name="keywords" content="seinfeld, sienfeld, Jerry Seinfeld, Julia Louis Dreyfus, Jason Alexander, Michael Richards, Kramer, George, Costanza, Elaine Benes, morty, Larry David">
+		<title>Seinology.com :: Scripts :: 15-The Baby Shower</title>
+	<link rel='stylesheet' href='/stylesheet.css' type='text/css'>
+	</head>
+
+	<body>
+			<table align="center" width="787" border="0" cellspacing="0" cellpadding="0">
+				<tr>
+					<td><font size="-2" color="red">Seinology.com - </font><font size="-3" color="black">Where Seinfeld Content and Accuracy Matter Most. Seinfeld scripts in pdf form, Seinfeld episode video clips, Seinfeld episode audio clips, Jerry Seinfeld appearances, Julia Louis-Dreyfus appearances, Michael Richards appearances, Jason Alexander appearances, Seinfeld discussion Forum, Seinfeld Where are they Now? Seinlanguage Newsletter, Popular Seinfeld Lists, Seinfeld episode standup, Seinfeld episode guide, Seinfeld fan fiction. Seinfeld content all on one domain. Seinology.com enjoy your stay.</font></td>
+				</tr>
+			</table>
+		
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr height="100">
+				<td class="logo"></td>
+			</tr>
+			<tr><td class="ads" align="center" background=#8694fa>
+				<script type="text/javascript"><!--
+google_ad_client = "pub-1924026976931416";
+google_ad_width = 728;
+google_ad_height = 90;
+google_ad_format = "728x90_as";
+google_ad_type = "text";
+google_ad_channel = "";
+google_color_border = "FFFFFF";
+google_color_bg = "8694fa";
+google_color_link = "0000FF";
+google_color_text = "000000";
+google_color_url = "002E3F";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></td></tr>
+		</table>
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr>
+				<td valign="top" width="136">
+					<table width="136" border="0" cellspacing="0" cellpadding="0">
+						<tr height="24">
+							<td class="navigation">
+								<div align="center">
+									
+									<b>Navigation</b></div>
+							</td>
+						</tr>
+						<tr height="199">
+							<td class="spacer1" valign="top" width="136" height="199">
+								<div align="center">
+									<font size="-1"><a href="http://www.seinology.com">Home</a><br>
+										<a href="http://board.seinology.com">Forum</a><br>
+										<a href="http://www.seinology.com/av.shtml">Audio/Video</a><br>
+										<a href="http://www.seinology.com/scripts.shtml">Scripts</a><br>
+										<a href="http://www.seinology.com/survivor.shtml">Survivor</a><br>
+										<a href="http://www.seinology.com/fanfics.shtml">Fan Fiction</a><br>
+										<a href="http://www.seinology.com/gallery/">Gallery</a><br>
+										<a href="http://www.seinology.com/newsletter.shtml">Newsletter</a><br>
+										<a href="http://www.seinology.com/lists.shtml">Lists</a><br>
+										<a href="http://www.seinology.com/epguide.shtml">Episode Guide</a><br>
+										<a href="http://www.seinology.com/links.shtml">Links</a><br>
+										<a href="http://www.seinology.com/faqother.shtml">Faq + others</a><br>
+										<a href="http://www.seinology.com/legal.shtml">Legal</a></font></div>
+							</td>
+						</tr>
+						
+						<tr>
+							<td class="nav2" width="136">
+							<div align="center"><b>Search</b></div></td>
+						</tr>
+						<tr>
+							<td class="spacer1" width="136" valign="top"><div align="center"><form method="get" action="http://www.seinology.com/search/search.cgi">
+<p><label for="fdse_Match">Match</label><br>
+<select name="Match" id="fdse_Match" size="1">
+<option value="1">All</option>
+<option value="0">Any</option>
+<option value="2">Phrase</option>
+</select></p>
+<p><label for="fdse_Realm">Where?</label><br>
+<select name="Realm" id="fdse_Realm" size="1">
+<option selected="selected" value="All">EntireSite</option>
+<option value="Ep Guide">Ep Guide</option>
+<option value="Images">Images</option>
+<option value="Lists">Lists</option>
+<option value="Newsletters">Newsletters</option>
+<option value="Scripts">Scripts</option>
+<option value="Notes..Nothing">Notes..Nothing</option>
+</select></p>
+<p><input type="text" name="Terms" size="14" id="fdse_Terms"><br>
+<input type="submit" class="submit" name="submitButtonName" value="Search"></p>
+</div></form></td>
+						</tr>
+						<tr><td class="bottom" width="136" height="10" valign="top">
+						</td>
+						</tr>
+					</table>
+				</td>
+				<td width="4"></td>
+				<td valign="top" width="645">
+					<table width="645" border="0" cellspacing="0" cellpadding="0">
+						<tr height="18">
+							<td width="645" height="35" class="bar">
+								<div align="center">
+									<b><font size="+2" color="black">Script</font></b></div>
+							</td>
+						</tr>
+						<tr height="362">
+							<td class="spacer2" valign="top" width="645" height="362">
+
+						<p><font size="-2">Episode 15 - The Baby Shower<br>
+							
+						pc: 204, season 2, episode 10<br>
+							
+						Broadcast date: May 16, 1991<br>
+							<br>
+							
+						Written By Larry Charles<br>
+							
+						Directed By Tom Cherones<br>
+							<br>
+							
+						-------------------------------------------------------------------------------<br>
+							<br>
+							
+						The Cast<br>
+							
+						Regulars:<br>
+							
+						Jerry Seinfeld ....................... Jerry Seinfeld<br>
+							
+						Jason Alexander .................. George Costanza<br>
+							
+						Julia Louis-Dreyfus ............. Elaine Benes<br>
+							
+						Michael Richards ................. Kramer<br>
+							
+						&nbsp;<br>
+							
+						Guest Stars:<br>
+							<br>
+							
+						Christine Dunford .............. Leslie<br>
+							
+						Vic Polizos .......................... Tabachnik<br>
+							
+						James Lashly ...................... Assistant<br>
+							
+						Margaret Reed .................. Mary<br>
+							
+						George C. Simms ............... FBI Man<br>
+							
+						Marla Fries ........................ Stewardess<br>
+							
+						Don Perry ......................... Passenger<br>
+							
+						Kate Mulligan .................... Party Guest<br>
+							
+						Audrey Frantz .................. Party Guest<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						==================================================================<br>
+							<br>
+							<br>
+							
+						[Setting: Night club]<br>
+							<br>
+							
+						JERRY: Men flip around the television more than women, I think. Men get that remote control in their hands, they don't even know what the hell they're watching. You know, we just keep going, &quot;Rerun, don't wanna watch it.. &quot; &quot;What are you watching?&quot; &quot;I don't care, I gotta keep going.&quot; &quot;Who was that?&quot; &quot;I don't know what it was - doesn't matter, it's not your fault. It doesn't matter, I gotta keep going.&quot; Women don't do this. See now, women will stop and go, &quot;Well, let me see what the show is before I change the channel.&quot; You see? Men just fly. Because women, you see, women nest and men hunt. That's why we watch TV differently. Before there was flipping around, before there was television, kings and emperors and pharaohs and such had story-tellers that would tell them stories 'cause that was their entertainment. I always wonder, in that era, if they would get, like, thirty story-tellers together so they could still flip around. Just go, &quot;Alright start telling me a story, what's happening? I don't want to hear anymore. Shut up. Go to the next guy. What are you talking about? Is there a girl in that story? ..No? Shut up. Go to the next guy. What do you got? I don't want to hear that either. Shut up. No, go ahead, what are you talking about?.. I don't want to hear that. No, the all of you, get out of here. I'm going to bed.&quot;<br>
+							<br>
+							
+						(Scene ends)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Setting: Coffee shop]<br>
+							<br>
+							
+						GEORGE: (Shocked) She's pregnant? Leslie is pregnant?! Oh, see, there is no justice.<br>
+							<br>
+							
+						JERRY: She's the performance artist, right?<br>
+							<br>
+							
+						GEORGE: (Sarcastic) Yeah, performance artist. She's a real performer. A real trooper.<br>
+							<br>
+							
+						JERRY: What's her husband's name, again? Chip? Kip? Skip?<br>
+							<br>
+							
+						ELAINE: Todd.<br>
+							<br>
+							
+						JERRY: Todd. Oh yeah. (To George) He's a Kennedy.<br>
+							<br>
+							
+						ELAINE: No, he's not.<br>
+							<br>
+							
+						JERRY: C'mon. He's a third cousin, or something.<br>
+							<br>
+							
+						ELAINE: By marriage.<br>
+							<br>
+							
+						JERRY: Oh, by marriage. (To George) We went to their wedding. You should have heard him talking about Chappaquiddick - trying to blame the whole thing on bad directions.<br>
+							<br>
+							
+						GEORGE: That woman was unequivocally the worst date of my life.<br>
+							<br>
+							
+						ELAINE: Oh, pardon me for trying to set you up with a beautiful, intelligent woman.<br>
+							<br>
+							
+						GEORGE: What, you don't think I can attract beautiful, intelligent women?<br>
+							<br>
+							
+						JERRY: Thin ice, George. Thin ice..<br>
+							<br>
+							
+						GEORGE: (Sarcastic) Maybe for her new performance piece she'll give birth on stage.<br>
+							<br>
+							
+						ELAINE: She stopped performing.<br>
+							<br>
+							
+						GEORGE: (Again, sarcastic) Oh, what a huge blow to the culture.<br>
+							<br>
+							
+						JERRY: (Gesturing to George) You believe this guy? He holds a grudge like Khomeini.<br>
+							<br>
+							
+						GEORGE: She dragged me down to that warehouse on the waterfront in Brooklin to see one of her &quot;performances&quot;.<br>
+							<br>
+							
+						JERRY: Oh, and she cooks dinner onstage for some celebrity?<br>
+							<br>
+							
+						GEORGE: God! She's cooking dinner for God! She's yelling and screaming, and the next thing I know, she throws a big can of chocolate syrup all over my new red shirt.<br>
+							<br>
+							
+						ELAINE: It was an accident!<br>
+							<br>
+							
+						GEORGE: Oh, yeah, sure, accident, right. She was aiming right at me like she was putting out a fire! Then, for the rest of the show, I'm sitting there with chocolate all over my shirt. Flies are landing on me. I'm boiling - I'm fantasizing all the things I'm gonna say when I see her. And later, finally, backstage when I talk to her, I'm a groveling worm. &quot;What kind of chocolate was that? Do you throw any other foods?&quot;<br>
+							<br>
+							
+						JERRY: (To Elaine) he thought he still had a shot.<br>
+							<br>
+							
+						GEORGE: And then, then, then she leaves with somebody else! Never even, never even said goodbye! Never called me back.. Never apologized. Nothing. Like I was dirt.<br>
+							<br>
+							
+						JERRY: What ever happened with the shirt?<br>
+							<br>
+							
+						GEORGE: I still have it. The collar's okay. I wear it under sweaters.<br>
+							<br>
+							
+						ELAINE: I don't know what I'm gonna do. She asked me to give her a baby shower.<br>
+							<br>
+							
+						JERRY: Asked you? You're not going to do that are you?<br>
+							<br>
+							
+						ELAINE: anyone else, never. But, Leslie - I have a problem saying no to. For some reason, I seem to want her approval.<br>
+							<br>
+							
+						GEORGE: Let Maria Shriver give her a baby shower.<br>
+							<br>
+							
+						JERRY: Ask not what I can do for you - ask what you can do for me.<br>
+							<br>
+							
+						GEORGE: (Germanic) Ich bin ein sucker.<br>
+							<br>
+							
+						ELAINE: Oh, would you two stop with the Kennedys? Why does everybody make such a big deal about he Kennedys? What is this fascination?! Who cares?! It's all so boring..<br>
+							<br>
+							
+						GEORGE: She doesn't deserve a baby shower. She deserves a baby monsoon. She deserves Rosemary's baby!<br>
+							<br>
+							
+						ELAINE: (To Jerry) I do have one teeny little problem, though.<br>
+							<br>
+							
+						GEORGE: Never said goodbye. Never apologized. Nothing.<br>
+							<br>
+							
+						ELAINE: See, I was gonna give the shower in my apartment..<br>
+							<br>
+							
+						JERRY: But?<br>
+							<br>
+							
+						ELAINE: My roommate has Lyme disease.<br>
+							<br>
+							
+						JERRY: Lyme disease? I thought she had Epstein-Barr Syndrome?<br>
+							<br>
+							
+						ELAINE: She has this in addition to Epstein-Barr. It's like Epstein-Barr with a twist of Lyme disease.<br>
+							<br>
+							
+						JERRY: How did she get Lyme disease?<br>
+							<br>
+							
+						ELAINE: I don't know. She did some outdoor version of Hair in Danbury, Connecticut.<br>
+							<br>
+							
+						JERRY: They still do that play?<br>
+							<br>
+							
+						ELAINE: It's a classic.<br>
+							<br>
+							
+						JERRY: With all the nudity?<br>
+							<br>
+							
+						ELAINE: I guess. She must've rolled over on a tick during the love-in.<br>
+							<br>
+							
+						GEORGE: (Still mad a Leslie) Never said goodbye. Goodbye!<br>
+							<br>
+							
+						JERRY: Explain to me how this baby shower thing works.<br>
+							<br>
+							
+						ELAINE: What do you wanna know?<br>
+							<br>
+							
+						JERRY: Well, I mean, does it ever erupt into a drunken orgy of violence?<br>
+							<br>
+							
+						ELAINE: Rarely.<br>
+							<br>
+							
+						JERRY: There's no hazing of the fetus, or anything, is there?<br>
+							<br>
+							
+						ELAINE: No.<br>
+							<br>
+							
+						JERRY: When is this suppose to be?<br>
+							<br>
+							
+						ELAINE: Saturday.<br>
+							<br>
+							
+						JERRY: Saturday?.. Well, I have a show in Buffalo on Saturday. They're not gonna bust up my apartment, or anything, are they?<br>
+							<br>
+							
+						ELAINE: I'll take full responsibility. You won't regret it.<br>
+							<br>
+							
+						JERRY: 'Cause I've seen these pregnant women - and they sometimes misjudge their fetal girth. Just like one wrong turn, and boom! And entire buffet is swept off the table.<br>
+							<br>
+							
+						GEORGE: Someday, before I die, mark my words - I'm gonna tell that woman exactly what I think of her. I'll never be able to forgive myself until I do.<br>
+							<br>
+							
+						JERRY: And if you do?<br>
+							<br>
+							
+						GEORGE: I still won't be able to forgive myself - but at least it won't be about this.<br>
+							<br>
+							
+						(Scene ends)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Setting: Jerry's apartment]<br>
+							<br>
+							
+						(Jerry's TV's not giving a clear picture. He messes with the dials as Kramer looks over his shoulder)<br>
+							<br>
+							
+						KRAMER: What are you doing this for? Look at you..<br>
+							<br>
+							
+						JERRY: Quiet. I'm trying to get a picture.<br>
+							<br>
+							
+						KRAMER: But you don't have to do this! This guy is waiting in my house.<br>
+							<br>
+							
+						JERRY: (Pleading) Leave me alone.<br>
+							<br>
+							
+						KRAMER: It's a one-time fee. A hundred and fifty bucks. Why live like this?!<br>
+							<br>
+							
+						JERRY: I'm not getting illegal cable!<br>
+							<br>
+							
+						KRAMER: Oh, so what are you gonna do? You gonna wait for the cable companies to resolve their dispute? They're gonna be in court for years.<br>
+							<br>
+							
+						JERRY: No, I read in the paper..<br>
+							<br>
+							
+						KRAMER: (Sarcastic) Oh, oh, the paper..<br>
+							<br>
+							
+						JERRY: Well, they might hook us up again.<br>
+							<br>
+							
+						KRAMER: Oh, God, you're so naive! All the cable companies care about is the &quot;Big Mammoo.&quot; (Jerry wacks the TV) Oh, look at you! You're banging things.. Pathetic. Just wasting your life. I'm offering you fifty-six channels - movies, sports, nudity. And it's free! For life!<br>
+							<br>
+							
+						JERRY: Stop shouting! You're ruining the reception.<br>
+							<br>
+							
+						KRAMER: Can you hear yourself? Can, can, do you know what you're saying?!<br>
+							<br>
+							
+						JERRY: What you're suggesting is illegal.<br>
+							<br>
+							
+						KRAMER: It's not illegal.<br>
+							<br>
+							
+						JERRY: It's against the law.<br>
+							<br>
+							
+						KRAMER: Well, yeah.<br>
+							<br>
+							
+						JERRY: (Gesturing to the rabbit ears) Just, just, hold this. Can you hold that?<br>
+							<br>
+							
+						KRAMER: (Holding the rabbit ears) Look, will you at least let me bring the guy over? He's an amazing man. He's a Russian immigrant. He escaped the Gulag. He's like the Sakharov of cable guys.. He'll slow down your gas meter. He sells slugs, Jerry. Slugs for the subway.<br>
+							<br>
+							
+						JERRY: A real human rights nut, huh?<br>
+							<br>
+							
+						KRAMER: Yeah. He's intense, man.<br>
+							<br>
+							
+						JERRY: I don't know. What if I get caught?<br>
+							<br>
+							
+						KRAMER: Oh, you're not gonna get caught. Look, let me get him. Man, it's the nineties, it's Hammer time! Come on, just let me get him.<br>
+							<br>
+							
+						(Kramer drops the rabbit ears, and goes to his apartment. He then returns with a Russian cable guy - Anatoly Tabachnick, and his assistant. Tabachnick mumbles, shakes, laughs, then wanders around the apartment. Jerry looks confused)<br>
+							<br>
+							
+						JERRY: You know, why don't we wait? Because, I'm going out of town tomarrow.<br>
+							<br>
+							
+						TABACHNICK: Tomarrow okay.<br>
+							<br>
+							
+						KRAMER: No problem. Yeah, you'll have the whole thing installed by the time you get back.<br>
+							<br>
+							
+						JERRY: (Mutters to himself) Every time I turn on the TV, sirens are gonna go off. They're gonna track me down like a dog, I know it..<br>
+							<br>
+							
+						KRAMER: No, no, now look now, Jerry, Jerry, it's no risk. I swear. The Mets have seventy-five games on cable this year..<br>
+							<br>
+							
+						JERRY: (Pauses, thinking about what Kramer just said) Put it in.<br>
+							<br>
+							
+						KRAMER: You won't regret it. (Jerry mutters some more, Kramer rubs his hands together in anticipation, then starts dancing around with a reluctant Jerry) Jerry's gonna be a cable boy, a cable boy, a cable boy..<br>
+							<br>
+							
+						(Scene ends)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Setting: Jerry's apartment]<br>
+							<br>
+							
+						(Jerry enters carrying luggage. A group of nem in suits are waiting for him)<br>
+							<br>
+							
+						MAN: Mr. Steinfeld?<br>
+							<br>
+							
+						JERRY: Seinfeld.<br>
+							<br>
+							
+						MAN: We're with the FBI. You wanna tell us about your cable hook-up?<br>
+							<br>
+							
+						JERRY: My cable hook-up? What about it?<br>
+							<br>
+							
+						MAN: It's been illegally installed, Mr. Steinfeld.<br>
+							<br>
+							
+						JERRY: It has? I've been out of town. How did you know?<br>
+							<br>
+							
+						(An agent leads Kramer out of the bedroom into the living room)<br>
+							<br>
+							
+						KRAMER: Jerry, I had to tell them. I had to. I had no choice. They were onto the scam from the very beginning.<br>
+							<br>
+							
+						MAN: You're in serious trouble, Mr. Steinfeld.<br>
+							<br>
+							
+						JERRY: Wait a minute. Wait a minute, hold on! We're just patsies. We're just a couple of users.. We never sold the stuff. What about the Russian guy? The Russian guy is the guy you want.<br>
+							<br>
+							
+						(Tabachnick steps out of the bedroom. He's dressed like the other FBI men, and speaks without an accent now)<br>
+							<br>
+							
+						TABACHNICK: Mr. Seinfeld, Agent Stone. FBI. Undercover.<br>
+							<br>
+							
+						(Jerry looks around for an excape, then makes a mad dash for the door)<br>
+							<br>
+							
+						KRAMER: No! Jerry! (The FBI agents open fire. Jerry's gunned down by a hailstorm of bullets. Kramer leans next to a fallen Jerry, cupping Jerry's head in his hands) Cable boy, cable boy.. What have you done to my little cable boy?..<br>
+							<br>
+							
+						(Scene ends)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Setting: Airplane]<br>
+							<br>
+							
+						(Jerry shudders when looking back on his dream. A stewardess approaches)<br>
+							<br>
+							
+						JERRY: Excuse me. Can I get something to drink?<br>
+							<br>
+							
+						STEWARDESS: I'm afraid not.<br>
+							<br>
+							
+						JERRY: What's with this airline? What are you, cutting out the drinks now?<br>
+							<br>
+							
+						STEWARDESS: No sir. We're flying into a blizzard. Please fasten your seat belt. We're making an emergency landing.<br>
+							<br>
+							
+						JERRY: (Sarcastic) Are they gonna go over the instructions again?<br>
+							<br>
+							
+						(The passenger, Bill, next to him offers his hand)<br>
+							<br>
+							
+						BILL: My name is Bill. I might be the last person you ever see.<br>
+							<br>
+							
+						(Scene ends)<br>
+							<br>
+							<br>
+							
+						[Setting: Night club]<br>
+							<br>
+							
+						JERRY: I'm not afraid of flying, although many people do have fear of flying and, I have no arguement with that. I think fear of flying is quite rational because, human beings cannot fly. Humans have fear of flying same way fish have fear of driving. Put a fish behind the wheel, and they go, &quot;This isn't right. I shouldn't be doing this. I don't belong here.&quot;<br>
+							<br>
+							
+						(Scene ends)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Setting: George's car]<br>
+							<br>
+							
+						(George is driving while wearing an unzipped coat, and a sweater with a bright red collar under it. Jerry's riding shotgun)<br>
+							<br>
+							
+						GEORGE: Sounds like a rough trip.<br>
+							<br>
+							
+						JERRY: Oh, fire engines, ambulances all along the runway. And then, when we landed safely, they all seemed so disappointed.<br>
+							<br>
+							
+						GEORGE: So, the college cancelled the gig?<br>
+							<br>
+							
+						JERRY: Well, there was so much snow. The roads were closed. I really appreciate it - you picking me up. Thanks again.<br>
+							<br>
+							
+						GEORGE: (Modestly) Forget it.<br>
+							<br>
+							
+						JERRY: No, really.. an airport run.<br>
+							<br>
+							
+						GEORGE: It's nothing.<br>
+							<br>
+							
+						JERRY: Hey, it's one thing if I asked you &quot;Could you do me a favor?&quot; ..But to suggest it?.. GEORGE: (Obviously up to something. Jerry doesn't suspect anything - yet) Whey you told me what you went through on the plane, it makes you stop and think. You appreciate having a real friend.<br>
+							<br>
+							
+						JERRY: (Joking) You know, if Richie Brandes did this, I'd be suspicious, you know. He's always got some ulterior motive.<br>
+							<br>
+							
+						GEORGE: (Laughs nervously) ..Ulterior motive.<br>
+							<br>
+							
+						JERRY: Oh, wait a minute. Wait a minute. Don't take the bridge.. Get off here. We can't go back to my place, Elaine's having the shower.<br>
+							<br>
+							
+						GEORGE: (Obviously knows that, but pretends he doesn't) What, tonight? Now?<br>
+							<br>
+							
+						JERRY: Yeah, yeah. I forgot all about it. Alright, it's no big deal. We'll just go back to your place.<br>
+							<br>
+							
+						GEORGE: My place? NO, no, no. I hate my place. I don't wanna go back to my place.<br>
+							<br>
+							
+						JERRY: You want to get a bite?<br>
+							<br>
+							
+						GEORGE: Yeah, I would. It's just, you know, I just ate a whole pot roast.<br>
+							<br>
+							
+						JERRY: Well, so what should we do?<br>
+							<br>
+							
+						GEORGE: Shouldn't we at least drop off your bag?<br>
+							<br>
+							
+						(Jerry's suddenly suspicious. He notices George's red collar, then reaches over and pulls the sweater down)<br>
+							<br>
+							
+						JERRY: Red shirt! Red shirt! That's the red shirt!<br>
+							<br>
+							
+						GEORGE: (Nervous) What are you talking about?<br>
+							<br>
+							
+						JERRY: You're wearing the chocolate shirt!<br>
+							<br>
+							
+						GEORGE: I am? What a strange coincidence..<br>
+							<br>
+							
+						JERRY: A - Ha! Nice try, my friend, but you gotta get up pretty early in the morning..<br>
+							<br>
+							
+						GEORGE: (Pleading) You gotta let me go over there.<br>
+							<br>
+							
+						JERRY: What are you gonna do? Badger a pregnant woman at her own baby shower?! What are you, gonna take it off and make her rinse it in club soda?<br>
+							<br>
+							
+						GEORGE: No, I'm gonna hold it under her nose so she can smell the scent of stale Bosco that I had to live with for three years, and I'm gonna say, &quot;Remember this shirt, baby?! Well, now, it's payback time!&quot;<br>
+							<br>
+							
+						(Scene ends)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Setting: Jerry's apartment]<br>
+							<br>
+							
+						(Leslie is talking to a group of people, including Elaine)<br>
+							<br>
+							
+						LESLIE: We just bought an apartment on Riverside Drive. Bernard Goetz's mother used to live there.<br>
+							<br>
+							
+						ELAINE: So, where's Todd?<br>
+							<br>
+							
+						LESLIE: Up in Hyannisport.<br>
+							<br>
+							
+						ELAINE: Oh my God, Hyannisport? With the Kennedys? Who else is up there? Is Rose up there?!<br>
+							<br>
+							
+						WOMAN: (To Leslie) So, when's your due date?<br>
+							<br>
+							
+						LESLIE: March twentieth, nine a.m.<br>
+							<br>
+							
+						WOMAN: You know the time!<br>
+							<br>
+							
+						LESLIE: I'm having a planned C-section. My therapist told me if I go through labor, I might get psychotic.<br>
+							<br>
+							
+						ELAINE: Leslie, Leslie, whatever happened to Sargent Shriver? Is he still with them? You don't hear much about him these days. Is he out of the loop?<br>
+							<br>
+							
+						LESLIE: (Takes a bite of food) Elaine, who catered this, Sears?<br>
+							<br>
+							
+						(Kramer bursts through the door, followed by Tabachnick and his assistant. Tabachnick looks over a woman, and nods approvingly. The woman freeze at the sight, then disperse nervously)<br>
+							<br>
+							
+						ELAINE: (Whispering to Kramer) What is this?! What are you doing here?<br>
+							<br>
+							
+						KRAMER: We're putting in cable.<br>
+							<br>
+							
+						ELAINE: The cable? No, no, no. I'm having a party here. You can't do this now!<br>
+							<br>
+							
+						KRAMER: Oh, we have to do this now.<br>
+							<br>
+							
+						(Tabachnick and his assistant are leering at the women)<br>
+							<br>
+							
+						ELAINE: Who's this guy?<br>
+							<br>
+							
+						KRAMER: Which one?<br>
+							<br>
+							
+						ELAINE: Both of the them.<br>
+							<br>
+							
+						KRAMER: Oh, they're Soviet Cable guys.<br>
+							<br>
+							
+						ELAINE: Okay.. Does Jerry know about this?<br>
+							<br>
+							
+						KRAMER: Oh yeah.. it's all authorized, yeah.<br>
+							<br>
+							
+						ELAINE: You can't! You can't do this now!<br>
+							<br>
+							
+						KRAMER: Elaine, do you know how booked up this guy is? Now, if I send him away now, it's gonna take Jerry months to get him back.. He won't like that.<br>
+							<br>
+							
+						ELAINE: Alright. Just do it fast and then get out.<br>
+							<br>
+							
+						KRAMER: (Snaps his fingers) Anatoly! (The Russians get to work on command. To Elaine) Look, it's gonna take a few minutes.. Then, you and the gals can take a load off and watch something on Lifetime.<br>
+							<br>
+							
+						(Scene ends)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Setting: George's car]<br>
+							<br>
+							
+						JERRY: And what if we go up there? What are you going to say to her?<br>
+							<br>
+							
+						GEORGE: (Boiling) What am I going to say?!<br>
+							<br>
+							
+						JERRY: Yeah.<br>
+							<br>
+							
+						GEORGE: What did you go out with me for?! Just to dump chocolate on my shirt and then just dump me altogether?! I don't deserve that kind of treatment! What, you don't have the common courtesy to return my calls?! To apologize! You think I'm some sort of a loser, that likes to be abused and ignored?! Who's shirt can be ruined without financial restitution?! Some sort of a masochist who enjoys being humiliated? You think you can avoid me like I have some sort of disease?! You have the disease! You have the disease! You may be beautiful and rich and physically .. just .. unbelievable, but you sicken me! You disgust me! You and everyone like you!<br>
+							<br>
+							
+						JERRY: You'll never say that to her face.<br>
+							<br>
+							
+						GEORGE: Watch me.<br>
+							<br>
+							
+						(Scene ends)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Setting: Jerry's apartment]<br>
+							<br>
+							
+						KRAMER: (Flirting with a female guest) Yeah, I eat the whole apple. The core, stem, seeds, everything.<br>
+							<br>
+							
+						ELAINE: (To Kramer) Kramer, Kramer, look at him. (Gestures to Tabachnick) Look! He's eating all the food!<br>
+							<br>
+							
+						KRAMER: Yeah, yeah. Well, you know, there are many differences between American and Soviet cultures that you're not aware of. See, in Russian, the cable guy, they got the whole run of the house. Yeah, that's tradition. (Turns back to the woman) Did you ever eat the bark of a pineapple?<br>
+							<br>
+							
+						(Tabachnick and his assistant start to argue, then they start fighting)<br>
+							<br>
+							
+						ELAINE: Kramer!<br>
+							<br>
+							
+						KRAMER: (Trying to break up the fight) Uh.. Excuse me..<br>
+							<br>
+							
+						(Everyone's watching the fight. Kramer breaks it up. Tabachnick walks to the bathroom while his assistant returns to work. Tabachnick bangs on the door, and shouts in Russian. A woman finally gets out. Tabachnick gets into the bathroom and slams the door shut. Jerry and George enter. Elaine runs up to greet them)<br>
+							<br>
+							
+						ELAINE: What are you doing here? I thought you were out of town for the weekend.<br>
+							<br>
+							
+						JERRY: The show was cancelled. There was a blizzard.<br>
+							<br>
+							
+						ELAINE: I can't believe you told Kramer it's okay to put the cable in during the shower! Jerry, look,, look! They've eaten everything.<br>
+							<br>
+							
+						(Leslie approaches them)<br>
+							<br>
+							
+						LESLIE: Jerry, what a surprise! I thought you sere out of town.<br>
+							<br>
+							
+						JERRY: Well, Leslie, sometimes the road less travelled is less travelled for a reason.<br>
+							<br>
+							
+						ELAINE: (Speaking confidentially to George) George, don't even think about it! Don't even dream about it!<br>
+							<br>
+							
+						GEORGE: (Unconvincingly coy) About what?<br>
+							<br>
+							
+						TABACHNICK: (Sticks his head out the door) Kramer, Kramer, Kramer..<br>
+							<br>
+							
+						(Kramer rushes over, and quickly closes the bathroom door as Tabachnick joins his assistant at the food table. George is ready for Leslie - he takes off his sweater, revealing the chocolate stain. He walks over to Leslie)<br>
+							<br>
+							
+						GEORGE: Leslie.<br>
+							<br>
+							
+						LESLIE: Yeah?<br>
+							<br>
+							
+						GEORGE: George.. (She doesn't seem to recognize him) George Costanza.<br>
+							<br>
+							
+						LESLIE: Hi.<br>
+							<br>
+							
+						GEORGE: (Laughs) You, I guess, you don't remember me.. but we actually, kind of um.. went out.. a couple of years ago.. once.. remember?<br>
+							<br>
+							
+						LESLIE: Vaguely.<br>
+							<br>
+							
+						GEORGE: You took me to one of your shows..<br>
+							<br>
+							
+						LESLIE: And?<br>
+							<br>
+							
+						GEORGE: And, um, it was quite good. In fact, you even incorporated me into the show. I'm not actually a performer. Although, my parents felt I had talent..<br>
+							<br>
+							
+						(Scene cuts to Jerry)<br>
+							<br>
+							
+						MARY: Jerry?! (A woman, angry at Jerry, approaches him. Jerry looks confused) Remember me?<br>
+							<br>
+							
+						JERRY: I'm sorry, I..<br>
+							<br>
+							
+						MARY: (Livid) Mary Contardi. No? Doesn't ring a bell, Jerry? We had a date, three years ago. You took me to one of your shows.<br>
+							<br>
+							
+						JERRY: (Stammering) Oh, I, I, think I remember..<br>
+							<br>
+							
+						MARY: Told me you had a great time! Said you'd call me the next day.<br>
+							<br>
+							
+						JERRY: Well, I'm sure I meant to call.. I probably just lost your..<br>
+							<br>
+							
+						MARY: Liar! Liar! You were never going to call me! You thought you could waltz throught the rest of your life and never bump into me again! But you were wrong, Jerry! You were wrong! What do you think, I'm some sort of poor, pathetic wretch?!<br>
+							<br>
+							
+						JERRY: No, I don't think that..<br>
+							<br>
+							
+						MARRY: Some person who could be dismissed and ignored?! Some insignificant piece of dust?! Some person who doesn't deserve your respect and your attention?! You're the one that doesn't deserve my respect and my attention! You're the insignificant piece of dust!<br>
+							<br>
+							
+						(She feigns, spitting on the floor near Jerry's shoes, and storms out. Scene cuts to George. Leslie's bored to death)<br>
+							<br>
+							
+						GEORGE: Actually, I never had any formal training. I guess I'd be better suited for improvs, or something..<br>
+							<br>
+							
+						(Mary runs for the door, pushing Leslie into George. Her chocolate cake is now all over George's shirt)<br>
+							<br>
+							
+						LESLIE: Thanks a lot!<br>
+							<br>
+							
+						(Scene cuts to the front door. Elaine is saying goodbye to a few women who are rushing out the door)<br>
+							<br>
+							
+						ELAINE: I'm sorry you have to go.<br>
+							<br>
+							
+						WOMAN: Yeah. I really have to be going.<br>
+							<br>
+							
+						(Scene cuts to Jerry. He notices the cable guys)<br>
+							<br>
+							
+						JERRY: Alright, listen, I've changed my mind about this whole thing. I don't want cable.<br>
+							<br>
+							
+						KRAMER: Don't be a fool.<br>
+							<br>
+							
+						TABACHNICK: You don't want?<br>
+							<br>
+							
+						JERRY: No, I don't want. So, just tell me what I owe you for your trouble..<br>
+							<br>
+							
+						TABACHNICK: (Confers with his assistant, then) Four hundred dollars.<br>
+							<br>
+							
+						JERRY: (To Kramer) Four hundred dollars?1 You told me one-fifty!<br>
+							<br>
+							
+						(Scene cuts to Elaine by the door. Leslie has her coat on, and is ready to leave)<br>
+							<br>
+							
+						LESLIE: I'm going.. obviously.<br>
+							<br>
+							
+						ELAINE: Oh, Leslie, I am so sorry about everything that went on here tonight. You know, I had no idea..<br>
+							<br>
+							
+						LESLIE: Elaine, you know, I was watching you tonight, and I realized something. You're just like you were in college.<br>
+							<br>
+							
+						ELAINE: (Not sure if it was an insult or a compliment) Oh, thank you. (Leslie leaves. Then Elaine wonders to herself) &quot;Like you were in college&quot;?<br>
+							<br>
+							
+						LESLIE: (Comes back, and yells in the direction of the bedroom) Come on! Let's go!<br>
+							<br>
+							
+						(George comes out from the bedroom, carrying all the shower gifts - embarrassed)<br>
+							<br>
+							
+						GEORGE: (Sheepishly to Elaine) I'll be right back. (Leaves)<br>
+							<br>
+							
+						JERRY: (Defiantly) I'm not paying four hundred dollars! I don't even want the thing. What are you going to do?!<br>
+							<br>
+							
+						(Scene ends)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Setting: Jerry's apartment]<br>
+							<br>
+							
+						(Jerry's TV screen is cracked. George and Elaine are slumped on chairs)<br>
+							<br>
+							
+						GEORGE: Every woman on the face of the earth has complete control of my life. And yet, I want them all.. is that irony?<br>
+							<br>
+							
+						ELAINE: Why can't I meet a Kennedy? ..I saw John Junior once downtown. I was on a bus. I hit the ding, but.. it didn't stop.<br>
+							<br>
+							
+						JERRY: Alright, I said I had a good time and I'd call, but who takes that literally?<br>
+							<br>
+							
+						KRAMER: (Pops his head into Jerry's apartment) Hey, come on over, Dr. Zhivago's on cable in five minutes.. I'm making popcorn! (Leaves)<br>
+							<br>
+							
+						(Scene ends)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Setting: Night club]<br>
+							<br>
+							
+						JERRY: What do you do at the end of a date when you know you don't want to see this person ever again, for the rest of your life? What do you say? What do you say? No matter what you say, it's a lie. &quot;I'll see you around. See you around. If you're around, and I'm around, I'll see you around that area. You'll be around other people. You won't be around me. But you will be around.&quot; &quot;Take care now.&quot; Did you ever say that to somebody? &quot;Take care now. Take care, now. Because, I'm not going to be taking care of you. So, you should take care, now.&quot; &quot;Take care. Take care.&quot; What does this mean? &quot;Take off!&quot; Isn't that what you really want to say? &quot;Take off now.&quot;<br>
+							<br>
+							<br>
+							
+						The End</td>
+						</tr>
+						<tr height="6">
+							<td class="bottom2" width="645" height="6"></td>
+						</tr>
+						<tr>
+							<td width="645">
+								<div align="center">
+									<font size="-1">Copyright 2006 seinology.com | All Rights Reserved | Designed by 13erla</font></div>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+		<p></p>
+	</body>
+
+</html>

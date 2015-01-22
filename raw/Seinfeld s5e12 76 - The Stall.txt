@@ -1,0 +1,1439 @@
+<tdOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+<html>
+
+	<head>
+		<meta http-equiv="content-type" content="text/html;charset=ISO-8859-1">
+		<meta name="description" content="Top Source for Seinfeld">
+		<meta name="keywords" content="seinfeld, sienfeld, Jerry Seinfeld, Julia Louis Dreyfus, Jason Alexander, Michael Richards, Kramer, George, Costanza, Elaine Benes, morty, Larry David">
+		<title>Seinology.com :: Scripts :: 76-The Stall</title>
+	<link rel='stylesheet' href='/stylesheet.css' type='text/css'>
+	</head>
+
+	<body>
+			<table align="center" width="787" border="0" cellspacing="0" cellpadding="0">
+				<tr>
+					<td><font size="-2" color="red">Seinology.com - </font><font size="-3" color="black">Where Seinfeld Content and Accuracy Matter Most. Seinfeld scripts in pdf form, Seinfeld episode video clips, Seinfeld episode audio clips, Jerry Seinfeld appearances, Julia Louis-Dreyfus appearances, Michael Richards appearances, Jason Alexander appearances, Seinfeld discussion Forum, Seinfeld Where are they Now? Seinlanguage Newsletter, Popular Seinfeld Lists, Seinfeld episode standup, Seinfeld episode guide, Seinfeld fan fiction. Seinfeld content all on one domain. Seinology.com enjoy your stay.</font></td>
+				</tr>
+			</table>
+		
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr height="100">
+				<td class="logo"></td>
+			</tr>
+			<tr><td class="ads" align="center" background=#8694fa>
+				<script type="text/javascript"><!--
+google_ad_client = "pub-1924026976931416";
+google_ad_width = 728;
+google_ad_height = 90;
+google_ad_format = "728x90_as";
+google_ad_type = "text";
+google_ad_channel = "";
+google_color_border = "FFFFFF";
+google_color_bg = "8694fa";
+google_color_link = "0000FF";
+google_color_text = "000000";
+google_color_url = "002E3F";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></td></tr>
+		</table>
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr>
+				<td valign="top" width="136">
+					<table width="136" border="0" cellspacing="0" cellpadding="0">
+						<tr height="24">
+							<td class="navigation">
+								<div align="center">
+									
+									<b>Navigation</b></div>
+							</td>
+						</tr>
+						<tr height="199">
+							<td class="spacer1" valign="top" width="136" height="199">
+								<div align="center">
+									<font size="-1"><a href="http://www.seinology.com">Home</a><br>
+										<a href="http://board.seinology.com">Forum</a><br>
+										<a href="http://www.seinology.com/av.shtml">Audio/Video</a><br>
+										<a href="http://www.seinology.com/scripts.shtml">Scripts</a><br>
+										<a href="http://www.seinology.com/survivor.shtml">Survivor</a><br>
+										<a href="http://www.seinology.com/fanfics.shtml">Fan Fiction</a><br>
+										<a href="http://www.seinology.com/gallery/">Gallery</a><br>
+										<a href="http://www.seinology.com/newsletter.shtml">Newsletter</a><br>
+										<a href="http://www.seinology.com/lists.shtml">Lists</a><br>
+										<a href="http://www.seinology.com/epguide.shtml">Episode Guide</a><br>
+										<a href="http://www.seinology.com/links.shtml">Links</a><br>
+										<a href="http://www.seinology.com/faqother.shtml">Faq + others</a><br>
+										<a href="http://www.seinology.com/legal.shtml">Legal</a></font></div>
+							</td>
+						</tr>
+						
+						<tr>
+							<td class="nav2" width="136">
+							<div align="center"><b>Search</b></div></td>
+						</tr>
+						<tr>
+							<td class="spacer1" width="136" valign="top"><div align="center"><form method="get" action="http://www.seinology.com/search/search.cgi">
+<p><label for="fdse_Match">Match</label><br>
+<select name="Match" id="fdse_Match" size="1">
+<option value="1">All</option>
+<option value="0">Any</option>
+<option value="2">Phrase</option>
+</select></p>
+<p><label for="fdse_Realm">Where?</label><br>
+<select name="Realm" id="fdse_Realm" size="1">
+<option selected="selected" value="All">EntireSite</option>
+<option value="Ep Guide">Ep Guide</option>
+<option value="Images">Images</option>
+<option value="Lists">Lists</option>
+<option value="Newsletters">Newsletters</option>
+<option value="Scripts">Scripts</option>
+<option value="Notes..Nothing">Notes..Nothing</option>
+</select></p>
+<p><input type="text" name="Terms" size="14" id="fdse_Terms"><br>
+<input type="submit" class="submit" name="submitButtonName" value="Search"></p>
+</div></form></td>
+						</tr>
+						<tr><td class="bottom" width="136" height="10" valign="top">
+						</td>
+						</tr>
+					</table>
+				</td>
+				<td width="4"></td>
+				<td valign="top" width="645">
+					<table width="645" border="0" cellspacing="0" cellpadding="0">
+						<tr height="18">
+							<td width="645" height="35" class="bar">
+								<div align="center">
+									<b><font size="+2" color="black">Script</font></b></div>
+							</td>
+						</tr>
+						<tr height="362">
+							<td class="spacer2" valign="top" width="645" height="362">
+
+						<p><font size="-2">Episode 76 - The Stall<br>
+							
+						pc: 512, season 5, episode 12<br>
+							
+						Broadcast date: January 6, 1994<br>
+							<br>
+							
+						Written by Larry Charles<br>
+							
+						Directed by Tom Cherones<br>
+							<br>
+							
+						-------------------------------------------------------------------------------<br>
+							<br>
+							
+						The Cast<br>
+							
+						Regulars:<br>
+							
+						Jerry Seinfeld ....................... Jerry Seinfeld<br>
+							
+						Jason Alexander .................. George Costanza<br>
+							
+						Julia Louis-Dreyfus ............. Elaine Benes<br>
+							
+						Michael Richards ................. Kramer<br>
+							<br>
+							
+						Guest Stars:<br>
+							<br>
+							
+						Jami Gertz&nbsp; ........................... Jane<br>
+							
+						Dan Cortese ........................ Tony (The Mimbo)<br>
+							<br>
+							
+						==================================================================<br>
+							<br>
+							
+						[opening monologue]<br>
+							<br>
+							
+						JERRY: The whale is supposed to be such an intelligent animal. You know you always here about how they can communicate by song from miles away. How extensive their vocabulary is. I would say from the rate we are pushing the whales off the beach back into the ocean the words shore and close do not appear to be in their vocabulary. I would say if the whales concentrate a little less on the singing and a little more on approaching Quervo beach volleyball tournament. If you wanna maintain the brainy mammal image.<br>
+							<br>
+							<br>
+							
+						[the bathroom]<br>
+							<br>
+							
+						ELAINE: Oh, I can't believe this. What a dope! uh..excuse me umm.. I'm sorry this is.. this is kind of embarrassing but.. there's no toilet paper over here <br>
+							<br>
+							
+						JANE: (from the stall on Elaine's right) Are you talking to me? <br>
+							<br>
+							
+						ELAINE: yeah.. I I just forgot to check so if you could just spare me some.<br>
+							<br>
+							
+						JANE: No I'm sorry <br>
+							<br>
+							
+						ELAINE: What? <br>
+							<br>
+							
+						JANE: No I'm sorry, I can't spare it <br>
+							<br>
+							
+						ELAINE: you can't spare it?? <br>
+							<br>
+							
+						JANE: no there's not enough to spare <br>
+							<br>
+							
+						ELAINE: well I don't need much, just 3 squares will do it <br>
+							<br>
+							
+						JANE: I'm sorry I don't have a square to spare, now if you don't mind <br>
+							<br>
+							
+						ELAINE: 3 squares? you can't spare 3 squares?? <br>
+							<br>
+							
+						JANE: no I don't have a square to spare, I can't spare a square <br>
+							<br>
+							
+						ELAINE: oh is it two-ply? cause it it's two-ply I'll take one ply, one ply, one puny little ply, I'll take one measly ply <br>
+							<br>
+							
+						JANE: look, I don't have a square and I don't have a ply (flushing and leaving) <br>
+							<br>
+							
+						ELAINE: No no, no no, don't don't, I beg you <br>
+							<br>
+							<br>
+							<br>
+							
+						[the movie theater]<br>
+							<br>
+							
+						(Jerry's girlfriend, Jane, returns and sits down)<br>
+							<br>
+							
+						JERRY: (eating pop corn) hmm I love this artificial flavoring I like it better than butter I think it's more consistent <br>
+							<br>
+							
+						JANE: you would not believe what just happened to me in the bathroom <br>
+							<br>
+							
+						JERRY: what? <br>
+							<br>
+							
+						(offering pop corn to Jane) <br>
+							<br>
+							
+						(elsewhere in the same theater) <br>
+							<br>
+							
+						ELAINE: hey <br>
+							<br>
+							
+						TONY: Hey. Hey? where is my popcorn babe? <br>
+							<br>
+							
+						ELAINE: what? <br>
+							<br>
+							
+						TONY: my popcorn, you were supposed to get me popcorn what? would you forget about me babe? <br>
+							<br>
+							
+						ELAINE: you would not believe what just happened to me in the bathroom <br>
+							<br>
+							
+						JANE: I mean.. a person needs a certain amount of toilet paper to be covered.. I simply could not spare it this woman just didn't get it, she kept harassing me <br>
+							<br>
+							
+						ELAINE: 3 squares!! that's all I was asking for! 3 squares! <br>
+							<br>
+							
+						JANE: she wouldn't stop &quot;help me! help me!&quot; she was insane <br>
+							<br>
+							
+						ELAINE: I was begging her &quot;please! please!&quot; she was insane <br>
+							<br>
+							
+						JERRY: who do you think she is? how dare she? you want me to get the manager? too bad they don't have those old ladies walking around with flashlights anymore we'd flush her out <br>
+							<br>
+							
+						JANE: I don't know what she looks like <br>
+							<br>
+							
+						JERRY: I wonder where Elaine is sitting? I really wanted you to meet her she's supposed to be here tonight with her new boyfriend Tony <br>
+							<br>
+							
+						ELAINE: hmm where is Jerry sitting? he's supposed to be here tonight with his new girlfriend I'm dying to see what she looks like <br>
+							<br>
+							
+						TONY: hey? you think if I jumped off that balcony I'd get hurt? <br>
+							<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						[Jerry's apt.] <br>
+							<br>
+							
+						(Jerry's at his computer) <br>
+							<br>
+							
+						(Kramer enters) <br>
+							<br>
+							
+						KRAMER: hey <br>
+							<br>
+							
+						JERRY: hey <br>
+							<br>
+							
+						KRAMER: hey guy, can I use your phone in your bedroom? <br>
+							<br>
+							
+						JERRY: what's the matter with yours? <br>
+							<br>
+							
+						KRAMER: huh.. my batteries are dead <br>
+							<br>
+							
+						JERRY: It's not one of those 976 calls, is it? <br>
+							<br>
+							
+						KRAMER: look come on, let me use it, 5 minutes, I'll pay you back huh? <br>
+							<br>
+							
+						JERRY: why do you do that? <br>
+							<br>
+							
+						KRAMER: oh... (goes to the bedroom) <br>
+							<br>
+							
+						(Elaine enters) <br>
+							<br>
+							
+						ELAINE: I am never going back to the movies again <br>
+							<br>
+							
+						JERRY: hey where were you last night? I looked for you, I didn't see you <br>
+							<br>
+							
+						ELAINE: I looked for you too, I was all the way over on the side <br>
+							<br>
+							
+						JERRY: oh with huh.. pretty boy.. Tony <br>
+							<br>
+							
+						ELAINE: yeah <br>
+							<br>
+							
+						JERRY: hey hey (fooling around with his collar) <br>
+							<br>
+							
+						ELAINE: yeah, all right ok <br>
+							<br>
+							
+						JERRY: Tony, hey hey (continues fooling) <br>
+							<br>
+							
+						ELAINE: that's nice. Listen, listen to this I am in the bathroom, right before the movie starts <br>
+							<br>
+							
+						JERRY: huh huh <br>
+							<br>
+							
+						ELAINE: I'm in the stall and there's no toilet paper <br>
+							<br>
+							
+						JERRY: no what? <br>
+							<br>
+							
+						ELAINE: toilet paper <br>
+							<br>
+							
+						JERRY: oh.. whoa.. <br>
+							<br>
+							
+						ELAINE: so I ask this woman in the stall next to me for some and she refuses! ha ha <br>
+							<br>
+							
+						JERRY: well maybe she couldn't spare it <br>
+							<br>
+							
+						ELAINE: a square? <br>
+							<br>
+							
+						JERRY: well, you know, sometimes a square is everything <br>
+							<br>
+							
+						ELAINE: a ply? <br>
+							<br>
+							
+						JERRY: Elaine, you cannot judge a person on a situation like that. I mean it's like asking for someone's canteen in the desert <br>
+							<br>
+							
+						ELAINE: yeah <br>
+							<br>
+							
+						JERRY: it's battle conditions <br>
+							<br>
+							
+						ELAINE: yeah, well I just hope I run into her again ok, cause I will never forget that flinty voice, it is tattooed in my brain if I hear it, watch out So listen what happened with Jane last night? <br>
+							<br>
+							
+						JERRY: oh.. Jane she uh.. she uh.. <br>
+							<br>
+							
+						ELAINE: the four of us are going out Saturday right? That should be fun <br>
+							<br>
+							
+						JERRY: yeah that should be real fun <br>
+							<br>
+							
+						ELAINE: you know what, it's getting late, can I call Tony? <br>
+							<br>
+							
+						JERRY: yeah <br>
+							<br>
+							
+						(Elaine picks up the wireless phone and presses for the tone) <br>
+							<br>
+							
+						WOMAN'S VOICE ON THE PHONE: then we'll get a cab and we'll do it in the back seat.. how's that Andre? <br>
+							<br>
+							
+						ELAINE: Andre? <br>
+							<br>
+							
+						(Jerry approaches and listens to the phone with Elaine) <br>
+							<br>
+							
+						KRAMER: (on the phone) what about the driver? we could get an accident <br>
+							<br>
+							
+						WOMAN so what? <br>
+							<br>
+							
+						KRAMER: oh that wouldn't be very good <br>
+							<br>
+							
+						JERRY: (on the phone) hey Andre, get the hell off the phone! <br>
+							<br>
+							
+						ELAINE: what, what is going on? what.. who is Andre? <br>
+							<br>
+							
+						JERRY: Kramer's Andre, he's fooling around with these 976 numbers (Kramer walks out of the bedroom) hey I told you, I don't want you doing that on my phone <br>
+							<br>
+							
+						KRAMER: Jerry, I'm telling you, this phone sex thing is hilarious, like this woman Erika, here look (showing the ad in the newspaper). You gotta call her, the voice she uses.. <br>
+							<br>
+							
+						JERRY: hey you know it's weird because that voice sounded a little familiar to me <br>
+							<br>
+							
+						KRAMER: hey, you're hungry? Monk's? <br>
+							<br>
+							
+						JERRY: no I gotta go downtown <br>
+							<br>
+							
+						ELAINE: oh wait, you're giving me a lift home right? <br>
+							<br>
+							
+						JERRY: yeah <br>
+							<br>
+							
+						ELAINE: so listen, what happened last night with Jane? <br>
+							<br>
+							
+						JERRY: oh uh nothing, she just.. choked on a jujube <br>
+							<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						[Jerry's car]<br>
+							<br>
+							
+						ELAINE: you know I hate to tell you this, but it's time to defrost that freezer <br>
+							<br>
+							
+						JERRY: I know, I just can't bring myself to do it meanwhile that freezer keeps getting smaller and smaller (she smiles) (Elaine looks at her watch) oh, don't wanna keep Tony waiting <br>
+							<br>
+							
+						ELAINE: hey you got a problem with Tony? <br>
+							<br>
+							
+						JERRY: hunky.. Tony.. hey hey hey (fools around with his collar again) <br>
+							<br>
+							
+						ELAINE: ok, Jerry, I would be going out with him no matter what he looked like <br>
+							<br>
+							
+						JERRY: of course you would <br>
+							<br>
+							
+						ELAINE: oh yeah, oh.. like you're one to talk <br>
+							<br>
+							
+						JERRY: Elaine <br>
+							<br>
+							
+						ELAINE: what? <br>
+							<br>
+							
+						JERRY: different for a man <br>
+							<br>
+							
+						ELAINE: uh? <br>
+							<br>
+							
+						JERRY: we're expected to be superficial <br>
+							<br>
+							
+						ELAINE: I'm not being superficial <br>
+							<br>
+							
+						JERRY: Elaine, he's a.. he's a male bimbo, he's a mimbo <br>
+							<br>
+							
+						ELAINE: he's not a mimbo, he's an exciting, charismatic man he just happened to have a perfect face <br>
+							<br>
+							
+						JERRY: and that's why you're going out with him <br>
+							<br>
+							
+						ELAINE: no it is not <br>
+							<br>
+							
+						JERRY: you know, I think George has a non-sexual crush on him <br>
+							<br>
+							
+						ELAINE: I think he does too <br>
+							<br>
+							
+						JERRY: I mean, every time I see him, it's Tony this, Tony that. George is like a school girl around him <br>
+							<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						[Monk's] <br>
+							<br>
+							
+						TONY: so I said uh.. &quot;hey dude, you better step off&quot; <br>
+							<br>
+							
+						(Tony takes his cap and wears it backwards) <br>
+							<br>
+							
+						GEORGE: &quot;step off&quot;? <br>
+							<br>
+							
+						TONY: yeah <br>
+							<br>
+							
+						GEORGE: you said &quot;step off&quot;? wow, that is too much hey..huh hey (George turns the cap his wearing backwards like Tony) Tony, I huh, I just had this brainstorm for us. Can you guess what it is? <br>
+							<br>
+							
+						TONY: no <br>
+							<br>
+							
+						GEORGE: bowling! what do you say bowling? bowling's insane! bowling is crazy time <br>
+							<br>
+							
+						TONY: bowling? I don't think so George you get no rush from bowling <br>
+							<br>
+							
+						GEORGE: rush? you want a rush? drop a ball on your toe my friend, talk about a rush, you'll be throbbing, you'll see visions <br>
+							<br>
+							
+						TONY: no no no no, I'm thinking.. rock-climbing <br>
+							<br>
+							
+						GEORGE: all right! rock-climbing! J..just the 2 of us? alright! hey I'll make some sandwiches, what what do you like? tuna? peanut butter? <br>
+							<br>
+							
+						TONY: what.. whatever <br>
+							<br>
+							
+						GEORGE: alright alright, I gotta buy some bread <br>
+							<br>
+							
+						TONY: yeah yeah, you know I'm definitely down for some rock-climbing <br>
+							<br>
+							
+						GEORGE: me too, I am down, I am totally down, mark me down <br>
+							<br>
+							
+						TONY: cool, so what do you say we climb a rock ma&ntilde;ana? <br>
+							<br>
+							
+						GEORGE: uh.. ma&ntilde;ana? huh ma&ntilde;ana might.. huh ma&ntilde;ana might be a problem, I'm supposed to have huh a boil lanced ma&ntilde;ana. Huh you know I think they charge me if I cancel with only one ma&ntilde;ana's notice <br>
+							<br>
+							
+						(Kramer enters) <br>
+							<br>
+							
+						TONY: hey Kramer <br>
+							<br>
+							
+						KRAMER: hey <br>
+							<br>
+							
+						TONY: hey, hey Kramer my man, what are you doing ma&ntilde;ana? <br>
+							<br>
+							
+						KRAMER: ma&ntilde;ana I'm doing nada <br>
+							<br>
+							
+						TONY: what do you say you scale some rock with me and George? <br>
+							<br>
+							
+						GEORGE: uh Tony? there's not gonna be too many sandwiches <br>
+							<br>
+							
+						TONY: c'mon Kramer what do you say? <br>
+							<br>
+							
+						GEORGE: huh Kramer it's huh.. gonna be pretty dangerous up there <br>
+							<br>
+							
+						KRAMER: Na, I am down <br>
+							<br>
+							
+						TONY: yes.. alright buddy, take it easy Kramer you down to it George? what's wrong? <br>
+							<br>
+							
+						GEORGE: Oh no, I am down! <br>
+							<br>
+							
+						(Tony and George high-five really hard. George shakes his hand in pain afterward)<br>
+							<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						[Jerry's] <br>
+							<br>
+							
+						ELAINE: rock climbing? hehe.. where do you come off going rock climbing.. rock climbing? you need a boost to climb into your bed (Elaine laughs) <br>
+							<br>
+							
+						GEORGE: alright alright <br>
+							<br>
+							
+						JERRY: yeah yeah what is it with you and Tony? what are you? it's like his sidekick now? <br>
+							<br>
+							
+						GEORGE: yeah that's right. I like it. He's such a cool guy <br>
+							<br>
+							
+						JERRY: cool guy? what are you, in 8th grade? <br>
+							<br>
+							
+						GEORGE: he's the first cool guy I've ever been friends with in my whole life. You know.. it's a different world when you're with a cool guy, he's not afraid of anybody. You should hear the way he talks to waitresses.. he gets free pie! <br>
+							<br>
+							
+						(Kramer enters) <br>
+							<br>
+							
+						KRAMER: hey <br>
+							<br>
+							
+						EVERYBODY hey <br>
+							<br>
+							
+						GEORGE: hey nice move today <br>
+							<br>
+							
+						KRAMER: what? <br>
+							<br>
+							
+						GEORGE: horning on my rock climbing trip. It's just supposed to be me and Tony <br>
+							<br>
+							
+						KRAMER: he asked me <br>
+							<br>
+							
+						GEORGE: you put him on the spot <br>
+							<br>
+							
+						KRAMER: you know I think you are in love with him <br>
+							<br>
+							
+						GEORGE: what?.. that's ridiculous! <br>
+							<br>
+							
+						KRAMER: no no no, I don't think so. You love him <br>
+							<br>
+							
+						GEORGE: you better be careful on those rocks tomorrow buddy. And you're not getting any sandwiches either <br>
+							<br>
+							
+						(phone rings, Kramer answers) <br>
+							<br>
+							
+						JERRY: you're making sandwiches? <br>
+							<br>
+							
+						KRAMER: hello <br>
+							<br>
+							
+						GEORGE: well I don't know if there's gonna be any place to eat up there <br>
+							<br>
+							
+						KRAMER: who? <br>
+							<br>
+							
+						GEORGE: Hey Elaine, does Tony like peanut butter? <br>
+							<br>
+							
+						ELAINE: hates it <br>
+							<br>
+							
+						GEORGE: good thing I asked <br>
+							<br>
+							
+						JERRY: (to Kramer): who is it? <br>
+							<br>
+							
+						KRAMER: well she says Jane <br>
+							<br>
+							
+						JERRY: yeah, so? <br>
+							<br>
+							
+						KRAMER: well that voice, it's very familiar.. throaty, almost flinty <br>
+							<br>
+							
+						JERRY: did you say flinty? <br>
+							<br>
+							
+						KRAMER: yeah yeah, (in a flinty voice) flinty <br>
+							<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						[on the rocks]<br>
+							<br>
+							
+						(Kramer and George are hanging on a rock) <br>
+							<br>
+							
+						KRAMER: (singing) yodel lay hee hoo! yodel lay hee hoo! hello! (Kramer jumps around George from one side to an other) <br>
+							<br>
+							
+						ECHO: hello <br>
+							<br>
+							
+						KRAMER: hey George, hear that? <br>
+							<br>
+							
+						(George is terrified) <br>
+							<br>
+							
+						GEORGE: please please I don't want to die up here. please, stop moving that's all I'm asking.. Kramer!! <br>
+							<br>
+							
+						(George grabs Kramer's leg) <br>
+							<br>
+							
+						KRAMER: let go, hey grab the rock <br>
+							<br>
+							
+						GEORGE: what rock? <br>
+							<br>
+							
+						KRAMER: the rock <br>
+							<br>
+							
+						GEORGE: uh oh.. <br>
+							<br>
+							
+						KRAMER: you gotta relax.. try the yodel (chanting) yodel lay hee hoo <br>
+							<br>
+							
+						GEORGE: (sobbing) yodel lay hee hoo.. <br>
+							<br>
+							
+						KRAMER: (chanting) yodel lay hee hoo <br>
+							<br>
+							
+						GEORGE: (sobbing) yodel lay hee hoo.. <br>
+							<br>
+							
+						TONY: (voice from below) George! Kramer! <br>
+							<br>
+							
+						KRAMER: yeah! <br>
+							<br>
+							
+						TONY: take the rope, thread it through the carabiniere and knot it, and I'll climb up to where you are <br>
+							<br>
+							
+						KRAMER: alright.. George you got it? (gives him the rope) <br>
+							<br>
+							
+						GEORGE: yeah <br>
+							<br>
+							
+						TONY: hey George, you got anything to eat dude? <br>
+							<br>
+							
+						GEORGE: (taking it out of his jacket pocket) yeah I got some sandwiches.. I got tuna.. and salmon salad Tony because I know you don't like peanut butter <br>
+							<br>
+							
+						(the ropes slides down) <br>
+							<br>
+							
+						KRAMER: what? <br>
+							<br>
+							
+						TONY: dude aah....... <br>
+							<br>
+							
+						(George and Kramer look at each other) <br>
+							<br>
+							
+						GEORGE &amp; KRAMER: ahh.....!! <br>
+							<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						[Jerry's] <br>
+							<br>
+							
+						(Jerry and Jane are eating) <br>
+							<br>
+							
+						JERRY: oh look at that I got oil all over me. Can I have your napkin? <br>
+							<br>
+							
+						JANE: what? <br>
+							<br>
+							
+						JERRY: you napkin I'm dripping <br>
+							<br>
+							
+						JANE: well where is your napkin? <br>
+							<br>
+							
+						JERRY: I used it up <br>
+							<br>
+							
+						JANE: well I need mine (looks at her watch) oh god loot at the time, I gotta get to work <br>
+							<br>
+							
+						JERRY: you know I'd like to hear about this job of yours <br>
+							<br>
+							
+						JANE: I told you already it's very boring you know I think I got a little too much garlic, can I have a piece of gum <br>
+							<br>
+							
+						JERRY: you're fine (goes to the bathroom) <br>
+							<br>
+							
+						(buzzer rings) <br>
+							<br>
+							
+						JANE: oh how does this thing work? <br>
+							<br>
+							
+						JERRY: just press it <br>
+							<br>
+							
+						ELAINE: it's Elaine <br>
+							<br>
+							
+						JANE: oh come on up <br>
+							<br>
+							
+						JERRY: (coming out from the bathroom) who was it? <br>
+							<br>
+							
+						JANE: it's Elaine <br>
+							<br>
+							
+						JERRY: oh..huh.. is she coming up? <br>
+							<br>
+							
+						JANE: yeah <br>
+							<br>
+							
+						JERRY: oh.. uh.. you know your breath is a little garlicky you better take some gum. <br>
+							<br>
+							
+						JANE: ok <br>
+							<br>
+							
+						JERRY: Yeah have a couple of pieces, weak, weak gum yeah <br>
+							<br>
+							
+						(Jane has her mouth full of gum and can't talk now) <br>
+							<br>
+							
+						JANE: hmm <br>
+							<br>
+							
+						JERRY: have some more, take some for the road. <br>
+							<br>
+							
+						JANE: isn't it too much? <br>
+							<br>
+							
+						JERRY: trust me.. nah it's good <br>
+							<br>
+							
+						JANE: smell? <br>
+							<br>
+							
+						JERRY: yeah stinks, terrible <br>
+							<br>
+							
+						(Elaine enters) <br>
+							<br>
+							
+						JERRY: hi Elaine <br>
+							<br>
+							
+						ELAINE: hi <br>
+							<br>
+							
+						JERRY: this is Jane Elaine <br>
+							<br>
+							
+						ELAINE: hi, nice to meet you finally <br>
+							<br>
+							
+						JANE: it's so nice to meet you (chewing) I look forward to Saturday night <br>
+							<br>
+							
+						ELAINE: yeah me too <br>
+							<br>
+							
+						JANE: ok so I'll see you Saturday night <br>
+							<br>
+							
+						JERRY: Saturday night (she leaves) <br>
+							<br>
+							
+						(Jerry shuts the door) <br>
+							<br>
+							
+						ELAINE: what is with the gum? <br>
+							<br>
+							
+						JERRY: I know it's a big problem.. she puts like four pieces in her mouth, it's ridiculous, I don't think we're gonna be able to get together on Saturday night <br>
+							<br>
+							
+						ELAINE: because of the gum <br>
+							<br>
+							
+						JERRY: well it's too much, it's embarrassing <br>
+							<br>
+							
+						ELAINE: why does she have to chew so many? <br>
+							<br>
+							
+						JERRY: she's one of these people, always have to be different <br>
+							<br>
+							
+						(on the other side of the door) <br>
+							<br>
+							
+						(whispering) <br>
+							<br>
+							
+						GEORGE: she's there, I can hear her <br>
+							<br>
+							
+						KRAMER: alright, who's gonna tell her <br>
+							<br>
+							
+						GEORGE: huh you tell her <br>
+							<br>
+							
+						KRAMER: it was your fault <br>
+							<br>
+							
+						GEORGE: if you hadn't come, this whole thing wouldn't have happen (back on Jerry and Elaine's side, we can hear George saying &quot;I was the one who was invited&quot;, Jerry opens the door) <br>
+							<br>
+							
+						JERRY: well <br>
+							<br>
+							
+						ELAINE: hey <br>
+							<br>
+							
+						GEORGE &amp; KRAMER: hey <br>
+							<br>
+							
+						GEORGE: what are you doing here? <br>
+							<br>
+							
+						ELAINE: did you have fun <br>
+							<br>
+							
+						GEORGE &amp; KRAMER: yeah <br>
+							<br>
+							
+						KRAMER: for a little while <br>
+							<br>
+							
+						ELAINE: where's Tony? <br>
+							<br>
+							
+						GEORGE: oh.. <br>
+							<br>
+							
+						KRAMER: uh.. <br>
+							<br>
+							
+						GEORGE: Kramer was supposed to tie a knot <br>
+							<br>
+							
+						KRAMER: whoa whoa ginga, you were supposed to tie the knot <br>
+							<br>
+							
+						ELAINE: did something happened? <br>
+							<br>
+							
+						GEORGE: Well, Tony.. took a bit of a tumble <br>
+							<br>
+							
+						ELAINE: his face, did something happen to his face? <br>
+							<br>
+							
+						KRAMER: well it all depends on what you mean by.. happen <br>
+							<br>
+							
+						GEORGE: he..he's alive <br>
+							<br>
+							
+						KRAMER: yeah <br>
+							<br>
+							
+						ELAINE: what happened to his face, tell me, what happened to his face <br>
+							<br>
+							
+						GEORGE: Well you see he slipped, and he landed on a kinda of a.. <br>
+							<br>
+							
+						KRAMER: rock <br>
+							<br>
+							
+						GEORGE: yeah.. the ambulance got there very quickly <br>
+							<br>
+							
+						KRAMER: it was a big rock <br>
+							<br>
+							
+						GEORGE: we rode along all the way to the hospital <br>
+							<br>
+							
+						KRAMER: yeah I sang 99 bottles of beer on the wall <br>
+							<br>
+							
+						(Elaine rushes out) <br>
+							<br>
+							
+						JERRY: well aside from that from that, how did he like the sandwiches? <br>
+							<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						[Tony's] <br>
+							<br>
+							
+						ELAINE: so huh, what did the doctors say? <br>
+							<br>
+							
+						TONY: they said huh.. they said I'm coming along (Tony's face is covered by bandages) <br>
+							<br>
+							
+						ELAINE: but what else did they say <br>
+							<br>
+							
+						TONY: well, they said huh Tony, try to keep it clean <br>
+							<br>
+							
+						ELAINE: right yeah.. no I mean did they get into stuff like a.. long jagged scars or.. gross deformities, major skin grafts, stuff like that <br>
+							<br>
+							
+						TONY: I really don't remember, I was kinda out of it for the 1st couple of days, I was on a lot of medication, it was kinda like haze, it was pretty cool <br>
+							<br>
+							
+						ELAINE: huh (smiles) but huh, in this medicated haze, in this woozy state, um do you recall the words.. radical reconstructive surgery being uttered? <br>
+							<br>
+							
+						TONY: I don't know, I don't know <br>
+							<br>
+							
+						ELAINE: think Tony, think <br>
+							<br>
+							
+						TONY: I'm drawing a blank, babe <br>
+							<br>
+							
+						(knock on door) <br>
+							<br>
+							
+						ELAINE: Excuse me.<br>
+							<br>
+							
+						(Elaine gets it, it's George) <br>
+							<br>
+							
+						GEORGE: Hi Elaine<br>
+							<br>
+							
+						ELAINE: this isn't a very good time George <br>
+							<br>
+							
+						GEORGE: I just wanted to talk to Tony for a minute (hands Elaine some stuff) <br>
+							<br>
+							
+						TONY: step off George, I don't wanna see you <br>
+							<br>
+							
+						GEORGE: me? &quot;step off&quot; <br>
+							<br>
+							
+						ELAINE: yeah, Tony says you better step off George <br>
+							<br>
+							
+						GEORGE: but..why, it wasn't my fault, I .. you asked me a sandwich, I .. I make such delicious sandwiches Elaine <br>
+							<br>
+							
+						TONY: just beat it dude! <br>
+							<br>
+							
+						GEORGE: here Elaine here, Superman (hands a comic book to Elaine, who passes it to Tony) please, next time it will only be the two of us <br>
+							<br>
+							
+						TONY: there won't be any next time George <br>
+							<br>
+							
+						GEORGE: oh Tony don't <br>
+							<br>
+							
+						ELAINE: ok step off George, can u just step off? <br>
+							<br>
+							
+						GEORGE: I I just.. but.. <br>
+							<br>
+							
+						ELAINE: Bye bye (shuts the door) oh.. (opens it back) George wait wait <br>
+							<br>
+							
+						GEORGE: yes? <br>
+							<br>
+							
+						ELAINE: would you throw this trash out (closes the door) <br>
+							<br>
+							
+						&nbsp;<br>
+							
+						[Jerry's] <br>
+							<br>
+							
+						(Jane is giving Jerry a massage) <br>
+							<br>
+							
+						JERRY: I've been waiting a while for this. You know it's a shame Tony got all banged up, we're not gonna be able to get together on Saturday night <br>
+							<br>
+							
+						JANE: Oh that is too bad, what a shame <br>
+							<br>
+							
+						JERRY: yeah, it's a damn shame, a damn shame! <br>
+							<br>
+							
+						JANE: well maybe he's feeling better <br>
+							<br>
+							
+						JERRY: yeah without a doubt, I'm down (Kramer enters) oh hey how're you doing? Jane this is my neighbor Kramer <br>
+							<br>
+							
+						KRAMER: hey <br>
+							<br>
+							
+						JANE: hello Kramer (he acts all weird, a la Kramer) <br>
+							<br>
+							
+						KRAMER: well hello Jane <br>
+							<br>
+							
+						JANE: Jerry told me so much about you, I feel like I know you intimately <br>
+							<br>
+							
+						KRAMER: (very quickly) oh I don't think so, no we never met, I never talked to you before on the phone, alright I'll see you later buddy <br>
+							<br>
+							
+						JERRY: wait, where are you going? where are you going? <br>
+							<br>
+							
+						KRAMER: uptown, to the Y <br>
+							<br>
+							
+						JANE: oh I'm going uptown too, you wanna split a cab? <br>
+							<br>
+							
+						KRAMER: what about the driver? <br>
+							<br>
+							
+						JANE: what are you talking about? <br>
+							<br>
+							
+						JERRY: alright I changed my mind, uh yeah I don't think I'm not gonna go now <br>
+							<br>
+							
+						JANE: well ok I'll see you later, <br>
+							<br>
+							
+						JERRY: Ok.<br>
+							<br>
+							
+						JANE: nice meeting you <br>
+							<br>
+							
+						JERRY:See ya. (Jane Leaves; after the door closes Kramer jumps in shock) what's with you? <br>
+							<br>
+							
+						KRAMER: that's her <br>
+							<br>
+							
+						JERRY: who? <br>
+							<br>
+							
+						KRAMER: Erika, she's Erika <br>
+							<br>
+							
+						JERRY: oh you think she's Erika, the phone sex woman <br>
+							<br>
+							
+						KRAMER: Jerry, that voice is tattooed on my brain, I'm telling you it's her <br>
+							<br>
+							
+						JERRY: oh you're crazy <br>
+							<br>
+							
+						KRAMER: Am I? Or am I so sane that you just blew your mind? <br>
+							<br>
+							
+						JERRY: It's impossible <br>
+							<br>
+							
+						KRAMER: iIs it? Or is it so possible your heard is spinning like a top? <br>
+							<br>
+							
+						JERRY: it can't be <br>
+							<br>
+							
+						KRAMER: Can't it? Or is your entire world just crashing down all around you? <br>
+							<br>
+							
+						JERRY: alright that's enough <br>
+							<br>
+							
+						KRAMER: yeaaaaah! <br>
+							<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						[Monk's] <br>
+							<br>
+							
+						ELAINE: he's supposed to get the bandages off on Sunday.. what if? <br>
+							<br>
+							
+						JERRY: what? <br>
+							<br>
+							
+						ELAINE: you know (acts like a monster) <br>
+							<br>
+							
+						JERRY: oh you're afraid he might look like Zippy the pinhead <br>
+							<br>
+							
+						ELAINE: yeah I mean, I mean what is my obligation here, you know we were just dating, it was probably gonna be over in a couple of weeks anyway <br>
+							<br>
+							
+						JERRY: oh I though you didn't care about his looks <br>
+							<br>
+							
+						ELAINE: I lied <br>
+							<br>
+							
+						JERRY: aha <br>
+							<br>
+							
+						ELAINE: are you kidding, he's a mimbo I know that.. but he's my mimbo, you know and even if he is a hideous freak maybe, maybe I can learn to love him, maybe in some final irony (Jerry is looking the other way), I'll learn what love really is. You know Jerry <br>
+							<br>
+							
+						JERRY: oh I'm sorry I didn't get most of that.. isn't that Kramer over there? <br>
+							<br>
+							
+						ELAINE: yeah, yeah <br>
+							<br>
+							
+						JERRY: hey Kramer <br>
+							<br>
+							
+						KRAMER: what? hey (walks by Jerry and Elaine's table) it's all set <br>
+							<br>
+							
+						JERRY: what's all set? <br>
+							<br>
+							
+						KRAMER: Erika is gonna meet me here, now we're gonna find out the truth <br>
+							<br>
+							
+						JERRY: how's you get her to meet here? <br>
+							<br>
+							
+						KRAMER: I don't know, we have a certain chemistry <br>
+							<br>
+							
+						(Jane shows up and when she sees Jerry, she walks by their table, smiling) <br>
+							<br>
+							
+						JERRY: oh my god <br>
+							<br>
+							
+						JANE: hi I thought I'd find you here <br>
+							<br>
+							
+						JERRY: hello.. Erika <br>
+							<br>
+							
+						JANE: Erika? what are you talking about? <br>
+							<br>
+							
+						JERRY: how can u say things like that over the phone? <br>
+							<br>
+							
+						JANE: what things? What are you talking about? <br>
+							<br>
+							
+						JERRY: selling sexual pleasure over the phone? <br>
+							<br>
+							
+						JANE: I sell paper goods you jerk <br>
+							<br>
+							
+						JERRY: paper goods? <br>
+							<br>
+							
+						ELAINE: excuse me, do you have a tissue? <br>
+							<br>
+							
+						JANE: No, I'm sorry, I can't spare it, there's not enough to spare <br>
+							<br>
+							
+						(Elaine realizes) <br>
+							<br>
+							
+						JANE: Where's the ladies' room (Kramer points her) <br>
+							<br>
+							
+						ELAINE: I have to go to the bathroom too (runs to be ahead of Jane; Jane stops and looks back at Jerry; Jerry shugs) <br>
+							<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						[monk's: the bathroom] <br>
+							<br>
+							
+						JANE: oh damn <br>
+							<br>
+							
+						ELAINE: something.. wrong? <br>
+							<br>
+							
+						JANE: yeah there's no toilet paper in here, I usually check but would you mind? <br>
+							<br>
+							
+						ELAINE: I can't, I don't have it, I don't have a square to spare, I can't spare a square <br>
+							<br>
+							
+						JANE: Hey, wait a minute, I know you <br>
+							<br>
+							
+						ELAINE: that's right honey, and I know you! <br>
+							<br>
+							
+						(Elaine gets out and she has an arms full of toilet paper) <br>
+							<br>
+							
+						JANE: no, no, no!!! <br>
+							<br>
+							<br>
+							<br>
+							
+						[Monk's]<br>
+							<br>
+							
+						(Elaine after exiting the bathroom very satisfied, walks towards Jerry and gives him the rolls) <br>
+							<br>
+							
+						ELAINE: here, take it <br>
+							<br>
+							
+						JERRY: thanks<br>
+							<br>
+							
+						JANE: (walks out of the bathroom, very furious; to Jerry) don't call me anymore <br>
+							<br>
+							
+						(Jerry doesn't say anything and waves his hands) <br>
+							<br>
+							
+						(Jane walks by Kramer and turns back) <br>
+							<br>
+							
+						JANE: (to Kramer, in a very sensual voice) you either <br>
+							<br>
+							
+						(sticks her tongue out) <br>
+							<br>
+							
+						(Kramer and Jerry look at each other, with their mouths open) <br>
+							<br>
+							<br>
+							<br>
+							
+						[Closing monologue]<br>
+							<br>
+							
+						JERRY: Now of the course the thing is Extreme sports. Bungie jumping. To me if Bungie jumping is a sport so is being a crash test dummy. Just leaning does not make it a sport. It's like a Wiley Coyote idea isn't it? The thing I wonder about the sky diving is why do they even bother with the helmets? Can you almost make it? Why don't they just wear a party hat? What's the difference? You jump out of a plane from twenty thousand feet in the air the chute doesn't open I got news for you, the helmet is now wearing you for protection. Later on the helmet's talking to the other helmets going &quot;boy it's a good thing he was there or I would have hit the ground directly.&quot; <br>
+							<br>
+							<br>
+							
+						The End</td>
+						</tr>
+						<tr height="6">
+							<td class="bottom2" width="645" height="6"></td>
+						</tr>
+						<tr>
+							<td width="645">
+								<div align="center">
+									<font size="-1">Copyright 2006 seinology.com | All Rights Reserved | Designed by 13erla</font></div>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+		<p></p>
+	</body>
+
+</html>

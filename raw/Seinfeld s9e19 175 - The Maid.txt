@@ -1,0 +1,1622 @@
+<tdOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+<html>
+
+	<head>
+		<meta http-equiv="content-type" content="text/html;charset=ISO-8859-1">
+		<meta name="description" content="Top Source for Seinfeld">
+		<meta name="keywords" content="seinfeld, sienfeld, Jerry Seinfeld, Julia Louis Dreyfus, Jason Alexander, Michael Richards, Kramer, George, Costanza, Elaine Benes, morty, Larry David">
+		<title>Seinology.com :: Scripts :: 175-The Maid</title>
+	<link rel='stylesheet' href='/stylesheet.css' type='text/css'>
+	</head>
+
+	<body>
+			<table align="center" width="787" border="0" cellspacing="0" cellpadding="0">
+				<tr>
+					<td><font size="-2" color="red">Seinology.com - </font><font size="-3" color="black">Where Seinfeld Content and Accuracy Matter Most. Seinfeld scripts in pdf form, Seinfeld episode video clips, Seinfeld episode audio clips, Jerry Seinfeld appearances, Julia Louis-Dreyfus appearances, Michael Richards appearances, Jason Alexander appearances, Seinfeld discussion Forum, Seinfeld Where are they Now? Seinlanguage Newsletter, Popular Seinfeld Lists, Seinfeld episode standup, Seinfeld episode guide, Seinfeld fan fiction. Seinfeld content all on one domain. Seinology.com enjoy your stay.</font></td>
+				</tr>
+			</table>
+		
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr height="100">
+				<td class="logo"></td>
+			</tr>
+			<tr><td class="ads" align="center" background=#8694fa>
+				<script type="text/javascript"><!--
+google_ad_client = "pub-1924026976931416";
+google_ad_width = 728;
+google_ad_height = 90;
+google_ad_format = "728x90_as";
+google_ad_type = "text";
+google_ad_channel = "";
+google_color_border = "FFFFFF";
+google_color_bg = "8694fa";
+google_color_link = "0000FF";
+google_color_text = "000000";
+google_color_url = "002E3F";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></td></tr>
+		</table>
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr>
+				<td valign="top" width="136">
+					<table width="136" border="0" cellspacing="0" cellpadding="0">
+						<tr height="24">
+							<td class="navigation">
+								<div align="center">
+									
+									<b>Navigation</b></div>
+							</td>
+						</tr>
+						<tr height="199">
+							<td class="spacer1" valign="top" width="136" height="199">
+								<div align="center">
+									<font size="-1"><a href="http://www.seinology.com">Home</a><br>
+										<a href="http://board.seinology.com">Forum</a><br>
+										<a href="http://www.seinology.com/av.shtml">Audio/Video</a><br>
+										<a href="http://www.seinology.com/scripts.shtml">Scripts</a><br>
+										<a href="http://www.seinology.com/survivor.shtml">Survivor</a><br>
+										<a href="http://www.seinology.com/fanfics.shtml">Fan Fiction</a><br>
+										<a href="http://www.seinology.com/gallery/">Gallery</a><br>
+										<a href="http://www.seinology.com/newsletter.shtml">Newsletter</a><br>
+										<a href="http://www.seinology.com/lists.shtml">Lists</a><br>
+										<a href="http://www.seinology.com/epguide.shtml">Episode Guide</a><br>
+										<a href="http://www.seinology.com/links.shtml">Links</a><br>
+										<a href="http://www.seinology.com/faqother.shtml">Faq + others</a><br>
+										<a href="http://www.seinology.com/legal.shtml">Legal</a></font></div>
+							</td>
+						</tr>
+						
+						<tr>
+							<td class="nav2" width="136">
+							<div align="center"><b>Search</b></div></td>
+						</tr>
+						<tr>
+							<td class="spacer1" width="136" valign="top"><div align="center"><form method="get" action="http://www.seinology.com/search/search.cgi">
+<p><label for="fdse_Match">Match</label><br>
+<select name="Match" id="fdse_Match" size="1">
+<option value="1">All</option>
+<option value="0">Any</option>
+<option value="2">Phrase</option>
+</select></p>
+<p><label for="fdse_Realm">Where?</label><br>
+<select name="Realm" id="fdse_Realm" size="1">
+<option selected="selected" value="All">EntireSite</option>
+<option value="Ep Guide">Ep Guide</option>
+<option value="Images">Images</option>
+<option value="Lists">Lists</option>
+<option value="Newsletters">Newsletters</option>
+<option value="Scripts">Scripts</option>
+<option value="Notes..Nothing">Notes..Nothing</option>
+</select></p>
+<p><input type="text" name="Terms" size="14" id="fdse_Terms"><br>
+<input type="submit" class="submit" name="submitButtonName" value="Search"></p>
+</div></form></td>
+						</tr>
+						<tr><td class="bottom" width="136" height="10" valign="top">
+						</td>
+						</tr>
+					</table>
+				</td>
+				<td width="4"></td>
+				<td valign="top" width="645">
+					<table width="645" border="0" cellspacing="0" cellpadding="0">
+						<tr height="18">
+							<td width="645" height="35" class="bar">
+								<div align="center">
+									<b><font size="+2" color="black">Script</font></b></div>
+							</td>
+						</tr>
+						<tr height="362">
+							<td class="spacer2" valign="top" width="645" height="362">
+
+						<p><font size="-2">Episode 175 - The Maid<br>
+							
+						pc: 919 season 9, episode 19<br>
+							
+						Broadcast date: April 30, 1998<br>
+							<br>
+							
+						Written by Alec Berg &amp; David Mandel &amp; Jeff Schaffer<br>
+							
+						Story by Alec Berg &amp; David Mandel &amp; Jeff Schaffer and Kit Boss &amp; Peter Mehlman<br>
+							
+						Directed by Andy Ackerman<br>
+							<br>
+							
+						-------------------------------------------------------------------------------<br>
+							<br>
+							
+						The Cast<br>
+							
+						Regulars:<br>
+							
+						Jerry Seinfeld ......................&nbsp; Jerry Seinfeld<br>
+							
+						Jason Alexander .................. George Costanza<br>
+							
+						Julia Louis-Dreyfus .............. Elaine Benes<br>
+							
+						Michael Richards .................. Cosmo Kramer<br>
+							<br>
+							
+						Guest Stars:<br>
+							<br>
+							
+						Daniel Von Bargen .............. Kruger<br>
+							
+						Angela Featherstone ........... Cindy<br>
+							
+						Anthony Crivello ................. Maxwell<br>
+							
+						Markus Flanagan ................. Charles<br>
+							
+						Sam Whipple ........................ Phone Guy #1<br>
+							
+						Kyle Colerider-Krugh .......... Phone Guy #2<br>
+							
+						Steve Franken ...................... Brendan<br>
+							
+						Davenia McFadden .............. Coco<br>
+							
+						Damon Jones ........................ Watkins<br>
+							
+						Chip Chinery ........................ Co-Worker #1<br>
+							
+						Colin McClean ...................... Co-Worker #2<br>
+							
+						Anthony Mangano ............... Fireman<br>
+							<br>
+							
+						==================================================================<br>
+							<br>
+							
+						[INT. MONK'S RESTAURANT - DAY]<br>
+							<br>
+							
+						(George and Jerry sit at their usual booth.)<br>
+							<br>
+							
+						JERRY (to waitress): Cup of tea with lemon.<br>
+							<br>
+							
+						GEORGE: What happened to your voice?<br>
+							<br>
+							
+						JERRY: I was screamin' at hecklers all night. The last time I open for a rodeo.<br>
+							<br>
+							
+						GEORGE: Well, Jerry, I been thinkin'. I've gotten as far as I can go with George Costanza.<br>
+							<br>
+							
+						JERRY: Is this the suicide talk or the nickname talk?<br>
+							<br>
+							
+						GEORGE: The nickname. George. What is that? It's nothing. It's got no snap, no zip. I need a nickname that makes people light up.<br>
+							<br>
+							
+						JERRY: You mean like...Liza!<br>
+							<br>
+							
+						GEORGE: But I was thinking...T-bone.<br>
+							<br>
+							
+						JERRY: But there's no &quot;t&quot; in your name. What about G-bone?<br>
+							<br>
+							
+						GEORGE: There's no G-bone.<br>
+							<br>
+							
+						JERRY: There's a g-spot.<br>
+							<br>
+							
+						GEORGE: That's a myth.<br>
+							<br>
+							
+						(George takes a bite of his sandwich and gets a piece stuck to his chin.)<br>
+							<br>
+							
+						JERRY: T-bone, the ladies are gonna love ya.<br>
+							<br>
+							<br>
+							<br>
+							
+						[INT. JERRY'S APARTMENT - DAY]<br>
+							<br>
+							
+						(Jerry and Elaine are sitting on the sofa chewing gum.)<br>
+							<br>
+							
+						ELAINE: Why did they hire you for a rodeo?<br>
+							<br>
+							
+						JERRY: They heard I opened for Kenny Rogers once.<br>
+							<br>
+							
+						ELAINE: Didn't he throw you off a bus in the middle of Alabama or--<br>
+							<br>
+							
+						JERRY: Oh, I had that comin' to me.<br>
+							<br>
+							
+						ELAINE: You know, Kenny Rogers has a-<br>
+							<br>
+							
+						(Jerry's maid exits from his bedroom and walks over to the kitchen.)<br>
+							<br>
+							
+						ELAINE (whispering): Why did you get a maid?<br>
+							<br>
+							
+						JERRY: You don't have to whisper. She knows she's a maid.<br>
+							<br>
+							
+						ELAINE: Where did you get her?<br>
+							<br>
+							
+						JERRY: I hired her from a service!<br>
+							<br>
+							
+						MAID: All done.<br>
+							<br>
+							
+						JERRY: Thank you. Nice job.<br>
+							<br>
+							
+						MAID: Is this mine?<br>
+							<br>
+							
+						JERRY: Yeah.<br>
+							<br>
+							
+						(The maid leaves Jerry's apartment. Elaine smiles at Jerry.)<br>
+							<br>
+							
+						JERRY: What?<br>
+							<br>
+							
+						ELAINE: Come on, Jerry. You didn't notice?<br>
+							<br>
+							
+						JERRY: Notice what? She's not really even a maid.<br>
+							<br>
+							
+						ELAINE: Oh.<br>
+							<br>
+							
+						JERRY: She wants to be an actress...or a, uh, model...or a dancer...or a...news woman.<br>
+							<br>
+							
+						ELAINE: Uh-huh. News woman. Yeah.<br>
+							<br>
+							
+						(Kramer enters.)<br>
+							<br>
+							
+						KRAMER: Hey. Well, bad news, boys. My life is over. My girlfriend's movin' away.<br>
+							<br>
+							
+						JERRY: You have a girlfriend?<br>
+							<br>
+							
+						(Jerry stands up; Kramer opens the fridge.)<br>
+							<br>
+							
+						KRAMER: Jerry, where have you been?<br>
+							<br>
+							
+						JERRY: At a rodeo. Where's she moving?<br>
+							<br>
+							
+						KRAMER: Downtown.<br>
+							<br>
+							
+						ELAINE: Downtown New York?<br>
+							<br>
+							
+						KRAMER: Yeah. I don't know if I can handle one of these long-distance relationships.<br>
+							<br>
+							
+						JERRY: It's like 10 minutes by subway.<br>
+							<br>
+							
+						KRAMER: I don't know.<br>
+							<br>
+							
+						(Kramer opens a bottled carbonated drink which overflows and spills onto the floor.)<br>
+							<br>
+							
+						KRAMER: Oh! Jeez! Well, you've got a maid. It's a whole different world downtown-- different Gap, different Tower Records, and she's a 646.<br>
+							<br>
+							
+						ELAINE: What? What is that?<br>
+							<br>
+							
+						JERRY: That's the new area code. They've run out of 242s, so all the new numbers are 646.<br>
+							<br>
+							
+						ELAINE: I was a 718 when I first moved here. I cried every night.<br>
+							<br>
+							
+						KRAMER: Listen. Heads up, Elaine. I'm gonna have to stop by later and pick up a fax.<br>
+							<br>
+							
+						ELAINE: At work?<br>
+							<br>
+							
+						KRAMER: No. At your apartment.<br>
+							<br>
+							
+						ELAINE: I don't have a fax machine.<br>
+							<br>
+							
+						JERRY: Here we go.<br>
+							<br>
+							
+						KRAMER: Well, now what are we gonna do? (to Jerry) See? This is why you should get a fax and a Xerox.<br>
+							<br>
+							
+						JERRY: And a dead bolt.<br>
+							<br>
+							
+						KRAMER (to Elaine) Are ya sure you don't have one? Because there's a lot of stuff in my apartment I've never seen.<br>
+							<br>
+							
+						ELAINE: Then maybe you have a fax machine.<br>
+							<br>
+							
+						KRAMER: You just blew my mind.<br>
+							<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						[INT. MEETING ROOM - DAY]<br>
+							<br>
+							
+						(Everyone is gathered around a large conference table.)<br>
+							<br>
+							
+						KRUGER: Let's order lunch.<br>
+							<br>
+							
+						KRUGER: Mary, I will have a chef's salad.<br>
+							<br>
+							
+						MALE WORKER: Turkey sandwich.<br>
+							<br>
+							
+						GEORGE: T-bone steak.<br>
+							<br>
+							
+						KRUGER: For lunch?<br>
+							<br>
+							
+						GEORGE: Well, I am just a T-bone kinda guy. Love that T-bone. In fact, you might as well call me--<br>
+							<br>
+							
+						WATKINS: That sounds good. I'll have one, too.<br>
+							<br>
+							
+						KRUGER: Watkins, you're havin' a T-bone?<br>
+							<br>
+							
+						WATKINS: I love 'em.<br>
+							<br>
+							
+						KRUGER: Well, then we should call you T-bone.<br>
+							<br>
+							
+						GEORGE: Uh, no. No, we shouldn't.<br>
+							<br>
+							
+						KRUGER: T-bone!<br>
+							<br>
+							
+						ALL (chanting): T-bone! T-bone! T-bone! T-bone! T-bone! T-bone! T-bone! T-bone!<br>
+							<br>
+							<br>
+							<br>
+							
+						[INT. ELAINE'S APARTMENT - DAY]<br>
+							<br>
+							
+						(The phone rings. Elaine enters her apartment carrying bags of groceries. She drops the bags and picks up the phone.)<br>
+							<br>
+							
+						ELAINE: Hello?<br>
+							<br>
+							
+						(A fax squeal.)<br>
+							<br>
+							
+						ELAINE: What?<br>
+							<br>
+							
+						(She checks her answering machine.)<br>
+							<br>
+							
+						MACHINE: You have 57 messages. Message one...<br>
+							<br>
+							
+						(Fax squeal. She skips to the next message.)<br>
+							<br>
+							
+						MACHINE: Message two...<br>
+							<br>
+							
+						(Fax squeal. She skips to the next message.)<br>
+							<br>
+							
+						MACHINE: Message three...<br>
+							<br>
+							
+						GEORGE: Hey, it's George. Listen, I-<br>
+							<br>
+							
+						(She skips to the next message.)<br>
+							<br>
+							
+						MACHINE: Message four...<br>
+							<br>
+							
+						(Fax squeal.)<br>
+							<br>
+							
+						ELAINE Kramer!<br>
+							<br>
+							
+						(The phone rings. Elaine hesitates and lets it ring. She finally caves and picks it up.)<br>
+							<br>
+							
+						EALINE: Hello?<br>
+							<br>
+							
+						(Another fax squeal.)<br>
+							<br>
+							
+						ELAINE: Aah!<br>
+							<br>
+							<br>
+							<br>
+							
+						[INT. JERRY'S APARTMENT - DAY]<br>
+							<br>
+							
+						JERRY: Well Cindy, the place looks great.<br>
+							<br>
+							
+						(She grabs her money off the counter.)<br>
+							<br>
+							
+						CINDY: Thanks Jerry, gotta run.<br>
+							<br>
+							
+						JERRY: Ok, I'll see ya.<br>
+							<br>
+							
+						(As Cindy leaves, Jerry gives her a big kiss. Elaine shows up and watches, amused.)<br>
+							<br>
+							
+						CINDY: Hi, Elaine.<br>
+							<br>
+							
+						(Jerry groans as Elaine enters and Cindy exits.)<br>
+							<br>
+							
+						ELAINE: All right! You're foolin' around with your maid. That is a wise decision.<br>
+							<br>
+							
+						JERRY: Elaine, do you think I would go willy-nilly into a situation so obviously fraught with potential complications?<br>
+							<br>
+							
+						ELAINE: You are paying a woman to come to your house and sleep with you.<br>
+							<br>
+							
+						JERRY: No. I pay her to clean. The rest is--<br>
+							<br>
+							
+						ELAINE: What? A health plan?<br>
+							<br>
+							
+						JERRY: I was going to say, &quot;Being a good host.&quot;<br>
+							<br>
+							
+						ELAINE: Oh-ho-ho. Oh.<br>
+							<br>
+							
+						JERRY: But the point is we have our personal relationship, and we have our work relationship. They're separate and, I think, some what sophisticated.<br>
+							<br>
+							
+						ELAINE: So you consider this a relationship?<br>
+							<br>
+							
+						JERRY: Yes, I do.<br>
+							<br>
+							
+						ELAINE: Oh. Have you been out?<br>
+							<br>
+							
+						JERRY: Yes, we have.<br>
+							<br>
+							
+						ELAINE: Where did you go?<br>
+							<br>
+							
+						JERRY: The store.<br>
+							<br>
+							
+						ELAINE: Mm! To get what?<br>
+							<br>
+							
+						JERRY: Stuff.<br>
+							<br>
+							
+						ELAINE: Cleaning supplies?<br>
+							<br>
+							
+						JERRY: And gum.<br>
+							<br>
+							
+						ELAINE: Oh. Well, there's nothin' more sophisticated than diddlin' the maid and then chewin' some gum.<br>
+							<br>
+							
+						JERRY: She's not a maid. She might be a news woman!<br>
+							<br>
+							
+						(Kramer enters.)<br>
+							<br>
+							
+						KRAMER: Hey. Well, I just saw Madeline off. Yeah. She's in a cab and--nguh nguh nguh--on her way. I miss her already.<br>
+							<br>
+							
+						(Kramer sits down on the couch.)<br>
+							<br>
+							
+						ELAINE: Hey, Kramer, what was it you were having faxed to my house every 30 seconds?<br>
+							<br>
+							
+						KRAMER: Well, I signed up for a food delivery service, Now We're Cookin'. That's a play on words. You know, they're faxing me the menus from some restaurants.<br>
+							<br>
+							
+						ELAINE: Which ones?<br>
+							<br>
+							
+						KRAMER: Well, all of them. It's the deluxe package.<br>
+							<br>
+							
+						ELAINE: So this is never gonna stop?<br>
+							<br>
+							
+						KRAMER: Well, it better not. Paid for the whole year. So, should I pick those up later?<br>
+							<br>
+							
+						ELAINE: You can pick 'em up right now.<br>
+							<br>
+							
+						(Elaine imitates the fax squeal right into Kramer's ear.)<br>
+							<br>
+							
+						KRAMER: Ah!<br>
+							<br>
+							<br>
+							<br>
+							
+						[INT. ELAINE'S APARTMENT - DAY]<br>
+							<br>
+							
+						(She fondles a candle stick as a phone man fixes her phone.)<br>
+							<br>
+							
+						ELAINE (thinking): I wonder if anyone knows he's here. If he just disappeared...would anybody notice?<br>
+							<br>
+							
+						PHONE MAN: All right, miss Benes, all finished. Here's your new number.<br>
+							<br>
+							
+						ELAINE: Ahem. 646? What is this?<br>
+							<br>
+							
+						PHONE MAN: That's your new area code.<br>
+							<br>
+							
+						ELAINE: I thought 646 was just for new numbers.<br>
+							<br>
+							
+						PHONE MAN: This is a new number.<br>
+							<br>
+							
+						ELAINE: No, no, no, no. It's not a new number. It's--it's--it's just a changed number. See? It's not different. It's the same, just...changed.<br>
+							<br>
+							
+						PHONE MAN: Look, I work for the phone company. I've had a lot of experience with semantics, so don't try to lure me into some maze of circular logic.<br>
+							<br>
+							
+						ELAINE: You know, I could've killed you, and no one would've known.<br>
+							<br>
+							
+						PHONE MAN: I could've killed you, and no one would've known.<br>
+							<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						[INT. JERRY'S APARTMENT - NIGHT]<br>
+							<br>
+							
+						JERRY: Kramer, you're still on the phone?<br>
+							<br>
+							
+						(Kramer is sitting on the couch with a blanket. He's on the phone.)<br>
+							<br>
+							
+						KRAMER: Madeline and I are watching Quincy together. Jerry, you know this comes on at the same time here as it does there?<br>
+							<br>
+							
+						JERRY: Really? It's Tuesday here. What day is it there?<br>
+							<br>
+							
+						KRAMER (into phone): Jerry's teasing. Uh-oh! Commercial. Oh, you going to the bathroom? Yeah. I'll go, too.<br>
+							<br>
+							
+						(Kramer gets up and Jerry grabs the phone from him.)<br>
+							<br>
+							
+						JERRY: Madeline stays here.<br>
+							<br>
+							
+						(George enters.)<br>
+							<br>
+							
+						JERRY: Hey, T-bone!<br>
+							<br>
+							
+						GEORGE: No. No T-bone.<br>
+							<br>
+							
+						JERRY: No T-bone?<br>
+							<br>
+							
+						KRAMER (from bathroom): Hey, is that T-bone?!<br>
+							<br>
+							
+						JERRY: No! There's no T-bone!<br>
+							<br>
+							
+						KRAMER: Well, why no T-bone?!<br>
+							<br>
+							
+						JERRY: Why no T-bone?<br>
+							<br>
+							
+						GEORGE: 'Cause Neil Watkins from accounting is T-bone!<br>
+							<br>
+							
+						(Kramer returns from the bathroom and picks up the phone.)<br>
+							<br>
+							
+						KRAMER: Oh, yeah I'm back. Hey, you wanna play cards over the phone?<br>
+							<br>
+							
+						(Kramer opens the door.)<br>
+							<br>
+							
+						KRAMER: Oh, hey, uh, listen, Jerry, uh, laundry's pilin' up there. You might want to tell your girlfriend. Mmm. Yeah.<br>
+							<br>
+							
+						(Kramer leaves.)<br>
+							<br>
+							
+						GEORGE: Your girlfriend is doin' your laundry?<br>
+							<br>
+							
+						KRAMER (from hallway): He's sleeping with his maid!<br>
+							<br>
+							
+						GEORGE: You're sleepin' with the maid?<br>
+							<br>
+							
+						JERRY: Yes.<br>
+							<br>
+							
+						GEORGE: I've done that. Did you ever eat an ostrich burger?<br>
+							<br>
+							
+						JERRY: No.<br>
+							<br>
+							<br>
+							<br>
+							
+						[EXT. CITY SIDEWALK - DAY]<br>
+							<br>
+							
+						(Elaine and a man are talking.)<br>
+							<br>
+							
+						MAN: You're probably one of those women who doesn't like to give out her number.<br>
+							<br>
+							
+						ELAINE: No, I'm not. Here you go.<br>
+							<br>
+							
+						MAN: 646?<br>
+							<br>
+							
+						ELAINE: It's a new area code.<br>
+							<br>
+							
+						MAN: What area? New Jersey?<br>
+							<br>
+							
+						ELAINE: No, no. It's right here in the city. It's the same as 212. They just multiplied it by 3, and then they added one to the middle number. It's the same.<br>
+							<br>
+							
+						MAN: Do I have to dial a one first?<br>
+							<br>
+							
+						(Elaine nods and the man crumples up her number.)<br>
+							<br>
+							
+						MAN: I'm really kinda seein' somebody.<br>
+							<br>
+							
+						ELAINE: Yeah? Well, so am I!<br>
+							<br>
+							<br>
+							<br>
+							
+						[INT. KRUGER'S OFFICE BUILDING - DAY]<br>
+							<br>
+							
+						GEORGE: Excuse me. Can I talk to you for a second there, Watkins?<br>
+							<br>
+							
+						(George and Watkins stand just outside the conference room talking.)<br>
+							<br>
+							
+						WATKINS: It's T-bone.<br>
+							<br>
+							
+						GEORGE: The thing is...I'm supposed to be T-bone.<br>
+							<br>
+							
+						WATKINS: Heh heh. You're not a T-bone. You're a perfect George.<br>
+							<br>
+							
+						GEORGE: What? Now, you listen to me!<br>
+							<br>
+							
+						(Kruger and a few other people watch George through the window of the conference room door.)<br>
+							<br>
+							
+						KRUGER: Hey, look at George. He's givin' it to T-bone. He's jumpin' up and down like some kind of monkey. Hey, what was the name of that monkey that could read sign language?<br>
+							<br>
+							
+						WATKINS: All right, you can have T-bone. Stop crying.<br>
+							<br>
+							
+						GEORGE (sniffling): I'm not crying. And I shouldn't have said that about your wife. Please accept my apologies.<br>
+							<br>
+							
+						(Watkins and George enter the conference room.)<br>
+							<br>
+							
+						GEORGE: Ok, everybody, uh...I have an announcement to make. From now on, I will be known as-<br>
+							<br>
+							
+						KRUGER: Koko the monkey.<br>
+							<br>
+							
+						GEORGE: What?<br>
+							<br>
+							
+						ALL (chanting): Koko! Koko! Koko! Koko! Koko! Koko! Koko! Koko! Koko! Koko!<br>
+							<br>
+							<br>
+							<br>
+							
+						[INT. ELAINE'S APARTMENT - DAY]<br>
+							<br>
+							
+						(Elaine walks down the hallway. Two people exit an apartment.)<br>
+							<br>
+							
+						MAN: Thank you both for being here.<br>
+							<br>
+							
+						EALINE: Um, excuse me. I live in the building. Did something happen to Mrs. Krantz?<br>
+							<br>
+							
+						MAN: She passed.<br>
+							<br>
+							
+						ELAINE: Oh, I'm so sorry.<br>
+							<br>
+							
+						MAN: Thank you.<br>
+							<br>
+							
+						ELAINE: A quick question-- did she by any chance have a 212 phone number?<br>
+							<br>
+							<br>
+							<br>
+							
+						[INT. JERRY'S APARTMENT - DAY]<br>
+							<br>
+							
+						CINDY: I can't find my earring. Oh, here it is.<br>
+							<br>
+							
+						(Cindy walks into Jerry's bedroom. Kramer enters.)<br>
+							<br>
+							
+						KRAMER: Hey, listen, can I borrow your suitcases?<br>
+							<br>
+							
+						JERRY: Yeah. It's in your closet.<br>
+							<br>
+							
+						KRAMER: No, no, no. I looked.<br>
+							<br>
+							
+						JERRY: They're behind my skis and my tennis racket.<br>
+							<br>
+							
+						KRAMER: Thanks, buddy.<br>
+							<br>
+							
+						JERRY: Where you goin'?<br>
+							<br>
+							
+						KRAMER: Huh? Well, I'm gettin' out of town. I'm gonna visit Madeline for the weekend. You know, this place is lookin' kinda messy. What happened to Cindy?<br>
+							<br>
+							
+						JERRY: Well, she's here. She just didn't get around to it.<br>
+							<br>
+							
+						KRAMER: Oh.<br>
+							<br>
+							
+						(Cindy comes from Jerry's bedroom.)<br>
+							<br>
+							
+						CINDY: Hi, Kramer.<br>
+							<br>
+							
+						(She picks up her money from the counter.)<br>
+							<br>
+							
+						CINDY: Thanks, Jerry. Bye.<br>
+							<br>
+							
+						(She leaves.)<br>
+							<br>
+							
+						KRAMER: Well, what's the matter?<br>
+							<br>
+							
+						JERRY: What did I just pay for?<br>
+							<br>
+							
+						KRAMER: Uh-oh. You're a john.<br>
+							<br>
+							<br>
+							<br>
+							
+						[INT. MONK'S RESTAURANT - DAY]<br>
+							<br>
+							
+						JERRY: Koko?<br>
+							<br>
+							
+						(George and Jerry are sitting at the counter.)<br>
+							<br>
+							
+						GEORGE: Koko.<br>
+							<br>
+							
+						JERRY: Well, it's probably the most intelligent ape there is.<br>
+							<br>
+							
+						GEORGE: Yeah. So, how's Cindy the maid?<br>
+							<br>
+							
+						JERRY: Well, everything's goin' great except, basically, I'm payin' for sex.<br>
+							<br>
+							
+						GEORGE: Tell me about it. I went out with this girl last week. First I had to pay for dinner, then--<br>
+							<br>
+							
+						JERRY: No, George. She's coming over and not cleaning. It's like I'm seein' a prostitute.<br>
+							<br>
+							
+						GEORGE: How much you pay this maid?<br>
+							<br>
+							
+						JERRY: 40.<br>
+							<br>
+							
+						GEORGE: 40? I'm payin' 60 to my maid. She doesn't do laundry and I'm gettin' nothin'. All right. Once she pinched my ass, but I don't know what that was.<br>
+							<br>
+							
+						JERRY: I don't know what this is.<br>
+							<br>
+							
+						(Kramer enters and sits at the counter so George is between him and Jerry.)<br>
+							<br>
+							
+						KRAMER: Hey, hey, hey. Look at that.<br>
+							<br>
+							
+						(Kramer shows of his I Love New York shirt.)<br>
+							<br>
+							
+						JERRY: Ooh.<br>
+							<br>
+							
+						KRAMER: Jerry, you wouldn't believe what it's like down there. Taxicab drivers are insane. You know, everybody is in a hurry.<br>
+							<br>
+							
+						GEORGE: I can't eat with you leanin' over like this. Just look straight forward.<br>
+							<br>
+							
+						KRAMER: Well, now I can't see Jerry.<br>
+							<br>
+							
+						JERRY: I look about the same.<br>
+							<br>
+							
+						GEORGE: What?<br>
+							<br>
+							
+						JERRY: I was talking to him.<br>
+							<br>
+							
+						KRAMER: What?<br>
+							<br>
+							
+						JERRY: Never mind.<br>
+							<br>
+							
+						KRAMER: Come on. What'd he say?<br>
+							<br>
+							
+						GEORGE: Never mind.<br>
+							<br>
+							
+						KRAMER: Jerry, come on. What'd you say?<br>
+							<br>
+							
+						(Kramer and Jerry try to talk to each other by leaning back and forth, but keep missing each other. Jerry leans forward to look at Kramer, but Kramer leans back. Kramer leans forward, Jerry leans back.)<br>
+							<br>
+							
+						JERRY: What?<br>
+							<br>
+							
+						KRAMER: Come on. Where'd you go?<br>
+							<br>
+							
+						JERRY: Go back.<br>
+							<br>
+							
+						KRAMER: Eh! Come on. What did you say?<br>
+							<br>
+							
+						JERRY: I said, never mind.<br>
+							<br>
+							
+						KRAMER: Yeah. I know that. Uh, uh.<br>
+							<br>
+							
+						JERRY: I hate the counter.<br>
+							<br>
+							
+						(Elaine enters and sits at the counter next to Jerry.)<br>
+							<br>
+							
+						ELAINE: Hey.<br>
+							<br>
+							
+						JERRY: Hey.<br>
+							<br>
+							
+						ELAINE: I hate the counter.<br>
+							<br>
+							
+						KRAMER: Who's that?<br>
+							<br>
+							
+						ELAINE (to Jerry): Well, I got a 212 number from this little old lady in my building-- Mrs. Krantz.<br>
+							<br>
+							
+						JERRY: Oh, she didn't mind?<br>
+							<br>
+							
+						ELAINE: No. She died.<br>
+							<br>
+							
+						JERRY: Hey, that's great.<br>
+							<br>
+							
+						GEORGE: What happened to Mrs. Krantz?<br>
+							<br>
+							
+						JERRY: Elaine got a new number because she died.<br>
+							<br>
+							
+						KRAMER: Newman died?<br>
+							<br>
+							
+						ELAINE: What did he say?<br>
+							<br>
+							
+						JERRY: Some new kind of pie.<br>
+							<br>
+							
+						GEORGE: I'll try a piece.<br>
+							<br>
+							
+						KRAMER: All right, who's down there?<br>
+							<br>
+							
+						JERRY: Hey, there's a booth.<br>
+							<br>
+							
+						(They all get up to move.)<br>
+							<br>
+							
+						KRAMER: Hey, Elaine.<br>
+							<br>
+							
+						ELAINE: Oh, hi.<br>
+							<br>
+							
+						KRAMER: Did you hear about Newman?<br>
+							<br>
+							
+						ELAINE: What?<br>
+							<br>
+							
+						(Kramer whimpers.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[INT. JERRY'S APARTMENT - DAY]<br>
+							<br>
+							
+						(Jerry is cleaning his kitchen and Cindy is reclined on the sofa. George enters.)<br>
+							<br>
+							
+						GEORGE: Hey.<br>
+							<br>
+							
+						JERRY: So how's it goin' at work? They get tired of it?<br>
+							<br>
+							
+						GEORGE: Oh, yeah.<br>
+							<br>
+							
+						(He unfurls a jersey that reads, &quot;Koko 00.&quot;)<br>
+							<br>
+							
+						JERRY: Double zero?<br>
+							<br>
+							
+						GEORGE: It's &quot;ooh&quot; As in &quot;ooh ooh ah ah.&quot;<br>
+							<br>
+							
+						CINDY: Your nickname's Koko? One of the girls down at the maid service is named Coco.<br>
+							<br>
+							
+						GEORGE: Really? Coco?<br>
+							<br>
+							
+						CINDY: Yeah. Coco. That girl's all right.<br>
+							<br>
+							
+						(Cindy gets up and goes into Jerry's bedroom.)<br>
+							<br>
+							
+						GEORGE: You know, if I could get this Coco woman down to Kruger, they wouldn't be able to call me Koko anymore because Kruger would never allow 2 Kokos.<br>
+							<br>
+							
+						JERRY: Sounds like he runs a real tight ship.<br>
+							<br>
+							
+						GEORGE: Say good-bye to Koko.<br>
+							<br>
+							
+						(George leaves as Kramer enters.)<br>
+							<br>
+							
+						JERRY: Good-bye, Koko.<br>
+							<br>
+							
+						KRAMER: Bye, Koko. Whew! Jerry, this relationship is killing me. The distance, the longing, the distance, the-- you know, I didn't realize it, but I'm a needy person.<br>
+							<br>
+							
+						JERRY: Kramer, maybe this relationship isn't for you.<br>
+							<br>
+							
+						KRAMER: Oh, yeah? So what am I supposed to do, be more like you? All sealed up in here, emotionally unavailable, paying scrubwomen for sexual favors! No! Jerry, I won't be like you! Never! I'll never be like you!<br>
+							<br>
+							
+						(Kramer storms out of the apartment and Cindy returns.)<br>
+							<br>
+							
+						CINDY: What was that?<br>
+							<br>
+							
+						JERRY: I didn't hear anything.<br>
+							<br>
+							
+						CINDY: All right, I'm takin' off. Aren't you forgetting something?<br>
+							<br>
+							
+						JERRY: Oh, right! Hey, it was great seeing you again. I love your outfit.<br>
+							<br>
+							
+						CINDY: No. My money.<br>
+							<br>
+							
+						JERRY: For what?<br>
+							<br>
+							
+						CINDY: For my maid services. You booked me for today.<br>
+							<br>
+							
+						JERRY: But you didn't really do any work.<br>
+							<br>
+							
+						CINDY: I made the bed.<br>
+							<br>
+							
+						JERRY: But you took a nap in it.<br>
+							<br>
+							
+						CINDY: So?<br>
+							<br>
+							
+						JERRY: I thought that was kind of girlfriend bed making.<br>
+							<br>
+							
+						CINDY: No. That was the maid.<br>
+							<br>
+							
+						JERRY: Well, who took the nap?<br>
+							<br>
+							
+						CINDY: The girlfriend.<br>
+							<br>
+							
+						JERRY: $40 seems kind of steep for a nap.<br>
+							<br>
+							
+						CINDY: So, what are you saying? That I'm a bad maid or some kind of a prostitute?<br>
+							<br>
+							
+						JERRY: Ho, ho...ho! Hold on. Let's keep this sophisticated.<br>
+							<br>
+							
+						CINDY: You know, I don't think I want to be your girlfriend or your maid.<br>
+							<br>
+							
+						JERRY: So is this a breakup/quitting?<br>
+							<br>
+							
+						CINDY: Yeah. Don't ever call me or hire me again.<br>
+							<br>
+							
+						(Cindy walks out of Jerry's apartment.)<br>
+							<br>
+							
+						JERRY: Oh, yeah? Well, then, we're through! And you're fired!<br>
+							<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						[INT. ELAINE'S APARTMENT - DAY]<br>
+							<br>
+							
+						PHONE MAN: Sign here.<br>
+							<br>
+							
+						ELAINE: Yes! 212.<br>
+							<br>
+							
+						(Elaine and the phone man.)<br>
+							<br>
+							
+						ELAINE: Hey, what happened to the guy I had last time?<br>
+							<br>
+							
+						PHONE MAN: Oh, you know, it's an odd thing. He went out on a job and never came back. Nobody knows what happened.<br>
+							<br>
+							
+						(The phone man leaves and the phone rings.)<br>
+							<br>
+							
+						ELAINE: All right! I am back in the game.<br>
+							<br>
+							
+						(She picks up the phone.)<br>
+							<br>
+							
+						ELAINE: Hello?<br>
+							<br>
+							
+						BOY: Gammy!<br>
+							<br>
+							
+						ELAINE: No. You got the wrong number, kid.<br>
+							<br>
+							
+						BOY: Gammy Krantz, it's your grandson Bobby. Why haven't you called?<br>
+							<br>
+							
+						ELAINE: Oh...nuts.<br>
+							<br>
+							
+						BOY: Do you hate me 'cause of my lazy eye?<br>
+							<br>
+							
+						ELAINE: No. It's just that I've been kind of buried over here.<br>
+							<br>
+							<br>
+							<br>
+							
+						[INT. JERRY'S APARTMENT - NIGHT]<br>
+							<br>
+							
+						(Elaine and Jerry are playing Battleship.)<br>
+							<br>
+							
+						JERRY: So the kid doesn't know his grandmother is dead? G-5?<br>
+							<br>
+							
+						ELAINE: Hit. No. I guess his parents didn't want to tell him. B-2?<br>
+							<br>
+							
+						JERRY: Miss.<br>
+							<br>
+							
+						ELAINE: He called 6 times yesterday. What a nightmare it must be to have a real family.<br>
+							<br>
+							
+						JERRY: I wouldn't worry about it. B-6?<br>
+							<br>
+							
+						ELAINE: Hit. Uhh...you sank my submarine.<br>
+							<br>
+							
+						JERRY: Elaine...<br>
+							<br>
+							
+						(Elaine makes an explosion sound. Jerry nods in approval. The phone rings and Jerry answers.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[JERRY'S APARTMENT/PHONE BOOTH]<br>
+							<br>
+							
+						JERRY: Hello?<br>
+							<br>
+							
+						COMPUTER VOICE: You have a collect call from--<br>
+							<br>
+							
+						KRAMER: Hey, buddy, don't say no!<br>
+							<br>
+							
+						JERRY: I accept.<br>
+							<br>
+							
+						KRAMER: I went down to Madeline's. I told her, &quot;You gotta move, or it's over.&quot;<br>
+							<br>
+							
+						JERRY: Well, what happened?<br>
+							<br>
+							
+						(Elaine gets up and leaves.)<br>
+							<br>
+							
+						KRAMER: I think it's over. We had a big fight, she threw me out, I started walkin', and now I'm lost downtown! I don't have any money. I don't recognize anybody. I miss home, and I don't even know how to get there.<br>
+							<br>
+							
+						JERRY: What's around you?<br>
+							<br>
+							
+						KRAMER: I'm lookin' at Ray's Pizza. You know where that is?<br>
+							<br>
+							
+						JERRY: Is it Famous Ray's?<br>
+							<br>
+							
+						KRAMER: No. It's Original Ray's.<br>
+							<br>
+							
+						JERRY: Famous Original Ray's?<br>
+							<br>
+							
+						KRAMER: It's just Original, Jerry!<br>
+							<br>
+							
+						JERRY: Well, what street are you on?<br>
+							<br>
+							
+						KRAMER: Hey, I'm on first and first. How can the same street intersect with itself? I must be at the nexus of the universe.<br>
+							<br>
+							
+						JERRY: Just wait there. I'll pick you up, and, Kramer, stay alive no matter what occurs, I will find you!<br>
+							<br>
+							
+						KRAMER: Aah!<br>
+							<br>
+							
+						(Jerry leaves.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[EXT. CITY STREET - NIGHT]<br>
+							<br>
+							
+						(Jerry finds a man waiting by his car.)<br>
+							<br>
+							
+						MAN: You Steinfeld?<br>
+							<br>
+							
+						JERRY: Yeah.<br>
+							<br>
+							
+						MAN: My name is Maxwell. I'm from Maid To Order. It's a pun. I sent one of my girls over to your place.<br>
+							<br>
+							
+						JERRY: Cindy.<br>
+							<br>
+							
+						MAN: She says she had a little problem with you. You didn't pay.<br>
+							<br>
+							
+						JERRY: You know, she didn't really do what she was supposed to do.<br>
+							<br>
+							
+						MAN: Oh, yeah? She told me what you like. You're a little sickie, aren't you? Disinfectant on the blinds, vacuuming the counter--<br>
+							<br>
+							
+						JERRY: Hey, come on. Come on. I gotta live around here.<br>
+							<br>
+							
+						MAN: You know what I do to people who stiff me on a job?<br>
+							<br>
+							
+						JERRY: What?<br>
+							<br>
+							
+						MAN: Well, it kinda depends on the situation, but if I don't get my money from you, I'm gonna get it from her.<br>
+							<br>
+							
+						JERRY: I don't want to make trouble. You want the money? Here.<br>
+							<br>
+							
+						MAN: Hey! Wait, wait, wait! Whoa! Give it to the girl. I'm an independent contractor. Tax purposes.<br>
+							<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						[INT. ELAINE'S APARTMENT - NIGHT]<br>
+							<br>
+							
+						(Elaine is sitting on her couch flipping through a magazine. She's on the phone.)<br>
+							<br>
+							
+						ELAINE: Bobby, you gotta stop calling your Gammy. Why? Because sometimes you call very early in the morning when Gammy has been out late the night before and sometimes when Gammy's not alone. Your parents still haven't said anything to you about your Gammy? (sighs) All right, here we go. (coughing) Gammy doesn't feel so good. I think Gammy might be dying. Yep. Yep. Ok. Good-bye, Bobby. Don't call anymore. I'm dead now. Gotta go.<br>
+							<br>
+							
+						(Bobby dials 911.)<br>
+							<br>
+							
+						BOBBY: 9-1-1.<br>
+							<br>
+							<br>
+							<br>
+							
+						[EXT. CITY STREET - NIGHT]<br>
+							<br>
+							
+						(Jerry is driving down the street when he sees Cindy walking on the sidewalk.)<br>
+							<br>
+							
+						JERRY: Nexus of the universe. Hey, Cindy. Cindy.<br>
+							<br>
+							
+						CINDY: What do you want?<br>
+							<br>
+							
+						JERRY: Here. I got your money.<br>
+							<br>
+							
+						CINDY: I don't want any money from you.<br>
+							<br>
+							
+						JERRY: Come on. Take it. It's money. Let me give it to ya.<br>
+							<br>
+							
+						(A police cruiser pulls up with lights on.)<br>
+							<br>
+							
+						POLICE: Looking for a good time, sir? You wanna step out of the car, sickie?<br>
+							<br>
+							
+						JERRY: Well, this is all very sophisticated.<br>
+							<br>
+							<br>
+							<br>
+							
+						[INT. ELAINE'S APARTMENT - NIGHT]<br>
+							<br>
+							
+						(Elaine is sitting on the sofa reading when there is a pounding on the door. The door bursts open and some fire fighters run in.)<br>
+							<br>
+							
+						FIREMAN: All right, hang on, Gammy! You're gonna make it!<br>
+							<br>
+							
+						ELAINE: Aah!<br>
+							<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						[EXT. CITY STREET - NIGHT]<br>
+							<br>
+							
+						(Kramer is waiting near a phone booth with a suitcase. A car pulls up. It's Maxwell.)<br>
+							<br>
+							
+						MAXWELL: Hey, you look a little lost. You from around here?<br>
+							<br>
+							
+						KRAMER: Uh, no.<br>
+							<br>
+							
+						MAXWELL: You know where you're going?<br>
+							<br>
+							
+						KRAMER: Not really. My friend was supposed to pick me up, but I don't know where he is.<br>
+							<br>
+							
+						MAXWELL: Doesn't sound like much of a friend. You got any money?<br>
+							<br>
+							
+						KRAMER: Uh, no.<br>
+							<br>
+							
+						MAXWELL: You wanna make some?<br>
+							<br>
+							
+						KRAMER: Ok.<br>
+							<br>
+							
+						MAXWELL: Do you know how to use a mop wringer?<br>
+							<br>
+							
+						KRAMER: Yeah, yeah.<br>
+							<br>
+							
+						MAXWELL: Why don't you get in the car?<br>
+							<br>
+							
+						(Kramer hops in.)<br>
+							<br>
+							
+						KRAMER: Hi. Ahh...these are soft seats.<br>
+							<br>
+							
+						(The two drive off.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[INT. MEETING ROOM - NIGHT]<br>
+							<br>
+							
+						KRUGER: Hey, Koko, Who's this?<br>
+							<br>
+							
+						(Everyone is gathered again around the conference table. George is standing introducing the newest employee.)<br>
+							<br>
+							
+						GEORGE: This is our new Vice-president of Acquisitions, sir.<br>
+							<br>
+							
+						KRUGER: So you're just hiring new people now? That's your job, to hire people?<br>
+							<br>
+							
+						GEORGE: Yes?<br>
+							<br>
+							
+						KRUGER: Ok, good enough for me, Koko.<br>
+							<br>
+							
+						(George sits down.)<br>
+							<br>
+							
+						KRUGER: Ahem. Now, what's your name?<br>
+							<br>
+							
+						COCO: My name is Coco. Coco Higgins.<br>
+							<br>
+							
+						GEORGE: Coco?<br>
+							<br>
+							
+						KRUGER: We can't have 2 Cocos. So I guess you're back to being George.<br>
+							<br>
+							
+						GEORGE: Well, it was a hell of a ride.<br>
+							<br>
+							
+						KRUGER: All right, the Grace building. There's a big stain on the front. How do we get it off?<br>
+							<br>
+							
+						COCO: When I was a little girl in Jamaica, my Gammy taught me to take a wet rag and in a circ--<br>
+							<br>
+							
+						GEORGE: Ah, excuse me, Vice-president Coco, no one cares about your Gammy.<br>
+							<br>
+							
+						COCO: What did you say about my Gammy?<br>
+							<br>
+							
+						GEORGE: Forget Gammy.<br>
+							<br>
+							
+						KRUGER: Who's Gammy?<br>
+							<br>
+							
+						GEORGE: There's no Gammy.<br>
+							<br>
+							
+						KRUGER: Maybe there should be a Gammy.<br>
+							<br>
+							
+						GEORGE: Oh, no.<br>
+							<br>
+							
+						KRUGER: George.<br>
+							<br>
+							
+						ALL (chanting): Gammy! Gammy! Gammy! Gammy! Gammy! Gammy! Gammy!<br>
+							<br>
+							
+						GEORGE: Gammy's gettin' upset!<br>
+							<br>
+							<br>
+							
+						The End</td>
+						</tr>
+						<tr height="6">
+							<td class="bottom2" width="645" height="6"></td>
+						</tr>
+						<tr>
+							<td width="645">
+								<div align="center">
+									<font size="-1">Copyright 2006 seinology.com | All Rights Reserved | Designed by 13erla</font></div>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+		<p></p>
+	</body>
+
+</html>

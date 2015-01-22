@@ -1,0 +1,1509 @@
+<tdOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+<html>
+
+	<head>
+		<meta http-equiv="content-type" content="text/html;charset=ISO-8859-1">
+		<meta name="description" content="Top Source for Seinfeld">
+		<meta name="keywords" content="seinfeld, sienfeld, Jerry Seinfeld, Julia Louis Dreyfus, Jason Alexander, Michael Richards, Kramer, George, Costanza, Elaine Benes, morty, Larry David">
+		<title>Seinology.com :: Scripts :: 166-The Strike</title>
+	<link rel='stylesheet' href='/stylesheet.css' type='text/css'>
+	</head>
+
+	<body>
+			<table align="center" width="787" border="0" cellspacing="0" cellpadding="0">
+				<tr>
+					<td><font size="-2" color="red">Seinology.com - </font><font size="-3" color="black">Where Seinfeld Content and Accuracy Matter Most. Seinfeld scripts in pdf form, Seinfeld episode video clips, Seinfeld episode audio clips, Jerry Seinfeld appearances, Julia Louis-Dreyfus appearances, Michael Richards appearances, Jason Alexander appearances, Seinfeld discussion Forum, Seinfeld Where are they Now? Seinlanguage Newsletter, Popular Seinfeld Lists, Seinfeld episode standup, Seinfeld episode guide, Seinfeld fan fiction. Seinfeld content all on one domain. Seinology.com enjoy your stay.</font></td>
+				</tr>
+			</table>
+		
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr height="100">
+				<td class="logo"></td>
+			</tr>
+			<tr><td class="ads" align="center" background=#8694fa>
+				<script type="text/javascript"><!--
+google_ad_client = "pub-1924026976931416";
+google_ad_width = 728;
+google_ad_height = 90;
+google_ad_format = "728x90_as";
+google_ad_type = "text";
+google_ad_channel = "";
+google_color_border = "FFFFFF";
+google_color_bg = "8694fa";
+google_color_link = "0000FF";
+google_color_text = "000000";
+google_color_url = "002E3F";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></td></tr>
+		</table>
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr>
+				<td valign="top" width="136">
+					<table width="136" border="0" cellspacing="0" cellpadding="0">
+						<tr height="24">
+							<td class="navigation">
+								<div align="center">
+									
+									<b>Navigation</b></div>
+							</td>
+						</tr>
+						<tr height="199">
+							<td class="spacer1" valign="top" width="136" height="199">
+								<div align="center">
+									<font size="-1"><a href="http://www.seinology.com">Home</a><br>
+										<a href="http://board.seinology.com">Forum</a><br>
+										<a href="http://www.seinology.com/av.shtml">Audio/Video</a><br>
+										<a href="http://www.seinology.com/scripts.shtml">Scripts</a><br>
+										<a href="http://www.seinology.com/survivor.shtml">Survivor</a><br>
+										<a href="http://www.seinology.com/fanfics.shtml">Fan Fiction</a><br>
+										<a href="http://www.seinology.com/gallery/">Gallery</a><br>
+										<a href="http://www.seinology.com/newsletter.shtml">Newsletter</a><br>
+										<a href="http://www.seinology.com/lists.shtml">Lists</a><br>
+										<a href="http://www.seinology.com/epguide.shtml">Episode Guide</a><br>
+										<a href="http://www.seinology.com/links.shtml">Links</a><br>
+										<a href="http://www.seinology.com/faqother.shtml">Faq + others</a><br>
+										<a href="http://www.seinology.com/legal.shtml">Legal</a></font></div>
+							</td>
+						</tr>
+						
+						<tr>
+							<td class="nav2" width="136">
+							<div align="center"><b>Search</b></div></td>
+						</tr>
+						<tr>
+							<td class="spacer1" width="136" valign="top"><div align="center"><form method="get" action="http://www.seinology.com/search/search.cgi">
+<p><label for="fdse_Match">Match</label><br>
+<select name="Match" id="fdse_Match" size="1">
+<option value="1">All</option>
+<option value="0">Any</option>
+<option value="2">Phrase</option>
+</select></p>
+<p><label for="fdse_Realm">Where?</label><br>
+<select name="Realm" id="fdse_Realm" size="1">
+<option selected="selected" value="All">EntireSite</option>
+<option value="Ep Guide">Ep Guide</option>
+<option value="Images">Images</option>
+<option value="Lists">Lists</option>
+<option value="Newsletters">Newsletters</option>
+<option value="Scripts">Scripts</option>
+<option value="Notes..Nothing">Notes..Nothing</option>
+</select></p>
+<p><input type="text" name="Terms" size="14" id="fdse_Terms"><br>
+<input type="submit" class="submit" name="submitButtonName" value="Search"></p>
+</div></form></td>
+						</tr>
+						<tr><td class="bottom" width="136" height="10" valign="top">
+						</td>
+						</tr>
+					</table>
+				</td>
+				<td width="4"></td>
+				<td valign="top" width="645">
+					<table width="645" border="0" cellspacing="0" cellpadding="0">
+						<tr height="18">
+							<td width="645" height="35" class="bar">
+								<div align="center">
+									<b><font size="+2" color="black">Script</font></b></div>
+							</td>
+						</tr>
+						<tr height="362">
+							<td class="spacer2" valign="top" width="645" height="362">
+
+						<p><font size="-2">Episode 166 - The Strike<br>
+							
+						pc: 910 season 9, episode 10<br>
+							
+						Broadcast date: December 18, 1997<br>
+							<br>
+							
+						Written by Dan O'Keefe &amp; Alec Berg &amp; Jeff Schaffer<br>
+							
+						Directed by Andy Ackerman<br>
+							<br>
+							
+						-------------------------------------------------------------------------------<br>
+							<br>
+							
+						The Cast<br>
+							
+						Regulars:<br>
+							
+						Jerry Seinfeld .............................. Jerry Seinfeld<br>
+							
+						Jason Alexander ......................... George Costanza<br>
+							
+						Julia Louis-Dreyfus .................... Elaine Benes<br>
+							
+						Michael Richards ........................ Cosmo Kramer<br>
+							<br>
+							
+						Guest Stars:<br>
+							<br>
+							
+						Daniel Von Bargen ................... Kruger<br>
+							
+						Karen Fineman ......................... Gwen<br>
+							
+						Dave Florek ............................. Harry<br>
+							
+						Kevin Hamilton MacDonald ..... Denim Vest<br>
+							
+						Tracy Letts .............................. Counterguy<br>
+							
+						Amit Itelman ............................ Employee<br>
+							
+						Stacey Herring ......................... Sandy<br>
+							
+						Colin Malone ............................ Sleazy Guy<br>
+							
+						Jerry Dixon .............................. Customer<br>
+							
+						rc: Jerry Stiller .......................... Frank Costanza<br>
+							
+						rc: Estelle Harris ....................... Estelle Costanza<br>
+							
+						rc:&nbsp; Bryan Cranston .................. Dr. Tim Whatley<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						==================================================================<br>
+							<br>
+							
+						[Setting: Tim Whatley's apartment]<br>
+							<br>
+							
+						ELAINE: So.. Whatley's still Jewish, huh?<br>
+							<br>
+							
+						JERRY: Oh, sure. With out the parents, it's a breeze.<br>
+							<br>
+							
+						(Elaine laughs, Whatley enters)<br>
+							<br>
+							
+						TIM: Hey! Happy Chanukah!<br>
+							<br>
+							
+						JERRY: Hey, Tim. Great party.<br>
+							<br>
+							
+						(Tim holds up a mistletoe)<br>
+							<br>
+							
+						TIM: (Suggesting a kiss to Elaine) eh?<br>
+							<br>
+							
+						ELAINE: (Shrugging it off) eh.<br>
+							<br>
+							
+						TIM: (Accepting) Oh. (Turns to George) Hey, George, thanks again for getting me those Yankee tickets.<br>
+							<br>
+							
+						GEORGE: Oh, yeah. Still in good with the ground crew. (Laghs)<br>
+							<br>
+							
+						TIM: (Notices a woman walking by) Oh, hey, listen, I'd better circulate.. (moving over to the woman) Happy Chanukah, Tiffany! (they both move off camera)<br>
+							<br>
+							
+						ELAINE: This place is like Studio 54 with a menorah.<br>
+							<br>
+							
+						GEORGE: I'm gonna get some more of these kosher cocktail franks.. (leaves)<br>
+							<br>
+							
+						ELAINE: Oh.. (sees a guy looking at her) I got denim vest checking me out. (laughs) Fake phone number's coming out tonight.<br>
+							<br>
+							
+						JERRY: You have a standard fake?<br>
+							<br>
+							
+						ELAINE: Mm-hmm.<br>
+							<br>
+							
+						JERRY: (Notices an attractive woman walking by, starts to follow her) That's neat.<br>
+							<br>
+							
+						ELAINE: (Holds onto Jerry's arm) No, please! Denim vest! He's smoothing it! Jerry! God! (Jerry excapes Elaine's grasp, moves over to the woman. The man wearing a denim vest moves over to Elaine.)<br>
+							<br>
+							
+						DENIM VEST: Hi!<br>
+							<br>
+							
+						(Scene cuts to Jerry talking to the woman)<br>
+							<br>
+							
+						JERRY: Hi, I'm Jerry.<br>
+							<br>
+							
+						WOMAN: Hi. JERRY: You might not know it to look at me, but I can run really, really fast.<br>
+							<br>
+							
+						(Scene cuts to Elaine)<br>
+							<br>
+							
+						ELAINE: Nice vest. I like the.. big metal buttons<br>
+							<br>
+							
+						DENIM VEST: They're snaps. Listen, maybe we should, uh, go out some time?<br>
+							<br>
+							
+						ELAINE: Why don't I give you my phone number?<br>
+							<br>
+							<br>
+							<br>
+							
+						[Setting: Coffee Shop]<br>
+							<br>
+							
+						(George enters)<br>
+							<br>
+							
+						GEORGE: Hey.<br>
+							<br>
+							
+						JERRY: Hey! How'd it go with the cocktail franks?<br>
+							<br>
+							
+						GEORGE: Great! I ate the entire platter! Had to call in sick today.<br>
+							<br>
+							
+						JERRY: Didn't you call in sick yesterday?<br>
+							<br>
+							
+						GEORGE: Hey, I work for Kruger Industrial Smoothing: &quot;We don't care, and it shows.&quot;<br>
+							<br>
+							
+						JERRY: (Notices George brought hhis mail) You're gonna open your mail here?<br>
+							<br>
+							
+						GEORGE: Hey, at least I'm bringing something to this. (Starts flipping through envelopes, reads one ) &quot;Have you seen me?&quot; (Flicks it aside) Nope. (looks at next envelope) Woah, something from Whatley.<br>
+							<br>
+							
+						JERRY: See? You give, and you get.<br>
+							<br>
+							
+						GEORGE: (Reading the card from Whatley) &quot;This holiday season a donation has been made in your name to the Children's Alliance.&quot;?<br>
+							<br>
+							
+						JERRY: Oh, that's nice.<br>
+							<br>
+							
+						GEORGE: I got him Yankee's tickets! He got me a piece of paper saying &quot;I've given your gift to someone else!&quot;<br>
+							<br>
+							
+						JERRY: To a children's charity!<br>
+							<br>
+							
+						GEORGE: Don't you see how wrong that is?! Where's your Christmas spirit? And eye for an eye!<br>
+							<br>
+							
+						(Elaine enters)<br>
+							<br>
+							
+						ELAINE: Hey!<br>
+							<br>
+							
+						JERRY: Hey.<br>
+							<br>
+							
+						(Waitress moves tward the table)<br>
+							<br>
+							
+						ELAINE: (To waitress) Oh, nothing for me. (Waitress leaves) I'm going to &quot;Atomic Sub&quot; later.<br>
+							<br>
+							
+						JERRY: &quot;Atomic Sub&quot;? Why are you eating there?<br>
+							<br>
+							
+						ELAINE: I got a card, and they stamp it every time I buy a sub. 24 stamps, and I become a submarine (makes a gesture) captain.<br>
+							<br>
+							
+						JERRY: What does that mean?<br>
+							<br>
+							
+						ELAINE: (Embarrassed) Free sub.<br>
+							<br>
+							
+						(George lets out a depressed sigh while reading a card)<br>
+							<br>
+							
+						ELAINE: What?<br>
+							<br>
+							
+						GEORGE: Nothing. It's a card from my dad.<br>
+							<br>
+							
+						ELAINE: What is it? (Grabs the card from George, he tries to stop her, but fails. She reads it out loud.) &quot;Dear son, Happy Festivus.&quot; What is Festivus?<br>
+							<br>
+							
+						GEORGE: It's nothing, stop it..<br>
+							<br>
+							
+						JERRY: When George was growing up..<br>
+							<br>
+							
+						GEORGE: (Interrupting) Jerry, No!<br>
+							<br>
+							
+						JERRY: His father..<br>
+							<br>
+							
+						GEORGE: No!<br>
+							<br>
+							
+						JERRY: Hated all the commercial and religious aspects of Christmas, so he made up his own holiday.<br>
+							<br>
+							
+						ELAINE: Ohhhh.. and another piece of the puzzle falls into place.<br>
+							<br>
+							
+						GEORGE: (pleading) Alright..<br>
+							<br>
+							
+						JERRY: And instead of a tree, didn't your father put up an aluminum pole?<br>
+							<br>
+							
+						(Elaine starts laughing uncontrollably - and continues to do so)<br>
+							<br>
+							
+						GEORGE: Jerry! Stop it!<br>
+							<br>
+							
+						JERRY: And weren't there a feats of strength that always ended up with you crying?<br>
+							<br>
+							
+						(Jerry joins in with Elaine's laughter)<br>
+							<br>
+							
+						GEORGE: I can't take it anymore! I'm going to work! ARe you happy now?! (Gathers his things, and runs out of the coffee shop. Elaine and Jerry laugh hysterically)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Setting: Jerry's apartment]<br>
+							<br>
+							
+						(Elaine is digging into her purse)<br>
+							<br>
+							
+						ELAINE: Oh, I can't believe it! I've lost my &quot;Atomic Sub&quot; card!.. Oh no! I bet I wrote that fake number on the back of it when I gave it to denim vest!<br>
+							<br>
+							
+						JERRY: So?<br>
+							<br>
+							
+						ELAINE: I've eaten 23 bad subs, I just need 1 more! It's like a long, bad movie, but you want to see the end of it!<br>
+							<br>
+							
+						JERRY: No, you walk out.<br>
+							<br>
+							
+						ELAINE: Alright, then, it's like a boring book, but you gotta finish it.<br>
+							<br>
+							
+						JERRY: No, you wait for the movie!<br>
+							<br>
+							
+						ELAINE: (Irritated, and through clinched teeth) I want that free sub.<br>
+							<br>
+							
+						JERRY: You don't need the card. High-end hoagie outfit like that, it's all computerized! (Snaps) They're cloning sheep now.<br>
+							<br>
+							
+						KRAMER: (Correcting) No, they're not cloning sheep. It's the same sheep! I saw Harry Blackstone do that trick with two goats and a handkerchief on the old Dean Martin show!<br>
+							<br>
+							
+						JERRY: So, why don't you just try your blow-off number and see if he's called it?<br>
+							<br>
+							
+						ELAINE: That's a good idea.<br>
+							<br>
+							
+						(Kramer's cordless phone rings, startling him. He digs through his coat, and pulls it out of the pocket)<br>
+							<br>
+							
+						KRAMER: (Answering phone) Yeah, Go! Wha.. really? Yeah, ok. Yeah! Bye. (Hangs up) Great news! Yeah, the strike has been settled. I'm going back to work.<br>
+							<br>
+							
+						JERRY: What strike?<br>
+							<br>
+							
+						KRAMER: Yeah, H&amp;H Bagels. That's where I worked.<br>
+							<br>
+							
+						JERRY: You?<br>
+							<br>
+							
+						ELAINE: Worked?<br>
+							<br>
+							
+						JERRY: Bagels?<br>
+							<br>
+							
+						KRAMER: Yeah. Look, see. I still have my business card. (Pulls it out, hands it to Elaine) Yeah, we've been on strike for 12 years.<br>
+							<br>
+							
+						ELAINE: Oh, I remember seeing those guys picketing out there, but I haven't seen them in a long time.<br>
+							<br>
+							
+						KRAMER: Yeah, well, H&amp;H wouldn't let us use their bath room while we were picketing. It put a cramp on our solidarity.<br>
+							<br>
+							
+						ELAINE: What were your.. demands?<br>
+							<br>
+							
+						KRAMER: Yeah, 5.35 an hour. And that's what they're paying now.<br>
+							<br>
+							
+						ELAINE: I believe that's the new minimum wage.<br>
+							<br>
+							
+						KRAMER: Now you know who to thank for that!.. Alright, I've got to go. (Heads for the door)<br>
+							<br>
+							
+						JERRY: Why didn't you ever mention this?<br>
+							<br>
+							
+						KRAMER: Jerry, I didn't want you to know I was out of work. It's embarrassing! (Leaves) (Scene ends)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Setting: H&amp;H Bagel Shop]<br>
+							<br>
+							
+						(Kramer walks through the door)<br>
+							<br>
+							
+						KRAMER: All right, everybody! I'm back!<br>
+							<br>
+							
+						MANAGER: Who are you?<br>
+							<br>
+							
+						KRAMER: Cosmo Kramer.. strikes over.<br>
+							<br>
+							
+						MANAGER: Oh yeah! Kramer.<br>
+							<br>
+							
+						KRAMER: Huh.. wha- Didn't any of the guys come back?<br>
+							<br>
+							
+						MANAGER: NO, I&quot;m sure they all got jobs.. like, ten years ago.<br>
+							<br>
+							
+						KRAMER: Oh, man. Makes you wonder what it was all for..<br>
+							<br>
+							
+						MANAGER: I could use someone for the holidays..<br>
+							<br>
+							
+						KRAMER: Alright! Toss me an apron, let's bagel! (Takes off his coat, puts it in the display case, then turns to see a plate full of bagels.) What are those?<br>
+							<br>
+							
+						MANAGER: Those are rasin bagels.<br>
+							<br>
+							
+						KRAMER: (Picks one up, he's mesmerized) I never thought I'd live to see that..<br>
+							<br>
+							<br>
+							<br>
+							
+						[Setting: Horse Track Betting]<br>
+							<br>
+							
+						(Elaine confronts two unattractive bookies)<br>
+							<br>
+							
+						ELAINE: So, anyway, I've been giving out your number as my standard fake.<br>
+							<br>
+							
+						BOOKIE: So. You're Elaine Benes. We've been getting calls fro you for 5 years.<br>
+							<br>
+							
+						ELAINE: So, listen, when this guy calls, if you could just give him my real number..<br>
+							<br>
+							
+						BOOKIE: (Interrupting) Hey, Charlie! Guess who's here. Elaine Benes.<br>
+							<br>
+							
+						(Co-Worker in the back speaks up)<br>
+							<br>
+							
+						CHARLIE: Elaine Benes?!<br>
+							<br>
+							
+						(Various other men in the line behind Elaine say the same thing)<br>
+							<br>
+							
+						BOOKIE: You make a lot of man friends. You know who's a man? Charlie here, he's a man. You know who else? Me. I'm a man.<br>
+							<br>
+							
+						CHARLIE: (faintly) I'm a man.<br>
+							<br>
+							
+						ELAINE: Ohh.. my..<br>
+							<br>
+							
+						BOOKIE: I'll have this best guy call your real number. You just, uh, give it to me. And that way, I'll have it. (Slides a pad over to Elaine so she can write it down)<br>
+							<br>
+							
+						ELAINE: My number? Ohh.. (looks at Kramer's business card) Okay.. Uh, well, there you go. (writes H&amp;H's number down) And, uh, tell you what.. (looks at the board in the back) put a sawbuck on Captain Nemo in the third at Belmont.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Setting: classy restaurant]<br>
+							<br>
+							
+						(Jerry and Tim Whatley meet)<br>
+							<br>
+							
+						TIM: Hey, Jerry.<br>
+							<br>
+							
+						JERRY: Hey, Tim.<br>
+							<br>
+							
+						TIM: What's up?<br>
+							<br>
+							
+						JERRY: Actually, I'm having dinner with a girl I met at your party.<br>
+							<br>
+							
+						TIM: Mazel Tov.<br>
+							<br>
+							
+						(Jerry's date, Gwen, arrives. She's completely unattractive)<br>
+							<br>
+							
+						GWEN: Jerry.. hi.<br>
+							<br>
+							
+						JERRY: Gwen?<br>
+							<br>
+							
+						GWEN: Yeah.<br>
+							<br>
+							
+						JERRY: (Not willing to believe how much uglier she is) Really?<br>
+							<br>
+							
+						GWEN: Yeah! Come on, our table is ready.<br>
+							<br>
+							
+						(Tim gives Jerry a face - almost like he feels sorry for Jerry)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Setting: Jerry's apartment]<br>
+							<br>
+							
+						GEORGE: So, attractive one day - not attractive the next?<br>
+							<br>
+							
+						JERRY: Have you come across this?<br>
+							<br>
+							
+						GEORGE: Yes, I am familiar with this syndrome -- she's a two-face.<br>
+							<br>
+							
+						JERRY: (Relating) Like the Batman villain?<br>
+							<br>
+							
+						GEORGE: (Annoyed) If that helps you..<br>
+							<br>
+							
+						JERRY: So, if I ask her out again - I don't know who's showing up: The good, the bad, or the ugly.<br>
+							<br>
+							
+						GEORGE: (Identifying what Jerry said) Clint Eastwood!<br>
+							<br>
+							
+						JERRY: Yeah.<br>
+							<br>
+							
+						GEORGE: Hey, check this out. I gotta give out Christmas presents to everyone down at Kruger, so I'm pulling a Whatley. (Give a Christmas card to Jerry)<br>
+							<br>
+							
+						JERRY: (Reading it) &quot;A donation has been made in your name to the Human Fund.&quot; - What is that?<br>
+							<br>
+							
+						GEORGE: (With pride) Made it up.<br>
+							<br>
+							
+						JERRY: (Continuing reading) &quot;The Human Fund. Money for people.&quot;<br>
+							<br>
+							
+						GEORGE: What do you think?<br>
+							<br>
+							
+						JERRY: It has a certain understated stupidity.<br>
+							<br>
+							
+						GEORGE: (Once again, Identifying) The Outlaw of Josey Whales!<br>
+							<br>
+							
+						JERRY: ..Yeah.<br>
+							<br>
+							
+						(Enter Kramer)<br>
+							<br>
+							
+						(He is holding a sack full of bagels)<br>
+							<br>
+							
+						KRAMER: Ah, gentlemen.. bagels on the house!<br>
+							<br>
+							
+						JERRY: How was your first day?<br>
+							<br>
+							
+						KRAMER: Oh, fantastic! (Jerry and George both pick out a bagel) It felt so good to get my hands back in taht dough.<br>
+							<br>
+							
+						(Jerry and George stop before they take a bite from their bagels)<br>
+							<br>
+							
+						JERRY: Your hands were in the dough?<br>
+							<br>
+							
+						KRAMER: No, I didn't make these bagels. (Jerry and George both take a bite) Yeah, they're day-olds. The homeless won't even touch them. (Jerry and George stop eating) Oh, we try to fool them by putting a few fresh ones on top, but they dig.. they, they test.<br>
+							<br>
+							
+						(George spits his bagel out)<br>
+							<br>
+							
+						GEORGE: Alright. Uh, well, I'm out of here. (Gets up to leave)<br>
+							<br>
+							
+						JERRY: Happy Festivus!<br>
+							<br>
+							
+						KRAMER: What's Festivus?<br>
+							<br>
+							
+						JERRY: When George was growing up..<br>
+							<br>
+							
+						GEORGE: (Interrupting) No!<br>
+							<br>
+							
+						JERRY: His father..<br>
+							<br>
+							
+						GEORGE: Stop it! It's nothing. It's a stupid holiday my father invented. It doesn't exist!<br>
+							<br>
+							
+						(Elaine enters while George is exiting)<br>
+							<br>
+							
+						ELAINE: Happy Festivus, Georgie.<br>
+							<br>
+							
+						(George leaves yelling out &quot;God!&quot;)<br>
+							<br>
+							
+						KRAMER: Frank invented a holiday? He's so prolific!<br>
+							<br>
+							
+						ELAINE: Kramer, listen, I got a little phone relay going, so, if a guy calls H&amp;H and he's looking for me, you take a message.<br>
+							<br>
+							
+						JERRY: You're still trying to gget that free sub?<br>
+							<br>
+							
+						ELAINE: Hey! I have spent a lot of time, and I have eaten a lot of crap to get to where I am today. And I am NOT throwing it all away now.<br>
+							<br>
+							
+						JERRY: Is there a captain's hat involved in this?<br>
+							<br>
+							
+						ELAINE: Maybe.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Setting: H&amp;H Bagel Shop]<br>
+							<br>
+							
+						FRANK: Kramer, I got your message. I haven't celebrated Festivus in years! What is your interest?<br>
+							<br>
+							
+						KRAMER: Well, just tell me everything, huh?<br>
+							<br>
+							
+						FRANK: Many Christmases ago, I went to buy a doll for my son. I reach for the last one they had - but so did another man. As I rained blows opon him, I realized there had to be another way!<br>
+							<br>
+							
+						KRAMER: What happened to the doll?<br>
+							<br>
+							
+						FRANK: It was destroyed. But out of that, a new holiday was born. &quot;A Festivus for the rest of us!&quot;<br>
+							<br>
+							
+						KRAMER: That musta been some kind of doll.<br>
+							<br>
+							
+						FRANK: She was.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Setting: Kruger Office Building]<br>
+							<br>
+							
+						(George is in the hallway, dispensing his made-up gifts)<br>
+							<br>
+							
+						GEORGE: Merry Christmas, Merry Christmas! (Co-worker gives a gift to George) Oh, Sandy! Here is a little something for you.. (hands her a card)<br>
+							<br>
+							
+						SANDY: (After reading the cheap gift, she's suddenly unimpressed) ..Oh.. thanks. (Walks off)<br>
+							<br>
+							
+						(George passes an open doorway)<br>
+							<br>
+							
+						GEORGE: Phil, I loved those cigars! Incoming! (Flicks his card tward Phil)<br>
+							<br>
+							
+						PHIL: Ow!<br>
+							<br>
+							
+						(George meets up with Kruger)<br>
+							<br>
+							
+						GEORGE: Aw, Mr. Kruger, Sir. Merry Christmas! (Hands him a card)<br>
+							<br>
+							
+						KRUGER: Not if you could see our books.. what's this?<br>
+							<br>
+							
+						GEORGE: The Human Fund.<br>
+							<br>
+							
+						KRUGER: Whatever. (Walks off)<br>
+							<br>
+							
+						GEORGE: Exactly. (Sees an off-camera co-worker) Erica!<br>
+							<br>
+							<br>
+							<br>
+							
+						[Setting: H&amp;H Bagel Shop]<br>
+							<br>
+							
+						(Frank is still telling Kramer about Festivus)<br>
+							<br>
+							
+						FRANK: And at the Festivus dinner, you gather your family around, and you tell them all the ways they have disappointed you over the past year.<br>
+							<br>
+							
+						KRAMER: Is there a tree?<br>
+							<br>
+							
+						FRANK: No. Instead, there's a pole. It requires not decoration. I find tinsel distracting.<br>
+							<br>
+							
+						KRAMER: Frank, this new holiday of yours is scratching me right where I itch.<br>
+							<br>
+							
+						FRANK: Let's do it then! Festivus is back! I'll get the pole out of the crawl space. (Turns to leave, meets up with Elaine)<br>
+							<br>
+							
+						ELAINE: Hello, Frank.<br>
+							<br>
+							
+						FRANK: Hello, woman. (leaves)<br>
+							<br>
+							
+						ELAINE: Kramer! Kramer.. any word from the vest?<br>
+							<br>
+							
+						KRAMER: No. (To manager of H&amp;H) Ah, listen, Harry, I need the 23rd off.<br>
+							<br>
+							
+						MANAGER: Hey! I hired you to work during the holidays. This is the holidays.<br>
+							<br>
+							
+						KRAMER: But it's Festivus.<br>
+							<br>
+							
+						MANAGER: What?<br>
+							<br>
+							
+						KRAMER: You know you're infringing on my right to celebrate new holidays..<br>
+							<br>
+							
+						MANAGER: That's not a right.<br>
+							<br>
+							
+						KRAMER: Well, it's going to be! Because I'm going back on strike. Come on Elaine. (Takes of his apron, and goes for his coat) It's a walk out!<br>
+							<br>
+							
+						ELAINE: No, I got to stay here and wait for the call.<br>
+							<br>
+							
+						KRAMER: What? You're siding with management?!<br>
+							<br>
+							
+						ELAINE: No, I just..<br>
+							<br>
+							
+						KRAMER: (Interrupting) Scab! Scab! (pointing at Elaine) Scab!<br>
+							<br>
+							<br>
+							<br>
+							
+						[Setting: Taxi Cab]<br>
+							<br>
+							
+						(Gwen joins Jerry in the cab. She's in her attractive state)<br>
+							<br>
+							
+						GWEN: Hey.<br>
+							<br>
+							
+						JERRY: Boy, am I glad to see you.<br>
+							<br>
+							
+						GWEN: You were expecting someone else?<br>
+							<br>
+							
+						JERRY: You never know.<br>
+							<br>
+							
+						GWEN: (To driver) You know, you might want to take the tunnel.<br>
+							<br>
+							
+						JERRY: So, uh, what do you feel like eating? Chinese or Italian?<br>
+							<br>
+							
+						(All the sudden, Gwen is extremely ugly)<br>
+							<br>
+							
+						GWEN: I can go either way.<br>
+							<br>
+							
+						JERRY: (Shocked) You're telling me.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Setting: the Coffee Shop]<br>
+							<br>
+							
+						GEORGE: So, she was switching? Back and forth?<br>
+							<br>
+							
+						JERRY: Actually, the only place she always looked good was in that back booth over there.<br>
+							<br>
+							
+						GEORGE: So, just bring her here. This is all you really need.<br>
+							<br>
+							
+						JERRY: I can't just keep bringing her to the coffee shop. I mean, what if things, you know, progress?<br>
+							<br>
+							
+						GEORGE: Lights out.<br>
+							<br>
+							
+						JERRY: Alright, I'll give it a shot! I do really like this coffee shop. Nice cuff links, by the way.<br>
+							<br>
+							
+						GEORGE: (Pointing to them) Office Christmas gift. I tell you, this Human Fund is a gold mine!<br>
+							<br>
+							
+						JERRY: That's not a french cuff shirt, you know.<br>
+							<br>
+							
+						GEORGE: I know. I cut the button off and poked a hole with a letter opener.<br>
+							<br>
+							
+						JERRY: Oh, that's classy.<br>
+							<br>
+							
+						(Frank and Kramer enter. Frank is dragging an aluminum pole)<br>
+							<br>
+							
+						KRAMER: Well, Happy Festivus.<br>
+							<br>
+							
+						GEORGE: What is that? Is taht the pole?!<br>
+							<br>
+							
+						FRANK: George, Festivus is your heritage - it's part of who you are.<br>
+							<br>
+							
+						GEORGE: (Sulking) That's why I hate it.<br>
+							<br>
+							
+						KRAMER: There's a big dinner Tuesday night at Frank's house - everyone's invited.<br>
+							<br>
+							
+						FRANK: George, you're forgetting how much Festivus has meant to us all. I brought one of the casette tapes. (Franks pushes play, George as a child celebrating Festivus is heard)<br>
+							<br>
+							
+						FRANK: Read that poem.<br>
+							<br>
+							
+						GEORGE: (Complaining) I can't read it. I need my glasses!<br>
+							<br>
+							
+						FRANK: You don't need glasses, you're just weak! You're weak!<br>
+							<br>
+							
+						ESTELLE: Leave him alone!<br>
+							<br>
+							
+						FRANK: Alright, George. It's time for the feats of strength.<br>
+							<br>
+							
+						(George has a break down)<br>
+							<br>
+							
+						GEORGE: No! No! Turn it off! No feats of strength! (Gets up and starts running out of the coffee shop) I hate Festivus!<br>
+							<br>
+							
+						FRANK: We had some good times.<br>
+							<br>
+							
+						(Gwen walks in, and greets Jerry. She's in her unattractive state)<br>
+							<br>
+							
+						GWEN: Hey.<br>
+							<br>
+							
+						JERRY: I there. This is Kramer, and Frank.<br>
+							<br>
+							
+						GWEN: Hi.<br>
+							<br>
+							
+						KRAMER: (Shocked at her ugliness, he stammers) Hello.<br>
+							<br>
+							
+						GWEN: So, you ready to go?<br>
+							<br>
+							
+						JERRY: Uh, why don't we stay here? The back booth just opened up. (They both walk to the booth and sit down. Suddenly, Gwen is attractive) Now this is a good looking booth.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Setting: H&amp;H Bagel Shop]<br>
+							<br>
+							
+						(Kramer is picketing out side.)<br>
+							<br>
+							
+						KRAMER: Protect Festivus! Hey, no bagels, no bagels, no bagels, (Continues to chant)<br>
+							<br>
+							
+						(Cut to inside the store)<br>
+							<br>
+							
+						MANAGER: (To a waiting Elaine) Lady, if you want a sandwich, I'll make you a sandwich.<br>
+							<br>
+							
+						ELAINE: (Whining) I want the one that I earned. (Phone rings) I'll get it. I'll get it! (Into phone) H&amp;H, and Elaine.<br>
+							<br>
+							
+						KRAMER: (From a phone booth right outside the store) Elaine, you should get out of there. I sabotaged the bagel machine last night. It's going down.<br>
+							<br>
+							
+						ELAINE: What did you do?<br>
+							<br>
+							
+						KRAMER: You've been warned.<br>
+							<br>
+							
+						(Elaine looks out the window, and sees Kramer at the pay phone)<br>
+							<br>
+							
+						ELAINE: Oh, hi! (Waves at him)<br>
+							<br>
+							
+						(Steam starts coming from a pipe on the machine. Elaine hangs up)<br>
+							<br>
+							
+						WORKER: Hey, the steam valve's broke.<br>
+							<br>
+							
+						MANAGER: Can we still make bagels?<br>
+							<br>
+							
+						WORKER: Sure. It's just a little steamy.<br>
+							<br>
+							
+						(Kramer knocks on the shop door)<br>
+							<br>
+							
+						KRAMER: Hey! How do you like your bagels now?!<br>
+							<br>
+							
+						(No one inside seems to care. Kramer waits by the door to see if anyone was affected)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Setting: Kruger Building]<br>
+							<br>
+							
+						KRUGER: George, I got something for you. (Pulls a check from his pocket) I'm suppose to find a charity and throw some of the company's money at it. They all seem the same to me, so, what's the difference? (Hands the check to George)<br>
+							<br>
+							
+						GEORGE: 20 thousand dollars?<br>
+							<br>
+							
+						KRUGER: Made out to the Human Fund. (Tries to enter his office, but it's locked) Oh, damn. I've locked myself out of my office again. Oh well. I'm going home.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Setting: Coffee Shop]<br>
+							<br>
+							
+						GWEN: Jerry, how many times do we have to come to this.. place?<br>
+							<br>
+							
+						JERRY: Why? It's our place.<br>
+							<br>
+							
+						GWEN: I just found a rubber band in my soup.<br>
+							<br>
+							
+						JERRY: Oh.. I know who's cooking today!<br>
+							<br>
+							
+						(Enter George)<br>
+							<br>
+							
+						GEORGE: Hey! Surprise, surprise!<br>
+							<br>
+							
+						JERRY: Hey, Georgie!<br>
+							<br>
+							
+						GWEN: I think I'm just gonna go.<br>
+							<br>
+							
+						JERRY: I'll be here.<br>
+							<br>
+							
+						(Gwen leaves)<br>
+							<br>
+							
+						GEORGE: (Sees Gwen's meal) Hey, soup.<br>
+							<br>
+							
+						JERRY: She didn't touch it.<br>
+							<br>
+							
+						(George spoons through his soup, and finds a rubber band)<br>
+							<br>
+							
+						GEORGE: Ohh.. Paco! (Flicks rubber band tward the kitchen) Hey, take a look at this. (Hands Jerry Kruger's check)<br>
+							<br>
+							
+						JERRY: 20 thousand dollars from Kruger? You're not keeping this.<br>
+							<br>
+							
+						GEORGE: I don't know.<br>
+							<br>
+							
+						JERRY: Excuse me?<br>
+							<br>
+							
+						GEORGE: I've been doing a lot of thinking. This might be my chance to start giving something back.<br>
+							<br>
+							
+						JERRY: You want to give something back? Start with the 20 thousand dollars.<br>
+							<br>
+							
+						GEORGE: I'm serious.<br>
+							<br>
+							
+						JERRY: You're going to start your own charity?<br>
+							<br>
+							
+						GEORGE: I think I could be a philanthropist. a kick ass philanthropist! I would have all this money, and people would love me. Then they would come to me.. and beg! And if I felt like it, I would help them out. And then they would owe me big time! (Thinking to himself) .. First thing I'm gonna need is a driver..<br>
+							<br>
+							<br>
+							<br>
+							
+						[Setting: Outside H&amp;H Bagels]<br>
+							<br>
+							
+						(Kramer is chanting 'no bagels, no bagels..' Elaine walks out, her make-up is distorted, and her face is pale because of the steam)<br>
+							<br>
+							
+						ELAINE: Kramer, the vest just called.<br>
+							<br>
+							
+						KRAMER: (Shocked by the way Elaine looks) Yama - Hama! It's fright night!<br>
+							<br>
+							
+						ELAINE: Oh, yeah, I got a little steam bath. Listen, in 10 minutes, I'm gonna have my hands on that &quot;Atomic Sub&quot; card.<br>
+							<br>
+							
+						KRAMER: And?<br>
+							<br>
+							
+						ELAINE: (Embarrassed) Free sub. (Starts to leave) I'll see ya.<br>
+							<br>
+							
+						KRAMER: Yeah.<br>
+							<br>
+							
+						(Gwen walks by, she's in her ugly state)<br>
+							<br>
+							
+						GWEN: Kramer, Hi!<br>
+							<br>
+							
+						KRAMER: Oh, hello.<br>
+							<br>
+							
+						GWEN: It's Gwen.. We met .. at the coffee shop.<br>
+							<br>
+							
+						KRAMER: Ah-huh.<br>
+							<br>
+							
+						GWEN: I'm dating your friend, Jerry..<br>
+							<br>
+							
+						KRAMER: Ahh.. I don't know who you really are, but I've seen Jerry's girlfriend, and she's not you. You're much better looking - and like, a foot taller.<br>
+							<br>
+							
+						GWEN: That's why we're always hiding in that coffee shop! He's afraid of getting caught.<br>
+							<br>
+							
+						KRAMER: Oh, he's a tomcat.<br>
+							<br>
+							
+						(Cut to Elaine)<br>
+							<br>
+							
+						(She meets up with Denim Vest on the street corner)<br>
+							<br>
+							
+						ELAINE: Steve.<br>
+							<br>
+							
+						DENIM VEST: Hmm?<br>
+							<br>
+							
+						ELAINE: It's Elaine.<br>
+							<br>
+							
+						DENIM VEST: From Tim Whatley's party?<br>
+							<br>
+							
+						ELAINE: Yeah.<br>
+							<br>
+							
+						DENIM VEST: You look.. different.<br>
+							<br>
+							
+						ELAINE: I see you're still sticking with the denim. (He's wearing a denim coat) Do you have that card that I gave you?<br>
+							<br>
+							
+						DENIM VEST: Well, I had it back at my place, but I can't go there now.. I'll give it to you later, or something.<br>
+							<br>
+							
+						ELAINE: No, no, no. You give me your number.<br>
+							<br>
+							
+						DENIM VEST: Okay. Sure. (Pulls out a pad, and starts writing a number down) Do you have the mumps?<br>
+							<br>
+							
+						ELAINE: No.<br>
+							<br>
+							
+						DENIM VEST: Typhoid?<br>
+							<br>
+							
+						ELAINE: No.<br>
+							<br>
+							
+						DENIM VEST: (Hands her the paper, and runs off) Yama - Hama!<br>
+							<br>
+							
+						(Elaine looks at the number, and sees it's the same as the number on a nearby truck)<br>
+							<br>
+							
+						ELAINE: A fake number! Blimey!<br>
+							<br>
+							<br>
+							<br>
+							
+						[Setting: Kruger's office]<br>
+							<br>
+							
+						KRUGER: George, we have a problem. There's a memo, here, from accounting telling me there's no such thing as the Human Fund.<br>
+							<br>
+							
+						GEORGE: Well, there could be.<br>
+							<br>
+							
+						KRUGER: But there isn't.<br>
+							<br>
+							
+						GEORGE: Well, I - I could, Uh, I could give the money back. Here. (Holds it out)<br>
+							<br>
+							
+						KRUGER: George, I don't get it. If there's no Human Fund, those donation cards were fake. You better have a damn good reason why you gave me a fake Christmas gift.<br>
+							<br>
+							
+						GEORGE: Well, sir, I - I gave out the fake card, because, um, I don't really celebrate Christmas. I, um, I celebrate Festivus.<br>
+							<br>
+							
+						KRUGER: Vemonous?<br>
+							<br>
+							
+						GEORGE: Festivus, Sir. And, uh, I was afraid that I would be persecuted for my beliefs. They drove my family out of Bayside, Sir!<br>
+							<br>
+							
+						KRUGER: Are you making all this up, too?<br>
+							<br>
+							
+						GEORGE: Oh, no, Sir. Festivus is all too real. And.. I could prove it - if I had to.<br>
+							<br>
+							
+						KRUGER: Yeah, you probably should.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Setting: The Costanza's house]<br>
+							<br>
+							
+						GEORGE: Happy Festivus!<br>
+							<br>
+							
+						FRANK: George? This is a surprise. (Looking at Kruger) Who's the suit?<br>
+							<br>
+							
+						GEORGE: Yo, dad. This is my boss, Mr. Kruger.<br>
+							<br>
+							
+						FRANK: Have you seen the pole, Kruger?<br>
+							<br>
+							
+						GEORGE: Dad, he doesn't need to see the pole.<br>
+							<br>
+							
+						FRANK: He's gonna see it.<br>
+							<br>
+							
+						(Enter Jerry and Elaine. Elaine is still ugly from the steam)<br>
+							<br>
+							
+						GEORGE: Happy Festivus! (Sees Elaine) Yama - Hama!<br>
+							<br>
+							
+						ELAINE: I didn't have time to go home. What are you doing here?<br>
+							<br>
+							
+						GEORGE: Embracing my roots.<br>
+							<br>
+							
+						JERRY: They nailed you on the 20 G's?<br>
+							<br>
+							
+						GEORGE: Busted cold.<br>
+							<br>
+							
+						(Cut to Kruger and Frank)<br>
+							<br>
+							
+						(They're looking at the Festivus pole)<br>
+							<br>
+							
+						FRANK: It's made from aluminum. Very high strength-to-weight ratio.<br>
+							<br>
+							
+						KRUGER: I find your belief system fascinating.<br>
+							<br>
+							
+						(Enter Kramer)<br>
+							<br>
+							
+						(Kramer's with the two bookies from Horse Track Betting)<br>
+							<br>
+							
+						KRAMER: Hey! Happy Festivus, everyone! (Hugs George, and jumps up and down) Hee, hee, hee!<br>
+							<br>
+							
+						BOOKIE: Hello again, Miss Benes.<br>
+							<br>
+							
+						ELAINE: What are you doing here?<br>
+							<br>
+							
+						BOOKIE: Damnedest thing.. me and Charlie were calling to ask you out, and, uh, we got this bagel place..<br>
+							<br>
+							
+						KRAMER: (Finishing the story) I told them I was just about to see you.. It's a Festivus miracle!<br>
+							<br>
+							
+						(Estelle comes through the kitchen door, hitting Kramer as she opens it)<br>
+							<br>
+							
+						ESTELLE: Dinner's ready!<br>
+							<br>
+							
+						FRANK: Let's begin.<br>
+							<br>
+							
+						(Everyone sits around the table. Kruger recognized Kramer from &quot;The Meat Slicer&quot; episode..) KRUGER: Dr.. Van Nostrand?<br>
+							<br>
+							
+						KRAMER: Uh.. that's right.<br>
+							<br>
+							
+						(Cut to Frank)<br>
+							<br>
+							
+						FRANK: Welcome, new comers. The tradition of Festivus begins with the airing of grievances. I got a lot of problems with you people! And now you're gonna hear about it! You, Kruger. My son tells me your company stinks!<br>
+							<br>
+							
+						GEORGE: Oh, God.<br>
+							<br>
+							
+						FRANK: (To George) Quiet, you'll get yours in a minute. Kruger, you couldn't smooth a silk sheet if you had a hot date with a babe.. I lost my train of thought.<br>
+							<br>
+							
+						(Frank sits down, Jerry gives a face that says &quot;That's a shame&quot;. Gwen walks in)<br>
+							<br>
+							
+						GWEN: Jerry!<br>
+							<br>
+							
+						JERRY: Gwen! How'd you know I was here?<br>
+							<br>
+							
+						GWEN: Kramer told me.<br>
+							<br>
+							
+						KRAMER: Another Festivus miracle!<br>
+							<br>
+							
+						(Jerry gives Kramer a death stare. He shuts up. Gwen notices Elaine)<br>
+							<br>
+							
+						GWEN: I guess this is the ugly girl I've been hearing about.<br>
+							<br>
+							
+						ELAINE: Hey, I was in a shvitz for 6 hours. Give me a break.<br>
+							<br>
+							
+						(Gwen leaves, Jerry follows)<br>
+							<br>
+							
+						JERRY: Gwen. Gwen, wait! Ah! (runs back to his seat) Bad lighting on the porch.<br>
+							<br>
+							
+						ELAINE: (To bookie) Hey, how'd my horse do?<br>
+							<br>
+							
+						BOOKIE: He had to be shot.<br>
+							<br>
+							
+						FRANK: And now as Festivus rolls on, we come to the feats of strength.<br>
+							<br>
+							
+						GEORGE: Not the feats of strength..<br>
+							<br>
+							
+						FRANK: This year, the honor goes to Mr. Kramer.<br>
+							<br>
+							
+						KRAMER: Uh-oh. Oh, gee, Frank, I'm sorry. I gotta go. I have to work a double shift at H&amp;H.<br>
+							<br>
+							
+						JERRY: I thought you were on strike?<br>
+							<br>
+							
+						KRAMER: Well, I caved. I mean, I really had to use their bathroom. Frank, no offence, but this holiday is a little (makes a series of noises) out there.<br>
+							<br>
+							
+						GEORGE: Kramer! You can't go! Who's gonna do the feats of strength?<br>
+							<br>
+							
+						(Exit Kramer)<br>
+							<br>
+							
+						KRUGER: (Sipping liquor from a flask) How about George?<br>
+							<br>
+							
+						FRANK: Good thinking, Kruger. Until you pin me, George, Festivus is not over!<br>
+							<br>
+							
+						GEORGE: Oh, please, somebody, stop this!<br>
+							<br>
+							
+						FRANK: (Taking off his sweater) Let's rumble!<br>
+							<br>
+							
+						(Cuts to an outside view of the Costanza's house)<br>
+							<br>
+							
+						ESTELLE: I think you can take him, Georgie!<br>
+							<br>
+							
+						GEORGE: Oh, come on! Be sensible.<br>
+							<br>
+							
+						FRANK: Stop crying, and fight your father!<br>
+							<br>
+							
+						GEORGE: Ow! .. Ow! I give, I give! Uncle!<br>
+							<br>
+							
+						FRANK: This is the best Festivus ever!<br>
+							<br>
+							<br>
+							<br>
+							
+						[Setting: H&amp;H Bagel Shop]<br>
+							<br>
+							
+						(Kramer is shaping some dough and chewing gum - his gum falls into the dough. He starts looking for the gum, and starts extracting it from the dough. The manger is watching)<br>
+							<br>
+							
+						MANAGER: Alright. That's enough. You're fired.<br>
+							<br>
+							
+						KRAMER: Thank - you! (Gets his coat, and leaves)<br>
+							<br>
+							<br>
+							
+						The End</td>
+						</tr>
+						<tr height="6">
+							<td class="bottom2" width="645" height="6"></td>
+						</tr>
+						<tr>
+							<td width="645">
+								<div align="center">
+									<font size="-1">Copyright 2006 seinology.com | All Rights Reserved | Designed by 13erla</font></div>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+		<p></p>
+	</body>
+
+</html>

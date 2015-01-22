@@ -1,0 +1,1884 @@
+<tdOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+<html>
+
+	<head>
+		<meta http-equiv="content-type" content="text/html;charset=ISO-8859-1">
+		<meta name="description" content="Top Source for Seinfeld">
+		<meta name="keywords" content="seinfeld, sienfeld, Jerry Seinfeld, Julia Louis Dreyfus, Jason Alexander, Michael Richards, Kramer, George, Costanza, Elaine Benes, morty, Larry David">
+		<title>Seinology.com :: Scripts :: 103-The Kiss Hello</title>
+	<link rel='stylesheet' href='/stylesheet.css' type='text/css'>
+	</head>
+
+	<body>
+			<table align="center" width="787" border="0" cellspacing="0" cellpadding="0">
+				<tr>
+					<td><font size="-2" color="red">Seinology.com - </font><font size="-3" color="black">Where Seinfeld Content and Accuracy Matter Most. Seinfeld scripts in pdf form, Seinfeld episode video clips, Seinfeld episode audio clips, Jerry Seinfeld appearances, Julia Louis-Dreyfus appearances, Michael Richards appearances, Jason Alexander appearances, Seinfeld discussion Forum, Seinfeld Where are they Now? Seinlanguage Newsletter, Popular Seinfeld Lists, Seinfeld episode standup, Seinfeld episode guide, Seinfeld fan fiction. Seinfeld content all on one domain. Seinology.com enjoy your stay.</font></td>
+				</tr>
+			</table>
+		
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr height="100">
+				<td class="logo"></td>
+			</tr>
+			<tr><td class="ads" align="center" background=#8694fa>
+				<script type="text/javascript"><!--
+google_ad_client = "pub-1924026976931416";
+google_ad_width = 728;
+google_ad_height = 90;
+google_ad_format = "728x90_as";
+google_ad_type = "text";
+google_ad_channel = "";
+google_color_border = "FFFFFF";
+google_color_bg = "8694fa";
+google_color_link = "0000FF";
+google_color_text = "000000";
+google_color_url = "002E3F";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></td></tr>
+		</table>
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr>
+				<td valign="top" width="136">
+					<table width="136" border="0" cellspacing="0" cellpadding="0">
+						<tr height="24">
+							<td class="navigation">
+								<div align="center">
+									
+									<b>Navigation</b></div>
+							</td>
+						</tr>
+						<tr height="199">
+							<td class="spacer1" valign="top" width="136" height="199">
+								<div align="center">
+									<font size="-1"><a href="http://www.seinology.com">Home</a><br>
+										<a href="http://board.seinology.com">Forum</a><br>
+										<a href="http://www.seinology.com/av.shtml">Audio/Video</a><br>
+										<a href="http://www.seinology.com/scripts.shtml">Scripts</a><br>
+										<a href="http://www.seinology.com/survivor.shtml">Survivor</a><br>
+										<a href="http://www.seinology.com/fanfics.shtml">Fan Fiction</a><br>
+										<a href="http://www.seinology.com/gallery/">Gallery</a><br>
+										<a href="http://www.seinology.com/newsletter.shtml">Newsletter</a><br>
+										<a href="http://www.seinology.com/lists.shtml">Lists</a><br>
+										<a href="http://www.seinology.com/epguide.shtml">Episode Guide</a><br>
+										<a href="http://www.seinology.com/links.shtml">Links</a><br>
+										<a href="http://www.seinology.com/faqother.shtml">Faq + others</a><br>
+										<a href="http://www.seinology.com/legal.shtml">Legal</a></font></div>
+							</td>
+						</tr>
+						
+						<tr>
+							<td class="nav2" width="136">
+							<div align="center"><b>Search</b></div></td>
+						</tr>
+						<tr>
+							<td class="spacer1" width="136" valign="top"><div align="center"><form method="get" action="http://www.seinology.com/search/search.cgi">
+<p><label for="fdse_Match">Match</label><br>
+<select name="Match" id="fdse_Match" size="1">
+<option value="1">All</option>
+<option value="0">Any</option>
+<option value="2">Phrase</option>
+</select></p>
+<p><label for="fdse_Realm">Where?</label><br>
+<select name="Realm" id="fdse_Realm" size="1">
+<option selected="selected" value="All">EntireSite</option>
+<option value="Ep Guide">Ep Guide</option>
+<option value="Images">Images</option>
+<option value="Lists">Lists</option>
+<option value="Newsletters">Newsletters</option>
+<option value="Scripts">Scripts</option>
+<option value="Notes..Nothing">Notes..Nothing</option>
+</select></p>
+<p><input type="text" name="Terms" size="14" id="fdse_Terms"><br>
+<input type="submit" class="submit" name="submitButtonName" value="Search"></p>
+</div></form></td>
+						</tr>
+						<tr><td class="bottom" width="136" height="10" valign="top">
+						</td>
+						</tr>
+					</table>
+				</td>
+				<td width="4"></td>
+				<td valign="top" width="645">
+					<table width="645" border="0" cellspacing="0" cellpadding="0">
+						<tr height="18">
+							<td width="645" height="35" class="bar">
+								<div align="center">
+									<b><font size="+2" color="black">Script</font></b></div>
+							</td>
+						</tr>
+						<tr height="362">
+							<td class="spacer2" valign="top" width="645" height="362">
+
+						<p><font size="-2">Episode 103 - The Kiss Hello<br>
+							
+						pc: 614, season 6, episode 17<br>
+							
+						Broadcast date: February 16, 1995<br>
+							<br>
+							
+						Written by Larry David &amp; Jerry Seinfeld<br>
+							
+						Directed by Andy Ackerman<br>
+							<br>
+							
+						-------------------------------------------------------------------------------<br>
+							<br>
+							
+						The Cast<br>
+							
+						Regulars:<br>
+							
+						Jerry Seinfeld ....................... Jerry Seinfeld<br>
+							
+						Jason Alexander .................. George Costanza<br>
+							
+						Julia Louis-Dreyfus ............. Elaine Benes<br>
+							
+						Michael Richards ................. Cosmo Kramer<br>
+							<br>
+							
+						Guest Stars:<br>
+							<br>
+							
+						Wendie Malick .................... Wendy<br>
+							
+						Billye Ree Wallace ............... Nana<br>
+							
+						Carol Leifer ........................ Receptionist<br>
+							
+						Julio Oscar Mechoso ........... Julio<br>
+							
+						Rondi Reed ......................... Mary<br>
+							
+						Gene Elman ........................ Buddy<br>
+							
+						Mary Scheer ....................... Joan<br>
+							
+						Louisa Abernathy .............. Nurse<br>
+							
+						Timothy McNeil .................. Jeff<br>
+							
+						Mark Fite ............................ Jack<br>
+							
+						C.D. LaBove ....................... Steve<br>
+							
+						Wendy Worthington .......... Louise<br>
+							
+						Belinda Barry ..................... Stephanie<br>
+							
+						rc: Liz Sheridan .................. Helen Seinfeld<br>
+							
+						rc: Barney Martin ............... Morty Seinfeld<br>
+							
+						rc: Len Lesser ..................... Uncle Leo<br>
+							<br>
+							
+						==================================================================<br>
+							<br>
+							
+						[Opening Monologue]<br>
+							<br>
+							
+						Now, I was thinking the other day about hair, and that the weird Thing about it, is that people will touch other people's hair. You will actually kiss another human being, right on the head. But, if one of those hairs should somehow be able to get out of that skull, and go off on its own, it is now the vilest, most disgusting thing that you can encounter. The same hair. People freak out. (horrified) &quot;There was a hair, in the egg salad!&quot;<br>
+							<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						[Jerry's Apartment]<br>
+							<br>
+							
+						(George sits on the couch with a newspaper, Jerry stands.)<br>
+							<br>
+							
+						GEORGE: Say it's Saturday night in Spain. They go out dancing. You think they do the flamenco?<br>
+							<br>
+							
+						JERRY: I would think.<br>
+							<br>
+							
+						GEORGE: So you could call a woman for a date, ask her if she's free for Dinner and a flamenco?<br>
+							<br>
+							
+						JERRY: (scoffs) You don't flamenco on the first date.<br>
+							<br>
+							
+						GEORGE: Boy, I wish the flamenco was popular here.<br>
+							<br>
+							
+						JERRY: Yeah? Would you do it?<br>
+							<br>
+							
+						GEORGE: Yes, I think I would.<br>
+							<br>
+							
+						JERRY: Well, I knew you'd have an affinity for it, because it's the dance of a very proud people.<br>
+							<br>
+							
+						(The phone rings. Jerry answers.)<br>
+							<br>
+							
+						JERRY: Hello. (listens) Oh, hi Nana. (listens) What? Oh. Oh, alright, okay. Don't worry about it. (listens) Okay, I'll see you later. Alright, bye.<br>
+							<br>
+							
+						(He hangs up the phone.)<br>
+							<br>
+							
+						JERRY: I have to go over to my grandmother's.<br>
+							<br>
+							
+						GEORGE: What for?<br>
+							<br>
+							
+						JERRY: I have to open a bottle of ketchup for her.<br>
+							<br>
+							
+						GEORGE: So, what, no lunch?<br>
+							<br>
+							
+						JERRY: No, we have time.<br>
+							<br>
+							
+						GEORGE: Oh. How's she doing?<br>
+							<br>
+							
+						(George rises, and he and Jerry collect their jackets and make their way to the door.)<br>
+							<br>
+							
+						JERRY: Ah, she's starting to slip a little. Sometimes she has Difficulty distinguishing between the past and the present.<br>
+							<br>
+							
+						GEORGE: Ah. You know, there's gotta be an easier way to open ketchups. They should make it in a tube.<br>
+							<br>
+							
+						JERRY: Like toothpaste?<br>
+							<br>
+							
+						GEORGE: Ya-hah.<br>
+							<br>
+							
+						(Jerry and George leave.)<br>
+							<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						[Street]<br>
+							<br>
+							
+						(Jerry and George stroll along, continuing their conversation.)<br>
+							<br>
+							
+						JERRY: There's a squeeze ketchup.<br>
+							<br>
+							
+						GEORGE: I've seen squeeze mustard. I've never seen squeeze ketchup.<br>
+							<br>
+							
+						JERRY: Well, if they make squeeze mustard, doesn't it stand to reason that they make squeeze ketchup?<br>
+							<br>
+							
+						GEORGE: Not necessarily. Mustard lends itself to the squeeze.<br>
+							<br>
+							
+						JERRY: I really don't see the difference.<br>
+							<br>
+							
+						GEORGE: Oh, there's a difference. It's subtle.<br>
+							<br>
+							
+						JERRY: It's subtle.<br>
+							<br>
+							
+						GEORGE: Hey uh, isn't Elaine supposed to meet us?<br>
+							<br>
+							
+						JERRY: (looking ahead) Yeah, there she is. Uh-oh.<br>
+							<br>
+							
+						GEORGE: What?<br>
+							<br>
+							
+						(They stop walking.)<br>
+							<br>
+							
+						JERRY: Ah, she's with her friend Wendy.<br>
+							<br>
+							
+						GEORGE: Wendy? Is that the uh, physical therapist?<br>
+							<br>
+							
+						JERRY: Yeah. I'm on a kiss hello program with her.<br>
+							<br>
+							
+						GEORGE: Really?<br>
+							<br>
+							
+						JERRY: Yeah. Every time I see her, I gotta kiss her hello. I just did it once, on her birthday, somehow it mushroomed. Now I dread seeing her because of it.<br>
+							<br>
+							
+						(Jerry smiles and waves to Elaine, who is approaching with Wendy. Elaine waves back.)<br>
+							<br>
+							
+						ELAINE: (from a distance) Hey.<br>
+							<br>
+							
+						GEORGE: You know, I'm down to one kiss hello. My aunt Sylvia.<br>
+							<br>
+							
+						JERRY: Ah, that's fortunate. I really admire that.<br>
+							<br>
+							
+						GEORGE: (surprise) Huh. I never heard you say you admire me for anything.<br>
+							<br>
+							
+						JERRY: No, I told you I admire your hearing.<br>
+							<br>
+							
+						(George waves away the compliment.)<br>
+							<br>
+							
+						JERRY: No, don't slough that off, you have great hearing.<br>
+							<br>
+							
+						(Jerry and George walk and meet Elaine and Wendy. Wendy greets Jerry with a kiss on the cheek, which he's not happy about. Wendy is attractive, but has a real old-fashioned fifties-style hairdo.)<br>
+							<br>
+							
+						GEORGE/JERRY/ELAINE/WENDY: Hey/Hi/Hello (etc.)<br>
+							<br>
+							
+						ELAINE: (to Wendy) Wendy, George. (to George) Wendy.<br>
+							<br>
+							
+						(Wendy and George shake hands.)<br>
+							<br>
+							
+						GEORGE: You're uh, physical therapist, right?<br>
+							<br>
+							
+						WENDY: Yes.<br>
+							<br>
+							
+						GEORGE: You know, I got this little swelling right here. (rolls up his sleeve to expose his wrist) It's kinda painful. What d'you make of it?<br>
+							<br>
+							
+						(Wendy takes a brief glance at George's proffered limb. Elaine isn't happy that George is bothering Wendy.)<br>
+							<br>
+							
+						ELAINE: (warning) George.<br>
+							<br>
+							
+						WENDY: Have you tried heat and ice on it?<br>
+							<br>
+							
+						GEORGE: (reluctant) Oh that uh, that seems like a lotta trouble.<br>
+							<br>
+							
+						WENDY: Well, you could come by my office later, I could work on it for you a little.<br>
+							<br>
+							
+						GEORGE: (happy) Oh! Okay.<br>
+							<br>
+							
+						WENDY: Let me give you my card.<br>
+							<br>
+							
+						(Wendy fishes in her bag and hands a card to George.)<br>
+							<br>
+							
+						GEORGE: Oh, thank you.<br>
+							<br>
+							
+						WENDY: Well, I'll see you guys later. (to George) Nice meeting you. Bye Elaine.<br>
+							<br>
+							
+						ELAINE: Bye Wendy. I'm sorry.<br>
+							<br>
+							
+						WENDY: Bye Jerry.<br>
+							<br>
+							
+						(Wendy walks away down the street.)<br>
+							<br>
+							
+						JERRY: Bye.<br>
+							<br>
+							
+						ELAINE: (slapping George on the arm) What did you do that for?<br>
+							<br>
+							
+						GEORGE: What?<br>
+							<br>
+							
+						ELAINE: (pinching George's arm) Ask about your arm.<br>
+							<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						[Monk's]<br>
+							<br>
+							
+						(George, Jerry and Elaine enter.)<br>
+							<br>
+							
+						GEORGE: I still don't see why I can't ask her about my arm.<br>
+							<br>
+							
+						ELAINE: She's a physical therapist. She doesn't want to have to deal with that outside of the office.<br>
+							<br>
+							
+						GEORGE: Why not?<br>
+							<br>
+							
+						(The trio sit down in a booth.)<br>
+							<br>
+							
+						ELAINE: Because, it is what she does.<br>
+							<br>
+							
+						GEORGE: I love these people, you can't ask 'em questions. (getting excited) They're so mentally gifted that we mustn't disturb the delicate genius unless it's in the confines of an office. (worked up) When huge sums of money are involved, then the delicate genius can be disturbed!<br>
+							<br>
+							
+						ELAINE: George, you got a little something, right here.<br>
+							<br>
+							
+						(Elaine indicates underneath George's nostrils.)<br>
+							<br>
+							
+						GEORGE: (wiping the area with a hand) People think they're so important...<br>
+							<br>
+							
+						JERRY: (adamant) Well, I'm going on record right now that that was my last kiss hello. I am getting off the kiss program with her.<br>
+							<br>
+							
+						ELAINE: Why?<br>
+							<br>
+							
+						JERRY: Well, you know, frankly, outside of a sexual relationship, I don't see the point to it. I'm not thrilled with all the handshaking either, but one step at a time.<br>
+							<br>
+							
+						GEORGE: (regarding the menu) What're you getting?<br>
+							<br>
+							
+						JERRY: (to Elaine) And what's with that hairdo, by the way?<br>
+							<br>
+							
+						ELAINE: Huh, yeah, I know. It's not very flattering.<br>
+							<br>
+							
+						JERRY: She looks like something out of an old high school yearbook. You should say something to her.<br>
+							<br>
+							
+						ELAINE: Oh, I could never say anything to her about that.<br>
+							<br>
+							
+						JERRY: Yeah. Kramer's the only person who could say something like that.<br>
+							<br>
+							
+						ELAINE: Yeah. Hah.<br>
+							<br>
+							
+						GEORGE: Well, just tell Kramer to tell her.<br>
+							<br>
+							
+						ELAINE: No. If you tell him to do it, he'll never do it.<br>
+							<br>
+							
+						JERRY: What you have to do is introduce him, and then he'll just come out with it.<br>
+							<br>
+							
+						ELAINE: (sharp intake of breath) Hoh. Yes, yes, you're right. That's right. I'll bring her over to meet...<br>
+							<br>
+							
+						(Kramer enters.)<br>
+							<br>
+							
+						ELAINE: (to Kramer) ...Kramer.<br>
+							<br>
+							
+						(Kramer strolls over to the table.)<br>
+							<br>
+							
+						KRAMER: Hello, boys and girls.<br>
+							<br>
+							
+						JERRY: Speak of the devil.<br>
+							<br>
+							
+						(Kramer sits at the table. Elaine starts to peruse her menu, as Kramer speaks to Jerry)<br>
+							<br>
+							
+						KRAMER: Yeah. Hey listen, I uh, I need a picture of you, buddy.<br>
+							<br>
+							
+						JERRY: What for?<br>
+							<br>
+							
+						KRAMER: Well, I'm uh, I'm putting everybody's picture up in the lobby of our building.<br>
+							<br>
+							
+						JERRY: Why?<br>
+							<br>
+							
+						KRAMER: So everyone will know everybody's name. See, people are gonna be a lot friendlier.<br>
+							<br>
+							
+						JERRY: (reluctant) I, I don't want my picture plastered up in the lobby.<br>
+							<br>
+							
+						KRAMER: Imagine walking by someone on the floor, and you say &quot;Hey, Carl!&quot; and he says &quot;Hey, Jerry!&quot; You see, that's the kind of society I wanna live in.<br>
+							<br>
+							
+						JERRY: (still reluctant) Kramer, I don't wanna stop and talk with everyone, every time I go in the building. I just wanna nod and be on my way.<br>
+							<br>
+							
+						KRAMER: (to Elaine) You know your eyeliner's smudged a little. Why do you wear so much eye makeup?<br>
+							<br>
+							
+						ELAINE: (to Jerry, indicating Kramer) Yeah. This is gonna work out just fine.<br>
+							<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						[Nana's Apartment]<br>
+							<br>
+							
+						(Leo is in the living room, speaking with Nana, who's in another room.)<br>
+							<br>
+							
+						LEO: Ma! Again with the ketchup? Don't they have 'em in the plastic squeeze containers?<br>
+							<br>
+							
+						(There is a knock at the door. Leo opens it, to reveal Jerry.)<br>
+							<br>
+							
+						LEO: (traditional greeting) Jerry! Hello!<br>
+							<br>
+							
+						JERRY: Hello, uncle Leo!<br>
+							<br>
+							
+						LEO: What're you doing here?<br>
+							<br>
+							
+						JERRY: Nana called me to open the ketchup bottle.<br>
+							<br>
+							
+						LEO: Yeah, me too.<br>
+							<br>
+							
+						(Nana enters with a bottle of ketchup.)<br>
+							<br>
+							
+						NANA: Hello Jerry.<br>
+							<br>
+							
+						JERRY: Hi Nana.<br>
+							<br>
+							
+						(There's a brief pause, as Leo waits for something.)<br>
+							<br>
+							
+						LEO: Aren't you gonna kiss her hello?<br>
+							<br>
+							
+						JERRY: Yes. (kisses Nana) Yes of course.<br>
+							<br>
+							
+						NANA: Ha, well, here's the bottle.<br>
+							<br>
+							
+						(Nana holds out the ketchup.)<br>
+							<br>
+							
+						LEO: (grabbing the bottle) I'll do it.<br>
+							<br>
+							
+						JERRY: (also grabbing) What're you doing, I got it.<br>
+							<br>
+							
+						(Jerry and Leo begin to struggle for possession of the ketchup.)<br>
+							<br>
+							
+						LEO: Give it to me.<br>
+							<br>
+							
+						JERRY: Will you stop it.<br>
+							<br>
+							
+						LEO: Jerry, will you give me the bottle?<br>
+							<br>
+							
+						JERRY: Uncle Leo! (releasing his grip) Alright! Take it!<br>
+							<br>
+							
+						NANA: You should let Buddy open it.<br>
+							<br>
+							
+						LEO: Buddy? He lived next door to us forty-five years ago.<br>
+							<br>
+							
+						(Leo hands the ketchup back to Nana.)<br>
+							<br>
+							
+						NANA: Leo, did you give Helen the fifty dollars?<br>
+							<br>
+							
+						LEO: What fifty dollars?<br>
+							<br>
+							
+						NANA: Your father won a thousand dollars at the track last week, and he gave you a hundred, and you were supposed to give fifty dollars to your sister.<br>
+							<br>
+							
+						(Nana walks away out of the room again.)<br>
+							<br>
+							
+						LEO: Ma, dad died in nineteen-sixty-two.<br>
+							<br>
+							
+						(Jerry is staring at Leo, with an expression of suspicion.)<br>
+							<br>
+							
+						LEO: (laughing off Nana's confusion) Believe me. I don't owe your mother fifty dollars.<br>
+							<br>
+							
+						(Leo continues to force out laughter, and Jerry continues his look of mistrust.)<br>
+							<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						[Lobby, Jerry's Building]<br>
+							<br>
+							
+						(Elaine and Jerry wait by the elevator. Jerry is speaking to the building super.)<br>
+							<br>
+							
+						JERRY: I'm just not getting any hot water.<br>
+							<br>
+							
+						JULIO: Hey, believe me, I know there's nothing worse than when your shower's not working. I'm gonna take care of it as soon as I can, Jerry.<br>
+							<br>
+							
+						JERRY: Thanks, Julio.<br>
+							<br>
+							
+						JULIO: Awright.<br>
+							<br>
+							
+						(Julio walks away as the elevator arrives. Jerry and Elaine step aboard.)<br>
+							<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						[Jerry's Apartment]<br>
+							<br>
+							
+						(Kramer is rooting through a drawer, searching for something. The door opens and Jerry and Elaine enter.)<br>
+							<br>
+							
+						JERRY: Huh?<br>
+							<br>
+							
+						KRAMER: (surprised) Hey, hey hey hey. Hello!<br>
+							<br>
+							
+						JERRY: What's going on here?<br>
+							<br>
+							
+						KRAMER: (evasive) Ohh, nothing, nothing.<br>
+							<br>
+							
+						JERRY: (suspicious) Well, then what're you doing?<br>
+							<br>
+							
+						KRAMER: Oh, I, I need a pen.<br>
+							<br>
+							
+						JERRY: What for?<br>
+							<br>
+							
+						KRAMER: Well, I'm making out my will. Oh, I got a big slice of dough for you, buddy. And you too, Elaine, I haven't forgotten you.<br>
+							<br>
+							
+						JERRY: (accusingly) You're looking for a picture of me, aren't you?<br>
+							<br>
+							
+						KRAMER: You got that straight.<br>
+							<br>
+							
+						JERRY: I told you, forget it.<br>
+							<br>
+							
+						KRAMER: Oh, come on, Jerry. If everybody knew everybody, we wouldn't have the problems we have in the world today. Well, you don't rob somebody, if you know their name!<br>
+							<br>
+							
+						JERRY: You're robbing me.<br>
+							<br>
+							
+						KRAMER: Well, I'm gonna get your picture, and you're gonna participate in my program.<br>
+							<br>
+							
+						(Kramer heads out the door, but Elaine intercepts him.)<br>
+							<br>
+							
+						ELAINE: Wha... W.. Are you going home?<br>
+							<br>
+							
+						KRAMER: Yeah.<br>
+							<br>
+							
+						ELAINE: Uh, could you come back in about five minutes?<br>
+							<br>
+							
+						KRAMER: Why?<br>
+							<br>
+							
+						ELAINE: No reason. (big smile) Just wanna see you again.<br>
+							<br>
+							
+						(Kramer smiles at this. He exits, but turns to flash the smile at Elaine as he crosses the hall to his apartment. After Kramer goes into his place, Elaine shuts the door of Jerry's apartment.)<br>
+							<br>
+							
+						JERRY: (removing his coat) So? Are you sure Wendy's coming?<br>
+							<br>
+							
+						ELAINE: Yeah, she'll be here any second.<br>
+							<br>
+							
+						JERRY: Well, this'll be a very interesting experiment to see if Kramer says something. You sure you wanna go through with this?<br>
+							<br>
+							
+						ELAINE: Listen, Jerry. She never dates, and I know it's because of her hair.<br>
+							<br>
+							
+						(The phone rings, and Jerry picks up. Elaine removes her coat.)<br>
+							<br>
+							
+						JERRY: Hello. Oh, hi mom. Yeah, I was at Nana's yesterday. I had to help her open a ketchup bottle. Hey, mom, let me ask you a question. Do you remember when you were a kid, your father winning like a thousand dollars at the track? (listens) Really? Did you know he gave uncle Leo a hundred dollars, and he was supposed to give you fifty? (listens) How do I know? Because Nana doesn't know what year it is, and she thinks this just happened. (listens) Well, I think you should. Okay, bye.<br>
+							<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						[The Seinfeld's Place, Florida]<br>
+							<br>
+							
+						(Morty and Helen in the kitchen. Morty has a pencil and pad and a pocket calculator out, doing some work.)<br>
+							<br>
+							
+						MORTY: Do you know what the interest on that fifty dollars comes to over fifty-three years?<br>
+							<br>
+							
+						HELEN: Oh, Morty, please.<br>
+							<br>
+							
+						MORTY: Six hundred and sixty-three dollars and forty-five cents. And that's figuring conservatively at five percent interest, over fifty-three years, compounded quarterly. Or, if you put it into a ten-year T-bill...<br>
+							<br>
+							
+						HELEN: Morty, will you stop it!<br>
+							<br>
+							
+						MORTY: (determined) Well, he's not getting away with this!<br>
+							<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						[Jerry's Apartment]<br>
+							<br>
+							
+						(Jerry by the kitchen. The buzzer sounds, and Jerry answers.)<br>
+							<br>
+							
+						JERRY: Yeah?<br>
+							<br>
+							
+						WENDY (O.C.): Wendy.<br>
+							<br>
+							
+						JERRY: Come on up.<br>
+							<br>
+							
+						(Elaine enters from the bathroom.)<br>
+							<br>
+							
+						ELAINE: Well, this is it. Shall I go get Kramer?<br>
+							<br>
+							
+						JERRY: No no, he'll come in. Well, this is gonna be my first opportunity to not kiss her hello.<br>
+							<br>
+							
+						ELAINE: What is the big deal about putting your lips on somebody's face?<br>
+							<br>
+							
+						JERRY: It's the obligation, you know? As soon as this person comes in, you know you have to do this. I mean, if you could, say, touch a breast as part of the kiss hello, then I think I could see the value in it a little better.<br>
+							<br>
+							
+						ELAINE: How 'bout an intercourse hello? How would that be?<br>
+							<br>
+							
+						JERRY: Elaine, now you're being ridiculous.<br>
+							<br>
+							
+						(There's a knock at the door.)<br>
+							<br>
+							
+						ELAINE: (indicating) That's her. That's her.<br>
+							<br>
+							
+						(Jerry holds up his hands, indicating he wants a few seconds to prepare. He goes to the refrigerator, and indicates Elaine should let Wendy inside. Elaine opens the door and Wendy enters.)<br>
+							<br>
+							
+						ELAINE/WENDY: Hi/Hey.<br>
+							<br>
+							
+						(Jerry has the door of the fridge open, and his head is inside the appliance.)<br>
+							<br>
+							
+						JERRY: (muffled) Hi Wendy.<br>
+							<br>
+							
+						WENDY: Oh, hi Jerry.<br>
+							<br>
+							
+						(Wendy wanders over to the fridge.)<br>
+							<br>
+							
+						JERRY: (muffled) Would you like something to drink?<br>
+							<br>
+							
+						WENDY: Sure.<br>
+							<br>
+							
+						(Jerry holds out his arm, with a bottle in his hand.)<br>
+							<br>
+							
+						JERRY: (muffled) There you go.<br>
+							<br>
+							
+						WENDY: (taking the bottle) Ah.<br>
+							<br>
+							
+						(Jerry starts to withdraw his head from the fridge, and Wendy is poised for the kiss hello. But, just as he turns to face her, he opens the freezer compartment and the door blocks her approach. Wendy walks away to the couch.)<br>
+							<br>
+							
+						JERRY: Oh, look at that. I'm almost outta Klondike bars.<br>
+							<br>
+							
+						(Jerry peers around the edge of the door, to see if the coast is clear. Finding that it is, he closes the various doors of the fridge.)<br>
+							<br>
+							
+						JERRY: So, how's everything going?<br>
+							<br>
+							
+						WENDY: Oh, okay. Oh, your friend George came by the office the other day, and then yesterday he cancelled on me.<br>
+							<br>
+							
+						JERRY: Oh, yeah, he had to take his mother to the chiropodist.<br>
+							<br>
+							
+						(There is a clunk in the hallway, as of Kramer's door opening.)<br>
+							<br>
+							
+						ELAINE: Oh, you hear that? That must be Kramer.<br>
+							<br>
+							
+						(Jerry's door opens and Kramer enters. He's holding a polaroid camera.)<br>
+							<br>
+							
+						KRAMER: Hey! Jerry!<br>
+							<br>
+							
+						(Jerry turns at the call of his name, and Kramer fires off a quick shot.)<br>
+							<br>
+							
+						JERRY: C'mon, that's not fair!<br>
+							<br>
+							
+						KRAMER: I told you I was gonna get it.<br>
+							<br>
+							
+						JERRY: No, c'mon Kramer. (crossing to Kramer) Gimme that picture.<br>
+							<br>
+							
+						KRAMER: (holding the picture away from Jerry) Aagh. No no no no no.<br>
+							<br>
+							
+						JERRY: (throws up his hands) Alright, fine. Put my picture up. What do I care?<br>
+							<br>
+							
+						ELAINE: Uh, Kramer. Kramer, I'd like you to meet my friend Wendy.<br>
+							<br>
+							
+						KRAMER: Oh, hello.<br>
+							<br>
+							
+						WENDY: (holds out her hand) Hi.<br>
+							<br>
+							
+						KRAMER: (shaking hands) Yeah.<br>
+							<br>
+							
+						(Kramer does looks at Wendy, and something intrigues him. He turns away, Then back again, unable to take his eyes off her hair.)<br>
+							<br>
+							
+						KRAMER: (points) You know, I really like that hairdo.<br>
+							<br>
+							
+						(Jerry and Elaine both look surprised and let-down by Kramer.)<br>
+							<br>
+							
+						WENDY: (flattered) Oh. Thank you. I actually was thinking it might be time for a change.<br>
+							<br>
+							
+						ELAINE: (hopeful) Oh, you were?<br>
+							<br>
+							
+						WENDY: Well, I...<br>
+							<br>
+							
+						KRAMER: (interrupting) Oh, no no no. You don't wanna do that. No no. Nobody wears it like that.<br>
+							<br>
+							
+						ELAINE: Kramer, if she wants to change her hair...<br>
+							<br>
+							
+						KRAMER: No, no. you'd be a damn fool to change it. It's very becoming.<br>
+							<br>
+							
+						WENDY: Oh, well.<br>
+							<br>
+							
+						(Kramer raises his camera to take a picture of Wendy and her hair.)<br>
+							<br>
+							
+						WENDY: (laughs, flattered) Oh, ho.<br>
+							<br>
+							
+						(Kramer presses the button and nothing happens. He turns the camera up, to look at the front of it and it chooses to fire at that moment, dazzling Kramer with the flash.)<br>
+							<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						[Wendy's Car]<br>
+							<br>
+							
+						(Wendy drives, Elaine in the passenger seat.)<br>
+							<br>
+							
+						WENDY: So, who's that friend of yours? That guy that came in.<br>
+							<br>
+							
+						ELAINE: Oh, Kramer.<br>
+							<br>
+							
+						WENDY: Yeah. Does he have a girlfriend?<br>
+							<br>
+							
+						ELAINE: You wanna go out with him?<br>
+							<br>
+							
+						WENDY: Well, why not?<br>
+							<br>
+							
+						ELAINE: Well, it's just that... uh, I don't...<br>
+							<br>
+							
+						WENDY: What, is there anything wrong with him?<br>
+							<br>
+							
+						(Elaine stares off for several seconds, with a faraway look in her eyes.)<br>
+							<br>
+							
+						WENDY: Elaine?<br>
+							<br>
+							
+						ELAINE: I'm just thinking about the question.<br>
+							<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						[ProFitness Physical Therapy Center]<br>
+							<br>
+							
+						(George is at the counter with his cheque book. He's moving his wrist and lower arm, clearly much more comfortable.)<br>
+							<br>
+							
+						GEORGE: You know, my arm feels a lot better. That Wendy really knows her stuff. (he writes out a cheque)<br>
+							<br>
+							
+						RECEPTIONIST: (perky) She is super. Same time tomorrow.<br>
+							<br>
+							
+						GEORGE: (tearing out cheque) Yeah, same time. (hands over cheque) There you go.<br>
+							<br>
+							
+						(George heads for the door. The receptionist looks at George's cheque and finds it's not up to scratch.)<br>
+							<br>
+							
+						RECEPTIONIST: Oh. Ah, you owe a hundred and fifty.<br>
+							<br>
+							
+						GEORGE: What for?<br>
+							<br>
+							
+						RECEPTIONIST: Well, you cancelled on Tuesday, and our policy is &quot;twenty-four hours notice, for all cancellations&quot;.<br>
+							<br>
+							
+						GEORGE: (agitated) Well, I, I couldn't come. I, I had to drive my mother to, to the chiropodist.<br>
+							<br>
+							
+						(Wendy enters, carrying a file. She overhears.)<br>
+							<br>
+							
+						WENDY: What's the problem?<br>
+							<br>
+							
+						GEORGE: (harassed) Are you aware that I'm being charged for Tuesday's appointment? I had to take my mother to the chiropodist.<br>
+							<br>
+							
+						WENDY: Well, I'm sorry, that's our policy.<br>
+							<br>
+							
+						(Wendy walks out, into another room.)<br>
+							<br>
+							
+						GEORGE: (after Wendy and to the receptionist) Oh, you have a policy! (to the world at large) The delicate genius has a policy! George heads for the door.<br>
+							<br>
+							
+						RECEPTIONIST: So. Will you be here tomorrow?<br>
+							<br>
+							
+						GEORGE: Well, it's less than twenty-four hours, so I guess I have to!<br>
+							<br>
+							
+						(George leaves, slamming the door behind him.)<br>
+							<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						[Lobby, Jerry's Building]<br>
+							<br>
+							
+						(Kramer has covered one wall of the lobby with photographs of the tenants. They're all labeled with the appropriate name in magic marker. Kramer is just completing Jerry's name underneath the Polaroid he took earlier. Jerry and Elaine enter from the street.)<br>
+							<br>
+							
+						KRAMER: Hey! (indicating photos) So what d'you think? You like it?<br>
+							<br>
+							
+						(Elaine seems generally positive, Jerry's not so enamoured, especially by his own picture.)<br>
+							<br>
+							
+						JERRY: Oh my god! Look at that picture, it's terrible...<br>
+							<br>
+							
+						(The Polaroid has caught Jerry with his mouth hanging open and his eyes wide. It's not flattering in the slightest.)<br>
+							<br>
+							
+						JERRY: ...You can't put that picture up.<br>
+							<br>
+							
+						KRAMER: Well, it's not a beauty contest. It's just a way for people to get to know one another.<br>
+							<br>
+							
+						(The elevator opens and a guy (Steve) steps out. He points to Kramer.)<br>
+							<br>
+							
+						STEVE: Hey Cosmo.<br>
+							<br>
+							
+						KRAMER: Hey...<br>
+							<br>
+							
+						(Kramer turns to the wall of pictures, searches around for the face and then points back. Steve makes his way to the door as Kramer speaks.)<br>
+							<br>
+							
+						KRAMER: ...Steve. (to Jerry) Ah, you see?<br>
+							<br>
+							
+						ELAINE: Hey Kramer, my friend Wendy wants to go out with you.<br>
+							<br>
+							
+						KRAMER: (interested) Well, how do you do?<br>
+							<br>
+							
+						(A woman (Mary) has entered from the street. She stands behind Jerry and looks through Kramer's gallery of tenants.)<br>
+							<br>
+							
+						MARY: Hello, (finds the right photo) Jerry.<br>
+							<br>
+							
+						JERRY: Oh. Hello, uh (looks for and finds the photo) Mary.<br>
+							<br>
+							
+						MARY: You know, I've seen you so many times and now we can finally talk to each other.<br>
+							<br>
+							
+						KRAMER: (keen) What was I telling you? Isn't this nice?<br>
+							<br>
+							
+						JERRY: (not really) Yeah.<br>
+							<br>
+							
+						MARY: Jerry. You know, could you help me with a package?<br>
+							<br>
+							
+						JERRY: Oh, sure, yeah.<br>
+							<br>
+							
+						MARY: Thank you.<br>
+							<br>
+							
+						(Mary leans across and gives Jerry a quick kiss on the cheek, then makes her way toward the door. Elaine is giggling gleefully at Jerry's discomfiture.)<br>
+							<br>
+							
+						JERRY: Oh, no!<br>
+							<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						[Jerry's Apartment]<br>
+							<br>
+							
+						(Jerry and Elaine enter. Jerry mad, and Elaine still giggling.)<br>
+							<br>
+							
+						JERRY: You see? That's just what I need. More kissing!<br>
+							<br>
+							
+						ELAINE: (laughs) Hee, hee, hee. Hee hee hee...<br>
+							<br>
+							
+						JERRY: What is so funny?<br>
+							<br>
+							
+						ELAINE: Nothing, nothing. (laughs out loud)<br>
+							<br>
+							
+						(The phone rings and Jerry picks up.)<br>
+							<br>
+							
+						JERRY: Hello. Oh, hi mom. (listens) What? Oh my... He didn't?! He couldn't! (listens) Alright, I will. (listens) Okay, bye.<br>
+							<br>
+							
+						(Jerry hangs up the phone, and turns to Elaine.)<br>
+							<br>
+							
+						JERRY: (aghast) Uncle Leo put Nana in a home!<br>
+							<br>
+							
+						ELAINE: Why?<br>
+							<br>
+							
+						JERRY: (suspicious) I don't know. Maybe to keep her quiet.<br>
+							<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						[Lobby, Jerry's Building]<br>
+							<br>
+							
+						(Jerry is collecting his mail from his mailbox. A woman (Joan) enters and immediately goes for the kiss hello. She's friendly and overfamiliar.)<br>
+							<br>
+							
+						JOAN: Hi Jerry. (she kisses Jerry) Mmmwah.<br>
+							<br>
+							
+						JERRY: (not as eager) Hi Joan.<br>
+							<br>
+							
+						JOAN: How you doing?<br>
+							<br>
+							
+						(Jerry backs away toward the elevator.)<br>
+							<br>
+							
+						JERRY: Pretty good.<br>
+							<br>
+							
+						JOAN: Just pretty good? Not great?<br>
+							<br>
+							
+						JERRY: Okay, great.<br>
+							<br>
+							
+						JOAN: Are you happy?<br>
+							<br>
+							
+						JERRY: Oh, I'm delighted.<br>
+							<br>
+							
+						JOAN: Okay. Have a nice day.<br>
+							<br>
+							
+						JERRY: You too.<br>
+							<br>
+							
+						(The elevator comes down, the door opens and another woman (Louise) emerges, with a big friendly smile for Jerry.)<br>
+							<br>
+							
+						LOUISE: Hi Jerry.<br>
+							<br>
+							
+						(Louise also kisses the less than happy looking Jerry.)<br>
+							<br>
+							
+						JERRY: Hi, Louise.<br>
+							<br>
+							
+						(Louise walks on and the unhappy Jerry enters the elevator.)<br>
+							<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						[Jerry's Apartment]<br>
+							<br>
+							
+						(Jerry has just arrived with his mail. The door opens and Kramer darts into the room.)<br>
+							<br>
+							
+						KRAMER: Hey.<br>
+							<br>
+							
+						JERRY: Ah, well. Thank you very much!<br>
+							<br>
+							
+						KRAMER: For what?<br>
+							<br>
+							
+						JERRY: (agitated) For putting my picture up on that wall! I'm like Richard Dawson down there now. And every person I see engages me in this long, boring, tedious, conversation. I can't even get out of the building!<br>
+							<br>
+							
+						KRAMER: You should be thanking me for liberating you from your world of loneliness and isolation. Now, you're part of a family.<br>
+							<br>
+							
+						JERRY: Family?<br>
+							<br>
+							
+						KRAMER: Yeah.<br>
+							<br>
+							
+						JERRY: You think I want another family? My father's demanding my uncle pay interest on fifty dollars he was supposed to give my mother in nineteen-forty-one, and my uncle put my nana in a home to try and shut her up! And I tell you another thing, Cosmo Kramer, whatever you wanna be called. The kissing thing is over. There's no more kissing, and I don't care what the consequences are.<br>
+							<br>
+							
+						(As Jerry reaches the end of his emphatic declaration, Kramer takes Jerry's head in his hands, leans in and plants a big kiss right on Jerry's lips. Halfway through the kiss, the door opens and George half-enters. Kramer releases Jerry, who stands bug-eyed with shock. George stands silently in the doorway, he looks from Jerry to Kramer, with a thoughtful expression. Biting his lips, George slowly backs out of the door and closes it behind him.)<br>
+							<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						[ProFitness Physical Therapy Centre]<br>
+							<br>
+							
+						(George enters, and the receptionist spots him.)<br>
+							<br>
+							
+						RECEPTIONIST: Oh, hi. Mister Costanza, we were trying to get in touch with you. Wendy can't make her appointment.<br>
+							<br>
+							
+						GEORGE: What d'you mean?<br>
+							<br>
+							
+						RECEPTIONIST: She had some personal affair she had to attend to. I left a message on your machine. You didn't get it?<br>
+							<br>
+							
+						GEORGE: When did you leave the message?<br>
+							<br>
+							
+						RECEPTIONIST: Few hours ago.<br>
+							<br>
+							
+						GEORGE: (pointedly) Oh, I'm sorry, I require twenty-four hours notice for a cancellation. Now, as I see it, you owe me seventy-five dollars.<br>
+							<br>
+							
+						RECEPTIONIST: Look, Mister Costanza...<br>
+							<br>
+							
+						GEORGE: Will that be cash, or cheque?<br>
+							<br>
+							
+						(George gives an exaggerated wink.)<br>
+							<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						[Wendy's Car]<br>
+							<br>
+							
+						(Wendy driving into New York at night with Elaine as passenger. Elaine is wearing much of her ski gear - woolly hat, with goggles on top of her head, and there are ski poles on the back seat.)<br>
+							<br>
+							
+						WENDY: I am really glad I took the day off.<br>
+							<br>
+							
+						ELAINE: Oh, yeah, there's nothing better than skiing.<br>
+							<br>
+							
+						WENDY: Yeah. I hope my clients weren't too upset.<br>
+							<br>
+							
+						ELAINE: Ugh, the hell with 'em.<br>
+							<br>
+							
+						(Wendy and Elaine share a laugh. Wendy then starts to pull the car over to the side of the road.)<br>
+							<br>
+							
+						ELAINE: What're you stopping here for?<br>
+							<br>
+							
+						WENDY: I'm dropping you off.<br>
+							<br>
+							
+						ELAINE: (pointing) Oh, no, I'm three more blocks.<br>
+							<br>
+							
+						WENDY: Yeah, but if I take you to your door, then I have to go all the way around Central Park West, back to Columbus, you know it's all one way...<br>
+							<br>
+							
+						ELAINE: Yeah, but it's only three blocks.<br>
+							<br>
+							
+						WENDY: Right. It's only three blocks.<br>
+							<br>
+							
+						ELAINE: (unbuckling her seatbelt) Alright, well...<br>
+							<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						[Street]<br>
+							<br>
+							
+						(Elaine struggles along the sidewalk at night with her ski gear in her arms. She's not finding it easy fighting with the uncomfortable bulk of skis, poles, boots, etc.. Eventually she drops the boots and, rather than pick them up, simply kicks them along in front of her.)<br>
+							<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						[Street]<br>
+							<br>
+							
+						(Jerry and Elaine walk together.)<br>
+							<br>
+							
+						ELAINE: She'd driven me a hundred and twenty miles and, all of a sudden, three blocks from my door, she decides this trip is over. Isn't that strange?<br>
+							<br>
+							
+						JERRY: Yes, it's very strange. Very strange.<br>
+							<br>
+							
+						ELAINE: I've never heard of anything like this. I mean, it's almost as if I was hitch-hiking and she says &quot;Well, this is as far as I can take you.&quot;<br>
+							<br>
+							
+						JERRY: I tell you. If you were hitch-hiking, you'd never get into a car with someone with a hairdo like that.<br>
+							<br>
+							
+						ELAINE: I had to carry my skis, and my boots and my poles. I think I pinched a nerve in my shoulder.<br>
+							<br>
+							
+						JERRY: You should have her work on it for you.<br>
+							<br>
+							
+						ELAINE: Yeah, alright, I gotta go.<br>
+							<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						[Lobby, Jerry's Building]<br>
+							<br>
+							
+						(Jerry enters his building. Mary spots him from across the lobby and closes for a kiss hello.)<br>
+							<br>
+							
+						MAR: Hi Jerry.<br>
+							<br>
+							
+						JERRY: Hi Mary.<br>
+							<br>
+							
+						(Jerry backs away from the kiss with so much effort that he's up against the mailboxes.)<br>
+							<br>
+							
+						JERRY: Uh, listen. I decided I can't kiss hello anymore. I'm sorry. It's nothing personal....<br>
+							<br>
+							
+						(Mary looks upset by Jerry's outburst.)<br>
+							<br>
+							
+						JERRY: ...It just makes me a little uncomfortable and I can't do it. I'm sorry.<br>
+							<br>
+							
+						(The door to the street opens and Louise enters, also friendly and aiming for the kiss hello.)<br>
+							<br>
+							
+						LOU: Hi Jerry.<br>
+							<br>
+							
+						JERRY: Hi Louise...<br>
+							<br>
+							
+						(Jerry backs sharply away from Louise as she leans in for the kiss.)<br>
+							<br>
+							
+						JERRY: ...I was just telling Mary how I'm not gonna be doing the kiss hello thing anymore. (continues backing away) I'm sorry. I just can't do it. It's nothing personal, it's just I'm not really able to do it and uh, I'm sorry.<br>
+							<br>
+							
+						(Jerry backs into the elevator.)<br>
+							<br>
+							
+						JERRY: (as the elevator doors close) Thank you for your cooperation.<br>
+							<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						[Jerry's Apartment/The Seinfeld's Place, Florida]<br>
+							<br>
+							
+						(Jerry answers the phone.)<br>
+							<br>
+							
+						JERRY: Hello.<br>
+							<br>
+							
+						HELEN (V.O): Jerry?<br>
+							<br>
+							
+						JERRY: Hi mom. So, what's happening with uncle Leo? Is he paying you?<br>
+							<br>
+							
+						(In Florida, Helen is on the phone and Morty is still working out figures with a pad and a calculator.)<br>
+							<br>
+							
+						HELEN: Well, he said no. He said we had no proof.<br>
+							<br>
+							
+						MORTY: No proof? We'll get him. He's a crook, sooner or later, he'll slip up.<br>
+							<br>
+							
+						HELEN: Uh, anyway, I want you to go check on Nana at the home.<br>
+							<br>
+							
+						JERRY: Okay, I will.<br>
+							<br>
+							
+						MORTY: D'you realise, an above-average performing growth mutual fund for fifty-three years...<br>
+							<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						[Hall Outside Jerry's Apartment]<br>
+							<br>
+							
+						(Jerry and Kramer emerge from their apartments.)<br>
+							<br>
+							
+						KRAMER: What's up?<br>
+							<br>
+							
+						JERRY: (locking his door) Oh, I gotta go visit my nana in the nursing home.<br>
+							<br>
+							
+						KRAMER: Oh.<br>
+							<br>
+							
+						(They walk together down the hall.)<br>
+							<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						[Lobby, Jerry's Building]<br>
+							<br>
+							
+						(The elevator doors open and Jerry and Kramer come out. Something on the wall opposite catches Jerry's eye.)<br>
+							<br>
+							
+						JERRY: Hey, Kramer, look at this.<br>
+							<br>
+							
+						(Jerry points and walks over to Kramer's gallery, Kramer following.)<br>
+							<br>
+							
+						JERRY: Look at my picture!<br>
+							<br>
+							
+						(The photograph has been crudely vandalised with a magic marker. 'Grade-A Dork' has been written on the forehead, whiskers, spots, horns and a wormlike tongue added and teeth blacked out.)<br>
+							<br>
+							
+						JERRY: I've been defaced!<br>
+							<br>
+							
+						KRAMER: Hey, don't you worry buddy. I made double prints.<br>
+							<br>
+							
+						(Behind Kramer a guy (Jack) has entered the building. Jack walks up behind Kramer and slaps him on the shoulder in a friendly fashion.)<br>
+							<br>
+							
+						JACK: Hey. Hi Cosmo.<br>
+							<br>
+							
+						KRAMER: Oh, hey, Jack. How you doing?<br>
+							<br>
+							
+						JERRY: Hi Jack.<br>
+							<br>
+							
+						(Jack gives Jerry an unfriendly look and walks to the elevator without replying. Julio comes out of the elevator, and Jerry walks over to ask him something.)<br>
+							<br>
+							
+						JERRY: Hey, Julio. I was wondering, could you get to that shower today, You think?<br>
+							<br>
+							
+						JULIO: Oh, I see. When you need something done, you're very friendly to people, huh?<br>
+							<br>
+							
+						JERRY: (defensive) No no, that's not true!<br>
+							<br>
+							
+						JULIO: (accusing) Well, I think it is! It's a big building, Seinfeld, maybe I'll get to it someday. After I take care of the people who're civil to each other.<br>
+							<br>
+							
+						(Julio stalks away. Jerry swings to give Kramer a look.)<br>
+							<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						[Knollridge Nursing Home]<br>
+							<br>
+							
+						(Jerry is talking with a nurse on the porch.)<br>
+							<br>
+							
+						NURSE: Yeah, she's upstairs, playing cards.<br>
+							<br>
+							
+						JERRY: You know, she really doesn't belong here. My uncle put her here, Because he's trying to prove he doesn't owe my mother fifty dollars.<br>
+							<br>
+							
+						NURSE: Well, she seems very happy. She met an old friend who used to live next door to her.<br>
+							<br>
+							
+						JERRY: Buddy?<br>
+							<br>
+							
+						NURSE: Yes, that's his name. He's right over there.<br>
+							<br>
+							
+						(The nurse indicates an elderly guy with a white moustache, wearing a cap and reading a newspaper on a bench outside.)<br>
+							<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						[ProFitness Physical Therapy Centre]<br>
+							<br>
+							
+						(George is talking with Wendy at the counter.)<br>
+							<br>
+							
+						WENDY: (smiling) I'm sorry, I don't owe you anything. I had some personal business that day.<br>
+							<br>
+							
+						GEORGE: (irascible) Oh, I see. So your time is more valuable than mine. Is that it? You're a delicate genius!<br>
+							<br>
+							
+						(Behind George, Elaine has slipped in the door.)<br>
+							<br>
+							
+						WENDY: A delicate genius?<br>
+							<br>
+							
+						(George spots Elaine.)<br>
+							<br>
+							
+						GEORGE: Elaine?<br>
+							<br>
+							
+						ELAINE: (surprised) George!<br>
+							<br>
+							
+						(George stalks past Elaine and exits.)<br>
+							<br>
+							
+						GEORGE: (leaving) Hah. Good luck.<br>
+							<br>
+							
+						WENDY: What's going on?<br>
+							<br>
+							
+						ELAINE: (feeling her arm) Wendy, I injured my shoulder, Wednesday, when you dropped me off and I had to carry my skis, and my boots, and my poles and everything, all the way home. I'm, I'm having trouble lifting my arm. Do you think you could give me some treatment?<br>
+							<br>
+							
+						WENDY: Oh sure. You have insurance, right?<br>
+							<br>
+							
+						ELAINE: (shocked) Insurance? You're charging me?<br>
+							<br>
+							
+						(Behind Elaine, George is standing in the open door)<br>
+							<br>
+							
+						GEORGE: Wednesday? That's your personal business?! (stalks over to the counter) Skiing?! (angry) So let people suffer, while you're shushing all over a mountain?<br>
+							<br>
+							
+						WENDY: How did you hear that?<br>
+							<br>
+							
+						GEORGE: I hear everything.<br>
+							<br>
+							
+						WENDY: I mean, why don't you two just take your business elsewhere, hmm?<br>
+							<br>
+							
+						ELAINE: Oh, huh huh, that is a good idea. C'mon George.<br>
+							<br>
+							
+						GEORGE: Yeah. Let's go.<br>
+							<br>
+							
+						(Elaine and George, united, head for the door. AS they get there, Elaine turns to deliver her parting shot.)<br>
+							<br>
+							
+						ELAINE: (pointedly) And you know, you might wanna do something about that hair.<br>
+							<br>
+							
+						WENDY: Why, what's wrong with my hair?<br>
+							<br>
+							
+						ELAINE: Huh, I think it's a little old-fashioned. Don't you? (to receptionist) Uh, tell her.<br>
+							<br>
+							
+						RECEPTIONIST: She's right.<br>
+							<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						[Nursing Home]<br>
+							<br>
+							
+						(Jerry and Buddy sit on the bench, reminiscing.)<br>
+							<br>
+							
+						JERRY: So you were with him that day at the track?<br>
+							<br>
+							
+						BUDDY: Oh yeah. He won a thousand dollars. His son was there too.<br>
+							<br>
+							
+						JERRY: Leo?<br>
+							<br>
+							
+						BUDDY: Yeah, that's it. Leo. Ooh, what an obnoxious little kid. He used to steal my soda bottles. and cash 'em in for the deposits, uh?<br>
+							<br>
+							
+						JERRY: Is that so?<br>
+							<br>
+							
+						BUDDY: And, after your grandfather hit the daily double, he gave him a hundred dollars, and told him to give fifty to his sister. His sister? Why I tell you he shoulda give it to me for all the bottles he took!<br>
+							<br>
+							
+						JERRY: Well, that's very interesting.<br>
+							<br>
+							
+						(Just then, Uncle Leo strolls up the path to the nursing home. Jerry spots his arrival.)<br>
+							<br>
+							
+						JERRY: (standing) Uncle Leo! I just met an old acquaintance of yours. (indicates Buddy) You remember Buddy. He just told me quite a story about you and Grandpa at the track.<br>
+							<br>
+							
+						(Leo's caught out, and looks worried.)<br>
+							<br>
+							
+						LEO: (defensive) One second...<br>
+							<br>
+							
+						JERRY: (with a triumphant point) You're busted!<br>
+							<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						[Lobby, Jerry's Building]<br>
+							<br>
+							
+						(Jerry enters from the street. Steve is in the lobby, collecting his mail. Jerry decides to be friendly.)<br>
+							<br>
+							
+						JERRY: Hey, Steve. How you doing?<br>
+							<br>
+							
+						(Steve turns to Jerry, gives him a disdainful look, and turns away again. Another guy (Jeff) approaches from within the building. Jerry tries the friendly approach again.)<br>
+							<br>
+							
+						JERRY: Hey, Jeff. What's happening?<br>
+							<br>
+							
+						(Jeff completely blanks Jerry and goes to get his mail. Jerry spots Mary over by Kramer's gallery wall, and walks across to her.)<br>
+							<br>
+							
+						JERRY: Mary! Oh, Mary! Give us a kiss.<br>
+							<br>
+							
+						(Mary moves to avoid Jerry.)<br>
+							<br>
+							
+						JERRY: Don't be like that, Mary. C'mon, I made a mistake!<br>
+							<br>
+							
+						MARY: (contemptuous) Look, why don't you do everybody a favour, and just get out of this building? (angry) Nobody wants you here. Nobody!<br>
+							<br>
+							
+						(Jerry looks downcast. Mary walks over to the mailboxes, where she greets Jeff and Steve.)<br>
+							<br>
+							
+						JEFF: Hi Mary.<br>
+							<br>
+							
+						MARY: Hi Jeff. How are you?<br>
+							<br>
+							
+						(Mary and Jeff kiss hello.)<br>
+							<br>
+							
+						MARY: Hi Pete. How you doing?<br>
+							<br>
+							
+						(Mary and Pete kiss hello.)<br>
+							<br>
+							
+						PETE: Hey, let's go get some coffee.<br>
+							<br>
+							
+						JEFF: Great idea.<br>
+							<br>
+							
+						MARY: Oh, that'd be great.<br>
+							<br>
+							
+						(The three of them exit together chatting happily, watched by a rueful Jerry. Jerry looks at his photo on the wall and adjusts it so it's straight. Then Jerry notices the elevator is about to go up, so he asks a favour of the occupant as he crosses the lobby.)<br>
+							<br>
+							
+						JERRY: Oh, Paul, could you hold that door...<br>
+							<br>
+							
+						(But Paul makes no move to hold the door, which shuts in Jerry's face.)<br>
+							<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						[Hall Outside Kramer's Apartment]<br>
+							<br>
+							
+						(Jerry, wearing a bathrobe and with a towel round his neck, knocks at Kramer's door. Kramer takes a quick peek through the peephole, then opens the door.)<br>
+							<br>
+							
+						KRAMER: Hi.<br>
+							<br>
+							
+						JERRY: Hey. Could I use your shower?<br>
+							<br>
+							
+						KRAMER: What, again? You took one this morning.<br>
+							<br>
+							
+						JERRY: (pleading) I got a date. C'mon, please.<br>
+							<br>
+							
+						KRAMER: I know but I... (waves toward the interior of his apartment) Little problem.<br>
+							<br>
+							
+						KRAMER: (leaning to look round Kramer) Wendy here?<br>
+							<br>
+							
+						KRAMER: No no no. She changed her hairstyle, (pulls a face) it's terrible. No, we're done.<br>
+							<br>
+							
+						(A happy looking guy pushes his way past Kramer and out of the apartment.)<br>
+							<br>
+							
+						GUY: I'll go get some more beer.<br>
+							<br>
+							
+						KRAMER: Oh yeah, yeah, great. (calling after the guy) And get some of those blue corn chips.<br>
+							<br>
+							
+						(An attractive redheaded woman comes along the hallway. Kramer greets her approach.)<br>
+							<br>
+							
+						KRAMER: Hey.<br>
+							<br>
+							
+						STEFANIE: Hi Cosmo.<br>
+							<br>
+							
+						KRAMER: Hi.<br>
+							<br>
+							
+						STEFANIE: (kisses Kramer hello) Mmmwah.<br>
+							<br>
+							
+						KRAMER: Ooh, I like that.<br>
+							<br>
+							
+						JERRY: (impressed) Who's that?<br>
+							<br>
+							
+						KRAMER: Stefanie. 2-G.<br>
+							<br>
+							
+						JERRY: Oh man. Looks like you got quite a few people here.<br>
+							<br>
+							
+						(Jerry tries to see around Kramer into his apartment.)<br>
+							<br>
+							
+						KRAMER: Yeah yeah. Well uh, you know, I'd invite you in, but uhm... you know.<br>
+							<br>
+							
+						JERRY: (rueful acceptance) Oh, yeah, I understand.<br>
+							<br>
+							
+						(Kramer closes the door, and Jerry can be seen peering through the narrowing gap until it shuts.)<br>
+							<br>
+							<br>
+							
+						The End</td>
+						</tr>
+						<tr height="6">
+							<td class="bottom2" width="645" height="6"></td>
+						</tr>
+						<tr>
+							<td width="645">
+								<div align="center">
+									<font size="-1">Copyright 2006 seinology.com | All Rights Reserved | Designed by 13erla</font></div>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+		<p></p>
+	</body>
+
+</html>

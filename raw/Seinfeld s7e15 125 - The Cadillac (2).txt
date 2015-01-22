@@ -1,0 +1,1398 @@
+<tdOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+<html>
+
+	<head>
+		<meta http-equiv="content-type" content="text/html;charset=ISO-8859-1">
+		<meta name="description" content="Top Source for Seinfeld">
+		<meta name="keywords" content="seinfeld, sienfeld, Jerry Seinfeld, Julia Louis Dreyfus, Jason Alexander, Michael Richards, Kramer, George, Costanza, Elaine Benes, morty, Larry David">
+		<title>Seinology.com :: Scripts :: 125-The Cadillac(2)</title>
+	<link rel='stylesheet' href='/stylesheet.css' type='text/css'>
+	</head>
+
+	<body>
+			<table align="center" width="787" border="0" cellspacing="0" cellpadding="0">
+				<tr>
+					<td><font size="-2" color="red">Seinology.com - </font><font size="-3" color="black">Where Seinfeld Content and Accuracy Matter Most. Seinfeld scripts in pdf form, Seinfeld episode video clips, Seinfeld episode audio clips, Jerry Seinfeld appearances, Julia Louis-Dreyfus appearances, Michael Richards appearances, Jason Alexander appearances, Seinfeld discussion Forum, Seinfeld Where are they Now? Seinlanguage Newsletter, Popular Seinfeld Lists, Seinfeld episode standup, Seinfeld episode guide, Seinfeld fan fiction. Seinfeld content all on one domain. Seinology.com enjoy your stay.</font></td>
+				</tr>
+			</table>
+		
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr height="100">
+				<td class="logo"></td>
+			</tr>
+			<tr><td class="ads" align="center" background=#8694fa>
+				<script type="text/javascript"><!--
+google_ad_client = "pub-1924026976931416";
+google_ad_width = 728;
+google_ad_height = 90;
+google_ad_format = "728x90_as";
+google_ad_type = "text";
+google_ad_channel = "";
+google_color_border = "FFFFFF";
+google_color_bg = "8694fa";
+google_color_link = "0000FF";
+google_color_text = "000000";
+google_color_url = "002E3F";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></td></tr>
+		</table>
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr>
+				<td valign="top" width="136">
+					<table width="136" border="0" cellspacing="0" cellpadding="0">
+						<tr height="24">
+							<td class="navigation">
+								<div align="center">
+									
+									<b>Navigation</b></div>
+							</td>
+						</tr>
+						<tr height="199">
+							<td class="spacer1" valign="top" width="136" height="199">
+								<div align="center">
+									<font size="-1"><a href="http://www.seinology.com">Home</a><br>
+										<a href="http://board.seinology.com">Forum</a><br>
+										<a href="http://www.seinology.com/av.shtml">Audio/Video</a><br>
+										<a href="http://www.seinology.com/scripts.shtml">Scripts</a><br>
+										<a href="http://www.seinology.com/survivor.shtml">Survivor</a><br>
+										<a href="http://www.seinology.com/fanfics.shtml">Fan Fiction</a><br>
+										<a href="http://www.seinology.com/gallery/">Gallery</a><br>
+										<a href="http://www.seinology.com/newsletter.shtml">Newsletter</a><br>
+										<a href="http://www.seinology.com/lists.shtml">Lists</a><br>
+										<a href="http://www.seinology.com/epguide.shtml">Episode Guide</a><br>
+										<a href="http://www.seinology.com/links.shtml">Links</a><br>
+										<a href="http://www.seinology.com/faqother.shtml">Faq + others</a><br>
+										<a href="http://www.seinology.com/legal.shtml">Legal</a></font></div>
+							</td>
+						</tr>
+						
+						<tr>
+							<td class="nav2" width="136">
+							<div align="center"><b>Search</b></div></td>
+						</tr>
+						<tr>
+							<td class="spacer1" width="136" valign="top"><div align="center"><form method="get" action="http://www.seinology.com/search/search.cgi">
+<p><label for="fdse_Match">Match</label><br>
+<select name="Match" id="fdse_Match" size="1">
+<option value="1">All</option>
+<option value="0">Any</option>
+<option value="2">Phrase</option>
+</select></p>
+<p><label for="fdse_Realm">Where?</label><br>
+<select name="Realm" id="fdse_Realm" size="1">
+<option selected="selected" value="All">EntireSite</option>
+<option value="Ep Guide">Ep Guide</option>
+<option value="Images">Images</option>
+<option value="Lists">Lists</option>
+<option value="Newsletters">Newsletters</option>
+<option value="Scripts">Scripts</option>
+<option value="Notes..Nothing">Notes..Nothing</option>
+</select></p>
+<p><input type="text" name="Terms" size="14" id="fdse_Terms"><br>
+<input type="submit" class="submit" name="submitButtonName" value="Search"></p>
+</div></form></td>
+						</tr>
+						<tr><td class="bottom" width="136" height="10" valign="top">
+						</td>
+						</tr>
+					</table>
+				</td>
+				<td width="4"></td>
+				<td valign="top" width="645">
+					<table width="645" border="0" cellspacing="0" cellpadding="0">
+						<tr height="18">
+							<td width="645" height="35" class="bar">
+								<div align="center">
+									<b><font size="+2" color="black">Script</font></b></div>
+							</td>
+						</tr>
+						<tr height="362">
+							<td class="spacer2" valign="top" width="645" height="362">
+
+						<p><font size="-2">Episode 125 - The Cadillac (2)<br>
+							
+						pc: 717, season 7, episode 15<br>
+							
+						Broadcast date: February 8, 1996<br>
+							
+						NOTE: Originally broadcast as part of a 60 min episode, with The Cadillac (1)<br>
+							<br>
+							
+						Written by Larry David &amp; Jerry Seinfeld<br>
+							
+						Directed by Andy Ackerman<br>
+							<br>
+							
+						-------------------------------------------------------------------------------<br>
+							<br>
+							
+						The Cast<br>
+							
+						Regulars:<br>
+							
+						Jerry Seinfeld .......................&nbsp; Jerry Seinfeld<br>
+							
+						Jason Alexander ..................&nbsp; George Costanza<br>
+							
+						Julia Louis-Dreyfus .............&nbsp; Elaine Benes<br>
+							
+						Michael Richards .................&nbsp; Cosmo Kramer<br>
+							<br>
+							
+						Guest Stars:<br>
+							
+						&nbsp;<br>
+							
+						Marisa Tomei ....................... Herself<br>
+							
+						Walter Olkewicz .................. Nick (Cable Guy)<br>
+							
+						Ann Guilbert ....................... Evelyn<br>
+							
+						Frances Bay ......................... Mabel Choate<br>
+							
+						Bill Macy .............................. Herb<br>
+							
+						Jesse White .......................... Ralph<br>
+							
+						Annie Korzen ...................... Doris Klompus<br>
+							
+						Daniel Zacapa ...................... Power Guy (John)<br>
+							
+						Golde Starger ...................... Bldg &quot;A&quot;<br>
+							
+						Janice Davis ......................... Bldg &quot;B&quot;<br>
+							
+						Art Frankle .......................... Bldg &quot;C&quot;<br>
+							
+						rc: Liz Sheridan .................... Helen Seinfeld<br>
+							
+						rc: Barney Martin ................. Morty Seinfeld<br>
+							
+						rc: Heidi Swedberg .............. Susan Biddle Ross<br>
+							
+						rc:&nbsp; Sandy Baron ................... Jack Klompus<br>
+							<br>
+							
+						==================================================================<br>
+							<br>
+							
+						[Montage]<br>
+							<br>
+							
+						JERRY (V.O.): Last week, on Seinfeld.<br>
+							<br>
+							
+						(A selection of scenes from The Cadillac (1) establish the story so far.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Morty and Helen's, Florida]<br>
+							<br>
+							
+						(Jerry is trying, unsuccessfully, to sleep on the infamous fold-out. He twists and turns, but can't find a comfortable position.)<br>
+							<br>
+							
+						JERRY (V.O.): Ow. Stupid fold-out! Why'd they put the bar in the middle of the bed?<br>
+							<br>
+							
+						(Jerry continues to thrash about in discomfort. The phone rings and Jerry picks it up.)<br>
+							<br>
+							
+						JERRY: Hello?<br>
+							<br>
+							
+						(On the other end of the line is Elaine, in bed back in New York.)<br>
+							<br>
+							
+						ELAINE: (flirtatious) Hi Jerry.<br>
+							<br>
+							
+						JERRY: Elaine? Wh..what's going on?<br>
+							<br>
+							
+						(Elaine rests on one elbow, playing with her hair as she chats playfully with Jerry.)<br>
+							<br>
+							
+						ELAINE: (clears throat) I was thinking, I mean, I'm not really doing that much this weekend, and I thought, well, huh, what the hell, maybe I'll come down there and hang out a little.<br>
+							<br>
+							
+						JERRY: (a little confused) You wanna hang out here, at phase two of the Pines of Mar Gables?<br>
+							<br>
+							
+						(Elaine gives a slightly overdone girly giggle-laugh at Jerry's comment.)<br>
+							<br>
+							
+						ELAINE: Well, it's just two hours by plane...<br>
+							<br>
+							
+						JERRY: Gee, I dunno what to tell you.<br>
+							<br>
+							
+						(There is a beep from Elaine's phone.)<br>
+							<br>
+							
+						ELAINE: Dammit! I got another call. Uh, hang on, don't hang up Jerry.<br>
+							<br>
+							
+						(Elaine hits a button on her phone to take the other call.)<br>
+							<br>
+							
+						ELAINE: Yeah?<br>
+							<br>
+							
+						(The other call is George. He sits on his couch in his dressing gown.)<br>
+							<br>
+							
+						GEORGE: (urgent whisper) Elaine! You have got to get me Marisa Tomei's phone number!<br>
+							<br>
+							
+						ELAINE: (impatient) Okay, George, I am on the other line. I promise you, I'll get you her number.<br>
+							<br>
+							
+						(George punches the air in triumph, and sits back on the couch.)<br>
+							<br>
+							
+						GEORGE: Yeahhh.<br>
+							<br>
+							
+						ELAINE: Goodbye.<br>
+							<br>
+							
+						(Elaine hits the button on her phone again, to reconnect with Jerry.)<br>
+							<br>
+							
+						ELAINE: (smiling and flirty) Hi.<br>
+							<br>
+							
+						JERRY: Hi.<br>
+							<br>
+							
+						ELAINE: So, what d'you think?<br>
+							<br>
+							
+						JERRY: Uh, I don't think so.<br>
+							<br>
+							
+						ELAINE: (disappointed) Oh.<br>
+							<br>
+							
+						JERRY: I'll be back on Monday.<br>
+							<br>
+							
+						ELAINE: Well, if you need that ride, just uhm, gimme a call. (little laugh) Heh. I can meet you at the gate, Jer.<br>
+							<br>
+							
+						JERRY: Yeah, yeah. Whatever. Alright, I'll see you.<br>
+							<br>
+							
+						(Jerry is moving to put down the phone when Elaine speaks.)<br>
+							<br>
+							
+						ELAINE: (urgent) Jerry? Jerry?<br>
+							<br>
+							
+						JERRY: (putting the phone back to his ear) Yeah.<br>
+							<br>
+							
+						ELAINE: (breathy) Bye.<br>
+							<br>
+							
+						JERRY: Bye.<br>
+							<br>
+							
+						(Jerry puts down the phone, still a little bemused by Elaine.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Kramer's Apartment]<br>
+							<br>
+							
+						(The phone rings and Kramer picks up.)<br>
+							<br>
+							
+						KRAMER: Hello.<br>
+							<br>
+							
+						(Somewhere outside, a guy in overalls and a safety helmet is on the phone. He's writing on a clipboard as he speaks to Kramer.)<br>
+							<br>
+							
+						JOHN: Hello, Mister Kramer? This is John Hanaran, from Con Ed.<br>
+							<br>
+							
+						(Kramer gets a smile on his face, thinking it's another of the cable guy's tricks.)<br>
+							<br>
+							
+						KRAMER: Ohh, it's Hanaran now, is it?<br>
+							<br>
+							
+						JOHN (V.O.): Yeah. We've had some reports of power surges in your building. It seems some jokers were up on the roof, and they must've damaged some of the wires.<br>
+							<br>
+							
+						KRAMER: Oh, you don't say.<br>
+							<br>
+							
+						(Kramer walks to his window as he listens.)<br>
+							<br>
+							
+						JOHN: (a little confused by Kramer) Yeah. Either way, we need to get into your apartment and do a safety check.<br>
+							<br>
+							
+						(Kramer opens his blinds slightly, as he did before. But there is no cable guy in the phone box across the street, only a woman talking on the phone.)<br>
+							<br>
+							
+						KRAMER: (impressed) Ohh, you're good. You are really good.<br>
+							<br>
+							
+						JOHN: (confused) What're you talking about?<br>
+							<br>
+							
+						(Kramer hits a button to end the call, and puts the phone back on the table. John, the power guy, stares at his phone in disbelief.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Monk's]<br>
+							<br>
+							
+						(Elaine sits in a booth. George enters, looking unnaturally happy, and comes over.)<br>
+							<br>
+							
+						GEORGE: Marisa Tomei! I, just spoke to Marisa Tomei! (sitting opposite Elaine) And I wasn't even that nervous.<br>
+							<br>
+							
+						(Elaine watches George, as he rambles on.)<br>
+							<br>
+							
+						GEORGE: You know, I can't remember the last time I called a woman without being nervous. I, usually, I'm pacing all over the room, I'm...<br>
+							<br>
+							
+						ELAINE: (looking at her watch) Okay, well that's all the time we have for today. Why don't we pick up with this next week?<br>
+							<br>
+							
+						(Elaine rises.)<br>
+							<br>
+							
+						GEORGE: Hey, where you going?<br>
+							<br>
+							
+						ELAINE: I got stuff to do.<br>
+							<br>
+							
+						GEORGE: What? You can't leave yet.<br>
+							<br>
+							
+						ELAINE: Why not?<br>
+							<br>
+							
+						GEORGE: We have to discuss my alibi.<br>
+							<br>
+							
+						ELAINE: Alibi? What does that have to do with me?<br>
+							<br>
+							
+						GEORGE: I usually spend Saturday afternoons with Susan. She's gonna want to know what I'm doing. I can't use Jerry, he's in Florida.<br>
+							<br>
+							
+						ELAINE: Oh, so you wanna say you were with me?<br>
+							<br>
+							
+						GEORGE: Yes.<br>
+							<br>
+							
+						ELAINE: (pulls a face) Puh. Okay, fine. You were with me.<br>
+							<br>
+							
+						(Elaine sets off to leave, but is stopped by George.)<br>
+							<br>
+							
+						GEORGE: Wait a second, wait. Why are we together?<br>
+							<br>
+							
+						ELAINE: What is the difference?<br>
+							<br>
+							
+						GEORGE: Because, if you ever see her and it comes up, we have to be in sync. Hmm?<br>
+							<br>
+							
+						(Reluctantly, Elaine sits back down with a sigh, as George furrows his brow in concentration.)<br>
+							<br>
+							
+						GEORGE: Okay. Now, why do I have to see (points) you?<br>
+							<br>
+							
+						(George and Elaine both think hard for a moment. Then Elaine gets a flash of inspiration.)<br>
+							<br>
+							
+						ELAINE: Ah! Because, I'm going to the dentist, and I'm afraid, and I want you to go with me.<br>
+							<br>
+							
+						(Elaine smiles and makes a 'voila' gesture.)<br>
+							<br>
+							
+						GEORGE: (dismissive) It's no good.<br>
+							<br>
+							
+						(Elaine looks offended.)<br>
+							<br>
+							
+						ELAINE: (pointedly) Okay. Fine.<br>
+							<br>
+							
+						GEORGE: What?<br>
+							<br>
+							
+						ELAINE: I don't like the way you just rejected my suggestion.<br>
+							<br>
+							
+						GEORGE: Hey, hey, let's not get so defensive here. This is a give and take process.<br>
+							<br>
+							
+						ELAINE: I thought that my suggestion was good. And, I think you could've been a little more tactful.<br>
+							<br>
+							
+						GEORGE: (explaining, with lots of hand gestures) Okay, look. We've never worked together on a lie. Now, you don't understand how I work. I have a certain way of working. Jerry and I have worked together a few times. He knows how I work. It's not a personal thing, y'know? We're just trying to come up with the best possible lie. That's what this is all about.<br>
+							<br>
+							
+						ELAINE: (weary) Okay.<br>
+							<br>
+							
+						GEORGE: Alright?<br>
+							<br>
+							
+						ELAINE: Okay.<br>
+							<br>
+							
+						GEORGE: Okay.<br>
+							<br>
+							
+						ELAINE: Fine.<br>
+							<br>
+							
+						GEORGE: Good.<br>
+							<br>
+							
+						ELAINE: Fine, fine, fine.<br>
+							<br>
+							
+						(The twosome go back to thinking for a while. This time George gets the inspiration.)<br>
+							<br>
+							
+						GEORGE: Okay. How about this?<br>
+							<br>
+							
+						ELAINE: What?<br>
+							<br>
+							
+						GEORGE: (pleased with himself) You are having problems with your boyfriend and I am meeting you to discuss the situation.<br>
+							<br>
+							
+						ELAINE: I don't have a boyfriend.<br>
+							<br>
+							
+						GEORGE: (still pleased) She doesn't know that. We say that you do.<br>
+							<br>
+							
+						ELAINE: (not convinced) Ech.<br>
+							<br>
+							
+						GEORGE: It's good. Believe me.<br>
+							<br>
+							
+						ELAINE: I thought my idea was just as good.<br>
+							<br>
+							
+						GEORGE: The dentist thing?<br>
+							<br>
+							
+						ELAINE: (pointed) Yeah, right. The dentist thing.<br>
+							<br>
+							
+						GEORGE: Alright, the dentist thing was not good.<br>
+							<br>
+							
+						ELAINE: Okay, alright. What's his name? Who is he?<br>
+							<br>
+							
+						GEORGE: (after a moment's thought) Art Vandelay.<br>
+							<br>
+							
+						ELAINE: (incredulity) Art Vandelay? This is my boyfriend?<br>
+							<br>
+							
+						GEORGE: That's your boyfriend.<br>
+							<br>
+							
+						ELAINE: What does he do?<br>
+							<br>
+							
+						GEORGE: He's an importer.<br>
+							<br>
+							
+						ELAINE: Just imports? No exports?<br>
+							<br>
+							
+						GEORGE: (getting irritated) He's an importer-exporter. Okay?<br>
+							<br>
+							
+						ELAINE: Okay. So, I'm dating Art Vandelay. What is the problem we're discussing?<br>
+							<br>
+							
+						GEORGE: (thoughtful) Yes. Yes.<br>
+							<br>
+							
+						ELAINE: (sighs) Yi-yi-yi.<br>
+							<br>
+							
+						(Elaine and George go into another bout of deep thought.)<br>
+							<br>
+							
+						ELAINE: Ah! (explaining, with hand gestures) How 'bout this? How about, he's thinking of quitting the exporting, and just focussing in on the importing. And this is causing a problem, because, why not do both?<br>
+							<br>
+							
+						(Elaine finishes with an expectant smile. George looks skeptical, and Elaine seems offended again.)<br>
+							<br>
+							
+						ELAINE: (irked) Oh, what? You don't like that suggestion either?<br>
+							<br>
+							
+						GEORGE: It's very complicated.<br>
+							<br>
+							
+						ELAINE: (definitely irritated) You know, it seems to me that it's all you, and none of my ideas are getting in. You know, I mean, you just know it all and I am Miss Stupid. Right?<br>
+							<br>
+							
+						(George avoids Elaine's gaze, looking down.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Morty and Helen's, Florida]<br>
+							<br>
+							
+						(Helen is in the kitchen, putting cookies on a plate, as a restless Morty fusses around.)<br>
+							<br>
+							
+						MORTY: What're you doing? Are you making coffee?<br>
+							<br>
+							
+						HELEN: Yeah.<br>
+							<br>
+							
+						MORTY: Well, maybe you better make a pot of tea, too.<br>
+							<br>
+							
+						HELEN: Morty, you're driving me crazy.<br>
+							<br>
+							
+						MORTY: Look, I don't want anything to go wrong. If this woman votes to impeach me, I'll be a laughing stock.<br>
+							<br>
+							
+						HELEN: You wanna drive a Cadillac? Expect to pay the consequences.<br>
+							<br>
+							
+						(The doorbell chimes.)<br>
+							<br>
+							
+						MORTY: There she is.<br>
+							<br>
+							
+						(Morty and Helen both go to the door. Morty opens it and Mrs Choate enters.)<br>
+							<br>
+							
+						MORTY: Hello. Hello, Mrs Choate.<br>
+							<br>
+							
+						HELEN: Oh, come in, come in. May I take your coat.<br>
+							<br>
+							
+						MRS. CHOATE: No, no. I prefer to wear it. Nobody's taking my coat.<br>
+							<br>
+							
+						HELEN: Ah, how 'bout a cup of coffee or something?<br>
+							<br>
+							
+						MRS. CHOATE: Coffee? Ach. I'll take hot water with lemon, if you have it.<br>
+							<br>
+							
+						HELEN: I'll see. (indicating the couch) Have a seat. That's a lovely scarf you're wearing. Where did you get it?<br>
+							<br>
+							
+						(Helen goes to the kitchen as Mrs Choate sits on the couch.)<br>
+							<br>
+							
+						MRS. CHOATE: Ahh, they're a dime a dozen.<br>
+							<br>
+							
+						(Jerry enters.)<br>
+							<br>
+							
+						HELEN: Oh, hi Jerry. Mrs Choate, (indicating) this is my son, Jerry.<br>
+							<br>
+							
+						(Mrs Choate turns to look at Jerry. Jerry looks astonished as he recognises Mrs Choate. He remembers an incident from &quot;The Rye&quot;.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[New York Street, &quot;The Rye&quot;]<br>
+							<br>
+							
+						(Jerry grapples with Mrs Choate, for possession of a bag.<br>
+							<br>
+							
+						JERRY: Gimme that rye!)<br>
+							<br>
+							
+						MRS. CHOATE: Stop it. Let go. Help! Someone, help!<br>
+							<br>
+							
+						(Jerry wrests the bag from the old lady's grip.)<br>
+							<br>
+							
+						JERRY: Shut up, you old bag!<br>
+							<br>
+							
+						(Jerry races away down the street with the rye.)<br>
+							<br>
+							
+						MRS. CHOATE: (shouting after him) Thief! Stop him! Stop him, he's got my rye!<br>
+							<br>
+							<br>
+							<br>
+							
+						[Morty and Helen's, Florida]<br>
+							<br>
+							
+						(Jerry manages to regain a normal expression.)<br>
+							<br>
+							
+						JERRY: Nice to meet you.<br>
+							<br>
+							
+						MRS. CHOATE: Hello.<br>
+							<br>
+							
+						MORTY: (holding Jerry's shoulders) Jerry lives in New York. You just came from New York, didn't you?<br>
+							<br>
+							
+						(Jerry looks desperate. The last thing he needs is Mrs Choate connecting him with New York.)<br>
+							<br>
+							
+						MRS. CHOATE: Yeah. I was visiting my daughter, and I'll never go back. The crime there is just terrible. Do you know I got mugged for a marble rye, right on the street?<br>
+							<br>
+							
+						(Jerry gives a look of sympathy. Helen brings a couple of saucers and cups from the kitchen, placing them on the table before Mrs Choate.)<br>
+							<br>
+							
+						HELEN: (sympathy) Oh, that's terrible. They stole a rye? Why would they steal a rye?<br>
+							<br>
+							
+						MORTY: That's what the city's turning into. They'll steal anything.<br>
+							<br>
+							
+						MRS. CHOATE: They're like savages.<br>
+							<br>
+							
+						JERRY: Yeah, there's some sickos out there.<br>
+							<br>
+							
+						MRS. CHOATE: (peering at Jerry) You look very familiar. Have we ever met?<br>
+							<br>
+							
+						JERRY: You ever go to Camp Tiyoga?<br>
+							<br>
+							
+						HELEN: Maybe you've seen him on television.<br>
+							<br>
+							
+						MORTY: Jerry's a comedian.<br>
+							<br>
+							
+						MRS. CHOATE: Naw, I don't watch TV.<br>
+							<br>
+							
+						(Jerry has moved rapidly to the door.)<br>
+							<br>
+							
+						JERRY: (opening the door) Well, it was nice meeting you.<br>
+							<br>
+							
+						MORTY: Jerry, don't go.<br>
+							<br>
+							
+						JERRY: Ah, I think I'll go.<br>
+							<br>
+							
+						(Jerry darts out and shuts the door behind him.)<br>
+							<br>
+							
+						MRS. CHOATE: So, Morty, what's this all about? What d'you want?<br>
+							<br>
+							<br>
+							
+						[George's Apartment]<br>
+							<br>
+							
+						(Susan sits on the couch, reading. She spots George, in his coat, heading for the door.)<br>
+							<br>
+							
+						SUSAN: Hey, where're you going?<br>
+							<br>
+							
+						GEORGE: Wha..? I didn't tell you? I gotta go meet Elaine.<br>
+							<br>
+							
+						SUSAN: Elaine? What for?<br>
+							<br>
+							
+						GEORGE: I don't know. She..She's having some problems with this guy she's seeing.<br>
+							<br>
+							
+						SUSAN: I didn't even know she was dating anyone.<br>
+							<br>
+							
+						GEORGE: Yeah, yeah. She's seeing this guy, Art Vandelay.<br>
+							<br>
+							
+						SUSAN: So what does he do?<br>
+							<br>
+							
+						GEORGE: He's an importer-exporter.<br>
+							<br>
+							
+						SUSAN: What kind of problems are they having?<br>
+							<br>
+							
+						GEORGE: (not happy delivering Elaine's lie) Well, he uh, he wants to uh, quit the exporting and uh, focus just on the importing. And it's a problem, because she thinks the exporting is as important as the importing.<br>
+							<br>
+							
+						(Susan looks unconvinced.)<br>
+							<br>
+							
+						SUSAN: Are you having an affair with Elaine?<br>
+							<br>
+							
+						GEORGE: (trying to laugh it off) Right. C'mon! I'm having an affair with Elaine?! If I was having an affair with Elaine, I wouldn't tell you I'm going to see Elaine. I would make up some other person to tell you I was gonna go see, and then I would go see Ela..Elaine.<br>
+							<br>
+							
+						SUSAN: Huh?<br>
+							<br>
+							
+						(George gives a smile and slides out the door.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Street]<br>
+							<br>
+							
+						(Kramer strolls along the street, carrying a big bag of groceries. He becomes aware that a vehicle is slowly driving along the road just behind him. Kramer shifts his load of groceries, so that a shiny baking tray is in a position he can use it as a mirror. Behind him, he can see the blurry image of a Plaza Cable truck. Kramer begins to walk faster, then breaks into a run.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Another Street]<br>
+							<br>
+							
+						(Kramer slows from his run, and looks behind himself. A smile comes to his face, as he sees the truck is no longer there. He allows himself a little shrug of satisfaction at having beaten the cable guy. Kramer turns and begins to walk on, with his groceries, when there is a screech of tyres and the cable truck comes to a halt in front of him - having taken another route to head him off.)<br>
+							<br>
+							
+						(The cable guy gives a 'come here' gesture with his forefinger through the truck window. Kramer turns and sets off running. He runs into a litter bin, drops his groceries and falls to the floor. The cable guy climbs from his truck and begins to advance on Kramer. Kramer picks himself up and, abandoning his groceries, sets off running again, with the cable guy in pursuit.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Variety of New York locations]<br>
+							<br>
+							
+						(Kramer runs across a busy thoroughfare, followed, seconds later, by the cable guy.)<br>
+							<br>
+							
+						(Kramer hauls himself over a wall in a park, looks around, and then sets off running. Moments later, the cable guy struggles over the same wall and sets off after Kramer.)<br>
+							<br>
+							
+						(Kramer runs across an expanse of grass in the park, with the cable guy just a few yards behind.)<br>
+							<br>
+							
+						(Kramer runs across a New York rooftop. He comes to the edge of the roof and looks for a way across to the next building. Kramer looks worriedly behind him, for the pursuing cable guy, then down into the gap between buildings. Despite his worry at the height, he steps back a few paces, takes a run-up, and leaps across to land on the roof of the next building. Kramer picks himself up and sets off running again. Behind him, the cable guy comes to the same gap, looks down at how far he has to fall, and thinks better of attempting the leap.)<br>
+							<br>
+							
+						NICK: (yelling after the fleeing Kramer) I'll get you! I'll get you Kramer! You won't get away with this!<br>
+							<br>
+							<br>
+							<br>
+							
+						[Morty and Helen's, Florida]<br>
+							<br>
+							
+						(Morty is fastening a jacket as he enters.)<br>
+							<br>
+							
+						MORTY: Alright, are you ready to eat?<br>
+							<br>
+							
+						HELEN: (glancing at her watch) Oh, right, let's go. Jerry, let's go, it's time to eat. We're going to dinner.<br>
+							<br>
+							
+						(Jerry wanders into the room. He's in a t-shirt and sweatpants, and holding a comic book he's been reading.)<br>
+							<br>
+							
+						JERRY: (confused) Dinner? W..What time is it?<br>
+							<br>
+							
+						HELEN: (pulling on a coat) It's four-thirty.<br>
+							<br>
+							
+						JERRY: (bewildered) Four-thirty? Who eats dinner at four-thirty?<br>
+							<br>
+							
+						MORTY: By the time we sit down, it'll be quarter to five.<br>
+							<br>
+							
+						JERRY: I don't understand why we have to eat now.<br>
+							<br>
+							
+						HELEN: We gotta catch the early-bird. It's only between four-thirty and six.<br>
+							<br>
+							
+						MORTY: Yeah. They give you a tenderloin, a salad and a baked potato, for four-ninety-five. You know what that cost you after six?<br>
+							<br>
+							
+						JERRY: Can't we eat at a decent hour? I'll treat, okay?<br>
+							<br>
+							
+						HELEN: You're not buying us dinner.<br>
+							<br>
+							
+						JERRY: (emphatic) I'm not force-feeding myself a steak at four-thirty to save a coupla bucks, I'll tell you that!<br>
+							<br>
+							
+						HELEN: Alright, (sitting on the couch) we'll wait. (pointedly) But it's unheard of.<br>
+							<br>
+							
+						(Jerry shakes his head, incredulous, and wanders away with his comic book.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Park]<br>
+							<br>
+							
+						(George sits on a bench with Marisa Tomei. He's mid-speech, and Marisa's looking interested, smiling and laughing.)<br>
+							<br>
+							
+						GEORGE: ...So, anyway, if you think about it, manure is not really that bad a word. I mean, it's 'newer', which is good, and a 'ma' in front of it, which is also good. Ma-newer , right?<br>
+							<br>
+							
+						MARISA: (laughing) You're so right. I never thought of it like that. Manure. 'Ma' and the 'newer'.<br>
+							<br>
+							
+						(Marisa laughs and George is smiling happily.)<br>
+							<br>
+							
+						MARISA: Did you just make that up?<br>
+							<br>
+							
+						GEORGE: What, you think I'm doing material here?<br>
+							<br>
+							
+						MARISA: (laughs) No, no. It's hard to believe anyone could be so spontaneously funny.<br>
+							<br>
+							
+						GEORGE: (modest) And I'm a little tired.<br>
+							<br>
+							
+						(Marisa laughs again, then speaks, still smiling, but more seriously.)<br>
+							<br>
+							
+						MARISA: So, tell me, how is it that a man like you, so bald, and so quirky and funny, how is it you're not taken?<br>
+							<br>
+							
+						GEORGE: Well, Marisa. See, the thing is... I'm sort of engaged.<br>
+							<br>
+							
+						(Marisa's face falls in disappointment.)<br>
+							<br>
+							
+						MARISA: What?<br>
+							<br>
+							
+						GEORGE: I'm, you know, engaged.<br>
+							<br>
+							
+						(Marisa's expression turns to anger. She swings a fist and punches George in the face, then grabs her bag and storms away. George feels the painful spot where he received the blow.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Outside Scott's, Florida]<br>
+							<br>
+							
+						(A few people stand around outside. The Seinfeld's Cadillac drives up to the front of the restaurant. There's a gap in the parked cars, right by the entrance.)<br>
+							<br>
+							
+						JERRY (V.O): Hey look, there's a spot right in front.<br>
+							<br>
+							
+						MORTY(V.O.): Always, Jerry. Always.<br>
+							<br>
+							
+						(The Cadillac pulls into the space. From the entrance of Scott's emerge Jack and Doris Klompus, Jack using a toothpick)<br>
+							<br>
+							
+						DORIS: Was that delicious or what?<br>
+							<br>
+							
+						JACK: Where you gonna get a better meal than that?<br>
+							<br>
+							
+						DORIS: Better than Danny's.<br>
+							<br>
+							
+						JACK: Danny's? (scoffs) C'mon!<br>
+							<br>
+							
+						(The Seinfelds walk toward the entrance, where they meet the Klompus duo.)<br>
+							<br>
+							
+						MORTY: Hello Jack.<br>
+							<br>
+							
+						HELEN: Doris.<br>
+							<br>
+							
+						DORIS: Hello, hello.<br>
+							<br>
+							
+						JERRY: Jack.<br>
+							<br>
+							
+						DORIS: Hello, Jerry.<br>
+							<br>
+							
+						JERRY: Hi Doris.<br>
+							<br>
+							
+						JACK: Hello Morty. (looking at watch) Well, missed the early bird.<br>
+							<br>
+							
+						MORTY: Yeah, so?<br>
+							<br>
+							
+						JACK: (pointed) Must be nice to have that kind of money.<br>
+							<br>
+							
+						(Jack calls over to one of the people outside the restaurant.)<br>
+							<br>
+							
+						JACK: Bernie, look who's eating at six o'clock. (pointed) Your suddenly well-to-do president. But, you enjoy your last meal in office. Tomorrow, they kick you out, you'll have plenty of time to drive around in your Cadillac.<br>
+							<br>
+							
+						(Morty is looking confident, even smug.)<br>
+							<br>
+							
+						MORTY: They're not kicking me out. You don't have the votes.<br>
+							<br>
+							
+						JACK: That's what you think.<br>
+							<br>
+							
+						MORTY: We'll see.<br>
+							<br>
+							
+						JACK: Yes, we will.<br>
+							<br>
+							
+						JERRY: Awright, let's eat already.<br>
+							<br>
+							
+						(The Seinfelds enter Scott's, and Jack and Doris walk past the Cadillac.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Elaine's Apartment]<br>
+							<br>
+							
+						(Elaine answers a knock at the door, to find a slightly anxious looking Susan.)<br>
+							<br>
+							
+						ELAINE: Hi, Susan.<br>
+							<br>
+							
+						SUSAN: Hi.<br>
+							<br>
+							
+						ELAINE: Hi. Come in, come in. Have a seat.<br>
+							<br>
+							
+						(Susan walks in, and crosses to the couch. Elaine closes the door.)<br>
+							<br>
+							
+						SUSAN: (standing) Uh, Elaine, I have to ask you a question.<br>
+							<br>
+							
+						ELAINE: Oh, sure.<br>
+							<br>
+							
+						SUSAN: (dead serious) Are you having an affair with George?<br>
+							<br>
+							
+						ELAINE: (disbelief) Wha...?! (uncontrolled laughter) Ha ha ha. Ha, no.<br>
+							<br>
+							
+						(Elaine has to sit on the arm of a chair, she's laughing so hard.)<br>
+							<br>
+							
+						ELAINE: (laughter) Don't be ridiculous! (laughter) I mean, why would anyone wanna sleep...<br>
+							<br>
+							
+						(Elaine realises who she's speaking to, and the laughter dies away.)<br>
+							<br>
+							
+						ELAINE: ...Well, obviously... You know... (disbelief) Ap..ap, Chu... Why would you think I was having an affair with George?<br>
+							<br>
+							
+						SUSAN: Ohh, because he said that he had to talk with you earlier about some problem that you were having.<br>
+							<br>
+							
+						ELAINE: (recalling the arranged lie) Yeah, yeah, I did have to talk with him. I definitely had to talk with him. Having a problem with my boyfriend.<br>
+							<br>
+							
+						SUSAN: Art Vandelay?<br>
+							<br>
+							
+						ELAINE: Yeah, Art Vandelay.<br>
+							<br>
+							
+						SUSAN: I'm sorry. (laughing it off) I feel like an idiot.<br>
+							<br>
+							
+						ELAINE: (smiling) No, no. (laughing) Huh-hu-hu. It's okay.<br>
+							<br>
+							
+						SUSAN: Oh, just forget that we ever talked. Okay?<br>
+							<br>
+							
+						ELAINE: It is so forgotten.<br>
+							<br>
+							
+						SUSAN: Alright.<br>
+							<br>
+							
+						(Susan moves toward the door.)<br>
+							<br>
+							
+						ELAINE: Okay. (relieved) Okay, no problem.<br>
+							<br>
+							
+						(Susan has the door open, when a thought occurs to her.)<br>
+							<br>
+							
+						SUSAN: So, was George helpful at all?<br>
+							<br>
+							
+						ELAINE: (unconvincing) Yeah. Oh, yes, yes, he was very helpful. (hesitant) Uhm, because, you know, Art and I were getting into this whole thing about his business. Uhm, you know he's an importer-exporter.<br>
+							<br>
+							
+						SUSAN: (not convinced) Yeah.<br>
+							<br>
+							
+						ELAINE: (explaining, with gestures) Uhm, George felt that I was too adamant in my stand that Art should focus on the exporting and forget about the importing.<br>
+							<br>
+							
+						SUSAN: (spotting an inconsistency) Wait a minute. I thought that Art wanted to give up the exporting.<br>
+							<br>
+							
+						ELAINE: What'd I say?<br>
+							<br>
+							
+						SUSAN: The importing.<br>
+							<br>
+							
+						ELAINE: (caught out) I did. Uh...<br>
+							<br>
+							
+						SUSAN: So, what does he uh, import?<br>
+							<br>
+							
+						ELAINE: (extemporising) Uh... chips.<br>
+							<br>
+							
+						SUSAN: Oh. What kinda chips?<br>
+							<br>
+							
+						ELAINE: Potato.<br>
+							<br>
+							
+						SUSAN: Ah.<br>
+							<br>
+							
+						ELAINE: (embroidering) Some corn.<br>
+							<br>
+							
+						SUSAN: And what does he export?<br>
+							<br>
+							
+						ELAINE: Diapers.<br>
+							<br>
+							
+						SUSAN: (fake smile) I'm sorry for bothering you.<br>
+							<br>
+							
+						ELAINE: Oh, no, it's okay.<br>
+							<br>
+							
+						(Susan and Elaine both use fake laughs, as Susan leaves and closes the door.)<br>
+							<br>
+							
+						ELAINE: Okay.<br>
+							<br>
+							
+						(The moment the door closes behind Susan, Elaine races to her phone and dials a number hurriedly. She stands, listening to the ring, desperate for a response.)<br>
+							<br>
+							
+						ELAINE: (to herself) C'mon, George, pick up. Oh, pick up. Oh, pick up.<br>
+							<br>
+							<br>
+							<br>
+							
+						[George's Apartment]<br>
+							<br>
+							
+						(Susan stands sifting through some magazines, when the door opens and George enters. He's still feeling his face where Marisa punched him. )<br>
+							<br>
+							
+						GEORGE: Hi.<br>
+							<br>
+							
+						SUSAN: Hi. (pointedly) So, George, what does Art Vandelay import?<br>
+							<br>
+							
+						(George looks surprised by the question, and thinks for a moment before replying.)<br>
+							<br>
+							
+						GEORGE: Matches? Long matches.<br>
+							<br>
+							
+						(Susan raises her arm, and delivers the second punch that George has received today. George is thrown backwards out of the door by the blow, and Susan slams the door behind him.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Tenant's Committee, Florida]<br>
+							<br>
+							
+						(Around the table are the board of phase two. Morty and Jack sit beside each other. Herb is chairing the meeting, and several other representatives are present, some chatting with each other. Herb spots Mrs Choate coming in through the door.)<br>
+							<br>
+							
+						HERB: ...There she is. Okay, if I can have your attention for a minute here. We're calling this emergency meeting of the board of phase two, to consider a motion of impeachment of our president, (indicating) Morty Seinfeld.<br>
+							<br>
+							
+						(Mrs Choate sits beside Morty. )<br>
+							<br>
+							
+						MORTY: Nervous, Jack?<br>
+							<br>
+							
+						JACK: What for?<br>
+							<br>
+							
+						MORTY: Because I have the votes.<br>
+							<br>
+							
+						Morty turns to Mrs Choate.<br>
+							<br>
+							
+						MORTY: Nice to see you, Mrs Choate.<br>
+							<br>
+							
+						MRS. CHOATE: Hello, Morty.<br>
+							<br>
+							
+						(Jack looks surprised at the friendliness between Morty and Mrs Choate.)<br>
+							<br>
+							
+						HERB: Building A. Are you for, or against, the motion to impeach?<br>
+							<br>
+							
+						RALPH: What does that mean?<br>
+							<br>
+							
+						HERB: It means, if you're for the motion, you're against Morty.<br>
+							<br>
+							
+						RALPH: So why don't you say that?<br>
+							<br>
+							
+						HERB: Hey, I'm running the meeting.<br>
+							<br>
+							
+						RALPH: If you think so.<br>
+							<br>
+							
+						HERB: Building A?<br>
+							<br>
+							
+						BUILDING A: For impeachment.<br>
+							<br>
+							
+						HERB: Building B?<br>
+							<br>
+							
+						BUILDING B: Against impeachment.<br>
+							<br>
+							
+						HERB: Building C?<br>
+							<br>
+							
+						BUILDING C: For impeachment.<br>
+							<br>
+							
+						HERB: Building D?<br>
+							<br>
+							
+						MRS. CHOATE: Against impeachment.<br>
+							<br>
+							
+						JACK: (a whisper to Morty) I can't believe you got that old bag.<br>
+							<br>
+							
+						(Mrs Choate overhears Jack's comment, and it stirs a memory. She thinks back.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[New York Street, &quot;The Rye&quot;]<br>
+							<br>
+							
+						(Jerry and Mrs Choate struggle for possession of a bag containing a marble rye. )<br>
+							<br>
+							
+						MRS. CHOATE: Help! Someone help!<br>
+							<br>
+							
+						JERRY: Shut up, you old bag!<br>
+							<br>
+							
+						(Jerry wrests the bag from Mrs Choate and takes off down the street. )<br>
+							<br>
+							
+						MRS. CHOATE: (after Jerry) Oh, thief! Thief!<br>
+							<br>
+							<br>
+							<br>
+							
+						[Tenant's Committee, Florida]<br>
+							<br>
+							
+						(Mrs Choate wears a look of shocked realisation. She stands and addresses Morty. )<br>
+							<br>
+							
+						MRS. CHOATE: It's him. (pointing at Morty) It's your son. Now I know where I saw him. He stole my marble rye.<br>
+							<br>
+							
+						MORTY: My son never stole anything. He's a good boy.<br>
+							<br>
+							
+						RALPH: They should lock him up.<br>
+							<br>
+							
+						MRS. CHOATE: (pointing at Morty) Like father, like son. (thumps table) I change my vote. I vote to impeach!<br>
+							<br>
+							
+						BUILDING B: Me too. I change my vote.<br>
+							<br>
+							
+						HERB: All those in favour, say aye.<br>
+							<br>
+							
+						ALL (EXCEPT MORTY): Aye.<br>
+							<br>
+							
+						HERB: All opposed.<br>
+							<br>
+							
+						(Morty forlornly raises his hand. )<br>
+							<br>
+							
+						HERB: The ayes have it. The motion passes.<br>
+							<br>
+							
+						(Jack smiles a big smug smile of triumph, aimed at Morty.)<br>
+							<br>
+							
+						HERB: Morty Seinfeld, you are officially dismissed as condo president. As vice-president, Jack Klompus, in accordance with the phase two constitution, is hereby installed as president.<br>
+							<br>
+							
+						(Jack stands to acknowledge the honour. )<br>
+							<br>
+							
+						HERB: Hear, hear, Jack.<br>
+							<br>
+							
+						(Jack raises a hand in salute, as the rest of the board applaud him. A disgruntled Morty remains silent. )<br>
+							<br>
+							<br>
+							<br>
+							
+						[Hall Outside Jerry's Apartment]<br>
+							<br>
+							
+						(A weary looking Nick, the cable guy, leans against Kramer's door. He knocks and there's no response. )<br>
+							<br>
+							
+						NICK: (weary) Alright, I know you're in there. I know you can hear me. You win, okay? You win. I can't do it any more. What d'you want from me? Apology? Alright, I'm sorry. There, I said it, I'm sorry, I'm sorry. I see now how we made you feel when we made you sit home waiting. I dunno why we do it. (upset) I guess maybe we just kind of enjoy taking advantage of people. (reasonable) Well, that's gonna change. From now on, no more 'nine to twelve', no more 'one to five'. We're gonna have appointments. Eleven o'clock is gonna mean eleven o'clock. And, if we can't make it, we're gonna call you, tell you why. (worked up) For god's sakes, if a doctor can do it, why can't we? (almost sobbing) Anyway, that's it.<br>
+							<br>
+							
+						(The cable guy sighs, and begins to walk away. Kramer's door opens, and Kramer emerges. He and Nick look at each other apologetically for a few seconds. Then Kramer steps forward and they hug. )<br>
+							<br>
+							<br>
+							<br>
+							
+						[Morty and Helen's, Florida]<br>
+							<br>
+							
+						(Morty comes in from the bedroom, looking around at his home. Helen holds his coat as he slips into it. She adjusts his collar and hands him a blue hat. Jerry enters through the front door. )<br>
+							<br>
+							
+						JERRY: The bags are in the car, I guess we better go.<br>
+							<br>
+							
+						(Jerry leads the way, followed by Helen, who folds a coat over her arm. Morty waits a second or two, having a final look round the room. He stands by the door, then steels himself. Giving a determined nod, he exits, closing the door behind him.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Outside Morty and Helen's, Florida]<br>
+							<br>
+							
+						(The Seinfelds walk, three abreast, toward the Cadillac. As they walk, they pass the other residents, who have come to see them off. They nod acknowledgement. As they get to the car, Helen and Jerry get in, but Morty stands in the open door of the Cadillac, turns to the assembled throng and gives a big smile, and arms-wide gesture (like Nixon leaving the White House), before climbing into the car. The residents wave back, one or two of them in tears, and Morty slowly drives the Cadillac away.)<br>
+							<br>
+							<br>
+							
+						The End</td>
+						</tr>
+						<tr height="6">
+							<td class="bottom2" width="645" height="6"></td>
+						</tr>
+						<tr>
+							<td width="645">
+								<div align="center">
+									<font size="-1">Copyright 2006 seinology.com | All Rights Reserved | Designed by 13erla</font></div>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+		<p></p>
+	</body>
+
+</html>

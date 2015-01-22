@@ -1,0 +1,1357 @@
+<tdOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+<html>
+
+	<head>
+		<meta http-equiv="content-type" content="text/html;charset=ISO-8859-1">
+		<meta name="description" content="Top Source for Seinfeld">
+		<meta name="keywords" content="seinfeld, sienfeld, Jerry Seinfeld, Julia Louis Dreyfus, Jason Alexander, Michael Richards, Kramer, George, Costanza, Elaine Benes, morty, Larry David">
+		<title>Seinology.com :: Scripts :: 134-The Invitations</title>
+	<link rel='stylesheet' href='/stylesheet.css' type='text/css'>
+	</head>
+
+	<body>
+			<table align="center" width="787" border="0" cellspacing="0" cellpadding="0">
+				<tr>
+					<td><font size="-2" color="red">Seinology.com - </font><font size="-3" color="black">Where Seinfeld Content and Accuracy Matter Most. Seinfeld scripts in pdf form, Seinfeld episode video clips, Seinfeld episode audio clips, Jerry Seinfeld appearances, Julia Louis-Dreyfus appearances, Michael Richards appearances, Jason Alexander appearances, Seinfeld discussion Forum, Seinfeld Where are they Now? Seinlanguage Newsletter, Popular Seinfeld Lists, Seinfeld episode standup, Seinfeld episode guide, Seinfeld fan fiction. Seinfeld content all on one domain. Seinology.com enjoy your stay.</font></td>
+				</tr>
+			</table>
+		
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr height="100">
+				<td class="logo"></td>
+			</tr>
+			<tr><td class="ads" align="center" background=#8694fa>
+				<script type="text/javascript"><!--
+google_ad_client = "pub-1924026976931416";
+google_ad_width = 728;
+google_ad_height = 90;
+google_ad_format = "728x90_as";
+google_ad_type = "text";
+google_ad_channel = "";
+google_color_border = "FFFFFF";
+google_color_bg = "8694fa";
+google_color_link = "0000FF";
+google_color_text = "000000";
+google_color_url = "002E3F";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></td></tr>
+		</table>
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr>
+				<td valign="top" width="136">
+					<table width="136" border="0" cellspacing="0" cellpadding="0">
+						<tr height="24">
+							<td class="navigation">
+								<div align="center">
+									
+									<b>Navigation</b></div>
+							</td>
+						</tr>
+						<tr height="199">
+							<td class="spacer1" valign="top" width="136" height="199">
+								<div align="center">
+									<font size="-1"><a href="http://www.seinology.com">Home</a><br>
+										<a href="http://board.seinology.com">Forum</a><br>
+										<a href="http://www.seinology.com/av.shtml">Audio/Video</a><br>
+										<a href="http://www.seinology.com/scripts.shtml">Scripts</a><br>
+										<a href="http://www.seinology.com/survivor.shtml">Survivor</a><br>
+										<a href="http://www.seinology.com/fanfics.shtml">Fan Fiction</a><br>
+										<a href="http://www.seinology.com/gallery/">Gallery</a><br>
+										<a href="http://www.seinology.com/newsletter.shtml">Newsletter</a><br>
+										<a href="http://www.seinology.com/lists.shtml">Lists</a><br>
+										<a href="http://www.seinology.com/epguide.shtml">Episode Guide</a><br>
+										<a href="http://www.seinology.com/links.shtml">Links</a><br>
+										<a href="http://www.seinology.com/faqother.shtml">Faq + others</a><br>
+										<a href="http://www.seinology.com/legal.shtml">Legal</a></font></div>
+							</td>
+						</tr>
+						
+						<tr>
+							<td class="nav2" width="136">
+							<div align="center"><b>Search</b></div></td>
+						</tr>
+						<tr>
+							<td class="spacer1" width="136" valign="top"><div align="center"><form method="get" action="http://www.seinology.com/search/search.cgi">
+<p><label for="fdse_Match">Match</label><br>
+<select name="Match" id="fdse_Match" size="1">
+<option value="1">All</option>
+<option value="0">Any</option>
+<option value="2">Phrase</option>
+</select></p>
+<p><label for="fdse_Realm">Where?</label><br>
+<select name="Realm" id="fdse_Realm" size="1">
+<option selected="selected" value="All">EntireSite</option>
+<option value="Ep Guide">Ep Guide</option>
+<option value="Images">Images</option>
+<option value="Lists">Lists</option>
+<option value="Newsletters">Newsletters</option>
+<option value="Scripts">Scripts</option>
+<option value="Notes..Nothing">Notes..Nothing</option>
+</select></p>
+<p><input type="text" name="Terms" size="14" id="fdse_Terms"><br>
+<input type="submit" class="submit" name="submitButtonName" value="Search"></p>
+</div></form></td>
+						</tr>
+						<tr><td class="bottom" width="136" height="10" valign="top">
+						</td>
+						</tr>
+					</table>
+				</td>
+				<td width="4"></td>
+				<td valign="top" width="645">
+					<table width="645" border="0" cellspacing="0" cellpadding="0">
+						<tr height="18">
+							<td width="645" height="35" class="bar">
+								<div align="center">
+									<b><font size="+2" color="black">Script</font></b></div>
+							</td>
+						</tr>
+						<tr height="362">
+							<td class="spacer2" valign="top" width="645" height="362">
+
+						<p><font size="-2">Episode 134 - The Invitations<br>
+							
+						pc: 724, season 7, episode 24<br>
+							
+						Broadcast date: May 16, 1996<br>
+							<br>
+							
+						Written by Larry David<br>
+							
+						Directed by Andy Ackerman<br>
+							<br>
+							
+						-------------------------------------------------------------------------------<br>
+							<br>
+							
+						The Cast<br>
+							
+						Regulars:<br>
+							
+						Jerry Seinfeld ....................... Jerry Seinfeld<br>
+							
+						Jason Alexander .................. George Costanza<br>
+							
+						Julia Louis-Dreyfus ............. Elaine Benes<br>
+							
+						Michael Richards ................. Cosmo Kramer<br>
+							<br>
+							
+						Guest Stars:<br>
+							<br>
+							
+						Janeane Garofalo ................. Jeannie Steinman<br>
+							
+						Stephen Root ....................... Mr. Lager<br>
+							
+						Victor Raider-Wexler ........... Doctor<br>
+							
+						John Riggi ............................ Bank Teller<br>
+							
+						Sue Goodman ...................... Clerk<br>
+							
+						Julie Clark ............................ Waitress<br>
+							
+						Fred Goehner ...................... Delivery Guy<br>
+							
+						Carol Leifer .......................... Bank employee (uncredited)<br>
+							
+						rc: Heidi Swedberg .............. Susan Biddle Ross<br>
+							<br>
+							
+						==================================================================<br>
+							
+						[Opening monologue]<br>
+							<br>
+							
+						I think that if the wedding invitations were left up to the men, we'd just drive around sticking flyers in windshields ...y' know... Not even typed up either, just Magic Marker, Zerox, you know...Party!!.. What's needed is a divorce announcement; Mr and Mrs Fred Johnson are requesting the honour of your presence at the &quot;returning&quot; of their daughter back to Mr,and Mrs Fred Johnson.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Outside Melody Stationeries]<br>
+							<br>
+							
+						(Susan and George walk into the store and go up the sales clerk.)<br>
+							<br>
+							
+						SUSAN: Hi.<br>
+							<br>
+							
+						CLERK: Hi.. May I help you?<br>
+							<br>
+							
+						SUSAN: Yes, we'd like some wedding invitations.<br>
+							<br>
+							
+						CLERK: Ohh! Well...Congratulations<br>
+							<br>
+							
+						SUSAN: (happily) Thank you.<br>
+							<br>
+							
+						GEORGE: (mildly embarrassed) yeah.. Thank you.<br>
+							<br>
+							
+						CLERK: When 's the wedding?<br>
+							<br>
+							
+						SUSAN: June<br>
+							<br>
+							
+						GEORGE: late June.<br>
+							<br>
+							
+						CLERK: Oh! Well, we have quite a few to pick from ( turns around and picks up a huge binder) They're arranged in order of price , the most expensive are in the front.<br>
+							<br>
+							
+						(George takes the binder and feigns browsing and flips right to the last page.)<br>
+							<br>
+							
+						GEORGE: He..hmmm. humm...What about this one.<br>
+							<br>
+							
+						CLERK: Hmmm,..to tell you the truth they haven't manufactured that one for a number of years. I might have couple of boxes left in our warehouse in New Jersey. I'd have to check.<br>
+							<br>
+							
+						SUSAN: Oh! no. George that's so ugly we don't want that.<br>
+							<br>
+							
+						GEORGE: What's the difference you just read it and mail it right back. These we'll do.<br>
+							<br>
+							
+						SUSAN: Why don't they make'em anymore?<br>
+							<br>
+							
+						CLERK: Well.. For one thing the glue isn't very adhesive. It takes a lot of moisture to make them stick.<br>
+							<br>
+							
+						GEORGE: So we pick up some (word missing)<br>
+							<br>
+							
+						SUSAN: (disappointed)All right. You see what I do for you.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Scene cuts to the street as Susan and George are about to get into a cab. Kramer happens to walk by.]<br>
+							<br>
+							
+						GEORGE: Hey! Kramer.<br>
+							<br>
+							
+						KRAMER: Hey! George.....Lily..<br>
+							<br>
+							
+						SUSAN: No. Susan.<br>
+							<br>
+							
+						KRAMER: No. No It's Lily<br>
+							<br>
+							
+						SUSAN: I think I know my own name.<br>
+							<br>
+							
+						GEORGE: It's Susan<br>
+							<br>
+							
+						KRAMER: (lost for words) Well you look like a Lily...<br>
+							<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						[Scene cuts to Jerry's apt. George walks in . Jerry is coming out of his bedroom twiddling scissors.]<br>
+							<br>
+							
+						GEORGE: It's coming Jerry, it's coming.<br>
+							<br>
+							
+						JERRY: What's coming?<br>
+							<br>
+							
+						GEORGE: The Day..<br>
+							<br>
+							
+						JERRY: Ahhh...The Day..<br>
+							<br>
+							
+						GEORGE: We ordered the wedding invitations today,, Nothing can stop it now. Nothing. It's here! It's happening. Can I do this? I can't do this...Look at me. Look at me I can't do this, I can't do this (manic) Help me Jerry, help me.<br>
+							<br>
+							
+						JERRY: why don't you just break it off with her. tell her it's over<br>
+							<br>
+							
+						GEORGE: I can't<br>
+							<br>
+							
+						JERRY: Why not?<br>
+							<br>
+							
+						GEORGE 'Cause I can't face that scene. You know what kind of scene that would be? i'd rather be unhappy for the rest of my life than go through something like that. (forceful) I CAN'T, I CAN'T. I tried to psyche myself up a million times I cannot go through that.<br>
+							<br>
+							
+						JERRY: All right take it easy, just take it easy.<br>
+							<br>
+							
+						GEORGE: What about a letter?<br>
+							<br>
+							
+						JERRY: A letter.<br>
+							<br>
+							
+						GEORGE: I...I...write a letter and then I..I go to China. I disappear in a sea of people for like six months, a year you know just while things simmer down. Ehm.. Ehm...Dear Susan. I'm sorry. I made a terrible mistake. I'm really , really sorry.<br>
+							<br>
+							
+						JERRY: That's it?<br>
+							<br>
+							
+						GEORGE: What? Too short?<br>
+							<br>
+							
+						BOTH: Seems a little short, yeah..<br>
+							<br>
+							
+						JERRY: You can't go to China What about your job?<br>
+							<br>
+							
+						GEORGE: My Job..arghhh<br>
+							<br>
+							
+						JERRY: So write a letter.. move to another...move to Staten Island., 'lot easier to blend in a sea of people in Staten Island than China believe me.<br>
+							<br>
+							
+						GEORGE: Yeah! Yeah!..Staten Island . What about my clothes ,how do I get the rest of the clothes?<br>
+							<br>
+							
+						JERRY: Aagh! You come back for your clothes<br>
+							<br>
+							
+						GEORGE: I'm not going back in there.<br>
+							<br>
+							
+						JERRY: So forget about your clothes.<br>
+							<br>
+							
+						GEORGE: Well I'm not starting up a whole new wardrobe now!!!<br>
+							<br>
+							
+						JERRY: Look, freedom with no clothes is a lot better than no freedom with clothes.<br>
+							<br>
+							
+						GEORGE: If she'd just take a plane somewhere.<br>
+							<br>
+							
+						JERRY: And what, hope for a crash?<br>
+							<br>
+							
+						GEORGE: It happens.<br>
+							<br>
+							
+						JERRY: You know what the odds are on a crash it's a million to one.<br>
+							<br>
+							
+						GEORGE: It's something . It's hope.<br>
+							<br>
+							
+						(Elaine comes through the door)<br>
+							<br>
+							
+						ELAINE: Hey!...( sees George) HEY!! Georgie. You know what I just realized; the wedding is like a month away.ha..haa..<br>
+							<br>
+							
+						JERRY: Euhh...Elaine....<br>
+							<br>
+							
+						ELAINE: What?...Oh! by the way. What am I going to be in the wedding party?<br>
+							<br>
+							
+						GEORGE: What do you mean?<br>
+							<br>
+							
+						ELAINE: Well Jerry's gonna be the best man and Kramer's gonna be the usher so what am I gonna be?<br>
+							<br>
+							
+						GEORGE: I don't know. I don't think you're anything.<br>
+							<br>
+							
+						ELAINE: Wel...I have to be something. I 'm a close friend....What about being a bridesmaid.<br>
+							<br>
+							
+						GEORGE: Those are Susan's friends.<br>
+							<br>
+							
+						ELAINE: Well then...aaahh how about being an usher?<br>
+							<br>
+							
+						GEORGE: Well...I'll ask Susan about it later.<br>
+							<br>
+							
+						ELAINE: You don't ask.. You tell.<br>
+							<br>
+							
+						GEORGE: ( to Jerry) What about the letter, should I think about the letter?<br>
+							<br>
+							
+						JERRY: Hey Elaine if a guy wanted to end a relationship with you . What could he do?<br>
+							<br>
+							
+						ELAINE: Start smoking.<br>
+							<br>
+							
+						GEORGE: Smoking.<br>
+							<br>
+							
+						JERRY: Does she hate cigarettes?<br>
+							<br>
+							
+						GEORGE: Yes, she hates cigarettes.<br>
+							<br>
+							
+						JERRY: But you don't smoke.<br>
+							<br>
+							
+						GEORGE: Nooooooo......<br>
+							<br>
+							<br>
+							<br>
+							
+						[Scene cuts to Jerry and Elaine walking]<br>
+							<br>
+							
+						JERRY: You know, I think I'm getting a little depressed about George's wedding.<br>
+							<br>
+							
+						ELAINE: Really?<br>
+							<br>
+							
+						JERRY: Yeah. Well once he gets married that's it, she'll probably get pregnant, they'll move to Westchester. I'll never see him again.<br>
+							<br>
+							
+						ELAINE: Yeah! You're probably right.<br>
+							<br>
+							
+						JERRY: Then it'll just be me, you and Kramer.<br>
+							<br>
+							
+						ELAINE: No! Not me pal. I can't keep this up much longer. I'm sick of being single. I'm getting out.<br>
+							<br>
+							
+						JERRY: So it's just gonna be me and Kramer.<br>
+							<br>
+							
+						ELAINE: Yep! just you and Kramer.<br>
+							<br>
+							
+						(Elaine walks away)<br>
+							<br>
+							
+						JERRY: See you ... me and Kramer...<br>
+							<br>
+							
+						(Daydreaming sequence set in Jerry's apt. in a probable future. Kramer pops in. They look a little older.)<br>
+							<br>
+							
+						KRAMER: Hey!! Buddy. I thought of a great invention for driving. A periscope in a car, so you can see the traffic.<br>
+							<br>
+							
+						JERRY: (annoyed) How you gonna drive when looking through a periscope? Besides it's not a submarine and there's no room for a periscope in a car.<br>
+							<br>
+							
+						KRAMER: Huh! You make a higher roof.<br>
+							<br>
+							
+						JERRY: They're not making higher roofs.<br>
+							<br>
+							
+						KRAMER: why can't you make a higher roof.<br>
+							<br>
+							
+						JERRY: Because it's a stupid idea. No one's gonna go for it. Don't you understand It's stupid ,stupid...<br>
+							<br>
+							
+						(As Jerry slowly comes out of his doze he is about to cross the street as a car comes to him at high speed.)<br>
+							<br>
+							
+						JERRY: .....Stupid , stupid.<br>
+							<br>
+							
+						JEANNIE: Hey! Hey! Look out. (she pulls him back saving his life.) OK!, Are you okay?<br>
+							<br>
+							
+						JERRY: Yeah!.. Thanks.Oh! my god you saved my life.<br>
+							<br>
+							
+						JEANNIE: Shouldn't there be some kind of reward for that.<br>
+							<br>
+							
+						JERRY: oh! thank you.<br>
+							<br>
+							
+						JEANNIE: You know you should be a lot more careful crossing the street like that, otherwise you could die.. If that bothers you.<br>
+							<br>
+							
+						JERRY: Well I...<br>
+							<br>
+							
+						JEANNIE: You see..(points to his collar) To me this is a waste.<br>
+							<br>
+							
+						JERRY: What?<br>
+							<br>
+							
+						JEANNIE: The shirt you got on under your sweather. It sits for three weeks in your drawer, waiting to come out. and when it finally does . It sticks up only half an inch out of your collar.<br>
+							<br>
+							
+						JERRY: I'm Jerry Seinfeld.<br>
+							<br>
+							
+						JEANNIE: Jeannie Steinman.<br>
+							<br>
+							
+						JERRY: Hey! Same initials . How do you like that?<br>
+							<br>
+							
+						JEANNIE: I like it.<br>
+							<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						[George and Susan at their apt.]<br>
+							<br>
+							
+						GEORGE: Listen I was talking to Elaine today and she said she'd would really like to be an usher at the wedding<br>
+							<br>
+							
+						SUSAN: No. Out of the question. I don't want any women ushers at my wedding and while we're on the subject, Kramer is not an usher either.<br>
+							<br>
+							
+						GEORGE: Why not?<br>
+							<br>
+							
+						SUSAN: He doesn't even know my name.<br>
+							<br>
+							
+						GEORGE: That was an honest mistake.<br>
+							<br>
+							
+						SUSAN: Nah! He's too weird he'd fall or something. He'd ruin the whole ceremony.<br>
+							<br>
+							
+						(George takes out a pack of cigarettes and pulls one out.)<br>
+							<br>
+							
+						GEORGE: Yeah! You're right.. You're probably right.<br>
+							<br>
+							
+						SUSAN: Whadda doing?<br>
+							<br>
+							
+						GEORGE: (shrugs and lights it up)<br>
+							<br>
+							
+						SUSAN: Since when do you smoke?<br>
+							<br>
+							
+						GEORGE: (coughs) I've always smoked.<br>
+							<br>
+							
+						SUSAN: I've never seen you smoke.<br>
+							<br>
+							
+						GEORGE: Oh yeeah.. well , Big smoker... I (coughs some more) gave it up for a while but it was too tough. Y' know.....I got no will power.<br>
+							<br>
+							
+						SUSAN: I don't like this one bit.<br>
+							<br>
+							
+						GEORGE: Well(coughs) I can't stop now...(coughs) I'm addicted...<br>
+							<br>
+							
+						SUSAN: Well you are gonna have to quit.<br>
+							<br>
+							
+						(George sprints to the bathroom)<br>
+							<br>
+							
+						GEORGE: Oh my god....<br>
+							<br>
+							<br>
+							<br>
+							
+						[At Monks.]<br>
+							<br>
+							
+						WAITRESS: Menus?<br>
+							<br>
+							
+						JERRY: No. I know what I want.<br>
+							<br>
+							
+						WAITRESS: The usual?<br>
+							<br>
+							
+						JERRY: Yeah.,<br>
+							<br>
+							
+						WAITRESS: And for you?<br>
+							<br>
+							
+						JEANNIE: I'll have a bowl of Cheerios , not to much milk.<br>
+							<br>
+							
+						WAITRESS: Ok Two bowls of Cheerios.<br>
+							<br>
+							
+						JEANNIE: You too.?...<br>
+							<br>
+							
+						JERRY: Yeah!!!<br>
+							<br>
+							<br>
+							<br>
+							
+						[At Jerry's. Kramer comes in Jerry is on the couch.]<br>
+							<br>
+							
+						KRAMER: Hey! Did you hear the bank on the corner is offering a 100 dollars if you go in there and they don't greet you with a hello?<br>
+							<br>
+							
+						JERRY: Uh! Really .That's nice.<br>
+							<br>
+							
+						KRAMER: Now what's with you?<br>
+							<br>
+							
+						JERRY: I think I'm in love.<br>
+							<br>
+							
+						KRAMER: Oh. Come on.<br>
+							<br>
+							
+						JERRY: No it's true. This woman saved my life. I was crossing the street .I was almost hit by a car...and then we talked and.......the whole thing just seemed like a dream.<br>
+							<br>
+							
+						KRAMER: If a guy saved your life you'd be in love with him too.<br>
+							<br>
+							
+						JERRY: No, no this woman is different , she's incredible. she's just like me. She talks like me, she acts like me. She even ordered cereal at a restaurant. We even have the same initials. Wait a minute, I just realised what's going on.<br>
+							<br>
+							
+						KRAMER: What?<br>
+							<br>
+							
+						JERRY: Now I know what I've been looking for all these years......myself! (Kramer is speechless) I've been waiting for me to come along and now I 've swept myself off my feet.<br>
+							<br>
+							
+						KRAMER: You stop it man.. you're FREAKING ME OUT!!!<br>
+							<br>
+							<br>
+							<br>
+							
+						[At the HOME FEDERAL SAVINGS BANK Kramer walks up to a teller.]<br>
+							<br>
+							
+						KRAMER: Hey!<br>
+							<br>
+							
+						TELLER: Hey!<br>
+							<br>
+							
+						KRAMER: Hey! wait a second. You didn't say hello.<br>
+							<br>
+							
+						TELLER: Yes I did<br>
+							<br>
+							
+						KRAMER: No no you didn't ...Hundred dollars.. I get a hundred dollars.<br>
+							<br>
+							
+						TELLER: No, No I said Hello.<br>
+							<br>
+							
+						KRAMER: No, No You said Hey!<br>
+							<br>
+							
+						TELLER: Well.. Hey! is Hello, same thing.<br>
+							<br>
+							
+						KRAMER: The add said that the bank's gonna pay a hundred dollars if you are not greeted with a hello<br>
+							<br>
+							
+						TELLER: You're taking that much to literally. Now sir , do you have any business to transact.<br>
+							<br>
+							
+						KRAMER: No, I want to speak to the manager.<br>
+							<br>
+							
+						TELLER: Well, He's not here right now.<br>
+							<br>
+							
+						KRAMER: Then I'll be back.<br>
+							<br>
+							<br>
+							<br>
+							
+						[In Jerry's hallway]<br>
+							<br>
+							
+						ELAINE: So I'm not gonna be an usher?<br>
+							<br>
+							
+						GEORGE: No..<br>
+							<br>
+							
+						ELAINE: So I'm nothing. Jerry is best man , Kramer is an usher and I am nothing.<br>
+							<br>
+							
+						GEORGE: Well Kramer's not an usher anymore.<br>
+							<br>
+							
+						KRAMER: What are you talking about?<br>
+							<br>
+							
+						GEORGE: You've been demoted.<br>
+							<br>
+							
+						KRAMER: Why?<br>
+							<br>
+							
+						GEORGE: Because you called her by the wrong name.<br>
+							<br>
+							
+						KRAMER: But she really looks like a Lily<br>
+							<br>
+							
+						ELAINE: Jerry ( as they come into the apt.) Jerry, Susan says I can't be an usher at he wedding.<br>
+							<br>
+							
+						KRAMER: Yeah. me neither.<br>
+							<br>
+							
+						JERRY: (shrugs) Hey George I think I want to bring a date to the wedding<br>
+							<br>
+							
+						GEORGE: Who!!?<br>
+							<br>
+							
+						JERRY: I just met her, she's incredible.<br>
+							<br>
+							
+						ELAINE: Aaawh...This is GREAT!!.....Now I'm gonna be stuck at the singles table with all the losers.<br>
+							<br>
+							
+						JERRY: You can go with Kramer<br>
+							<br>
+							
+						KRAMER: No , no no no no. Weddings are a great place to meet chicks. I have to be unfettered.<br>
+							<br>
+							
+						GEORGE: Do you see what this is turning in to? Do I need this. I have to get out of this thing.<br>
+							<br>
+							
+						ELAINE: Did you try the cigarettes?<br>
+							<br>
+							
+						GEORGE: Yeah.. They made me sick.<br>
+							<br>
+							
+						KRAMER: All right, All right. Lets get down here. You really want to get out of this thing ?<br>
+							<br>
+							
+						GEORGE: Yeah...<br>
+							<br>
+							
+						KRAMER: All right. I got two words for you; Pre-Nup.<br>
+							<br>
+							
+						GEORGE: What does that mean?<br>
+							<br>
+							
+						KRAMER: Ask her to sign a pre-nup.<br>
+							<br>
+							
+						GEORGE: What does that do?<br>
+							<br>
+							
+						KRAMER: Because most women when they're asked to sign a pre-nup are so offended they back out of the marriage.<br>
+							<br>
+							
+						GEORGE: They are?... Elaine?<br>
+							<br>
+							
+						ELAINE: I wouldn't sign one.<br>
+							<br>
+							
+						GEORGE: Pre-nup of course ..Kramer....<br>
+							<br>
+							
+						KRAMER: Get out of here.<br>
+							<br>
+							
+						(George and Susan at their apt.)<br>
+							<br>
+							
+						GEORGE: Hi.<br>
+							<br>
+							
+						SUSAN: Hi. Hey I've been going over the list .What about The Drake? Wanna invite him?<br>
+							<br>
+							
+						GEORGE: Yeah. Got to invite The Drake. Listen hem...there's something that's been on my mind and we haven't really talked about it..I t's kind of important to me.<br>
+							<br>
+							
+						SUSAN: What is it?<br>
+							<br>
+							
+						GEORGE: Well I I ..put a lot of thought into this and I think I would like you to sign a prenuptual agreement.<br>
+							<br>
+							
+						SUSAN: A pre-nup?<br>
+							<br>
+							
+						GEORGE: Yeah.<br>
+							<br>
+							
+						SUSAN: (burst out laughing)<br>
+							<br>
+							
+						GEORGE: What's so funny?<br>
+							<br>
+							
+						SUSAN: Ha.Ha.Ha. ha...You don't have any money. I make more money than you do. ha. ha. ha. Yeah.. give me the papers I'll sign 'em.( she leaves) a pre-nup...<br>
+							<br>
+							<br>
+							<br>
+							
+						[Scenes of Jerry and Jeannie enjoying each other in the park , at the grocery store, comparing comic books and making out. Interrupted by Kramer as he slams into Jerry's locked door.]<br>
+							<br>
+							
+						JERRY: Excuse me.( gets up and opens the door)<br>
+							<br>
+							
+						KRAMER: Jerry.... hey Jeannie.<br>
+							<br>
+							
+						JEANNIE: Hello.<br>
+							<br>
+							
+						KRAMER: Remember I told you about the bank?<br>
+							<br>
+							
+						JERRY: Yeah.<br>
+							<br>
+							
+						KRAMER: Yeah well I went in there and they said Hey!<br>
+							<br>
+							
+						JERRY: Hey is the same thing as hello. What do you think Jeannie.<br>
+							<br>
+							
+						JEANNIE: Yeah I think it's the same thing.<br>
+							<br>
+							
+						KRAMER: Oh! Big surprise ( he leaves frustrated)<br>
+							<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						[Scene takes us to George's again. We hear a buzzer.]<br>
+							<br>
+							
+						DELIVERY MAN: Delivery from Melody Stationaries.<br>
+							<br>
+							
+						SUSAN: Oh those are the invitations.<br>
+							<br>
+							
+						DELIVERY MAN: Just sign there.<br>
+							<br>
+							
+						SUSAN: yeah! Thank you.<br>
+							<br>
+							
+						GEORGE: See ya later.<br>
+							<br>
+							
+						SUSAN: Urgh.. these are so cheap. (as George leaves) And don't forget tommorrow we're going shopping for some rings, so don't make any plans...and this time we're not skimping.<br>
+							<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						[To Jerry's again]<br>
+							<br>
+							
+						KRAMER: Hey<br>
+							<br>
+							
+						JERRY: Hey.<br>
+							<br>
+							
+						KRAMER: Jeannie left?<br>
+							<br>
+							
+						JERRY: Yeah , she's coming to see my act tonight.<br>
+							<br>
+							
+						KRAMER: Oh yeah! Well that's nice. I'm sure that's right up her alley.<br>
+							<br>
+							
+						JERRY: What's with you?<br>
+							<br>
+							
+						KRAMER: Nothin'<br>
+							<br>
+							
+						JERRY: Something on your mind?<br>
+							<br>
+							
+						KRAMER: No.<br>
+							<br>
+							
+						JERRY: Looks like there is?<br>
+							<br>
+							
+						KRAMER: No<br>
+							<br>
+							
+						JERRY: Come on. Something's on your mind. Out with it.<br>
+							<br>
+							
+						KRAMER: I don't like her.<br>
+							<br>
+							
+						JERRY: You don't like her?<br>
+							<br>
+							
+						KRAMER: That's right I don't like , I never like her from the get-go.<br>
+							<br>
+							
+						JERRY: What's wrong with her?<br>
+							<br>
+							
+						KRAMER: Everything she thinks. you think. Everything you think she thinks. No I can't take it. I can't take it Jerry. It's too much. It's too much.<br>
+							<br>
+							
+						JERRY: Well you can't take her maybe you can't take me either.<br>
+							<br>
+							
+						KRAMER: So THAT's how it's going to be<br>
+							<br>
+							
+						JERRY: That's how it's gonna be.<br>
+							<br>
+							
+						KRAMER: OH! GOD HELP US!!!<br>
+							<br>
+							<br>
+							<br>
+							
+						[George's Apartment. Susan licking envelopes]<br>
+							<br>
+							
+						SUSAN: Eurk.. Awful<br>
+							<br>
+							<br>
+							<br>
+							
+						[Jerry at the pier watching lovers and families considering his future]<br>
+							<br>
+							<br>
+							<br>
+							
+						[Another look at Susan licking her envelopes, getting nauseous.]<br>
+							<br>
+							<br>
+							<br>
+							
+						[Back to the Federal Home Savings Bank]<br>
+							<br>
+							
+						MANAGER: May i help you?<br>
+							<br>
+							
+						KRAMER: Yeah. uh..I was in here the other day and I went up to that teller and he didn't say hello.<br>
+							<br>
+							
+						MANAGER: Then you are entitled to a hundred dollars. That's our policy.<br>
+							<br>
+							
+						KRAMER: yeah., but he wouldn't give me the money.<br>
+							<br>
+							
+						MANAGER: Hehummm.. JIM...Can I see you for a second<br>
+							<br>
+							
+						JIM: Uh.. yes can you give me a minute.<br>
+							<br>
+							
+						MANAGER: Yea....hum......He'll be. hum.. right over.(awkward pause)<br>
+							<br>
+							
+						KRAMER: (knocks on desk) Is thi oak?<br>
+							<br>
+							
+						MANAGER: 'think it's pine.<br>
+							<br>
+							
+						KRAMER: Pine is good.<br>
+							<br>
+							
+						MANAGER: Yeah. pine's okay.<br>
+							<br>
+							
+						(Jim the teller walks over)<br>
+							<br>
+							
+						JIM: You want to see me<br>
+							<br>
+							
+						MANAGER: Yeah... Hum..Jim , a man here says came in the other day , you didn't say hello?<br>
+							<br>
+							
+						JIM: No, No that's not true, I said Hey! you know like a friendly greeting, Hey!<br>
+							<br>
+							
+						KRAMER: But that's not Hello.<br>
+							<br>
+							
+						MANAGER: That's a tough one.<br>
+							<br>
+							
+						KRAMER: Uhummm...<br>
+							<br>
+							
+						MANAGER: You know what, let me bring some other people in on this...Barbara, Jane, Mike Can I see you please.<br>
+							<br>
+							
+						BARBARA: How you doin'?<br>
+							<br>
+							
+						JANE: What's happening?<br>
+							<br>
+							
+						MIKE: What's up?<br>
+							<br>
+							
+						MANAGER: (to kramer) Can you excuse us for one minute. Just one minute.<br>
+							<br>
+							
+						(Kramer gets up a little confused and walks away.)&nbsp;<br>
+							<br>
+							
+						MANAGER: Thanks. (they huddle)<br>
+							<br>
+							
+						SOME GUY: How's it going?<br>
+							<br>
+							
+						MANAGER: Thanks, thanks everybody. (they leave) Sir, have a seat.<br>
+							<br>
+							
+						MANAGER: Well , we've discussed this, here's the feeling. You got a greeting starts with an H how's twenty bucks sound.<br>
+							<br>
+							
+						KRAMER: I'll take it.<br>
+							<br>
+							
+						MANAGER: awright sir (they shake hands)<br>
+							<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						[Scene cuts to the Improv as Jerry walks into the club and sees Jeannie sitting at a table]<br>
+							<br>
+							
+						JERRY: Will you marry me?<br>
+							<br>
+							<br>
+							<br>
+							
+						[Susan licks her last envelope and collapses. George is walking down a street looking depressed.]<br>
+							<br>
+							<br>
+							<br>
+							
+						[We go back to the Improv.]<br>
+							<br>
+							
+						JERRY: I would like to propose a toast....Wait a second.. George! George Costanza come in here.<br>
+							<br>
+							
+						JEANNIE: Georgie boy..<br>
+							<br>
+							
+						JERRY: George, big news; I'm getting married!!<br>
+							<br>
+							
+						GEORGE: Married , What!(astounded)<br>
+							<br>
+							
+						JERRY: September 21st, first day of Autumn. Leaves changing colours.. Beautiful colors.<br>
+							<br>
+							
+						JEANNIE: ... all that crap.<br>
+							<br>
+							
+						JERRY: You see , I kept up my end of the pact.<br>
+							<br>
+							
+						GEORGE: Good for you (sympathetic)<br>
+							<br>
+							
+						JERRY: Hey look , Champagne..<br>
+							<br>
+							
+						GEORGE: Hehehe. .(feebly)<br>
+							<br>
+							
+						JERRY: To our future wives....yeah...<br>
+							<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						[George returns home only to find..... Scene then cuts to Monks with Jerry and Jeannie arriving.]<br>
+							<br>
+							
+						JERRY: Well it's been quite a night I could sure use a cup of coffee.<br>
+							<br>
+							
+						JEANNIE: Hey! what's the deal with decaf; how do they get the caffeine out of there and then where does it go?<br>
+							<br>
+							
+						JERRY: (weakly) I dunno<br>
+							<br>
+							
+						(A guy suddenly gets up to leave then falls on the ground.)<br>
+							<br>
+							
+						JEANNIE: That's a shame..<br>
+							<br>
+							
+						JERRY: (to waitress) I' ll just have a cup of coffee.<br>
+							<br>
+							
+						JEANNIE: Bowl of Corn flakes.<br>
+							<br>
+							
+						JERRY: More cereal? that's your third bowl today, you had it for breakfast and lunch.<br>
+							<br>
+							
+						JEANNIE: Hey! So what's the deal with brunch, I mean that if it's a combination of breakfast and lunch. How comes there's no lupper or no linner.<br>
+							<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						[Back to Jerry's, Kramer comes in..]<br>
+							<br>
+							
+						KRAMER: Hey!! Frank just called me. Congratulations.<br>
+							<br>
+							
+						JERRY: Thanks , thanks<br>
+							<br>
+							
+						KRAMER: Look I'm sorry about before....I mean I'm sure I'll learn to like her, Jerry<br>
+							<br>
+							
+						JERRY: Yeah , yeah .<br>
+							<br>
+							
+						KRAMER: C'mon , c'mon what's the matter?<br>
+							<br>
+							
+						JERRY: I think I may have made a big mistake.<br>
+							<br>
+							
+						KRAMER: Oh! Come on.<br>
+							<br>
+							
+						JERRY: All of a sudden it hit me, I realized what the problem is; I can't be with someone like me.. I hate myself!! If anything I need to get the exact opposite of me....It's too much. It's too Much I can't take it ...I can't take it!!!<br>
+							<br>
+							
+						KRAMER: (mocking) Too bad you got engaged.<br>
+							<br>
+							
+						JERRY: Yeah! Too bad.<br>
+							<br>
+							
+						(Phone rings, Jerry picks it up.)<br>
+							<br>
+							
+						JERRY: Hello. Oh! Hi George.......What! ..really! All right I'll call Elaine , we'll meet you down there.<br>
+							<br>
+							
+						KRAMER: What happened?<br>
+							<br>
+							
+						JERRY: They just took Susan to the Hospital<br>
+							<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						[At the hospital.]<br>
+							<br>
+							
+						JERRY: So she was just lying there.<br>
+							<br>
+							
+						GEORGE: Tsss...Yeah..<br>
+							<br>
+							
+						ELAINE: I wonder what happened?<br>
+							<br>
+							
+						GEORGE: I don't know....hmmm ha! here's the doctor.<br>
+							<br>
+							
+						DOCTOR: Excuse me , Are you the husband?<br>
+							<br>
+							
+						GEORGE: Well , not yet.. Fianc&eacute;.<br>
+							<br>
+							
+						DOCTOR: Well , I'm sorry.....She's gone.<br>
+							<br>
+							
+						GEORGE: .........What's that?...<br>
+							<br>
+							
+						DOCTOR: She expired.<br>
+							<br>
+							
+						GEORGE: ...Are you sure?<br>
+							<br>
+							
+						DOCTOR: Yes , of course.<br>
+							<br>
+							
+						GEORGE: So.....She's dead?<br>
+							<br>
+							
+						DOCTOR: Yes<br>
+							<br>
+							
+						GEORGE: ...Huh!<br>
+							<br>
+							
+						DOCTOR: Let me ask you ; Had she been exposed to any kind of inexpensive glue?<br>
+							<br>
+							
+						GEORGE: ...Why?<br>
+							<br>
+							
+						DOCTOR: We found traces of a certain toxic adhesive commonly found in very low priced envelopes.<br>
+							<br>
+							
+						GEORGE: Well she was sending out our wedding invitations.<br>
+							<br>
+							
+						DOCTOR: That's probably what did it.<br>
+							<br>
+							
+						GEORGE: We were expecting about two hundred people...Well...Thank you , thank you.<br>
+							<br>
+							
+						(Doctor leaves, George returns to the others)<br>
+							<br>
+							
+						GEORGE: She's ahem....gone<br>
+							<br>
+							
+						JERRY: Dead?<br>
+							<br>
+							
+						ELAINE: I'm so sorry George<br>
+							<br>
+							
+						JERRY: Yeah! me too<br>
+							<br>
+							
+						KRAMER: Poor Lily..<br>
+							<br>
+							
+						JERRY: How did it happen?<br>
+							<br>
+							
+						GEORGE: Apparently the glue in the wedding invitations was a....toxic.<br>
+							<br>
+							
+						ALL: Aah!..<br>
+							<br>
+							
+						KRAMER: Well that's weird<br>
+							<br>
+							
+						JERRY: So I guess , you're not getting married?<br>
+							<br>
+							
+						GEORGE: (embarrassed with a touch of unrestrained jubilation) Yes.<br>
+							<br>
+							
+						JERRY: But....<br>
+							<br>
+							
+						GEORGE: Yeah?<br>
+							<br>
+							
+						JERRY: Well , now I'm engaged..<br>
+							<br>
+							
+						GEORGE: Yeah?...<br>
+							<br>
+							
+						JERRY: Well I thought we'd both be getting married.<br>
+							<br>
+							
+						GEORGE: Hey!.. What can I tell ya.<br>
+							<br>
+							
+						ELAINE: All right. (they start to leave except Jerry)<br>
+							<br>
+							
+						GEORGE: well humm.. lets get some coffee.<br>
+							<br>
+							
+						JERRY: WE HAD A PACT!!!<br>
+							<br>
+							<br>
+							<br>
+							
+						[George at home on the phone]<br>
+							<br>
+							
+						GEORGE: Yes I'd like to speak to Marisa Tomei, please? Marisa, Hi it's George Costanza.. I'm the short, funny, quirky bald man you met a little while ago, heh! yeah I was just calling 'cos I wanted you to know that I'm not engaged anymore......well huh, She died....Toxic glue from the wedding invitations.....well we were expecting about two hundred people. Yeah... Anyway.. hum I got the funeral tomorrow but huh.. my weekend is pretty wide open and I was wondering... (dial tone interrupts George)..... Hello...Hello..<br>
+							<br>
+							
+						&nbsp;<br>
+							
+						The End</td>
+						</tr>
+						<tr height="6">
+							<td class="bottom2" width="645" height="6"></td>
+						</tr>
+						<tr>
+							<td width="645">
+								<div align="center">
+									<font size="-1">Copyright 2006 seinology.com | All Rights Reserved | Designed by 13erla</font></div>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+		<p></p>
+	</body>
+
+</html>

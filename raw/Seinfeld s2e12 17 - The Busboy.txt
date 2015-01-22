@@ -1,0 +1,969 @@
+<tdOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+<html>
+
+	<head>
+		<meta http-equiv="content-type" content="text/html;charset=ISO-8859-1">
+		<meta name="description" content="Top Source for Seinfeld">
+		<meta name="keywords" content="seinfeld, sienfeld, Jerry Seinfeld, Julia Louis Dreyfus, Jason Alexander, Michael Richards, Kramer, George, Costanza, Elaine Benes, morty, Larry David">
+		<title>Seinology.com :: Scripts :: 17-The Busboy</title>
+	<link rel='stylesheet' href='/stylesheet.css' type='text/css'>
+	</head>
+
+	<body>
+			<table align="center" width="787" border="0" cellspacing="0" cellpadding="0">
+				<tr>
+					<td><font size="-2" color="red">Seinology.com - </font><font size="-3" color="black">Where Seinfeld Content and Accuracy Matter Most. Seinfeld scripts in pdf form, Seinfeld episode video clips, Seinfeld episode audio clips, Jerry Seinfeld appearances, Julia Louis-Dreyfus appearances, Michael Richards appearances, Jason Alexander appearances, Seinfeld discussion Forum, Seinfeld Where are they Now? Seinlanguage Newsletter, Popular Seinfeld Lists, Seinfeld episode standup, Seinfeld episode guide, Seinfeld fan fiction. Seinfeld content all on one domain. Seinology.com enjoy your stay.</font></td>
+				</tr>
+			</table>
+		
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr height="100">
+				<td class="logo"></td>
+			</tr>
+			<tr><td class="ads" align="center" background=#8694fa>
+				<script type="text/javascript"><!--
+google_ad_client = "pub-1924026976931416";
+google_ad_width = 728;
+google_ad_height = 90;
+google_ad_format = "728x90_as";
+google_ad_type = "text";
+google_ad_channel = "";
+google_color_border = "FFFFFF";
+google_color_bg = "8694fa";
+google_color_link = "0000FF";
+google_color_text = "000000";
+google_color_url = "002E3F";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></td></tr>
+		</table>
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr>
+				<td valign="top" width="136">
+					<table width="136" border="0" cellspacing="0" cellpadding="0">
+						<tr height="24">
+							<td class="navigation">
+								<div align="center">
+									
+									<b>Navigation</b></div>
+							</td>
+						</tr>
+						<tr height="199">
+							<td class="spacer1" valign="top" width="136" height="199">
+								<div align="center">
+									<font size="-1"><a href="http://www.seinology.com">Home</a><br>
+										<a href="http://board.seinology.com">Forum</a><br>
+										<a href="http://www.seinology.com/av.shtml">Audio/Video</a><br>
+										<a href="http://www.seinology.com/scripts.shtml">Scripts</a><br>
+										<a href="http://www.seinology.com/survivor.shtml">Survivor</a><br>
+										<a href="http://www.seinology.com/fanfics.shtml">Fan Fiction</a><br>
+										<a href="http://www.seinology.com/gallery/">Gallery</a><br>
+										<a href="http://www.seinology.com/newsletter.shtml">Newsletter</a><br>
+										<a href="http://www.seinology.com/lists.shtml">Lists</a><br>
+										<a href="http://www.seinology.com/epguide.shtml">Episode Guide</a><br>
+										<a href="http://www.seinology.com/links.shtml">Links</a><br>
+										<a href="http://www.seinology.com/faqother.shtml">Faq + others</a><br>
+										<a href="http://www.seinology.com/legal.shtml">Legal</a></font></div>
+							</td>
+						</tr>
+						
+						<tr>
+							<td class="nav2" width="136">
+							<div align="center"><b>Search</b></div></td>
+						</tr>
+						<tr>
+							<td class="spacer1" width="136" valign="top"><div align="center"><form method="get" action="http://www.seinology.com/search/search.cgi">
+<p><label for="fdse_Match">Match</label><br>
+<select name="Match" id="fdse_Match" size="1">
+<option value="1">All</option>
+<option value="0">Any</option>
+<option value="2">Phrase</option>
+</select></p>
+<p><label for="fdse_Realm">Where?</label><br>
+<select name="Realm" id="fdse_Realm" size="1">
+<option selected="selected" value="All">EntireSite</option>
+<option value="Ep Guide">Ep Guide</option>
+<option value="Images">Images</option>
+<option value="Lists">Lists</option>
+<option value="Newsletters">Newsletters</option>
+<option value="Scripts">Scripts</option>
+<option value="Notes..Nothing">Notes..Nothing</option>
+</select></p>
+<p><input type="text" name="Terms" size="14" id="fdse_Terms"><br>
+<input type="submit" class="submit" name="submitButtonName" value="Search"></p>
+</div></form></td>
+						</tr>
+						<tr><td class="bottom" width="136" height="10" valign="top">
+						</td>
+						</tr>
+					</table>
+				</td>
+				<td width="4"></td>
+				<td valign="top" width="645">
+					<table width="645" border="0" cellspacing="0" cellpadding="0">
+						<tr height="18">
+							<td width="645" height="35" class="bar">
+								<div align="center">
+									<b><font size="+2" color="black">Script</font></b></div>
+							</td>
+						</tr>
+						<tr height="362">
+							<td class="spacer2" valign="top" width="645" height="362">
+
+						<p><font size="-2">Episode 17 - The Busboy<br>
+							
+						pc: 203, season 2, episode 12<br>
+							
+						Broadcast date: June 26, 1991<br>
+							<br>
+							
+						Written By Larry David &amp; Jerry Seinfeld<br>
+							
+						Directed By Tom Cherones<br>
+							<br>
+							
+						-------------------------------------------------------------------------------<br>
+							<br>
+							
+						The Cast<br>
+							
+						Regulars:<br>
+							
+						Jerry Seinfeld ....................... Jerry Seinfeld<br>
+							
+						Jason Alexander .................. George Costanza<br>
+							
+						Julia Louis-Dreyfus .............. Elaine Benes<br>
+							
+						Michael Richards ................. CKramer<br>
+							<br>
+							
+						Guest Stars:<br>
+							<br>
+							
+						David Labiosa ...................... Antonio<br>
+							
+						Doug Ballard ........................ Eddie<br>
+							
+						John Del Regno .................... Manager<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						==================================================================<br>
+							<br>
+							<br>
+							
+						[Setting: Night club]<br>
+							<br>
+							
+						JERRY: I'm not a foodie. I don't, &quot;Oh, this is too rare. Oh, it's too salty.&quot; Just eat it and shut up. I'll eat anywhere, whatever they're having. I have eaten rotten rolls off of room service trays in hotel hallways. I have. It's not a joke. This is my life. I don't know, somebody left it. Why would someone poison a roll, and leave it in a hallway for some comic coming down at two o' clock in the morning? Why would they do that? Sometimes you go to a nice restaurant, they put the check in a little book. What is this? The story of the bill? &quot;Once upon a time, there were some very hungry people..&quot; What is this? A little gold tassle hanging down? Am I graduating from the restaurant? What is this about?<br>
+							<br>
+							
+						(Scene ends)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Setting: A restaurant]<br>
+							<br>
+							
+						(Jerry, George, and Elaine are all eating at an Italian restaurant. George hasn't eaten anything)<br>
+							<br>
+							
+						ELAINE: Do you want some of mine?<br>
+							<br>
+							
+						JERRY: Take some of mine.<br>
+							<br>
+							
+						GEORGE: Why do I get pesto? Why do I think I'll like it? I keep trying to like it, like I have to like it.<br>
+							<br>
+							
+						JERRY: Who said you have to like it?<br>
+							<br>
+							
+						GEORGE: Everybody likes pesto. You walk into a restaurant, that's all you hear - pesto, pesto, pesto.<br>
+							<br>
+							
+						JERRY: I don't like pesto.<br>
+							<br>
+							
+						GEORGE: Where was pesto 10 years ago?<br>
+							<br>
+							
+						JERRY: (Gesturing to a man) Look at that guy. (Elaine starts to look, but Jerry stops her) I'll bet you he's gettin' hair transplants. Any time you see a guy that age wearing a baseball cap, ten to one - plugs.<br>
+							<br>
+							
+						ELAINE: (Elaine turns to look at the man, trying to make it sound like they aren't talking about him) The thing about that painting.. is with the colors and um.. (Turns back to Jerry) Oh yeah, plugola.<br>
+							<br>
+							
+						(George has started eating Elaine's food - and continues to do so)<br>
+							<br>
+							
+						JERRY: (To Elaine) Oh, one more thing about the car. Let it warm up for a minute.<br>
+							<br>
+							
+						GEORGE: That's a tough minute. It's like waiting in the shower for the conditioner to work.<br>
+							<br>
+							
+						JERRY: I don't understand why he couldn't take a cab.<br>
+							<br>
+							
+						GEORGE: Who?<br>
+							<br>
+							
+						JERRY: Elaine is having a &quot;houseguest.&quot; She's picking him up at the airport tonight.<br>
+							<br>
+							
+						GEORGE: A guy?<br>
+							<br>
+							
+						ELAINE: (Slightly embarrassed) Yes, a guy.<br>
+							<br>
+							
+						JERRY: He's from a.. Yakima, right?<br>
+							<br>
+							
+						ELAINE: Seattle.<br>
+							<br>
+							
+						JERRY: Everybody's moving to Seattle.<br>
+							<br>
+							
+						GEORGE: It's the pesto of cities. So..?<br>
+							<br>
+							
+						ELAINE: (To Jerry) You tell him.<br>
+							<br>
+							
+						JERRY: Well, from what I can piece together, our friend here met a gentleman.<br>
+							<br>
+							
+						ELAINE: Ed.<br>
+							<br>
+							
+						JERRY: Who was in town on a business venture, and um..<br>
+							<br>
+							
+						ELAINE: ..We shared an interpersonal experience. (George hits his glass with his fork. To Jerry) Go on.<br>
+							<br>
+							
+						JERRY: So they went out a few times, but apparently, when the fellow returned home, he discovered that the Benes tattoo does not wash off so easily.<br>
+							<br>
+							
+						ELAINE: On some people.<br>
+							<br>
+							
+						GEORGE: Oooh.<br>
+							<br>
+							
+						JERRY: So, he's coming in to stay with her for a week.<br>
+							<br>
+							
+						ELAINE: It was just gonna be a weekend, but then somehow it became a week.<br>
+							<br>
+							
+						(The menu at a neighboring table catches fire. Elaine quickly picks up a wine glass - about to put it out, but George tosses the menu on the floor, and stomps it out. The manager approaches)<br>
+							<br>
+							
+						MANAGER: What happened?<br>
+							<br>
+							
+						GEORGE: Oh, the busboy left the menu a little close to the candle.<br>
+							<br>
+							
+						MANAGER: Sorry to the disturbance.<br>
+							<br>
+							
+						ELAINE: (Joking, she snobbishly says) I'm never eating here again.<br>
+							<br>
+							
+						(Manager leaves)<br>
+							<br>
+							
+						JERRY: (Pats George on the back) Nice going. Thank you, that ought to get us a free dessert.. (They can see the manager chewing the busboy out from the dining room doorway) I think the busboy's in trouble.<br>
+							<br>
+							
+						GEORGE: Did I get him in trouble? Because of what I said?! I just told him what happened.. he didn't do it on purpose.. (Mangager and busboy are arguing. The busboy points in the direction of George) He pointed at me. Why did he point at me?!<br>
+							<br>
+							
+						ELAINE: I said I would never eat here again.. But, I, I.. he had to know I was kidding.<br>
+							<br>
+							
+						JERRY: (Casually buttering a roll, like he's the innocent one) I didn't say anything.<br>
+							<br>
+							
+						(The busboy takes of his apron, throws it down, and exits the restaurant)<br>
+							<br>
+							
+						GEORGE: I can't believe it. He's going! He's fired!<br>
+							<br>
+							
+						ELAINE: Oh, I said it in a kidding way.<br>
+							<br>
+							
+						GEORGE: I didn't know he'd get fired.<br>
+							<br>
+							
+						JERRY: (Jokingly trying to put more pressure on Elaine and George) He'll probably kill his family over this.<br>
+							<br>
+							
+						GEORGE: What if he's waiting for me outside? He pointed at me! Did you see him point?!<br>
+							<br>
+							
+						JERRY: (Again, joking) A lot of ex-cons become busboys. They seem to gravitate twards 'em.<br>
+							<br>
+							
+						GEORGE: Was it my fault?<br>
+							<br>
+							
+						ELAINE: Was it my fault?<br>
+							<br>
+							
+						JERRY: (Doesn't have a care in the world) ..Maybe I'll try that pesto.<br>
+							<br>
+							
+						(Scene ends)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Setting: Jerry's apartment]<br>
+							<br>
+							
+						JERRY: Look, I feel bad for him too, but he'll get another job. I mean, let's face it, it's not a profession where you embellish your resume and undergo a series of grueling interviews.<br>
+							<br>
+							
+						GEORGE: (Eating a sandwich) Oh, like you really know busboys.<br>
+							<br>
+							
+						JERRY: Oh, like you do.<br>
+							<br>
+							
+						GEORGE: Hey, at least I was a camp waiter.<br>
+							<br>
+							
+						JERRY: (Scoffing) Camp.<br>
+							<br>
+							
+						GEORGE: It was a fat camp. Those kids depended on me.<br>
+							<br>
+							
+						(The intercom buzzes, Jerry talks through it)<br>
+							<br>
+							
+						JERRY: Elaine?<br>
+							<br>
+							
+						ELAINE: (Through intercom) Yeah.<br>
+							<br>
+							
+						(Jerry pushes a button on the intercom - letting her in)<br>
+							<br>
+							
+						JERRY: Busboys are always changing jobs. That's the business. I know. I work with these guys. I tallk to them in the kitchen at the comedy clubs.<br>
+							<br>
+							
+						GEORGE: Then why don't you try and get him another job?<br>
+							<br>
+							
+						JERRY: I'd love to, but I don't know anything about him. He could be one of those people that walks around the street pricking people with pins.<br>
+							<br>
+							
+						(Elaine enters)<br>
+							<br>
+							
+						ELAINE: I don't know if you people are aware of this, but I am one clever chickadee.<br>
+							<br>
+							
+						GEORGE: What? Did you get the busboy's number?<br>
+							<br>
+							
+						ELAINE: His phone's been disconnected, but I was able to obtain an address - 1324 Amsterdam Avenue, apartment 4D. (Hands George a card) Now, I did my job. (To Jerry) May I have the car keys, please?<br>
+							<br>
+							
+						(Jerry hands the car keys to Elaine)<br>
+							<br>
+							
+						GEORGE: How did you get all this?<br>
+							<br>
+							
+						ELAINE: Does the word &quot;charm&quot; mean anything to you?<br>
+							<br>
+							
+						JERRY: No. (George grabs his jacket) So now you're going to his apartment? I really think this is nuts.<br>
+							<br>
+							
+						GEORGE: (Putting his jacket on) I'd like to apologize. I want to tell him I.. I.. didn't mean to get him in trouble.<br>
+							<br>
+							
+						JERRY: You, you're going now?<br>
+							<br>
+							
+						GEORGE: Yeah, I want to see if there's anything I can do.. maybe get him another job.. maybe I'll hear of something.<br>
+							<br>
+							
+						JERRY: Maybe the fat camp. (To Elaine) You're not going?<br>
+							<br>
+							
+						ELAINE: I would, but I have to pick up Ed at the airport.<br>
+							<br>
+							
+						JERRY: I just don't think you should go alone. Can't you wait till after my set?<br>
+							<br>
+							
+						GEORGE: It'll take to long.<br>
+							<br>
+							
+						(Kramer enters)<br>
+							<br>
+							
+						JERRY: Take the K-man. A little support..<br>
+							<br>
+							
+						GEORGE: (Unsure) I don't a..<br>
+							<br>
+							
+						KRAMER: Take me where? Where?<br>
+							<br>
+							
+						(Scene ends)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Setting: An apartment building hallway]<br>
+							<br>
+							
+						(George's nervous - standing with Kramer infront of the busboy's apartment)<br>
+							<br>
+							
+						GEORGE: Look, I really appreciate your coming, but if you wouldn't mind - try not to say too much.<br>
+							<br>
+							
+						KRAMER: What am I gonna say?<br>
+							<br>
+							
+						GEORGE: I don't know.<br>
+							<br>
+							
+						KRAMER: Well, I'm not an idiot.<br>
+							<br>
+							
+						GEORGE: Certainly not.<br>
+							<br>
+							
+						KRAMER: Then we're cool.<br>
+							<br>
+							
+						GEORGE: Yeah.. yeah, we're - we're cool. (Knocks lightly. Kramer takes charge by knocking on the door louder. The busboy answers) Uh, I'm sorry to bother you, I was in the restaurant earlier and I was wondering if I could talk to you for a few minutes about what happened. (He gestures for them to come in. They obey) I hope I'm not interrupting anything. It's just that I think I may have - without realizing it - been responsible for getting you fired. (Nervously laughs) And.. and.. and I just want you to know that I didn't intend for that to happen.<br>
+							<br>
+							
+						KRAMER: (Patting George on the shoulder) He's a hell of a guy.<br>
+							<br>
+							
+						GEORGE: This is a guy I know.. Kramer.<br>
+							<br>
+							
+						(Antonio, the busboy, is watching them suspiciously)<br>
+							<br>
+							
+						KRAMER: &iquest;Habla espanol?<br>
+							<br>
+							
+						GEORGE: (To himself) Oh my God.<br>
+							<br>
+							
+						ANTONIO: Si.<br>
+							<br>
+							
+						KRAMER: &iquest;Como se dice.. waterbed?<br>
+							<br>
+							
+						GEORGE: (Interrupting) Anyway, I just wanted to let you know I'm really sorry that happened, and if I can help out in any way, I'll certainly be glad to do that. (Pause) Well, I guess that's about it.<br>
+							<br>
+							
+						KRAMER: You got anything to drink? &iquest;Agua?<br>
+							<br>
+							
+						GEORGE: Oy uy uy.. (Antonio points to the sink) We really should get going.<br>
+							<br>
+							
+						KRAMER: Let me get a glass of water. (Heads tward the sink)<br>
+							<br>
+							
+						GEORGE: Hurry up.<br>
+							<br>
+							
+						ANTONIO: (Notices that his cat is missing) Pequita? Pequita? (Starts to panic)<br>
+							<br>
+							
+						KRAMER: His cat's gone.<br>
+							<br>
+							
+						ANTONIO: (Notes the door was left wide open) La puerta esta abierta. (Starts screaming) La puerta esta abierta! (To Kramer and George) Who left the door open? (Silence) Who left the door open?! (Kramer and George look at eachother) Come on, come on! Help me look! (All three head out the door to look)<br>
+							<br>
+							
+						(Scene ends)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Setting: Antonio's apartment]<br>
+							<br>
+							
+						(All three sit in silence)<br>
+							<br>
+							
+						KRAMER: ..You know, cats run away all the time. You know, my aunt, she had a cat. Ran away. Showed up three years later.. you never know. They got things in<br>
+							<br>
+							
+						their brains where they remember where they're from. Unless, of course, somebody else starts feeding him. See, that's what you gotta worry about.<br>
+							<br>
+							
+						GEORGE: (Gestures for Kramer to shut up) Once again, Antonio, I can't even begin to say how deeply, deeply sorry I am about everything. The job, the cat.. (A lamp breaks) the lamp.<br>
+							<br>
+							
+						KRAMER: The wire was sticking out.. (Fits the two broken pieces together) Yeah.<br>
+							<br>
+							
+						GEORGE: (Hands Antonio a card) Here's my card. I'm in real estate, so, if you're ever looking for something bigger, something nicer.. (Antonio is staring at him, angered) ..maybe not right now. Anyway.. (Extends his hand for a handshake. Antonio doesn't move)<br>
+							<br>
+							
+						KRAMER: You oughta get that wire fixed. (They go to leave) I got the door. (Shuts the door, the broken lamp falls to the floor)<br>
+							<br>
+							
+						(Scene ends)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Setting: Jerry's apartment]<br>
+							<br>
+							
+						JERRY: (On the phone) George, stop worrying about this guy. It wasn't your fault.. Come on, he's not stalking you.<br>
+							<br>
+							
+						(Kramer enters)<br>
+							<br>
+							
+						KRAMER: Hey.<br>
+							<br>
+							
+						JERRY: (To Kramer) Hey. (To George) He doesn't even know where you live.. Who told you to give him your business card?.. (Intercom buzzes) That's Elaine. (Kramer buzzes her in. Jerry talks into the phone) Kramer.. (To Kramer) George wants to know when you want to look for the cat again.<br>
+							<br>
+							
+						KRAMER: It's been a week. It's up to the cat now.<br>
+							<br>
+							
+						JERRY: (Into phone) Kramer says it's up to the cat now. (To Kramer) It'll be on your conscience.<br>
+							<br>
+							
+						KRAMER: Oh? How do you figure?<br>
+							<br>
+							
+						JERRY: (Into phone) How do you figure? (To Kramer) 'Cause you're the one who left the door open.<br>
+							<br>
+							
+						KRAMER: Why was I in charge of closing the door?<br>
+							<br>
+							
+						JERRY: (Into phone) Why was he in charge of closing the door? (Irritated at the phone message relay, to Kramer) 'Cause you came in after him!<br>
+							<br>
+							
+						KRAMER: So!<br>
+							<br>
+							
+						JERRY: (Into phone) So! (To Kramer - getting even more angry) So, the last person in should close the door!<br>
+							<br>
+							
+						KRAMER: Let me talk to him.<br>
+							<br>
+							
+						JERRY: (To Kramer) Talk - call him from your house. (Elaine enters. Kramer leaves. To phone) He's calling you now.. okay. (Hangs up)<br>
+							<br>
+							
+						ELAINE: Ed's downstairs. CAn I have the car keys?<br>
+							<br>
+							
+						(Jerry pitches her the keys as she goes some tward his bathroom)<br>
+							<br>
+							
+						JERRY: No hello?<br>
+							<br>
+							
+						ELAINE: Got any asprin? (Finds some) Hello. Now, lookit, you guarantee this car will get me to the airport tomarrow? No problems?<br>
+							<br>
+							
+						JERRY: Guarantee? ..Hey, it's a car.<br>
+							<br>
+							
+						ELAINE: Because if there's even the slightest chance of any problem at all, I don't want to take it - because if I don't get this guy on a plane to Seattle and out of my life, I'm gonna kill him, and everyone who tries to stop me.<br>
+							<br>
+							
+						JERRY: (Jokingly asking) So, did you have a nice week together?<br>
+							<br>
+							
+						ELAINE: I heard a little ping in the car last time. What was that ping?<br>
+							<br>
+							
+						JERRY: There's no ping. Why are you so wacky?<br>
+							<br>
+							
+						ELAINE: Jerry, you cannot imagine how much I hate this guy.. and he hasn't even done anything! It's the situation. He's a wonderful guy, but I hate his guts!<br>
+							<br>
+							
+						JERRY: So, you two been, uh..<br>
+							<br>
+							
+						ELAIEN: No! I told him I've been having my period for the last five days! I'm sleeping all squished over on the edge of my bed.. But, I've only got fourteen hours to go. Nothing can go wrong now. I think I've taken care of everything. I've confirmed the plane reservation. I've checked the weather..<br>
+							<br>
+							
+						JERRY: What's your airport route?<br>
+							<br>
+							
+						ELAINE: I've got it all mapped out - I'm taking the tunnel.<br>
+							<br>
+							
+						JERRY: ..What about the Van Wyck?<br>
+							<br>
+							
+						ELAINE: I spoke to a cab driver. For five bucks, he turned me on to the Rockaway Boulevard shortcut.<br>
+							<br>
+							
+						JERRY: Oooh.<br>
+							<br>
+							
+						ELAINE: Now, lookit, this plane leaves at 10:15. We're getting up at about eight. That gives us enough time, right?<br>
+							<br>
+							
+						JERRY: You still using that old alarm clock?<br>
+							<br>
+							
+						ELAIEN: Oh, no, no. I bought a new one today. It's got everything - it's got everything... If you oversleep more than ten minutes, a hand comes out and slaps you in the face.<br>
+							<br>
+							
+						(Scene ends)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Setting: Night club]<br>
+							<br>
+							
+						JERRY: Flying doesn't make me nervous - driving to the airport can make you very nervous because when you're flying, when you're getting on the plane, if you miss that plane, there's no alternative. On the ground, you have options. You have buses, you have taxis, you have trains. But, when you're taking a flight, if you miss it, that's it. No airline goes, &quot;Well, you missed the flight, we do have a cannon leaving in about ten minutes. Would you be interested in that? It's not a direct cannon, you have to change cannons after you land.&quot; (Imitates cannon operator) &quot;I'm sorry, where you goin'? Chicago? (Cranks the cannon) Oh, Dallas? Alright, wait a second.. (Cranks cannon to Dallas) Dallas. That's about Dallas. Texas, anyway. You should hit Texas. Are you ready? Make sure you get out of the net immediately, because we shoot the luggage in right after you.&quot;<br>
+							<br>
+							
+						(Scene ends)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Setting: Elaine's apartment]<br>
+							<br>
+							
+						(Elaine and Ed are in bed. Elaine awakes to find out that it's 9:15 - they overslept. She gets frantic)<br>
+							<br>
+							
+						ELAINE: (Trying to wake Ed up) Get up! The alarm clock didn't go off! (Shakes him) It's 9:15! You're gonna miss the plane! It's 9:15!<br>
+							<br>
+							
+						ED: 9:15?<br>
+							<br>
+							
+						ELAINE: Yes! 9:15!<br>
+							<br>
+							
+						ED: (Going back to sleep) We'll never make it. I'll leave tomarrow.<br>
+							<br>
+							
+						ELAINE: Tomarrow?! Are you crazy? No, now, now! Let's go! (Gets his suitcase from the closet, throws it on the bed, and frantically starts packing) You get dressed! Get dressed!<br>
+							<br>
+							
+						ED: Can I shower?<br>
+							<br>
+							
+						ELAINE: Shower?! ARe you out of your mind?!<br>
+							<br>
+							
+						ED: I gotta shower. I'll feel dirty all day.<br>
+							<br>
+							
+						ELAINE: Forget the shower! The shower's out. Move it! Put your clothes on! Put your clothes on! (Pulls out drawers of clothes, turning them over in the suitcase. He walks tward the door) Where are you going?<br>
+							<br>
+							
+						ED: The kitchen.<br>
+							<br>
+							
+						ELAINE: The kitchen?!<br>
+							<br>
+							
+						ED: I've got a bag of cashews in there.<br>
+							<br>
+							
+						ELAINE: They're not making it! Let's get your pants on!<br>
+							<br>
+							
+						ED: What's the big deal if we don't make it? I'll just go tomarrow or the next day.<br>
+							<br>
+							
+						ELAINE: No! You have your ticket! You have to go now!<br>
+							<br>
+							
+						ED: I'll never make it.<br>
+							<br>
+							
+						ELAINE: Don't say that!<br>
+							<br>
+							
+						ED: But it takes forty-five minutes to get there. That'll only leave me five minutes to get to the plane.<br>
+							<br>
+							
+						ELAINE: Shut up and pack!<br>
+							<br>
+							
+						ED: And what if I don't make the plane? You'll have already left. Then what will I do?<br>
+							<br>
+							
+						ELAINE: You're talking too much!<br>
+							<br>
+							
+						ED: Where's my sweater?<br>
+							<br>
+							
+						ELAINE: What?!<br>
+							<br>
+							
+						ED: My brown sweater.<br>
+							<br>
+							
+						ELAINE: What? What sweater?<br>
+							<br>
+							
+						ED: My brown sweater.<br>
+							<br>
+							
+						ELAINE: You didn't bring a brown sweater.<br>
+							<br>
+							
+						ED: I brought a brown sweater.<br>
+							<br>
+							
+						ELAINE: Here! Here! You want a brown sweater?! (Recahes into one of her drawers, and grabs a brown sweater, then packs it) You got a brown sweater!<br>
+							<br>
+							
+						ED: That's not mine. I can't take your sweater.<br>
+							<br>
+							
+						ELAINE: It's brown! (Takes clothes still on the hangers, and dumps them into the suitcase)<br>
+							<br>
+							
+						ED: What are you doing?!<br>
+							<br>
+							
+						ELAINE: NO time for folding.. (Looks around) I think that's it. (Zips up the suitcase)<br>
+							<br>
+							
+						ED: My shoes. You packed my shoes.<br>
+							<br>
+							
+						ELAINE: Shoes? Shoes?! Shoes?! Shoes weren't invented till the fourth century! People walked around for thousands of years without them! (Puts her coat on over her nightie. He picks up his suitcase, she grabs it from him, then pushes him out of her way) I got this. Let's go!<br>
+							<br>
+							
+						(Scene ends)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Setting: Jerry's apartment]<br>
+							<br>
+							
+						JERRY: Anywhere in the city?<br>
+							<br>
+							
+						GEORGE: Anywhere in the city - I'll tell you the best public toilet.<br>
+							<br>
+							
+						JERRY: Okay.. Fifty-fourth and Sixth?<br>
+							<br>
+							
+						GEORGE: Sperry Rand Building. 14th floor, Morgan Apparel. Mention my name - she'll give you the key.<br>
+							<br>
+							
+						JERRY: Alright.. Sixty-fifth and Tenth.<br>
+							<br>
+							
+						GEORGE: (Scoffs) ARe you kidding? Lincoln Center. Alice Tully Hall, the Met. Magnificent facilities.<br>
+							<br>
+							
+						(Elaine enters. She's still wearing her nightclothes under her coat. Her hair is messed up. She's been through quite an ordeal)<br>
+							<br>
+							
+						ELAINE: (Slow, as if remember a dream) I never new I could drive like that. I was going faster than I've ever gone before, and yet, it all seemed to be happening in slow motion. I was seeing three and four moves ahead, weaving in and out of lanes like an Olympic skier on a gold metal run. I knew I was challenging the very laws of physics. At Queens Boulevard, I took the shoulder. At Jewel Avenue, I used the median. I had it. I was there.. and then.. I hit the Van Wyck. They say no one's ever beaten the Van Wyck, but gentlemen, I tell you this - I came as close as anyone ever has. And if it hadn't been for that five-car-pile-up on Rockaway Boulevard, that numbskull would be on a plane for Seattle right now instead of looking for a parking space downstairs.<br>
+							<br>
+							
+						(Kramer enters)<br>
+							<br>
+							
+						KRAMER: ..The busboy's coming! The busboy's coming!<br>
+							<br>
+							
+						GEORGE: The busboy's coming?<br>
+							<br>
+							
+						JERRY: You don't mean here?<br>
+							<br>
+							
+						KRAMER: Yeah. I just buzzed him in. He's on his way up..<br>
+							<br>
+							
+						GEORGE: He's coming up?! (Moves to the door) I'll check you out later.<br>
+							<br>
+							
+						JERRY: Where are you going?<br>
+							<br>
+							
+						GEORGE: I'm the one he wants! He's coming to settle the score.<br>
+							<br>
+							
+						JERRY: (Trying to get George and Kramer out) No. You three all know each other. There's no point in me getting involved at this stage of the game.<br>
+							<br>
+							
+						KRAMER: No, he's not going to do anything. I guarantee it.<br>
+							<br>
+							
+						GEORGE: Oh, the hell with it. Let him kill me. I..<br>
+							<br>
+							
+						(There's a knock in the hallway)<br>
+							<br>
+							
+						KRAMER: Antonio. In here!<br>
+							<br>
+							
+						(Antonio enters)<br>
+							<br>
+							
+						GEORGE: (Nervous, his voice cracks) Hey, Antonio. How's it going?<br>
+							<br>
+							
+						(Antonio crosses over to George, and gives him a hug)<br>
+							<br>
+							
+						ANTONIO: Three nights ago, a gas main beneath the restaurant exploded, killing five people in my section, including the busboy who replaced me. If I am not fired that night because of you and your thoughtless, stupid, insensitive remarks, it would have been me. You saved my life. (Hugs him again)<br>
+							<br>
+							
+						GEORGE: (Trying to be modest) Ah, come on..<br>
+							<br>
+							
+						(The intercom buzzes)<br>
+							<br>
+							
+						ELAINE: (Into the intercom) Yeah?<br>
+							<br>
+							
+						ED: It's Eddie.<br>
+							<br>
+							
+						ELAINE: He's coming up. (Buzzes him in) He's coming up..<br>
+							<br>
+							
+						ANTONIO: And that very same night of the accident, while looking for Pequita, I found a job in a restaurant where they pay me almost twice what I was making before - and when I returned to the apartment, Pequita, perhaps frightened from the explosion, had miraculously returned. Well, but now, I must go, for today I am starting my new and wonderful job. And I am very late. Thank you, thank you, thank you all. (Leaves)<br>
+							<br>
+							
+						(Everyone ad-libs congratulations to George. Then, we hear a fight erupting from the hallway)<br>
+							<br>
+							
+						ED: Hey, watch were you're going. You almost knocked my head off!<br>
+							<br>
+							
+						ANTONIO: Hey, why don't you watch where you're going, okay? 'Cause you bumped into me!<br>
+							<br>
+							
+						ED: Who do you think you're talking to, pal?<br>
+							<br>
+							
+						ANTONIO: Hey, get your hands off me!<br>
+							<br>
+							
+						ED: Go to hell!<br>
+							<br>
+							
+						(Antonio screams out profanity in Spanish, then we hear them getting into a serious fight)<br>
+							<br>
+							
+						(Scene ends)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Setting: Coffee shop]<br>
+							<br>
+							
+						JERRY: He'll get another job. He's a busboy!<br>
+							<br>
+							
+						GEORGE: It won't for a while. At least not until after the cast comes off.<br>
+							<br>
+							
+						JERRY: It was that fall down the stairs. That's what did it.<br>
+							<br>
+							
+						GEORGE: That's not how it happened. It's when he fell on him with his knee.<br>
+							<br>
+							
+						ELAINE: Oh, that was awful. Poor Antonio. (Waiter hands Elaine two bags of food to go) ..Thanks.<br>
+							<br>
+							
+						GEORGE: So, much longer?<br>
+							<br>
+							
+						ELAINE: Till when - till he goes back to Seattle, or till he can feed himself?<br>
+							<br>
+							
+						GEORGE: (Not wanting to make Elaine mad) I guess it's not important.<br>
+							<br>
+							
+						ELAINE: Take care of yourselves. (Leaves)<br>
+							<br>
+							
+						GEORGE: I should probably get going too. If I don't feed Pequita by seven, she goes all over everything.. take it easy.<br>
+							<br>
+							
+						JERRY: Yeah.. (Takes a bite of his sandwich as the waiter starts cleaning off the table) How ya doing?<br>
+							<br>
+							
+						(Scene ends)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Setting: Night club]<br>
+							<br>
+							
+						JERRY: First of all, I can't believe that people actually do fight. People have fist fights in life. I can't really believe that we have boxing either. It's really kind of an amazing thing. To me, the problem with boxing is - you have two guys having a fight that have no prior argument. Why don't they have the boxers come into the ring in little cars, drive around a bit, have a little accident? They get out, &quot;Didn't you see my signal?&quot; &quot;Look at that fender!&quot; ..Then you'd see a real fight.<br>
+							<br>
+							<br>
+							
+						END OF SHOW. </td>
+						</tr>
+						<tr height="6">
+							<td class="bottom2" width="645" height="6"></td>
+						</tr>
+						<tr>
+							<td width="645">
+								<div align="center">
+									<font size="-1">Copyright 2006 seinology.com | All Rights Reserved | Designed by 13erla</font></div>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+		<p></p>
+	</body>
+
+</html>

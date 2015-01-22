@@ -1,0 +1,1472 @@
+<tdOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+<html>
+
+	<head>
+		<meta http-equiv="content-type" content="text/html;charset=ISO-8859-1">
+		<meta name="description" content="Top Source for Seinfeld">
+		<meta name="keywords" content="seinfeld, sienfeld, Jerry Seinfeld, Julia Louis Dreyfus, Jason Alexander, Michael Richards, Kramer, George, Costanza, Elaine Benes, morty, Larry David">
+		<title>Seinology.com :: Scripts :: 20-The Pen</title>
+	<link rel='stylesheet' href='/stylesheet.css' type='text/css'>
+	</head>
+
+	<body>
+			<table align="center" width="787" border="0" cellspacing="0" cellpadding="0">
+				<tr>
+					<td><font size="-2" color="red">Seinology.com - </font><font size="-3" color="black">Where Seinfeld Content and Accuracy Matter Most. Seinfeld scripts in pdf form, Seinfeld episode video clips, Seinfeld episode audio clips, Jerry Seinfeld appearances, Julia Louis-Dreyfus appearances, Michael Richards appearances, Jason Alexander appearances, Seinfeld discussion Forum, Seinfeld Where are they Now? Seinlanguage Newsletter, Popular Seinfeld Lists, Seinfeld episode standup, Seinfeld episode guide, Seinfeld fan fiction. Seinfeld content all on one domain. Seinology.com enjoy your stay.</font></td>
+				</tr>
+			</table>
+		
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr height="100">
+				<td class="logo"></td>
+			</tr>
+			<tr><td class="ads" align="center" background=#8694fa>
+				<script type="text/javascript"><!--
+google_ad_client = "pub-1924026976931416";
+google_ad_width = 728;
+google_ad_height = 90;
+google_ad_format = "728x90_as";
+google_ad_type = "text";
+google_ad_channel = "";
+google_color_border = "FFFFFF";
+google_color_bg = "8694fa";
+google_color_link = "0000FF";
+google_color_text = "000000";
+google_color_url = "002E3F";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></td></tr>
+		</table>
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr>
+				<td valign="top" width="136">
+					<table width="136" border="0" cellspacing="0" cellpadding="0">
+						<tr height="24">
+							<td class="navigation">
+								<div align="center">
+									
+									<b>Navigation</b></div>
+							</td>
+						</tr>
+						<tr height="199">
+							<td class="spacer1" valign="top" width="136" height="199">
+								<div align="center">
+									<font size="-1"><a href="http://www.seinology.com">Home</a><br>
+										<a href="http://board.seinology.com">Forum</a><br>
+										<a href="http://www.seinology.com/av.shtml">Audio/Video</a><br>
+										<a href="http://www.seinology.com/scripts.shtml">Scripts</a><br>
+										<a href="http://www.seinology.com/survivor.shtml">Survivor</a><br>
+										<a href="http://www.seinology.com/fanfics.shtml">Fan Fiction</a><br>
+										<a href="http://www.seinology.com/gallery/">Gallery</a><br>
+										<a href="http://www.seinology.com/newsletter.shtml">Newsletter</a><br>
+										<a href="http://www.seinology.com/lists.shtml">Lists</a><br>
+										<a href="http://www.seinology.com/epguide.shtml">Episode Guide</a><br>
+										<a href="http://www.seinology.com/links.shtml">Links</a><br>
+										<a href="http://www.seinology.com/faqother.shtml">Faq + others</a><br>
+										<a href="http://www.seinology.com/legal.shtml">Legal</a></font></div>
+							</td>
+						</tr>
+						
+						<tr>
+							<td class="nav2" width="136">
+							<div align="center"><b>Search</b></div></td>
+						</tr>
+						<tr>
+							<td class="spacer1" width="136" valign="top"><div align="center"><form method="get" action="http://www.seinology.com/search/search.cgi">
+<p><label for="fdse_Match">Match</label><br>
+<select name="Match" id="fdse_Match" size="1">
+<option value="1">All</option>
+<option value="0">Any</option>
+<option value="2">Phrase</option>
+</select></p>
+<p><label for="fdse_Realm">Where?</label><br>
+<select name="Realm" id="fdse_Realm" size="1">
+<option selected="selected" value="All">EntireSite</option>
+<option value="Ep Guide">Ep Guide</option>
+<option value="Images">Images</option>
+<option value="Lists">Lists</option>
+<option value="Newsletters">Newsletters</option>
+<option value="Scripts">Scripts</option>
+<option value="Notes..Nothing">Notes..Nothing</option>
+</select></p>
+<p><input type="text" name="Terms" size="14" id="fdse_Terms"><br>
+<input type="submit" class="submit" name="submitButtonName" value="Search"></p>
+</div></form></td>
+						</tr>
+						<tr><td class="bottom" width="136" height="10" valign="top">
+						</td>
+						</tr>
+					</table>
+				</td>
+				<td width="4"></td>
+				<td valign="top" width="645">
+					<table width="645" border="0" cellspacing="0" cellpadding="0">
+						<tr height="18">
+							<td width="645" height="35" class="bar">
+								<div align="center">
+									<b><font size="+2" color="black">Script</font></b></div>
+							</td>
+						</tr>
+						<tr height="362">
+							<td class="spacer2" valign="top" width="645" height="362">
+
+						<p><font size="-2">Episode 20 - The Pen<br>
+							
+						pc: 305, season 3, episode 3<br>
+							
+						Broadcast date: October 2, 1991<br>
+							<br>
+							
+						Written By Larry David<br>
+							
+						Directed By Tom Cherones<br>
+							<br>
+							
+						-------------------------------------------------------------------------------<br>
+							<br>
+							
+						The Cast<br>
+							
+						Regulars:<br>
+							
+						Jerry Seinfeld ....................... Jerry Seinfeld<br>
+							
+						Jason Alexander .................. George Costanza<br>
+							
+						Julia Louis-Dreyfus .............. Elaine Benes<br>
+							
+						Michael Richards ................. Kramer<br>
+							<br>
+							
+						Guest Stars:<br>
+							<br>
+							
+						Ann Morgan Guilbert .......... Evelyn<br>
+							
+						Annie Korzen ...................... Doris Klompus<br>
+							
+						Magda Harout .................... Stella<br>
+							
+						Roger Nolan ........................ The Chiropractor<br>
+							
+						Tucker Smallwood ............... The Photographer<br>
+							<br>
+							
+						rc: Morty, Helen, Uncle Leo, Klompus<br>
+							<br>
+							
+						==================================================================<br>
+							<br>
+							<br>
+							
+						[Setting: Night club]<br>
+							<br>
+							
+						JERRY: I have never seen an old person in a new bathing suit in my life. I don't know where they get their bathing suits, but my father has bathing suits from other centuries. My parents live in Florida, and if you go down there and you forget your bathing suits then they want you to wear one of theirs. You know how that gets? &quot;You need trunks son? I've got trunks for you. You can wear my trunks.&quot; Fathers don't wear bathing suits, they wear trunks. It's kind of the same thing a tree would wear if it went swimming. So I get in the water with in thing and it's like floating around me somewhere. Did you ever put on a bathing suit that you don't even know exactly where you are inside the bathing suit? You bump into somebody you know: &quot;No I'm parasailing, I'm waiting for the boat to come back.&quot;<br>
+							<br>
+							<br>
+							<br>
+							
+						[Setting: Florida, evening, condo of Jerry's parents]<br>
+							<br>
+							
+						HELEN: (looking by the window) They were supposed to be here at 7:30. Call the airlines again.<br>
+							<br>
+							
+						MORTY: (searching in a kitchen drawer) What happened to the scotch tape? Who takes the scotch tape? Nobody returns anything around here.<br>
+							<br>
+							
+						HELEN: Oh I think that's them!<br>
+							<br>
+							
+						MORTY: You what I'll do next time? I'll hide it so nobody can find it.<br>
+							<br>
+							
+						(Jerry and Elaine enter)<br>
+							<br>
+							
+						ALL: Hi, welcome, greetings, hugs, etc.<br>
+							<br>
+							
+						MORTY: Welcome to Florida!<br>
+							<br>
+							
+						ELAINE: Hi Mr. Seinfeld! (hug)<br>
+							<br>
+							
+						JERRY: Hey, there's the old man! (hug)<br>
+							<br>
+							
+						MORTY: So, what took you so long?<br>
+							<br>
+							
+						JERRY: Ahh, we waited 35 minutes in the rent-a-car place.<br>
+							<br>
+							
+						HELEN: I don't know why you had to rent a car. We would have picked you up.<br>
+							<br>
+							
+						JERRY: What's the difference?<br>
+							<br>
+							
+						HELEN: You could have used our car.<br>
+							<br>
+							
+						JERRY: I don't wanna use your car.<br>
+							<br>
+							
+						HELEN: What's wrong with our car?<br>
+							<br>
+							
+						JERRY: Nothing. It's a fine car. What if you wanna use it?<br>
+							<br>
+							
+						HELEN: We don't use it.<br>
+							<br>
+							
+						MORTY: What are you talking? We use it.<br>
+							<br>
+							
+						HELEN: If you were using it, we wouldn't use it.<br>
+							<br>
+							
+						JERRY: So what would you do? You'd hitch?<br>
+							<br>
+							
+						HELEN: How much is a rent-a-car?<br>
+							<br>
+							
+						JERRY: I don't know. 25 bucks a day.<br>
+							<br>
+							
+						HELEN: What? You're crazy.<br>
+							<br>
+							
+						MORTY: Plus the insurance.<br>
+							<br>
+							
+						JERRY: Oh, I didn't get the insurance.<br>
+							<br>
+							
+						MORTY: How could you not get the insurance?<br>
+							<br>
+							
+						HELEN: We'll pay for the car.<br>
+							<br>
+							
+						JERRY: You're not paying for it.<br>
+							<br>
+							
+						HELEN: Morty. (asking him to back her. He doesn't)<br>
+							<br>
+							
+						JERRY: God it's so hot in here. Why don't you put on the air conditioning?<br>
+							<br>
+							
+						HELEN: You don't need the air conditioner. So, you have your speech all ready?<br>
+							<br>
+							
+						JERRY: It's not a speech. Do I have to make a speech?<br>
+							<br>
+							
+						HELEN: Of course, they're giving a testimonial for your father. You could do your comic routines.<br>
+							<br>
+							
+						JERRY: (ironically) Oh yeah, that will go over real well with that crowd.<br>
+							<br>
+							
+						ELAINE: (looking by the window) Ooh, you have a lake?<br>
+							<br>
+							
+						JERRY: The lake isn't real.<br>
+							<br>
+							
+						HELEN: The lake is real.<br>
+							<br>
+							
+						MORTY: Are you kidding? They built the lake.<br>
+							<br>
+							
+						HELEN: But it's real. It's water.<br>
+							<br>
+							
+						(Jerry and Elaine take their luggages to the guest room)<br>
+							<br>
+							
+						HELEN: Where are you going with those?<br>
+							<br>
+							
+						JERRY: I'm gonna put Elaine's stuff in here.<br>
+							<br>
+							
+						HELEN: Don't sleep in there. You can you use the bedroom.<br>
+							<br>
+							
+						ELAINE: I can't take your bedroom.<br>
+							<br>
+							
+						HELEN: I'm up at 6 o'clock in the morning.<br>
+							<br>
+							
+						ELAINE: I can't kick you out of your bed.<br>
+							<br>
+							
+						HELEN: We don't even sleep.<br>
+							<br>
+							
+						JERRY: Ma.<br>
+							<br>
+							
+						HELEN: But this is sofa bed, you'll be uncomfortable.<br>
+							<br>
+							
+						JERRY: (to Morty) What about you?<br>
+							<br>
+							
+						MORTY: Why should I be comfortable?<br>
+							<br>
+							
+						JERRY: (to Helen) What about him?<br>
+							<br>
+							
+						HELEN: Don't worry, he's comfortable.<br>
+							<br>
+							
+						MORTY: I'll sleep standing up. I'll be fine.<br>
+							<br>
+							
+						HELEN: Will you stop?<br>
+							<br>
+							
+						ELAINE: Yeah, I'll just stay in here. (goes in the guest room)<br>
+							<br>
+							
+						HELEN: Jerry, (asking Jerry to go in the kitchen so Elaine won't hear) Jerry. You don't have to stay on the couch on my account. The two of you could stay in there together.<br>
+							<br>
+							
+						JERRY: Na, that's not such a good idea.<br>
+							<br>
+							
+						HELEN: Well I tought that...<br>
+							<br>
+							
+						JERRY: Not now. She's right inside.<br>
+							<br>
+							
+						HELEN: (quieter) What happened?<br>
+							<br>
+							
+						JERRY: I don't know. We decided we don't really work as a couple.<br>
+							<br>
+							
+						HELEN: What does that mean?<br>
+							<br>
+							
+						JERRY: Well...<br>
+							<br>
+							
+						MORTY: (comes to the kitchen and with a loud voice) Why are you whispering?<br>
+							<br>
+							
+						JERRY: Shh! Nothing, nothing.<br>
+							<br>
+							
+						HELEN: Elaine...<br>
+							<br>
+							
+						MORTY: (still loud) What about her?<br>
+							<br>
+							
+						JERRY: (tries to explain to Morty but Elaine then comes out of the guest room to get more luggage, so he fakes a conversation) ...but you know, look at the sun-dried tomatoes. Where were they five years ago? It just goes to show you. You never know what... huh (waiting for Elaine to go back in the guest room) you know... huh... What could happen to a vegetable. It could just take right off at any time. (Morty finally gets it. So Jerry goes on quieter) We've tried all kind of arrangements, but we can't seem to be friends when we sleep together.<br>
+							<br>
+							
+						MORTY: (Morty goes on louder! Did he ever whisper in any episode? :-) Why do you need more friends? You've got plenty of friends.<br>
+							<br>
+							
+						HELEN: He's an idealist.<br>
+							<br>
+							
+						MORTY: What the hell are you looking for?<br>
+							<br>
+							
+						JERRY: I'm looking. That's the point. I like looking.<br>
+							<br>
+							
+						HELEN: He likes looking.<br>
+							<br>
+							
+						MORTY: So look.<br>
+							<br>
+							
+						HELEN: But how long can you look?<br>
+							<br>
+							
+						JERRY: I'm going for the record.<br>
+							<br>
+							
+						(Morty walks away with a face like he disagrees with Jerry)<br>
+							<br>
+							
+						HELEN: You know your father wouldn't say so but he's really glad you came.<br>
+							<br>
+							
+						JERRY: Oh, come on.<br>
+							<br>
+							
+						HELEN: This is a big thing for him. Outgoing president of the condo association.<br>
+							<br>
+							
+						(knock on door: this is Jack and Doris, neigboors)<br>
+							<br>
+							
+						MORTY: Aha!<br>
+							<br>
+							
+						DORIS: So they arrived safely.<br>
+							<br>
+							
+						MORTY: (to Jerry) You remember Jack and Doris?<br>
+							<br>
+							
+						JERRY: Nice to see you. This is Elaine.<br>
+							<br>
+							
+						ELAINE: Hi. Nice to meet you.<br>
+							<br>
+							
+						JACK: So Jerry, you came all the way down here for this?<br>
+							<br>
+							
+						ELAINE: And scuba diving.<br>
+							<br>
+							
+						HELEN: Scuba diving? Who's going scuba diving?<br>
+							<br>
+							
+						JERRY: We're going scuba diving. We'll be back in time.<br>
+							<br>
+							
+						HELEN: What do you have to go scuba diving for?<br>
+							<br>
+							
+						JERRY: For fun.<br>
+							<br>
+							
+						HELEN: For fun?<br>
+							<br>
+							
+						MORTY: Jack have some spong cake.<br>
+							<br>
+							
+						JACK: No. thanks, no.<br>
+							<br>
+							
+						MORTY: Jack is emceeing tomorrow. He's in charge of the whole thing.<br>
+							<br>
+							
+						JACK: So Jerry, your mother told me you're gonna do one your little comedy skits tomorrow?<br>
+							<br>
+							
+						JERRY: I don't think so.<br>
+							<br>
+							
+						JACK: No? Listen Morty you wanna settle up for last night? (Morty nods) All right. I owe you 19.45$ (he gets his checks book and a pen from his pocket).<br>
+							<br>
+							
+						MORTY: What did you have? You had the minute steak?<br>
+							<br>
+							
+						JACK: Yeah.<br>
+							<br>
+							
+						MORTY: Did you have a coke or what?<br>
+							<br>
+							
+						JACK: I did NOT have a coke.<br>
+							<br>
+							
+						MORTY: Somebody had a coke.<br>
+							<br>
+							
+						HELEN: Oh I had a coke.<br>
+							<br>
+							
+						DORIS: And I had the scampi.<br>
+							<br>
+							
+						JACK: So that's 17.10$ and the tax and the tip.<br>
+							<br>
+							
+						MORTY: All right. Make it 20 bucks.<br>
+							<br>
+							
+						JACK: It's: 19.45$, Morty. (he gives him the check)<br>
+							<br>
+							
+						MORTY: 19.45$ ?<br>
+							<br>
+							
+						JACK: See? You know your father. He can't get a write to the penny, but that's why he was such a good president.<br>
+							<br>
+							
+						(Jerry notices Klompus's pen)<br>
+							<br>
+							
+						JERRY: What kind of pen is that?<br>
+							<br>
+							
+						JACK: This pen?<br>
+							<br>
+							
+						JERRY: Yeah.<br>
+							<br>
+							
+						JACK: This is an astronaut pen. It writes upside down. They use this in space.<br>
+							<br>
+							
+						JERRY: Wow! That's the astronaut pen. I heard about that. Where did you get it?<br>
+							<br>
+							
+						JACK: Oh it was a gift.<br>
+							<br>
+							
+						JERRY: Cause sometimes I write in bed and I have to turn and lean on my elbow to make the pen work.<br>
+							<br>
+							
+						JACK: Take the pen.<br>
+							<br>
+							
+						JERRY: Oh no.<br>
+							<br>
+							
+						JACK: Go ahead.<br>
+							<br>
+							
+						JERRY: I couldn't<br>
+							<br>
+							
+						JACK: Come on, take the pen!<br>
+							<br>
+							
+						JERRY: I can't take it.<br>
+							<br>
+							
+						JACK: Do me a personal favor!<br>
+							<br>
+							
+						JERRY: No, I'm not...<br>
+							<br>
+							
+						JACK: Take the pen!<br>
+							<br>
+							
+						JERRY: I cannot take it!<br>
+							<br>
+							
+						JACK: Take the pen!<br>
+							<br>
+							
+						JERRY: Are you sure?<br>
+							<br>
+							
+						JACK: Positive! Take the pen!<br>
+							<br>
+							
+						JERRY: O.K. Thank you very much. Thank you. Gee, boy!<br>
+							<br>
+							
+						HELEN: Jack, what are you doing?<br>
+							<br>
+							
+						JACK: Stop it!<br>
+							<br>
+							
+						DORIS: Jack, we should go. (they go to the door) It was nice meeting you.<br>
+							<br>
+							
+						ELAINE: Mmm, nice to meet you.<br>
+							<br>
+							
+						JERRY: Thanks again.<br>
+							<br>
+							
+						JACK: Come on!<br>
+							<br>
+							
+						DORIS: (to Morty) She's adorable. (they leave)<br>
+							<br>
+							
+						HELEN: (as soon as the door's closed) What did you take his pen for?<br>
+							<br>
+							
+						JERRY: What he gave it to me.<br>
+							<br>
+							
+						HELEN: You didn't have to take it.<br>
+							<br>
+							
+						MORTY: Oh my God! She's gotta make a big deal out of everything.<br>
+							<br>
+							
+						JERRY: He offered it to me.<br>
+							<br>
+							
+						HELEN: Because you made such a big fuss about it.<br>
+							<br>
+							
+						JERRY: I liked it. Should I have said I didn't like it?<br>
+							<br>
+							
+						HELEN: You shouldn't have said anything. What did you expect him to do? (the camera shows Elaine shaking her head at their dispute)<br>
+							<br>
+							
+						JERRY: He could have said: &quot;Thank you, I like it too&quot; and put it back in his pocket.<br>
+							<br>
+							
+						HELEN: He loves that pen.<br>
+							<br>
+							
+						MORTY: Oh come on!<br>
+							<br>
+							
+						HELEN: He talks about it all the time. Every time he takes it out he goes on and on about how it writes upside down, how the astronauts use it.<br>
+							<br>
+							
+						JERRY: If he likes it so much, he never should have offered it.<br>
+							<br>
+							
+						HELEN: He didn't think you'd accpet.<br>
+							<br>
+							
+						JERRY: Well, he was wrong.<br>
+							<br>
+							
+						HELEN: I know his wife. She has some mouth on her. She'll tell everyone in the condo now that you made him give you the pen. They're talking about it right now. (again we see Elaine smiling at their argument)<br>
+							<br>
+							
+						JERRY: So you want me to return it?<br>
+							<br>
+							
+						HELEN: Yes.<br>
+							<br>
+							
+						MORTY: He's not gonna return the pen. That's ridiculous.<br>
+							<br>
+							
+						JERRY: Hey I don't even want the pen now!<br>
+							<br>
+							
+						MORTY: Jack can afford to give away a pen with all his money. Believe me. He gives me a check for 19.45. He didn't have a Coke. Ho, ho, ho!<br>
+							<br>
+							
+						ELAINE: Here, let me see it. (She takes a pad to try the pen) Hey, it writes upside down.<br>
+							<br>
+							
+						(scene ends)<br>
+							<br>
+							<br>
+							<br>
+							
+						[setting: condo's guest room]<br>
+							<br>
+							
+						(Elaine is lying on the sofa bed. It's too hot. She can't fall asleep)<br>
+							<br>
+							
+						(knock on door)<br>
+							<br>
+							
+						ELAINE: Come in.<br>
+							<br>
+							
+						JERRY: Are you O.K. in here?<br>
+							<br>
+							
+						ELAINE: Why is it so hot in here? How can they sleep like this?<br>
+							<br>
+							
+						JERRY: It's only for three days. Today's over and we have tommorow. We leave on Sunday. It's one day, really.<br>
+							<br>
+							
+						ELAINE: Oh man. What is with this bar? It's right in my back. It's killing me.<br>
+							<br>
+							
+						JERRY: Oh you wanna switch? I'm sleeping on a love seat. I've got my feet up in the air like I'm in a space capsule.<br>
+							<br>
+							
+						ELAINE: I am never gonna fall asleep.<br>
+							<br>
+							
+						JERRY: Oh, no don't say that. You'll jinx me.<br>
+							<br>
+							
+						ELAINE: How can they not put the air conditioning on?<br>
+							<br>
+							
+						JERRY: They're nuts with temperature.<br>
+							<br>
+							
+						ELAINE: This bar is right in my back! It's making a dent.<br>
+							<br>
+							
+						JERRY: How about that guy writing a check for 19.45?<br>
+							<br>
+							
+						ELAINE: I'm sweating here. I'm in bed, sweating.<br>
+							<br>
+							
+						JERRY: It's one day. Half a day, really. I mean you substract showers and meals, it's like twenty minutes. It will go by like that. (snapping his fingers)<br>
+							<br>
+							
+						(scene ends)<br>
+							<br>
+							<br>
+							<br>
+							
+						[setting: condo, morning]<br>
+							<br>
+							
+						(Jerry and Morty are sitting at the table, Helen is at the counter. Elaine's still sleeping? Well, she's still in the guest room.)<br>
+							<br>
+							
+						MORTY: Stay on 95 South to Biscayne Boulevard. Then you make a left turn. Put you blinker on immediatly, there's an abutment there. Then you're gonna merge over very quickly, but stay on Biscayne. Don't get off Biscayne. You understand me?<br>
+							<br>
+							
+						JERRY: Stay on Biscayne.<br>
+							<br>
+							
+						HELEN: You're going underwater?<br>
+							<br>
+							
+						JERRY: Yes. Generally that's where scuba diving is done.<br>
+							<br>
+							
+						HELEN: What do you have to go underwater for? What's down there that's so special?<br>
+							<br>
+							
+						JERRY: What's so special up here?<br>
+							<br>
+							
+						(Elaine open the guest room's door and she's in pain)<br>
+							<br>
+							
+						ELAINE: Oh!<br>
+							<br>
+							
+						(everybody get up and walk to her)<br>
+							<br>
+							
+						HELEN: What's the matter?<br>
+							<br>
+							
+						ELAINE: My back.<br>
+							<br>
+							
+						HELEN: What happened?<br>
+							<br>
+							
+						ELAINE: That... That bed. The bar was right in my back.<br>
+							<br>
+							
+						HELEN: (to Jerry) I told you to let us sleep in there.<br>
+							<br>
+							
+						JERRY: Then YOU would be hunched over.<br>
+							<br>
+							
+						ELAINE: I don't even know if I can go scuba diving.<br>
+							<br>
+							
+						JERRY: You can't go?<br>
+							<br>
+							
+						HELEN: So stay home.<br>
+							<br>
+							
+						ELAINE: You can go.<br>
+							<br>
+							
+						JERRY: Without you? That's the whole reason you came down here.<br>
+							<br>
+							
+						HELEN: Don't go.<br>
+							<br>
+							
+						JERRY: You sure?<br>
+							<br>
+							
+						MORTY: Maybe you should see a doctor.<br>
+							<br>
+							
+						JERRY: We'll stay in a hotel tonight.<br>
+							<br>
+							
+						ELAINE: (whispering to Jerry) Yes!<br>
+							<br>
+							
+						HELEN: No, we'll stay in there.<br>
+							<br>
+							
+						JERRY: Why don't you get a new sofa?<br>
+							<br>
+							
+						MORTY: Nobody uses it.<br>
+							<br>
+							
+						JERRY: I'm buying you a new sofa.<br>
+							<br>
+							
+						HELEN: Oh Jerry, don't talk crazy.<br>
+							<br>
+							
+						ELAINE: Mrs Seinfeld, please. I am begging you. Put the air conditioner on.<br>
+							<br>
+							
+						HELEN: You're hot?<br>
+							<br>
+							
+						ELAINE: I've lost 6 pounds.<br>
+							<br>
+							
+						HELEN: I don't even know how to work it.<br>
+							<br>
+							
+						MORTY: I keep telling her it's like an oven in here.<br>
+							<br>
+							
+						(Evelyn, a neighboor, enters)<br>
+							<br>
+							
+						EVELYN: Is everybody up?<br>
+							<br>
+							
+						JERRY: Hi. How are you?<br>
+							<br>
+							
+						EVELYN: Hello Jerry.<br>
+							<br>
+							
+						JERRY: Evelyn, this is Elaine.<br>
+							<br>
+							
+						ELAINE: (with pain) Hi Evelyn.<br>
+							<br>
+							
+						EVELYN: Jerry you got thin.<br>
+							<br>
+							
+						JERRY: Too thin?<br>
+							<br>
+							
+						HELEN: Oh stop worrying so much about how you look.<br>
+							<br>
+							
+						EVELYN: So where's the new pen? (everybody's surprised by this question)<br>
+							<br>
+							
+						JERRY: (Jerry scratches his head and acts like he's not sure what she's talking about) What?<br>
+							<br>
+							
+						EVELYN: The pen. The one Jack Klompus gave you.<br>
+							<br>
+							
+						HELEN: How did you know that?<br>
+							<br>
+							
+						EVELYN: Blanche told me.<br>
+							<br>
+							
+						HELEN: Blanche?<br>
+							<br>
+							
+						EVELYN: That's some good pen. It writes upside down.<br>
+							<br>
+							
+						ELAINE: The astronauts use them.<br>
+							<br>
+							
+						HELEN: What did Blanche say?<br>
+							<br>
+							
+						EVELYN: I don't know. She said Jerry wanted the pen.<br>
+							<br>
+							
+						JERRY: I never really wanted the pen.<br>
+							<br>
+							
+						MORTY: He gave him the pen.<br>
+							<br>
+							
+						HELEN: Morty.<br>
+							<br>
+							
+						EVELYN: Why you don't like the pen?<br>
+							<br>
+							
+						JERRY: No, no, I...<br>
+							<br>
+							
+						EVELYN: Cause if you don't like it, give it back to him.<br>
+							<br>
+							
+						HELEN: Is that what she said?<br>
+							<br>
+							
+						EVELYN: Who?<br>
+							<br>
+							
+						HELEN: Blanche.<br>
+							<br>
+							
+						EVELYN: What are you talking about?<br>
+							<br>
+							
+						(The phone rings, Helen answers.)<br>
+							<br>
+							
+						HELEN: Hello? Oh hello Gussy. What? Jerry wouldn't do that. Jack gave it to him. All he said was he liked it. I mean nobody put a gun to his head. (to Jerry) You're giving him back that pen. (She continues the discussion with Gussy but we don't hear it.)<br>
+							<br>
+							
+						ELAINE: Somebody please-- THE AIR CONDITIONER!<br>
+							<br>
+							
+						MORTY: (Morty gets up) Oh! I forgot all about it.<br>
+							<br>
+							
+						(the phone conversation is over. Helen looks at Jerry.)<br>
+							<br>
+							
+						JERRY: All I said was &quot;I like the pen&quot;.<br>
+							<br>
+							
+						(Morty looks at the control panel for the air conditioner)<br>
+							<br>
+							
+						MORTY: How the hell do you work this thing?<br>
+							<br>
+							
+						(scene ends)<br>
+							<br>
+							<br>
+							<br>
+							
+						[setting: still the condo, later]<br>
+							<br>
+							
+						(Jerry's gone scuba diving. Elaine is lying on the floor with pillows under her legs. Morty and Helen are on the couch, looking at Elaine. Helen is wearing a sweater and she's freezing)<br>
+							<br>
+							
+						HELEN: Maybe you shouldn't go tonight.<br>
+							<br>
+							
+						ELAINE: No no, I wanna go.<br>
+							<br>
+							
+						HELEN: But your back hurts.<br>
+							<br>
+							
+						MORTY: Maybe a couple of muscle relaxers would help.<br>
+							<br>
+							
+						ELAINE: Oh, oh, O.K. (Helen holds her sweater tight against herself) You can turn down the air conditioning if you want.<br>
+							<br>
+							
+						HELEN: No. I'm fine.<br>
+							<br>
+							
+						ELAINE: You're not too cold?<br>
+							<br>
+							
+						HELEN: No.<br>
+							<br>
+							
+						(Jerry enters with a black eye)<br>
+							<br>
+							
+						JERRY: Don't be alarmed.<br>
+							<br>
+							
+						MORTY: Oh my God! What the hell happened to you?<br>
+							<br>
+							
+						JERRY: I'm O.K. My capillaries burst.<br>
+							<br>
+							
+						HELEN: Your capillaries? Do you know what you look like?<br>
+							<br>
+							
+						JERRY: (to Elaine on the floor) How are you doing?<br>
+							<br>
+							
+						ELAINE: Having a good time!<br>
+							<br>
+							
+						JERRY: Is it my imagination or is it freezing in here?<br>
+							<br>
+							
+						HELEN: What happened to your eyes?<br>
+							<br>
+							
+						JERRY: Well I started to go under...<br>
+							<br>
+							
+						HELEN: With the instructor?<br>
+							<br>
+							
+						JERRY: Yeah, and I got about ten feet down and I felt this tremendous pressure on my mask. Like my eyeballs were being sucked out of their sockets.<br>
+							<br>
+							
+						HELEN: I told you...<br>
+							<br>
+							
+						(Jack enters, all dressed-up, smoking a cigar)<br>
+							<br>
+							
+						JACK: Excuse me. (to Helen) Doris would like to borrow red your pocketbook to go with her shoes. (to Elaine on the floor) The shoes have to match the pocketbook. (to the others) What's she doing? Yoga?<br>
+							<br>
+							
+						ELAINE: My back hurts.<br>
+							<br>
+							
+						JACK: Morty you gotta hurry up. Get ready.<br>
+							<br>
+							
+						MORTY: We got plenty of time.<br>
+							<br>
+							
+						JACK: (to Jerry) What happened to you?<br>
+							<br>
+							
+						JERRY: I got in a fist fight with one of the ladies at the pool.<br>
+							<br>
+							
+						HELEN: It's from scuba diving.<br>
+							<br>
+							
+						JACK: What's there to see underwater?<br>
+							<br>
+							
+						(Helen turns to Jerry and makes a face like: give him back the pen)<br>
+							<br>
+							
+						JERRY: Listen M. Klompus, it was really a nice gesture of you to give me the pen, but I don't really need it.<br>
+							<br>
+							
+						JACK: You what?<br>
+							<br>
+							
+						JERRY: I mean it's a terrific pen, but I think you should keep it. (he hands the pen to Jack)<br>
+							<br>
+							
+						JACK: Well I mean...<br>
+							<br>
+							
+						JERRY: Take it.<br>
+							<br>
+							
+						JACK: All right! (he smiles and take it)<br>
+							<br>
+							
+						(Morty gets up and walks right to Jack)<br>
+							<br>
+							
+						MORTY: You know Jack, you've got a hell of a nerve taking that kid's pen.<br>
+							<br>
+							
+						JACK: Whose pen?<br>
+							<br>
+							
+						MORTY: His pen.<br>
+							<br>
+							
+						JACK: This happens to be my pen.<br>
+							<br>
+							
+						MORTY: You didn't give it to him.<br>
+							<br>
+							
+						JACK: What are you talking about? He pratically begged me for it.<br>
+							<br>
+							
+						MORTY: Where do you come off with this crap?<br>
+							<br>
+							
+						JACK: Listen, do you think I take everything everybody offers me? You offered me sponge cake yesterday. Did I take it?<br>
+							<br>
+							
+						MORTY: You said you didn't want it!<br>
+							<br>
+							
+						JACK: Of course I wanted it! I love sponge cake!<br>
+							<br>
+							
+						MORTY: Then who the hell said you couldn't have any? I mean what the hell do I care whether you have sponge cake?<br>
+							<br>
+							
+						(Jerry and Elaine can't beleive what they're hearing)<br>
+							<br>
+							
+						JACK: Because I saw the look on your face last week when I took the scotch tape!<br>
+							<br>
+							
+						MORTY: Ahh! Ahh! So YOU got the scotch tape! I've been looking all over for it!<br>
+							<br>
+							
+						JACK: Don't worry about it! I'll give it back!<br>
+							<br>
+							
+						MORTY: I don't want it!<br>
+							<br>
+							
+						JACK: I don't want it!<br>
+							<br>
+							
+						MORTY: You know Jack, do me a favor will you? Take the pen and the scotch tape, and get the hell out of here!<br>
+							<br>
+							
+						JACK: Listen do you think I give a damn?<br>
+							<br>
+							
+						MORTY: Aah! (Jack leaves) The nerve of that guy! Taking back that pen. Well that's it for them.<br>
+							<br>
+							
+						JERRY: What is going on in this community! Are you people aware of what's happening? What is driving you to this behavior? Is it the humudity? Is it the Muzak? Is it the white shoes?<br>
+							<br>
+							
+						HELEN: I have no use for either one of them. I don't even want them there tonight. (she still has the pocketbook in her hands)<br>
+							<br>
+							
+						JERRY: Isn't he supposed to be the emcee?<br>
+							<br>
+							
+						MORTY: yeah, he's supposed to be the emcee.<br>
+							<br>
+							
+						JERRY: Well. This should be a very interesting evening.<br>
+							<br>
+							
+						ELAINE: (still on the floor) Uh... What about those muscle relaxers?<br>
+							<br>
+							
+						(scene ends)<br>
+							<br>
+							<br>
+							<br>
+							
+						[setting: reception room, evening]<br>
+							<br>
+							
+						(Morty, Helen, Elaine and Jerry are standing for a photograph in the entrance. Jerry wears sunglasses and Elaine is all drugged-up on muscle relaxers.)<br>
+							<br>
+							
+						PHOTOGRAPHER: Say astronaut.<br>
+							<br>
+							
+						(Elaine is laughing for nothing and she walks right up to the lens of the camera.)<br>
+							<br>
+							
+						ELAINE: Say what? (laughing) Say what?<br>
+							<br>
+							
+						JERRY: (Jerry brings her back) You took too many of those pills.<br>
+							<br>
+							
+						MORTY: Astronaut?<br>
+							<br>
+							
+						HELEN: Say it.<br>
+							<br>
+							
+						JERRY, MORTY AND HELEN: Astronaut!<br>
+							<br>
+							
+						ELAINE: (still laughing, she says it just as the picture is taking) Astro...naut!<br>
+							<br>
+							
+						(the image frozes and we see that the picture is awful, with Jerry and his sunglasses, and Elaine laughing who can barely stand.)<br>
+							<br>
+							
+						MORTY: Good. O.K. (the photographer walks away) What about last year when I took him to the hospital every day? Did he ever say thank you?<br>
+							<br>
+							
+						JERRY: Oh God. (foreseeing an arm's grabbing as he sees Uncle Leo entering with his wife Stella)<br>
+							<br>
+							
+						JERRY: (to Leo) Uncle Leo.<br>
+							<br>
+							
+						LEO: Hello!<br>
+							<br>
+							
+						STELLA: Morty are you nervous?<br>
+							<br>
+							
+						MORTY: What nervous?<br>
+							<br>
+							
+						LEO: (to Jerry while he's grabbing his arm as usual) What's with the sunglasses? Who are you? Van Johnson?<br>
+							<br>
+							
+						JERRY: I've got a black eye.<br>
+							<br>
+							
+						STELLA: (to Elaine in a childish voice) Hello.<br>
+							<br>
+							
+						JERRY: Oh uh, Elaine, this is my aunt Stella.<br>
+							<br>
+							
+						HELEN: (shouting as she imitates Marlon Brando) STELLA! STELLA!<br>
+							<br>
+							
+						JERRY: (to Stella) Her back hurts.<br>
+							<br>
+							
+						STELLA: Humm... We saw you on &quot;The Tonight Show&quot; last week.<br>
+							<br>
+							
+						LEO: I thought Johnny was very rude to you. He didn't even let you talk.<br>
+							<br>
+							
+						JERRY: No, no.<br>
+							<br>
+							
+						LEO: You need some new material. I've heard you do that dog routine three times already.<br>
+							<br>
+							
+						ELAINE: (still with her imitation, shouting even louder) STELLA! STELLA!<br>
+							<br>
+							
+						LEO: Listen, you should get your cousin Jeffrey to write some material for you.<br>
+							<br>
+							
+						MORTY: What are you talking? Jeffrey works for the parks department!<br>
+							<br>
+							
+						LEO: You should read the letters he's written. He's funnier than the whole bunch of you! (Jack enters with Doris) Oh, here's Jack. We should sit down.<br>
+							<br>
+							
+						(Jack and Morty exchange a look.)<br>
+							<br>
+							
+						STELLA: (to Helen on a sarcastic tone of voice) This better be good. I'm missing &quot;Golden Girls&quot; for this.<br>
+							<br>
+							
+						HELEN: (laughing hypocritically till Stella walks away) I hate her like poison.<br>
+							<br>
+							
+						(a few minutes later, the ceremony is about to begin. Someone in the crowd yells: &quot;Hey Jack let's get started!&quot; Everyone applause and we see, from left to right, all sitting on the same side of a long table, facing the public: Stella, Leo, Elaine, Jerry, Helen, Morty, Jack at the microphone, Doris, and four other people.)<br>
+							<br>
+							
+						JACK: (on the microphone) Ladies and gentlemen, as you know, every year, Phase Two of the Pines of Mark Gables honors the previous year president. And this year we are honoring Morty Seinfeld (the crowd applause and someone yells: Morty!) A man who slept more hours on the job than Ronald Reagan.<br>
+							<br>
+							
+						MORTY: (to Helen) Slept on the job? (she shushed him)<br>
+							<br>
+							
+						JACK: Being president of the condo is not easy. It requires hard work, dedication, and commitment, and unfortunately he possesses none of these qualities. (everyone laugh except Jerry, Helen, and Morty. Even Elaine who's still druggy)<br>
+							<br>
+							
+						HELEN: (Morty complains again to Helen) He's joking.<br>
+							<br>
+							
+						JACK: His administration did excel in one department: the hiring of incompetents.<br>
+							<br>
+							
+						MORTY: (to Jack, loud) That's what you say.<br>
+							<br>
+							
+						JACK: But we do owe him a debt of gratitude because by not fixing the crack in the sidewalk, he put Mrs Ziven out of commission for a few weeks. (Morty is now the only one not laughing)<br>
+							<br>
+							
+						MORTY: (loud) Tell them when you took my son's pen back. Tell them about that! (he gets up)<br>
+							<br>
+							
+						JERRY: Dad!<br>
+							<br>
+							
+						MORTY: (to the crowd) He gave my son a pen, and then he takes it back. Tell them about that!<br>
+							<br>
+							
+						JACK: He gave it to me!<br>
+							<br>
+							
+						MORTY: Come on. That's enough, sit down!<br>
+							<br>
+							
+						JACK: I'm not sitting down!<br>
+							<br>
+							
+						(they start to fight. Morty tries to get the microphone off Jack' hands. He yells to Jack to give him the pen. Jerry gets up and tries to separate them. We hear a feedback from the microphone and they stop to fight)<br>
+							<br>
+							
+						JACK: Ow! You broke my dental plate! (Jack is touching his dental plate while Morty reaches in Jack's pocket to get the pen) Doris! He broke my dental plate. You son-of-a-bitch! I'm gonna sue you. (he leaves the table and Morty follows him and continue arguing with him. Jerry now have the microphone in his hands and the crowd begins to think the ceremony is over.)<br>
+							<br>
+							
+						HELEN: Jerry, do your act.<br>
+							<br>
+							
+						JERRY: (in the microphone, but to Helen) I can't. Nobody's even listening.<br>
+							<br>
+							
+						HELEN: They're all gonna leave.<br>
+							<br>
+							
+						JERRY: (to himself) Oh God! (in the microphone) huh... Hey! How you folks doing tonight? (everybody in the crowd is talking over Jerry)<br>
+							<br>
+							
+						MAN IN THE CROWD: Who are you?<br>
+							<br>
+							
+						JERRY: (still with his sunglasses) Have you ever noticed how they always give you the peanuts on the planes?<br>
+							<br>
+							
+						WOMAN IN THE CROWD: (to heckle Jerry) Not my Harry. He flies first class.<br>
+							<br>
+							
+						(Elaine is almost asleep at the table)<br>
+							<br>
+							
+						JERRY: Who ever thought the first thing somebody wants on a plane is a peanut?<br>
+							<br>
+							
+						MAN IN THE CROWD: I'd rather have a bottle of scotch!<br>
+							<br>
+							
+						HELEN: (to Jerry) Do the dog routine.<br>
+							<br>
+							
+						JERRY: All I said was I liked the pen!<br>
+							<br>
+							
+						ELAINE: (wakes up and yells very loud) STELLA!<br>
+							<br>
+							
+						(Everybody stops talking and put their hands on their ears)<br>
+							<br>
+							
+						(scene ends)<br>
+							<br>
+							<br>
+							<br>
+							
+						[setting: condo, morning]<br>
+							<br>
+							
+						(Elaine is sitting on the couch and a chiro is examining her. Jerry's sitting next to her. Helen is standing beside them and Morty is still asleep in the guest room)<br>
+							<br>
+							
+						CHIROPRACTOR: You could aggravate it. I wouldn't go anywhere for at least five days.<br>
+							<br>
+							
+						ELAINE: Five days? You want me to stay here for five more days?<br>
+							<br>
+							
+						JERRY: There must be some mistake.<br>
+							<br>
+							
+						CHIROPRACTOR: I'm afraid not.<br>
+							<br>
+							
+						ELAINE: (discouraged) Five days. Here.<br>
+							<br>
+							
+						HELEN: (to Jerry, happily) So we have you for five more days!<br>
+							<br>
+							
+						JERRY: (to Elaine) Well there's really no point in me staying. I mean you just gonna be...<br>
+							<br>
+							
+						ELAINE: Excuse me?<br>
+							<br>
+							
+						JERRY: Nothing.<br>
+							<br>
+							
+						(Evelyn enters)<br>
+							<br>
+							
+						EVELYN: Good morning.<br>
+							<br>
+							
+						JERRY: Hi Evelyn.<br>
+							<br>
+							
+						EVELYN: (to Helen) Has Morty decided on a lawyer yet?<br>
+							<br>
+							
+						HELEN: I don't think so.<br>
+							<br>
+							
+						EVELYN: Because my nephew Larry could do it. He's a brilliant lawyer. He says Jack has no case.<br>
+							<br>
+							
+						HELEN: Well I'll ask him when he gets up.<br>
+							<br>
+							
+						EVELYN: Oh, and I spoke to Arnold. And he says that according to the bylaws of the condo constitution, they need six votes to throw you out for unruly behavior. Not five. Doctor Chernov is the one you'll have to suck up to.<br>
+							<br>
+							
+						(Morty gets up in a bad shape)<br>
+							<br>
+							
+						MORTY: Aw! Aw! Oh my back! Oh my back! It's that bar. Who the hell could sleep on that thing?<br>
+							<br>
+							
+						HELEN: I was very comfortable.<br>
+							<br>
+							
+						EVELYN: Morty, Arnold says they need six votes to throw you out.<br>
+							<br>
+							
+						HELEN: It's in the constitution.<br>
+							<br>
+							
+						MORTY: (to the chiro) Who are you?<br>
+							<br>
+							
+						CHIROPRACTOR: I'm a chiropractor.<br>
+							<br>
+							
+						MORTY: What are you kidding me?<br>
+							<br>
+							
+						ELAINE: (to Jerry) Five more days?<br>
+							<br>
+							
+						JERRY: Well today's almost over. And weekdays always go by fast. Friday we're leaving. It's like two days really. It's like a cup of coffee. It will go by like that. (snapping his fingers)<br>
+							<br>
+							
+						(scene ends)<br>
+							<br>
+							<br>
+							<br>
+							
+						[setting: night club, closing monologue]<br>
+							<br>
+							
+						JERRY: Is Florida not hot and muggy enough for these people? They love heat. I mean if they ever decide to land men on the sun, I think these old retired guys would be the only ones that will be able to handle it. They'll just sit there on the sun, on the redwood benches, washcloth on the head going: &quot;Close the door, you're letting all the heat off the sun. I'm trying to get a sweat going.&quot;<br>
+							<br>
+							<br>
+							
+						The End </td>
+						</tr>
+						<tr height="6">
+							<td class="bottom2" width="645" height="6"></td>
+						</tr>
+						<tr>
+							<td width="645">
+								<div align="center">
+									<font size="-1">Copyright 2006 seinology.com | All Rights Reserved | Designed by 13erla</font></div>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+		<p></p>
+	</body>
+
+</html>

@@ -1,0 +1,994 @@
+<tdOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+<html>
+
+	<head>
+		<meta http-equiv="content-type" content="text/html;charset=ISO-8859-1">
+		<meta name="description" content="Top Source for Seinfeld">
+		<meta name="keywords" content="seinfeld, sienfeld, Jerry Seinfeld, Julia Louis Dreyfus, Jason Alexander, Michael Richards, Kramer, George, Costanza, Elaine Benes, morty, Larry David">
+		<title>Seinology.com :: Scripts :: 05-The Stock Tip</title>
+	<link rel='stylesheet' href='/stylesheet.css' type='text/css'>
+	</head>
+
+	<body>
+			<table align="center" width="787" border="0" cellspacing="0" cellpadding="0">
+				<tr>
+					<td><font size="-2" color="red">Seinology.com - </font><font size="-3" color="black">Where Seinfeld Content and Accuracy Matter Most. Seinfeld scripts in pdf form, Seinfeld episode video clips, Seinfeld episode audio clips, Jerry Seinfeld appearances, Julia Louis-Dreyfus appearances, Michael Richards appearances, Jason Alexander appearances, Seinfeld discussion Forum, Seinfeld Where are they Now? Seinlanguage Newsletter, Popular Seinfeld Lists, Seinfeld episode standup, Seinfeld episode guide, Seinfeld fan fiction. Seinfeld content all on one domain. Seinology.com enjoy your stay.</font></td>
+				</tr>
+			</table>
+		
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr height="100">
+				<td class="logo"></td>
+			</tr>
+			<tr><td class="ads" align="center" background=#8694fa>
+				<script type="text/javascript"><!--
+google_ad_client = "pub-1924026976931416";
+google_ad_width = 728;
+google_ad_height = 90;
+google_ad_format = "728x90_as";
+google_ad_type = "text";
+google_ad_channel = "";
+google_color_border = "FFFFFF";
+google_color_bg = "8694fa";
+google_color_link = "0000FF";
+google_color_text = "000000";
+google_color_url = "002E3F";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></td></tr>
+		</table>
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr>
+				<td valign="top" width="136">
+					<table width="136" border="0" cellspacing="0" cellpadding="0">
+						<tr height="24">
+							<td class="navigation">
+								<div align="center">
+									
+									<b>Navigation</b></div>
+							</td>
+						</tr>
+						<tr height="199">
+							<td class="spacer1" valign="top" width="136" height="199">
+								<div align="center">
+									<font size="-1"><a href="http://www.seinology.com">Home</a><br>
+										<a href="http://board.seinology.com">Forum</a><br>
+										<a href="http://www.seinology.com/av.shtml">Audio/Video</a><br>
+										<a href="http://www.seinology.com/scripts.shtml">Scripts</a><br>
+										<a href="http://www.seinology.com/survivor.shtml">Survivor</a><br>
+										<a href="http://www.seinology.com/fanfics.shtml">Fan Fiction</a><br>
+										<a href="http://www.seinology.com/gallery/">Gallery</a><br>
+										<a href="http://www.seinology.com/newsletter.shtml">Newsletter</a><br>
+										<a href="http://www.seinology.com/lists.shtml">Lists</a><br>
+										<a href="http://www.seinology.com/epguide.shtml">Episode Guide</a><br>
+										<a href="http://www.seinology.com/links.shtml">Links</a><br>
+										<a href="http://www.seinology.com/faqother.shtml">Faq + others</a><br>
+										<a href="http://www.seinology.com/legal.shtml">Legal</a></font></div>
+							</td>
+						</tr>
+						
+						<tr>
+							<td class="nav2" width="136">
+							<div align="center"><b>Search</b></div></td>
+						</tr>
+						<tr>
+							<td class="spacer1" width="136" valign="top"><div align="center"><form method="get" action="http://www.seinology.com/search/search.cgi">
+<p><label for="fdse_Match">Match</label><br>
+<select name="Match" id="fdse_Match" size="1">
+<option value="1">All</option>
+<option value="0">Any</option>
+<option value="2">Phrase</option>
+</select></p>
+<p><label for="fdse_Realm">Where?</label><br>
+<select name="Realm" id="fdse_Realm" size="1">
+<option selected="selected" value="All">EntireSite</option>
+<option value="Ep Guide">Ep Guide</option>
+<option value="Images">Images</option>
+<option value="Lists">Lists</option>
+<option value="Newsletters">Newsletters</option>
+<option value="Scripts">Scripts</option>
+<option value="Notes..Nothing">Notes..Nothing</option>
+</select></p>
+<p><input type="text" name="Terms" size="14" id="fdse_Terms"><br>
+<input type="submit" class="submit" name="submitButtonName" value="Search"></p>
+</div></form></td>
+						</tr>
+						<tr><td class="bottom" width="136" height="10" valign="top">
+						</td>
+						</tr>
+					</table>
+				</td>
+				<td width="4"></td>
+				<td valign="top" width="645">
+					<table width="645" border="0" cellspacing="0" cellpadding="0">
+						<tr height="18">
+							<td width="645" height="35" class="bar">
+								<div align="center">
+									<b><font size="+2" color="black">Script</font></b></div>
+							</td>
+						</tr>
+						<tr height="362">
+							<td class="spacer2" valign="top" width="645" height="362">
+
+						<p><font size="-2">Episode 5 - The Stock Tip<br>
+							
+						pc: 105, season 1, episode 4<br>
+							
+						Broadcast date: June 21, 1990<br>
+							<br>
+							
+						Written By Larry David &amp; Jerry Seinfeld<br>
+							
+						Directed By Tom Cherones<br>
+							<br>
+							
+						-------------------------------------------------------------------------------<br>
+							<br>
+							
+						The Cast<br>
+							
+						Regulars:<br>
+							
+						Jerry Seinfeld ....................... Jerry Seinfeld<br>
+							
+						Jason Alexander .................. George Costanza<br>
+							
+						Julia Louis-Dreyfus ............. Elaine Benes<br>
+							
+						Michael Richards ................. Kramer<br>
+							<br>
+							
+						Guest Stars:<br>
+							<br>
+							
+						Lynn Clark&nbsp; ......................... Vanessa<br>
+							
+						Ted Davis ............................. Dry Cleaner<br>
+							
+						Jill C. Klein ........................... Waitress<br>
+							
+						Benjamin Lum ..................... Stock Boy<br>
+							<br>
+							
+						==================================================================<br>
+							<br>
+							
+						INT. COMEDY CLUB<br>
+							<br>
+							
+						(Jerry is on stage, performing.)<br>
+							<br>
+							
+						JERRY: Went out to dinner the other night. Check came at the end of the meal, as it always does. Never liked the check at the end of the meal system, because money&#146;s a very different thing before and after you eat. Before you eat, money has no value. And you don&#146;t care about money when you&#146;re hungry. You sit down at a restaurant, you&#146;re like the ruler of an empire. &#147;More drinks, appetizers, quickly, quickly! It will be the greatest meal of our lives.&#148; Then after the meal, you know, you&#146;ve got the pants open, you&#146;ve got the napkins destroyed, cigarette butt in the mashed potatoes. Then the check comes at that moment. People are always upset, you know. They&#146;re mystified by the check. &#147;What is this? How could this be?&#148; They start passing it around the table, &#147;Does this look right to you? We&#146;re not hungry now. Why are we buying all this food?&#148;<br>
+							<br>
+							<br>
+							<br>
+							
+						INT. MONK&#146;S DINER &#150; DAY<br>
+							<br>
+							
+						(Jerry and George sit at a booth.)<br>
+							<br>
+							
+						JERRY: I think Superman probably has a very good sense of humor.<br>
+							<br>
+							
+						GEORGE: I never heard him say anything really funny.<br>
+							<br>
+							
+						JERRY: But it&#146;s common sense. He&#146;s got super strength, super speed. I&#146;m sure he&#146;s got super humor.<br>
+							<br>
+							
+						GEORGE: You would think that, but either you&#146;re born with a sense of humor, or you&#146;re not. It&#146;s not going to change even if you go from the red sun of Krypton all the way to the yellow sun of the Earth.<br>
+							<br>
+							
+						JERRY: Why? Why would that one area of his mind not be affected by the yellow sun of Earth?<br>
+							<br>
+							
+						GEORGE: I don&#146;t know. But he ain&#146;t funny.<br>
+							<br>
+							
+						(Elaine joins them. The boys check their watches.)<br>
+							<br>
+							
+						ELAINE: I know, I know. I&#146;m sorry I&#146;m late.<br>
+							<br>
+							
+						JERRY: No problem.<br>
+							<br>
+							
+						ELAINE: I dropped a grape.<br>
+							<br>
+							
+						GEORGE: Pardon?<br>
+							<br>
+							
+						ELAINE: I dropped a grape in the kitchen and it disappeared. I couldn&#146;t find it. I was, I was literally on my knees for ten minutes looking for this stupid grape. I have no idea where it went.<br>
+							<br>
+							
+						JERRY: Were you crying? I mean, it&#146;s just a grape. You&#146;ll find it.<br>
+							<br>
+							
+						ELAINE: No, I&#146;m just getting over an allergy attack. This guy I&#146;m going out with...<br>
+							<br>
+							
+						JERRY: Robert.<br>
+							<br>
+							
+						ELAINE: Robert. Yes. Thank you. He has two cats and I&#146;m allergic to them. You know, I finally meet a normal man, and I can&#146;t even go into his apartment, you know. And, of course, my apartment is the actor&#146;s studio so we can&#146;t go there. It&#146;s really causing a lot of problems, you know. He won&#146;t even go away for the weekend because of these cats.<br>
+							<br>
+							
+						GEORGE: Guys with cats... I don&#146;t know.<br>
+							<br>
+							
+						JERRY: I&#146;ve been thinking about asking this girl I&#146;m, uh, seeing-<br>
+							<br>
+							
+						ELAINE: Vanessa.<br>
+							<br>
+							
+						JERRY: Vanessa, thank you. I&#146;ve been thinking about asking her to go away for a couple of days.<br>
+							<br>
+							
+						GEORGE: Oh, no. No no no no no. I&#146;d have to advise against that. What, do you know this woman a month? Let&#146;s see, you&#146;re going to be with her seventy-two hours. That&#146;s a dating decathlon.<br>
+							<br>
+							
+						ELAINE: (balancing a spoon on her nose) Hey, why don&#146;t you take her to that place in Vermont I was telling you about? You know, that really charming place with the separate faucets for the hot and cold. She&#146;ll love it.<br>
+							<br>
+							
+						GEORGE: That&#146;s exquisite. Listen, uh, if it&#146;s not too much trouble, could you pass me that paper over there?<br>
+							<br>
+							
+						(Elaine gets the paper, and George starts flipping through it.)<br>
+							<br>
+							
+						JERRY: You better find that grape before it mutates into another life form. There was once a mutant grape that terrorized an entire town in the Texas panhandle. They brought in the army, nobody could stop it. Apparently it had a pit of steel.<br>
+							<br>
+							
+						(Elaine gives Jerry a look)<br>
+							<br>
+							
+						GEORGE: Up again?! This is incredible! I&#146;m.. I&#146;m getting it.<br>
+							<br>
+							
+						ELAINE: You&#146;re getting what?<br>
+							<br>
+							
+						GEORGE: A stock.<br>
+							<br>
+							
+						JERRY: What stock?<br>
+							<br>
+							
+						GEORGE: Did you ever meet my friend, Simons?<br>
+							<br>
+							
+						JERRY: Maybe.<br>
+							<br>
+							
+						GEORGE: He knows this guy, Wilkinson. He made a fortune in the stock market. Now he&#146;s got some new thing. You know, there&#146;s supposed to be a big merger. He wasn&#146;t even supposed to say anything. You guys should think about doing this too.<br>
+							<br>
+							
+						JERRY: How high&#146;s it suppose to go?<br>
+							<br>
+							
+						GEORGE: I don&#146;t know. But Simons said that if I wanted to get involved, that Wilkinson would tell me the exact right minute to sell. You wanna do it?<br>
+							<br>
+							
+						JERRY: Boy... I don&#146;t know.<br>
+							<br>
+							
+						ELAINE: I&#146;d do it but I don&#146;t have any money.<br>
+							<br>
+							
+						JERRY: What kind of company is it?<br>
+							<br>
+							
+						GEORGE: It&#146;s called Sendrax. They&#146;ve got some new kind of technique for televising opera.<br>
+							<br>
+							
+						ELAINE: Televising opera?<br>
+							<br>
+							
+						GEORGE: Some sort of electronic thingy.<br>
+							<br>
+							
+						JERRY: Well, how much are you going to invest?<br>
+							<br>
+							
+						GEORGE: Five thousand... Ten. Ten thousand. Five thousand.<br>
+							<br>
+							
+						JERRY: Boy...<br>
+							<br>
+							
+						GEORGE: C&#146;mon. Wilkinson&#146;s got millions invested in this stock. It&#146;s gone up three points since I&#146;ve been watching it.<br>
+							<br>
+							
+						JERRY: What if I lose it?<br>
+							<br>
+							
+						GEORGE: C&#146;mon, go for twenty-five hundred. We&#146;ll do it together. Come on, come on. We&#146;re in it together.<br>
+							<br>
+							
+						JERRY: All right. Twenty-five hundred.<br>
+							<br>
+							
+						GEORGE: That&#146;s it.<br>
+							<br>
+							
+						(The waitress arrives.)<br>
+							<br>
+							
+						WAITRESS: Yeah, can I take your order?<br>
+							<br>
+							
+						GEORGE: (Gesturing to Jerry) Check the raiser.<br>
+							<br>
+							
+						JERRY: My bet? All right. I&#146;ll open with a tuna sandwich.<br>
+							<br>
+							
+						ELAINE: Tuna?<br>
+							<br>
+							
+						JERRY: Oh, the dolphin thing?<br>
+							<br>
+							
+						ELAINE: They&#146;re dying in the nets.<br>
+							<br>
+							
+						JERRY: Ohhh... You know, the whole concept of lunch is based on tuna.<br>
+							<br>
+							
+						ELAINE: Jerry, can&#146;t you incorporate one unselfish act in your daily routine?<br>
+							<br>
+							
+						JERRY: Hey, when I&#146;m driving, I let people in ahead of me all the time. I&#146;m always waving everybody in. &#147;Go ahead, go ahead, go ahead.&#148; ...All right. All right. I&#146;ll have a chicken salad.<br>
+							<br>
+							
+						ELAINE: And I&#146;m going to have an English muffin with margarine on the side and a cup of coffee.<br>
+							<br>
+							
+						WAITRESS: Okay. (To George) What about you?<br>
+							<br>
+							
+						GEORGE: I&#146;ll have the tuna.<br>
+							<br>
+							<br>
+							<br>
+							
+						INT. SUPERMARKET &#150; NIGHT<br>
+							<br>
+							
+						(Jerry and Vanessa are on a date.)<br>
+							<br>
+							
+						JERRY: I have to say, those people talking behind us really ruined that movie for me.<br>
+							<br>
+							
+						VANESSA: Why didn&#146;t you do something?<br>
+							<br>
+							
+						JERRY: What do you want me to do? I gave the guy the half-turn. (acts like he did in the movie) Then I gave him the full-turn with the eye roll. (does the next look) I mean, beyond that, I&#146;m risking a punch in the mouth. (To a stock boy) Excuse me, do you have these in the puffs?<br>
+							<br>
+							
+						STOCK BOY: No puffs. Just flakes.<br>
+							<br>
+							
+						JERRY : Have you thought any more about that trip?<br>
+							<br>
+							
+						VANESSA: Yeah, I&#146;ve been thinking about it.<br>
+							<br>
+							
+						JERRY: You know, my friend told me about this great place in Vermont.<br>
+							<br>
+							
+						VANESSA: I don&#146;t know. I just worry about trips like this. It&#146;s a lot of pressure.<br>
+							<br>
+							
+						JERRY: It&#146;s great! It speeds up the intimacy level. It&#146;s like putting the relationship in a time compressor. Where we would be six months from now we accomplish (snaps his fingers) three days.<br>
+							<br>
+							
+						VANESSA: Oh, so you want to move our relationship into Phase Two?<br>
+							<br>
+							
+						JERRY: Exactly. I love Phase Two. Extra toothbrushes, increased phone call frequency, walking around naked. You know, the presents get a lot better in Phase Two.<br>
+							<br>
+							
+						VANESSA: Really? Could we go fishing up there?<br>
+							<br>
+							
+						JERRY: Yeah. We can fish. What? Blues, carp, marlin?<br>
+							<br>
+							
+						VANESSA: They have marlin in Vermont?<br>
+							<br>
+							
+						JERRY: Oh, big fighting marlin. (Jerry acts like he is catching a marlin)<br>
+							<br>
+							
+						(Jerry picks up a newspaper.)<br>
+							<br>
+							
+						VANESSA: Jerry, the stock is the same as when you checked it earlier. There are no changes after the market closes. The stock is still down.<br>
+							<br>
+							
+						JERRY : I know. But this is a different paper. I thought maybe they have, uh, different... sources.<br>
+							<br>
+							<br>
+							<br>
+							
+						INT. JERRY&#146;S APARTMENT<br>
+							<br>
+							
+						(Jerry is looking at a road map. Kramer enters with a newspaper.)<br>
+							<br>
+							
+						JERRY: Is that my paper?<br>
+							<br>
+							
+						KRAMER: Bad news, my friend.<br>
+							<br>
+							
+						JERRY: What? What news?<br>
+							<br>
+							
+						KRAMER : Sendrax.<br>
+							<br>
+							
+						JERRY: Oh, c&#146;mon! It&#146;s down again?!<br>
+							<br>
+							
+						KRAMER: Two and a half points.<br>
+							<br>
+							
+						JERRY: Oh, I can&#146;t believe it. Let me see that. (Jerry takes the paper.) That&#146;s four and a half points in three days! That&#146;s almost half my money!<br>
+							<br>
+							
+						KRAMER: Hey, I told you.<br>
+							<br>
+							
+						JERRY: (sarcastic) Yeah, you told me.<br>
+							<br>
+							
+						KRAMER: It&#146;s all manipulated with junk bonds. You can&#146;t win.<br>
+							<br>
+							
+						(Jerry picks up the reciever of his phone, and dials.)<br>
+							<br>
+							
+						JERRY: There&#146;s one thing I don&#146;t understand. Why does it please you? (to the phone) George Costanza, please.<br>
+							<br>
+							
+						KRAMER: Hey, I don&#146;t care. I&#146;m just telling you to (yelling) get rid of that stock, now!<br>
+							<br>
+							
+						JERRY: (to the phone) George, what&#146;s going on?!<br>
+							<br>
+							
+						KRAMER: Sell it, just say I&#146;m selling!<br>
+							<br>
+							
+						JERRY: (to the phone) Well, where is the guy?!... Nothing?! Almost half my money&#146;s gone... Well, call me right back. (Jerry hangs up.) Nobody can reach Wilkinson. He hasn&#146;t been home or in his office in the past three days!<br>
+							<br>
+							
+						KRAMER: You know, I can&#146;t believe you put your money in that Sendrax. And you could&#146;ve invested in my roll-out tie dispenser.<br>
+							<br>
+							
+						JERRY: Roll-out tie dispenser? What was that one?<br>
+							<br>
+							
+						KRAMER: Okay, you&#146;re in a restaurant. You&#146;ve got a very big meeting coming up...<br>
+							<br>
+							
+						JERRY: Okay...<br>
+							<br>
+							
+						KRAMER: (looks at his shirt as if he had a tie on) Oh man, you got mustard on your tie!<br>
+							<br>
+							
+						JERRY: (going along with it) Oh No!<br>
+							<br>
+							
+						KRAMER: You just (makes the tearing sound) tear it off, and vvvvrrrpppp you got a new one right here. Then you&#146;re gone.<br>
+							<br>
+							
+						JERRY: You&#146;re gone all right.<br>
+							<br>
+							
+						KRAMER: (Looking at map) Hey, where, where are you going? You gonna take a trip? The map... what...<br>
+							<br>
+							
+						JERRY: Yeah, I&#146;m going to Vermont with uh Vanessa for a few days.<br>
+							<br>
+							
+						KRAMER: Hey, can I use your place? I got a bunch of friends coming over this weekend.<br>
+							<br>
+							
+						JERRY: What friends?<br>
+							<br>
+							
+						KRAMER: Well, it&#146;s just some people I met at a rock concert. (Phone rings.) Do you mind if they use your bed? (Jerry give Kramer a look.) &#145;Cause they&#146;re really good people, Jerry. I&#146;m telling you. You know, they&#146;re anarchists. They&#146;re.. they&#146;re.. they&#146;re.. huge.<br>
+							<br>
+							
+						(Jerry answers the phone.)<br>
+							<br>
+							
+						JERRY: George- What?! You&#146;re kidding... Well, what&#146;s wrong?... So, what are we gonna do?... Great!... All right, I&#146;ll speak to you later. (He hangs up.) Wilkinson, the guy who&#146;s supposed to tell us when to sell the stock, he&#146;s in the hospital.<br>
+							<br>
+							
+						(Kramer smiles.)<br>
+							<br>
+							<br>
+							<br>
+							
+						INT. DRY CLEANERS &#150; DAY<br>
+							<br>
+							
+						(Jerry and George are in line. )<br>
+							<br>
+							
+						JERRY: So you don&#146;t know what&#146;s wrong with him?<br>
+							<br>
+							
+						GEORGE: All Simons was able to find out is that he&#146;s in the hospital.<br>
+							<br>
+							
+						JERRY: Okay, fine. Has Simons been in touch with him?<br>
+							<br>
+							
+						GEORGE: Of course he&#146;s been in touch with him. He&#146;s left two messages. He just hasn&#146;t heard back yet, that&#146;s all.<br>
+							<br>
+							
+						JERRY: Well, this is it. I&#146;m selling.<br>
+							<br>
+							
+						GEORGE: Just give it a little more time.<br>
+							<br>
+							
+						JERRY: I never should&#146;ve gotten involved in this. I&#146;m a nervous wreck. I&#146;m not cut out for investing.<br>
+							<br>
+							
+						GEORGE: All right, all right. That&#146;s it. I&#146;m gonna go down there.<br>
+							<br>
+							
+						JERRY: Where?<br>
+							<br>
+							
+						GEORGE: To the hospital.<br>
+							<br>
+							
+						JERRY: The hospital?<br>
+							<br>
+							
+						GEORGE: I&#146;m going to find out what&#146;s going on. All right?<br>
+							<br>
+							
+						JERRY: Are you nuts? You don&#146;t even know the guy.<br>
+							<br>
+							
+						GEORGE: So what? I&#146;ll start talking to him, you know, casual, and I&#146;ll work my way around to it.<br>
+							<br>
+							
+						JERRY: What if he&#146;s in an iron lung or something? What are you gonna do? (Jerry knocks on imaginary glass.) &#147;How you feeling, Mr. Wilkinson?&#148; (He makes a hissing sound.) &#147;By the way, what&#146;s happening with Sendrax?&#148;<br>
+							<br>
+							
+						GEORGE: Maybe he&#146;s resting.<br>
+							<br>
+							
+						JERRY: Who goes to the hospital to rest?<br>
+							<br>
+							
+						GEORGE: What are you, a doctor?<br>
+							<br>
+							
+						JERRY: Okay, fine, fine. When are you going down there?<br>
+							<br>
+							
+						GEORGE: Today. I&#146;m going today. Just don&#146;t do anything until you hear from me.<br>
+							<br>
+							
+						JERRY: All right.<br>
+							<br>
+							
+						(Jerry moves up in line; a woman takes his place. George does not notice.)<br>
+							<br>
+							
+						GEORGE: (to the woman) Boy, I have to get to a bathroom.<br>
+							<br>
+							
+						(Woman gives him a look.)<br>
+							<br>
+							
+						DRY CLEANER: (to Jerry) May I help you?<br>
+							<br>
+							
+						JERRY: Yeah. I picked up this shirt here yesterday. It&#146;s completely shrunk. There&#146;s absolutely no way I can wear it.<br>
+							<br>
+							
+						DRY CLEANER: When did you bring it in?<br>
+							<br>
+							
+						JERRY: What&#146;s the difference? Look at it! Do you see the size of this shirt?!<br>
+							<br>
+							
+						DRY CLEANER: You got a receipt?<br>
+							<br>
+							
+						JERRY: I can&#146;t find the receipt.<br>
+							<br>
+							
+						DRY CLEANER: You should get the receipt.<br>
+							<br>
+							
+						JERRY: Look, forget about the receipt, all right? Even if I had the receipt- look at it! It&#146;s a hand puppet. What am I gonna do with this?!<br>
+							<br>
+							
+						DRY CLEANER: Yes, but how do I know we did the shirt?<br>
+							<br>
+							
+						JERRY: What do you think this is a little scam I have? I take this tiny shirt all over the city conning dry cleaners out of money? In fact, forget the money. I don&#146;t even want the money. I just once, I would like to hear a dry cleaner admit that something was their fault. That&#146;s what I want. I want an admission of guilt.<br>
+							<br>
+							
+						DRY CLEANER: Maybe you asked for it to be washed.<br>
+							<br>
+							
+						JERRY: No! Dry-cleaned.<br>
+							<br>
+							
+						DRY CLEANE: Let me explain to you something, okay? With certain types of fabrics, different chemicals can react, causing-<br>
+							<br>
+							
+						JERRY: You shrunk it! You know you shrunk it! Just tell me that you shrunk it!<br>
+							<br>
+							
+						DRY CLEANER: (looks around making sure not too many people are listening) I shrunk it.<br>
+							<br>
+							<br>
+							<br>
+							
+						INT. COMEDY CLUB - NIGHT<br>
+							<br>
+							
+						(Jerry is on stage, performing.)<br>
+							<br>
+							
+						JERRY: I think the only reason we go to the dry cleaner is so I can say to the dry cleaner, &#147;Well, it&#146;s ruined.&#148; And of course, the dry cleaner can respond, &#147;It&#146;s not our fault. We&#146;re not responsible. We just ruin the clothes. That ends our legal obligation.&#148; You see, the whole problem with dry cleaning is that we all believe that this is actually possible. Th-Right? They&#146;re cleaning our clothes, but they&#146;re not getting anything wet. It&#146;s all dry. I know there&#146;s gotta be some liquids back there, some fluids that they&#146;re using. There&#146;s no such thing as dry cleaning. When you get something on your shirt, ever get something on your shirt and try to get it off like that (Jerry brushes off his shirt.) That&#146;s dry cleaning. I don&#146;t think that&#146;s what they&#146;re doing back there. They don&#146;t have eighty guys going, &#147;Come on, hurry up! There&#146;s a lot of shirts today!&#148;<br>
+							<br>
+							<br>
+							<br>
+							
+						INT. JERRY&#146;S APARTMENT<br>
+							<br>
+							
+						(Jerry and Elaine are there. Elaine sneezes.)<br>
+							<br>
+							
+						JERRY: Bless you.<br>
+							<br>
+							
+						ELAINE: Thank you. What evidence is there that cats are so smart, anyway? Huh? What do they do? Because they&#146;re clean? I am sorry. My Uncle Pete showers four times a day and he can&#146;t count to ten, so don&#146;t give me hygiene.<br>
+							<br>
+							
+						JERRY : So what are you gonna do?<br>
+							<br>
+							
+						ELAINE: I don&#146;t know. I can&#146;t think of any solution, unless of course they should meet with some unfortunate accident. What do you think a hit man would charge to rub out a couple of cats?<br>
+							<br>
+							
+						JERRY: Well, it couldn&#146;t be too expensive. Thirteen, fourteen bucks a cat?<br>
+							<br>
+							
+						ELAINE: What do you think, Jerry? You wanna make twenty-eight bucks?<br>
+							<br>
+							
+						JERRY: I&#146;m no cat killer.<br>
+							<br>
+							
+						ELAINE: How about we go over there right now and we shave them?<br>
+							<br>
+							
+						JERRY: I&#146;d really like to go, Elaine. But, George is coming back from the hospital. I gotta wait for him. But otherwise I would definitely go.<br>
+							<br>
+							
+						ELAINE: He actually went to the hospital?<br>
+							<br>
+							
+						JERRY: Yeah.<br>
+							<br>
+							
+						ELAINE: Oh man, he&#146;s nuts.<br>
+							<br>
+							
+						JERRY: Yeah, he&#146;s nuts. You wanta bump off a couple of cats. (Enter Kramer, holding a paper up to Jerry.) I know, I know. It&#146;s down again.<br>
+							<br>
+							
+						KRAMER: How much are you down altogether?<br>
+							<br>
+							
+						JERRY: I don&#146;t know.. fifteen hundred dollars.<br>
+							<br>
+							
+						KRAMER: Wow.<br>
+							<br>
+							
+						JERRY: You don&#146;t have to say &#147;Wow.&#148; I know it&#146;s &#147;Wow.&#148; (Kramer smiling) And there&#146;s that smile again. Well, what is that? (Intercom buzzes.) It&#146;s George.<br>
+							<br>
+							
+						(Jerry presses the button to let George in. Elaine goes into the bathroom. Kramer picks up some binoculars and looks out the window.)<br>
+							<br>
+							
+						KRAMER: Oh, look at this one by the bus stop. Jerry, come here. Take a look at this.<br>
+							<br>
+							
+						JERRY: I really don&#146;t need to look.<br>
+							<br>
+							
+						KRAMER: What a body. Yeeaahh. That&#146;s for me.<br>
+							<br>
+							
+						JERRY: Yeah, and you&#146;re just what she&#146;s looking for too &#150; a stranger leering through a pair of binoculars ten floors up.<br>
+							<br>
+							
+						KRAMER: I&#146;m gonna go down there and try and talk to her.<br>
+							<br>
+							
+						(Kramer exits. George enters and flops onto the couch.)<br>
+							<br>
+							
+						JERRY: What? What? Did you go down there? (George nods.) Did he tell you what&#146;s gonna happen? (George shakes his head.) How long were you there?<br>
+							<br>
+							
+						GEORGE: Fifteen seconds.<br>
+							<br>
+							
+						JERRY: You told him you knew Simons?<br>
+							<br>
+							
+						GEORGE: Yeah, I mentioned Simons. Next thing I know, I&#146;m in the parking lot. Perhaps they had some sort of a falling out. I&#146;ll tell you one thing. I don&#146;t know what he&#146;s got. But for a sick guy, he&#146;s very strong.<br>
+							<br>
+							
+						(Elaine exits bathroom.)<br>
+							<br>
+							
+						JERRY: Well, that&#146;s it. Look, I&#146;m going to Vermont. I don&#146;t want to think about this. I&#146;m selling.<br>
+							<br>
+							
+						ELAINE: Didn&#146;t work, huh?<br>
+							<br>
+							
+						GEORGE: (laughs) Not quite.<br>
+							<br>
+							
+						ELAINE: We-Well, what are you gonna do about the stock?<br>
+							<br>
+							
+						GEORGE: I&#146;m keeping it. I&#146;m going down with the ship.<br>
+							<br>
+							<br>
+							<br>
+							
+						INT. COUNTRY INN&#146;S LOBBY - DAY<br>
+							<br>
+							
+						(Jerry and Vanessa are well into their weekend together. It&#146;s raining outside.)<br>
+							<br>
+							
+						JERRY: So I know this guy. I&#146;m getting all my sneakers at a discount now.<br>
+							<br>
+							
+						VANESSA: I know. You mentioned it.<br>
+							<br>
+							
+						JERRY: Oh yeah, right.<br>
+							<br>
+							
+						JERRY: (thinking) Oh God. Get me out of here. What a mistake. What made me think this would work? And I&#146;ve still got another day! I&#146;ve got nothing left to say. Wait... wait... Got one. (to Vanessa) That&#146;s a nice watch. Do you wind it?<br>
+							<br>
+							
+						VANESSA: No, it&#146;s got a little battery.<br>
+							<br>
+							
+						JERRY: Well, that&#146;s good.<br>
+							<br>
+							
+						JERRY: (thinking) Well, the drive home should be a delight. I&#146;m speeding the whole way. Let them throw me in jail. I don&#146;t care. (to Vanessa) That's the manager? Do you want me to see if we can get another room?<br>
+							<br>
+							
+						VANESSA: No, it&#146;s okay.<br>
+							<br>
+							
+						JERRY: So, I guess you don&#146;t find the separate faucets for the hot and cold, charming?<br>
+							<br>
+							
+						VANESSA: Not especially.<br>
+							<br>
+							
+						JERRY: Well, what do you want to do this afternoon?<br>
+							<br>
+							
+						VANESSA: What can we do? It&#146;s raining.<br>
+							<br>
+							
+						JERRY: We cold play &#147;Sorry!&#148; We cold play &#147;Steal the Old Man&#146;s Bundle.&#148; (Vanessa not amused; Jerry thinking) Maybe I can get an extension cord and hang myself. (to Vanessa) What kind of perfume is that you&#146;re wearing?<br>
+							<br>
+							
+						VANESSA: Oh, you&#146;ve never heard of it.<br>
+							<br>
+							
+						JERRY: No, what? What kind is it?<br>
+							<br>
+							
+						VANESSA: I can&#146;t tell you.<br>
+							<br>
+							
+						JERRY: (thinking) Yeah, that&#146;s normal. (to a man nearby) Excuse me, sir. Could I have a look at that business section?<br>
+							<br>
+							
+						VANESSA: That stock? I thought you got out of that?<br>
+							<br>
+							
+						JERRY: I did. I&#146;m just curious. It&#146;s been almost a week. I want to check it out. (He finds the stock.) Six points? (to Vanessa) It&#146;s up six points!<br>
+							<br>
+							
+						VANESSA: I told you not to sell.<br>
+							<br>
+							
+						JERRY: You did not tell me not to sell.<br>
+							<br>
+							
+						VANESSA: I said the market fluctuates. Remember?<br>
+							<br>
+							
+						JERRY: Look, Vanessa, of course the market fluctuates. Everybody knows that. I just got fluctuated out of four thousand dollars!<br>
+							<br>
+							
+						VANESSA: That&#146;s probably why we're-<br>
+							<br>
+							
+						(She stops herself.)<br>
+							<br>
+							
+						JERRY: What?<br>
+							<br>
+							
+						VANESSA: Forget it.<br>
+							<br>
+							
+						JERRY: No, what? &#145;That&#146;s probably why..&#146;<br>
+							<br>
+							
+						VANESSA: That&#146;s probably why we&#146;re staying here, because you lost money on the stock.<br>
+							<br>
+							
+						JERRY: (thinking) So, what am I looking at here? Twenty-nine hours to go. Well, at least I got plenty of time to find out the name of that perfume...<br>
+							<br>
+							<br>
+							<br>
+							
+						INT. MONK&#146;S DINER &#150; NIGHT<br>
+							<br>
+							
+						(Jerry, George and Elaine are there, having just eaten.)<br>
+							<br>
+							
+						GEORGE: (laughing) Have something else. C&#146;mon, have a little dessert?<br>
+							<br>
+							
+						JERRY : I&#146;m good, thanks.<br>
+							<br>
+							
+						GEORGE: Elaine, get something! It&#146;s all taken care of.<br>
+							<br>
+							
+						ELAINE: I&#146;m kinda full.<br>
+							<br>
+							
+						GEORGE: So don&#146;t finish it.<br>
+							<br>
+							
+						JERRY: (acidly) She&#146;s full. So, Big Daddy. I&#146;m just curious. How much did you clear on your little transaction there, all told?<br>
+							<br>
+							
+						GEORGE: I don&#146;t like to discuss figures.<br>
+							<br>
+							
+						JERRY: How much?<br>
+							<br>
+							
+						GEORGE: I don&#146;t know, what? Eight thousand. It&#146;s a Hyundai. Get out of here. I told you not to sell. Simons made money, Wilkinson cleaned up.<br>
+							<br>
+							
+						JERRY: So, Wilkinson&#146;s out of the hospital now?<br>
+							<br>
+							
+						GEORGE : No. You&#146;d be surprised. You don&#146;t recover that quickly from a nose job.<br>
+							<br>
+							
+						(Elaine sneezes.)<br>
+							<br>
+							
+						ELAINE: Oh god.<br>
+							<br>
+							
+						JERRY: Is that still from the cats?<br>
+							<br>
+							
+						ELAINE: No, I just have a cold.<br>
+							<br>
+							
+						JERRY: So, what ever happened with that?<br>
+							<br>
+							
+						ELAINE: I gave him an ultimatum.<br>
+							<br>
+							
+						(Jerry looks at her. Elaine shrugs.)<br>
+							<br>
+							
+						GEORGE: He chose the cats?<br>
+							<br>
+							
+						ELAINE: They&#146;re very clean animals.<br>
+							<br>
+							
+						JERRY: I gotta say, that&#146;s pretty sad. Losing out to a cat.<br>
+							<br>
+							
+						ELAINE: Almost as bad as losing out to a perfume.<br>
+							<br>
+							
+						GEORGE: I told you those trips were relationship killers. Too bad you can&#146;t get your buddy Superman to fly around the Earth at super speed and reverse time. You&#146;d get all the money back, you could have avoided the whole trip to Vermont...<br>
+							<br>
+							
+						ELAINE: Superman can go back in time?<br>
+							<br>
+							
+						JERRY: We went over that.<br>
+							<br>
+							
+						GEORGE: Pst. (moves in close with Elaine and Jerry) Wilkinson&#146;s got a bite on a new one. Petramco Corp. Out of, uh Springfield. I think. They&#146;re about to introduce some sort of a robot butcher.<br>
+							<br>
+							
+						JERRY: A robot butcher?<br>
+							<br>
+							
+						GEORGE: Shhhhh. If you want to get in, there&#146;s very little time. (calling to the waitress) Sweetheart.. (Waitress approaches and tears off a check. George stops her.) No, no, no. That ought to cover it. (He hands her some money; she turns to leave; George stops her.) Just a second. Just a... let me jus-peek... (He looks at the check, then takes some money out of her hand. George urges Jerry and Elaine to eat.) Come on, come on, come on...<br>
+							<br>
+							<br>
+							<br>
+							
+						INT. COMEDY CLUB &#150; NIGHT<br>
+							<br>
+							
+						(Jerry is on stage, performing.)<br>
+							<br>
+							
+						JERRY: I&#146;m not an investor. People always tell me, you should have your money working for you. I&#146;ve decided I&#146;ll do the work. I&#146;m gonna let the money relax. You know what I mean? &#145;Cause you send your money out there &#150; working for you &#150; a lot of times, it gets fired. You go back there, &#147;What happened? I had my money. It was here, it was working for me.&#148; &#147;Yeah, I remember your money. Showing up late. Taking time off. We had to let him go.&#148;<br>
+							<br>
+							<br>
+							
+						The End</td>
+						</tr>
+						<tr height="6">
+							<td class="bottom2" width="645" height="6"></td>
+						</tr>
+						<tr>
+							<td width="645">
+								<div align="center">
+									<font size="-1">Copyright 2006 seinology.com | All Rights Reserved | Designed by 13erla</font></div>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+		<p></p>
+	</body>
+
+</html>
+

@@ -1,0 +1,1074 @@
+<tdOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+<html>
+
+	<head>
+		<meta http-equiv="content-type" content="text/html;charset=ISO-8859-1">
+		<meta name="description" content="Top Source for Seinfeld">
+		<meta name="keywords" content="seinfeld, sienfeld, Jerry Seinfeld, Julia Louis Dreyfus, Jason Alexander, Michael Richards, Kramer, George, Costanza, Elaine Benes, morty, Larry David">
+		<title>Seinology.com :: Scripts :: 61-The Smelly Car</title>
+	<link rel='stylesheet' href='/stylesheet.css' type='text/css'>
+	</head>
+
+	<body>
+			<table align="center" width="787" border="0" cellspacing="0" cellpadding="0">
+				<tr>
+					<td><font size="-2" color="red">Seinology.com - </font><font size="-3" color="black">Where Seinfeld Content and Accuracy Matter Most. Seinfeld scripts in pdf form, Seinfeld episode video clips, Seinfeld episode audio clips, Jerry Seinfeld appearances, Julia Louis-Dreyfus appearances, Michael Richards appearances, Jason Alexander appearances, Seinfeld discussion Forum, Seinfeld Where are they Now? Seinlanguage Newsletter, Popular Seinfeld Lists, Seinfeld episode standup, Seinfeld episode guide, Seinfeld fan fiction. Seinfeld content all on one domain. Seinology.com enjoy your stay.</font></td>
+				</tr>
+			</table>
+		
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr height="100">
+				<td class="logo"></td>
+			</tr>
+			<tr><td class="ads" align="center" background=#8694fa>
+				<script type="text/javascript"><!--
+google_ad_client = "pub-1924026976931416";
+google_ad_width = 728;
+google_ad_height = 90;
+google_ad_format = "728x90_as";
+google_ad_type = "text";
+google_ad_channel = "";
+google_color_border = "FFFFFF";
+google_color_bg = "8694fa";
+google_color_link = "0000FF";
+google_color_text = "000000";
+google_color_url = "002E3F";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></td></tr>
+		</table>
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr>
+				<td valign="top" width="136">
+					<table width="136" border="0" cellspacing="0" cellpadding="0">
+						<tr height="24">
+							<td class="navigation">
+								<div align="center">
+									
+									<b>Navigation</b></div>
+							</td>
+						</tr>
+						<tr height="199">
+							<td class="spacer1" valign="top" width="136" height="199">
+								<div align="center">
+									<font size="-1"><a href="http://www.seinology.com">Home</a><br>
+										<a href="http://board.seinology.com">Forum</a><br>
+										<a href="http://www.seinology.com/av.shtml">Audio/Video</a><br>
+										<a href="http://www.seinology.com/scripts.shtml">Scripts</a><br>
+										<a href="http://www.seinology.com/survivor.shtml">Survivor</a><br>
+										<a href="http://www.seinology.com/fanfics.shtml">Fan Fiction</a><br>
+										<a href="http://www.seinology.com/gallery/">Gallery</a><br>
+										<a href="http://www.seinology.com/newsletter.shtml">Newsletter</a><br>
+										<a href="http://www.seinology.com/lists.shtml">Lists</a><br>
+										<a href="http://www.seinology.com/epguide.shtml">Episode Guide</a><br>
+										<a href="http://www.seinology.com/links.shtml">Links</a><br>
+										<a href="http://www.seinology.com/faqother.shtml">Faq + others</a><br>
+										<a href="http://www.seinology.com/legal.shtml">Legal</a></font></div>
+							</td>
+						</tr>
+						
+						<tr>
+							<td class="nav2" width="136">
+							<div align="center"><b>Search</b></div></td>
+						</tr>
+						<tr>
+							<td class="spacer1" width="136" valign="top"><div align="center"><form method="get" action="http://www.seinology.com/search/search.cgi">
+<p><label for="fdse_Match">Match</label><br>
+<select name="Match" id="fdse_Match" size="1">
+<option value="1">All</option>
+<option value="0">Any</option>
+<option value="2">Phrase</option>
+</select></p>
+<p><label for="fdse_Realm">Where?</label><br>
+<select name="Realm" id="fdse_Realm" size="1">
+<option selected="selected" value="All">EntireSite</option>
+<option value="Ep Guide">Ep Guide</option>
+<option value="Images">Images</option>
+<option value="Lists">Lists</option>
+<option value="Newsletters">Newsletters</option>
+<option value="Scripts">Scripts</option>
+<option value="Notes..Nothing">Notes..Nothing</option>
+</select></p>
+<p><input type="text" name="Terms" size="14" id="fdse_Terms"><br>
+<input type="submit" class="submit" name="submitButtonName" value="Search"></p>
+</div></form></td>
+						</tr>
+						<tr><td class="bottom" width="136" height="10" valign="top">
+						</td>
+						</tr>
+					</table>
+				</td>
+				<td width="4"></td>
+				<td valign="top" width="645">
+					<table width="645" border="0" cellspacing="0" cellpadding="0">
+						<tr height="18">
+							<td width="645" height="35" class="bar">
+								<div align="center">
+									<b><font size="+2" color="black">Script</font></b></div>
+							</td>
+						</tr>
+						<tr height="362">
+							<td class="spacer2" valign="top" width="645" height="362">
+
+						<p><font size="-2">Episode 61 - The Smelly Car<br>
+							
+						pc: 422, season 4, episode 21<br>
+							
+						Broadcast date: April 15, 1993<br>
+							<br>
+							
+						Written by&nbsp; Larry David &amp; Peter Mehlman<br>
+							
+						Directed by Tom Cherones<br>
+							<br>
+							
+						-------------------------------------------------------------------------------<br>
+							<br>
+							
+						The Cast<br>
+							
+						Regulars:<br>
+							
+						Jerry Seinfeld ....................... Jerry Seinfeld<br>
+							
+						Jason Alexander .................. George Costanza<br>
+							
+						Julia Louis-Dreyfus ............. Elaine Benes<br>
+							
+						Michael Richards ................. Kramer<br>
+							<br>
+							
+						Guest Stars:<br>
+							<br>
+							
+						Michael Des Barres .............. Restaurateur<br>
+							
+						Nick Bakay .......................... Carl<br>
+							
+						Kari Coleman ...................... Allison<br>
+							
+						Taylor Negron .................... Hairdresser<br>
+							
+						Courtney Gains .................. Clerk<br>
+							
+						Raf Mauro .......................... Car Washer<br>
+							
+						Viveka Davis ...................... Mona<br>
+							
+						Robert Noble ..................... Salesman<br>
+							
+						Patricia Place ...................... Wife<br>
+							
+						Walt Beaver ....................... Husband<br>
+							
+						rc: Heidi Swedberg ........... Susan Biddle Ross<br>
+							<br>
+							
+						==================================================================<br>
+							<br>
+							
+						[Opening Monologue]<br>
+							<br>
+							
+						JERRY: ...And it *is* embarrassing, because a doggie bag means either you are out at a restaurant when you aren't hungry, or you've chosen the stupidest possible way to get dog food that there is. How about the doggie bag on a date? That's a good move for a guy, huh? Lemme tell you something: if you're a guy and you ask for the doggie bag on a date, you might as well have them just wrap up your genitals too. You're not going to be needing those for awhile, either.<br>
+							<br>
+							
+						&nbsp;<br>
+							
+						[We open in front of a restaurant (&quot;Kady's&quot;) with Jerry and Elaine waiting for the valet to come and get the keys for Jerry's car. Jerry is amusing himself by trying to drive Elaine nuts by humming and waving his scarf in front of her face.]<br>
+							<br>
+							
+						JERRY: Is that bothering you?<br>
+							<br>
+							
+						ELAINE: No, not at all...<br>
+							<br>
+							
+						(Amazing resilience, that Elaine has. The valet comes and Jerry gives him the keys. Elaine has some advice.)<br>
+							<br>
+							
+						ELAINE: Oh, could you please hurry?<br>
+							<br>
+							
+						JERRY: [mockingly] &quot;Please hurry&quot;. Look at you. Look at what you've become.<br>
+							<br>
+							
+						ELAINE: What? What have I become? I haven't &quot;become&quot; anything...<br>
+							<br>
+							
+						JERRY: Oh, *Carl* can't wait a few more minutes?<br>
+							<br>
+							
+						ELAINE: I don't want to keep him waiting...<br>
+							<br>
+							
+						JERRY: He'll like you more...<br>
+							<br>
+							
+						ELAINE: That's impossible...<br>
+							<br>
+							
+						(I'll buy that... Anyhoots, an elder married couple saunter by (yes, they actually saunter)...<br>
+							<br>
+							
+						WIFE: Andrew, why do you have to pick your teeth at the table?<br>
+							<br>
+							
+						HUSBAND: Leave me alone.<br>
+							<br>
+							
+						JERRY: Yeah, I'm wanting to get married *real* soon...<br>
+							<br>
+							
+						JERRY: So, where am I dropping you?<br>
+							<br>
+							
+						ELAINE: His place...<br>
+							<br>
+							
+						JERRY: This guy's got quite a racket. I take you to dinner and then drop you off at his apartment...<br>
+							<br>
+							
+						ELAINE: *And* he gets the rest of my chicken...<br>
+							<br>
+							
+						(No, that's no cleverly hidden euphemism. Elaine has a doggie bag from the restaurant.)<br>
+							<br>
+							
+						JERRY: So, is tonight &quot;the night&quot;?<br>
+							<br>
+							
+						ELAINE: You never know...<br>
+							<br>
+							
+						JERRY: Oooh! Bay-bee *doll*!<br>
+							<br>
+							
+						(The car arrives. They drive away. Soon, they discover something is definitely amiss)<br>
+							<br>
+							
+						JERRY: Boy, do you smell something?<br>
+							<br>
+							
+						ELAINE: Do I smell something? What am I, hard of smelling? Of *course* I smell something.<br>
+							<br>
+							
+						JERRY: What is it?<br>
+							<br>
+							
+						ELAINE: I think it's B.O.!<br>
+							<br>
+							
+						JERRY: What?<br>
+							<br>
+							
+						ELAINE: It's B.O. The *valet* must have had B.O.<br>
+							<br>
+							
+						JERRY: It *can't* be. Nobody has B.O. like this.<br>
+							<br>
+							
+						ELAINE: Jerry. It's *B*.*O*.<br>
+							<br>
+							
+						JERRY: But the whole car smells.<br>
+							<br>
+							
+						ELAINE: So?<br>
+							<br>
+							
+						JERRY: So when somebody has B.O., the &quot;O&quot; usually stays with the &quot;B&quot;. Once the &quot;B&quot; leaves, the &quot;O&quot; goes with it.<br>
+							<br>
+							
+						(They each do their best dog impression and stick their heads out the window while they're driving. They come back inside. They moan disgustedly and stick their heads out, again.)<br>
+							<br>
+							
+						(We shift to Carl's rather nifty place.)<br>
+							<br>
+							
+						ELAINE: I can't believe you ski!<br>
+							<br>
+							
+						CARL: I'm a great skier.<br>
+							<br>
+							
+						ELAINE: Yeah? What else?<br>
+							<br>
+							
+						CARL: Let's see... I ski, I fish, I pillage, I plunder...<br>
+							<br>
+							
+						ELAINE: [delightedly] Oh! You &quot;pillage and plunder&quot;?<br>
+							<br>
+							
+						CARL: ...When I travel.<br>
+							<br>
+							
+						ELAINE: See? Finally, *finally* I get to meet a man who pillages and plunders! I'm so lucky.<br>
+							<br>
+							
+						(Elaine! I can do those things! I can pillage! I can plunder! I can pillage *and* plunder! I can even divide and conquer in a search algorithm! Oh, never mind... They embrace and kiss, but Carl gets a couple o' whiffs of Elaine's hair, and, judging by the look on Carl's face, he's not smelling Aussie Scrunch Spray)<br>
+							<br>
+							<br>
+							
+						[We shift to Champagne video where George is returning a movie with Kramer.]<br>
+							<br>
+							
+						GEORGE: This'll only take a second.<br>
+							<br>
+							
+						KRAMER: Yeah, I'm going to poke around...<br>
+							<br>
+							
+						(George goes towards the counter, but he sees a couple of girls holding hands browsing for movies (beside of a cardboard display for &quot;A Few Good Men&quot;-- the irony, the irony...)<br>
+							<br>
+							
+						GEORGE: [to himself] Hey, whatd'ya know? Look at that! A *lesbian* sighting. Oh-ho! My lucky day. They're *so* fascinating. Why is that? Because they don't want us. You gotta respect that...<br>
+							<br>
+							
+						(The couple turns around and one of the two is Susan, George's ex-girlfriend!)<br>
+							<br>
+							
+						GEORGE: [to himself] Oh, my God! It's Susan! What do I do?<br>
+							<br>
+							
+						(George turns around so as not to be recognized, but I'm guessing his distinctive bald head gives him away)<br>
+							<br>
+							
+						SUSAN: George?<br>
+							<br>
+							
+						GEORGE: [to himself] Argh! [to Susan] Susan! Hi! Oh, boy! What are you doing here?!<br>
+							<br>
+							
+						SUSAN: Renting a video! What do you got there?<br>
+							<br>
+							
+						GEORGE: Oh, ... some stupid movie...<br>
+							<br>
+							
+						SUSAN: This is Mona.<br>
+							<br>
+							
+						(George methodically extends his hand for a shake, bit by bit)<br>
+							<br>
+							
+						GEORGE: Oh, hi...<br>
+							<br>
+							
+						MONA: Pleasure to meet you.<br>
+							<br>
+							
+						GEORGE: Yes. Well...<br>
+							<br>
+							
+						MONA: Well, I'll let you two, uh... catch up.<br>
+							<br>
+							
+						SUSAN: You okay?<br>
+							<br>
+							
+						GEORGE: Yeah. Yes! I just haven't seen you in a long time.<br>
+							<br>
+							
+						SUSAN: And you didn't expect me to be holding hands with a woman.<br>
+							<br>
+							
+						GEORGE: Oh, *please*! Me? C'mon! That's *great*! Are you kidding? I think thats fan*tastic*! I've always encouraged experimentation! I'm the first guy in the pool! Who do you think you're talking to?<br>
+							<br>
+							
+						SUSAN: I *know* who I'm talking to.<br>
+							<br>
+							
+						GEORGE: Of course you do... It's just, uh, y'know, I-I never *knew*, uh, that, uh...<br>
+							<br>
+							
+						SUSAN: I liked women?<br>
+							<br>
+							
+						GEORGE: There you go.<br>
+							<br>
+							
+						GEORGE: So, uh, how long has this been going on?<br>
+							<br>
+							
+						SUSAN: Since you and I broke up.<br>
+							<br>
+							
+						GEORGE: Ssssso, after me, you... went that way?<br>
+							<br>
+							
+						SUSAN: Yeah.<br>
+							<br>
+							
+						GEORGE: Oh, I think that's fantastic. Good for you. Nice. That's very nice.<br>
+							<br>
+							
+						(Meanwhile, Kramer is practicing his golf swing across from an amused Mona. They can be seen talking in the background as Susan inspects George's movie)<br>
+							<br>
+							
+						SUSAN: So, what have you got there?<br>
+							<br>
+							
+						GEORGE: Oh, I, uh--<br>
+							<br>
+							
+						SUSAN: Oh, ``Rochelle, Rochelle''<br>
+							<br>
+							
+						GEORGE: It's a foreign movie... a *film*, is what it is, actually.<br>
+							<br>
+							
+						SUSAN: Yeah... A lot of nudity in that, huh?<br>
+							<br>
+							
+						GEORGE: No, no, no... Just a *tiny* bit... It's not even *frontal* nudity. It's... *sidal* nudity...<br>
+							<br>
+							
+						CLERK: Next.<br>
+							<br>
+							
+						GEORGE: Oh, that's me.<br>
+							<br>
+							
+						SUSAN: Alright, well... Good seeing you, George.<br>
+							<br>
+							
+						GEORGE: Yes, good to see you, too. And Good luck with, uh... with the whole thing, there.<br>
+							<br>
+							
+						CLERK: Uh, what are you returning?<br>
+							<br>
+							
+						GEORGE: [embarrassed pause] ``Rochelle, Rochelle''.<br>
+							<br>
+							
+						CLERK: Ah, ``Rochelle, Rochelle''... &quot;A young girl's strange, erotic journey from Milan to Minsk&quot;...<br>
+							<br>
+							
+						CLERK: Uh, that'll be, uh... $3.49.<br>
+							<br>
+							
+						GEORGE: $3.49? It says $1.49.<br>
+							<br>
+							
+						CLERK: Well, you didn't rewind it. There's a $2.00 charge for not rewinding.<br>
+							<br>
+							
+						GEORGE: What! There's no signs here! This is an outrage!<br>
+							<br>
+							
+						KRAMER: George, don't give him any money for that. It'll cost you less to keep it another day, rewind it and bring it back tomorrow. Don't give him the satisfaction.<br>
+							<br>
+							
+						GEORGE: I'm not giving you the satisfaction. I'm gonna watch it again...<br>
+							<br>
+							
+						(Ah yes, memories of Kramer putting thoughts into Newmans mind while dealing with Ron (of Ron's Records). Anyway, we cut to the apartment where Jerry and Elaine are bundling old magazines... )<br>
+							<br>
+							
+						JERRY: So, this morning I go down to the garage to check the car out. I figure by this time, the odour molecules have had at least twelve hours to de-smellify. I open the car door, like a *punch* in the *face*, the stench hits me-- it's almost as if it had *gained* strength throughout the night...<br>
+							<br>
+							
+						ELAINE: Y'know I can think of at *least* six known offensive odours that I would *rather* smell than what's livin' in your car.<br>
+							<br>
+							
+						JERRY: What about skunk?<br>
+							<br>
+							
+						ELAINE: I don't mind skunk.<br>
+							<br>
+							
+						JERRY: Horse manure?<br>
+							<br>
+							
+						ELAINE: I *loooove* horse manure.<br>
+							<br>
+							
+						JERRY: Well, I've never seen anything like this in my life. In fact, I went to the car wash, they want 250 dollars to detail it, and get the smell out. I'm not payin' for that. That's not my responsibility. In fact, I'm drivin' up to that restaurant now, and *demand* they pay for it.<br>
+							<br>
+							
+						ELAINE: Absolutely.<br>
+							<br>
+							
+						ELAINE: Listen, lemme ask you something. When you're with a guy, and he tells you he has to get up early, what does that mean?<br>
+							<br>
+							
+						JERRY: It means he's lying.<br>
+							<br>
+							
+						ELAINE: Wow...<br>
+							<br>
+							
+						JERRY: Why? Is that what he told you?<br>
+							<br>
+							
+						ELAINE: Yeah, last night. Oh, come on... Men *have* to get up early some time...<br>
+							<br>
+							
+						JERRY: No. Never.<br>
+							<br>
+							
+						ELAINE: Jerry! I'm *sure* I've seen men on the street early in the morning.<br>
+							<br>
+							
+						JERRY: Well, sometimes we do actually have to get up early, but a man will *always* trade sleep for sex.<br>
+							<br>
+							
+						ELAINE: Is it possible I'm not as attractive as I think I am?<br>
+							<br>
+							
+						JERRY: Anything's *possible*...<br>
+							<br>
+							
+						(Kramer Enters)<br>
+							<br>
+							
+						JERRY: What's the matter with you?<br>
+							<br>
+							
+						KRAMER: Steinbrenner! He's ruinin' my life...<br>
+							<br>
+							
+						JERRY: Oh yeah, Steinbrenner...<br>
+							<br>
+							
+						KRAMER: I don't think I can take another season with him, Jerry. He'll just trade away their best young prospects, just like he did with Beuner, McGee, Drabek... McGriff...<br>
+							<br>
+							
+						JERRY: I know the list...<br>
+							<br>
+							
+						KRAMER: What's that smell?<br>
+							<br>
+							
+						JERRY: What smell?<br>
+							<br>
+							
+						KRAMER: Ooooh... You stink.<br>
+							<br>
+							
+						JERRY: Whatd'ya mean I stink?<br>
+							<br>
+							
+						KRAMER: You *stink*. Why don't you go take a shower?<br>
+							<br>
+							
+						JERRY: I showered! Oh, wait a second... Since I showered, I've been in the car!<br>
+							<br>
+							
+						ELAINE: So?<br>
+							<br>
+							
+						JERRY: Don't you see what's happening here? It's attached itself to me! It's alive!<br>
+							<br>
+							
+						ELAINE: If it attached itself to you, then... Oh, my God! That's why Carl said he had to get up early! Because I stink! Jerry, he thinks I have B.O.! Me!<br>
+							<br>
+							
+						(George buzzes)<br>
+							<br>
+							
+						KRAMER: What happened?<br>
+							<br>
+							
+						JERRY: What happened? My car *stinks* is what happened. And it's destroying the lives of everyone in it's path.<br>
+							<br>
+							
+						&nbsp;<br>
+							
+						[In the car]<br>
+							<br>
+							
+						GEORGE: What is that? B.O.?<br>
+							<br>
+							
+						JERRY: Yeah.<br>
+							<br>
+							
+						GEORGE: This is *unbelievable* B.O.<br>
+							<br>
+							
+						JERRY: I know... I was at the car wash this morning and the guy told me in his 38 years in the business, he's never smelled anything like it.<br>
+							<br>
+							
+						GEORGE: So, let me ask you. Do you think I could have done this?<br>
+							<br>
+							
+						JERRY: No, no. It's the valet guy.<br>
+							<br>
+							
+						GEORGE: No, no, I mean, driving Susan to lesbianism.<br>
+							<br>
+							
+						JERRY: Oh... No, that's ridiculous.<br>
+							<br>
+							
+						GEORGE: What if her experience with me *drove* her to it?<br>
+							<br>
+							
+						JERRY: Suicide, maybe, not lesbianism.<br>
+							<br>
+							
+						GEORGE: The woman she's &quot;lesbianing&quot; with? Susan told me she's *never* been with a guy.<br>
+							<br>
+							
+						GEORGE: Oh, this isn't even B.O.! This is *beyond* B.O.! It's *B*.B.O.!<br>
+							<br>
+							
+						JERRY: There should be a B.O. squad that patrols the city like a &quot;Smell Gestapo&quot;. To sniff 'em out, strip 'em down, and wash them with a big, soapy brush...<br>
+							<br>
+							
+						GEORGE: Y'know, the funny thing is, somehow I find her more appealing now... It's like if I knew she was a lesbian when we went out, I never would've broken up with her.<br>
+							<br>
+							
+						JERRY: Lemme see if I understand this... On second thought...<br>
+							<br>
+							
+						(At the restaurant, Jerry, refuses to have his car parked by the valet.)<br>
+							<br>
+							
+						JERRY: Here he is... that's the guy! (rolls up window) No, thank you, go back... go back... I'll park it! You go back!<br>
+							<br>
+							
+						(Inside, he confronts a snooty restaurant type guy.)<br>
+							<br>
+							
+						RESTAURATEUR: What do you mean-- &quot;stunk up&quot;?<br>
+							<br>
+							
+						JERRY: I mean the car *stinks*! George, does the car stink?<br>
+							<br>
+							
+						GEORGE: Stinks.<br>
+							<br>
+							
+						JERRY: Stinks!<br>
+							<br>
+							
+						RESTAURATEUR: Well, perhaps *you're* the one who has the odour...<br>
+							<br>
+							
+						JERRY: Hey, I've never smelled in my *life*, buddy!<br>
+							<br>
+							
+						RESTAURATEUR: Really? Well, I smell you now.<br>
+							<br>
+							
+						JERRY: That's from the car!<br>
+							<br>
+							
+						RESTAURATEUR: Well, maybe *you're* the one who stunk up the car, rather than the car stinking up you!<br>
+							<br>
+							
+						GEORGE: Oh, it's the chicken and the egg...<br>
+							<br>
+							
+						JERRY: Thank you very much... Well, then go out and smell the car; see which smells worse.<br>
+							<br>
+							
+						RESTAURATEUR: I don't have time to smell cars.<br>
+							<br>
+							
+						GEORGE: Forget about smelling the car. Smell the valet. Go to the source...<br>
+							<br>
+							
+						JERRY: You've gotta smell the car<br>
+							<br>
+							
+						RESTAURATEUR: I'm a busy man<br>
+							<br>
+							
+						JERRY: C'mon! One whiff!<br>
+							<br>
+							
+						RESTAURATEUR: Alright, one whiff...<br>
+							<br>
+							
+						(Inside the car, the restaurateur realizes there is some reality in Jerry's story)<br>
+							<br>
+							
+						RESTAURATEUR: Alright! I give up! I admit it! It stinks! Now will you let me out!<br>
+							<br>
+							
+						JERRY: Alright, will you pay for the cleaning?<br>
+							<br>
+							
+						RESTAURATEUR: Yes! 50 dollars! I'll give you 50 dollars!<br>
+							<br>
+							
+						(Jerry keeps him inside until he agrees to pay half ($125). To his horror, George discovers that some sick individual has stolen ``Rochelle, Rochelle'' from the dash of the car while they were inside. He asks the restaurateur to pay for that, too)<br>
+							<br>
+							
+						RESTAURATEUR: I'm not paying for *that*. They've already got my seven dollars... [sarcastically] &quot;...erotic journey from Milan to Minsk&quot;...<br>
+							<br>
+							<br>
+							
+						[Elaine and Carl at Elaine's apartment]<br>
+							<br>
+							
+						CARL: The valet had such bad B.O.?<br>
+							<br>
+							
+						ELAINE: Oh, man, just *rampant*, **mutant** B.O. The &quot;O&quot; went from the valet's &quot;B&quot;, to the car, to me. It clings to everything. Jerry thinks it's an entity. But I showered and I shampoo'ed, so...<br>
+							<br>
+							
+						CARL: That's a relief...<br>
+							<br>
+							
+						(Carl recoils from an embrace from Elaine)<br>
+							<br>
+							
+						ELAINE: What?<br>
+							<br>
+							
+						CARL: It's still there...<br>
+							<br>
+							
+						ELAINE: No, no, no! It *can't* be! I shampoo'ed! I rinsed! I repeated!<br>
+							<br>
+							
+						(Elaine corners the poor guy)<br>
+							<br>
+							<br>
+							
+						[We cut to the video store where George tells the clerk about the video. Susan shows up and George asks her]<br>
+							<br>
+							
+						GEORGE: Listen, I gotta ask you: I was a little concerned that perhaps I was responsible in some way for your, uh... metamorphosis.<br>
+							<br>
+							
+						CLERK: That'll be $98.00.<br>
+							<br>
+							
+						GEORGE: What $98.00?<br>
+							<br>
+							
+						CLERK: That's what I said. $98.00.<br>
+							<br>
+							
+						GEORGE: How could that piece of *crap* cost $98.00!?<br>
+							<br>
+							
+						(He borrows $35 from Susan to pay for the movie)<br>
+							<br>
+							
+						GEORGE: So, was it me?<br>
+							<br>
+							
+						SUSAN: Oh, don't be ridiculous! Is that what you wanted to talk to me about? [Gives him the $35] Here.<br>
+							<br>
+							
+						GEORGE: Oh, thanks. Thanks a lot. I'll pay you back.<br>
+							<br>
+							
+						SUSAN: Yeah, *sure*... I gotta go.<br>
+							<br>
+							
+						GEORGE: Listen. Let me ask you something. If you and Mona were ever to... dance, how do you decide who leads? I mean... do you take turns? Do you discuss it beforehand? How does that work?<br>
+							<br>
+							
+						SUSAN: You're an idiot.<br>
+							<br>
+							
+						GEORGE: Why? That's a *legitimate* sociological question.<br>
+							<br>
+							
+						SUSAN: I'll see ya. And George, by the way... You stink... Real bad.<br>
+							<br>
+							
+						GEORGE: It's not me! It's the car!<br>
+							<br>
+							
+						&nbsp;<br>
+							
+						[Cut to Kramer waiting on a street corner]<br>
+							<br>
+							
+						MONA: I didn't think I'd come.<br>
+							<br>
+							
+						KRAMER: I knew you would.<br>
+							<br>
+							
+						MONA: Oh, Kramer!<br>
+							<br>
+							
+						(They embrace.)<br>
+							<br>
+							<br>
+							
+						[Car-wash]<br>
+							<br>
+							
+						CAR WASHER: We spray everything with Ozium-D, let it de-ionise, vacuum the spray out with a de-ionising machine. Hit it with high-pressure compressed air, and wet-dry vac it to extract the remaining liquids. We top it off with one of our seven air-fresheners, in your case, I would recommend the Jasmine, or the Potpourri.<br>
+							<br>
+							
+						JERRY: Let's do it.<br>
+							<br>
+							
+						&nbsp;<br>
+							
+						[Cut to the hair salon where Elaine hears a similar tale from the hairdresser.]<br>
+							<br>
+							
+						HAIRDRESSER: The first thing we're gonna do is flush the follicles with the five essential oils. Then, we put you under a vapour machine, and then a heated cap. Then, we shampoo and shampoo and condition and condition. Then, we saturate the hair in diluted vinegar-- two parts vinegar, 10 parts water. Now, if that doesn't work, we have one last resort. Tomato sauce.<br>
+							<br>
+							
+						ELAINE: Tomato Sauce?<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						[Jerry doles out his $250 and gets in the April-fresh car...]<br>
+							<br>
+							
+						JERRY: Wait a minute! It still smells! It still smells!<br>
+							<br>
+							<br>
+							
+						[Elaine visits Carl to present her olfactory-wise magnificent hair.]<br>
+							<br>
+							
+						CARL: It still smells.<br>
+							<br>
+							<br>
+							
+						[Jerry explains things to George back at the apartment.]<br>
+							<br>
+							
+						JERRY: It still smells!<br>
+							<br>
+							
+						GEORGE: How could it still smell after all that?<br>
+							<br>
+							
+						JERRY: I don't know!<br>
+							<br>
+							
+						GEORGE: Well, what are you gonna do?<br>
+							<br>
+							
+						JERRY: I'll tell you what I'm gonna do, I'm selling that car!<br>
+							<br>
+							
+						GEORGE: You're *selling* the car!?<br>
+							<br>
+							
+						JERRY: You don't understand what I'm up against. This is a force more powerful than anything you can imagine. Even *Superman* would be helpless against this kind of stench. And I'll take anything I can get for it.<br>
+							<br>
+							
+						GEORGE: Maybe I'll buy it.<br>
+							<br>
+							
+						JERRY: Are you crazy? Don't you understand what I'm saying to you? This is not just an odour-- you need a *priest* to get rid of this thing!<br>
+							<br>
+							
+						ELAINE: I still smell!<br>
+							<br>
+							
+						JERRY: You see! You see what I'm saying to you? It's a presence! It's the beast!<br>
+							<br>
+							<br>
+							
+						[Outside, a woman's voice is heard screaming and pounding on Kramer's door.]<br>
+							<br>
+							
+						SUSAN: Kramer! Kramer! Kramer, open up, I know you're in there!<br>
+							<br>
+							
+						JERRY: Susan!<br>
+							<br>
+							
+						SUSAN: Kramer!<br>
+							<br>
+							
+						JERRY: What is going on?<br>
+							<br>
+							
+						SUSAN: You know what's going on? First, he vomits on me. Then, he burns down my father's cabin. And now, he's taken Mona away from me.<br>
+							<br>
+							
+						GEORGE: He stole your girlfriend?<br>
+							<br>
+							
+						SUSAN: Yes. She's in *love* with him.<br>
+							<br>
+							
+						GEORGE: Amazing. I drive them to lesbianism, he brings 'em back.<br>
+							<br>
+							
+						(Kramer waits until George and Susan have left, then calls Jerry on the phone, and begins to explain the situation to Jerry (while coming into his apartment, still on the phone). He realizes his silliness and puts the phone away, but continues the tale, explaining how Mona is a golf instructor, and how he's already taken six strokes off his game.)<br>
+							<br>
+							
+						JERRY: That's the *least* of what you've accomplished...<br>
+							<br>
+							
+						(Kramer explains further and borrows Jerry's jacket for his date with Mona that evening. As he's leaving, Elaine asks the inevitable)<br>
+							<br>
+							
+						ELAINE: Wait a minute, wait a minute. Kramer, Kramer... Hold on a second. I don't get this. This woman has *never* been with a man her *entire* life--<br>
+							<br>
+							
+						KRAMER: I'm Kramer.<br>
+							<br>
+							
+						&nbsp;<br>
+							
+						[George and Susan at Monk's]<br>
+							<br>
+							
+						GEORGE: I know what you're going through. Women. Who knows what they want?<br>
+							<br>
+							
+						SUSAN: I just don't know what she sees in *Kramer*.<br>
+							<br>
+							
+						GEORGE: Listen. You're beautiful. You're intelligent. You'll meet other girls...<br>
+							<br>
+							
+						SUSAN: You think so?<br>
+							<br>
+							
+						GEORGE: Yes, I know so. You happen to be a very eligible lesbian.<br>
+							<br>
+							
+						SUSAN: You're very sweet...<br>
+							<br>
+							
+						GEORGE: Hey, I know what I'm talking about. I gotta be honest with you, I gotta tell ya... Ever since I saw you holding hands with that woman, I can't get you out of my mind.<br>
+							<br>
+							
+						SUSAN: Really?<br>
+							<br>
+							
+						GEORGE: Yeah, you're just so... hip.<br>
+							<br>
+							
+						(A woman exits the bathroom and approached the table)<br>
+							<br>
+							
+						GEORGE: Oh, my God...<br>
+							<br>
+							
+						SUSAN: What?<br>
+							<br>
+							
+						GEORGE: It's Allison. I dated her right after you. She's obsessed with me.<br>
+							<br>
+							
+						(Despite his hiding, Allison sees George.)<br>
+							<br>
+							
+						ALLISON: George?<br>
+							<br>
+							
+						GEORGE: Allison! Hi! Oh, my God! How are you?<br>
+							<br>
+							
+						ALLISON: Good. You know, you owe me $50...<br>
+							<br>
+							
+						GEORGE: Right. I don't have it on me. Allison, this is Susan. Susan, Allison.<br>
+							<br>
+							
+						ALLISON: Nice to meet you...<br>
+							<br>
+							
+						SUSAN: Nice to meet you...<br>
+							<br>
+							
+						ALLISON: That's a beautiful vest...<br>
+							<br>
+							
+						SUSAN: Thank you...<br>
+							<br>
+							<br>
+							
+						[Kramer and Jerry at the car lot trying to sell J's car.]<br>
+							<br>
+							
+						KRAMER: I don't understand it. I was with her last night in my apartment; it was very romantic. Y'know with that fake wood wallpaper, the atmosphere is *fabulous* in there, now. It's like a ski lodge.<br>
+							<br>
+							
+						SALESMAN: What year did you say this was?<br>
+							<br>
+							
+						JERRY: '90.<br>
+							<br>
+							
+						KRAMER: Anyway, we were on the couch, I move to hug her, next thing she tells me she's leaving; she's got to get up early.<br>
+							<br>
+							
+						JERRY: That's strange...<br>
+							<br>
+							
+						SALESMAN: How many miles you got on this thing?<br>
+							<br>
+							
+						JERRY: 23 000.<br>
+							<br>
+							
+						KRAMER: And I was looking good, too. I had a nice, new shirt on, I'm wearing *your* jacket...<br>
+							<br>
+							
+						JERRY: Wait a second... My jacket! I wore that in the car! The Beast!<br>
+							<br>
+							
+						&nbsp;<br>
+							
+						[Speak of the Devil, the car salesman exits the car with an &quot;Augh!&quot;... ]<br>
+							<br>
+							
+						SALESMAN: I can't sell this car.<br>
+							<br>
+							
+						JERRY: This... **thing**... has got to be stopped!<br>
+							<br>
+							<br>
+							
+						[At the salon, Elaine rationally decides her fate to the hairdresser]<br>
+							<br>
+							
+						HAIRDRESSER: So, what do you want to do?<br>
+							<br>
+							
+						ELAINE: Sauce me.<br>
+							<br>
+							<br>
+							
+						[In a rough-looking part of town]<br>
+							<br>
+							
+						(Jerry parks in front of a punk, tosses his keys in the car, and leaves, making it *very* obvious to the guy that the car has got a high steal quotient. He stops short of screaming &quot;TAKE IT!&quot;. The punk gets in, and... well, let's just say he doesn't smell potpourri...)<br>
+							<br>
+							<br>
+							
+						[Opening Monologue]&nbsp;<br>
+							<br>
+							
+						Why do we need B.O.? What is the function of it? Everything in nature has a reason, has a purpose, except B.O. Doesn't make any sense-- do something good, hard work, exercise, smell very bad. This is the way the human being is designed. You move, you stink. Why can't our bodies help us? Why can't sweat smell good? It'd be a different world, wouldn't it? Instead of putting your laundry in the hamper, you'd put it in a vase. You'd go down to the drugstore and pick up some odourant and perspirant. You'd probably have a dirty sweat sock hanging from the rear-view mirror of your car. And then on a really special night, maybe a little underwear comin' out of your breast pocket. Just to let her know she's important.<br>
+							<br>
+							<br>
+							
+						The End</td>
+						</tr>
+						<tr height="6">
+							<td class="bottom2" width="645" height="6"></td>
+						</tr>
+						<tr>
+							<td width="645">
+								<div align="center">
+									<font size="-1">Copyright 2006 seinology.com | All Rights Reserved | Designed by 13erla</font></div>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+		<p></p>
+	</body>
+
+</html>

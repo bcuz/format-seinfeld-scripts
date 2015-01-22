@@ -1,0 +1,1068 @@
+<tdOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+<html>
+
+	<head>
+		<meta http-equiv="content-type" content="text/html;charset=ISO-8859-1">
+		<meta name="description" content="Top Source for Seinfeld">
+		<meta name="keywords" content="seinfeld, sienfeld, Jerry Seinfeld, Julia Louis Dreyfus, Jason Alexander, Michael Richards, Kramer, George, Costanza, Elaine Benes, morty, Larry David">
+		<title>Seinology.com :: Scripts :: 19-The Truth</title>
+	<link rel='stylesheet' href='/stylesheet.css' type='text/css'>
+	</head>
+
+	<body>
+			<table align="center" width="787" border="0" cellspacing="0" cellpadding="0">
+				<tr>
+					<td><font size="-2" color="red">Seinology.com - </font><font size="-3" color="black">Where Seinfeld Content and Accuracy Matter Most. Seinfeld scripts in pdf form, Seinfeld episode video clips, Seinfeld episode audio clips, Jerry Seinfeld appearances, Julia Louis-Dreyfus appearances, Michael Richards appearances, Jason Alexander appearances, Seinfeld discussion Forum, Seinfeld Where are they Now? Seinlanguage Newsletter, Popular Seinfeld Lists, Seinfeld episode standup, Seinfeld episode guide, Seinfeld fan fiction. Seinfeld content all on one domain. Seinology.com enjoy your stay.</font></td>
+				</tr>
+			</table>
+		
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr height="100">
+				<td class="logo"></td>
+			</tr>
+			<tr><td class="ads" align="center" background=#8694fa>
+				<script type="text/javascript"><!--
+google_ad_client = "pub-1924026976931416";
+google_ad_width = 728;
+google_ad_height = 90;
+google_ad_format = "728x90_as";
+google_ad_type = "text";
+google_ad_channel = "";
+google_color_border = "FFFFFF";
+google_color_bg = "8694fa";
+google_color_link = "0000FF";
+google_color_text = "000000";
+google_color_url = "002E3F";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></td></tr>
+		</table>
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr>
+				<td valign="top" width="136">
+					<table width="136" border="0" cellspacing="0" cellpadding="0">
+						<tr height="24">
+							<td class="navigation">
+								<div align="center">
+									
+									<b>Navigation</b></div>
+							</td>
+						</tr>
+						<tr height="199">
+							<td class="spacer1" valign="top" width="136" height="199">
+								<div align="center">
+									<font size="-1"><a href="http://www.seinology.com">Home</a><br>
+										<a href="http://board.seinology.com">Forum</a><br>
+										<a href="http://www.seinology.com/av.shtml">Audio/Video</a><br>
+										<a href="http://www.seinology.com/scripts.shtml">Scripts</a><br>
+										<a href="http://www.seinology.com/survivor.shtml">Survivor</a><br>
+										<a href="http://www.seinology.com/fanfics.shtml">Fan Fiction</a><br>
+										<a href="http://www.seinology.com/gallery/">Gallery</a><br>
+										<a href="http://www.seinology.com/newsletter.shtml">Newsletter</a><br>
+										<a href="http://www.seinology.com/lists.shtml">Lists</a><br>
+										<a href="http://www.seinology.com/epguide.shtml">Episode Guide</a><br>
+										<a href="http://www.seinology.com/links.shtml">Links</a><br>
+										<a href="http://www.seinology.com/faqother.shtml">Faq + others</a><br>
+										<a href="http://www.seinology.com/legal.shtml">Legal</a></font></div>
+							</td>
+						</tr>
+						
+						<tr>
+							<td class="nav2" width="136">
+							<div align="center"><b>Search</b></div></td>
+						</tr>
+						<tr>
+							<td class="spacer1" width="136" valign="top"><div align="center"><form method="get" action="http://www.seinology.com/search/search.cgi">
+<p><label for="fdse_Match">Match</label><br>
+<select name="Match" id="fdse_Match" size="1">
+<option value="1">All</option>
+<option value="0">Any</option>
+<option value="2">Phrase</option>
+</select></p>
+<p><label for="fdse_Realm">Where?</label><br>
+<select name="Realm" id="fdse_Realm" size="1">
+<option selected="selected" value="All">EntireSite</option>
+<option value="Ep Guide">Ep Guide</option>
+<option value="Images">Images</option>
+<option value="Lists">Lists</option>
+<option value="Newsletters">Newsletters</option>
+<option value="Scripts">Scripts</option>
+<option value="Notes..Nothing">Notes..Nothing</option>
+</select></p>
+<p><input type="text" name="Terms" size="14" id="fdse_Terms"><br>
+<input type="submit" class="submit" name="submitButtonName" value="Search"></p>
+</div></form></td>
+						</tr>
+						<tr><td class="bottom" width="136" height="10" valign="top">
+						</td>
+						</tr>
+					</table>
+				</td>
+				<td width="4"></td>
+				<td valign="top" width="645">
+					<table width="645" border="0" cellspacing="0" cellpadding="0">
+						<tr height="18">
+							<td width="645" height="35" class="bar">
+								<div align="center">
+									<b><font size="+2" color="black">Script</font></b></div>
+							</td>
+						</tr>
+						<tr height="362">
+							<td class="spacer2" valign="top" width="645" height="362">
+
+						<p><font size="-2">Episode 19 - The Truth<br>
+							
+						pc: 302, season 3, episode 2<br>
+							
+						Broadcast date: September 25, 1991<br>
+							<br>
+							
+						Written By Elaine Pope<br>
+							
+						Directed By David Steinberg<br>
+							<br>
+							
+						-------------------------------------------------------------------------------<br>
+							<br>
+							
+						The Cast<br>
+							
+						Regulars:<br>
+							
+						Jerry Seinfeld ....................... Jerry Seinfeld<br>
+							
+						Jason Alexander .................. George Costanza<br>
+							
+						Julia Louis-Dreyfus ............. Elaine Benes<br>
+							
+						Michael Richards ................. Kramer<br>
+							<br>
+							
+						Guest Stars:<br>
+							<br>
+							
+						Valerie Mahaffey ................ Patrice<br>
+							
+						Siobhan Fallon .................... Tina<br>
+							<br>
+							
+						==================================================================<br>
+							<br>
+							<br>
+							
+						[Opening Monologue]<br>
+							<br>
+							
+						JERRY: Welcome everyone to the room...Ah, the extra button....yeah ... what kind of a sicko would save these ...have them in a huge file, drawers that wide (small fingers opening imaginary drawers) Where the hell is that ... I mean is it THAT hard to get round black buttons that they have to make it into such a great thing like this? ... is it such a great jacket ... the buttons are so unique, so one of a kind, you'll never find them - they save you the trouble of knocking your brain off - and we know they're going to fall off too that's the other thing ...<br>
+							<br>
+							<br>
+							<br>
+							
+						[Monks]<br>
+							<br>
+							
+						PATRICE: Everyone in my family's creative. And even though I'm working as an accountant now I'd really like to eventually live exclusively on my pappe-ay mache-ay hats<br>
+							<br>
+							
+						GEORGE:I don't understand. Paper Machay hats?<br>
+							<br>
+							
+						PATRICE: uh uh<br>
+							<br>
+							
+						GEORGE: What if it rains?<br>
+							<br>
+							
+						PATRICE: They're art. You hang them on the wall.<br>
+							<br>
+							
+						GEORGE:Oh, art!<br>
+							<br>
+							
+						PATRICE: It's my creative outlet. One of my passions.<br>
+							<br>
+							
+						GEORGE: Any money in it?<br>
+							<br>
+							
+						PATRICE: Who so belongs only to his age, references only popenjays and mumbo jumbos<br>
+							<br>
+							
+						GEORGE: Of course, right.<br>
+							<br>
+							
+						PATRICE: Thomas Carlisle, 1864.<br>
+							<br>
+							
+						GEORGE: Tommy C.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Jerry's Apartment]<br>
+							<br>
+							
+						JERRY: These are the receipts from 85 and I'm going to do 86.<br>
+							<br>
+							
+						KRAMER: I'm sorry. I thought it was a legitimate charity. I didn't know you'd get audited<br>
+							<br>
+							
+						JERRY: I don't blame you. I blame myself.<br>
+							<br>
+							
+						KRAMER: No, blame me.<br>
+							<br>
+							
+						JERRY: OK, I blame you.<br>
+							<br>
+							
+						KRAMER: Don't blame me.<br>
+							<br>
+							
+						JERRY: What was I supposed to do? You knew I was on my first date with Elaine. You come barging in here asking me to contribute money for a volcano relief fund for krakatoa.<br>
+							<br>
+							
+						KRAMER: It was supposed to erupt.<br>
+							<br>
+							
+						JERRY: I find the whole thing very embarrassing.<br>
+							<br>
+							
+						KRAMER: You know what my feelings are about this. I don't even pay taxes.<br>
+							<br>
+							
+						JERRY: Yeah, tha's easy when you have no income.<br>
+							<br>
+							
+						(Elaine enters)<br>
+							<br>
+							
+						ELAINE: Hi,<br>
+							<br>
+							
+						JERRY: Hi<br>
+							<br>
+							
+						ELAINE: Kramer, do me a favour will ya'. If you insist o making pasta in my apartment please don't put the tomato sauce on the pasta while it's in the strainer. All the little squares have hardened red sauce in them.<br>
+							<br>
+							
+						(Jerry smiles)<br>
+							<br>
+							
+						ELAINE: What's so funny<br>
+							<br>
+							
+						JERRY: Kramer dating your room mate. It's funny.<br>
+							<br>
+							
+						ELAINE: Uh, it's a riot Alice.<br>
+							<br>
+							
+						KRAMER: When do you pit the sauce on?<br>
+							<br>
+							
+						ELAINE: Any other time.<br>
+							<br>
+							
+						KRAMER: I like to strain the sauce.<br>
+							<br>
+							
+						ELAINE: And ... I could really live without the tribal music ... and the make out sessions in the living room<br>
+							<br>
+							
+						KRAMER: Yeah, Tina likes the couch.<br>
+							<br>
+							
+						ELAINE: What are you doing? What is all this?<br>
+							<br>
+							
+						JERRY: Oh he's uh, helping me sort my receipts. I'm being audited.<br>
+							<br>
+							
+						ELAINE: O, your being auditted? What for?<br>
+							<br>
+							
+						JERRY: Oh, I contributed money to a charity that turned out to be fraudulent. It's very boring.<br>
+							<br>
+							
+						ELAINE: When was this?<br>
+							<br>
+							
+						JERRY: Uh, Along long time ago, in a galaxy far far away.<br>
+							<br>
+							
+						ELAINE: I remember you donated to some volcano thing on our first date.<br>
+							<br>
+							
+						JERRY: Volcano? Really?<br>
+							<br>
+							
+						ELAINE: Oh, wait a minute. Don't tell me that that was ...<br>
+							<br>
+							
+						JERRY: Something to drink?<br>
+							<br>
+							
+						ELAINE: What did you think, that would impress me?<br>
+							<br>
+							
+						JERRY: You got it ALL wrong. I was thinking only of the poor Krakatoans<br>
+							<br>
+							
+						ELAINE: Like you this donation for 50 bucks and I'd start tearing my clothes off?<br>
+							<br>
+							
+						JERRY: Those brave Krakatoans East of Java. who sacrifice so much for so long.<br>
+							<br>
+							
+						ELAINE: Now you're being audited because of it. You see That's Karma.<br>
+							<br>
+							
+						JERRY: No, that's Krama.<br>
+							<br>
+							
+						ELAINE: So, waddya' going to do?<br>
+							<br>
+							
+						JERRY: It's all taken care of.<br>
+							<br>
+							
+						ELAINE: How is that?<br>
+							<br>
+							
+						KRAMER: (chuckles)<br>
+							<br>
+							
+						JERRY: An old friend of mine, whom you may have met, George Costanza, has recently become intimate with a female accountant who was formally a highly placed official with an outfit known as the IRS. And as we speak, at this very moment he is handing over to her all of my pertinent tax information. And she has assured us that the matter is well within her field of expertise.<br>
+							<br>
+							
+						ELAINE: Why is she doing this?<br>
+							<br>
+							
+						JERRY: I don't know. It must be love.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Monks]<br>
+							<br>
+							
+						GEORGE: I don't think we should see each other anymore. You're great but I'm I'm riddled with personal problems.<br>
+							<br>
+							
+						PATRICE: What did I do?<br>
+							<br>
+							
+						GEORGE: Nothing It's not you. It's me. I have a fear of commitment. I don't know how to love.<br>
+							<br>
+							
+						PATRICE: You hate my earrings don't you?<br>
+							<br>
+							
+						GEORGE: No, no,<br>
+							<br>
+							
+						PATRICE: And you didn't comment on the chop sticks.<br>
+							<br>
+							
+						GEORGE: I love the chop sticks. I, I personally prefer a fork but they look very nice.<br>
+							<br>
+							
+						PATRICE: You're not telling me the truth. I must have done something.<br>
+							<br>
+							
+						GEORGE: I have a fear of intimacy<br>
+							<br>
+							
+						PATRICE: Don't give me cliches. I have a right to know. What did I do wrong?<br>
+							<br>
+							
+						GEORGE: Nothing. It's not YOU..<br>
+							<br>
+							
+						PATRICE: I want the truth.<br>
+							<br>
+							
+						GEORGE: The truth. you want the truth? It is your earrings It is the chopsticks but it's so much more. You're pretentious. You call everyone by their full name You call my doorman, Sammy, &quot;Samuel&quot; but you didn't even say &quot;Samuel&quot; You went &quot;Sam - U- EL&quot; Papie-eh Mach-eh What is Papie-ay Mach-ay?<br>
+							<br>
+							
+						PATRICE: Keep goin'.<br>
+							<br>
+							
+						GEORGE: I, I think I made my point. I'm sorry if I was a little harsh.<br>
+							<br>
+							
+						PATRICE: No, I asked for the truth. Thank you for being so honest.<br>
+							<br>
+							
+						GEORGE: Can I uh, can I walk you back to work?<br>
+							<br>
+							
+						PATRICE: I prefer to go alone. How much do I owe?<br>
+							<br>
+							
+						GEORGE: Oh, please ... ... four dollars is f...<br>
+							<br>
+							<br>
+							<br>
+							
+						[Jerry's Apartment]<br>
+							<br>
+							
+						JERRY: ... if this audit had happened to me and I didn't have this woman to help me I would have killed this man. I would have strangled the life out of him with my bare hands<br>
+							<br>
+							
+						ELAINE: I don't blame ya'<br>
+							<br>
+							
+						JERRY: Have you ever been through an audit?<br>
+							<br>
+							
+						ELAINE: No.<br>
+							<br>
+							
+						JERRY: It's hell. It's the financial equivalent of a complete rectal examination. I would have killed this man. Torn him limb from limb, ripped the flesh right off his bones ...<br>
+							<br>
+							
+						(buzzer)<br>
+							<br>
+							
+						JERRY: Yeah<br>
+							<br>
+							
+						GEORGE: George<br>
+							<br>
+							
+						JERRY: Come up - Ah, there he is, the man himself, George Louis Costanza. Here I am about to go to the electric chair and my oldest friend is dating the governor<br>
+							<br>
+							
+						GEORGE: My whole life has been a complete waste of time, (chuckle)<br>
+							<br>
+							
+						JERRY: And there's so much more to go.<br>
+							<br>
+							
+						GEORGE: Now I know what I am supposed to do. It's so simple. Tell the truth That's all. Just tell the truth<br>
+							<br>
+							
+						JERRY: So what happened? You gave her my tax papers? ... My papers?<br>
+							<br>
+							
+						GEORGE: Oh, oh, your papers<br>
+							<br>
+							
+						JERRY: What happened you didn't give her the papers?<br>
+							<br>
+							
+						GEORGE: No. I did.<br>
+							<br>
+							
+						JERRY: SO?<br>
+							<br>
+							
+						GEORGE: ...I broke up with her.<br>
+							<br>
+							
+						(Kramer leaves)<br>
+							<br>
+							
+						JERRY: You what?<br>
+							<br>
+							
+						GEORGE: I broke up with her.<br>
+							<br>
+							
+						JERRY: I'm being audited! And you broke up with her?<br>
+							<br>
+							
+						GEORGE: It's OK. It's fine. She'll do it. I'm sure she'll still do it.<br>
+							<br>
+							
+						JERRY: Why will she still do it? She hates you now. People don't do you favors after you dump them.<br>
+							<br>
+							
+						GEORGE: Oh, no. We left on good terms.<br>
+							<br>
+							
+						JERRY: How is that possible?<br>
+							<br>
+							
+						GEORGE: Because I uh, I told her the truth.<br>
+							<br>
+							
+						JERRY: Oh, my God.<br>
+							<br>
+							
+						GEORGE: It's OK.<br>
+							<br>
+							
+						JERRY: It's unheard of ...<br>
+							<br>
+							
+						GEORGE: She asked me to.<br>
+							<br>
+							
+						JERRY: So you lie! What did you tell her?<br>
+							<br>
+							
+						GEORGE: I told her that she was pretentious.<br>
+							<br>
+							
+						JERRY: Pretentious!? The woman has my tax papers. You told her she was pretentious? The IRS. They're like the MAFIA. They can take anything they want<br>
+							<br>
+							
+						ELAINE: How would you like it if someone told YOU the truth?<br>
+							<br>
+							
+						GEORGE: Like what? What could they say?<br>
+							<br>
+							
+						ELAINE: There are plenty of things to say.<br>
+							<br>
+							
+						GEORGE: Like what? I'm bald? What is it specifically? Is, is there an odor I'm not aware of?<br>
+							<br>
+							
+						ELAINE: George, please.<br>
+							<br>
+							
+						GEORGE: Give me one.<br>
+							<br>
+							
+						ELAINE: You sure?<br>
+							<br>
+							
+						GEORGE: Yes.<br>
+							<br>
+							
+						ELAINE: What?<br>
+							<br>
+							
+						ELAINE: Forget it. You are very careful with money.<br>
+							<br>
+							
+						GEORGE: I'm cheap? You think I'm CHEAP? How could you say that to me? I can't believe this. How could you say that to me?<br>
+							<br>
+							
+						ELAINE: You asked me to.<br>
+							<br>
+							
+						GEORGE: You should have lied.<br>
+							<br>
+							
+						ELAINE: HUH, so should you.<br>
+							<br>
+							
+						JERRY: OK, wait a second, wait a second, what happened to my papers?<br>
+							<br>
+							
+						GEORGE:(ignoring Jerry) I mean I'm not really working right now.<br>
+							<br>
+							
+						ELAINE: I know.<br>
+							<br>
+							
+						GEORGE: When I was working I spent baby.<br>
+							<br>
+							
+						JERRY: Yeah, I know champagne, limos, cigars. WHAT happened to the papers?<br>
+							<br>
+							
+						GEORGE: She put them in her pocketbook. I guess she took them with her.<br>
+							<br>
+							
+						ELAINE: Pocketbook or a handbag?<br>
+							<br>
+							
+						JERRY: Is that relevant? She TOOK them. Call her office.<br>
+							<br>
+							
+						GEORGE: Give me the phone. (dials) Yea, Hi I would like to speak to Patrice. ... what? ... oh really? ... oh, ok, thank you, ... (hangs up)<br>
+							<br>
+							
+						JERRY: What? What?<br>
+							<br>
+							
+						GEORGE: She never came back from lunch.<br>
+							<br>
+							
+						JERRY: This is no good. This is no good. Call her house.<br>
+							<br>
+							
+						GEORGE: (dials) Hi, are you OK? no, no,.. huh, (hangs up) She hung up.<br>
+							<br>
+							
+						JERRY: Not good.<br>
+							<br>
+							
+						GEORGE: All right. There's nothing to be worried about. She's just a little annoyed right now. Tomorrow I'll personally go over there. I'll apologize. I'll get the papers. Don't worry. Don't worry. (exits)<br>
+							<br>
+							
+						JERRY: Not good<br>
+							<br>
+							<br>
+							<br>
+							
+						[Jerry's Apartment]<br>
+							<br>
+							
+						KRAMER: Yeah, it's a windshield.<br>
+							<br>
+							
+						JERRY: I can see that. What's it for?<br>
+							<br>
+							
+						KRAMER: I found it on the road.<br>
+							<br>
+							
+						JERRY: Yeah (to buzzer)<br>
+							<br>
+							
+						ELAINE: (from intercom) I just finished working out are you busy?<br>
+							<br>
+							
+						JERRY: Come on up.<br>
+							<br>
+							
+						KRAMER: Can you believe somebody threw this out? You know I'm going to make a coffee table out of this and surprise Tina.<br>
+							<br>
+							
+						JERRY: wouldn't it be invisible? I mean, what, are you going to just sense it's in front of the couch?<br>
+							<br>
+							
+						KRAMER: wow<br>
+							<br>
+							
+						(Elaine enters - she and Kramer avoid each other's stares)<br>
+							<br>
+							
+						ELAINE: hell-oo<br>
+							<br>
+							
+						KRAMER: hell-oo<br>
+							<br>
+							
+						JERRY: What's with you two?<br>
+							<br>
+							
+						ELAINE: You haven't told him?<br>
+							<br>
+							
+						JERRY: Tell me what?<br>
+							<br>
+							
+						ELAINE: Huh, go ahead, tell him.<br>
+							<br>
+							
+						KRAMER: I, I saw her naked.<br>
+							<br>
+							
+						ELAINE: He saw me naked. Kramer, ... saw me naked.<br>
+							<br>
+							
+						KRAMER: Well, you know, ... it was an accident.<br>
+							<br>
+							
+						ELAINE: Who walks into a woman's bedroom without knocking. I want to know!<br>
+							<br>
+							
+						KRAMER: I thought it was a closet.<br>
+							<br>
+							
+						JERRY: Completely naked?<br>
+							<br>
+							
+						KRAMER: Completely naked.<br>
+							<br>
+							
+						ELAINE: Jerrryyy, How can I go on?<br>
+							<br>
+							
+						KRAMER: All right. I'll tell you what. If it's going to make you feel any better you can see me naked.<br>
+							<br>
+							
+						(Kramer begins disrobing)<br>
+							<br>
+							
+						ELAINE: No thanks!<br>
+							<br>
+							
+						KRAMER: No, I want you to see me naked.<br>
+							<br>
+							
+						ELAINE: No, no no.<br>
+							<br>
+							
+						KRAMER: No, I want to show you.<br>
+							<br>
+							
+						ELAINE: No! Jerry! Jerry!<br>
+							<br>
+							
+						JERRY: OK, just a second lets not lose our heads here. Kramer you know you are always welcome in my home but as far as Mr. Johnson is concerned, that's another story.<br>
+							<br>
+							
+						(Kramer sits down picks up windshield)<br>
+							<br>
+							
+						ELAINE: What is this?<br>
+							<br>
+							
+						KRAMER: Well, it's a windshield. It's going to be your new coffee table.<br>
+							<br>
+							
+						ELAINE: Ah, I'm going to kill myself on that thiing. You can't even see it.<br>
+							<br>
+							
+						JERRY: You'll sense it.<br>
+							<br>
+							
+						(George enters slowly)<br>
+							<br>
+							
+						JERRY: Well, what happened? Was she there?<br>
+							<br>
+							
+						GEORGE: No, no she wasn't.<br>
+							<br>
+							
+						JERRY: You didn't get my papers?<br>
+							<br>
+							
+						GEORGE: No, I didn't.<br>
+							<br>
+							
+						JERRY: Well, where is she?<br>
+							<br>
+							
+						GEORGE: A mental institution.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Middle Monologue]<br>
+							<br>
+							
+						JERRY: Why is it so difficult, uncomfortable, to be naked. It's because when you have clothes on you can always kinda make those little adjustments which people like to do ... you feel like you're getting it together, yeah, yeah pretty good (pulling at lapels, pockets etc.) feeling good looking good But when you're naked it's like it's so final you're, Well that's it. (no movements) There's nothing else I can do. That's why I like to wear a belt when I'm naked. Cause I feel it gives me something, I know I'm naked, but you know, (tugging and lifting belt) I like to get pockets to hang off of the belt that would be, wouldn't that be the ultimate? To be naked and still be able to do this (hand in pocket) I think that would really help a lot.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Jerry's Apartment]<br>
+							<br>
+							
+						JERRY: A mental institution?<br>
+							<br>
+							
+						KRAMER: You know what they do in there? Did you see CooCoo's Nest? They put those electrodes in your head.<br>
+							<br>
+							
+						GEORGE: It's not really a mental institution. It's more like a depression clinic. She went out to Woodhaven and checked herself in. I'm, I'm sick over this.<br>
+							<br>
+							
+						ELAINE: Who told you this:<br>
+							<br>
+							
+						GEORGE: Her roommate. I've driven women to lesbianism before but never to a mental institution.<br>
+							<br>
+							
+						KRAMER: My friend Bob Sacamano had shock treatments. But his synapses were so large, it had no effect.<br>
+							<br>
+							
+						JERRY: You know I hate to raise a crass financial concern but was there any information as to the where abouts of my PAPERS!<br>
+							<br>
+							
+						GEORGE: She put them in her pocket book. She probably took them out there with her.<br>
+							<br>
+							
+						JERRY: So what now?<br>
+							<br>
+							
+						GEORGE: I don't know.<br>
+							<br>
+							
+						JERRY: Can we go out there?<br>
+							<br>
+							
+						GEORGE: Where?<br>
+							<br>
+							
+						JERRY: Woodhaven.<br>
+							<br>
+							
+						GEORGE: We could.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Woodhaven]<br>
+							<br>
+							
+						GEORGE: I'm very nervous about this. I've never spoken to a mental patient before.<br>
+							<br>
+							
+						JERRY: My cousin Douglas was in a place like this one time . He came over to my house for dinner. There was no soda and he went bezerk. He was screamin' &quot;where's the Pepsi, where's the Pepsi?&quot;<br>
+							<br>
+							
+						GEORGE: I should be in a place like this. I envy this woman. Ya' get to wear slippers all day. Friends visit. They pity you. Pity is very underrated. I like it it's good. Plus they give you those word association tests. I love those.<br>
+							<br>
+							
+						JERRY: That'd be great. There's no wrong answer.<br>
+							<br>
+							
+						GEORGE: Potato<br>
+							<br>
+							
+						JERRY: Tuberculosis<br>
+							<br>
+							
+						GEORGE: Blanket<br>
+							<br>
+							
+						JERRY: Leroy<br>
+							<br>
+							
+						GEORGE: Grass<br>
+							<br>
+							
+						JERRY: Tuberculosis<br>
+							<br>
+							
+						GEORGE: Oh, boy. Here she comes.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Elaine's Apartment]<br>
+							<br>
+							
+						(African music is playing as Elaine enters, dirty pots and dishes are piled high in the kitchen)<br>
+							<br>
+							
+						ELAINE: Oh, my god.<br>
+							<br>
+							
+						(Kramer enters dancing with only a towel on.)<br>
+							<br>
+							
+						ELAINE: KRAMER!<br>
+							<br>
+							
+						KRAMER: Hey.<br>
+							<br>
+							
+						ELAINE: WILL YOU PLEASE PUT SOMETHING ON.<br>
+							<br>
+							
+						KRAMER: Listen uh, you want some leftovers? I made some African food. There's, yambalas and uh, sambusa.<br>
+							<br>
+							
+						TINA: Kramer, are you coming back to bed?<br>
+							<br>
+							
+						KRAMER: Yeah, yeah, I'll be right there baby.<br>
+							<br>
+							
+						TINA: Oh, hi Elaine. (returns Elaine's ear rings) What did you think of the coffee table?<br>
+							<br>
+							
+						ELAINE: It's invisible.<br>
+							<br>
+							
+						KRAMER: So, is everything cool? or what?<br>
+							<br>
+							
+						TINA: Yeah, um, you seem little bit dysfunctional.<br>
+							<br>
+							
+						ELAINE: Well,<br>
+							<br>
+							
+						TINA: Come on Elaine. just tell us the truth.<br>
+							<br>
+							
+						ELAINE: The Truth!, You want The Truth?<br>
+							<br>
+							<br>
+							<br>
+							
+						[Woodhaven]<br>
+							<br>
+							
+						PATRICE: Who are you?<br>
+							<br>
+							
+						GEORGE: Oh, this is my friend Jerry.<br>
+							<br>
+							
+						PATRICE: Why are you talking like that? And what do YOU want?<br>
+							<br>
+							
+						JERRY: Want, want? What could I possibly want? Uh, I just came because I, I heard so many nice things about you from George.<br>
+							<br>
+							
+						PATRICE: George thinks I'm pretentious.<br>
+							<br>
+							
+						GEORGE: Pretentious? Who, who isn't pretentious? Ha, ha, if everyone who was pretentious was in a mental institution, ... uh, obviously THIS isn't a mental institution.<br>
+							<br>
+							
+						PATRICE: You're just trying to take it all back because you're feeling guilty I'm in here.<br>
+							<br>
+							
+						GEORGE: No, that's not it at all.<br>
+							<br>
+							
+						PATRICE: Don't LIE George.<br>
+							<br>
+							
+						GEORGE :I'M NOT A LIER!<br>
+							<br>
+							
+						GEORGE: Uh, we're cool. Everything's cool (to security attendent)<br>
+							<br>
+							
+						JERRY: Just chatting. Friendly.<br>
+							<br>
+							
+						GEORGE: All righty, no reason for us to uh, raise our voices.<br>
+							<br>
+							
+						PATRICE: I know what you said. You can't change that.<br>
+							<br>
+							
+						GEORGE: What I said? I say stupid things all the time I can't go two minutes without saying stupid things.<br>
+							<br>
+							
+						JERRY: It's one stupid thing after another. So let me ask you, when you come to one of these places, what do you bring your pocketbook?<br>
+							<br>
+							
+						GEORGE: You should be the one criticizing me. I, I'm lucky to even know someone like you.<br>
+							<br>
+							
+						PATRICE: You mean that?<br>
+							<br>
+							
+						GEORGE: Of course I mean that. I am incapable of guile.<br>
+							<br>
+							
+						JERRY: He's never guiled. You know some women keep a lot of important papers in their, uh, pocket books. Like for example oh, someone else's personal financial papers.<br>
+							<br>
+							
+						PATRICE: Papers? Oh, Jerry, You're the Jerome with the tax problem. You know after that day with George I got so cuckoo I threw out all your papers. So I'd love to help you but I'll need the copies.<br>
+							<br>
+							
+						JERRY: there are no copies.<br>
+							<br>
+							
+						PATRICE: So are you saying you want to continue seeing me?<br>
+							<br>
+							
+						JERRY: Who makes copies?<br>
+							<br>
+							<br>
+							<br>
+							
+						[Elaine's Apartment]<br>
+							<br>
+							
+						ELAINE: The truth is ... I think you make ... a very nice couple.<br>
+							<br>
+							
+						(Elaine exits)<br>
+							<br>
+							
+						KRAMER: Oh,<br>
+							<br>
+							
+						TINA: Kramer,<br>
+							<br>
+							
+						(dancing in the dark to the music)<br>
+							<br>
+							
+						TINA: Here Kramer?<br>
+							<br>
+							
+						KRAMER: No, lets go to the couch...<br>
+							<br>
+							
+						(sound of smashing glass)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Jerry's Apartment]<br>
+							<br>
+							
+						JERRY: (on phone)Yes, I'm trying to get a copy of a receipt for a computer that I bought there.... it was 1987 ... I remember I talked to a guy - he had like a maroon sport jacket - and he might have had a toupee - oh, it was a weave - ok uh, then I'll come bye ok, bye.<br>
+							<br>
+							
+						JERRY: Anybody want to take a walk down to 48th street? I think I may have tracked down another receipt.<br>
+							<br>
+							
+						ELAINE: I can't. I have to go visit Tina in the hospital.<br>
+							<br>
+							
+						JERRY: George?<br>
+							<br>
+							
+						GEORGE: I'm going to a poetry reading with PATRICE: First time poets, in a burnt out building, down by the docks, Supposed to be good.<br>
+							<br>
+							
+						(Kramer enter - all bandaged up.)<br>
+							<br>
+							
+						KRAMER: Hey, Are you going to the hospital now?<br>
+							<br>
+							
+						ELAINE: Yeah, I suppose I am.<br>
+							<br>
+							
+						KRAMER: All right, great, great uh, we'll share a cab.<br>
+							<br>
+							
+						JERRY: You're going by 48th St. You can give me a ride.<br>
+							<br>
+							
+						GEORGE: Hey, I'm getting in on that.<br>
+							<br>
+							
+						ELAINE: You know you're chippin' in.<br>
+							<br>
+							
+						GEORGE: You're going that way anyway!<br>
+							<br>
+							<br>
+							<br>
+							
+						[Closing Monologue]<br>
+							<br>
+							
+						JERRY: I was audited last year. At first I thought well, IRS kinda sounds like Toys R Us maybe won't be so bad. Maybe they have a sense of fun about it, you know. But it's it's bad. It's an ordeal. And they don't do anything to keep your spirits up through the ordeal. I think they should take all your receipts and put them in one of those big Lucite sweepstake drums and just kinda crank it around there. You know give me a feeling like you might win something. You know what I mean? Then they can pull them out one by one and go &quot;Oh, I'm sorry that's another illegal deduction. But we do have some lovely parting gifts for you. Jail!&quot;<br>
+							<br>
+							
+						&nbsp;<br>
+							
+						THE END </td>
+						</tr>
+						<tr height="6">
+							<td class="bottom2" width="645" height="6"></td>
+						</tr>
+						<tr>
+							<td width="645">
+								<div align="center">
+									<font size="-1">Copyright 2006 seinology.com | All Rights Reserved | Designed by 13erla</font></div>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+		<p></p>
+	</body>
+
+</html>

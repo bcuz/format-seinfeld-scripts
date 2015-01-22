@@ -1,0 +1,1438 @@
+<tdOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+<html>
+
+	<head>
+		<meta http-equiv="content-type" content="text/html;charset=ISO-8859-1">
+		<meta name="description" content="Top Source for Seinfeld">
+		<meta name="keywords" content="seinfeld, sienfeld, Jerry Seinfeld, Julia Louis Dreyfus, Jason Alexander, Michael Richards, Kramer, George, Costanza, Elaine Benes, morty, Larry David">
+		<title>Seinology.com :: Scripts :: 174-The Frogger</title>
+	<link rel='stylesheet' href='/stylesheet.css' type='text/css'>
+	</head>
+
+	<body>
+			<table align="center" width="787" border="0" cellspacing="0" cellpadding="0">
+				<tr>
+					<td><font size="-2" color="red">Seinology.com - </font><font size="-3" color="black">Where Seinfeld Content and Accuracy Matter Most. Seinfeld scripts in pdf form, Seinfeld episode video clips, Seinfeld episode audio clips, Jerry Seinfeld appearances, Julia Louis-Dreyfus appearances, Michael Richards appearances, Jason Alexander appearances, Seinfeld discussion Forum, Seinfeld Where are they Now? Seinlanguage Newsletter, Popular Seinfeld Lists, Seinfeld episode standup, Seinfeld episode guide, Seinfeld fan fiction. Seinfeld content all on one domain. Seinology.com enjoy your stay.</font></td>
+				</tr>
+			</table>
+		
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr height="100">
+				<td class="logo"></td>
+			</tr>
+			<tr><td class="ads" align="center" background=#8694fa>
+				<script type="text/javascript"><!--
+google_ad_client = "pub-1924026976931416";
+google_ad_width = 728;
+google_ad_height = 90;
+google_ad_format = "728x90_as";
+google_ad_type = "text";
+google_ad_channel = "";
+google_color_border = "FFFFFF";
+google_color_bg = "8694fa";
+google_color_link = "0000FF";
+google_color_text = "000000";
+google_color_url = "002E3F";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></td></tr>
+		</table>
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr>
+				<td valign="top" width="136">
+					<table width="136" border="0" cellspacing="0" cellpadding="0">
+						<tr height="24">
+							<td class="navigation">
+								<div align="center">
+									
+									<b>Navigation</b></div>
+							</td>
+						</tr>
+						<tr height="199">
+							<td class="spacer1" valign="top" width="136" height="199">
+								<div align="center">
+									<font size="-1"><a href="http://www.seinology.com">Home</a><br>
+										<a href="http://board.seinology.com">Forum</a><br>
+										<a href="http://www.seinology.com/av.shtml">Audio/Video</a><br>
+										<a href="http://www.seinology.com/scripts.shtml">Scripts</a><br>
+										<a href="http://www.seinology.com/survivor.shtml">Survivor</a><br>
+										<a href="http://www.seinology.com/fanfics.shtml">Fan Fiction</a><br>
+										<a href="http://www.seinology.com/gallery/">Gallery</a><br>
+										<a href="http://www.seinology.com/newsletter.shtml">Newsletter</a><br>
+										<a href="http://www.seinology.com/lists.shtml">Lists</a><br>
+										<a href="http://www.seinology.com/epguide.shtml">Episode Guide</a><br>
+										<a href="http://www.seinology.com/links.shtml">Links</a><br>
+										<a href="http://www.seinology.com/faqother.shtml">Faq + others</a><br>
+										<a href="http://www.seinology.com/legal.shtml">Legal</a></font></div>
+							</td>
+						</tr>
+						
+						<tr>
+							<td class="nav2" width="136">
+							<div align="center"><b>Search</b></div></td>
+						</tr>
+						<tr>
+							<td class="spacer1" width="136" valign="top"><div align="center"><form method="get" action="http://www.seinology.com/search/search.cgi">
+<p><label for="fdse_Match">Match</label><br>
+<select name="Match" id="fdse_Match" size="1">
+<option value="1">All</option>
+<option value="0">Any</option>
+<option value="2">Phrase</option>
+</select></p>
+<p><label for="fdse_Realm">Where?</label><br>
+<select name="Realm" id="fdse_Realm" size="1">
+<option selected="selected" value="All">EntireSite</option>
+<option value="Ep Guide">Ep Guide</option>
+<option value="Images">Images</option>
+<option value="Lists">Lists</option>
+<option value="Newsletters">Newsletters</option>
+<option value="Scripts">Scripts</option>
+<option value="Notes..Nothing">Notes..Nothing</option>
+</select></p>
+<p><input type="text" name="Terms" size="14" id="fdse_Terms"><br>
+<input type="submit" class="submit" name="submitButtonName" value="Search"></p>
+</div></form></td>
+						</tr>
+						<tr><td class="bottom" width="136" height="10" valign="top">
+						</td>
+						</tr>
+					</table>
+				</td>
+				<td width="4"></td>
+				<td valign="top" width="645">
+					<table width="645" border="0" cellspacing="0" cellpadding="0">
+						<tr height="18">
+							<td width="645" height="35" class="bar">
+								<div align="center">
+									<b><font size="+2" color="black">Script</font></b></div>
+							</td>
+						</tr>
+						<tr height="362">
+							<td class="spacer2" valign="top" width="645" height="362">
+
+						<p><font size="-2">Episode 174 - The Frogger<br>
+							
+						pc: 918 season 9, episode 18<br>
+							
+						Broadcast date: April 23, 1998<br>
+							<br>
+							
+						Written by Gregg Kavet &amp; Andy Robin<br>
+							
+						Story by Gregg Kavet &amp; Andy Robin and Steve Koren &amp; Dan O'Keefe<br>
+							
+						Directed by Andy Ackerman<br>
+							<br>
+							
+						-------------------------------------------------------------------------------<br>
+							<br>
+							
+						The Cast<br>
+							
+						Regulars:<br>
+							
+						Jerry Seinfeld ......................&nbsp; Jerry Seinfeld<br>
+							
+						Jason Alexander .................. George Costanza<br>
+							
+						Julia Louis-Dreyfus .............. Elaine Benes<br>
+							
+						Michael Richards .................. Cosmo Kramer<br>
+							<br>
+							
+						Guest Stars:<br>
+							<br>
+							
+						Julia Campbell ...................... Lisi<br>
+							
+						Peter Stormare .................... Slippery Pete<br>
+							
+						Reuven Bar ......................... Shlomo<br>
+							
+						Sam Shamshak .................... Sal<br>
+							
+						Wayne Wilderson ............... Walter<br>
+							
+						Mark Daniel Cade ............... Other Walter<br>
+							
+						Jack Esformes ..................... Mike<br>
+							
+						Melissa Denton ................... Kobe<br>
+							
+						Oliver Muirhead ................. Lubeck<br>
+							
+						Drake Bell ........................... Kenny<br>
+							
+						rc: John O'Hurley ................ J. Peterman<br>
+							<br>
+							
+						==================================================================<br>
+							<br>
+							
+						[INT. J. PETERMAN LUNCHROOM - DAY]<br>
+							<br>
+							
+						(Elaine and several co-workers stand around a table which has a cake sitting on it.)<br>
+							<br>
+							
+						ALL (singing): Happy birthday to you.<br>
+							<br>
+							
+						WALTER: Thanks.<br>
+							<br>
+							
+						(Everyone claps.)<br>
+							<br>
+							
+						FEMALE WORKER: Elaine, cake?<br>
+							<br>
+							
+						ELAINE: Uh, no, thanks.<br>
+							<br>
+							
+						FEMALE WORKER: It's Walter's special day.<br>
+							<br>
+							
+						ELAINE: You know, there are 200 people who work in this office. Every day is somebody's special day.<br>
+							<br>
+							
+						(Elaine takes a piece of cake and makes her way to the door, but is stopped as a male worker carrying a cake enters.)<br>
+							<br>
+							
+						MALE WORKER: Elaine! Where're you going? It's Walter's last day. We have to celebrate.<br>
+							<br>
+							
+						ELAINE: It's his birthday and it's his last day?<br>
+							<br>
+							
+						MALE WORKER: This is other-Walter, from returns.<br>
+							<br>
+							
+						(Other-Walter enters followed by more co-workers.)<br>
+							<br>
+							
+						OTHER-WALTER: Hey, what's going on here?<br>
+							<br>
+							
+						ALL: Surprise!<br>
+							<br>
+							
+						OTHER-WALTER: Oh guys.<br>
+							<br>
+							
+						(Elaine tries to leave, but other-Walter stops her.)<br>
+							<br>
+							
+						OTHER-WALTER: Elaine, it's my last day. Have a piece.<br>
+							<br>
+							
+						ELAINE: All right, pile it on.<br>
+							<br>
+							
+						ALL (singing, competing): For he's a jolly good fellow...happy birthday to you...for he's a jolly good fellow...birthday to you...which nobody can deny...<br>
+							<br>
+							
+						(Elaine looks on frustrated.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[INT. JERRY'S APARTMENT - DAY]<br>
+							<br>
+							
+						(Jerry and Elaine stand in front of his stereo.)<br>
+							<br>
+							
+						JERRY: What is so bad about having a little piece of cake?<br>
+							<br>
+							
+						ELAINE: It is the forced socializing. I mean, just because we work in the same office, why do we have to act like we're friends?<br>
+							<br>
+							
+						JERRY: Why aren't you there now?<br>
+							<br>
+							
+						ELAINE: I had to take a sick day. I'm so sick of these people. By the way, I talked to Lisi, and tomorrow night's good for her.<br>
+							<br>
+							
+						(They sit on the sofa.)<br>
+							<br>
+							
+						JERRY: You know, I shouldn't go out with a friend of yours. I foresee messiness.<br>
+							<br>
+							
+						ELAINE: Yeah, you're better off sitting around here, reading comic books, and eating spaghetti at two in the morning..<br>
+							<br>
+							
+						JERRY: Hey, speaking of tomato sauce, you want to come with me and George to Mario's Pizza?<br>
+							<br>
+							
+						ELAINE: Your old high school hangout? Why?<br>
+							<br>
+							
+						JERRY: They're closing. We're going for one last slice.<br>
+							<br>
+							
+						(Kramer barges through the door holding a roll of yellow police tape.)<br>
+							<br>
+							
+						KRAMER: Hey. All right. Hi. Check it out, official police caution tape. Look at that.<br>
+							<br>
+							
+						(Jerry walks towards the counter where Kramer has placed some of the tape.)<br>
+							<br>
+							
+						KRAMER: Uh-uh-uh. Step back, son, there's nothing to see here.<br>
+							<br>
+							
+						JERRY: Where did you get this?<br>
+							<br>
+							
+						KRAMER: Well, I got it from my cop buddy Doug.<br>
+							<br>
+							
+						JERRY: You sure have a lot of friends. How come I never see any of these people?<br>
+							<br>
+							
+						KRAMER: They want to know why they never see you.<br>
+							<br>
+							
+						(Kramer ties a piece of tape around a banana.)<br>
+							<br>
+							
+						KRAMER: I'm gonna eat that later.<br>
+							<br>
+							
+						JERRY: So they just gave you this?<br>
+							<br>
+							
+						KRAMER: Oh no, no,. no. I had to fish around in the evidence room for it. You know, they're all preoccupied, trying to hunt down this new psycho-serial killer, the Lopper. All right, I'll see ya.<br>
+							<br>
+							
+						ELAINE: Wait a minute, wait a minute. Who is the Lopper?<br>
+							<br>
+							
+						KRAMER: Oh, it's no big deal. It's just some guy who's been running around Riverside park-pffff. You know, cutting people's heads off.<br>
+							<br>
+							
+						JERRY: How come I haven't read about this?<br>
+							<br>
+							
+						KRAMER: Well, you know, the police, they've been having some internal dissension about the name.<br>
+							<br>
+							
+						ELAINE: Really? What're the other titles?<br>
+							<br>
+							
+						KRAMER: Uh, Headso...uh...The Denogginizer...Son of dad.<br>
+							<br>
+							
+						JERRY: Son of dad?<br>
+							<br>
+							
+						KRAMER: Yeah. That was my suggestion. It's sort of a catchall.<br>
+							<br>
+							<br>
+							<br>
+							<br>
+							
+						[INT. MARIO'S PIZZA - DAY]<br>
+							<br>
+							
+						GEORGE: Mario's Pizza.<br>
+							<br>
+							
+						(George and Jerry admire their former hang out. Mario, an elder man, stands behind the counter.)<br>
+							<br>
+							
+						GEORGE: Just as she was. Hey, Mario! Remember us?<br>
+							<br>
+							
+						MARIO: No.<br>
+							<br>
+							
+						JERRY: We used to come in every day.<br>
+							<br>
+							
+						MARIO: So where ya been? We're tanking here.<br>
+							<br>
+							
+						GEORGE: We'll have 2 slices and 2 grape sodas.<br>
+							<br>
+							
+						MARIO: Oh, thanks. That'll save us.<br>
+							<br>
+							
+						JERRY: All right, make it the large sodas.<br>
+							<br>
+							
+						(George and Jerry walk across the room.)<br>
+							<br>
+							
+						GEORGE: Hey, Jerry, remember Frogger? I used to be so into this game. Gettin' that frog across the street was my entire life.<br>
+							<br>
+							
+						(They walk over to watch a boy playing Frogger.)<br>
+							<br>
+							
+						JERRY: Yeah. And then you went on to...Well, it's a good game.<br>
+							<br>
+							
+						GEORGE: Double jump! Eat the fly! Eat it!<br>
+							<br>
+							
+						(The boy loses.)<br>
+							<br>
+							
+						BOY: Thanks a lot.<br>
+							<br>
+							
+						GEORGE: Ah, beat it, punk.<br>
+							<br>
+							
+						(The boy exits.)<br>
+							<br>
+							
+						JERRY: Hey, look at the high score--&quot;G.L.C.&quot; George Louis Costanza. That's not you, is it?<br>
+							<br>
+							
+						GEORGE: Yes! 860,000. I can't believe it's still standing. No one has beaten me in like 10 years.<br>
+							<br>
+							
+						JERRY: I remember that night.<br>
+							<br>
+							
+						GEORGE: The perfect combination of Mountain Dew and mozzarella...just the right amount of grease on the joy stick...<br>
+							<br>
+							
+						MARIO: Here's your pizza pea brains.<br>
+							<br>
+							
+						JERRY: I think I remember why we stopped coming here.<br>
+							<br>
+							
+						GEORGE: Yeah.<br>
+							<br>
+							<br>
+							<br>
+							
+						[INT. ELAINE'S OFFICE - DAY]<br>
+							<br>
+							
+						(Elaine is sitting at her desk smelling a pen.)<br>
+							<br>
+							
+						ELAINE (thinking): This pen smells really bad. So why do I keep smelling it? Is it too late for me to go to law school?<br>
+							<br>
+							
+						(There's a knock on the door and several co-workers enter with a cake.)<br>
+							<br>
+							
+						ELAINE: What is this?<br>
+							<br>
+							
+						MALE WORKER: You were out sick yesterday, so we got you a get-well cake.<br>
+							<br>
+							
+						FEMALE WORKER: It's carrot. It's good for you.<br>
+							<br>
+							
+						WORKERS (singing): Get well get well soon, we wish you to get--<br>
+							<br>
+							
+						ELAINE: Stop it! That's not even a song! I mean, now we're celebrating a sick day?<br>
+							<br>
+							
+						MALE WORKER: I think it's nice.<br>
+							<br>
+							
+						ELAINE: What? What is nice? Trying to fill the void in your life with flour and sugar and egg and vanilla? I mean, we are all unhappy. Do we have to be fat, too? Not you Becky, I know you have a slow metabolism. I don't want one more piece of cake in my office!<br>
+							<br>
+							
+						(Another worker enters late.)<br>
+							<br>
+							
+						WORKER (singing): Get well, get well soon--<br>
+							<br>
+							
+						MALE WORKER: It's not happening.<br>
+							<br>
+							
+						(They all start to leave disappointed.)<br>
+							<br>
+							
+						BECKY: Can we still it eat?<br>
+							<br>
+							<br>
+							<br>
+							
+						[INT. MONK'S DINER - NIGHT]<br>
+							<br>
+							
+						(Jerry and Lisi sit at the usual booth.)<br>
+							<br>
+							
+						JERRY: I'll tell you Lisi, I never expected that movie to--<br>
+							<br>
+							
+						LISI: End under water?<br>
+							<br>
+							
+						JERRY: Be that long. I mean, most action movies are--<br>
+							<br>
+							
+						LISI: So much more violent.<br>
+							<br>
+							
+						JERRY: Not as long.<br>
+							<br>
+							
+						LISI: Well, I should probably--<br>
+							<br>
+							
+						JERRY: Get going.<br>
+							<br>
+							
+						LISI: Yeah.<br>
+							<br>
+							
+						(They both stand.)<br>
+							<br>
+							
+						JERRY: Well, it was nice meeting you. I'm sure I'll see you--<br>
+							<br>
+							
+						LISI: Eight tomorrow?<br>
+							<br>
+							
+						JERRY: Actually, that's--<br>
+							<br>
+							
+						LISI: What you were thinking.<br>
+							<br>
+							
+						JERRY: Right.<br>
+							<br>
+							
+						(Lisi leaves and Jerry goes to pay the cashier. George enters.)<br>
+							<br>
+							
+						GEORGE: Oh! Here you are. Ha ha...You, uh, you want to--<br>
+							<br>
+							
+						JERRY: Sure. (points at booth) How about this one?<br>
+							<br>
+							
+						(They both sit down at their booth.)<br>
+							<br>
+							
+						GEORGE: Well, I'm doing it, Jerry. I'm buying the Frogger machine. Now the torch will burn forever.<br>
+							<br>
+							
+						JERRY: Fabulous. See, now you're really do something.<br>
+							<br>
+							
+						GEORGE: So, you want to come down to Mario's Pizza with me and help me pick up the Frogger?<br>
+							<br>
+							
+						JERRY: Hey, how you gonna keep the machine plugged in while you move it?<br>
+							<br>
+							
+						GEORGE: What?<br>
+							<br>
+							
+						JERRY: Once you unplug the machine, all the scores will be erased.<br>
+							<br>
+							
+						GEORGE: You're right. Why must there always be a problem? You'd think just once I could get a break. God knows I earned it with that score!<br>
+							<br>
+							
+						(George gets up and leaves in a huff.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[INT. JERRY'S APARTMENT - DAY]<br>
+							<br>
+							
+						KRAMER: Well, more bad news Jerry.<br>
+							<br>
+							
+						(Kramer and Jerry are talking near the kitchen counter. George is sitting at the table on Jerry's cordless phone. An open phone book is in front of him.)<br>
+							<br>
+							
+						KRAMER: You know the police, they found another victim of the Lopper in Riverside Park. I saw the photo, and it looked a lot like you.<br>
+							<br>
+							
+						JERRY: Oh, come on. There's a lot of people walking around the city that look like me.<br>
+							<br>
+							
+						KRAMER: Not as many as there used to be.<br>
+							<br>
+							
+						GEORGE: No. I need a guy that can rig a Frogger machine so that I can move it without losing power, 'cause I have the high score. H-hello?<br>
+							<br>
+							
+						(Kramer peels and eats an orange.)<br>
+							<br>
+							
+						KRAMER: You know, George, you're not gonna find an electrician like that in the yellow pages. Now, I know just the guy who can do this.<br>
+							<br>
+							
+						JERRY: Another friend?<br>
+							<br>
+							
+						KRAMER: Oh, no, no, no. This guy is no friend. In fact, we don't even get along.<br>
+							<br>
+							
+						GEORGE: Well, is he good, Kramer?<br>
+							<br>
+							
+						(George gets up and walks towards Kramer.)<br>
+							<br>
+							
+						KRAMER: Oh, he's the best...and the worst.<br>
+							<br>
+							
+						GEORGE: Kramer, listen to me. I'm never gonna have a child. If I lose this Frogger high score, that's it for me.<br>
+							<br>
+							
+						KRAMER: Believe me George, you can count on Slippery Pete.<br>
+							<br>
+							
+						GEORGE: Slippery Pete?<br>
+							<br>
+							
+						KRAMER: Yeah, I don't care for the name, either. In fact, that's one of the things that we argue about.<br>
+							<br>
+							
+						GEORGE: All right, I'm gonna find a guy with a truck. GLC must live on!<br>
+							<br>
+							
+						(George grabs his coat and leaves the apartment. The phone rings. Jerry tries to get by Kramer.)<br>
+							<br>
+							
+						JERRY: Come on.<br>
+							<br>
+							
+						KRAMER: Dng-ga-gng-ga-wt.<br>
+							<br>
+							
+						(Jerry picks up the phone.)<br>
+							<br>
+							
+						JERRY: Hello?<br>
+							<br>
+							<br>
+							<br>
+							
+						[INT. ELAINE'S OFFICE/JERRY'S APARTMENT]<br>
+							<br>
+							
+						(Elaine is on the phone and is smelling her tape dispenser.)<br>
+							<br>
+							
+						ELAINE: So how's it going with my friend?<br>
+							<br>
+							
+						JERRY: She's a sentence finisher. It's like dating Mad Libs.<br>
+							<br>
+							
+						(People can be heard singing &quot;Happy Birthday&quot; in the background of Elaine's office.)<br>
+							<br>
+							
+						JERRY: What is that?<br>
+							<br>
+							
+						ELAINE: Oh, it's a cake party. It's the third one today. I didn't realize how hooked I got on that 4:00 sugar rush.<br>
+							<br>
+							
+						JERRY: So join in.<br>
+							<br>
+							
+						ELAINE: I can't. I denounced them. Maybe I'll go raid Peterman's fridge. He's always got a truffle or something in there.<br>
+							<br>
+							
+						JERRY: All right.<br>
+							<br>
+							
+						(Jerry hangs up and stands up to find some police tape around a broken egg on the floor.)<br>
+							<br>
+							
+						JERRY: Hey, wh-what--<br>
+							<br>
+							
+						KRAMER: Yeah. I dropped an egg. Be careful.<br>
+							<br>
+							
+						(Kramer leaves.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[INT. J. PETERMAN'S OFFICE - DAY]<br>
+							<br>
+							
+						(Elaine knocks on the open door.)<br>
+							<br>
+							
+						ELAINE: Anybody here? Peterboy?<br>
+							<br>
+							
+						(No one answers. She runs over to Peterman's fridge, opens it, and takes out a box. She opens the box to find a cake.)<br>
+							<br>
+							
+						ELAINE: Ooh, it's a cake walk.<br>
+							<br>
+							
+						(She takes a bite of the cake. Outside in the hallway, Mr. Peterman can be heard singing.)<br>
+							<br>
+							
+						PETERMAN (singing): Get well, get well soon we wish you to get well.<br>
+							<br>
+							
+						(Elaine quickly puts the box back in the fridge. Mr. Peterman enters his office.)<br>
+							<br>
+							
+						PETERMAN: Ha ha ha ha...Oh, what a stirring little anthem of wellness.<br>
+							<br>
+							
+						ELAINE: Mr. Peterman, um--<br>
+							<br>
+							
+						PETERMAN: We missed you at the get well party. Poor old Walt has a polyp in the duodenum. It's benign, but--ooh--still a bastard. Oh, Elaine, can you keep a secret?<br>
+							<br>
+							
+						ELAINE: No, sir, I can't.<br>
+							<br>
+							
+						PETERMAN: Inside that small college boy minifridge is my latest acquisition. A slice of cake from the wedding of King Edward VIII to Wallis Simpson, circa 1937, price--$29,000.<br>
+							<br>
+							<br>
+							<br>
+							
+						[EXT. CITY SIDEWALK - NIGHT]<br>
+							<br>
+							
+						(Jerry and Lisi walk along.)<br>
+							<br>
+							
+						JERRY: Well Lisi, that was another-<br>
+							<br>
+							
+						LISI: Lovely evening.<br>
+							<br>
+							
+						JERRY: Really bad meal. I was thinking maybe we should--<br>
+							<br>
+							
+						LISI: Go for a hansom cab ride?<br>
+							<br>
+							
+						JERRY: Call it a night. I'll walk you home. Where do you live?<br>
+							<br>
+							
+						LISI: 84th street, right off Riverside Park.<br>
+							<br>
+							
+						JERRY: Riverside Park.<br>
+							<br>
+							
+						(Jerry grabs Lisi and turns around.)<br>
+							<br>
+							
+						LISI: I thought we were going--<br>
+							<br>
+							
+						JERRY: Back to my place. That's right.<br>
+							<br>
+							<br>
+							<br>
+							
+						[EXT. JERRY'S APARTMENT - DAY]<br>
+							<br>
+							
+						(George and Jerry are sitting on the sofa.)<br>
+							<br>
+							
+						GEORGE: So you slept with her?<br>
+							<br>
+							
+						JERRY: She lives right off Riverside Park. I was scared of the Lopper, So I let her stay over.<br>
+							<br>
+							
+						GEORGE: And you automatically sleep with her?<br>
+							<br>
+							
+						JERRY: Well, I just wanted to make out a little, but she kind of--<br>
+							<br>
+							
+						GEORGE: Finished your thought.<br>
+							<br>
+							
+						(George gets up and walks over to the sink. Elaine enters.)<br>
+							<br>
+							
+						ELAINE: Guess what I ate.<br>
+							<br>
+							
+						GEORGE: An ostrich burger.<br>
+							<br>
+							
+						ELAINE: No. A $29,000 piece of cake. Peterman got it at The Duke Of Windsor auction. It was the most romantic thing I've ever eaten.<br>
+							<br>
+							
+						JERRY: How'd it taste?<br>
+							<br>
+							
+						ELAINE: A little stale.<br>
+							<br>
+							
+						JERRY: Yeah.<br>
+							<br>
+							
+						GEORGE (nudges Elaine with his elbow): So, uh are you sleeping with Peterman?<br>
+							<br>
+							
+						ELAINE (nudges George with her elbow): No. He doesn't know I ate it. In fact, he almost caught me. I have to sneak back in and even it out.<br>
+							<br>
+							
+						GEORGE: You know, they say ostrich has less fat, but you eat more of it.<br>
+							<br>
+							
+						(Jerry and Elaine start to walk from the counter towards the table.)<br>
+							<br>
+							
+						ELAINE: Hey, so I talked to Lisi and she has got a big surprise for you. She's planning a weekend trip to Pennsylvania Dutch country.<br>
+							<br>
+							
+						JERRY: Pennsylvania Dutch country? Oh, that's the serious relationship weekend place.<br>
+							<br>
+							
+						ELAINE: What is going on with you two?<br>
+							<br>
+							
+						JERRY: Well, I think by sleeping with her, I may have sent her the wrong message.<br>
+							<br>
+							
+						GEORGE: What's that?<br>
+							<br>
+							
+						(Elaine opens up a paper bag and pulls out a cookie.)<br>
+							<br>
+							
+						ELAINE: 4:00 sugar fix.<br>
+							<br>
+							
+						JERRY: Well, I'm calling this off right now.<br>
+							<br>
+							
+						ELAINE: No, no. You are way past the phone call breakup stage.<br>
+							<br>
+							
+						JERRY: Well, I'm not going over there. That's where the Lopper is.<br>
+							<br>
+							
+						ELAINE: Oh...it's daylight. It won't take you that long. Just make a clean break.<br>
+							<br>
+							
+						(Elaine bites the head of her gingerbread man.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[INT. J. PETERMAN'S OFFICE - DAY]<br>
+							<br>
+							
+						ELAINE: Just a little off the side...<br>
+							<br>
+							
+						(Elaine is at Mr. Peterman's desk with the cake box.)<br>
+							<br>
+							
+						ELAINE: Well, no point in wasting $1,200.<br>
+							<br>
+							
+						(She eats a slice of the cake as fantasy waltz music starts to play. Elaine dances around the room talking to one of the sculptures in the room.)<br>
+							<br>
+							
+						ELAINE (thinking): Oh, commander, isn't the wedding marvelous? More cake? Oh, I shouldn't. I mustn't. Ah, what the hell?<br>
+							<br>
+							
+						(She gets more cake.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[INT. MONK'S DINER - DAY]<br>
+							<br>
+							
+						GEORGE: Now, each of you is here because you're the best at what you do.<br>
+							<br>
+							
+						(George, Kramer, Slippery Pete, and Shlomo sit at a booth.)<br>
+							<br>
+							
+						GEORGE: Slippery Pete, Kramer tells me you are one hell of a rogue electrician. And shlomo, you're the best truck driver.<br>
+							<br>
+							
+						SHLOMO: I don't know If I'm the best.<br>
+							<br>
+							
+						GEORGE: Oh...you're very good.<br>
+							<br>
+							
+						SHLOMO: Let's say &quot;good.&quot;<br>
+							<br>
+							
+						GEORGE: Ok. Good. And Kramer, you're in charge of taping off the loading zone.<br>
+							<br>
+							
+						KRAMER: Lock and load.<br>
+							<br>
+							
+						SLIPPERY PETE: You think you can handle that, numb nuts?<br>
+							<br>
+							
+						KRAMER: All right, all right, come on, now.<br>
+							<br>
+							
+						SLIPPERY PETE: That was my mail-order bride.<br>
+							<br>
+							
+						KRAMER: Hey, you weren't home, so I signed for her.<br>
+							<br>
+							
+						SLIPPERY PETE: It doesn't give you the right to make out with her.<br>
+							<br>
+							
+						KRAMER: You weren't even married yet.<br>
+							<br>
+							
+						GEORGE: All right, all right, calm down, calm down. Whatever happened in the past is past.<br>
+							<br>
+							
+						(George gets a napkin and starts to draw on it.)<br>
+							<br>
+							
+						GEORGE: Now, this is the basic layout for Mario's Pizza.<br>
+							<br>
+							
+						SHLOMO: So what kind of jail time are we looking at if we're caught?<br>
+							<br>
+							
+						GEORGE: What do you mean?<br>
+							<br>
+							
+						SLIPPERY PETE: We're stealing this thing, right?<br>
+							<br>
+							
+						GEORGE: No. I--I paid for it.<br>
+							<br>
+							
+						SLIPPERY PETE: I thought we were stealing it.<br>
+							<br>
+							
+						KRAMER: Yeah. It feels like we're stealing it.<br>
+							<br>
+							
+						GEORGE: We're not stealing it.<br>
+							<br>
+							
+						SHLOMO: I definitely thought we're stealing it.<br>
+							<br>
+							
+						GEORGE: All right, let's--let's focus. Can we get back to the plan?<br>
+							<br>
+							
+						SLIPPERY PETE: Well, I need a battery for this kind of a job. Can I at least steal a battery?<br>
+							<br>
+							
+						GEORGE: Fine. Steal the battery. Now, all right, here is the Frogger. This is the front door, and this is the outlet.<br>
+							<br>
+							
+						SLIPPERY PETE: What's that?<br>
+							<br>
+							
+						GEORGE: The outlet?<br>
+							<br>
+							
+						SLIPPERY PETE: Mm-hmm.<br>
+							<br>
+							
+						GEORGE: That's where the electricity comes out.<br>
+							<br>
+							
+						SLIPPERT PETE: Oh, you mean the holes.<br>
+							<br>
+							
+						SHLOMO: Which one's the bathroom?<br>
+							<br>
+							
+						GEORGE: Uh, here.<br>
+							<br>
+							
+						SHLOMO: They put the Frogger with the toilet? Yecchh.<br>
+							<br>
+							
+						GEORGE: The Frogger is here.<br>
+							<br>
+							
+						KRAMER: George, I thought that was the door.<br>
+							<br>
+							
+						SLIPPERY PETE: Where are all the pizza ovens?<br>
+							<br>
+							
+						SHLOMO: I thought the bathroom was here.<br>
+							<br>
+							<br>
+							<br>
+							
+						[INT. MARIO'S PIZZA - DAY]<br>
+							<br>
+							
+						(George, Shlomo, Slippery Pete, and Kramer are sitting in the same places as they were in the booth at Monk's, but this time they are around a table at Mario's.)<br>
+							<br>
+							
+						GEORGE: All right. You understand now? It's not that complicated.<br>
+							<br>
+							<br>
+							<br>
+							
+						[INT. MONK'S DINER - DAY]<br>
+							<br>
+							
+						ELAINE: I need to replace an antique piece of cake.<br>
+							<br>
+							
+						(Elaine is sitting at the counter with a Sotheby's auction book open in front of her.)<br>
+							<br>
+							
+						ELAINE: Do you have anything that's been...you know, laying around for a while? Something prewar would be just great.<br>
+							<br>
+							
+						(The waitress leaves and Kramer enters.)<br>
+							<br>
+							
+						KRAMER: Oh, hey, Elaine. What, you got the munchies?<br>
+							<br>
+							
+						ELAINE: Oh, Kramer, I am in big. big, big trouble. I need a cake that looks like this.<br>
+							<br>
+							
+						KRAMER: Oh, yeah--Sotheby's. Yeah. They make good cake.<br>
+							<br>
+							
+						ELAINE: Do any of these look close?<br>
+							<br>
+							
+						KRAMER: No, but I know I've seen cake just like that. Oh--Entenmann's. Yeah.<br>
+							<br>
+							
+						ELAINE: Entenmann's? From the supermarket?<br>
+							<br>
+							
+						KRAMER: Well, no. They're not really in the supermarket. Yeah, they got their own case at the end of the aisle.<br>
+							<br>
+							<br>
+							<br>
+							
+						[INT. LISI'S APARTMENT - DAY]<br>
+							<br>
+							
+						(There's a knock at the door. Lisi opens it. It's Jerry holding a baseball bat.)<br>
+							<br>
+							
+						JERRY: Hi, Lisi.<br>
+							<br>
+							
+						LISI: Hi, honey. Is that a bat?<br>
+							<br>
+							
+						JERRY: Uh, yeah. I found it on the street. It's gotta be worth something.<br>
+							<br>
+							
+						LISI: So, what do you want to do, Sweetheart?<br>
+							<br>
+							
+						JERRY: Well, before we do anything...maybe we should talk.<br>
+							<br>
+							
+						MONTAGE:<br>
+							<br>
+							
+						(Lisi is sitting at her couch while Jerry paces behind her.)<br>
+							<br>
+							
+						JERRY: Then this Pennsylvania Dutch thing comes out of nowhere. I mean, how am I supposed to respond to that?<br>
+							<br>
+							
+						(Both Jerry and Lisi are on the couch. Jerry has his head in his hands.)<br>
+							<br>
+							
+						LISI: Then may I say something... without being interrupted?<br>
+							<br>
+							
+						(Lisi is in another room with the door closed. Jerry stands in the hallway and is talking to her through the door.)<br>
+							<br>
+							
+						JERRY: Well I'm sorry if I ruined your life. That's exactly what I set out to do.<br>
+							<br>
+							
+						(They are sitting on the couch again. Jerry nods at everything Lisi mumbles.)<br>
+							<br>
+							
+						LISI: Uh-huh. Uh-huh. Mm-hmm. Uh-huh...<br>
+							<br>
+							
+						(Now Jerry is sitting on the couch and Lisi is pacing behind him.)<br>
+							<br>
+							
+						LISI: Are you afraid to kiss me in public?<br>
+							<br>
+							
+						JERRY: Have we even been in public?<br>
+							<br>
+							
+						(Jerry is walking away from Lisi and she follows behind him.)<br>
+							<br>
+							
+						LISI: So now you're going to tell me what I'm thinking. Well, go ahead, 'cause I'd really like to know.<br>
+							<br>
+							
+						(Lisi is crying and Jerry stands looking over her shoulder.)<br>
+							<br>
+							
+						JERRY: You are not dumb. Don't say that..<br>
+							<br>
+							
+						(They both sit around the coffee table eating beans.)<br>
+							<br>
+							
+						JERRY: These beans are pretty good.<br>
+							<br>
+							
+						LISI: 20 minutes.<br>
+							<br>
+							
+						(Now Jerry is in a room with the door shut. Lisi stands out in the hallway.)<br>
+							<br>
+							
+						JERRY: Well, I'm sorry I'm not Brad. I'm me!<br>
+							<br>
+							
+						(Jerry opens the door.)<br>
+							<br>
+							
+						JERRY: Nice to meet ya!<br>
+							<br>
+							
+						(Jerry is lying on the couch while Lisi paces behind.)<br>
+							<br>
+							
+						LISI: Boy, did your mother do a number on you.<br>
+							<br>
+							
+						(Lisi is on the couch with Kleenex and Jerry stands on the other side of the couch.)<br>
+							<br>
+							
+						LISI: Fine. So it's over.<br>
+							<br>
+							
+						JERRY: Oh, thank god. Why is it dark out? What time is it?<br>
+							<br>
+							
+						LISI: 9:30.<br>
+							<br>
+							
+						JERRY: We've been breaking up for 10 hours?<br>
+							<br>
+							
+						LISI: Good-bye, Jerry.<br>
+							<br>
+							
+						JERRY: Lopper. You know, Lisi, maybe we should give this a little more time. See how it looks in the light of day.<br>
+							<br>
+							
+						LISI: Out!<br>
+							<br>
+							<br>
+							<br>
+							
+						[EXT. LISI'S APARTMENT - NIGHT]<br>
+							<br>
+							
+						(Jerry steps out of Lisi's building. He looks both ways cautiously before walking down the steps. Surprised, he sees a shadowy figure walking towards him holding something resembling a head in one hand and a knife in the other.)<br>
+							<br>
+							
+						JERRY: Lopper.<br>
+							<br>
+							
+						(He quickly runs back up to Lisi's building and yells into her intercom system.)<br>
+							<br>
+							
+						JERRY: Lisi, Lisi. Let me in! We can work this out. I was wrong, you were right. I'll do anything!<br>
+							<br>
+							
+						(She buzzes him up. Just as he walks into the building, we see the Lopper is actually Slippery Pete carrying a car battery by it's wires)<br>
+							<br>
+							<br>
+							<br>
+							
+						[EXT. CITY SIDEWALK - DAY]<br>
+							<br>
+							
+						(Jerry stands outside a boutique store when George arrives carrying rope.)<br>
+							<br>
+							
+						GEORGE: Jerry, you came for the big moment.<br>
+							<br>
+							
+						JERRY: No. I'm waiting for...<br>
+							<br>
+							
+						GEORGE: Ha ha. Everything's timed out to perfection, Jerry. Slippery Pete's got the Frogger running on battery power, the truck will be there any minute, and Kramer's taped out the loading zone.<br>
+							<br>
+							
+						JERRY: Oh. Sounds great.<br>
+							<br>
+							
+						GEORGE: Yeah, yeah. You gotta come over tonight. We can play.<br>
+							<br>
+							
+						JERRY: Oh, I can't. I'm busy. I'm going away on a long weekend.<br>
+							<br>
+							
+						GEORGE: Where?<br>
+							<br>
+							
+						(Lisi exits the boutique wearing a Dutch bonnet.)<br>
+							<br>
+							
+						LISI: Look what I found. I got one for you, too.<br>
+							<br>
+							
+						(She puts a Dutch hat on Jerry head.)<br>
+							<br>
+							
+						JERRY: Great. Uh, you know what? Why don't you put it in the car so I don't toss it in that dumpster?<br>
+							<br>
+							
+						LISI: Ha ha. Ok. I'll meet thee in front of your place, 15 minutes.<br>
+							<br>
+							
+						(Lisi leaves.)<br>
+							<br>
+							
+						JERRY: A long, long weekend.<br>
+							<br>
+							
+						GEORGE: I hear thee.<br>
+							<br>
+							<br>
+							<br>
+							
+						[INT. J. PETERMAN'S OFFICE - DAY]<br>
+							<br>
+							
+						(Elaine has finished replacing the cake. She throws the empty Entenmann's box away. She's about to leave, but Mr. Peterman enters with another man.)<br>
+							<br>
+							
+						PETERMAN: Elaine! Excellent. I'd like you to meet a friend of mine, Irwin Lubeck.<br>
+							<br>
+							
+						ELAINE: Oh, hello.<br>
+							<br>
+							
+						LUBECK: Charmed.<br>
+							<br>
+							
+						(Mr. Peterman gets the cake out of the fridge.)<br>
+							<br>
+							
+						PETERMAN: All right, brace yourself, Lubeck. You are about to be launched via pastry back to the wedding of one of the most dashing and romantic Nazi sympathizers of the entire British Royal family.<br>
+							<br>
+							
+						ELAINE: I guess I'll just--<br>
+							<br>
+							
+						PETERMAN: Oh, no Elaine, stay. Lubeck here is the world's foremost appraiser of vintage pastry.<br>
+							<br>
+							
+						(Lubeck inspects the cake.)<br>
+							<br>
+							
+						PETERMAN: All right, Lubeck. How much is she worth?<br>
+							<br>
+							
+						LUBECK: I'd say about 219.<br>
+							<br>
+							
+						PETERMAN: Ha ha ha ha ha!$219,000! Lubeck, you glorious titwillow. You just made me a profit of $190,000.<br>
+							<br>
+							
+						LUBECK: No, $2.19. It's an Entenmann's.<br>
+							<br>
+							
+						PETERMAN: Do they have a castle at Windsor?<br>
+							<br>
+							
+						LUBECK: No. They have a display case at the end of the aisle.<br>
+							<br>
+							
+						PETERMAN: Oh, good lord.<br>
+							<br>
+							
+						LUBECK: You all right, Peterman? You look ill.<br>
+							<br>
+							
+						ELAINE (singing): Get well, get well soon, we want you to get well. Get well, get well soon we want you to get well.<br>
+							<br>
+							<br>
+							<br>
+							
+						[EXT. CITY SIDEWALK - DAY]<br>
+							<br>
+							
+						(George and Jerry see Kramer, Shlomo, and Slippery Pete standing outside Mario's Pizza. Slippery Pete is playing Frogger.)<br>
+							<br>
+							
+						GEORGE: What are you guys doing?<br>
+							<br>
+							
+						SHLOMO: Eat the fly. Eat the fly. Got him!<br>
+							<br>
+							
+						GEORGE: You idiots. You're gonna wear down the battery.<br>
+							<br>
+							
+						SLIPPERY PETE: The batteries are fine. We've got...oh, god. only 3 minutes left.<br>
+							<br>
+							
+						GEORGE: Quick. Get this thing back in the pizzeria<br>
+							<br>
+							
+						KRAMER: George, they closed up.<br>
+							<br>
+							
+						GEORGE: I need an outlet!<br>
+							<br>
+							
+						SLIPPERY PETE: A what?<br>
+							<br>
+							
+						GEORGE: Holes! I need holes!<br>
+							<br>
+							
+						KRAMER: The pharmacy's still open.<br>
+							<br>
+							
+						GEORGE: All right. Kramer, you block off traffic. You to go sweet-talk the pharmacist.<br>
+							<br>
+							
+						(Shlomo and Slippery Pete go to the pharmacy.)<br>
+							<br>
+							
+						SLIPPERY PETE (to George): You owe me a quarter.<br>
+							<br>
+							
+						GEORGE (to Jerry): Slippery Pete. Kramer, hurry up!<br>
+							<br>
+							
+						(Kramer ties the police tape to a tree and runs into traffic. He runs out of tape before he can get halfway.)<br>
+							<br>
+							
+						KRAMER: Ahh! I'm out! No tape left!<br>
+							<br>
+							
+						JERRY: Well, come on George, I'll help you push it across.<br>
+							<br>
+							
+						GEORGE: Wait a minute. This looks familiar. This reminds me of something. I can do this.<br>
+							<br>
+							
+						JERRY: By yourself?<br>
+							<br>
+							
+						GEORGE: Jerry, I've been preparing for this moment my entire life.<br>
+							<br>
+							
+						(George pushes the machine onto the street. From a view in the sky, we see him dodging cars, hopping back and forth into lanes of traffic. Frogger music and sound effects play.)<br>
+							<br>
+							
+						SHLOMO: He looks like a Frog.<br>
+							<br>
+							
+						SLIPPERY PETE: So do you.<br>
+							<br>
+							
+						(George makes it across just as a huge truck comes barreling down the street. George tries to get the Frogger onto the sidewalk, but can't. He futilely sticks his hand out trying to stop the truck which honks. George jumps out of the truck's way and onto the sidewalk as the Frogger is smashed.)<br>
+							<br>
+							
+						JERRY: Game over.<br>
+							<br>
+							<br>
+							<br>
+							
+						[INT. J. PETERMAN'S OFFICE - DAY]<br>
+							<br>
+							
+						(Mr. Peterman sits in his chair behind his desk. Elaine knocks and enters.)<br>
+							<br>
+							
+						ELAINE: Mr. Peterman, you wanted to see me, sir?<br>
+							<br>
+							
+						PETERMAN: Elaine, up until a moment ago, I was convinced that I was on the receiving end of one of the oldest baker's grift in the books--The Entenmann's shim-sham.<br>
+							<br>
+							
+						ELAINE: Ohh...<br>
+							<br>
+							
+						PETERMAN: Until I remembered the videotape surveillance system that I installed to catch other-Walter using my latrine. But it also caught this.<br>
+							<br>
+							
+						(Mr. Peterman shows Elaine the tape of her waltzing around the room eating the cake.)<br>
+							<br>
+							
+						EALINE: Mr. Peterman, I, uh...<br>
+							<br>
+							
+						PETERMAN: Elaine, I have a question for you. Is the item still...with you?<br>
+							<br>
+							
+						ELAINE: Um...as far as I know.<br>
+							<br>
+							
+						PETERMAN: Do you know what happens to a butter-based frosting after six decades in a poorly ventilated English basement?<br>
+							<br>
+							
+						ELAINE: Uh, I guess I hadn't--<br>
+							<br>
+							
+						PETERMAN: Well, I have a feeling that what you are about to go through is punishment enough. Dismissed.<br>
+							<br>
+							<br>
+							
+						The End</td>
+						</tr>
+						<tr height="6">
+							<td class="bottom2" width="645" height="6"></td>
+						</tr>
+						<tr>
+							<td width="645">
+								<div align="center">
+									<font size="-1">Copyright 2006 seinology.com | All Rights Reserved | Designed by 13erla</font></div>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+		<p></p>
+	</body>
+
+</html>

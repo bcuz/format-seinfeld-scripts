@@ -1,0 +1,1449 @@
+<tdOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+<html>
+
+	<head>
+		<meta http-equiv="content-type" content="text/html;charset=ISO-8859-1">
+		<meta name="description" content="Top Source for Seinfeld">
+		<meta name="keywords" content="seinfeld, sienfeld, Jerry Seinfeld, Julia Louis Dreyfus, Jason Alexander, Michael Richards, Kramer, George, Costanza, Elaine Benes, morty, Larry David">
+		<title>Seinology.com :: Scripts :: 145-The Little Jerry</title>
+	<link rel='stylesheet' href='/stylesheet.css' type='text/css'>
+	</head>
+
+	<body>
+			<table align="center" width="787" border="0" cellspacing="0" cellpadding="0">
+				<tr>
+					<td><font size="-2" color="red">Seinology.com - </font><font size="-3" color="black">Where Seinfeld Content and Accuracy Matter Most. Seinfeld scripts in pdf form, Seinfeld episode video clips, Seinfeld episode audio clips, Jerry Seinfeld appearances, Julia Louis-Dreyfus appearances, Michael Richards appearances, Jason Alexander appearances, Seinfeld discussion Forum, Seinfeld Where are they Now? Seinlanguage Newsletter, Popular Seinfeld Lists, Seinfeld episode standup, Seinfeld episode guide, Seinfeld fan fiction. Seinfeld content all on one domain. Seinology.com enjoy your stay.</font></td>
+				</tr>
+			</table>
+		
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr height="100">
+				<td class="logo"></td>
+			</tr>
+			<tr><td class="ads" align="center" background=#8694fa>
+				<script type="text/javascript"><!--
+google_ad_client = "pub-1924026976931416";
+google_ad_width = 728;
+google_ad_height = 90;
+google_ad_format = "728x90_as";
+google_ad_type = "text";
+google_ad_channel = "";
+google_color_border = "FFFFFF";
+google_color_bg = "8694fa";
+google_color_link = "0000FF";
+google_color_text = "000000";
+google_color_url = "002E3F";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></td></tr>
+		</table>
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr>
+				<td valign="top" width="136">
+					<table width="136" border="0" cellspacing="0" cellpadding="0">
+						<tr height="24">
+							<td class="navigation">
+								<div align="center">
+									
+									<b>Navigation</b></div>
+							</td>
+						</tr>
+						<tr height="199">
+							<td class="spacer1" valign="top" width="136" height="199">
+								<div align="center">
+									<font size="-1"><a href="http://www.seinology.com">Home</a><br>
+										<a href="http://board.seinology.com">Forum</a><br>
+										<a href="http://www.seinology.com/av.shtml">Audio/Video</a><br>
+										<a href="http://www.seinology.com/scripts.shtml">Scripts</a><br>
+										<a href="http://www.seinology.com/survivor.shtml">Survivor</a><br>
+										<a href="http://www.seinology.com/fanfics.shtml">Fan Fiction</a><br>
+										<a href="http://www.seinology.com/gallery/">Gallery</a><br>
+										<a href="http://www.seinology.com/newsletter.shtml">Newsletter</a><br>
+										<a href="http://www.seinology.com/lists.shtml">Lists</a><br>
+										<a href="http://www.seinology.com/epguide.shtml">Episode Guide</a><br>
+										<a href="http://www.seinology.com/links.shtml">Links</a><br>
+										<a href="http://www.seinology.com/faqother.shtml">Faq + others</a><br>
+										<a href="http://www.seinology.com/legal.shtml">Legal</a></font></div>
+							</td>
+						</tr>
+						
+						<tr>
+							<td class="nav2" width="136">
+							<div align="center"><b>Search</b></div></td>
+						</tr>
+						<tr>
+							<td class="spacer1" width="136" valign="top"><div align="center"><form method="get" action="http://www.seinology.com/search/search.cgi">
+<p><label for="fdse_Match">Match</label><br>
+<select name="Match" id="fdse_Match" size="1">
+<option value="1">All</option>
+<option value="0">Any</option>
+<option value="2">Phrase</option>
+</select></p>
+<p><label for="fdse_Realm">Where?</label><br>
+<select name="Realm" id="fdse_Realm" size="1">
+<option selected="selected" value="All">EntireSite</option>
+<option value="Ep Guide">Ep Guide</option>
+<option value="Images">Images</option>
+<option value="Lists">Lists</option>
+<option value="Newsletters">Newsletters</option>
+<option value="Scripts">Scripts</option>
+<option value="Notes..Nothing">Notes..Nothing</option>
+</select></p>
+<p><input type="text" name="Terms" size="14" id="fdse_Terms"><br>
+<input type="submit" class="submit" name="submitButtonName" value="Search"></p>
+</div></form></td>
+						</tr>
+						<tr><td class="bottom" width="136" height="10" valign="top">
+						</td>
+						</tr>
+					</table>
+				</td>
+				<td width="4"></td>
+				<td valign="top" width="645">
+					<table width="645" border="0" cellspacing="0" cellpadding="0">
+						<tr height="18">
+							<td width="645" height="35" class="bar">
+								<div align="center">
+									<b><font size="+2" color="black">Script</font></b></div>
+							</td>
+						</tr>
+						<tr height="362">
+							<td class="spacer2" valign="top" width="645" height="362">
+
+						<p><font size="-2">Episode 145 - The Little Jerry<br>
+							
+						pc: 811, season 8, episode 11<br>
+							
+						Broadcast date: January 9, 1997<br>
+							<br>
+							
+						Written by Jennifer Crittenden<br>
+							
+						Directed by Andy Ackerman<br>
+							<br>
+							
+						-------------------------------------------------------------------------------<br>
+							<br>
+							
+						The Cast<br>
+							
+						Regulars:<br>
+							
+						Jerry Seinfeld ....................... Jerry Seinfeld<br>
+							
+						Jason Alexander .................. George Costanza<br>
+							
+						Julia Louis-Dreyfus ............. Elaine Benes<br>
+							
+						Michael Richards ................. Cosmo Kramer<br>
+							<br>
+							
+						Guest Stars:<br>
+							<br>
+							
+						John Michael Higgins ........ Kurt<br>
+							
+						Miguel Sandoval ................. Marcelino<br>
+							
+						Andrea Bendewald ............ Celia<br>
+							
+						Kathryn Joosten ................ Betsy<br>
+							
+						Paul Perri ............................. Detective Banner (Detective #1)<br>
+							
+						Al White .............................. Detective Udewitz (Detective #2)<br>
+							
+						Ray Proscia ......................... Prison Guard<br>
+							
+						rc: Barney Martin ............... Morty Seinfeld<br>
+							
+						rc: Liz Sheridan ................. Helen Seinfeld<br>
+							<br>
+							
+						==================================================================<br>
+							
+						[Jerry and Elaine are waiting on the street for George.]<br>
+							<br>
+							
+						JERRY: So what happened to you yesterday? We were supposed to go to the auto show, I waited for you, you never came.<br>
+							<br>
+							
+						ELAINE: I'm sorry, I got really busy. How long did you wait?<br>
+							<br>
+							
+						JERRY: Five minutes.<br>
+							<br>
+							
+						ELAINE: Five minutes? That's it?<br>
+							<br>
+							
+						JERRY: What's the difference? You never showed up.<br>
+							<br>
+							
+						ELAINE: I could've! I mean, last week we waited for that friend of Kramer's for like, forty minutes.<br>
+							<br>
+							
+						JERRY: Well, we barely knew the guy.<br>
+							<br>
+							
+						ELAINE: So, the longer you know someone, the shorter you wait for 'em.<br>
+							<br>
+							
+						JERRY: That's the way it works.<br>
+							<br>
+							
+						ELAINE: When did you tell George to be here?<br>
+							<br>
+							
+						JERRY: I told him to meet us here in ten minutes. How long has it been?<br>
+							<br>
+							
+						ELAINE: About five.<br>
+							<br>
+							
+						JERRY: That's enough. (They leave. George comes around the corner.)<br>
+							<br>
+							
+						GEORGE (looks at his watch): Early! Alright! (shivers.) Cold.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Jerry and Kramer in a booth at the coffee shop.]<br>
+							<br>
+							
+						KRAMER: So, I noticed you bounced a check at the bodega.<br>
+							<br>
+							
+						JERRY: How did you know about that?<br>
+							<br>
+							
+						KRAMER: Because Marcelino, he taped it up on his cash register with all the other bad checks.<br>
+							<br>
+							
+						JERRY: He can't do that.<br>
+							<br>
+							
+						KRAMER (sternly): It's the only way you'll learn. (Tastes his eggs.) Aw, these eggs are disgusting. This chicken should be ashamed of himself.<br>
+							<br>
+							
+						(George enters and sits down.)<br>
+							<br>
+							
+						GEORGE: Fantastic day! Fantastic!<br>
+							<br>
+							
+						JERRY: What happened?<br>
+							<br>
+							
+						GEORGE: (laughs - hehe) Well, first, I'm brushing my teeth and this piece of apple-skin, that must have been lodged in there for days, comes loose.<br>
+							<br>
+							
+						JERRY: Fantastic.<br>
+							<br>
+							
+						GEORGE: Then, I'm at The Foundation...<br>
+							<br>
+							
+						JERRY: You're still doing that?<br>
+							<br>
+							
+						GEORGE: Sometimes, once in a while.<br>
+							<br>
+							
+						JERRY: When you feel guilty.<br>
+							<br>
+							
+						GEORGE: No, occasionally I'll forget to let the machine pick up. Anyway, they made this large donation, to a women's prison, and I get to go down there and check it out.<br>
+							<br>
+							
+						KRAMER: That's caged heat.<br>
+							<br>
+							
+						GEORGE: Yeah-hah!<br>
+							<br>
+							
+						JERRY: What are you gonna do there?<br>
+							<br>
+							
+						GEORGE: Nothing really, you know...just eh, stroll around the cell blocks, maybe eh, take in a shower fight. (chuckles.) Hey eh, you know you got a bounced check hanging up in the little market over on Columbus?<br>
+							<br>
+							
+						JERRY: Yes, I know, I know.<br>
+							<br>
+							
+						GEORGE: I noticed you eh, chose the eh &quot;clowns with balloons&quot; check design.<br>
+							<br>
+							
+						JERRY: It was a mistake, the bank sent me the wrong ones.<br>
+							<br>
+							
+						(Elaine enters with her new boyfriend, Kurt.)<br>
+							<br>
+							
+						ELAINE: Hey! Look who's here! Hey Kurt, this is Jerry, and George, and Kramer.<br>
+							<br>
+							
+						KRAMER: Hey, Kurt. Taste these eggs.<br>
+							<br>
+							
+						KURT: Uh, no - I only eat cage-free, farm-fresh.<br>
+							<br>
+							
+						KRAMER: Yes! These are sweatshop eggs.<br>
+							<br>
+							
+						(Kramer gets up to leave by climbing over the back of the booth. He loses it and falls on the floor, then regains his composure and walks out with his napkin still tucked in his collar.)<br>
+							<br>
+							
+						KURT (to Elaine): Ah, I gotta call the office. Honey, will you order for me?<br>
+							<br>
+							
+						ELAINE (sitting down): I'm a &quot;honey.&quot; He's pretty great, huh?<br>
+							<br>
+							
+						JERRY: Is he from the future?<br>
+							<br>
+							
+						ELAINE: No, he just shaves his head. I think it's pretty gutsy.<br>
+							<br>
+							
+						GEORGE: Listen, sweetheart, let me tell you a little something about guts. (Points to his head.) This is guts.<br>
+							<br>
+							
+						ELAINE: What? Clinging to some scraps?<br>
+							<br>
+							
+						GEORGE: These are not &quot;scraps.&quot; These are historic remains of a once Great Society of Hair.<br>
+							<br>
+							
+						ELAINE: Oh, did you guys stop at the bodega today? Some moron bounced a clown check!<br>
+							<br>
+							<br>
+							<br>
+							
+						[The Bodega, starts with a shot of Marcelino's cash register with Jerry's clown check attached under a sign that reads &quot;checks no longer accepted from:&quot;.]<br>
+							<br>
+							
+						Check #1246, dated Dec. 15 &#145;96, Made out to: Columbus Deli for $40.00<br>
+							
+						City Trust and Savings Bank, Main Branch, Corner Third and Main -- numbers at the bottom of the check - routing #2327619641 271098 Account #315319510)<br>
+							<br>
+							
+						JERRY: Again, I'm really sorry about the check, Marcelino.<br>
+							<br>
+							
+						MARCELINO: People seem to like the clowns.<br>
+							<br>
+							
+						JERRY (takes out his wallet): Look, let me just give you the forty, plus another twenty for your trouble.<br>
+							<br>
+							
+						MARCELINO: 'Kay.<br>
+							<br>
+							
+						JERRY (turning to leave): Aren't you going to take the check down?<br>
+							<br>
+							
+						MARCELINO: Sorry, no. It's store policy.<br>
+							<br>
+							
+						JERRY: But it's your bodega.<br>
+							<br>
+							
+						MARCELINO: Even I am not above the policy.<br>
+							<br>
+							
+						(Jerry leaves while giving Marcelino a dirty look.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[George touring the women's prison with Betsy, the &quot;warden.&quot;]<br>
+							<br>
+							
+						BETSY: Those are our tennis courts.<br>
+							<br>
+							
+						GEORGE: Tennis courts? W-w-what about the yard? Where do they have the gang fights?<br>
+							<br>
+							
+						BETSY: There's no fights here, Mr. Costanza. This is a minimum security facility.<br>
+							<br>
+							
+						GEORGE: Hmm. What about a hole? You ever put anybody in &quot;the box&quot;?<br>
+							<br>
+							
+						BETSY: No.<br>
+							<br>
+							
+						GEORGE (to himself): This prison stinks.<br>
+							<br>
+							
+						BETSY: And finally, the library, which has just been refurbished thanks to your generous donation. This is Celia Morgan, our librarian.<br>
+							<br>
+							
+						CELIA: Nice to meet you.<br>
+							<br>
+							
+						BETSY: I'll be in my office if you need me.<br>
+							<br>
+							
+						GEORGE: Thanks, Warden.<br>
+							<br>
+							
+						BETSY (sweetly): Betsy.<br>
+							<br>
+							
+						GEORGE (disappointed): Betsy.<br>
+							<br>
+							
+						CELIA: So, are you the head of the foundation?<br>
+							<br>
+							
+						GEORGE: Well, let's just say it wouldn't exist without me. (Notices another person in the library dressed the same as Celia.) So you two uh, shop at the same store, (hu)?<br>
+							<br>
+							
+						CELIA: No, it's standard issue.<br>
+							<br>
+							
+						GEORGE: Oh my God...You're in jail? (Celia nods.) That is so cool!<br>
+							<br>
+							<br>
+							<br>
+							
+						[Jerry's apartment later that day.]<br>
+							<br>
+							
+						JERRY: You asked her out?<br>
+							<br>
+							
+						GEORGE: Well...not &quot;out.&quot; She's a prisoner.<br>
+							<br>
+							
+						JERRY: How could you ask her out?<br>
+							<br>
+							
+						GEORGE: Why not?<br>
+							<br>
+							
+						JERRY: I remember when you wouldn't date that girl who lived in Queens because you didn't want to go over the bridge!<br>
+							<br>
+							
+						GEORGE: That was different!<br>
+							<br>
+							
+						JERRY: I'll say.<br>
+							<br>
+							
+						GEORGE: Jerry, I like being with her. Plus, I know where she is all the time. I have relatively no competition. An-and you know how you live in fear of the pop-in?<br>
+							<br>
+							
+						JERRY (shudders): The pop-in.<br>
+							<br>
+							
+						GEORGE: Yeah, no pop-in, no &quot;in the neighborhood,&quot; no &quot;I saw your light was on.&quot; And the best part is, if things go really well...<br>
+							<br>
+							
+						JERRY: Conjugal visit?<br>
+							<br>
+							
+						GEORGE (giddy): Don't jinx it! Don't jinx (trails off quietly in elation)<br>
+							<br>
+							
+						(Kramer enters carrying a couple plastic grocery bags.)<br>
+							<br>
+							
+						KRAMER: Hey.<br>
+							<br>
+							
+						GEORGE: Hey.<br>
+							<br>
+							
+						KRAMER: What's up?<br>
+							<br>
+							
+						JERRY: George is dating a convict.<br>
+							<br>
+							
+						KRAMER: Oh? What's she in for? (putting groceries in the fridge)<br>
+							<br>
+							
+						GEORGE: Embezzlement.<br>
+							<br>
+							
+						KRAMER (approvingly): Sounds like a nice girl. Hey Jerry, is it all right if I put some stuff in your fridge? 'Cause mine's full.<br>
+							<br>
+							
+						JERRY: Yeah, sure. You don't even have a fridge, do you?<br>
+							<br>
+							
+						KRAMER: Well, not here.<br>
+							<br>
+							
+						(Goes into the hallway, comes back in with a huge bag of chicken feed.)<br>
+							<br>
+							
+						KRAMER: Okay (lifting the bag and carrying it into the apt.)<br>
+							<br>
+							
+						JERRY: Kramer, Kramer, wait a minute, what the hell is that?<br>
+							<br>
+							
+						KRAMER: Well, it's chicken feed. (Slams the bag into Jerry's fridge.)<br>
+							<br>
+							
+						JERRY: I sense something is afoot.<br>
+							<br>
+							
+						(Kramer closes the fridge and brushes hands together 3 times, done with his task)<br>
+							<br>
+							
+						KRAMER: Yeah, I bought a chicken.<br>
+							<br>
+							
+						(Jerry is about to reply, but George interrupts.)<br>
+							<br>
+							
+						GEORGE: Allow me. Why?<br>
+							<br>
+							
+						KRAMER: Cage-free, farm-fresh eggs.<br>
+							<br>
+							
+						(George is about to reply, but Jerry interrupts.)<br>
+							<br>
+							
+						JERRY: Allow me. What are you, an idiot?<br>
+							<br>
+							
+						KRAMER: No (throws hand in the air and turns and looks back at Jerry)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Elaine's apartment at night. Elaine is about to pay a delivery guy for some food.]<br>
+							<br>
+							
+						KURT: Hold it, hold it, hold it, here, I got it. Catch. (Tosses his wallet to Elaine, she pays the delivery guy.)<br>
+							<br>
+							
+						ELAINE: Hm. (looking at Kurt's driver's license photo) Hey, driver's license. Oh...my God.<br>
+							<br>
+							
+						KURT: What?<br>
+							<br>
+							
+						ELAINE: Your hair. It's so thick and lustrous. I mean, it...it was.<br>
+							<br>
+							
+						KURT: Well, it still is. I shave my head for my swim team. I just liked the way it looked, so I kept it.<br>
+							<br>
+							
+						ELAINE: Are you saying that I could be dating this hair? I mean wi..with you under it? (Kurt shrugs.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Jerry in bed at the crack of dawn. We hear a rooster crowing.]<br>
+							<br>
+							
+						JERRY: (sits up in bed) Oh what...<br>
+							<br>
+							
+						( Jerry gets up and knocks on Kramer's door - he is bleary-eyed. Quiet clucking can be heard through the door. Kramer answers the door with a rooster under his arm. )<br>
+							<br>
+							
+						KRAMER: Hey.<br>
+							<br>
+							
+						JERRY: Is that your &quot;chicken&quot; making all that noise?<br>
+							<br>
+							
+						KRAMER: Oh, Jerry loves the morning.<br>
+							<br>
+							
+						JERRY: Who?<br>
+							<br>
+							
+						KRAMER: Little Jerry Seinfeld. I named my chicken after you.<br>
+							<br>
+							
+						JERRY: Thanks, that's very sweet, but that is not, a chicken.<br>
+							<br>
+							
+						KRAMER: Of course it is. I picked it out myself.<br>
+							<br>
+							
+						JERRY: Well, you picked out a rooster.<br>
+							<br>
+							
+						KRAMER: Well, that would explain Little Jerry's poor egg production.<br>
+							<br>
+							
+						(Jerry nods and shuffles back to his place. Kramer turns Little Jerry upside down to see if he's actually a rooster or not...The rooster quietly clucks a bit more)<br>
+							<br>
+							<br>
+							<br>
+							
+						[George visiting Celia at the prison. They sit together at a table outside.]<br>
+							<br>
+							
+						CELIA: This was fun.<br>
+							<br>
+							
+						GEORGE: Yeah. I had a great time.<br>
+							<br>
+							
+						GUARD: Five minutes, Mr. Costanza.<br>
+							<br>
+							
+						GEORGE: The whole hour just flew by. (laughs - hehe) (Begins cleaning up the table.)<br>
+							<br>
+							
+						GUARD: I'll get that.<br>
+							<br>
+							
+						GEORGE: Oh, thanks, Bobby. (To Celia) Well, I guess I'll see you in four days.<br>
+							<br>
+							
+						CELIA: Yeah. Go out and have a ball with the guys. I'll be waiting right here for you.<br>
+							<br>
+							
+						GEORGE: Of course you will. (quick chuckle). You're the best. (with a light fist motion across her chin)<br>
+							<br>
+							
+						CELIA: Hmm<br>
+							<br>
+							<br>
+							<br>
+							
+						[Jerry's apartment, the same day. The phone rings.]<br>
+							<br>
+							
+						JERRY: Hello?<br>
+							<br>
+							
+						HELEN (in Florida with Morty): Jerry? Leo told us he saw your bounced check. Are you having money problems?<br>
+							<br>
+							
+						JERRY: I'm not having money problems.<br>
+							<br>
+							
+						HELEN: Enough with the comedy! You're very clever, you should look into advertising.<br>
+							<br>
+							
+						MORTY: He never even called Ed Roydlick. They were looking for someone!<br>
+							<br>
+							
+						JERRY: I'm not calling Ed Roydlick. I'm doing fine!<br>
+							<br>
+							
+						(George enters.)<br>
+							<br>
+							
+						HELEN: That's it. I'm gonna to send you fifty dollars.<br>
+							<br>
+							
+						JERRY: You are NOT sending me fifty dollars!<br>
+							<br>
+							
+						HELEN: We're sending you fifty dollars! Morty, get me an envelope.<br>
+							<br>
+							
+						JERRY (angrily): I swear to God, if you send me fifty dollars, you are gonna be so sorry!<br>
+							<br>
+							
+						MORTY: I don't see envelopes!<br>
+							<br>
+							
+						HELEN: They're right in front of you! Oh, for heaven's sakes... (She puts the phone down on the couch and goes to help Morty.) Show you...<br>
+							<br>
+							
+						JERRY: Ma! Ma! MAAA! (Hangs up the phone in disgust.) Oh, ahhhh (sighs quietly)<br>
+							<br>
+							
+						GEORGE: How're the folks?<br>
+							<br>
+							
+						JERRY: Good.<br>
+							<br>
+							
+						GEORGE: So? Movie tonight?<br>
+							<br>
+							
+						JERRY: I thought you were going out with Celia?<br>
+							<br>
+							
+						GEORGE: I did. I'm back. I love this relationship, I feel so liberated!<br>
+							<br>
+							
+						JERRY: Having her in jail.<br>
+							<br>
+							
+						GEORGE: The only thing that bothers me is that I'm just coming up with this now.<br>
+							<br>
+							
+						JERRY: Yeah, dating a convicted felon. I don't know how you missed it.<br>
+							<br>
+							
+						(Elaine enters.)<br>
+							<br>
+							
+						ELAINE: Here. (Shows Kurt's driver's license to Jerry.) Take a look at that.<br>
+							<br>
+							
+						JERRY: Huh. Kurt's an organ donor.<br>
+							<br>
+							
+						ELAINE: No! He's not bald. Look! He's got a full head of hair.<br>
+							<br>
+							
+						(George overhears and stands up, concerned.)<br>
+							<br>
+							
+						JERRY: So he just shaves his head for no reason?<br>
+							<br>
+							
+						GEORGE: That's like using a wheelchair for the fun of it!<br>
+							<br>
+							
+						ELAINE: And he's growing it in just for me. (Happily) It's mine. It's all mine. (clutches the photo between her hands and to her chest then looks at it again)<br>
+							<br>
+							
+						JERRY: It's just hair.<br>
+							<br>
+							
+						ELAINE: It's not just hair! Look!<br>
+							<br>
+							
+						(Shows Kurt's license to Jerry again.)<br>
+							<br>
+							
+						JERRY: It's brown.<br>
+							<br>
+							
+						ELAINE: It's chestnut with auburn highlights!<br>
+							<br>
+							
+						JERRY: So?<br>
+							<br>
+							
+						ELAINE: You're not around women. You don't know how important a man's hair is.<br>
+							<br>
+							
+						(They both look at George, who is reading a newspaper and struggling to keep his composure.)<br>
+							<br>
+							
+						ELAINE: I'm sorry, George, but it's true.<br>
+							<br>
+							
+						GEORGE (close to tears): I knew it.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Kramer walking Little Jerry Seinfeld down the street on a leash. The rooster is clucking. He goes into Marcelino's]<br>
+							<br>
+							
+						MARCELINO: Hey, Kramer.<br>
+							<br>
+							
+						KRAMER: Yeah (quietly)<br>
+							<br>
+							
+						MARCELINO: Nice rooster.<br>
+							<br>
+							
+						KRAMER: Yeah (again quietly)<br>
+							<br>
+							
+						MARCELINO: What's his name?<br>
+							<br>
+							
+						KRAMER: Ah, well, this is Little Jerry Seinfeld.<br>
+							<br>
+							
+						MARCELINO: Little Jerry Seinfeld. Does he bounce checks? (laughs)<br>
+							<br>
+							
+						KRAMER: Look, can't you take Jerry's check down?<br>
+							<br>
+							
+						MARCELINO: Sorry Kramer, can't help you.<br>
+							<br>
+							
+						(A guy walks into the bodega with his little dog. The dog (barks - ruff ruff) and Little Jerry get into a tussle (the dog cries) and Little Jerry sends the dog packin.')<br>
+							<br>
+							
+						KRAMER: Hey, hey Jerry, come on. Sorry.<br>
+							<br>
+							
+						MARCELINO (impressed): I like the way he handles himself.<br>
+							<br>
+							
+						KRAMER: Oh yeah (quietly)<br>
+							<br>
+							
+						(Kramer picks Little Jerry up. He's upside down. Kramer realizes it and turns him around the right way -- petting Little Jerry as he clucks and flaps his wings)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Elaine checking out Kurt's head at her apartment.]<br>
+							<br>
+							
+						ELAINE: Ohhh, it's coming in already!<br>
+							<br>
+							
+						KURT: Yeah (quietly)<br>
+							<br>
+							
+						ELAINE: Wow, you have some very nice little seedlings here. Huh...<br>
+							<br>
+							
+						KURT: What?<br>
+							<br>
+							
+						ELAINE: Well, it doesn't seem to be coming in so good over here. Or here.<br>
+							<br>
+							
+						KURT: What do you mean? (Goes into the bedroom to look in the mirror.)<br>
+							<br>
+							
+						ELAINE: Well, I don't know... h- how long have you been shaving your head for?<br>
+							<br>
+							
+						KURT (from the bedroom): About three years.<br>
+							<br>
+							
+						ELAINE: Huh.<br>
+							<br>
+							
+						KURT: Oh my God! (Steps into the doorway) I'm going bald!<br>
+							<br>
+							<br>
+							<br>
+							
+						[George and Celia in the prison library.]<br>
+							<br>
+							
+						CELIA: George! I'm so glad to see you!<br>
+							<br>
+							
+						GEORGE: Hey, I brought you some cigarettes. You buy yourself something nice.<br>
+							<br>
+							
+						CELIA: Good news - I'm up for parole.<br>
+							<br>
+							
+						GEORGE: Parole! (Feigning joy) That's dynamite!<br>
+							<br>
+							<br>
+							<br>
+							
+						[Kramer and Jerry in Jerry's apartment.]<br>
+							<br>
+							
+						JERRY: So Marcelino's going to take down the check?<br>
+							<br>
+							
+						KRAMER: Yeah, Well, it comes down if Little Jerry Seinfeld wins the cockfight.<br>
+							<br>
+							
+						JERRY: Great! (realizing) What?<br>
+							<br>
+							
+						KRAMER: Well, Marcelino, he has cockfights in the back of his store.<br>
+							<br>
+							
+						JERRY: Ah ha...<br>
+							<br>
+							
+						KRAMER: Yeah, so he says if Little Jerry Seinfeld wins, the check comes down.<br>
+							<br>
+							
+						JERRY: Kramer, cockfighting is illegal.<br>
+							<br>
+							
+						KRAMER: Only in The United States.<br>
+							<br>
+							
+						JERRY: It's inhumane!<br>
+							<br>
+							
+						KRAMER: No, Jerry, it's not what you think it is.<br>
+							<br>
+							
+						JERRY: It's two roosters peckin' at each other!<br>
+							<br>
+							
+						KRAMER: What?<br>
+							<br>
+							
+						JERRY: Yeah!<br>
+							<br>
+							
+						KRAMER: Well, I thought they wore gloves and helmets, you know, like &quot;American Gladiators.&quot;<br>
+							<br>
+							
+						JERRY: No Kramer, Little Jerry could get hurt.<br>
+							<br>
+							
+						KRAMER: Yeah, well, I left him with Marcelino!<br>
+							<br>
+							
+						(Jerry shrugs and holds his hands out.)<br>
+							<br>
+							
+						KRAMER: My Little Jerry! (Runs out.)<br>
+							<br>
+							
+						JERRY: Hey, did you get Little Jerry, is he O.K.?<br>
+							<br>
+							
+						KRAMER: Oh well, he's more than O.K., he won!<br>
+							<br>
+							
+						JERRY: You let him fight?<br>
+							<br>
+							
+						KRAMER: Yeah, well I couldn't get there in time to stop it, but you should have seen Little Jerry, Jerry! Flappin' his wings and struttin' his stuff! He was peckin' and weavin' and bobbin' and talkin' trash! He didn't even have to touch him! The other rooster ran out of the ring. The whole fight lasted two seconds.<br>
+							<br>
+							
+						JERRY: How long do they usually last?<br>
+							<br>
+							
+						KRAMER: Five seconds. And Marcelino says he's taking your check down today.<br>
+							<br>
+							
+						JERRY: Great!<br>
+							<br>
+							
+						(George walks in.)<br>
+							<br>
+							
+						KRAMER: Hey.<br>
+							<br>
+							
+						GEORGE: Celia's up for parole.<br>
+							<br>
+							
+						KRAMER: Hey, Little Jerry won his cockfight.<br>
+							<br>
+							
+						GEORGE: What?<br>
+							<br>
+							
+						KRAMER: Who?<br>
+							<br>
+							
+						(They both look at Jerry.)<br>
+							<br>
+							
+						JERRY: I'm too tired.<br>
+							<br>
+							
+						KRAMER (to Jerry): O.K., listen, I want you to come by later, alright? 'Cause we're having a victory party for Little Jerry.<br>
+							<br>
+							
+						JERRY: O.K. (Kramer leaves.)<br>
+							<br>
+							
+						GEORGE (sadly): It's over, Jerry. She's gettin' out.<br>
+							<br>
+							
+						JERRY: Ah, I'm so sorry.<br>
+							<br>
+							
+						GEORGE: She's been locked up for two years. She's gonna want to make up for lost time. Dinners. Movies. (Rubs his forehead.) Talking...<br>
+							<br>
+							
+						JERRY: In other words, a normal relationship.<br>
+							<br>
+							
+						GEORGE: Heh, haa. And that's no good. I've tried it straight, Jerry. We've all seen the results. For me, sick is the only way to go.<br>
+							<br>
+							
+						JERRY: Well, she'll still be an ex-con.<br>
+							<br>
+							
+						GEORGE: It's not the same.<br>
+							<br>
+							
+						JERRY: Hey, if you two are meant to be together...I'm sure the cops'll pick her up on something.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Elaine meets a bummed-out Kurt at the coffee shop.]<br>
+							<br>
+							
+						ELAINE: Kurt? What's with the sweats? Aren't we going out?<br>
+							<br>
+							
+						KURT: I don't care.<br>
+							<br>
+							
+						ELAINE: You, uh...got a big stain on your shirt.<br>
+							<br>
+							
+						KURT: Oh yeah...meatball...fell out of my sandwich.<br>
+							<br>
+							
+						ELAINE: You already ate?<br>
+							<br>
+							
+						KURT: It's from yesterday.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Jerry and Marcelino at the bodega.]<br>
+							<br>
+							
+						MARCELINO: Jerry! You missed a hell of a cockfight last night.<br>
+							<br>
+							
+						JERRY: Then what is my check still doing up? We had a deal!<br>
+							<br>
+							
+						MARCELINO: Now we have a new deal.<br>
+							<br>
+							
+						JERRY: New deal?<br>
+							<br>
+							
+						MARCELINO: When Little Jerry Seinfeld is mine, the check will be yours.<br>
+							<br>
+							
+						JERRY: This is Outrageous! (To Marcelino) Pack of Juicy Fruit.<br>
+							<br>
+							
+						MARCELINO (tosses the gum on the counter): 85 cents.<br>
+							<br>
+							
+						JERRY: 85 cents? That is Outrageous!<br>
+							<br>
+							<br>
+							<br>
+							
+						[Jerry and Kramer in Jerry's apartment.]<br>
+							<br>
+							
+						JERRY: Kramer, Marcelino wants us to sell him Little Jerry Seinfeld.<br>
+							<br>
+							
+						KRAMER: Well, that's out of the question.<br>
+							<br>
+							
+						JERRY: But Kramer, cockfighting is an illegal and immoral activity.<br>
+							<br>
+							
+						KRAMER: Yeah, if you got a loser. But Little Jerry was born to cockfight!<br>
+							<br>
+							
+						JERRY: No, no more cockfighting. Let's just sell him to Marcelino the cockfighter and be done with it!<br>
+							<br>
+							
+						KRAMER: You know, I think you're jealous.<br>
+							<br>
+							
+						JERRY: Of what?<br>
+							<br>
+							
+						KRAMER (points at Jerry like he's found him out): Yah, yah! You see in Little Jerry Seinfeld the unlimited future you once had. Now, just because Jerry Seinfeld is a has-been, don't make Little Jerry Seinfeld a never-was!<br>
+							<br>
+							
+						JERRY: Kramer, give me that rooster!<br>
+							<br>
+							
+						KRAMER: Never! You hate him because he's doing more with your name than you ever will! Yah-yah! (Kramer leaves.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[George in Betsy's office at the prison.]<br>
+							<br>
+							
+						BETSY: George, Celia has listed you as a character reference. Whatever you can tell us would certainly be helpful in, her getting paroled.<br>
+							<br>
+							
+						GEORGE: Well, anything I can do to help, um...she's a wonderful girl. Very smart. Very eh...crafty.<br>
+							<br>
+							
+						BETSY: Does she have any plans after she's released?<br>
+							<br>
+							
+						GEORGE: Plans. Schemes. She ah, she keeps talking about getting back together with her old friends, you know - &quot;the gang,&quot; as she likes to call them (chuckles), you know. Yeah, they're eh, they're hatching something, you can count on that.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Marcelino at Jerry's apartment door.]<br>
+							<br>
+							
+						MARCELINO: Jerry! Tomorrow night's fight-night. Where's my rooster?<br>
+							<br>
+							
+						JERRY: Kramer won't sell.<br>
+							<br>
+							
+						MARCELINO: Well, tell you what I'm gonna do. I'm gonna take down your check anyway.<br>
+							<br>
+							
+						JERRY: Oh well, thank you, Marcelino.<br>
+							<br>
+							
+						MARCELINO: Well, perhaps someday you will do me a favor. And that day is today. Little Jerry Seinfeld must go down in the third round of tomorrow's main event.<br>
+							<br>
+							
+						JERRY: You want Little Jerry to take a dive?<br>
+							<br>
+							
+						MARCELINO: Shhh, not so loud.<br>
+							<br>
+							
+						JERRY: First of all, I don't think you can make a rooster take a dive.<br>
+							<br>
+							
+						MARCELINO: Can, too!<br>
+							<br>
+							
+						JERRY: Second of all, Jerry Seinfeld - big or little - doesn't go down for anyone, anywhere, at anytime! Now I'd appreciate it if you please leave.<br>
+							<br>
+							
+						MARCELINO (leaving): Big Jerry is making a big mistake, Jerry.<br>
+							<br>
+							
+						JERRY: We'll see about that. (Runs to the window and shouts up to Kramer, who's on the roof.) Kramer, I'm comin' up! We got a cockfight to win!<br>
+							<br>
+							
+						KRAMER: O.K.!<br>
+							<br>
+							<br>
+							<br>
+							
+						[Kurt at George's apartment.]<br>
+							<br>
+							
+						KURT: Elaine said you would be the best person I could talk to.<br>
+							<br>
+							
+						GEORGE (examining Kurt's head with a lamp): Yep. Classic horseshoe pattern. I've seen a lot of this.<br>
+							<br>
+							
+						KURT: Oh, God.<br>
+							<br>
+							
+						GEORGE: No, no, Kurt - wrong attitude. You should be happy now.<br>
+							<br>
+							
+						KURT: Happy? Why should I be happy?<br>
+							<br>
+							
+						GEORGE: You've still got pretty good coverage. Once the enemy advances beyond this perimeter - (points at Kurt's head with a pen) - then you won't be Kurt anymore.<br>
+							<br>
+							
+						KURT: Who will I be?<br>
+							<br>
+							
+						(George points at himself. Kurt shudders.)<br>
+							<br>
+							
+						KURT: How long do I have?<br>
+							<br>
+							
+						GEORGE (solemnly): 14 months. Maybe 10.<br>
+							<br>
+							
+						KURT: Is there anything I can do?<br>
+							<br>
+							
+						GEORGE: Yes. Live, dammit. Live! Every precious moment as if this was the last year of your life. Because in many ways...it is. (There's a knock at the door.) Excuse me.<br>
+							<br>
+							
+						(George answers the door. Celia enters.)<br>
+							<br>
+							
+						GEORGE: Celia? W-w-what are you doing here?<br>
+							<br>
+							
+						CELIA: Well, I didn't get my parole, so I busted out.<br>
+							<br>
+							
+						GEORGE (nervously): And-and you just decided to pop in...!<br>
+							<br>
+							<br>
+							<br>
+							
+						[Kurt shows up at Elaine's apartment.]<br>
+							<br>
+							
+						ELAINE: Kurt!<br>
+							<br>
+							
+						KURT: Elaine...(holds out a wedding ring) Will you marry me?<br>
+							<br>
+							
+						(Elaine is shocked.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Jerry and Kramer in Jerry's kitchen, training Little Jerry for his cockfight.]<br>
+							<br>
+							
+						KRAMER: Oh, yeah. Oh, yeah. Boy he's lookin' good, huh Jerry?<br>
+							<br>
+							
+						JERRY: Yeah. Alright, I think that's enough for today. (Kramer picks up Little Jerry and takes him to the sink.) Little Jerry is lean, mean, peckin' machine! (Kramer starts filling a pot with water.) What are you doing with that?<br>
+							<br>
+							
+						KRAMER: I'm just gonna heat this up. Make a little hot-tub for Little Jerry.<br>
+							<br>
+							
+						JERRY: Hey, Kramer...?<br>
+							<br>
+							
+						(Kramer looks at Jerry.)<br>
+							<br>
+							
+						JERRY: Be careful.<br>
+							<br>
+							
+						(George enters.)<br>
+							<br>
+							
+						GEORGE: Hey.<br>
+							<br>
+							
+						JERRY: Hey, guess what! Little Jerry ran from here to Newman's in under thirty seconds!<br>
+							<br>
+							
+						GEORGE: Is that good?<br>
+							<br>
+							
+						JERRY: I don't know. Where have you been?<br>
+							<br>
+							
+						GEORGE: Celia broke out of prison. I'm sitting in my home, she shows up at the door!<br>
+							<br>
+							
+						JERRY: Oh my God! &#147;The break-out/pop-in!&#148;<br>
+							<br>
+							
+						GEORGE: Yeah. Hey Jerry, listen to this. I discovered something even better than conjugal visit sex. Fugitive sex! Now, it's like everytime -<br>
+							<br>
+							
+						JERRY (interrupts): George, this is a little too much for me - escaped convicts, fugitive sex...I got a cockfight to focus on. (Jerry leaves.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Cut back to Elaine and Kurt at Elaine's apartment.]<br>
+							<br>
+							
+						ELAINE: Hey hey Kurt, slow down! I can't just marry you, whim-bam-boom! I mean, I need some &quot;fiance-time,&quot; I need some &quot;make-my-girlfriends-jealous&quot; time...<br>
+							<br>
+							
+						KURT: Plus, you want to get to know me.<br>
+							<br>
+							
+						ELAINE: Yeah, yeah, that too.<br>
+							<br>
+							
+						KURT: Well, how much time?<br>
+							<br>
+							
+						ELAINE: (sighs Wa-ah) I don't know...a year?<br>
+							<br>
+							
+						KURT: No, no, no...it has to be now.<br>
+							<br>
+							
+						ELAINE: (sighs ahh) Could I see the ring again?<br>
+							<br>
+							<br>
+							<br>
+							
+						[Jerry, George, Elaine and Kramer at the cockfight in back of Marcelino's store.]<br>
+							<br>
+							
+						JERRY (to Elaine): So, you're actually considering it?<br>
+							<br>
+							
+						ELAINE: Well, it'll be a couple of years before he's completely bald. Those'll be good times.<br>
+							<br>
+							
+						JERRY: Marriage is a big step, Elaine. Your life'll totally change.<br>
+							<br>
+							
+						ELAINE: Jerry, it's three-thirty in the morning. I'm at a cockfight. What am I clinging to?<br>
+							<br>
+							
+						(George comes over.)<br>
+							<br>
+							
+						GEORGE: Oh, hey, sorry I'm late.<br>
+							<br>
+							
+						JERRY: Hey.<br>
+							<br>
+							
+						GEORGE: Sorry I'm late.<br>
+							<br>
+							
+						JERRY: Where's Celia?<br>
+							<br>
+							
+						GEORGE: She didn't want to come, she-she's not really into sports.<br>
+							<br>
+							
+						JERRY: hmm. (nodding head)<br>
+							<br>
+							
+						(Kramer comes over with Little Jerry.)<br>
+							<br>
+							
+						JERRY: Hey, how's he doin'?<br>
+							<br>
+							
+						KRAMER: Ohh, He's got a big sweat going. (Takes an envelope out of his pocket.) Oh, this came for you express-mail. It's from your parents.<br>
+							<br>
+							
+						JERRY (opens the envelope): Fifty dollars. I Don't Believe This!<br>
+							<br>
+							
+						KRAMER: There's Marcelino. (Marcelino enters the ring holding a huge white rooster.)<br>
+							<br>
+							
+						JERRY: Look at the size of his bird!<br>
+							<br>
+							
+						KRAMER: That looks like a dog with a glove on his head.<br>
+							<br>
+							<br>
+							
+						[Kurt at George's door. Celia answers.]<br>
+							<br>
+							
+						KURT: Hi, is George back from the cockfight yet? You know, I gotta thank him, he changed my life.<br>
+							<br>
+							
+						CELIA: No, it must have been a good fight, he's not back yet.<br>
+							<br>
+							
+						KURT: Ah, damn.<br>
+							<br>
+							
+						(Two detectives show up at the door behind Kurt.)<br>
+							<br>
+							
+						DETECTIVE #1 (to Kurt): Sorry to bother you, Mr. Costanza. Well, well, well. Look who's here.<br>
+							<br>
+							
+						CELIA: Aw, man!<br>
+							<br>
+							
+						DETECTIVE #2 (to Kurt): Mr. Costanza, you're under arrest for aiding and abetting a known fugitive.<br>
+							<br>
+							
+						KURT (laughs): I'm not George Costanza.<br>
+							<br>
+							
+						DETECTIVE #2: Save it. We know you're bald. We know it's you. Let's go! (They escort Kurt and Celia out.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Cut back to the cockfight.]<br>
+							<br>
+							
+						ELAINE (to a woman at the fight): Muchos gracias. (Turns back to Jerry and Kramer.) O.K., I got the whole scoop. Marcelino flew the bird in from Ecuador. He's 68 and 0!<br>
+							<br>
+							
+						JERRY: He's a ringer!<br>
+							<br>
+							
+						GEORGE: Where's the tamale guy?<br>
+							<br>
+							
+						(The bell rings, and the cockfight begins. Dramatic music. The white rooster is dropped into the ring.)<br>
+							<br>
+							
+						KRAMER: Little Jerry's going to get his clock cleaned. I gotta get him outta there.<br>
+							<br>
+							
+						(A man at the edge of the ring drops Little Jerry in. Everything now happens in slow-motion.)<br>
+							<br>
+							
+						KRAMER (lunging for Little Jerry): Lit _ tle Jer _ ry!<br>
+							<br>
+							
+						JERRY: Kra _ mer!<br>
+							<br>
+							
+						ELAINE: Stop _ the _ fight!<br>
+							<br>
+							
+						GEORGE (holds up one finger): Ta _ mal _ e!<br>
+							<br>
+							
+						(Kramer lands in the ring and grabs ahold of Little Jerry. Marcelino's rooster closes in. We see Jerry, George and Elaine with shocked expressions on their faces, then hear pecking sounds and Kramer yelping and screaming from inside the ring.)<br>
+							<br>
+							
+						KRAMER: Ahhh, uh, uh, uh, ohuh, aaaa ouh au au au ah ah (more pecking) ah, ah, ah, Ah.<br>
+							<br>
+							
+						(Elaine put he hands over her eyes and face as she turns into Jerry, who is grimacing. George looks on at the spectacle in the ring, from behind Jerry and Elaine.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Elaine talking to Kurt in jail on a phone through the glass.]<br>
+							<br>
+							
+						ELAINE: Why? Why did you get into a fist fight with the cop? You were innocent!<br>
+							<br>
+							
+						KURT: They thought I was George. I'm not that bald. And I have too little time left to take that kind of crap, so I, slugged him.<br>
+							<br>
+							
+						ELAINE: So, how long are you gonna be in here for?<br>
+							<br>
+							
+						KURT: Well, my lawyer says 14 months, but with good behavior, maybe...10?<br>
+							<br>
+							
+						ELAINE: (sighs) So 10 to 14 months.<br>
+							<br>
+							
+						KURT: Yeah.<br>
+							<br>
+							
+						(Elaine hangs up the phone, takes Kurt's ring off her finger, drops it in the tray, pushes the tray close button and leaves. Kurt holds up the ring watching her, and looks with a subdued expression.)<br>
+							<br>
+							<br>
+							
+						The End</td>
+						</tr>
+						<tr height="6">
+							<td class="bottom2" width="645" height="6"></td>
+						</tr>
+						<tr>
+							<td width="645">
+								<div align="center">
+									<font size="-1">Copyright 2006 seinology.com | All Rights Reserved | Designed by 13erla</font></div>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+		<p></p>
+	</body>
+
+</html>

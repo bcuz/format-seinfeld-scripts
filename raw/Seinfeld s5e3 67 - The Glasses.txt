@@ -1,0 +1,1360 @@
+<tdOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+<html>
+
+	<head>
+		<meta http-equiv="content-type" content="text/html;charset=ISO-8859-1">
+		<meta name="description" content="Top Source for Seinfeld">
+		<meta name="keywords" content="seinfeld, sienfeld, Jerry Seinfeld, Julia Louis Dreyfus, Jason Alexander, Michael Richards, Kramer, George, Costanza, Elaine Benes, morty, Larry David">
+		<title>Seinology.com :: Scripts :: 67-The Glasses</title>
+	<link rel='stylesheet' href='/stylesheet.css' type='text/css'>
+	</head>
+
+	<body>
+			<table align="center" width="787" border="0" cellspacing="0" cellpadding="0">
+				<tr>
+					<td><font size="-2" color="red">Seinology.com - </font><font size="-3" color="black">Where Seinfeld Content and Accuracy Matter Most. Seinfeld scripts in pdf form, Seinfeld episode video clips, Seinfeld episode audio clips, Jerry Seinfeld appearances, Julia Louis-Dreyfus appearances, Michael Richards appearances, Jason Alexander appearances, Seinfeld discussion Forum, Seinfeld Where are they Now? Seinlanguage Newsletter, Popular Seinfeld Lists, Seinfeld episode standup, Seinfeld episode guide, Seinfeld fan fiction. Seinfeld content all on one domain. Seinology.com enjoy your stay.</font></td>
+				</tr>
+			</table>
+		
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr height="100">
+				<td class="logo"></td>
+			</tr>
+			<tr><td class="ads" align="center" background=#8694fa>
+				<script type="text/javascript"><!--
+google_ad_client = "pub-1924026976931416";
+google_ad_width = 728;
+google_ad_height = 90;
+google_ad_format = "728x90_as";
+google_ad_type = "text";
+google_ad_channel = "";
+google_color_border = "FFFFFF";
+google_color_bg = "8694fa";
+google_color_link = "0000FF";
+google_color_text = "000000";
+google_color_url = "002E3F";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></td></tr>
+		</table>
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr>
+				<td valign="top" width="136">
+					<table width="136" border="0" cellspacing="0" cellpadding="0">
+						<tr height="24">
+							<td class="navigation">
+								<div align="center">
+									
+									<b>Navigation</b></div>
+							</td>
+						</tr>
+						<tr height="199">
+							<td class="spacer1" valign="top" width="136" height="199">
+								<div align="center">
+									<font size="-1"><a href="http://www.seinology.com">Home</a><br>
+										<a href="http://board.seinology.com">Forum</a><br>
+										<a href="http://www.seinology.com/av.shtml">Audio/Video</a><br>
+										<a href="http://www.seinology.com/scripts.shtml">Scripts</a><br>
+										<a href="http://www.seinology.com/survivor.shtml">Survivor</a><br>
+										<a href="http://www.seinology.com/fanfics.shtml">Fan Fiction</a><br>
+										<a href="http://www.seinology.com/gallery/">Gallery</a><br>
+										<a href="http://www.seinology.com/newsletter.shtml">Newsletter</a><br>
+										<a href="http://www.seinology.com/lists.shtml">Lists</a><br>
+										<a href="http://www.seinology.com/epguide.shtml">Episode Guide</a><br>
+										<a href="http://www.seinology.com/links.shtml">Links</a><br>
+										<a href="http://www.seinology.com/faqother.shtml">Faq + others</a><br>
+										<a href="http://www.seinology.com/legal.shtml">Legal</a></font></div>
+							</td>
+						</tr>
+						
+						<tr>
+							<td class="nav2" width="136">
+							<div align="center"><b>Search</b></div></td>
+						</tr>
+						<tr>
+							<td class="spacer1" width="136" valign="top"><div align="center"><form method="get" action="http://www.seinology.com/search/search.cgi">
+<p><label for="fdse_Match">Match</label><br>
+<select name="Match" id="fdse_Match" size="1">
+<option value="1">All</option>
+<option value="0">Any</option>
+<option value="2">Phrase</option>
+</select></p>
+<p><label for="fdse_Realm">Where?</label><br>
+<select name="Realm" id="fdse_Realm" size="1">
+<option selected="selected" value="All">EntireSite</option>
+<option value="Ep Guide">Ep Guide</option>
+<option value="Images">Images</option>
+<option value="Lists">Lists</option>
+<option value="Newsletters">Newsletters</option>
+<option value="Scripts">Scripts</option>
+<option value="Notes..Nothing">Notes..Nothing</option>
+</select></p>
+<p><input type="text" name="Terms" size="14" id="fdse_Terms"><br>
+<input type="submit" class="submit" name="submitButtonName" value="Search"></p>
+</div></form></td>
+						</tr>
+						<tr><td class="bottom" width="136" height="10" valign="top">
+						</td>
+						</tr>
+					</table>
+				</td>
+				<td width="4"></td>
+				<td valign="top" width="645">
+					<table width="645" border="0" cellspacing="0" cellpadding="0">
+						<tr height="18">
+							<td width="645" height="35" class="bar">
+								<div align="center">
+									<b><font size="+2" color="black">Script</font></b></div>
+							</td>
+						</tr>
+						<tr height="362">
+							<td class="spacer2" valign="top" width="645" height="362">
+
+						<p><font size="-2">Episode 67 - The Glasses<br>
+							
+						pc: 502, season 5, episode 3<br>
+							
+						Broadcast date: September 30, 1993<br>
+							<br>
+							
+						Written by Tom Gammill &amp; Max Pross<br>
+							
+						Directed by Tom Cherones<br>
+							<br>
+							
+						-------------------------------------------------------------------------------<br>
+							<br>
+							
+						The Cast<br>
+							
+						Regulars:<br>
+							
+						Jerry Seinfeld ....................... Jerry Seinfeld<br>
+							
+						Jason Alexander .................. George Costanza<br>
+							
+						Julia Louis-Dreyfus ............. Elaine Benes<br>
+							
+						Michael Richards ................. Kramer<br>
+							<br>
+							
+						Guest Stars:<br>
+							<br>
+							
+						Timothy Stack ..................... Dwayne<br>
+							
+						Anna Gunn ......................... Amy<br>
+							
+						Tom Towles ........................ Tough Guy<br>
+							
+						Rance Howard ................... Blind Man<br>
+							
+						Michael Saad ....................... Doctor<br>
+							
+						Kim Gillingham ................... Assistant<br>
+							
+						rc: Len Lesser ..................... Uncle Leo<br>
+							<br>
+							
+						==================================================================<br>
+							
+						&nbsp;<br>
+							
+						[Opening Monologue]<br>
+							<br>
+							
+						I never get enough sleep. I stay up late at night, cause I'm Night Guy. Night Guy wants to stay up late. 'What about getting up after five hours sleep?', oh that's Morning Guy's problem. That's not my problem, I'm Night Guy. I stay up as late as I want. So you get up in the morning, you're alarm, you're exhausted, groggy, oooh you hate that Night Guy! See, Night Guy always screws Morning Guy. There's nothing Morning Guy can do. The only thing Morning Guy can do is try and oversleep often enough so that Day Guy looses his job and Night Guy has no money to go out anymore.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Jerry's apartment]<br>
+							<br>
+							
+						(Elaine and Jerry hang out the window)<br>
+							<br>
+							
+						ELAINE: Do you ever spit on anybody from here?<br>
+							<br>
+							
+						JERRY: No. You?<br>
+							<br>
+							
+						ELAINE: No. Do you ever think about it?<br>
+							<br>
+							
+						JERRY: Yeah.<br>
+							<br>
+							
+						ELAINE: Me too.<br>
+							<br>
+							
+						(Kramer enters the apartment)<br>
+							<br>
+							
+						KRAMER: Hey.<br>
+							<br>
+							
+						JERRY: Hey.<br>
+							<br>
+							
+						KRAMER: Well I got it!<br>
+							<br>
+							
+						JERRY: You got me the air conditioner?<br>
+							<br>
+							
+						KRAMER: What do you think?<br>
+							<br>
+							
+						JERRY: Beautiful!<br>
+							<br>
+							
+						ELAINE: What air conditioner?<br>
+							<br>
+							
+						KRAMER: Well my buddy works in an appliance store and he got us thirty percent off.<br>
+							<br>
+							
+						JERRY: Is it a good one?<br>
+							<br>
+							
+						KRAMER: Good one? It's the Commando 8.<br>
+							<br>
+							
+						JERRY: Commando 8?<br>
+							<br>
+							
+						KRAMER: 12,000 BTU's.<br>
+							<br>
+							
+						ELAINE: I thought you hated air conditioning. You've never had an air conditioner.<br>
+							<br>
+							
+						KRAMER: Yeah, but Amy likes air conditioning.<br>
+							<br>
+							
+						ELAINE: Oooh, you're getting an air conditioner for Amy. (In a wining voice:) Amy doesn't like the temperature up here. She's a little hoooot.<br>
+							<br>
+							
+						JERRY: All right.<br>
+							<br>
+							
+						KRAMER: Okay, so, I'm gonna measure the window up, okay buddy?<br>
+							<br>
+							
+						JERRY: Yeah.<br>
+							<br>
+							
+						KRAMER: Yeah. (George enters the apartment wearing goggles) Yeah, rock on!<br>
+							<br>
+							
+						(Kramer leaves the apartment)<br>
+							<br>
+							
+						GEORGE: I gotta get out of this city.<br>
+							<br>
+							
+						JERRY: So you're tunneling to the center of the Earth? (Elaine laughs silently)<br>
+							<br>
+							
+						GEORGE: I'm at the health club and while I'm in the pool, some guy walks off with my glasses. Who steals prescription glasses?<br>
+							<br>
+							
+						ELAINE: You don't have an old pair?<br>
+							<br>
+							
+						GEORGE: I broke 'em playing basketball.<br>
+							<br>
+							
+						JERRY: He was running from a bee. (Elaine laughs)<br>
+							<br>
+							
+						GEORGE: Now if I wanna see anything I gotta wear these.<br>
+							<br>
+							
+						ELAINE: George, those are prescription goggles? What is there to see in a health club pool?<br>
+							<br>
+							
+						JERRY: There's a lot of change down there.<br>
+							<br>
+							
+						GEORGE: When I find that guy, this much I vow: those glasses will be returned to their rightful owner.<br>
+							<br>
+							
+						JERRY: We're behind you, Aquaboy. Godspeed!<br>
+							<br>
+							
+						(Kramer enters the apartment)<br>
+							<br>
+							
+						GEORGE: What kind of a sick, demented person wants another person's glasses?<br>
+							<br>
+							
+						ELAINE: Yeah, especially those frames.<br>
+							<br>
+							
+						KRAMER: You know what you ought to do? Go see my friend Dwayne at J &amp; T Optical on Columbus Avenue. He'll give you thirty percent off.<br>
+							<br>
+							
+						GEORGE: Yeah, come on.<br>
+							<br>
+							
+						JERRY: Hey, he just got me thirty percent off on an air conditioner.<br>
+							<br>
+							
+						GEORGE: Really?<br>
+							<br>
+							
+						KRAMER: Retail is for suckers.<br>
+							<br>
+							
+						GEORGE: Wow. Uh, what do I have to do?<br>
+							<br>
+							
+						KRAMER: You just gotta mention my name.<br>
+							<br>
+							
+						GEORGE: That's it?<br>
+							<br>
+							
+						KRAMER: That's it. (smacks George on the forehead with a ruler)<br>
+							<br>
+							<br>
+							<br>
+							
+						[J &amp; T Optical]<br>
+							<br>
+							
+						(George tries on a pair of glasses)<br>
+							<br>
+							
+						GEORGE: What about these?<br>
+							<br>
+							
+						ELAINE: They look good. I liked the other one too. I've liked about five of them.<br>
+							<br>
+							
+						GEORGE: Well, it's a tough decision. I have to wear these every day. I'm deciding on a new face.<br>
+							<br>
+							
+						JERRY: (bored) Come on, George. Pick a face and go with it.<br>
+							<br>
+							
+						(George tries on some black glasses whose frames are OVERLY large)<br>
+							<br>
+							
+						ELAINE: Now those look good, they're very bold.<br>
+							<br>
+							
+						(Elaine begs George behind his back to pick a frame)<br>
+							<br>
+							
+						GEORGE: Yes, they are bold. Jerry, what do you think?<br>
+							<br>
+							
+						JERRY: (While looking at posters of women wearing glasses) I think these women would be pretty good looking if they weren't wearing glasses.<br>
+							<br>
+							
+						(A man with a dog enters the store)<br>
+							<br>
+							
+						ELAINE: Hi there, little doggy. (to owner:) Do you mind if I pet your dog?<br>
+							<br>
+							
+						DOG OWNER: It's okay with me.<br>
+							<br>
+							
+						ELAINE: Hey little doggy. (Elaine pets the dog and he bites her) Aaah!<br>
+							<br>
+							
+						DWAYNE: Hey, you can't have that dog in here.<br>
+							<br>
+							
+						(The man leaves the store taking his dog with him)<br>
+							<br>
+							
+						JERRY: Are you okay? Did he bite ya?<br>
+							<br>
+							
+						GEORGE: Can you believe that guy?<br>
+							<br>
+							
+						ELAINE: I'm okay, it's just a nip.<br>
+							<br>
+							
+						GEORGE: He just walked away! And once again I'm standing here like a little man. Well not this time! (George leaves the store and follows the dog owner) You! Dog man!<br>
+							<br>
+							
+						(George, without his glasses, squints and it looks like he sees something interesting. He enters the store again)<br>
+							<br>
+							
+						ELAINE: My leg looks pretty bad.<br>
+							<br>
+							
+						JERRY: Oh I'm gonna take you over to the emergency room.<br>
+							<br>
+							
+						ELAINE: Okay.<br>
+							<br>
+							
+						JERRY: (To George:) Hey, any luck? Did you catch 'em?<br>
+							<br>
+							
+						GEORGE: Uuh, no, no.<br>
+							<br>
+							
+						JERRY: All right, I'm gonna take Elaine over to the hospital.<br>
+							<br>
+							
+						GEORGE: (In a really strange way) Good, good, do that.<br>
+							<br>
+							
+						JERRY: What's the matter?<br>
+							<br>
+							
+						GEORGE: Oh, no, nothing.<br>
+							<br>
+							
+						JERRY: What is it?<br>
+							<br>
+							
+						GEORGE: I can't tell you.<br>
+							<br>
+							
+						ELAINE: (pulling on Jerry's pants from the ground) Jerry, can we go?<br>
+							<br>
+							
+						JERRY: Yeah, yeah, in a second, in a second. (And to George:) What do you mean you can't tell me?<br>
+							<br>
+							
+						GEORGE: I can't tell you, don't ask.<br>
+							<br>
+							
+						JERRY: I'm asking!<br>
+							<br>
+							
+						ELAINE: Jerry, my leg.<br>
+							<br>
+							
+						JERRY: Yeah, yeah, take care of it. (Jerry throws her some toilet paper) Come on, George, what is it?<br>
+							<br>
+							
+						GEORGE: I saw Amy making out with your cousin Jeffrey.<br>
+							<br>
+							
+						JERRY: What?<br>
+							<br>
+							
+						GEORGE: They were right outside!<br>
+							<br>
+							
+						JERRY: Amy and Jeffrey?<br>
+							<br>
+							
+						GEORGE: Yes!<br>
+							<br>
+							
+						JERRY: Are you sure?<br>
+							<br>
+							
+						GEORGE: Yes, positive.<br>
+							<br>
+							
+						JERRY: But you can't see, there's no lenses in those frames.<br>
+							<br>
+							
+						GEORGE: I know! I was squinting.<br>
+							<br>
+							
+						ELAINE: Okay, listen, Jerry, you just catch up with me okay? You can just follow the trail of blood.<br>
+							<br>
+							
+						JERRY: We're gonna have to talk about this later. (Elaine holds the door open for Jerry while holding her leg) Thank you. Taxi!<br>
+							<br>
+							
+						(Jerry and Elaine leave the store; George tries on another pair of glasses)<br>
+							<br>
+							
+						GEORGE: (To the store owner:) Excuse me, what do you think of these?<br>
+							<br>
+							
+						DWAYNE: Oh, we just got those in. It's a very exciting new frame.<br>
+							<br>
+							
+						GEORGE: Yes, it is exciting! All right, this is gonna be my new face.<br>
+							<br>
+							
+						DWAYNE: All right, do you have a prescription?<br>
+							<br>
+							
+						GEORGE: Yeah. (George hands over the prescription) Kramer...<br>
+							<br>
+							
+						DWAYNE: What?<br>
+							<br>
+							
+						GEORGE: Kramer...<br>
+							<br>
+							
+						DWAYNE: What about him?<br>
+							<br>
+							
+						GEORGE: You do know Kramer?<br>
+							<br>
+							
+						DWAYNE: Yes...<br>
+							<br>
+							
+						GEORGE: Well, I'm mentioning his name.<br>
+							<br>
+							
+						DWAYNE: Why?<br>
+							<br>
+							
+						GEORGE: Because... you know...<br>
+							<br>
+							
+						DWAYNE: No, I don't know. Look, I'm gonna need a deposit on these.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Hospital]<br>
+							<br>
+							
+						(Elaine and Jerry are at the hospital; Elaine's wound is being fixed up by a foreign doctor)<br>
+							<br>
+							
+						ELAINE: Oh, come on. Cousin Jeffrey? It's not possible!<br>
+							<br>
+							
+						JERRY: Why not? They could have met. She loves the park, he works for the Parks Department.<br>
+							<br>
+							
+						ELAINE: Jerry, that is so ridiculous. But, George didn't even have his glasses on!<br>
+							<br>
+							
+						JERRY: But he was squinting.<br>
+							<br>
+							
+						ELAINE: So what? Squinting doesn't make that much of a difference.<br>
+							<br>
+							
+						JERRY: Are you kidding? I've seen 'em squint. He can squint his way down to like twenty, thirty vision. Once we were driving down from the Catskills and he lost his glasses. He squinted his way from Wortsborough down to the Tappan Zee Bridge! He was spotting raccoons, on the road!<br>
+							<br>
+							
+						DOCTER: Okay.<br>
+							<br>
+							
+						ELAINE: Okay? That's it? I don't need a shot?<br>
+							<br>
+							
+						DOCTER: Not shot, dog bite.<br>
+							<br>
+							
+						ELAINE: No, no, no. I know I wasn't shot. Do I need a shot?<br>
+							<br>
+							
+						DOCTER: Not shot, dog bite. Woof woof, not bang bang.<br>
+							<br>
+							
+						(the doctor exits the hospital room; Jerry and Elaine are shocked)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Jerry's apartment]<br>
+							<br>
+							
+						(Jerry and Amy watch television)<br>
+							<br>
+							
+						JERRY: Nah, look at this. Cable's out.<br>
+							<br>
+							
+						AMY: Oh that's okay, we don't have to watch tv.<br>
+							<br>
+							
+						JERRY: No, no, no. No trouble at all, it's a principal the thing. (Jerry picks up the phone and dials the number) I like them to know that I know what's going on. That they're not... getting away with anything. Oh, I'm on hold. So, what did you do yesterday?<br>
+							<br>
+							
+						AMY: Yesterday?<br>
+							<br>
+							
+						JERRY: Yeah, you remember yesterday? Beautiful day... good day to be... out.<br>
+							<br>
+							
+						AMY: I didn't do anything.<br>
+							<br>
+							
+						JERRY: (laughing) Oh you must have done something.<br>
+							<br>
+							
+						AMY: No, nothing really.<br>
+							<br>
+							
+						JERRY: Didn't go out of the house? Didn't take a walk... on Columbus Avenue?<br>
+							<br>
+							
+						AMY: Well, I did go out for a little while.<br>
+							<br>
+							
+						JERRY: Well, your day's getting more interesting already. (Jerry shows the phone) Ah, see, told me they'd be back in a minute and THEY lied.<br>
+							<br>
+							
+						AMY: You can't thrust anyone.<br>
+							<br>
+							
+						JERRY: No you can't. (hangs up the phone) Now let's cut the ball, sister! You think I don't know about you swapping spit with somebody yesterday on Columbus Avenue?<br>
+							<br>
+							
+						AMY: What are you talking about?<br>
+							<br>
+							
+						JERRY: Look, my friend saw you.<br>
+							<br>
+							
+						AMY: Saw me? With who?<br>
+							<br>
+							
+						JERRY: You tell me.<br>
+							<br>
+							
+						AMY: There's nothing to tell.<br>
+							<br>
+							
+						JERRY: There isn't?<br>
+							<br>
+							
+						AMY: No.<br>
+							<br>
+							
+						JERRY: Oh... all right... wanna get some pizza?<br>
+							<br>
+							
+						(Amy stands up and walks away)<br>
+							<br>
+							
+						AMY: I had a feeling this was to good to be true.<br>
+							<br>
+							
+						JERRY: Why?<br>
+							<br>
+							
+						AMY: I knew there had to be another side to you.<br>
+							<br>
+							
+						JERRY: No, no, there's no side!<br>
+							<br>
+							
+						AMY: There is a side, an ugly side.<br>
+							<br>
+							
+						JERRY: No, no, no ugly side.<br>
+							<br>
+							
+						AMY: Look, I think I'm gonna go.<br>
+							<br>
+							
+						JERRY: Why?<br>
+							<br>
+							
+						AMY: It's really hot in here.<br>
+							<br>
+							
+						JERRY: Uuh, so we can still go out on Friday though?<br>
+							<br>
+							
+						AMY: Yeah. When you getting an air conditioner?<br>
+							<br>
+							
+						JERRY: It's coming! It's a Commando 8! 12.000 BTU's! It's gonna be like a meat locker in here.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Jerry's apartment]<br>
+							<br>
+							
+						JERRY: I was an idiot for listening to you!<br>
+							<br>
+							
+						GEORGE: Hey, I saw what I saw.<br>
+							<br>
+							
+						JERRY: Ooh, everything was going so well. She hadn't seen any flaws in me. Now she sees a side.<br>
+							<br>
+							
+						GEORGE: What side?<br>
+							<br>
+							
+						JERRY: A bad side, an ugly side.<br>
+							<br>
+							
+						GEORGE: Ooh, so what?<br>
+							<br>
+							
+						JERRY: So what? I wasn't planning on showing that side for another six months. Now you make me throw off the whole learning curve.<br>
+							<br>
+							
+						GEORGE: Why don't you just ask Jeffrey?<br>
+							<br>
+							
+						JERRY: Ah, he'd just deny it.<br>
+							<br>
+							
+						GEORGE: There must be some way to find out.<br>
+							<br>
+							
+						JERRY: Amy said nothing happened.<br>
+							<br>
+							
+						GEORGE: What, you're gonna take her word over mine? I'm your best friend!<br>
+							<br>
+							
+						JERRY: Yeah, but you're blind as a bat!<br>
+							<br>
+							
+						GEORGE: I was squinting! Remember that drive from Wortsborough? (snapping his fingers) I was spotting those raccoons.<br>
+							<br>
+							
+						JERRY: They were mailboxes, you idiot. I didn't have the heart to tell you.<br>
+							<br>
+							
+						GEORGE: (noticing something) Hey look, a dime.<br>
+							<br>
+							
+						(George walks over to the other end of the room and picks up a dime)<br>
+							<br>
+							
+						GEORGE: Heh, Mercury head. You mind?<br>
+							<br>
+							
+						JERRY: (Stunned:) No, keep it. (Elaine enters the apartment) Hey what happened to you? You buzzed five minutes ago.<br>
+							<br>
+							
+						ELAINE: There was a dog in front of the building and it spooked me. I couldn't come in until he left.<br>
+							<br>
+							
+						JERRY: A little white dog?<br>
+							<br>
+							
+						ELAINE: Yeah.<br>
+							<br>
+							
+						JERRY: Snowball? You were afraid of Snowball?<br>
+							<br>
+							
+						ELAINE: I'm afraid of dogs now.<br>
+							<br>
+							
+						JERRY: He's like a squirrel.<br>
+							<br>
+							
+						ELAINE: Well he frightened me.<br>
+							<br>
+							
+						GEORGE: Did you get the shot?<br>
+							<br>
+							
+						ELAINE: No. He said I didn't need a shot.<br>
+							<br>
+							
+						GEORGE: You got bit by a strange dog and you didn't get a rabies shot?<br>
+							<br>
+							
+						ELAINE: What, you think I should have?<br>
+							<br>
+							
+						(George indicates 'yes')<br>
+							<br>
+							
+						JERRY: You know, you should just go back to the optical store and ask Dwayne if he knows the name of the owner of the dog.<br>
+							<br>
+							
+						ELAINE: All right, that's a good idea. I'm gonna do that.<br>
+							<br>
+							
+						(Kramer enters the apartment)<br>
+							<br>
+							
+						KRAMER: The AC is on it's way.<br>
+							<br>
+							
+						GEORGE: Pardon me, I went to see your friend Dwayne... there was no discount.<br>
+							<br>
+							
+						KRAMER: What?<br>
+							<br>
+							
+						GEORGE: That's right, no discount!<br>
+							<br>
+							
+						KRAMER: Well did you mention my name?<br>
+							<br>
+							
+						GEORGE: Yes, I mentioned your name.<br>
+							<br>
+							
+						KRAMER: And?<br>
+							<br>
+							
+						GEORGE: Pbbbs, Bubkis!<br>
+							<br>
+							
+						KRAMER: Now I don't believe this. That guy owes me big time. I got him off sugar! Look, I'm gonna go down there with you right now.<br>
+							<br>
+							
+						GEORGE: All right, let me just... I'm gonna grap an apple.<br>
+							<br>
+							
+						JERRY: Hey, Kramer, Elaine's afraid of Snowball!<br>
+							<br>
+							
+						KRAMER: Little Snowball? He runs on batteries!<br>
+							<br>
+							
+						(George takes a bite out of an onion)<br>
+							<br>
+							
+						ELAINE: You know, George, that's an onion.<br>
+							<br>
+							
+						GEORGE: Yes it is.<br>
+							<br>
+							
+						(And he takes another bite)<br>
+							<br>
+							
+						ELAINE: He couldn't tell an apple from an union and he's your eye witness?<br>
+							<br>
+							
+						GEORGE: I saw them making out, you can believe it.<br>
+							<br>
+							
+						JERRY: I don't know what to believe! You're eating unions, you're spotting dimes, I don't know what the hell is going on.<br>
+							<br>
+							
+						KRAMER: Look, all you gotta to do, is get Amy and Jeffrey together somewhere, that's it.<br>
+							<br>
+							
+						JERRY: Hey wait a second, wait a second. I'm going over to Jeffrey's apartment tomorrow night to pick up these Paul Simon tickets. I'm gonna surprise Amy. All I gotta do is bring her with me. And then when Jeffrey opens the door, it's Howdy Doody time.<br>
+							<br>
+							
+						KRAMER: Right this way, mister Doody!<br>
+							<br>
+							
+						GEORGE: (crying from the onion) You'll see I'm right.<br>
+							<br>
+							<br>
+							<br>
+							
+						[J &amp; T Optical]<br>
+							<br>
+							
+						KRAMER: Hey, Dwayny.<br>
+							<br>
+							
+						DWAYNE: Oh hello Kramer.<br>
+							<br>
+							
+						KRAMER: What is going on here?<br>
+							<br>
+							
+						DWAYNE: What are you talking about?<br>
+							<br>
+							
+						KRAMER: I'm talking about the thirty percent discount.<br>
+							<br>
+							
+						ELAINE: Uhm excuse me... uh... a man came in here...<br>
+							<br>
+							
+						GEORGE: Elaine, don't interrupt, they're discounting something.<br>
+							<br>
+							
+						DWAYNE: Who said anything about a discount.<br>
+							<br>
+							
+						KRAMER: Ooh, how quickly we forget. You owe me buddy.<br>
+							<br>
+							
+						DWAYNE: For what?<br>
+							<br>
+							
+						(Kramer pulls out a candy bar)<br>
+							<br>
+							
+						KRAMER: Remember this?<br>
+							<br>
+							
+						DWAYNE: What are you doing?<br>
+							<br>
+							
+						KRAMER: Six months ago you were eating four of those for breakfast and chasing it with a ring ding. And two butter fingers on the train. Sounds familiar?<br>
+							<br>
+							
+						DWAYNE: Put that away!<br>
+							<br>
+							
+						KRAMER: Remember that night I found you at Dinky Donuts? You were all *hopped* up on cinnamon swirls! They wouldn't serve you anymore! You wouldn't even have any teeth if it wasn't for me taking you over to Joe's fruit stand and stuffin' cantaloupe down your throat! So much for gratitude... yeah, yeah, yeah!<br>
+							<br>
+							
+						DWAYNE: All right, all right, all right! I'll give him the discount, just put that thing away! This squares us.<br>
+							<br>
+							
+						ELAINE: Can I just have the name...<br>
+							<br>
+							
+						DWAYNE: Out!<br>
+							<br>
+							
+						KRAMER: We'll see you Dwayne.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Jerry's apartment]<br>
+							<br>
+							
+						(George shows Jerry his glasses)<br>
+							<br>
+							
+						JERRY: I don't know what to tell you, Elton.<br>
+							<br>
+							
+						ELAINE: (While reading a book:) Oh oh, listen to this, this is not good, listen to these symptoms for rabies: anxiety, irritability. I got those, I'm irritable!<br>
+							<br>
+							
+						JERRY: (To George:) Who picked these out?<br>
+							<br>
+							
+						GEORGE: I did!<br>
+							<br>
+							
+						JERRY: They're ladies' glasses! You know all you need is that little chain around your neck so you can wear 'em while you're playing Canasta.<br>
+							<br>
+							
+						GEORGE: Well Elaine was supposed to help me.<br>
+							<br>
+							
+						(Elaine runs over to George and starts screaming)<br>
+							<br>
+							
+						ELAINE: Hey! I got bit by a dog! I had to go to the hospital! I was bleeding to death! I can't solve every little problem you have!<br>
+							<br>
+							
+						JERRY: Hey, hey.<br>
+							<br>
+							
+						ELAINE: I'm sorry... sorry.<br>
+							<br>
+							
+						(Kramer enters the apartment with the air conditioner in his arms)<br>
+							<br>
+							
+						KRAMER: Commando 8 has arrived!<br>
+							<br>
+							
+						JERRY: Take it to the window.<br>
+							<br>
+							
+						KRAMER: 12.000 BTU's of raw cooling power. (Kramer places the air conditioner in the window) Installed!<br>
+							<br>
+							
+						GEORGE: That's it? You don't have to screw it in or anything?<br>
+							<br>
+							
+						KRAMER: No, just plug it in and the Commando 8 does the rest. (And to Jerry:) I'll seal that up later, right?<br>
+							<br>
+							
+						JERRY: Just in time for Amy.<br>
+							<br>
+							
+						GEORGE: Oh yeah, when are you gonna execute that plan?<br>
+							<br>
+							
+						ELAINE: I've got such a headache. Oh, that's another symptom!<br>
+							<br>
+							
+						KRAMER: Of what?<br>
+							<br>
+							
+						JERRY: Rabies.<br>
+							<br>
+							
+						KRAMER: Oh that's fatal, you don't want that!<br>
+							<br>
+							
+						(Elaine runs over to Kramer and starts screaming again)<br>
+							<br>
+							
+						ELAINE: I know I don't want it! I don't need you to tell me what I don't want, you stupid hipster dufus!<br>
+							<br>
+							
+						JERRY: Hey, hey, what is this? What's going on here?<br>
+							<br>
+							
+						ELAINE: I'm sorry, Kramer, I'm sorry.<br>
+							<br>
+							
+						KRAMER: No, no, it's all right. I had a friend who had rabies once. (George's eating chips) May I have one of those, madam?<br>
+							<br>
+							
+						GEORGE: Madam? What are you calling me madam for?<br>
+							<br>
+							
+						KRAMER: They're ladies' glasses.<br>
+							<br>
+							
+						(Kramer takes George's glasses and shows him the inside)<br>
+							<br>
+							
+						KRAMER: Now look here, see it's right here: Gloria Vanderbilt Collection.<br>
+							<br>
+							
+						GEORGE: He sold me ladies' glasses!<br>
+							<br>
+							
+						ELAINE: I... I think I'm... I'm having trouble swallowing. I can't... I can't swallow.<br>
+							<br>
+							
+						KRAMER: She's got rabies, just like my friend Bob Sacamano. She's delirious. (Elaine drinks some water and drools) She's foaming at the mouth!<br>
+							<br>
+							<br>
+							<br>
+							
+						[Hospital]<br>
+							<br>
+							
+						ELAINE: Is this gonna hurt?<br>
+							<br>
+							
+						DOCTER: Yes, very much.<br>
+							<br>
+							
+						(Elaine gets the shot)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Jerry's apartment]<br>
+							<br>
+							
+						ELAINE: What if Jeffrey's not home. Did you ever think of that?<br>
+							<br>
+							
+						JERRY: Oh he'll be home, it's Friday night. That's the big night on the Nature Channel.<br>
+							<br>
+							
+						ELAINE: Let me tell you this: there is no way cousin Jeffrey is dating Amy. He looks like a horse!<br>
+							<br>
+							
+						JERRY: He does look like a horse.<br>
+							<br>
+							
+						ELAINE: Yeah, he's got a real horse face. (Elaine, while looking out the window:) Here, look at this! It's the guy with the dog! (She opens the window and screams:) Hey! Hey! You down there! Remember me? I had to get shot because of your stupid dog!<br>
+							<br>
+							
+						DOG OWNER: Hey who are you calling stupid?<br>
+							<br>
+							
+						JERRY: Hey, shall we spit on him?<br>
+							<br>
+							
+						ELAINE: No no no no, come on, let's go downstairs.<br>
+							<br>
+							
+						(Kramer enters the apartment)<br>
+							<br>
+							
+						KRAMER: (Singing:) Oh myyyy papayaaaa. (The air conditioner wobbles) The air conditioner! (Kramer tries to keep it from falling by holding it's cord, but it snaps) I think it got the dog!<br>
+							<br>
+							<br>
+							<br>
+							
+						[New York Health Club's locker room]<br>
+							<br>
+							
+						(George is drying himself)<br>
+							<br>
+							
+						GEORGE: Ah, Oh boy.<br>
+							<br>
+							
+						BLIND MAN: Excuse me, uh I'm new here, would you mind walking me back to my locker?<br>
+							<br>
+							
+						GEORGE: Oh uuh, sure, why not. (the blind man hangs on to George's arm) Hey, that's the guy.<br>
+							<br>
+							
+						BLIND MAN: What guy?<br>
+							<br>
+							
+						GEORGE: The guy that stole my glasses. This time I got 'em! (George follows the man onto the street, dragging the blind man with him) Would you pick it up a little?<br>
+							<br>
+							
+						BLIND MAN: Where the hell are we going?<br>
+							<br>
+							
+						GEORGE: He's getting on a bus, damn! (To the blind man:) Those are nice glasses.<br>
+							<br>
+							
+						BLIND MAN: I don't like 'em, they pinch my nose.<br>
+							<br>
+							
+						GEORGE: Is that right?<br>
+							<br>
+							<br>
+							<br>
+							
+						[J &amp; T Optical]<br>
+							<br>
+							
+						(George has taken the blind man with him)<br>
+							<br>
+							
+						GEORGE: Dwayne, my friend and I would like to exchange frames. Could you put his lenses in my frames and mine in his?<br>
+							<br>
+							
+						DWAYNE: (While eating a candy bar:) Yeah, we can do that.<br>
+							<br>
+							
+						GEORGE: And I'd like a discount.<br>
+							<br>
+							
+						DWAYNE: Why should I give you a discount.<br>
+							<br>
+							
+						GEORGE: Listen, you're lucking I'm not asking for a whole refund. (trying to speak quietly) You gave me ladies' frames!<br>
+							<br>
+							
+						BLIND MAN: What's that about ladies' frames?<br>
+							<br>
+							
+						(The man with the dog enters and the dog wears a collar)<br>
+							<br>
+							
+						DOG OWNER: I'm trying to track down that lady that was in here the other day, the one that was messing with my dog.<br>
+							<br>
+							
+						GEORGE: Yeah, well, she's trying to track you down.<br>
+							<br>
+							
+						DOG OWNER: Well I would love to talk with her. (George chuckles) She lives on 81st Street, right?<br>
+							<br>
+							
+						GEORGE: No, that's Jerry.<br>
+							<br>
+							
+						DOG OWNER: Really? You wouldn't happen to know what apartment he's in, would you?<br>
+							<br>
+							
+						GEORGE: Yeah, 5A!<br>
+							<br>
+							
+						DOG OWNER: Thanks a lot!<br>
+							<br>
+							<br>
+							<br>
+							
+						[in front of Jeffrey's apartment]<br>
+							<br>
+							
+						AMY: So what are we doing here?<br>
+							<br>
+							
+						JERRY: Oh, you'll find out.<br>
+							<br>
+							
+						AMY: I don't know, you're acting very mysteriously.<br>
+							<br>
+							
+						JERRY: Well, I'm very mysterious by nature. (Jerry knocks on the door) A lot of women find that attractive.<br>
+							<br>
+							
+						AMY: I find it annoying.<br>
+							<br>
+							
+						JERRY: Oh?<br>
+							<br>
+							
+						(Uncle Leo opens the door)<br>
+							<br>
+							
+						UNCLE LEO: Helloooo!<br>
+							<br>
+							
+						JERRY: Uncle Leo?!<br>
+							<br>
+							
+						UNCLE LEO: Come on in.<br>
+							<br>
+							
+						JERRY: This is Amy.<br>
+							<br>
+							
+						UNCLE LEO: Hello Amy.<br>
+							<br>
+							
+						JERRY: Unlce Leo, what are you doing here?<br>
+							<br>
+							
+						UNCLE LEO: Jeffrey went out tonight.<br>
+							<br>
+							
+						JERRY: Ooh! Very convenient.<br>
+							<br>
+							
+						UNCLE LEO: I'm supposed to tape this nature show for him, he loves nature. Botany, zoology. You know his botany teacher from college stays in close touch with him? They became friends!<br>
+							<br>
+							
+						JERRY: Oh really?<br>
+							<br>
+							
+						UNCLE LEO: That's pretty rare! I mean, actual friends! Like equals! They have dinner together, they have discussions...<br>
+							<br>
+							
+						JERRY: Uncle Leo! Did he leave any tickets here for me?<br>
+							<br>
+							
+						UNCLE LEO: Oh yeah yeah, I'll get 'em.<br>
+							<br>
+							
+						JERRY: Thank you.<br>
+							<br>
+							
+						AMY: What tickets?<br>
+							<br>
+							
+						JERRY: To the Paul Simon concert in the park!<br>
+							<br>
+							
+						AMY: We're going to the Paul Simon concert?<br>
+							<br>
+							
+						JERRY: That's right, lady!<br>
+							<br>
+							
+						AMY: Oh what a great surprise!<br>
+							<br>
+							
+						JERRY: I thought you'd like that.<br>
+							<br>
+							
+						AMY: Oooh, so that's why you've been acting so mysteriously.<br>
+							<br>
+							
+						JERRY: Now you know. That, and that alone, is the reason.<br>
+							<br>
+							
+						UNCLE LEO: You know Jeffrey's favorite animal: the leopard.<br>
+							<br>
+							
+						AMY: Why is that?<br>
+							<br>
+							
+						UNCLE LEO: He likes the spots. Oh uh, here's the tickets.<br>
+							<br>
+							
+						JERRY: Thank you.<br>
+							<br>
+							
+						UNCLE LEO: Oh uh, he asked me to give you a message. He said that uh he's very sorry and uh he hopes you'll forgive 'em.<br>
+							<br>
+							
+						JERRY: (To Amy:) Aha! So it's true! You were making out with him!<br>
+							<br>
+							
+						AMY: What are you talking about, I don't know Jeffrey. Oh so this is why you brought me up here?<br>
+							<br>
+							
+						JERRY: Oh very convincing, but it's not gonna work this time.<br>
+							<br>
+							
+						UNCLE LEO: What are you talking about? All he meant was that he was sorry that the seats aren't very good.<br>
+							<br>
+							
+						JERRY: Oh... oh... wanna get some pizza?<br>
+							<br>
+							<br>
+							<br>
+							
+						[in front of J &amp; T Optical]<br>
+							<br>
+							
+						(George is walking with the blind man)<br>
+							<br>
+							
+						GEORGE: Boy, these really do pinch the nose.<br>
+							<br>
+							
+						(George takes of his glasses)<br>
+							<br>
+							
+						BLIND MAN: Tough luck! A deal's a deal.<br>
+							<br>
+							
+						(George looks and see what he thinks is Amy and Jeffrey without his glasses)<br>
+							<br>
+							
+						GEORGE: Oh my God it is them.<br>
+							<br>
+							
+						(George puts on his glasses again and sees it's a policewoman kissing a horse; realizing this George's reaction says &quot;I stand corrected&quot;)<br>
+							<br>
+							<br>
+							<br>
+							
+						[New York Health Club locker room]<br>
+							<br>
+							
+						(George and Jerry after a workout)<br>
+							<br>
+							
+						JERRY: I still don't know how you spotted that dime. I think you planted it. Plus I had to pay that vet bill for the stupid dog. I don't know how that guy got my name.<br>
+							<br>
+							
+						(While Jerry goes to tie his shoes George nods his head knowing it was him)<br>
+							<br>
+							
+						GEORGE: Yeah. Hmm. Boy these really do pinch. I tell you, if I ever find the son of a bitch that stole my glasses...<br>
+							<br>
+							
+						(The camera shows George's glasses on top of his locker)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Closing Monologue]<br>
+							<br>
+							
+						But I wanna know, when did glasses go from being this carefully crafted medical apparatus to just this mall impulse item? 'Honey, I'm going out for a yogurt and a pair of trifocals do you need anything?' It's always glasses in about an hour. How much are they? 75 bucks. Well here's 72 and that's about 75 ok? Oh are you trying to coordinate it with the one hour photo place, is that the idea? 'Oh yea give me the glasses, my pictures are coming out right now I need to see 'em.' A then they have those Woolworth glasses you know. They're there, they're there now. No eye examine you don't have any idea what is wrong with your eyes and the glasses are made up they are ready and waiting so you can just walk in, 'thank you, bye.' And just walk right into a wall. Bang.<br>
+							<br>
+							<br>
+							
+						In Memory of Our Friend, John Oteri<br>
+							<br>
+							
+						The End</td>
+						</tr>
+						<tr height="6">
+							<td class="bottom2" width="645" height="6"></td>
+						</tr>
+						<tr>
+							<td width="645">
+								<div align="center">
+									<font size="-1">Copyright 2006 seinology.com | All Rights Reserved | Designed by 13erla</font></div>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+		<p></p>
+	</body>
+
+</html>

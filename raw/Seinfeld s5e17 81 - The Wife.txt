@@ -1,0 +1,1393 @@
+<tdOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+<html>
+
+	<head>
+		<meta http-equiv="content-type" content="text/html;charset=ISO-8859-1">
+		<meta name="description" content="Top Source for Seinfeld">
+		<meta name="keywords" content="seinfeld, sienfeld, Jerry Seinfeld, Julia Louis Dreyfus, Jason Alexander, Michael Richards, Kramer, George, Costanza, Elaine Benes, morty, Larry David">
+		<title>Seinology.com :: Scripts :: 81-The Wife</title>
+	<link rel='stylesheet' href='/stylesheet.css' type='text/css'>
+	</head>
+
+	<body>
+			<table align="center" width="787" border="0" cellspacing="0" cellpadding="0">
+				<tr>
+					<td><font size="-2" color="red">Seinology.com - </font><font size="-3" color="black">Where Seinfeld Content and Accuracy Matter Most. Seinfeld scripts in pdf form, Seinfeld episode video clips, Seinfeld episode audio clips, Jerry Seinfeld appearances, Julia Louis-Dreyfus appearances, Michael Richards appearances, Jason Alexander appearances, Seinfeld discussion Forum, Seinfeld Where are they Now? Seinlanguage Newsletter, Popular Seinfeld Lists, Seinfeld episode standup, Seinfeld episode guide, Seinfeld fan fiction. Seinfeld content all on one domain. Seinology.com enjoy your stay.</font></td>
+				</tr>
+			</table>
+		
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr height="100">
+				<td class="logo"></td>
+			</tr>
+			<tr><td class="ads" align="center" background=#8694fa>
+				<script type="text/javascript"><!--
+google_ad_client = "pub-1924026976931416";
+google_ad_width = 728;
+google_ad_height = 90;
+google_ad_format = "728x90_as";
+google_ad_type = "text";
+google_ad_channel = "";
+google_color_border = "FFFFFF";
+google_color_bg = "8694fa";
+google_color_link = "0000FF";
+google_color_text = "000000";
+google_color_url = "002E3F";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></td></tr>
+		</table>
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr>
+				<td valign="top" width="136">
+					<table width="136" border="0" cellspacing="0" cellpadding="0">
+						<tr height="24">
+							<td class="navigation">
+								<div align="center">
+									
+									<b>Navigation</b></div>
+							</td>
+						</tr>
+						<tr height="199">
+							<td class="spacer1" valign="top" width="136" height="199">
+								<div align="center">
+									<font size="-1"><a href="http://www.seinology.com">Home</a><br>
+										<a href="http://board.seinology.com">Forum</a><br>
+										<a href="http://www.seinology.com/av.shtml">Audio/Video</a><br>
+										<a href="http://www.seinology.com/scripts.shtml">Scripts</a><br>
+										<a href="http://www.seinology.com/survivor.shtml">Survivor</a><br>
+										<a href="http://www.seinology.com/fanfics.shtml">Fan Fiction</a><br>
+										<a href="http://www.seinology.com/gallery/">Gallery</a><br>
+										<a href="http://www.seinology.com/newsletter.shtml">Newsletter</a><br>
+										<a href="http://www.seinology.com/lists.shtml">Lists</a><br>
+										<a href="http://www.seinology.com/epguide.shtml">Episode Guide</a><br>
+										<a href="http://www.seinology.com/links.shtml">Links</a><br>
+										<a href="http://www.seinology.com/faqother.shtml">Faq + others</a><br>
+										<a href="http://www.seinology.com/legal.shtml">Legal</a></font></div>
+							</td>
+						</tr>
+						
+						<tr>
+							<td class="nav2" width="136">
+							<div align="center"><b>Search</b></div></td>
+						</tr>
+						<tr>
+							<td class="spacer1" width="136" valign="top"><div align="center"><form method="get" action="http://www.seinology.com/search/search.cgi">
+<p><label for="fdse_Match">Match</label><br>
+<select name="Match" id="fdse_Match" size="1">
+<option value="1">All</option>
+<option value="0">Any</option>
+<option value="2">Phrase</option>
+</select></p>
+<p><label for="fdse_Realm">Where?</label><br>
+<select name="Realm" id="fdse_Realm" size="1">
+<option selected="selected" value="All">EntireSite</option>
+<option value="Ep Guide">Ep Guide</option>
+<option value="Images">Images</option>
+<option value="Lists">Lists</option>
+<option value="Newsletters">Newsletters</option>
+<option value="Scripts">Scripts</option>
+<option value="Notes..Nothing">Notes..Nothing</option>
+</select></p>
+<p><input type="text" name="Terms" size="14" id="fdse_Terms"><br>
+<input type="submit" class="submit" name="submitButtonName" value="Search"></p>
+</div></form></td>
+						</tr>
+						<tr><td class="bottom" width="136" height="10" valign="top">
+						</td>
+						</tr>
+					</table>
+				</td>
+				<td width="4"></td>
+				<td valign="top" width="645">
+					<table width="645" border="0" cellspacing="0" cellpadding="0">
+						<tr height="18">
+							<td width="645" height="35" class="bar">
+								<div align="center">
+									<b><font size="+2" color="black">Script</font></b></div>
+							</td>
+						</tr>
+						<tr height="362">
+							<td class="spacer2" valign="top" width="645" height="362">
+
+						<p><font size="-2">Episode 81 - The Wife<br>
+							
+						pc: 517, season 5, episode 17<br>
+							
+						Broadcast date: March 17, 1994<br>
+							<br>
+							
+						Written by Peter Mehlman<br>
+							
+						Directed by Tom Cherones<br>
+							<br>
+							
+						-------------------------------------------------------------------------------<br>
+							<br>
+							
+						The Cast<br>
+							
+						Regulars:<br>
+							
+						Jerry Seinfeld ....................... Jerry Seinfeld<br>
+							
+						Jason Alexander .................. George Costanza<br>
+							
+						Julia Louis-Dreyfus ............. Elaine Benes<br>
+							
+						Michael Richards ................. Kramer<br>
+							<br>
+							
+						Guest Stars:<br>
+							<br>
+							
+						Courteney Cox ................... Meryl<br>
+							
+						Scott LaRose ....................... Greg<br>
+							
+						Joseph Ragno ..................... Marty<br>
+							
+						Rebecca Glenn .................... Paula<br>
+							
+						Nick LaTour ...................... Grandpa<br>
+							
+						Susan Segal ........................ Waitress<br>
+							
+						Lili Bernard ........................ Anna<br>
+							
+						Lawrence A. Mandley ........ Owner<br>
+							
+						rc: Barney Martin ............... Morty Seinfeld<br>
+							
+						rc: Liz Sheridan .................. Helen Seinfeld<br>
+							
+						rc: Len Lesser .................... Uncle Leo<br>
+							<br>
+							
+						==================================================================<br>
+							<br>
+							
+						[Opening Monologue]<br>
+							<br>
+							
+						I think that of all the places that you go all the time, the dry-cleaning relationship is one of the most bizarre. Because you keep giving each other the same thing, back and forth, over and over again. He gives it to you, you give it to him, he gives it back to you. It's like it's half his shirt, in a way. He has it as much as you do...you oughta go shopping with him. 'What do you think of this shirt?' 'That would look good with a light starch.' The only warning label people really respect is 'dry-clean only.' Ya know what I mean? Speed limits, lung cancer, cigarette warnings - your very life is at stake! People go, 'Ah, the hell with it!' But dry-clean only? 'Oh, don't put that in the wash! It's dry-clean only! Are you crazy?!'<br>
+							<br>
+							<br>
+							<br>
+							
+						[Jerry and his girlfriend Meryl at Jerry's apartment. Meryl comes out of Jerry's bedroom.]<br>
+							<br>
+							
+						MERYL: Good morning.<br>
+							<br>
+							
+						JERRY: Good morning.<br>
+							<br>
+							
+						MERYL: How'd you sleep?<br>
+							<br>
+							
+						JERRY: Hey, you are the couch tonight, young lady. You were all over my side.<br>
+							<br>
+							
+						MERYL: I was not!<br>
+							<br>
+							
+						JERRY: C'mon, I was sleeping with one cheek off the bed!<br>
+							<br>
+							
+						MERYL: By the way, you know you're falling way behind on the 'I love you's.'<br>
+							<br>
+							
+						JERRY: No, no, 12-8!<br>
+							<br>
+							
+						MERYL: No, it's 15-8.<br>
+							<br>
+							
+						JERRY: I know I can't beat ya, I'm just trying to stay competitive.<br>
+							<br>
+							
+						MERYL: Alright c'mon, let's get some breakfast.<br>
+							<br>
+							
+						JERRY: Uh, let me get a coat. I think I'll uh try a sport jacket and scarf thing, you know, like an unemployed actor. (Goes into his room, and comes back out with the jacket on.) Ahh, haven't worn this one in a long time.<br>
+							<br>
+							
+						MERYL (feels Jerry's material): Ooh, cashmere?<br>
+							<br>
+							
+						JERRY: No, gore-tex. It's new. (Checks his pockets.) Hey, look at this locket. What the hell is this? There's a picture in here, look at that.<br>
+							<br>
+							
+						MERYL: Wow, this is really old. You don't know whose it is?<br>
+							<br>
+							
+						JERRY: No, I haven't worn this jacket since I got it back from the dry-cleaner. Maybe we should ask him.<br>
+							<br>
+							
+						MERYL: Alright, we'll stop over there.<br>
+							<br>
+							
+						JERRY: Yeah. What do you want to get for breakfast?<br>
+							<br>
+							
+						MERYL: Pancakes.<br>
+							<br>
+							
+						JERRY: Oh now, c'mon, you know I'm getting pancakes.<br>
+							<br>
+							
+						MERYL: I don't know that!<br>
+							<br>
+							
+						JERRY: But we can't both get pancakes, it's embarrassing. It's like one step from the couples who dress alike.<br>
+							<br>
+							
+						MERYL: I'll get the short stack.<br>
+							<br>
+							
+						JERRY: Ah, that's why I love ya. 15-9. (They go out into the hallway and run into Kramer and his African-American girlfriend, Anna.) Hey, how ya doin.'<br>
+							<br>
+							
+						KRAMER: We just got back from breakfast. The pancakes were dynamite.<br>
+							<br>
+							
+						JERRY: Hey, is that my maple syrup? Oh, ya. (Kramer hands it over.)<br>
+							<br>
+							
+						MERYL: You bring your own syrup?<br>
+							<br>
+							
+						KRAMER: Got to.<br>
+							<br>
+							
+						JERRY (to Meryl): You got a lot to learn about pancakes.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Jerry and Meryl at Marty the dry-cleaner's.]<br>
+							<br>
+							
+						MARTY (looking at the locket): This is my wife. She died eight years ago. I been looking all over for this!<br>
+							<br>
+							
+						JERRY: Boy, it's a lucky thing I put the jacket on. But how did it get in the pocket?<br>
+							<br>
+							
+						MARTY: Well, see here, the chain is broken...it must have slipped in when I was, uh...(gestures at the racks of clothes behind him.)<br>
+							<br>
+							
+						JERRY: Oh, wow.<br>
+							<br>
+							
+						MARTY: I turned my house upside-down looking for this! It's all I have left of her.<br>
+							<br>
+							
+						MERYL: Oh, that's so touching.<br>
+							<br>
+							
+						MARTY (to Jerry): Know what I'm gonna do for you? I'm gonna give you and your family 25% off all your dry-cleaning from now on.<br>
+							<br>
+							
+						JERRY: Oh, come on!<br>
+							<br>
+							
+						MARTY: What are you talkin' about?<br>
+							<br>
+							
+						JERRY: It's silly!<br>
+							<br>
+							
+						MARTY: Hey, forget it!<br>
+							<br>
+							
+						JERRY: Get outta here!<br>
+							<br>
+							
+						MARTY: It's done!<br>
+							<br>
+							
+						JERRY (giving in): Alright.<br>
+							<br>
+							
+						MERYL: Well, I guess I get it too, because I'm his wife.<br>
+							<br>
+							
+						MARTY (to Jerry): I didn't know you were married.<br>
+							<br>
+							
+						JERRY: Oh...yeah...uh you've never met my wife, Meryl? Meryl Seinfeld.<br>
+							<br>
+							
+						MARTY (to Meryl): Sure, you get the discount, too.<br>
+							<br>
+							
+						JERRY: You might regret that, because the money my wife spends on clothes...<br>
+							<br>
+							
+						MERYL: I'm taking him to the cleaners!<br>
+							<br>
+							
+						JERRY: Ah - see the sense of humor? C'mere, I'm so nuts about you...(hugs Meryl.) I tell ya, it was fun being single, but when you meet a woman like this, you don't walk to get married - you run!<br>
+							<br>
+							
+						(They grab each other's mouths in happiness)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Elaine on the street outside the New York Health Club. Greg comes out of the club.]<br>
+							<br>
+							
+						ELAINE: Oh, hi Greg.<br>
+							<br>
+							
+						GREG: Haven't seen you in a while.<br>
+							<br>
+							
+						ELAINE: Yeah. Well, actuall today was the first day I worked out since the Central Park Mini-Marathon.<br>
+							<br>
+							
+						GREG: You ran the Mini-Marathon?<br>
+							<br>
+							
+						ELAINE: No, but I exercised that day. (Laughs.)<br>
+							<br>
+							
+						GREG: Well, I-I gotta take off.<br>
+							<br>
+							
+						ELAINE: Yeah, I guess as an airline pilot, you're one of the few people who can say that and mean it. (Laughs again. Greg looks at her, unamused.) Um, do you have the time?<br>
+							<br>
+							
+						GREG (looks at his watch): Eleven-thirty.<br>
+							<br>
+							
+						ELAINE (surprised): Eleven-thirty?<br>
+							<br>
+							
+						GREG: Wait-wait, ten-thirty. Sorry.<br>
+							<br>
+							
+						ELAINE: Oh.<br>
+							<br>
+							
+						GREG: Do you have to be somewhere?<br>
+							<br>
+							
+						ELAINE: No.<br>
+							<br>
+							
+						GREG: Then what are you doing?<br>
+							<br>
+							
+						ELAINE: I'm just waiting for my friend George, we worked out together.<br>
+							<br>
+							
+						GREG: Oh. Well, it was good seeing you.<br>
+							<br>
+							
+						ELAINE: Yeah, nice to see you, too.<br>
+							<br>
+							
+						(Greg plants an open-lipped kiss on Elaine and walks away. She looks after him with a puzzled expression.)<br>
+							<br>
+							<br>
+							
+						&nbsp;<br>
+							
+						[Jerry and Meryl having breakfast at the coffee shop.]<br>
+							<br>
+							
+						MERYL: Uh, would you, um...can I...<br>
+							<br>
+							
+						JERRY: Pardon?<br>
+							<br>
+							
+						MERYL: The syrup. Would you pass the syrup?<br>
+							<br>
+							
+						JERRY (holds up the syrup bottle): Oh, you want to try the syrup! (Meryl smiles and takes it. The waitress comes over.)<br>
+							<br>
+							
+						WAITRESS: Can I get you anything else?<br>
+							<br>
+							
+						JERRY: Um, yeah...I think my wife and I'll have a little more coffee.<br>
+							<br>
+							
+						WAITRESS: Okay.<br>
+							<br>
+							
+						MERYL: And a check for my husband.<br>
+							<br>
+							
+						JERRY (toasts with his orange juice): To my beautiful wife.<br>
+							<br>
+							
+						MERYL: To my adoring husband.<br>
+							<br>
+							
+						JERRY: Adoring? What about handsome?<br>
+							<br>
+							
+						MERYL: I like adoring.<br>
+							<br>
+							
+						JERRY: Ya sure, adoring's good for you, what does it do for me? (Meryl laughs. The owner of the coffee shop comes over.)<br>
+							<br>
+							
+						OWNER (points at the bottle of maple syrup): Excuse me...where did you get that?<br>
+							<br>
+							
+						JERRY: I, uh...well...<br>
+							<br>
+							
+						OWNER: Uh, we don't allow any outside syrups, jams or condiments in the restaurant. (To Jerry) And if I catch you in here with that again...I will confiscate it.<br>
+							<br>
+							
+						JERRY: Well, I-I-I told my wife not to bring it.<br>
+							<br>
+							<br>
+							
+						&nbsp;<br>
+							
+						[Jerry and Kramer in Jerry's apartment.]<br>
+							<br>
+							
+						KRAMER: Really? 25% off? Do I get that, too?<br>
+							<br>
+							
+						JERRY: No, just Meryl.<br>
+							<br>
+							
+						KRAMER: Why, why? Why does she get it?<br>
+							<br>
+							
+						JERRY: Because she's my wife! (The door buzzer sounds; Jerry answers it) Yeh?<br>
+							<br>
+							
+						ELAINE: (on buzzer) Meh.<br>
+							<br>
+							
+						JERRY: (buzzes her up) Eh. (to Kramer) You know and I'll tell ya, I'm really enjoying this marriage thing. You think about each other. You care about each other. It's wonderful! Plus, I love saying &quot;my wife.&quot; Once I started saying it, I couldn't stop - &quot;my wife&quot; this, &quot;my wife&quot; that...it's an amazing way to begin a sentence.<br>
+							<br>
+							
+						KRAMER: &quot;My wife has an inner ear infection.&quot;<br>
+							<br>
+							
+						JERRY: See?<br>
+							<br>
+							
+						KRAMER: I like that! Hey look, will you do me a favor? Will you take my quilt into the cleaners for me, so I can get the discount too?<br>
+							<br>
+							
+						JERRY: Oh come on, we're gonna start doing this now? I can't be taking all your dry-cleaning in!<br>
+							<br>
+							
+						KRAMER: C'mon, just this one time! It's expensive!<br>
+							<br>
+							
+						JERRY: Alright. (Elaine enters.)<br>
+							<br>
+							
+						KRAMER: Hey. Hey Elaine, what do you say if neither of us is married in ten years, we get hitched?<br>
+							<br>
+							
+						ELAINE: Let's make it fifty.<br>
+							<br>
+							
+						KRAMER: We're engaged! Alright, I'm gonna get my quilt. (Kramer leaves.)<br>
+							<br>
+							
+						ELAINE: Alright, listen to this. Remember that guy I was telling you about at the health club?<br>
+							<br>
+							
+						JERRY: The fly-boy.<br>
+							<br>
+							
+						ELAINE: Yeah.<br>
+							<br>
+							
+						JERRY: Hey, where's George? I thought he was with you.<br>
+							<br>
+							
+						ELAINE: I waited, he didn't show up. Anyway, this guy gave me an open-lip kiss.<br>
+							<br>
+							
+						JERRY: Hmm, So?<br>
+							<br>
+							
+						ELAINE: So? We've always just kind've pecked. This one had a totally different dynamic.<br>
+							<br>
+							
+						JERRY: Really.<br>
+							<br>
+							
+						ELAINE: Yeah. I mean, his upper lip landed flush on my upper lip. But his lower lip landed well below my rim.<br>
+							<br>
+							
+						JERRY: Ohhh, moisture?<br>
+							<br>
+							
+						ELAINE: Yeah. Definite moisture.<br>
+							<br>
+							
+						JERRY: That's an open-lip kiss, alright.<br>
+							<br>
+							
+						ELAINE: Yeah. Listen, I think he's giving me a big signal...maybe he wants to change our relationship. (The buzzer sounds, Elaine answers it.) Yeah?<br>
+							<br>
+							
+						GEORGE (on intercom): Oh, uh...it's George.<br>
+							<br>
+							
+						ELAINE: Hey, what happened to you?<br>
+							<br>
+							
+						GEORGE (meekly): Nothing...little problem.<br>
+							<br>
+							
+						ELAINE: Well, what was it? I mean, I was waiting.<br>
+							<br>
+							
+						GEORGE: Can I come upstairs, please? (Elaine pushes the button and lets George in.)<br>
+							<br>
+							
+						ELAINE (to Jerry): I mean, maybe he wants to ask me out.<br>
+							<br>
+							
+						JERRY: I don't know why you're interested in this guy, he's a jerk.<br>
+							<br>
+							
+						ELAINE: Because, he doesn't pay any attention to me, and uh he ignores me.<br>
+							<br>
+							
+						JERRY: Yeah, so?<br>
+							<br>
+							
+						ELAINE: I respect that. (George enters.) Mmm, what happened?<br>
+							<br>
+							
+						GEORGE: Nothing, I... said it was a little problem.<br>
+							<br>
+							
+						ELAINE: Yeah? What was it?<br>
+							<br>
+							
+						GEORGE (defensive): Well...I was in the locker room showering, and I...I had to go, so...<br>
+							<br>
+							
+						JERRY: Here we go.<br>
+							<br>
+							
+						GEORGE: Anyway, I think the guy in the shower opposite saw me. He gave me a dirty look.<br>
+							<br>
+							
+						ELAINE: You went...in the shower?<br>
+							<br>
+							
+						GEORGE: Yeah, so what? I'm not the only one! (Kramer enters with his quilt.)<br>
+							<br>
+							
+						ELAINE (to Jerry): Do you go in the shower?<br>
+							<br>
+							
+						JERRY: No, never.<br>
+							<br>
+							
+						ELAINE (to Kramer): Do you?<br>
+							<br>
+							
+						KRAMER: I take baths.<br>
+							<br>
+							
+						GEORGE: Well, what was I supposed to do? Get out of the shower, put on my bathrobe? Go all the way down to the other end? Come all the way back?<br>
+							<br>
+							
+						ELAINE: Did you ever hear of...holding it in?<br>
+							<br>
+							
+						GEORGE: Oh, no...no, that's very bad for the kidneys.<br>
+							<br>
+							
+						ELAINE: How do you know?<br>
+							<br>
+							
+						GEORGE: Medical journals!<br>
+							<br>
+							
+						JERRY: Do the medical journals mention anything about standing in a pool of someone else's urine?<br>
+							<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						[Jerry dropping off Kramer's quilt at the dry-cleaners. Meryl is already there dropping off some stuff of her own.]<br>
+							<br>
+							
+						JERRY: Hello.<br>
+							<br>
+							
+						MERYL: Oh, hi...honey.<br>
+							<br>
+							
+						JERRY: What are you doing here?<br>
+							<br>
+							
+						MERYL: I just thought I'd drop off a few things.<br>
+							<br>
+							
+						JERRY: Oh. (Smiles at Marty nervously.) Well, I must have been in the incinerator room when you left. Here you go, Marty. (Hands over Kramer's quilt.)<br>
+							<br>
+							
+						MARTY: Another quilt? Huh? (Uncle Leo enters.)<br>
+							<br>
+							
+						UNCLE LEO: Jerry!<br>
+							<br>
+							
+						JERRY: Uncle Leo?!<br>
+							<br>
+							
+						UNCLE LEO: Hello!<br>
+							<br>
+							
+						JERRY: Hello.<br>
+							<br>
+							
+						MARTY (to Jerry): So, if you or your wife want to drop by on Wednesday, it should be ready.<br>
+							<br>
+							
+						UNCLE LEO: Your wife?<br>
+							<br>
+							
+						JERRY (hoping Leo will pick up on the scam): Yeah...my wife.<br>
+							<br>
+							
+						UNCLE LEO: What are you talking about?<br>
+							<br>
+							
+						JERRY: Uh...I got married.<br>
+							<br>
+							
+						UNCLE LEO (shocked): You got married? I wasn't invited? Nobody sends me an invitation?<br>
+							<br>
+							
+						JERRY: Well, it was sudden.<br>
+							<br>
+							
+						UNCLE LEO: Are you ashamed of your uncle? Do I embarrass you?<br>
+							<br>
+							
+						JERRY: No, no, it was a small ceremony.<br>
+							<br>
+							
+						UNCLE LEO: Haven't I always been a good uncle?<br>
+							<br>
+							
+						JERRY: Yes, yes, you have.<br>
+							<br>
+							
+						UNCLE LEO: Who told you when you went to school that you print well?<br>
+							<br>
+							
+						JERRY: You did, you did.<br>
+							<br>
+							
+						UNCLE LEO (to Meryl): When he was younger, he had a beautiful penmanship. I used to encourage him to print.<br>
+							<br>
+							
+						JERRY: I'm a good printer.<br>
+							<br>
+							
+						UNCLE LEO: I remember your 'V.' It was like a perfect triangle. Whoa, there's my bus! (Rushes out.) Hello! Wait!<br>
+							<br>
+							
+						(Jerry tries to catch Leo before he runs off to tell him about his &quot;pretend marriage,&quot; but doesn't make it.)<br>
+							<br>
+							
+						JERRY: Uncle Leo, wait!<br>
+							<br>
+							<br>
+							<br>
+							
+						[Elaine talking with Greg while he's on a Stairmaster at the health club.]<br>
+							<br>
+							
+						GREG: I'm glad you're here. This can get really boring. Do you know where I can get some good olives?<br>
+							<br>
+							
+						ELAINE: I can find out.<br>
+							<br>
+							
+						GREG: Would ya?<br>
+							<br>
+							
+						ELAINE: Sure. (thinking) Ooh, a project. That's a definite signal.<br>
+							<br>
+							
+						GREG: By the way, you look really great in that leotard.<br>
+							<br>
+							
+						ELAINE: Oh, thanks. (thinking) That's no signal, who wouldn't like me in this leotard? I look amazing in this leotard.<br>
+							<br>
+							
+						GREG: Hey, you know what's weird? I think I had a dream about you last night.<br>
+							<br>
+							
+						ELAINE: (thinking) Okay, he open-lips me, he dreams about me, we have an olive project...that's it, I'm asking this guy out. (to Greg) Um, you know Greg, I...<br>
+							<br>
+							
+						GREG: Can I have a sip of your water?<br>
+							<br>
+							
+						ELAINE: Oh, yeah, sure. (Hands Greg her bottle.)<br>
+							<br>
+							
+						GREG: Thanks. (Is about to take a drink, but wipes the neck of the bottle with his shirt first.)<br>
+							<br>
+							
+						ELAINE: (shocked expression; thinking) Oh my God.<br>
+							<br>
+							
+						GREG (hands the bottle back): I'm sorry, what were you saying?<br>
+							<br>
+							
+						ELAINE: Oh, it was nothing, for-forget it. (George enters the gym.)<br>
+							<br>
+							
+						GREG: See that guy right there?<br>
+							<br>
+							
+						ELAINE: Yup, you mean him?<br>
+							<br>
+							
+						GREG: I caught him urinating in the shower. I'm thinking about turning him in, too.<br>
+							<br>
+							
+						(On the other side of the room, George falls off an exercise machine and gets his foot caught in it.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Jerry's Apartment]<br>
+							<br>
+							
+						(Meryl is lounging on the couch, watching TV and eating chocolates.)<br>
+							<br>
+							
+						MERYL: Honey? Could you get me something to drink?<br>
+							<br>
+							
+						JERRY (from his bedroom hallway, alluding to the fact that she should get the drink herself): You're right there.<br>
+							<br>
+							
+						MERYL: C'mon, I'm sitting! (Jerry walks to the kitchen, annoyed. Meryl laughs at the TV show she's watching.)<br>
+							<br>
+							
+						JERRY (looking in a drawer): Honey, what'd you do with the can opener?<br>
+							<br>
+							
+						MERYL: I didn't do anything with it.<br>
+							<br>
+							
+						JERRY: Well, it's not here, it was here yesterday.<br>
+							<br>
+							
+						MERYL: It's in the first drawer.<br>
+							<br>
+							
+						JERRY: I'm looking in the first drawer. It's not here.<br>
+							<br>
+							
+						MERYL: Yes, it is.<br>
+							<br>
+							
+						JERRY (irritated): Hey...I'm not stupid. I'm looking in that drawer, there's no can opener.<br>
+							<br>
+							
+						MERYL: Did I say you were stupid?<br>
+							<br>
+							
+						JERRY (angrily): Well, wouldn't I have to be? You tell me there's a can opener in the drawer, I'm looking in the drawer, there's no can opener - what other conclusion could one reach? (The phone rings.)<br>
+							<br>
+							
+						MERYL (getting up): Do you want me to go find it?<br>
+							<br>
+							
+						JERRY (slams the drawer): Yes. I do. You show me where there's a can opener in that drawer. (Answers the phone.) Hello! I'm sorry, I'm just fighting with my wife.<br>
+							<br>
+							
+						(Morty and Helen in Florida, each with phone in hand.)<br>
+							<br>
+							
+						HELEN: Jerry, we just heard, what's going on?<br>
+							<br>
+							
+						MORTY: Why the hell didn't you tell us?<br>
+							<br>
+							
+						JERRY: Listen, Ma...<br>
+							<br>
+							
+						MERYL (looking in the drawer): It was in here yesterday!<br>
+							<br>
+							
+						JERRY (angrily): Yeah, that's what I said!<br>
+							<br>
+							
+						HELEN: Who is she? When did this happen?<br>
+							<br>
+							
+						MORTY (to Jerry): I told her you'd get married. She thought you'd never do it.<br>
+							<br>
+							
+						HELEN: Morty, you're talking too loud.<br>
+							<br>
+							
+						MORTY: I'm not talking loud!<br>
+							<br>
+							
+						HELEN: You're hurting my eardrum.<br>
+							<br>
+							
+						MERYL (looking for the can opener): Well, you must have done something with it!<br>
+							<br>
+							
+						JERRY (to Meryl): I'm on the phone!<br>
+							<br>
+							
+						HELEN: Is she there? Can we talk to her? What's her name?<br>
+							<br>
+							
+						JERRY: Mom, I'm not married.<br>
+							<br>
+							
+						HELEN: What?<br>
+							<br>
+							
+						JERRY: I'm not married!<br>
+							<br>
+							
+						MORTY: I knew it, I told you!<br>
+							<br>
+							
+						HELEN (to Jerry): Uncle Leo said.<br>
+							<br>
+							
+						JERRY: I'm just pretending I'm married to get a discount on dry-cleaning.<br>
+							<br>
+							
+						HELEN: A discount on dry-cleaning?<br>
+							<br>
+							
+						JERRY (to Meryl, who's making a racket in the kitchen looking for the can opener): Could you make a little more noise? (To his parents) Listen, I'm gonna have to call you later.<br>
+							<br>
+							
+						MERYL (not finding the opener): Well, I give up.<br>
+							<br>
+							
+						JERRY: Well, whoopie whoop. (Meryl goes into the other room. Kramer staggers in the door in his bathrobe.)<br>
+							<br>
+							
+						KRAMER: Got any coffee?<br>
+							<br>
+							
+						JERRY: Yeah. (Kramer lurches into the kitchen, trips, and falls onto the kitchen floor.) I'll get it, I'll get it! Take it easy, why are you so tired?<br>
+							<br>
+							
+						KRAMER: My quilt is still at the cleaners. Jerry, I can't sleep without my quilt. Like the other night? I was cold. So, last night, I turn up the heat - it's too hot. I open up a window - it's too cold. (Frantic) I can't get into a zone!<br>
+							<br>
+							
+						JERRY: What is that? (Points to Kramer's pocket as Meryl comes back.)<br>
+							<br>
+							
+						KRAMER: Huh?<br>
+							<br>
+							
+						JERRY: That?<br>
+							<br>
+							
+						KRAMER: Oh, I forgot. (Hands back Jerry's can opener.)<br>
+							<br>
+							
+						(Jerry after receiving the can opener smiles at Meryl)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Jerry and Meryl in bed later that night.]<br>
+							<br>
+							
+						JERRY: Hey, I'm sorry about all that can opener stuff.<br>
+							<br>
+							
+						MERYL: Yeah, me too. I Love you.<br>
+							<br>
+							
+						JERRY: I Love you.<br>
+							<br>
+							
+						MERYL: Well, goodnight.<br>
+							<br>
+							
+						JERRY: Goodnight. (They kiss goodnight, then promptly roll away from each other and go to sleep.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Jerry, George and Elaine in Jerry's apartment the next day.]<br>
+							<br>
+							
+						GEORGE: They could kick me out of the health club if he tells them!<br>
+							<br>
+							
+						ELAINE: So what do you want me to do?<br>
+							<br>
+							
+						GEORGE: Talk to him!<br>
+							<br>
+							
+						ELAINE: How can I do that?<br>
+							<br>
+							
+						GEORGE: You said the guy gave you an open-lipped kiss!<br>
+							<br>
+							
+						ELAINE (enunciating clearly so George gets the point): Yes, but then he wiped his hand on the top of the bottle when I offered him water!<br>
+							<br>
+							
+						GEORGE: Well, that doesn't mean anything!<br>
+							<br>
+							
+						ELAINE: Are you kidding? That's very significant! If he was interested in me, he'd want my germs! He'd just crave my germs!<br>
+							<br>
+							
+						JERRY (patiently while watching tv): She's right, George. Bottle-wipe is big.<br>
+							<br>
+							
+						GEORGE: Well, what about the open-lipped kiss?<br>
+							<br>
+							
+						JERRY: (still watching tv; sounds like basketball) Bottle-wipe supercedes it.<br>
+							<br>
+							
+						GEORGE: Yeah, you're right, you're right. (To Elaine) Alright, maybe he's not interested, but you still know him - can't you just ask him?<br>
+							<br>
+							
+						ELAINE: George...but if I ask him now, I will have no chance of going out with him.<br>
+							<br>
+							
+						GEORGE: Why?<br>
+							<br>
+							
+						ELAINE: I...I don't know...<br>
+							<br>
+							
+						GEORGE: Aha. Aha. Could it be because you don't want him to know that you have a friend who pees in the shower, is that it?!<br>
+							<br>
+							
+						ELAINE: No, that's not it!<br>
+							<br>
+							
+						GEORGE: Oh, I think it is! I think that's exactly what it is!<br>
+							<br>
+							
+						ELAINE: Why couldn't you just wait?<br>
+							<br>
+							
+						GEORGE: I was there! I saw a drain!<br>
+							<br>
+							
+						ELAINE: Since when is a drain a toilet?!<br>
+							<br>
+							
+						GEORGE: It's all pipes! What's the difference?!<br>
+							<br>
+							
+						ELAINE: Different pipes go to different places! You're gonna mix 'em up!<br>
+							<br>
+							
+						GEORGE: I'll call a plumber right now! (Goes for the phone.)<br>
+							<br>
+							
+						JERRY: Alright, can we just drop all the pee-pipe stuff here?<br>
+							<br>
+							
+						ELAINE (to George): Okay! Okay! Okay, I will talk to him. (Kramer enters.)<br>
+							<br>
+							
+						KRAMER: Jerry, I think that quilt is ready.<br>
+							<br>
+							
+						JERRY: Alright.<br>
+							<br>
+							
+						KRAMER: Well, you gotta pick it up for me!<br>
+							<br>
+							
+						JERRY: Alright, I'll pick it up, but it's the last time I'm doin' it!<br>
+							<br>
+							
+						KRAMER: I'm so tired!<br>
+							<br>
+							
+						ELAINE (to Kramer): Boy, you don't look good.<br>
+							<br>
+							
+						KRAMER: Huh? I don't?<br>
+							<br>
+							
+						ELAINE: No, you look pale.<br>
+							<br>
+							
+						KRAMER: Pale? Oh my God...I gotta meet Anna's parents today! (The phone rings.)<br>
+							<br>
+							
+						JERRY: Hello? Oh, hi honey. (annoyed, weary) Yes, I told him. I'll get it. (George and Elaine give each other a look, then leave Jerry to argue with Meryl on the phone.) Whenever. Okay, I'm sorry...<br>
+							<br>
+							<br>
+							<br>
+							
+						[Jerry at the dry-cleaners. Kramer paces outside impatiently, waiting for his quilt.]<br>
+							<br>
+							
+						MARTY: I'm sorry, it's not ready yet. (Kramer bursts in.)<br>
+							<br>
+							
+						KRAMER: Not ready? It has to be ready! What kind of a business are you running here?<br>
+							<br>
+							
+						MARTY: Who the hell are you? Huh, It's not your quilt.<br>
+							<br>
+							
+						JERRY: He's a very good friend of mine, he's kind've like an older brother to me...when things don't go right, he kinda takes it personally.<br>
+							<br>
+							
+						MARTY: Well, uh...maybe tomorrow.<br>
+							<br>
+							
+						KRAMER (angrily, to Jerry): Maybe.<br>
+							<br>
+							
+						JERRY: Oh, it's okay, it'll be okay.<br>
+							<br>
+							
+						KRAMER: Alright, I'm gonna see you later.<br>
+							<br>
+							
+						JERRY: Where you goin'?<br>
+							<br>
+							
+						KRAMER: I gotta meet Anna's parents today, remember? I look terrible! I'm gonna hit the tanning machines.<br>
+							<br>
+							
+						JERRY: I can't believe you still do that. You know those things are bad for ya.<br>
+							<br>
+							
+						KRAMER: Hey, that's how I maintain my glow.<br>
+							<br>
+							
+						JERRY: I'm goin' home.<br>
+							<br>
+							
+						KRAMER: Ya.<br>
+							<br>
+							
+						(Kramer exits. An attractive woman enters the dry-cleaners with a bundle of clothes in her hands. Jerry notices her and waits by the door.)<br>
+							<br>
+							
+						PAULA (to Marty, in a foreign accent): Excuse me? Uh, how much would it cost to clean this?<br>
+							<br>
+							
+						MARTY: Oh, about thirteen dollars.<br>
+							<br>
+							
+						PAULA: Thirteen? Well, I can't afford that.<br>
+							<br>
+							
+						MARTY: Well, I'm sorry.<br>
+							<br>
+							
+						(Paula turns around to leave and runs into Jerry. They smile at each other.)<br>
+							<br>
+							<br>
+							
+						&nbsp;<br>
+							
+						[Elaine and Greg at the health club. A sweaty Greg is exercising on a leg machine.]<br>
+							<br>
+							
+						ELAINE: Hi, Greg.<br>
+							<br>
+							
+						GREG: Hey, Elaine. I'll be off in a second.<br>
+							<br>
+							
+						ELAINE: Ok. (Another guy approaches the exercise machine.) I got the machine next, buddy. (Greg finishes up his workout and gets off the machine.)<br>
+							<br>
+							
+						GREG (to Elaine): Oh, well, It's all yours. (Walks away. Elaine looks at the machine, then George runs over.)<br>
+							<br>
+							
+						GEORGE: What happened? Did he bring it up?<br>
+							<br>
+							
+						ELAINE: Never mind that, look at the signal I just got.<br>
+							<br>
+							
+						GEORGE: Signal? What signal?<br>
+							<br>
+							
+						ELAINE: Lookit. He knew I was gonna use the machine next, he didn't wipe his sweat off. That's a gesture of intimacy.<br>
+							<br>
+							
+						GEORGE: I'll tell you what that is - that's a violation of club rules. Now I got him! And you're my witness!<br>
+							<br>
+							
+						ELAINE: Listen, George! Listen! He knew what he was doing, this was a signal.<br>
+							<br>
+							
+						GEORGE: A guy leaves a puddle of sweat, that's a signal?<br>
+							<br>
+							
+						ELAINE: Yeah! It's a social thing.<br>
+							<br>
+							
+						GEORGE: What if he left you a used Kleenex, what's that, a valentine? Now you go up to him and you tell him that if he's thinking of turning me in, that I got the goods on him!<br>
+							<br>
+							
+						ELAINE: No! I won't be a party to this.<br>
+							<br>
+							
+						GEORGE: So you're gonna let me get suspended for shower urination?<br>
+							<br>
+							
+						ELAINE: Okay, I'll talk to him. But you're putting me in a very difficult position. (Walks away.)<br>
+							<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						[Jerry and Paula in a booth at the coffee shop. Jerry is trying to get the bundle of clothes from her so he can pay for the dry-cleaning.]<br>
+							<br>
+							
+						PAULA: I won't let you do this!<br>
+							<br>
+							
+						JERRY: I want to!<br>
+							<br>
+							
+						PAULA: But it isn't right! I can't.<br>
+							<br>
+							
+						JERRY: Give me the clothes.<br>
+							<br>
+							
+						PAULA: Jerry, please. What about her?<br>
+							<br>
+							
+						JERRY: Oh, the hell with her. (Paula dramatically flees from the coffee shop. Jerry thinks for a second, then follows her and catches up to her on the street.)<br>
+							<br>
+							
+						PAULA: No, Jerry, please!<br>
+							<br>
+							
+						JERRY: I'm not gonna let you walk out of my life.<br>
+							<br>
+							
+						PAULA (hands over the clothes): I can't fight you. (They embrace and kiss passionately.)<br>
+							<br>
+							
+						JERRY: Do you want box or hanger?<br>
+							<br>
+							
+						PAULA: You decide. (Jerry considers.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Kramer in a tanning booth at the health club. He lies down on the tanning bed and bonks his head.]<br>
+							<br>
+							<br>
+							<br>
+							
+						[Health Club]<br>
+							<br>
+							
+						(Elaine and Greg in the weight room.)<br>
+							<br>
+							
+						ELAINE: You're really working up quite a sweat today, huh?<br>
+							<br>
+							
+						GREG: Yeah. (Spies the shapely manager of the health club.) Oh, there's the manager. Good. I think I'm gonna talk to her about that guy, you know, we cannot have people like that in here.<br>
+							<br>
+							
+						ELAINE: Are you sure you want to do that?<br>
+							<br>
+							
+						GREG: Yeah. He's disgusting! Besides, I'll take any chance I can to talk to her.<br>
+							<br>
+							
+						ELAINE: You're interested in...in her? (Points at the manager.)<br>
+							<br>
+							
+						GREG: Very.<br>
+							<br>
+							
+						ELAINE: Ah. You know, uh..I'm engaged. (preens) Yep, gettin' married in fifty years. (Snaps the straps of her leotard against her chest and winces. George walks by the manager.)<br>
+							<br>
+							
+						GREG: Oh good, there he is. I wanna be able to point him out.<br>
+							<br>
+							
+						ELAINE: You know, Greg, I wouldn't do that if I were you.<br>
+							<br>
+							
+						GREG: Why?<br>
+							<br>
+							
+						ELAINE: Well, correct me if I'm wrong, but isn't it a violation of club policy to not wipe down a machine after using it?<br>
+							<br>
+							
+						GREG: Oh, I see...you're friends with the urinator, aren't you?<br>
+							<br>
+							
+						ELAINE: Yeah, well, at least he had a drain.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Kramer lying on the health club tanning bed - fast asleep and snoring.]<br>
+							<br>
+							<br>
+							
+						&nbsp;<br>
+							
+						[Meryl picking up her clothes at the dry-cleaners.]<br>
+							<br>
+							
+						MARTY: Here you go, Mrs. Seinfeld...with your 25% discount, it comes to $17.80.<br>
+							<br>
+							
+						MERYL: Here you go. (Pays Marty, then looks at the clothes on the hanger.) Excuse me, this isn't mine.<br>
+							<br>
+							
+						MARTY: Oh, yes it is. Your husband brought it in himself.<br>
+							<br>
+							
+						MERYL: Really? (Takes her change and grabs the clothes off the hanger.) Thank you. (Exits.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Anna with her family and friends at her apartment.]<br>
+							<br>
+							
+						(There's a knock at the door.)<br>
+							<br>
+							
+						ANNA: That's him! (Opens the door. Kramer stands there, deeply tanned and smiling. Anna and her grandfather are shocked.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Jerry's apartment.]<br>
+							<br>
+							
+						(Jerry and Meryl)<br>
+							<br>
+							
+						MERYL (throws Paula's clothes at Jerry): You son of a bitch!<br>
+							<br>
+							
+						JERRY: I'm sorry.<br>
+							<br>
+							
+						MERYL: Who is she? I want to know who she is.<br>
+							<br>
+							
+						JERRY: It doesn't matter. I want a divorce.<br>
+							<br>
+							
+						MERYL: A divorce? Oh, so you can marry her and give her the discount?<br>
+							<br>
+							
+						JERRY: Yes, that's right.<br>
+							<br>
+							
+						MERYL: What happened to us, Jerry?<br>
+							<br>
+							
+						JERRY: I'll tell you what happened. We got married.<br>
+							<br>
+							
+						MERYL: I'm sorry, uh.. this is my fault. I pushed it on you.<br>
+							<br>
+							
+						JERRY: No. I guess I just wasn't ready for the responsibilities of a pretend marriage.<br>
+							<br>
+							
+						MERYL: Goodbye, Jerry. Oh, I forgot...(reaches in her purse)...this is your maple syrup.<br>
+							<br>
+							
+						JERRY: It's alright, I want you to have it.<br>
+							<br>
+							
+						MERYL: (sentimental) Okay, thanks.<br>
+							<br>
+							
+						JERRY: We'll always have...pancakes.<br>
+							<br>
+							
+						MERYL: Bye, Jerry. (Exits.)<br>
+							<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						[Anna's Apartment]<br>
+							<br>
+							
+						GRANDPA (to Anna): I thought you said you was bringin' a white boy home! I don't see a white boy! I see a damn fool!<br>
+							<br>
+							
+						(Kramer stands there, grinning foolishly.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Closing Monologue]<br>
+							<br>
+							
+						To me the thing about marriage is, I can't believe how often it happens. I mean I like the idea of it, but I can't believe that many people are meetin' people that they want to see every single day, everyday, everyday, everyday, everyday. That should like happen three or four times... you know in the whole century. Like in every major investment you have to sign a marriage contract here's your person, if you are a man the bride's family pays for the wedding - that's like getting cash back. Till death to us part, that's the extended warranty program and they give you the ring - that's the keys, you slide it on start 'em up. But you gotta try and make it work because remember - your value drops twenty percent the minute you drive each other off the lot.<br>
+							<br>
+							
+						&nbsp;<br>
+							
+						The End</td>
+						</tr>
+						<tr height="6">
+							<td class="bottom2" width="645" height="6"></td>
+						</tr>
+						<tr>
+							<td width="645">
+								<div align="center">
+									<font size="-1">Copyright 2006 seinology.com | All Rights Reserved | Designed by 13erla</font></div>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+		<p></p>
+	</body>
+
+</html>

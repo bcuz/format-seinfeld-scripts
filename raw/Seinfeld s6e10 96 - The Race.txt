@@ -1,0 +1,1239 @@
+<tdOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+<html>
+
+	<head>
+		<meta http-equiv="content-type" content="text/html;charset=ISO-8859-1">
+		<meta name="description" content="Top Source for Seinfeld">
+		<meta name="keywords" content="seinfeld, sienfeld, Jerry Seinfeld, Julia Louis Dreyfus, Jason Alexander, Michael Richards, Kramer, George, Costanza, Elaine Benes, morty, Larry David">
+		<title>Seinology.com :: Scripts :: 96-The Race</title>
+	<link rel='stylesheet' href='/stylesheet.css' type='text/css'>
+	</head>
+
+	<body>
+			<table align="center" width="787" border="0" cellspacing="0" cellpadding="0">
+				<tr>
+					<td><font size="-2" color="red">Seinology.com - </font><font size="-3" color="black">Where Seinfeld Content and Accuracy Matter Most. Seinfeld scripts in pdf form, Seinfeld episode video clips, Seinfeld episode audio clips, Jerry Seinfeld appearances, Julia Louis-Dreyfus appearances, Michael Richards appearances, Jason Alexander appearances, Seinfeld discussion Forum, Seinfeld Where are they Now? Seinlanguage Newsletter, Popular Seinfeld Lists, Seinfeld episode standup, Seinfeld episode guide, Seinfeld fan fiction. Seinfeld content all on one domain. Seinology.com enjoy your stay.</font></td>
+				</tr>
+			</table>
+		
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr height="100">
+				<td class="logo"></td>
+			</tr>
+			<tr><td class="ads" align="center" background=#8694fa>
+				<script type="text/javascript"><!--
+google_ad_client = "pub-1924026976931416";
+google_ad_width = 728;
+google_ad_height = 90;
+google_ad_format = "728x90_as";
+google_ad_type = "text";
+google_ad_channel = "";
+google_color_border = "FFFFFF";
+google_color_bg = "8694fa";
+google_color_link = "0000FF";
+google_color_text = "000000";
+google_color_url = "002E3F";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></td></tr>
+		</table>
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr>
+				<td valign="top" width="136">
+					<table width="136" border="0" cellspacing="0" cellpadding="0">
+						<tr height="24">
+							<td class="navigation">
+								<div align="center">
+									
+									<b>Navigation</b></div>
+							</td>
+						</tr>
+						<tr height="199">
+							<td class="spacer1" valign="top" width="136" height="199">
+								<div align="center">
+									<font size="-1"><a href="http://www.seinology.com">Home</a><br>
+										<a href="http://board.seinology.com">Forum</a><br>
+										<a href="http://www.seinology.com/av.shtml">Audio/Video</a><br>
+										<a href="http://www.seinology.com/scripts.shtml">Scripts</a><br>
+										<a href="http://www.seinology.com/survivor.shtml">Survivor</a><br>
+										<a href="http://www.seinology.com/fanfics.shtml">Fan Fiction</a><br>
+										<a href="http://www.seinology.com/gallery/">Gallery</a><br>
+										<a href="http://www.seinology.com/newsletter.shtml">Newsletter</a><br>
+										<a href="http://www.seinology.com/lists.shtml">Lists</a><br>
+										<a href="http://www.seinology.com/epguide.shtml">Episode Guide</a><br>
+										<a href="http://www.seinology.com/links.shtml">Links</a><br>
+										<a href="http://www.seinology.com/faqother.shtml">Faq + others</a><br>
+										<a href="http://www.seinology.com/legal.shtml">Legal</a></font></div>
+							</td>
+						</tr>
+						
+						<tr>
+							<td class="nav2" width="136">
+							<div align="center"><b>Search</b></div></td>
+						</tr>
+						<tr>
+							<td class="spacer1" width="136" valign="top"><div align="center"><form method="get" action="http://www.seinology.com/search/search.cgi">
+<p><label for="fdse_Match">Match</label><br>
+<select name="Match" id="fdse_Match" size="1">
+<option value="1">All</option>
+<option value="0">Any</option>
+<option value="2">Phrase</option>
+</select></p>
+<p><label for="fdse_Realm">Where?</label><br>
+<select name="Realm" id="fdse_Realm" size="1">
+<option selected="selected" value="All">EntireSite</option>
+<option value="Ep Guide">Ep Guide</option>
+<option value="Images">Images</option>
+<option value="Lists">Lists</option>
+<option value="Newsletters">Newsletters</option>
+<option value="Scripts">Scripts</option>
+<option value="Notes..Nothing">Notes..Nothing</option>
+</select></p>
+<p><input type="text" name="Terms" size="14" id="fdse_Terms"><br>
+<input type="submit" class="submit" name="submitButtonName" value="Search"></p>
+</div></form></td>
+						</tr>
+						<tr><td class="bottom" width="136" height="10" valign="top">
+						</td>
+						</tr>
+					</table>
+				</td>
+				<td width="4"></td>
+				<td valign="top" width="645">
+					<table width="645" border="0" cellspacing="0" cellpadding="0">
+						<tr height="18">
+							<td width="645" height="35" class="bar">
+								<div align="center">
+									<b><font size="+2" color="black">Script</font></b></div>
+							</td>
+						</tr>
+						<tr height="362">
+							<td class="spacer2" valign="top" width="645" height="362">
+
+						<p><font size="-2">Episode 96 - The Race<br>
+							
+						pc: 612, season 6, episode 10<br>
+							
+						Broadcast date: December 15, 1994<br>
+							<br>
+							
+						Written by Tom Gammill &amp; Max Pross and Larry David<br>
+							
+						Directed by Andy Ackerman<br>
+							<br>
+							
+						-------------------------------------------------------------------------------<br>
+							<br>
+							
+						The Cast<br>
+							
+						Regulars:<br>
+							
+						Jerry Seinfeld ....................... Jerry Seinfeld<br>
+							
+						Jason Alexander .................. George Costanza<br>
+							
+						Julia Louis-Dreyfus ............. Elaine Benes<br>
+							
+						Michael Richards ................. Kramer<br>
+							<br>
+							
+						Guest Stars:<br>
+							<br>
+							
+						Todd Kimsey ................................ Ned<br>
+							
+						Renee Props .................................. Lois<br>
+							
+						Don R. McManus .......................... Duncan<br>
+							
+						Vicki Lewis&nbsp; .................................. Ada<br>
+							
+						Claude Earl Jones ......................... Mr. Bevilaqua<br>
+							
+						Mark Christopher Lawrence ........ Boss<br>
+							
+						Michael Sorich&nbsp; ............................. Castro<br>
+							
+						Denise Poirier&nbsp; .............................. Arlene<br>
+							
+						Spencer Klein ................................ Kid<br>
+							
+						Martin Chow&nbsp; ............................... Lew<br>
+							
+						Eva Svensson&nbsp; ............................... Woman<br>
+							
+						rc: Danny Woodburn .................... Mickey Abbott<br>
+							<br>
+							
+						==================================================================<br>
+							<br>
+							
+						[Opening Monologue]<br>
+							<br>
+							
+						The Christmas tree certainly seems to inspire a love/hate relationship. All that time is spent selecting it and decorating it, and then a week after it's just thrown somewhere, you see it by the side of the road, it looks like a mob hit. A car slows down, a door opens and this tree just rolls out. People snap out of that Christmas spirit like it was a drunken stupor, they just wake up one morning and go, &quot;Oh my god, there's a tree inside the house! Just throw it anywhere!<br>
+							<br>
+							<br>
+							<br>
+							
+						[Lois's office]<br>
+							<br>
+							
+						JERRY: Ready to go Lois?<br>
+							<br>
+							
+						LOIS: You really like to say my name? Don't you?<br>
+							<br>
+							
+						JERRY: Excuse me Lois. Stand back Lois. Jimmy's in trouble Lois.<br>
+							<br>
+							
+						LOIS: Oh, Mr. Meyers this is my friend, Jerry.<br>
+							<br>
+							
+						DUNCAN: Jerry Seinfeld!<br>
+							<br>
+							
+						JERRY: Duncan Meyers!<br>
+							<br>
+							
+						LOIS: You two know each other?<br>
+							<br>
+							
+						DUNCAN: Yeah! We uh, went to High School together. Didn't we Jerry? Gee I hope you're not leaving now. We still have a lot of work left to do.<br>
+							<br>
+							
+						LOIS: Would you be able to come all the way downtown again in rush hour to pick me up?<br>
+							<br>
+							
+						JERRY: Well, I'd have to be Superman to do that Lois.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Elaine's Apartment]<br>
+							<br>
+							
+						ELAINE: No, no This is all wrong. Where's the Chicken Cashew?<br>
+							<br>
+							
+						LEW: You no order Chicken Cashew.<br>
+							<br>
+							
+						ELAINE: I didn't order any of this. I'm not paying for this.<br>
+							<br>
+							
+						LEW: Fine Benes. We are putting you on our list.<br>
+							<br>
+							
+						ELAINE: What list?<br>
+							<br>
+							
+						LEW: The &quot;do not deliver&quot; list.<br>
+							<br>
+							
+						ELAINE: MERRY CHRISTMAS TO YOU! Well, I guess we'll just go out.<br>
+							<br>
+							
+						GEORGE: Yeah. What are you doing with the Daily Worker?<br>
+							<br>
+							
+						ELAINE: Ned must have left it here.<br>
+							<br>
+							
+						GEORGE: Your boyfriend reads the Daily Worker? What is he? A communist?<br>
+							<br>
+							
+						ELAINE: HE reads everything, you know, Ned's very well read.<br>
+							<br>
+							
+						GEORGE: Maybe he's just &quot;very well RED&quot;?<br>
+							<br>
+							
+						ELAINE: Communist? Don't you think he probably would have told me?<br>
+							<br>
+							
+						GEORGE: Well, does he wear bland, drab, olive colored clothing?<br>
+							<br>
+							
+						ELAINE: Yes, . . . yes he does dress a little drab.<br>
+							<br>
+							
+						GEORGE: Huh, he's a communist. . . . Look at this. &quot;Exciting uninhibited woman seeks forward thinking comrade and appearance not important.&quot; . . . Appearance Not Important! This is unbelievable. Finally this is an ideology I can embrace.<br>
+							<br>
+							
+						(Jerry enters)<br>
+							<br>
+							
+						JERRY: Hi oh.<br>
+							<br>
+							
+						ELAINE &amp; GEORGE: Hey.<br>
+							<br>
+							
+						ELAINE: Where's Lois?<br>
+							<br>
+							
+						JERRY: She couldn't make it.<br>
+							<br>
+							
+						GEORGE: I can't believe you're really going out with a woman named Lois.<br>
+							<br>
+							
+						JERRY: I know, finally. But George, guess who her boss is. Duncan Meyers.<br>
+							<br>
+							
+						GEORGE: Duncan Meyers?<br>
+							<br>
+							
+						ELAINE: Who's he?<br>
+							<br>
+							
+						JERRY: Elaine, only one other person in the world knows what I am about to tell you and that's George. When we were in the ninth grade they had us all line up at one end of the school yard for this big race to see who was going to represent the school in this track meet.<br>
+							<br>
+							
+						ELAINE: Uh uh<br>
+							<br>
+							
+						JERRY: I was the last one on the end. George was next to me. And Mr. Bevilacqua, the gym . . .<br>
+							<br>
+							
+						ELAINE: What's that?<br>
+							<br>
+							
+						JERRY: Mr. Bevilacqua, the gym teacher.<br>
+							<br>
+							
+						ELAINE: Oh, of course.<br>
+							<br>
+							
+						JERRY: He was down at the other end. So he yells out, &quot;Ready, On your mark, Get set, &quot; and I was so keyed up I just took off. By the time he said go I was ten yards ahead of everybody.<br>
+							<br>
+							
+						ELAINE: No.<br>
+							<br>
+							
+						GEORGE: I looked up. I couldn't believe it.<br>
+							<br>
+							
+						JERRY: By the time the race was over I had won. I was shocked nobody had noticed the head start.<br>
+							<br>
+							
+						ELAINE: Really?<br>
+							<br>
+							
+						JERRY: And I had won by so much a myth began to grow about my speed. Only Duncan suspected something was a miss. He's hated me ever since. Now he's back.<br>
+							<br>
+							
+						ELAINE: Well what happened when you raced him again?<br>
+							<br>
+							
+						JERRY: I never did. In four years of high school I would never race anyone again. Not even to the end of the block to catch a bus. And so the legend grew. Everyone wanted me to race. They begged me. The track coach called my parents. Pleading. Telling them it was a sin to waste my god given talent. But I answered him in the same way I answered everyone. I chose not to run.<br>
+							<br>
+							
+						ELAINE: So now Duncan is back?<br>
+							<br>
+							
+						JERRY: He's back. And I knew he would be someday. (drinks) Man that's some tart cider!<br>
+							<br>
+							<br>
+							<br>
+							
+						[In Jerry's Car - Lois gets in]<br>
+							<br>
+							
+						LOIS:Hi.<br>
+							<br>
+							
+						JERRY: Hi.<br>
+							<br>
+							
+						LOIS: Sorry I missed the Chinese food.<br>
+							<br>
+							
+						JERRY: Oh, so am I . Uh, how's Duncan?<br>
+							<br>
+							
+						LOIS: He's okay.<br>
+							<br>
+							
+						JERRY: He say anything?<br>
+							<br>
+							
+						LOIS: About what?<br>
+							<br>
+							
+						JERRY: Oh, nothing in particular.<br>
+							<br>
+							
+						LOIS: . . . Why did you cheat in that race?<br>
+							<br>
+							
+						JERRY: I did not cheat.<br>
+							<br>
+							
+						LOIS: He said that you got a head start.<br>
+							<br>
+							
+						JERRY: Oh, he's just jealous because he came in second.<br>
+							<br>
+							
+						LOIS: Really?<br>
+							<br>
+							
+						JERRY: Yes<br>
+							<br>
+							
+						LOIS: So you WERE the fastest kid in school.<br>
+							<br>
+							
+						JERRY: Faster than a speeding bullet Lois.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Elaine's Apartment]<br>
+							<br>
+							
+						ELAINE: So how was work? Another day, another dollar?<br>
+							<br>
+							
+						NED: I guess.<br>
+							<br>
+							
+						ELAINE: Oh well nothing wrong with that. Gotta make those big bucks. . . . money money money money money money money . . . ha ha ha ha ah . . . are you a communist?<br>
+							<br>
+							
+						NED: Yes, as a matter of fact I am.<br>
+							<br>
+							
+						ELAINE: OH, AH! OH! WOW! WHOA! A COMMIE! Wow, gee, man it must be a bummer for you guys what with the fall of the soviet empire and everything .<br>
+							<br>
+							
+						NED: Yeah, well, we still got China, and Cuba,<br>
+							<br>
+							
+						ELAINE: Yeah, but come on . . .<br>
+							<br>
+							
+						NED: I know it's not the same.<br>
+							<br>
+							
+						ELAINE: Well, you had a good run, what was it 75, 80 years? Wreaking havoc, making everybody nervous.<br>
+							<br>
+							
+						NED: Yeah, we had a good run.<br>
+							<br>
+							
+						ELAINE: Well, so enjoy yourself. (clink glasses) ha ha uh ha<br>
+							<br>
+							<br>
+							<br>
+							
+						[Jerry's apartment]<br>
+							<br>
+							
+						GEORGE: So you lied to her?<br>
+							<br>
+							
+						JERRY: I couldn&#146;t tell her the truth. I don't know what's going to happen between us. What if we have a bad breakup. She'll go straight to Duncan. And I want him to go to his grave never being certain I got that<br>
+							<br>
+							
+						head start.<br>
+							<br>
+							
+						(Elaine enters)<br>
+							<br>
+							
+						ELAINE: Well, I'm dating a communist.<br>
+							<br>
+							
+						JERRY: Wow, a communist. That's something.<br>
+							<br>
+							
+						ELAINE: Yeah, that's pretty cool isn't it?<br>
+							<br>
+							
+						GEORGE: Hey, did I tell you I called one of those girls from the personal ads in The Daily Worker?<br>
+							<br>
+							
+						JERRY: The Daily Worker has personal ads?<br>
+							<br>
+							
+						GEORGE: And they say appearance is not important.<br>
+							<br>
+							
+						JERRY: Yours or hers?<br>
+							<br>
+							
+						(Kramer enters dressed as Santa)<br>
+							<br>
+							
+						KRAMER: Ho Ho Ho Ho Ho Merry Christmas everyone. Merry Christmas.<br>
+							<br>
+							
+						JERRY: Wow, look at you. So you got the job.<br>
+							<br>
+							
+						KRAMER: Yeah, you're looking at the new Santa at Coleman's Department store.<br>
+							<br>
+							
+						ELAINE: Oh, congratulations<br>
+							<br>
+							
+						(Mickey enters)<br>
+							<br>
+							
+						MICKEY: Come on get your bead on. We're going to be late.<br>
+							<br>
+							
+						KRAMER: On Prancer on Dasher, on Donna.<br>
+							<br>
+							
+						MICKEY: Not Donna, it's Donner.<br>
+							<br>
+							
+						KRAMER: Donna!<br>
+							<br>
+							
+						MICKEY: Yeah, right!. On Prancer, on Dancer, on Donna, on Ethyl, on Harriet.<br>
+							<br>
+							
+						JERRY: Hello, Oh hi Lois, you want to get together, what for? I don't know about that, I'll have to think about it. I'll let you know. Okay, bye.<br>
+							<br>
+							
+						GEORGE: What's up?<br>
+							<br>
+							
+						JERRY: Duncan wants to get together with her and me for lunch tomorrow. He obviously wants me to admit I got a head start. And I don't think she believes me.<br>
+							<br>
+							
+						GEORGE: He wants to meet you? I'll tell you what. I'll show up. He doesn't know we're friends. I'll pretend I haven't seen you since High School. I'll back up the story.<br>
+							<br>
+							
+						JERRY: That's not bad.<br>
+							<br>
+							
+						GEORGE: Not bad? It's gorgeous!<br>
+							<br>
+							<br>
+							<br>
+							
+						[Coleman's Department Store]<br>
+							<br>
+							
+						KRAMER: Ho ho ho Well come on little Princess, tell Santa what you want. Don't be shy.<br>
+							<br>
+							
+						MOM: She doesn't speak English (with a Swedish accent).<br>
+							<br>
+							
+						KRAMER: Santa speaks the language of all children. A notchie watchie dotchie do.<br>
+							<br>
+							
+						(Child cries and reaches for her mom)<br>
+							<br>
+							
+						KRAMER: A dotchie cotchie dochie,<br>
+							<br>
+							
+						KRAMER: Het, Mickey when do we get a break? My lap is killing me.<br>
+							<br>
+							
+						MICKEY: There is no break.<br>
+							<br>
+							
+						KRAMER: A sweat shop.<br>
+							<br>
+							
+						(Elaine and commie enter)<br>
+							<br>
+							
+						KRAMER: Hey, hey, hey.<br>
+							<br>
+							
+						(Kid sits on Kramer's lap and they both slide to the floor)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Yankee Stadium]<br>
+							<br>
+							
+						ADA: Natalie on line 2.<br>
+							<br>
+							
+						GEORGE: Natalie?<br>
+							<br>
+							
+						ADA: From the Daily Worker.<br>
+							<br>
+							
+						GEORGE: Thank you.<br>
+							<br>
+							
+						(ADA leaves but listens at the door)<br>
+							<br>
+							
+						GEORGE: Hello, it's Natalie? Yeah, this is a business office but I'm not a business man per se. I'm here working for the people. Yes, I'm causing dissent. Stirring the pot. Getting people to question the whole rotten system.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Coleman's Department Store]<br>
+							<br>
+							
+						ILENE: Elaine.<br>
+							<br>
+							
+						ELAINE: Ilene.<br>
+							<br>
+							
+						ILENE: Hi.<br>
+							<br>
+							
+						ELAINE: Hello.<br>
+							<br>
+							
+						ILENE: Doing a little Christmas shopping?<br>
+							<br>
+							
+						ELAINE: Yeah, yeah. Oh, this is Ned. He's a communist.<br>
+							<br>
+							
+						ILENE: Oh, really?<br>
+							<br>
+							
+						ELAINE: Yep . . . a big communist, a big big communist.<br>
+							<br>
+							
+						ILENE: Oh, well, it's awfully nice to see you. See you later.<br>
+							<br>
+							
+						ELAINE: Bye bye<br>
+							<br>
+							
+						ELAINE: Hey, listen while we're here why don't we do a little shirt shopping?<br>
+							<br>
+							
+						NED: Out of the question.<br>
+							<br>
+							
+						ELAINE: Um. Kramer!<br>
+							<br>
+							
+						KRAMER: Hi<br>
+							<br>
+							
+						ELAINE: Hi, oh hi Mickey, this is Ned<br>
+							<br>
+							
+						KRAMER: Oh, hey, hi buddy.<br>
+							<br>
+							
+						ELAINE: You guys stay here, I'll be right back.<br>
+							<br>
+							
+						KRAMER: Eight hours of jingle belling and ho ho hoing. Boy, I am ho'd out.<br>
+							<br>
+							
+						NED: Anyone who works here is a sap.<br>
+							<br>
+							
+						(Mickey attacks Ned)<br>
+							<br>
+							
+						MICKEY: Watch it!<br>
+							<br>
+							
+						KRAMER: Woah, woah, come on.<br>
+							<br>
+							
+						NED: You understand the Santa's at Bloomfields are making double what you are?<br>
+							<br>
+							
+						KRAMER: Double?<br>
+							<br>
+							
+						NED: I bet the beard itches doesn't it?<br>
+							<br>
+							
+						KRAMER: You got that straight.<br>
+							<br>
+							
+						NED: So when you get a rash all over your face in January do you think Coleman's will be there with a medical plan?<br>
+							<br>
+							
+						MICKEY: Look, you take that commie crap out into the street.<br>
+							<br>
+							
+						NED: Kramer, I've got some literature in my car that will change your whole way of thinking.<br>
+							<br>
+							
+						KRAMER: Talk to me baby.<br>
+							<br>
+							
+						MICKEY: Don't listen to him Kramer, you've got a good job here.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Monks]<br>
+							<br>
+							
+						DUNCAN: But there's no way you could have beaten me by that much. I already beaten you in Junior High School three times.<br>
+							<br>
+							
+						JERRY: I didn't hit puberty til the 9th grade. That's what gave me my speed. Besides, if I got a head start why didn't Mr. Bevilacqua stop the race?<br>
+							<br>
+							
+						(George enters)<br>
+							<br>
+							
+						DUNCAN: That's what I've always wondered about.<br>
+							<br>
+							
+						JERRY: Well, I . . . [sees George]<br>
+							<br>
+							
+						GEORGE: Oh, my God, No, oh my God, . . . Jerry!<br>
+							<br>
+							
+						JERRY: I'm sorry, uh,<br>
+							<br>
+							
+						GEORGE: George, George Costanza!<br>
+							<br>
+							
+						JERRY: Oh, George Costanza , Kennedy High.<br>
+							<br>
+							
+						GEORGE: Yes yes yes This is unbelievable.<br>
+							<br>
+							
+						DUNCAN: Hi, George<br>
+							<br>
+							
+						GEORGE: Oh, wait a minute, wait a minute, don't tell me, don't tell me. It starts with a . . . Duncan Meyers. Oh, wow, this is something. I haven't seen you guys in what, twenty years?<br>
+							<br>
+							
+						JERRY: This is Lois.<br>
+							<br>
+							
+						LOIS: Hello.<br>
+							<br>
+							
+						GEORGE: So what have you been doing with yourself?<br>
+							<br>
+							
+						JERRY: I'm I'm a comedian.<br>
+							<br>
+							
+						GEORGE: Ah ha, well, I really wouldn't know about that. I don't watch much TV. I like to read. So what do you do, a lot of that &quot;did you ever notice?&quot; this kind of stuff.<br>
+							<br>
+							
+						JERRY: Yeah, yeah<br>
+							<br>
+							
+						GEORGE: It strikes me a lot of guys are doing that kind of humor now.<br>
+							<br>
+							
+						JERRY: Yeah, yeah, Well, you really got bald there, didn't you?<br>
+							<br>
+							
+						GEORGE: Yeah, yeah.<br>
+							<br>
+							
+						JERRY: You really used to have a think full head of hair.<br>
+							<br>
+							
+						GEORGE: Yeah, yeah. Well, I guess I started losing it when I was about twenty-eight right around the time I made my first million. You know what they say. The first million is the hardest one.<br>
+							<br>
+							
+						JERRY: yeah, yeah.<br>
+							<br>
+							
+						LOIS: What do you do?<br>
+							<br>
+							
+						GEORGE: I'm an architect.<br>
+							<br>
+							
+						LOIS: Have you designed any buildings in New York?<br>
+							<br>
+							
+						GEORGE: Have you seen the new addition to the Guggenheim?<br>
+							<br>
+							
+						LOIS: You did that?<br>
+							<br>
+							
+						GEORGE: Yep. And it didn't take very long either.<br>
+							<br>
+							
+						JERRY: Well you've really built yourself up into something.<br>
+							<br>
+							
+						GEORGE: Well, well, I had a dream, Jerry.<br>
+							<br>
+							
+						JERRY: Well, one cannot help[ but wonder what brings you into a crummy little coffee shop like this.<br>
+							<br>
+							
+						GEORGE: Well, I like to stay in touch with the people.<br>
+							<br>
+							
+						JERRY: Ah, you know you have a hole in your sneaker there. What is that canvas?<br>
+							<br>
+							
+						GEORGE: You know my driver's waiting, I really should get running. Good to see you guys again.<br>
+							<br>
+							
+						JERRY: George, George, hang on. I haven't seen you in so long.<br>
+							<br>
+							
+						GEORGE: Ha, uh,<br>
+							<br>
+							
+						JERRY: I thought we might reminisce a little more. You know Duncan and I were just taking about the big race.<br>
+							<br>
+							
+						GEORGE: Oh, the big race.<br>
+							<br>
+							
+						JERRY: Yeah.<br>
+							<br>
+							
+						GEORGE: Yes, yes,.<br>
+							<br>
+							
+						LOIS: You were there?<br>
+							<br>
+							
+						GEORGE: Yes, sure, surely was. Yeah, I'll remember that day. Well I'll never forget it because that was the day that I uh, lost my virginity to Miss. Stafford, the uh, voluptuous home room teacher.<br>
+							<br>
+							
+						DUNCAN: Miss Stafford?<br>
+							<br>
+							
+						GEORGE: Yes, yes, you know I was in detention and she came up behind me while I was erasing the blackboard . . .<br>
+							<br>
+							
+						JERRY: George!<br>
+							<br>
+							
+						GEORGE: But I digress. Let me see, now. You were standing at one end of the line and I was right next to you. And I remember we were even for like, the first five yards and then , BOOM,...You were gone.<br>
+							<br>
+							
+						JERRY: Did I get a head start?<br>
+							<br>
+							
+						GEORGE: Head start, oh no absolutely not.<br>
+							<br>
+							
+						JERRY: You satisfied? So you see?<br>
+							<br>
+							
+						DUNCAN: No, I'm still not convinced and I never will be.<br>
+							<br>
+							
+						LOIS:Why don't the two of you just race again?<br>
+							<br>
+							
+						DUNCAN: That's a good idea.<br>
+							<br>
+							
+						JERRY: No, no, no, another race - out of the question.<br>
+							<br>
+							
+						DUNCAN: I know, you've been saying that for twenty years because you know you can't beat me. You couldn't beat me then and you can't beat me now.<br>
+							<br>
+							
+						LOIS: Race him Jerry. Race him.<br>
+							<br>
+							
+						JERRY: All right! I'll do it. The race is on.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Jerry's apartment]<br>
+							<br>
+							
+						ELAINE: . . . shut up! (?)<br>
+							<br>
+							
+						JERRY: And he's calling all these people from High School to come and watch. I knew this day would come. I can't do it. I can't go through with it. I'm calling it off. I can't let the legend die. It's like a kid finding out there's no Santa Claus<br>
+							<br>
+							<br>
+							<br>
+							
+						[Street]<br>
+							<br>
+							
+						KRAMER: Each according to his ability, to each according to his needs.<br>
+							<br>
+							
+						MICKEY: What does that mean?<br>
+							<br>
+							
+						KRAMER: Well, if you've got needs and abilities that's a pretty good combination.<br>
+							<br>
+							
+						MICKEY: So what if I want to open up a delicatessen?<br>
+							<br>
+							
+						KRAMER: There are no delicatessens under Communism.<br>
+							<br>
+							
+						MICKEY: Why not?<br>
+							<br>
+							
+						KRAMER: Well, because the meats are divided into a class system. You got Pastrami and Corned Beef in one class and Salami and Bologna in another. That's not right.<br>
+							<br>
+							
+						MICKEY: So you can't get Corned Beef?<br>
+							<br>
+							
+						KRAMER: Well, you know, if you're in the Politburo, maybe.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Jerry's Apartment]<br>
+							<br>
+							
+						GEORGE: (on phone) . It's George Costanza. . are there any messages for me? Why does Mr. Steinbrenner want to see me in his office? . . . Communist? I'm not a Communist . . . . All right, all right. All right, I'll be there. - ( hangs up ) My secretary Ada, told Mr Steinbrenner I'm a Communist Now he wants to see me in his office.<br>
+							<br>
+							
+						JERRY: So you'll just explain to him you're not a Communist. You just called the woman for a date.<br>
+							<br>
+							
+						(Phone rings)<br>
+							<br>
+							
+						JERRY: Hello, oh hi Duncan, 4:00 o'clock tomorrow? That is not going to work. . . . Why? I'll tell you why. Because I chose not to run!<br>
+							<br>
+							<br>
+							<br>
+							
+						[Elaine's Apartment]<br>
+							<br>
+							
+						NED: I'm sorry Elaine. The shirt's too fancy.<br>
+							<br>
+							
+						ELAINE: Just because you're a communist, does that mean you can't wear anything nice? You look like Trotsky. It's gorgeous. Fine, you want to be a Communist, be a Communist. Can't you at least look like a successful Communist?<br>
+							<br>
+							
+						NED: All right, I'll try it on.<br>
+							<br>
+							
+						ELAINE: I'm going to order Chinese Food.<br>
+							<br>
+							
+						NED: You're ordering from Hop Sing's, right?<br>
+							<br>
+							
+						ELAINE: Ugh, does it have to be Hop Sing's. I kind of had a fight with him.<br>
+							<br>
+							
+						NED: Elaine, when my father was black listed he couldn't work for years. He and his friends used to sit at Hop Sing's every day figuring out how to survive.<br>
+							<br>
+							
+						ELAINE: You're father was blacklisted?<br>
+							<br>
+							
+						NED: Yes he was, and you know why? Because he was betrayed by people he trusted. They &quot;named names&quot;.<br>
+							<br>
+							
+						ELAINE: Okay, okay. (phones) Um, yeah, hi, I'd like delivery please to 16 West 75th St. apartment 2G.<br>
+							<br>
+							
+						LEW: I know that address. You're Benes, right. You're on our list. No more delivery.<br>
+							<br>
+							
+						ELAINE: No. no, she doesn't live here anymore. This is someone else.<br>
+							<br>
+							
+						LEW: Oh, yeah. What's the name?<br>
+							<br>
+							
+						ELAINE: Why do you need the name? You already have the address.<br>
+							<br>
+							
+						LEW: We need a name. Give us a name.<br>
+							<br>
+							
+						ELAINE: Okay, okay, Ned Isakoff.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Coleman's Department Store]<br>
+							<br>
+							
+						KID: I want a racing car set.<br>
+							<br>
+							
+						KRAMER: Ho ho ho ho A racing car set! Those are assembled in Tai Wan by kids like you. And these Coleman pigs, they sell it at triple the cost.<br>
+							<br>
+							
+						KID: But I want a racing car set.<br>
+							<br>
+							
+						KRAMER: You see kid, you're being bamboozaled. These capatalist fat cats are inflating the profit margin and reducing your total number of toys.<br>
+							<br>
+							
+						KID: Hey, this guy's a COMMIE!<br>
+							<br>
+							
+						MICKEY: Hey, kid, quiet. Were did a nice little boy like you learn such a bad word like that? Huh?<br>
+							<br>
+							
+						KID: Commie, Commie, Commie . . . (unknown) .<br>
+							<br>
+							
+						MICKEY: Santa is not a Commie. He just forgot how his good friend stuck his neck out for him to get him a good job like this. Didn't he Santa!<br>
+							<br>
+							
+						STORE MANAGER: Is there a problem here?<br>
+							<br>
+							
+						KRAMER: ho ho ho ho.<br>
+							<br>
+							
+						KID: This guy's a Commie. He's spreading propoganda.<br>
+							<br>
+							
+						STORE MANAGER: Oh yeah? Well that's enough pinko! You're through. The both of ya'<br>
+							<br>
+							
+						MICKEY: I got two kids in college.<br>
+							<br>
+							
+						KRAMER: You can't fire me, I'm Santa Claus.<br>
+							<br>
+							
+						STORE MANAGER: Not anymore. Get your skinny ass out of here.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Jerry's Car]<br>
+							<br>
+							
+						JERRY: Hi how are you?<br>
+							<br>
+							
+						LOIS: . . . Fine.<br>
+							<br>
+							
+						JERRY: What's the matter?<br>
+							<br>
+							
+						LOIS: I just spoke to Duncan. He said if you don't race, he's going to fire me.<br>
+							<br>
+							
+						JERRY: What? He can't do that.<br>
+							<br>
+							
+						LOIS: Yes he can. He controls the means of production. What are you going to do Jerry?<br>
+							<br>
+							
+						JERRY: Don't worry Lois. I'll think of something.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Elaine's Apartment]<br>
+							<br>
+							
+						LEW: Ah, I knew it was you! You tried to trick Hop Sing! You are onour list; Elaine Benes! And now you are on our list; Ned Isakoff.<br>
+							<br>
+							
+						NED: You got me blacklisted from Hop Sing's?<br>
+							<br>
+							
+						LEW: She named name!<br>
+							<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						[Steinbrenner's Office]<br>
+							<br>
+							
+						GEORGE: You, uh, wanted to see me, Mr. Steinbrenner?<br>
+							<br>
+							
+						STEINBRENNER: Yes George, I did. Come in, come in. George, the wordaround the office is that you're a Communist.<br>
+							<br>
+							
+						GEORGE: C-Communist? I am a Yankee, sir, first and foremost.<br>
+							<br>
+							
+						STEINBRENNER: You know George, it struck me today me that a Communistpipeline into the vast reservoir of Cuban baseball talent could be thegreatest thing ever to happen to this organization.<br>
+							<br>
+							
+						GEORGE: Sir?<br>
+							<br>
+							
+						STEINBRENNER: You could be invaluable to this franchise. George, there's a southpaw down there nobody's been able to get a look at; something Rodriguez, I don't really know his name. You get yourselfdown to Havana right away.<br>
+							<br>
+							
+						GEORGE: Yes, sir. Yes sir, do my best.<br>
+							<br>
+							
+						STEINBRENNER: Good, Merry Christmas George. And bring me back some of those cigars in the cedar boxes, you know the ones with the fancy rings? I love those fancy rings. They kind of distract you while you're smoking. The red and yellow are nice. It looks good against the brown of the cigar. The Maduro, I like the Maduro wrapper. The darker the better, that's what I say. Of course, the Claro's good too. That's more of a pale brown, almost like a milky coffee. (George exits) I find the ring size very confusing. They have it in centimeters which I don't really understand that well...<br>
+							<br>
+							<br>
+							<br>
+							
+						[On the Street]<br>
+							<br>
+							
+						MICKEY: That was quick! Nice job, Santa!<br>
+							<br>
+							
+						KRAMER: Yeah,<br>
+							<br>
+							
+						MICKEY: I knew that Commie stuff was going to get us in trouble.<br>
+							<br>
+							
+						KRAMER: Yeah, well I didn't realize that was such a sensitive issue.<br>
+							<br>
+							
+						MICKEY: Communism, You didn't realize Communism was a sensitive issue? What do you think has been going on in the world for the past 60 years? Wake up and smell the coffee.<br>
+							<br>
+							
+						KRAMER: I guess I screwed up!<br>
+							<br>
+							
+						MICKEY: You sure did. Big time.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Street - race begins]<br>
+							<br>
+							
+						ELAINE: How do you feel?<br>
+							<br>
+							
+						JERRY: I need a miracle.<br>
+							<br>
+							
+						DUNCAN: Now you're going to see what kind of liar you're mixed up with.<br>
+							<br>
+							
+						LOIS: If he beats you I want a big raise.<br>
+							<br>
+							
+						DUNCAN: If he beats me, I'll not only give you a raise, I'll send you to Hawaii for two weeks.<br>
+							<br>
+							
+						KRAMER: I parked in front of that restaurant . As soon as this race is over I got to go to the airport.<br>
+							<br>
+							
+						GEORGE: Okay, all right, all right.<br>
+							<br>
+							
+						MR. BEVILACQUA: You ready boys?<br>
+							<br>
+							
+						JERRY: Yes, Mr. Beviacqua<br>
+							<br>
+							
+						MR. BEVILACQUA: Okay, this is hoiw it works. You take your marks, I say, READY - ON YOUR MARK - GET SET - and then fire. You got it?<br>
+							<br>
+							
+						DUNCAN &amp; JERRY: Yes Mr. Bevilacqua.<br>
+							<br>
+							
+						(Kramer enters his car)<br>
+							<br>
+							
+						(Mr. Bevilacqua raises gun)<br>
+							<br>
+							
+						MR. BEVILACQUA: READY - ON YOUR MARK<br>
+							<br>
+							
+						(Kramer's car backfires)<br>
+							<br>
+							
+						(Jerry is off early and wins the race - the crowd goes crazy - )<br>
+							<br>
+							
+						LOIS:So will you come to Hawaii with me Jerry?<br>
+							<br>
+							
+						JERRY: Maybe I will , Lois. Maybe I will.<br>
+							<br>
+							
+						(Jerry winks at camera like in the Superman movie)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Havana]<br>
+							<br>
+							
+						(George enters Castro's office (like Steinbrenner))<br>
+							<br>
+							
+						GEORGE: You wanted to see me, El Presidente?<br>
+							<br>
+							
+						CASTRO: Si, si. (a Spanish word I can't figure out) Come here. I understand you are very interested in one of our players, eh?<br>
+							<br>
+							
+						GEORGE: Si, si.<br>
+							<br>
+							
+						CASTRO: Ordinarily I would not grant such a request but I've heard you are, uh, how you say, Communista simpatico, eh?<br>
+							<br>
+							
+						GEORGE: Muy sumpatico. Muy muy muy.<br>
+							<br>
+							
+						CASTRO: Well good, then you can have your pick.<br>
+							<br>
+							
+						GEORGE: Oh, oh!<br>
+							<br>
+							
+						CASTRO: They will play for your Yankees.<br>
+							<br>
+							
+						GEORGE: Oh well, gracias El Commandante, gracias. Muy muy.<br>
+							<br>
+							
+						CASTRO: And I would be honored if you would be my guest for dinner tonight at the Presidential palace. There will be girls there and, I hear, some pretty good food. Of course the problem with parties is you invariably have to eat standing up which I don't care for but on the other hand I don't like to balance a plate on my lap either. Once when I was at a party, I put my plate on someone's piano. I assure you, if I had not been a dictator, I would not have been able to get away with that one.<br>
+							<br>
+							<br>
+							
+						The End</td>
+						</tr>
+						<tr height="6">
+							<td class="bottom2" width="645" height="6"></td>
+						</tr>
+						<tr>
+							<td width="645">
+								<div align="center">
+									<font size="-1">Copyright 2006 seinology.com | All Rights Reserved | Designed by 13erla</font></div>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+		<p></p>
+	</body>
+
+</html>

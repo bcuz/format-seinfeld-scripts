@@ -1,0 +1,2827 @@
+<tdOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+<html>
+
+	<head>
+		<meta http-equiv="content-type" content="text/html;charset=ISO-8859-1">
+		<meta name="description" content="Top Source for Seinfeld">
+		<meta name="keywords" content="seinfeld, sienfeld, Jerry Seinfeld, Julia Louis Dreyfus, Jason Alexander, Michael Richards, Kramer, George, Costanza, Elaine Benes, morty, Larry David">
+		<title>Seinology.com :: Scripts :: 82&amp;83-The Raincoats</title>
+	<link rel='stylesheet' href='/stylesheet.css' type='text/css'>
+	</head>
+
+	<body>
+			<table align="center" width="787" border="0" cellspacing="0" cellpadding="0">
+				<tr>
+					<td><font size="-2" color="red">Seinology.com - </font><font size="-3" color="black">Where Seinfeld Content and Accuracy Matter Most. Seinfeld scripts in pdf form, Seinfeld episode video clips, Seinfeld episode audio clips, Jerry Seinfeld appearances, Julia Louis-Dreyfus appearances, Michael Richards appearances, Jason Alexander appearances, Seinfeld discussion Forum, Seinfeld Where are they Now? Seinlanguage Newsletter, Popular Seinfeld Lists, Seinfeld episode standup, Seinfeld episode guide, Seinfeld fan fiction. Seinfeld content all on one domain. Seinology.com enjoy your stay.</font></td>
+				</tr>
+			</table>
+		
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr height="100">
+				<td class="logo"></td>
+			</tr>
+			<tr><td class="ads" align="center" background=#8694fa>
+				<script type="text/javascript"><!--
+google_ad_client = "pub-1924026976931416";
+google_ad_width = 728;
+google_ad_height = 90;
+google_ad_format = "728x90_as";
+google_ad_type = "text";
+google_ad_channel = "";
+google_color_border = "FFFFFF";
+google_color_bg = "8694fa";
+google_color_link = "0000FF";
+google_color_text = "000000";
+google_color_url = "002E3F";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></td></tr>
+		</table>
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr>
+				<td valign="top" width="136">
+					<table width="136" border="0" cellspacing="0" cellpadding="0">
+						<tr height="24">
+							<td class="navigation">
+								<div align="center">
+									
+									<b>Navigation</b></div>
+							</td>
+						</tr>
+						<tr height="199">
+							<td class="spacer1" valign="top" width="136" height="199">
+								<div align="center">
+									<font size="-1"><a href="http://www.seinology.com">Home</a><br>
+										<a href="http://board.seinology.com">Forum</a><br>
+										<a href="http://www.seinology.com/av.shtml">Audio/Video</a><br>
+										<a href="http://www.seinology.com/scripts.shtml">Scripts</a><br>
+										<a href="http://www.seinology.com/survivor.shtml">Survivor</a><br>
+										<a href="http://www.seinology.com/fanfics.shtml">Fan Fiction</a><br>
+										<a href="http://www.seinology.com/gallery/">Gallery</a><br>
+										<a href="http://www.seinology.com/newsletter.shtml">Newsletter</a><br>
+										<a href="http://www.seinology.com/lists.shtml">Lists</a><br>
+										<a href="http://www.seinology.com/epguide.shtml">Episode Guide</a><br>
+										<a href="http://www.seinology.com/links.shtml">Links</a><br>
+										<a href="http://www.seinology.com/faqother.shtml">Faq + others</a><br>
+										<a href="http://www.seinology.com/legal.shtml">Legal</a></font></div>
+							</td>
+						</tr>
+						
+						<tr>
+							<td class="nav2" width="136">
+							<div align="center"><b>Search</b></div></td>
+						</tr>
+						<tr>
+							<td class="spacer1" width="136" valign="top"><div align="center"><form method="get" action="http://www.seinology.com/search/search.cgi">
+<p><label for="fdse_Match">Match</label><br>
+<select name="Match" id="fdse_Match" size="1">
+<option value="1">All</option>
+<option value="0">Any</option>
+<option value="2">Phrase</option>
+</select></p>
+<p><label for="fdse_Realm">Where?</label><br>
+<select name="Realm" id="fdse_Realm" size="1">
+<option selected="selected" value="All">EntireSite</option>
+<option value="Ep Guide">Ep Guide</option>
+<option value="Images">Images</option>
+<option value="Lists">Lists</option>
+<option value="Newsletters">Newsletters</option>
+<option value="Scripts">Scripts</option>
+<option value="Notes..Nothing">Notes..Nothing</option>
+</select></p>
+<p><input type="text" name="Terms" size="14" id="fdse_Terms"><br>
+<input type="submit" class="submit" name="submitButtonName" value="Search"></p>
+</div></form></td>
+						</tr>
+						<tr><td class="bottom" width="136" height="10" valign="top">
+						</td>
+						</tr>
+					</table>
+				</td>
+				<td width="4"></td>
+				<td valign="top" width="645">
+					<table width="645" border="0" cellspacing="0" cellpadding="0">
+						<tr height="18">
+							<td width="645" height="35" class="bar">
+								<div align="center">
+									<b><font size="+2" color="black">Script</font></b></div>
+							</td>
+						</tr>
+						<tr height="362">
+							<td class="spacer2" valign="top" width="645" height="362">
+
+						<p><font size="-2">Episode 82&amp;83 - The Raincoats<br>
+							
+						pc: 519&amp;520, season 5, episode 18&amp;19<br>
+							
+						Broadcast date: April 28 1994<br>
+							
+						NOTE: Originally broadcast as part of a 60 min episode.<br>
+							<br>
+							
+						Part 1 Written by Tom Gammill &amp; Max Pross and Larry David &amp; Jerry Seinfeld<br>
+							
+						Part 2 Written by Larry Charles<br>
+							
+						Both Directed by Tom Cherones<br>
+							<br>
+							
+						-------------------------------------------------------------------------------<br>
+							<br>
+							
+						The Cast<br>
+							
+						Regulars:<br>
+							
+						Jerry Seinfeld ....................... Jerry Seinfeld<br>
+							
+						Jason Alexander .................. George Costanza<br>
+							
+						Julia Louis-Dreyfus ............. Elaine Benes<br>
+							
+						Michael Richards ................. Kramer<br>
+							<br>
+							
+						Guest Stars:<br>
+							<br>
+							
+						Michael G. Hagerty&nbsp; ........... Rudy<br>
+							
+						Dorien Wilson ..................... Alec<br>
+							
+						Annie Korzen ..................... Doris Klompus<br>
+							
+						Stephen Pearlman .............. Mr. Goldstein<br>
+							
+						Judge Reinhold&nbsp; .................. Aaron<br>
+							
+						Lisa Pescia&nbsp; .......................... Joanne<br>
+							
+						Jason Manary&nbsp; ................... Joey<br>
+							
+						LaRita Shelby&nbsp; ................... Tour Leader<br>
+							
+						Melanie Smith&nbsp; .................... Rachel<br>
+							
+						rc: Jerry Stiller .................... Frank Costanza<br>
+							
+						rc: Estelle Harris ................ Estelle Costanza<br>
+							
+						rc: Barney Martin .............. Morty Seinfeld<br>
+							
+						rc: Liz Sheridan ................. Helen Seinfeld<br>
+							
+						rc:&nbsp; Sandy Baron ................ Jack Klompus<br>
+							<br>
+							
+						==================================================================<br>
+							<br>
+							
+						[Opening Monologue]<br>
+							<br>
+							
+						I really feel as human beings, we need more training in our basic social skills. Conversational Distance, don't you hate these people that talk to you they talk into your mouth like you're a clown at a drive-through and Hand shakes is the worst, there's absolutely no guidelines for hand shakes you know these people? Too long, too weak, sometimes they give you the three-quarter handshake just the fingers, early release, late release, sometimes people will dispute your release, you let go there're hangin' on. I have actually said to people 'Hey the handshake is over!.' Too many pumps, coming in too high, too sweaty, coming from too far away. Sometimes a guy will give you a strong grip, late release, and pull you in for the too close conversation. To him I say 'That's three strikes you're out.'<br>
+							<br>
+							<br>
+							<br>
+							
+						[Monk's]<br>
+							<br>
+							
+						(George and Jerry at the usual booth)<br>
+							<br>
+							
+						JERRY: You know their timing couldn't be worse.<br>
+							<br>
+							
+						GEORGE: Is there ever a good time to have your parents stay with you?<br>
+							<br>
+							
+						JERRY: You don't understand, I haven't been together with Rachel for like three weeks. First I was on the road, then my parents show up, I'm getting a little uh backed up.<br>
+							<br>
+							
+						GEORGE: When are they leaving for Paris?<br>
+							<br>
+							
+						JERRY: Not for another three days.<br>
+							<br>
+							
+						GEORGE: What about her place?<br>
+							<br>
+							
+						JERRY: She lives with her parents.<br>
+							<br>
+							
+						GEORGE: Really? (Jerry shakes his head) Maybe this will become like a cool thing, living with your parents.<br>
+							<br>
+							
+						JERRY: (sarcastically) Ya, then maybe baldness will catch on. This will all be turning your way.<br>
+							<br>
+							
+						GEORGE: Hey believe me, baldness will catch on. When the aliens come, who do you think they're gonna relate to? Who do you think is going to be the first ones getting a tour of the ship?<br>
+							<br>
+							
+						JERRY: The baldies<br>
+							<br>
+							
+						GEORGE: Hey by the way my parents really want to have your parents over dinner before they leave town.<br>
+							<br>
+							
+						JERRY: That's good, then I get the apartment for at least one night. You know I'm paying for this whole Paris trip it's their anniversary present.<br>
+							<br>
+							
+						(Alec and Joey enter)<br>
+							<br>
+							
+						ALEC: (walking over to Jerry and George's table) Hey guys.<br>
+							<br>
+							
+						GEORGE: Hey Alec<br>
+							<br>
+							
+						JERRY: Hey Alec<br>
+							<br>
+							
+						ALEC: This is Joey.<br>
+							<br>
+							
+						GEORGE: Hey Joey, how you doin'?<br>
+							<br>
+							
+						ALEC: (Joey was about to talk) Hey listen, I was wondering if either one of you guys would be interested in doing some work for the Big Brother program? I'm kinda running the local chapter. What do you say George?<br>
+							<br>
+							
+						GEORGE: Well uh....<br>
+							<br>
+							
+						JOEY: (interrupts) Wouldn't you like to be a big brother to someone like me? Please?<br>
+							<br>
+							
+						GEORGE: Well, sure Joey, sure, I would be thrilled.<br>
+							<br>
+							
+						ALEC: That's great George, thanks a lot I'll get in touch with you.<br>
+							<br>
+							
+						JOEY: Wouldn't you like to be a big brother..<br>
+							<br>
+							
+						ALEC: (grabs Joey to stop him) Ya alright Joey that's enough, let's go (walking over to the counter) See ya.<br>
+							<br>
+							
+						JERRY: What happened?<br>
+							<br>
+							
+						GEORGE: What could I do? Did you see the mug on that kid?<br>
+							<br>
+							
+						JERRY: (acting like Joey) Wouldn't you like to pass the ketchup to someone like me? Please?<br>
+							<br>
+							<br>
+							<br>
+							
+						[Street]<br>
+							<br>
+							
+						(Jerry and George walking down the sidewalk.)<br>
+							<br>
+							
+						JERRY: Hey did you notice they moved where they do the interview on Jeopardy now?<br>
+							<br>
+							
+						GEORGE: Ya it used to be right in the middle of single Jeopardy and now they do it right after single Jeopardy.<br>
+							<br>
+							
+						JERRY: Ya, it's much better isn't it?<br>
+							<br>
+							
+						GEORGE: Oh, n-no comparison.<br>
+							<br>
+							
+						JERRY: Hey, I gotta stop off at the bookstore to pick up my parents one of those French-English dictionaries.<br>
+							<br>
+							
+						GEORGE: (stops Jerry realizing something) Hey hey hey hey hey hey.<br>
+							<br>
+							
+						JERRY: What?<br>
+							<br>
+							
+						GEORGE: Your parents are going to Paris right?<br>
+							<br>
+							
+						JERRY: Yea?<br>
+							<br>
+							
+						GEORGE: So I tell Alec that I have to go to Paris for an undetermined amount of time. Then all I have to do is buy some post cards and have your parents mail them from Paris.<br>
+							<br>
+							
+						JERRY: What about little Joey?<br>
+							<br>
+							
+						GEORGE: Who?<br>
+							<br>
+							
+						JERRY: Ah, I think he's probably better off.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Jerry's Apartment]<br>
+							<br>
+							
+						(Morty and Helen are sitting at Jerry's Table; Jerry and George are standing by them)<br>
+							<br>
+							
+						GEORGE: I'm trying to get out of this Big Brother program. So when you get to Paris (handing Morty the postcards) all you have to do is drop 'em in any mailbox.<br>
+							<br>
+							
+						MORTY: But there are no stamps on these.<br>
+							<br>
+							
+						GEORGE: Well no not yet, you gotta buy french stamps (pauses) I-I'll reimburse you of course.<br>
+							<br>
+							
+						HELEN: Why are you doing this?<br>
+							<br>
+							
+						JERRY: He wants this guy to think he's in Paris.<br>
+							<br>
+							
+						HELEN: Why?<br>
+							<br>
+							
+						JERRY: Because George is a deeply disturbed individual.<br>
+							<br>
+							
+						(Kramer enters)<br>
+							<br>
+							
+						KRAMER: Oh hey, Helen uh, Could I uh, use some more of your hand lotion?<br>
+							<br>
+							
+						HELEN: I told you it was good. (hands Kramer the lotion)<br>
+							<br>
+							
+						KRAMER: (putting on the lotion) Ya<br>
+							<br>
+							
+						HELEN: It's from the Saks Fifth Avenue in Miami.<br>
+							<br>
+							
+						KRAMER: Mmm (smelling the lotion as he rubs it in) I'm gonna remember that if I'm ever in Florida.<br>
+							<br>
+							
+						JERRY: Ya, or if you're ever on Fifth Avenue here in New York City, you could get some there.<br>
+							<br>
+							
+						KRAMER: Ya<br>
+							<br>
+							
+						MORTY: Say those are some nice pants. I got a pair just like them at home.<br>
+							<br>
+							
+						KRAMER: Well uh that doesn't surprise me, ya i bought these at Rudy's. It's a used clothing store. See when people like you die, the widows they bring in their wardrobes, they make a bundle.<br>
+							<br>
+							
+						GEORGE: Really? My father has a ton of old clothes just sitting up in the attic, y-you think they're worth something?<br>
+							<br>
+							
+						KRAMER: Ya if they're vintage, and you're a widow.<br>
+							<br>
+							
+						GEORGE: What happens if the husband dies after the wife, who brings in the clothing in then?<br>
+							<br>
+							
+						KRAMER: Well I suppose the children do.<br>
+							<br>
+							
+						GEORGE: (pondering) Yes I suppose they do.<br>
+							<br>
+							
+						KRAMER: (takes another smell of his hands) Alright I gotta a ten o'clock, I'll see everybody later.<br>
+							<br>
+							
+						(Kramer goes to turn the door knob and falls straight to the floor slipping off the knob, then continues to try to open the door with no one really watching; He then uses his coat to get a grip and then smiles and exits)<br>
+							<br>
+							
+						GEORGE: (grabbing his jacket) Hey oo, I just remembered uh my parents really wanna have you guys over for dinner before you leave town. What about tonight?<br>
+							<br>
+							
+						(Morty and Helen look at each other)<br>
+							<br>
+							
+						HELEN: Tonight?<br>
+							<br>
+							
+						GEORGE: Yea they're making Paella.<br>
+							<br>
+							
+						HELEN: (looking at Morty) Uh oh I don't think we think we can make it tonight, (turns toward George) we have plans.<br>
+							<br>
+							
+						JERRY: (watching the whole conversation from his desk) What plans?<br>
+							<br>
+							
+						HELEN: (turns to Jerry) We have plans.<br>
+							<br>
+							
+						JERRY: Where'd you get plans?<br>
+							<br>
+							
+						HELEN: (annoyed) We have plans.<br>
+							<br>
+							
+						GEORGE: Well um, what about tomorrow night?<br>
+							<br>
+							
+						HELEN: (turns back toward George) Maybe<br>
+							<br>
+							
+						GEORGE: Ok uh, I guess I'll tell them that.<br>
+							<br>
+							
+						MORTY: (to George as he is about to leave) Hey give 'em our best though.<br>
+							<br>
+							
+						GEORGE: (quietly) Ya.<br>
+							<br>
+							
+						JERRY: (walking over toward George and the door) I'll call you later.<br>
+							<br>
+							
+						GEORGE: Ya.<br>
+							<br>
+							
+						(George tries to open the door hand slips then he exits; Jerry makes sure the door is closed)<br>
+							<br>
+							
+						JERRY: So what plans do you have?<br>
+							<br>
+							
+						MORTY: None<br>
+							<br>
+							
+						JERRY: So how come you're not going over there for dinner?<br>
+							<br>
+							
+						HELEN: Jerry we don't care much for the Costanzas'.<br>
+							<br>
+							
+						MORTY: We can't stand them.<br>
+							<br>
+							
+						JERRY: Really? Since when?<br>
+							<br>
+							
+						HELEN: Since always. We've never liked them.<br>
+							<br>
+							
+						JERRY: Why?<br>
+							<br>
+							
+						HELEN: Well they're so loud, they're always fighting it's uncomfortable, you never notice?<br>
+							<br>
+							
+						JERRY: No I notice but they're from your age group I didn't know you could detect abnormal behavior among your own kind.<br>
+							<br>
+							
+						MORTY: Well we do.<br>
+							<br>
+							
+						(Buzzer; Jerry goes over to answer it)<br>
+							<br>
+							
+						JERRY: Ya?<br>
+							<br>
+							
+						(Elaine and Aaron are heard laughing on the Intercom)<br>
+							<br>
+							
+						ELAINE: It's us.<br>
+							<br>
+							
+						JERRY: U-oh come on up. (buzzes them up) It's Elaine you don't have a problem with her do you?<br>
+							<br>
+							
+						HELEN: We adore Elaine.<br>
+							<br>
+							
+						JERRY: She wants to say hi, she's with her new boyfriend.<br>
+							<br>
+							
+						HELEN: What's he like?<br>
+							<br>
+							
+						JERRY: He's nice, bit of a close talker.<br>
+							<br>
+							
+						HELEN: A what?<br>
+							<br>
+							
+						JERRY: You'll see. (pause) Boy, I had no idea you felt this way about the Costanzas'<br>
+							<br>
+							
+						HELEN: They're exhausting it's like being in an Asylum.<br>
+							<br>
+							
+						(Elaine and Aaron enter)<br>
+							<br>
+							
+						EVERYONE: Hi.<br>
+							<br>
+							
+						MORTY: Hello Elaine<br>
+							<br>
+							
+						(Morty and Helen give Elaine a hug)<br>
+							<br>
+							
+						ELAINE: This is Aaron.<br>
+							<br>
+							
+						HELEN: Hello Aaron<br>
+							<br>
+							
+						MORTY: Hello.<br>
+							<br>
+							
+						AARON: (getting up in Helen's face) So how long you folks in town?<br>
+							<br>
+							
+						HELEN: Oh, three more days, three more days then we're off to Paris.<br>
+							<br>
+							
+						AARON: Ah<br>
+							<br>
+							
+						MORTY: We're going with a select charter group.<br>
+							<br>
+							
+						AARON: I love France, (moving over to Morty's face) I was just there last year. In fact, you know I still have an envelope full of French Franks, I'll give 'em to ya.<br>
+							<br>
+							
+						HELEN: We can't take money.<br>
+							<br>
+							
+						AARON: Oh, no, it's a gift. (looking toward Elaine) from us.<br>
+							<br>
+							
+						ELAINE: Oh, that is soo nice (very elaborate nice) Aaron. Isn't he nice? (to Helen) So listen has Jerry been showin' you a good time?<br>
+							<br>
+							
+						JERRY: No I haven't.<br>
+							<br>
+							
+						AARON: You know (to Morty) I have a friend who works at the Metropolitan Museum of Art. How would you like a behind the scenes tour?<br>
+							<br>
+							
+						HELEN: (grabbing Aaron) Really, you could do that?<br>
+							<br>
+							
+						AARON: (up in Helen's face) Easily<br>
+							<br>
+							
+						HELEN: I wouldn't be any trouble?<br>
+							<br>
+							
+						AARON: (gets closer) Of course not.<br>
+							<br>
+							
+						HELEN: When would we go?<br>
+							<br>
+							
+						AARON: How about right now?<br>
+							<br>
+							
+						MORTY: I'm ready<br>
+							<br>
+							
+						HELEN: Are you sure?<br>
+							<br>
+							
+						AARON: Yes.<br>
+							<br>
+							
+						HELEN: Ok, let me get my coat.<br>
+							<br>
+							
+						(Helen goes to get her coat)<br>
+							<br>
+							
+						AARON: (walking over to Elaine and getting into her face) Elaine what do you say?<br>
+							<br>
+							
+						ELAINE: W-well I don't think so Aaron, uh, I have plans.<br>
+							<br>
+							
+						AARON: Oh. (getting into Jerry's face) How about you Jerry?<br>
+							<br>
+							
+						JERRY: I'm swamped.<br>
+							<br>
+							
+						AARON: You sure? You could examine the art work up close.<br>
+							<br>
+							
+						JERRY: Maybe I'll try and catch up with you.<br>
+							<br>
+							
+						ELAINE: (under her breath) Ya that'll happen)<br>
+							<br>
+							
+						AARON: (Moving toward the door) Alright. We're off.<br>
+							<br>
+							
+						(Aaron, Helen and Morty heading out the door)<br>
+							<br>
+							
+						MORTY: Ok, bye.<br>
+							<br>
+							
+						HELEN &amp; AARON: Bye.<br>
+							<br>
+							
+						JERRY: Ok buh bye. Have a good time.<br>
+							<br>
+							
+						ELAINE: Bye.<br>
+							<br>
+							
+						AARON: See everybody later (Morty and Helen leave; Aaron closes the door blowing Elaine a kiss)<br>
+							<br>
+							
+						JERRY: Ok.<br>
+							<br>
+							
+						ELAINE: Why would he ask your parents to go to a museum?<br>
+							<br>
+							
+						JERRY: I don't know.<br>
+							<br>
+							
+						ELAINE: What is that?<br>
+							<br>
+							
+						JERRY: Maybe he was just trying to be nice.<br>
+							<br>
+							
+						ELAINE: Have you ever heard of anyone doing anything like this?<br>
+							<br>
+							
+						JERRY: Wait a second, he just did me a big favor.<br>
+							<br>
+							
+						(Jerry walks over to the couch sits down and picks up the phone)<br>
+							<br>
+							
+						ELAINE: What?<br>
+							<br>
+							
+						JERRY: (dialing) He got em out of the house.<br>
+							<br>
+							
+						ELAINE: What?<br>
+							<br>
+							
+						JERRY: Call Rachel.<br>
+							<br>
+							
+						ELAINE: Oh.<br>
+							<br>
+							
+						JERRY: (on the phone) ah no, I got the machine. Rachel! Are you there?! I got the place to myself for a few hours! Rachel! Where are you? Rachel! (hangs up the phone very disappointed)<br>
+							<br>
+							
+						ELAINE: (putting on lipstick) Sorry pal, wish I could help you out.<br>
+							<br>
+							
+						(Elaine kisses at Jerry; Jerry looks at her in disgust)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Costanza House]<br>
+							<br>
+							
+						FRANK: They're not coming?<br>
+							<br>
+							
+						GEORGE: No, they had plans.<br>
+							<br>
+							
+						ESTELLE: How could they have plans?<br>
+							<br>
+							
+						GEORGE: That's what I wanna know.<br>
+							<br>
+							
+						FRANK: Well what difference does it make? They wouldn't lie to us, they're are dear friends.<br>
+							<br>
+							
+						ESTELLE: What am I supposed to do with all this Paella?<br>
+							<br>
+							
+						GEORGE: They said tomorrow, maybe.<br>
+							<br>
+							
+						FRANK: Maybe?<br>
+							<br>
+							
+						ESTELLE: Maybe they don't like us.<br>
+							<br>
+							
+						FRANK: Why wouldn't they like us? (tastes the Paella; disgusted) Again with the pepper? What do you gotta use all the pepper for?<br>
+							<br>
+							
+						ESTELLE: Ah keep quiet.<br>
+							<br>
+							
+						FRANK: What are you trying to set my mouth on fire?<br>
+							<br>
+							
+						GEORGE: I don't know what the reason could be.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Jerry's Apartment]<br>
+							<br>
+							
+						(Morty, Helen and Aaron enter)<br>
+							<br>
+							
+						JERRY: (disappointed) Oh, Hi, hi.<br>
+							<br>
+							
+						AARON: Ah Jerry you would not believe the time we had.<br>
+							<br>
+							
+						HELEN: Aaron is quite the tour guide.<br>
+							<br>
+							
+						MORTY: Jerry have you ever seen any of those impressionist paintings?<br>
+							<br>
+							
+						JERRY: Oh sure like Monet.<br>
+							<br>
+							
+						MORTY: Don't you think he had to be uh near sighted? I mean know body would paint like that if they could see. It's all out of focus.<br>
+							<br>
+							
+						JERRY: Well he's from the impressionist school, you know like Monet, Manet, Tippi Tippi Dayday.<br>
+							<br>
+							
+						MORTY: I say the guy was painting without his glasses.<br>
+							<br>
+							
+						(phone rings)<br>
+							<br>
+							
+						JERRY: (answering phone) Hello? Rachel, ya uh no they're back.<br>
+							<br>
+							
+						HELEN: Jerry if you have something to do we could just sit right here and read.<br>
+							<br>
+							
+						JERRY: Uh haha ya well uh I'm sorry too I'll call you later, ok bye (hangs phone up)<br>
+							<br>
+							
+						AARON: Well I should be going.<br>
+							<br>
+							
+						HELEN: Oh thanks again.<br>
+							<br>
+							
+						AARON &amp; HELEN: Buh bye.<br>
+							<br>
+							
+						(Kramer enters)<br>
+							<br>
+							
+						AARON: Oh you must be Kramer (advances on Kramer to close to his face Kramer walks back into the fridge to avoid him and falls to the ground) I've heard about you.<br>
+							<br>
+							
+						KRAMER: You must be Aaron, I've heard about you.<br>
+							<br>
+							
+						AARON: (Laughing) Well see you later.<br>
+							<br>
+							
+						KRAMER: Yeah.<br>
+							<br>
+							
+						AARON: (leaving) Bye<br>
+							<br>
+							
+						JERRY: Bye<br>
+							<br>
+							
+						KRAMER: So uh what are you guys doing for dinner?<br>
+							<br>
+							
+						HELEN: We have no plans.<br>
+							<br>
+							
+						MORTY: (noticing Kramer's coat) Look at that, Helen do you see what he's wearing? That's the Executive.<br>
+							<br>
+							
+						KRAMER: Now what is Executive?<br>
+							<br>
+							
+						JERRY: The belt-less trench coat. My father invented it.<br>
+							<br>
+							
+						MORTY: I sure did. Raincoats were my business. The Executive was a classic, these haven't been made in twenty years.<br>
+							<br>
+							
+						HELEN: Why would they? Know body bought them then.<br>
+							<br>
+							
+						MORTY: He's wearing one.<br>
+							<br>
+							
+						KRAMER: Yea these are a hot item over at Rudy's.<br>
+							<br>
+							
+						MORTY: You don't say? You know I have boxes of those sitting in my garage in Florida?<br>
+							<br>
+							
+						KRAMER: Get 'em up here. You give me twenty-five percent I-I'll take care of everything.<br>
+							<br>
+							
+						MORTY: You gotta deal.<br>
+							<br>
+							
+						(Kramer and Morty shake hands)<br>
+							<br>
+							
+						KRAMER: Yaaaa.<br>
+							<br>
+							
+						JERRY: This is like the meeting of Smith and Wesson.<br>
+							<br>
+							
+						MORTY: I'll call Jack Klompus, he's got a key to the garage. He can send them overnight delivery.<br>
+							<br>
+							
+						HELEN: You're gonna first start shipping boxes? We're leaving for Paris in three days.<br>
+							<br>
+							
+						MORTY: He'll send them express.<br>
+							<br>
+							
+						HELEN: You're crazy.<br>
+							<br>
+							
+						MORTY: I'll tell you how crazy I am, I'm gonna pay for this whole trip with these coats.<br>
+							<br>
+							
+						JERRY: N-na I'm paying for the trip.<br>
+							<br>
+							
+						MORTY: So much the better.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Monk's]<br>
+							<br>
+							
+						(George and Alec are sitting at the booth closest to the door)<br>
+							<br>
+							
+						GEORGE: Anyway it's kind of a fluke thing but uh I'll be leaving for Paris in two days. I will send you a postcard when I get there.<br>
+							<br>
+							
+						ALEC: Paris huh?<br>
+							<br>
+							
+						GEORGE: Yea, ya..ya know I feel terrible about Joey but it's jus..it's a great business opportunity. I-I don't even know how long I'm gonna be away for.<br>
+							<br>
+							
+						ALEC: Where will you stay?<br>
+							<br>
+							
+						GEORGE: An apartment complex, the uh the Eiffel Towers. uumm Like I said uh you'll be getting a postcard uh in a few days and again I'm sorry.<br>
+							<br>
+							
+						ALEC: George, you have no idea how fantastic this is.<br>
+							<br>
+							
+						GEORGE: Fantastic?<br>
+							<br>
+							
+						ALEC: Ya, we've been trying to reunite Joey with his father who lives in Paris. But he's afraid to fly alone, you know he's kinda withdrawn, but he seems to take to you. (George smiling in surprise) So it's a perfect solution.<br>
+							<br>
+							
+						GEORGE: How gee what a coincidence.<br>
+							<br>
+							
+						ALEC: And you'll send me a postcard.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Elaine's Apartment]<br>
+							<br>
+							
+						(Elaine and Aaron lying in bed)<br>
+							<br>
+							
+						AARON: Helen really seemed to respond to Renoir. I think she really connected to the way he painted children.<br>
+							<br>
+							
+						ELAINE: Mm hmm.<br>
+							<br>
+							
+						AARON: And that Morty, I'll tell ya that guy is full of life. (laughs) He was convinced Monet was near sighted. I kept telling him<br>
+							<br>
+							
+						ELAINE: Aaron<br>
+							<br>
+							
+						AARON: Yes?<br>
+							<br>
+							
+						ELAINE: Uh, let me ask you a question. How come you asked Mr. and Mrs. Seinfeld to go to the museum with you?<br>
+							<br>
+							
+						AARON: Well, they were in from out of town, I thought they would enjoy it.<br>
+							<br>
+							
+						ELAINE: Uhuh, um you didn't feel uncomfortable spending the whole day at the museum with two complete strangers who were more than twice your age?<br>
+							<br>
+							
+						AARON: No, it was fun.<br>
+							<br>
+							
+						ELAINE: You had fun with Mr. and Mrs. Seinfeld.<br>
+							<br>
+							
+						AARON: Yea, they bought me a coke.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Jerry's Apartment]<br>
+							<br>
+							
+						(Morty and Jerry are sitting at his table; Kramer is standing next to Morty; Helen is getting the fold out sofa ready to sleep)<br>
+							<br>
+							
+						KRAMER: So how'd you come up with the idea for the belt-less trench coat?<br>
+							<br>
+							
+						MORTY: I came home one night, and I tripped over one of Jerry's toys. (Jerry smiling points to himself and nods with cards in his hands) So I took out my belt just to threaten him, and I got a glimpse of myself in the mirror.<br>
+							<br>
+							
+						KRAMER: How serendipitous.<br>
+							<br>
+							
+						MORTY: So that night I cut off the loops and the Executive was born.<br>
+							<br>
+							
+						KRAMER: Mmm<br>
+							<br>
+							
+						JERRY: He also came up with an idea for a brimless rain-hat but that never materialized. (to Morty) Alright come on let's play.<br>
+							<br>
+							
+						KRAMER: Did you call Jack Klompus yet?<br>
+							<br>
+							
+						MORTY: I haven't been able to reach him. Hey I'll call him right now.<br>
+							<br>
+							
+						JERRY: Ah come on.<br>
+							<br>
+							
+						MORTY: Just a second. (Goes to grab the phone)<br>
+							<br>
+							
+						HELEN: Jerry have you seen Schindler's List?<br>
+							<br>
+							
+						JERRY: No I haven't seen it yet.<br>
+							<br>
+							
+						HELEN: Oh you have to go you have to<br>
+							<br>
+							
+						JERRY: I'm going<br>
+							<br>
+							
+						HELEN: You have to<br>
+							<br>
+							
+						JERRY: Ok<br>
+							<br>
+							
+						MORTY: (on the phone) Hello Jack.<br>
+							<br>
+							
+						(Jack in Florida)<br>
+							<br>
+							
+						JACK: Ya<br>
+							<br>
+							
+						MORTY: It's Morty<br>
+							<br>
+							
+						JACK: Who died?<br>
+							<br>
+							
+						MORTY: Know body died. Jack I want you to do me a big favor. (Jerry holding up some cards looking at his father) In my garage there are a couple of boxes.<br>
+							<br>
+							
+						JACK: What boxes?<br>
+							<br>
+							
+						MORTY: I'm gonna explain what boxes.<br>
+							<br>
+							
+						JACK: Alright how the hell do I know?<br>
+							<br>
+							
+						MORTY: Anyway there are these three big boxes, you can't miss them. I want you to ship them here to New York for me.<br>
+							<br>
+							
+						JACK: I thought you're going to Paris<br>
+							<br>
+							
+						MORTY: I'm still going to Paris. I got a big deal cooking here.<br>
+							<br>
+							
+						JACK: What's in the boxes?<br>
+							<br>
+							
+						MORTY: Raincoats.<br>
+							<br>
+							
+						JACK: Raincoats? (Doris sighs) You think you're gonna sell those old crappy raincoats? That's garbage.<br>
+							<br>
+							
+						HELEN: I guarantee you Doris is not letting him mail those boxes.<br>
+							<br>
+							
+						JACK: When do you want these?<br>
+							<br>
+							
+						MORTY: Send them tomorrow.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Costanza House)<br>
+							<br>
+							
+						(George, Estelle and Frank are sitting at the table for breakfast all still in what they slept in)<br>
+							<br>
+							
+						ESTELLE: You think they're coming tonight?<br>
+							<br>
+							
+						GEORGE: I dunno they said maybe.<br>
+							<br>
+							
+						FRANK: Of course they're coming, they're leaving soon. If they don't come tonight they might not see us.<br>
+							<br>
+							
+						ESTELLE: Well they better come, I got all this Paella.<br>
+							<br>
+							
+						FRANK: I admire Morty and Helen going to France. We should take a trip, maybe a cruise.<br>
+							<br>
+							
+						GEORGE: Yes a cruise, a long cruise, just the two of you.<br>
+							<br>
+							
+						ESTELLE: Georgie what were you doing poking around the attic last night?<br>
+							<br>
+							
+						GEORGE: I-I wasn't in the attic.<br>
+							<br>
+							
+						ESTELLE: I heard noise.<br>
+							<br>
+							
+						GEORGE: Maybe it was a mouse.<br>
+							<br>
+							
+						FRANK: (jumping to his feet) OK that's it! We're moving!<br>
+							<br>
+							
+						GEORGE: What?<br>
+							<br>
+							
+						FRANK: I will not tolerate infestation.<br>
+							<br>
+							
+						GEORGE: You haven't even seen one.<br>
+							<br>
+							
+						FRANK: Don't you understand the very thought, the very idea, I'll never be comfortable again.<br>
+							<br>
+							
+						ESTELLE: Alright Frank that's enough.<br>
+							<br>
+							
+						(Frank sits back down)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Rudy's Antique Boutique]<br>
+							<br>
+							
+						(Rudy is checking out the clothes)<br>
+							<br>
+							
+						GEORGE: I guess I've been hanging on to them for so long cuz i couldn't accept the fact that Dad was really gone forever (hugs a piece of clothing)<br>
+							<br>
+							
+						RUDY: Uh huh.<br>
+							<br>
+							
+						GEORGE: They will get a good home won't they?<br>
+							<br>
+							
+						RUDY: Look I gotta be honest with you there's nothing here too spectacular.<br>
+							<br>
+							
+						GEORGE: Oh I beg to differ. My father took great pride in his appearance, he was a very handsome man, a casanova really.<br>
+							<br>
+							
+						RUDY: I'll give you uh two-hundred dollars for the three boxes.<br>
+							<br>
+							
+						GEORGE: Could you make it two-twenty-five that was his hi-game in bowling.<br>
+							<br>
+							
+						RUDY: Yea I'm in a good mood here.<br>
+							<br>
+							
+						GEORGE: Thank you.<br>
+							<br>
+							
+						(Kramer enters)<br>
+							<br>
+							
+						KRAMER: Hey, George what are you doing here?<br>
+							<br>
+							
+						GEORGE: Uh, I'm just selling some of Dad's things, (looking into Kramer's eyes) that's what he would have wanted.<br>
+							<br>
+							
+						KRAMER: Oh, I gotcha (clicks)<br>
+							<br>
+							
+						GEORGE: (leaving) That'll do.<br>
+							<br>
+							
+						KRAMER: Oh hey guess what. Morty Seinfeld and I are going into business together, selling raincoats.<br>
+							<br>
+							
+						GEORGE: Hey that's swell.<br>
+							<br>
+							
+						KRAMER: Yea we worked it out all over dinner last night.<br>
+							<br>
+							
+						GEORGE: Dinner? (grabs Kramer)<br>
+							<br>
+							
+						KRAMER: Ya.<br>
+							<br>
+							
+						GEORGE: You had dinner with the Seinfelds'?<br>
+							<br>
+							
+						KRAMER: Yea, last night.<br>
+							<br>
+							
+						GEORGE: Was this something you had planned for a while?<br>
+							<br>
+							
+						KRAMER: No it was a spur of the moment. Well you know Morty likes to fly by the seat of his vintage pants.<br>
+							<br>
+							
+						GEORGE: (hurriedly leaves Rudy's) They had plans, They had plans!<br>
+							<br>
+							
+						KRAMER: Oooo, boy I've never seen these before (looking at the clothes George just sold Rudy)<br>
+							<br>
+							
+						RUDY: Well they just came in, part of my spring-time cruise collection. Two for twenty-five dollars.<br>
+							<br>
+							
+						KRAMER: Oh I'll take these.<br>
+							<br>
+							
+						RUDY: Alright<br>
+							<br>
+							
+						KRAMER: Hey, remember this raincoat that you sold me?<br>
+							<br>
+							
+						RUDY: Sure that's the Executive.<br>
+							<br>
+							
+						KRAMER: Ya, you have any others?<br>
+							<br>
+							
+						RUDY: I wish, they don't make 'em anymore.<br>
+							<br>
+							
+						KRAMER: Suppose I told you I had fifty in mint condition, would you be interested?<br>
+							<br>
+							
+						RUDY: Very interested<br>
+							<br>
+							
+						KRAMER: Cuz they're coming in from Florida as we speak.<br>
+							<br>
+							
+						RUDY: Well bring 'em in.<br>
+							<br>
+							
+						KRAMER: So you'll buy them?<br>
+							<br>
+							
+						RUDY: I don't see what would possibly stop me.<br>
+							<br>
+							
+						(Out of one of the boxes George sold Rudy flies a couple of moths as the scene ends)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Jerry's Apartment]<br>
+							<br>
+							
+						(George enters)<br>
+							<br>
+							
+						GEORGE: Aaaa (looking around for Jerry) aaaa (finds Jerry) Ah ha. They had plans huh? They were busy. They were busy with their (doing a little dance to make the plans seem all that important) big plans!<br>
+							<br>
+							
+						JERRY: What are you talking about?<br>
+							<br>
+							
+						GEORGE: Mom and Pop Seinfeld<br>
+							<br>
+							
+						JERRY: Look I don't know.<br>
+							<br>
+							
+						GEORGE: Alright I happen to know what they did last night, they had dinner with Kramer.<br>
+							<br>
+							
+						JERRY: Oh they were tired it was a last minute thing.<br>
+							<br>
+							
+						GEORGE: So what's the deal they don't want to have dinner with my parents?<br>
+							<br>
+							
+						JERRY: That's right.<br>
+							<br>
+							
+						GEORGE: Is there something wrong with my parents?<br>
+							<br>
+							
+						JERRY: Absolutely<br>
+							<br>
+							
+						GEORGE: Because my parents happen to be two pretty wonderful people.<br>
+							<br>
+							
+						JERRY: These the people you currently live with?<br>
+							<br>
+							
+						GEORGE: Yes.<br>
+							<br>
+							
+						JERRY: Uh huh<br>
+							<br>
+							
+						GEORGE: So are they coming tonight or not?<br>
+							<br>
+							
+						JERRY: Look I really don't know what they're plans are.<br>
+							<br>
+							
+						GEORGE: Ok, fine. It's going to be very interesting, very interesting if they don't show up tonight. You know my mother made all this Paella.<br>
+							<br>
+							
+						JERRY: What is that anyway?<br>
+							<br>
+							
+						GEORGE: It's a spanish dish. It's a moulage of fish, an meat with rice. Very tasty.<br>
+							<br>
+							
+						JERRY: I-I'll tell 'em<br>
+							<br>
+							
+						GEORGE: Hey could you do one other thing for me?<br>
+							<br>
+							
+						JERRY: Name it.<br>
+							<br>
+							
+						GEORGE: You think your parents would have any objections to taking a little kid to Paris with them? (Jerry looks at him confused) It turns out that the kid's father lives in Paris. (chuckling) Is that a coincidence? (Jerry smilies) Eh you know Alec wants me to take him over there so I figure as long as they're going (claps)<br>
+							<br>
+							
+						JERRY: So you thought as long as they're mailing postcards, it wouldn't be too much to ask my parents to drag a child who they've never seen, through the streets of Paris?<br>
+							<br>
+							
+						GEORGE: (pause) Alright if you think it's too much they don't have to mail the postcards.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Elaine's Office]<br>
+							<br>
+							
+						(Elaine at her desk; Joanna standing near the door)<br>
+							<br>
+							
+						JOANNE: So where's he taking you?<br>
+							<br>
+							
+						ELAINE: Well first we're going to a matin&eacute;e, I'm taking the afternoon off, we're gonna go see &quot;My Fair Lady&quot; and they we are gonna go to dinner. He knows all these fantastic places.<br>
+							<br>
+							
+						JOANNE: You are one lucky girl. (Elaine laughs in happiness) Wish I could find a nice guy. (Joanne goes to leave; Aaron enters) Hi Aaron.<br>
+							<br>
+							
+						AARON: (getting up in Aaron's face) Hey Joanne. (turns to Elaine and goes over to her) Hey<br>
+							<br>
+							
+						ELAINE: (already out from behind her desk goes to Aaron) Hi<br>
+							<br>
+							
+						(Elaine and Aaron kiss)<br>
+							<br>
+							
+						(Enter Helen)<br>
+							<br>
+							
+						HELEN: Hello, Hello.<br>
+							<br>
+							
+						(Enter Morty)<br>
+							<br>
+							
+						MORTY: Hello Elaine<br>
+							<br>
+							
+						(Morty gives Elaine a kiss; Elaine is in shock)<br>
+							<br>
+							
+						AARON: I was able to finagle two more tickets to &quot;My Fair Lady&quot; and I thought why not ask Morty and Helen.<br>
+							<br>
+							
+						ELAINE: Oh, Great.<br>
+							<br>
+							
+						MORTY: (looking around) This is some office. What's the square footage?<br>
+							<br>
+							
+						HELEN: You don't mind to you Elaine?<br>
+							<br>
+							
+						ELAINE: Mind? Oh o-of course not.<br>
+							<br>
+							
+						AARON: We can make a whole day of it.<br>
+							<br>
+							
+						MORTY: This is some building, Harry Fleming used to have an office here. There was a deli on the first floor. You don't get corned beef like that anymore. What happened to that deli?<br>
+							<br>
+							
+						ELAINE: (somewhat annoyed) I really don't know Mr. Seinfeld<br>
+							<br>
+							<br>
+							<br>
+							
+						[Collection of Scenes with the music and singing from &quot;My Fair Lady&quot; over them. First the matin&eacute;e where we see (from left to right) Helen, Morty, Elaine and Aaron. Morty opens a candy bar takes a bite then offers it to Elaine then Aaron who takes it as the scene changes to the Cafe 123. At the restaurant we see (from left to right) Morty, Elaine, Helen and Aaron. Morty is pointing at a painting while talking to Elaine then takes off his glasses. Next George is seen getting ready to hop into a cab when Morty, Elaine, Aaron and Helen ride by in a horse drawn carriage (Handsome Cab) drinking champaign. George then smacks the top of the cab in disgust]<br>
+							
+						(song from &quot;My Fair Lady&quot;) &quot;I could have danced all night, I could have danced all night, and still have begged for more. I could have spread my wings, and done a thousand things, I've never done before. I never know what made it so exciting, but all at once my heart would fly&quot;<br>
+							<br>
+							<br>
+							<br>
+							
+						[Jerry's Apartment]<br>
+							<br>
+							
+						(Jerry and Rachel making out on Jerry's couch)<br>
+							<br>
+							
+						JERRY: (stopping them) We better not. (they make out some more; then stop) T-They're gonna be here any second.<br>
+							<br>
+							
+						RACHEL: When are they leaving?<br>
+							<br>
+							
+						JERRY: In two days.<br>
+							<br>
+							
+						RACHEL: It's been soo long.<br>
+							<br>
+							
+						JERRY: I know.<br>
+							<br>
+							
+						RACHEL: Ok, it's only two more days.<br>
+							<br>
+							
+						(They both run their hands through their hair)<br>
+							<br>
+							
+						JERRY: Right, Thursday three o'clock.<br>
+							<br>
+							
+						MORTY: (from outside the door; singing) I could have danced all night (entering with Helen) I could have danced all night and still have<br>
+							<br>
+							
+						HELEN: Ooh.<br>
+							<br>
+							
+						JERRY: Oh Hi.<br>
+							<br>
+							
+						HELEN: We didn't know you had company.<br>
+							<br>
+							
+						JERRY: (tucking in his shirt) Oh ya this is Rachel.<br>
+							<br>
+							
+						RACHEL: Hi.<br>
+							<br>
+							
+						HELEN &amp; MORTY: Hello Rachel.<br>
+							<br>
+							
+						HELEN: Uh we'll come back another time.<br>
+							<br>
+							
+						JERRY: What other time?<br>
+							<br>
+							
+						HELEN: Whenever<br>
+							<br>
+							
+						JERRY: Where you goin'?<br>
+							<br>
+							
+						MORTY: Uh we'll drive around for a while.<br>
+							<br>
+							
+						JERRY: You don't have a car.<br>
+							<br>
+							
+						MORTY: We'll take a bus.<br>
+							<br>
+							
+						JERRY: Come on stop.<br>
+							<br>
+							
+						HELEN: No we don't mind<br>
+							<br>
+							
+						MORTY: I'll get a book.<br>
+							<br>
+							
+						RACHEL: No no it's ok, I was just leaving anyway.<br>
+							<br>
+							
+						HELEN: O-oh are you sure?<br>
+							<br>
+							
+						RACHEL: Yea.<br>
+							<br>
+							
+						HELEN: Cuz we don't wann..<br>
+							<br>
+							
+						JERRY: (interrupting) No no it's ok. (walking Rachel out) So we'll go see Schindler's List later right?<br>
+							<br>
+							
+						RACHEL: Definitely<br>
+							<br>
+							
+						JERRY: Ok. Uh<br>
+							<br>
+							
+						RACHEL: (going out the door) It's night meeting you.<br>
+							<br>
+							
+						HELEN: Nice meeting you.<br>
+							<br>
+							
+						JERRY: Ok, see you later.<br>
+							<br>
+							
+						MORTY: Boy that was some show.<br>
+							<br>
+							
+						JERRY: What show?<br>
+							<br>
+							
+						MORTY: &quot;My Fair Lady&quot;<br>
+							<br>
+							
+						JERRY: When did you get tickets to see that?<br>
+							<br>
+							
+						HELEN: Aaron surprised us, and Elaine came.<br>
+							<br>
+							
+						JERRY: Oh (laughing) Elaine really? Well that sounds interesting.<br>
+							<br>
+							
+						MORTY: We saw Regis Philbin get out of a limousine.<br>
+							<br>
+							
+						JERRY: Oh.<br>
+							<br>
+							
+						HELEN: He looks better on TV.<br>
+							<br>
+							
+						JERRY: Oh<br>
+							<br>
+							
+						(Phone rings)<br>
+							<br>
+							
+						JERRY: (answering phone) Hello?<br>
+							<br>
+							
+						(Jack Klompus in Florida)<br>
+							<br>
+							
+						JACK: Hello Jerry,<br>
+							<br>
+							
+						JERRY: Yea.<br>
+							<br>
+							
+						JACK: It's Jack Klompus.<br>
+							<br>
+							
+						JERRY: Oh hi Jack.<br>
+							<br>
+							
+						JACK: So when are you coming down to Florida again?<br>
+							<br>
+							
+						JERRY: As soon as is humanly possible.<br>
+							<br>
+							
+						JACK: You know I still got that pen, the one that writes upside down.<br>
+							<br>
+							
+						JERRY: Yea yea ya I shoulda kept it.<br>
+							<br>
+							
+						JACK: So uh where's your father?<br>
+							<br>
+							
+						JERRY: Ya he's right here.<br>
+							<br>
+							
+						(Jerry hands Morty the phone)<br>
+							<br>
+							
+						MORTY: Yea<br>
+							<br>
+							
+						JACK: Morty, listen I can't get into the garage.<br>
+							<br>
+							
+						MORTY: What do you mean?<br>
+							<br>
+							
+						JACK: There is something wrong with the key. The key doesn't work<br>
+							<br>
+							
+						MORTY: You gotta jiggle it a little bit. I jiggled it. I jiggled it for fifteen minutes.<br>
+							<br>
+							
+						(Doris enters the scene with Jack)<br>
+							<br>
+							
+						DORIS: Tell him to come down here and get his own packages. You have nothing better to do then worry about his boxes.<br>
+							<br>
+							
+						MORTY: You gotta pull on the knob as you turn it.<br>
+							<br>
+							
+						JACK: Get the hell outta here with your knob.<br>
+							<br>
+							
+						DORIS: What does he want from you?<br>
+							<br>
+							
+						MORTY: My idiot son could open that garage door.<br>
+							<br>
+							
+						JERRY: What did I do?<br>
+							<br>
+							
+						MORTY: Just do it first thing tomorrow. I need it.<br>
+							<br>
+							
+						(Jack is seen hanging up his phone)<br>
+							<br>
+							
+						MORTY: They'll be here first thing Thursday morning.<br>
+							<br>
+							
+						HELEN: Thursday morning? You know we're leaving at three o'clock.<br>
+							<br>
+							
+						JERRY: (in a hurry) Yea you're leaving at three o'clock.<br>
+							<br>
+							
+						HELEN: How are you gonna get all this done in time?<br>
+							<br>
+							
+						MORTY: Don't worry about it.<br>
+							<br>
+							
+						JERRY: (in a hurry) Ya how you gonna get all this done in time?<br>
+							<br>
+							<br>
+							<br>
+							
+						[Costanza House]<br>
+							<br>
+							
+						(George, Estelle and Frank all standing in the kitchen)<br>
+							<br>
+							
+						GEORGE: They were drinking champaign in a buggy!<br>
+							<br>
+							
+						FRANK: First Kramer, then Elaine?<br>
+							<br>
+							
+						GEORGE: Yea<br>
+							<br>
+							
+						FRANK: It's a slap in the face.<br>
+							<br>
+							
+						ESTELLE: (with her arms out in wonder) What did we ever do to them? (George puts his arms out and imitates Estelle as she moves her arms up and down as she speaks) I want to know what we did them!<br>
+							<br>
+							
+						FRANK: What are they too good for us? A raincoat salesman, I could buy and sell 'em like that.<br>
+							<br>
+							
+						(Frank leaves the kitchen and moves into the living room)<br>
+							<br>
+							
+						ESTELLE: The hell with them.<br>
+							<br>
+							
+						GEORGE: (in the threshold between the living room and the kitchen) The thing that bothers me the most, is the lying.<br>
+							<br>
+							
+						(George and Estelle move their way into the living room)<br>
+							<br>
+							
+						FRANK: Let's forget about it. We're going on a beautiful vacation. (sits down in his chair)<br>
+							<br>
+							
+						GEORGE: (sitting down) Vacation?<br>
+							<br>
+							
+						FRANK: You're mother and I are planning on taking a cruise.<br>
+							<br>
+							
+						(Estelle is already sitting next to George on the couch)<br>
+							<br>
+							
+						GEORGE: (claps all happy) AH! (half hugs Estelle)<br>
+							<br>
+							
+						FRANK: But I can't find any vacation clothes. They were in the attic.<br>
+							<br>
+							
+						GEORGE: The attic? Y-you haven't wore any of those clothes for years.<br>
+							<br>
+							
+						FRANK: How can I go on a cruise with out my cabana wear? I love those, those clothes. (Looks down yells) AH! (jumps out of his chair) A mouse! I saw a mouse! (takes off into another room with glass doors on it and shuts the door)<br>
+							<br>
+							
+						GEORGE: (picking up what Frank saw as a mouse) It's the remote.<br>
+							<br>
+							
+						FRANK: (looking from the room; you can see him through the glass) Where the hell are my clothes? I love those clothes.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Ally outside Rudy's]<br>
+							<br>
+							
+						(Rudy has a gasoline bottle and is burning some clothes)<br>
+							<br>
+							
+						RUDY: Lousy moth ridden crap.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Median Monologue]<br>
+							<br>
+							
+						I-I-I'm not crazy about used clothes. I mean they call it vintage, you know to take your mind off of what it really is 'nasty wear.' Oh it's clean you know people wear underwear, ya well they don't wear iron underwear and that's what it's gonna take to get me in those clothes. I mean I'll move into an apartment after a strange person moves out, why would I wanna move into somebody's pants? There is no vintage underwear of course, but it's not because the guy couldn't sell his underwear, it's because men wear their underwear until it absolutely disintegrates. Men hang on to underwear until, until each individual underwear molecule is so strained it can barely retain the properties of a solid. It actually becomes underwear vapor. W-we don't even throw it out, we just open a window and it goes out like dandelion spoors. That's how men throw out underwear we just go (blows on the mic) and it's gone that it is jus.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Movie Theater: Schindler's List]<br>
+							<br>
+							
+						(Schindler's List is playing as Jerry and Rachel are making out. Newman is then seen disgusted by this display)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Jerry's Apartment]<br>
+							<br>
+							
+						(Jerry Enters; Morty and Helen are sitting at the table with a map out)<br>
+							<br>
+							
+						JERRY: Hey.<br>
+							<br>
+							
+						MORTY: Hey, Jerry.<br>
+							<br>
+							
+						HELEN: So how was the movie?<br>
+							<br>
+							
+						JERRY: Oh, really good, really good.<br>
+							<br>
+							
+						HELEN: And didn't the three hours go by just like that (snaps her fingers)<br>
+							<br>
+							
+						JERRY: Like that (snaps his fingers)<br>
+							<br>
+							
+						MORTY: What about the end, with the list?<br>
+							<br>
+							
+						JERRY: Ya that was some list.<br>
+							<br>
+							
+						HELEN: What did you think about the black and white?<br>
+							<br>
+							
+						JERRY: (confused) The black and white.<br>
+							<br>
+							
+						MORTY: The whole movie was in black and white.<br>
+							<br>
+							
+						JERRY: Oh yea, I didn't even realize.<br>
+							<br>
+							
+						MORTY: You don't even think about it, there's so much going on.<br>
+							<br>
+							
+						JERRY: Ya ya, I tell ya I could see it again.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Rudy's Antique Boutique]<br>
+							<br>
+							
+						KRAMER: So Klompus has the key, but the jerk couldn't open it up. All you gotta do it jiggle it (has is hand out jiggling) jus get it in there (jiggling making a bunch of noises) jigg jigg jiggle reiggle<br>
+							<br>
+							
+						RUDY: Look, I find this whole thing very uninteresting. When you get the coats come in.<br>
+							<br>
+							
+						KRAMER; Ya hey I'm on your side.<br>
+							<br>
+							
+						(George enters)<br>
+							<br>
+							
+						KRAMER: Hey what again?<br>
+							<br>
+							
+						GEORGE: I'm trying to buy some of the clothes back. (realizing something) Hey you wanna come over for dinner tonight? My mother made all this extra Paella.<br>
+							<br>
+							
+						KRAMER: Paella, ya I'll be there.<br>
+							<br>
+							
+						GEORGE: Apparently the Seinfelds' are too good for us. I shouldn't say anything bad about your uh your partner.<br>
+							<br>
+							
+						KRAMER: No no you know we're not partners. I only get twenty-five percent.<br>
+							<br>
+							
+						GEORGE: Twenty-five percent? It was your idea.<br>
+							<br>
+							
+						KRAMER: Yap I know.<br>
+							<br>
+							
+						GEORGE: You're doing all the leg work.<br>
+							<br>
+							
+						KRAMER: That's right<br>
+							<br>
+							
+						GEORGE: He's ripping you off<br>
+							<br>
+							
+						KRAMER: You're right he's ripping me off<br>
+							<br>
+							
+						GEORGE: If anybody should be getting more it's you.<br>
+							<br>
+							
+						KRAMER: He's ripping me off<br>
+							<br>
+							
+						GEORGE: Well don't let him take advantage of you like that.<br>
+							<br>
+							
+						KRAMER: YAH! (exits)<br>
+							<br>
+							
+						RUDY: (coming out of the back-room noticing George) Oh it's you? You're the one who sold me the moth ridden cabana crap.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Jerry's Apartment]<br>
+							<br>
+							
+						(Morty coming out of the bathroom)<br>
+							<br>
+							
+						MORTY: You know I've been thinking, why is Kramer getting twenty-five percent?<br>
+							<br>
+							
+						HELEN: Well he told you about the place.<br>
+							<br>
+							
+						MORTY: So what, why is that worth twenty-five percent? It's a finders fee. You know what a finders fee is?<br>
+							<br>
+							
+						HELEN: You find something you get a fee.<br>
+							<br>
+							
+						MORTY: Finder's fee is ten percent and no more.<br>
+							<br>
+							
+						HELEN: Well it's too late now.<br>
+							<br>
+							
+						MORTY: Those are my coats. I saved them, I stored them, I've been waiting years for this pay off.<br>
+							<br>
+							
+						HELEN: Well you're not gonna say anything.<br>
+							<br>
+							
+						(Kramer enters)<br>
+							<br>
+							
+						KRAMER: I've been thinking about something.<br>
+							<br>
+							
+						MORTY: Ya so have I<br>
+							<br>
+							
+						KRAMER: Ahh! I don't think the deal is fair.<br>
+							<br>
+							
+						MORTY: You don't think it's fair.<br>
+							<br>
+							
+						KRAMER: No no, I found the place, I set the whole thing up, I'm doing all the leg work.<br>
+							<br>
+							
+						MORTY: What leg work?<br>
+							<br>
+							
+						KRAMER: Oh, there's leg work.<br>
+							<br>
+							
+						MORTY: If anything you're getting too much.<br>
+							<br>
+							
+						KRAMER: Too much?!<br>
+							<br>
+							
+						MORTY: That's right, they're my coats.<br>
+							<br>
+							
+						KRAMER: Look I want thirty-five percent.<br>
+							<br>
+							
+						MORTY: I'm thinking more like fifteen.<br>
+							<br>
+							
+						KRAMER: No way I'm taking fifteen.<br>
+							<br>
+							
+						MORTY: Well you're not getting thirty-five.<br>
+							<br>
+							
+						KRAMER: Alright let's compromise. Twenty-five percent.<br>
+							<br>
+							
+						MORTY: Ok it's a deal<br>
+							<br>
+							
+						(They shack hands.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Rudy's Antique Boutique]<br>
+							<br>
+							
+						RUDY: Moths are a discourage to my business, all it takes is one moth to lay eggs. You know what happens to the larvae? They hatch and they're everywhere.<br>
+							<br>
+							
+						GEORGE: I'm sorry, umm he-here's your money back (gives Rudy the money back) I-I-I'll have the clothes.<br>
+							<br>
+							
+						RUDY: (counting the money to make sure it's all there) It's already put a dent in my fumigation bill.<br>
+							<br>
+							
+						GEORGE: So uh where are the clothes?<br>
+							<br>
+							
+						RUDY: I burned 'em.<br>
+							<br>
+							
+						GEORGE: Oh. That's good.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Monk's]<br>
+							<br>
+							
+						(Jerry and Elaine sitting in the booth)<br>
+							<br>
+							
+						ELAINE: N-I know they're your parents Jerry an' they're very nice people. But don't you think it's odd, that a thirty-five year old man is going to these lengths to see that someone else's parents are enjoying themselves? I mean don't you find that abnormal?<br>
+							<br>
+							
+						JERRY: It is a tad askew.<br>
+							<br>
+							
+						ELAINE: I mean they're your parents and you don't do anything. So why is this stranger doing it?<br>
+							<br>
+							
+						JERRY: I've hardly been out to dinner with them.<br>
+							<br>
+							
+						ELAINE: See, See, I can't even say anything you know because all he's really doing is being nice but but know body is this nice, this is like certifiably nice.<br>
+							<br>
+							
+						JERRY: You're right he's insane.<br>
+							<br>
+							
+						ELAINE: Yes, he's insane, that's what I think.<br>
+							<br>
+							
+						JERRY: So what are you going to do?<br>
+							<br>
+							
+						ELAINE: I don't know, I don't know what to do. (sighs) Oh god.... so how was the movie?<br>
+							<br>
+							
+						JERRY: Uh from what I saw it was pretty good.<br>
+							<br>
+							
+						ELAINE: Ya what do you mean from what you saw?<br>
+							<br>
+							
+						JERRY: Well I um I didn't ah actually get to see the whole movie.<br>
+							<br>
+							
+						ELAINE: Yea why not?<br>
+							<br>
+							
+						JERRY: I was kind of um (pauses) making out.<br>
+							<br>
+							
+						ELAINE: (thinks for a second) You were making, out during Schindler's List?<br>
+							<br>
+							
+						JERRY: I couldn't help it. We hadn't been alone in a long time, it just got the better of me.<br>
+							<br>
+							
+						ELAINE: During Schindler's List?<br>
+							<br>
+							
+						JERRY: (trying to justify it) We're both living with our parents.<br>
+							<br>
+							
+						ELAINE: Did anybody see you? Did anyone say anything?<br>
+							<br>
+							
+						JERRY: No I don't think so. I saw Newman as I was leaving but see me.<br>
+							<br>
+							
+						ELAINE: Oh.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Jerry's Apartment]<br>
+							<br>
+							
+						(A knock at the door prior to the reveal of Jerry's apartment; Morty is sitting at the table Helen closes the refrigerator to answer the door; Newman is revealed in his full Newman)<br>
+							<br>
+							
+						NEWMAN: Hello Mrs. Seinfeld<br>
+							<br>
+							
+						HELEN: (like Jerry) Hello, Newman. Jerry's not here. (goes to shut the door on him)<br>
+							<br>
+							
+						NEWMAN: Uh ah (stops her from closing the door; walks in) Having a nice trip? (walks over, grabs a junior mint, smells it then puts it in his pocket)<br>
+							<br>
+							
+						HELEN: Wonderful, we went to the theater last night.<br>
+							<br>
+							
+						NEWMAN: Oh the theater. Because I was wondering.<br>
+							<br>
+							
+						HELEN: Wondering what?<br>
+							<br>
+							
+						NEWMAN: Why I didn't see you at Schindler's List with Jerry.<br>
+							<br>
+							
+						HELEN: Well we already saw it.<br>
+							<br>
+							
+						NEWMAN: Oh, well it's a good thing for Jerry that you didn't go.<br>
+							<br>
+							
+						MORTY: (getting up from the table and coming over) Why is that?<br>
+							<br>
+							
+						NEWMAN: Well he really seemed to have his hands full if you know what I mean.<br>
+							<br>
+							
+						HELEN: I'm afraid I don't.<br>
+							<br>
+							
+						NEWMAN: Him and his little buxom friend Rachel were going at it pretty good in the balcony.<br>
+							<br>
+							
+						MORTY: What?<br>
+							<br>
+							
+						NEWMAN: What, do I have to spell it out for ya? He was moving on her like the storm-troopers into Poland.<br>
+							<br>
+							
+						HELEN: Jerry was necking during Schindler's List?<br>
+							<br>
+							
+						NEWMAN: Yes! A more offensive spectacle I cannot recall. Anyway I just really came up to get some detergent.<br>
+							<br>
+							
+						HELEN: Jerry sends his laundry out.<br>
+							<br>
+							
+						NEWMAN: (laughing) Oh ho right. Well very nice seeing you folks and a by the way you didn't hear this from me. Tata (runs down the hallway laughing)<br>
+							<br>
+							
+						(Helen closes the door and looks at Morty in disgust)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Jerry's Apartment-Later that day]<br>
+							<br>
+							
+						(Jerry enters; Morty is sitting on the couch writing, Helen is in the bathroom)<br>
+							<br>
+							
+						JERRY: Hi (takes off his coat and puts it on the counter at which point his parents are both right by him as he goes into the refrigerator. He grabs a drink then turns around to see his parents right there) What? What did I do?<br>
+							<br>
+							
+						HELEN: How could you?<br>
+							<br>
+							
+						JERRY: How could I what?<br>
+							<br>
+							
+						HELEN: You were making out during Schindler's List?<br>
+							<br>
+							
+						JERRY: What? No.<br>
+							<br>
+							
+						MORTY: Don't lie Jerry.<br>
+							<br>
+							
+						JERRY: (turns) Newman.<br>
+							<br>
+							
+						HELEN: How could you do such a thing?<br>
+							<br>
+							
+						JERRY: I couldn't help it. We hadn't been alone together in a long time and we just kinda started up a little during the coming attractions and the next thing we knew, the war was over.<br>
+							<br>
+							
+						(Morty and Helen both sigh and turn to go back to what they were doing; Phone rings)<br>
+							<br>
+							
+						JERRY: (answering the phone) Hello.<br>
+							<br>
+							
+						(Jack in Florida with a bandage on his right hand)<br>
+							<br>
+							
+						JACK: Hello Jerry, it's Jack Klompus.<br>
+							<br>
+							
+						JERRY: Hang on a second. (handing Morty the phone) Dad it's Klompus.<br>
+							<br>
+							
+						MORTY: Hello<br>
+							<br>
+							
+						JACK: Hello Morty, listen that key doesn't work. It's no good.<br>
+							<br>
+							
+						MORTY: You didn't get in?<br>
+							<br>
+							
+						JACK: Oh I got in, I had to break the window with a rock and then I got my hand all cut up reaching in.<br>
+							<br>
+							
+						MORTY: You broke the window?<br>
+							<br>
+							
+						HELEN: He broke the window?<br>
+							<br>
+							
+						JACK: You wanted those damn boxes didn't you?<br>
+							<br>
+							
+						DORIS: (off camera) He should be on his hands and knees thanking you.<br>
+							<br>
+							
+						MORTY: Did you send them?<br>
+							<br>
+							
+						JACK: Yea, they'll be there tomorrow afternoon, two o'clock.<br>
+							<br>
+							
+						MORTY: Tomorrow afternoon?<br>
+							<br>
+							
+						HELEN: Tomorrow afternoon?<br>
+							<br>
+							
+						JERRY: Tomorrow afternoon?<br>
+							<br>
+							
+						MORTY: I told you to send them express.<br>
+							<br>
+							
+						JACK: W-well it was ten dollars cheaper in the afternoon than the morning, I figured what the hell's the difference.<br>
+							<br>
+							
+						MORTY: So what did you do about the window?<br>
+							<br>
+							
+						JACK: I gotta fix your window now?<br>
+							<br>
+							
+						MORTY: Alright alright, goodbye. (Morty hangs up the phone, Jack hangs up the phone) I don't think we are gonna make that flight.<br>
+							<br>
+							
+						JERRY: W-what do you mean you're not making the flight?<br>
+							<br>
+							
+						HELEN: We have to make the flight, we're with a charter group. If we don't the trip is off.<br>
+							<br>
+							
+						MORTY: Well what's the difference we'll go some place else.<br>
+							<br>
+							
+						(Jerry annoyed walks toward his room)<br>
+							<br>
+							
+						HELEN: Some place else? What about Paris?<br>
+							<br>
+							
+						MORTY: You don't understand, I've come this far, I can't stop now.<br>
+							<br>
+							
+						HELEN: I can't believe that you're doing all this just to sell some stupid raincoats.<br>
+							<br>
+							
+						MORTY: You don't understand fashion is cyclical this thing could come back.<br>
+							<br>
+							
+						HELEN: I think you're out of your mind.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Costanza House]<br>
+							<br>
+							
+						FRANK: I just don't understand how all those clothes can disappear.<br>
+							<br>
+							
+						GEORGE: Moths?<br>
+							<br>
+							
+						FRANK: Moths, ate three boxes?<br>
+							<br>
+							
+						GEORGE: Well you know what happens with larvae hatch, they-they're everywhere.<br>
+							<br>
+							
+						ESTELLE: You know, I was thinking today. I never liked those Seinfelds anyway, he's an idiot all together. (Knocking at the door) Ah there's Kramer.<br>
+							<br>
+							
+						(Estelle goes to answer the door)<br>
+							<br>
+							
+						KRAMER: (from outside) Hello?<br>
+							<br>
+							
+						ESTELLE: Hello<br>
+							<br>
+							
+						KRAMER: (still outside) Helowwwowwow (Estelle opens the door) Hey (kisses Estelle hello) Ha ha, Good evening (George waves)<br>
+							<br>
+							
+						ESTELLE: Hope you're hungry. (goes into the kitchen)<br>
+							<br>
+							
+						KRAMER: Ooo Paella<br>
+							<br>
+							
+						GEORGE: Hey uh let me take you're coat.<br>
+							<br>
+							
+						KRAMER: (giving George his coat) Oh ya thanks buddy.<br>
+							<br>
+							
+						FRANK: That shirt, where'd you get that shirt?<br>
+							<br>
+							
+						KRAMER: Wha?<br>
+							<br>
+							
+						FRANK: That's my cabana shirt, you stole my shirt you son of a bitch! (really fast) George you let your friends go up in my attic and steal my clothes? (grabbing at the shirt) Gimme that back<br>
+							<br>
+							
+						KRAMER: (trying to get away) woah<br>
+							<br>
+							
+						GEORGE: Dad?!<br>
+							<br>
+							
+						KRAMER: (laughs as Frank ends up tickling him; gets away) I bought it from Rudy.<br>
+							<br>
+							
+						GEORGE: Rudy?! That skunk, I knew he didn't burn those clothes.<br>
+							<br>
+							
+						FRANK: Who's Rudy? What clothes?<br>
+							<br>
+							
+						GEORGE: I sold your clothes yesterday.<br>
+							<br>
+							
+						FRANK: You sold my clothes (smacks George on the forehead) what do you mean you sold my clothes?<br>
+							<br>
+							
+						GEORGE: I didn't think you wore them anymore.<br>
+							<br>
+							
+						FRANK: It's cruise wear!<br>
+							<br>
+							
+						ESTELLE: Kramer, I love that shirt.<br>
+							<br>
+							
+						KRAMER: Yaya<br>
+							<br>
+							
+						FRANK: THAT'S BECAUSE IT'S MINE!!<br>
+							<br>
+							
+						ESTELLE: You look just like Frank, on our honeymoon.<br>
+							<br>
+							
+						KRAMER: Oh, well, thank you.<br>
+							<br>
+							
+						(Estelle giggles)<br>
+							<br>
+							
+						FRANK: Who's this Rudy?<br>
+							<br>
+							
+						KRAMER: Well Rudy's the guy buying Morty's raincoats.<br>
+							<br>
+							
+						FRANK: Morty Seinfeld? He's a bum.<br>
+							<br>
+							
+						KRAMER: Well, the whole deal going down tomorrow. Morty's gonna miss his plane for it.<br>
+							<br>
+							
+						GEORGE: Missing his plane? Wasn't that a charter flight?<br>
+							<br>
+							
+						KRAMER: Yea.<br>
+							<br>
+							
+						GEORGE: What happens to charter tickets when you don't use em?<br>
+							<br>
+							
+						KRAMER: Well I suppose they are wasted.<br>
+							<br>
+							
+						GEORGE: Yes I suppose they are.<br>
+							<br>
+							
+						FRANK: Tomorrow I'm going straight down to this Rudy and get my clothes.<br>
+							<br>
+							
+						KRAMER: A mouse!<br>
+							<br>
+							
+						(Frank starts making noises; Kramer and Frank both run to the other room where they get stuff in between the door and wall; Frank hits Kramer to get him in then closes the door)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Monk's]<br>
+							<br>
+							
+						(Jerry and George enter)<br>
+							<br>
+							
+						JERRY: You want the tickets?<br>
+							<br>
+							
+						GEORGE: Yes.<br>
+							<br>
+							
+						JERRY: You're gonna take this kid to Paris?<br>
+							<br>
+							
+						GEORGE: Hey I get a free trip to Paris, I go in the Big Brother's Hall-of-Fame, I mail my own postcards.<br>
+							<br>
+							
+						JERRY: You know I'm paying for these tickets.<br>
+							<br>
+							
+						GEORGE: It's alright, I got lunch.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Airport]<br>
+							<br>
+							
+						(Kramer, Morty and Jerry standing at a luggage carousel)<br>
+							<br>
+							
+						KRAMER: Oh, you should have gone to the Costanzas' for dinner. Mmm the Paella was magnificent. Have you ever had really good Paella?<br>
+							<br>
+							
+						MORTY: Not really.<br>
+							<br>
+							
+						KRAMER: Oh it's a orgiastic feast for the senses. The want and the festival, the sites, sounds, and colors an mmmummumm mumm<br>
+							<br>
+							
+						JERRY: Hey Dad are you sure we are at the right carousel?<br>
+							<br>
+							
+						MORTY: This is it.<br>
+							<br>
+							
+						KRAMER: So how much are we gonna make?<br>
+							<br>
+							
+						MORTY: Take it easy, I've been through a million of these negotiations.<br>
+							<br>
+							
+						KRAMER: Wha two thousand? Three thousand?<br>
+							<br>
+							
+						MORTY: That's giving it away. This is a one of a kind item.<br>
+							<br>
+							
+						KRAMER: More? More than three thousand?<br>
+							<br>
+							
+						MORTY: Just watch me do my thing.<br>
+							<br>
+							
+						JERRY: Say Dad, (pointing at a raincoat sitting on the carousel next to an open box) isn't that one of yours?<br>
+							<br>
+							
+						MORTY: Look at this. Look at how this idiot packed it. He didn't tape it, he just flipped the flaps. (Kramer, Morty and Jerry are looking around grabbing raincoats which are scattered all over the place.) Kramer you missed a couple.<br>
+							<br>
+							
+						WOMAN: Bon-jour, welcome to the Gateway to Paris Charter Flight.<br>
+							<br>
+							
+						JERRY: (turns around noticing the Charter flight) Dad isn't that your charter group?<br>
+							<br>
+							
+						(George and Joey enter the scene getting in line for the Charter Flight)<br>
+							<br>
+							
+						GEORGE: Honesty, hard-work, these are the values that I was raised on. The most important thing Joey, is to be able to look yourself in the mirror before you go to sleep at night.<br>
+							<br>
+							
+						JOEY: Hey! I got news for you four eyes, there's no way you're staying with us in Paris.<br>
+							<br>
+							
+						(Joey walks by George to board the plane and puts his Gum on the wall.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Rudy's Antique Boutique]<br>
+							<br>
+							
+						FRANK: You burned them? Those clothes are not yours to burn.<br>
+							<br>
+							
+						RUDY: Who are you anyways?<br>
+							<br>
+							
+						FRANK: I'm the father.<br>
+							<br>
+							
+						RUDY: He said his father was dead.<br>
+							<br>
+							
+						FRANK: He said I was dead?<br>
+							<br>
+							
+						RUDY: That's right. Squeezed an extra twenty-five dollars out of me.<br>
+							<br>
+							
+						FRANK: That's what my life is worth to him? Twenty-five dollars.<br>
+							<br>
+							
+						(Kramer and Morty enter with a bunch of raincoats)<br>
+							<br>
+							
+						KRAMER: Hey, Frank!<br>
+							<br>
+							
+						FRANK: Oh, I just want to you know I'm retracting our dinner invitation.<br>
+							<br>
+							
+						MORTY: Well you don't have to retract it because we never went.<br>
+							<br>
+							
+						FRANK: I'm retracting that it was ever offered.<br>
+							<br>
+							
+						MORTY: I retract your retraction.<br>
+							<br>
+							
+						FRANK: Oh, you trying to unload some of that junk of yours?<br>
+							<br>
+							
+						MORTY: Would you excuse me please, we're conducting business here.<br>
+							<br>
+							
+						RUDY: You can keep your raincoats. I'm not interested.<br>
+							<br>
+							
+						KRAMER: I thought we had a deal?<br>
+							<br>
+							
+						FRANK: That's another one of my shirts!!<br>
+							<br>
+							
+						RUDY: I'm not buying anymore clothes from anyone off the street.<br>
+							<br>
+							
+						MORTY: Who's off the street? I'm in the raincoat business for thirty-five years.<br>
+							<br>
+							
+						RUDY: Ya how do I know there aren't moths like his stuff?<br>
+							<br>
+							
+						FRANK: My clothes don't have moths!<br>
+							<br>
+							
+						MORTY: Because of his moths you're not buying my raincoats?<br>
+							<br>
+							
+						RUDY: That's right.<br>
+							<br>
+							
+						KRAMER: (laughing) I'm all ticklish. (a moth flies out of his shirt; they all look at it)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Airport]<br>
+							<br>
+							
+						(Morty and Helen with a couple bags; Jerry, Elaine and Aaron saying good-bye)<br>
+							<br>
+							
+						ANNOUNCEMENT: Flight-433 now boarding for Miami, Gate 18a. Flight-433 now boarding.<br>
+							<br>
+							
+						MORTY: Ok, let's go.<br>
+							<br>
+							
+						HELEN: (to Aaron) It was so nice of you to come to the airport to see us off.<br>
+							<br>
+							
+						AARON: Are you sure you can't stay a little longer?<br>
+							<br>
+							
+						ELAINE &amp; JERRY: NO.<br>
+							<br>
+							
+						MORTY: Ah, good-bye.<br>
+							<br>
+							
+						(Jerry hugs Morty; Helen and Elaine give each other a kiss)<br>
+							<br>
+							
+						ELAINE: Good-bye<br>
+							<br>
+							
+						JERRY: Take care<br>
+							<br>
+							
+						MORTY: Alright Jer.<br>
+							<br>
+							
+						(Morty and Elaine hug; Jerry and Helen give each other a kiss)<br>
+							<br>
+							
+						ELAINE: Nice to see..<br>
+							<br>
+							
+						MORTY: Buh bye Elaine<br>
+							<br>
+							
+						JERRY: Buh bye.<br>
+							<br>
+							
+						HELEN: Buh bye.<br>
+							<br>
+							
+						(Aaron torn by emotion moves in and gives Morty and Helen a hug a hug)<br>
+							<br>
+							
+						HELEN: (looking at Jerry while being overly hugged by Aaron) We'll call you when we get home.<br>
+							<br>
+							
+						AARON: Thank you.<br>
+							<br>
+							
+						JERRY: I think she meant me, but.<br>
+							<br>
+							
+						MORTY: Make sure Kramer uses good tape when he sends back the raincoats.<br>
+							<br>
+							
+						JERRY: Ok.<br>
+							<br>
+							
+						(Morty and Helen go to board the plane)<br>
+							<br>
+							
+						ELAINE: Bye.<br>
+							<br>
+							
+						JERRY: Bye.<br>
+							<br>
+							
+						(Aaron begins to follow them)<br>
+							<br>
+							
+						ELAINE: Aaron? Aaron are you ok?<br>
+							<br>
+							
+						AARON: I could've done more. I could've done so much more.<br>
+							<br>
+							
+						ELAINE: You did enough.<br>
+							<br>
+							
+						AARON: (turning toward her) No, I could've called the travel agency, got them on another flight to Paris, I coulda got them out.<br>
+							<br>
+							
+						JERRY: You tried Aaron, it was too expensive.<br>
+							<br>
+							
+						AARON: (holds his arm up) This watch, this watch could've paid for their whole trip. (holds his other hand up) This ring, this ring is one more dinner I could've taken them out to. (Jerry and Elaine look at each other like he's crazy) Water, they need some water (turns around and runs to the Flight Agent)<br>
+							<br>
+							
+						ELAINE: Why?<br>
+							<br>
+							
+						AARON: (to the Flight Agent) They'll get dehydrated on the plane! Get the Seinfelds some water. Please! Please!<br>
+							<br>
+							
+						(Jerry and Elaine continue to look at him funny)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Rachel's Parents' Place]<br>
+							<br>
+							
+						(Jerry knocks on the door; Mr. Goldstein answers)<br>
+							<br>
+							
+						JERRY: Hi Mr. Goldstein is Rachel home?<br>
+							<br>
+							
+						MR. GOLDSTEIN: I'm afraid Rachel's not going to be able to see you tonight, or any other night for that matter.<br>
+							<br>
+							
+						JERRY: Why what did I do?<br>
+							<br>
+							
+						MR. GOLDSTEIN: (Rachel is know seen behind her Dad) You know very well. I heard about your behavior at the movies the other night it was disgraceful. You should be ashamed of yourself, I for one will not allow my daughter to be involved with someone of such weak moral fiber. Fortunately my postman happened to have witnessed the entire incident. A heavy set fellow, I believe he lives in your building. (Jerry turns to almost do a 'Newman') Now if you don't mind. (starts to close the door)<br>
+							<br>
+							
+						JERRY: Rachel!<br>
+							<br>
+							
+						MR. GOLDSTEIN: (closing the door on Jerry) Good night!<br>
+							<br>
+							
+						JERRY: Rachel!<br>
+							<br>
+							<br>
+							<br>
+							
+						[Monk's]<br>
+							<br>
+							
+						(Jerry and Elaine at the normal booth)<br>
+							<br>
+							
+						JERRY: So my parents get home, they open the door, my father flicks the light on, the whole place is cleaned out, everything.<br>
+							<br>
+							
+						ELAINE: Aahh, (pushes Jerry from her seat at the table) Get Out! How did it happen?<br>
+							<br>
+							
+						JERRY: The broken window, Klompus never fixed it. They just walked right in.<br>
+							<br>
+							
+						ELAINE: Oohh, boy. They could use a vacation.<br>
+							<br>
+							
+						JERRY: Yea they're taking one, the travel agent is trying to set something else up for them.<br>
+							<br>
+							
+						ELAINE: (sighs) So how about that Aaron?<br>
+							<br>
+							
+						JERRY: Whew<br>
+							<br>
+							
+						ELAINE: You know what drove me crazy about him? Did you ever notice that he stood too close to you when he talked?<br>
+							<br>
+							
+						JERRY: No I hadn't noticed.<br>
+							<br>
+							
+						(Newman enters and walks by the table; Jerry doesn't notice him as he is getting something out of his coat pocket)<br>
+							<br>
+							
+						NEWMAN: (at the counter) Pair of bear claws please.<br>
+							<br>
+							
+						JERRY: (hearing Newman turns and sees him) Hiya Newman.<br>
+							<br>
+							
+						NEWMAN: (moving away from the counter getting closer to the door) Hello Jerry.<br>
+							<br>
+							
+						JERRY: Say, I happened to catch you coming out of Schindler's List the other night.<br>
+							<br>
+							
+						NEWMAN: Ohh, were you there?<br>
+							<br>
+							
+						JERRY: Yes I was.<br>
+							<br>
+							
+						NEWMAN: (looking scared) I-it's a it's a...powerful film.<br>
+							<br>
+							
+						JERRY: Yes, shocking brutality don't you think?<br>
+							<br>
+							
+						NEWMAN: (couple quick breaths) Shocking.<br>
+							<br>
+							
+						JERRY: Yes, well that was nothing.<br>
+							<br>
+							
+						(Newman makes a noise and takes off toward the door as Jerry gets up)<br>
+							<br>
+							
+						NEWMAN: (running out the door) Jerry! Jerry!<br>
+							<br>
+							
+						(Jerry chases Newman right out the door)<br>
+							<br>
+							<br>
+							
+						[Paris]<br>
+							<br>
+							
+						(George is sitting at an outside eatery in France with Joey)<br>
+							<br>
+							
+						GEORGE: Where the hell is your father?!<br>
+							<br>
+							
+						(George smiles and waves at a girl sitting at another table; Joey puts some stuff on George's glasses)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Cruise ship out in the Ocean]<br>
+							<br>
+							
+						(Estelle and Frank walking around on the boat)<br>
+							<br>
+							
+						ESTELLE: This is the best thing we ever did.<br>
+							<br>
+							
+						FRANK: I just hope those exterminators know what they're doing.<br>
+							<br>
+							
+						ESTELLE: Ah forget about them let's just...<br>
+							<br>
+							
+						(Frank and Estelle run into Morty and Helen)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Closing Monologue]<br>
+							<br>
+							
+						Personal distance is a very important thing. There's a new personal distance, ATM distance. When someone's using an ATM, you wanna be about six feet back don't you? Because people a little edgy around that ATM don't they? They got their money out, their eyes are darting all around. The other place I wanna be about six feet away is Urinals, you want some distance there too. ATMs and Urinals, I guess whenever someone's taking valuable out of their pants you want to give them as much room as possible.</td>
+						</tr>
+						<tr height="6">
+							<td class="bottom2" width="645" height="6"></td>
+						</tr>
+						<tr>
+							<td width="645">
+								<div align="center">
+									<font size="-1">Copyright 2006 seinology.com | All Rights Reserved | Designed by 13erla</font></div>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+		<p></p>
+	</body>
+
+</html>

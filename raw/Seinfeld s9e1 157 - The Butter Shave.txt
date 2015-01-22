@@ -1,0 +1,1000 @@
+<tdOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+<html>
+
+	<head>
+		<meta http-equiv="content-type" content="text/html;charset=ISO-8859-1">
+		<meta name="description" content="Top Source for Seinfeld">
+		<meta name="keywords" content="seinfeld, sienfeld, Jerry Seinfeld, Julia Louis Dreyfus, Jason Alexander, Michael Richards, Kramer, George, Costanza, Elaine Benes, morty, Larry David">
+		<title>Seinology.com :: Scripts :: 157-The Butter Shave</title>
+	<link rel='stylesheet' href='/stylesheet.css' type='text/css'>
+	</head>
+
+	<body>
+			<table align="center" width="787" border="0" cellspacing="0" cellpadding="0">
+				<tr>
+					<td><font size="-2" color="red">Seinology.com - </font><font size="-3" color="black">Where Seinfeld Content and Accuracy Matter Most. Seinfeld scripts in pdf form, Seinfeld episode video clips, Seinfeld episode audio clips, Jerry Seinfeld appearances, Julia Louis-Dreyfus appearances, Michael Richards appearances, Jason Alexander appearances, Seinfeld discussion Forum, Seinfeld Where are they Now? Seinlanguage Newsletter, Popular Seinfeld Lists, Seinfeld episode standup, Seinfeld episode guide, Seinfeld fan fiction. Seinfeld content all on one domain. Seinology.com enjoy your stay.</font></td>
+				</tr>
+			</table>
+		
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr height="100">
+				<td class="logo"></td>
+			</tr>
+			<tr><td class="ads" align="center" background=#8694fa>
+				<script type="text/javascript"><!--
+google_ad_client = "pub-1924026976931416";
+google_ad_width = 728;
+google_ad_height = 90;
+google_ad_format = "728x90_as";
+google_ad_type = "text";
+google_ad_channel = "";
+google_color_border = "FFFFFF";
+google_color_bg = "8694fa";
+google_color_link = "0000FF";
+google_color_text = "000000";
+google_color_url = "002E3F";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></td></tr>
+		</table>
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr>
+				<td valign="top" width="136">
+					<table width="136" border="0" cellspacing="0" cellpadding="0">
+						<tr height="24">
+							<td class="navigation">
+								<div align="center">
+									
+									<b>Navigation</b></div>
+							</td>
+						</tr>
+						<tr height="199">
+							<td class="spacer1" valign="top" width="136" height="199">
+								<div align="center">
+									<font size="-1"><a href="http://www.seinology.com">Home</a><br>
+										<a href="http://board.seinology.com">Forum</a><br>
+										<a href="http://www.seinology.com/av.shtml">Audio/Video</a><br>
+										<a href="http://www.seinology.com/scripts.shtml">Scripts</a><br>
+										<a href="http://www.seinology.com/survivor.shtml">Survivor</a><br>
+										<a href="http://www.seinology.com/fanfics.shtml">Fan Fiction</a><br>
+										<a href="http://www.seinology.com/gallery/">Gallery</a><br>
+										<a href="http://www.seinology.com/newsletter.shtml">Newsletter</a><br>
+										<a href="http://www.seinology.com/lists.shtml">Lists</a><br>
+										<a href="http://www.seinology.com/epguide.shtml">Episode Guide</a><br>
+										<a href="http://www.seinology.com/links.shtml">Links</a><br>
+										<a href="http://www.seinology.com/faqother.shtml">Faq + others</a><br>
+										<a href="http://www.seinology.com/legal.shtml">Legal</a></font></div>
+							</td>
+						</tr>
+						
+						<tr>
+							<td class="nav2" width="136">
+							<div align="center"><b>Search</b></div></td>
+						</tr>
+						<tr>
+							<td class="spacer1" width="136" valign="top"><div align="center"><form method="get" action="http://www.seinology.com/search/search.cgi">
+<p><label for="fdse_Match">Match</label><br>
+<select name="Match" id="fdse_Match" size="1">
+<option value="1">All</option>
+<option value="0">Any</option>
+<option value="2">Phrase</option>
+</select></p>
+<p><label for="fdse_Realm">Where?</label><br>
+<select name="Realm" id="fdse_Realm" size="1">
+<option selected="selected" value="All">EntireSite</option>
+<option value="Ep Guide">Ep Guide</option>
+<option value="Images">Images</option>
+<option value="Lists">Lists</option>
+<option value="Newsletters">Newsletters</option>
+<option value="Scripts">Scripts</option>
+<option value="Notes..Nothing">Notes..Nothing</option>
+</select></p>
+<p><input type="text" name="Terms" size="14" id="fdse_Terms"><br>
+<input type="submit" class="submit" name="submitButtonName" value="Search"></p>
+</div></form></td>
+						</tr>
+						<tr><td class="bottom" width="136" height="10" valign="top">
+						</td>
+						</tr>
+					</table>
+				</td>
+				<td width="4"></td>
+				<td valign="top" width="645">
+					<table width="645" border="0" cellspacing="0" cellpadding="0">
+						<tr height="18">
+							<td width="645" height="35" class="bar">
+								<div align="center">
+									<b><font size="+2" color="black">Script</font></b></div>
+							</td>
+						</tr>
+						<tr height="362">
+							<td class="spacer2" valign="top" width="645" height="362">
+
+						<p><font size="-2">Episode 157 - The Butter Shave<br>
+							pc: 901 season 9, episode 1<br>
+							Broadcast date: September 25, 1997<br>
+							<br>
+							Written by Alec Berg &amp; Jeff Schaffer &amp; David Mandel<br>
+							Directed by Andy Ackerman<br>
+							<br>
+							-------------------------------------------------------------------------------<br>
+							<br>
+							The Cast<br>
+							Regulars:<br>
+							Jerry Seinfeld ...................... Jerry Seinfeld<br>
+							Jason Alexander .................. George Costanza<br>
+							Julia Louis-Dreyfus .............. Elaine Benes<br>
+							Michael Richards .................. Cosmo Kramer<br>
+							<br>
+							Guest Stars:<br>
+							<br>
+							Gordon Jump ..................... Mr. Thomassoulo<br>
+							Kristin Davis ....................... Jenna<br>
+							Everett Greenbaum ............ McMaines<br>
+							Connie Sawyer ................... Old Woman<br>
+							Matthew Fonda ................. NBC Executive<br>
+							Chris Parnell ....................... NBC Executive<br>
+							Frank Van Keeken ............. Vegetable Lasagna<br>
+							Shannon Whirry ................. Cute Girl<br>
+							Nancy Balbirer ................... Woman<br>
+							Erica Y. Becoat ................... Stewardess<br>
+							Torsten Voges ................... Cab Driver<br>
+							George Georgiadis ............. Cab Driver<br>
+							Brian Callaway ................... Passenger<br>
+							rc: Wayne Knight ............... Newman<br>
+							rc: Steve Hytner ................ Kenny Bania<br>
+							rc: Patrick Warburton ....... David Puddy<br>
+							<br>
+							==================================================================<br>
+							<br>
+							[Exterior of Monk's coffee shop. Cut to Jerry and George at their regular booth.]<br>
+							<br>
+							(A newspaper blocks out view of George's face. He lowers the paper to reveal... a moustache.)<br>
+							<br>
+							GEORGE: What is Holland?<br>
+							<br>
+							JERRY: (also wearing a moustache) What do you mean, 'what is it?' It's a country right next to Belgium.<br>
+							 <br>
+							GEORGE: No, that's the Netherlands.<br>
+							<br>
+							JERRY: Holland *is* the Netherlands.<br>
+							<br>
+							GEORGE: Then who are the Dutch?<br>
+							<br>
+							JERRY: (picking at his moustache) You know I cannot stand this thing anymore.<br>
+							<br>
+							GEORGE: I know, I hate it too. I feel like an out of work porn star.<br>
+							<br>
+							JERRY: I told you, we should have taken some kind of vacation.<br>
+							<br>
+							GEORGE: Well why didn't we?<br>
+							<br>
+							JERRY: Because you said this would be better. Remember? A vacation from ourselves. That's what you said.<br>
+							<br>
+							GEORGE: What if we grew muttonchops?<br>
+							<br>
+							JERRY: No.<br>
+							<br>
+							GEORGE: Buzz cuts? Parachute pants!<br>
+							<br>
+							JERRY: Stop it, George. Stop it. I'm sorry, you've gotta get a job.<br>
+							<br>
+							GEORGE: (resigned) Dammit.<br>
+							<br>
+							<br>
+							<br>
+							[George approaches Jerry at the bar of a nightclub, carrying a cane.]<br>
+							<br>
+							GEORGE: Hey hey hey, check me out, huh?<br>
+							<br>
+							JERRY: No more crutches, that must be a relief.<br>
+							<br>
+							GEORGE: Yeah, with crutches everyone has questions.<br>
+							<br>
+							JERRY: Not with a cane?<br>
+							<br>
+							GEORGE: Nah, with crutches it's a funny story, with a cane it's a sad story. You through with those?<br>
+							<br>
+							(George uses the cane handle to drag a bowl of pretzels over from the other end of the bar.)<br>
+							<br>
+							JERRY: That is a sad story. Hey, you should have been here tonight. Some guy from NBC saw my set, he wants me to do a showcase. I might have another shot at a pilot.<br>
+							<br>
+							GEORGE: Alright, we're back in!<br>
+							<br>
+							JERRY: We? No.<br>
+							<br>
+							CLUB ANNOUNCER: (off camera) Ladies and gentlemen, Kenny Bania.<br>
+							<br>
+							(Applause from off camera, then Bania walks up to the bar.)<br>
+							<br>
+							BANIA: Thank you, thank you, (To Jerry) Hey, Jerry, did ya see me up there? I was killing, Jerry. Killing. I killed.<br>
+							<br>
+							JERRY: Killed?<br>
+							<br>
+							BANIA: Killed. (pause) I'm gonna go pick up some chicks. Good-looking ones, too! (walking away) Hey, what's your name?<br>
+							<br>
+							JERRY: Yeah, killed. Because I killed first and warmed up the crowd. He's like that fish that attaches himself to the shark.<br>
+							<br>
+							GEORGE: And you're the shark?<br>
+							<br>
+							JERRY: Yeah, I'm the shark and he's the fish eating my laughs.<br>
+							<br>
+							GEORGE: I don't know how a fish could eat laughs.<br>
+							<br>
+							JERRY: Well, I'm glad I brought it up.<br>
+							<br>
+							<br>
+							<br>
+							[Jerry's apartment. George and Jerry are there, clean shaven, George is on the phone. Kramer walks in wearing a moustache.]<br>
+							<br>
+							KRAMER: You got any shredded coconut?<br>
+							<br>
+							JERRY: (looking at Kramer's moustache) Uh, we're not doing that anymore.<br>
+							<br>
+							KRAMER: Yeah, yeah, right. (walks out)<br>
+							<br>
+							GEORGE: (on the phone) Oh my God.<br>
+							<br>
+							JERRY: What?<br>
+							<br>
+							GEORGE: I got a job interview. They want to see me this afternoon.<br>
+							<br>
+							JERRY: So what's this job?<br>
+							<br>
+							GEORGE: Oh, it's beautiful. It's in sports.<br>
+							<br>
+							JERRY: Knicks? Rangers?<br>
+							<br>
+							GEORGE: Playground equipment.<br>
+							<br>
+							JERRY: Welcome back to the show.<br>
+							<br>
+							GEORGE: Yeah haha.<br>
+							<br>
+							(Kramer walks back in, clean shaven.)<br>
+							<br>
+							KRAMER: Yeah, this is better. So, you got any shredded coconut?<br>
+							<br>
+							JERRY: No.<br>
+							<br>
+							GEORGE: (holding his cane) I gotta hobble. (walks out)<br>
+							<br>
+							(Kramer puts some aftershave on his lip.)<br>
+							<br>
+							KRAMER: D-d-d-d. I gotta switch shaving creams. I'm getting no protection.<br>
+							<br>
+							JERRY: What kind do you use?<br>
+							<br>
+							KRAMER: Whatever you get.<br>
+							<br>
+							JERRY: (nods) Look, postcard from Elaine from Europe.<br>
+							<br>
+							KRAMER: Don't tell me she's dragging another poor guy across Europe.<br>
+							<br>
+							JERRY: Remember David Puddy?<br>
+							<br>
+							KRAMER: Oh, the face-painting auto mechanic. So she's dating him again, huh?<br>
+							<br>
+							JERRY: Well, I guess she's batted around and she's back at the top of the order.<br>
+							<br>
+							KRAMER: Boy, a month in Europe with Elaine. (whistles) That guy's coming home in a body bag.<br>
+							<br>
+							<br>
+							<br>
+							[Atlas map of Scandinavia with Oslo, Norway highlighted. Cut to Elaine and Puddy in the back seat of a taxi.]<br>
+							<br>
+							PUDDY: Well, let's see, I've got a ten kroner, a five kroner, a twenty kroner? No wait, that's another ten kroner. A fimty kroner? How much is that?<br>
+							<br>
+							ELAINE: We have to break up.<br>
+							<br>
+							PUDDY: What?<br>
+							<br>
+							ELAINE: I can't take this anymore! I don't want to hear how interesting the change with the hole in it is! And if you tell me what time it is in New York again, you are going home in a body bag!<br>
+							<br>
+							PUDDY: Well what about you? What do you think The Gap in Rome has that's not in The Gap on Broadway?<br>
+							<br>
+							ELAINE: Okay, alright listen. Forget about The Gap because we are through!<br>
+							<br>
+							PUDDY: Fine!<br>
+							<br>
+							ELAINE: Fine!<br>
+							<br>
+							CAB DRIVER: Okay, terminal three. Have a nice flight.<br>
+							<br>
+							<br>
+							<br>
+							[Interior of an airplane. Elaine and Puddy are seated together. Puddy is crying]<br>
+							<br>
+							CAPTAIN: Ladies and gentlemen, our flight time, with stopovers, will be approximately 22 hours.<br>
+							<br>
+							ELAINE: (to flight attendant) Hey, you gonna bust out that drink cart or what?<br>
+							<br>
+							<br>
+							<br>
+							[Jerry's apartment. Kramer and Jerry are there.]<br>
+							<br>
+							KRAMER: Hey, what are you doing?<br>
+							<br>
+							JERRY: Oh, I'm taking this lace out. It came undone and touched the floor of a men's room. That's the end of that.<br>
+							<br>
+							KRAMER: Did you see Bania's set last night? 'Cause I read on the Internet he killed.<br>
+							<br>
+							JERRY: He killed. He only does well when he has me for a lead-in. He's a time slot hit.<br>
+							<br>
+							KRAMER: Jerry, you gotta give him some credit. (starts rubbing a stick of Jerry's butter across his face) You're just being totally ridiculous. (keeps rubbing) I'll see you later buddy.<br>
+							<br>
+							JERRY: Wait, wait, wait, wait, wait a minute.<br>
+							<br>
+							KRAMER: What?<br>
+							<br>
+							JERRY: Do I have to ask?<br>
+							<br>
+							KRAMER: I ran out of butter so I had to borrow yours. Anything else, Mr. Nosy?<br>
+							<br>
+							(Kramer starts to walk out, Jerry grabs him by the shirttail and drags him back.)<br>
+							<br>
+							JERRY: Why are you buttering your face?<br>
+							<br>
+							KRAMER: I'm shaving with it.<br>
+							<br>
+							JERRY: Oh Moses smell the roses.<br>
+							<br>
+							KRAMER: Jerry, it's vastly superior to any commercial shaving cream. The shave is close and clean, and the natural emolients keep my skin silky-smooth. Now feel my face.<br>
+							<br>
+							JERRY: No.<br>
+							<br>
+							KRAMER: Feel it.<br>
+							<br>
+							JERRY: I don't want to.<br>
+							<br>
+							KRAMER: Feel it. Feel it.<br>
+							<br>
+							JERRY: (places two slices of bread against Kramer's face) That is close.<br>
+							<br>
+							(Kramer takes the bread and eats it as he walks out of Jerry's apartment.)<br>
+							<br>
+							<br>
+							<br>
+							[George's job interview at Play Now Sporting Goods.]<br>
+							<br>
+							GEORGE: I got the job?<br>
+							<br>
+							MR. THOMASSOULO: George, everybody here at Play Now is very impressed with you. I, I'm sure you heard that.<br>
+							<br>
+							GEORGE: Well, no.<br>
+							<br>
+							MR.THOMASSOULO: Now I don't want you to think that anyone's gonna treat you any differently just because of your, uh, (clears his throat) handicap.<br>
+							<br>
+							GEORGE: Handicap? (gesturing to his cane) Oh, I'm not handicapped.<br>
+							<br>
+							MR. THOMASSOULO: I'm sorry. Differently, uh, advantaged.<br>
+							<br>
+							GEORGE: Yeah, I didn't mean that.<br>
+							<br>
+							MR. THOMASSOULO: Of course you will have your own private, fully equipped bathroom.<br>
+							<br>
+							GEORGE: (shocked) When do I start?<br>
+							<br>
+							MR. THOMASSOULO: Whenever you feel that you're able. (rises to show George out) Um, you need a hand here.<br>
+							<br>
+							GEORGE: (Thomassoulo helps George get up) Yeah, what the hell.<br>
+							<br>
+							<br>
+							<br>
+							[Monk's. George and Jerry are in their regular booth]<br>
+							<br>
+							JERRY: You got the job?<br>
+							<br>
+							GEORGE: Jerry, it's fantastic. I love the people over there. They- they treat me so great. You know they think I'm handicapped, they gave me this incredible office, a great view.<br>
+							<br>
+							JERRY: Hold on, they think you're handicapped?<br>
+							<br>
+							GEORGE: Yeah, yeah, well, because of the cane. You should see the bathroom they gave me!<br>
+							<br>
+							JERRY: How can you do this?<br>
+							<br>
+							GEORGE: Jerry, let's face it, I've always been handicapped. I'm just now getting the recognition for it. Name one thing I have that puts me in a position of advantage. Huh? There was a guy that worked at the Yankees-- no arms! He got more work done than I did, made more money, had a wife, a family, drove a better car than I did.<br>
+							<br>
+							JERRY: He drove a car with no arms?<br>
+							<br>
+							GEORGE: All right, I made up the part about the car, but the rest is true. And he hated me anyway!<br>
+							<br>
+							JERRY: Do you know how hard it's getting just to tell people I know you?<br>
+							<br>
+							GEORGE: I love that bathroom. It's got that high, high toilet. I feel like a gargoyle perched on the ledge of a building.<br>
+							<br>
+							(Kramer walks up holding an institutional sized container of butter.)<br>
+							<br>
+							KRAMER: Hey! They hooked me up.<br>
+							<br>
+							GEORGE: What's with all the butter?<br>
+							<br>
+							KRAMER: I'm shaving with it, and you know what I discovered?<br>
+							<br>
+							JERRY: You can eat it?<br>
+							<br>
+							KRAMER: No, my face feels so good, I'm gonna use it all over my body.<br>
+							<br>
+							(Jerry smirks, Kramer walks away. Bania and Jenna enter)<br>
+							<br>
+							JERRY: Oh my god, it's Bania and Jenna.<br>
+							<br>
+							GEORGE: Who?<br>
+							<br>
+							JERRY: The tooth brush in the toilet bowl.<br>
+							<br>
+							(Bania and Jenna walk over.)<br>
+							<br>
+							BANIA: Hey Jerry, this is Jenna. Pretty good-lookin' huh?<br>
+							<br>
+							JENNA: Uh, Jerry's the guy that I dated right before you.<br>
+							 <br>
+							BANIA: Oh. This is awkward.<br>
+							<br>
+							JENNA: Don't worry, Kenny. After dating Jerry, you're a pleasure.<br>
+							<br>
+							(Bania and Jenna leave.)<br>
+							<br>
+							JERRY: I don't believe this.<br>
+							<br>
+							GEORGE: You miss her, don't you?<br>
+							<br>
+							JERRY: No! He's riding my coattails again. He's getting everything off me, first laughs now ladies.<br>
+							<br>
+							GEORGE: You miss her.<br>
+							<br>
+							<br>
+							<br>
+							[Puddy and Elaine on the plane.]<br>
+							<br>
+							PUDDY: (to flight attendant) You know I think ultimately, I'm upset with myself. I knew what I was getting into, she's a bitter, unstable person. I mean the sex was good. I'm sure it was fine for her. I need more.<br>
+							<br>
+							ELAINE: (to another passenger) Huh. You believing this?<br>
+							<br>
+							PASSENGER: Excuse me, I...I was sleeping.<br>
+							<br>
+							ELAINE: You missed quite a performance.<br>
+							<br>
+							(Elaine drinks from a can of juice.)<br>
+							<br>
+							PASSENGER: (disbelieving) That's my apple juice.<br>
+							<br>
+							<br>
+							<br>
+							[A &quot;Handicapped George montage&quot; at Play Now Sporting Goods. With &quot;Morning Train&quot; by Sheena Easton as the background, George rides up the stairs on a rail, is carried through the hall by a woman, is caught 'fencing' with his cane and fakes a lame knee, and trips a co-worker with the cane handle and gets laughs from everyone, including the man he tripped.]<br>
+							<br>
+							<br>
+							<br>
+							[Jerry walks into his apartment sniffing the air, followed closely by Newman.]<br>
+							<br>
+							JERRY: Someone's cooking.<br>
+							<br>
+							NEWMAN: Hello, Jerry.<br>
+							<br>
+							JERRY: Hello, Newman.<br>
+							<br>
+							NEWMAN: You know, old friend, sometimes I ponder this silly gulf between us and I say, &quot;Why?&quot; Are we really so different. For what is--<br>
+							<br>
+							JERRY: (cutting in) I'm not the one doing the cooking, Newman.<br>
+							<br>
+							NEWMAN: Damn you Seinfeld. You useless pustule. Um, somebody's got something on the griddle. maybe it's Kramer.<br>
+							<br>
+							JERRY: No, he's up on the roof getting some sun with the butter (pauses) Oh no!<br>
+							<br>
+							NEWMAN: Butter?<br>
+							<br>
+							<br>
+							<br>
+							[Back to the airplane. Elaine and Puddy indirectly attack each other.]<br>
+							<br>
+							PASSENGER: (explaining the coins to Elaine) This is the fimty kroner.<br>
+							<br>
+							ELAINE: (to passenger) Oh? You know my last boyfriend, he had a real kroner comprehension problem. Know what I mean? A real cement head.<br>
+							<br>
+							(Puddy and the woman across the aisle share a laugh.)<br>
+							<br>
+							WOMAN: David, you are so funny.<br>
+							<br>
+							PUDDY: Yeah, I know.<br>
+							<br>
+							ELAINE: (grabbing Puddy) What are you doing?<br>
+							<br>
+							PUDDY: It's a long flight, Elaine. I had to get on with my life.<br>
+							<br>
+							ELAINE: By making time with some floozy across the aisle?<br>
+							<br>
+							PUDDY: Yeah, that's right. Well, what's going on over there with you and, uh, Vegetable Lasagna?<br>
+							<br>
+							ELAINE: This guy? He's an idiot. he doesn't mean anything to me.<br>
+							<br>
+							PASSENGER: (hereon known as Vegetable Lasagna) I can hear you.<br>
+							<br>
+							PUDDY: Well, she doesn't mean anything to me either. If it were up to me, we'd still be together.<br>
+							<br>
+							ELAINE: Well maybe I feel the same way.<br>
+							<br>
+							PUDDY: Ok.<br>
+							<br>
+							ELAINE: Ok, so now what?<br>
+							<br>
+							PUDDY: Let's make out.<br>
+							<br>
+							<br>
+							<br>
+							[Roof of Jerry and Kramer's building, very bright and sunny. Kramer is decked out shirtless and sleeping on a lawn chair, and he's bright red.]<br>
+							<br>
+							JERRY: Kramer!<br>
+							<br>
+							KRAMER: Oh, man. I think I cooked myself.<br>
+							<br>
+							JERRY: Look at your skin.<br>
+							<br>
+							KRAMER: Stick a fork in me, Jerry. I'm done.<br>
+							<br>
+							<br>
+							<br>
+							[Jerry's apartment, Kramer walks in.]<br>
+							<br>
+							KRAMER: I'm fried.<br>
+							<br>
+							JERRY: Technically, you're saut&eacute;ed. So, what are you doing for that?<br>
+							<br>
+							KRAMER: Well, I just gotta keep my skin moist so I don't dry out.<br>
+							<br>
+							JERRY: Is that what the doctor said?<br>
+							<br>
+							KRAMER: No, I read an article in Bon Appetit magazine. (grabs a baster) I'll see you later.<br>
+							<br>
+							JERRY: Yea.<br>
+							<br>
+							(George enters limping)<br>
+							<br>
+							KRAMER: Hey.<br>
+							<br>
+							GEORGE: Hey.<br>
+							<br>
+							KRAMER: How you doing? (Kramer leaves)<br>
+							<br>
+							GEORGE: (sniffing) Hmm. Game hen?<br>
+							<br>
+							JERRY: Kind of. Nice limp, you're bringing your work home with you?<br>
+							<br>
+							GEORGE: No, I fake limp on my right. This is a real limp because I sprained my ankle.<br>
+							<br>
+							JERRY: What happened?<br>
+							<br>
+							GEORGE: Well, I was buttering myself up for a nice shave --<br>
+							<br>
+							JERRY: Oh no, not you too?<br>
+							<br>
+							GEORGE: I must have dripped some on the floor and I slipped and...<br>
+							<br>
+							JERRY: You know what's good for that? Relish.<br>
+							<br>
+							(Phone rings, Jerry answers.)<br>
+							<br>
+							JERRY: Hello? Yeah, this is Jerry Seinfeld. What? No. No! No! No!! No!!! Thank you. (Hangs up.) I don't believe this. They've added Bania to the network showcase and he's going on right after me.<br>
+							<br>
+							GEORGE: So what, he's got a couple of good jokes.<br>
+							<br>
+							JERRY: Oh, like what, Ovaltine? Why do dogs drink out of the toilet? Shopping carts with one bad wheel?<br>
+							<br>
+							GEORGE: That's true, that always happens to me.<br>
+							<br>
+							JERRY: You think that's funny?<br>
+							<br>
+							GEORGE: I don't know, I like stuff you don't have to think about too much.<br>
+							<br>
+							JERRY: You like Bania's act. You're a closet Bania fan!<br>
+							<br>
+							GEORGE: Maybe I am.<br>
+							<br>
+							JERRY: Oh, I'm gonna puke.<br>
+							<br>
+							GEORGE: Puke! That's a funny word. Puke. (laughing) Puke! Don't have to think about that.<br>
+							<br>
+							<br>
+							<br>
+							[Elaine and Puddy on the plane.]<br>
+							<br>
+							ELAINE: I can't believe we broke up like that.<br>
+							<br>
+							PUDDY: It was stupid.<br>
+							<br>
+							(Elaine starts reading, Puddy stares off into space.)<br>
+							<br>
+							ELAINE: Do you want something to read?<br>
+							<br>
+							PUDDY: No I'm good.<br>
+							<br>
+							ELAINE: Well, are you going to take a nap or --<br>
+							<br>
+							PUDDY: No.<br>
+							<br>
+							ELAINE: You're just going to sit there staring at the back of a seat?<br>
+							<br>
+							PUDDY: Yeah.<br>
+							<br>
+							(Elaine tries to read but cannot concentrate.)<br>
+							<br>
+							ELAINE: That's it! I cannot take this! I mean, look at this, nothing has changed. We've been back together two hours, we're having the same problems we had 12 hours ago.<br>
+							<br>
+							PUDDY: Tell me about it, I don't know why I ever took you back.<br>
+							<br>
+							ELAINE: Oh, please! I took you back. You know it, I know it, Vegetable Lasagna here knows it.<br>
+							<br>
+							VEGETABLE LASAGNA: Please, please, I don't want to get involved.<br>
+							<br>
+							ELAINE: Ugh, I hope a giant mountain rises out of the ocean and we just ram right into it and end this whole thing!<br>
+							<br>
+							VEGETABLE LASAGNA: Oh God.<br>
+							<br>
+							(Elaine then slams her seat back several times into the legs of the passenger seated behind her.)<br>
+							<br>
+							PASSENGER 2: Ow! Ow!!<br>
+							<br>
+							<br>
+							<br>
+							[Kramer's apartment, Kramer is in the hot tub, Newman is seated beside it, reading &quot;Alive&quot;]<br>
+							<br>
+							NEWMAN: How much longer you gonna be, I'm starving here.<br>
+							<br>
+							KRAMER: Just a few more squirts. Cause I gotta stay juicy.<br>
+							<br>
+							NEWMAN: That smell. It's still with you, huh?<br>
+							<br>
+							KRAMER: Yeah, it's baked on in. Hey, put another stick of butter in. <br>
+							<br>
+							NEWMAN: Here.<br>
+							<br>
+							KRAMER: Yeah, stir it up so it melts.<br>
+							<br>
+							(Newman stirs the hot tub with a lacrosse stick, licking his lips and working himself up.)<br>
+							<br>
+							KRAMER: Oh yea that feels good. Ahh, now I'm simmering.<br>
+							<br>
+							(Newman drops the stick and runs out.)<br>
+							<br>
+							NEWMAN: I'll meet you at the coffee shop.<br>
+							<br>
+							<br>
+							<br>
+							[George and Mr. Thomassoulo at Play Now.]<br>
+							<br>
+							MR. THOMASSOULO: Good morning, George.<br>
+							<br>
+							GEORGE: Good morning, sir.<br>
+							<br>
+							MR. THOMASSOULO: Is there something wrong with your other leg?<br>
+							<br>
+							GEORGE: Oh, no, that's just the old, uh, the old handicap acting up.<br>
+							<br>
+							MR. THOMASSOULO: But your cane's on the wrong side.<br>
+							<br>
+							GEORGE: Oh well, that's, uh, that&iacute;s just because we're, uh, standing on opposite sides.<br>
+							<br>
+							MR.THOMASSOULO: Huh?<br>
+							<br>
+							GEORGE: Yeah, see, uh, when we met, I was over there and, uh, you were over here, so the image, uh, the image was reversed, like, uh, like in the mirror.<br>
+							<br>
+							(They walk over to a mirrored wall.)<br>
+							<br>
+							GEORGE: See? This looks right to you, doesn't it?<br>
+							<br>
+							MR. THOMASSOULO: Uh, yeah, I guess.<br>
+							<br>
+							GEORGE: (passes cane from right to left and back a few times) But, see here. Right. Wrong. Right. Wrong. Right. Right. Wrong--<br>
+							<br>
+							MR. THOMASSOULO: Will you stop it, George? Just stop it! I think I can see what's going on here.<br>
+							<br>
+							<br>
+							<br>
+							[Jerry's apartment, there's a beeping sound coming from the hall. Jerry opens the door, George rolls in on a Rascal scooter.]<br>
+							<br>
+							GEORGE: Well, you're not gonna believe what happened.<br>
+							<br>
+							JERRY: You mugged Stephen Hawking?<br>
+							<br>
+							GEORGE: Play Now thinks I got problems in both legs. My own personal Rascal, Jerry. On the house.<br>
+							<br>
+							(George rides around the apartment.)<br>
+							<br>
+							JERRY: Well it must be comforting to know you'll be going straight to hell at no more than three miles an hour.<br>
+							<br>
+							(Jerry's phone rings, he answers it.)<br>
+							<br>
+							JERRY: Hello?<br>
+							<br>
+							ELAINE: Jerry.<br>
+							<br>
+							JERRY: Hey, Lainie, how's the trip going?<br>
+							<br>
+							ELAINE: Awful. This trip was a *huge* mistake. Huge!<br>
+							<br>
+							VEGETABLE LASAGNA: Please don't shout. I can't take it.<br>
+							<br>
+							JERRY: Who's that?<br>
+							<br>
+							ELAINE: It's Vegetable Lasagna.<br>
+							<br>
+							JERRY: Who?<br>
+							<br>
+							ELAINE: Vegetable Lasagna!<br>
+							<br>
+							VEGETABLE LASAGNA: My name is Magnus.<br>
+							<br>
+							ELAINE: Shut up or I'll snap you in half and stuff you in the overhead!<br>
+							<br>
+							JERRY: Get me some duty free Kahlua.<br>
+							<br>
+							(Jerry hangs up.)<br>
+							<br>
+							GEORGE: How's the trip?<br>
+							<br>
+							JERRY: Sounded good.<br>
+							<br>
+							GEORGE: Well. Gotta motor.<br>
+							<br>
+							JERRY: Hey, if you got any juice left, you might wanna roll by the big showcase tonight.<br>
+							<br>
+							GEORGE: Ah, you still going on in front of Bania, eh?<br>
+							<br>
+							JERRY: That's right, and I'll tell you what. I'm feeling a little off.<br>
+							<br>
+							GEORGE: What are you talking about? (Jerry grins) You're not!<br>
+							<br>
+							JERRY: That's right, I'm taking a dive.<br>
+							<br>
+							GEORGE: You're throwing the set?<br>
+							<br>
+							JERRY: I'm laying down! Then we'll see how he does up there, without all the assistance.<br>
+							<br>
+							GEORGE: Listen Jerry. With all due respect, Bania's voice is the voice of a new generation. My generation.<br>
+							<br>
+							JERRY: We're four months apart.<br>
+							<br>
+							GEORGE: Nevertheless. His time has come.<br>
+							<br>
+							(George tries to back out but his front wheel becomes wedged under Jerry's coffee table.)<br>
+							<br>
+							GEORGE: Now if you will kindly help me unwedge my front wheel, I'll be on my way.<br>
+							<br>
+							(Jerry ignores him, George leans on his horn.)<br>
+							<br>
+							<br>
+							<br>
+							[Newman is seated at the counter at Monks, mumbling to himself.]<br>
+							<br>
+							NEWMAN: Butter. Kramer. Butter. Kramer.<br>
+							<br>
+							(The waitress brings a roasted turkey out on a tray. Newman hallucinates Kramer's head on the turkey.)<br>
+							<br>
+							KRAMER/Turkey: (waving wing) Hey buddy.<br>
+							<br>
+							(Newman screams and runs out of Monks.)<br>
+							<br>
+							<br>
+							<br>
+							[Jerry and Kramer in the back room of a comedy club]<br>
+							<br>
+							KRAMER: Jerry, what are you doing? George tells me you're gonna throw your set?<br>
+							<br>
+							JERRY: That's right, Choochie. Let's see how Bania does without the cushy timeslot.<br>
+							<br>
+							CLUB ANNOUNCER: (OC) Ladies and gentlemen, Jerry Seinfeld!<br>
+							<br>
+							(Jerry removes his jacket to reveal a pair of rainbow-colored suspenders.)<br>
+							<br>
+							JERRY: If you'll excuse me.<br>
+							<br>
+							(Jerry tosses the jacket to Kramer.)<br>
+							<br>
+							KRAMER: Whoa, man!<br>
+							<br>
+							(Jerry bolts through the kitchen door, presumably towards the stage.)<br>
+							<br>
+							JERRY: (OC) Hey everybody! Who's ready to laugh?<br>
+							<br>
+							<br>
+							<br>
+							[Jerry is on stage at the comedy club, Kramer is in the audience.]<br>
+							<br>
+							JERRY: What's the deal with lampshades? I mean if it's a lamp, why do you want shade?<br>
+							<br>
+							(Kramer laughs hysterically, he's the only one.)<br>
+							<br>
+							JERRY: And what's with people getting sick?<br>
+							<br>
+							NEWMAN: Hee hee! Yeah yeah!<br>
+							<br>
+							JERRY: I mean, what's the deal with cancer?<br>
+							<br>
+							MAN IN AUDIENCE: I have cancer!<br>
+							<br>
+							KRAMER: Oh, tough crowd.<br>
+							<br>
+							<br>
+							<br>
+							[George is riding his Rascal scooter on a city sidewalk when he accidentally bumps another scooter as its owner and some friends are walking out of a nearby store.]<br>
+							<br>
+							MAN: Hey, hey! You dented my ride.<br>
+							<br>
+							(George walks back to inspect the damage.)<br>
+							<br>
+							GEORGE: Whatcha got there, the 4-volt? Heh, I did you a favor.<br>
+							<br>
+							MAN: How about I do you a favor upside your head?<br>
+							<br>
+							GEORGE: Oh yeah?<br>
+							<br>
+							MAN: Oh yeah.<br>
+							<br>
+							(George leaps back on his scooter and floors it.)<br>
+							<br>
+							MAN: Hey!<br>
+							<br>
+							WOMAN: Get the bikes.<br>
+							<br>
+							<br>
+							<br>
+							[Jerry returns to the comedy club kitchen to a chorus of boos. he's soaked with sweat. Kramer and Bania are there.]<br>
+							<br>
+							BANIA: Ouch.<br>
+							<br>
+							KRAMER: Well, that wasn't so bad, huh?<br>
+							<br>
+							JERRY: What are you talking about? I bombed!<br>
+							<br>
+							KRAMER: No, you had some good stuff. The cancer bit? I mean, it was edgy, it was not my sort of thing but some of those people out there, they really liked it.<br>
+							<br>
+							JERRY: Like who?<br>
+							<br>
+							KRAMER: Well, that guy who yelled out.<br>
+							<br>
+							JERRY: He *had* cancer!<br>
+							<br>
+							KRAMER: And laughter is the best medicine.<br>
+							<br>
+							JERRY: Hey, sorry Kenny. Guess you got your work cut out for you.<br>
+							<br>
+							CLUB ANNOUNCER: (OC) Ladies and gentlemen, Kenny Bania!<br>
+							<br>
+							(Bania walks out, Jerry leaves, Newman walks in.)<br>
+							<br>
+							KRAMER: Hey, Jerry, he could have used your laugh. He was a big turkey out there.<br>
+							<br>
+							NEWMAN: (salivating) Turkey?<br>
+							<br>
+							KRAMER: A big fat turkey.<br>
+							<br>
+							NEWMAN: I'm sorry I missed that.<br>
+							<br>
+							KRAMER: I tell ya, he worked so hard and then he just--<br>
+							<br>
+							(Kramer accidentally knocks over a bowl of oregano, getting it all over himself.)<br>
+							<br>
+							KRAMER: What is this, oregano?<br>
+							<br>
+							(Just then the other kitchen door swings open and a chef bursts through carrying a bowl of Parmesan cheese. he trips and empties the bowl all over Kramer.)<br>
+							<br>
+							KRAMER: Look at me! I'm all covered in oregano and Parmesan, and it's sticking to me because of the butter! Look at me!<br>
+							<br>
+							(Newman, still salivating, now with a vacant stare, grabs a bunch of green leaves and hands them to Kramer.)<br>
+							<br>
+							NEWMAN: Here. Hold this.<br>
+							<br>
+							KRAMER: What is this, parsley?<br>
+							<br>
+							(Newman makes as if to attack Kramer.)<br>
+							<br>
+							<br>
+							<br>
+							[Jerry watching Bania from the wing.]<br>
+							<br>
+							JERRY: Ah, the sweet stench of failure.<br>
+							<br>
+							(Kramer and Newman, locked in struggle, run past Jerry and onto the stage.)<br>
+							<br>
+							KRAMER: Ah you bit me. Get off of me, get off of me!<br>
+							<br>
+							<br>
+							<br>
+							[City sidewalk, George is leading an extremely low speed chase. Action movie music plays, and pedestrians walk by faster than the scooters. George's battery dies and his scooter stops.]<br>
+							<br>
+							MAN: Now I got you!<br>
+							<br>
+							(George jumps up from the scooter, picks it up and begins hauling it as fast as he can. He meets up with Mr. Thomassoulo who's exiting a building at that moment.)<br>
+							<br>
+							MR. THOMASSOULO: George? Your legs!<br>
+							<br>
+							GEORGE: Are you a religious man, sir?<br>
+							<br>
+							MR. THOMASSOULO: No.<br>
+							<br>
+							(Unbeknownst to George, the old man catches up to him and is about to lay into him with a cane.)<br>
+							<br>
+							MAN: Eat hickory!!<br>
+							<br>
+							(The man swings the cane at George's head)<br>
+							<br>
+							<br>
+							<br>
+							[Jerry, sitting in the bar at the comedy club drinking a glass of champagne. Bania walks in.]<br>
+							<br>
+							BANIA: Hey Jerry, didja see it?<br>
+							<br>
+							JERRY: Ouch.<br>
+							<br>
+							(Two men in suits walk in and introduce themselves.)<br>
+							<br>
+							STU: Kenny! There you are. Jay Shermak and Stu Crespi from NBC. Listen, Kenny. Really funny out there.<br>
+							<br>
+							JERRY: What?<br>
+							<br>
+							JAY: That thing you did having the two guys running through? I love stuff you don't have to think too much about.<br>
+							<br>
+							STU: Give us a call. We want to be in the Kenny Bania business.<br>
+							<br>
+							JAY: By the way, Jerry? The suspenders? A little hacky.<br>
+							<br>
+							BANIA: How about that Jerry? First you had a pilot on NBC and now I'll have one. Looks like I'm following you again.<br>
+							<br>
+							JERRY: Oh, I'm gonna puke.<br>
+							<br>
+							BANIA: Puke? That's a funny word. Can I use that?<br>
+							<br>
+							<br>
+							<br>
+							[Exterior of NYC airport.]<br>
+							<br>
+							ELAINE: David, this has been the worst month of my life and if I never see you again it'll be too soon.<br>
+							<br>
+							PUDDY: Ditto.<br>
+							<br>
+							ELAINE: Oh that's origi-<br>
+							<br>
+							PUDDY: Go to Hell.<br>
+							<br>
+							(Elaine gets into a taxi cab.)<br>
+							<br>
+							ELAINE: 86th and Broadway please.<br>
+							<br>
+							CAB DRIVER: I'm sorry lady, there's a cab shortage. The Transit Police are making everybody share.<br>
+							<br>
+							(Puddy enters the cab on the left.)<br>
+							<br>
+							ELAINE: Oh no.<br>
+							<br>
+							(Vegetable Lasagna enters the cab on the right.)<br>
+							<br>
+							VEGETABLE LASAGNA: Hello! (sees Elaine) Oh no. I'm sorry.<br>
+							<br>
+							ELAINE: Noooooooooooo!<br>
+							<br>
+							(Cab rides away.)<br>
+							<br>
+							<br>
+							(Episode Dedicated to the Memory of Brandon Tartikoff)<br>
+							<br>
+							The End<br>
+						</td>
+						</tr>
+						<tr height="6">
+							<td class="bottom2" width="645" height="6"></td>
+						</tr>
+						<tr>
+							<td width="645">
+								<div align="center">
+									<font size="-1">Copyright 2006 seinology.com | All Rights Reserved | Designed by 13erla</font></div>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+		<p></p>
+	</body>
+
+</html>

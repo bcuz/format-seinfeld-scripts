@@ -1,0 +1,1540 @@
+<tdOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+<html>
+
+	<head>
+		<meta http-equiv="content-type" content="text/html;charset=ISO-8859-1">
+		<meta name="description" content="Top Source for Seinfeld">
+		<meta name="keywords" content="seinfeld, sienfeld, Jerry Seinfeld, Julia Louis Dreyfus, Jason Alexander, Michael Richards, Kramer, George, Costanza, Elaine Benes, morty, Larry David">
+		<title>Seinology.com :: Scripts :: 154-The Millennium</title>
+	<link rel='stylesheet' href='/stylesheet.css' type='text/css'>
+	</head>
+
+	<body>
+			<table align="center" width="787" border="0" cellspacing="0" cellpadding="0">
+				<tr>
+					<td><font size="-2" color="red">Seinology.com - </font><font size="-3" color="black">Where Seinfeld Content and Accuracy Matter Most. Seinfeld scripts in pdf form, Seinfeld episode video clips, Seinfeld episode audio clips, Jerry Seinfeld appearances, Julia Louis-Dreyfus appearances, Michael Richards appearances, Jason Alexander appearances, Seinfeld discussion Forum, Seinfeld Where are they Now? Seinlanguage Newsletter, Popular Seinfeld Lists, Seinfeld episode standup, Seinfeld episode guide, Seinfeld fan fiction. Seinfeld content all on one domain. Seinology.com enjoy your stay.</font></td>
+				</tr>
+			</table>
+		
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr height="100">
+				<td class="logo"></td>
+			</tr>
+			<tr><td class="ads" align="center" background=#8694fa>
+				<script type="text/javascript"><!--
+google_ad_client = "pub-1924026976931416";
+google_ad_width = 728;
+google_ad_height = 90;
+google_ad_format = "728x90_as";
+google_ad_type = "text";
+google_ad_channel = "";
+google_color_border = "FFFFFF";
+google_color_bg = "8694fa";
+google_color_link = "0000FF";
+google_color_text = "000000";
+google_color_url = "002E3F";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></td></tr>
+		</table>
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr>
+				<td valign="top" width="136">
+					<table width="136" border="0" cellspacing="0" cellpadding="0">
+						<tr height="24">
+							<td class="navigation">
+								<div align="center">
+									
+									<b>Navigation</b></div>
+							</td>
+						</tr>
+						<tr height="199">
+							<td class="spacer1" valign="top" width="136" height="199">
+								<div align="center">
+									<font size="-1"><a href="http://www.seinology.com">Home</a><br>
+										<a href="http://board.seinology.com">Forum</a><br>
+										<a href="http://www.seinology.com/av.shtml">Audio/Video</a><br>
+										<a href="http://www.seinology.com/scripts.shtml">Scripts</a><br>
+										<a href="http://www.seinology.com/survivor.shtml">Survivor</a><br>
+										<a href="http://www.seinology.com/fanfics.shtml">Fan Fiction</a><br>
+										<a href="http://www.seinology.com/gallery/">Gallery</a><br>
+										<a href="http://www.seinology.com/newsletter.shtml">Newsletter</a><br>
+										<a href="http://www.seinology.com/lists.shtml">Lists</a><br>
+										<a href="http://www.seinology.com/epguide.shtml">Episode Guide</a><br>
+										<a href="http://www.seinology.com/links.shtml">Links</a><br>
+										<a href="http://www.seinology.com/faqother.shtml">Faq + others</a><br>
+										<a href="http://www.seinology.com/legal.shtml">Legal</a></font></div>
+							</td>
+						</tr>
+						
+						<tr>
+							<td class="nav2" width="136">
+							<div align="center"><b>Search</b></div></td>
+						</tr>
+						<tr>
+							<td class="spacer1" width="136" valign="top"><div align="center"><form method="get" action="http://www.seinology.com/search/search.cgi">
+<p><label for="fdse_Match">Match</label><br>
+<select name="Match" id="fdse_Match" size="1">
+<option value="1">All</option>
+<option value="0">Any</option>
+<option value="2">Phrase</option>
+</select></p>
+<p><label for="fdse_Realm">Where?</label><br>
+<select name="Realm" id="fdse_Realm" size="1">
+<option selected="selected" value="All">EntireSite</option>
+<option value="Ep Guide">Ep Guide</option>
+<option value="Images">Images</option>
+<option value="Lists">Lists</option>
+<option value="Newsletters">Newsletters</option>
+<option value="Scripts">Scripts</option>
+<option value="Notes..Nothing">Notes..Nothing</option>
+</select></p>
+<p><input type="text" name="Terms" size="14" id="fdse_Terms"><br>
+<input type="submit" class="submit" name="submitButtonName" value="Search"></p>
+</div></form></td>
+						</tr>
+						<tr><td class="bottom" width="136" height="10" valign="top">
+						</td>
+						</tr>
+					</table>
+				</td>
+				<td width="4"></td>
+				<td valign="top" width="645">
+					<table width="645" border="0" cellspacing="0" cellpadding="0">
+						<tr height="18">
+							<td width="645" height="35" class="bar">
+								<div align="center">
+									<b><font size="+2" color="black">Script</font></b></div>
+							</td>
+						</tr>
+						<tr height="362">
+							<td class="spacer2" valign="top" width="645" height="362">
+
+						<p><font size="-2">Episode 154 - The Millennium<br>
+							
+						pc: 820 season 8, episode 20<br>
+							
+						Broadcast date: May 1, 1997<br>
+							<br>
+							
+						Written by Jennifer Crittenden<br>
+							
+						Directed by Andy Ackerman<br>
+							<br>
+							
+						-------------------------------------------------------------------------------<br>
+							<br>
+							
+						The Cast<br>
+							
+						Regulars:<br>
+							
+						Jerry Seinfeld ......................&nbsp; Jerry Seinfeld<br>
+							
+						Jason Alexander .................. George Costanza<br>
+							
+						Julia Louis-Dreyfus .............. Elaine Benes<br>
+							
+						Michael Richards .................. Cosmo Kramer<br>
+							<br>
+							
+						Guest Stars:<br>
+							<br>
+							
+						Lauren Graham .................. Valerie<br>
+							
+						Louan Gideon .................... Mrs. Hamilton<br>
+							
+						Victoria Mahoney ............... Gladys<br>
+							
+						Michael Laskin .................... Minkler<br>
+							
+						Bruce Jarchow .................... Mooney<br>
+							
+						Maria Cina .......................... Saleswoman<br>
+							
+						Steve Koren ........................ Himself<br>
+							
+						rc: Wayne Knight ................ Newman<br>
+							
+						rc: Richard Herd ................. Wilhelm<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						==================================================================<br>
+							<br>
+							
+						[Putumayo]<br>
+							<br>
+							
+						(Inside a store full of ethnic merchandise. Elaine is examining some sort of footwear, while behind the counter Gladys is on the phone.)<br>
+							<br>
+							
+						ELAINE: Uh, excuse me.<br>
+							<br>
+							
+						GLADYS: Be with you in a minute. (turns her back to Elaine and continues into phone) No, you shoulda come last night, it was fun.<br>
+							<br>
+							
+						ELAINE: Uhm, I just have a question.<br>
+							<br>
+							
+						GLADYS: (into phone) I know, the margaritas in that place are so strong.<br>
+							<br>
+							
+						ELAINE: (walks up to counter) Helloo? I'd like to buy these hirachis.<br>
+							<br>
+							
+						GLADYS: (into phone) So? What else is goin' on?<br>
+							<br>
+							
+						ELAINE: (shouts) HEY!!<br>
+							<br>
+							
+						GLADYS: Listen, I'll call you back. (to Elaine) Yes? What can I do for you?<br>
+							<br>
+							
+						ELAINE: (tosses the hirachis onto the counter) Nothing. You, just lost a customer.<br>
+							<br>
+							
+						(Elaine stalks to the door, but ruins her exit by trying to push open a door she should pull.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Valerie's Apartment]<br>
+							<br>
+							
+						(Jerry, pulling on his jacket, and Valerie preparing to leave.)<br>
+							<br>
+							
+						VALERIE: Ready to go? I don't wanna miss the previews.<br>
+							<br>
+							
+						JERRY: Me neither. I love the previews. In fact I enjoy being in the theatre cut up(?). Last week after a preview, I yelled out 'Must miss'.<br>
+							<br>
+							
+						VALERIE: I think that I was in that theatre. That, that was really funny.<br>
+							<br>
+							
+						JERRY: Yeah, it got a good laugh. Let me just check my messages before we go.<br>
+							<br>
+							
+						(Valerie heads toward the door. Jerry sits by the phone, lifts the receiver and prepares to dial. As he does so, he notices button '07' on the speed-dial is marked 'JERRY'. He looks surprised and pleased together.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Jerry's Apartment]<br>
+							<br>
+							
+						(Jerry and George stood talking.)<br>
+							<br>
+							
+						GEORGE: So you're on the speed dial?<br>
+							<br>
+							
+						JERRY: After two dates!<br>
+							<br>
+							
+						GEORGE: What number?<br>
+							<br>
+							
+						JERRY: Seven.<br>
+							<br>
+							
+						GEORGE: Wha! You know, it's a pain to change that. You gotta lift up that plastic thing with a pen.<br>
+							<br>
+							
+						(The door opens and Kramer enters. He's carrying a couple of folding chairs in each hand.)<br>
+							<br>
+							
+						KRAMER: Uh, hey buddy.<br>
+							<br>
+							
+						JERRY: Hey.<br>
+							<br>
+							
+						(Kramer carries the chairs across the room.)<br>
+							<br>
+							
+						KRAMER: It all right if I keep these here for a while? I'm having a New Year's Eve party.<br>
+							<br>
+							
+						JERRY: You're gonna keep these here for eight months?!<br>
+							<br>
+							
+						(Kramer props the chairs up against a wall.)<br>
+							<br>
+							
+						KRAMER: No, Jerry. New Year's Eve nineteen ninety-nine. The millennium. I told you about that.<br>
+							<br>
+							
+						JERRY: Kramer, you're gonna leave these chairs here for two and a half years?!<br>
+							<br>
+							
+						KRAMER: You're not gonna see 'em. I got a case of party poppers I'm gonna keep in front of 'em.<br>
+							<br>
+							
+						(Kramer exits. George has taken one of the chairs, unfolded it, and is sat withhis feet up on the back of the couch, hands behind his head.)<br>
+							<br>
+							
+						GEORGE: Hey, so get this. I get a call this morning from one of the Mets front office guys. They wanna take me out to lunch.<br>
+							<br>
+							
+						JERRY: What for?<br>
+							<br>
+							
+						GEORGE: (smiling) I'm on a winning ball club, Jerry. They probably wanna pick my brains.<br>
+							<br>
+							
+						JERRY: Really, why d'you think they're taking you out to lunch?<br>
+							<br>
+							
+						GEORGE: (thoughtful) I have no idea.<br>
+							<br>
+							
+						(Elaine enters, throws her bag on the table. She's in a bad mood.)<br>
+							<br>
+							
+						ELAINE: Alright, I have had it with those Mayans.<br>
+							<br>
+							
+						JERRY: I don't mind the Mayans.<br>
+							<br>
+							
+						(Elaine gets another of the folding chairs.)<br>
+							<br>
+							
+						ELAINE: (unfolding chair) You know that store, Putumayo? (sits) I was trying to buy these hirachis, right, and the saleswoman just completely ignored me.<br>
+							<br>
+							
+						(Kramer enters carrying more chairs.)<br>
+							<br>
+							
+						KRAMER: What, we talking hirachis? I know a great store for hirachis.<br>
+							<br>
+							
+						ELAINE: No, no, not Putumayo.<br>
+							<br>
+							
+						KRAMER: No, no. Cinqo de Mayo. (leaving) Yeah, Marcellino, he turned me on to it, and he's one sixty-fourth Mayan.<br>
+							<br>
+							
+						GEORGE: (slightly worried) You know, I'm starting to get a little nervous about this lunch.<br>
+							<br>
+							
+						ELAINE: What'd you have?<br>
+							<br>
+							
+						(Kramer enters again. This time he has a large bunch of multi-coloured balloons on ribbons. He ties the bunch to Elaine's chair.)<br>
+							<br>
+							
+						KRAMER: Yeah, I'm gonna keep these here too, huh? They'll be alright. (begins to leave)<br>
+							<br>
+							
+						JERRY: Kramer, these balloons aren't gonna stay filled till New Year's!<br>
+							<br>
+							
+						KRAMER: (at the door) Well, those aren't for New Year's. Those are my everyday balloons.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Monk's]<br>
+							<br>
+							
+						(George sits in a booth. Opposite him are two guys from the Mets.)<br>
+							<br>
+							
+						MINKLER: George, we'll be blunt. The Mets need somebody to head up scouting, and we think that someone might be you.<br>
+							<br>
+							
+						GEORGE: (surprise) Head of scouting?<br>
+							<br>
+							
+						MOONEY: Interested?<br>
+							<br>
+							
+						GEORGE: (playing it cool) I'm still here.<br>
+							<br>
+							
+						MINKLER: Now, unfortunately, league rules prevent us from making you an offer while you're still under contract.<br>
+							<br>
+							
+						MOONEY: You understand what we're talking about?<br>
+							<br>
+							
+						GEORGE: So you're talking...<br>
+							<br>
+							
+						MINKLER: No, no.<br>
+							<br>
+							
+						MOONEY: We're *not* talking. We're just, talking.<br>
+							<br>
+							
+						GEORGE: So, you need me to get fired.<br>
+							<br>
+							
+						MINKLER: We didn't say that.<br>
+							<br>
+							
+						MOONEY: We couldn't say that, because even if we did...<br>
+							<br>
+							
+						MINKLER: ...we couldn't say that we said it.<br>
+							<br>
+							
+						MOONEY: You see what we're saying?<br>
+							<br>
+							
+						GEORGE: (jokingly) You are still paying for this lunch?<br>
+							<br>
+							
+						MINKLER: (serious) We didn't say that.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Valerie's Apartment]<br>
+							<br>
+							
+						(Valerie is sitting by her phone, having just finished some adjustment. Jerry arrives, obviously a little rushed.)<br>
+							<br>
+							
+						JERRY: Hi. Sorry I'm late. There's a lotta chairs and balloons in my apartment. How 'bout I make it up to you with dinner?<br>
+							<br>
+							
+						VALERIE: (pointedly) Someplace nice this time?<br>
+							<br>
+							
+						JERRY: Yeah, I'm sorry about that Mongolian barbecue last night. I'd heard good things.<br>
+							<br>
+							
+						VALERIE: (rising) I don't know, got a two in Zagat's.<br>
+							<br>
+							
+						(Valerie rises and leaves the room. As she goes, Jerry sits beside the phone.)<br>
+							<br>
+							
+						JERRY: Lemme just check my messages. (to himself) Maybe a nicer girl called.<br>
+							<br>
+							
+						(Jerry presses the '07' button, without looking.)<br>
+							<br>
+							
+						VOICE (O.C.): Hello?<br>
+							<br>
+							
+						JERRY: Hello? Who's this?<br>
+							<br>
+							
+						VOICE (O.C.): Jane. What number did you dial?<br>
+							<br>
+							
+						(He looks down at the speed-dial and sees button '07' now marked 'JANE', and his name now next to '09'.)<br>
+							<br>
+							
+						JERRY: Seven?<br>
+							<br>
+							<br>
+							<br>
+							
+						[Putumayo]<br>
+							<br>
+							
+						(Gladys is behind the counter. Through the window, Elaine can be seen outside. Elaine bangs on the window to get Gladys' attention.)<br>
+							<br>
+							
+						ELAINE: Hey! See these? (raises her foot so her new hirachis can be seen) Cinqo de Mayo! Sales commission, bye-bye-o! (waves)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Jerry's Apartment]<br>
+							<br>
+							
+						(Jerry and Kramer sit at the table. Jerry reading a newspaper, Kramer with a clipboard. George is heard outside the door.)<br>
+							<br>
+							
+						GEORGE (O.C.): (singing) Meet the Mets...<br>
+							<br>
+							
+						(George enters, looking pleased with himself.)<br>
+							<br>
+							
+						GEORGE: ...meet the Mets. Come on in and greet the Mets.<br>
+							<br>
+							
+						JERRY: Good meeting?<br>
+							<br>
+							
+						GEORGE: There was no meeting. (gets one of the folding chairs) But it was quite a meeting. You are looking at the next director of Mets scouting. The only thing is, I have to get fired from the Yankees first.<br>
+							<br>
+							
+						JERRY: You can do that.<br>
+							<br>
+							
+						GEORGE: Of course. But I really wanna leave my mark this time, you know, uh. I wanna walk away from the Yankees with people saying 'Wow! Now that guy got canned!'<br>
+							<br>
+							
+						JERRY: So you want to go out in a final blaze of incompetence?<br>
+							<br>
+							
+						GEORGE: Ehh. (nostalgic) Remember that summer at Dairy Queen where I cooled my feet in the soft-serve machine?<br>
+							<br>
+							
+						KRAMER: You think people will still be using napkins in the year two-thousand? Or is this mouth-vacuum thing for real?<br>
+							<br>
+							
+						(Jerry and George give Kramer a long look. Then break to continue their own conversation.)<br>
+							<br>
+							
+						JERRY: So, George...<br>
+							<br>
+							
+						GEORGE: Yeah.<br>
+							<br>
+							
+						JERRY: (rising) I had like a so-so date with Valerie, now I'm number nine on the speed-dial.<br>
+							<br>
+							
+						(Jerry moves to the kitchen, with George following.)<br>
+							<br>
+							
+						GEORGE: So?<br>
+							<br>
+							
+						JERRY: So? I used to be seven. I dropped two spots.<br>
+							<br>
+							
+						GEORGE: What, she's ranking you?<br>
+							<br>
+							
+						JERRY: Yeah, this speed-dial's like a relationship barometer.<br>
+							<br>
+							
+						GEORGE: What is a barometer exactly?<br>
+							<br>
+							
+						KRAMER: It's pronounced thermometer.<br>
+							<br>
+							
+						(Jerry gives another look to Kramer. George raises his eyes. Kramer rises and comes over to the guys.)<br>
+							<br>
+							
+						KRAMER: You know, in the year two-thousand, we'll all be on speed-dial. You'll just have to think of a person, they'll be talking to you. It'll be like, wup (judders and puts his hands to his temples, as if receiving a call on a 'mental phone') getting a call here.<br>
+							<br>
+							
+						KRAMER: (to Jerry and George) Hey, it's Newman. (to 'mental phone') Hey, how you doing, Newman?<br>
+							<br>
+							
+						(Jerry begins mouthing 'I'm not here' and making gestures indicating he doesn't want to talk to Newman.)<br>
+							<br>
+							
+						KRAMER: (to 'mental phone') Oh, you wanna talk to Jerry?<br>
+							<br>
+							
+						(Kramer leans toward Jerry, as if to allow him to use the 'mental phone'. Jerry throws his arms up in exasperation.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Valerie's Apartment]<br>
+							<br>
+							
+						(Jerry has just arrived and has presented Valerie with a floral bouquet.)<br>
+							<br>
+							
+						VALERIE: (pleased) Oh, flowers. You didn't have to do that. I mean, the dinner, and the play, and the hansom cab ride.<br>
+							<br>
+							
+						JERRY: Well, I just wanted to... (breaks off) You forgot the gift certificate to Barnes and Noble.<br>
+							<br>
+							
+						VALERIE: Oh.<br>
+							<br>
+							
+						JERRY: (resumes) ...you know, make a good impression.<br>
+							<br>
+							
+						VALERIE: I'm gonna go put these in some water.<br>
+							<br>
+							
+						JERRY: I like the way you think.<br>
+							<br>
+							
+						(Valerie leaves to the kitchen(?). The moment she's gone, Jerry rushes over to the phone. He picks it up to read the list of names on the speed-dial, and finds himself promoted to the '01' button.)<br>
+							<br>
+							
+						JERRY: Oh my God! Number one!! Seinfeld, you magnificent bastard!<br>
+							<br>
+							<br>
+							<br>
+							
+						[Yankees Boardroom]<br>
+							<br>
+							
+						(Wilhelm and some others are sitting around the big table. George is sitting down. He's wearing an old-fashioned baseball jersey. On the table in front of him, he places a large paper bag.)<br>
+							<br>
+							
+						GEORGE: Sorry I'm late, but look what I found in the Yankee Hall of Pride display case.<br>
+							<br>
+							
+						WILHELM: Isn't that Babe Ruth's uniform?<br>
+							<br>
+							
+						GEORGE: Is it? (reaches into bag)<br>
+							<br>
+							
+						(Wilhelm looks disturbed by George's actions.)<br>
+							<br>
+							
+						GEORGE: Huh, strawberries, anyone? (eats a strawberry) Ah, that's good. Ooh, juicy this time of year.<br>
+							<br>
+							
+						(He wipes strawberry juice from his fingers onto Babe Ruth's jersey.)<br>
+							<br>
+							
+						GEORGE: Gotta get the good ones.<br>
+							<br>
+							
+						(He fetches another over-ripe strawberry from the bag, and drops it onto the front of the jersey leaving a pulpy stain.)<br>
+							<br>
+							
+						GEORGE: Oh, that's bad. That's bad.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Jerry's Apartment]<br>
+							<br>
+							
+						(Kramer sits at the table with his clipboard.)<br>
+							<br>
+							
+						KRAMER: So Jerry, my millennium party's really coming together. Will people be able to breathe underwater in the year two-thousand?<br>
+							<br>
+							
+						JERRY: Some of us.<br>
+							<br>
+							
+						KRAMER: (crumpling a piece of paper) I don't wanna exclude anybody.<br>
+							<br>
+							
+						(Elaine enters. She is festooned with Mayan goods. All her clothes, bag, earrings, everything.)<br>
+							<br>
+							
+						JERRY: Hola.<br>
+							<br>
+							
+						ELAINE: Shove it!<br>
+							<br>
+							
+						JERRY: What is all this?<br>
+							<br>
+							
+						ELAINE: I got all this junk at Cinqo de Mayo, because I was trying to show Putumayo how much business they'd lost. I mean, I been dancing (demonstrates dance) and strutting in front of their store for two days.<br>
+							<br>
+							
+						JERRY: Ah, no wonder we're getting so much rain.<br>
+							<br>
+							
+						KRAMER: Elaine, I'm having a millennium party, so save the date.<br>
+							<br>
+							
+						ELAINE: Hey, you know what? Newman sent me an invitation already, to his party.<br>
+							<br>
+							
+						(Elaine fishes in her bag for the invite.)<br>
+							<br>
+							
+						KRAMER: Newman?<br>
+							<br>
+							
+						ELAINE: Yeah.<br>
+							<br>
+							
+						(Elaine hands her invite to Kramer.)<br>
+							<br>
+							
+						KRAMER: (reads) Come celebrate the millennium, with Newmanniun. Newman!<br>
+							<br>
+							<br>
+							<br>
+							
+						[Jerry's Car]<br>
+							<br>
+							
+						(Jerry has stopped to pick someone up. A woman climbs into the passenger side.)<br>
+							<br>
+							
+						JERRY: Hi Valerie.<br>
+							<br>
+							
+						(The woman turns to face him.)<br>
+							<br>
+							
+						JERRY: You're not Valerie.<br>
+							<br>
+							
+						MRS HAMILTON: I'm her step-mother. Drive.<br>
+							<br>
+							
+						(Jerry does as he's told and sets off down the street.)<br>
+							<br>
+							
+						MRS HAMILTON: It's taken me thirteen years to climb up to the top of that speed-dial, and I don't intend to lose my spot to you.<br>
+							<br>
+							
+						JERRY: But, I never...<br>
+							<br>
+							
+						MRS HAMILTON: (threatening) You just stay away from that phone.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Steinbrenner's Office]<br>
+							<br>
+							
+						(Steinbrenner behind his desk. George crosses the floor from the door.)<br>
+							<br>
+							
+						GEORGE: You wanted to see me, sir?<br>
+							<br>
+							
+						STEINBRENNER: I heard about what happened at the meeting this morning...<br>
+							<br>
+							
+						(George looks quietly pleased at his imminent dismissal.)<br>
+							<br>
+							
+						GEORGE: Oh, yes. I already packed up my desk, sir. I can be outta here in an hour.<br>
+							<br>
+							
+						STEINBRENNER: ...and I have to tell you, it's exactly what this organisation needed.<br>
+							<br>
+							
+						(George looks stunned as he realises he's not going to be fired.)<br>
+							<br>
+							
+						STEINBRENNER: We wanna look to the future, we gotta tear down the past. Babe Ruth was nothing more than a fat old man, with little-girl legs. And here's something I just found out recently. He wasn't really a sultan. Ah, what d'you make of that? Hey, check this out. (he stands to reveal he's wearing baseball pants) Lou Gehrig's pants. Not a bad fit. (a thought occurs) Hey, you don't think that nerve disease of his was contagious, do you? Uh, I better take 'em off. I'm too important to this team. (removes the pants to reveal his boxers) Big Stein can't be flopping and twitching.<br>
+							<br>
+							
+						(George is further discomfited by the sight of Steinbrenner in his underwear.)<br>
+							<br>
+							
+						STEINBRENNER: Hey, how 'bout some lunch. What're you going for?<br>
+							<br>
+							<br>
+							<br>
+							
+						[Valerie's Apartment]<br>
+							<br>
+							
+						(Jerry and Valerie are sitting on the couch, eating popcorn.)<br>
+							<br>
+							
+						JERRY: You know uh, Valerie, I uh, couldn't help but notice that I'm on your speed-dial.<br>
+							<br>
+							
+						VALERIE: You deserve it.<br>
+							<br>
+							
+						JERRY: But I can't help thinking that maybe there's someone in your life who deserves it more. Someone you've known, you know, more than a week.<br>
+							<br>
+							
+						VALERIE: My stepmother got to you, didn't she?<br>
+							<br>
+							
+						JERRY: What? No.<br>
+							<br>
+							
+						VALERIE: Uuh, I can't believe she did this again. That's it! She's off the speed-dial completely!<br>
+							<br>
+							
+						(Valerie gets up, stalks to the phone and sets about rejigging her speed-dial.)<br>
+							<br>
+							
+						JERRY: Yikes!<br>
+							<br>
+							<br>
+							<br>
+							
+						[Newman's Apartment]<br>
+							<br>
+							
+						(Newman sits at the table. Kramer has arrived and is holding his invitation.)<br>
+							<br>
+							
+						KRAMER: Well, I just got your invitation to the Newmanniun party.<br>
+							<br>
+							
+						NEWMAN: You just got it? Damn, the mail is slow.<br>
+							<br>
+							
+						KRAMER: (getting worked up) You knew I was having a millennium party, but you just had to throw yours on the same day!<br>
+							<br>
+							
+						NEWMAN: I have done nothing unethical.<br>
+							<br>
+							
+						KRAMER: Yeah, well you're gonna have to cancel it, because I've told everybody about my party.<br>
+							<br>
+							
+						NEWMAN: Cancel! (jumps to feet) Think again, longshanks! I started planning this in nineteen seventy-eight. I put a deposit down on that revolving restaurant that overlooks Times Square, and I booked Christopher Cross.<br>
+							<br>
+							
+						KRAMER: (worked up) Well, what am I gonna do? I got over two hundred folding chairs, and quite a bit of ice.<br>
+							<br>
+							
+						NEWMAN: (thoughtful) What kind?<br>
+							<br>
+							
+						KRAMER: Cubed.<br>
+							<br>
+							
+						NEWMAN: That's good stuff, and you can never have too much ice. Alright, I'll tell you what I'll do. You can co-host the party with me, under one condition. No Jerry. Jerry is not invited.<br>
+							<br>
+							
+						KRAMER: I gotta invite Jerry. He's my buddy.<br>
+							<br>
+							
+						NEWMAN: That he may be. But he's outta my life, starting in the year two-thousand. For me, the next millennium must be, Jerry-free!<br>
+							<br>
+							<br>
+							<br>
+							
+						[Cab]<br>
+							<br>
+							
+						(Jerry and George in the back of a taxi.)<br>
+							<br>
+							
+						JERRY: How could they not fire you?<br>
+							<br>
+							
+						GEORGE: Never thought I'd fail at failing.<br>
+							<br>
+							
+						JERRY: Aw, come on there now.<br>
+							<br>
+							
+						GEORGE: (depressed) Feel like I can't do anything wrong.<br>
+							<br>
+							
+						JERRY: Nonsense. You do everything wrong.<br>
+							<br>
+							
+						GEORGE: (hopeful) Everything?<br>
+							<br>
+							
+						JERRY: Everything.<br>
+							<br>
+							
+						GEORGE: You really think so?<br>
+							<br>
+							
+						JERRY: Absolutely. I have no confidence in you.<br>
+							<br>
+							
+						GEORGE: Alright. I guess I just have to pick myself up, dust myself off, and throw myself right back down again!<br>
+							<br>
+							
+						JERRY: That's the spirit. You suck!<br>
+							<br>
+							
+						GEORGE: (pleased) I know.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Cinqo De Mayo]<br>
+							<br>
+							
+						(Elaine is talking with the saleswoman.)<br>
+							<br>
+							
+						ELAINE: No, no, no no, listen to me. I work in fashion. Together, we can drive Putumayo outta business and make Cinqo de Mayo numero uno... de Mayo.<br>
+							<br>
+							
+						(Gladys comes out behind the counter.)<br>
+							<br>
+							
+						GLADYS: Do you need some help with something?<br>
+							<br>
+							
+						ELAINE: (puzzled) You? What're you doing here?<br>
+							<br>
+							
+						GLADYS: I own this store.<br>
+							<br>
+							
+						ELAINE: No you don't. You own Putumayo. Unless you own both stores. (laughs nervously)<br>
+							<br>
+							
+						GLADYS: I'm Gladys Mayo.<br>
+							<br>
+							
+						(Realization dawns for Elaine. She begins to leave, slowly.)<br>
+							<br>
+							
+						ELAINE: Ah, this really sticks in my craw.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Mrs Hamilton's Apartment]<br>
+							<br>
+							
+						(Jerry and Mrs Hamilton sitting on the couch. Mrs Hamilton is pouring out a couple of glasses of wine.)<br>
+							<br>
+							
+						JERRY: Well, Mrs Hamilton, it's certainly nice that you and Valerie patched things up, so we could all get together like this. Where is Valerie?<br>
+							<br>
+							
+						MRS HAMILTON: I'm sure she'll be along. (handing over a glass) Have some wine, Jerome.<br>
+							<br>
+							
+						JERRY: Okay.<br>
+							<br>
+							
+						(Mrs Hamilton leans back on the couch beside Jerry. She's sitting uncomfortably close to Jerry, and as she speaks she puts an arm along the top of the couch behind Jerry. (To cut it short, this scene plays pretty close to the early Dustin Hoffman/Anne Bancroft scenes in The Graduate.))<br>
+							<br>
+							
+						MRS HAMILTON: You know Jerome, I can understand what Valerie sees in you. So attractive, so strong, so comedic.<br>
+							<br>
+							
+						JERRY: Uh, good.<br>
+							<br>
+							
+						MRS HAMILTON: Jerome, I have a deliciously naughty idea.<br>
+							<br>
+							
+						JERRY: (nervous) What?<br>
+							<br>
+							
+						MRS HAMILTON: Why don't I put you on my speed-dial?<br>
+							<br>
+							
+						JERRY: I don't know, Mrs Hamilton. That doesn't sound...<br>
+							<br>
+							
+						MRS HAMILTON: Don't be such a child, Jerome. How's number three sound?<br>
+							<br>
+							
+						(Jerry leaps to his feet as Mrs Hamilton goes for her phone.)<br>
+							<br>
+							
+						JERRY: Valerie's not coming over, is she?<br>
+							<br>
+							
+						(Mrs Hamilton is programming her phone.)<br>
+							<br>
+							
+						MRS HAMILTON: Seven, four...<br>
+							<br>
+							
+						JERRY: No...<br>
+							<br>
+							
+						MRS HAMILTON: Two...<br>
+							<br>
+							
+						JERRY: Stop, stop. This isn't right. What about Valerie?<br>
+							<br>
+							
+						MRS HAMILTON: I won't tell if you don't.<br>
+							<br>
+							
+						JERRY: (leaving hurriedly) Wuhh...<br>
+							<br>
+							<br>
+							<br>
+							
+						[Kramer's Apartment]<br>
+							<br>
+							
+						(Kramer is asleep, but his sleep is fitful. He tosses and turns.)<br>
+							<br>
+							
+						KRAMER: Jerry... Newman... Two-thousand...<br>
+							<br>
+							
+						(Kramer suddenly sits bolt upright.)<br>
+							<br>
+							
+						KRAMER: (yells) Newmanniun!!<br>
+							<br>
+							
+						(He reaches over to his bedside table and picks up a photograph. It's of himself and Jerry at a previous party, looking happy together.)<br>
+							<br>
+							
+						KRAMER: (whimper) Jerry?<br>
+							<br>
+							
+						(Kramer clutches the photo to his chest, and flops back onto the mattress.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Jerry's Apartment]<br>
+							<br>
+							
+						(Jerry sits on his couch, watching baseball on TV. Steve Koren is commentating.)<br>
+							<br>
+							
+						KOREN (O.C.): Alright, Yankees, two. Orioles, nothing. Wait a minute! A short stocky bald man is streaking across the field.<br>
+							<br>
+							
+						JERRY: Oh my God, George!<br>
+							<br>
+							
+						KOREN (O.C.): Check that. He's not streaking. He's wearing a flesh-tone body-stocking. Apparently, he's a bit bashful, and oddly, no-one seems upset.<br>
+							<br>
+							
+						(Kramer enters.)<br>
+							<br>
+							
+						JERRY: Kramer, look, it's George.<br>
+							<br>
+							
+						KOREN (O.C.): Everyone loves him.<br>
+							<br>
+							
+						KRAMER: Yeah, yeah, I know. (he clicks off the TV) Listen, Jerry, I can't let you come to my New Year's party.<br>
+							<br>
+							
+						JERRY: (neutral) Fine.<br>
+							<br>
+							
+						KRAMER: (agitated) I mean, it's killing me! Newman's got the jump on the invites, and will crush me if I try to go it alone!<br>
+							<br>
+							
+						JERRY: (neutral) No problem.<br>
+							<br>
+							
+						KRAMER: (swung by Jerry's argument) You're right. I won't do it without you. I feel so ashamed I even thought of it, huh.<br>
+							<br>
+							
+						(Elaine enters.)<br>
+							<br>
+							
+						KRAMER: (pleading) Elaine, you can't go to Newman's Newmanniun.<br>
+							<br>
+							
+						ELAINE: (neutral) Okay.<br>
+							<br>
+							
+						KRAMER: No, no, no. You gotta spend New Year's nineteen ninety-nine with me and Jerry.<br>
+							<br>
+							
+						ELAINE: (neutral) Fine.<br>
+							<br>
+							
+						KRAMER: (frustrated shout) Oh come on!!<br>
+							<br>
+							
+						ELAINE: (neutral) Alright.<br>
+							<br>
+							
+						KRAMER: (triumph) Yesss! Alright, so it's you, it's me, and it's Jerry, huh. (claps hands) Yeah, now things are starting to snowball, huh. I'll tell Newman I don't need him. So, I'll uh, see you two in the twenty-first century.<br>
+							<br>
+							
+						(Kramer heads out the door.)<br>
+							<br>
+							
+						ELAINE: (following Kramer to the door) Okay. Kramer, Kramer, wait a minute. Do you still have that pricing-gun?<br>
+							<br>
+							
+						KRAMER: Yeah.<br>
+							<br>
+							
+						ELAINE: Okay, I need you to help me put Putumayo outta business.<br>
+							<br>
+							
+						KRAMER: Can do.<br>
+							<br>
+							
+						(Kramer leaves to his apartment. Elaine begins to follow.)<br>
+							<br>
+							
+						JERRY: What're you doing with a pricing-gun?<br>
+							<br>
+							
+						ELAINE: That place is about to have the sale of the century. Nothing over ninety-nine cents.<br>
+							<br>
+							
+						(Elaine leaves and shuts the door.)<br>
+							<br>
+							
+						JERRY: (to himself) Still a rip-off.<br>
+							<br>
+							
+						(The phone rings. Jerry picks up.)<br>
+							<br>
+							
+						JERRY: Hello?<br>
+							<br>
+							
+						(From here on, the scene is presented in a split-screen format, with Valerie and Mrs Hamilton in their respective apartments, sharing the screen with Jerry as appropriate.)<br>
+							<br>
+							
+						VALERIE: Jerry, I was just at my stepmom's house, and I saw that you were on her speed-dial.<br>
+							<br>
+							
+						JERRY: Uh, well, she uh, probably just wanted to be able to keep tabs on you.<br>
+							<br>
+							
+						(There is a beep on Jerry's phone as another call comes in.)<br>
+							<br>
+							
+						JERRY: Hold on a second.<br>
+							<br>
+							
+						(Jerry clicks the doofer to answer the other call.)<br>
+							<br>
+							
+						JERRY: Hello?<br>
+							<br>
+							
+						MRS HAMILTON: (seductive) Hi Jerome.<br>
+							<br>
+							
+						JERRY: Oh, Mrs Hamilton, this is a very bad time. I've got Valerie on the other line. Just a second.<br>
+							<br>
+							
+						(Jerry clicks.)<br>
+							<br>
+							
+						JERRY: Hello?<br>
+							<br>
+							
+						VALERIE: That's her on the other line, isn't it?<br>
+							<br>
+							
+						JERRY: Well...<br>
+							<br>
+							
+						VALERIE: Tell her I don't want you on her speed-dial.<br>
+							<br>
+							
+						JERRY: Hang on.<br>
+							<br>
+							
+						(Jerry clicks.)<br>
+							<br>
+							
+						JERRY: She knows about the speed-dial. Mrs Hamilton, you gotta get me off this thing.<br>
+							<br>
+							
+						MRS HAMILTON: I won't, until she puts me back on hers.<br>
+							<br>
+							
+						JERRY: Hang on.<br>
+							<br>
+							
+						(Jerry clicks.)<br>
+							<br>
+							
+						JERRY: She wants to be back on yours.<br>
+							<br>
+							
+						VALERIE: Fine. But only if you're off hers.<br>
+							<br>
+							
+						JERRY: Hang on.<br>
+							<br>
+							
+						(Jerry clicks.)<br>
+							<br>
+							
+						JERRY: Fine, if I'm off yours.<br>
+							<br>
+							
+						VALERIE: No, still me.<br>
+							<br>
+							
+						JERRY: Sorry. Hang on.<br>
+							<br>
+							
+						(Jerry clicks.)<br>
+							<br>
+							
+						JERRY: Fine, if I'm off yours.<br>
+							<br>
+							
+						MRS HAMILTON: I won't do it. It's my speed-dial, and I don't trust her.<br>
+							<br>
+							
+						JERRY: Please, Mrs Hamilton, this is very awkward for me.<br>
+							<br>
+							
+						MRS HAMILTON: (conspiratorial) Alright. I'll hide you in one of the emergency buttons.<br>
+							<br>
+							
+						JERRY: (hurried) Great, bye.<br>
+							<br>
+							
+						(Jerry clicks.)<br>
+							<br>
+							
+						JERRY: She said she'll do it.<br>
+							<br>
+							
+						VALERIE: Great.<br>
+							<br>
+							
+						(There's another beep, as another call comes in.)<br>
+							<br>
+							
+						JERRY: Hang on.<br>
+							<br>
+							
+						(Jerry clicks.)<br>
+							<br>
+							
+						JERRY: Hello?<br>
+							<br>
+							<br>
+							<br>
+							
+						[Yankee Stadium]<br>
+							<br>
+							
+						(George is at a public telephone, wearing the flesh-tone body-stocking and looking thoroughly dejected.)<br>
+							<br>
+							
+						GEORGE: Jerry. I can't get fired.<br>
+							<br>
+							
+						(A passing fan spots him.)<br>
+							<br>
+							
+						FAN: Hey, body-suit man. 's up?<br>
+							<br>
+							
+						(He slaps palms with George, who doesn't look especially pleased by the attention. The fan points out George to more fans.)<br>
+							<br>
+							
+						FAN: (pointing) Hey, body-suit man.<br>
+							<br>
+							
+						(The fans gather round, making positive noises. George looks resigned to his minor celebrity.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Putumayo]<br>
+							<br>
+							
+						(Gladys is behind the counter. Outside the door, Elaine peers in for a second before she moves back out of sight. Then, a be-suited Kramer is pushed into sight. He enters the store, smoking a cigar.)<br>
+							<br>
+							
+						KRAMER: Hi, I'm H.E. Pennypacker. I'm a wealthy American industrialist uh, looking to open a silver mine in the mountains of Peru and uh, before I invest millions in a lucrative mine, I, I'd like to go a little native. Uh, Get the feel of their condiments, of their unmentionables, you know, the real uh, gritty-gritty.<br>
+							<br>
+							
+						(He notices a bowl of chips beside the register and helps himself to some.)<br>
+							<br>
+							
+						GLADYS: Well, lemme show you what we have.<br>
+							<br>
+							
+						KRAMER: Well uh, I think I can just browse around on my own.<br>
+							<br>
+							
+						KRAMER: (re the chips) Hmm, Macchu Picchu. Are these free?<br>
+							<br>
+							
+						GLADYS: Yeah.<br>
+							<br>
+							
+						KRAMER: Hmm-mmm.<br>
+							<br>
+							
+						(Kramer strolls over to a rack and grabs a selection of a half-dozen items. He then heads for the changing room.)<br>
+							<br>
+							
+						GLADYS: Some of those are women's clothes.<br>
+							<br>
+							
+						KRAMER: Oh, not a problem.<br>
+							<br>
+							
+						(He pulls the curtain shut. The sound of a pricing gun can be heard. The clicking goes on for a couple of seconds, and then the gun is dropped. It lands by Kramer's feet and breaks, Kramer then exacerbates his problem by kicking the gun as he tries to retrieve it.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Yankee's Parking Lot]<br>
+							<br>
+							
+						(George is driving his car in a circle in the parking lot. Trailing behind the car, on a rope, is a trophy which bounces and clatters on the tarmac. George is leaning out of the car window, with a megaphone.)<br>
+							<br>
+							
+						GEORGE: Attention Steinbrenner and front-office morons! Your triumphs mean nothing. You all stink. You can sit on it, and rotate! This is George Costanza. I fear no reprisal. Extension five-one-seven-oh.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Putumayo]<br>
+							<br>
+							
+						(Gladys is still behind the counter. Valerie and Mrs Hamilton are browsing the racks. Elaine enters and, holding her hand up to hide her face, she walks over to the changing room, pulls back the curtain and enters.)<br>
+							<br>
+							
+						KRAMER: L'Occupado.<br>
+							<br>
+							
+						ELAINE: Come on, what is taking you so long?<br>
+							<br>
+							
+						KRAMER: Elaine, I broke the price-gun, so I had to move to plan B.<br>
+							<br>
+							
+						ELAINE: Plan B? There is no plan B.<br>
+							<br>
+							
+						KRAMER: (holds up some small white sachets) I took these out of every single garment in the store.<br>
+							<br>
+							
+						ELAINE: What?!<br>
+							<br>
+							
+						KRAMER: They're dessicates. See, they absorb moisture. (gleeful) These clothes won't last five years without 'em.<br>
+							<br>
+							
+						ELAINE: That's not gonna do anything.<br>
+							<br>
+							
+						KRAMER: Patience.<br>
+							<br>
+							
+						ELAINE: Alright. Forget it!<br>
+							<br>
+							
+						KRAMER: What?<br>
+							<br>
+							
+						ELAINE: You have screwed me again, Pennypacker!<br>
+							<br>
+							
+						(Elaine leaves, hurrying through the store with her face shielded again.)<br>
+							<br>
+							
+						GLADYS: Ladies, care for some chips?<br>
+							<br>
+							
+						KRAMER: (emerging from the changing room) Well, I don't mind if I do.<br>
+							<br>
+							
+						(He takes a chip and dips it. As he loads the chip with the dip, a sachet of dessicate falls from his sleeve into the dip. He doesn't notice, and after consuming the chip he deposits the bundle of clothing onto the counter.)<br>
+							<br>
+							
+						KRAMER: Well, I've uh, I've changed my mind. I think I'm going to build a rollercoaster instead.<br>
+							<br>
+							
+						(Kramer leaves. Mrs Hamilton comes over to the counter, takes a chip, dips it into the dessicate-laced dip and eats it.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Steinbrenner's Office]<br>
+							<br>
+							
+						(George stands before Steinbrenner's desk, in his shirt-sleeves, nonchalantly eating something. He occasionally shrugs at Steinbrenner's remarks.)<br>
+							<br>
+							
+						STEINBRENNER: I heard what you did in the parking lot, big boy, and it is in-excuse-a-bull. You personally insulted me, my staff... I cannot believe that you, body-suit man, could perpetrate such a disloyalty. Breaks my heart to say it... Oh, who am I kidding? I love it. You're fi...<br>
+							<br>
+							
+						(George looks expectant, as Steinbrenner reaches this point. Suddenly, Mr Wilhelm enters the office.)<br>
+							<br>
+							
+						WILHELM: Wait, wait, Mr Steinbrenner. George doesn't deserve any of the blame for what happened in the parking lot today, sir. If there's anyone to blame here, it's me.<br>
+							<br>
+							
+						(George stares at Wilhelm in disbelief.)<br>
+							<br>
+							
+						STEINBRENNER: What're you talking about, Wilhelm. You popping pills? You got the crazies again?<br>
+							<br>
+							
+						WILHELM: No, no. No, no, sir. I ordered George to drive around insulting people today. Because I'm tired of all your macho head games.<br>
+							<br>
+							
+						GEORGE: (agitated) He's lying, sir! I'm tired of all your macho head games!<br>
+							<br>
+							
+						STEINBRENNER: Macho head games?<br>
+							<br>
+							
+						WILHELM: (puts arm round George's shoulder) He's just being loyal to me, sir.<br>
+							<br>
+							
+						STEINBRENNER: Wilhelm, you're fired. I owe you an apology, body-suit man. Streak on. (rising) Now, if you gentlemen'll excuse me, I'm not going to the game today, I'm gonna go outside and scalp some tickets. (heads toward the door) Owner's box, that's gotta bring in forty bucks, no problem.<br>
+							<br>
+							
+						GEORGE: Mr Wilhelm, what was that?!<br>
+							<br>
+							
+						WILHELM: I wanted to get fired. George, you are looking at the new head scout of the New York Mets.<br>
+							<br>
+							
+						(Wilhelm walks away toward the door, leaving George looking crushed.)<br>
+							<br>
+							
+						WILHELM: (singing) Meet the Mets, meet the Mets. Come right out and greet the Mets.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Jerry's Apartment]<br>
+							<br>
+							
+						KRAMER: I don't know what Elaine is so upset about. I mean, without dessicates, those clothes'll be noticeably musty in five years.<br>
+							<br>
+							
+						JERRY: She never sees the big picture.<br>
+							<br>
+							
+						(There's a knock at the door. Jerry opens it to reveal Newman.)<br>
+							<br>
+							
+						JERRY: Hello, Newman!<br>
+							<br>
+							
+						NEWMAN: Hello Jerry. (to Kramer) What did you say to Elaine? I just got her cancellation in the mail.<br>
+							<br>
+							
+						KRAMER: Oh, well I guess she found some place better to go.<br>
+							<br>
+							
+						NEWMAN: Well, it's her mistake. Because she is going to miss the party of a lifetime.<br>
+							<br>
+							
+						KRAMER: Well, maybe so, but come midnight, when she's looking for someone warm and cuddly to kiss, I guess you'll be caught between the moon and New York City.<br>
+							<br>
+							
+						NEWMAN: Alright. Come back to my party, please.<br>
+							<br>
+							
+						KRAMER: Jerry too, of course.<br>
+							<br>
+							
+						NEWMAN: (reluctant) You don't wanna do your... act, or anything, do you?<br>
+							<br>
+							
+						JERRY: No.<br>
+							<br>
+							
+						NEWMAN: Alright then, I guess I can accept a little Jerry, if it gets me a (suggestive) lot of Elaine.<br>
+							<br>
+							
+						(Jerry pulls a disgusted face.)<br>
+							<br>
+							
+						KRAMER: Deal?<br>
+							<br>
+							
+						NEWMAN: To the Newmanniun! (holds out his hand)<br>
+							<br>
+							
+						KRAMER: (grasps Newman's hand) To the Kramennium.<br>
+							<br>
+							
+						(Kramer and Newman move to the door to leave. Newman stops as Jerry speaks to him, and Kramer exits to his apartment.)<br>
+							<br>
+							
+						JERRY: By the way Newman, I'm just curious. When you booked the hotel, did you book it for the millennium New Year?<br>
+							<br>
+							
+						NEWMAN: (smug) As a matter of fact, I did.<br>
+							<br>
+							
+						JERRY: Oh, that's interesting, because as everyone knows, since there was no year zero, the millennium doesn't begin until the year two-thousand and one. Which would make your party, one year late, and thus, quite lame.<br>
+							<br>
+							
+						(Newman absorbs the logic of Jerry's argument. His face twitches as he realises his error.)<br>
+							<br>
+							
+						JERRY: Aww!<br>
+							<br>
+							
+						(Newman makes a noise redolent of his frustration - a sort of half-strangulated nasal squeak. He then waddles away after Kramer.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Mrs Hamilton's Apartment]<br>
+							<br>
+							
+						(Valerie and Mrs Hamilton sit on the couch. Mrs Hamilton looks nauseous.)<br>
+							<br>
+							
+						MRS HAMILTON: I don't feel well at all. I feel all dried-out inside.<br>
+							<br>
+							
+						VALERIE: I'll call for help.<br>
+							<br>
+							
+						(She picks up the phone and pushes a button marked 'Poison Control'.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Mrs Hamilton's Apartment/Jerry's Apartment]<br>
+							<br>
+							
+						JERRY: Hello?<br>
+							<br>
+							
+						VALERIE: Who's this?<br>
+							<br>
+							
+						JERRY: It's Jerry. Who's this?<br>
+							<br>
+							
+						VALERIE: Uh, it's Valerie.<br>
+							<br>
+							
+						JERRY: Oh, hi Valerie. What's up?<br>
+							<br>
+							
+						VALERIE: I'll tell you what's up. My stepmother is violently ill, so I hit the button for poison control and I get you!<br>
+							<br>
+							
+						JERRY: Wow, poison control? That's even higher than number one!<br>
+							<br>
+							
+						(Valerie hangs up the phone.)<br>
+							<br>
+							
+						JERRY: Hello?<br>
+							<br>
+							<br>
+							
+						The End</td>
+						</tr>
+						<tr height="6">
+							<td class="bottom2" width="645" height="6"></td>
+						</tr>
+						<tr>
+							<td width="645">
+								<div align="center">
+									<font size="-1">Copyright 2006 seinology.com | All Rights Reserved | Designed by 13erla</font></div>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+		<p></p>
+	</body>
+
+</html>

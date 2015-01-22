@@ -1,0 +1,1120 @@
+<tdOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+<html>
+
+	<head>
+		<meta http-equiv="content-type" content="text/html;charset=ISO-8859-1">
+		<meta name="description" content="Top Source for Seinfeld">
+		<meta name="keywords" content="seinfeld, sienfeld, Jerry Seinfeld, Julia Louis Dreyfus, Jason Alexander, Michael Richards, Kramer, George, Costanza, Elaine Benes, morty, Larry David">
+		<title>Seinology.com :: Scripts :: 110-The Understudy</title>
+	<link rel='stylesheet' href='/stylesheet.css' type='text/css'>
+	</head>
+
+	<body>
+			<table align="center" width="787" border="0" cellspacing="0" cellpadding="0">
+				<tr>
+					<td><font size="-2" color="red">Seinology.com - </font><font size="-3" color="black">Where Seinfeld Content and Accuracy Matter Most. Seinfeld scripts in pdf form, Seinfeld episode video clips, Seinfeld episode audio clips, Jerry Seinfeld appearances, Julia Louis-Dreyfus appearances, Michael Richards appearances, Jason Alexander appearances, Seinfeld discussion Forum, Seinfeld Where are they Now? Seinlanguage Newsletter, Popular Seinfeld Lists, Seinfeld episode standup, Seinfeld episode guide, Seinfeld fan fiction. Seinfeld content all on one domain. Seinology.com enjoy your stay.</font></td>
+				</tr>
+			</table>
+		
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr height="100">
+				<td class="logo"></td>
+			</tr>
+			<tr><td class="ads" align="center" background=#8694fa>
+				<script type="text/javascript"><!--
+google_ad_client = "pub-1924026976931416";
+google_ad_width = 728;
+google_ad_height = 90;
+google_ad_format = "728x90_as";
+google_ad_type = "text";
+google_ad_channel = "";
+google_color_border = "FFFFFF";
+google_color_bg = "8694fa";
+google_color_link = "0000FF";
+google_color_text = "000000";
+google_color_url = "002E3F";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></td></tr>
+		</table>
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr>
+				<td valign="top" width="136">
+					<table width="136" border="0" cellspacing="0" cellpadding="0">
+						<tr height="24">
+							<td class="navigation">
+								<div align="center">
+									
+									<b>Navigation</b></div>
+							</td>
+						</tr>
+						<tr height="199">
+							<td class="spacer1" valign="top" width="136" height="199">
+								<div align="center">
+									<font size="-1"><a href="http://www.seinology.com">Home</a><br>
+										<a href="http://board.seinology.com">Forum</a><br>
+										<a href="http://www.seinology.com/av.shtml">Audio/Video</a><br>
+										<a href="http://www.seinology.com/scripts.shtml">Scripts</a><br>
+										<a href="http://www.seinology.com/survivor.shtml">Survivor</a><br>
+										<a href="http://www.seinology.com/fanfics.shtml">Fan Fiction</a><br>
+										<a href="http://www.seinology.com/gallery/">Gallery</a><br>
+										<a href="http://www.seinology.com/newsletter.shtml">Newsletter</a><br>
+										<a href="http://www.seinology.com/lists.shtml">Lists</a><br>
+										<a href="http://www.seinology.com/epguide.shtml">Episode Guide</a><br>
+										<a href="http://www.seinology.com/links.shtml">Links</a><br>
+										<a href="http://www.seinology.com/faqother.shtml">Faq + others</a><br>
+										<a href="http://www.seinology.com/legal.shtml">Legal</a></font></div>
+							</td>
+						</tr>
+						
+						<tr>
+							<td class="nav2" width="136">
+							<div align="center"><b>Search</b></div></td>
+						</tr>
+						<tr>
+							<td class="spacer1" width="136" valign="top"><div align="center"><form method="get" action="http://www.seinology.com/search/search.cgi">
+<p><label for="fdse_Match">Match</label><br>
+<select name="Match" id="fdse_Match" size="1">
+<option value="1">All</option>
+<option value="0">Any</option>
+<option value="2">Phrase</option>
+</select></p>
+<p><label for="fdse_Realm">Where?</label><br>
+<select name="Realm" id="fdse_Realm" size="1">
+<option selected="selected" value="All">EntireSite</option>
+<option value="Ep Guide">Ep Guide</option>
+<option value="Images">Images</option>
+<option value="Lists">Lists</option>
+<option value="Newsletters">Newsletters</option>
+<option value="Scripts">Scripts</option>
+<option value="Notes..Nothing">Notes..Nothing</option>
+</select></p>
+<p><input type="text" name="Terms" size="14" id="fdse_Terms"><br>
+<input type="submit" class="submit" name="submitButtonName" value="Search"></p>
+</div></form></td>
+						</tr>
+						<tr><td class="bottom" width="136" height="10" valign="top">
+						</td>
+						</tr>
+					</table>
+				</td>
+				<td width="4"></td>
+				<td valign="top" width="645">
+					<table width="645" border="0" cellspacing="0" cellpadding="0">
+						<tr height="18">
+							<td width="645" height="35" class="bar">
+								<div align="center">
+									<b><font size="+2" color="black">Script</font></b></div>
+							</td>
+						</tr>
+						<tr height="362">
+							<td class="spacer2" valign="top" width="645" height="362">
+
+						<p><font size="-2">Episode 110 - The Understudy<br>
+							
+						pc: 621, season 6, episode 24<br>
+							
+						Broadcast date: May 18, 1995<br>
+							<br>
+							
+						Written by Marjorie Gross &amp; Carol Leifer<br>
+							
+						Directed by Andy Ackerman<br>
+							<br>
+							
+						-------------------------------------------------------------------------------<br>
+							<br>
+							
+						The Cast<br>
+							
+						Regulars:<br>
+							
+						Jerry Seinfeld ....................... Jerry Seinfeld<br>
+							
+						Jason Alexander .................. George Costanza<br>
+							
+						Julia Louis-Dreyfus ............. Elaine Benes<br>
+							
+						Michael Richards ................. Cosmo Kramer<br>
+							<br>
+							
+						Guest Stars:<br>
+							<br>
+							
+						Bette Midler ............................. Herself<br>
+							
+						June Kyoko Lu ........................ Ruby<br>
+							
+						Amy Hill .................................. Kim<br>
+							
+						Adelaide Miller ........................ Gennice<br>
+							
+						Bok Yun Chon ......................... Lotus<br>
+							
+						Vonnie C. Rhee ........................ Sunny<br>
+							
+						Craig Thomas .......................... Player #1<br>
+							
+						Michael James McDonald ........ Player #2<br>
+							
+						Lou DiMaggio ......................... Stagehand<br>
+							
+						Jason Beck ............................... Umpire<br>
+							
+						Bob Shaw ................................ Cabbie<br>
+							
+						Johnny Silver ........................... Vendor #1<br>
+							
+						William Bastiani ....................... Vendor #2<br>
+							
+						rc: Jerry Stiller ......................... Frank Costanza<br>
+							
+						rc: John O'Hurley .................... J. Peterman<br>
+							
+						&nbsp;<br>
+							
+						==================================================================<br>
+							<br>
+							
+						[Music from the movie &quot;Beaches&quot; playing on TV in the background)&#133; &quot;You'll never know &#133;.]<br>
+							<br>
+							
+						GENNICE: (Crying) (sob sob)<br>
+							<br>
+							
+						JERRY: (To himself) Now what am I supposed to do here? Shall I go over there? It's not like somebody died. It's &quot;Beaches&quot; for god's sake. If she was sitting next to me I'd put my arm around her. I can't be making a big move like going all the way over there. I can't. I won't.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Next day, Jerry and George enter Jerry's apartment]<br>
+							<br>
+							
+						JERRY: She calls me this morning and tells me she's upset I didn't console her. I mean it was &quot;Beaches&quot; for god's sake. What, what do you do in a situation like that?<br>
+							<br>
+							
+						GEORGE: Where were you?<br>
+							<br>
+							
+						JERRY: I was sitting on the chair. She was over here on the couch.<br>
+							<br>
+							
+						GEORGE: Well you know, if you were sitting right next to her you'd have to console her no matter what.<br>
+							<br>
+							
+						JERRY: Of course.<br>
+							<br>
+							
+						GEORGE: When you're talking about a movie like &quot;Beaches&quot;, moving from the chair to the couch , . . . that's quite a voyage.<br>
+							<br>
+							
+						JERRY: yeah,<br>
+							<br>
+							
+						(Kramer enters)<br>
+							<br>
+							
+						KRAMER: Hey.<br>
+							<br>
+							
+						GEORGE: Hey. I gotta go.<br>
+							<br>
+							
+						KRAMER: Where you going?<br>
+							<br>
+							
+						JERRY: The Improv is playing &quot;Rochelle Rochelle&quot; The musical.<br>
+							<br>
+							
+						KRAMER: Really? What is Bette Midler playing? Is she going to be there?<br>
+							<br>
+							
+						JERRY: She might be. She's the star of the show.<br>
+							<br>
+							
+						KRAMER: Bette Midler is going to be in the park today? Yeeee. Jerry, don't tease me.<br>
+							<br>
+							
+						GEORGE: I didn't know you were such a Bette Midler fan.<br>
+							<br>
+							
+						KRAMER: So maybe I'll go down there and watch, uh? She'll be there, ,maybe.<br>
+							<br>
+							
+						GEORGE: Gennice palying today?<br>
+							<br>
+							
+						JERRY: Yeah, maybe.<br>
+							<br>
+							
+						KRAMER: Who's Gennice?<br>
+							<br>
+							
+						JERRY: That's the understudy. I'm dating her.<br>
+							<br>
+							
+						KRAMER: Oh, uh, is this uh, Bette Midler's understudy?<br>
+							<br>
+							
+						JERRY: Yeah.<br>
+							<br>
+							
+						KRAMER: Oh, understudies are a very shifty bunch. The substitute teachers of the theater world.<br>
+							<br>
+							
+						JERRY: I'm glad she's an understudy. I don't have to avoid going back stage and having to think of something to say.<br>
+							<br>
+							
+						GEORGE: Going backstage is the worst. Especially when they stink. You know that's a real problem.<br>
+							<br>
+							
+						JERRY: Just once I would like to tell someone they stink. You know what? I doidn't like the show. I didn't like you. It just really stunk. The whole thing&#133;real bad. Stinkaroo. Thanks for the tickets though.<br>
+							<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						[Ruby's Nail Parlor&nbsp; - Korean language in quotes]<br>
+							<br>
+							
+						RUBY: You late.<br>
+							<br>
+							
+						ELAINE: I know I know. I didn't have change for the bus and they don't give change in this city. So they threw me off the bus<br>
+							<br>
+							
+						RUBY: &quot;That's a shame&quot;. You'll have to wait for Lotus now.<br>
+							<br>
+							
+						ELAINE: How long do you think this will take. I have a millllioooon things to do.<br>
+							<br>
+							
+						RUBY: &quot;Mustn't keep the princess waiting. Princess in a big hurry.&quot; &quot;No change for bus&quot; &quot;Poor princess.&quot;<br>
+							<br>
+							
+						ELAINE: What?, uh?<br>
+							<br>
+							
+						RUBY: Nothing, won't be long.<br>
+							<br>
+							
+						LOTUS: &quot;Princess wants a manicure.&quot;<br>
+							<br>
+							
+						SUNNY: &quot;Oh lucky me.&quot;<br>
+							<br>
+							
+						LOTUS: &quot;Oh, you got the princess.&quot;<br>
+							<br>
+							
+						ELAINE: What is so funny?<br>
+							<br>
+							
+						RUBY: &#133;tell knock-knock joke.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Baseball diamond in the park]<br>
+							<br>
+							
+						ELAINE: The Korean women were talking about me. I think they were calling me a dog.<br>
+							<br>
+							
+						JERRY: How would you know? You don't speak Korean.<br>
+							<br>
+							
+						ELAINE: Because this woman came in with a dog and Ruby called the dog the same word they used when they were pointing at me&#133;ge ge ge<br>
+							<br>
+							
+						KRAMER: You know, maybe in Korean &quot;dog&quot; isn't an insult. Could be like the word &quot;fox&quot; to us. Oh, she's a DOG!<br>
+							<br>
+							
+						JERRY: Why don't you go to another nail shop?<br>
+							<br>
+							
+						ELAINE: Because they're the best Jerry, the best. Look. Maybe I'm just being paranoid.<br>
+							<br>
+							
+						JERRY: What you need is a translator to go in the shop with you and tell you what they're saying.<br>
+							<br>
+							
+						ELAINE: Yeah, who speaks Korean?<br>
+							<br>
+							
+						JERRY: You know who speaks Korean?<br>
+							<br>
+							
+						ELAINE: No, who?<br>
+							<br>
+							
+						JERRY: George's father.<br>
+							<br>
+							
+						ELAINE: You gotta' be kidding me. How does he speak Korean?<br>
+							<br>
+							
+						JERRY: He used to go there a lot on business.<br>
+							<br>
+							
+						ELAINE: What did he do?<br>
+							<br>
+							
+						JERRY: He sold religious articles the statues of Jesus, the virgin Mary, that were manufactured in Korea.<br>
+							<br>
+							
+						ELAINE: Uh,<br>
+							<br>
+							
+						JERRY: George, does your father speak Korean?<br>
+							<br>
+							
+						GEORGE: Yeah, he once bumped into reverend Yung Sun Moon.<br>
+							<br>
+							
+						JERRY: Oh, hi Gennice.<br>
+							<br>
+							
+						GENNICE: Hi Jerry.<br>
+							<br>
+							
+						JERRY: This is George, this is Kramer.<br>
+							<br>
+							
+						GENNICE: Nice to meet you.<br>
+							<br>
+							
+						JERRY: Playing today?<br>
+							<br>
+							
+						GENNICE: No. I'm on the bench today.<br>
+							<br>
+							
+						JERRY: They really stick to that understudy rule.<br>
+							<br>
+							
+						KRAMER: So she's coming?<br>
+							<br>
+							
+						GENNICE: Oh, yeah, she'll be here. . . .(DROPS HOT DOG) Oh no, my frankfurter, my frankfurter fell (sob sob sob sob) . It was really good. I can't believe that I dropped it. (sob sob sob sob)<br>
+							<br>
+							
+						JERRY: It's okay&#133;it's just a hot dog, (still sobbing) everything is going to be okay.<br>
+							<br>
+							
+						GENNICE: No it (sob) was really good.<br>
+							<br>
+							
+						(Crowd yelling - Bette arrives)<br>
+							<br>
+							
+						KRAMER: Look it's Bette It's Bette! Ah, Ah, AH, . . . Bette, psst, hi.<br>
+							<br>
+							
+						BETTE: Hi.<br>
+							<br>
+							
+						KRAMER: Uh, I just want to say I think you're wonderful.<br>
+							<br>
+							
+						BETTE: Uh, thank you.<br>
+							<br>
+							
+						KRAMER: Yeah, I've seen you in everything you've done.<br>
+							<br>
+							
+						BETTE: Really?<br>
+							<br>
+							
+						KRAMER: Anything I can get you? Water? They got ice over here.<br>
+							<br>
+							
+						BETTE: What flavours do they have?<br>
+							<br>
+							
+						KRAMER: Chocolate, Lemon, and uh, Cherry.<br>
+							<br>
+							
+						BETTE: How about Pineapple?<br>
+							<br>
+							
+						KRAMER: Pineapple, sure, alright, I'll be right back.<br>
+							<br>
+							<br>
+							<br>
+							
+						[First Italian ice cream seller]<br>
+							<br>
+							
+						ICE CREAM VENDER #1: No pineapple. Just Cherry, Lemon and Tutti-Frutti<br>
+							<br>
+							
+						KRAMER: Oh, uh, uh. (Leaves)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Monk's]<br>
+							<br>
+							
+						ELAINE: Anyway, Mr. Costanza, what I want you to do is to come to the shop with me and tell me what they are saying. You do speak Korean?<br>
+							<br>
+							
+						FRANK: I once talked to the reverend Yung Son Moon. He bought two Jesus statues from me. He's a hell of a nice guy.<br>
+							<br>
+							
+						ELAINE: uh, ha.<br>
+							<br>
+							
+						FRANK: Ever see that face on him? Like a Biiig apple pie.<br>
+							<br>
+							
+						ELAINE: Yeah, yeah. Uh, uh listen Mr. Costanza, if uh, if you do this for me I'll get you a manicure, I'll pay for it. Or you can get a pedicure if you want.<br>
+							<br>
+							
+						FRANK: No one is touching my feet. Between you and me, Elaine, I think I've got a foot odour problem.<br>
+							<br>
+							
+						(Baseball diamond- Bette at bat)<br>
+							<br>
+							
+						GEORGE: I watched &quot;Beaches&quot; on cable last night. &#133;(wings?) &#133; Give me a break.<br>
+							<br>
+							
+						BETTE: Get some talent then you can mouth off.<br>
+							<br>
+							
+						UMPIRE: Strike three.<br>
+							<br>
+							
+						BETTE: What? Are you blind?<br>
+							<br>
+							
+						UMPIRE: What?<br>
+							<br>
+							
+						BETTE: Nothing, nothing.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Monk's]<br>
+							<br>
+							
+						FRANK: I had an affair with a Korean woman.<br>
+							<br>
+							
+						ELAINE: Uh, Mr. Costanza, I &#133;<br>
+							<br>
+							
+						FRANK: No, I feel I need to unburden myself. I loved her very deeply. But the clash of cultures was too much. Her family would not accept me.<br>
+							<br>
+							
+						ELAINE: Mr. Costanza, I, &#133;<br>
+							<br>
+							
+						FRANK: Maybe it was because I refused to take off my shoes. Again, the foot odour problem. Her father would look at me and say, &quot; eno enoa juang &quot;. Which means, &quot;this guy - this is not my kind of guy&quot;.<br>
+							<br>
+							<br>
+							<br>
+							
+						[On Street]<br>
+							<br>
+							
+						ICE CREAM VENDER #2: Sure I got Pineapple.<br>
+							<br>
+							
+						(Kramer runs back with it)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Baseball diamond - George at bat]<br>
+							<br>
+							
+						BETTE: Move it in. Move in everybody. Get your shrimp here. Shrimp on special today!<br>
+							<br>
+							
+						JERRY: Come on George, just loosen up.<br>
+							<br>
+							
+						(George hits one )<br>
+							<br>
+							
+						JERRY: Come on George.<br>
+							<br>
+							
+						KRAMER: I GOT THE PINEAPPLE. : I GOT THE PINEAPPLE.<br>
+							<br>
+							
+						JERRY: (to George) Keep going.<br>
+							<br>
+							
+						GEORGE: Aaaaaah<br>
+							<br>
+							
+						(George runs into Bette (trivia- but misses home plate))<br>
+							<br>
+							
+						UMPIRE: SAFE!<br>
+							<br>
+							
+						(Mob gets angry and chases George and Jerry)<br>
+							<br>
+							
+						GEORGE: come on it's just a game.<br>
+							<br>
+							
+						KRAMER: (holding bette) Don't worry Kramer is going to take care of everything. See,, I got you Pineapple. I saw Beaches last night for the fourth time (sings) &quot;You are the wind&#133;&quot;<br>
+							<br>
+							<br>
+							<br>
+							
+						[Jerry's Apartment]<br>
+							<br>
+							
+						TV: the show will go on but not Bette Midler. While playing softball in the park Ms. Midler was injured when another player thoughtlessly rammed her at home plate. All captured on amateur video tape. She will be out for two weeks from her Broadway show; Rochelle Rochelle - The Musical.<br>
+							<br>
+							
+						(Genice enters)<br>
+							<br>
+							
+						GENNICE: . . . Thank you. (hugs Jerry and George)<br>
+							<br>
+							
+						JERRY: Well we&#133;<br>
+							<br>
+							
+						GENNICE: No, please. This is the first time in my life (sobs) that anyone has ever done anything like this for me. I've always had to struggle so hard for everything I ever got. (sobbing) and I know this is going to be my big break. (sobbing)<br>
+							<br>
+							
+						JERRY: (with no emotion) It's okay. Everything is going to be all right.<br>
+							<br>
+							
+						(Knocking at door)<br>
+							<br>
+							
+						KRAMER: Come on Jerry, open up. I KNOW YOU'RE IN THERE!<br>
+							<br>
+							
+						JERRY: Come back another time.<br>
+							<br>
+							
+						(Shot of each lock being opened)<br>
+							<br>
+							
+						KRAMER: SO...you're all in here together. How convenient. I hope you're all proud of yourselves.<br>
+							<br>
+							
+						(Turning to Genice)<br>
+							<br>
+							
+						KRAMER: So my dear you think you can get to Broadway. Well, let me tell you something. Broadway has no room for people like you. Not the Broadway I know. My Broadway takes people like you and eats them up and spits them out. My Broadway is the Broadway of Merman, and Martin, and Fontaine, and if you think you can build yourself up by knocking other people down... ...GOOD LUCK... (exits)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Nail Parlour]<br>
+							<br>
+							
+						ELAINE: Hi everyone. Um, this is my friend, Frank.<br>
+							<br>
+							
+						RUBY: What would you like today? Manicure, Pedicure?<br>
+							<br>
+							
+						FRANK: I'll take a manicure. I don't take my shoes off for anyone.<br>
+							<br>
+							
+						RUBY: &quot;That's the least of his problems.&quot;<br>
+							<br>
+							
+						FRANK: What was that?<br>
+							<br>
+							
+						ELAINE: What'd they say? What'd they say?<br>
+							<br>
+							
+						FRANK: They made a derogatory comment about me.<br>
+							<br>
+							
+						RUBY: &quot;She's with a man twice her age.&quot; &quot;He doesn't look like he's got much money either.&quot;<br>
+							<br>
+							
+						LOTUS: &quot;Check out that sweater&quot;. (all laughing)<br>
+							<br>
+							
+						RUBY: &quot;I think I saw a moth fly out of a pocket.&quot;<br>
+							<br>
+							
+						LOTUS: &quot;What happened to his tail?&quot;<br>
+							<br>
+							
+						FRANK: Okay, THAT'S IT! &quot;oki on awa&quot; Where's my tail? I heard every word you said. You got some nerve.<br>
+							<br>
+							
+						(Back room)<br>
+							<br>
+							
+						KIM: That voice? It sounds so familiar. It reminds me of when I was ayoung girl in Korea and I met an American businessman. He was a very unusual man. Quick temperd with a strange halting way of speaking. We fell in love but when I brought him home to meet my father? He refused to take his shoes off. And there was a terrible fight.<br>
+							<br>
+							
+						LOTUS: That man also refuses to take his shoes off.<br>
+							<br>
+							
+						FRANK: (from other room) I never seen people treated like this!<br>
+							<br>
+							
+						RUBY: You brought in a spy! . . . Get Out!<br>
+							<br>
+							
+						KIM: Frank?<br>
+							<br>
+							
+						FRANK: Kim?<br>
+							<br>
+							<br>
+							<br>
+							
+						[Hospital room]<br>
+							<br>
+							
+						KRAMER: (on phone) A turkey sandwich. A side of slaw, &#133; you want whit e meat or dark?<br>
+							<br>
+							
+						BETTE: White meat.<br>
+							<br>
+							
+						KRAMER: Yeah, white meat. And if I see one piece of dark meat on there. It's your ass buster.<br>
+							<br>
+							
+						BETTE: Get me one of those Black and White cookies.<br>
+							<br>
+							
+						KRAMER: yeah, all right, yeah&#133;. (hangs up) They don't have any. But don't worry I'm going to get you one somewhere.<br>
+							<br>
+							
+						BETTE: Good. Because if I don't get a Black and White cookie I'm not going to be very pleasant to be around.<br>
+							<br>
+							
+						KRAMER: Now that's impossible.<br>
+							<br>
+							<br>
+							<br>
+							
+						[On rainy street at night]<br>
+							<br>
+							
+						ELAINE: (sob sob) (bumps into man with an umbrella) &#133; I don't even know where I'm going.<br>
+							<br>
+							
+						PETERMAN: That's the best way to get someplace you've never been.<br>
+							<br>
+							
+						ELAINE: yes, (sob) I suppose, &#133;<br>
+							<br>
+							
+						PETERMAN: Have you been crying?<br>
+							<br>
+							
+						ELAINE: Yes, (sob) you see this (sob) woman, this manicurist,&#133;<br>
+							<br>
+							
+						PETERMAN: Oh no, that doesn&#146;t matter now. That's a very nice jacket.<br>
+							<br>
+							
+						ELAINE: Uh, (sob) thanks.<br>
+							<br>
+							
+						PETERMAN: Very soft, huge button flaps, cargo pockets, draw string waist, deep biswing vents in the back perfect for jumping into a gondola.<br>
+							<br>
+							
+						ELAINE: How do you know all that?<br>
+							<br>
+							
+						PETERMAN: That's my coat.<br>
+							<br>
+							
+						ELAINE: You mean..?<br>
+							<br>
+							
+						PETERMAN: Yes, I'm J. Peterman.<br>
+							<br>
+							
+						ELAINE: Oh!<br>
+							<br>
+							<br>
+							<br>
+							
+						[In Taxi]<br>
+							<br>
+							
+						JERRY: I don't know why I have to go to the hospital. I didn't do anything to Bette Midler. Driver can you stop over here, we're picking somebody up.<br>
+							<br>
+							
+						(Crowd yelling)<br>
+							<br>
+							
+						GENNICE: Hey, I didn't do anything. I was never informed. &#133; YOU CAN ALL GO STRAIGHT TO HELL&#133;. You see that? You see what I am going through?<br>
+							<br>
+							
+						GEORGE: So what? Somebody dropped an egg on my head as I went into my building last night.<br>
+							<br>
+							
+						JERRY: Hey, I'm being heckled on stage. People are yelling out Galloogy.<br>
+							<br>
+							
+						GENNICE: I'm having a little trouble with all this. I mean all I ever wanted to do is sing. Now I'm the focus of this big media frenzy. (sob) Nobody in the show will even talk to me.<br>
+							<br>
+							
+						JERRY: Stop your crying will ya?<br>
+							<br>
+							
+						GENNICE: What?<br>
+							<br>
+							
+						GEORGE: You heard him.<br>
+							<br>
+							
+						GENNICE: Oh, don't you you're the reason this whole thing happened.<br>
+							<br>
+							
+						GEORGE: Oh, yeah. I read what you said to the papers yesterday. You weren't in on the planing. What planning? YOU THINK WE PLANED THIS? Uh?<br>
+							<br>
+							
+						CABBIE: Wait. Wait. I know you. You knocked Bette Midler out of Rochelle Rochelle the Musical. I want you creeps out of my cab.<br>
+							<br>
+							
+						JERRY: Hey, I had nothing to do with it.<br>
+							<br>
+							
+						CABBIE: Get out of my cab. You should go to prison. You should be in prison for the rest of your life. Get out, each of you. Each and every one of you get out of my cab.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Restaurant]<br>
+							<br>
+							
+						PETERMAN: Then in the distance I heard the bulls. I began running as fast as I could. Fortunately I was wearing my Italian Captoe Oxfords. Sophisticated yet different; nothing to make a huge fuss about. Rich dark brown calfskin leather. Matching leather vent. Men's whole and half sizes 7 through 13. Price $135.00.<br>
+							<br>
+							
+						ELAINE: Oh, that's not too expensive.<br>
+							<br>
+							
+						PETERMAN: That shirt. Where did you get it?<br>
+							<br>
+							
+						ELAINE: Oh, this innocent looking shirt has something which isn't innocent at all. Touchability! Heavy, silky Italian cotton, with a fine almost terrycloth like feeling. Five button placket, relaxed fit, innocence and mayhem at once.<br>
+							<br>
+							
+						PETERMAN: That's NOT bad!<br>
+							<br>
+							<br>
+							<br>
+							
+						[Frank's car]<br>
+							<br>
+							
+						KIM: Oh, Frank. So many years. If only you had taken your shoes off.<br>
+							<br>
+							
+						FRANK: I couldn't because I had a potential foot problem.<br>
+							<br>
+							
+						KIM: I thought maybe you had a hole in your socks.<br>
+							<br>
+							
+						FRANK: I wiped them for two minutes on the mat. I don't know why your father had to make a federal case out of it.<br>
+							<br>
+							
+						KIM: Anyway that is all in the past. We have our whole future ahead of us.<br>
+							<br>
+							
+						FRANK: Between you and me I think your country is placing a lot of importance on shoe removal.<br>
+							<br>
+							
+						(Screeching of brakes)<br>
+							<br>
+							
+						KIM: You short stop me? We don't do that in Korea! Take me home. Inever want to see you again.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Bette's hospital room - Kramer enters]<br>
+							<br>
+							
+						KRAMER: Hi, here. I made this for your. (gives her a pasta statue)<br>
+							<br>
+							
+						BETTE: &#133; What is it?<br>
+							<br>
+							
+						KRAMER: It's macaroni Midler.<br>
+							<br>
+							
+						BETTE: Macaroni Midler?<br>
+							<br>
+							
+						KRAMER: Yeah, see how you're singing?<br>
+							<br>
+							
+						BETTE: &#133; yeah &#133;ha ha. Well you made a long journey from Milan to Minsk.<br>
+							<br>
+							
+						KRAMER: oh, what's that from?<br>
+							<br>
+							
+						BETTE: Oh, that's one of the songs from my show. Bette sings:<br>
+							<br>
+							
+						&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &quot;Well you made a long journey from Milan to Minsk.<br>
+							
+						&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Rochelle Rochelle.<br>
+							
+						&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; You never stopped hoping. now you're in the pink<br>
+							
+						&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Rochelle Rochelle<br>
+							
+						&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; When the nay sayers nay you pick up your pace<br>
+							
+						&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; So nothing's going to stop me so get out of my face.<br>
+							
+						&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I'm having adventures all over the place.<br>
+							
+						&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Rochelle ROCHELLE!&quot;<br>
+							<br>
+							
+						KRAMER: Oh You are so freaking talented.<br>
+							<br>
+							
+						(knock at door - Kramer goes out into hall)<br>
+							<br>
+							
+						KRAMER: Oh, so look who's here. What do you want.<br>
+							<br>
+							
+						JERRY: We just want to talk to her. We want to apologize and tell her the whole thing was an accident.<br>
+							<br>
+							
+						KRAMER: No, no. I'm sorry it's out of the question.<br>
+							<br>
+							
+						JERRY: What?<br>
+							<br>
+							
+						KRAMER: Bette is recuperating right now and I'm not going to allow anything to disturb her.<br>
+							<br>
+							
+						GEORGE: Who are you to decide?<br>
+							<br>
+							
+						KRAMER: I'm calling the shots around here so there won't be anymore ACCIDENTS!<br>
+							<br>
+							
+						GEORGE: Hey, look, Kramer,&#133;<br>
+							<br>
+							
+						KRAMER: AH! I don't want her disturbed.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Outside Broadway Theater]<br>
+							<br>
+							
+						RUBY: hello, Elaine.<br>
+							<br>
+							
+						ELAINE: Hello<br>
+							<br>
+							
+						LOTUS: We're so excited.<br>
+							<br>
+							
+						ELAINE: You're welcome.<br>
+							<br>
+							
+						RUBY: We'll see you inside.<br>
+							<br>
+							
+						JERRY: What happened?<br>
+							<br>
+							
+						ELAINE: Well I felt bad about the spying, so you know, ,I got them tickets to the show.<br>
+							<br>
+							
+						JERRY: Oh,, that's nice. Alright, I'll see you later.<br>
+							<br>
+							
+						ELAINE: Wait, wait. I didn't get to tell you about my new job.<br>
+							<br>
+							
+						JERRY: Where?<br>
+							<br>
+							
+						ELAINE: Writing for the J. Peterman catalogue.<br>
+							<br>
+							
+						JERRY: (pushing her) How did you get that?<br>
+							<br>
+							
+						ELAINE: I met him.<br>
+							<br>
+							
+						JERRY: You met J. Peterman?<br>
+							<br>
+							
+						ELAINE: yeah.<br>
+							<br>
+							
+						JERRY: What is he like?<br>
+							<br>
+							
+						ELAINE: He wore a classic courtman's duster. beige corduroy collar, 100% cotton canvas, high waist, nine pockets, six on the outside, great for running along side a train, (Jerry walking away) waving last goodbyes, posing on a veranda, Men's sizes ...<br>
+							<br>
+							
+						JERRY: (walking away) Yeah, I'll see ya'.<br>
+							<br>
+							
+						ELAINE: . . . Small, Medium, Large, XL, Double...<br>
+							<br>
+							<br>
+							<br>
+							
+						[Backstage]<br>
+							<br>
+							
+						JERRY: Well, break a leg tonight.<br>
+							<br>
+							
+						GENNICE: I'm really nervous.<br>
+							<br>
+							
+						STAGEHAND: Here you got a telegram. Well, look who's here.<br>
+							<br>
+							
+						JERRY: Listen buddy,<br>
+							<br>
+							
+						STAGEHAND: What are you going to do? Break my legs? You don't scare me. You or your goons.<br>
+							<br>
+							
+						GENNICE: How do you like this?<br>
+							<br>
+							
+						JERRY: What is it?<br>
+							<br>
+							
+						GENNICE: My grandmother died.<br>
+							<br>
+							
+						JERRY: Oh, I'm so sorry.<br>
+							<br>
+							
+						GENNICE: Oh, it's okay,<br>
+							<br>
+							
+						JERRY: So you don't cry when your grandmother dies? But a hotdog makes you lose control?<br>
+							<br>
+							
+						VOICE: (Off camera) Places everyone.<br>
+							<br>
+							
+						GENNICE: I gotta go.<br>
+							<br>
+							
+						JERRY: Good luck.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Audience]<br>
+							<br>
+							
+						ANNOUNCER: ladies and gentlemen for this evening's performance the part of Rochelle will be played by Gennice Grant.<br>
+							<br>
+							
+						LOTUS: Gennice Glant?<br>
+							<br>
+							
+						RUBY: What happened to Bette Midler?<br>
+							<br>
+							
+						ELAINE: Oh, she got hurt.<br>
+							<br>
+							
+						RUBY: No Bette Midler? (they talk Korean and all three leave)<br>
+							<br>
+							
+						ELAINE: I, uh, wait,&#133;<br>
+							<br>
+							<br>
+							<br>
+							
+						[On Stage]<br>
+							<br>
+							
+						GENNICE: (singing and dancing) &quot;It's a long journey from Milan to Minsk&#133;&quot; (Shoe lace comes undone (even LOOKS like figure skates) wait wait. Hold it stop, (sob) I'm sorry, I have to start it over, my shoelace. (sob) I can't do it like this. Please let me start over. (sob) Please. (sob) Please. . . .<br>
+							<br>
+							<br>
+							
+						The End</td>
+						</tr>
+						<tr height="6">
+							<td class="bottom2" width="645" height="6"></td>
+						</tr>
+						<tr>
+							<td width="645">
+								<div align="center">
+									<font size="-1">Copyright 2006 seinology.com | All Rights Reserved | Designed by 13erla</font></div>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+		<p></p>
+	</body>
+
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

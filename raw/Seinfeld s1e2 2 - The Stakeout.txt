@@ -1,0 +1,1379 @@
+<tdOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+<html>
+
+	<head>
+		<meta http-equiv="content-type" content="text/html;charset=ISO-8859-1">
+		<meta name="description" content="Top Source for Seinfeld">
+		<meta name="keywords" content="seinfeld, sienfeld, Jerry Seinfeld, Julia Louis Dreyfus, Jason Alexander, Michael Richards, Kramer, George, Costanza, Elaine Benes, morty, Larry David">
+		<title>Seinology.com :: Scripts :: 02-The Stakeout</title>
+	<link rel='stylesheet' href='/stylesheet.css' type='text/css'>
+	</head>
+
+	<body>
+			<table align="center" width="787" border="0" cellspacing="0" cellpadding="0">
+				<tr>
+					<td><font size="-2" color="red">Seinology.com - </font><font size="-3" color="black">Where Seinfeld Content and Accuracy Matter Most. Seinfeld scripts in pdf form, Seinfeld episode video clips, Seinfeld episode audio clips, Jerry Seinfeld appearances, Julia Louis-Dreyfus appearances, Michael Richards appearances, Jason Alexander appearances, Seinfeld discussion Forum, Seinfeld Where are they Now? Seinlanguage Newsletter, Popular Seinfeld Lists, Seinfeld episode standup, Seinfeld episode guide, Seinfeld fan fiction. Seinfeld content all on one domain. Seinology.com enjoy your stay.</font></td>
+				</tr>
+			</table>
+		
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr height="100">
+				<td class="logo"></td>
+			</tr>
+			<tr><td class="ads" align="center" background=#8694fa>
+				<script type="text/javascript"><!--
+google_ad_client = "pub-1924026976931416";
+google_ad_width = 728;
+google_ad_height = 90;
+google_ad_format = "728x90_as";
+google_ad_type = "text";
+google_ad_channel = "";
+google_color_border = "FFFFFF";
+google_color_bg = "8694fa";
+google_color_link = "0000FF";
+google_color_text = "000000";
+google_color_url = "002E3F";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></td></tr>
+		</table>
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr>
+				<td valign="top" width="136">
+					<table width="136" border="0" cellspacing="0" cellpadding="0">
+						<tr height="24">
+							<td class="navigation">
+								<div align="center">
+									
+									<b>Navigation</b></div>
+							</td>
+						</tr>
+						<tr height="199">
+							<td class="spacer1" valign="top" width="136" height="199">
+								<div align="center">
+									<font size="-1"><a href="http://www.seinology.com">Home</a><br>
+										<a href="http://board.seinology.com">Forum</a><br>
+										<a href="http://www.seinology.com/av.shtml">Audio/Video</a><br>
+										<a href="http://www.seinology.com/scripts.shtml">Scripts</a><br>
+										<a href="http://www.seinology.com/survivor.shtml">Survivor</a><br>
+										<a href="http://www.seinology.com/fanfics.shtml">Fan Fiction</a><br>
+										<a href="http://www.seinology.com/gallery/">Gallery</a><br>
+										<a href="http://www.seinology.com/newsletter.shtml">Newsletter</a><br>
+										<a href="http://www.seinology.com/lists.shtml">Lists</a><br>
+										<a href="http://www.seinology.com/epguide.shtml">Episode Guide</a><br>
+										<a href="http://www.seinology.com/links.shtml">Links</a><br>
+										<a href="http://www.seinology.com/faqother.shtml">Faq + others</a><br>
+										<a href="http://www.seinology.com/legal.shtml">Legal</a></font></div>
+							</td>
+						</tr>
+						
+						<tr>
+							<td class="nav2" width="136">
+							<div align="center"><b>Search</b></div></td>
+						</tr>
+						<tr>
+							<td class="spacer1" width="136" valign="top"><div align="center"><form method="get" action="http://www.seinology.com/search/search.cgi">
+<p><label for="fdse_Match">Match</label><br>
+<select name="Match" id="fdse_Match" size="1">
+<option value="1">All</option>
+<option value="0">Any</option>
+<option value="2">Phrase</option>
+</select></p>
+<p><label for="fdse_Realm">Where?</label><br>
+<select name="Realm" id="fdse_Realm" size="1">
+<option selected="selected" value="All">EntireSite</option>
+<option value="Ep Guide">Ep Guide</option>
+<option value="Images">Images</option>
+<option value="Lists">Lists</option>
+<option value="Newsletters">Newsletters</option>
+<option value="Scripts">Scripts</option>
+<option value="Notes..Nothing">Notes..Nothing</option>
+</select></p>
+<p><input type="text" name="Terms" size="14" id="fdse_Terms"><br>
+<input type="submit" class="submit" name="submitButtonName" value="Search"></p>
+</div></form></td>
+						</tr>
+						<tr><td class="bottom" width="136" height="10" valign="top">
+						</td>
+						</tr>
+					</table>
+				</td>
+				<td width="4"></td>
+				<td valign="top" width="645">
+					<table width="645" border="0" cellspacing="0" cellpadding="0">
+						<tr height="18">
+							<td width="645" height="35" class="bar">
+								<div align="center">
+									<b><font size="+2" color="black">Script</font></b></div>
+							</td>
+						</tr>
+						<tr height="362">
+							<td class="spacer2" valign="top" width="645" height="362">
+
+						<p><font size="-2">Episode 2 - The Stakeout<br>
+							
+						pc: 103, season 1, episode 1<br>
+							
+						Broadcast date: May 31, 1990<br>
+							<br>
+							
+						Written By Larry David &amp; Jerry Seinfeld<br>
+							
+						Directed By Tom Cherones<br>
+							<br>
+							
+						-------------------------------------------------------------------------------<br>
+							<br>
+							
+						The Cast<br>
+							
+						Regulars:<br>
+							
+						Jerry Seinfeld ....................... Jerry Seinfeld<br>
+							
+						Jason Alexander .................. George Costanza<br>
+							
+						Julia Louis-Dreyfus ............. Elaine Benes<br>
+							
+						Michael Richards ................. Kramer<br>
+							<br>
+							
+						Guest Stars:<br>
+							<br>
+							
+						Lynn Clark .......................... Vanessa<br>
+							
+						Phil Bruns ............................ Morty Seinfeld<br>
+							
+						Liz Sheridan ........................ Helen Seinfeld<br>
+							
+						Maud Winchester ............... Pamela<br>
+							
+						William Fair ........................ Roger<br>
+							
+						Ron Steelman ..................... Artie Levine<br>
+							
+						Joe George .......................... Uncle Mac<br>
+							
+						Ellen Gerstein ..................... Carol<br>
+							
+						Janet Rotblatt ..................... Woman<br>
+							
+						rc: Helen<br>
+							<br>
+							
+						NOTE: When this episode is shown in syndication, Phil Bruns still plays Jerry's dad (a role later assumed by Barney Martin).<br>
+							<br>
+							
+						==================================================================<br>
+							<br>
+							
+						INT. COMEDY CLUB &#150; NIGHT<br>
+							<br>
+							
+						(Jerry is on stage, performing.)<br>
+							<br>
+							
+						JERRY: So, I&#146;m on line at the supermarket. Two women in front of me. One of them, her total was eight dollars, the other three dollars. They both of course choose to pay by the use of the...<br>
+							<br>
+							
+						(He pauses and gestures to audience for response.)<br>
+							
+						AUDIENCE: Cheque.<br>
+							<br>
+							
+						JERRY: Cheque. Now, the fact is, if it&#146;s a woman in front of you that&#146;s writing the cheque, you will not be waiting long. I have noticed that women are very fast with cheques, y&#146;know, &#145;cause they write out so many cheques. The keys, they can never find in their purse, they don&#146;t know where that is, but the cheque book: they got that. They never fumble for the cheque book. The cheque book comes out of a holster: (Jerry &#147;draws&#148; imaginary book from a holster.) &#147;Who do I make it out to? There&#146;s my ID.&#148; There&#146;s something about a cheque that, to a man, is not masculine. I don&#146;t know exactly what it is. I think to a man, a cheque is like a note from your mother that says, &#147;I don&#146;t have any money, but if you&#146;ll contact these people, I&#146;m sure they&#146;ll stick up for me... If you just trust me this one time- I don&#146;t have any money but I have these. I wrote on these. Is this of any value at all?&#148;<br>
+							<br>
+							<br>
+							<br>
+							
+						INT. VIDEO STORE &#150; NIGHT<br>
+							<br>
+							
+						(Jerry and Elaine are picking out a movie for the night.)<br>
+							
+						JERRY: What&#146;s that one?<br>
+							<br>
+							
+						ELAINE: &#147;Coccoon II: The Return&#148;. I guess they didn&#146;t like it up there.<br>
+							<br>
+							
+						JERRY: Maybe they came back for Chinese food. Y&#146;know Maureen Stapleton, if she gets a craving, she&#146;s probably screamin&#146; at those aliens, &#147;I gotta have a lo mein!&#148;<br>
+							<br>
+							
+						ELAINE: Okay, what&#146;re we doing here? I have seen everything.<br>
+							<br>
+							
+						JERRY: Oh yeah? I don&#146;t believe you&#146;ve seen... this.<br>
+							<br>
+							
+						(Jerry shows Elaine a movie from the Adult section.)<br>
+							<br>
+							
+						ELAINE: Oh, lovely.<br>
+							<br>
+							
+						JERRY: Yeah.<br>
+							<br>
+							
+						ELAINE: What do you think their parents think?<br>
+							<br>
+							
+						JERRY: &#147;So, uh, what&#146;s your son doing now, Dr. Stevens?&#148; &#147;Oh, he&#146;s a public fornicator. Yes, he&#146;s a fine boy...&#148;<br>
+							<br>
+							
+						ELAINE: Y&#146;know what? This would be a really funny gift for Pamela&#146;s birthday.<br>
+							<br>
+							
+						JERRY: Pamela? Do I know her?<br>
+							<br>
+							
+						ELAINE: Yeah, you met her when we were going out.<br>
+							<br>
+							
+						JERRY: Oh yeah, right...<br>
+							<br>
+							
+						ELAINE: You have no idea who I&#146;m talking about, do you?<br>
+							<br>
+							
+						JERRY: (quickly) No.<br>
+							<br>
+							
+						ELAINE: Blonde hair, remember? Glasses? (pause) Have you totally blocked out the entire time we were a couple?<br>
+							<br>
+							
+						JERRY: (a lightbulb goes on in his head) Riverside Drive.<br>
+							<br>
+							
+						ELAINE: Right! In fact... No, never mind...<br>
+							<br>
+							
+						JERRY: Well, what is it?<br>
+							<br>
+							
+						ELAINE: Well, a bunch of people are getting together tomorrow night at some bar for her birthday, but... (Jerry turns in disgust) you don&#146;t want to go to... that... no.<br>
+							<br>
+							
+						JERRY: Wait a second, wait a second. We could work out a little deal here.<br>
+							<br>
+							
+						ELAINE: What little deal?<br>
+							<br>
+							
+						JERRY: I will go to that, if you go with me to a little family wedding I have on Saturday.<br>
+							<br>
+							
+						ELAINE: A wedding? Have you lost it, man?<br>
+							<br>
+							
+						JERRY: Y&#146;know, my parents are coming in for this...<br>
+							<br>
+							
+						ELAINE: They&#146;re coming in?<br>
+							<br>
+							
+						JERRY: Yeah, tomorrow.<br>
+							<br>
+							
+						ELAINE: Hey, did your father ever get that hair weave?<br>
+							<br>
+							
+						JERRY: No, no. Still doin&#146; the big sweep across.<br>
+							<br>
+							
+						ELAINE: Why does he do that?<br>
+							<br>
+							
+						JERRY: Doesn&#146;t think anyone can tell. So c&#146;mon, do we have a deal?<br>
+							<br>
+							
+						ELAINE: A wedding?<br>
+							<br>
+							
+						JERRY: There&#146;s a lot of people to mock...<br>
+							<br>
+							
+						ELAINE: All right, what the hell.<br>
+							<br>
+							
+						JERRY: Great!<br>
+							<br>
+							
+						WOMAN: When you&#146;re dead, you&#146;re dead. That&#146;s it. You&#146;re not goin&#146; anywhere...<br>
+							<br>
+							<br>
+							<br>
+							
+						INT. BAR &#150; NIGHT<br>
+							<br>
+							
+						(Elaine and Jerry enter.)<br>
+							<br>
+							
+						ELAINE: C&#146;mon lets go...<br>
+							<br>
+							
+						JERRY: Was I supposed to bring something?<br>
+							<br>
+							
+						ELAINE: You could have.<br>
+							<br>
+							
+						JERRY: I met her one time...<br>
+							<br>
+							
+						ELAINE: It is not necessary.<br>
+							<br>
+							
+						JERRY: What did you say then?<br>
+							<br>
+							
+						ELAINE: Sssshhhhhh!!!<br>
+							<br>
+							
+						PAMELA: Hi<br>
+							<br>
+							
+						ELAINE: Hi, Pamela, you remember Jerry.<br>
+							<br>
+							
+						PAMELA: (shakes Jerry's hand) Yes, we met.<br>
+							<br>
+							
+						JERRY: Hi, happy birthday.<br>
+							<br>
+							
+						PAMELA: Thanks, ah, everybody, this is Elaine and Jerry.<br>
+							<br>
+							
+						GUESTS, JERRY &amp; ELAINE: Hi<br>
+							<br>
+							
+						JERRY: I didn&#146;t bring anything.<br>
+							<br>
+							
+						PAMELA: Uh, I put you two right here.<br>
+							<br>
+							
+						JERRY: Oh, Okay (turns to rest of table) I&#146;m sorry, I didn&#146;t know what to bring, nobody told me.<br>
+							<br>
+							
+						(Jerry and Elaine sit next to each other at a table. Across from Jerry is a strikingly beautiful woman, Vanessa. The piano is playing awful dinner music.)<br>
+							<br>
+							
+						VANESSA: How big a tip do you think it&#146;d take to get him to stop?<br>
+							<br>
+							
+						JERRY: I&#146;m in for five...<br>
+							<br>
+							
+						VANESSA: I&#146;ll supply the hat.<br>
+							<br>
+							
+						JERRY: (thinking) Uh-oh... What do we have here?<br>
+							<br>
+							
+						VANESSA: Why don&#146;t you relax and take your jacket off?<br>
+							<br>
+							
+						JERRY: Oh, I can&#146;t. Uh, I have a tendency to get chilly.<br>
+							<br>
+							
+						VANESSA: How masculine.<br>
+							<br>
+							
+						JERRY: Plus I&#146;m wearing short sleeves, I don&#146;t want to expose my tattoos. (Vanessa smiles; thinking) She&#146;s unbelievable!<br>
+							<br>
+							
+						(The guy beside Vanessa interrupts.)<br>
+							<br>
+							
+						ROGER: (to Vanessa) Hey, this guy says he knows Bricker.<br>
+							<br>
+							
+						VANESSA: Oh, you know Bricker! From where?<br>
+							<br>
+							
+						JERRY: (thinking) What&#146;s going on here? Gotta be her boyfriend, she&#146;s too good to be alone. What&#146;s the difference, I can&#146;t maneouver anyway with Elaine next to me.<br>
+							<br>
+							
+						VANESSA: (to Jerry) How do you know Pamela?<br>
+							<br>
+							
+						JERRY: Uh, friend of a friend. And you?<br>
+							<br>
+							
+						VANESSA: We went to law school together.<br>
+							<br>
+							
+						ELAINE: (interrupting Jerry's conversation) Oh, Jerry!<br>
+							<br>
+							
+						JERRY: (turning to Elaine; thinking) Oh no, not now.<br>
+							<br>
+							
+						ELAINE: I had this dream last night and you were in it.<br>
+							<br>
+							
+						JERRY: Oh really? (tries turning away in the hopes Elaine gets the hint; thinking) Oh God, I gotta get out of this.<br>
+							<br>
+							
+						ELAINE: You were you, but, you weren&#146;t you...<br>
+							<br>
+							
+						JERRY: No kidding. (thinking) Why is this happening? Please, make her stop!<br>
+							<br>
+							
+						ELAINE: I think, I think we were in my house where I grew up, and you were standing there, you were looking out the window...<br>
+							<br>
+							
+						JERRY: (thinking) This is brutal.<br>
+							<br>
+							
+						ELAINE: You turned around and you had these wooden teeth.<br>
+							<br>
+							
+						JERRY: How do you like that? (tries to turn away again; thinking)Can I turn now? Is this over? No, I can&#146;t, I can&#146;t. I&#146;m stuck.<br>
+							<br>
+							
+						ELAINE: (noticing Jerry not wanting to listen; annoyed) Jerry? Are you listening to me?<br>
+							<br>
+							
+						JERRY: Yes, I heard you.<br>
+							<br>
+							
+						PAMELA: Elaine, what&#146;s the name of that jewelry store you took me to that time?<br>
+							<br>
+							
+						JERRY: (thinking) Thank you, Pamela! (turns to talk to Vanessa; to Vanessa) So, you&#146;re a lawyer...<br>
+							<br>
+							
+						VANESSA: Sagman, Bennet, Robbins, Oppenheim and Taft.<br>
+							<br>
+							
+						JERRY: (thinking) Sagman, Bennet, Robbins, Oppenheim and Taft. Sagman, Bennet, Robbins, Oppenheim and Taft... (to Vanessa) Of course, they handled my tattoo removal lawsuit.<br>
+							<br>
+							
+						VANESSA: Oh, that was you?<br>
+							<br>
+							
+						JERRY: Imagine, spelling &#147;Mom&#148; with two O&#146;s.<br>
+							<br>
+							
+						VANESSA: Very funny! What do you do?<br>
+							<br>
+							
+						JERRY: Comedian.<br>
+							<br>
+							
+						VANESSA: Really? That explains it.<br>
+							<br>
+							
+						JERRY: (thinking; quickly) Sagman, Bennet, Robbins, Oppenheim and Taft. Sagman, Bennet, Robbins, Oppenheim and Taft.<br>
+							<br>
+							
+						ROGER: Are you ready?<br>
+							<br>
+							
+						VANESSA: We gotta run. Happy birthday!<br>
+							<br>
+							
+						(Vanessa and Roger get up an leave. Jerry panics.)<br>
+							<br>
+							
+						JERRY: (thinking) I can&#146;t believe it. I got nothing! I don&#146;t even know her name! Sagman, Bennet, Robbins, Oppenheim and Taft. Sagman, Bennet, Robbins, Oppen... Sagman... Sag...<br>
+							<br>
+							
+						(A grim stare from Elaine knocks his concentration.)<br>
+							<br>
+							<br>
+							<br>
+							
+						INT. TAXICAB &#150; NIGHT<br>
+							<br>
+							
+						(On the ride home from the party. Jerry and Elaine sit in the back seat.)<br>
+							<br>
+							
+						JERRY: That wasn&#146;t so bad, really.<br>
+							<br>
+							
+						ELAINE: Y&#146;know, um, you could use a little work on your manners.<br>
+							<br>
+							
+						JERRY: Why? What did I do?<br>
+							<br>
+							
+						ELAINE: Wel-Well, I just don&#146;t appreciate these little courtesy responses, like I&#146;m selling you aluminum siding.<br>
+							<br>
+							
+						JERRY: I was listening!<br>
+							<br>
+							
+						ELAINE: No! You couldn&#146;t wait to get back to your little... &#147;conversation&#148;.<br>
+							<br>
+							
+						JERRY: No, you were talking about the, the um, the dream you had.<br>
+							<br>
+							
+						ELAINE: Uh-huh...<br>
+							<br>
+							
+						JERRY: Where you had, uh, wooden teeth.<br>
+							<br>
+							
+						ELAINE: No! No! You had wooden teeth! You had wooden teeth! I didn&#146;t have wooden teeth, you did!<br>
+							<br>
+							
+						JERRY: All right, so I had wooden teeth, so what?<br>
+							<br>
+							
+						ELAINE: So nothing! Nothing. (annoyed sigh)<br>
+							<br>
+							<br>
+							<br>
+							
+						INT. COMEDY CLUB &#150; NIGHT<br>
+							<br>
+							
+						(Jerry is on stage, performing.)<br>
+							<br>
+							
+						JERRY: Apparently Plato, who came up with the concept of the platonic relationship, was pretty excited about it. He named it after himself. He said, &#147;Yeah, I got this new thing: Platonic. My idea, my name, callin&#146; it after myself. What I do is, I go out with the girls, I talk with them- don&#146;t do anything, and go right home. What&#146;d you think? I think it&#146;s going to be big!&#148; I bet you there were other guys in history that tried to get relationships named after them, but it didn&#146;t work. Y&#146;know, I bet you there were guys who tried to do it, just went, &#147;Uh, Hi, uh my name&#146;s Rico. Would you like to go to bed immediately? Hey, it&#146;s a Riconic relationship.&#148;<br>
+							<br>
+							<br>
+							<br>
+							
+						INT. JERRY&#146;S APARTMENT &#150; NIGHT<br>
+							<br>
+							
+						(Jerry&#146;s parents, Helen and Morty, are sitting on a pullout couch. Jerry enters.)<br>
+							<br>
+							
+						JERRY: Hey!<br>
+							<br>
+							
+						MORTY: Ah, there he is!<br>
+							<br>
+							
+						JERRY: This is what I like, see? You come home and your parents are in your bed!<br>
+							<br>
+							
+						HELEN: Y&#146;know, Jerry, we don&#146;t have to do this.<br>
+							<br>
+							
+						JERRY: What are you talkin&#146; about? It&#146;s fine, I love having you here.<br>
+							<br>
+							
+						HELEN: Tomorrow we&#146;ll go to a hotel.<br>
+							<br>
+							
+						JERRY: Ma, will you stop?<br>
+							<br>
+							
+						HELEN: No, why should we take over your apartment?<br>
+							<br>
+							
+						JERRY: I don&#146;t care. I&#146;m sleeping next door.<br>
+							<br>
+							
+						HELEN: Your friend Kramer doesn&#146;t mind?<br>
+							<br>
+							
+						JERRY: No, he&#146;s making a bouillabaisse.<br>
+							<br>
+							
+						JERRY: So, dad, lemme ask you a question. How many people work at these big law offices?<br>
+							<br>
+							
+						MORTY: Depends on the firm.<br>
+							<br>
+							
+						JERRY: Yeah, but if you called up and described someone, do you think they would know who it was?<br>
+							<br>
+							
+						MORTY: What&#146;s the matter? You need a lawyer?<br>
+							<br>
+							
+						JERRY: No, I met someone at this party, and I know where she works, but I don&#146;t know her name.<br>
+							<br>
+							
+						MORTY: So why don&#146;t you ask someone who was at the party?<br>
+							<br>
+							
+						JERRY: Nah, the only one I could ask is Elaine, and I can&#146;t ask her.<br>
+							<br>
+							
+						HELEN: Why not?<br>
+							<br>
+							
+						JERRY: Because it&#146;s complicated. There&#146;s some tension there.<br>
+							<br>
+							
+						HELEN: He used to go with her.<br>
+							<br>
+							
+						HELEN: Which one is she?<br>
+							<br>
+							
+						MORTY: From Maryland. The one who brought you the chocolate covered cherries you didn&#146;t like.<br>
+							<br>
+							
+						HELEN: Oh yeah, very alert. Warm person.<br>
+							<br>
+							
+						JERRY: Oh yeah, she&#146;s great.<br>
+							<br>
+							
+						HELEN: So, how come nothing materialized there?<br>
+							<br>
+							
+						JERRY: Well, it&#146;s a tough thing to talk about uh. I dunno...<br>
+							<br>
+							
+						HELEN: I know what it was.<br>
+							<br>
+							
+						JERRY: You don&#146;t know what it was.<br>
+							<br>
+							
+						HELEN: So, what was it?<br>
+							<br>
+							
+						JERRY: Well, we fight a lot for some reason.<br>
+							<br>
+							
+						HELEN &amp; MORTY: Oh, well...<br>
+							<br>
+							
+						JERRY: And there was a little problem with the physical chemistry.<br>
+							<br>
+							
+						(His parents don&#146;t know how to respond.)<br>
+							<br>
+							
+						HELEN: Well, I think she&#146;s a very attractive girl.<br>
+							<br>
+							
+						JERRY: Oh, she is, she absolutely is.<br>
+							<br>
+							
+						HELEN: I can see if there was a weight problem...<br>
+							<br>
+							
+						JERRY: No, it&#146;s not that. It wasn&#146;t all one-sided.<br>
+							<br>
+							
+						HELEN: You know, you can&#146;t be so particular. Nobody&#146;s perfect.<br>
+							<br>
+							
+						JERRY: I know, I know...<br>
+							<br>
+							
+						MORTY: Y&#146;know Jerry, it&#146;s a good thing I wasn&#146;t so particular.<br>
+							<br>
+							
+						HELEN: (hits Morty) Idiot. (to Jerry) So who&#146;re you looking for, Sophia Loren?<br>
+							<br>
+							
+						JERRY: That&#146;s got nothin&#146; to do with it.<br>
+							<br>
+							
+						MORTY: How about Loni Anderson?<br>
+							<br>
+							
+						HELEN: Where do you get Loni Anderson?<br>
+							<br>
+							
+						MORTY: Why, what&#146;s wrong with Loni Anderson?<br>
+							<br>
+							
+						HELEN: I like Elaine more than Loni Anderson.<br>
+							<br>
+							
+						JERRY: What are you two talking about? Look, Elaine just wasn&#146;t the one.<br>
+							<br>
+							
+						HELEN: And this other one&#146;s the one?<br>
+							<br>
+							
+						JERRY: I dunno, maybe...<br>
+							<br>
+							
+						MORTY: So ask Elaine there for her number.<br>
+							<br>
+							
+						JERRY: I can&#146;t. She&#146;ll get upset. I never talk about other women with her, especially this one tonight.<br>
+							<br>
+							
+						HELEN: How could you still see her if your not interested?<br>
+							<br>
+							
+						JERRY: We&#146;re friends.<br>
+							<br>
+							
+						MORTY: Doesn&#146;t sound like you&#146;re friends to me. If you were friends you'd-you&#146;d ask her for the number. Do you know where this other one works?<br>
+							<br>
+							
+						JERRY: Oh yeah.<br>
+							<br>
+							
+						MORTY: Well, go up to the office.<br>
+							<br>
+							
+						HELEN: Up to her office?<br>
+							<br>
+							
+						MORTY: Go to the building. She goes out to lunch, doesn&#146;t she?<br>
+							<br>
+							
+						JERRY: I guess.<br>
+							<br>
+							
+						MORTY: So, you stand in the lobby, by the elevator, and wait for her to come down for lunch.<br>
+							<br>
+							
+						JERRY: You mean stakeout the lobby?<br>
+							<br>
+							
+						HELEN: Morty, that&#146;s ridiculous. Just ask Elaine for the number!<br>
+							<br>
+							
+						MORTY: He doesn&#146;t want to ask Elaine for the number.<br>
+							<br>
+							
+						HELEN: So you&#146;ve got him standing by the elevator like a dope! What happens when he sees her?<br>
+							<br>
+							
+						MORTY: He pretends he bumped into her!<br>
+							<br>
+							
+						JERRY: Y&#146;know what? This is not that bad an idea.<br>
+							<br>
+							<br>
+							<br>
+							
+						INT. OFFICE BUILDING &#150; DAY<br>
+							<br>
+							
+						(Jerry and George are staking out Vanessa.)<br>
+							<br>
+							
+						GEORGE: What does she look like?<br>
+							<br>
+							
+						JERRY: I dunno. Hard to say.<br>
+							<br>
+							
+						GEORGE: What actress does she remind you of?<br>
+							<br>
+							
+						JERRY: Loni Anderson.<br>
+							<br>
+							
+						GEORGE: Loni Anderson?!<br>
+							<br>
+							
+						JERRY: What, there&#146;s something wrong with Loni Anderson? (pause) Hey listen, thanks again for running over here. I appreciate it.<br>
+							<br>
+							
+						GEORGE: Yeah, sure. I was showing a condo on 48th street. Besides, you think I wanna miss this? (chuckles)<br>
+							<br>
+							
+						JERRY: I&#146;m a little nervous.<br>
+							<br>
+							
+						GEORGE: Yeah, me too...<br>
+							<br>
+							
+						JERRY: If I see her, what do I say that I&#146;m doing here in the building?<br>
+							<br>
+							
+						GEORGE: You came to see me. I work in the building.<br>
+							<br>
+							
+						JERRY: What do you do?<br>
+							<br>
+							
+						GEORGE: I&#146;m an architect.<br>
+							<br>
+							
+						JERRY: You&#146;re an architect?<br>
+							<br>
+							
+						GEORGE: I&#146;m not?<br>
+							<br>
+							
+						JERRY: I don&#146;t see architecture comin from you.<br>
+							<br>
+							
+						GEORGE: (somewhat annoyed) I suppose you could be an architect.<br>
+							<br>
+							
+						JERRY: I never said that I was the architect. Just somethin&#146; else.<br>
+							<br>
+							
+						GEORGE: All right, she&#146;s not even gonna ask, if we see her, which is remote.<br>
+							<br>
+							
+						JERRY: Well whaddaya want me to say, that I just wandered in here?<br>
+							<br>
+							
+						GEORGE: We&#146;re having lunch with a friend. He works in the building.<br>
+							<br>
+							
+						JERRY: What is his name?<br>
+							<br>
+							
+						GEORGE: Bert... Har... bin... son. Bert Har-bin-son.<br>
+							<br>
+							
+						JERRY: Bert Harbinson? It sounds made up.<br>
+							<br>
+							
+						GEORGE: No good? All right, uh how about Art... Cor.....<br>
+							<br>
+							
+						JERRY: Art Cor...<br>
+							<br>
+							
+						GEORGE: ...velay.<br>
+							<br>
+							
+						JERRY: Corvelay?<br>
+							<br>
+							
+						GEORGE: Yeah, right.<br>
+							<br>
+							
+						JERRY: Well, what does he do?<br>
+							<br>
+							
+						GEORGE: He&#146;s an importer.<br>
+							<br>
+							
+						JERRY: Just imports, no exports?<br>
+							<br>
+							
+						GEORGE: (annoyed) He&#146;s an importer/exporter, okay? (beat) Elaine ever call you back?<br>
+							<br>
+							
+						JERRY: No, I guess she&#146;s still mad.<br>
+							<br>
+							
+						GEORGE: I don&#146;t understand, you never talk to her about other women?<br>
+							<br>
+							
+						JERRY: Never. (The elevator door opens.) Wait a second. That&#146;s her. On the right.<br>
+							<br>
+							
+						GEORGE: (anxious) I forgot who I am! Who am I?!<br>
+							<br>
+							
+						JERRY: You&#146;re you. We&#146;re having lunch with Art Corvelay.<br>
+							<br>
+							
+						GEORGE: Vandelay!<br>
+							<br>
+							
+						JERRY: Corvelay!<br>
+							<br>
+							
+						GEORGE: Let me be the architect! I can do it!<br>
+							<br>
+							
+						(Jerry ignores George and approaches Vanessa.)<br>
+							<br>
+							
+						JERRY: Hey, hey. uh Pamela&#146;s birthday party, didn&#146;t I see you there? Jerry.<br>
+							<br>
+							
+						VANESSA: Sure! Hi!<br>
+							<br>
+							
+						JERRY: Uh, this is George. (reaches for her name) I&#146;m sorry...<br>
+							<br>
+							
+						VANESSA: Vanessa.<br>
+							<br>
+							
+						GEORGE: Nice to meet you.<br>
+							<br>
+							
+						JERRY: Ah, Sagman, Bennet, Robbins, Oppenheim and Taft.<br>
+							<br>
+							
+						VANESSA: That&#146;s right! Yea, what&#146;re you doing here?<br>
+							<br>
+							
+						JERRY: Oh, we&#146;re meeting a friend of ours for lunch. He works here in the building.<br>
+							<br>
+							
+						GEORGE: Yeah, Art Vandelay.<br>
+							<br>
+							
+						VANESSA: Really? Which company?<br>
+							<br>
+							
+						JERRY &amp; George: (turning to each other) I don&#146;t know. He&#146;s an importer.<br>
+							<br>
+							
+						VANESSA: Importer?<br>
+							<br>
+							
+						GEORGE: ...And exporter.<br>
+							<br>
+							
+						JERRY: He&#146;s an importer/exporter.<br>
+							<br>
+							
+						GEORGE: (clears his throat) I&#146;m, uh, I&#146;m an architect.<br>
+							<br>
+							
+						VANESSA: Really. What do you design?<br>
+							<br>
+							
+						GEORGE: Uh, railroads, uh...<br>
+							<br>
+							
+						VANESSA: I thought engineers do that.<br>
+							<br>
+							
+						GEORGE: They can...<br>
+							<br>
+							
+						JERRY: Y&#146;know I&#146;m sorry you had to leave so early the other night.<br>
+							<br>
+							
+						VANESSA: Oh, me too. My cousin had to go back to Boston.<br>
+							<br>
+							
+						JERRY: Oh, that guy was your cousin! (walking in front of George so he gets the picture to leave)<br>
+							<br>
+							
+						VANESSA: Yeah, and that woman was your...<br>
+							<br>
+							
+						JERRY: Friend!<br>
+							<br>
+							
+						GEORGE: I&#146;ll just, uh, get a paper...<br>
+							<br>
+							
+						JERRY: So, um, do you date uh immature men?<br>
+							<br>
+							
+						VANESSA: Almost exclusively...<br>
+							<br>
+							<br>
+							<br>
+							
+						INT. JERRY&#146;S APARTMENT<br>
+							<br>
+							
+						(Helen and Jerry are in the middle of a game of Scrabble. Morty sits on the couch. Helen sings to herself while she tries to form a word.)<br>
+							<br>
+							
+						HELEN: Bum bum bum bum... I have no letters... Bum bum bum bum...<br>
+							<br>
+							
+						JERRY: (annoyed) Ma, will you go already?<br>
+							<br>
+							
+						HELEN: Bum bum bum bum...<br>
+							<br>
+							
+						(She picks up a nearby dictionary.)<br>
+							<br>
+							
+						JERRY: What are you doing?!<br>
+							<br>
+							
+						HELEN: Wait, I just want to see something.<br>
+							<br>
+							
+						JERRY: You can&#146;t look in there, we&#146;re playing!<br>
+							<br>
+							
+						(Kramer enters.)<br>
+							<br>
+							
+						KRAMER: Hi.<br>
+							<br>
+							
+						JERRY: Hi.<br>
+							<br>
+							
+						MORTY: (cleaning his shoes) Good evening, Mr. Kramer!<br>
+							<br>
+							
+						KRAMER: Hey Morty! (to Jerry) Salad dressing?<br>
+							<br>
+							
+						JERRY: Look.<br>
+							<br>
+							
+						HELEN: &#147;Quo&#148;. Is that a word?<br>
+							<br>
+							
+						JERRY: Maybe!<br>
+							<br>
+							
+						HELEN: Will you challenge it?<br>
+							<br>
+							
+						JERRY: Ma, you can&#146;t look up words in the dictionary! (to Morty) Dad, she&#146;s cheating!<br>
+							<br>
+							
+						KRAMER: &#147;Quo&#148;? That&#146;s not a word.<br>
+							<br>
+							
+						HELEN: (to Jerry) You&#146;re such a stickler...<br>
+							<br>
+							
+						JERRY: Well put something down, you&#146;re taking twenty minutes on this. So is Uncle Mac and Artie, they&#146;re all coming over here before the wedding?<br>
+							<br>
+							
+						HELEN: They&#146;ll be here at two o&#146;clock. Oh, Elaine called. She said she&#146;d be here at two-thirty. And she says &#147;Hope your meeting went well with &#145;Art Vandelay&#146;?&#148;<br>
+							<br>
+							
+						JERRY: She said what?<br>
+							<br>
+							
+						HELEN: Just what I said, here.<br>
+							<br>
+							
+						(She hands Jerry the note. He reads it.)<br>
+							<br>
+							
+						JERRY: She knows! Oh, I am such a jackass.<br>
+							<br>
+							
+						HELEN: She knows what?<br>
+							<br>
+							
+						JERRY: She knows the whole stupid thing. Vanessa and the elevator...<br>
+							<br>
+							
+						(Kramer arranges Mrs. Seinfeld&#146;s tiles, offering her a word.)<br>
+							<br>
+							
+						HELEN: No, no, no, that won&#146;t do. He may have a &#147;Z&#148;.<br>
+							<br>
+							
+						MORTY: So, how did she find out?<br>
+							<br>
+							
+						JERRY: Because, Vanessa probably told Pamela, and Pamela probably told Elaine.<br>
+							<br>
+							
+						(While they talk, Kramer has covertly scoped Jerry&#146;s tiles to confirm that Jerry doesn&#146;t have a &#147;Z&#148;. This goes unnoticed by Jerry, who continues to talk with Morty.)<br>
+							<br>
+							
+						MORTY: So, what are you? Afraid of her?<br>
+							<br>
+							
+						JERRY: Yes. Yes I am! (to Helen) What else did she say on the phone?<br>
+							<br>
+							
+						HELEN: Whatever I wrote down.<br>
+							<br>
+							
+						JERRY: Yeah, but what was the tone in her voice? How did she sound?<br>
+							<br>
+							
+						HELEN: Who am I, Rich Little?<br>
+							<br>
+							
+						MORTY: Well, she can&#146;t be too mad. She&#146;s still coming to the wedding.<br>
+							<br>
+							
+						JERRY: Yeah, but now I&#146;m nervous.<br>
+							<br>
+							
+						HELEN: Oh, stop it.<br>
+							<br>
+							
+						(She makes her move and tallies the points.)<br>
+							<br>
+							
+						JERRY: &#147;Quone&#148;?<br>
+							<br>
+							
+						HELEN: ...30...31...<br>
+							<br>
+							
+						JERRY: &#147;Quone&#148;? No, I&#146;m afraid that I&#146;m going to have to challenge that.<br>
+							<br>
+							
+						(Jerry picks up the dictionary.)<br>
+							<br>
+							
+						HELEN: ...32...<br>
+							<br>
+							
+						KRAMER: No, you don&#146;t have to challenge that. That&#146;s a word. That&#146;s a definite word.<br>
+							<br>
+							
+						JERRY: I am challenging.<br>
+							<br>
+							
+						KRAMER: Quone. To quone something.<br>
+							<br>
+							
+						JERRY: Uh-huh.<br>
+							<br>
+							
+						(Jerry looks up the word.)<br>
+							<br>
+							
+						HELEN: I&#146;m not playing with you anymore.<br>
+							<br>
+							
+						MORTY: Quone&#146;s not a word.<br>
+							<br>
+							
+						JERRY: No good. Sorry. There it is. Get it off.<br>
+							<br>
+							
+						HELEN: (to Kramer) Why did you make me put that down?<br>
+							<br>
+							
+						KRAMER: Nah, we need a medical dictionary! If a patient gets difficult, you quone him.<br>
+							<br>
+							<br>
+							<br>
+							
+						INT. JERRY&#146;S APARTMENT-NEXT DAY<br>
+							<br>
+							
+						(A few people mingling about, waiting to go to the wedding. [SeinPurgatory] Jerry is talking to Carol.)<br>
+							<br>
+							
+						CAROL: You want some funny material, you oughta come down to where I work, now that&#146;s a sitcom!<br>
+							<br>
+							
+						JERRY: You must have quite a time down there.<br>
+							<br>
+							
+						(Jerry checks his watch.)<br>
+							<br>
+							
+						CAROL: We got plenty of time.<br>
+							<br>
+							
+						JERRY: Oh, I&#146;m sorry. I&#146;m just waiting for someone.<br>
+							<br>
+							
+						UNCLE MAC: Watch what you say to this guy. He&#146;ll put it in his next act!<br>
+							<br>
+							
+						(Carol and Uncle Mac laugh)<br>
+							<br>
+							
+						JERRY: Yeah, yeah...<br>
+							<br>
+							
+						UNCLE MAC: Jerry, did I tell you that I&#146;m writing a book? An autobiography.<br>
+							<br>
+							
+						JERRY: Yeah, Uncle Mac, you mentioned it.<br>
+							<br>
+							
+						UNCLE MAC: It&#146;s based on all my experiences!<br>
+							<br>
+							
+						JERRY: That&#146;s perfect.<br>
+							<br>
+							
+						(Elaine enters.)<br>
+							<br>
+							
+						JERRY: Could you excuse me one second? I&#146;m sorry.<br>
+							<br>
+							
+						(Jerry goes over and greets Elaine.)<br>
+							<br>
+							
+						JERRY: How do you do? (introducing himself) Uh, Jerry Seinfeld.<br>
+							<br>
+							
+						ELAINE: Oh, how do you do? Elaine Benes.<br>
+							<br>
+							
+						(Awkward sighs from Jerry and Elaine)<br>
+							<br>
+							
+						JERRY: Um, do you want to do this now, or do you want to wait until we get in the car?<br>
+							<br>
+							
+						ELAINE: Oh no, let&#146;s do it now.<br>
+							<br>
+							
+						JERRY: All right, the whole elevator business, let me just explain-<br>
+							<br>
+							
+						ELAINE: Okay.<br>
+							<br>
+							
+						ARTIE: Jerry, were you goin&#146; with us?<br>
+							<br>
+							
+						JERRY: No, I&#146;m gonna take my car.<br>
+							<br>
+							
+						ARTIE: That&#146;s why I brought the wagon. Why the hell did I bring the wagon?<br>
+							<br>
+							
+						JERRY: Anyway, you know why I didn&#146;t ask you, I mean I felt so uncomfortable, and you were so annoyed in the cab.<br>
+							<br>
+							
+						ELAINE: Well, Jerry, I never saw you flirt with anyone before. It was quite the spectacle.<br>
+							<br>
+							
+						CAROL: Jerry, we&#146;ll see you there. Bye, Elaine.<br>
+							<br>
+							
+						ELAINE: Oh, bye. Good to see you.<br>
+							<br>
+							
+						ARTIE: Oh, we didn&#146;t meet.<br>
+							<br>
+							
+						JERRY: Oh, I&#146;m sorry. Elaine, this is my cousin, Artie Levine.<br>
+							<br>
+							
+						(Jerry pronounces the name &#145;le-VEEN&#146;.)<br>
+							<br>
+							
+						ARTIE: (correcting Jerry) Levine.<br>
+							<br>
+							
+						(Artie pronounces it with a long &#147;I&#148;. Artie exits.)<br>
+							<br>
+							
+						JERRY: (sarcastically) Yeah, &#147;Levine&#148;. And I&#146;m Jerry Cougar Mellencamp. Anyway, I admit it was a fairly ridiculous thing to do, but I mean, I mean, obviously we have a little problem here.<br>
+							<br>
+							
+						ELAINE: Yeah, obviously.<br>
+							<br>
+							
+						JERRY: I mean, if we&#146;re gonna be friends, we gotta be able to talk about other people.<br>
+							<br>
+							
+						ELAINE: Couldn&#146;t agree more.<br>
+							<br>
+							
+						JERRY: Good.<br>
+							<br>
+							
+						ELAINE: Good.<br>
+							<br>
+							
+						JERRY: Good.<br>
+							<br>
+							
+						ELAINE: Great!<br>
+							<br>
+							
+						JERRY: Great? Where do you get &#145;great&#146;?<br>
+							<br>
+							
+						ELAINE: It&#146;s great to... talk about... other people...<br>
+							<br>
+							
+						JERRY: ...Guys?<br>
+							<br>
+							
+						ELAINE: Yeah.<br>
+							<br>
+							
+						JERRY: Uh-huh. Yeah. So, anybody specific?<br>
+							<br>
+							
+						ELAINE: No. A general guy.<br>
+							<br>
+							
+						JERRY: Oh really? Elaine Marie Benes...<br>
+							<br>
+							
+						ELAINE: What? No, it&#146;s not a big deal.<br>
+							<br>
+							
+						JERRY: No, that&#146;s great! That&#146;s terrific!<br>
+							<br>
+							
+						ELAINE: No, we just met...<br>
+							<br>
+							
+						JERRY: Doesn&#146;t matter. What&#146;s the young man&#146;s name? I would like to meet him.<br>
+							<br>
+							
+						ELAINE: Hmmm, I don&#146;t think so.<br>
+							<br>
+							
+						JERRY: Well, what does he do? Is he an artisan, a craftsman, a labourer of some sort?<br>
+							<br>
+							
+						ELAINE: Wall street.<br>
+							<br>
+							
+						JERRY: Ah, high finance. Bulls, Bears, people from Conneticut.<br>
+							<br>
+							
+						ELAINE: And he happens to be pretty good lookin&#146;.<br>
+							<br>
+							
+						JERRY: (pause) All right, sir.<br>
+							<br>
+							
+						ELAINE: And... he&#146;s hilarious.<br>
+							<br>
+							
+						JERRY: Now that&#146;s not fair! So where did you meet this guy?<br>
+							<br>
+							
+						ELAINE: I staked out his health club.<br>
+							<br>
+							
+						JERRY: Uh huh. When you&#146;re on a stakeout, do you find it&#146;s better to stand up against the wall, or kinda crouch down behind a big plant?<br>
+							<br>
+							
+						(They leave his apartment)<br>
+							<br>
+							<br>
+							<br>
+							
+						INT. COMEDY CLUB &#150; NIGHT<br>
+							<br>
+							
+						Jerry is on stage, performing.<br>
+							<br>
+							
+						JERRY: Y&#146;know I think that even if you&#146;ve had a relationship with someone, or let&#146;s say, especially if you&#146;ve had a relationship with someone and you try to become friends afterwards, it&#146;s very difficult. Isn&#146;t this? It&#146;s hard. Because, you know each other so well, you know all of each others tricks. It&#146;s like two magicians, trying to entertain each other. The one goes, &#147;Look, a rabbit.&#148; The other goes, &#147;So? I believe this is your card.&#148; &#147;Look, why don&#146;t we just saw each other in half and call it a night, okay?&#148;<br>
+							<br>
+							<br>
+							
+						The End</td>
+						</tr>
+						<tr height="6">
+							<td class="bottom2" width="645" height="6"></td>
+						</tr>
+						<tr>
+							<td width="645">
+								<div align="center">
+									<font size="-1">Copyright 2006 seinology.com | All Rights Reserved | Designed by 13erla</font></div>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+		<p></p>
+	</body>
+
+</html>
+

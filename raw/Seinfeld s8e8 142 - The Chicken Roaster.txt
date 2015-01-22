@@ -1,0 +1,635 @@
+<tdOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+<html>
+
+	<head>
+		<meta http-equiv="content-type" content="text/html;charset=ISO-8859-1">
+		<meta name="description" content="Top Source for Seinfeld">
+		<meta name="keywords" content="seinfeld, sienfeld, Jerry Seinfeld, Julia Louis Dreyfus, Jason Alexander, Michael Richards, Kramer, George, Costanza, Elaine Benes, morty, Larry David">
+		<title>Seinology.com :: Scripts :: 142-The Chicken Roaster</title>
+	<link rel='stylesheet' href='/stylesheet.css' type='text/css'>
+	</head>
+
+	<body>
+			<table align="center" width="787" border="0" cellspacing="0" cellpadding="0">
+				<tr>
+					<td><font size="-2" color="red">Seinology.com - </font><font size="-3" color="black">Where Seinfeld Content and Accuracy Matter Most. Seinfeld scripts in pdf form, Seinfeld episode video clips, Seinfeld episode audio clips, Jerry Seinfeld appearances, Julia Louis-Dreyfus appearances, Michael Richards appearances, Jason Alexander appearances, Seinfeld discussion Forum, Seinfeld Where are they Now? Seinlanguage Newsletter, Popular Seinfeld Lists, Seinfeld episode standup, Seinfeld episode guide, Seinfeld fan fiction. Seinfeld content all on one domain. Seinology.com enjoy your stay.</font></td>
+				</tr>
+			</table>
+		
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr height="100">
+				<td class="logo"></td>
+			</tr>
+			<tr><td class="ads" align="center" background=#8694fa>
+				<script type="text/javascript"><!--
+google_ad_client = "pub-1924026976931416";
+google_ad_width = 728;
+google_ad_height = 90;
+google_ad_format = "728x90_as";
+google_ad_type = "text";
+google_ad_channel = "";
+google_color_border = "FFFFFF";
+google_color_bg = "8694fa";
+google_color_link = "0000FF";
+google_color_text = "000000";
+google_color_url = "002E3F";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></td></tr>
+		</table>
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr>
+				<td valign="top" width="136">
+					<table width="136" border="0" cellspacing="0" cellpadding="0">
+						<tr height="24">
+							<td class="navigation">
+								<div align="center">
+									
+									<b>Navigation</b></div>
+							</td>
+						</tr>
+						<tr height="199">
+							<td class="spacer1" valign="top" width="136" height="199">
+								<div align="center">
+									<font size="-1"><a href="http://www.seinology.com">Home</a><br>
+										<a href="http://board.seinology.com">Forum</a><br>
+										<a href="http://www.seinology.com/av.shtml">Audio/Video</a><br>
+										<a href="http://www.seinology.com/scripts.shtml">Scripts</a><br>
+										<a href="http://www.seinology.com/survivor.shtml">Survivor</a><br>
+										<a href="http://www.seinology.com/fanfics.shtml">Fan Fiction</a><br>
+										<a href="http://www.seinology.com/gallery/">Gallery</a><br>
+										<a href="http://www.seinology.com/newsletter.shtml">Newsletter</a><br>
+										<a href="http://www.seinology.com/lists.shtml">Lists</a><br>
+										<a href="http://www.seinology.com/epguide.shtml">Episode Guide</a><br>
+										<a href="http://www.seinology.com/links.shtml">Links</a><br>
+										<a href="http://www.seinology.com/faqother.shtml">Faq + others</a><br>
+										<a href="http://www.seinology.com/legal.shtml">Legal</a></font></div>
+							</td>
+						</tr>
+						
+						<tr>
+							<td class="nav2" width="136">
+							<div align="center"><b>Search</b></div></td>
+						</tr>
+						<tr>
+							<td class="spacer1" width="136" valign="top"><div align="center"><form method="get" action="http://www.seinology.com/search/search.cgi">
+<p><label for="fdse_Match">Match</label><br>
+<select name="Match" id="fdse_Match" size="1">
+<option value="1">All</option>
+<option value="0">Any</option>
+<option value="2">Phrase</option>
+</select></p>
+<p><label for="fdse_Realm">Where?</label><br>
+<select name="Realm" id="fdse_Realm" size="1">
+<option selected="selected" value="All">EntireSite</option>
+<option value="Ep Guide">Ep Guide</option>
+<option value="Images">Images</option>
+<option value="Lists">Lists</option>
+<option value="Newsletters">Newsletters</option>
+<option value="Scripts">Scripts</option>
+<option value="Notes..Nothing">Notes..Nothing</option>
+</select></p>
+<p><input type="text" name="Terms" size="14" id="fdse_Terms"><br>
+<input type="submit" class="submit" name="submitButtonName" value="Search"></p>
+</div></form></td>
+						</tr>
+						<tr><td class="bottom" width="136" height="10" valign="top">
+						</td>
+						</tr>
+					</table>
+				</td>
+				<td width="4"></td>
+				<td valign="top" width="645">
+					<table width="645" border="0" cellspacing="0" cellpadding="0">
+						<tr height="18">
+							<td width="645" height="35" class="bar">
+								<div align="center">
+									<b><font size="+2" color="black">Script</font></b></div>
+							</td>
+						</tr>
+						<tr height="362">
+							<td class="spacer2" valign="top" width="645" height="362">
+
+						<p><font size="-2">Originally Transcribed by unknown<br>
+										Corrections and additions on 11/16/04 by Dan Coogan  http://www.cooganphoto.com</font>
+								
+								<p><font size="-2">Episode 142 - The Chicken Roaster<br>
+										pc: 808, season 8, episode 8<br>
+										Broadcast date: November 14, 1996</font></p>
+								<p><font size="-2">Written by Alec Berg &amp; Jeff Schaffer<br>
+										Directed by Andy Ackerman</font></p>
+								<p><font size="-2">-------------------------------------------------------------------------------</font></p>
+								<p><font size="-2">The Cast<br>
+										Regulars:<br>
+										Jerry Seinfeld ........................&nbsp; Jerry Seinfeld<br>
+										Jason Alexander .................... George Costanza<br>
+										Julia Louis-Dreyfus ................ Elaine Benes<br>
+										Michael Richards .................... Cosmo Kramer</font></p>
+								<p><font size="-2">Guest Stars:</font></p>
+								<p><font size="-2">Mark Roberts ........................ Seth<br>
+										Kymberly Kalil ...................... Heather (sales woman)<br>
+										Michael D. Roberts ............. Ipswich<br>
+										Wesley Leong ...................... Clerk<br>
+										Christopher Aguilar ............ Burmese Boy<br>
+										rc: Wayne Knight ................. Newman<br>
+										rc: John O'Hurley ................. J. Peterman</font></p>
+								<p><font size="-2">==================================================================</font></p>
+								<p><font size="-2">[George and Jerry are on the side of the street at a fruit stand / market. George picks up a bottle of Orange juice.]</font></p>
+								<p><font size="-2">GEORGE: Dollar Eighty-Nine. Why is this a dollar eighty-nine? Why is there no haggling in this country?</font></p>
+								<p><font size="-2">JERRY: I guess we like to think we've progressed beyond a knife fight for a citrus drink.</font></p>
+								<p><font size="-2">GEORGE: Not me. Everything should be negotiable. (he picks up a container of fruit)</font></p>
+								<p><font size="-2">JERRY: Restaurants too?</font></p>
+								<p><font size="-2">GEORGE: Absolutely. You're telling me there's no room to move on pasta. All starches are a scam.</font></p>
+								<p><font size="-2">JERRY: Yea especially Ziti, with that big hole. </font></p>
+								<p><font size="-2"><br>
+										(George asks the store worker a question)</font></p>
+								<p><font size="-2">GEORGE: Ahh, Excuse me, how much is this?</font></p>
+								<p><font size="-2">WORKER: Dollar nineteen.</font></p>
+								<p><font size="-2">GEORGE: I'll give you a quarter.</font></p>
+								<p><font size="-2">WORKER: Get the hell out of here.</font></p>
+								<p><font size="-2">JERRY: Tell him forty and no fork.</font></p>
+								<p><font size="-2">GEORGE: Thirty.</font></p>
+								<p><font size="-2">WORKER: That's it you leave and never come back!</font></p>
+								<p><font size="-2">JERRY: How about we leave and, come back in a week?</font></p>
+								<p><font size="-2">WORKER: Deal! (turns and walks into the market)</font></p>
+								<p><font size="-2">GEORGE: Alright see? We got something there.</font></p>
+								<p></p>
+								<p><font size="-2"><br>
+										[Kramer and Jerry and on the side of the street talking about the new chicken shack.]</font></p>
+								<p><font size="-2">KRAMER: Awe check it out.</font></p>
+								<p><font size="-2">JERRY: Wow. Kenny Rogers Roasters. Finally open. Hey, look at the size of that neon chicken on the roof.</font></p>
+								<p><font size="-2">KRAMER: Roger's can't sell chicken around here, we got chicken places on every block.</font></p>
+								<p><font size="-2">JERRY: He is the gambler.</font></p>
+								<p><font size="-2">KRAMER: Well, (rubs hands) I gotta meet Newman at the pet store. Helping him pick out a turtle.</font></p>
+								<p><font size="-2">JERRY: Try and stay calm.</font></p>
+								<p><font size="-2">KRAMER: Yea, yea.</font></p>
+								<p><font size="-2">(Kramer exits)</font></p>
+								<p></p>
+								<p><font size="-2">[Man on street recognizes Jerry.]</font></p>
+								<p><font size="-2">MAN: Hey Jerry.</font></p>
+								<p><font size="-2">JERRY: Seth! Wow what has it been like five years?</font></p>
+								<p><font size="-2">SETH: At least.</font></p>
+								<p><font size="-2">JERRY: You wanna grab lunch?</font></p>
+								<p><font size="-2">SETH: Ah, I'm actually headed back to the office.</font></p>
+								<p><font size="-2">JERRY: Seth, it's me. What's more important than catching up with an old college buddy?</font></p>
+								<p><font size="-2">SETH: Well I am, supposed to be in this meeting.</font></p>
+								<p><font size="-2">JERRY: Blow it off. Remember Poli Sci? How many of those did we go to?</font></p>
+								<p><font size="-2">SETH &amp; JERRY: Alright, alright.</font></p>
+								<p><font size="-2">JERRY: Hey whatever happened to Moochie?</font></p>
+								<p><font size="-2">SETH: He's dead.</font></p>
+								<p><font size="-2">JERRY: Is that right?</font></p>
+								<p><font size="-2">(Jerry and Seth walk off down the sidewalk)</font></p>
+								<p></p>
+								<p><font size="-2"><br>
+										[George and Elaine are in a store]</font></p>
+								<p><font size="-2">GEORGE: You know I still don't know how you can call lunch with me a business expense.</font></p>
+								<p><font size="-2">ELAINE: What do you think of the catalog?</font></p>
+								<p><font size="-2">GEORGE: It stinks.</font></p>
+								<p><font size="-2">ELAINE: There, we just talked business.</font></p>
+								<p><font size="-2">SALES WOMAN: We do have the down comforter and the cookware you liked.</font></p>
+								<p><font size="-2">ELAINE: Oh great, put it all on the Peterman account with the other stuff.</font></p>
+								<p><font size="-2">SALES WOMAN: You know what else we have that you might like?</font></p>
+								<p><font size="-2">ELAINE: I'll take it.</font></p>
+								<p><font size="-2">(George puts on a giant Russian hat)</font></p>
+								<p><font size="-2">GEORGE: Hey, you like?</font></p>
+								<p><font size="-2">(Elaine laughs)</font></p>
+								<p><font size="-2">SALES WOMAN: I think it looks very nice on you.</font></p>
+								<p><font size="-2">GEORGE: Really? (feeling flattered)</font></p>
+								<p><font size="-2">SALES WOMAN: Hmm.</font></p>
+								<p><font size="-2">GEORGE: Elaine, huh... Peterman account?</font></p>
+								<p><font size="-2">ELAINE: Why not? (To the Sales Woman) And some hair for my little friend here.</font></p>
+								<p><font size="-2">(George takes off the hat.)</font></p>
+								<p></p>
+								<p><font size="-2"><br>
+										[Jerry and Seth are eating at a restaurant]</font></p>
+								<p><font size="-2">SETH: So how's your stand up career?</font></p>
+								<p><font size="-2">JERRY: Good, as a matter of fact. I almost had my own show in Japan.</font></p>
+								<p><font size="-2">SETH: Do you speak Japanese?</font></p>
+								<p><font size="-2">JERRY: No</font></p>
+								<p><font size="-2">SETH: So you would have done it in Japan, but in English.</font></p>
+								<p><font size="-2">(Jerry thinks for a minute)</font></p>
+								<p><font size="-2">JERRY: I don't know. So what's this job of yours?</font></p>
+								<p><font size="-2">SETH: Big investment firm. <br>
+										JERRY: Mmmm.</font></p>
+								<p><font size="-2">SETH: We just got the Citibank account. In fact today was our first big meeting with them.</font></p>
+								<p><font size="-2">JERRY: The, the meeting you blew off?</font></p>
+								<p><font size="-2">(Seth laughs)</font></p>
+								<p><font size="-2">SETH: Yea.</font></p>
+								<p><font size="-2">JERRY: Wasn't that kind of important?</font></p>
+								<p><font size="-2">(Seth pauses to think, and then gets worried.)</font></p>
+								<p><font size="-2">SETH: Yea.</font></p>
+								<p></p>
+								<p><font size="-2"><br>
+										[Jerry and Elaine are talking on the phone]</font></p>
+								<p><font size="-2">ELAINE: ...and I brought I whole new set of cookware, and a Water Pik.</font></p>
+								<p><font size="-2">JERRY: You use a Water Pik?</font></p>
+								<p><font size="-2">ELAINE: Sure. Water Pik, floss, Plax, brush, Listerine.</font></p>
+								<p><font size="-2">JERRY: So you go in the bathroom at eleven your in bed by what, two?</font></p>
+								<p><font size="-2">ELAINE: Well, at the latest. Oh hang on a second, I gotta another call. </font></p>
+								<p><font size="-2">(Elaine clicks over to the call waiting, putting Jerry on hold in the process. The screen is a 3 panel shot -- Ipswitch, Elaine, Jerry )</font></p>
+								<p><font size="-2">ELAINE: Hello?</font></p>
+								<p><font size="-2">MAN: Good day Ms. Benes. It&rsquo;s Roger Ipswitch.</font></p>
+								<p><font size="-2">ELAINE: Oh hey! How things doing in accounting?</font></p>
+								<p><font size="-2">ROGER: Ms. Benes, I notice you&rsquo;ve been charging quite a bit of merchandise on the Peterman account.</font></p>
+								<p><font size="-2">(Jerry looks at his shirt)</font></p>
+								<p><font size="-2">ELAINE: Well, I am the President.</font></p>
+								<p><font size="-2">ROGER: Yes, and we're all very impressed. Never the less, the expense account is for business purposes only.</font></p>
+								<p><font size="-2">ELAINE: Well, well isn't the president allowed to do anything that they want?</font></p>
+								<p><font size="-2">ROGER: No. I'll be in your office first thing tomorrow. Good day. (hangs up the phone)</font></p>
+								<p><font size="-2">(screen still has 3 panels, but Ipswitch&rsquo;s panel is now black, leaving Elaine and Jerry in their own panels)</font></p>
+								<p><font size="-2">ELAINE: Good day. </font></p>
+								<p><font size="-2">(Elaine hangs up - her panel goes black, leaving Jerry still on hold)</font></p>
+								<p><font size="-2">JERRY: Hello. Anybody?</font></p>
+								<p></p>
+								<p><font size="-2"><br>
+										[George walks into Monks wearing the Russian hat.]</font></p>
+								<p><font size="-2">GEORGE: Hey.</font></p>
+								<p><font size="-2">JERRY: Hey. Why didn't cha get the big one?</font></p>
+								<p><font size="-2">GEORGE: This hat just bottles in the heat, I -I don't even need a coat! It's unbelievable!</font></p>
+								<p><font size="-2">JERRY: I don't believe it.</font></p>
+								<p><font size="-2">(George takes off hat and sits in booth)</font></p>
+								<p><font size="-2">GEORGE: Ah, and I got a date with the sales woman. She's got a little Marisa Tomei thing going on.</font></p>
+								<p><font size="-2">JERRY: Ahh, too bad you got a little, George Costanza thing going on.</font></p>
+								<p><font size="-2">GEORGE: I'm going out with her tomorrow, she said she had some errands to run.</font></p>
+								<p><font size="-2">JERRY: That's a date?</font></p>
+								<p><font size="-2">GEORGE: What's the difference? You know they way I work. I'm like a commercial jingle. First it's a little irritating, then you hear it a few times, you&rsquo;re hummin&rsquo; it in the shower, by the third date it's (sings) &quot;By Mennen!&quot;.</font></p>
+								<p><font size="-2">JERRY: How do you make sure your gonna get to the third date?</font></p>
+								<p><font size="-2">GEORGE: If there's any doubt, I do a leave-behind. Keys, gloves, scarf -- I go back to her place to pick it up...(pop sound) date number two.</font></p>
+								<p><font size="-2">JERRY: That is so old. Why don't you show up at her door in a wood horse?</font></p>
+								<p></p>
+								<p><font size="-2"><br>
+										[Jerry is at his apartment door]</font></p>
+								<p><font size="-2">JERRY: (sings theme) &quot;By Mennen.&quot;  What the?...</font></p>
+								<p><font size="-2">(Jerry notices a red dot on his door, Using his hand, he traces the red light coming from Kramer's peep hole. Jerry knocks on Kramer's door. Kramer opens the door -- a huge red light is flooding the apartment as well as a pronounced buzzing sound. Kramer is smoking away on a cigar. Jerry is taken-a-back by the bright red light.)</font></p>
+								<p><font size="-2">JERRY: What's going on in there?</font></p>
+								<p><font size="-2">KRAMER: What?</font></p>
+								<p><font size="-2">JERRY: That light!</font></p>
+								<p><font size="-2">KRAMER: Oh the red. Yeah, It&rsquo;s the chicken roaster sign. You know, its right across from my window.</font></p>
+								<p><font size="-2">JERRY: Can't you shut the shades?</font></p>
+								<p><font size="-2">KRAMER: They are shut. Oh by the way, your friend Seth, he stopped by.</font></p>
+								<p><font size="-2">JERRY: Oh yeah? What'd he have to say?</font></p>
+								<p><font size="-2">KRAMER: Yeah, he was fired.</font></p>
+								<p></p>
+								<p><font size="-2"><br>
+										[Elaine's office, Elaine is trying to convince the accounting guy that all of her expenses are business related]</font></p>
+								<p><font size="-2">ELAINE: Well, as you can see the comforter I expensed is actually the Aristotle goose down tunic. (laughs, modeling the comforter) What do you think?</font></p>
+								<p><font size="-2">ROGER: Another bulls eye.</font></p>
+								<p><font size="-2">ELAINE: Hmm. Well Mr. Ipswitch since everyone of my expenses was obviously for a legitimate business purpose.</font></p>
+								<p><font size="-2">(Elaine turns on Water Pik to water the plants.)</font></p>
+								<p><font size="-2">ROGER: I just need to see the sable hat you purchased yesterday.</font></p>
+								<p><font size="-2">ELAINE: The hat? Why do you need to see the hat?</font></p>
+								<p><font size="-2">ROGER: It costs eight-thousand dollars.</font></p>
+								<p><font size="-2">ELAINE: What? </font></p>
+								<p><font size="-2">(Elaine, surprised at the cost of the hat, turns and accidentally hits Roger with water from Water Pik -- he tries to block the water stream from hitting him.) </font></p>
+								<p><font size="-2">ELAINE: Ohh. (trying to control the Water Pik and shut it off.)</font></p>
+								<p></p>
+								<p><font size="-2"><br>
+										[Jerry is talking to Seth at his apartment]</font></p>
+								<p><font size="-2">JERRY: Seth, if you knew the meeting was so important why did you go the lunch with me?</font></p>
+								<p><font size="-2">SETH: We're old college buddies.</font></p>
+								<p><font size="-2">JERRY: I only knew you through Moochie.</font></p>
+								<p><font size="-2">SETH: Hey Jerry don't worry about it all right. The important thing is, is we got to catch up. Mind if I ah, grab the want ads?</font></p>
+								<p><font size="-2">JERRY: Um, actually I haven't read Tank McNamara yet. (takes the paper back)</font></p>
+								<p><font size="-2">(Exit Seth. Kramer comes over, walks into the doorjam. Red light still blaring)</font></p>
+								<p><font size="-2">JERRY: How's life on the red planet? (shuts door)</font></p>
+								<p><font size="-2">KRAMER: Its killing me, I can't eat, I can't sleep. All I can see is that giant red sun in the shape of a chicken. (gets some cereal from the cubard and pours it in a big bowl)</font></p>
+								<p><font size="-2">JERRY: Well, did you go down to the Kenny Rogers and complain?</font></p>
+								<p><font size="-2">KRAMER: Ah, they gave me the heave ho. You know, I don't think that Kenny Rogers has any idea what's going on down there.</font></p>
+								<p><font size="-2">(Kramer takes a pitcher of red liquid from the fridge and pours it on his cereal.)</font></p>
+								<p><font size="-2">JERRY: What are you doing?</font></p>
+								<p><font size="-2">KRAMER: Getting some cereal</font></p>
+								<p><font size="-2">JERRY: That, that's tomato juice.</font></p>
+								<p><font size="-2">(Kramer takes a big spoonful of cereal with tomato juice!)</font></p>
+								<p><font size="-2">(Spits out cereal)</font></p>
+								<p><font size="-2">KRAMER: That looked like milk to me! Jerry my Rods and Cones are all screwed up! Alright, that's it.  I gotta move in with you Jerry.</font></p>
+								<p><font size="-2">(Kramer takes the bowl to the trash can and proceeds to spill the cereal and tomato juice all over Jerry's wall in the area around the trash can)</font></p>
+								<p><font size="-2">JERRY: I don't know Kramer, ahh, my concern is that ....</font></p>
+								<p><font size="-2">(Kramer attempts to cleans the mess with a dish rag....)</font></p>
+								<p><font size="-2">JERRY: ..living together after a while we... we might start to get on each others nerves a little.</font></p>
+								<p><font size="-2">(Squeezes juice from rag into pitcher and puts it back in the fridge)</font></p>
+								<p><font size="-2">KRAMER: Alright listen to me, I got a great idea. Now, you're a heavy sleeper, right? Why don't we just switch apartments?</font></p>
+								<p><font size="-2">JERRY: Or I could sleep in the park? You could knock these walls down, make it an eight room luxury suite.</font></p>
+								<p><font size="-2">KRAMER: Jerry these are load bearing walls, they're not gonna come down!</font></p>
+								<p><font size="-2">JERRY: Yea, that's no good.</font></p>
+								<p><font size="-2">KRAMER: I may have to drive that place out of business.</font></p>
+								<p><font size="-2">JERRY: How you gonna do that?</font></p>
+								<p><font size="-2">KRAMER: Like we did in the sixties, takin' in to the streets.</font></p>
+								<p><font size="-2">(Kramer makes a peace sign and a pop noise.)</font></p>
+								<p><font size="-2">(Kramer opens door and leans way back from the overwhelming red neon light )</font></p>
+								<p></p>
+								<p><font size="-2"><br>
+										[George is dropping off the sales woman that sold him the hat.]</font></p>
+								<p><font size="-2">HEATHER: Thanks George, but I got it from here.</font></p>
+								<p><font size="-2">GEORGE: Oh no I'm in already come on.</font></p>
+								<p><font size="-2">(George puts down the bags he came in with)</font></p>
+								<p><font size="-2">GEORGE: So eh, you eh, wanna get together tomorrow?</font></p>
+								<p><font size="-2">HEATHER: No, I'm gonna be pretty busy.</font></p>
+								<p><font size="-2">GEORGE: What about this weekend?</font></p>
+								<p><font size="-2">HEATHER: I'm gonna be busy for a while.</font></p>
+								<p><font size="-2">GEORGE: OK, ah.. (George throws his keys on the table) see ya!</font></p>
+								<p><font size="-2">HEATHER: Hey, you forgot your keys.</font></p>
+								<p><font size="-2">GEORGE: Oh, those, those aren't my keys.</font></p>
+								<p><font size="-2">HEATHER: Well they're not mine.</font></p>
+								<p><font size="-2">GEORGE: Oh. Ha. They are my keys, how weird. (laughs)</font></p>
+								<p><font size="-2">(Phone rings)</font></p>
+								<p><font size="-2">HEATHER: Goodbye George.</font></p>
+								<p><font size="-2">GEORGE: Yea bye.</font></p>
+								<p><font size="-2">HEATHER: George, Bye! (picks up phone) Hello? You are not going to believe the date I just had.</font></p>
+								<p><font size="-2">(George places his hat on her chair, behind a pillow. )</font></p>
+								<p><font size="-2">GEORGE: (sings) Co-stan-za. (like &quot;By Mennen&quot;)</font></p>
+								<p><font size="-2">(Heather turns and looks as the door shuts)</font></p>
+								<p></p>
+								<p><font size="-2"><br>
+										[George and Elaine are in Elaine's office. George is looking at a bunch of fake butterflies on the wall]</font></p>
+								<p><font size="-2">ELAINE: What do you mean you don't have the hat?</font></p>
+								<p><font size="-2">GEORGE: I left it at Heather's. Are these alive? (pounding on glass display)</font></p>
+								<p><font size="-2">ELAINE: No dead! George, I need that Russian hat back!</font></p>
+								<p><font size="-2">GEORGE: Alright, alright, I'll call Heather, you'll get your hat back, I will get a second date. Ha ha ha. Now watch the magic.</font></p>
+								<p><font size="-2">(George tries to dial but gets a busy tone)</font></p>
+								<p><font size="-2">ELAINE: Dial 9- MERLIN.</font></p>
+								<p><font size="-2">(George dials again on speaker phone and Heather answers)</font></p>
+								<p><font size="-2">HEATHER: Hello?</font></p>
+								<p><font size="-2">GEORGE: (clears throat) Heather Hi, it's George Costanza.</font></p>
+								<p><font size="-2">HEATHER: Oy!</font></p>
+								<p><font size="-2">GEORGE: Ah, listen ah, I don't mean to bother you but ah, silly me, I- I think I may have left my hat in your apartment. So ah, I thought I'd just come by later and pick it up.</font></p>
+								<p><font size="-2">HEATHER: You didn't' leave a hat here.</font></p>
+								<p><font size="-2">GEORGE: I- I'm pretty sure I left it eh, behind the cushion of the chair ... accidentally.</font></p>
+								<p><font size="-2">HEATHER: No hat. George I gotta go.</font></p>
+								<p><font size="-2">GEORGE: Ah, a, You know what, maybe I'll just come ... umm, y&rsquo;ummm (stammering)</font></p>
+								<p><font size="-2">(Heather hangs up)</font></p>
+								<p></p>
+								<p><font size="-2"><br>
+										[Jerry is walking down the street and sees Seth emptying a garbage for Kenny Rogers Roasters]</font></p>
+								<p><font size="-2">JERRY: Seth?</font></p>
+								<p><font size="-2">SETH: Jerry Hi! What do you think?</font></p>
+								<p><font size="-2">JERRY: I think your taking the trash out for this chicken place, but that couldn't be.</font></p>
+								<p><font size="-2">SETH: Yeah, I'm the new manager</font></p>
+								<p><font size="-2">JERRY: But your were an executive, this is fast food.</font></p>
+								<p><font size="-2">SETH: Not fast food, good food quickly. Hey, next time lunch&rsquo;ll be on me, huh Jer.</font></p>
+								<p><font size="-2">(Kramer opens his window revealing a banner saying &quot;BAD CHICKEN&quot;)</font></p>
+								<p><font size="-2">KRAMER: Hey, stay away from the chicken. Bad, bad chicken, mess you up.</font></p>
+								<p><font size="-2">SETH: That's not going to be good for business.</font></p>
+								<p><font size="-2">JERRY: That's not going to be good for anybody.</font></p>
+								<p></p>
+								<p><font size="-2"><br>
+										[Kramer and Jerry are talking in Jerry's apartment.]</font></p>
+								<p><font size="-2">KRAMER: Jerry I&rsquo;m so glad we switched apartments. It was a perfect solution.</font></p>
+								<p><font size="-2">JERRY: Look Kramer, i-i-if I'm gonna live over there, y-y-you gotta take some of this stuff out. I mean this thing is really freaking me out (holds up a ventriloquist dummy). I feel like its gonna come to life in the middle of the night and kill me.</font></p>
+								<p><font size="-2">KRAMER: What, Mr. Marbles? He's harmless.</font></p>
+								<p><font size="-2">JERRY: And one other thing, I don't want Newman using my...</font></p>
+								<p><font size="-2">(Jerry is interrupted by the sound of a toilet flush, out comes Newman from the bathroom who then tosses a newspaper on the table)</font></p>
+								<p><font size="-2">JERRY: Oh no.</font></p>
+								<p><font size="-2">NEWMAN: Nice place you got here Kramer ...</font></p>
+								<p><font size="-2">KRAMER: Yeah.</font></p>
+								<p><font size="-2">NEWMAN: ... a man can really get some thinking done. (sits on couch, next to Kramer.)</font></p>
+								<p><font size="-2">JERRY: Well don't get too comfortable. As soon as Seth gets a real job you two are gong back in that chicken supernova.</font></p>
+								<p><font size="-2">(Jerry puts on giant sunglasses and goes to Kramer's apartment. Newman starts eating chicken)</font></p>
+								<p><font size="-2">KRAMER: What is that Roger's Chicken? Oh get that outta here.</font></p>
+								<p><font size="-2">NEWMAN: I don't know. The man makes a pretty strong bird.</font></p>
+								<p><font size="-2">KRAMER: Well I'm boycotting it.</font></p>
+								<p><font size="-2">NEWMAN: (eating) hm.</font></p>
+								<p><font size="-2">(Kramer looks at the chicken.)</font></p>
+								<p><font size="-2">KRAMER: What is that, hickory?</font></p>
+								<p><font size="-2">NEWMAN: Yea, it's the wood that makes it good.</font></p>
+								<p><font size="-2">KRAMER: Really?</font></p>
+								<p><font size="-2">NEWMAN: Uh-Huh.</font></p>
+								<p><font size="-2">(Kramer reaches for some and Newman grows,)</font></p>
+								<p><font size="-2">KRAMER: Oh stop it. (he slaps Newman&rsquo;s shoulder) What&rsquo;s the matter with you.</font></p>
+								<p><font size="-2">(Kramer takes a piece of chicken and looks like he loves it)</font></p>
+								<p><font size="-2">KRAMER: Mmmmm.</font></p>
+								<p></p>
+								<p><font size="-2"><br>
+										[Exterior dusk shot of Heather's apartment building. Knock on Heather's door.]</font></p>
+								<p><font size="-2">HEATHER: Can I help you?</font></p>
+								<p><font size="-2">(Elaine stands in the doorway, off to the side)</font></p>
+								<p><font size="-2">ELAINE: Hi, yeah, I'm Elaine Benes, we met at Barney's... </font></p>
+								<p><font size="-2">HEATHER: Oh.</font></p>
+								<p><font size="-2">ELAINE: ... I'm a friend of George Costanza's. (while she is talking, she is dragging George in by pulling his ear)</font></p>
+								<p><font size="-2">GEORGE: Hi.</font></p>
+								<p><font size="-2">ELAINE: Ah, (releases George&rsquo;s ear) whether you're aware of it or not George had this pathetic little plan to, leave something behind so he could weasel a second date.</font></p>
+								<p><font size="-2">HEATHER: Really?</font></p>
+								<p><font size="-2">ELAINE: I know, he- he has a real confidence problem.</font></p>
+								<p><font size="-2">GEORGE: Well not really...</font></p>
+								<p><font size="-2">ELAINE: George...</font></p>
+								<p><font size="-2">GEORGE: Ah... (quietly)</font></p>
+								<p><font size="-2">ELAINE:  ... Anyway I know you told him you didn't have the hat because you didn't want to see him again. And, more sympathetic I could not be. But, I really do need to have the hat back.</font></p>
+								<p><font size="-2">HEATHER: Look, I don't know what to tell you, but there's no hat here. I mean, maybe the maid took it, I had people over, but...</font></p>
+								<p><font size="-2">GEORGE: Well that makes sense. </font></p>
+								<p><font size="-2">(George starts to leave, so Elaine grabs him by the ear and pulls him back in)</font></p>
+								<p><font size="-2">ELAINE: Well then you wouldn't mind if we took a second look around?</font></p>
+								<p><font size="-2">HEATHER: Be my guest.</font></p>
+								<p><font size="-2">(Elaine drags George in by his ear)</font></p>
+								<p><font size="-2">GEORGE: Good to see you again.</font></p>
+								<p><font size="-2">(George and Elaine exit the apartment looking tired. The door shuts hard.)</font></p>
+								<p><font size="-2">GEORGE: She's bluffing... </font></p>
+								<p><font size="-2">ELAINE: Uhhh...</font></p>
+								<p><font size="-2">GEORGE: ... She's got it stashed away in there somewhere.</font></p>
+								<p><font size="-2">ELAINE: This is an absolute disaster.</font></p>
+								<p><font size="-2">GEORGE: Oh I don't know. Check this out.</font></p>
+								<p><font size="-2">(George holds up a golden clock he had hidden in his jacket. )</font></p>
+								<p><font size="-2">ELAINE: You stole her clock?</font></p>
+								<p><font size="-2">(George smiles)</font></p>
+								<p><font size="-2">ELAINE: Well done. (pats George on the shoulder)</font></p>
+								<p><font size="-2">GEORGE: Yep, this one for our side!</font></p>
+								<p></p>
+								<p><font size="-2"><br>
+										[Cut to Jerry's apartment, Kramer is in Jerry's bed eating Kenny Roger's Chicken. Kramer wipes his face on Jerry's sheets, and doing so found another piece of chicken, Kramer throws it on the floor.]</font></p>
+								<p></p>
+								<p><font size="-2"><br>
+										[Cut to Kramer's apartment, Jerry is wide awake in the dark (red).]</font></p>
+								<p><font size="-2">JERRY: (Thinking) What is that creaking, its like I'm in the hold of a ship. Gotta relax.</font></p>
+								<p><font size="-2">(Creaking sound, then the sound of a door opening)</font></p>
+								<p><font size="-2">JERRY: (startled - eyes wide open) Hello, is somebody there? (scurrying sound) Mr.- Mr. Marbles?</font></p>
+								<p></p>
+								<p><font size="-2"><br>
+										[Morning at Jerry apartment]</font></p>
+								<p><font size="-2">ELAINE: So I told Ipswitch I'd have the hat by this afternoon. What am I gonna do?</font></p>
+								<p><font size="-2">KRAMER: You should sleep with him.</font></p>
+								<p><font size="-2">(Enter Jerry, his hair is like Kramer's. Jerry enters doing Kramer's slide. The red light floods the hallway from Kramer&rsquo;s apartment)</font></p>
+								<p><font size="-2">JERRY: Hey buddy. I'm on no sleep, no sleep!. You don't know what it's like in there, all night long things are creaking and cracking. And that red light is burning my brain!<br>
+										(rubs his eyes with the palms of his hands - fingers outstretched)</font></p>
+								<p><font size="-2">ELAINE: You look a little stressed.</font></p>
+								<p><font size="-2">JERRY: Oh I'm stressed! (makes like Kramer, outstretching his arm. Jerry heads for the freezer for some ice cream.)</font></p>
+								<p><font size="-2">ELAINE: So Kramer what am I supposed to do? If I don't have that fur hat by four o'clock they're gonna take me down like Nixon.</font></p>
+								<p><font size="-2">JERRY: You know my friend Bob Sacamano?</font></p>
+								<p><font size="-2">ELAINE: I thought he was Kramer's friend.</font></p>
+								<p><font size="-2">JERRY: Well, he called last night about 3 a.m. and we got to talking, he sells Russian hats down at battery park, forty bucks.</font></p>
+								<p><font size="-2">ELAINE: Forty bucks? Are they Sable?</font></p>
+								<p><font size="-2">JERRY: No, but the difference is negligible.</font></p>
+								<p><font size="-2">KRAMER: Oh yea, I like this idea. (sounding very much like Jerry)</font></p>
+								<p><font size="-2">ELAINE: Alright, lets give it a shot, lets go.</font></p>
+								<p><font size="-2">JERRY: Giddee up!</font></p>
+								<p><font size="-2">(Exit Elaine and Jerry. Newman reveals himself, he was hiding in the bathroom.)</font></p>
+								<p><font size="-2">NEWMAN: It's getting cold, it's getting cold.</font></p>
+								<p><font size="-2">KRAMER: That was a close one.</font></p>
+								<p><font size="-2">NEWMAN: Well why do we have to keep this from Jerry?</font></p>
+								<p><font size="-2">KRAMER: Because if Jerry finds out that I'm hooked on Roger's chicken I'm back there with the red menace.</font></p>
+								<p><font size="-2">(Newman and Kramer start open the grocery bag.)</font></p>
+								<p></p>
+								<p><font size="-2"><br>
+										[Back to Elaine's office]</font></p>
+								<p><font size="-2">IPSWITCH: Ms. Benes the hat you charged to the company was Sable, this is Nutria.</font></p>
+								<p><font size="-2">ELAINE: w-w- Well, that's a -ah, it&rsquo;s kind of Sable.</font></p>
+								<p><font size="-2">IPSWITCH: No, its a kind of rat.</font></p>
+								<p><font size="-2">ELAINE: That's a rat hat?</font></p>
+								<p><font size="-2">IPSWITCH: And a poorly made one, even by rat hat standards. I have no choice but to recommend your prompt termination to the board of directors. Nothing short of the approval of Peterman himself will save you this time.</font></p>
+								<p><font size="-2">ELAINE: But, but, he's in the Burmese jungle.</font></p>
+								<p><font size="-2">IPSWITCH: And quite mad too from what I hear.</font></p>
+								<p><font size="-2">ELAINE: Wait a minute, wait a minute. Can I fire you?</font></p>
+								<p><font size="-2">IPSWITCH: No.</font></p>
+								<p></p>
+								<p><font size="-2"><br>
+										[Monk's Diner -- George and Kramer are eating together]</font></p>
+								<p><font size="-2">KRAMER: So Heather called?</font></p>
+								<p><font size="-2">GEORGE: Yeah, but get this, the message said 'call me if you have the time'. Heh heh if I have the time, you get it?</font></p>
+								<p><font size="-2">KRAMER: No, but this is all very exciting. (sounding very much like jerry)</font></p>
+								<p><font size="-2">GEORGE: She knows that I have her clock. I know that she has my hat. I think she's getting ready to make an exchange.</font></p>
+								<p><font size="-2">KRAMER: Well there is the possibility that you've gone right out of your mind.</font></p>
+								<p><font size="-2">GEORGE: I've looked at that, seems unlikely.</font></p>
+								<p><font size="-2">KRAMER: I'd look again. So ah, how come you didn't call Jerry about all this?</font></p>
+								<p><font size="-2">GEORGE: Jerry, I can't talk to Jerry anymore. Ever since he moved into that apartment he's too much ... like you.</font></p>
+								<p><font size="-2">KRAMER: Hmm. That's a shame.</font></p>
+								<p></p>
+								<p><font size="-2"><br>
+										[Jerry talking to Seth inside Kenny Rogers Roasters]</font></p>
+								<p><font size="-2">JERRY: Seth, you're the manager, can't you turn off that sign?</font></p>
+								<p><font size="-2">SETH: Jerry I lied. I'm just an assistant manager.</font></p>
+								<p><font size="-2">SETH: (On loud speaker) Number sixty seven, family feast.</font></p>
+								<p><font size="-2">NEWMAN: Number 67, right here, right here!</font></p>
+								<p><font size="-2">JERRY: Hello Newman.</font></p>
+								<p><font size="-2">NEWMAN: Hello Jerry.</font></p>
+								<p><font size="-2">SETH: And don't forget your steamed broccoli.</font></p>
+								<p><font size="-2">JERRY: Hold it. Broccoli? Newman, you wouldn't eat broccoli if it was deep fried in chocolate sauce.</font></p>
+								<p><font size="-2">NEWMAN: I love.. broccoli, it&rsquo;s, good for you.</font></p>
+								<p><font size="-2">JERRY: Really? Then maybe you'd like to have a piece?</font></p>
+								<p><font size="-2">(Jerry opens container. Newman takes a piece)</font></p>
+								<p><font size="-2">NEWMAN: Gladly. (starts munching on the broccoli, then spits it out)</font></p>
+								<p><font size="-2">NEWMAN: Vile weed!</font></p>
+								<p><font size="-2">JERRY: It's Kramer isn't it? I knew it!  The greasy door knob the constant licking of the fingers, he's hooked to the chicken isn't he?</font></p>
+								<p><font size="-2">NEWMAN: Yes, Yes, now please. Someone, honey mustard.</font></p>
+								<p><font size="-2">(Newman drinks mustard like a shot of Henningin's whiskey. He slaps his hand on the counter 7 times, adjusts his coat, coughs and exits)</font></p>
+								<p></p>
+								<p><font size="-2"><br>
+										[Jerry's apartment, Kramer, tapping his fork on the table with an empty plate in front of him. He is waiting for Newman. Jerry comes in. Red light floods the hallway]</font></p>
+								<p><font size="-2">KRAMER: Newman, what took you... ah hey, hey </font></p>
+								<p><font size="-2">(surprised to see Jerry, Kramer removes the napkin from his shirt front and wipes his mouth like he just finished a meal.)</font></p>
+								<p><font size="-2">JERRY: Expecting Newman? That's funny because I just happened upon him down at the Kenny Roger's Roasters.</font></p>
+								<p><font size="-2">KRAMER: Oh, shh, Kenny Roger's? Whew, boy, I hate that place.</font></p>
+								<p><font size="-2">JERRY: He was buying quite a load of chicken, almost for two people ...</font></p>
+								<p><font size="-2">KRAMER: Oh</font></p>
+								<p><font size="-2">JERRY: ... as long as one of them is not him.</font></p>
+								<p><font size="-2">KRAMER: (laughs) Oh hey, you know Elaine, ah she stopped by...</font></p>
+								<p><font size="-2">JERRY: Uh-ha.</font></p>
+								<p><font size="-2">KRAMER:  ... Yeah dropped off that Bob Sacamano hat. Oh she's ah, upset at him, oh yes siree. Yeah well thanks for stopping by.</font></p>
+								<p><font size="-2">JERRY: I sure do miss my apartment. Maybe I'll switch back.</font></p>
+								<p><font size="-2">KRAMER: Oh you don't want to think about that no sir. Otherwise I'd have no choice but to put that banner back up and eh, he-he-hwow, run that Roger's right out of town.</font></p>
+								<p><font size="-2">JERRY: I don't think you will. As a matter of fact I'll save you the trouble. I'll do it myself.</font></p>
+								<p><font size="-2">KRAMER: Yeah, yeah go ahead yeah, put the banner up doesn't matter to me.</font></p>
+								<p><font size="-2">JERRY: All right. (opens door - Red light floods hallway - a buzzing sound emanates.)</font></p>
+								<p><font size="-2">KRAMER: No Jerry! I - I need that chicken, I gotta have that chicken. Now you leave those roasters alone. Kenny never hurt anybody.</font></p>
+								<p><font size="-2">JERRY: You got a little problem.</font></p>
+								<p><font size="-2">KRAMER: Oh I got a big problem Jerry!</font></p>
+								<p></p>
+								<p><font size="-2"><br>
+										[shot of a map - Myanmar, Burma. Elaine is visiting Peterman in the Burmese jungle. Spooky music plays. Elaine is lead by a boy and told to sit. they are in silhouette. This scene is straight out of the movie Apocalypse Now]</font></p>
+								<p><font size="-2">BOY: Here, kneel here.</font></p>
+								<p><font size="-2">ELAINE: What?</font></p>
+								<p><font size="-2">BOY: Kneel.</font></p>
+								<p><font size="-2">ELAINE: Kneel?</font></p>
+								<p><font size="-2">(The sound of water dripping, as Peterman squeezes a cloth onto the back of his neck, ala Colonel Kurtz in the movie Apocalypse Now)</font></p>
+								<p><font size="-2">PETERMAN: Elaine.</font></p>
+								<p><font size="-2">ELAINE: Mr. Peterman.</font></p>
+								<p><font size="-2">(A boy cuts a pineapple with a large knife in the background. Elaine is startled and turns to look at him. Peterman scolds him in another language )</font></p>
+								<p><font size="-2">PETERMAN: Jaba! Bagama ma Jaba. Olymala Hungui. (The boy runs out of the room)</font></p>
+								<p><font size="-2">ELAINE: You speak Burmese?</font></p>
+								<p><font size="-2">PETERMAN: No Elaine, that was gibberish. </font></p>
+								<p><font size="-2">ELAINE: Ah.</font></p>
+								<p><font size="-2">PETERMAN: So did you have any trouble finding the place?</font></p>
+								<p><font size="-2">ELAINE: No, you're the only, white poet warlord in the neighborhood. (laughs)</font></p>
+								<p><font size="-2">PETERMAN: Are you an assassin?</font></p>
+								<p><font size="-2">ELAINE: I - I work for your mail order catalog.</font></p>
+								<p><font size="-2">PETERMAN: You're an errand girl, sent by grocery clerks, to collect a bill.</font></p>
+								<p><font size="-2">ELAINE: Well actually um, I do have a bill here. If you could just sign, this expense form, I think I could still make the last fan boat out of here.</font></p>
+								<p><font size="-2">PETERMAN: I'd be happy to Elaine (he starts reading the form as she hands him a pen)... but I will have to see this hat.</font></p>
+								<p><font size="-2">ELAINE: Right... (nodding)</font></p>
+								<p></p>
+								<p><font size="-2"><br>
+										[George and Heather are at a bench in the park. George is holding a white paper bag. He sits at the opposite end of the bench and sets the bag down next to him]</font></p>
+								<p><font size="-2">GEORGE: So how do you want to do this?</font></p>
+								<p><font size="-2">HEATHER: Alright George, I'll be honest. The first time we went out, I found you very irritating. But after seeing you a couple of times, you sorta got stuck in my head, (sings) Ca-stan-za! (like &quot;By Mennen&quot;) (laughs)</font></p>
+								<p><font size="-2">GEORGE: So you - you really don't have my hat?</font></p>
+								<p><font size="-2">HEATHER: What?</font></p>
+								<p><font size="-2">(George moves his bag)</font></p>
+								<p><font size="-2">GEORGE: Uh, le - let's go do, something.</font></p>
+								<p><font size="-2">HEATHER: What's in the bag?</font></p>
+								<p><font size="-2">GEORGE: Oh that's eh, that's a sandwich.</font></p>
+								<p><font size="-2">(Clock starts ringing)</font></p>
+								<p><font size="-2">GEORGE: ...ah (picks up the bag) Damn salami.</font></p>
+								<p><font size="-2">HEATHER: (grabs the bag) My clock, you stole it!</font></p>
+								<p><font size="-2">GEORGE: That damn delicatessen that - that is last time they screw up one of my orders.</font></p>
+								<p><font size="-2">(Heather walks off leaving George on the bench. It starts raining)</font></p>
+								<p></p>
+								<p><font size="-2"><br>
+										[Jerry enters the Chicken Stand wearing the Nutria rat hat. The rain has made the hat wet]</font></p>
+								<p><font size="-2">JERRY: Hey Seth. Man it is coming down hard out there.</font></p>
+								<p><font size="-2">(As Jerry talks he tries to wave his rat hat dry, because of the wetness, the hat falls apart, fur flying into everyone's plate)</font></p>
+								<p><font size="-2">JERRY: Oh, gross. That's not gonna be good for business.</font></p>
+								<p><font size="-2">SETH: That's not gonna be good for anybody.</font></p>
+								<p></p>
+								<p><font size="-2"><br>
+										[Kramer in bed eating chicken when ... the Kenny Roger's red Chicken light goes out]</font></p>
+								<p><font size="-2">KRAMER: (his mouth is very full) Kenny? ... Kenny?</font></p>
+								<p></p>
+								<p><font size="-2"><br>
+										(Kramer at his window with a sign saying &quot;KENNY COME BACK&quot; )</font></p>
+								<p><font size="-2">KRAMER: (quietly and staring across the street) Kenny .... Kenny ....... Kenny</font></p>
+								<p></p>
+								<p><font size="-2"><br>
+										[Jerry is in bed at his own apartment]</font></p>
+								<p><font size="-2">JERRY: Home at last. Ahhhh. (light turns off)</font></p>
+								<p><font size="-2">(Creek!)</font></p>
+								<p><font size="-2">JERRY: Is someone there? </font></p>
+								<p><font size="-2">(the sound of scampered feet, and a shadow of the ventriloquist dummy runs across the back room wall)</font></p>
+								<p><font size="-2">JERRY: Mr. Marbles?</font></p>
+								<p></p>
+								<p><font size="-2"><br>
+										[Elaine with Peterman in the jungle]</font></p>
+								<p><font size="-2">ELAINE: This the Urban Sombrero, I put it on the last catalog cover.</font></p>
+								<p><font size="-2">PETERMAN: The horror ... the horror.</font></p>
+								<p><font size="-2"><br>
+										The End</font></p>
+								<p><font size="-2">----------------------------- <br>
+										Definitions of several items in the Chicken Roaster episode:</font></p>
+								<p><font size="-2">Ziti Pasta<br>
+										A type of pasta that is shaped like thin tubular pieces of pasta that are approximately 1/4-inch in diameter and available in long or cut lengths.</font></p>
+								<p><font size="-2">Aristotle <br>
+										(384-322 BC.) Greek Philosopher; pupil of Plato and teacher of Alexander the Great.</font></p>
+								<p><font size="-2">Tank McNamara<br>
+										a comic strip by Jeff Millar and Bill Hinds. Tank has a knack for finding the absurdity in big-time athletics, and that's why sports fans love him.</font></p>
+								<p><font size="-2">http://www.nutria.com/site.php<br>
+										Nutria<br>
+										Nutria, Myocastor coypus, are large semi-aquatic rodents indigenous to South America. The Original range included Argentina, Brazil, Bolivia, Chile, paraguay and Uruguay.  In the 1930&rsquo;s nutria were imported into Louisiana for the fur farming industry and were released, either intentionally or accidentally into Louisiana coastal marshes. Nutria are herbivores and feed particularly on wetland plants. Nutria have caused extensive damage to Louisiana coastal wetlands due to their feeding activity.</font></p>
+								<p><font size="-2">http://www.nationaltrappers.com/nutria.html<br>
+										This member of the rodent family is native to South America, and it was introduced both accidentally and purposely in the waterways in several American states.&nbsp; The species has proved to be overly destructive of habitat in some areas, creating problems for muskrats and waterfowl.&nbsp; This species can tolerate winters in temperate areas only.&nbsp; An important fur bearer in Louisiana and Texas coastal area, nutria are viewed as detrimental in most other areas.&nbsp;&nbsp; <br>
+									</font></p>
+							</td>
+						</tr>
+						<tr height="6">
+							<td class="bottom2" width="645" height="6"></td>
+						</tr>
+						<tr>
+							<td width="645">
+								<div align="center">
+									<font size="-1">Copyright 2006 seinology.com | All Rights Reserved | Designed by 13erla</font></div>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+		<p></p>
+	</body>
+
+</html>

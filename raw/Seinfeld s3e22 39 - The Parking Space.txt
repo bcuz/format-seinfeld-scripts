@@ -1,0 +1,1480 @@
+<tdOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+<html>
+
+	<head>
+		<meta http-equiv="content-type" content="text/html;charset=ISO-8859-1">
+		<meta name="description" content="Top Source for Seinfeld">
+		<meta name="keywords" content="seinfeld, sienfeld, Jerry Seinfeld, Julia Louis Dreyfus, Jason Alexander, Michael Richards, Kramer, George, Costanza, Elaine Benes, morty, Larry David">
+		<title>Seinology.com :: Scripts :: 39-The Parking Space</title>
+	<link rel='stylesheet' href='/stylesheet.css' type='text/css'>
+	</head>
+
+	<body>
+			<table align="center" width="787" border="0" cellspacing="0" cellpadding="0">
+				<tr>
+					<td><font size="-2" color="red">Seinology.com - </font><font size="-3" color="black">Where Seinfeld Content and Accuracy Matter Most. Seinfeld scripts in pdf form, Seinfeld episode video clips, Seinfeld episode audio clips, Jerry Seinfeld appearances, Julia Louis-Dreyfus appearances, Michael Richards appearances, Jason Alexander appearances, Seinfeld discussion Forum, Seinfeld Where are they Now? Seinlanguage Newsletter, Popular Seinfeld Lists, Seinfeld episode standup, Seinfeld episode guide, Seinfeld fan fiction. Seinfeld content all on one domain. Seinology.com enjoy your stay.</font></td>
+				</tr>
+			</table>
+		
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr height="100">
+				<td class="logo"></td>
+			</tr>
+			<tr><td class="ads" align="center" background=#8694fa>
+				<script type="text/javascript"><!--
+google_ad_client = "pub-1924026976931416";
+google_ad_width = 728;
+google_ad_height = 90;
+google_ad_format = "728x90_as";
+google_ad_type = "text";
+google_ad_channel = "";
+google_color_border = "FFFFFF";
+google_color_bg = "8694fa";
+google_color_link = "0000FF";
+google_color_text = "000000";
+google_color_url = "002E3F";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></td></tr>
+		</table>
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr>
+				<td valign="top" width="136">
+					<table width="136" border="0" cellspacing="0" cellpadding="0">
+						<tr height="24">
+							<td class="navigation">
+								<div align="center">
+									
+									<b>Navigation</b></div>
+							</td>
+						</tr>
+						<tr height="199">
+							<td class="spacer1" valign="top" width="136" height="199">
+								<div align="center">
+									<font size="-1"><a href="http://www.seinology.com">Home</a><br>
+										<a href="http://board.seinology.com">Forum</a><br>
+										<a href="http://www.seinology.com/av.shtml">Audio/Video</a><br>
+										<a href="http://www.seinology.com/scripts.shtml">Scripts</a><br>
+										<a href="http://www.seinology.com/survivor.shtml">Survivor</a><br>
+										<a href="http://www.seinology.com/fanfics.shtml">Fan Fiction</a><br>
+										<a href="http://www.seinology.com/gallery/">Gallery</a><br>
+										<a href="http://www.seinology.com/newsletter.shtml">Newsletter</a><br>
+										<a href="http://www.seinology.com/lists.shtml">Lists</a><br>
+										<a href="http://www.seinology.com/epguide.shtml">Episode Guide</a><br>
+										<a href="http://www.seinology.com/links.shtml">Links</a><br>
+										<a href="http://www.seinology.com/faqother.shtml">Faq + others</a><br>
+										<a href="http://www.seinology.com/legal.shtml">Legal</a></font></div>
+							</td>
+						</tr>
+						
+						<tr>
+							<td class="nav2" width="136">
+							<div align="center"><b>Search</b></div></td>
+						</tr>
+						<tr>
+							<td class="spacer1" width="136" valign="top"><div align="center"><form method="get" action="http://www.seinology.com/search/search.cgi">
+<p><label for="fdse_Match">Match</label><br>
+<select name="Match" id="fdse_Match" size="1">
+<option value="1">All</option>
+<option value="0">Any</option>
+<option value="2">Phrase</option>
+</select></p>
+<p><label for="fdse_Realm">Where?</label><br>
+<select name="Realm" id="fdse_Realm" size="1">
+<option selected="selected" value="All">EntireSite</option>
+<option value="Ep Guide">Ep Guide</option>
+<option value="Images">Images</option>
+<option value="Lists">Lists</option>
+<option value="Newsletters">Newsletters</option>
+<option value="Scripts">Scripts</option>
+<option value="Notes..Nothing">Notes..Nothing</option>
+</select></p>
+<p><input type="text" name="Terms" size="14" id="fdse_Terms"><br>
+<input type="submit" class="submit" name="submitButtonName" value="Search"></p>
+</div></form></td>
+						</tr>
+						<tr><td class="bottom" width="136" height="10" valign="top">
+						</td>
+						</tr>
+					</table>
+				</td>
+				<td width="4"></td>
+				<td valign="top" width="645">
+					<table width="645" border="0" cellspacing="0" cellpadding="0">
+						<tr height="18">
+							<td width="645" height="35" class="bar">
+								<div align="center">
+									<b><font size="+2" color="black">Script</font></b></div>
+							</td>
+						</tr>
+						<tr height="362">
+							<td class="spacer2" valign="top" width="645" height="362">
+
+						<p><font size="-2">Episode 39 - The Parking Space<br>
+							
+						pc: 322, season 3, episode 22<br>
+							
+						Broadcast date: April 22, 1992<br>
+							<br>
+							
+						Written by: Larry David and Greg Daniels<br>
+							
+						Directed By Tom Cherones<br>
+							<br>
+							
+						-------------------------------------------------------------------------------<br>
+							<br>
+							
+						The Cast<br>
+							
+						Regulars:<br>
+							
+						Jerry Seinfeld ....................... Jerry Seinfeld<br>
+							
+						Jason Alexander .................. George Costanza<br>
+							
+						Julia Louis-Dreyfus ............. Elaine Benes<br>
+							
+						Michael Richards ................. Kramer<br>
+							<br>
+							
+						Guest Stars:<br>
+							<br>
+							
+						Lee Arenberg ...................... Mike Moffit<br>
+							
+						Jay Brooks ........................... Sid<br>
+							
+						Maryedith Burrell ............... Maryedith<br>
+							
+						Shannon Cochran .............. Sheila<br>
+							
+						Zachary Charles ................. Angry Man<br>
+							
+						Michael A. Costanza .......... Truck Driver<br>
+							
+						Mik Scriba ............................ Cop #1<br>
+							
+						Stan Sellers ........................... Cop #2<br>
+							
+						John Christian Graas .......... Matthew<br>
+							
+						Peggy Lane O'Rourke ........ Bystander #1<br>
+							
+						Steven Marcus Gibbs .......... Bystander #2<br>
+							
+						rc: Wayne Knight ............... Newman<br>
+							<br>
+							
+						==================================================================<br>
+							<br>
+							
+						[Opening monologue]<br>
+							<br>
+							
+						At parking lots now they have these 'compact car only' spots, isn't that discrimination against the size of your car? If I want my ass hanging out of the back of my parking spot, that's my business. There are people out there with real asses hanging out of their pants, nobody's stopping them. Nobody goes, &quot;Hey, hold it, sir. Those are compact jeans, you can't pull that in there.&quot;<br>
+							<br>
+							<br>
+							
+						[Jerry is in his apartment, Kramer enters.]<br>
+							<br>
+							
+						KRAMER: Hey. I got some bad news for you, buddy. I think your car got stolen again.<br>
+							<br>
+							
+						JERRY: What are you talking about?<br>
+							<br>
+							
+						KRAMER: Well you parked it on eighty-fourth and Columbus, right?<br>
+							<br>
+							
+						JERRY: Yeah.<br>
+							<br>
+							
+						KRAMER: Yep, well I just walked by there and that car is gone.<br>
+							<br>
+							
+						JERRY: Oh yeah, I know.<br>
+							<br>
+							
+						KRAMER: Well, where is it?<br>
+							<br>
+							
+						JERRY: What's the difference?<br>
+							<br>
+							
+						KRAMER: Well, there's no difference, you know, I'm just curious.<br>
+							<br>
+							
+						JERRY: You always have to know everything that's going on, don't you?<br>
+							<br>
+							
+						KRAMER: What happened to the car?<br>
+							<br>
+							
+						JERRY: If I don't tell you it will kill you, won't it?<br>
+							<br>
+							
+						KRAMER: Yeah, yeah, it'll kill me.<br>
+							<br>
+							
+						JERRY: You have to know, you must know.<br>
+							<br>
+							
+						KRAMER: I must know.<br>
+							<br>
+							
+						JERRY: Well, I'm not telling you.<br>
+							<br>
+							
+						KRAMER: Oh, come on.<br>
+							<br>
+							
+						JERRY: Nope. I don't think so.<br>
+							<br>
+							
+						KRAMER: Well, please?<br>
+							<br>
+							
+						JERRY: Not today, pal.<br>
+							<br>
+							
+						KRAMER: Okay, I beg you.<br>
+							<br>
+							
+						JERRY: Now see? Just saying beg doesn't make it a real beg. You gotta put some beg into it.<br>
+							<br>
+							
+						KRAMER: Okay, please! Please tell me!<br>
+							<br>
+							
+						JERRY: Alright, I'll tell you, but your begging needs a lot of work.<br>
+							<br>
+							
+						KRAMER: Okay, okay, what is it? Come on.<br>
+							<br>
+							
+						JERRY: I loaned the car to George.<br>
+							<br>
+							
+						KRAMER: Ah, George, alright. Well, what for?<br>
+							<br>
+							
+						JERRY: George and Elaine went to a flea market in Westchester, okay?!<br>
+							<br>
+							
+						KRAMER: Alright.<br>
+							<br>
+							
+						JERRY: Huh?<br>
+							<br>
+							
+						KRAMER: Huh. I mean, what do they want to go there for?<br>
+							<br>
+							
+						JERRY: Will you stop it already?!<br>
+							<br>
+							
+						KRAMER: You know, why didn't they ask me to go?<br>
+							<br>
+							
+						JERRY: I don't know! How am I supposed to know?!<br>
+							<br>
+							
+						KRAMER: What, they don't like me?<br>
+							<br>
+							
+						JERRY: *I* don't like you!<br>
+							<br>
+							
+						KRAMER: If they like me, why don't they ask me to go? Oh yeah.<br>
+							<br>
+							<br>
+							<br>
+							
+						[George and Elaine are in Jerry's car. George is wearing a new hat.]<br>
+							<br>
+							
+						GEORGE: I really think it looks good.<br>
+							<br>
+							
+						ELAINE: Ten bucks, how can you go wrong?<br>
+							<br>
+							
+						GEORGE: All bald people look good in hats.<br>
+							<br>
+							
+						ELAINE: You should have lived in the twenties and thirties, you know men wore hats all the time then.<br>
+							<br>
+							
+						GEORGE: What a bald paradise that must have been. Nobody knew.<br>
+							<br>
+							
+						ELAINE: Well, you can wear a hat all the time now. Who's stopping you?<br>
+							<br>
+							
+						GEORGE: No, I can't. What if I meet a woman? I'd always be worried about that first moment where I'd take it off and see that look of disappointment on her face.<br>
+							<br>
+							
+						ELAINE: Are you sure you like these sunglasses?<br>
+							<br>
+							
+						Elaine moves the rear view mirror so she can check out her sunglasses and this causes George to swerve and hit something.<br>
+							<br>
+							<br>
+							
+						[Cut back to Kramer and Jerry at Jerry's apartment.]<br>
+							<br>
+							
+						KRAMER: Well I'm very disappointed in George and Elaine. And you know I'm somebody you don't want to have on your bad side.<br>
+							<br>
+							
+						JERRY: Why not?<br>
+							<br>
+							
+						KRAMER: Because I'm like ice, buddy. When I don't like you, you've got problems. (notices some snacks on the table) Oh, is this for the fight?<br>
+							<br>
+							
+						JERRY: Yep. (checks watch) Starts in thirty-five minutes.<br>
+							<br>
+							
+						(Kramer and Jerry start 'sparring'.)<br>
+							<br>
+							
+						KRAMER: Oh hey, you know I invited Mike Moffit. You don't mind, do you?<br>
+							<br>
+							
+						JERRY: No, I like Mike.<br>
+							<br>
+							
+						KRAMER: Yeah, I just got off the phone with him, you know we had a great conversation.<br>
+							<br>
+							
+						JERRY: Oh yeah? What did you talk about?<br>
+							<br>
+							
+						KRAMER: Well actually we talked about you. Yeah. He had some pretty interesting things to say.<br>
+							<br>
+							
+						JERRY: Oh yeah? What did he say?<br>
+							<br>
+							
+						KRAMER: You have to know everything, don't you?<br>
+							<br>
+							
+						JERRY: No, come on, Kramer. What did he say?<br>
+							<br>
+							
+						KRAMER: Why is that? Why do you have to know everything?<br>
+							<br>
+							
+						JERRY: Kramer, just tell me what the guy said.<br>
+							<br>
+							
+						KRAMER: Beg me.<br>
+							<br>
+							
+						JERRY: Please, don't make me beg.<br>
+							<br>
+							
+						KRAMER: No no no, I want you to beg me. And I don't want you to say it, I just want you to put some beg into it. Go on.<br>
+							<br>
+							
+						JERRY: Kramer, please tell me what the guy said.<br>
+							<br>
+							
+						KRAMER: No no no, that's no good. No, I really don't think that's a beg. No, it's close, but uh...<br>
+							<br>
+							
+						JERRY: Kramer!<br>
+							<br>
+							
+						KRAMER: Look, I can't say anything. You know, the guy told me the stuff in confidence, I'd be betraying a friend.<br>
+							<br>
+							
+						JERRY: Well you can't just mention it and then not tell me.<br>
+							<br>
+							
+						KRAMER: Alright. I'll tell you but you can't say anything to him.<br>
+							<br>
+							
+						JERRY: I'm not saying anything, I'm putting it in the vault, I'm locking the vault, it's a vault!<br>
+							<br>
+							
+						KRAMER: He thinks you're a phony.<br>
+							<br>
+							
+						JERRY: He what?<br>
+							<br>
+							
+						KRAMER: I told you, he thinks you're a phony.<br>
+							<br>
+							
+						JERRY: A phony? He called me a phony?<br>
+							<br>
+							
+						KRAMER: A big phone. A big one.<br>
+							<br>
+							
+						JERRY: Why did you tell me that if I can't say anything?!<br>
+							<br>
+							
+						KRAMER: You begged me.<br>
+							<br>
+							<br>
+							
+						[Cut back to Elaine and George in Jerry's car, the car is now making a clanking noise.]<br>
+							<br>
+							
+						GEORGE: Do you hear that?<br>
+							<br>
+							
+						ELAINE: Of course I hear that.<br>
+							<br>
+							
+						GEORGE: You had to move the mirror?<br>
+							<br>
+							
+						ELAINE: I wanted to check out my sunglasses.<br>
+							<br>
+							
+						GEORGE: I went to look in the mirror, it wasn't there. You threw off my equilibrium.<br>
+							<br>
+							
+						ELAINE: Oh yeah, blame it on me because you can't drive, George.<br>
+							<br>
+							
+						GEORGE: I can't drive?<br>
+							<br>
+							
+						ELAINE: Yeah.<br>
+							<br>
+							
+						GEORGE: Nobody drives like me. Nobody. I'm doing things in this car, you have no idea they're going on. Wanna see me make a right turn from the left lane? Watch this.<br>
+							<br>
+							
+						ELAINE: No, I really don't.<br>
+							<br>
+							
+						GEORGE: And I can make a left turn from the right lane too.<br>
+							<br>
+							
+						ELAINE: I'm sure you could.<br>
+							<br>
+							
+						GEORGE: What are we gonna tell Jerry about the car?<br>
+							<br>
+							
+						ELAINE: I don't know.<br>
+							<br>
+							
+						GEORGE: Alright, start looking for spaces.<br>
+							<br>
+							
+						ELAINE: Oh, you're never gonna find a space on Jerry's block, just put it in a garage.<br>
+							<br>
+							
+						GEORGE: Look, I have my system. First I look for the dream spot right in front of the door, then I slowly expand out in concentric circles.<br>
+							<br>
+							
+						ELAINE: Oh come on, George, please put it in a garage. I don't want to spend an hour looking for a space.<br>
+							<br>
+							
+						GEORGE: I can't park in a garage.<br>
+							<br>
+							
+						ELAINE: Why?<br>
+							<br>
+							
+						GEORGE: I don't know, I just can't. Nobody in my family can pay for parking, it's a sickness. My father never paid for parking; my mother, my brother, nobody. We can't do it.<br>
+							<br>
+							
+						ELAINE: I'll pay for it.<br>
+							<br>
+							
+						GEORGE: You don't understand. A garage. I can't even pull in there. It's like going to a prostitute. Why should I pay, when if I apply myself, maybe I could get it for free? (he hears a horn honking) What? What do you want? Go around me, I'm looking for spaces.<br>
+							<br>
+							
+						ELAINE: (pointing backwards) Oh George, there's a space right there!<br>
+							<br>
+							
+						GEORGE: (putting the car in reverse) Oh beautiful! Look at that, the dream space right in front of Jerry's building. Huh? Dreams can come true, what did I tell you?<br>
+							<br>
+							
+						ELAINE: You didn't even have to take it out to dinner.<br>
+							<br>
+							
+						(They share a laugh.)<br>
+							<br>
+							
+						GEORGE: Alright, now you're gonna see some parallel parking. (spitting into his hands and rubbing them together) How I wish you could make a living parallel parking. (turning around in his seat) It's all geometry, knowing all the angles, when to make that first turn and then when to swing it back in, that's the key.<br>
+							<br>
+							
+						ELAINE: Will you just park it already?<br>
+							<br>
+							
+						GEORGE: There's nothing I can even impart to you, that's the sad thing. It's so inborn, I can't pass it on. (begins backing into the space) Look at this guy. Are you crazy, what are you doing?! Hey! Hey, you're stealing my space!<br>
+							<br>
+							
+						ELAINE: George, wait, you don't know who this guy is, people kill for a parking space in this city.<br>
+							<br>
+							
+						GEORGE: No no no, he's not getting away with this.<br>
+							<br>
+							
+						ELAINE: George?<br>
+							<br>
+							
+						(George gets out of the car to confront the other driver.)<br>
+							<br>
+							
+						GEORGE: Hey, what are you doing?<br>
+							<br>
+							
+						MIKE: I think I'm parking my car.<br>
+							<br>
+							
+						GEORGE: You can't do that, you can't just sneak in from the back like that.<br>
+							<br>
+							
+						MIKE: I'm not sneaking. I didn't even know you were parking, you were just sitting there three spaces up.<br>
+							<br>
+							
+						GEORGE: Well if you didn't think I was parking, why did you put it in head first?<br>
+							<br>
+							
+						MIKE: Well that's the way I park. Anyway, you didn't start backing in until I pulled in.<br>
+							<br>
+							
+						GEORGE: I was in the middle of a conversation.<br>
+							<br>
+							
+						MIKE: Hey, buddy, what can I tell you?<br>
+							<br>
+							
+						GEORGE: The point is I was here first.<br>
+							<br>
+							
+						MIKE: I was closer to this space than you were.<br>
+							<br>
+							
+						GEORGE: But I'm backing in! You can't put it in head first!<br>
+							<br>
+							
+						MIKE: I can if I have room!<br>
+							<br>
+							
+						GEORGE: Are you gonna move the car?<br>
+							<br>
+							
+						MIKE: No, I'm not gonna move the car.<br>
+							<br>
+							
+						GEORGE: Jerk!<br>
+							<br>
+							
+						MIKE: Oh, you're not?<br>
+							<br>
+							
+						GEORGE: Do you believe this guy?<br>
+							<br>
+							
+						ELAINE: Come on, we'll put it in a garage.<br>
+							<br>
+							
+						GEORGE: I am not putting it in a garage, it's my space.<br>
+							<br>
+							
+						ELAINE: What are you gonna do, you just gonna leave it here like this? Uh. I'm going upstairs.<br>
+							<br>
+							
+						GEORGE: Are you coming back down?<br>
+							<br>
+							
+						ELAINE: Yeah, I gotta tell Jerry we're here. I gotta go to the bathroom.<br>
+							<br>
+							
+						GEORGE: Alright, just make sure he reserves the good chair for me. Wait, what are you gonna tell him about the clanking noise in the car?<br>
+							<br>
+							
+						ELAINE: Me? No no no, you. You're gonna tell him. I'm not gonna tell- Noo.<br>
+							<br>
+							
+						GEORGE: Oh, come on, you're good at this.<br>
+							<br>
+							
+						ELAINE: What am I gonna say?<br>
+							<br>
+							
+						GEORGE: I don't know, I don't know, you'll think of something.<br>
+							<br>
+							
+						(Elaine heads upstairs. Mike honks his horn, George honks his in retaliation.)<br>
+							<br>
+							<br>
+							
+						[Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.]<br>
+							<br>
+							
+						ELAINE: Oh god, I need a drink, do you got any Hennigan's here?<br>
+							<br>
+							
+						JERRY: Yeah, under the counter. What happened?<br>
+							<br>
+							
+						ELAINE: Oh god. Oh, Jerry it was so terrible what we just went through on the way home. (pouring a big shot of scotch) You wouldn't believe it. (pushing a bag of chips off the counter)<br>
+							<br>
+							
+						JERRY: (bending down to pick up the chips) Tell me what happened.<br>
+							<br>
+							
+						ELAINE: (after pouring the shot in the sink while Jerry was distracted and pretending to have downed it) Okay. Now listen. We were at the toll booth at the Henry Hudson Parkway, okay?! And there were these, like, this pack of extremely wild teenagers in a convertible behind us, okay?! And for some reason, I don't know, they just started to taunt us! And so then we payed the toll, and then we went through, and then they started to follow us, alright?! So George tries to lose them, and, and, but they were in this really like a souped up car, you know?! And so he turned off the road really suddenly and the car was on two wheels and I was just screaming! And then, George is such a great driver.<br>
+							<br>
+							
+						JERRY: He is?<br>
+							<br>
+							
+						ELAINE: Oh, he is fantastic! And then they fired a gun right up in the air.<br>
+							<br>
+							
+						JERRY: A gun?!<br>
+							<br>
+							
+						ELAINE: I think it was a gun. And then they followed us all the way into the city, and then they just stopped and they turned around and they went home.<br>
+							<br>
+							
+						JERRY: My god, are you okay?<br>
+							<br>
+							
+						ELAINE: Yeah, yeah, I'm alright. Oh, by the way, the car hit a pothole and now it's making a clanking noise.<br>
+							<br>
+							
+						JERRY: Well, I mean, as long as you're okay, that, that's the important thing.<br>
+							<br>
+							
+						ELAINE: Exactly.<br>
+							<br>
+							
+						JERRY: Where's George now?<br>
+							<br>
+							
+						ELAINE: Oh, he's out in front of the building. He's arguing with some guy about a parking space.<br>
+							<br>
+							
+						JERRY: What are you talking about?<br>
+							<br>
+							
+						ELAINE: Look out the window, you'll see.<br>
+							<br>
+							
+						JERRY: (leaning out the window) Hey Georgie!<br>
+							<br>
+							
+						GEORGE: Hey!<br>
+							<br>
+							
+						JERRY: Are you okay?<br>
+							<br>
+							
+						GEORGE: Yeah, I'm fine.<br>
+							<br>
+							
+						JERRY: Crazy kids, huh?<br>
+							<br>
+							
+						GEORGE: What?<br>
+							<br>
+							
+						ELAINE: (desperate to distract Jerry) Ow!! (Jerry looks over) It's my cuticle.<br>
+							<br>
+							
+						MIKE: Is that Jerry? Jerry?!<br>
+							<br>
+							
+						JERRY: Oh, hey Mike.<br>
+							<br>
+							
+						GEORGE: What, you know Jerry?<br>
+							<br>
+							
+						MIKE: Yeah, I know Jerry.<br>
+							<br>
+							
+						GEORGE: How do you know him?<br>
+							<br>
+							
+						MIKE: What's the difference?<br>
+							<br>
+							
+						GEORGE: Because I know him too, and probably a lot better than you.<br>
+							<br>
+							
+						MIKE: Well, bully for you. Hey, Jerry! You know your friend here's a real piece of work!<br>
+							<br>
+							
+						JERRY: I'm coming down.<br>
+							<br>
+							
+						MIKE: Hey, will you tell Kramer I'm outside?<br>
+							<br>
+							
+						GEORGE: What, you know Kramer?!<br>
+							<br>
+							
+						(Kramer walks into Jerry's apartment.)<br>
+							<br>
+							
+						ELAINE: Hi.<br>
+							<br>
+							
+						KRAMER: (acting standoffish) Hello.<br>
+							<br>
+							
+						JERRY: Hey, your friend Mike's outside, he wants to talk to you.<br>
+							<br>
+							
+						KRAMER: (out the window) Hey, Mike! Come on up, the fight's almost starting!<br>
+							<br>
+							
+						GEORGE: And you're watching the fight at Jerry's?<br>
+							<br>
+							
+						MIKE: Yeah.<br>
+							<br>
+							
+						GEORGE: Oh great.<br>
+							<br>
+							
+						ELAINE: You know that guy downstairs?<br>
+							<br>
+							
+						JERRY: Yeah, he's a real phony.<br>
+							<br>
+							
+						KRAMER: What's going on?!<br>
+							<br>
+							
+						MIKE: Hey, will you come on down? This guy's in my space!<br>
+							<br>
+							
+						GEORGE: It's my space!<br>
+							<br>
+							
+						KRAMER: I'll be down in a minute.<br>
+							<br>
+							
+						ELAINE: Are you going down?<br>
+							<br>
+							
+						KRAMER: Yeah.<br>
+							<br>
+							
+						ELAINE: Is anything wrong?<br>
+							<br>
+							
+						KRAMER: (leaving) Why should anything be wrong?<br>
+							<br>
+							
+						ELAINE: (heading for the bathroom) Be down in a minute.<br>
+							<br>
+							
+						(Jerry grabs his jacket and walks out the door.)<br>
+							<br>
+							
+						MIKE: Hey pal, you're not getting that space. I mean, I'll sleep in my car if I have to.<br>
+							<br>
+							
+						GEORGE: I'll die out here.<br>
+							<br>
+							
+						(Two bystanders are discussing the incident. )<br>
+							<br>
+							
+						BYSTANDER #1: He was down there. Once he passed his front bumper, it's no longer his space.<br>
+							<br>
+							
+						BYSTANDER #2: No, it doesn't matter. He was-<br>
+							<br>
+							
+						MIKE: Hey! Jerry! Long time no see!<br>
+							<br>
+							
+						JERRY: Hi Mike. (Noticing George's fedora) Indiana.<br>
+							<br>
+							
+						MIKE: Hey Krame! You know this guy?<br>
+							<br>
+							
+						KRAMER: Yeah, yeah, I know him.<br>
+							<br>
+							
+						MIKE: (to Jerry) You're looking tremendous. What are you on some kind of regimen?<br>
+							<br>
+							
+						JERRY: Yeah, twenty-five percent bran flakes. The forty percent was too much so I found a store to mix it up special for me, they take it down another fifteen percent.<br>
+							<br>
+							
+						MIKE: (laughing way too loud and hard) Ha ha ha ha!!! That's killer! Killer! I love that! Ha ha ha!!! You gotta use that, that's a definite!! Ha ha ha!!!<br>
+							<br>
+							
+						GEORGE: Oh, come on.<br>
+							<br>
+							
+						MIKE: Hey! Your friend here has some real problems.<br>
+							<br>
+							
+						GEORGE: Me? You see what he did here, you see how he tried to sneak into my space?<br>
+							<br>
+							
+						MIKE: Hey, just 'cause I went in front first doesn't mean I'm sneaking in.<br>
+							<br>
+							
+						GEORGE: You only went in front first 'cause you saw me backing up and you didn't have room to parallel park!<br>
+							<br>
+							
+						MIKE: I only went in front first 'cause I could make it in front first and if you pull out I'll show you!<br>
+							<br>
+							
+						GEORGE: You've got a prayer.<br>
+							<br>
+							
+						KRAMER: I go in front first all the time.<br>
+							<br>
+							
+						JERRY: Front first, that's how you park when you're pulling a bank job.<br>
+							<br>
+							
+						(Elaine shows up and pulls George aside.)<br>
+							<br>
+							
+						GEORGE: Did you talk to him?<br>
+							<br>
+							
+						ELAINE: Yeah, it's all taken care of.<br>
+							<br>
+							
+						GEORGE: You told him? What did you tell him?<br>
+							<br>
+							
+						ELAINE: I did a number on him, it was a thing of beauty, you really had to have been there to appreciate it.<br>
+							<br>
+							
+						GEORGE: I don't believe it, what did you say?<br>
+							<br>
+							
+						ELAINE: I told him a pack of teenagers in a convertible were terrorizing us and they followed us into the city.<br>
+							<br>
+							
+						GEORGE: A pack of teenagers?<br>
+							<br>
+							
+						ELAINE: Yeah, by the time I got to the end of the story, he was to relieved that we were alive he couldn't care less about the car.<br>
+							<br>
+							
+						GEORGE: You are a genius, it's as simple as that.<br>
+							<br>
+							
+						ELAINE: What can I say, you know? It's a gift. I only wish I could teach it but, you know it's inborn.<br>
+							<br>
+							
+						(Elaine and George rejoin the others.)<br>
+							<br>
+							
+						KRAMER: By the way, thanks a lot for inviting me to the flea market.<br>
+							<br>
+							
+						ELAINE: What?<br>
+							<br>
+							
+						KRAMER: Yeah, Jerry, he told me all about it.<br>
+							<br>
+							
+						GEORGE: Oh great.<br>
+							<br>
+							
+						JERRY: I didn't know.<br>
+							<br>
+							
+						ELAINE: Oh, so that's why you were acting so funny.<br>
+							<br>
+							
+						GEORGE: Well I didn't know you wanted to go to the flea market.<br>
+							<br>
+							
+						MIKE: A flea market? You went to a flea market??<br>
+							<br>
+							
+						GEORGE: Hey, who's talking to you?<br>
+							<br>
+							
+						ELAINE: We just didn't think of you.<br>
+							<br>
+							
+						KRAMER: You said it, sister.<br>
+							<br>
+							
+						GEORGE: What? Every time I leave my house now I have to call everybody I know and ask them if they want to do what I'm doing?<br>
+							<br>
+							
+						(People forget. Look at &quot;Home Alone&quot;. They forgot.)<br>
+							<br>
+							
+						GEORGE: Great move, telling him, by the way, real smart move.<br>
+							<br>
+							
+						JERRY: I didn't know I wasn't supposed to say anything!<br>
+							<br>
+							
+						GEORGE: Judgement, Jerry, judgement! You exercised no judgement.<br>
+							<br>
+							
+						JERRY: You're right. My fault.<br>
+							<br>
+							
+						ELAINE: Kramer? I'm so sorry, really.<br>
+							<br>
+							
+						GEORGE: Yeah, I'm sorry.<br>
+							<br>
+							
+						KRAMER: I'm sorry, I don't care for that sorry.<br>
+							<br>
+							
+						GEORGE: What was wrong with that sorry? It was a good sorry. Jerry, was that a good sorry?<br>
+							<br>
+							
+						JERRY: It was a so-so sorry.<br>
+							<br>
+							
+						(A delivery truck pulls up and honks. The driver leans out of the cab.)<br>
+							<br>
+							
+						TRUCK DRIVER: Hey! Move this car, I gotta get through!<br>
+							<br>
+							
+						GEORGE: You heard the man. I guess you gotta be moving your car.<br>
+							<br>
+							
+						MIKE: And like you're not gonna just back it in if I do that?<br>
+							<br>
+							
+						TRUCK DRIVER: Well somebody better move something soon! I got a truck full of ice cream here!<br>
+							<br>
+							
+						ELAINE: You see, they had to move the cars so the truck could get through, right? But these guys don't trust each other so they got these two nonpartisan drivers to move them.<br>
+							<br>
+							
+						JERRY: Wild pack of teenagers, huh?<br>
+							<br>
+							
+						GEORGE: Yeah.<br>
+							<br>
+							
+						JERRY: Amazing how they picked you, out of everyone, to terrorize.<br>
+							<br>
+							
+						ELAINE: Yeah. I know, I said to myself, 'Why us?' You remember?<br>
+							<br>
+							
+						GEORGE: Uh huh.<br>
+							<br>
+							
+						JERRY: Sounds like you did some pretty nifty maneuvering,<br>
+							<br>
+							
+						GEORGE: Well, you know, It's interesting, you know, under that pressure, what you're capable of.<br>
+							<br>
+							
+						ELAINE: Right.<br>
+							<br>
+							
+						GEORGE: I learned a lot about myself.<br>
+							<br>
+							
+						JERRY: What did you do to my car?!<br>
+							<br>
+							
+						GEORGE: I couldn't help it! Elaine moved the mirror, I got discombobulated.<br>
+							<br>
+							
+						ELAINE: Oh, like you've ever been bobulated.<br>
+							<br>
+							
+						JERRY: I thought you said you were a good driver!<br>
+							<br>
+							
+						GEORGE: No no, I never said I was a good driver, I said I was a good parker.<br>
+							<br>
+							
+						JERRY: I think you said driver.<br>
+							<br>
+							
+						GEORGE: Parker, I never said driver, I said parker, a great parker.<br>
+							<br>
+							
+						MIKE: Will you move it up a little bit?<br>
+							<br>
+							
+						GEORGE: No no no, that's in the right position.<br>
+							<br>
+							
+						MIKE: No no, I was further in.<br>
+							<br>
+							
+						GEORGE: No you weren't. Stop there, that's fine.<br>
+							<br>
+							
+						MIKE: Do you mind?<br>
+							<br>
+							
+						GEORGE: Do you?<br>
+							<br>
+							
+						SID: Hey, somebody better move these cars, you're making a commotion.<br>
+							<br>
+							
+						JERRY: Hey Sid.<br>
+							<br>
+							
+						MIKE: Who are you?<br>
+							<br>
+							
+						SID: Never mind who I am. I know who I am. Do you know who you are? (to George) Why is it every time you park a car in this block, everything gets disrupted and disjointed?<br>
+							<br>
+							
+						GEORGE: Sid, it's completely his fault.<br>
+							<br>
+							
+						MIKE: Oh, right.<br>
+							<br>
+							
+						SID: Why don't you start taking the bus?<br>
+							<br>
+							
+						JERRY: Okay, George. Come on, let's go. I'm putting it in a garage. The fight's starting in two minutes.<br>
+							<br>
+							
+						GEORGE: Don't do it!<br>
+							<br>
+							
+						JERRY: What are we gonna do, stay out here all night?<br>
+							<br>
+							
+						GEORGE: Yes! I'm not giving him the satisfaction, it's my space.<br>
+							<br>
+							
+						ELAINE: Why don't you just flip a coin already?<br>
+							<br>
+							
+						GEORGE: No no, this is a matter of principle. That would just be saying that anybody could just pull into any parking space any way they want. Well I'm making a stand here. I'm saying *no* to head first parking. I'm not putting up with that. We put up with too much crap in this city, we're not putting up with head first parking.<br>
+							<br>
+							
+						ELAINE: You know, maybe if you hadn't been sitting there pontificating about what a great parker you were, you might have got the space.<br>
+							<br>
+							
+						GEORGE: So you're against me now?<br>
+							<br>
+							
+						(An old man and Matthew, the boy who's father owns the 'fat free' frozen yogurt store, are discussing the incident.)<br>
+							<br>
+							
+						ANGRY MAN: He could have pulled up to the car and backed in, but he chose to go in head first.<br>
+							<br>
+							
+						MATTHEW: No he couldn't, because the other car was already backing in.<br>
+							<br>
+							
+						ANGRY MAN: No he wasn't.<br>
+							<br>
+							
+						MATTHEW: All that matters is who was there first.<br>
+							<br>
+							
+						ANGRY MAN: Ahh, you're not even old enough to drive, you little puke.<br>
+							<br>
+							
+						MATTHEW: You just spit on me!<br>
+							<br>
+							
+						ANGRY MAN: Don't you raise your voice to me!<br>
+							<br>
+							
+						MATTHEW: You're not my father.<br>
+							<br>
+							
+						JERRY: Hey Matthew.<br>
+							<br>
+							
+						MATTHEW: Hi Jerry. This guy's really a jerk.<br>
+							<br>
+							
+						JERRY: How ya doing?<br>
+							<br>
+							
+						MATTHEW: Okay.<br>
+							<br>
+							
+						JERRY: Hey, how's your father? I hear he's closing his store.<br>
+							<br>
+							
+						MATTHEW: What?!<br>
+							<br>
+							
+						JERRY: Oh no, nothing.<br>
+							<br>
+							
+						MATTHEW: What's happened to daddy? He's going out of business?<br>
+							<br>
+							
+						JERRY: No, no, no, no.<br>
+							<br>
+							
+						MATTHEW: We're not going to have any money? We're out of money?<br>
+							<br>
+							
+						JERRY: No, of course not, of course not!<br>
+							<br>
+							
+						MATTHEW: Mommy!? Jerry says daddy's closing the store. He's going out of business. We don't have any money?<br>
+							<br>
+							
+						MARYEDITH: Jerry?! What's the matter with you?<br>
+							<br>
+							
+						JERRY: I didn't--<br>
+							<br>
+							
+						MARYEDITH: (to Kramer) Boy, I don't know about your friend, Jerry. He says some pretty stupid things sometimes.<br>
+							<br>
+							
+						KRAMER: Oh, congratulations.<br>
+							<br>
+							
+						MARYEDITH: What for?<br>
+							<br>
+							
+						KRAMER: Well, you're pregnant.<br>
+							<br>
+							
+						MARYEDITH: What?<br>
+							<br>
+							
+						KRAMER: You're not pregnant?<br>
+							<br>
+							
+						MARYEDITH: No, I'm not pregnant.<br>
+							<br>
+							
+						KRAMER: Are you sure you're not pregnant?<br>
+							<br>
+							
+						MARYEDITH: Yes, I'm sure!<br>
+							<br>
+							
+						KRAMER: That's weird.<br>
+							<br>
+							
+						MARYEDITH: Come on, Matthew.<br>
+							<br>
+							
+						MATTHEW: No.<br>
+							<br>
+							
+						MARYEDITH: Come on, Matthew!<br>
+							<br>
+							
+						KRAMER: I thought she was pregnant.<br>
+							<br>
+							
+						JERRY: (to Elaine) Hey, do you think I'm phony?<br>
+							<br>
+							
+						ELAINE: What?<br>
+							<br>
+							
+						JERRY: Mike thinks I'm a phony.<br>
+							<br>
+							
+						ELAINE: He thinks you're a phony?<br>
+							<br>
+							
+						JERRY: Yeah, but I can't say anything because Kramer wasn't supposed to tell me.<br>
+							<br>
+							
+						ELAINE: Oh, you have to say something.<br>
+							<br>
+							
+						JERRY: I can't, I told Kramer I was vaulting it.<br>
+							<br>
+							
+						ELAINE: You gotta open the vault.<br>
+							<br>
+							
+						JERRY: Open my vault?<br>
+							<br>
+							
+						ELAINE: Open your vault.<br>
+							<br>
+							
+						JERRY: Once I open the vault, it ceases to be a vault.<br>
+							<br>
+							
+						ELAINE: You have no choice.<br>
+							<br>
+							
+						JERRY: Oy ga-vault.<br>
+							<br>
+							
+						Newman: (to Kramer) You wanna know why you can't go in front first? I'll tell you why. because it signals a breakdown in the social order. Chaos. It reduces us to jungle law.<br>
+							<br>
+							
+						(George begins applauding.)<br>
+							<br>
+							
+						KRAMER: When can you park head first?<br>
+							<br>
+							
+						NEWMAN: Never.<br>
+							<br>
+							
+						MIKE: What are you asking this guy for?<br>
+							<br>
+							
+						NEWMAN: Who's talking to you?<br>
+							<br>
+							
+						GEORGE: He's right. never.<br>
+							<br>
+							
+						MIKE: Oh yeah? What if you got ten car lengths? You have to pull all the way up to the front car?<br>
+							<br>
+							
+						NEWMAN: Well, I suppose if you got ten car lengths.<br>
+							<br>
+							
+						GEORGE: When do you ever have ten car lengths?<br>
+							<br>
+							
+						KRAMER: What about Sundays and holidays?<br>
+							<br>
+							
+						GEORGE: Oh please.<br>
+							<br>
+							
+						(A passerby (Sheila) stops and asks George)<br>
+							<br>
+							
+						SHEILA: What's going on here?<br>
+							<br>
+							
+						GEORGE: Oh, this guy tried to sneak into my space.<br>
+							<br>
+							
+						SHEILA: I really hate people who do that. I hope you don't let him get away with it.<br>
+							<br>
+							
+						GEORGE: Well, thank you for your support.<br>
+							<br>
+							
+						SHEILA: Hey, that's a great hat.<br>
+							<br>
+							
+						GEORGE: Really? You like it? I got it at a flea market today.<br>
+							<br>
+							
+						NEWMAN: Hey George, nice hat.<br>
+							<br>
+							
+						GEORGE: Yeah, thanks.<br>
+							<br>
+							
+						NEWMAN: Can I try it on?<br>
+							<br>
+							
+						GEORGE: No! It, uh, it wouldn't fit you.<br>
+							<br>
+							
+						NEWMAN: Well sure it would.<br>
+							<br>
+							
+						GEORGE: No! Get out of here, Newman.<br>
+							<br>
+							
+						NEWMAN: Come on, let me try it on.<br>
+							<br>
+							
+						GEORGE: No, Newman, stop it.<br>
+							<br>
+							
+						SHEILA: Let him try it on.<br>
+							<br>
+							
+						GEORGE: I don't want him to!<br>
+							<br>
+							
+						SHEILA: What is wrong with you?<br>
+							<br>
+							
+						GEORGE: You wanna see?! (pulling off the hat to reveal the bald pate) There! There it is! (turning to Newman) Alright, here! You wanna try on the hat?! Here! Try on the hat!<br>
+							<br>
+							
+						NEWMAN: Stop it, George, stop it. I was defending your parking.<br>
+							<br>
+							
+						GEORGE: Alright, just keep the hat!<br>
+							<br>
+							
+						JERRY: Alright, that's it. The fight's already started. I'm going upstairs, who's coming? Elaine?<br>
+							<br>
+							
+						ELAINE: It depends on who's going. (to George) Are you going?<br>
+							<br>
+							
+						KRAMER: I'm not going if he's going.<br>
+							<br>
+							
+						NEWMAN: Me either.<br>
+							<br>
+							
+						GEORGE: I'm not going if he's going.<br>
+							<br>
+							
+						MIKE: Well I'm going.<br>
+							<br>
+							
+						JERRY: Well if he's going then I'm not going.<br>
+							<br>
+							
+						NEWMAN: But it's your house.<br>
+							<br>
+							
+						JERRY: I still don't have to go.<br>
+							<br>
+							
+						ELAINE: Well I don't want to go if Jerry's not going.<br>
+							<br>
+							
+						MIKE: Why won't you go if I go?<br>
+							<br>
+							
+						JERRY: Why? I'll tell you why.<br>
+							<br>
+							
+						KRAMER: No. Don't, Jerry.<br>
+							<br>
+							
+						JERRY: Like you didn't call me a phony?<br>
+							<br>
+							
+						MIKE: What? (to Kramer) Thanks! Real good! Jerry! First of all, I think you completely misunderstood what I said. I meant it in a complementary way. I mean, you know when people say, 'He's bad', it really means he's good, sort of thing? You know, slang.<br>
+							<br>
+							
+						JERRY: Use it in a sentence.<br>
+							<br>
+							
+						MIKE: Man, that Michael Jordan is so phony. (to Kramer) Why'd you tell him?!?<br>
+							<br>
+							
+						KRAMER: He begged me.<br>
+							<br>
+							
+						MIKE: He begged you?!<br>
+							<br>
+							
+						JERRY: Alright, come on. Who wants to watch the fight?<br>
+							<br>
+							
+						(Two police officers walk up.)<br>
+							<br>
+							
+						COP #1: Okay, who's cars are these? Let's move 'em. Let's go.<br>
+							<br>
+							
+						GEORGE: Officer, could I just explain something to you?<br>
+							<br>
+							
+						COP #1: Hey. Let's go or I'm gonna write both of you a ticket in about two minutes.<br>
+							<br>
+							
+						GEORGE: Officer, he can't pull in head first.<br>
+							<br>
+							
+						MIKE: Officer, he backed up from down the street. He was double-parked, he was<br>
+							
+						sitting there.<br>
+							<br>
+							
+						COP #1: Alright, you move your car. It's his space, you can't go in head<br>
+							
+						first.<br>
+							<br>
+							
+						COP #2: Wait a second. Why can't he go in head first? He said the guy was just sitting over there.<br>
+							<br>
+							
+						COP #1: What are you talking about? This guy was here first.<br>
+							<br>
+							
+						COP #2: But he didn't take it.<br>
+							<br>
+							
+						COP #1: Hey, it's his space.<br>
+							<br>
+							
+						COP #2: No, it's his space.<br>
+							<br>
+							<br>
+							
+						[Cut to Jerry entering his apartment, George and Mike can be heard arguing through the window]<br>
+							<br>
+							
+						GEORGE: Well, you're gonna have to go to the bathroom!<br>
+							<br>
+							
+						MIKE: Well, you're gonna have to go to work!<br>
+							<br>
+							
+						GEORGE: I don't have a job!<br>
+							<br>
+							
+						MIKE: Neither do I!<br>
+							<br>
+							
+						(Jerry closes the window, sits down on the couch, picks up the remote and turns on the TV.)<br>
+							<br>
+							
+						REFEREE: Seven... Eight... Nine... Ten. *ding*<br>
+							<br>
+							
+						(Jerry falls over and hides his face in the couch cushion.)<br>
+							<br>
+							<br>
+							
+						[Closing monologue]<br>
+							<br>
+							
+						People will kill each other for a parking space in New York because they think, 'If I don't get this one, I may never get a space.' You know? 'I'll be circling for months until somebody goes out to the Hamptons.' I think because everyone in New York City knows there's gotta be way more cars than parking spaces. You see cars driving in New York all hours of the night. It's like Musical Chairs except everybody sat down around 1964. The problem is car manufacturers are building hundreds of thousands of new cars every year, they're not making any new spaces. That's what they should be working on. Wouldn't that be great? You go to the Auto Show, they got that big revolving turntable, and there's nothing on it. New from Chrysler, a space.<br>
+							<br>
+							<br>
+							
+						The End</td>
+						</tr>
+						<tr height="6">
+							<td class="bottom2" width="645" height="6"></td>
+						</tr>
+						<tr>
+							<td width="645">
+								<div align="center">
+									<font size="-1">Copyright 2006 seinology.com | All Rights Reserved | Designed by 13erla</font></div>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+		<p></p>
+	</body>
+
+</html>

@@ -1,0 +1,1188 @@
+<tdOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+<html>
+
+	<head>
+		<meta http-equiv="content-type" content="text/html;charset=ISO-8859-1">
+		<meta name="description" content="Top Source for Seinfeld">
+		<meta name="keywords" content="seinfeld, sienfeld, Jerry Seinfeld, Julia Louis Dreyfus, Jason Alexander, Michael Richards, Kramer, George, Costanza, Elaine Benes, morty, Larry David">
+		<title>Seinology.com :: Scripts :: 153-The Yada Yada</title>
+	<link rel='stylesheet' href='/stylesheet.css' type='text/css'>
+	</head>
+
+	<body>
+			<table align="center" width="787" border="0" cellspacing="0" cellpadding="0">
+				<tr>
+					<td><font size="-2" color="red">Seinology.com - </font><font size="-3" color="black">Where Seinfeld Content and Accuracy Matter Most. Seinfeld scripts in pdf form, Seinfeld episode video clips, Seinfeld episode audio clips, Jerry Seinfeld appearances, Julia Louis-Dreyfus appearances, Michael Richards appearances, Jason Alexander appearances, Seinfeld discussion Forum, Seinfeld Where are they Now? Seinlanguage Newsletter, Popular Seinfeld Lists, Seinfeld episode standup, Seinfeld episode guide, Seinfeld fan fiction. Seinfeld content all on one domain. Seinology.com enjoy your stay.</font></td>
+				</tr>
+			</table>
+		
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr height="100">
+				<td class="logo"></td>
+			</tr>
+			<tr><td class="ads" align="center" background=#8694fa>
+				<script type="text/javascript"><!--
+google_ad_client = "pub-1924026976931416";
+google_ad_width = 728;
+google_ad_height = 90;
+google_ad_format = "728x90_as";
+google_ad_type = "text";
+google_ad_channel = "";
+google_color_border = "FFFFFF";
+google_color_bg = "8694fa";
+google_color_link = "0000FF";
+google_color_text = "000000";
+google_color_url = "002E3F";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></td></tr>
+		</table>
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr>
+				<td valign="top" width="136">
+					<table width="136" border="0" cellspacing="0" cellpadding="0">
+						<tr height="24">
+							<td class="navigation">
+								<div align="center">
+									
+									<b>Navigation</b></div>
+							</td>
+						</tr>
+						<tr height="199">
+							<td class="spacer1" valign="top" width="136" height="199">
+								<div align="center">
+									<font size="-1"><a href="http://www.seinology.com">Home</a><br>
+										<a href="http://board.seinology.com">Forum</a><br>
+										<a href="http://www.seinology.com/av.shtml">Audio/Video</a><br>
+										<a href="http://www.seinology.com/scripts.shtml">Scripts</a><br>
+										<a href="http://www.seinology.com/survivor.shtml">Survivor</a><br>
+										<a href="http://www.seinology.com/fanfics.shtml">Fan Fiction</a><br>
+										<a href="http://www.seinology.com/gallery/">Gallery</a><br>
+										<a href="http://www.seinology.com/newsletter.shtml">Newsletter</a><br>
+										<a href="http://www.seinology.com/lists.shtml">Lists</a><br>
+										<a href="http://www.seinology.com/epguide.shtml">Episode Guide</a><br>
+										<a href="http://www.seinology.com/links.shtml">Links</a><br>
+										<a href="http://www.seinology.com/faqother.shtml">Faq + others</a><br>
+										<a href="http://www.seinology.com/legal.shtml">Legal</a></font></div>
+							</td>
+						</tr>
+						
+						<tr>
+							<td class="nav2" width="136">
+							<div align="center"><b>Search</b></div></td>
+						</tr>
+						<tr>
+							<td class="spacer1" width="136" valign="top"><div align="center"><form method="get" action="http://www.seinology.com/search/search.cgi">
+<p><label for="fdse_Match">Match</label><br>
+<select name="Match" id="fdse_Match" size="1">
+<option value="1">All</option>
+<option value="0">Any</option>
+<option value="2">Phrase</option>
+</select></p>
+<p><label for="fdse_Realm">Where?</label><br>
+<select name="Realm" id="fdse_Realm" size="1">
+<option selected="selected" value="All">EntireSite</option>
+<option value="Ep Guide">Ep Guide</option>
+<option value="Images">Images</option>
+<option value="Lists">Lists</option>
+<option value="Newsletters">Newsletters</option>
+<option value="Scripts">Scripts</option>
+<option value="Notes..Nothing">Notes..Nothing</option>
+</select></p>
+<p><input type="text" name="Terms" size="14" id="fdse_Terms"><br>
+<input type="submit" class="submit" name="submitButtonName" value="Search"></p>
+</div></form></td>
+						</tr>
+						<tr><td class="bottom" width="136" height="10" valign="top">
+						</td>
+						</tr>
+					</table>
+				</td>
+				<td width="4"></td>
+				<td valign="top" width="645">
+					<table width="645" border="0" cellspacing="0" cellpadding="0">
+						<tr height="18">
+							<td width="645" height="35" class="bar">
+								<div align="center">
+									<b><font size="+2" color="black">Script</font></b></div>
+							</td>
+						</tr>
+						<tr height="362">
+							<td class="spacer2" valign="top" width="645" height="362">
+
+						<p><font size="-2">Episode 153 - The Yada Yada<br>
+							
+						pc: 819 season 8, episode 19<br>
+							
+						Broadcast date: April 24, 1997<br>
+							<br>
+							
+						Written by Peter Mehlman and Jill Franklyn<br>
+							
+						Directed by Andy Ackerman<br>
+							<br>
+							
+						-------------------------------------------------------------------------------<br>
+							<br>
+							
+						The Cast<br>
+							
+						Regulars:<br>
+							
+						Jerry Seinfeld ......................&nbsp; Jerry Seinfeld<br>
+							
+						Jason Alexander .................. George Costanza<br>
+							
+						Julia Louis-Dreyfus .............. Elaine Benes<br>
+							
+						Michael Richards .................. Cosmo Kramer<br>
+							<br>
+							
+						Guest Stars:<br>
+							<br>
+							
+						Robert Wagner .................... Dr. Abbott<br>
+							
+						Jill St. John ............................ Mrs. Abbott<br>
+							
+						Debra Messing ..................... Beth<br>
+							
+						Bryan Cranston ................... Dr. Tim Whatley<br>
+							
+						Suzanne Cryer ..................... Marcy (The Yada Yada)<br>
+							
+						Stephen Caffrey ................... Arnie<br>
+							
+						Henry Woronicz .................. Father Curtis<br>
+							
+						Monica Lacey ....................... Julie<br>
+							
+						Ali Marsh ............................. Karen<br>
+							
+						David Chandler ................... Brian<br>
+							
+						Virginia Watson ................... Nun<br>
+							
+						Walter Franks ..................... Waiter<br>
+							
+						Jerry Maren ........................ Dad<br>
+							
+						rc: Danny Woodburn .......... Mickey Abbott<br>
+							<br>
+							
+						==================================================================<br>
+							<br>
+							
+						[Jerry with George and his girlfriend Marcy at Monk's.]<br>
+							<br>
+							
+						GEORGE: So, Marcy, you should've seen me in the hot tub yoday.<br>
+							<br>
+							
+						MARCY: Why?<br>
+							<br>
+							
+						GEORGE: I was naked.<br>
+							<br>
+							
+						MARCY: Oh, George.<br>
+							<br>
+							
+						JERRY: I saw it.<br>
+							<br>
+							
+						MARCY: How'd he look?<br>
+							<br>
+							
+						JERRY: Okay. I wouldn't see it again.<br>
+							<br>
+							
+						MARCY: You know, a friend of mine thought she got Legonare's disease in the hot tub.<br>
+							<br>
+							
+						GEORGE: Really? What happened?<br>
+							<br>
+							
+						MARCY: Oh, yada yada yada, just some bad egg salad. I'll be right back. (She gets up)<br>
+							<br>
+							
+						JERRY: I noticed she's big on the phrase &quot;yada yada.&quot;<br>
+							<br>
+							
+						GEORGE: Is &quot;yada yada&quot; bad?<br>
+							<br>
+							
+						JERRY: No, &quot;yada yada&quot; is good. She's very succinct.<br>
+							<br>
+							
+						GEORGE: She is succinct.<br>
+							<br>
+							
+						JERRY: Yeah, it's like you're dating USA Today. (Tim the dentist enters Monk's)<br>
+							<br>
+							
+						GEORGE: Hey.<br>
+							<br>
+							
+						JERRY: Hey, George, you know Tim Whatley.<br>
+							<br>
+							
+						GEORGE: Yeah, dentist of the stars.<br>
+							<br>
+							
+						JERRY: What's up?<br>
+							<br>
+							
+						TIM: I'll tell you what's up. I'm a Jew.<br>
+							<br>
+							
+						JERRY: Excuse me?<br>
+							<br>
+							
+						TIM: I'm a Jew. I finished converting two days ago.<br>
+							<br>
+							
+						JERRY: Well... (Thinking of something to say) Welcome aboard.<br>
+							<br>
+							
+						TIM: Thanks.<br>
+							<br>
+							
+						GEORGE: Hey, where you just at the health club?<br>
+							<br>
+							
+						TIM: Oh, well, I didn't do much. I just sat in the sauna. You know, it was more like a Jewish workout. I'll see ya. (Jerry and George give confused looks)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Elaine and Jerry at his place.]<br>
+							<br>
+							
+						JERRY: Elaine, the guy's Jewish two days, he's already making Jewish jokes.<br>
+							<br>
+							
+						ELAINE: So what? When someone turns twenty-one, they usually get drunk the first night.<br>
+							<br>
+							
+						JERRY: Booze is not a religion.<br>
+							<br>
+							
+						ELAINE: Tell that to my father. Anyway, guess what? Beth Lookner called me.<br>
+							<br>
+							
+						JERRY: Ooh. Beth Lookner, still waitin' out hat marriage.<br>
+							<br>
+							
+						ELAINE: What are you talking about? That marriage ended six months ago. She's already remarried.<br>
+							<br>
+							
+						JERRY: I gotta get on that internet. I'm late on everything.<br>
+							<br>
+							
+						ELAINE: Anyway, Beth and her new husband Arnie have listed me a reference for an adoption agency. They're trying to get a baby. (Kramer and Mickey enter wearing the same shirt)<br>
+							<br>
+							
+						KRAMER: Elaine, all right, who looks better in this shirt? Me or Mickey?<br>
+							<br>
+							
+						MICKEY: We're double dating tonight, and if we wear the same shirt we'll look like idiots.<br>
+							<br>
+							
+						ELAINE: Hmm, turn around. (They turn around) Both so striking.<br>
+							<br>
+							
+						KRAMER: Tell me about it. We just picked up two women at the Gap.<br>
+							<br>
+							
+						ELAINE: How did you decide which one of you would date which girl? (They pause then look at each other)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Marcy and George in his car.]<br>
+							<br>
+							
+						MARCY: So I'm on 3rd Avenue, mindin' my own business, and, yada yada yada, I get a free massage and a facial.<br>
+							<br>
+							
+						GEORGE: What a succinct story.<br>
+							<br>
+							
+						MARCY: I'm surprised you drive a Cadillac.<br>
+							<br>
+							
+						GEORGE: Oh, it's not mine. It's my mother's.<br>
+							<br>
+							
+						MARCY: Are you close with your parents?<br>
+							<br>
+							
+						GEORGE: Well, they gave birth to me, and, yada yada...<br>
+							<br>
+							
+						MARCY: Yada what?<br>
+							<br>
+							
+						GEORGE: Yada yada yada...<br>
+							<br>
+							<br>
+							<br>
+							
+						[At Mickey and Kramer's date.]<br>
+							<br>
+							
+						KAREN: (To Mickey, wearing the shirt Elaine looked at for them) I like your shirt.<br>
+							<br>
+							
+						MICKEY: Oh, thank you. It's 100 cotton, and some wool.<br>
+							<br>
+							
+						KRAMER: Well, you too seem to have the same taste.<br>
+							<br>
+							
+						JULIE: Well I like it, too.<br>
+							<br>
+							
+						KRAMER: Well I have the same shirt.<br>
+							<br>
+							
+						MICKEY: Yeah, well I'm wearin' it.<br>
+							<br>
+							
+						JULIE: I like your shirt too.<br>
+							<br>
+							
+						KAREN: Oh, so do I.<br>
+							<br>
+							
+						KRAMER: Oh. (Waiter approaches table)<br>
+							<br>
+							
+						WAITER: Anything to drink? Some wine, perhaps.<br>
+							<br>
+							
+						MICKEY: I like Merlot.<br>
+							<br>
+							
+						KAREN: I love Merlot.<br>
+							<br>
+							
+						JULIE: I'm crazy about Merlot.<br>
+							<br>
+							
+						KRAMER: I live for Merlot.<br>
+							<br>
+							
+						WAITER: We're out of Merlot.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Cut to the adoption agency.]<br>
+							<br>
+							
+						AGENT: So you, uh, know Betha and Arnie pretty well?<br>
+							<br>
+							
+						ELAINE: Oh, yeah, yeah.<br>
+							<br>
+							
+						AGENT: Do you socialize with them often?<br>
+							<br>
+							
+						ELAINE: Yeah, we got out to dinner a lot. Usually Chinese, well sometimes Thai. And we go to the movies, Arnie's a real film buff.<br>
+							<br>
+							
+						AGENT: Oh.<br>
+							<br>
+							
+						ELAINE: Actually, I remember this one time, um, this is funny. Um, we went to see the movie Striptease. I don't know if you've seen... doesn't matter. Anyway, I was whispering something to Beth, and Arnie leens over to me, and he goes, &quot;Would you SHUT UP?!&quot; I mean, he barely even knew me. Where did he get ah-- But they're nice people. (Elaine tries to smile realizing her mistake)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Jerry is in the dental chair when George enters.]<br>
+							<br>
+							
+						GEORGE: Oh, you're in here.<br>
+							<br>
+							
+						JERRY: What're you doing here?<br>
+							<br>
+							
+						GEORGE: I knew you had an appointment.<br>
+							<br>
+							
+						JERRY: Well this is very awkward.<br>
+							<br>
+							
+						GEORGE: I'll leave when the guy comes in. I gotta tell you, I am loving this yada yada thing. You know, I can cross over my whole life story. (Picks up dental tool)<br>
+							<br>
+							
+						JERRY: Hey, you don't play with that. That's going in my mouth.<br>
+							<br>
+							
+						GEORGE: Hey, what this thing? Whew!<br>
+							<br>
+							
+						JERRY: All right, that's enough. Now get going. Get outta here. (Tim and his staff enter)<br>
+							<br>
+							
+						GEORGE: Hey, Tim. Quick question. Is it normal for your teeth to make noises, like a hissing or a chirping?<br>
+							<br>
+							
+						JERRY: George...<br>
+							<br>
+							
+						TIM: Um...<br>
+							<br>
+							
+						GEORGE: Fine, I'll make an appointment. (He leaves)<br>
+							<br>
+							
+						TIM: All right, it is cavity time. Ah, here we go. Which reminds me, did you here the one about the rabbi and the farmer's daughter? Huh?<br>
+							<br>
+							
+						JERRY: Hey.<br>
+							<br>
+							
+						TIM: Those aren't mahtzah balls.<br>
+							<br>
+							
+						JERRY: Tim, do you think you should be making jokes like that?<br>
+							<br>
+							
+						TIM: Why not? I'm Jewish, remember?<br>
+							<br>
+							
+						JERRY: I know, but...<br>
+							<br>
+							
+						TIM: Jerry, it's our sense of humor that sustained us as a people for 3000 years.<br>
+							<br>
+							
+						JERRY: 5000.<br>
+							<br>
+							
+						TIM: 5000, even better. Okay, Chrissie. Give me a schtickle of flouride.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Jerry and Elaine at Jerry's apartment.]<br>
+							<br>
+							
+						JERRY: And then he asked the assistant for a schtickle of flouride.<br>
+							<br>
+							
+						ELAINE: Why are you so concerned about this?<br>
+							<br>
+							
+						JERRY: I'll tell you why. Because I believe Whatley converted to Judaism just for the jokes. (Phone rings)<br>
+							<br>
+							
+						PHONE: Would you be interested in a subscription to the New York Times?<br>
+							<br>
+							
+						JERRY: Yes. (Slams down phone. Kramer and Mickey enter)<br>
+							<br>
+							
+						KRAMER: I don't believe that.<br>
+							<br>
+							
+						MICKEY: If you had gotten into the backseat of the car we could've figured this whole thing out.<br>
+							<br>
+							
+						KRAMER: Why were you holding the door open for?<br>
+							<br>
+							
+						MICKEY: Not for you! Who holds a door open for a man?<br>
+							<br>
+							
+						KRAMER: Well, I thought it was a nice gesture. But I guess I was wrong!<br>
+							<br>
+							
+						MICKEY: Let's just put they're names in a hat.<br>
+							<br>
+							
+						KRAMER: I don't even know their names! Look, why don't you just take the one that was on the left?<br>
+							<br>
+							
+						MICKEY: I'm not sure she was my type.<br>
+							<br>
+							
+						KRAMER: Oh, everybody's your type.<br>
+							<br>
+							
+						MICKEY: What the hell does that mean?<br>
+							<br>
+							
+						KRAMER: You've been married three times.<br>
+							<br>
+							
+						MICKEY: That's it, it's go time! (Charges toward Kramer, only to be held back by Jerry and Elaine)<br>
+							<br>
+							
+						JERRY: All right, take it easy.<br>
+							<br>
+							
+						ELAINE: Hey, hey, hey!<br>
+							<br>
+							
+						KRAMER: Come on, let him go. You want throw? Let's throw!<br>
+							<br>
+							
+						ELAINE: Hey! Hold on a second. All right, look, I got an idea. Why don't you just show up early for your next date, sit across from each other, and see who the girls sit next to.<br>
+							<br>
+							
+						MICKEY: That's not bad.<br>
+							<br>
+							
+						KRAMER: All right, so we let the girls decide.<br>
+							<br>
+							
+						MICKEY: Yeah, why should we knock ourselves out?<br>
+							<br>
+							
+						KRAMER: Yeah, I wanna wear that shirt next time.<br>
+							<br>
+							
+						MICKEY: No, no one wears the shirt next time.<br>
+							<br>
+							
+						KRAMER: That's right, 'cause they already saw it.<br>
+							<br>
+							
+						MICKEY: We'll look like idiots. (They exit)<br>
+							<br>
+							<br>
+							<br>
+							
+						[George and Marcy at Monk's.]<br>
+							<br>
+							
+						GEORGE: Well, we were engaged to be married, uh, we bought the wedding invitations, and, uh, yada yada yada, I'm still single.<br>
+							<br>
+							
+						MARCY: So what's she doing now?<br>
+							<br>
+							
+						GEORGE: Yada.<br>
+							<br>
+							
+						MARCY: Speaking of ex's, my old boyfriend came over late last night, and, yada yada yada, anyway. I'm really tired today.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Beth and Arnie see Elaine walking down the street.]<br>
+							<br>
+							
+						ELAINE: Beth, Arnie, hi. What's up?<br>
+							<br>
+							
+						ARNIE: Well our adoption application was denied.<br>
+							<br>
+							
+						ELAINE: Really.<br>
+							<br>
+							
+						BETH: The adoption agent seems to feel that Arnie has a violent temper.<br>
+							<br>
+							
+						ELAINE: Oh.<br>
+							<br>
+							
+						BETH: So we're just asking our friends what they may have said to the adoption agent.<br>
+							<br>
+							
+						ELAINE: Uh, you know, I just told them what kind people you are and, uh, yada yada yada, that is it.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Cut to the dentist waiting room.]<br>
+							<br>
+							
+						JERRY: How you doing?<br>
+							<br>
+							
+						FATHER: I have a discomfort in my molar. (Enter Tim)<br>
+							<br>
+							
+						TIM: Well, the Curtis, why don't you come in? (To Jerry) Father Curtis, good guy. Oh, which reminds me, did you hear the one about the Pope and Raquel Welch on the lifeboat, huh? I'll tell you later. (Exits)<br>
+							<br>
+							
+						JERRY: Whatley. (Like &quot;Newman&quot;)<br>
+							<br>
+							<br>
+							<br>
+							
+						[At Kramer and Mickey's date, they enter to find the girls already at the table.]<br>
+							<br>
+							
+						KRAMER: What are they doing here?<br>
+							<br>
+							
+						MICKEY: I told you we should've gotten here a half hour early.<br>
+							<br>
+							
+						KRAMER: All right, all right. Now what're we gonna do?<br>
+							<br>
+							
+						MICKEY: All right, don't panic. Let's just decide now. Which one do you want?<br>
+							<br>
+							
+						KRAMER: All right, I'll take Julie.<br>
+							<br>
+							
+						MICKEY: I knew you wanted her. That's who I wanted.<br>
+							<br>
+							
+						KRAMER: All right, I'll take Karen.<br>
+							<br>
+							
+						MICKEY: No, no, you think I'm fallin' for that? I'll take Karen.<br>
+							<br>
+							
+						KRAMER: All right, which one is Julie? (They walk over to the table and fight over who sits where) Hey, you ladies look lovely tonight. (Continue to struggle)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Jerry's.]<br>
+							<br>
+							
+						JERRY: So Whatley sayd to me, &quot;Hey, I can make Catholic jokes, I used to be Catholic.&quot;<br>
+							<br>
+							
+						ELAINE: You see, I don't think it is a Catholic joke. I think it's more of a Raquel Welch joke. What was it? No, I said hand me the buoys. (Laughing) Bouys!<br>
+							<br>
+							
+						JERRY: Don't you see what Whatley is after? Total joke telling immunity. He's already got the two big religions covered, if he ever gets Polish citizenship there'll be no stopping him.<br>
+							<br>
+							
+						ELAINE: So what're you gonna do?<br>
+							<br>
+							
+						JERRY: I think this Father Curtis might be very interested to hear what Whatley has the Pope doing with Raquel Welch.<br>
+							<br>
+							
+						ELAINE: (Calling on phone) Hey, Beth, Arnie, it's Elaine. Um, thought you guys might wanna have lunch. Gimme a call. Bye.<br>
+							<br>
+							
+						JERRY: They're not getting a baby so you're taking them out to lunch?<br>
+							<br>
+							
+						ELAINE: Thought it would be nice.<br>
+							<br>
+							
+						JERRY: Poor Beth.<br>
+							<br>
+							
+						ELAINE: Hey, Arnie's just as upset.<br>
+							<br>
+							
+						JERRY: Oh screw him! (George enters)<br>
+							<br>
+							
+						GEORGE: Listen to this. Marcy comes up and she tells me her ex-boyfriend was over late last night, and &quot;yada yada yada, I'm really tired today.&quot; You don't think she yada yada'd sex.<br>
+							<br>
+							
+						ELAINE: (Raising hand) I've yada yada'd sex.<br>
+							<br>
+							
+						GEORGE: Really?<br>
+							<br>
+							
+						ELAINE: Yeah. I met this lawyer, we went out to dinner, I had the lobster bisk, we went back to my place, yada yada yada, I never heard from him again.<br>
+							<br>
+							
+						JERRY: But you yada yada'd over the best part.<br>
+							<br>
+							
+						ELAINE: No, I mentioned the bisk.<br>
+							<br>
+							
+						GEORGE: Well, I gotta do somethin'. (Walks over to bathroom. Kramer enters)<br>
+							<br>
+							
+						KRAMER: Well, I gotta do somethin'.<br>
+							<br>
+							
+						JERRY: George is already in there.<br>
+							<br>
+							
+						KRAMER: (Confused) No, Mickey and I, we can't work it out. You know, I'm thinking of asking that Karen out by myself.<br>
+							<br>
+							
+						JERRY: I thought you were leaning towards Julie.<br>
+							<br>
+							
+						KRAMER: I was, but the one I thought was Julie turned out to be Karen.<br>
+							<br>
+							<br>
+							<br>
+							
+						[George and Marcy at Monk's.]<br>
+							<br>
+							
+						GEORGE: Well it was a helluva yada yada.<br>
+							<br>
+							
+						MARCY: He's moving to Seattle. We wanted to say goodbye, I was just getting out of the shower, and yada yada yada--<br>
+							<br>
+							
+						GEORGE: All right, enough! Enough! From now on, no more yada yada's. Just give me the full story.<br>
+							<br>
+							
+						MARCY: Okay.<br>
+							<br>
+							
+						GEORGE: Tell me about the free facial.<br>
+							<br>
+							
+						MARCY: Okay, well, like I said I was on 3rd Avenue, and I stopped by a large department store.<br>
+							<br>
+							
+						GEORGE: Which one?<br>
+							<br>
+							
+						MARCY: Bloomingdale's.<br>
+							<br>
+							
+						GEORGE: Very good. Go on.<br>
+							<br>
+							
+						MARCY: Oh, and I stole a Piaget watch.<br>
+							<br>
+							
+						GEORGE: What's that?<br>
+							<br>
+							
+						MARCY: And then, I was on such a... high, that I went upstairs to the salon on the fifth floor, and got a massage and facial, and skipped out on the bill.<br>
+							<br>
+							
+						GEORGE: Shoplifting.<br>
+							<br>
+							
+						MARCY: Well, what about you? You told me that you were engaged. What was the rest of that? (Pause)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Jerry at the church approaches a nun.]<br>
+							<br>
+							
+						JERRY: Excuse me, Mother?<br>
+							<br>
+							
+						NUN: Sister.<br>
+							<br>
+							
+						JERRY: Sister, right. Do you know when Father Curtis has office hours?<br>
+							<br>
+							
+						NUN: Well not until tomorrow.<br>
+							<br>
+							
+						JERRY: Hmm, I really need to speak with him.<br>
+							<br>
+							
+						(Jerry enters confessional, sits down on kneeler. Father Curtis opens sliding door.)<br>
+							<br>
+							
+						FATHER: That's a kneeler.<br>
+							<br>
+							
+						JERRY: Oh. (Adjusts accordingly)<br>
+							<br>
+							
+						FATHER: Tell me your sins, my son.<br>
+							<br>
+							
+						JERRY: Well I should tell you that I'm Jewish.<br>
+							<br>
+							
+						FATHER: That's no sin.<br>
+							<br>
+							
+						JERRY: Oh good. Anyway, I wanted to talk to you about Dr. Whatley. I have a suspicion that he's converted to Judaism just for the jokes.<br>
+							<br>
+							
+						FATHER: And this offends you as a Jewish person.<br>
+							<br>
+							
+						JERRY: No, it offends me as a comedian. And it'll interest you that he's also telling Catholic jokes.<br>
+							<br>
+							
+						FATHER: Well.<br>
+							<br>
+							
+						JERRY: And they're old jokes. I mean, the Pope and Raquel Welch in a lifeboat.<br>
+							<br>
+							
+						FATHER: I haven't heard that one.<br>
+							<br>
+							
+						JERRY: Oh, I'm sure you have. They're out on the ocean and, yada yada yada, and she says, &quot;Those aren't buoys.&quot; (Father starts laughing) Father...<br>
+							<br>
+							
+						FATHER: One second... Well, if it would make you feel better I could speak to Dr. Whatley. I have to go back and have a wisdom teeth removed.<br>
+							<br>
+							
+						JERRY: You know the difference between a dentist and a sadist don't you?<br>
+							<br>
+							
+						FATHER: Um...<br>
+							<br>
+							
+						JERRY: Newer magazines.<br>
+							<br>
+							
+						FATHER: Now if you'll excuse me. (Closes door. George enters confessional.)<br>
+							<br>
+							
+						GEORGE: Jerry, I gotta talk to you.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Kramer knocks on Karen's apartment door, she opens the door.]<br>
+							<br>
+							
+						KRAMER: Hi.<br>
+							<br>
+							
+						KAREN: Hi, Kramer.<br>
+							<br>
+							
+						KRAMER: Got a minute?<br>
+							<br>
+							
+						KAREN: Uh, actually my parents are over, but, would you like to meet them?<br>
+							<br>
+							
+						KRAMER: Sure.<br>
+							<br>
+							
+						KAREN: (Parents enter and are little people like Mickey) Mom, Dad.<br>
+							<br>
+							
+						KRAMER: Hi.<br>
+							<br>
+							<br>
+							<br>
+							
+						[At Monk's, Arnie is talking to Elaine.]<br>
+							<br>
+							
+						ARNIE: Elaine, I have to ask you something. What exactly happened down there?<br>
+							<br>
+							
+						ELAINE: Well, I don't know. I mean, I talked to him and, blah blah blah, he asked about you guys and, da da da da da, more questions, bleh bleh bleh....<br>
+							<br>
+							
+						ARNIE: All right, shut up!<br>
+							<br>
+							
+						ELAINE: Again you are telling me to shut up?<br>
+							<br>
+							
+						ARNIE: What?<br>
+							<br>
+							
+						ELAINE: You yelled that time at the movies. That's why you're not getting the baby.<br>
+							<br>
+							
+						ARNIE: Oh my God. How am I gonna tell Beth?<br>
+							<br>
+							
+						ELAINE: Look, I'll go down and talk to this adoption guy and I'll make sure that it all gets worked out.<br>
+							<br>
+							
+						ARNIE: All right, just don't screw it up this time! (He exits)<br>
+							<br>
+							
+						ELAINE: See, again with the yelling. Not a fan of the yelling.<br>
+							<br>
+							<br>
+							<br>
+							
+						[At the dentist, Tim is working on Jerry.]<br>
+							<br>
+							
+						JERRY: (In pain) Oh, are you about done?<br>
+							<br>
+							
+						TIM: I'm just getting warmed up. Because I'm just a sadist with newer magazines.<br>
+							<br>
+							
+						JERRY: Huh?<br>
+							<br>
+							
+						TIM: Father Curtis told me about your little joke.<br>
+							<br>
+							
+						JERRY: What about all your Jewish jokes?<br>
+							<br>
+							
+						TIM: I'm Jewish, you're not a dentist. You have no idea what my people have been through.<br>
+							<br>
+							
+						JERRY: The Jews?<br>
+							<br>
+							
+						TIM: No, the dentists. You know, we have the highest suicide rate of any profession?<br>
+							<br>
+							
+						JERRY: Is that why it's so hard to get an appointment?<br>
+							<br>
+							<br>
+							<br>
+							
+						[Jerry enters his apartment to see Kramer talking on his phone.]<br>
+							<br>
+							
+						KRAMER: So, I'll uh... all right. (Hangs up)<br>
+							<br>
+							
+						JERRY: Date with Karen?<br>
+							<br>
+							
+						KRAMER: No, Julie. She's the one.<br>
+							<br>
+							
+						JERRY: What happened to Karen?<br>
+							<br>
+							
+						KRAMER: Well, Mickey and her have a lot more in common. you know her parents are little people?<br>
+							<br>
+							
+						JERRY: Oh, small world. So little people can have not little people children?<br>
+							<br>
+							
+						KRAMER: Oh yeah, and vice versa. Mother Nature's a mad scientist, Jerry.<br>
+							<br>
+							
+						JERRY: So you won't believe what happened with Whatley today. It got back to hime that I made this little dentist joke and he got all offended. Those people can be so touchy.<br>
+							<br>
+							
+						KRAMER: Those people, listen to yourself.<br>
+							<br>
+							
+						JERRY: What?<br>
+							<br>
+							
+						KRAMER: You think that dentists are so different from me and you? They came to this country just like everybody else, in search of a dream.<br>
+							<br>
+							
+						JERRY: Kramer, he's just a dentist.<br>
+							<br>
+							
+						KRAMER: Yeah, and you're an anti-dentite.<br>
+							<br>
+							
+						JERRY: I am not an anti-dentite!<br>
+							<br>
+							
+						KRAMER: You're a rabid anti-dentite! Oh, it starts with a few jokes and some slurs. &quot;Hey, denty!&quot; Next thing you know you're saying they should have their own schools.<br>
+							<br>
+							
+						JERRY: They do have their own schools!<br>
+							<br>
+							
+						KRAMER: Yeah!<br>
+							<br>
+							<br>
+							<br>
+							
+						[At the adoption agency]<br>
+							<br>
+							
+						ELAINE: One little baby, whatever you have in stock.<br>
+							<br>
+							
+						AENT: Miss Benes...<br>
+							<br>
+							
+						ELAINE: Look it, look it, Ryan. These people are gettin' a baby. Period. Now we can do this the easy way, or we can do this the fun way.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Beth enters Jerry's place.]<br>
+							<br>
+							
+						BETH: Jerry, I'm sorry to bother you, but you always said you'd be there for me.<br>
+							<br>
+							
+						JERRY: Well, what's wrong?<br>
+							<br>
+							
+						BETH: I'm thinking of leaving Arnie.<br>
+							<br>
+							
+						JERRY: Talk to me.<br>
+							<br>
+							
+						BETH: He met with Elaine, and I asked him what happened, and he yada yada'd me. I mean, could he be having an affair?<br>
+							<br>
+							
+						JERRY: Well, I wouldn't put anything past anybody.<br>
+							<br>
+							
+						BETH: But we just got married.<br>
+							<br>
+							
+						JERRY: Well obviously that was a mistake. You need to forget about Arnie. The important thing is you're moving on.<br>
+							<br>
+							
+						BETH: Why would Elaine do that to me?<br>
+							<br>
+							
+						JERRY: Forget about Elaine. Let's just focus on us. Come on, big hug. (Mickey and Karen enter)<br>
+							<br>
+							
+						MICKEY: Hey Jerry. Where's Kramer? I've got exciting news.<br>
+							<br>
+							
+						JERRY: I'm kinda in the middle of something.<br>
+							<br>
+							
+						MICKEY: Karen and I are getting married.<br>
+							<br>
+							
+						JERRY: Oh, congratulations. Her marriage just fell apart.<br>
+							<br>
+							
+						MICKEY: (To Beth) How many is that for you?<br>
+							<br>
+							
+						BETH: Two.<br>
+							<br>
+							
+						MICKEY: You're a lightweight. Come on, honey.<br>
+							<br>
+							<br>
+							<br>
+							
+						[One week later at the wedding. Elaine is sitting with adoption agent. Jerry enters with Beth.]<br>
+							<br>
+							
+						ELAINE: Hey Jerry. What are you doing here with Beth?<br>
+							<br>
+							
+						JERRY: Beth and Arnie broke up.<br>
+							<br>
+							
+						ELAINE: So they don't want a baby?<br>
+							<br>
+							
+						JERRY: (Shaking his head no) Pff.<br>
+							<br>
+							
+						ELAINE: (Realizes her mistake) I think I'm gonna be sick. (George enters alone)<br>
+							<br>
+							
+						JERRY: Hey, where's Marcy?<br>
+							<br>
+							
+						GEORGE: She, uh, went shopping for some shoes for the wedding and, yada yada yada, I'll see her in six to eight months. (Kramer and Julie enter)<br>
+							<br>
+							
+						JERRY: Hey, Kramer, over here.<br>
+							<br>
+							
+						KRAMER: I just assume not sit next to you.<br>
+							<br>
+							
+						JERRY: Kramer... Oh look, there's Mickey and his parents.<br>
+							<br>
+							
+						ELAINE: Nice looking family.<br>
+							<br>
+							
+						JERRY: Very handsome.<br>
+							<br>
+							
+						KRAMER: (To Mr. Abbott) How ya doing?<br>
+							<br>
+							
+						MR. ABBOTT: Hey Kramer.<br>
+							<br>
+							
+						JULIE: Oh Mickey. Excuse me, I can't take this. (She exits quickly)<br>
+							<br>
+							
+						JERRY: Hi, Mr. Abbott.<br>
+							<br>
+							
+						MR. ABBOTT: That's Dr. Abbott, D.D.S. Tim Whatley was one of my students. And if this wasn't my son's wedding day, I'd knock you teeth out you anti-dentite bastard.<br>
+							<br>
+							
+						BETH: What was that all about?<br>
+							<br>
+							
+						JERRY: Oh, I said something about dentists and it got blown all out of proportion.<br>
+							<br>
+							
+						BETH: Hey, what do you call a doctor who fails out of med school?<br>
+							<br>
+							
+						JERRY: What?<br>
+							<br>
+							
+						BETH: A dentist. (They laugh)<br>
+							<br>
+							
+						JERRY: That's a good one. Dentists.<br>
+							<br>
+							
+						BETH: Yeah, who needs 'em? Not to mention the Blacks and the Jews. (Jerry fakes a smile)<br>
+							<br>
+							
+						(A little later)<br>
+							<br>
+							
+						ELAINE: Where's Beth?<br>
+							<br>
+							
+						JERRY: She went out to get her head shaved.<br>
+							<br>
+							
+						FATHER: We are gathered her today to unite this couple in holy... matrimony.<br>
+							<br>
+							
+						JERRY: Those wisdom teeth are tough to get out.<br>
+							<br>
+							
+						FATHER: Marriage is not an intervention to be entered lightly... Yada yada yada, I pronounce you man and wife. (They kiss, walk toward exit)<br>
+							<br>
+							
+						KAREN: (To Kramer) I really wanted you.<br>
+							<br>
+							<br>
+							
+						The End</td>
+						</tr>
+						<tr height="6">
+							<td class="bottom2" width="645" height="6"></td>
+						</tr>
+						<tr>
+							<td width="645">
+								<div align="center">
+									<font size="-1">Copyright 2006 seinology.com | All Rights Reserved | Designed by 13erla</font></div>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+		<p></p>
+	</body>
+
+</html>

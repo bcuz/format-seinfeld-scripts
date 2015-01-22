@@ -1,0 +1,1033 @@
+<tdOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+<html>
+
+	<head>
+		<meta http-equiv="content-type" content="text/html;charset=ISO-8859-1">
+		<meta name="description" content="Top Source for Seinfeld">
+		<meta name="keywords" content="seinfeld, sienfeld, Jerry Seinfeld, Julia Louis Dreyfus, Jason Alexander, Michael Richards, Kramer, George, Costanza, Elaine Benes, morty, Larry David">
+		<title>Seinology.com :: Scripts :: 54-The Movie</title>
+	<link rel='stylesheet' href='/stylesheet.css' type='text/css'>
+	</head>
+
+	<body>
+			<table align="center" width="787" border="0" cellspacing="0" cellpadding="0">
+				<tr>
+					<td><font size="-2" color="red">Seinology.com - </font><font size="-3" color="black">Where Seinfeld Content and Accuracy Matter Most. Seinfeld scripts in pdf form, Seinfeld episode video clips, Seinfeld episode audio clips, Jerry Seinfeld appearances, Julia Louis-Dreyfus appearances, Michael Richards appearances, Jason Alexander appearances, Seinfeld discussion Forum, Seinfeld Where are they Now? Seinlanguage Newsletter, Popular Seinfeld Lists, Seinfeld episode standup, Seinfeld episode guide, Seinfeld fan fiction. Seinfeld content all on one domain. Seinology.com enjoy your stay.</font></td>
+				</tr>
+			</table>
+		
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr height="100">
+				<td class="logo"></td>
+			</tr>
+			<tr><td class="ads" align="center" background=#8694fa>
+				<script type="text/javascript"><!--
+google_ad_client = "pub-1924026976931416";
+google_ad_width = 728;
+google_ad_height = 90;
+google_ad_format = "728x90_as";
+google_ad_type = "text";
+google_ad_channel = "";
+google_color_border = "FFFFFF";
+google_color_bg = "8694fa";
+google_color_link = "0000FF";
+google_color_text = "000000";
+google_color_url = "002E3F";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></td></tr>
+		</table>
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr>
+				<td valign="top" width="136">
+					<table width="136" border="0" cellspacing="0" cellpadding="0">
+						<tr height="24">
+							<td class="navigation">
+								<div align="center">
+									
+									<b>Navigation</b></div>
+							</td>
+						</tr>
+						<tr height="199">
+							<td class="spacer1" valign="top" width="136" height="199">
+								<div align="center">
+									<font size="-1"><a href="http://www.seinology.com">Home</a><br>
+										<a href="http://board.seinology.com">Forum</a><br>
+										<a href="http://www.seinology.com/av.shtml">Audio/Video</a><br>
+										<a href="http://www.seinology.com/scripts.shtml">Scripts</a><br>
+										<a href="http://www.seinology.com/survivor.shtml">Survivor</a><br>
+										<a href="http://www.seinology.com/fanfics.shtml">Fan Fiction</a><br>
+										<a href="http://www.seinology.com/gallery/">Gallery</a><br>
+										<a href="http://www.seinology.com/newsletter.shtml">Newsletter</a><br>
+										<a href="http://www.seinology.com/lists.shtml">Lists</a><br>
+										<a href="http://www.seinology.com/epguide.shtml">Episode Guide</a><br>
+										<a href="http://www.seinology.com/links.shtml">Links</a><br>
+										<a href="http://www.seinology.com/faqother.shtml">Faq + others</a><br>
+										<a href="http://www.seinology.com/legal.shtml">Legal</a></font></div>
+							</td>
+						</tr>
+						
+						<tr>
+							<td class="nav2" width="136">
+							<div align="center"><b>Search</b></div></td>
+						</tr>
+						<tr>
+							<td class="spacer1" width="136" valign="top"><div align="center"><form method="get" action="http://www.seinology.com/search/search.cgi">
+<p><label for="fdse_Match">Match</label><br>
+<select name="Match" id="fdse_Match" size="1">
+<option value="1">All</option>
+<option value="0">Any</option>
+<option value="2">Phrase</option>
+</select></p>
+<p><label for="fdse_Realm">Where?</label><br>
+<select name="Realm" id="fdse_Realm" size="1">
+<option selected="selected" value="All">EntireSite</option>
+<option value="Ep Guide">Ep Guide</option>
+<option value="Images">Images</option>
+<option value="Lists">Lists</option>
+<option value="Newsletters">Newsletters</option>
+<option value="Scripts">Scripts</option>
+<option value="Notes..Nothing">Notes..Nothing</option>
+</select></p>
+<p><input type="text" name="Terms" size="14" id="fdse_Terms"><br>
+<input type="submit" class="submit" name="submitButtonName" value="Search"></p>
+</div></form></td>
+						</tr>
+						<tr><td class="bottom" width="136" height="10" valign="top">
+						</td>
+						</tr>
+					</table>
+				</td>
+				<td width="4"></td>
+				<td valign="top" width="645">
+					<table width="645" border="0" cellspacing="0" cellpadding="0">
+						<tr height="18">
+							<td width="645" height="35" class="bar">
+								<div align="center">
+									<b><font size="+2" color="black">Script</font></b></div>
+							</td>
+						</tr>
+						<tr height="362">
+							<td class="spacer2" valign="top" width="645" height="362">
+
+						<p><font size="-2">Episode 54 - The Movie<br>
+							
+						pc: 415, season 4, episode 14<br>
+							
+						Broadcast date: January 6, 1993<br>
+							<br>
+							
+						Written by Steve Skrovan, Bill Masters, Jon Hayman<br>
+							
+						Directed by Tom Cherones<br>
+							<br>
+							
+						-------------------------------------------------------------------------------<br>
+							<br>
+							
+						The Cast<br>
+							
+						Regulars:<br>
+							
+						Jerry Seinfeld ....................... Jerry Seinfeld<br>
+							
+						Jason Alexander .................. George Costanza<br>
+							
+						Julia Louis-Dreyfus ............. Elaine Benes<br>
+							
+						Michael Richards ................. Kramer<br>
+							<br>
+							
+						Guest Stars:<br>
+							<br>
+							
+						Barry Diamond .................. Buckles<br>
+							
+						Perry Anzilotti ................... Usher<br>
+							
+						Tom La Grua ..................... Kernis<br>
+							
+						Eric Poppick ....................... Maurice<br>
+							
+						Cathy Lind Hayes ............. Woman Behind Elaine<br>
+							
+						Allan Kolman ..................... Cab Driver<br>
+							
+						Molly Cleator .................... Cashier<br>
+							
+						Christie Mellor .................. Concessionaire<br>
+							
+						Jeff Norman ...................... Man in Line<br>
+							
+						Paul Eisenhauer ................. Man in Theatre<br>
+							
+						Montrose Hagins .............. Woman in Theatre<br>
+							<br>
+							
+						==================================================================<br>
+							<br>
+							
+						[Opening monologue]<br>
+							<br>
+							
+						What's with the age gap hiring policy at most movie theaters? Didja ever notice, they never hire anyone between the ages of fifteen... and eighty, you know what I mean? Like, the girl that sells you the ticket, she's ten. Then there's the guy who rips the ticket, he's a hundred and two. So, what happened in the middle, there? You couldn't find anybody? It's like they want to show you how life comes full circle. You're fifteen, you sell the tickets. Then you leave, you go out, you have a family, kids, marriage, career, grandchildren, eighty years later, you're back in the same theater three feet away. Ripping tickets. Took you eighty years to move three feet.<br>
+							<br>
+												% A night at the Improv. Jerry receives some disturbing news from the manager: The show has been delayed.<br>
+							<br>
+							
+						JERRY: You don't understand. I got this all timed out. I got another spot across town at 9:50, I'm not gonna be able to make it!<br>
+							<br>
+												% As impeccable and precise in his business dealings as he is with his apartment.<br>
+							<br>
+							
+						KERNIS: I hear you, guy.<br>
+							<br>
+							
+						JERRY: And I'm doin' Letterman Monday. You know, I gotta work out the material!<br>
+							<br>
+												% In the background is the plot complication of the week: Buckles. The manager assures Jerry that Buckles isn't on the menu. He just hangs around hoping that somebody drops out.<br>
+							<br>
+							
+						KERNIS: Why don't you come back and do the 11 o'clock spot?<br>
+							<br>
+							
+						JERRY: No, I'm supposed to meet my friends to see this movie ``CheckMate'' at 10:30.<br>
+							<br>
+												% On consideration, Jerry decides to take the 11 o'clock spot and skip the movie. Jerry is on his way out the door when Buckles spots him.<br>
+							<br>
+							
+						BUCKLES: Hey, Jer!<br>
+							<br>
+							
+						JERRY: [not losing a step] Heeeeyyyyyyyy..... [and out the door]<br>
+							<br>
+												% At the Paragon Theater, George joins the end of a queue. He taps the shoulder of the man in front of him.<br>
+							<br>
+							
+						GEORGE: Excuse me, do you have a ticket?<br>
+							<br>
+							
+						MAN: No.<br>
+							<br>
+							
+						GEORGE: Okay. Good.<br>
+							<br>
+												% Misunderstanding number one: When Jerry shows up at the other comedy place, the manager tells him his spot was for 9:15, not 9:50. The manager had no choice but to give Jerry's spot to...<br>
+							<br>
+							
+						BUCKLES: Jerry!<br>
+							<br>
+							
+						JERRY: What are &lt;you&gt; doing here?<br>
+							<br>
+							
+						BUCKLES: Hey, do you think this is funny? ``Why do they call it athlete's foot? You don't have to be an athlete to get it. I mean, my father gets it all the time, and believe me, he's no athlete!''<br>
+							<br>
+												% And you're no Jack Kennedy. Jerry is understandably unimpressed. He tries to escape, but Buckles won't let him. Jerry is on his way to the theater to tell his friends he can't make it, then back to the Improv. Buckles offers to join him and split the fare. ``I've got time! It'll give us a chance to know each other a little better!'' Elaine joins George in the queue.<br>
+							<br>
+							
+						ELAINE: I've been *dying* to see ``CheckMate''.<br>
+							<br>
+							
+						GEORGE: Well, if it's as good as ``Ponce de Leon'', I'll be happy.<br>
+							<br>
+							
+						ELAINE: ``Ponce de Leon'', are you kidding me? I hated that movie!<br>
+							<br>
+							
+						GEORGE: ``Ponce de Leon''? But that was great!<br>
+							<br>
+							
+						ELAINE: Oh, &lt;come on&gt;. That Fountain of Youth scene at the end, where they're all splashin' around, and then they go running over to the mirror to see if it really worked? I mean, come on! [laughing too hard to continue] That's stupid!<br>
+							<br>
+							
+						GEORGE: Lemme tell you sum'in. When Ponce looked in that mirror and saw that he hadn't changed, and that tear started to roll down his cheek? ... I lost it.<br>
+							<br>
+												% Apparently, a movie that can be interpreted on two levels. Misunderstanding number two: Kramer joins George and Elaine after looking for them at the Paradise Twin around the corner. Elaine hates the Paradise because it's a multiplex; she'd rather see a movie on a big screen. Something catches Kramer's eye.<br>
+							<br>
+							
+						KRAMER: Listen, I'm gonna get a hot dog at Payapa King.<br>
+							<br>
+							
+						GEORGE &amp; ELAINE: No, wait!<br>
+							<br>
+							
+						GEORGE: You're not going to get back here in time!<br>
+							<br>
+							
+						KRAMER: I'm starvin', I haven't had any dinner!<br>
+							<br>
+							
+						ELAINE: You can get a hot dog in the theater.<br>
+							<br>
+							
+						KRAMER: I don't wanna get a movie hot dog! [in tears] I want a Papaya King hot dog!<br>
+							<br>
+							
+						ELAINE: Kramer, Jerry is going to be here any second, and then this line is going to start moving, and we're going to end up in the front row.<br>
+							<br>
+							
+						KRAMER: Well, just save me a seat.<br>
+							<br>
+												% This touches a raw nerve.<br>
+							<br>
+							
+						ELAINE: No! I don't want to save seats. Don't put me through that! I once had the fleece just ripped out of my winter coat in a seat-saving incident!<br>
+							<br>
+												% Kramer just asks for his ticket, but George doesn't have them.<br>
+							<br>
+							
+						GEORGE: I'm in line to buy.<br>
+							<br>
+							
+						ELAINE: No, George, this is the ticket-&lt;holders&gt; line.<br>
+							<br>
+							
+						GEORGE: No it's not, it's the ticket-&lt;buyers&gt; line.<br>
+							<br>
+							
+						ELAINE: Then how come we're not moving?<br>
+							<br>
+							
+						KRAMER: Good question.<br>
+							<br>
+												% George addresses the man in front of him.<br>
+							<br>
+							
+						GEORGE: Is this the ticket holders line, or the buyers?<br>
+							<br>
+												% George gloats, knowing what the answer is going to be.<br>
+							<br>
+							
+						MAN: Holders.<br>
+							<br>
+												% Instant double-take.<br>
+							<br>
+							
+						GEORGE: But I asked you before if you had a ticket, and you said no!<br>
+							<br>
+							
+						MAN: I didn't. My friend was getting it.<br>
+							<br>
+							
+						GEORGE: [furious] Good. It's good to be accurate like that.<br>
+							<br>
+												% Misunderstanding number three. George goes to get tickets, leaving Elaine and Kramer to talk behind his back.<br>
+							<br>
+							
+						ELAINE: Can you believe him?<br>
+							<br>
+							
+						KRAMER: He's spaced out.<br>
+							<br>
+												% Let him who is without sin, Kramer.<br>
+							<br>
+							
+						ELAINE: How long would *you* have stood in the ticket-holders line?<br>
+							<br>
+							
+						KRAMER: [thinks for a while]<br>
+							<br>
+							
+						ELAINE: [gives up] Yeah, exactly...<br>
+							<br>
+												% The movie has sold out. ``Real good, George. Real good.'' It's now 10:20, and Kramer suggests they go watch the 10:45 showing of &quot;CheckMate&quot; at the Paradise. Elaine enters whine mode.<br>
+							<br>
+							
+						ELAINE: I don't wanna go to a... miniplex multi-theater!<br>
+							<br>
+							
+						GEORGE: It's the same movie! What's the difference?<br>
+							<br>
+							
+						ELAINE: It's not a theater, it's like a room where they bring in POWs to show them propaganda films.<br>
+							<br>
+												% But she gives in. New plan. George and Elaine will get tickets at the Paradise, while Kramer waits at the Paragon to tell Jerry of the change in plans. But Kramer can't keep his eye off the Papaya King sign, flashing, beckoning, practically begging... Jerry suffers through Buckles' telling of his life story in the taxi.<br>
+							<br>
+							
+						JERRY: [to taxi driver] Take the Park!<br>
+							<br>
+							
+						BUCKLES: No no no, take 55th.<br>
+							<br>
+												% Jerry can't stand it. Buckles somehow drifted onto the subject of fish and how much he hates it.<br>
+							<br>
+							
+						BUCKLES: Jerry, I want you to do me a favor. No more fish!<br>
+							<br>
+							
+						JERRY: [rubbing his eyes hoping the nightmare will end] Okay, I get your point!<br>
+							<br>
+							
+						BUCKLES: I had a point?<br>
+							<br>
+												% At the Paradise, George succeeds in obtaining the tickets, and he joins Elaine in the ticket-holders line. (Right?)<br>
+							<br>
+							
+						GEORGE: Hey, you know what else is playing here? ``Rochelle Rochelle''.<br>
+							<br>
+							
+						ELAINE: Sigh/Ugh.<br>
+							<br>
+							
+						GEORGE: I wouldn't mind seein' &lt;that&gt;.<br>
+							<br>
+							
+						ELAINE: Yeah. You know, men can sit through the most boring movie if there's even the slightest possibility that a woman will take her top off.<br>
+							<br>
+							
+						GEORGE: So what's your point?<br>
+							<br>
+												% Yeah, what's your point?<br>
+							<br>
+							
+						GEORGE: By the way, you owe me seven fifty.<br>
+							<br>
+							
+						ELAINE: Oh, all right. Can you break a twenty?<br>
+							<br>
+							
+						GEORGE: No, I don't have any change.<br>
+							<br>
+							
+						ELAINE: Oh, well, then I'll pay you later.<br>
+							<br>
+							
+						GEORGE: Or, I could take the twenty, then I could pay *you* later.<br>
+							<br>
+							
+						ELAINE: Yeah, you *could*...<br>
+							<br>
+							
+						GEORGE: Might be easier.<br>
+							<br>
+							
+						ELAINE: I mean, how is that easier? I mean, then you would owe me twelve fifty instead of me owing you seven fifty.<br>
+							<br>
+							
+						GEORGE: [trying to act as if he doesn't care one way or the other, but we know better] Either way.<br>
+							<br>
+							
+						ELAINE: Yeah.<br>
+							<br>
+							
+						GEORGE: So... Can I have it?<br>
+							<br>
+							
+						ELAINE: I tell you what, I'll get the popcorn and the soda.<br>
+							<br>
+							
+						GEORGE: Whaddya mean, you'll ``get'' the popcorn and the soda?<br>
+							<br>
+							
+						ELAINE: I will buy your popcorn and soda. We'll call it even.<br>
+							<br>
+							
+						GEORGE: I tell you what, you give me the twenty, and I will buy *you* a popcorn and soda, and I'll throw in a bon-bons.<br>
+							<br>
+							
+						ELAINE: [exasperated] George, you're sappin' my strength.<br>
+							<br>
+												% The line begins to move. George offers to wait outside for K+J.<br>
+							<br>
+							
+						GEORGE: You go in and save seats.<br>
+							<br>
+							
+						ELAINE: [in a panic] Me!? But that's three seats! I can't save three seats! I told you about that guy who tore up my winter coat!<br>
+							<br>
+												% With extreme reluctance, Elaine goes on ahead to save seats.<br>
+							<br>
+												% The taxi is stuck in traffic. Jerry bawls out Buckles for choosing 55th on a Saturday night. Buckles considers how various famous people would react to be stuck in traffic, using Jerry as an unwilling guinea pig for his material.<br>
+							<br>
+							
+						BUCKLES: Jerry, I want you to have this piece of material.<br>
+							<br>
+							
+						JERRY: That's very nice of you, but I can't do the voices.<br>
+							<br>
+							
+						BUCKLES: Jerry! Don't start up with me!<br>
+							<br>
+							
+						JERRY: I gotta get out of this cab...<br>
+							<br>
+							
+						BUCKLES: But Jerry, quit riffing!<br>
+							<br>
+							
+						JERRY: No, I'm not riffing. I'm ignoring! Do you understand the difference?<br>
+							<br>
+							
+						BUCKLES: [pause] Can you help me get on The Tonight Show?<br>
+							<br>
+												% Apparently, not.<br>
+							<br>
+							
+						[Elaine does her best to save three seats.]<br>
+							<br>
+							
+						ELAINE: No, these are saved.<br>
+							<br>
+							
+						MAN: All of them? C'mon, you can't take *four* seats.<br>
+							<br>
+							
+						ELAINE: What, is that a rule?<br>
+							<br>
+												% George comes in; J+K haven't appeared. Elaine sends George to the Paragon to give Kramer his and Jerry's tickets. Throughout the conversation, Elaine fends off would-be claim-jumpers.<br>
+							<br>
+							
+						GEORGE: Well, why don't *you* go, and I could save the seats. You said you didn't like saving anyway.<br>
+							<br>
+							
+						ELAINE: [stopping someone from sitting in the seat next to her] No, *TAKEN*, Taken, taken. [to George] [shrugs] I'm getting the hang of it.<br>
+							<br>
+												% George returns to one of his favorite topics.<br>
+							<br>
+							
+						GEORGE: Why don't you give me the twenty, and I'll stop and get change, and then you and I can... uh... you-know, settle.<br>
+							<br>
+							
+						ELAINE: Can we do this later, George?<br>
+							<br>
+							
+						GEORGE: Psh. What's the point of even discussing it? [condescendingly takes her hand and pats it] You'll give me the money when you have it. [takes two steps, then reconsiders, then re-reconsiders] I, I trust you.<br>
+							<br>
+												% Kramer stands, mesmerized by the sign that reads, ``100% pure fresh beef. Tastier than Filet Mignon.'' He rushes to the ticket booth.<br>
+							<br>
+							
+						KRAMER: Could you do me a favor? If you see a guy that's five foot eleven, he's got uh a big head and flared nostrils, tell him his friend's going to be right back, okay?<br>
+							<br>
+												% Elaine is accosted from all sides.<br>
+							<br>
+							
+						ELAINE: No, I'm sorry, these are taken. ... They're in the lobby buying popcorn. ... What are you doing? These are taken, these are taken!<br>
+							<br>
+							
+						WOMAN: Which one?<br>
+							<br>
+							
+						ELAINE: These two and this one. ... No! Don't come over here! These are taken. Go! Go! These are taken! They're taken! THEY'RE TAKEN!!!<br>
+							<br>
+												% She can't take it any longer.<br>
+							<br>
+							
+						ELAINE: Oh, take 'em.<br>
+							<br>
+												% George reaches the ticket booth of the Paragon.<br>
+							<br>
+							
+						GEORGE: Um, excuse me, have you see a guy with like a horse face, big teeth, and a, and a pointed nose?<br>
+							<br>
+							
+						CLERK: ... flared nostrils?<br>
+							<br>
+							
+						GEORGE: Yeah.<br>
+							<br>
+							
+						CLERK: Nope, haven't seen him.<br>
+							<br>
+												% George leaves, unsuccessful.<br>
+							<br>
+							
+						[Jerry gets out of the cab in front of the Paragon.]<br>
+							<br>
+							
+						BUCKLES: Jerry, could you do me a personal favor? And if I'm out of line, *please*, let me know. Could I keep my trench coat in your closet for a few months?<br>
+							<br>
+							
+						JERRY: Your trench coat in my closet?<br>
+							<br>
+												% It's not like he's asking for a ride to the airport or anything.<br>
+							<br>
+							
+						BUCKLES: Jerry, my closet is packed to the gills, I'm afraid to open the door. Just for a few months. It'll make all the difference in the world.<br>
+							<br>
+												% Jerry sanely declines. Jerry doesn't see any of his friends, so he figures they're inside. He'll go in to tell them he can't join them.<br>
+							<br>
+							
+						BUCKLES: We should see ``Rochelle Rochelle''. I hear it's really hot.<br>
+							<br>
+							
+						JERRY: No thanks, maybe some other time.<br>
+							<br>
+							
+						BUCKLES: Really? Do you really mean that?<br>
+							<br>
+							
+						JERRY: No, I don't.<br>
+							<br>
+												% Brutal honesty once again saves the day.<br>
+							<br>
+							
+						BUCKLES: You liked the athlete's foot bit, right?<br>
+							<br>
+							
+						JERRY: No. No. I was kidding. It's terrible.<br>
+							<br>
+												% Jerry pays his half of the fare then approaches the entrance to the Paragon.<br>
+							<br>
+							
+						JERRY: Hi, I got some friends inside, I gotta get a message to 'em. Mind if I walk through real quick?<br>
+							<br>
+							
+						USHER: [indicates ``okay'']<br>
+							<br>
+												% Just after Jerry goes inside, Kramer clomps to the ticket booth at warp speed, clutching a precious Papaya King hot dog in his hand.<br>
+							<br>
+							
+						KRAMER: Hey, did that guy show up?<br>
+							<br>
+							
+						CLERK: The guy with the... horse face... and the big teeth...<br>
+							<br>
+							
+						KRAMER: No, the guy with the big head and the flared nostrils.<br>
+							<br>
+							
+						CLERK: Haven't seen him. There was a short guy with glasses... Looked like Humpty-Dumpty with a melon hat. But he left.<br>
+							<br>
+												% Behind Elaine, a women chats loudly with her friend.<br>
+							<br>
+							
+						WOMAN: So I got home, and he was vacuuming! I mean, he's twelve years old! Who else but my Alan would do something like that?<br>
+							<br>
+							
+						WOMAN: And then last night, he put on my high heels. Oh, he put on such a show for us! He was dancing around, lip-sync'ing to ``A Chorus Line'', I mean you can see he's got talent.<br>
+							<br>
+							
+						ELAINE: [annoyed] Excuse me, excuse me.<br>
+							<br>
+							
+						WOMAN: What's the problem?<br>
+							<br>
+							
+						ELAINE: [momentarily shocked, as if the answer were self-evident] You're talking.<br>
+							<br>
+							
+						WOMAN: It's the ``Coming Attractions''.<br>
+							<br>
+												% Elaine collects her things and leaves.<br>
+							<br>
+							
+						WOMAN: So anyway, he sings, he dances. And do you know what he's gotten into now? He is cooking! He does a crepe...<br>
+							<br>
+												% At the entrance to the Paradise Twin, George is stopped by the usher.<br>
+							<br>
+							
+						USHER: Ticket, sir?<br>
+							<br>
+							
+						GEORGE: Uh, I just went out, I went to look for my friend?<br>
+							<br>
+							
+						USHER: Do you have your stub?<br>
+							<br>
+							
+						GEORGE: [as if the word were totally foreign] My `stub'?<br>
+							<br>
+							
+						USHER: Mm hm.<br>
+							<br>
+												% George sifts through his pockets, going on about how he never needed a stub before.<br>
+							<br>
+							
+						GEORGE: You don't remember me?<br>
+							<br>
+							
+						USHER: It's a big city, sir.<br>
+							<br>
+							
+						GEORGE: I went in with a pretty woman? You know, kinda short, big wall o' hair, face like a frying pan?<br>
+							<br>
+												% Unable to find his stub, George gives him Kramer's ticket. The ticket-taker tears the ticket and gives George the stub. George goes into the ``CheckMate'' theater just as Elaine leaves it through the other door. Like two dips, passing in the night.<br>
+							<br>
+							
+						GEORGE: [whispering] Elaine? [loud whisper] Elaine! [louder whisper] Elaine!<br>
+							<br>
+												% Various movie patrons tell George to shut up.<br>
+							<br>
+							
+						GEORGE: [quite out loud, not even pretending to whisper] Elaine!<br>
+							<br>
+												% He is quickly shouted down, making his escape through the exit. The exit to the street.<br>
+							<br>
+							
+						[In the theater at the Paragon, Jerry whispers ``Elaine'' and, hearing no response, gives up.]<br>
+							<br>
+							
+						NARRATOR: The Village Voice calls it a masterpiece. A young woman's strange, erotic journey from Milan to Minsk.<br>
+							<br>
+												% Something about this preview attracts Jerry's attention. Not sure exactly what, though...<br>
+							<br>
+							
+						NARRATOR: It's a story about life. And love. And becoming a woman. ``Rochelle Rochelle'', now playing at Paradise 2.<br>
+							<br>
+												%Meanwhile, Kramer gives up waiting outside the Paragon. Seconds thereafter, Jerry rushes out of the theater and hails a cab. Or tries to.<br>
+							<br>
+							
+						[Elaine reaches the concessions stand and has to deal with the perky clerk.]<br>
+							<br>
+							
+						ELAINE: Uh, could I have a medium Diet Coke?<br>
+							<br>
+							
+						CLERK: Do you want the Medium size or the middle size?<br>
+							<br>
+							
+						ELAINE: What's the difference?<br>
+							<br>
+							
+						CLERK: Well, we have three sizes. Medium, Large, and Jumbo.<br>
+							<br>
+							
+						ELAINE: [momentarily perplexed] What happened to the small?<br>
+							<br>
+							
+						CLERK: There is no small. Small is Medium.<br>
+							<br>
+							
+						ELAINE: What's... medium?<br>
+							<br>
+							
+						CLERK: Medium is Large, and large is Jumbo.<br>
+							<br>
+							
+						ELAINE: Oh-kay. Gimme the large.<br>
+							<br>
+							
+						CLERK: That's medium.<br>
+							<br>
+							
+						ELAINE: Right. Yeah. [fearing the answer] Could I have a small popcorn?<br>
+							<br>
+							
+						CLERK: There is no small. [flash of perky inspiration] Child-size is small.<br>
+							<br>
+							
+						ELAINE: What's `medium'?<br>
+							<br>
+							
+						CLERK: Adult.<br>
+							<br>
+							
+						ELAINE: Do adults ever order the child-size?<br>
+							<br>
+							
+						CLERK: [chuckling] Not usually.<br>
+							<br>
+							
+						ELAINE: [laughs appreciably] Okay, gimme the `adult'.<br>
+							<br>
+							
+						CLERK: Do you want butter?<br>
+							<br>
+							
+						ELAINE: Is it *real* butter?<br>
+							<br>
+							
+						CLERK: [perkily] It's butter-*flavored*!<br>
+							<br>
+							
+						ELAINE: [exasperated] What is it made of?<br>
+							<br>
+							
+						CLERK: [perkily] It's yellow!<br>
+							<br>
+												% Leaving the inanities of modern marketing aside, we switch to Jerry, still outside trying to hail a cab. He finally gets one. The driver speaks with a Russian accent.<br>
+							<br>
+							
+						JERRY: 44th and 9th.<br>
+							<br>
+							
+						DRIVER: Have you got a cigarette?<br>
+							<br>
+							
+						JERRY: No.<br>
+							<br>
+												% George once again tries to get past the ticket-taker.<br>
+							<br>
+							
+						USHER: Ticket, sir?<br>
+							<br>
+							
+						GEORGE: We've just been through this! You don't remember? We just had this exact same conversation a minute ago!<br>
+							<br>
+							
+						USHER: I need to see your stub.<br>
+							<br>
+							
+						GEORGE: [realizing the only way out is to show the stub] I've got the stub.<br>
+							<br>
+												% George empties his pockets in a quest for a ticket stub. No dice.<br>
+							<br>
+							
+						GEORGE: There you go, okay? That's my *other* friend's ticket. You happy now? You got two tickets.<br>
+							<br>
+												% George goes past the concessions stand, not seeing Elaine, who is searching her pocketbook for change to pay for her popcorn and drink.<br>
+							<br>
+							
+						USHER: Ticket, sir?<br>
+							<br>
+							
+						KRAMER: Uh, no, see, my friend already bought me a ticket. I'm late, and she's inside.<br>
+							<br>
+							
+						USHER: Go ahead.<br>
+							<br>
+												% George dwells at the ``Rochelle Rochelle'' sign for what must be the 5th time this episode. Kramer heads straight into the theater.<br>
+							<br>
+							
+						KRAMER: Is that seat taken?<br>
+							<br>
+							
+						Woman Behind ELAINE: It's all yours.<br>
+							<br>
+												% Kramer lankily stumbles into the seat, but finds the fit uncomfortable.<br>
+							<br>
+							
+						Driver: I'm very sorry, you give me few minutes. I have to stop for gasoline.<br>
+							<br>
+							
+						JERRY: Gasoline? Can't you get it after you drop me off?<br>
+							<br>
+							
+						DRIVER: [taken aback] No! Impossible! It is on `Empty'!<br>
+							<br>
+												% Jerry nervously glances at his watch.<br>
+							<br>
+							
+						(Elaine returns to the theater, arms laden with popcorn and soda, trying to find her seat. Various patrons tell her to sit down already. She is finally shouted down and pushed out of the aisle, causing her to spill most of her popcorn in the process. George sits in a half-empty theater watching ``Rochelle Rochelle''. Not a female audience member in sight.)<br>
+							<br>
+							
+						MAN: You're soaking wet. Who are you?<br>
+							<br>
+							
+						ROCHELLE: My name is Rochelle, I'm from Milan. I'm supposed to visit my relatives in Minsk.<br>
+							<br>
+							
+						MAN: Here, stand by the fire. Take off those wet clothes, you'll catch cold.<br>
+							<br>
+							
+						ROCHELLE: Oh, my hand's so cold, I can barely get these buttons open.<br>
+							<br>
+												% George is clearly waiting to see Rochelle's other buttons.<br>
+							<br>
+							
+						ROCHELLE: Oh, that's much better. Much...<br>
+							<br>
+							
+						(A tall man sits down in front of George, blocking his view of Rochelle's Christmas cards. Elaine stumbles to the ticket-taker, trying to shake popcorn out of her hair.)<br>
+							<br>
+							
+						ELAINE: I just went to get popcorn... Ugh... [shakes more popcorn] I just went to get popcorn, okay? And and and somebody took my seat, and my coat is in there!<br>
+							<br>
+							
+						USHER: There's a seat in the front row.<br>
+							<br>
+							
+						ELAINE: No no, I can't sit in the front row.<br>
+							<br>
+							
+						USHER: Well, you're going to have to wait, then.<br>
+							<br>
+							
+						ELAINE: I can't stand around here for *two hours*!<br>
+							<br>
+							
+						USHER: I could let you see ``Rochelle Rochelle''.<br>
+							<br>
+							
+						ELAINE: [heavy sarcasm] Oh. Thanks.<br>
+							<br>
+												% Elaine plods off, then realizes she had something else to say.<br>
+							<br>
+							
+						ELAINE: Oh, hey, listen, by the way, have you seen a tall... lanky... doofus, with a, with a bird-face and hair like the Bride of Frankenstein?<br>
+							<br>
+							
+						USHER: Haven't seen him.<br>
+							<br>
+												% Meanwhile, at a service station, the taxi driver assures Jerry that they will be leaving very soon. He'll just go across the street to buy a cigarette.<br>
+							<br>
+												% From his pocket, Kramer digs into his treasured Papaya King hot dog. Then discovers the source of his discomfort: He's sitting on a coat.<br>
+							<br>
+							
+						JERRY: Hey, did I make it?<br>
+							<br>
+							
+						KERNIS: Sorry.<br>
+							<br>
+							
+						JERRY: Oh, great. That's great. What a night.<br>
+							<br>
+												% Off-screen, we hear appreciative applause.<br>
+							<br>
+							
+						ANNOUNCER: Pat Buckles, ladies and gentlemen. Another round of applause for Pat Buckles!<br>
+							<br>
+												% Jerry spots Buckles.<br>
+							<br>
+							
+						JERRY: You got my spot?<br>
+							<br>
+							
+						BUCKLES: That athlete's foot bit killed!<br>
+							<br>
+							
+						JERRY: Really...<br>
+							<br>
+							
+						BUCKLES: Do you think I need to lose some weight?<br>
+							<br>
+							
+						JERRY: Weight? Naw. Just need some more height.<br>
+							<br>
+							
+						JERRY: My whole night's ruined. I didn't do any sets, didn't do any movies...<br>
+							<br>
+							
+						BUCKLES: Come on, we can still catch most of ``Rochelle Rochelle''.<br>
+							<br>
+							
+						JERRY: ``Rochelle Rochelle'', huh?<br>
+							<br>
+							
+						BUCKLES: A young girl's strange, erotic journey from Milan to Minsk.<br>
+							<br>
+							
+						JERRY: [his interest piqued] Minsk?<br>
+							<br>
+												% George and Elaine watch ``Rochelle Rochelle'' in different parts of the theater. Also there are Jerry and Buckles. George and Buckles seem to be enjoying the movie; Jerry and Elaine can't deal with it.<br>
+							<br>
+							
+						ELAINE: Oh, gimme a break!<br>
+							<br>
+												% George turns, as does Jerry.<br>
+							<br>
+							
+						JERRY: Elaine?<br>
+							<br>
+												% Elaine's face lights up.<br>
+							<br>
+							
+						ELAINE: Jerry!<br>
+							<br>
+							
+						JERRY: Elaine!<br>
+							<br>
+							
+						VOICE: [whispered] Shut up.<br>
+							<br>
+							
+						GEORGE: Jerry?<br>
+							<br>
+							
+						JERRY: George?<br>
+							<br>
+							
+						GEORGE: Elaine?<br>
+							<br>
+							
+						ELAINE: George! [waves hi]<br>
+							<br>
+												% Another prized Seinfeld moment, soon to be copycatted around the country.<br>
+							<br>
+							
+						JERRY: Hey, where's Kramer?<br>
+							<br>
+							
+						VOICE: [whispered] Will you shut up?<br>
+							<br>
+							
+						ELAINE: I don't know. Does this movie stink or what!<br>
+							<br>
+							
+						JERRY: Let's get outta here. [to Buckles] I'll see ya.<br>
+							<br>
+							
+						BUCKLES: You're leaving?<br>
+							<br>
+							
+						JERRY: Yeah.<br>
+							<br>
+												% The music from the movie continues over the next, heart-rending scene...<br>
+							<br>
+							
+						BUCKLES: [holding out his coat] Jerry, take the coat. Please. One month.<br>
+							<br>
+							
+						JERRY: I don't want the coat.<br>
+							<br>
+							
+						BUCKLES: Jerry! Call me when you get home so I know you're okay!<br>
+							<br>
+												% Jerry, Elaine, and George fill each other in on their respective miseries out in the lobby.<br>
+							<br>
+							
+						GEORGE: [studying his jacket] Oh man! Look at this! I sat in gum. Oh, by the way, you owe me seven fifty.<br>
+							<br>
+							
+						JERRY: I didn't even use the ticket!<br>
+							<br>
+							
+						GEORGE: I still paid for it!<br>
+							<br>
+												% Kramer wanders out of ``CheckMate'', his newly-found coat draped casually over his shoulders. Jerry looks through his wallet.<br>
+							<br>
+							
+						JERRY: I only have a twenty.<br>
+							<br>
+							
+						ELAINE: That's my coat! Gimme that. Where did you get that?<br>
+							<br>
+							
+						KRAMER: It was on the seat...<br>
+							<br>
+							
+						ELAINE: *YOU* took my seat!?<br>
+							<br>
+							
+						GEORGE: You uh owe me for the ticket.<br>
+							<br>
+							
+						KRAMER: Yeah, right...<br>
+							<br>
+							
+						ELAINE: What is that stain [on my coat]?<br>
+							<br>
+							
+						KRAMER: It's yellow mustard. [To George] Can you break a twenty?<br>
+							<br>
+							<br>
+							
+						[Closing Monologue]<br>
+							<br>
+							
+						I always get confused in the movie theater by the, by the plot. It's embarrassing. It's an embarrassment to have to admit, but I'm the one that you see in the parking lot after the movie talking with his friends, going: ``Oh, you mean that was the same guy from the &lt;beginning&gt;... Ohhhhhhhhhh...'' Nobody will explain it to you. When you're in the theater, you can't find out. [whispering to imaginary friends seated around him] ``Why did they kill that guy?... Why did they kill him?... Who was that guy? What was the... I thought he was with them? Wasn't he with them? Why would they kill him if he was with them? Oh, he wasn't *really* with them.... I thought he was with them. It's a good thing they killed him.''<br>
+							<br>
+							<br>
+							
+						The End</td>
+						</tr>
+						<tr height="6">
+							<td class="bottom2" width="645" height="6"></td>
+						</tr>
+						<tr>
+							<td width="645">
+								<div align="center">
+									<font size="-1">Copyright 2006 seinology.com | All Rights Reserved | Designed by 13erla</font></div>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+		<p></p>
+	</body>
+
+</html>

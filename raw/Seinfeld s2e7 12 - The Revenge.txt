@@ -1,0 +1,1173 @@
+<tdOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+<html>
+
+	<head>
+		<meta http-equiv="content-type" content="text/html;charset=ISO-8859-1">
+		<meta name="description" content="Top Source for Seinfeld">
+		<meta name="keywords" content="seinfeld, sienfeld, Jerry Seinfeld, Julia Louis Dreyfus, Jason Alexander, Michael Richards, Kramer, George, Costanza, Elaine Benes, morty, Larry David">
+		<title>Seinology.com :: Scripts :: 12-The Revenge</title>
+	<link rel='stylesheet' href='/stylesheet.css' type='text/css'>
+	</head>
+
+	<body>
+			<table align="center" width="787" border="0" cellspacing="0" cellpadding="0">
+				<tr>
+					<td><font size="-2" color="red">Seinology.com - </font><font size="-3" color="black">Where Seinfeld Content and Accuracy Matter Most. Seinfeld scripts in pdf form, Seinfeld episode video clips, Seinfeld episode audio clips, Jerry Seinfeld appearances, Julia Louis-Dreyfus appearances, Michael Richards appearances, Jason Alexander appearances, Seinfeld discussion Forum, Seinfeld Where are they Now? Seinlanguage Newsletter, Popular Seinfeld Lists, Seinfeld episode standup, Seinfeld episode guide, Seinfeld fan fiction. Seinfeld content all on one domain. Seinology.com enjoy your stay.</font></td>
+				</tr>
+			</table>
+		
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr height="100">
+				<td class="logo"></td>
+			</tr>
+			<tr><td class="ads" align="center" background=#8694fa>
+				<script type="text/javascript"><!--
+google_ad_client = "pub-1924026976931416";
+google_ad_width = 728;
+google_ad_height = 90;
+google_ad_format = "728x90_as";
+google_ad_type = "text";
+google_ad_channel = "";
+google_color_border = "FFFFFF";
+google_color_bg = "8694fa";
+google_color_link = "0000FF";
+google_color_text = "000000";
+google_color_url = "002E3F";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></td></tr>
+		</table>
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr>
+				<td valign="top" width="136">
+					<table width="136" border="0" cellspacing="0" cellpadding="0">
+						<tr height="24">
+							<td class="navigation">
+								<div align="center">
+									
+									<b>Navigation</b></div>
+							</td>
+						</tr>
+						<tr height="199">
+							<td class="spacer1" valign="top" width="136" height="199">
+								<div align="center">
+									<font size="-1"><a href="http://www.seinology.com">Home</a><br>
+										<a href="http://board.seinology.com">Forum</a><br>
+										<a href="http://www.seinology.com/av.shtml">Audio/Video</a><br>
+										<a href="http://www.seinology.com/scripts.shtml">Scripts</a><br>
+										<a href="http://www.seinology.com/survivor.shtml">Survivor</a><br>
+										<a href="http://www.seinology.com/fanfics.shtml">Fan Fiction</a><br>
+										<a href="http://www.seinology.com/gallery/">Gallery</a><br>
+										<a href="http://www.seinology.com/newsletter.shtml">Newsletter</a><br>
+										<a href="http://www.seinology.com/lists.shtml">Lists</a><br>
+										<a href="http://www.seinology.com/epguide.shtml">Episode Guide</a><br>
+										<a href="http://www.seinology.com/links.shtml">Links</a><br>
+										<a href="http://www.seinology.com/faqother.shtml">Faq + others</a><br>
+										<a href="http://www.seinology.com/legal.shtml">Legal</a></font></div>
+							</td>
+						</tr>
+						
+						<tr>
+							<td class="nav2" width="136">
+							<div align="center"><b>Search</b></div></td>
+						</tr>
+						<tr>
+							<td class="spacer1" width="136" valign="top"><div align="center"><form method="get" action="http://www.seinology.com/search/search.cgi">
+<p><label for="fdse_Match">Match</label><br>
+<select name="Match" id="fdse_Match" size="1">
+<option value="1">All</option>
+<option value="0">Any</option>
+<option value="2">Phrase</option>
+</select></p>
+<p><label for="fdse_Realm">Where?</label><br>
+<select name="Realm" id="fdse_Realm" size="1">
+<option selected="selected" value="All">EntireSite</option>
+<option value="Ep Guide">Ep Guide</option>
+<option value="Images">Images</option>
+<option value="Lists">Lists</option>
+<option value="Newsletters">Newsletters</option>
+<option value="Scripts">Scripts</option>
+<option value="Notes..Nothing">Notes..Nothing</option>
+</select></p>
+<p><input type="text" name="Terms" size="14" id="fdse_Terms"><br>
+<input type="submit" class="submit" name="submitButtonName" value="Search"></p>
+</div></form></td>
+						</tr>
+						<tr><td class="bottom" width="136" height="10" valign="top">
+						</td>
+						</tr>
+					</table>
+				</td>
+				<td width="4"></td>
+				<td valign="top" width="645">
+					<table width="645" border="0" cellspacing="0" cellpadding="0">
+						<tr height="18">
+							<td width="645" height="35" class="bar">
+								<div align="center">
+									<b><font size="+2" color="black">Script</font></b></div>
+							</td>
+						</tr>
+						<tr height="362">
+							<td class="spacer2" valign="top" width="645" height="362">
+
+						<p><font size="-2">Episode 12 - The Revenge<br>
+							
+						pc: 212, season 2, episode 7<br>
+							
+						Broadcast date: April 18, 1991<br>
+							<br>
+							
+						Written By Larry David<br>
+							
+						Directed By Tom Cherones<br>
+							<br>
+							
+						-------------------------------------------------------------------------------<br>
+							<br>
+							
+						The Cast<br>
+							
+						Regulars:<br>
+							
+						Jerry Seinfeld ....................... Jerry Seinfeld<br>
+							
+						Jason Alexander .................. George Costanza<br>
+							
+						Julia Louis-Dreyfus ............. Elaine Benes<br>
+							
+						Michael Richards ................. Kramer<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						Guest Stars:<br>
+							
+						Fred Applegate ................. Levitan<br>
+							
+						John Capodice .................. Vic<br>
+							
+						Teri Austin ........................ Ava<br>
+							
+						Patrika Darbo ................... Glenda<br>
+							
+						Marcus Smythe ................ Dan<br>
+							
+						John Hillner....................... Greeny<br>
+							
+						Deck McKenzie.................. Bill<br>
+							
+						Larry David.........................Voice of Newman (uncredited)<br>
+							
+						rc: Newman....................... (uncredited voice only in syndicated reruns (see note)<br>
+							<br>
+							
+						==================================================================<br>
+							<br>
+							
+						[Opening Monologue]<br>
+							<br>
+							
+						JERRY: Whenever I see the news and they're hauling in some kind of terrorist, psycho, maniac, mass murderer guy. You notice he's always covering up his face with the newspaper, with the jacket, with the hat. What is he worried about? I mean what is this man's reputation? That he has to worry about this kind of exposure damaging his good name? I mean, what is he up for a big job promotion down at the office or something? Afraid the boss is gonna catch this on TV and go &quot;isn't that Johnson from sales? He's up in that clock tower picking people off one by one. I don't know if that's that kind of man we want heading up that new branch office. He should be in bill collection. I think he's got aptitude.&quot; <br>
+							<br>
+							<br>
+							<br>
+							
+						[Office complex; Levitan's office]<br>
+							<br>
+							
+						LEVITAN: (on the phone) Ha ha, she was great. You don't want to know. Hey Breaky, remind me to tell you what we did in Lake George. (laughing) Get this...I got it all on video. (laughing) <br>
+							<br>
+							
+						(George bursts into the office)<br>
+							<br>
+							
+						GEORGE: That's it. This is it. I'm done. Through. It's over. I'm gone. Finished. Over. I will never work for you again. Look at you. (laughing) You think you're an important man? Is that what you think? You are a laughingstock. You are a joke. These people are laughing at you. You're nothing! You have no brains, no ability, nothing! (knocking object over on desk) I quit! <br>
+							<br>
+							<br>
+							<br>
+							
+						[Jerry's Apartment]<br>
+							<br>
+							
+						(Jerry exits his bedroom with a bag of laundry; Kramer enters)<br>
+							<br>
+							
+						KRAMER: Hey. <br>
+							<br>
+							
+						JERRY: Hey. <br>
+							<br>
+							
+						KRAMER: Boy, I have really had it with Newman. He wakes me up again last night at three o'clock in the morning to tell me he's going up onto the roof to kill himself. <br>
+							<br>
+							
+						JERRY: Well, what'd you say? <br>
+							<br>
+							
+						KRAMER: I said &quot; Jump.&quot; Well, he's been threatening to do this for years. I said &quot; Look, if you're gonna kill yourself do it already and stop bothering me.&quot; At least I'd respect the guy for accomplishing something. <br>
+							<br>
+							
+						JERRY: What's his problem? <br>
+							<br>
+							
+						KRAMER: No job. No women. <br>
+							<br>
+							
+						JERRY: He called the right guy. <br>
+							<br>
+							
+						KRAMER: Well, what am I supposed to tell him? How much there is for him to live for? Why should I lie to him? <br>
+							<br>
+							
+						JERRY: All right, I'm leaving. I going to the laundry. <br>
+							<br>
+							
+						KRAMER: Why don't you use the machines down in the basement? <br>
+							<br>
+							
+						JERRY: Fluff and Fold. The only way to live. (snapping fingers in tune with words) I drop it off. I pick it up. It's a delight. <br>
+							<br>
+							
+						KRAMER: How 'bout if I put a few things -- <br>
+							<br>
+							
+						JERRY: Wait a sec. I don't wanna do -- <br>
+							<br>
+							
+						KRAMER: Well, you're going over there. <br>
+							<br>
+							
+						JERRY: I don't wanna mix in everything! My guys don't know your guys. You can't just lock 'em all in the same machine together. They'll start a riot. <br>
+							<br>
+							
+						KRAMER: Have you ever met my guys? <br>
+							<br>
+							
+						JERRY: No. I can't say as I have. <br>
+							<br>
+							
+						KRAMER: Well! <br>
+							<br>
+							
+						JERRY: All right. Put 'em on top. <br>
+							<br>
+							
+						KRAMER: Ah! <br>
+							<br>
+							
+						JERRY: Oh, beautiful. <br>
+							<br>
+							<br>
+							<br>
+							
+						[Laundromat]<br>
+							<br>
+							
+						JERRY: This stuff on top is my friends. Could I get it done in a separate machine? <br>
+							<br>
+							
+						VIC: I'll have to charge you for another machine. <br>
+							<br>
+							
+						JERRY: Whatever it costs. In fact, I would prefer it if the machines are not even touching each other. Because something could, you know, jump across. <br>
+							<br>
+							
+						(George shows up)<br>
+							<br>
+							
+						GEORGE: Guess what. <br>
+							<br>
+							
+						JERRY: How did you know I was here? <br>
+							<br>
+							
+						GEORGE: Kramer. Guess what. <br>
+							<br>
+							
+						JERRY: I don't know. <br>
+							<br>
+							
+						GEORGE: I quit my job. <br>
+							<br>
+							
+						JERRY: Get outta here. <br>
+							<br>
+							
+						GEORGE: I couldn't take it anymore. <br>
+							<br>
+							
+						VIC: You can have this on Monday. (hands Jerry a ticket)<br>
+							<br>
+							
+						JERRY: What happened? Levitan? <br>
+							<br>
+							
+						GEORGE: I go in to use his private bathroom, everybody uses it, and then I get a memo - a memo - telling me to use the men's room in the hall. Well, (laughing) I mean we share it with Pace Electronics. It's disgusting! <br>
+							<br>
+							
+						JERRY: You and your toilets. <br>
+							<br>
+							
+						GEORGE: I snapped! It was the last straw. (sighs) <br>
+							<br>
+							
+						JERRY: So, what are you gonna do now? Are you gonna look for something else in real estate? <br>
+							<br>
+							
+						GEORGE: Nobody's hiring now. The market's terrible. <br>
+							<br>
+							
+						JERRY: So what are you gonna do? <br>
+							<br>
+							
+						(George realizes he's made a mistake)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Jerry's Apartment]<br>
+							<br>
+							
+						GEORGE: I like sports. I could do something in sports. <br>
+							<br>
+							
+						JERRY: Uh-huh. Uh-huh. In what capacity? <br>
+							<br>
+							
+						GEORGE: You know, like the general manager of a baseball team or something. <br>
+							<br>
+							
+						JERRY: Yeah. Well, that - that could be tough to get. <br>
+							<br>
+							
+						GEORGE: Well, it doesn't even have to be the general manager. Maybe I could be like, an announcer. Like a color man. You know how I always make those interesting comments during the game. <br>
+							<br>
+							
+						JERRY: Yeah. Yeah. You make good comments. <br>
+							<br>
+							
+						GEORGE: What about that? <br>
+							<br>
+							
+						JERRY: Well, they tend to give those jobs to ex-ballplayers and people that are, you know, in broadcasting. <br>
+							<br>
+							
+						GEORGE: Well, that's really not fair. <br>
+							<br>
+							
+						JERRY: I know. Well, okay. Okay. What else do ya like? <br>
+							<br>
+							
+						GEORGE: Movies. I like to watch movies. <br>
+							<br>
+							
+						JERRY: Yeah. Yeah. <br>
+							<br>
+							
+						GEORGE: Do they pay people to watch movies? <br>
+							<br>
+							
+						JERRY: Projectionists. <br>
+							<br>
+							
+						GEORGE: That's true. <br>
+							<br>
+							
+						JERRY: But you gotta know how to work the projector. <br>
+							<br>
+							
+						GEORGE: Right. <br>
+							<br>
+							
+						JERRY: And it's probably a union thing. <br>
+							<br>
+							
+						GEORGE: (scoffs) Those unions. (sighs) Okay. Sports,...movies. What about a talk show host? <br>
+							<br>
+							
+						JERRY: Talk show host. That's good. <br>
+							<br>
+							
+						GEORGE: I think I'd be good at that. I talk to people all the time. Someone even told me once they thought I'd be a good talk show host. <br>
+							<br>
+							
+						JERRY: Really? <br>
+							<br>
+							
+						GEORGE: Yeah. A couple of people. I don't get that, though. Where do you start? <br>
+							<br>
+							
+						JERRY: Well, that's where it gets tricky. <br>
+							<br>
+							
+						GEORGE: You can't just walk into a building and say &quot; I wanna be a talk show host.&quot; <br>
+							<br>
+							
+						JERRY: I wouldn't think so. <br>
+							<br>
+							
+						GEORGE: It's all politics. <br>
+							<br>
+							
+						JERRY: All right. Okay. Sports, movies, talk show host. What else? <br>
+							<br>
+							
+						GEORGE: This could have been a huge mistake. <br>
+							<br>
+							
+						JERRY: Well, it doesn't sound like you completely thought this through. <br>
+							<br>
+							
+						GEORGE: (sighs) Guess not. What should I do? <br>
+							<br>
+							
+						JERRY: Maybe you can just go back. <br>
+							<br>
+							
+						GEORGE: Go back? <br>
+							<br>
+							
+						JERRY: Yeah. Pretend like it never happened. <br>
+							<br>
+							
+						GEORGE: You mean just walk into the staff meeting on Monday morning like it never happened? <br>
+							<br>
+							
+						JERRY: Sure. You're an emotional person. People don't take you seriously. <br>
+							<br>
+							
+						GEORGE: Just..go back. Pretend the whole thing never happened. <br>
+							<br>
+							
+						JERRY: Never happened. <br>
+							<br>
+							
+						GEORGE: I was just blowin' off a little steam. So what? <br>
+							<br>
+							
+						JERRY: So what? You're entitled. <br>
+							<br>
+							
+						GEORGE: I'm emotional. <br>
+							<br>
+							
+						JERRY: That's right. You're emotional. <br>
+							<br>
+							
+						GEORGE: Never happened. <br>
+							<br>
+							
+						JERRY: Never happened. <br>
+							<br>
+							<br>
+							<br>
+							
+						[Middle Monologue]<br>
+							<br>
+							
+						JERRY: To me the most annoying thing about the couple of times that I did work in an office. Is that when you go in, in the morning you say Hi to everyone and for some reason throughout the day you have to continue to greet these people all day every time you see them. I mean you walk in &quot;morning Bill, morning Bob, how you doing? fine&quot; Ten minutes later you see him in the hall, &quot;How ya doin'?&quot; Every time you pass you gotta come up with another little greeting. You know you start racking your brains you know you do the little eyebrow &quot;Hey&quot; You start coming up with nicknames for them. &quot;Jimbo.&quot;<br>
+							<br>
+							<br>
+							<br>
+							
+						[Office complex; Staff Meeting]<br>
+							<br>
+							
+						(George enters)<br>
+							<br>
+							
+						GEORGE: How ya doin'? <br>
+							<br>
+							
+						GLENDA: What are you doing here? <br>
+							<br>
+							
+						GEORGE: What? I work here. <br>
+							<br>
+							
+						GLENDA: I thought you quit. <br>
+							<br>
+							
+						GEORGE: What quit? (laughing) Who quit? <br>
+							<br>
+							
+						DAN: Bill, how was your weekend? <br>
+							<br>
+							
+						BILL: Oh, excellent weekend. What about your weekend? <br>
+							<br>
+							
+						DAN: Fine weekend. <br>
+							<br>
+							
+						GEORGE: Yeah. Good weekend. <br>
+							<br>
+							
+						DAN: Went up to the Cape. Took the kids sailing. (laughing) Lisa was a little scared at first, but that kids' gonna be a good sailor someday. <br>
+							<br>
+							
+						GEORGE: Aw, she's gonna be a fine sailor. <br>
+							<br>
+							
+						(Levitan enters; George covers his face with a folder)<br>
+							<br>
+							
+						LEVITAN: Ava, what happened to you Friday afternoon? <br>
+							<br>
+							
+						AVA: Oh, I got a little tied up. <br>
+							<br>
+							
+						LEVITAN: I'll bet you did. <br>
+							<br>
+							
+						(laughter breaks out in boardroom) <br>
+							<br>
+							
+						LEVITAN: I wanna remind everyone that the tenth anniversary party for Rick Barr Properties is gonna be Wednesday afternoon at four o'clock in Lasky's Bar, on Madison 48th. I want all of you to be there. This really means a lot to me. Is that Costanza over there? What are you doing here? <br>
+							<br>
+							
+						GEORGE: What? <br>
+							<br>
+							
+						LEVITAN: Am I crazy, or didn't you quit? <br>
+							<br>
+							
+						GEORGE: When? <br>
+							<br>
+							
+						LEVITAN: Friday. <br>
+							<br>
+							
+						GEORGE: Oh, what? What? That? Are you kidding? I didn't quit. What? You took that seriously? <br>
+							<br>
+							
+						LEVITAN: You mean, laughingstock? All that stuff? <br>
+							<br>
+							
+						GEORGE: Come on. Will you stop it. <br>
+							<br>
+							
+						LEVITAN: No brains? No ability? <br>
+							<br>
+							
+						GEORGE: Teasing. <br>
+							<br>
+							
+						LEVITAN: Okay. I want you outta here. <br>
+							<br>
+							
+						GEORGE: I don't know where you're getting this from. I....you're serious aren't you? Oh, (laughing) you see? You see, you just don't know my sense of humor. Dan, don't I joke around all the time?<br>
+							<br>
+							
+						DAN: I wouldn't say all the time.<br>
+							<br>
+							
+						LEVITAN: You can't win. You can't beat me. That's why I'm here and you're there. Because I'm a winner. I'll always be a winner and you'll always be a loser. <br>
+							<br>
+							<br>
+							<br>
+							
+						[Laundromat]<br>
+							<br>
+							
+						GEORGE: &quot; I'll always be a winner and you'll always be a loser.&quot; This is what he said to me. <br>
+							<br>
+							
+						JERRY: Well, so that's that. <br>
+							<br>
+							
+						GEORGE: No. That's not that. <br>
+							<br>
+							
+						JERRY: That's not that? <br>
+							<br>
+							
+						GEORGE: No. <br>
+							<br>
+							
+						JERRY: Well, if that's not that, what is that? <br>
+							<br>
+							
+						GEORGE: I've got some plans. I got plans. <br>
+							<br>
+							
+						JERRY: What kind of plans? <br>
+							<br>
+							
+						GEORGE: What's the difference? <br>
+							<br>
+							
+						JERRY: You don't wanna tell me? <br>
+							<br>
+							
+						GEORGE: I'm gonna slip him a mickey. <br>
+							<br>
+							
+						JERRY: What? In his drink? Are you outta your mind? What are you Peter Lorre? <br>
+							<br>
+							
+						GEORGE: You don't understand. He's got this big party coming up. He's been looking forward to this for months. This is gonna destroy the whole thing. <br>
+							<br>
+							
+						JERRY: What if you destroy him? <br>
+							<br>
+							
+						GEORGE: No. No. No. No. No. Don't worry. It's perfectly safe. I researched it. He'll get a little woozy. He might keel over. <br>
+							<br>
+							
+						JERRY: Well, wha - what does that do? Big deal. <br>
+							<br>
+							
+						GEORGE: This is what they would do in the movies! It's a beautiful thing! It's like a movie! I'm gonna slip him a mickey! <br>
+							<br>
+							
+						JERRY: You've really gone mental. <br>
+							<br>
+							
+						GEORGE: Nah. <br>
+							<br>
+							
+						JERRY: Where are you gonna get this mickey? I can't believe I'm saying &quot;mickey&quot;! <br>
+							<br>
+							
+						GEORGE: I got a source. <br>
+							<br>
+							
+						JERRY: You got a mickey source? <br>
+							<br>
+							
+						GEORGE: And Elaine is gonna keep him busy. <br>
+							<br>
+							
+						JERRY: Elaine? How did you rope her into this? <br>
+							<br>
+							
+						GEORGE: I told her what a sexist he is. How he cheats on his wife. <br>
+							<br>
+							
+						JERRY: She knew that. <br>
+							<br>
+							
+						GEORGE: But she didn't know he doesn't recycle. <br>
+							<br>
+							
+						JERRY: What is the point of all this? <br>
+							<br>
+							
+						GEORGE: Revenge. <br>
+							<br>
+							
+						JERRY: Oh, the best revenge is living well. <br>
+							<br>
+							
+						GEORGE: There's no chance of that. <br>
+							<br>
+							<br>
+							<br>
+							
+						[Jerry's apartment]<br>
+							<br>
+							
+						(Kramer enters somewhat depressed)<br>
+							<br>
+							
+						JERRY: Did you get your laundry? <br>
+							<br>
+							
+						KRAMER: Yeah. <br>
+							<br>
+							
+						JERRY: What's with you? <br>
+							<br>
+							
+						KRAMER: He jumped. <br>
+							<br>
+							
+						JERRY: What? <br>
+							<br>
+							
+						KRAMER: Yeah. Newman jumped. <br>
+							<br>
+							
+						JERRY: Did he call you last night? <br>
+							<br>
+							
+						KRAMER: Oh, yeah. Yeah. Yeah. Yeah. Yeah. Yeah. <br>
+							<br>
+							
+						JERRY: What did you say? <br>
+							<br>
+							
+						KRAMER: I said &quot; Wave to me when you pass my window.&quot; <br>
+							<br>
+							
+						JERRY: Whew. Did he wave? <br>
+							<br>
+							
+						KRAMER: No! He jumped from the second floor. Mr. Papanickolous saw him from across the street. He's lying out there faking. See, he's trying to get back at me. <br>
+							<br>
+							
+						JERRY: (realizing something) Oh, my god! <br>
+							<br>
+							
+						KRAMER: What's the matter? <br>
+							<br>
+							
+						JERRY: (tearing through his laundry bag) Well, on Thursday when I came home I had $1500 on me. For some reason I decided to hide it in my laundry bag and then I completely forgot about it...and then I took the laundry in on Friday! Oh, come on, let's go. <br>
+							<br>
+							
+						KRAMER: Where? Where? <br>
+							<br>
+							
+						JERRY: To the Laundromat. <br>
+							<br>
+							<br>
+							<br>
+							
+						[Laundromat]<br>
+							<br>
+							
+						VIC: I never saw it. <br>
+							<br>
+							
+						KRAMER: Okay. Come on. Give the guy his money. What -- what are you doing? <br>
+							<br>
+							
+						VIC: Hey, you see that sign right there? (Points to a sign saying &quot;Not Responsible for Valuables&quot;<br>
+							<br>
+							
+						JERRY: Oh, I see. So, you put up a sign so you can do whatever you want? You're not a part of society. <br>
+							<br>
+							
+						VIC: Yea that's right, 'cuz this place is my country and I'm the president, and that's my constitution. I'm not responsible. <br>
+							<br>
+							
+						JERRY: So, anybody leaves anything here, you can just take it? You have a license to steal? You are like the James Bond of laundry? <br>
+							<br>
+							
+						VIC: You ever hear of a bank? <br>
+							<br>
+							
+						JERRY: Come on. Let's go. <br>
+							<br>
+							
+						KRAMER: No. You can't let him get away with this. <br>
+							<br>
+							<br>
+							<br>
+							
+						[Office party at the Bar]<br>
+							<br>
+							
+						(Elaine and George staking out the bar)<br>
+							<br>
+							
+						ELAINE: Which one is he? <br>
+							<br>
+							
+						GEORGE: That's him over there. The one that looks like a blowfish. <br>
+							<br>
+							
+						ELAINE: Oh, yeah. I see him. <br>
+							<br>
+							
+						GEORGE: Yeah. Hey, thanks for doing this. <br>
+							<br>
+							
+						ELAINE: Why pass up the opportunity to go to prison? <br>
+							<br>
+							
+						GEORGE: This is by far the most exciting thing I've ever done. <br>
+							<br>
+							
+						ELAINE: Yeah. It is kind of cool. <br>
+							<br>
+							
+						GEORGE: First time in my life I've ever gotten back at someone. <br>
+							<br>
+							
+						ELAINE: I can't believe we're doing this. This is the kind of thing they do in the movies. <br>
+							<br>
+							
+						GEORGE: That's exactly what I told Jerry! <br>
+							<br>
+							
+						ELAINE: Really? <br>
+							<br>
+							
+						GEORGE: Yes! (both laugh) God, I've never felt so alive! <br>
+							<br>
+							<br>
+							<br>
+							
+						[Laundromat]<br>
+							<br>
+							
+						(Jerry is carrying a large bag of clothes)<br>
+							<br>
+							
+						JERRY: Maybe we should call this off. <br>
+							<br>
+							
+						KRAMER: Come on. What's the big deal? Just gonna put a little concrete in the washing machine. <br>
+							<br>
+							
+						JERRY: And what's gonna happen? <br>
+							<br>
+							
+						KRAMER: Well, it'll gonna mix up with the water, and then by the end of the cycle it'll be a solid block! <br>
+							<br>
+							
+						JERRY: If only you could put your mind to something worthwhile. You're like Lex Luthor. <br>
+							<br>
+							
+						KRAMER: You keep him busy. <br>
+							<br>
+							
+						(Kramer, holding heavy bag of concrete in arms, stumbles to machine, knocking chairs around) <br>
+							<br>
+							
+						(Kramer plops concrete down onto washing machine) <br>
+							<br>
+							
+						KRAMER: Whoa! <br>
+							<br>
+							
+						(lifting bag into the air, Kramer, thrown off balance, stumbles backwards and slams into the dryer) <br>
+							<br>
+							<br>
+							<br>
+							
+						[Office party at the Bar]<br>
+							<br>
+							
+						(George and Elaine are in the corner talking)<br>
+							<br>
+							
+						GEORGE: You go over there - <br>
+							<br>
+							
+						ELAINE: Yeah. <br>
+							<br>
+							
+						GEORGE: You start flirting with him and I'll come by and, while you're keeping him busy, I'll slip it in his drink. <br>
+							<br>
+							
+						ELAINE: Wouldn't it be easier just to punch him in the mouth? <br>
+							<br>
+							
+						(George motions for her to do it. Elaine walks over to where Levitan is sitting)<br>
+							<br>
+							
+						LEVITAN: Come on! They're terrible. They got no infield. <br>
+							<br>
+							
+						ELAINE: Oops! (bumps into Levitan) 'Scuse me. <br>
+							<br>
+							
+						LEVITAN: Yeah. <br>
+							<br>
+							
+						GREENY: I'm gonna get some food. You want some? <br>
+							<br>
+							
+						LEVITAN: Nah. <br>
+							<br>
+							
+						ELAINE: Hi. <br>
+							<br>
+							
+						LEVITAN: Hi. <br>
+							<br>
+							
+						ELAINE: (sneezes) <br>
+							<br>
+							
+						LEVITAN: God bless you. <br>
+							<br>
+							
+						ELAINE: Oh! Thank you. Thank you very much. (blowing nose) Really. I mean that. I am not one of those people who give insincere thank you's. No sir. No sir. When I thank someone I really thank them. So, thank... yoooou! <br>
+							<br>
+							
+						LEVITAN: (confused) You're welcome. <br>
+							<br>
+							
+						ELAINE: People don't say &quot; God bless you &quot; as much as they used to. Have you noticed that? <br>
+							<br>
+							
+						LEVITAN: No. <br>
+							<br>
+							
+						ELAINE: (having trouble getting him to pay attention) So, I'm going to a nudist colony next week. <br>
+							<br>
+							
+						LEVITAN: (interested) Nudist colony? <br>
+							<br>
+							
+						ELAINE: Oh, yeah. Yeah. I love nudist colonies. They help me..unwind. Aah! <br>
+							<br>
+							
+						LEVITAN: (laughing) I'd never been to a nudist colony. <br>
+							<br>
+							
+						ELAINE: Oh, really? Oh, you should go. They're great. They're great. Of course, when it's over, it's - it's hard to get used to all this clothing, you know. So, a lot of times, I'll just lock the door to my office and I'll just sit there naked. <br>
+							<br>
+							
+						LEVITAN: Seriously? <br>
+							<br>
+							
+						ELAINE: Oh, yeah. I usually work naked a...couple hours a day. <br>
+							<br>
+							
+						(George makes his move; Glenda is occupying the seat next to Levitan)<br>
+							<br>
+							
+						GEORGE: (whispering) Glenda, can I ask you a favor? Can I have this seat? <br>
+							<br>
+							
+						GLENDA: (loud) What do you have to sit here for? There are plenty of other seats. <br>
+							<br>
+							
+						GEORGE: (whispering) I can't explain. It's very important that I sit here. <br>
+							<br>
+							
+						GLENDA: (loud) What are you doing here anyway? I thought you were fired. <br>
+							<br>
+							
+						GEORGE: (whispering angrily) Okay. Okay. Fine. <br>
+							<br>
+							
+						ELAINE: I cook naked, I clean....I clean naked, I drive naked. Naked. Naked. Naked. <br>
+							<br>
+							
+						LEVITAN: Who are you? <br>
+							<br>
+							
+						ELAINE: Oh, you don't wanna know, mistah. I'm trouble. Big trouble. <br>
+							<br>
+							<br>
+							<br>
+							
+						[Laundromat]<br>
+							<br>
+							
+						(Back to Kramer after hitting the dryer; Picks up the concrete makes his way back to the washer; opens the lid on the machine, it slams shut forcing Kramer to pour the concrete all over the machine)<br>
+							<br>
+							
+						JERRY: (trying to divert Vic's attention) What about the gentle cycle? You ever use that? <br>
+							<br>
+							
+						(opening lid, Kramer begins to contort &amp; flail arms about as a cloud of concrete covers his face) <br>
+							<br>
+							
+						JERRY: Do you think it's effeminate for a man to put clothes in a gentle cycle? <br>
+							<br>
+							
+						(Kramer emptying bag into machine) <br>
+							<br>
+							
+						JERRY: What about fine fabrics? How do you deal with that kind of temperament? <br>
+							<br>
+							
+						(finished with machine, Kramer walks to corner of room with half-full bag &amp; drops it on the floor) <br>
+							<br>
+							
+						(Kramer giving &quot;OK&quot; sign) <br>
+							<br>
+							
+						(Kramer starting machine &amp; trying to brush the mounds of concrete off of the machine) <br>
+							<br>
+							
+						JERRY: What about stone washing? You ever witness one of those? That must be something. What? Do they just pummel the jeans with rocks? <br>
+							<br>
+							
+						(Kramer walks over to where Jerry is standing, his entire body covered with dry concrete) <br>
+							<br>
+							
+						KRAMER: I didn't realize it was a full box. <br>
+							<br>
+							<br>
+							<br>
+							
+						[Office party; Bar]<br>
+							<br>
+							
+						GEORGE: (trying again with Glenda) I'm gonna count to three. If you don't give up the chair, the wig is coming off. <br>
+							<br>
+							
+						GLENDA: I don't' wear a wig. <br>
+							<br>
+							
+						GEORGE: One... (Glenda seeing George is serious; gets up and leaves)<br>
+							<br>
+							
+						ELAINE: No. No. No. No. No. I don't really have a phone. In fact, I - I really don't have an apartment. I kinda sleep around. <br>
+							<br>
+							
+						(Levitan &amp; Elaine laughing) <br>
+							<br>
+							
+						ELAINE: I just like to have and few drinks and just let the guy do whatever he wants. Would you close your eyes for a second? I wanna tell you a secret about my bra. <br>
+							<br>
+							
+						(George empties contents of tiny bottle into Levitan's drink) <br>
+							<br>
+							
+						(Elaine &amp; Levitan laughing) <br>
+							<br>
+							
+						GEORGE: Hello, Rick. <br>
+							<br>
+							
+						LEVITAN: Heh heh heh hey! Look who's here! <br>
+							<br>
+							
+						GEORGE: That's right, Ricky Boy, it's me! <br>
+							<br>
+							
+						LEVITAN: You know something, Costanza? I'm a very lucky man. <br>
+							<br>
+							
+						GEORGE: Oh! <br>
+							<br>
+							
+						LEVITAN: I've always been lucky. Things just seem to fall right in my lap. <br>
+							<br>
+							
+						GEORGE: Boom! <br>
+							<br>
+							
+						(all laughing) <br>
+							<br>
+							
+						LEVITAN: You wouldn't believe it if I told you. In fact, uh, I'm glad you're here. You know, maybe I've been a little rough on ya, huh? <br>
+							<br>
+							
+						GEORGE: Oh. <br>
+							<br>
+							
+						LEVITAN: Why should we let petty, personal differences get in the way of business? I, uh, I want you to come back. (George is shocked) You can use my bathroom anytime you want. <br>
+							<br>
+							
+						GEORGE: You want me to come back? Uh... <br>
+							<br>
+							
+						LEVITAN: Hey! How about a toast, huh? Everybody, a toast! <br>
+							<br>
+							
+						GEORGE: Rick. <br>
+							<br>
+							
+						LEVITAN: Everyone, I wanna propose a toast to ten great years at Rick Barr Properties. <br>
+							<br>
+							
+						GEORGE: Uh, Rick.. <br>
+							<br>
+							
+						LEVITAN: And all the people in this room, (clears throat) that made that possible.. <br>
+							<br>
+							
+						GEORGE: Rick. <br>
+							<br>
+							
+						LEVITAN: I'd also like to welcome back into the fold our..our little shrimpy friend, George Costanza who, although he didn't really have a very good year -- how you blew that McConnell deal, I'll never know. But, hey, what the hell, huh? We've always enjoyed his antics around the office. Heh heh. Anything you wanna add to this? <br>
+							<br>
+							
+						GEORGE: Drink up. (Levitan takes a drink)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Jerry's Apartment]<br>
+							<br>
+							
+						(George is sitting at the coffee table; Jerry and Elaine on the couch)<br>
+							<br>
+							
+						GEORGE: I like history. Civil War. Maybe I could be a professor, or something. <br>
+							<br>
+							
+						ELAINE: Well, to teach something you really have to know a lot about it. I think you need a degree. <br>
+							<br>
+							
+						(Kramer enters)<br>
+							<br>
+							
+						JERRY: Yeah. That's true. <br>
+							<br>
+							
+						KRAMER: (seeing Jerry is with people) Oh.<br>
+							<br>
+							
+						JERRY: What? (Kramer hands Jerry an envelope) My God, the money! The 1500! Where'd you find it? <br>
+							<br>
+							
+						KRAMER: It was in my laundry. <br>
+							<br>
+							
+						JERRY: In your laundry the whole time? I told you not to mix in our guys. What did we figure the damage on that machine would be? <br>
+							<br>
+							
+						KRAMER: It was about 1200 bucks. <br>
+							<br>
+							
+						NEWMAN: Kramer! <br>
+							<br>
+							
+						KRAMER: Oh! That's Newman. (goes over to the window)<br>
+							<br>
+							
+						NEWMAN: I'm on the roof! <br>
+							<br>
+							
+						KRAMER: (yelling up) Well, what are you waiting for? <br>
+							<br>
+							
+						JERRY: Elaine, come on, take a walk with me down to the Laundromat. I gotta pay this guy the money.. <br>
+							<br>
+							
+						(Elaine and Jerry leave)<br>
+							<br>
+							
+						GEORGE: (talking to nobody) I like horses. Maybe I could be a stable boy. <br>
+							<br>
+							
+						KRAMER: You wanna shoot some pool tonight? <br>
+							<br>
+							
+						NEWMAN: I can't. I'm goin' to a movie. <br>
+							<br>
+							
+						GEORGE: (talking to nobody) Nah. It's probably a union thing. <br>
+							<br>
+							<br>
+							
+						[Closing Monologue]<br>
+							<br>
+							
+						JERRY: People like the idea of revenge. Have you ever heard the expression 'The best revenge is living well' I've said this, in other words it means supposedly the best way to get back at someone is just by being happy and successful in your own life. Sounds nice, doesn't really work on that Charles Bronson. kinda level. You know what I mean, those movies where his whole family gets wiped out by some street scum. You think you could go up to him, 'Charlie forgot about the 357 what you need is a custom-made suit and a convertible. New carpeting, french doors, a divan. That'll show those punks.'<br>
+							<br>
+							<br>
+							
+						The end</td>
+						</tr>
+						<tr height="6">
+							<td class="bottom2" width="645" height="6"></td>
+						</tr>
+						<tr>
+							<td width="645">
+								<div align="center">
+									<font size="-1">Copyright 2006 seinology.com | All Rights Reserved | Designed by 13erla</font></div>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+		<p></p>
+	</body>
+
+</html>

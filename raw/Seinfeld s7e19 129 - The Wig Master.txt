@@ -1,0 +1,1438 @@
+<tdOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+<html>
+
+	<head>
+		<meta http-equiv="content-type" content="text/html;charset=ISO-8859-1">
+		<meta name="description" content="Top Source for Seinfeld">
+		<meta name="keywords" content="seinfeld, sienfeld, Jerry Seinfeld, Julia Louis Dreyfus, Jason Alexander, Michael Richards, Kramer, George, Costanza, Elaine Benes, morty, Larry David">
+		<title>Seinology.com :: Scripts :: 129-The Wig Master</title>
+	<link rel='stylesheet' href='/stylesheet.css' type='text/css'>
+	</head>
+
+	<body>
+			<table align="center" width="787" border="0" cellspacing="0" cellpadding="0">
+				<tr>
+					<td><font size="-2" color="red">Seinology.com - </font><font size="-3" color="black">Where Seinfeld Content and Accuracy Matter Most. Seinfeld scripts in pdf form, Seinfeld episode video clips, Seinfeld episode audio clips, Jerry Seinfeld appearances, Julia Louis-Dreyfus appearances, Michael Richards appearances, Jason Alexander appearances, Seinfeld discussion Forum, Seinfeld Where are they Now? Seinlanguage Newsletter, Popular Seinfeld Lists, Seinfeld episode standup, Seinfeld episode guide, Seinfeld fan fiction. Seinfeld content all on one domain. Seinology.com enjoy your stay.</font></td>
+				</tr>
+			</table>
+		
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr height="100">
+				<td class="logo"></td>
+			</tr>
+			<tr><td class="ads" align="center" background=#8694fa>
+				<script type="text/javascript"><!--
+google_ad_client = "pub-1924026976931416";
+google_ad_width = 728;
+google_ad_height = 90;
+google_ad_format = "728x90_as";
+google_ad_type = "text";
+google_ad_channel = "";
+google_color_border = "FFFFFF";
+google_color_bg = "8694fa";
+google_color_link = "0000FF";
+google_color_text = "000000";
+google_color_url = "002E3F";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></td></tr>
+		</table>
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr>
+				<td valign="top" width="136">
+					<table width="136" border="0" cellspacing="0" cellpadding="0">
+						<tr height="24">
+							<td class="navigation">
+								<div align="center">
+									
+									<b>Navigation</b></div>
+							</td>
+						</tr>
+						<tr height="199">
+							<td class="spacer1" valign="top" width="136" height="199">
+								<div align="center">
+									<font size="-1"><a href="http://www.seinology.com">Home</a><br>
+										<a href="http://board.seinology.com">Forum</a><br>
+										<a href="http://www.seinology.com/av.shtml">Audio/Video</a><br>
+										<a href="http://www.seinology.com/scripts.shtml">Scripts</a><br>
+										<a href="http://www.seinology.com/survivor.shtml">Survivor</a><br>
+										<a href="http://www.seinology.com/fanfics.shtml">Fan Fiction</a><br>
+										<a href="http://www.seinology.com/gallery/">Gallery</a><br>
+										<a href="http://www.seinology.com/newsletter.shtml">Newsletter</a><br>
+										<a href="http://www.seinology.com/lists.shtml">Lists</a><br>
+										<a href="http://www.seinology.com/epguide.shtml">Episode Guide</a><br>
+										<a href="http://www.seinology.com/links.shtml">Links</a><br>
+										<a href="http://www.seinology.com/faqother.shtml">Faq + others</a><br>
+										<a href="http://www.seinology.com/legal.shtml">Legal</a></font></div>
+							</td>
+						</tr>
+						
+						<tr>
+							<td class="nav2" width="136">
+							<div align="center"><b>Search</b></div></td>
+						</tr>
+						<tr>
+							<td class="spacer1" width="136" valign="top"><div align="center"><form method="get" action="http://www.seinology.com/search/search.cgi">
+<p><label for="fdse_Match">Match</label><br>
+<select name="Match" id="fdse_Match" size="1">
+<option value="1">All</option>
+<option value="0">Any</option>
+<option value="2">Phrase</option>
+</select></p>
+<p><label for="fdse_Realm">Where?</label><br>
+<select name="Realm" id="fdse_Realm" size="1">
+<option selected="selected" value="All">EntireSite</option>
+<option value="Ep Guide">Ep Guide</option>
+<option value="Images">Images</option>
+<option value="Lists">Lists</option>
+<option value="Newsletters">Newsletters</option>
+<option value="Scripts">Scripts</option>
+<option value="Notes..Nothing">Notes..Nothing</option>
+</select></p>
+<p><input type="text" name="Terms" size="14" id="fdse_Terms"><br>
+<input type="submit" class="submit" name="submitButtonName" value="Search"></p>
+</div></form></td>
+						</tr>
+						<tr><td class="bottom" width="136" height="10" valign="top">
+						</td>
+						</tr>
+					</table>
+				</td>
+				<td width="4"></td>
+				<td valign="top" width="645">
+					<table width="645" border="0" cellspacing="0" cellpadding="0">
+						<tr height="18">
+							<td width="645" height="35" class="bar">
+								<div align="center">
+									<b><font size="+2" color="black">Script</font></b></div>
+							</td>
+						</tr>
+						<tr height="362">
+							<td class="spacer2" valign="top" width="645" height="362">
+
+						<p><font size="-2">Episode 129 - The Wig Master<br>
+							
+						pc: 719, season 7, episode 19<br>
+							
+						Broadcast date: April 4, 1996<br>
+							<br>
+							
+						Written by Spike Feresten<br>
+							
+						Directed by Andy Ackerman<br>
+							<br>
+							
+						-------------------------------------------------------------------------------<br>
+							<br>
+							
+						The Cast<br>
+							
+						Regulars:<br>
+							
+						Jerry Seinfeld .......................&nbsp; Jerry Seinfeld<br>
+							
+						Jason Alexander ..................&nbsp; George Costanza<br>
+							
+						Julia Louis-Dreyfus .............&nbsp; Elaine Benes<br>
+							
+						Michael Richards .................&nbsp; Cosmo Kramer<br>
+							<br>
+							
+						Guest Stars:<br>
+							<br>
+							
+						Patrick Bristow ................... Wig Master (Ethan)<br>
+							
+						Harry Van Gorkum ............ Craig<br>
+							
+						Gina Mastrogiacomo ........... Prostitute<br>
+							
+						Kim Chase ........................... Charmaine<br>
+							
+						Chaim Jeraffi ....................... Jiffy Park Guy<br>
+							
+						Michael James McDonald .... Jesse<br>
+							
+						Pamela Dillman .................... Salesperson<br>
+							
+						Zack Phifer .......................... Bob<br>
+							
+						Shashi Bhatia ....................... Flower Girl<br>
+							
+						Norman Brenner ................. Ian<br>
+							
+						rc: Heidi Swedberg ............. Susan Biddle Ross<br>
+							<br>
+							
+						==================================================================<br>
+							<br>
+							
+						[Opening monologue]<br>
+							<br>
+							
+						I really like the wig historically. I guess the revolutionary war, the last war fought in wig, and it seems that it must have been hard. You know they're going in to battle,they think Well do I have my bullets? Do I have my bobby pins.. and you got to make sure you have everything... lot more to worry about What if I get killed.? Is my wig on straight? I don't know when the whole wig thing came in to style for men... but I know when it went out.! When the mirror was invented. No guy is looking in the mirror powdering a patch of horsehair on his head going ..All right! lets go rap (?) to the ladies..<br>
+							<br>
+							<br>
+							<br>
+							
+						[At the Andover shop]<br>
+							<br>
+							
+						JERRY: I'm looking for a crested blazer<br>
+							<br>
+							
+						CRAIG: A crested blazer..<br>
+							<br>
+							
+						JERRY: I've worn one once and I really think it did something for me.<br>
+							<br>
+							
+						CRAIG: (turning around): Yes .I Think we may have something. (picks up a blazer) The Joseph Aboud crested blazer is the finest.... That's hand ticking around the crest and these are the world famous Corriso buttons made from the finest Andulo corn.<br>
+							<br>
+							
+						JERRY: (softly) Hmm.. they'll match my sneakers.<br>
+							<br>
+							
+						CRAIG: It looks fabulous on you... shall I wrap it up?<br>
+							<br>
+							
+						JERRY: You know...I'm not sure. I'll tell you what. I'll come back later with someone and see what they think.<br>
+							<br>
+							
+						CRAIG: (doubtful) A Hum!<br>
+							<br>
+							
+						JERRY: Really I'll be back.<br>
+							<br>
+							
+						CRAIG: Yeah!<br>
+							<br>
+							<br>
+							<br>
+							
+						[Cuts to Jerry's apartment.]<br>
+							<br>
+							
+						(George is pacing back and forth with the phone and Elaine and Jerry are talking.)<br>
+							<br>
+							
+						JERRY: So I didn't like the crest all that much., but the guy spent fifteen minutes with me so to get out of the store I told I wanted to see what someone else thought.... And then he makes a face like he doesn't believe me.<br>
+							<br>
+							
+						ELAINE: Ah! So he knew that you were making it up.!<br>
+							<br>
+							
+						JERRY: Yeah..... He caught me So here's what I want you to do. Come back with me to the store and we'll pretend to look at the coat.<br>
+							<br>
+							
+						ELAINE: That's ridiculous. Why do do you want to go back there if you don't want the coat?<br>
+							<br>
+							
+						JERRY: Because he thinks I was lying and I want to show him I wasn't.<br>
+							<br>
+							
+						ELAINE: But you were!!<br>
+							<br>
+							
+						JERRY: But if you go back with me , then I'm not.<br>
+							<br>
+							
+						GEORGE:(still on the phone) All right fine.... Whatever<br>
+							<br>
+							
+						(Kramer walks in.)<br>
+							<br>
+							
+						JERRY: (to George) Problems with the house guest?<br>
+							<br>
+							
+						ELAINE: What house guest?<br>
+							<br>
+							
+						GEORGE: This friend of Susan's is staying with us for two weeks...Now am I wrong or is that excessive?<br>
+							<br>
+							
+						KRAMER: Well Bob Sacamano he stayed with me once for a year and a half.<br>
+							<br>
+							
+						ELAINE: Who is he?<br>
+							<br>
+							
+						GEORGE: He's a wig master<br>
+							<br>
+							
+						ELAINE: What is a wig master?<br>
+							<br>
+							
+						GEORGE: He's with the touring company of Joseph and the Amazing Technicolor Dreamcoat. He's the guy in charge of the wigs.<br>
+							<br>
+							
+						JERRY: Boy.. imagine.. liking wigs to the point it becomes a career choice.<br>
+							<br>
+							
+						KRAMER: About some tickets George , you know I'd kill for a peek..<br>
+							<br>
+							
+						GEORGE: (leaving) Yeah, Sure, sure ,,, I got to drop my car off at the new lot.<br>
+							<br>
+							
+						KRAMER: Euh what...What lot is that?<br>
+							<br>
+							
+						GEORGE: Jiffy Park. It's incredible.. Seventy-five dollars a month.<br>
+							<br>
+							
+						KRAMER: Seventy -five bucks a month!<br>
+							<br>
+							
+						GEORGE: Yeah and you get this really cool T-shirt when you sign on..<br>
+							<br>
+							
+						KRAMER: Oh I'm down.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Cuts to the Andover shop]<br>
+							<br>
+							
+						JERRY: (proud of himself) Remember me? I said I 'd come back with someone and I did. Surprised?.<br>
+							<br>
+							
+						CRAIG: No I believed you.<br>
+							<br>
+							
+						JERRY: Yeah.... well Elaine.<br>
+							<br>
+							
+						ELAINE: (looking up to the salesman)<br>
+							<br>
+							
+						CRAIG: Oh!... hello I'm Craig.<br>
+							<br>
+							
+						ELAINE: .....Hi.<br>
+							<br>
+							
+						CRAIG: well (picks up the blazer again) here it is.<br>
+							<br>
+							
+						ELAINE: Oh!!.....Joseph Aboud .. and look at this hand ticking around the crest.<br>
+							<br>
+							
+						CRAIG: You know your coats?<br>
+							<br>
+							
+						ELAINE: Well I'm in the biz .. I work for J. Peterman.<br>
+							<br>
+							
+						CRAIG: I love J. Peterman.<br>
+							<br>
+							
+						ELAINE: (giggling) Ohhh!!.<br>
+							<br>
+							
+						CRAIG: I especially enjoy the catalogue, those fanciful narratives really take me away..<br>
+							<br>
+							
+						ELAINE: Ohhh!! really ..well you know what, I write those.<br>
+							<br>
+							
+						CRAIG: No!!!<br>
+							<br>
+							
+						ELAINE: Yeeeahh!!!<br>
+							<br>
+							
+						JERRY: (impatiently cutting in) Hey Elaine What about the crest.? What d'you think of the crest here.<br>
+							<br>
+							
+						Elaine Well I love it...<br>
+							<br>
+							
+						JERRY: You what??<br>
+							<br>
+							
+						ELAINE: I think it's great. I think you should get it.<br>
+							<br>
+							
+						CRAIG: Well .... Will it be check or credit card?<br>
+							<br>
+							
+						JERRY: (giving up) Check.<br>
+							<br>
+							
+						CRAIG: I'll need you to write down your phone number on the check for me. (turning to Elaine) Perhaps you could do the same.<br>
+							<br>
+							
+						ELAINE: (laughs and giggles like a schoolgirl)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Cuts to a street where Jerry &amp; Elaine are walking]<br>
+							<br>
+							
+						JERRY: You weren't supposed to say that.<br>
+							<br>
+							
+						ELAINE: But I really did like it<br>
+							<br>
+							
+						JERRY: That's not the point. You put me in a position where I had no choice.<br>
+							<br>
+							
+						ELAINE: uhn... Sorry!<br>
+							<br>
+							
+						JERRY: And what about that guy asking you out right in front of me?<br>
+							<br>
+							
+						ELAINE: What is the big deal!!<br>
+							<br>
+							
+						JERRY: ...'s very emasculating, he doesn't know the nature of our relationship. You're there approving new clothes.....That's a girlfriend job! How dare he!!<br>
+							<br>
+							
+						ELAINE: He dared....<br>
+							<br>
+							<br>
+							<br>
+							
+						[Cuts to George's apartment as he comes in.]<br>
+							<br>
+							
+						ETHAN: (sitting in the couch and combing his wigs)Hi George.. How was your day?<br>
+							<br>
+							
+						GEORGE: Good....good day (not too convincing) You?<br>
+							<br>
+							
+						ETHAN: I am getting so much work done..... See?<br>
+							<br>
+							
+						GEORGE: Very nice<br>
+							<br>
+							
+						SUSAN: (walks in) Hi sweety How was your day?<br>
+							<br>
+							
+						ETHAN: I already ask him that. He said Good...Good day....<br>
+							<br>
+							
+						(George scratches his head and the scene cuts to Jerry and Kramer's hallway)<br>
+							<br>
+							
+						KRAMER: (frantically pulling at his doorknob) Thank god you're home. I'm wiped out. I drop my car at Jiffy Park and I forgot to take my apartment keys off the ring. So you got my spare?<br>
+							<br>
+							
+						JERRY: No I gave it back to you<br>
+							<br>
+							
+						KRAMER: y'did.........phfwelll. Look.. hum..... Can you take me over there?<br>
+							<br>
+							
+						JERRY: Oh Come on!!<br>
+							<br>
+							
+						KRAMER: Oh Come on Jerry, It's all the way over to twelfth avenue..<br>
+							<br>
+							
+						JERRY:: I didn,t tell you to park in that lot .. Now someone's gonna have to drive you every time you need your car.? Take the bus!<br>
+							<br>
+							
+						KRAMER: I'm not going to take the bus that's why I got a car!<br>
+							<br>
+							
+						JERRY: Forget it.<br>
+							<br>
+							
+						KRAMER: Awright I'm gonna get George to pick me up.<br>
+							<br>
+							
+						JERRY: He wont take ya..<br>
+							<br>
+							
+						(Kramer picks up the phone, calls George; Phone rings at George's and he's sitting between Susan and the wig master.)<br>
+							<br>
+							
+						GEORGE: (grabs the phone quick) Got it, Got it,...Hello?<br>
+							<br>
+							
+						KRAMER: Listen, Can you take me over to the Jiffy Park?<br>
+							<br>
+							
+						GEORGE: Yeah,yeah!! I'll pick you up right now.....All right All right....Hey! gotta go.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Cuts to George's car. Kramer changes the stations on the radio]<br>
+							<br>
+							
+						GEORGE: So the Wig master.......the Wig master said you could stop by the theater tonight.. and he'll show you around.<br>
+							<br>
+							
+						GEORGE: WOULD YOU PICK A STATION!!!!!<br>
+							<br>
+							
+						KRAMER: I like 'em all(still fiddles with the radio)<br>
+							<br>
+							
+						GEORGE: Aw great. Now the volume knob fell off<br>
+							<br>
+							
+						KRAMER: (seems to pickup something on the floor) ....'s'this?<br>
+							<br>
+							
+						KRAMER: Gawd!!!<br>
+							<br>
+							
+						GEORGE: What?<br>
+							<br>
+							
+						KRAMER: That's a....ca.....ca..........Condom!!<br>
+							<br>
+							
+						(They both shriek)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Monks]<br>
+							<br>
+							
+						ELAINE: How do you like working there at the .... hum...Andover shop? I mean it's a pretty swanky upscale clientele.<br>
+							<br>
+							
+						CRAIG: Hmmm<br>
+							<br>
+							
+						ELAINE: except for Jerry!(laughs)<br>
+							<br>
+							
+						CRAIG: So did you see anything you'd like....<br>
+							<br>
+							
+						ELAINE: Oh!!!<br>
+							<br>
+							
+						CRAIG: Cause I can get you a considerable discount.<br>
+							<br>
+							
+						ELAINE: Really!...Well actually yeah I did see this ......'mazing little black dress...it was sleeveless....<br>
+							<br>
+							
+						CRAIG: The Nicole Miller<br>
+							<br>
+							
+						ELAINE: Yeah..Yeah...<br>
+							<br>
+							
+						CRAIG: I'll take care of it.<br>
+							<br>
+							
+						ELAINE: Really....but I barely know you.<br>
+							<br>
+							
+						CRAIG: Well...hum.....we'll just have to do something about that. Won't we.<br>
+							<br>
+							
+						ELAINE: Ah! Ah!ah!<br>
+							<br>
+							
+						(Jerry peeks into Monks window then comes in as Craig is leaving.)<br>
+							<br>
+							
+						JERRY: Hey! Greg<br>
+							<br>
+							
+						CRAIG: It's Craig<br>
+							<br>
+							
+						JERRY: Ah! right...nice. Lunch with Elaine?<br>
+							<br>
+							
+						CRAIG: Yes lovely.<br>
+							<br>
+							
+						JERRY: You know 'm just curious, How did you know she wasn't my girlfriend?<br>
+							<br>
+							
+						CRAIG: Well I could just sense it<br>
+							<br>
+							
+						JERRY: Because you know we used to go out.<br>
+							<br>
+							
+						CRAIG: Oh ! you did<br>
+							<br>
+							
+						JERRY: Oh Yeah we went way out and wild.<br>
+							<br>
+							
+						ELAINE: Hey Jerr...<br>
+							<br>
+							
+						JERRY: Hi Elaine.<br>
+							<br>
+							
+						(In comes a lady selling roses)<br>
+							<br>
+							
+						LADY: Would you like to buy a rose for your wife? ( to Craig)<br>
+							<br>
+							
+						(Craig and Elaine both laugh)<br>
+							<br>
+							
+						JERRY: How do you know she's not my wife?<br>
+							<br>
+							<br>
+							<br>
+							
+						[Cuts to the Jiffy Park]<br>
+							<br>
+							
+						GEORGE: I want to know how did that get into my car?<br>
+							<br>
+							
+						ATTENDANT: Hey look ..You walk in to this city you got to expect things are gonna stick to your foot. You open in your car and Bing!! Condom.<br>
+							<br>
+							
+						GEORGE: That doesn't explain the lipstick on the dashboard?<br>
+							<br>
+							
+						ATTENDANT: Here take a few shirts....<br>
+							<br>
+							
+						(A man walks over the attendant and whispers in to his ears.)<br>
+							<br>
+							
+						ATTENDANT: I'm terribly sorry Mr Kramer but we can't get your car now, the keys seems to have been misplaced.<br>
+							<br>
+							
+						KRAMER: Wait a minute I need those keys. I wont be able to get into my apartment.<br>
+							<br>
+							
+						ATTENDANT: Aaye Mr Kramer....You like Cadillacs?<br>
+							<br>
+							
+						KRAMER: ...Yeah I like Cadillacs (cautiously) Why ? What you got on your mind?<br>
+							<br>
+							
+						ATTENDANT: Take that pink Eldorado Cadillac over there , it's a Mary Kay car....<br>
+							<br>
+							
+						KRAMER: Mary Kay uh?<br>
+							<br>
+							
+						ATTENDANT: Mary Kay car..<br>
+							<br>
+							
+						KRAMER: (to George) Well listen See you later ..thanks for driving me by..<br>
+							<br>
+							
+						(Two prostitutes walk up to a car)<br>
+							<br>
+							
+						HOOKER: Hey!! Whats happening?<br>
+							<br>
+							
+						GEORGE: We're gonna hang around here a little while....something funny going on here<br>
+							<br>
+							<br>
+							<br>
+							
+						[Cuts to Jerry's apartment]<br>
+							<br>
+							
+						ELAINE: You were wrong about Craig . He's a very sweet guy.<br>
+							<br>
+							
+						JERRY: Well, what about the ponytail?<br>
+							<br>
+							
+						ELAINE: what about it?<br>
+							<br>
+							
+						JERRY:: C'mon Ponytail ...Get real.<br>
+							<br>
+							
+						ELAINE: All I know he's promised me a discount on that dress.<br>
+							<br>
+							
+						JERRY: Of course he did ..The guy's working ya.<br>
+							<br>
+							
+						ELAINE: Ah! Jerry I've been around long enough to know when I'm being worked.<br>
+							<br>
+							
+						JERRY: Have you slept with him yet?<br>
+							<br>
+							
+						ELAINE: I just met him this morning.<br>
+							<br>
+							
+						JERRY: It's been known to happen....... telling you right now Elaine, this guy 's gonna dangle that dress in front of you like a dirt farmer dangles a carrot in front of a mule.<br>
+							<br>
+							
+						ELAINE:. Well this is all very flattering...<br>
+							<br>
+							
+						JERRY: (interrupts)like a shark fisherman with a bucket of (?) Ch....<br>
+							<br>
+							
+						ELAINE: Ok....<br>
+							<br>
+							
+						JERRY: (continues)Like a shrimp farmer....<br>
+							<br>
+							
+						ELAINE: OKAY!!!<br>
+							<br>
+							<br>
+							<br>
+							
+						[Cuts to the Majestic Theater.]<br>
+							<br>
+							
+						ETHAN: Well that's the grand tour ... Aw but I save the best for last...<br>
+							<br>
+							
+						KRAMER: Oh yeah!!<br>
+							<br>
+							
+						ETHAN: Behold .. The Technicolor Dreamcoat.<br>
+							<br>
+							
+						KRAMER: Oooooh ...Pops .... Wow!! Spectacular.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Cuts to the Jiffy Park]<br>
+							<br>
+							
+						GEORGE: S'cuse me ..Do you mind if I ask you a few questions?<br>
+							<br>
+							
+						HOOKER: Are you a cop??<br>
+							<br>
+							
+						GEORGE: Oh No nonono I'm not a cop ...Heum... I work for the Yankees.<br>
+							<br>
+							
+						HOOKER: Urghh They stink.<br>
+							<br>
+							
+						GEORGE: Nevertheless.. I was wondering if you and your .friends are doing business here at the Jiffy Park.... You know ..hum What do you people call it? Turning tricks? Anyway I...I....found a condom in my car....and I'm not saying it's yours but.... I want to know if I should just change parking lots.<br>
+							<br>
+							
+						HOOKER: Get lost mister, I'm trying to make a living here.<br>
+							<br>
+							
+						GEORGE: I'll pay you for your time....I just ..I just need some information . How much do you want? ten....fifteen? You have change for twenty?<br>
+							<br>
+							
+						HOOKER: Fifteen?<br>
+							<br>
+							
+						SUSAN: (walks in) George?<br>
+							<br>
+							
+						GEORGE: Hi honey..<br>
+							<br>
+							
+						(Hooker picks up the money as George looks embarrassed.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Scene cuts to George's apartment.]<br>
+							<br>
+							
+						SUSAN: ..So you're telling me the truth?<br>
+							<br>
+							
+						GEORGE: Of Course I'm telling the truth.<br>
+							<br>
+							
+						SUSAN: Because I have to be able to trust you... If I can't trust you then there's no way that this can work.<br>
+							<br>
+							
+						GEORGE: Really!<br>
+							<br>
+							
+						SUSAN: Yeah.<br>
+							<br>
+							
+						GEORGE: Well then...then you really have something to think about because.....you know if there's any doubt in your mind ....and.. and,, it doesn't even have to be a big doubt, you know even a tiny doubt, a DOT of a doubt.. and.....<br>
+							<br>
+							
+						SUSAN: There's no doubt.<br>
+							<br>
+							
+						GEORGE: Because if there's any doubt at all I...I feel we should cultivate it.<br>
+							<br>
+							
+						SUSAN: Cultivate it?<br>
+							<br>
+							
+						GEORGE: Yes, you know. Deal with it .We have to deal with the doubt, Susan The DOUBT!! Must be dealt with.<br>
+							<br>
+							
+						SUSAN: I have no doubt George. Do you?<br>
+							<br>
+							
+						GEORGE: (hesitates) ...Nooooooooooo...<br>
+							<br>
+							<br>
+							<br>
+							
+						[Cuts to Elaine and Craig waljing on the street.]<br>
+							<br>
+							
+						ELAINE: You know... I can't wait to get that dress..<br>
+							<br>
+							
+						CRAIG: Yeah... It should arrive eminently.<br>
+							<br>
+							
+						ELAINE: Arrive?<br>
+							<br>
+							
+						CRAIG: Yes! From Milan.<br>
+							<br>
+							
+						ELAINE: But you said it was in the store!.<br>
+							<br>
+							
+						CRAIG: No no no We sold out we had to order some more.<br>
+							<br>
+							
+						ELAINE: But I thought .. Nicole Miller was made.......<br>
+							<br>
+							
+						CRAIG: (Interrupts) Eeen!!!<br>
+							<br>
+							
+						IAN: Hey Craig.<br>
+							<br>
+							
+						CRAIG: Elaine this is Een.<br>
+							<br>
+							
+						ELAINE: Hi E-an<br>
+							<br>
+							
+						IAN: Een..<br>
+							<br>
+							
+						ELAINE: E-an<br>
+							<br>
+							
+						CRAIG: Een... He's a friend a mine from England<br>
+							<br>
+							
+						IAN: (word missing) What are doing?<br>
+							<br>
+							
+						CRAIG: I'm working at the Andover shop actually....You should come by. I'll get you a great discount.<br>
+							<br>
+							
+						IAN: Maybe I will. Nice meeting you.<br>
+							<br>
+							
+						ELAINE: Oh..Nice to meet you.<br>
+							<br>
+							
+						CRAIG: Bye<br>
+							<br>
+							
+						IAN: ..Cheery-o<br>
+							<br>
+							
+						ELAINE: Bye Eeeen.<br>
+							<br>
+							
+						ELAINE: So you're giving him a discount too?<br>
+							<br>
+							
+						CRAIG: Hummm Why so surprised?<br>
+							<br>
+							
+						ELAINE: Hem!! No reason.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Cuts to Jerry's apartment. Jerry and Kramer are watching tv.]<br>
+							<br>
+							
+						JERRY: You know that clothing salesman had a lot of nerve hitting on Elaine right in front of me. He stands to make a big commission too on that jacket with the crest that nobody seems to like. You know what I'm gonna do.? I'm gonna take that jacket back.. I'm putting this guy ....RIGHT OUT OF COMMISSION....<br>
+							<br>
+							
+						KRAMER: Heeeeeummmrph.... I'm gonna turn in<br>
+							<br>
+							
+						JERRY: Turn in?<br>
+							<br>
+							
+						KRAMER: Yeah,I had a tough day<br>
+							<br>
+							
+						JERRY: It's only nine o clock.<br>
+							<br>
+							
+						KRAMER: Well ..I don't argue with the body Jerry. It's an argument you can't win.<br>
+							<br>
+							
+						JERRY: I can't go to sleep at nine o clock!<br>
+							<br>
+							
+						KRAMER: Well you can go to your room and read.<br>
+							<br>
+							
+						JERRY: Hey look ,you know, you're the one who's locked out. I'm letting you stay here. You're wearing my bathrobe. You should adapt to me.<br>
+							<br>
+							
+						KRAMER: But I'm tired..<br>
+							<br>
+							
+						JERRY: Oh why don't you go sleep over at Newman's.<br>
+							<br>
+							
+						KRAMER: Aah! He's got a girl up there. This quilt is too thin...I know I'm gonna get cold. I don't even fit on this couch. Don't even know if I'm gonna sleep....<br>
+							<br>
+							
+						JERRY: Well that's all I got.<br>
+							<br>
+							
+						KRAMER: Can I sleep with you?<br>
+							<br>
+							
+						JERRY: Huh?<br>
+							<br>
+							
+						KRAMER: Well you got that big comfortable bed and that nice warm quilt.<br>
+							<br>
+							
+						JERRY: Kramer , there's no way you're sleeping with me.<br>
+							<br>
+							
+						KRAMER: Why?<br>
+							<br>
+							
+						JERRY: Why?<br>
+							<br>
+							
+						KRAMER: Yeah!<br>
+							<br>
+							
+						JERRY: Do I really have to explain why?<br>
+							<br>
+							
+						KRAMER: Well I......( Elaine pops in at that moment)<br>
+							<br>
+							
+						ELAINE: Hi!.<br>
+							<br>
+							
+						KRAMER: Hi...........What's that?<br>
+							<br>
+							
+						ELAINE: Squire's walking stick. I had to write about it for the catalogue.<br>
+							<br>
+							
+						KRAMER: Wow.<br>
+							<br>
+							
+						ELAINE: You want it?<br>
+							<br>
+							
+						KRAMER: Yeaaahmm....<br>
+							<br>
+							
+						ELAINE: You can have ,I don't need it anymore.<br>
+							<br>
+							
+						KRAMER: Ooh Mama...( walks away)<br>
+							<br>
+							
+						ELAINE: Ok so ..I am positive you are wrong about Craig.<br>
+							<br>
+							
+						JERRY: Yeah Why?<br>
+							<br>
+							
+						ELAINE: Because he told a man he'd give him a discount too... a man Jerry.<br>
+							<br>
+							
+						JERRY: So ,Who is he?<br>
+							<br>
+							
+						ELAINE: Some friend of his from England.<br>
+							<br>
+							
+						JERRY: Don't you see?...........It's all a big scam.<br>
+							<br>
+							
+						ELAINE: You're nuts!<br>
+							<br>
+							
+						KRAMER: How do you know he's not wondering the same thing about you?<br>
+							<br>
+							
+						ELAINE: What d'you mean?<br>
+							<br>
+							
+						KRAMER: What do I mean?.. Well perhaps he thinks that you're working him for the discount. Shaking that little butt of yours into big, big savings.... And then when you get it,you know, you drop him like a hot potato.<br>
+							<br>
+							
+						ELAINE: Aawwh Please.....<br>
+							<br>
+							
+						KRAMER: Now see the two of you need to work on trust... and then and only then will there be a free exchange of sex and discounts.. Cornerstones of a healthy relationship....and now if you would (taps twice on the door) excuse us. We need to get to bed.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Scene cuts to Jerry's bed. Lights are out. Kramer opens the light and starts to read.]<br>
+							<br>
+							
+						KRAMER: (softly)hmmm....patio furniture's on sale.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Cuts to the Jiffy Park the next morning.]<br>
+							<br>
+							
+						GEORGE: Excuse me...huh... I think I made a big mistake. I'd like my deposit back please.<br>
+							<br>
+							
+						ATTENDANT: Whats the problem<br>
+							<br>
+							
+						GEORGE: You got hookers turning tricks in my car. How's that for starters.<br>
+							<br>
+							
+						ATTENDANT: Haaan! That is all hearsay.<br>
+							<br>
+							
+						GEORGE: Allright, very good I'd like my car and my deposit back please<br>
+							<br>
+							
+						ATTENDANT: Can't do it'<br>
+							<br>
+							
+						GEORGE: Whadday'mean.?<br>
+							<br>
+							
+						ATTENDANT: If you read the agreement you signed the deposit is not refundable.<br>
+							<br>
+							
+						GEORGE: Well does it say anywhere in the contract about my car being used as a whorehouse? 'Cause I don't remember reading that clause either..<br>
+							<br>
+							
+						ATTENDANT: What can I tell you buddy. Take it up with Consumer Affairs.<br>
+							<br>
+							
+						GEORGE:. All right , just give me my car and let me get the hell out of here.<br>
+							<br>
+							
+						ATTENDANT: Well that's going to be a problem<br>
+							<br>
+							
+						GEORGE: Why?<br>
+							<br>
+							
+						ATTENDANT: It's all the way in the back. Can't get it out for a couple of days.<br>
+							<br>
+							
+						GEORGE: What are you talking about.. I WANT MY CAR!!<br>
+							<br>
+							
+						ATTENDANT: We ask that you please bear with us.<br>
+							<br>
+							
+						GEORGE: Bear with you! This is a parking lot PEOPLE ARE SUPPOSED TO BE ABLE TO GET<br>
+							<br>
+							
+						THEIR CARS!!!<br>
+							<br>
+							
+						ATTENDANT: Ideally..<br>
+							<br>
+							<br>
+							<br>
+							
+						[Scene cuts to the Andover shop.]<br>
+							<br>
+							
+						JERRY: Excuse me I'd like to return this jacket.<br>
+							<br>
+							
+						TELLER: Certainly. May I ask why?<br>
+							<br>
+							
+						JERRY: ........For spite...<br>
+							<br>
+							
+						TELLER: Spite?<br>
+							<br>
+							
+						JERRY: That's right. I don't care for the salesman that sold it to me.<br>
+							<br>
+							
+						TELLER: I don't think you can return an item for spite.<br>
+							<br>
+							
+						JERRY: What do you mean?<br>
+							<br>
+							
+						TELLER: Well if there was some problem with the garment. If it were unsatisfactory in some way, then we could do it for you, but I'm afraid spite doesn't fit into any of our conditions for a refund<br>
+							<br>
+							
+						JERRY: That's ridiculous, I want to return it. What's the difference what the reason is.<br>
+							<br>
+							
+						TELLER: Let me speak with the manager...excuse me .............Bob!<br>
+							<br>
+							
+						(walks over to the manager and whispers)<br>
+							<br>
+							
+						TELLER: ........spite.....(Manager walks over)<br>
+							<br>
+							
+						BOB: What seems to be the problem?<br>
+							<br>
+							
+						JERRY: Well I want to return this jacket and she asked me why and I said for spite and now she won't take it back.<br>
+							<br>
+							
+						BOB: That's true. You can't return an item based purely on spite.<br>
+							<br>
+							
+						JERRY:. Well So fine then ..then I don't want it and then that's why I'm returning it<br>
+							<br>
+							
+						BOB: Well you already said spite so......<br>
+							<br>
+							
+						JERRY: But I changed my mind..<br>
+							<br>
+							
+						BOB: No...you said spite...Too late.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Cuts to a terrace where Kramer is sitting with Ethan and a woman.]<br>
+							<br>
+							
+						(They make fun of a woman walking by.)<br>
+							<br>
+							
+						KRAMER: It's Halloween (not sure)<br>
+							<br>
+							
+						CHARMAINE: Get a calendar honey! It's the 90's<br>
+							<br>
+							
+						KRAMER: Hey! Elaine..<br>
+							<br>
+							
+						JERRY: OH! Hey!!<br>
+							<br>
+							
+						KRAMER: These are my friends Jerry and Elaine.<br>
+							<br>
+							
+						JERRY &amp; ELAINE: Hi! How 'r u doing?<br>
+							<br>
+							
+						CHARMAINE:: Hi I'm Charmaine<br>
+							<br>
+							
+						ETHAN: I'm Ethan<br>
+							<br>
+							
+						KRAMER: Yes, she's the costume designer and he's the wig master for the show.<br>
+							<br>
+							
+						JERRY: Hey You're staying with my friend George.<br>
+							<br>
+							
+						ETHAN: Right George! I get the feeling he doesn't want me there.<br>
+							<br>
+							
+						JERRY: Well he doesn't even want himself there.<br>
+							<br>
+							
+						(They all laugh)<br>
+							<br>
+							
+						CHARMAINE: Why don't you sit down and join us?<br>
+							<br>
+							
+						JERRY: All right. (sits down)<br>
+							<br>
+							
+						ELAINE: I can't I 've got to meet a friend.<br>
+							<br>
+							
+						KRAMER: Well what are we ...dog meat.<br>
+							<br>
+							
+						ETHAN: (to waiter) ....Champagne Coolies , please.<br>
+							<br>
+							
+						ETHAN: (to Elaine) You've got really beautiful hair.<br>
+							<br>
+							
+						ELAINE: Oh Thanks, thank you very much.<br>
+							<br>
+							
+						ETHAN: Have you ever thought about selling it .It would make a brilliant wig..<br>
+							<br>
+							
+						JERRY: They make wigs out of human hairs?<br>
+							<br>
+							
+						ETHAN: ..And pay plenty for them.<br>
+							<br>
+							
+						ELAINE: Well you guys are gonna have fun here so..bye take care<br>
+							<br>
+							
+						KRAMER: Yeah. See ou later..<br>
+							<br>
+							
+						ALL: Bye, now...<br>
+							<br>
+							
+						CHARMAINE: Oh! I just remembered I 've got to get the Dreamcoat from the dry cleaners<br>
+							<br>
+							
+						KRAMER: Hey! You gonna let me try the other one right?'<br>
+							<br>
+							
+						CHARMAINE: Yeah. But you gonna have to be really careful with it , it's my only backup.<br>
+							<br>
+							
+						KRAMER: Hey! Who do you think you're talking to.<br>
+							<br>
+							
+						CHARMAINE: Ok. Buh- bye!<br>
+							<br>
+							
+						KRAMER: Bye!!<br>
+							<br>
+							
+						JERRY: Bye!<br>
+							<br>
+							
+						(they both leave. Jerry and Ethan are alone)<br>
+							<br>
+							
+						ETHAN: There's your Champagne Coolie. Well looks like it's just you and me cowboy!.<br>
+							<br>
+							
+						JERRY: ...Guess so.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Scene cuts to Elaine's appt.]<br>
+							<br>
+							
+						ELAINE: Well, Here we are.<br>
+							<br>
+							
+						CRAIG: I....am..beat.(sits on the couch)<br>
+							<br>
+							
+						ELAINE: (sighs)<br>
+							<br>
+							
+						CRAIG: Ohh! that's nice.<br>
+							<br>
+							
+						ELAINE: So.ehmmmm. so, do you have any ideas when the Nicole Millers are coming in?<br>
+							<br>
+							
+						CRAIG: Oh! yeah. The Nicole Millers ...hemm.. Well the funniest thing.<br>
+							<br>
+							
+						ELAINE: Huh!<br>
+							<br>
+							
+						CRAIG: I've learned that the new shipment's coming in by boat... which does tend to take a little longer with, you know ,what with the waves and all .. So you'll just have to be a little bit patient .<br>
+							<br>
+							
+						ELAINE: Hummm.... so you've no idea when.. they'll arrive.<br>
+							<br>
+							
+						CRAIG: (yawns) ...Nno....I really don't......<br>
+							<br>
+							<br>
+							<br>
+							
+						[Back to the terrace with Jerry and Ethan]<br>
+							<br>
+							
+						ETHAN: How can she go with a guy like that , he's a mess... I just don't see them together at all<br>
+							<br>
+							
+						(A man approaches.)<br>
+							<br>
+							
+						JESSIE: Ethan?<br>
+							<br>
+							
+						ETHAN: Yes..<br>
+							<br>
+							
+						JESSIE:. Hi it's me Jessie....George Hamilton's personal assistant.<br>
+							<br>
+							
+						ETHAN:. Right, Right.<br>
+							<br>
+							
+						(Both greet each other)<br>
+							<br>
+							
+						ETHAN: How you doin'?<br>
+							<br>
+							
+						JESSIE: nice to see you..<br>
+							<br>
+							
+						ETHAN: This is Jerry.<br>
+							<br>
+							
+						JERRY: Hello..<br>
+							<br>
+							
+						JESSIE: yeah , hummm ( turns back to Ethan) Ethan ,what brings you in to town.<br>
+							<br>
+							
+						ETHAN: I'm touring with Joseph and the Amazing Technicolor Dreamcoat<br>
+							<br>
+							
+						JESSIE: You're kidding... Listen maybe you and I should...ehmmm get together . Have you been on the slide at Club USA it's ...intense.<br>
+							<br>
+							
+						JERRY: (Interrupts) Excuse me...Excuse me... Are you asking him out ?<br>
+							<br>
+							
+						JESSIE: Yeah...I guess you could say that..<br>
+							<br>
+							
+						JERRY: Right in front of me!. How do you know we're not together. Two guys, sittin' laughin' drinking Champagne Coolies.<br>
+							<br>
+							
+						JESSIE: I dunno I just didn't think you were.<br>
+							<br>
+							
+						JERRY: Well we're sitting here together. Why wouldn't you think that.<br>
+							<br>
+							
+						JESSIE: I dont know. I just didn't.<br>
+							<br>
+							
+						JERRY: Well it's very emasculating..<br>
+							<br>
+							
+						(Jessie looks befuddled and leaves.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Back to Elaine's phone rings.]<br>
+							<br>
+							
+						ELAINE: Hello.<br>
+							<br>
+							
+						BOB:. Hi this is Bob from the Andover Shop. I'm trying to reach Craig Stewart. He left this number.<br>
+							<br>
+							
+						ELAINE: Uhmmm huh! Is it important.?<br>
+							<br>
+							
+						BOB: Well.....<br>
+							<br>
+							
+						ELAINE: Let me ask you something. ahemm..Do you know when the Nicole Millers are coming in from Milan?.<br>
+							<br>
+							
+						BOB: Nicole Millers, We're not expecting any Nicole Millers, in fact we have too many as it is.<br>
+							<br>
+							
+						ELAINE: Well do you have any in a... size four.?<br>
+							<br>
+							
+						BOB: Yes several.. Just tell him he doesn't have to be in tomorrow before Eleven.<br>
+							<br>
+							
+						ELAINE: (sarcastically) Oh! yeah I'll make sure he gets the message. (looks at the sleeping Craig and thinks) They make wigs out of human hair? (still thinking, Ethan's voice) And pay plenty for them.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Scene cuts to a woman in a white coat and hat leaving a store. Her hat gets caught in a gust of wind. and starts rolling down the street. Kramer picks up the hat with the walking stick and puts it on. He struts down the street with the Dreamcoat/hat/stick looking very much like a stereotype pimp. He goes to the Jiffy Park to pick up the Cadillac]<br>
+							<br>
+							
+						KRAMER: (looks inside the car and gasps) Ohhh Sweet Maria. Hey! lets go.<br>
+							<br>
+							
+						(Out comes the hooker with a client.)<br>
+							<br>
+							
+						KRAMER: Hey What are you doing in my car? Hey!Hey!Hey! Where you going.<br>
+							<br>
+							
+						HOOKER: Hey. You just cost me some money Mr.(starts hitting Kramer)<br>
+							<br>
+							
+						KRAMER: Cool it lady ( they struggle and we here a siren)<br>
+							<br>
+							
+						POLICE: Policer officer. Freeze right there.<br>
+							<br>
+							
+						(As the credits roll we hear an officer telling Kramer who is to get his picture taken.)<br>
+							<br>
+							
+						POLICE: OK Big Daddy. Take the hat off...... awright turn to your right...(Kramer hesitates) I SAID TURN PIMP.<br>
+							<br>
+							
+						KRAMER: (cries) I'M NOT A PIMP.!!!.<br>
+							<br>
+							<br>
+							
+						The End</td>
+						</tr>
+						<tr height="6">
+							<td class="bottom2" width="645" height="6"></td>
+						</tr>
+						<tr>
+							<td width="645">
+								<div align="center">
+									<font size="-1">Copyright 2006 seinology.com | All Rights Reserved | Designed by 13erla</font></div>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+		<p></p>
+	</body>
+
+</html>

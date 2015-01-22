@@ -1,0 +1,1371 @@
+<tdOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+<html>
+
+	<head>
+		<meta http-equiv="content-type" content="text/html;charset=ISO-8859-1">
+		<meta name="description" content="Top Source for Seinfeld">
+		<meta name="keywords" content="seinfeld, sienfeld, Jerry Seinfeld, Julia Louis Dreyfus, Jason Alexander, Michael Richards, Kramer, George, Costanza, Elaine Benes, morty, Larry David">
+		<title>Seinology.com :: Scripts :: 43-The Pitch</title>
+	<link rel='stylesheet' href='/stylesheet.css' type='text/css'>
+	</head>
+
+	<body>
+			<table align="center" width="787" border="0" cellspacing="0" cellpadding="0">
+				<tr>
+					<td><font size="-2" color="red">Seinology.com - </font><font size="-3" color="black">Where Seinfeld Content and Accuracy Matter Most. Seinfeld scripts in pdf form, Seinfeld episode video clips, Seinfeld episode audio clips, Jerry Seinfeld appearances, Julia Louis-Dreyfus appearances, Michael Richards appearances, Jason Alexander appearances, Seinfeld discussion Forum, Seinfeld Where are they Now? Seinlanguage Newsletter, Popular Seinfeld Lists, Seinfeld episode standup, Seinfeld episode guide, Seinfeld fan fiction. Seinfeld content all on one domain. Seinology.com enjoy your stay.</font></td>
+				</tr>
+			</table>
+		
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr height="100">
+				<td class="logo"></td>
+			</tr>
+			<tr><td class="ads" align="center" background=#8694fa>
+				<script type="text/javascript"><!--
+google_ad_client = "pub-1924026976931416";
+google_ad_width = 728;
+google_ad_height = 90;
+google_ad_format = "728x90_as";
+google_ad_type = "text";
+google_ad_channel = "";
+google_color_border = "FFFFFF";
+google_color_bg = "8694fa";
+google_color_link = "0000FF";
+google_color_text = "000000";
+google_color_url = "002E3F";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></td></tr>
+		</table>
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr>
+				<td valign="top" width="136">
+					<table width="136" border="0" cellspacing="0" cellpadding="0">
+						<tr height="24">
+							<td class="navigation">
+								<div align="center">
+									
+									<b>Navigation</b></div>
+							</td>
+						</tr>
+						<tr height="199">
+							<td class="spacer1" valign="top" width="136" height="199">
+								<div align="center">
+									<font size="-1"><a href="http://www.seinology.com">Home</a><br>
+										<a href="http://board.seinology.com">Forum</a><br>
+										<a href="http://www.seinology.com/av.shtml">Audio/Video</a><br>
+										<a href="http://www.seinology.com/scripts.shtml">Scripts</a><br>
+										<a href="http://www.seinology.com/survivor.shtml">Survivor</a><br>
+										<a href="http://www.seinology.com/fanfics.shtml">Fan Fiction</a><br>
+										<a href="http://www.seinology.com/gallery/">Gallery</a><br>
+										<a href="http://www.seinology.com/newsletter.shtml">Newsletter</a><br>
+										<a href="http://www.seinology.com/lists.shtml">Lists</a><br>
+										<a href="http://www.seinology.com/epguide.shtml">Episode Guide</a><br>
+										<a href="http://www.seinology.com/links.shtml">Links</a><br>
+										<a href="http://www.seinology.com/faqother.shtml">Faq + others</a><br>
+										<a href="http://www.seinology.com/legal.shtml">Legal</a></font></div>
+							</td>
+						</tr>
+						
+						<tr>
+							<td class="nav2" width="136">
+							<div align="center"><b>Search</b></div></td>
+						</tr>
+						<tr>
+							<td class="spacer1" width="136" valign="top"><div align="center"><form method="get" action="http://www.seinology.com/search/search.cgi">
+<p><label for="fdse_Match">Match</label><br>
+<select name="Match" id="fdse_Match" size="1">
+<option value="1">All</option>
+<option value="0">Any</option>
+<option value="2">Phrase</option>
+</select></p>
+<p><label for="fdse_Realm">Where?</label><br>
+<select name="Realm" id="fdse_Realm" size="1">
+<option selected="selected" value="All">EntireSite</option>
+<option value="Ep Guide">Ep Guide</option>
+<option value="Images">Images</option>
+<option value="Lists">Lists</option>
+<option value="Newsletters">Newsletters</option>
+<option value="Scripts">Scripts</option>
+<option value="Notes..Nothing">Notes..Nothing</option>
+</select></p>
+<p><input type="text" name="Terms" size="14" id="fdse_Terms"><br>
+<input type="submit" class="submit" name="submitButtonName" value="Search"></p>
+</div></form></td>
+						</tr>
+						<tr><td class="bottom" width="136" height="10" valign="top">
+						</td>
+						</tr>
+					</table>
+				</td>
+				<td width="4"></td>
+				<td valign="top" width="645">
+					<table width="645" border="0" cellspacing="0" cellpadding="0">
+						<tr height="18">
+							<td width="645" height="35" class="bar">
+								<div align="center">
+									<b><font size="+2" color="black">Script</font></b></div>
+							</td>
+						</tr>
+						<tr height="362">
+							<td class="spacer2" valign="top" width="645" height="362">
+
+						<p><font size="-2">Episode 43 - The Pitch<br>
+							
+						pc: 403, season 4, episode 3<br>
+							
+						Broadcast date: September 16, 1992<br>
+							<br>
+							
+						Written by Larry Charles<br>
+							
+						Directed by Tom Cherones<br>
+							<br>
+							
+						-------------------------------------------------------------------------------<br>
+							<br>
+							
+						The Cast<br>
+							
+						Regulars:<br>
+							
+						Jerry Seinfeld ....................... Jerry Seinfeld<br>
+							
+						Jason Alexander .................. George Costanza<br>
+							
+						Julia Louis-Dreyfus ............. Elaine Benes<br>
+							
+						Michael Richards ................. Kramer<br>
+							<br>
+							
+						Guest Stars:<br>
+							<br>
+							
+						Kevin Page .......................... Stu<br>
+							
+						Stephen McHattie ............... Psychiatrist (Dr. Reston)<br>
+							
+						Peter Blood ......................... Jay<br>
+							
+						Julie Blum ............................ Receptionist<br>
+							
+						Steve Skrovan ..................... Tommy<br>
+							
+						Ron Ross ............................. Homeless Man<br>
+							
+						rc: Wayne Knight ................ Newman<br>
+							
+						rc: Bob Balaban ................... Russell Dalrimple<br>
+							
+						rc: Heidi Swedberg ............. Susan Biddle Ross<br>
+							
+						rc: Peter Crombie ................ Crazy&quot; Joe Davola?<br>
+							<br>
+							
+						==================================================================<br>
+							<br>
+							
+						[The Improv Bar]<br>
+							<br>
+							
+						GEORGE: What did they do for toilet paper in the civil war?<br>
+							<br>
+							
+						JERRY: What?<br>
+							<br>
+							
+						GEORGE: I wonder what toilet paper was loike in the 1860's. Did they carry it in rolls in their duffle bags?<br>
+							<br>
+							
+						JERRY: Everything with you comes down to toilet paper.<br>
+							<br>
+							
+						GEORGE: What?<br>
+							<br>
+							
+						JERRY: That's always the first question with you. Why is that always your focus?<br>
+							<br>
+							
+						GEORGE: All right, so what did they do?<br>
+							<br>
+							
+						JERRY: I don't know. Maybe they gave out fig leaf clumps to all the soldiers.<br>
+							<br>
+							
+						GEORGE: Well I think it would be nice if there was some kind of historical record of it.<br>
+							<br>
+							
+						JERRY: Maybe they should have a toilet paper museum. Would you like that? So we could see all the toilet paper advancements down through the ages. Toilet paper of the Crusades, the development of the perforation, the first six-pack . . .<br>
+							<br>
+							
+						STU: Excuse me, Jerry? I'm Stu Chermak. I'm with NBC.<br>
+							<br>
+							
+						JERRY: Hi.<br>
+							<br>
+							
+						STU: Could we speak for a few moments?<br>
+							<br>
+							
+						JERRY: Sure.<br>
+							<br>
+							
+						JAY: Hi, Jay Crespi.<br>
+							<br>
+							
+						JERRY: Hello.<br>
+							<br>
+							
+						GEORGE: Uh, C-R-E-S-P-I?<br>
+							<br>
+							
+						JAY: That's right.<br>
+							<br>
+							
+						GEORGE: I'm unbelievable at spelling last names. Give me a last name.<br>
+							<br>
+							
+						JAY: Mm, I'm not-<br>
+							<br>
+							
+						JERRY: George-<br>
+							<br>
+							
+						GEORGE: (backing off) Huh? All right, fine.<br>
+							<br>
+							
+						STU: First of all, that was a terrific show.<br>
+							<br>
+							
+						JERRY: Oh thank you very much.<br>
+							<br>
+							
+						STU: And basically, I just wanted to let you know that we've been discussing you at some of our meetings and we'd be very interested in doing something.<br>
+							<br>
+							
+						JERRY: Really? Wow.<br>
+							<br>
+							
+						STU: So, if you have any idea for like a TV show for yourself, well, we'd just love to talk about it.<br>
+							<br>
+							
+						JERRY: I'd be very interested in something like that.<br>
+							<br>
+							
+						STU: Well, here, uh, why don't you give us a call and maybe we can develop a series.<br>
+							<br>
+							
+						(They start to exit.)<br>
+							<br>
+							
+						JERRY: Okay. Great. Thanks.<br>
+							<br>
+							
+						STU: It was very nice meeting you.<br>
+							<br>
+							
+						JERRY: Thank you.<br>
+							<br>
+							
+						JAY: Nice meeting you.<br>
+							<br>
+							
+						JERRY: Nice meeting you.<br>
+							<br>
+							
+						(George returns)<br>
+							<br>
+							
+						GEORGE: What was that all about?<br>
+							<br>
+							
+						JERRY: They said they were interested in me.<br>
+							<br>
+							
+						GEORGE: For what?<br>
+							<br>
+							
+						JERRY: You know, a TV show.<br>
+							<br>
+							
+						GEORGE: Your own show?<br>
+							<br>
+							
+						JERRY: Yeah, I guess so.<br>
+							<br>
+							
+						GEORGE: They want you to do a TV show?<br>
+							<br>
+							
+						JERRY: Well, they want me to come up with an idea. I mean, I don't have any ideas.<br>
+							<br>
+							
+						GEORGE: Come on, how hard is that? Look at all the junk that's on TV. You want an idea? Here's an idea. You coach gymnastics team in high school. And you're married. And your son's not interested in gymnastics and you're pushing him into gymnastics.<br>
+							<br>
+							
+						JERRY: Why should I care if my son's into gymnastics?<br>
+							<br>
+							
+						GEORGE: Because you're a gymnastics teacher. It's only natural.<br>
+							<br>
+							
+						JERRY: But gymnastics is not for everybody.<br>
+							<br>
+							
+						GEORGE: I know, but he's your son.<br>
+							<br>
+							
+						JERRY: So what?<br>
+							<br>
+							
+						GEORGE: All right, forget that idea, it's not for you....Okay, okay, I got it. You run an antique store.<br>
+							<br>
+							
+						JERRY: Yeah and...?<br>
+							<br>
+							
+						GEORGE: And people come in the store and you get involved in their lives.<br>
+							<br>
+							
+						JERRY: What person who runs an antique store gets involved in people's lives?<br>
+							<br>
+							
+						GEORGE: Why not?<br>
+							<br>
+							
+						JERRY: So someone comes in to buy an old lamp and all of a sudden I'm getting them out of a jam? I could see if I was a pharmacist because a pharmacist knows what's wrong with everybody that comes in.<br>
+							<br>
+							
+						GEORGE: I know, but antiques are very popular right now.<br>
+							<br>
+							
+						JERRY: No they're not, they used to be.<br>
+							<br>
+							
+						GEORGE: Oh yeah, like you know.<br>
+							<br>
+							
+						JERRY: Oh like you do.<br>
+							<br>
+							<br>
+							
+						[Jerry's Apartment]<br>
+							<br>
+							
+						KRAMER: ...And you're the manager of the circus.<br>
+							<br>
+							
+						JERRY: A circus?<br>
+							<br>
+							
+						KRAMER: Come on, this is a great idea. Look at the characters. You've got all these freaks on the show. A woman with a moustache? I mean, who wouldn't tune in to see a women with a moustache? You've for the tallest man in the world; a guy who's just a head.<br>
+							<br>
+							
+						JERRY: I don't think so.<br>
+							<br>
+							
+						KRAMER: Look Jerry, the show isn't about the circus, it's about watching freaks.<br>
+							<br>
+							
+						JERRY: I don't think the network will go for it.<br>
+							<br>
+							
+						KRAMER: Why not?<br>
+							<br>
+							
+						JERRY: Look, I'm not pitching a show about freaks.<br>
+							<br>
+							
+						KRAMER: Oh come on Jerry, you're wrong. People they want to watch freaks. This is a &quot;can't miss.&quot;<br>
+							<br>
+							
+						NEWMAN:Kramer.<br>
+							<br>
+							
+						JERRY: Hello Newman.<br>
+							<br>
+							
+						NEWMAN: Come on lets go. I got the helmet. Lets get the radar detector.<br>
+							<br>
+							
+						KRAMER: All right I'll be back in a second. You guys coming to my party? (exits)<br>
+							<br>
+							
+						JERRY AND NEWMAN: Yeah, sure.<br>
+							<br>
+							
+						JERRY: What's this all about?<br>
+							<br>
+							
+						NEWMAN: We're making a trade. I'm giving him my motorcycle helmet - he's giving me his radar detector.<br>
+							<br>
+							
+						JERRY: I didn't know you had a motorctcle.<br>
+							<br>
+							
+						NEWMAN: Well my girlfriend had one.<br>
+							<br>
+							
+						JERRY: You have a girlfriend?<br>
+							<br>
+							
+						NEWMAN: I HAD a girlfriend and she was pretty wild.<br>
+							<br>
+							
+						JERRY: I never remember you with a girl.<br>
+							<br>
+							
+						NEWMAN: Nevertheless, ...<br>
+							<br>
+							
+						JERRY: This is a pretty bad deal for Kramer. You know a radar detector is worth much more than that helmet. I think you're cheating him.<br>
+							<br>
+							
+						NEWMAN: Don't say anything.<br>
+							<br>
+							
+						JERRY: All right.<br>
+							<br>
+							
+						(Kramer enters)<br>
+							<br>
+							
+						JERRY: You know you're getting gypped over here.<br>
+							<br>
+							
+						KRAMER: Really, Ah,<br>
+							<br>
+							
+						NEWMAN: We had a deal. Are you reneging out of the deal? Are you reneging? That's a renege.<br>
+							<br>
+							
+						KRAMER: Oh, stop saying 'reneging&quot;.<br>
+							<br>
+							
+						NEWMAN: Well you're reneging.<br>
+							<br>
+							
+						KRAMER: I, Okay, okay. I'm not reneging.<br>
+							<br>
+							
+						(they try to exchange items but won't let go)<br>
+							<br>
+							
+						NEWMAN: All right give it to me. let go ...<br>
+							<br>
+							
+						KRAMER: You let go - come on ...(they fight over the items)<br>
+							<br>
+							
+						JERRY: Gimme that - just gimme that. Here. Idiots!<br>
+							<br>
+							
+						NEWMAN: Thanks buddy. So long he he ...(exits)<br>
+							<br>
+							
+						JERRY: Does that thing work?<br>
+							<br>
+							
+						KRAMER: Nah.<br>
+							<br>
+							<br>
+							
+						[At Monks]<br>
+							<br>
+							
+						(Jerry and George enter.)<br>
+							<br>
+							
+						JERRY: ... I just got a postcard from Elaine?<br>
+							<br>
+							
+						GEORGE: Really?<br>
+							<br>
+							
+						JERRY: Yeah, they're in London now. They'll be back in a few weeks.<br>
+							<br>
+							
+						GEORGE: I can't believe she got involved with a shrink.<br>
+							<br>
+							
+						GEORGE: So, what's happening with the TV show? You come up with anything?<br>
+							<br>
+							
+						JERRY: No, nothing.<br>
+							<br>
+							
+						GEORGE: Why don't they have salsa on the table?<br>
+							<br>
+							
+						JERRY: What do you need salsa for?<br>
+							<br>
+							
+						GEORGE: Salsa is now the number one condiment in America.<br>
+							<br>
+							
+						JERRY: You know why? Because people like to say &quot;salsa.&quot; &quot;Excuse me, do you have salsa?&quot; &quot;We need more salsa.&quot; &quot;Where is the salsa? No salsa?&quot;<br>
+							<br>
+							
+						GEORGE: You know it must be impossible for a Spanish person to order seltzer and not get salsa. (Angry) &quot;I wanted seltzer, not salsa.&quot;<br>
+							<br>
+							
+						JERRY: &quot;Don't you know the difference between seltzer and salsa?? You have the seltezer after the salsa!&quot;<br>
+							<br>
+							
+						GEORGE: See, this should be a show. This is the show.<br>
+							<br>
+							
+						JERRY: What?<br>
+							<br>
+							
+						GEORGE: This. Just talking.<br>
+							<br>
+							
+						JERRY: (dismissing) Yeah, right.<br>
+							<br>
+							
+						GEORGE: I'm really serious. I think that's a good idea.<br>
+							<br>
+							
+						JERRY: Just talking? Well what's the show about?<br>
+							<br>
+							
+						GEORGE: It's about nothing.<br>
+							<br>
+							
+						JERRY: No story?<br>
+							<br>
+							
+						GEORGE: No forget the story.<br>
+							<br>
+							
+						JERRY: You've got to have a story.<br>
+							<br>
+							
+						GEORGE: Who says you gotta have a story? Remember when we were waiting for, for that table in that Chinese restaurant that time? That could be a TV show.<br>
+							<br>
+							
+						JERRY: And who is on the show? Who are the characters?<br>
+							<br>
+							
+						GEORGE: I could be a character.<br>
+							<br>
+							
+						JERRY: You?<br>
+							<br>
+							
+						GEORGE: Yeah. You could base a character on me.<br>
+							<br>
+							
+						JERRY: So, on the show, there's a character named George Costanza?<br>
+							<br>
+							
+						GEORGE: Yeah. There's something wrong with that? I'm a character. People are always saying to me, &quot;You know you're a quite a character.&quot;<br>
+							<br>
+							
+						JERRY: And who else is on the show?<br>
+							<br>
+							
+						GEORGE: Elaine could be a character. Kramer..<br>
+							<br>
+							
+						JERRY: Now he's a character. (Pause) So everybody I know is a character on the show.<br>
+							<br>
+							
+						GEORGE: Right.<br>
+							<br>
+							
+						JERRY: And it's about nothing?<br>
+							<br>
+							
+						GEORGE: Absolutely nothing.<br>
+							<br>
+							
+						JERRY: So you're saying, I go in to NBC, and tell them I got this idea for a show about nothing.<br>
+							<br>
+							
+						GEORGE: We go into NBC.<br>
+							<br>
+							
+						JERRY: &quot;We&quot;? Since when are you a writer?<br>
+							<br>
+							
+						GEORGE: (Scoffs) Writer. We're talking about a sit-com.<br>
+							<br>
+							
+						JERRY: You want to go with me to NBC?<br>
+							<br>
+							
+						GEORGE: Yeah. I think we really go something here.<br>
+							<br>
+							
+						JERRY: What do we got?<br>
+							<br>
+							
+						GEORGE: An idea.<br>
+							<br>
+							
+						JERRY: What idea?<br>
+							<br>
+							
+						GEORGE: An idea for the show.<br>
+							<br>
+							
+						JERRY: I still don't know what the idea is.<br>
+							<br>
+							
+						GEORGE: It's about nothing.<br>
+							<br>
+							
+						JERRY: Right.<br>
+							<br>
+							
+						GEORGE: Everybody's doing something, we'll do nothing.<br>
+							<br>
+							
+						JERRY: So, we go into NBC, we tell them we've got an idea for a show about nothing.<br>
+							<br>
+							
+						GEORGE: Exactly.<br>
+							<br>
+							
+						JERRY: They say, &quot;What's your show about?&quot; I say, &quot;Nothing.&quot;<br>
+							<br>
+							
+						GEORGE: There you go.<br>
+							<br>
+							
+						(A moment passes)<br>
+							<br>
+							
+						JERRY: (Nodding) I think you may have something there.<br>
+							<br>
+							<br>
+							
+						[Jerry's apartment]<br>
+							<br>
+							
+						(Jerry's explaining George's idea to Kramer)<br>
+							<br>
+							
+						JERRY: So, the show would be about my real life. And one of the characters would be based on you.<br>
+							<br>
+							
+						KRAMER: (Thinks) No, I don't think so.<br>
+							<br>
+							
+						JERRY: What do you mean you don't think so?<br>
+							<br>
+							
+						KRAMER: I don't like it.<br>
+							<br>
+							
+						JERRY: I don't understand. What don't you like about it?<br>
+							<br>
+							
+						KRAMER: I don't like the idea of a character based on me.<br>
+							<br>
+							
+						JERRY: Why not?<br>
+							<br>
+							
+						KRAMER: well it just doesn't sit well.<br>
+							<br>
+							
+						JERRY: You're my neighbor. There's got to be a character based on you.<br>
+							<br>
+							
+						KRAMER: That's your problem, buddy.<br>
+							<br>
+							
+						JERRY: I don't understand what the big deal is.<br>
+							<br>
+							
+						KRAMER: Hey, I'll tell you what - you can do it on one condition.<br>
+							<br>
+							
+						JERRY: Whatever you want.<br>
+							<br>
+							
+						KRAMER: I get to play Kramer.<br>
+							<br>
+							
+						JERRY: You can't play Kramer.<br>
+							<br>
+							
+						KRAMER: I am Kramer.<br>
+							<br>
+							
+						JERRY: But you can't act.<br>
+							<br>
+							
+						KRAMER: Phew!<br>
+							<br>
+							
+						(Newman enters)<br>
+							<br>
+							
+						JERRY: Okay, fine. We'll use Newman.<br>
+							<br>
+							
+						KRAMER: Newman?<br>
+							<br>
+							
+						NEWMAN:Use me for what?<br>
+							<br>
+							
+						JERRY: Nothin' What do you want?<br>
+							<br>
+							
+						NEWMAN:Well, you'll never guess what happened to me today. I was uh, driving ( Jerry and Kramer turn away) home on the palisades parkway when I looked in the rear view mirror and what did I see? The fuzz. And it's funny because my new radar detector was on. I didn't hear a thing. Isn't that strange?<br>
+							<br>
+							
+						KRAMER: Yeah. That's strange.<br>
+							<br>
+							
+						NEWMAN:A radar detector, as I understand it, DETECTS RADAR! WITH A SERIES OF BEEPS AND FLASHING LIGHTS. But oddly, for some reason I didn't hear a thing except for the sound of a police siren.<br>
+							<br>
+							
+						KRAMER: That's queer uh?<br>
+							<br>
+							
+						NEWMAN: I WANT MY HELMET BACK! GIVE ME BACK MY HELMET AND YOU'RE GOING TO PAY FOR THAT TICKET.<br>
+							<br>
+							
+						KRAMER: Yeah, you better think again Mojumbo.<br>
+							<br>
+							
+						NEWMAN:You gave me a defective detector. ... Jerry?<br>
+							<br>
+							
+						JERRY: Buyer beware.<br>
+							<br>
+							
+						NEWMAN:Are you going to give me back that helmet or not?<br>
+							<br>
+							
+						KRAMER: No. We had a deal. There are no guarantees in life.<br>
+							<br>
+							
+						NEWMAN:No, but there's karma, Kramer.<br>
+							<br>
+							
+						JERRY: Karma Kramer?<br>
+							<br>
+							
+						NEWMAN:And one more thing. I'm not coming to your party. (exits)<br>
+							<br>
+							<br>
+							
+						[NBC reception area]<br>
+							<br>
+							
+						(Jerry and George are waiting)<br>
+							<br>
+							
+						JERRY: (To himself) Salsa, seltzer. Hey, excuse me, you got any salsa? No, not selzer, salsa. (George doesn't react) What's the matter?<br>
+							<br>
+							
+						GEORGE: (Nervous) Nothing.<br>
+							<br>
+							
+						JERRY: You sure? You look a little pale.<br>
+							<br>
+							
+						GEORGE: No, I'm fine. I'm good. I'm very good.<br>
+							<br>
+							
+						JERRY: What, are you nervous?<br>
+							<br>
+							
+						GEORGE: No, not nervous. I'm good, very good. (A beat, then he snaps) I can't do this! Can't do this!<br>
+							<br>
+							
+						JERRY: What?<br>
+							<br>
+							
+						GEORGE: I can't do this! I can't do it. I have tried. I'm here. It's impossible.<br>
+							<br>
+							
+						JERRY: This was your idea!<br>
+							<br>
+							
+						GEORGE: What idea? I just said something. I didn't know you were going to listen to me.<br>
+							<br>
+							
+						JERRY: Dont' worry about it. They're just TV executives.<br>
+							<br>
+							
+						GEORGE: They're men with jobs, Jerry! They wear suits and ties. They're married, they have secretaries.<br>
+							<br>
+							
+						JERRY: I told you not to come.<br>
+							<br>
+							
+						GEORGE: I need some water. I gotta get some water.<br>
+							<br>
+							
+						JERRY: They'll give us water in there.<br>
+							<br>
+							
+						GEORGE: Really? That's pretty good.<br>
+							<br>
+							
+						(Jerry looks into hallway)<br>
+							<br>
+							
+						JERRY: Oh God, it's Joe Devola.<br>
+							<br>
+							
+						GEORGE: Who?<br>
+							<br>
+							
+						JERRY: This guy's a writer, he's a total nut. I think he goes to the same shrink as Elaine.<br>
+							<br>
+							
+						JERRY: Oh God he saw me.<br>
+							<br>
+							
+						DEVOLA: Hello Jerry.<br>
+							<br>
+							
+						JERRY: Hey Joe! HOW YOU DOING?<br>
+							<br>
+							
+						DEVOLA: You're under no obligation to shake my hand.<br>
+							<br>
+							
+						JERRY: Oh, no, Just a custom. Uh, THAT'S MY FRIEND GEORGE. YOU LOOK GOOD.<br>
+							<br>
+							
+						DEVOLA: Why shouldn't I look good?<br>
+							<br>
+							
+						JERRY: Oh, no reason. You're into karate right?<br>
+							<br>
+							
+						DEVOLA: You want to hit me?<br>
+							<br>
+							
+						JERRY: What are you doing here?<br>
+							<br>
+							
+						DEVOLA: I dreopped a script off.<br>
+							<br>
+							
+						JERRY: AH, GOOD FOR YOU.<br>
+							<br>
+							
+						(they stare at each other)<br>
+							<br>
+							
+						JERRY: Well, ...<br>
+							<br>
+							
+						DEVOLA: You don't have to say anything.<br>
+							<br>
+							
+						JERRY: No, Uh, hey I guess I'll see you Sunday night.<br>
+							<br>
+							
+						DEVOLA: Why?<br>
+							<br>
+							
+						JERRY: Kramer's party.<br>
+							<br>
+							
+						DEVOLA: Kramer's ... having ... a ... party?<br>
+							<br>
+							
+						JERRY: No, no, he's not having a party. He's doing something. I don't know what it is. It's nothing. He's not doing anything.<br>
+							<br>
+							
+						DEVOLA: Gee, I thought Kramer and I were very close friends.<br>
+							<br>
+							
+						JERRY: No, I'm sure you are. I'm sure you are very close friends. Very close.<br>
+							<br>
+							
+						(Crazy Joe leaves)<br>
+							<br>
+							
+						JERRY: Give my best to Hinckley.<br>
+							<br>
+							
+						GEORGE: What was that?<br>
+							<br>
+							
+						JERRY: I can't believe what I just did. I didn't know kramer didn't invite him. I better call Kramer, ...<br>
+							<br>
+							
+						(before he can dial)<br>
+							<br>
+							
+						RECEPTIONIST: They're ready for you.<br>
+							<br>
+							
+						GEORGE: Okay, okay. Look, you do all the talking, okay?<br>
+							<br>
+							
+						JERRY: Relax. Who are they?<br>
+							<br>
+							
+						GEORGE: Yeah, they're not better than me.<br>
+							<br>
+							
+						JERRY: Course not.<br>
+							<br>
+							
+						GEORGE: Who are they?<br>
+							<br>
+							
+						JERRY: They're nobody.<br>
+							<br>
+							
+						GEORGE: What about me?<br>
+							<br>
+							
+						JERRY: What about you?<br>
+							<br>
+							
+						GEORGE: Why them? Why not me?<br>
+							<br>
+							
+						JERRY: Why not you?<br>
+							<br>
+							
+						GEORGE: I'm as good as them.<br>
+							<br>
+							
+						JERRY: Better.<br>
+							<br>
+							
+						GEORGE: You really think so?<br>
+							<br>
+							
+						JERRY: No.<br>
+							<br>
+							
+						(The door opens, and, from Jerry and George's point of view, four executives stand up)<br>
+							<br>
+							<br>
+							
+						[NBC president's office]<br>
+							<br>
+							
+						(Stu Chermak, Susan Ross, Jay Crespi, and Russell Dalrymple, the head of the network, are all talking with Jerry and George)<br>
+							<br>
+							
+						STU: (To Jerry, laughing about one of his bits) The bit, the bit I really liked what were the parakeet flew into the mirror. Now that's funny.<br>
+							<br>
+							
+						GEORGE: The parakeet in the mirror. That's a good one, Stu.<br>
+							<br>
+							
+						JERRY: Yeah, it's one of my favorites.<br>
+							<br>
+							
+						RUSSELL: What about you, George? Have you written anything we might know?<br>
+							<br>
+							
+						GEORGE: (Quickly making it up) Well, possibly. I wrote an off-Broadway show, &quot;La Cocina.&quot; ..Actually, it was off-off-Broadway. It was a comedy about a Mexican chef.<br>
+							<br>
+							
+						JERRY: Oh, it was very funny. There was one great scene with the chef - what was his name?<br>
+							<br>
+							
+						GEORGE: Pepe.<br>
+							<br>
+							
+						JERRY: Oh, Pepe. Yeah, Pepe. And, uh, he was making tamales.<br>
+							<br>
+							
+						SUSAN: Oh, he actually cooked on the stage?<br>
+							<br>
+							
+						GEORGE: No, no, he mimed it. That's what was so funny about it.<br>
+							<br>
+							
+						RUSSELL: So, what have you two come up with?<br>
+							<br>
+							
+						JERRY: Well, we've thought about this in a variety of ways. But the basic idea is I will play myself-<br>
+							<br>
+							
+						GEORGE: (Interrupting) May I?<br>
+							<br>
+							
+						JERRY: Go ahead.<br>
+							<br>
+							
+						GEORGE: I think I can sum up the show for you with one word: NOTHING.<br>
+							<br>
+							
+						RUSSELL: Nothing?<br>
+							<br>
+							
+						GEORGE: (Smiling) Nothing.<br>
+							<br>
+							
+						RUSSELL: (Unimpressed) What does that mean?<br>
+							<br>
+							
+						GEORGE: The show is about nothing.<br>
+							<br>
+							
+						JERRY: (To George) Well, it's not about nothing.<br>
+							<br>
+							
+						GEORGE: (To Jerry) No, it's about nothing.<br>
+							<br>
+							
+						JERRY: Well, maybe in philosophy. But, even nothing is something.<br>
+							<br>
+							
+						(Jerry and George glare at each other. The receptionist enters)<br>
+							<br>
+							
+						RECEPTIONIST: Mr. Dalrymple, your niece is on the phone.<br>
+							<br>
+							
+						RUSSELL: I'll call back.<br>
+							<br>
+							
+						(Receptionist leaves)<br>
+							<br>
+							
+						GEORGE:(Attempting to spell his last name) D-A-L-R-I-M-P-E-L?<br>
+							<br>
+							
+						RUSSELL: (Obviously dislikes George) Not even close.<br>
+							<br>
+							
+						GEORGE: Is it with a &quot;y&quot;?<br>
+							<br>
+							
+						RUSSELL: No.<br>
+							<br>
+							
+						SUSAN: What's the premise?<br>
+							<br>
+							
+						JERRY: ..Well, as I was saying, I would play myself, and, as a comedian, living in New York, I have a friend, a neighbor, and an ex-girlfriend, which is all true.<br>
+							<br>
+							
+						GEORGE: Yeah, but nothing happens on the show. You see, it's just like life. You know, you eat, you go shopping, you read.. You eat, you read, You go shopping.<br>
+							<br>
+							
+						RUSSELL: You read? You read on the show?<br>
+							<br>
+							
+						JERRY: Well, I don't know about the reading.. We didn't discuss the reading.<br>
+							<br>
+							
+						RUSSELL: All right, tell me, tell me about the stories. What kind of stories?<br>
+							<br>
+							
+						GEORGE: Oh, no. No stories.<br>
+							<br>
+							
+						RUSSELL: No stories? So, what is it?<br>
+							<br>
+							
+						GEORGE: (Showing an example) What'd you do today?<br>
+							<br>
+							
+						RUSSELL: I got up and came to work.<br>
+							<br>
+							
+						GEORGE: There's a show. That's a show.<br>
+							<br>
+							
+						RUSSELL: (Confused) How is that a show?<br>
+							<br>
+							
+						JERRY: Well, uh, maybe something happens on the way to work.<br>
+							<br>
+							
+						GEORGE: No, no, no. Nothing happens.<br>
+							<br>
+							
+						JERRY: Well, something happens.<br>
+							<br>
+							
+						RUSSELL: Well, why am I watching it?<br>
+							<br>
+							
+						GEORGE: Because it's on TV.<br>
+							<br>
+							
+						RUSSELL: (Threatening) Not yet.<br>
+							<br>
+							
+						GEORGE: Okay, uh, look, if you want to just keep on doing the same old thing, then maybe this idea is not for you. I, for one, am not going to compromise my artistic integrity. And I'll tell you something else, this is the show and we're not going to change it. (To Jerry) Right?<br>
+							<br>
+							
+						(A moment passes)<br>
+							<br>
+							
+						JERRY: (To Russell) How about this: I manage a circus..<br>
+							<br>
+							<br>
+							
+						[Monks]<br>
+							<br>
+							
+						JERRY: I don't even want to talk about it anymore. What were you thinking? What was going on in your mind? Artistic integrity? Where, where did you come up with that? You're not artistic and you have no integrity. You know you really need some help. A regular psychiatrist couldn't even help you. You need to go to like Vienna or something. You know what I mean? You need to get involved at the University level. Like where Freud studied and have all those people looking at you and checking up on you. That's the kind of help you need. Not the once a week for eighty bucks. No. You need a team. A team of psychiatrists working round the clock thinking about you, having conferences, observing you, like the way they did with the Elephant Man. That's what I'm talking about because that's the only way you're going to get better.<br>
+							<br>
+							
+						GEORGE: . . . I thought the woman was kind of cute.<br>
+							<br>
+							
+						JERRY: Hold it. I really want to be clear about this. Are you talking about the woman in the meeting? Is that the woman you're talking about?<br>
+							<br>
+							
+						GEORGE: Yeah, I thought I might give her a call. I, I don't meet that many women. I meet like three women a year. I mean, we've been introduced. She knows my name.<br>
+							<br>
+							
+						JERRY: IT'S COMPLETELY INAPPROPRIATE!<br>
+							<br>
+							
+						GEORGE: Why? Maybe she liked me. I, I mean she was looking right at me. You know, I think she was impressed. You know, we had good eye contact the whole meeting.<br>
+							<br>
+							
+						JERRY: Oh, I forgot to call Kramer.<br>
+							<br>
+							
+						GEORGE: Wait a minute let me call Susan.<br>
+							<br>
+							
+						JERRY: No, no this is more important.<br>
+							<br>
+							
+						GEORGE: She might be leaving to work any minute.<br>
+							<br>
+							
+						JERRY: No, I got to warn him that I told Joe Devola about his party.<br>
+							<br>
+							
+						GEORGE: No.<br>
+							<br>
+							
+						(they race to the pay phone)<br>
+							<br>
+							<br>
+							
+						[Paris hotel room - Dr. Reston and Elaine are kissing]<br>
+							<br>
+							
+						ELAINE: What is it?<br>
+							<br>
+							
+						DR. RESTON: I was just thinking about this patient of mine.<br>
+							<br>
+							
+						ELAINE: What?<br>
+							<br>
+							
+						DR. RESTON: Just wondering if he's taking his medication.<br>
+							<br>
+							
+						ELAINE: Well, come on we're on vacation.<br>
+							<br>
+							<br>
+							
+						[Jerry's apartment]<br>
+							<br>
+							
+						JERRY: Well we were standing uh, inn the waiting area there, and you know how Devola is. He's all, ... (buzzer)<br>
+							<br>
+							
+						KRAMER: Yeah (to buzzer)<br>
+							<br>
+							
+						GEORGE: (OC) It's George.<br>
+							<br>
+							
+						JERRY: And so, uh I felt very uncomfortable with him and you know I just blurted out something about your party.<br>
+							<br>
+							
+						KRAMER: Whoa, back up a second.<br>
+							<br>
+							
+						JERRY: Well, I didn't know that you didn't invite him.<br>
+							<br>
+							
+						KRAMER: Why would you think I would invite him?<br>
+							<br>
+							
+						JERRY: I just a ssumed, ...<br>
+							<br>
+							
+						KRAMER: Assumed? Never assume anything. I don't want that nut in my house. You know he's on medication.<br>
+							<br>
+							
+						(George and Susan enter)<br>
+							<br>
+							
+						GEORGE: Hello, oh, hello. You remember, ... Susan, from N B C.<br>
+							<br>
+							
+						JERRY: Of course. How are you?<br>
+							<br>
+							
+						SUSAN: Fine, it's good to see you.<br>
+							<br>
+							
+						GEORGE: And this is Kramer.<br>
+							<br>
+							
+						SUSAN: Hello.<br>
+							<br>
+							
+						GEORGE: All right go ahead Susan, tell him.<br>
+							<br>
+							
+						JERRY: Tell me what?<br>
+							<br>
+							
+						SUSAN: Well, I, (phone rings)<br>
+							<br>
+							
+						JERRY: Uh, sorry, Excuse me one second. Hello.<br>
+							<br>
+							
+						TEL: Hi, would you be interested in switching over to TMI long distance service.<br>
+							<br>
+							
+						JERRY: Oh, gee, I can't talk right now. Why don't you give me your home number and I'll call you later.<br>
+							<br>
+							
+						TEL: Uh, I'm sorry we're not allowed to do that.<br>
+							<br>
+							
+						JERRY: Oh, I guess you don't want people calling you at home.<br>
+							<br>
+							
+						TEL: No.<br>
+							<br>
+							
+						JERRY: Well now you know how I feel. (Hangs up)<br>
+							<br>
+							
+						GEORGE: Well, go ahead, tell him.<br>
+							<br>
+							
+						JERRY: Kramer, are you drinking that milk?<br>
+							<br>
+							
+						KRAMER: Yeah.<br>
+							<br>
+							
+						JERRY: What's the expiration date on that?<br>
+							<br>
+							
+						KRAMER: September third.<br>
+							<br>
+							
+						JERRY: The third?<br>
+							<br>
+							
+						GEORGE: and SUSAN: The third?<br>
+							<br>
+							
+						KRAMER: Um, Uh, ugh, ...<br>
+							<br>
+							
+						SUSAN: Noooo... (Kramer throws up on Susan)<br>
+							<br>
+							<br>
+							
+						[Monk's]<br>
+							<br>
+							
+						GEORGE: I never should have brought her up there. Should have known better. Should have seen it coming. I didn't see it coming.<br>
+							<br>
+							
+						JERRY: I think SHE saw it coming.<br>
+							<br>
+							
+						GEORGE: You know she was behind the idea. She was going to champion the show. That's what I was bring her up there to tell you. And she liked me.<br>
+							<br>
+							
+						JERRY: Look just because Kramer vomited on her doesn't mean the deal is dead.<br>
+							<br>
+							
+						GEORGE: What, are you crazy? It's a traumatic thing to be thrown up on.<br>
+							<br>
+							
+						JERRY: Vommiting is not a deal breaker. If Hitler had vommited on Chamberlin, Chamberlind still would have given him Chekoslovakia.<br>
+							<br>
+							
+						GEORGE: Chamberlind, you could hold his head in nthe toilet, he'd still give you half of Europe.<br>
+							<br>
+							
+						(Kramer enters with helmet)<br>
+							<br>
+							
+						JERRY: What happened to you?<br>
+							<br>
+							
+						KRAMER: Devola came after me.<br>
+							<br>
+							
+						JERRY: What? Devola? See I told you this guy is crazy. I can't believe this. What happened?<br>
+							<br>
+							
+						KRAMER: Can I have a coffee. ... What, you know I was walking home and I had to pick up my helmet from the shop, you know. I gota new strap. And I had it on you know, and I was checking the strap out to make sure it fit. Then suddenly I feel this kick hit me on the side of the head. It knocks me down, I look up and it's Crazy Joe Devola. And he say's, &quot;That's what I thin k of your party.&quot;<br>
+							<br>
+							
+						JERRY: Boy, that is some kick.<br>
+							<br>
+							
+						KRAMER: Well, yeah, Newman's helmet, it saved my life. Look at that.<br>
+							<br>
+							
+						JERRY: Wow, Newman's helmet.<br>
+							<br>
+							
+						GEORGE: Holly.<br>
+							<br>
+							
+						KRAMER: I got bad news for you buddy. Devola says you're next.<br>
+							<br>
+							
+						JERRY: Me, why?<br>
+							<br>
+							
+						KRAMER: He doesn't like you.<br>
+							<br>
+							
+						JERRY: What does he want from me? I didn't do anything. See this is all Elaine's fault. She took off to Europe with his psychiatrist. He probably can't get his medication. Now I got some nut after me.<br>
+							<br>
+							
+						KRAMER: Pass the cream.<br>
+							<br>
+							
+						GEORGE: Wait a second. (smells it). all right.<br>
+							<br>
+							<br>
+							
+						The End</td>
+						</tr>
+						<tr height="6">
+							<td class="bottom2" width="645" height="6"></td>
+						</tr>
+						<tr>
+							<td width="645">
+								<div align="center">
+									<font size="-1">Copyright 2006 seinology.com | All Rights Reserved | Designed by 13erla</font></div>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+		<p></p>
+	</body>
+
+</html>

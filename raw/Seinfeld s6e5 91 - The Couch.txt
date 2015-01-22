@@ -1,0 +1,1315 @@
+<tdOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+<html>
+
+	<head>
+		<meta http-equiv="content-type" content="text/html;charset=ISO-8859-1">
+		<meta name="description" content="Top Source for Seinfeld">
+		<meta name="keywords" content="seinfeld, sienfeld, Jerry Seinfeld, Julia Louis Dreyfus, Jason Alexander, Michael Richards, Kramer, George, Costanza, Elaine Benes, morty, Larry David">
+		<title>Seinology.com :: Scripts :: 91-The Couch</title>
+	<link rel='stylesheet' href='/stylesheet.css' type='text/css'>
+	</head>
+
+	<body>
+			<table align="center" width="787" border="0" cellspacing="0" cellpadding="0">
+				<tr>
+					<td><font size="-2" color="red">Seinology.com - </font><font size="-3" color="black">Where Seinfeld Content and Accuracy Matter Most. Seinfeld scripts in pdf form, Seinfeld episode video clips, Seinfeld episode audio clips, Jerry Seinfeld appearances, Julia Louis-Dreyfus appearances, Michael Richards appearances, Jason Alexander appearances, Seinfeld discussion Forum, Seinfeld Where are they Now? Seinlanguage Newsletter, Popular Seinfeld Lists, Seinfeld episode standup, Seinfeld episode guide, Seinfeld fan fiction. Seinfeld content all on one domain. Seinology.com enjoy your stay.</font></td>
+				</tr>
+			</table>
+		
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr height="100">
+				<td class="logo"></td>
+			</tr>
+			<tr><td class="ads" align="center" background=#8694fa>
+				<script type="text/javascript"><!--
+google_ad_client = "pub-1924026976931416";
+google_ad_width = 728;
+google_ad_height = 90;
+google_ad_format = "728x90_as";
+google_ad_type = "text";
+google_ad_channel = "";
+google_color_border = "FFFFFF";
+google_color_bg = "8694fa";
+google_color_link = "0000FF";
+google_color_text = "000000";
+google_color_url = "002E3F";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></td></tr>
+		</table>
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr>
+				<td valign="top" width="136">
+					<table width="136" border="0" cellspacing="0" cellpadding="0">
+						<tr height="24">
+							<td class="navigation">
+								<div align="center">
+									
+									<b>Navigation</b></div>
+							</td>
+						</tr>
+						<tr height="199">
+							<td class="spacer1" valign="top" width="136" height="199">
+								<div align="center">
+									<font size="-1"><a href="http://www.seinology.com">Home</a><br>
+										<a href="http://board.seinology.com">Forum</a><br>
+										<a href="http://www.seinology.com/av.shtml">Audio/Video</a><br>
+										<a href="http://www.seinology.com/scripts.shtml">Scripts</a><br>
+										<a href="http://www.seinology.com/survivor.shtml">Survivor</a><br>
+										<a href="http://www.seinology.com/fanfics.shtml">Fan Fiction</a><br>
+										<a href="http://www.seinology.com/gallery/">Gallery</a><br>
+										<a href="http://www.seinology.com/newsletter.shtml">Newsletter</a><br>
+										<a href="http://www.seinology.com/lists.shtml">Lists</a><br>
+										<a href="http://www.seinology.com/epguide.shtml">Episode Guide</a><br>
+										<a href="http://www.seinology.com/links.shtml">Links</a><br>
+										<a href="http://www.seinology.com/faqother.shtml">Faq + others</a><br>
+										<a href="http://www.seinology.com/legal.shtml">Legal</a></font></div>
+							</td>
+						</tr>
+						
+						<tr>
+							<td class="nav2" width="136">
+							<div align="center"><b>Search</b></div></td>
+						</tr>
+						<tr>
+							<td class="spacer1" width="136" valign="top"><div align="center"><form method="get" action="http://www.seinology.com/search/search.cgi">
+<p><label for="fdse_Match">Match</label><br>
+<select name="Match" id="fdse_Match" size="1">
+<option value="1">All</option>
+<option value="0">Any</option>
+<option value="2">Phrase</option>
+</select></p>
+<p><label for="fdse_Realm">Where?</label><br>
+<select name="Realm" id="fdse_Realm" size="1">
+<option selected="selected" value="All">EntireSite</option>
+<option value="Ep Guide">Ep Guide</option>
+<option value="Images">Images</option>
+<option value="Lists">Lists</option>
+<option value="Newsletters">Newsletters</option>
+<option value="Scripts">Scripts</option>
+<option value="Notes..Nothing">Notes..Nothing</option>
+</select></p>
+<p><input type="text" name="Terms" size="14" id="fdse_Terms"><br>
+<input type="submit" class="submit" name="submitButtonName" value="Search"></p>
+</div></form></td>
+						</tr>
+						<tr><td class="bottom" width="136" height="10" valign="top">
+						</td>
+						</tr>
+					</table>
+				</td>
+				<td width="4"></td>
+				<td valign="top" width="645">
+					<table width="645" border="0" cellspacing="0" cellpadding="0">
+						<tr height="18">
+							<td width="645" height="35" class="bar">
+								<div align="center">
+									<b><font size="+2" color="black">Script</font></b></div>
+							</td>
+						</tr>
+						<tr height="362">
+							<td class="spacer2" valign="top" width="645" height="362">
+
+						<p><font size="-2">Episode 91 - The Couch<br>
+							
+						pc: 605, season 6, episode 5<br>
+							
+						Broadcast date: October 27, 1994<br>
+							<br>
+							
+						Written by Larry David<br>
+							
+						Directed by Andy Ackerman<br>
+							<br>
+							
+						-------------------------------------------------------------------------------<br>
+							<br>
+							
+						The Cast<br>
+							
+						Regulars:<br>
+							
+						Jerry Seinfeld ....................... Jerry Seinfeld<br>
+							
+						Jason Alexander .................. George Costanza<br>
+							
+						Julia Louis-Dreyfus ............. Elaine Benes<br>
+							
+						Michael Richards ................. Kramer<br>
+							<br>
+							
+						Guest Stars:<br>
+							<br>
+							
+						Reni Santoni&nbsp;&nbsp; ....................... Poppie<br>
+							
+						David James Elliott .............. Carl<br>
+							
+						Robert Hooks ...................... Joe Temple<br>
+							
+						Denise Dowse ..................... Mother<br>
+							
+						Patton Oswalt ..................... Clerk<br>
+							
+						Diana Theodore .................. Remy<br>
+							
+						Jessica Hecht ....................... Marie<br>
+							
+						Mari Weiss .......................... Woman #1<br>
+							
+						Tamar Cooper ..................... Woman #2<br>
+							
+						Beverly C. Brown ................ Woman #3<br>
+							
+						Jeris Lee Poindexter ............. Man<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						==================================================================<br>
+							<br>
+							
+						[Opening Monologue]<br>
+							<br>
+							
+						The love seat, that's a nice little item, there...I guess some guy thought, 'Well, if we can't get them to sit closer to us, why not just shorten the furniture?' My other favorite furniture brand is the La-Z-Boy. This is very flattering to the prospective customer, isn't it? Why don't we just call it the 'half-conscious deadbeat with no job, home all day, eating Cheetos and watching TV' recliner? I mean, it goes back so far, that thing...I mean, it's like, 'Go to bed already! It's over! You're wiped!'<br>
+							<br>
+							<br>
+							<br>
+							
+						[Opening scene - Jerry and George in a furniture store. Jerry is shopping for a new couch.]<br>
+							<br>
+							
+						JERRY: So, she got you to join a book club?<br>
+							<br>
+							
+						GEORGE: I got a feeling I'm gonna be much smarter than you pretty soon.<br>
+							<br>
+							
+						JERRY: Well, I think that statement alone reflects your burgeoning intelligence. (Sits on a couch.) Hey, what about this one?<br>
+							<br>
+							
+						GEORGE: Nah, I don't like that one.<br>
+							<br>
+							
+						JERRY: So, what's your first book?<br>
+							<br>
+							
+						GEORGE: &quot;Breakfast At Tiffany's.&quot; 90 pages. (Waves a hand like it's nothing.)<br>
+							<br>
+							
+						JERRY: It's kinda old, isn't it?<br>
+							<br>
+							
+						GEORGE: They wanted to read a Truman Capote book.<br>
+							<br>
+							
+						JERRY (standing): Oh, sure...Truman Capote.<br>
+							<br>
+							
+						GEORGE: He's a great writer.<br>
+							<br>
+							
+						JERRY: Oh, yeah.<br>
+							<br>
+							
+						GEORGE: Did you ever read anything by him?<br>
+							<br>
+							
+						JERRY: No. You?<br>
+							<br>
+							
+						GEORGE: Nah.<br>
+							<br>
+							
+						JERRY (sees a white couch by the wall): Oh, what about this one? Look at this, this is it! This is what I'm looking for. (Sits on the couch.) Oh, yeah!<br>
+							<br>
+							<br>
+							<br>
+							
+						[New scene - Jerry and Elaine in Jerry's apartment. The moving guys are delivering Jerry's new couch.]<br>
+							<br>
+							
+						ELAINE: Hey, what's going on?<br>
+							<br>
+							
+						JERRY: New couch, baby!<br>
+							<br>
+							
+						ELAINE: New couch? Why?<br>
+							<br>
+							
+						JERRY: I love this couch. You know what the best part about it is? It doesn't fold out, so no one can sleep over.<br>
+							<br>
+							
+						(Elaine laughs. Carl and another furniture mover come in, and they pick up Jerry's old couch.)<br>
+							<br>
+							
+						ELAINE (to Carl, flirtatiously): Hello.<br>
+							<br>
+							
+						CARL: Hello.<br>
+							<br>
+							
+						ELAINE: Oh, let me get the door for you. (They carry the couch out the door.) Ooh, be careful!<br>
+							<br>
+							
+						JERRY: Wait till you see it, it's perfect. The guy told me it's one of a kind, they stopped making it.<br>
+							<br>
+							
+						ELAINE: What are you doing with your old couch?<br>
+							<br>
+							
+						JERRY: Nothing, the moving guys are taking it. Why, you want it?<br>
+							<br>
+							
+						ELAINE: Yeah, I'll take it.<br>
+							<br>
+							
+						JERRY: Well, I'm sure that they can deliver it to your apartment.<br>
+							<br>
+							
+						ELAINE: Yes, they can. (Kramer enters.)<br>
+							<br>
+							
+						KRAMER: Hey! Couch is comin.'<br>
+							<br>
+							
+						JERRY: It's here!<br>
+							<br>
+							
+						KRAMER: Alright! Yeah. You know, I'm excited about this, Jerry. In a way, I feel like I'm getting a new couch.<br>
+							<br>
+							
+						JERRY (nonplussed): Yeah. So do I.<br>
+							<br>
+							
+						KRAMER: Ooh! Remember Poppie?<br>
+							<br>
+							
+						JERRY: Oh, you mean from Poppie's Restaurant?<br>
+							<br>
+							
+						KRAMER: Yeah, yeah. Anyway, uh...we're going into business together. Remember that idea I had a few years ago about the pizza place where you make your own pizza?<br>
+							<br>
+							
+						JERRY: Yeah.<br>
+							<br>
+							
+						ELAINE: What was that again?<br>
+							<br>
+							
+						KRAMER: It's a pizza place where you make your own pie! We give you the dough, the sauce, the cheese...you pound it, slap it, you flip it up into the air...you put your toppings on and you slide it into the oven! Sounds good, huh?<br>
+							<br>
+							
+						ELAINE (in a southern accent): Ooh, I can't wait to get me a fella and make mah own pie!<br>
+							<br>
+							
+						JERRY: What made you resurrect that old idea?<br>
+							<br>
+							
+						KRAMER: Well, I happened to be eating at Poppie's when I told him the &quot;old&quot; idea, and his eyes - waaaaaah! - just lit up. You know, he wants to back it.<br>
+							<br>
+							
+						ELAINE: I heard Poppie's was good, let's go.<br>
+							<br>
+							
+						JERRY: I'm not goin' there. Didn't he get busted by the Board of Health?<br>
+							<br>
+							
+						KRAMER: That was in the past, Jerry. As it happens, New York Magazine just judged his kitchen to be one of the cleanest in the city. They got a duck there, you think you died and went to heaven.<br>
+							<br>
+							
+						ELAINE: Ooh! I love duck. C'mon, c'mon!<br>
+							<br>
+							
+						KRAMER: Yeah, but you gotta order it two days in advance. (To Jerry) You know, I'm gonna call him, I'm gonna order the duck for you.<br>
+							<br>
+							
+						JERRY: Oh, Kramer, I -<br>
+							<br>
+							
+						(Kramer turns around and runs smack into Jerry's new couch being brought in by Carl and the other moving guy, and hits the floor. They place the couch in the same spot as the old one.)<br>
+							<br>
+							
+						JERRY: Right there, guys. That's perfect. Ah? Whatta ya think, Lainie?<br>
+							<br>
+							
+						ELAINE: Well, I don't know. I'll have to sit on it.<br>
+							<br>
+							
+						JERRY: Oh no, I don't want anyone sitting on it.<br>
+							<br>
+							
+						CARL (hands Jerry an invoice): Sign here.<br>
+							<br>
+							
+						ELAINE (to Carl): Excuse me, I was wondering if would it be possible if you could deliver the old couch to my apartment? It's not very far.<br>
+							<br>
+							
+						CARL: Sure.<br>
+							<br>
+							
+						ELAINE: 'Kay. You, uh...you got room in the truck for me?<br>
+							<br>
+							
+						CARL: Yeah, I think we can squeeze you in.<br>
+							<br>
+							
+						ELAINE: Oh, goody. Okay, well uh...(to Jerry and Kramer)...I'll see you chumps later. (Elaine and Carl exit.)<br>
+							<br>
+							
+						KRAMER: Did you offer those guys a drink?<br>
+							<br>
+							
+						JERRY: Uh, no. Should I have?<br>
+							<br>
+							
+						KRAMER: What kind of a person are you?<br>
+							<br>
+							
+						JERRY: I don't know.<br>
+							<br>
+							<br>
+							<br>
+							
+						[New scene - George at home, preparing to read &quot;Breakfast At Tiffany's.&quot;]<br>
+							<br>
+							
+						GEORGE: Okay. &quot;Breakfast At Tiffany's.&quot; (Begins to read, but gradually his attention is drawn to the TV Guide on the end table. George realizes there's a show on he wants to see by looking at his watch, and doesn't start the book.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[New scene - Jerry and Elaine at Poppie's Restaurant.]<br>
+							<br>
+							
+						ELAINE: So, he puts the couch down, and just as he's about to leave he says, &quot;Do you date moving men?&quot;<br>
+							<br>
+							
+						JERRY: Ah ha...<br>
+							<br>
+							
+						ELAINE: You wanna know what I said?<br>
+							<br>
+							
+						JERRY: I can't wait.<br>
+							<br>
+							
+						ELAINE: &quot;I do now.&quot;<br>
+							<br>
+							
+						JERRY: Clever.<br>
+							<br>
+							
+						ELAINE: Is that something?<br>
+							<br>
+							
+						JERRY: Yes.<br>
+							<br>
+							
+						ELAINE: Is that something?<br>
+							<br>
+							
+						JERRY: You're something. So anyway, when they were in my house before, I didn't offer them anything to drink.<br>
+							<br>
+							
+						ELAINE: Well, they're real men, Jerry. They get sweaty.<br>
+							<br>
+							
+						JERRY: So, anyone sweaty comes into your house has to be offered a drink?<br>
+							<br>
+							
+						ELAINE: Yes.<br>
+							<br>
+							
+						JERRY: Well, would you apologize for me? (Elaine nods. Poppie comes out of the kitchen.)<br>
+							<br>
+							
+						POPPIE: Hello! Jerry, so good to see you again! (Puts his hand out.)<br>
+							<br>
+							
+						JERRY (clearly creeped out by having to shake Poppie's hand): Hello, Poppie. This is Elaine.<br>
+							<br>
+							
+						ELAINE: Nice to meet you, Poppie.<br>
+							<br>
+							
+						POPPIE: Let me show you to your table. (Leads Jerry and Elaine to the table.) Your duck is cooking as we speak. It is so succulent...so succulent!<br>
+							<br>
+							
+						JERRY: Well, Kramer told us all about your business venture together.<br>
+							<br>
+							
+						POPPIE: Your friend and I are going to make a lot of money. Of course, I already have a lot of money. Poppie does very well...very well.<br>
+							<br>
+							
+						ELAINE: Well, your mother must be very proud of you.<br>
+							<br>
+							
+						POPPIE: My mother...was taken from my house by the Communists in the middle of the night when I was ten years old. She was sent to a slave labor camp, where she labored for twelve years. Finally, they released her and she was on a boat to America to re-unite with us...but she was served some bad fish, and she died...on the high seas.<br>
+							<br>
+							
+						JERRY: So, what's good tonight?<br>
+							<br>
+							<br>
+							<br>
+							
+						[Cut back to George at home. His television program finishes, and he turns off the TV. He stretches, then goes back to reading - not &quot;Breakfast At Tiffany's&quot; however, but an issue of Cracked magazine.]<br>
+							<br>
+							<br>
+							<br>
+							
+						[Cut back to Jerry and Elaine at Poppie's.]<br>
+							<br>
+							
+						ELAINE: Boy, I'm really looking forward to this duck. I've never had food ordered in advance before.<br>
+							<br>
+							
+						JERRY: Ah, I could've stayed home and ordered a pizza from Paccino's.<br>
+							<br>
+							
+						ELAINE: Paccino's? Oh no. You should never order pizza from Paccino's.<br>
+							<br>
+							
+						JERRY: Why not?<br>
+							<br>
+							
+						ELAINE: Because, the owner contributes a lot of money to those fanatical, anti-abortion groups.<br>
+							<br>
+							
+						JERRY: So, you won't eat the pizza?<br>
+							<br>
+							
+						ELAINE: No way.<br>
+							<br>
+							
+						JERRY: Really.<br>
+							<br>
+							
+						ELAINE: Yeah.<br>
+							<br>
+							
+						JERRY: Well, what if Poppie felt the same way?<br>
+							<br>
+							
+						ELAINE: Well, I guess I wouldn't eat here, then.<br>
+							<br>
+							
+						JERRY: Really!<br>
+							<br>
+							
+						ELAINE: Yeah. That's right.<br>
+							<br>
+							
+						JERRY: Well, perhaps we should inquire. Poppie! Oh, Poppie. Could I have a word? (Poppie comes over.)<br>
+							<br>
+							
+						POPPIE: Yes, Jerry. I just checked your duck...it is more succulent than even I had hoped.<br>
+							<br>
+							
+						JERRY: Poppie, I was just curious...where do you stand on the abortion issue?<br>
+							<br>
+							
+						POPPIE: When my mother was abducted by the Communists, she was with child...<br>
+							<br>
+							
+						JERRY: Oh, boy.<br>
+							<br>
+							
+						POPPIE: ...but the Communists, they put an end to that! So, on this issue there is no debate! And no intelligent person can think differently.<br>
+							<br>
+							
+						ELAINE (offended): Well...Poppie. I think differently.<br>
+							<br>
+							
+						POPPIE: And what gives you the right to do that?<br>
+							<br>
+							
+						ELAINE (standing up): The Supreme Court gives me the right to do that! Let's go Jerry, c'mon.<br>
+							<br>
+							
+						WOMAN AT NEXT TABLE (to her date): I heard that. Let's go, Henry.<br>
+							<br>
+							
+						HENRY: But we just got here...<br>
+							<br>
+							
+						WOMAN AT ANOTHER TABLE: I'm with you, Poppie!<br>
+							<br>
+							
+						WOMAN AT YET ANOTHER TABLE (to her date): Let's go!<br>
+							<br>
+							
+						ELAINE (to Poppie): And I am not coming back!<br>
+							<br>
+							
+						POPPIE: You're not welcome!<br>
+							<br>
+							
+						JERRY: Well, I'm certainly glad I brought it up. (Gets up and leaves.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[New scene - Jerry and George in a booth at the coffee shop.]<br>
+							<br>
+							
+						JERRY: Well, you should have seen it. It was quite a scene over there.<br>
+							<br>
+							
+						GEORGE: I'm sorry I missed it.<br>
+							<br>
+							
+						JERRY: Oh, you really missed something. And I have to say...it was pretty much all my fault. (Jerry smiles. George laughs.) So, how's the book coming? (George's laughs taper off...) I say, how's the book comin'?<br>
+							<br>
+							
+						GEORGE: Oh...pretty good.<br>
+							<br>
+							
+						JERRY: So, what's it about?<br>
+							<br>
+							
+						GEORGE: Well, it's about Holly Go-Lightly.<br>
+							<br>
+							
+						JERRY: Holly Go-Lightly.<br>
+							<br>
+							
+						GEORGE: Yeah, she's quite a character.<br>
+							<br>
+							
+						JERRY: Yes, you haven't read a page, have you?<br>
+							<br>
+							
+						GEORGE: No.<br>
+							<br>
+							
+						JERRY: Big surprise.<br>
+							<br>
+							
+						GEORGE: I couldn't. You know, if it's not about sports, I find it very hard to concentrate.<br>
+							<br>
+							
+						JERRY: You're not very bright, are you?<br>
+							<br>
+							
+						GEORGE: No, I'm not. I would like to be, but I'm not. What am I gonna do? The book club meets in a few days.<br>
+							<br>
+							
+						JERRY: Why don't you rent the movie?<br>
+							<br>
+							
+						GEORGE: 'Why don't I rent the movie.' See, this is when I like you. Alright, now I'm relieved. (Kramer enters and comes over to the booth.)<br>
+							<br>
+							
+						KRAMER (scanning a menu): So...how was the dinner last night?<br>
+							<br>
+							
+						JERRY: Oh...well...<br>
+							<br>
+							
+						KRAMER: Did you enjoy the duck? (Elaine comes back from the bathroom.) Oh, Elaine! I was just asking how dinner went last night.<br>
+							<br>
+							
+						ELAINE (sitting down): Oh...well...<br>
+							<br>
+							
+						KRAMER: Alright, what did you do to Poppie?<br>
+							<br>
+							
+						ELAINE: Nothing.<br>
+							<br>
+							
+						KRAMER: Well, he's in the hospital. And the cook says you put him there.<br>
+							<br>
+							
+						ELAINE: What's wrong with him?<br>
+							<br>
+							
+						KRAMER: I don't know! I'm gonna go and visit him later. (angrily) It would be nice if you got him something. (Punches the the table to accentuate this, and leaves.)<br>
+							<br>
+							
+						JERRY: We should get him something.<br>
+							<br>
+							
+						ELAINE: Yeah. You're right.<br>
+							<br>
+							<br>
+							<br>
+							
+						[New scene - Elaine and Carl sitting in carl's moving van after a date.]<br>
+							<br>
+							
+						ELAINE: Do you know that I have been using the same bottle of shampoo for a year? And I shampoo every day. (Carl smiles.) So, what do you think of my conversation?<br>
+							<br>
+							
+						CARL: Not much! (They both laugh.) I, uh, would have invited you up, but I don't have any furniture.<br>
+							<br>
+							
+						ELAINE: You don't have any furniture?<br>
+							<br>
+							
+						CARL: No, I hate furniture. I can't look at it. (They laugh again.)<br>
+							<br>
+							
+						ELAINE: Well, I can understand that. Pretty good date, huh?<br>
+							<br>
+							
+						CARL: Yeah! No heavy lifting. (Elaine and Carl look into each others eyes, then kiss.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[New scene - Kramer visiting Poppie at the hospital. There sitting on a bench outside.]<br>
+							<br>
+							
+						KRAMER: Anyway, Jerry and Elaine felt very badly about what happened to you, and they wanted you to have this.<br>
+							<br>
+							
+						POPPIE (opening the gift basket): What's this? A bottle of wine and a five-alarm chili? They're trying to kill Poppie?!<br>
+							<br>
+							
+						KRAMER: Why, what...?<br>
+							<br>
+							
+						POPPIE: Don't they know I have a gastro-intestinal disorder? If I would have any of this, I would die. Then Poppie's no good to anyone! This is a sick, sick joke on Poppie. How could you be friends with those two?<br>
+							<br>
+							
+						KRAMER: Well, we're not very close.<br>
+							<br>
+							
+						POPPIE: They owe me for those ducks. They were flown in from Newfoundland.<br>
+							<br>
+							
+						KRAMER: Oh, they got good ducks there, huh?<br>
+							<br>
+							
+						POPPIE: Oh, very good ducks.<br>
+							<br>
+							<br>
+							<br>
+							
+						[New scene - Elaine shows up at Jerry's apartment. Jerry opens the door.]<br>
+							<br>
+							
+						ELAINE: I'm in looove!<br>
+							<br>
+							
+						JERRY: Whoa!<br>
+							<br>
+							
+						ELAINE: This is it, Jerry! This is it! He is such an incredible person! He's real, he's honest, he's unpretentious...oh, I'm really lucky!<br>
+							<br>
+							
+						JERRY: Did you tell him I was sorry I didn't offer him the drink?<br>
+							<br>
+							
+						ELAINE: No, I forgot. And, the best part is, he doesn't play games. You know? There are no games! (Sits down on the couch.)<br>
+							<br>
+							
+						JERRY: No games? What is the point of dating without games? How do you know if you're winning or losing?<br>
+							<br>
+							
+						ELAINE (putting on lipstick): Well, all I know is, he doesn't like games and he doesn't play games, you know? He has too much character and integrity.<br>
+							<br>
+							
+						JERRY: Ah ha. And what is his stand on abortion?<br>
+							<br>
+							
+						ELAINE (looks at Jerry and smears lipstick across her face): What?<br>
+							<br>
+							
+						JERRY: What is his stand...on abortion?<br>
+							<br>
+							
+						ELAINE: Well, I'm sure he's pro-choice.<br>
+							<br>
+							
+						JERRY: How do you know?<br>
+							<br>
+							
+						ELAINE: Because he, well...he's just so good-looking.<br>
+							<br>
+							
+						JERRY: Well, you should probably ask, because if he's gonna be coming over with those Paccino's pizzas...could be trouble.<br>
+							<br>
+							<br>
+							<br>
+							
+						[New scene - George at a video store counter.]<br>
+							<br>
+							
+						GEORGE: I'd like to rent Breakfast At Tiffany's.<br>
+							<br>
+							
+						CLERK (checking the computer): Uh, this is out. Someone has it.<br>
+							<br>
+							
+						GEORGE: Out? Oh no, I've been to four other places, you're the only ones that have had it.<br>
+							<br>
+							
+						CLERK: Well, I could put it on reserve for you, if you'd like.<br>
+							<br>
+							
+						GEORGE: Maybe we could call them and ask them to return it.<br>
+							<br>
+							
+						CLERK: Oh, sorry. We can't do that.<br>
+							<br>
+							
+						GEORGE: Well, maybe they're done with it. I could go pick it up.<br>
+							<br>
+							
+						CLERK: I don't think so. It doesn't work that way.<br>
+							<br>
+							
+						(The clerk goes to help another customer, and leaves George unattended. George waits until the clerk's back is turned, then has a good look at the information on his computer monitor.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[New scene - George at the address of the people who have rented Breakfast At Tiffany's. He's buzzed their apartment on the intercom.]<br>
+							<br>
+							
+						VOICE ON INTERCOM: Yes?<br>
+							<br>
+							
+						GEORGE: Uh, excuse me, are you Joe Temple?<br>
+							<br>
+							
+						INTERCOM: Yes.<br>
+							<br>
+							
+						GEORGE: Uh, yes, uh...you don't know me, my name is George Costanza...did you happen to rent Breakfast At Tiffany's?<br>
+							<br>
+							<br>
+							<br>
+							
+						[New scene - Jerry laying on his new couch. Kramer enters.]<br>
+							<br>
+							
+						KRAMER: Hey.<br>
+							<br>
+							
+						JERRY: Hey, what's happenin.'<br>
+							<br>
+							
+						KRAMER: Well, you know, Poppie's over at my place. Tonight's the big night. I'm gonna make the first test pizza at the restaurant.<br>
+							<br>
+							
+						JERRY: You got a regular 'Manhattan Project' going on over there.<br>
+							<br>
+							
+						KRAMER: Yeah. Anyway, he's about to leave, he wants the duck money. (Poppie enters.)<br>
+							<br>
+							
+						JERRY: Okay. Hi, Poppie.<br>
+							<br>
+							
+						POPPIE: Hello.<br>
+							<br>
+							
+						JERRY: I'm sorry about the gift, I didn't know about your condition.<br>
+							<br>
+							
+						POPPIE: That's fine. If you just give me my duck money, I'll be on my way.<br>
+							<br>
+							
+						JERRY: Okay. I'll get it. (Goes into the bedroom.)<br>
+							<br>
+							
+						KRAMER: Why don't you sit down, Poppie? You're still recuperating. (Poppie moves to the sofa and sits down, and exhales a loud sigh of relief.) What, are you tired, Poppie?<br>
+							<br>
+							
+						POPPIE: No.<br>
+							<br>
+							
+						KRAMER: Hey, Poppie...you really think people wanna make their own pizza?<br>
+							<br>
+							
+						POPPIE: Kramer, did I ever tell you about my mother? My mother -<br>
+							<br>
+							
+						JERRY (comes out of the bedroom with Poppie's money): Here you go. (Poppie stands up and takes the money.) Anyway, I'm sorry again about the...(notices a large, wet stain on his couch)...the...the...<br>
+							<br>
+							
+						POPPIE: The what? (Looks at Kramer, and exits.)<br>
+							<br>
+							
+						JERRY: ...the...the...<br>
+							<br>
+							
+						KRAMER (to Poppie): So long. I'll see you tonight.<br>
+							<br>
+							
+						JERRY (frantic): Kramer, Kramer, what is this?!<br>
+							<br>
+							
+						KRAMER: What is what?<br>
+							<br>
+							
+						JERRY: This puddle on my sofa!<br>
+							<br>
+							
+						KRAMER: What puddle?<br>
+							<br>
+							
+						JERRY (points): That puddle! (Kramer sees the puddle and does a double-take.)<br>
+							<br>
+							
+						KRAMER: I don't know.<br>
+							<br>
+							
+						JERRY (looking at the puddle with Kramer): Is it...? Could it...? Could he have...? IT IS! (Grabs Kramer.) Poppie peed on my sofa!!<br>
+							<br>
+							
+						KRAMER: Are you sure?<br>
+							<br>
+							
+						JERRY: Well, what is it then?! My new sofa! Poppie peed on my new sofa!<br>
+							<br>
+							
+						KRAMER: I'm sure it'll come out.<br>
+							<br>
+							
+						JERRY: I don't care if it comes out, I can't sit on that anymore!<br>
+							<br>
+							
+						KRAMER: Ah, you're making too much of it.<br>
+							<br>
+							
+						JERRY (sarcastic): Yeah, you're right. It's just a natural human function...happens to be on my sofa, instead of in the toilet, where it would normally be.<br>
+							<br>
+							
+						KRAMER: Right!<br>
+							<br>
+							<br>
+							<br>
+							
+						[New scene - George at Joe Temple's door.]<br>
+							<br>
+							
+						GEORGE: Well, anyway, the book club meets tomorrow, Mr. Temple.<br>
+							<br>
+							
+						JOE: Well, I was going to watch it with my daughter. She likes Audrey Hepburn very much.<br>
+							<br>
+							
+						GEORGE: She was a delicate flower.<br>
+							<br>
+							
+						JOE: Why didn't you just read the book?<br>
+							<br>
+							
+						GEORGE: Well, as I say, the pink-eye made my vision...quite blurry... (Joe's daughter comes to the door.)<br>
+							<br>
+							
+						JOE: Remy, this is George. Would you mind if he watched Breakfast At Tiffany's with us? (George smiles at Remy. Remy looks at Joe doubtfully.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[New scene - Elaine climbs into the cab of Carl's moving van.]<br>
+							<br>
+							
+						CARL: Hi.<br>
+							<br>
+							
+						ELAINE: Hi. (They kiss.)<br>
+							<br>
+							
+						CARL: I missed you.<br>
+							<br>
+							
+						ELAINE: Oh, I missed you!<br>
+							<br>
+							
+						CARL: I don't remember the last time I felt this way.<br>
+							<br>
+							
+						ELAINE: Me, either!<br>
+							<br>
+							
+						CARL: I think about you all the time.<br>
+							<br>
+							
+						ELAINE: You do?<br>
+							<br>
+							
+						CARL: Do you think about me?<br>
+							<br>
+							
+						ELAINE: Oh yeah, all the time, all the time...although, recently I've been thinking about this friend of mine.<br>
+							<br>
+							
+						CARL: What friend?<br>
+							<br>
+							
+						ELAINE: Oh, just this woman...she got impregnated by her troglodytic half-brother, and decided to have an abortion. (Waits in suspense for what Carl's response will be.)<br>
+							<br>
+							
+						CARL: You know, someday...we're going to get enough people in the Supreme Court to change that law.<br>
+							<br>
+							
+						(Elaine breaks down in tears.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[New scene - George sitting on Joe's couch, about to watch Breakfast At Tiffany's with Joe and Remy.]<br>
+							<br>
+							
+						GEORGE: So, anything to uh, nosh?<br>
+							<br>
+							
+						JOE: What did you want?<br>
+							<br>
+							
+						GEORGE: Popcorn?<br>
+							<br>
+							
+						REMY: Popcorn? Where do you think you are?<br>
+							<br>
+							
+						GEORGE: Well, a lot of people keep popcorn in the house.<br>
+							<br>
+							
+						REMY: Well, we don't.<br>
+							<br>
+							
+						GEORGE: You might want to try it...makes the movie more enjoyable, that's all.<br>
+							<br>
+							
+						JOE (passes George a bowl): Here's some nuts.<br>
+							<br>
+							
+						GEORGE: Oh! Nuts! Excellent! You know what I love? How there's two nuts named after people. Hazel...and filbert.<br>
+							<br>
+							
+						REMY (to Joe): Can we watch the movie now, Daddy? (Joe presses play on the remote.)<br>
+							<br>
+							
+						GEORGE: Hey, let's turn off the lights, get some real 'movie atmosphere.'<br>
+							<br>
+							
+						JOE: The lights are fine. (George shrugs, and the movie begins.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[New scene - Kramer and Poppie in the kitchen of the restaurant, making the first 'test pizza.']<br>
+							<br>
+							
+						KRAMER (in a chef's hat and apron): See, anybody can do this. (Tosses pizza dough into the air.)<br>
+							<br>
+							
+						POPPIE: Use your wrist! It's all in the wrist. (Kramer tosses the dough way up there.) Not too high!<br>
+							<br>
+							
+						KRAMER (puts the dough on the counter): Alright, put a little sauce on here... (speaks some unintelligible words in an Italian accent while spreading the sauce around.) Some cheese...<br>
+							<br>
+							
+						POPPIE: Not too much!<br>
+							<br>
+							
+						KRAMER: And...cucumbers! (Grabs a large handful and puts them on the pizza.)<br>
+							<br>
+							
+						POPPIE: Wait a second...what is that?<br>
+							<br>
+							
+						KRAMER: It's cucumbers.<br>
+							<br>
+							
+						POPPIE: No, no. You can't put cucumbers on a pizza.<br>
+							<br>
+							
+						KRAMER: Well, why not? I like cucumbers.<br>
+							<br>
+							
+						POPPIE: That's not a pizza. It'll taste terrible.<br>
+							<br>
+							
+						KRAMER: But that's the idea, you make your own pie.<br>
+							<br>
+							
+						POPPIE: Yes, but we cannot give the people the right to choose any topping they want! Now on this issue there can be no debate!<br>
+							<br>
+							
+						KRAMER: What gives you the right to tell me how I would make my pie?<br>
+							<br>
+							
+						POPPIE: Because it's a pizza!<br>
+							<br>
+							
+						KRAMER: It's not a pizza until it comes out of the oven!<br>
+							<br>
+							
+						POPPIE: It's a pizza the moment you put your fists in the dough!<br>
+							<br>
+							
+						KRAMER: No, it isn't!<br>
+							<br>
+							
+						POPPIE: Yes, it is!<br>
+							<br>
+							<br>
+							<br>
+							
+						[Cut back to George, Joe and Remy watching the movie. Joe's wife enters.]<br>
+							<br>
+							
+						JOE'S WIFE: I'm home.<br>
+							<br>
+							
+						JOE: Hey, honey.<br>
+							<br>
+							
+						REMY: Hi, Mom.<br>
+							<br>
+							
+						JOE'S WIFE: Hi, baby. (To George.) Hello. Breakfast At Tiffany's?<br>
+							<br>
+							
+						JOE: Yeah.<br>
+							<br>
+							
+						JOE'S WIFE: Well, I just came back from Angela's, it's not looking very good for Duncan.<br>
+							<br>
+							
+						JOE: Aw, that's too bad.<br>
+							<br>
+							
+						JOE'S WIFE: Yeah, the doctor thinks it's just a matter of time -<br>
+							<br>
+							
+						GEORGE (clears his throat, annoyed that the movie's being interrupted): Joe...could you...<br>
+							<br>
+							
+						JOE'S WIFE: Poor guy, I hate to see him suffer like this...<br>
+							<br>
+							
+						GEORGE: You know, I'm sorry, I...I hate to be one of those people, but we're right in the middle of this thing...I can't hear.<br>
+							<br>
+							
+						JOE'S WIFE: Who are you?<br>
+							<br>
+							
+						JOE: This is George Costanza.<br>
+							<br>
+							
+						GEORGE (irritated): This is very hard to follow with all the talking.<br>
+							<br>
+							
+						JOE: I'll pause it, okay? (Pauses the tape with the remote.)<br>
+							<br>
+							
+						GEORGE: Any more grape juice? (Gets up and goes to the kitchen. Remy moves to the end of the couch where George was sitting.)<br>
+							<br>
+							
+						JOE'S WIFE: Who is this guy?<br>
+							<br>
+							
+						REMY: He's in some book club.<br>
+							<br>
+							
+						JOE'S WIFE: And what's he doing here?<br>
+							<br>
+							
+						REMY: Cheating on his test. (George returns from the kitchen with a glass of grape juice.)<br>
+							<br>
+							
+						GEORGE: So, we watching the movie, or are we still talking? (Joe's wife shakes her head and goes into the other room. George gestures to Remy to move.) Okay, c'mon. Let's go.<br>
+							<br>
+							
+						REMY: What?<br>
+							<br>
+							
+						GEORGE: C'mon, you took my seat.<br>
+							<br>
+							
+						REMY: It's not your seat.<br>
+							<br>
+							
+						GEORGE: I was sitting there, c'mon.<br>
+							<br>
+							
+						REMY: You didn't save it.<br>
+							<br>
+							
+						GEORGE: I had the arm! Joe...<br>
+							<br>
+							
+						JOE: What's the difference?<br>
+							<br>
+							
+						GEORGE: Well, I was very comfortable! I've got my nuts here...<br>
+							<br>
+							
+						REMY: It's my couch.<br>
+							<br>
+							
+						GEORGE: Alright, c'mon, scooch over. (Tries to squeeze into the corner seat of the couch and struggles with Remy. He spills his glass of grape juice all over the couch in the process.)<br>
+							<br>
+							
+						REMY: Look! Look what you did! You got grape juice all over our couch, you've ruined our couch! (Joe slowly walks toward George with his hands on his hips.)<br>
+							<br>
+							
+						GEORGE: Joe...<br>
+							<br>
+							<br>
+							<br>
+							
+						[New scene - Jerry and Elaine in Jerry's apartment the next day, looking at the &quot;Poppie-stain&quot; on Jerry's sofa.]<br>
+							<br>
+							
+						ELAINE: Oh my god.<br>
+							<br>
+							
+						JERRY: You see?!<br>
+							<br>
+							
+						ELAINE: So, you're gonna get a new couch?<br>
+							<br>
+							
+						JERRY: Well, I guess I have no choice.<br>
+							<br>
+							
+						ELAINE: Do you want your old couch back?<br>
+							<br>
+							
+						JERRY: I was hoping you'd offer. (The intercom buzzes, Jerry answers it.) Yeah?<br>
+							<br>
+							
+						INTERCOM: It's the movers.<br>
+							<br>
+							
+						JERRY: 'Kay. (Buzzes them in.)<br>
+							<br>
+							
+						ELAINE: Who's that?<br>
+							<br>
+							
+						JERRY: Your boyfriend, he's taking it out.<br>
+							<br>
+							
+						ELAINE: No, no, he's not my boyfriend.<br>
+							<br>
+							
+						JERRY: Why?<br>
+							<br>
+							
+						ELAINE: Take a guess.<br>
+							<br>
+							
+						JERRY: Oh, really. (Carl and another moving guy come in and pick up the couch.)<br>
+							<br>
+							
+						ELAINE: Hi.<br>
+							<br>
+							
+						CARL: Hi.<br>
+							<br>
+							
+						JERRY: Hey Carl, I also need you to go to Elaine's and bring my old couch back.<br>
+							<br>
+							
+						CARL: Today?<br>
+							<br>
+							
+						JERRY: Could you?<br>
+							<br>
+							
+						CARL: Sure.<br>
+							<br>
+							
+						ELAINE (to Jerry): What are you doing with this couch?<br>
+							<br>
+							
+						JERRY: George is taking it.<br>
+							<br>
+							
+						ELAINE: Did you tell him it was peed on?<br>
+							<br>
+							
+						JERRY: He said he doesn't care, he'll just turn the cushion over.<br>
+							<br>
+							<br>
+							<br>
+							
+						[New scene - Elaine and Carl in Elaine's kitchen.]<br>
+							<br>
+							
+						CARL: I'm sorry you feel that way, Elaine.<br>
+							<br>
+							
+						ELAINE: Yeah, me too.<br>
+							<br>
+							
+						CARL: It's just too bad.<br>
+							<br>
+							
+						ELAINE: Yeah. It is.<br>
+							<br>
+							
+						CARL: Well, I better get this couch back to Jerry's.<br>
+							<br>
+							
+						ELAINE: Can I offer you anything to drink?<br>
+							<br>
+							
+						CARL (off-camera): Yeah, sure.<br>
+							<br>
+							
+						ELAINE (looking in the fridge): All I've got is grape juice.<br>
+							<br>
+							
+						CARL: Throw it!<br>
+							<br>
+							
+						(Elaine heaves the grape juice bottle over-hand at Carl, and we hear the sound of breaking glass.)<br>
+							<br>
+							
+						CARL: The couch!<br>
+							<br>
+							<br>
+							<br>
+							
+						[New scene - George sitting in with the book club around a back booth at Monk's.]<br>
+							<br>
+							
+						MARIE (describing Holly Go-Lightly in &quot;Breakfast At Tiffany's&quot;): She didn't want the constraints of any relationship, that's why she got rid of the cat. The most important thing in Holly's life was her independence.<br>
+							<br>
+							
+						GEORGE: Well, not really. After all, she did get together with George Peppard. I mean, Fred.<br>
+							<br>
+							
+						MARIE: George...Fred's gay.<br>
+							<br>
+							
+						(George ponders this quizzically.)<br>
+							<br>
+							<br>
+							
+						The End</td>
+						</tr>
+						<tr height="6">
+							<td class="bottom2" width="645" height="6"></td>
+						</tr>
+						<tr>
+							<td width="645">
+								<div align="center">
+									<font size="-1">Copyright 2006 seinology.com | All Rights Reserved | Designed by 13erla</font></div>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+		<p></p>
+	</body>
+
+</html>

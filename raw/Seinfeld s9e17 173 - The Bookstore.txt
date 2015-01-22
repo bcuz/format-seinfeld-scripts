@@ -1,0 +1,1302 @@
+<tdOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+<html>
+
+	<head>
+		<meta http-equiv="content-type" content="text/html;charset=ISO-8859-1">
+		<meta name="description" content="Top Source for Seinfeld">
+		<meta name="keywords" content="seinfeld, sienfeld, Jerry Seinfeld, Julia Louis Dreyfus, Jason Alexander, Michael Richards, Kramer, George, Costanza, Elaine Benes, morty, Larry David">
+		<title>Seinology.com :: Scripts :: 173-The Bookstore</title>
+	<link rel='stylesheet' href='/stylesheet.css' type='text/css'>
+	</head>
+
+	<body>
+			<table align="center" width="787" border="0" cellspacing="0" cellpadding="0">
+				<tr>
+					<td><font size="-2" color="red">Seinology.com - </font><font size="-3" color="black">Where Seinfeld Content and Accuracy Matter Most. Seinfeld scripts in pdf form, Seinfeld episode video clips, Seinfeld episode audio clips, Jerry Seinfeld appearances, Julia Louis-Dreyfus appearances, Michael Richards appearances, Jason Alexander appearances, Seinfeld discussion Forum, Seinfeld Where are they Now? Seinlanguage Newsletter, Popular Seinfeld Lists, Seinfeld episode standup, Seinfeld episode guide, Seinfeld fan fiction. Seinfeld content all on one domain. Seinology.com enjoy your stay.</font></td>
+				</tr>
+			</table>
+		
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr height="100">
+				<td class="logo"></td>
+			</tr>
+			<tr><td class="ads" align="center" background=#8694fa>
+				<script type="text/javascript"><!--
+google_ad_client = "pub-1924026976931416";
+google_ad_width = 728;
+google_ad_height = 90;
+google_ad_format = "728x90_as";
+google_ad_type = "text";
+google_ad_channel = "";
+google_color_border = "FFFFFF";
+google_color_bg = "8694fa";
+google_color_link = "0000FF";
+google_color_text = "000000";
+google_color_url = "002E3F";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></td></tr>
+		</table>
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr>
+				<td valign="top" width="136">
+					<table width="136" border="0" cellspacing="0" cellpadding="0">
+						<tr height="24">
+							<td class="navigation">
+								<div align="center">
+									
+									<b>Navigation</b></div>
+							</td>
+						</tr>
+						<tr height="199">
+							<td class="spacer1" valign="top" width="136" height="199">
+								<div align="center">
+									<font size="-1"><a href="http://www.seinology.com">Home</a><br>
+										<a href="http://board.seinology.com">Forum</a><br>
+										<a href="http://www.seinology.com/av.shtml">Audio/Video</a><br>
+										<a href="http://www.seinology.com/scripts.shtml">Scripts</a><br>
+										<a href="http://www.seinology.com/survivor.shtml">Survivor</a><br>
+										<a href="http://www.seinology.com/fanfics.shtml">Fan Fiction</a><br>
+										<a href="http://www.seinology.com/gallery/">Gallery</a><br>
+										<a href="http://www.seinology.com/newsletter.shtml">Newsletter</a><br>
+										<a href="http://www.seinology.com/lists.shtml">Lists</a><br>
+										<a href="http://www.seinology.com/epguide.shtml">Episode Guide</a><br>
+										<a href="http://www.seinology.com/links.shtml">Links</a><br>
+										<a href="http://www.seinology.com/faqother.shtml">Faq + others</a><br>
+										<a href="http://www.seinology.com/legal.shtml">Legal</a></font></div>
+							</td>
+						</tr>
+						
+						<tr>
+							<td class="nav2" width="136">
+							<div align="center"><b>Search</b></div></td>
+						</tr>
+						<tr>
+							<td class="spacer1" width="136" valign="top"><div align="center"><form method="get" action="http://www.seinology.com/search/search.cgi">
+<p><label for="fdse_Match">Match</label><br>
+<select name="Match" id="fdse_Match" size="1">
+<option value="1">All</option>
+<option value="0">Any</option>
+<option value="2">Phrase</option>
+</select></p>
+<p><label for="fdse_Realm">Where?</label><br>
+<select name="Realm" id="fdse_Realm" size="1">
+<option selected="selected" value="All">EntireSite</option>
+<option value="Ep Guide">Ep Guide</option>
+<option value="Images">Images</option>
+<option value="Lists">Lists</option>
+<option value="Newsletters">Newsletters</option>
+<option value="Scripts">Scripts</option>
+<option value="Notes..Nothing">Notes..Nothing</option>
+</select></p>
+<p><input type="text" name="Terms" size="14" id="fdse_Terms"><br>
+<input type="submit" class="submit" name="submitButtonName" value="Search"></p>
+</div></form></td>
+						</tr>
+						<tr><td class="bottom" width="136" height="10" valign="top">
+						</td>
+						</tr>
+					</table>
+				</td>
+				<td width="4"></td>
+				<td valign="top" width="645">
+					<table width="645" border="0" cellspacing="0" cellpadding="0">
+						<tr height="18">
+							<td width="645" height="35" class="bar">
+								<div align="center">
+									<b><font size="+2" color="black">Script</font></b></div>
+							</td>
+						</tr>
+						<tr height="362">
+							<td class="spacer2" valign="top" width="645" height="362">
+
+						<p><font size="-2">Episode 173 - The Bookstore<br>
+							
+						pc: 917 season 9, episode 17<br>
+							
+						Broadcast date: April 9, 1998<br>
+							<br>
+							
+						Written by Spike Feresten<br>
+							
+						Story by Spike Feresten and Darin Henry &amp; Marc Jaffe<br>
+							
+						Directed by Andy Ackerman<br>
+							<br>
+							
+						-------------------------------------------------------------------------------<br>
+							<br>
+							
+						The Cast<br>
+							
+						Regulars:<br>
+							
+						Jerry Seinfeld ......................&nbsp; Jerry Seinfeld<br>
+							
+						Jason Alexander .................. George Costanza<br>
+							
+						Julia Louis-Dreyfus .............. Elaine Benes<br>
+							
+						Michael Richards .................. Cosmo Kramer<br>
+							<br>
+							
+						Guest Stars:<br>
+							<br>
+							
+						Jonathan Penner ................. Zach<br>
+							
+						Ted Rooney ........................ Crichton<br>
+							
+						John Gries ........................... Rusty<br>
+							
+						Sonya Eddy ........................ Rebecca DeMornay<br>
+							
+						Merrin Dungey ................... Cashier<br>
+							
+						Kevin Ruf ........................... Security Guard<br>
+							
+						Heather Morgan ................ Server<br>
+							
+						Lauren Bowles ................... Waitress<br>
+							
+						Mark Daniel Cade .............. Walter<br>
+							
+						Sloppy Joe .......................... Hobo Joe<br>
+							
+						rc: Wayne Knight ............... Newman<br>
+							
+						rc: Barney Martin ............... Morty Seinfeld<br>
+							
+						rc: Liz Sheridan .................. Helen Seinfeld<br>
+							
+						rc: John O'Hurley ............... J. Peterman<br>
+							
+						rc: Len Lesser .................... Uncle Leo<br>
+							<br>
+							
+						==================================================================<br>
+							
+						[Setting: Bookstore]<br>
+							<br>
+							
+						(George and Jerry both enter a bookstore)<br>
+							<br>
+							
+						GEORGE: I read somewhere that this Brentano's is the place to meet girls in New York.<br>
+							<br>
+							
+						JERRY: First it was the health club, then the supermarket, now the bookstore. They could put it anywhere they want, no one's meetin' anybody.<br>
+							<br>
+							
+						(Kramer walks up to Jerry and George while leafing through a book)<br>
+							<br>
+							
+						KRAMER: Jerry, look at all these pagodas, huh? I gotta get over to Hong Kong before it all goes back to China..<br>
+							<br>
+							
+						JERRY: (Sarcastic) You better hurry.<br>
+							<br>
+							
+						GEORGE: I'm gonna hit the head.<br>
+							<br>
+							
+						KRAMER: Oh, boy, look at this. Hong Kong's outlawed the rickshaw. See, I always thought those would be perfect for New York.<br>
+							<br>
+							
+						JERRY: (Sarcastic) Yes. The city needs more slow-moving wicker vehicles.<br>
+							<br>
+							
+						(George is about to go into the bathroom. He grabs a book on his way in)<br>
+							<br>
+							
+						KRAMER: Hmm, Elaine's been to Hong Kong. I should give her a call.<br>
+							<br>
+							
+						JERRY: She's at that annual Peterman party tonight. You know the one she danced at last year?<br>
+							<br>
+							
+						KRAMER: (Remembering) No, that wasn't dancing.<br>
+							<br>
+							
+						JERRY: (Pointing) Hey, there's Leo.<br>
+							<br>
+							
+						KRAMER: Oh? Who's Leo?<br>
+							<br>
+							
+						JERRY: Uncle Leo.<br>
+							<br>
+							
+						KRAMER: Oh, yeah. Right. Uncle, Leo. Forgot his first name..<br>
+							<br>
+							
+						(Kramer and Jerry both watch Leo looking at the books on a shelf. Then, Leo takes a book and puts it under his coat)<br>
+							<br>
+							
+						JERRY: Did I just see that?!<br>
+							<br>
+							
+						KRAMER: (To Jerry) Well, that ougta keep you busy for a few days, huh?<br>
+							<br>
+							<br>
+							<br>
+							
+						[Setting: The Annual Peterman Party]<br>
+							<br>
+							
+						(Elaine is sitting alone at a table. Walter, a co-worker, comes up to her)<br>
+							<br>
+							
+						WALTER: (Joking around with her) So, Elaine.. are you going to dance this year?<br>
+							<br>
+							
+						ELAINE: Maybe.. All over your face!<br>
+							<br>
+							
+						(A waiter serving food approaches Elaine)<br>
+							<br>
+							
+						WAITER: If you do dance, the cooks want to know - so they can be brought out of the kitchen. They missed it last year.<br>
+							<br>
+							
+						(Elaine is looking both angry and embarrassed. Scene cuts to Peterman giving a toast)<br>
+							<br>
+							
+						PETERMAN: My friends, a toast. As the wolly-haired Melanasians of Papua, New Guinea once said, (Makes a series of clicking and popping sounds. The music starts up) All right! Who's dancing? (No one makes a gesture that they intend to dance) No one? Alright, I'll just have to get things started. (Grabs a female employee, and starts dancing with her. The crowd is impressed)<br>
+							<br>
+							
+						(Scene cuts back to Elaine's table. A fellow employee sits down at Elaine's table)<br>
+							<br>
+							
+						ZACH: Hi, I'm Zach.<br>
+							<br>
+							
+						ELAINE: Hi, I'm miserable. (They both laugh)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Setting: Bookstore]<br>
+							<br>
+							
+						(George casually puts the large book he took into the bathroom with him on the shelf. A manager notices, and approaches him)<br>
+							<br>
+							
+						MANAGER: Excuse me, Sir. What are you doing?<br>
+							<br>
+							
+						GEORGE: (Acting innocent) I'm all set.<br>
+							<br>
+							
+						MANAGER: (Pointing) Did you take that book with you into the bathroom?<br>
+							<br>
+							
+						GEORGE: (Not sure what the answer should be) What do you want to hear?<br>
+							<br>
+							<br>
+							<br>
+							
+						[Setting: The Coffee shop]<br>
+							<br>
+							
+						(George and Jerry are at Monk's Coffee shop)<br>
+							<br>
+							
+						GEORGE: They made me buy it.. A hundred bucks this thing cost me. (Gesturing to the book) How dare they?! I got news for you, if it wasn't for the toilet, there would be no books.<br>
+							<br>
+							
+						JERRY: (Sarcastic) Yeah. I understand Guttenberg used to spend a lot of time in there.<br>
+							<br>
+							
+						GEORGE: They're selling coffee, bran muffins.. you're surrounded by reading material. It's entrapment!<br>
+							<br>
+							
+						JERRY: (Reading the cover of the book George was forced to buy) 'French Impressionist Paintings'?<br>
+							<br>
+							
+						GEORGE: I find the soothing pastorial images very conduc-<br>
+							<br>
+							
+						JERRY: (Cutting him off) Thank you very much.<br>
+							<br>
+							
+						GEORGE: Well, I'm gonna go back there later and return it when there's different people working.. You want to catch a movie?<br>
+							<br>
+							
+						JERRY: I can't. I'm meeting Uncle Leo. I saw him shoplifting at the bookstore.<br>
+							<br>
+							
+						GEORGE: (Praising Leo's stealing) Alright, Leo! Stickin' it to the man!<br>
+							<br>
+							
+						(Elaine enters and sits down)<br>
+							<br>
+							
+						JERRY: Sleeping in the caragain?<br>
+							<br>
+							
+						ELAINE: Cocktail flu.<br>
+							<br>
+							
+						JERRY: (Remembering) Oh, right. The big party..<br>
+							<br>
+							
+						GEORGE: You, uh, didn't dance again, did you?<br>
+							<br>
+							
+						ELAINE: (Angered) No, I found a better way to humiliate myself. There was this guy, and we had a few too many..<br>
+							<br>
+							
+						GEORGE: You went home with him?<br>
+							<br>
+							
+						ELAINE: Worse. We made out at the table like our plane was going down!<br>
+							<br>
+							
+						JERRY: (Rubbing it in) Ah, the drunken make-out. An office classic. Did you end up xeroxing anything?<br>
+							<br>
+							
+						ELAINE: (Gives Jerry a look) Do you know how embarrassing this is to someone in my position?<br>
+							<br>
+							
+						JERRY: (Confused) What's your position?<br>
+							<br>
+							
+						ELAINE: I am an associate.<br>
+							<br>
+							
+						GEORGE: Hey, me too.<br>
+							<br>
+							
+						(A waitress, passing their table, speaks up)<br>
+							<br>
+							
+						WAITRESS: Yeah, me too.<br>
+							<br>
+							
+						ELAINE: Oh God. Why did I do this? Now I'm the office skank.<br>
+							<br>
+							
+						GEORGE: Well, unless you tell everybody you're dating.<br>
+							<br>
+							
+						ELAINE: (Liking the idea) Ohh.. right. Cause if we're dating, what everyone saw was just a beautiful moment between two lovers.<br>
+							<br>
+							
+						JERRY: (Jokingly rubbing it in) As opposed to a spirited bout of Skanko-Roman wrestling.<br>
+							<br>
+							
+						ELAINE: (Sarcastic) Oh, bravo.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Setting: Jerry's apartment]<br>
+							<br>
+							
+						(Jerry enters his apartment to find Newman and Kramer having a conference at his table)<br>
+							<br>
+							
+						JERRY: (Sarcastic) Oh, hey. Can I fix you fellas some drinks and sandwiches?<br>
+							<br>
+							
+						KRAMER: (Taking his offer seriously) No, we've already eaten.<br>
+							<br>
+							
+						NEWMAN: (Gesturing to dishes and silverware on the table) But you can clear some of this stuff out of the way.<br>
+							<br>
+							
+						KRAMER: Jerry, check this out. (Pointing at some papers on the table) Remember my idea about rickshaws in New Youk? Well, we're gonna make it happen!<br>
+							<br>
+							
+						JERRY: (Jokingly trying to be skeptical) No, you're not.<br>
+							<br>
+							
+						KRAMER: Newman, he knows a guy in the Hong Kong post office..<br>
+							<br>
+							
+						JERRY: (Still skeptical) No, he doesn't.<br>
+							<br>
+							
+						NEWMAN: He's shipping us a rickshaw. It can't miss!<br>
+							<br>
+							
+						JERRY: Yes, it can.<br>
+							<br>
+							
+						KRAMER: We'll start out with one, and they when it catches on, we're gonna have a whole fleet!<br>
+							<br>
+							
+						NEWMAN: It's the romance of the Handsome Cab without the guilt or dander of the equine.<br>
+							<br>
+							
+						JERRY: So, who's gonna pull this thing?<br>
+							<br>
+							
+						(Kramer and Newman both look at eachother)<br>
+							<br>
+							
+						KRAMER: (To Newman) Well, I just assumed you would.<br>
+							<br>
+							
+						NEWMAN: Yeah, but I though-<br>
+							<br>
+							
+						KRAMER: (Stopping his thought) Da-da-da-da no.<br>
+							<br>
+							
+						JERRY: (Extremely happy about Kramer and Newman's dilemma) My, isn't this an awkward moment?<br>
+							<br>
+							
+						KRAMER: (Brainstorming) What about the homeless?<br>
+							<br>
+							
+						NEWMAN: Can't we worry about them later?<br>
+							<br>
+							
+						KRAMER: (Explaining) To pull the rickshaw.<br>
+							<br>
+							
+						NEWMAN: (Pondering Kramer's plan out loud) They do have an intimate knowledge of the street..<br>
+							<br>
+							
+						KRAMER: They're always walkin' around the city. Why not just strap something to them?!<br>
+							<br>
+							
+						JERRY: (Sarcastic) Now, that's the first sensible idea I've heard all day.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Setting: The Coffee shop]<br>
+							<br>
+							
+						(Uncle Leo enters, and joins Jerry at his booth)<br>
+							<br>
+							
+						LEO: Jerry, hello! (Sits down)<br>
+							<br>
+							
+						JERRY: So, Leo, how's everything? You doin' Okay?<br>
+							<br>
+							
+						LEO: I still have the ringing in the ears. Sounds like the phone.<br>
+							<br>
+							
+						JERRY: (Shrugging his problems off) Yeah, yeah. But what about money? Are you strapped? Do you need a little?<br>
+							<br>
+							
+						LEO: What, are you kidding? I should you loaning you money! (Quickly amending what he just said) But I'm not.<br>
+							<br>
+							
+						JERRY: (Being frank) Leo, I saw you in Brentano's yesterday.<br>
+							<br>
+							
+						LEO: Why didn't ya say hello?<br>
+							<br>
+							
+						JERRY: Because you were too busy stealing a book.<br>
+							<br>
+							
+						LEO: (Giving a courtesy lesson) You still say hello.<br>
+							<br>
+							
+						JERRY: (Showing that it's a problem) Leo, I saw you steal.<br>
+							<br>
+							
+						LEO: Oh, they don't care. We all do it.<br>
+							<br>
+							
+						JERRY: Who, criminals?<br>
+							<br>
+							
+						LEO: Senior citizens. No big deal.<br>
+							<br>
+							
+						JERRY: You could get arrested.<br>
+							<br>
+							
+						LEO: Arrested? Come on! (Goes into a routine explaination for his stealing) I'm an old man. I'm confused! I thought I paid for it. What's my name? Will you take me home?<br>
+							<br>
+							
+						JERRY: (Pleading) Leo..<br>
+							<br>
+							
+						LEO: Alright, alright. Mr. Goody Two-Shoes. You made your point.<br>
+							<br>
+							
+						JERRY: (Thinking he's stopped Leo's thefts) Thank you.<br>
+							<br>
+							
+						LEO: (Yelling out to every one in the coffee shop) Will somebody answer that damn phone?!<br>
+							<br>
+							<br>
+							<br>
+							
+						[Setting: Peterman office building hallway]<br>
+							<br>
+							
+						ELAINE: (Talking to a co-worker) Of course Zach and I have been dating. What'd you think, I was the office skank?<br>
+							<br>
+							
+						WALTER: Well..<br>
+							<br>
+							
+						ELAINE: &quot;Well&quot;? We've been dating for three months. Between you and me, and.. anyone else you want to tell.<br>
+							<br>
+							
+						(Elaine enters into the break room. There, she sees Zach making out with another co-worker)<br>
+							<br>
+							
+						ELAINE: (Exits, closing the door behind her) Oh man. Ugh..<br>
+							<br>
+							
+						WALTER: (Pointing at the closed door) Isn't that Zach?<br>
+							<br>
+							
+						ELAINE: Yeah.<br>
+							<br>
+							
+						WALTER: Aren't you upset?<br>
+							<br>
+							
+						ELAINE: (Starts to fake cry) Yes. Oh, man! Oh!<br>
+							<br>
+							<br>
+							<br>
+							
+						[Setting: NYC street]<br>
+							<br>
+							
+						(Kramer and Newman are standing there with a rickshaw. Close by are three homeless guys in a line)<br>
+							<br>
+							
+						KRAMER: Alright, listen up. Now, you three have been hand-picked out of possibly dozens that applied. Now, what we're looking for are motivated, hard-working, homeless gentlemen like yourselves to pull rickshaws. (One of the homeless men starts to wander off, walking away) Now, I don't caer where you're from, or how you got here, or what happened to your homes. But you will have to be physically fit.<br>
+							<br>
+							
+						(One of the 2 remaining homeless men drops a bottle)<br>
+							<br>
+							
+						HOMELESS MAN: The government!<br>
+							<br>
+							
+						KRAMER: (Continuing as if nothing happened) Because to pull rickshaws means more than just strong legs. You're also going to need a well-toned upper body.<br>
+							<br>
+							
+						(Kramer looks at the two confused guys) Or a shirt..<br>
+							<br>
+							
+						NEWMAN: Alright, who's first?<br>
+							<br>
+							
+						(The homeless man with a shirt raises his hand. Kramer pats him on the shoulder - dust flies into the air)<br>
+							<br>
+							
+						KRMAER: Hey.<br>
+							<br>
+							
+						NEWMAN: Name, please.<br>
+							<br>
+							
+						HOMELESS MAN: Rusty.<br>
+							<br>
+							
+						NEWMAN: (Writing on a clipboard) Rusty.<br>
+							<br>
+							
+						KRAMER: (To Rusty) You know, I once knew a horse named Rusty. No offence.<br>
+							<br>
+							
+						NEWMAN: (To Rusty) Alright, uh, take it down to the end of the block. Make a controlled turn, and bring her back. Let's see what you've got! Ok? Ready, and go!<br>
+							<br>
+							
+						(Rusty takes off down the street with the rickshaw)<br>
+							<br>
+							
+						KRAMER: (Watching Rusty's pulling of the rickshaw) Giddy up! Good form.<br>
+							<br>
+							
+						NEWMAN: (Yelling out to Rusty) Alright, pace yourself, 'Cause you're gonna have to do this all day for very little money.<br>
+							<br>
+							
+						(They both notice that Rusty is not stopping)<br>
+							<br>
+							
+						KRAMER: Hey, what's he doin'?<br>
+							<br>
+							
+						NEWMAN: I think he stealing our rickshaw!<br>
+							<br>
+							
+						KRAMER: Well, then, he's out!<br>
+							<br>
+							
+						(Newman stops his timer. The other homeless man is still standing in line - alone)<br>
+							<br>
+							
+						HOMELESS MAN 2: (Salutes Kramer) I'll take the job. Potato salad!&quot;<br>
+							<br>
+							<br>
+							<br>
+							
+						[Setting: Bookstore]<br>
+							<br>
+							
+						(Jerry and George are at Brentano's. George is trying to return the book)<br>
+							<br>
+							
+						GEORGE: Yes, I, uh, I need to return this book.<br>
+							<br>
+							
+						CASHIER: (Puts the book's code into the computer) I'm sorry, we can't take this book back.<br>
+							<br>
+							
+						GEORGE: Why not?<br>
+							<br>
+							
+						CASHIER: It's been flagged.<br>
+							<br>
+							
+						GEORGE: (Confused) Flagged?<br>
+							<br>
+							
+						CASHIER: It's been in the bathroom.<br>
+							<br>
+							
+						GEORGE: It says that on the computer?<br>
+							<br>
+							
+						CASHIER: Please take it home. We don't want it near the other books.<br>
+							<br>
+							
+						GEORGE: (Outraged. Leaving) Well, you just lost a lot of business! Because I love to read!<br>
+							<br>
+							
+						(George storms out. Jerry is about to follow until he sees Leo stealing another book)<br>
+							<br>
+							
+						JERRY: (To himself) I don't believe this! (Walks over to a security guard) Excuse me, I wonder if you could do me a favor? My uncle's having a little problem with shoplifting..<br>
+							<br>
+							
+						GUARD: Mm-hmm. Where's your uncle?<br>
+							<br>
+							
+						JERRY: (Pointing) He's over there in the overcoat. If you could just kind of put a scare into him.. You know, set him straight..<br>
+							<br>
+							
+						GAURD: (Into his walkie-talkie) We have a 51-50 in paperbacks. All units respond.<br>
+							<br>
+							
+						JERRY: '51-50'? That - that's just a scare, right?<br>
+							<br>
+							
+						GUARD: Sir, I'm gonna have to ask you to stand out of the way and let us handle this. (The Guard rushes tward Uncle Leo) Swarm! Swarm!<br>
+							<br>
+							
+						(Suddenly, Leo is surrounded by guards)<br>
+							<br>
+							
+						LEO: What?! I'm an old man! I'm confused!<br>
+							<br>
+							
+						GUARD: You're under arrest.<br>
+							<br>
+							
+						JERRY: (To Guard) I just wanted you to scare him.<br>
+							<br>
+							
+						LEO: Jerry, you ratted me out?!<br>
+							<br>
+							
+						JERRY: (Unsure of what to say - he remember's Leo's courtesy tip) Hello?<br>
+							<br>
+							
+						LEO: Hello.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Setting: Jerry's apartment]<br>
+							<br>
+							
+						(Jerry is on the phone with his parents)<br>
+							<br>
+							
+						JERRY: Mom, I didn't rat out Uncle Leo. I just wanted the guard to scare him straight.<br>
+							<br>
+							
+						HELEN: Jerry, he won't last a day in prison.<br>
+							<br>
+							
+						JERRY: (Scoffing) Prison. I'm sure it's just a fine.<br>
+							<br>
+							
+						MORTY: She's got priors.<br>
+							<br>
+							
+						JERRY: (Not believeing it) Prior convictions? Leo?<br>
+							<br>
+							
+						HELEN: It was a crime of passion. Leave it alone.<br>
+							<br>
+							
+						MORTY: Besides, it's not stealing if it's something you need.<br>
+							<br>
+							
+						JERRY: (Confused) What does that mean?<br>
+							<br>
+							
+						HELEN: Nobody pays for everyting.<br>
+							<br>
+							
+						JERRY: (Shocked at his parents) You're stealing too?!<br>
+							<br>
+							
+						MORTY: Nothing. Batteries. (Jerry scoffs) Well, they wear out so quick.<br>
+							<br>
+							
+						JERRY: Mom, you too?<br>
+							<br>
+							
+						HELEN: Sometimes your father forgets, so I have to steal them.<br>
+							<br>
+							
+						(Kramer and Newman both enter)<br>
+							<br>
+							
+						JERRY: Alright, I'll talk to you later.<br>
+							<br>
+							
+						KRAMER: (While washing his hands in Jerry's kithen sink) Well, the rickshaw's gone. We strapped it to a homeless guy and he (Makes a noise), he bolted.<br>
+							<br>
+							
+						JERRY: (Joking around) Well, you know, eighty-five percent of all homeless rickshaw businesses fail within the first three months.<br>
+							<br>
+							
+						KRAMER: (To Newman) See, we should've gotten some collateral from him.. Like his bag of cans, or.. his other bag of cans.<br>
+							<br>
+							
+						NEWMAN: We gotta find that rickshaw. You check the sewers and dumpsters. I'll hit the soup kitchens, bakeries, and smorgasbords.<br>
+							<br>
+							
+						(Newman and Kramer both go to leave)<br>
+							<br>
+							
+						JERRY: To the Idiotmobile!<br>
+							<br>
+							<br>
+							<br>
+							
+						[Setting: The Coffee shop]<br>
+							<br>
+							
+						(Jerry and Elaine are sitting at a booth)<br>
+							<br>
+							
+						JERRY: So, even though you're not really going out with this guy, he's cheating on you?<br>
+							<br>
+							
+						ELAINE: That is correct. But here's the beauty part - now I stand up for myself by telling everybody I'm dumping his sorry ass, and I'm the office-<br>
+							<br>
+							
+						JERRY: (Butting in) Tina Turner?<br>
+							<br>
+							
+						ELAINE: (Accepting) Alright.<br>
+							<br>
+							
+						(George enters with his large art book)<br>
+							<br>
+							
+						GEORGE: Well, I've to every Brentano's. This thing's flagged in every database in town!<br>
+							<br>
+							
+						JERRY: Is it so horrible to have to keep a book?<br>
+							<br>
+							
+						GEORGE: I don't understand what the big deal is. They let you try on pants.<br>
+							<br>
+							
+						JERRY: (Stern on George) Not underpants.<br>
+							<br>
+							
+						ELAINE: Hey, that's your Uncle Leo.<br>
+							<br>
+							
+						(Uncle Leo is at the front desk in Monks. He's paying for his check)<br>
+							<br>
+							
+						JERRY: (Getting up) Uncle Leo. Hello!<br>
+							<br>
+							
+						LEO: (Bitter) Jerry.<br>
+							<br>
+							
+						JERRY: (Trying to explain) Uncle Leo, I'm sorry. I didn't know about your.. past.<br>
+							<br>
+							
+						LEO: (Exiting) You mean my crime of passion? If anyone betrays me, I never forget!<br>
+							<br>
+							
+						JERRY: (Following Leo out the door) Uncle Leo, wait! Hello?!<br>
+							<br>
+							
+						(Elaine has picked up George's book, and is now thumbing through it)<br>
+							<br>
+							
+						ELAINE: French impressionism. Oh, I love this. (Looking up at George) Now, what is the problem with this book?<br>
+							<br>
+							
+						GEORGE: Nothing.<br>
+							<br>
+							
+						ELAINE: How much do you want for it?<br>
+							<br>
+							
+						GEORGE: You know, I could let it go for.. say.. a hundred and twenty-five.<br>
+							<br>
+							
+						(Jerry has given up on Leo, and now rejoins Elaine and George at the booth)<br>
+							<br>
+							
+						JERRY: Leo's furious. (He stops in his tracks when he sees Elaine looking at George's book) What is that doing on the table?<br>
+							<br>
+							
+						GEORGE: (Wanting Elaine to take it off his hands, he tries to silence Jerry) Jerry, simmer down.<br>
+							<br>
+							
+						JERRY: (Pointing) I'm not eating anything in the vicinity of that book.<br>
+							<br>
+							
+						ELAINE: (Confused) What is wrong with this book?<br>
+							<br>
+							
+						GEORGE: Simmer!<br>
+							<br>
+							
+						JERRY: That book has been on a wild ride. George took it into the bathroom with him and-<br>
+							<br>
+							
+						ELAINE: (Cutting Jerry off, she stands up, trying to get away from the book. Yelling out) Alright! Everyone clear! Bio-hazard coming through! Clear! Clear!! (Runs to the bathroom to wash her hands)<br>
+							<br>
+							
+						GEORGE: (The damage has been done. He is slightly angered at Jerry) May I ask, what do you read in the bathroom?<br>
+							<br>
+							
+						JERRY: I don't read in the bathroom.<br>
+							<br>
+							
+						GEORGE: Well, aren't you something?<br>
+							<br>
+							<br>
+							<br>
+							
+						[Setting: Elaine's office]<br>
+							<br>
+							
+						(Peterman walks in)<br>
+							<br>
+							
+						PETERMAN: Elaine, do you have a moment? It's about your lover.<br>
+							<br>
+							
+						ELAINE: (Faking a broken heart) Oh yes. I know all about his little performance in the break room.<br>
+							<br>
+							
+						PETERMAN: Elaine, who among us hasn't snuck into the break room to nibble on a love newton?<br>
+							<br>
+							
+						ELAINE: (Confused) Love newton?<br>
+							<br>
+							
+						PETERMAN: I'm afraid the problem with Zach is more serious. He's back on the horse, Elaine. Smack. White palace. The Chinaman's nightcap.<br>
+							<br>
+							
+						ELAINE: An addict? (Sacrcastic) Well, it just keeps getting better!<br>
+							<br>
+							
+						PETERMAN: And, in a tiny way, I almost feel responsible. I'm the one who sent him to Thailand - in search of low-cost whistles. Filled his head with pseudoerotic tales of my own Opium excursions. Plus, I have him some phone numbers of places he could score near the hotel.<br>
+							<br>
+							
+						ELAINE: Look, uh, Mr. Peterman, the fact is that I was planning on breaking up with Zach anyway. He was cheating on me!<br>
+							<br>
+							
+						PETERMAN: Damn it, Elaine. That wasn't Zach. That was the yam-yam. Now, he is going cold turkey. (Ordering) And you will be at his side.<br>
+							<br>
+							
+						ELAINE: Oh. Well, you know, I had planned to uh-<br>
+							<br>
+							
+						PETERMAN: (Cutting her off) No buts, Elaine. Or I will strip you of your 'associate' status. (Goes to leave) Uh, P.S., the first twenty-four hours are the worst. Better bring a poncho.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Setting: Jerry's bedroom]<br>
+							<br>
+							
+						(Jerry is tossing and turning in his bed. Voices are going through his head while he's trying to sleep)<br>
+							<br>
+							
+						HELEN: It was a crime of passion.<br>
+							<br>
+							
+						LEO: If anyone betrays me, I never forget.<br>
+							<br>
+							
+						HELEN: He won't last a day in prison.<br>
+							<br>
+							
+						(Now, Jerry has slipped into a dream. He visualizes Leo in prison *NOTE* The following scene of Leo in jail is a parody of the movie &quot;Cape Fear&quot;)<br>
+							<br>
+							
+						LEO: (Leo has &quot;Jerry&quot; written on the fingers his right hand, and &quot;Hello&quot; written on his left. He's doing pull-ups) Jerry. Hello. Jerry. Hello. Jerry. (Turns to the right, yelling out) Answer that damn phone!<br>
+							<br>
+							
+						(Scene cuts to Jerry, who is just now waking up to the phone's ringing. He answers it)<br>
+							<br>
+							
+						JERRY: Hello?<br>
+							<br>
+							
+						ELAINE: Hey, it's me.<br>
+							<br>
+							
+						JERRY: Uncle Leo?<br>
+							<br>
+							
+						ELAINE: (Sarcastic) Oh, that's nice. What are you up to?<br>
+							<br>
+							
+						JERRY: Nightmares. You?<br>
+							<br>
+							
+						ELAINE: My fake boyfriend is going through real withdrawals.<br>
+							<br>
+							
+						ZACH: (Yelling out from off-camera) I'm burning up! Elaine!<br>
+							<br>
+							
+						ELAINE: Eat your soup!<br>
+							<br>
+							
+						JERRY: You're not feeding him, are you?<br>
+							<br>
+							
+						ELAINE: Why? (Zach vomits. Elaine yells out to him) I told you, away from the curtains. Away. (Pointing) Use your bucket. (He vomits again - this time into the bucket) There you go, that's it. (To Jerry) You know what? I gotta go.<br>
+							<br>
+							
+						(Jerry hangs up, then tries to go back to sleep. Kramer walks in)<br>
+							<br>
+							
+						KRAMER: Hey, buddy.<br>
+							<br>
+							
+						JERRY: (Scared) Ah! Kramer!<br>
+							<br>
+							
+						KRAMER: I thought I heard you.<br>
+							<br>
+							
+						JERRY: Get out of here!<br>
+							<br>
+							
+						NEWMAN: (From outside the room) Kramer? Kramer? (Enters Jerry's bedroom) There you are.<br>
+							<br>
+							
+						JERRY: Will everybody please leave?!<br>
+							<br>
+							
+						NEWMAN: I just heard that a postman spotted a rickshaw down in Battery Park.<br>
+							<br>
+							
+						KRAMER: Our rickshaw?<br>
+							<br>
+							
+						NEWMAN: It's entirely possible.<br>
+							<br>
+							
+						JERRY: I want everyone out!<br>
+							<br>
+							
+						KRAMER: (Exiting the bedroom with Newman) Let's talk in Jerry's kitchen. I'll make some cocoa.<br>
+							<br>
+							
+						NEWMAN: (To Jerry) Good night.<br>
+							<br>
+							
+						JERRY: (Bitter) Good night, Newman.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Setting: Park]<br>
+							<br>
+							
+						(Newman and Kramer both find the rickshaw and Rusty in the park)<br>
+							<br>
+							
+						NEWMAN: There it is!<br>
+							<br>
+							
+						KRAMER: Rusty!<br>
+							<br>
+							
+						RUSTY: Oh, there you are. Oh, do I get the job?<br>
+							<br>
+							
+						KRAMER: (Sarcastic) Yeah, yeah. We'll get back to you. (Pulling the rickshaw with Newman) Let's get this baby home.<br>
+							<br>
+							
+						NEWMAN: Uh..<br>
+							<br>
+							
+						KRAMER: What?<br>
+							<br>
+							
+						NEWMAN: You know, when you think about it, it's kind of silly for us both to pull this thing all t he way back uptown. I mean, after all, it is a conveyance.<br>
+							<br>
+							
+						KRAMER: Yes, that's true.<br>
+							<br>
+							
+						NEWMAN: So, which one of us is gonna pull?<br>
+							<br>
+							
+						KRAMER: Well, there's only one way to settle this. (Starts pointing back and forth between Newman and him with each word of the rhyme) One spot, two spot, zig, zag, tear, pop-die, pennygot, tennyum, tear, harum, scare 'em, rip 'em, tear 'em, tay, taw, toe..<br>
+							<br>
+							
+						NEWMAN: (Realizing he won) Yeah.<br>
+							<br>
+							
+						KRAMER: Best two out of three? (Starts the pointing and the rhyme again) One spot, two spot..<br>
+							<br>
+							
+						(Scene cuts to Newman riding in the rickshaw - Kramer pulling)<br>
+							<br>
+							
+						NEMWAN: Hey, boy. Smooth it out up there. Too much jostling!<br>
+							<br>
+							<br>
+							<br>
+							
+						[Setting: A homeless charity center]<br>
+							<br>
+							
+						(Geroge is trying to give the book to the homeless. He comes across Rebecca DeMornay - the same woman who confronted Elaine about her muffin stumps in episode &quot;The Muffin Tops&quot;)<br>
+							<br>
+							
+						REBECCA: (Gesturing tward the book) So, you want to donate this to charity?<br>
+							<br>
+							
+						GEORGE: Well, I assume there's some sort of write-off.<br>
+							<br>
+							
+						REBECCA: What's the value of the book?<br>
+							<br>
+							
+						GEORGE: Uh, about two hundred dollars, Miss DeMooney.<br>
+							<br>
+							
+						REBECCA: (Correcting. Stern) It's DeMornay. Rebecca DeMornay.<br>
+							<br>
+							
+						GEORGE: Oh.<br>
+							<br>
+							
+						REBECCA: (Opens the cover of the book) Oh, wait a second. (Certain) This book has been in the bathroom.<br>
+							<br>
+							
+						GEORGE: (Nervous) Wh-what are you talking about? That - that's rediculous.<br>
+							<br>
+							
+						REBECCA: It's been flagged. I know. I used to work in a Brentano's. Mister, we're trying to help the homeless heare - it's bad enough that we have some nut out there trying to strap 'em to a rickshaw!<br>
+							<br>
+							
+						GEORGE: (Desperate to get rid of the book) Alright, I, I'll just take fifty. Do - do we have a deal?<br>
+							<br>
+							
+						REBECCA: Yeah, and here it is: You get your toilet book out of here, and I won't jump over this counter and punch you in the brain!<br>
+							<br>
+							
+						GEORGE: I could take it in merchandise..<br>
+							<br>
+							
+						REBECCA: (Threatening to hit him) Here I come..<br>
+							<br>
+							
+						(George grabs his book and runs for his life)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Setting: Bookstore]<br>
+							<br>
+							
+						(Elaine and Jerry are both at the bookstore. Elaine is talking with the cashier while checking out a book)<br>
+							<br>
+							
+						ELAINE: So, this book'll tell me how to get puke out of cashmere?<br>
+							<br>
+							
+						CASHIER: Yeah.<br>
+							<br>
+							
+						ELAINE: Great.<br>
+							<br>
+							
+						JERRY: (To Elaine) So, the worst is over?<br>
+							<br>
+							
+						ELAINE: Yeah. Now I can break up with him. He's clean, and I'm the office hero.<br>
+							<br>
+							
+						JERRY: Seems like you're better at fake relationships than real ones.<br>
+							<br>
+							
+						ELAIEN: Yeah, huh. I even got an idea out of it. the Detox Poncho.<br>
+							<br>
+							
+						(She's through buying the book, and is ready to go)<br>
+							<br>
+							
+						ELAINE: (Leaving Jerry) See ya.<br>
+							<br>
+							
+						JERRY: (To cashier) I'd like to speak with the manager, please.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Setting: NYC Street]<br>
+							<br>
+							
+						(Newman is being pulled up a steep hill on the rickshaw by Kramer)<br>
+							<br>
+							
+						NEWMAN: Mind your pace, Boy. Chop, chop!<br>
+							<br>
+							
+						KRAMER: (Tired) Oh, I can't go on. I gotta take a break. (Sets the rickshaw down - taking a rest)<br>
+							<br>
+							
+						NEWMAN: Well, don't tarry. I'm behind schedule as it is.<br>
+							<br>
+							
+						KRAMER: (Stretching) Oh..<br>
+							<br>
+							
+						(The rickshaw starts to roll back down the hill)<br>
+							<br>
+							
+						NEWMAN: (Scared) Boy.. Boy. Kramer!<br>
+							<br>
+							
+						(The rickshaw starts to rapidly go down the street. Kramer makes an attempt to chase it)<br>
+							<br>
+							
+						KRAMER: Woah! Wait!<br>
+							<br>
+							
+						NEWMAN: Ahhh! Yaaaahhh!<br>
+							<br>
+							
+						(Scene cuts to Zach. he's walking out into the street)<br>
+							<br>
+							
+						ZACH: (Optimistic) Well, this is the first day of the rest of my life!<br>
+							<br>
+							
+						(Scene cuts back to Newman - still rolling down the hill)<br>
+							<br>
+							
+						NEWMAN: Waaaaahhhh!<br>
+							<br>
+							
+						(Zach and the rickshaw collide. From back up on top of the street, Kramer tries to separate himself from the accident. He starts walking, then running away from the crushed rickshaw)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Setting: Bookstore]<br>
+							<br>
+							
+						(Jerry is in Brentano's - waiting for the manager. He sees George enter)<br>
+							<br>
+							
+						JERRY: George? What are you doin' here?<br>
+							<br>
+							
+						GEORGE: I can't sell the book. It's been marked.<br>
+							<br>
+							
+						JERRY: (Sarcasticly joking) It certainly has.<br>
+							<br>
+							
+						GEORGE: So, I'm gonna steal another one, and then return it. That way, everything is even.<br>
+							<br>
+							
+						JERRY: (Trying to straighten things out) You defile one book, steal another, ask for your money back - and to you that's even?<br>
+							<br>
+							
+						GEORGE: I'm goin' in!<br>
+							<br>
+							
+						(George walks off to steal one of the books. The manager walks up to Jerry)<br>
+							<br>
+							
+						MANAGER: Did you want to speak with the manager?<br>
+							<br>
+							
+						JERRY: Yes. My Uncle Leo was cought shoplifing here the other day..<br>
+							<br>
+							
+						MANAGER: Yes, Uncle Leo. I remember him. I'm sorry, our policy is we prosecute all shoplifters.<br>
+							<br>
+							
+						JERRY: (Pleading) Oh, come on. He's just a lonely old man. All old people steal.<br>
+							<br>
+							
+						MANAGER: That's right. That's why we stopped carrying batteries. Look, I'll be honest with you, we've had a lot of trouble with theft lately - and my boss says I have to make an example to someone.<br>
+							<br>
+							
+						JERRY: So it could be anyone?<br>
+							<br>
+							
+						MANAGER: I.. guess. As long as we catch him in the act.<br>
+							<br>
+							
+						(Jerry turns to George. George has a huge bundle under his overcoat - and is trying to act innocent)<br>
+							<br>
+							
+						JERRY: That guy! (Pointing at George) Swarm! Swarm!<br>
+							<br>
+							
+						(George is instantly surrounded by guards)<br>
+							<br>
+							
+						GEORGE: No! Jerry!<br>
+							<br>
+							<br>
+							
+						The End</td>
+						</tr>
+						<tr height="6">
+							<td class="bottom2" width="645" height="6"></td>
+						</tr>
+						<tr>
+							<td width="645">
+								<div align="center">
+									<font size="-1">Copyright 2006 seinology.com | All Rights Reserved | Designed by 13erla</font></div>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+		<p></p>
+	</body>
+
+</html>

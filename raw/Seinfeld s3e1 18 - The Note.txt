@@ -1,0 +1,1516 @@
+<tdOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+<html>
+
+	<head>
+		<meta http-equiv="content-type" content="text/html;charset=ISO-8859-1">
+		<meta name="description" content="Top Source for Seinfeld">
+		<meta name="keywords" content="seinfeld, sienfeld, Jerry Seinfeld, Julia Louis Dreyfus, Jason Alexander, Michael Richards, Kramer, George, Costanza, Elaine Benes, morty, Larry David">
+		<title>Seinology.com :: Scripts :: 18-The Note</title>
+	<link rel='stylesheet' href='/stylesheet.css' type='text/css'>
+	</head>
+
+	<body>
+			<table align="center" width="787" border="0" cellspacing="0" cellpadding="0">
+				<tr>
+					<td><font size="-2" color="red">Seinology.com - </font><font size="-3" color="black">Where Seinfeld Content and Accuracy Matter Most. Seinfeld scripts in pdf form, Seinfeld episode video clips, Seinfeld episode audio clips, Jerry Seinfeld appearances, Julia Louis-Dreyfus appearances, Michael Richards appearances, Jason Alexander appearances, Seinfeld discussion Forum, Seinfeld Where are they Now? Seinlanguage Newsletter, Popular Seinfeld Lists, Seinfeld episode standup, Seinfeld episode guide, Seinfeld fan fiction. Seinfeld content all on one domain. Seinology.com enjoy your stay.</font></td>
+				</tr>
+			</table>
+		
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr height="100">
+				<td class="logo"></td>
+			</tr>
+			<tr><td class="ads" align="center" background=#8694fa>
+				<script type="text/javascript"><!--
+google_ad_client = "pub-1924026976931416";
+google_ad_width = 728;
+google_ad_height = 90;
+google_ad_format = "728x90_as";
+google_ad_type = "text";
+google_ad_channel = "";
+google_color_border = "FFFFFF";
+google_color_bg = "8694fa";
+google_color_link = "0000FF";
+google_color_text = "000000";
+google_color_url = "002E3F";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></td></tr>
+		</table>
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr>
+				<td valign="top" width="136">
+					<table width="136" border="0" cellspacing="0" cellpadding="0">
+						<tr height="24">
+							<td class="navigation">
+								<div align="center">
+									
+									<b>Navigation</b></div>
+							</td>
+						</tr>
+						<tr height="199">
+							<td class="spacer1" valign="top" width="136" height="199">
+								<div align="center">
+									<font size="-1"><a href="http://www.seinology.com">Home</a><br>
+										<a href="http://board.seinology.com">Forum</a><br>
+										<a href="http://www.seinology.com/av.shtml">Audio/Video</a><br>
+										<a href="http://www.seinology.com/scripts.shtml">Scripts</a><br>
+										<a href="http://www.seinology.com/survivor.shtml">Survivor</a><br>
+										<a href="http://www.seinology.com/fanfics.shtml">Fan Fiction</a><br>
+										<a href="http://www.seinology.com/gallery/">Gallery</a><br>
+										<a href="http://www.seinology.com/newsletter.shtml">Newsletter</a><br>
+										<a href="http://www.seinology.com/lists.shtml">Lists</a><br>
+										<a href="http://www.seinology.com/epguide.shtml">Episode Guide</a><br>
+										<a href="http://www.seinology.com/links.shtml">Links</a><br>
+										<a href="http://www.seinology.com/faqother.shtml">Faq + others</a><br>
+										<a href="http://www.seinology.com/legal.shtml">Legal</a></font></div>
+							</td>
+						</tr>
+						
+						<tr>
+							<td class="nav2" width="136">
+							<div align="center"><b>Search</b></div></td>
+						</tr>
+						<tr>
+							<td class="spacer1" width="136" valign="top"><div align="center"><form method="get" action="http://www.seinology.com/search/search.cgi">
+<p><label for="fdse_Match">Match</label><br>
+<select name="Match" id="fdse_Match" size="1">
+<option value="1">All</option>
+<option value="0">Any</option>
+<option value="2">Phrase</option>
+</select></p>
+<p><label for="fdse_Realm">Where?</label><br>
+<select name="Realm" id="fdse_Realm" size="1">
+<option selected="selected" value="All">EntireSite</option>
+<option value="Ep Guide">Ep Guide</option>
+<option value="Images">Images</option>
+<option value="Lists">Lists</option>
+<option value="Newsletters">Newsletters</option>
+<option value="Scripts">Scripts</option>
+<option value="Notes..Nothing">Notes..Nothing</option>
+</select></p>
+<p><input type="text" name="Terms" size="14" id="fdse_Terms"><br>
+<input type="submit" class="submit" name="submitButtonName" value="Search"></p>
+</div></form></td>
+						</tr>
+						<tr><td class="bottom" width="136" height="10" valign="top">
+						</td>
+						</tr>
+					</table>
+				</td>
+				<td width="4"></td>
+				<td valign="top" width="645">
+					<table width="645" border="0" cellspacing="0" cellpadding="0">
+						<tr height="18">
+							<td width="645" height="35" class="bar">
+								<div align="center">
+									<b><font size="+2" color="black">Script</font></b></div>
+							</td>
+						</tr>
+						<tr height="362">
+							<td class="spacer2" valign="top" width="645" height="362">
+
+						<p><font size="-2">Episode 18 - The Note<br>
+							
+						pc: 301, season 3, episode 1<br>
+							
+						Broadcast date: September 18, 1991<br>
+							<br>
+							
+						Written By Larry David<br>
+							
+						Directed By Tom Cherones<br>
+							<br>
+							
+						-------------------------------------------------------------------------------<br>
+							<br>
+							
+						The Cast<br>
+							
+						Regulars:<br>
+							
+						Jerry Seinfeld ....................... Jerry Seinfeld<br>
+							
+						Jason Alexander .................. George Costanza<br>
+							
+						Julia Louis-Dreyfus ............. Elaine Benes<br>
+							
+						Michael Richards ................. Cosmo Kramer<br>
+							<br>
+							
+						Guest Stars:<br>
+							<br>
+							
+						Ralph Bruneau ...................... Lloyd<br>
+							
+						Terri Hanauer ....................... Julianna<br>
+							
+						Jeff Lester ............................. Raymond<br>
+							
+						Flo Di Re ............................... Receptionist<br>
+							
+						Liz Georges .......................... Pam<br>
+							
+						Paul Rogers .......................... Man in Waiting Room<br>
+							
+						Dale Raoul ............................ Dental Patient<br>
+							
+						Joshua Liebling .................... Billy<br>
+							<br>
+							
+						==================================================================<br>
+							<br>
+							
+						[Opening Monologue]<br>
+							<br>
+							
+						JERRY: Evry-Every time somebody recommends a doctor, he's always the best. &quot;Oh, is he good?&quot; &quot;Oh, he's the best. This guy's the best.&quot; They can't all be the best. There can't be this many bests. Someone's graduating at the bottom of these classes, where are these doctors? Is somewhere, someone saying to their friend, &quot;You should see my doctor, he's the worst. Oh yeah, he's the worst, he's the absolute worst there is. Whatever you've got, it'll be worse after you see him. No, he's just, he's a butcher. The man's a butcher.&quot; And then there's always that, &quot;Make sure that you tell him that, you know, you know me.&quot; Why? What's the difference? He's a doctor. What is it, &quot;Oh, you know Bob! Okay, I'll give you the real medicine. And everybody else, I'm giving Tic-Tacs.&quot;<br>
+							<br>
+							<br>
+							<br>
+							
+						[Daytime - Exterior of a building then inside to a Massage Room]<br>
+							<br>
+							
+						(Jerry is getting a massage.)<br>
+							<br>
+							
+						JULIANNA: ...And usually for lunch I'll have a salad, and for dinner, I eat whatever I want.<br>
+							<br>
+							
+						JERRY: What do you think the worst part of being blind is?<br>
+							<br>
+							
+						JULIANNA: Excuse me?<br>
+							<br>
+							
+						JERRY: You know, if you were blind, what do you think the worst part of it would be?<br>
+							<br>
+							
+						JULIANNA: I don't know.<br>
+							<br>
+							
+						JERRY: I think it would be not being able to tell if there was bugs in my food. How could you ever enjoy a meal like that? I'd constantly be feeling around with my lips and my tongue.<br>
+							<br>
+							
+						JULIANNA: Well that's how my five-year old eats. He's a very picky eater.<br>
+							<br>
+							
+						JERRY: You hear about that kid that was kidnapped the other day in Pennsylvania?<br>
+							<br>
+							
+						JULIANNA: No.<br>
+							<br>
+							
+						JERRY: He was at a carnival with his mother. She goes to get a hot dog, next thing you know she turns around, boom, he's gone.<br>
+							<br>
+							
+						JULIANNA: Oh.<br>
+							<br>
+							
+						JERRY: Imagine how sick a person has to be to do something like that. (she starts the quick hand chops on his back) And these people are all over the place. You never know who's crazy, I could be one of these people.<br>
+							<br>
+							
+						JULIANNA (visibly uncomfortable): Have you seen any good movies?<br>
+							<br>
+							
+						JERRY: Who takes care of your boy during the day?<br>
+							<br>
+							
+						JULIANNA: We have a woman. Why?<br>
+							<br>
+							
+						JERRY: No no. I'm just saying.<br>
+							<br>
+							
+						JULIANNA: She had references.<br>
+							<br>
+							
+						JERRY: Oh I'm sure she did, I'm sure they're impeccable. I'm talking about the ones that forge `em.<br>
+							<br>
+							
+						(Julianna pauses to think about what Jerry is saying)<br>
+							<br>
+							
+						JERRY: (about the massage)You know I think this is really helping.<br>
+							<br>
+							
+						JULIANNA: I don't live near here, ya know!<br>
+							<br>
+							
+						(Jerry raises his head up and looks confused.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Jerry, Elaine and George are in Jerry's apartment. George is looking through the fridge.]<br>
+							<br>
+							
+						JERRY: So she's giving me the massage and I'm just making conversation.<br>
+							<br>
+							
+						ELAINE: I don't like to talk during a massage.<br>
+							<br>
+							
+						JERRY: Neither do I, but I do it for them. I figure they're bored.<br>
+							<br>
+							
+						GEORGE: Yeah, I do that too. I feel guilty about getting the pleasure. I feel like I don't deserve it so I talk. It stops me from enjoying it. There's nothing to eat in here.<br>
+							<br>
+							
+						ELAINE: Oh! I forgot to tell you--<br>
+							<br>
+							
+						JERRY: I'm in the middle of a story.<br>
+							<br>
+							
+						ELAINE: Oh, okay, go ahead.<br>
+							<br>
+							
+						GEORGE: Why don't you ever go shopping?<br>
+							<br>
+							
+						JERRY: Well it&#146;s not like it's a really funny story or anything.<br>
+							<br>
+							
+						ELAINE: What happened?<br>
+							<br>
+							
+						JERRY: Well so she mentioned that she had a son, and then for some reason, I launch into the story about the kid from Pennsylvania who was abducted.<br>
+							<br>
+							
+						ELAINE: Oh, wasn't that terrible?<br>
+							<br>
+							
+						JERRY: Yes, it was.<br>
+							<br>
+							
+						GEORGE: Not even an apple.<br>
+							<br>
+							
+						ELAINE: She doesn't want to hear that, that was stupid.<br>
+							<br>
+							
+						JERRY: I know it was stupid.<br>
+							<br>
+							
+						ELAINE: Really stupid. (she takes a big sip from her bottled water.)<br>
+							<br>
+							
+						JERRY: Hey, I just said it was stupid.<br>
+							<br>
+							
+						GEORGE: What about this leftover Chinese food?<br>
+							<br>
+							
+						JERRY: Take it.<br>
+							<br>
+							
+						ELAINE: I can't believe you said that.<br>
+							<br>
+							
+						JERRY: Hey, would you stop it already?<br>
+							<br>
+							
+						ELAINE: So, what&#146;d she say?<br>
+							<br>
+							
+						JERRY: I don't know, she actually seemed to get a little paranoid.<br>
+							<br>
+							
+						GEORGE: (he just took a bite of the Chinese food ) This is terrible. What is this, ginger? I hate ginger. I can't understand how anyone can eat ginger. (puts the container back in the refrigerator.)<br>
+							<br>
+							
+						ELAINE: I have a good masseuse you could go to.<br>
+							<br>
+							
+						JERRY: Nah, she's really good and she's not just a masseuse, she's a physical therapist. There's a big difference. She uses the ultrasound, it's a real medical procedure. In fact, if you get a doctor's note, it's covered by insurance.<br>
+							<br>
+							
+						(George closes the fridge door and pauses for a second contemplating what he just heard.)<br>
+							<br>
+							
+						GEORGE: Physical therapy is covered by insurance?<br>
+							<br>
+							
+						JERRY: Yeah.<br>
+							<br>
+							
+						GEORGE: You don't have to pay for the massage?<br>
+							<br>
+							
+						JERRY: Not if you have a doctor's note.<br>
+							<br>
+							
+						ELAINE: So where do you get this note?<br>
+							<br>
+							
+						JERRY: Well I've never actually done it but if I really wanted to I could probably get one from my friend Roy, the dentist.<br>
+							<br>
+							
+						GEORGE: Right, your friend Roy.<br>
+							<br>
+							
+						ELAINE: What's the name of this physical therapist?<br>
+							<br>
+							
+						JERRY: I'll tell you, but don't ask her anything about her kid, she a little off.<br>
+							<br>
+							
+						GEORGE: And you don't have to pay.<br>
+							<br>
+							
+						(George and Elaine give each other a &#147;sounds good&#148; look)<br>
+							<br>
+							<br>
+							<br>
+							
+						[George and Elaine are at the physical therapist's office.]<br>
+							<br>
+							
+						GEORGE: We have a, three-o'clock appointments.<br>
+							<br>
+							
+						RECEPTIONIST: George and Elaine, right?<br>
+							<br>
+							
+						ELAINE: Right.<br>
+							<br>
+							
+						RECEPTIONIST: Could you fill these out for me please? And um, Elaine, you'll be seeing Julianna&#133;<br>
+							<br>
+							
+						ELAINE: (quietly) Ok.<br>
+							<br>
+							
+						RECEPTIONIST: &#133; And George, you'll be with Raymond.<br>
+							<br>
+							
+						(George was just about seated when he hears the news, pauses for a second, then stands.)<br>
+							<br>
+							
+						GEORGE: Excuse me, did you say 'Raymond'?<br>
+							<br>
+							
+						RECEPTIONIST: Yes.<br>
+							<br>
+							
+						GEORGE: But, uh, Raymond is a man.<br>
+							<br>
+							
+						RECEPTIONIST: That's right.<br>
+							<br>
+							
+						(George sits down slowly, letting this sink in.)<br>
+							<br>
+							
+						GEORGE: I can't get a massage from a man.<br>
+							<br>
+							
+						ELAINE: Why not?<br>
+							<br>
+							
+						GEORGE: What, are you crazy? I can't have a man touching me. Switch with me.<br>
+							<br>
+							
+						ELAINE: No, I don't want the man either.<br>
+							<br>
+							
+						GEORGE: What's the difference, you're a woman. They're supposed to be touching you.<br>
+							<br>
+							
+						ELAINE: He'd just be touching your back.<br>
+							<br>
+							
+						GEORGE: He'd just be touching your back too.<br>
+							<br>
+							
+						ELAINE: No, it could get sexual.<br>
+							<br>
+							
+						GEORGE: I know. That's the point. If it's gonna get sexual, it should get sexual with you.<br>
+							<br>
+							
+						ELAINE: I wouldn't be comfortable.<br>
+							<br>
+							
+						GEORGE: I would? What if something happens?<br>
+							<br>
+							
+						ELAINE: What could happen?<br>
+							<br>
+							
+						GEORGE: What if it felt good?<br>
+							<br>
+							
+						ELAINE: It's supposed to feel good.<br>
+							<br>
+							
+						GEORGE: I don't want it to feel good.<br>
+							<br>
+							
+						ELAINE: Then why get the massage?<br>
+							<br>
+							
+						GEORGE: Exactly!<br>
+							<br>
+							
+						(They go back to filing out the forms. A man walks up dressed in white.)<br>
+							<br>
+							
+						RAYMOND: George?<br>
+							<br>
+							
+						(George looks up, in stages, each time a little higher until he is looking up at Raymond&#146;s face and pauses)<br>
+							<br>
+							
+						GEORGE: Yes?<br>
+							<br>
+							
+						RAYMOND: I'm Raymond. (with a big smile)<br>
+							<br>
+							
+						GEORGE: Hello.(with not a big smile)<br>
+							<br>
+							
+						RAYMOND: Are you ready? (smiling, he looks at Elaine. She smiles back at him while looking all the way up there at the tall, handsome Raymond.)<br>
+							<br>
+							
+						(George gets up cautiously and walks with Raymond. Raymond puts his hand on George&#146;s back for a second then removes it. George looks back at Elaine -- she continues to have a huge smile on as she watches them walk down the hallway)<br>
+							<br>
+							<br>
+							<br>
+							
+						[A shirtless George is on the table getting a massage from Raymond. George appears extremely uncomfortable.]<br>
+							<br>
+							
+						RAYMOND: &#133;And then Julianna asked me if I wanted to join her here in the office.<br>
+							<br>
+							
+						GEORGE: Really.<br>
+							<br>
+							
+						RAYMOND: Use to be a flight attendant.<br>
+							<br>
+							
+						GEORGE: Oh boy.<br>
+							<br>
+							
+						RAYMOND: Ya know, why don't ya, open those pants, it's gonna be a lot easier that way.<br>
+							<br>
+							
+						(George looks back up at Raymond, who is massaging his left hand with his right hand while waiting for George. George loosens his pants, Raymond grabs them and yanks then down to his hips. George appears completely startled. Raymond then starts massaging his lower back.)<br>
+							<br>
+							
+						RAYMOND: So what do you do?<br>
+							<br>
+							
+						GEORGE: What?<br>
+							<br>
+							
+						RAYMOND: I said, 'What do you do?'.<br>
+							<br>
+							
+						GEORGE: I-I don't know.<br>
+							<br>
+							
+						RAYMOND: You don't know what you do?<br>
+							<br>
+							
+						GEORGE: Nah.<br>
+							<br>
+							
+						RAYMOND: Ohh-ho, come on. Hey, you're very tense.<br>
+							<br>
+							
+						GEORGE: hu, Coffee. Too much coffee (nervous laughter).<br>
+							<br>
+							
+						RAYMOND: Okay, just take off those pants now, and I'll work the hamstring.<br>
+							<br>
+							
+						GEORGE: Oh, the hamstring&#146;s fine.<br>
+							<br>
+							
+						RAYMOND: But you wrote that it was tender. (holding the clip board)<br>
+							<br>
+							
+						GEORGE: I wrote. Pfft, *I* wrote.<br>
+							<br>
+							
+						RAYMOND: I'll check it out. (makes a notation on the form)<br>
+							<br>
+							
+						GEORGE: Are you sure?<br>
+							<br>
+							
+						RAYMOND: Yeah, take 'em off. (continues writing)<br>
+							<br>
+							
+						(George gets up to remove his pants, he looks over and sees Raymond rubbing his hands with oil. Raymond has a big smile on his face. Nervous, George takes his pants off, pauses for a second while holding the crumpled pants, he tosses them to the floor. Now dressed in just his boxer shorts and socks he quickly climbs back on the table. As soon as Raymond touches his leg, George becomes rigid with discomfort.)<br>
+							<br>
+							
+						RAYMOND: How did you hurt this?<br>
+							<br>
+							
+						GEORGE: I don't know.<br>
+							<br>
+							
+						RAYMOND: You don't know?<br>
+							<br>
+							
+						GEORGE: No.<br>
+							<br>
+							
+						RAYMOND: But you just told me--<br>
+							<br>
+							
+						GEORGE: Korea.<br>
+							<br>
+							
+						RAYMOND: You hurt it in Korea?<br>
+							<br>
+							
+						GEORGE: What?<br>
+							<br>
+							
+						RAYMOND: The hamstring.<br>
+							<br>
+							
+						GEORGE: Korea.<br>
+							<br>
+							
+						RAYMOND: How?<br>
+							<br>
+							
+						GEORGE: Hamstring.<br>
+							<br>
+							
+						RAYMOND: How did you hurt the hamstring?<br>
+							<br>
+							
+						GEORGE: Hotel.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Elaine is in the waiting room -- moving her head and neck around she breathes in through her teeth, a sigh of relief. George walks out very slowly, he appears positively shell-shocked.]<br>
+							<br>
+							
+						ELAINE: How'd it go? George?<br>
+							<br>
+							
+						(George walks right out the door, ignoring Elaine.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Jerry's apartment, Jerry is on the phone.]<br>
+							<br>
+							
+						JERRY: No appointments at all? Because my neck is still tight. What about Thursday? And Friday? Oh boy. Okay, thanks anyway.<br>
+							<br>
+							
+						(George enters acting nervous.)<br>
+							<br>
+							
+						JERRY: What's with you?<br>
+							<br>
+							
+						GEORGE: A... ah...<br>
+							<br>
+							
+						JERRY: Yes, A...?<br>
+							<br>
+							
+						GEORGE: A man gave me...<br>
+							<br>
+							
+						JERRY: Yes, a man gave you...?<br>
+							<br>
+							
+						GEORGE: A man gave me... a massage. hu, hu&#133;<br>
+							<br>
+							
+						JERRY: So?<br>
+							<br>
+							
+						GEORGE: So he... had his hands and, uh, he was uh&#133;<br>
+							<br>
+							
+						JERRY: He was what?!<br>
+							<br>
+							
+						GEORGE: He-he was uh&#133; touching and rubbing. (nervous laugh)<br>
+							<br>
+							
+						JERRY: That's a massage.<br>
+							<br>
+							
+						GEORGE: And then I took my pants off.<br>
+							<br>
+							
+						JERRY: You took your pants off?<br>
+							<br>
+							
+						GEORGE: For my hamstring.<br>
+							<br>
+							
+						JERRY: Oh.<br>
+							<br>
+							
+						GEORGE: He got about uh, two inches from... there.<br>
+							<br>
+							
+						JERRY: Really?<br>
+							<br>
+							
+						GEORGE: I think it moved.<br>
+							<br>
+							
+						JERRY: Moved?<br>
+							<br>
+							
+						GEORGE: It may have moved, I don't know.<br>
+							<br>
+							
+						JERRY: I'm sure it didn't move.<br>
+							<br>
+							
+						GEORGE: It moved! It was imperceptible but I-I felt it.<br>
+							<br>
+							
+						JERRY: Maybe it just wanted to change positions? You know, shift to the other side.<br>
+							<br>
+							
+						GEORGE: No, no. It wasn't a shift, I've shifted, this was a move.<br>
+							<br>
+							
+						JERRY: Okay, so what if it moved?<br>
+							<br>
+							
+						GEORGE: That's the sign! The test; if a - if a man makes it move.<br>
+							<br>
+							
+						JERRY: That's not the test. Contact is the test, if it moves, as a result of contact.<br>
+							<br>
+							
+						GEORGE: You think it's contact? It has to be touched?<br>
+							<br>
+							
+						JERRY: That's what a gym teacher once told me.<br>
+							<br>
+							
+						(Kramer enters.)<br>
+							<br>
+							
+						KRAMER: Hey.<br>
+							<br>
+							
+						JERRY: Hey.<br>
+							<br>
+							
+						KRAMER: I just saw Joe DiMaggio in Dinky Donuts. You know, I-I looked in there and there he was having coffee and a donut.<br>
+							<br>
+							
+						JERRY: Joe DiMaggio? In Dinky Donuts?<br>
+							<br>
+							
+						KRAMER: Yeah. Joe DiMaggio.<br>
+							<br>
+							
+						JERRY: No, I'm sorry, if Joe DiMaggio wants a donut, he goes to a fancy restaurant or a hotel. He's not sitting in Dinky Donuts.<br>
+							<br>
+							
+						KRAMER: Well maybe he likes Dinky Donuts.<br>
+							<br>
+							
+						GEORGE: I don't even like to sit next to a man on an airplane 'cause our knees might touch.<br>
+							<br>
+							
+						JERRY: I can't see Joe DiMaggio sitting at the counter in little tiny filthy smelly Dinky Donuts.<br>
+							<br>
+							
+						KRAMER: Why can't Joe DiMaggio have a donut like everyone else?<br>
+							<br>
+							
+						JERRY: He can have a donut,<br>
+							<br>
+							
+						KRAMER: Yeah.<br>
+							<br>
+							
+						JERRY: &#133;but not at Dinky.<br>
+							<br>
+							
+						GEORGE: I don't even like to use urinals, always been a stall man.<br>
+							<br>
+							
+						KRAMER: Look I'm tellin-- (he does a double take and looks at George) I'm telling ya, that was Joe DiMaggio.<br>
+							<br>
+							
+						GEORGE: The guy slept with Marilyn Monroe, he's in Dinky Donuts. What about this doctor's note? Let's go see your friend Roy.<br>
+							<br>
+							
+						JERRY: I never said I'd do that.<br>
+							<br>
+							
+						GEORGE: What are you talking about, that's seventy-five bucks! I'm not working, I can't afford that.<br>
+							<br>
+							
+						JERRY: I don't know how I feel about it.<br>
+							<br>
+							
+						GEORGE: Oh, what are you, like, a Quaker now?<br>
+							<br>
+							
+						JERRY: Alright, alright.<br>
+							<br>
+							
+						KRAMER: A stall man, huh? (small laugh)<br>
+							<br>
+							
+						GEORGE: All right -- (Gets up to leave)<br>
+							<br>
+							
+						KRAMER: Wha-ha-a-at? (makes a gesture with his hand)<br>
+							<br>
+							<br>
+							<br>
+							
+						[George and Jerry are in Roy's office.]<br>
+							<br>
+							
+						JERRY: ...so we were just kinda wondering if it was possible for you to write us a note, and if you can't, believe me, it's fine.<br>
+							<br>
+							
+						GEORGE: He didn't say he can't.<br>
+							<br>
+							
+						JERRY: I mean, if you feel funny about it, at all.<br>
+							<br>
+							
+						GEORGE: He doesn't feel funny.<br>
+							<br>
+							
+						JERRY: If he does.<br>
+							<br>
+							
+						GEORGE: Do you feel funny? He didn't say anything.<br>
+							<br>
+							
+						JERRY: He feels funny. You don't have to do this.<br>
+							<br>
+							
+						GEORGE: He knows that!<br>
+							<br>
+							
+						JERRY: Roy, should we go? Is this a breach of our friendship?<br>
+							<br>
+							
+						GEORGE: Oh, can you be any more dramatic?<br>
+							<br>
+							
+						ROY: Don't be ridiculous. (Notices George looking at a poster on the wall) Holyfield. He's a good friend of one of my patients. He's got a hell of a body, doesn't he?<br>
+							<br>
+							
+						GEORGE: How would I know?<br>
+							<br>
+							
+						ROY: Do you like him?<br>
+							<br>
+							
+						GEORGE: What do you mean, like him?<br>
+							<br>
+							
+						ROY: Do you like him?<br>
+							<br>
+							
+						GEORGE: I mean he's a good fighter and a nice guy but I don't like him.<br>
+							<br>
+							
+						ROY: How come you don't like him?<br>
+							<br>
+							
+						GEORGE: Why should I?<br>
+							<br>
+							
+						JERRY: What is the matter with you?<br>
+							<br>
+							
+						GEORGE: Nothing, why? You think something's wrong? Am I different?<br>
+							<br>
+							
+						ROY: So, you want the notes?<br>
+							<br>
+							
+						JERRY: You don't have to, really.<br>
+							<br>
+							
+						ROY: Nah nah, it's ok.<br>
+							<br>
+							
+						JERRY: We should probably get one for Elaine, too, right George? (turns to George, who is staring intently at the Holyfield poster) George?<br>
+							<br>
+							<br>
+							<br>
+							
+						[Jerry and Elaine are at Jerry's apartment, Jerry is on the phone.]<br>
+							<br>
+							
+						JERRY: Well what about the week after?<br>
+							<br>
+							
+						(Jerry sits on the couch, but Elaine is a little too close to the end and he has to squeeze in between her and the arm to sit down)<br>
+							<br>
+							
+						JERRY: No appointments at all? (motions to Elaine to move over)<br>
+							<br>
+							
+						ELAINE: What? (he bumps her with his butt to move over)<br>
+							<br>
+							
+						(She tries to move, but Jerry is sitting on the edge of her dress. She has to tug on it, then move over.)<br>
+							<br>
+							
+						JERRY: Can I - can I at least just talk to her so I can apologize? Forget it. (Hangs up) I can't believe this, I make one innocent comment, about some lunatic in Pennsylvania and I'm cut off. This woman is insane. (Looks at Elaine for a moment) What's with you?<br>
+							<br>
+							
+						ELAINE: What?<br>
+							<br>
+							
+						JERRY: Well you were too close to me, I was all scrunched in there.<br>
+							<br>
+							
+						ELAINE: Hey, you scrunched me. I sat down here first.<br>
+							<br>
+							
+						(Kramer enters.)<br>
+							<br>
+							
+						KRAMER: Hey, I saw DiMaggio in the donut shop again.<br>
+							<br>
+							
+						JERRY: Uh huh.<br>
+							<br>
+							
+						KRAMER: Yeah.<br>
+							<br>
+							
+						ELAINE: Joe DiMaggio?<br>
+							<br>
+							
+						KRAMER: Joe DiMaggio, you know this time I went in and sat down across from him and I really watched him. I studied, his every move. For example, he dunks.<br>
+							<br>
+							
+						ELAINE: Joe DiMaggio dunks his donut?!<br>
+							<br>
+							
+						KRAMER: That's right.<br>
+							<br>
+							
+						JERRY: See, now I know it's not him. Joe DiMaggio could not be a dunker.<br>
+							<br>
+							
+						KRAMER: Oh, he's a dunker.<br>
+							<br>
+							
+						ELAINE: Why couldn't he be a dunker?<br>
+							<br>
+							
+						KRAMER: And nothing diverts his attention. Like, I'm uh, you know, I-I, like I'm sitting in there, you know. And, uh, I start banging on the table, you know, to uh, so that he&#146;ll look up, you know, Like I'm sitting there you know and uh, *bang* (slams the table) You know, *bang* He wouldn't move. So then I start doing these yelping noises. Like, *yip* (high pitched yelping noises) *yip*. No reaction because the guy is so focused, you see, he can just block out anything that's going on around him. See, that's how he played baseball. He dunks like he hits.<br>
+							<br>
+							
+						ELAINE: So then what?<br>
+							<br>
+							
+						KRAMER: Well, then the waitress, she comes up and she tells me to shut up or they're gonna throw me out.<br>
+							<br>
+							
+						ELAINE: Why didn't you just call out his name?<br>
+							<br>
+							
+						(George enters, his pants are ripped at the knee.)<br>
+							<br>
+							
+						JERRY: What happened to you?<br>
+							<br>
+							
+						GEORGE: These kids called me a Mary.<br>
+							<br>
+							
+						ELAINE: A what?<br>
+							<br>
+							
+						GEORGE: I was jumping over a puddle, and for some reason I went like this. (George stretches out his arms in a ballet motion) And they called me a Mary. So I chased them, and I tripped and I fell.<br>
+							<br>
+							
+						KRAMER: Yeah, you know kids, they can be very perceptive.<br>
+							<br>
+							
+						ELAINE: Hey, George? What is this? (laughing, Elaine makes the same outstretched arm motion) What is that? No really, what is that?<br>
+							<br>
+							
+						(George heads for the bathroom, the phone rings, Kramer answers it, Jerry grabs it from him.)<br>
+							<br>
+							
+						JERRY: Hello? Oh, hi Roy. What? Oh my god. Wel-- how did this happen? What can I do? Oh. I am so sorry. Okay. Bye. (Hangs up) That was Roy. He's under investigation for insurance fraud.<br>
+							<br>
+							
+						KRAMER (singing): ...just a man and not a freak, Joltin' Joe DiMaggio. Joe, Joe. Go, Joe...<br>
+							<br>
+							
+						JERRY: I told you.<br>
+							<br>
+							
+						GEORGE: Told me what?<br>
+							<br>
+							
+						JERRY: I told you we shouldn't do it.<br>
+							<br>
+							
+						GEORGE: He didn't say anything.<br>
+							<br>
+							
+						JERRY: He's got a house, a family, they could take away his license. You should have heard him. Three notes, how stupid was that? We never should have got three notes.<br>
+							<br>
+							
+						ELAINE: Three notes?<br>
+							<br>
+							
+						JERRY: Yeah, you, me and George.<br>
+							<br>
+							
+						ELAINE: You got me a note?<br>
+							<br>
+							
+						JERRY: Yeah.<br>
+							<br>
+							
+						ELAINE: But I got my own note.<br>
+							<br>
+							
+						JERRY: You what?<br>
+							<br>
+							
+						ELAINE: I got a note from my gynecologist.<br>
+							<br>
+							
+						JERRY: Why'd you do that?<br>
+							<br>
+							
+						ELAINE: I didn't know you were getting me a note.<br>
+							<br>
+							
+						JERRY: Of course I was getting you a note.<br>
+							<br>
+							
+						ELAINE: But you didn't say anything. Ohhh&#133;<br>
+							<br>
+							
+						JERRY: Neither did you, that's how he got caught. We sent in four notes from two doctors.<br>
+							<br>
+							
+						GEORGE: No Doctor--<br>
+							<br>
+							
+						ELAINE: Wait a--<br>
+							<br>
+							
+						KRAMER: How can you do that to your friend? He's got a wife, kids, and a lot of other stuff. Oh, yyyeeah.<br>
+							<br>
+							
+						(Kramer leaves.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Jerry and George are at Roy's office.]<br>
+							<br>
+							
+						JERRY: Hi Pam.<br>
+							<br>
+							
+						PAM: Hello.<br>
+							<br>
+							
+						GEORGE: Hello.<br>
+							<br>
+							
+						JERRY: I just thought ahh maybe I could talk to Roy, if um&#133;<br>
+							<br>
+							
+						(Roy walks in.)<br>
+							<br>
+							
+						ROY: Pam, did the x-ray from Mrs. Sloan... Hi.<br>
+							<br>
+							
+						JERRY: Hi Roy.<br>
+							<br>
+							
+						GEORGE: How ya doing?<br>
+							<br>
+							
+						ROY: Come on back, I have a patient but she's under.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Roy, Jerry and George are talking over a woman sleeping in a dental chair.]<br>
+							<br>
+							
+						JERRY: I don't even know what to say.<br>
+							<br>
+							
+						GEORGE: Me neither.<br>
+							<br>
+							
+						JERRY: I knew this would happen.<br>
+							<br>
+							
+						GEORGE: Me too.<br>
+							<br>
+							
+						JERRY: I mean the whole thing, it's just...<br>
+							<br>
+							
+						GEORGE: Tragic.<br>
+							<br>
+							
+						JERRY: Well it's not tragic.<br>
+							<br>
+							
+						GEORGE: No?<br>
+							<br>
+							
+						JERRY: No, it's...<br>
+							<br>
+							
+						GEORGE: Unsettling?<br>
+							<br>
+							
+						JERRY: Okay. I mean, what if the--<br>
+							<br>
+							
+						(Pam walks in and interrupts.)<br>
+							<br>
+							
+						PAM: I hope you're both happy. (she turns and walks away)<br>
+							<br>
+							
+						(Roy looks at Jerry and with his mouth closed -- smiles with his right cheek and frowns with his left cheek.)<br>
+							<br>
+							
+						JERRY: I'm not happy.<br>
+							<br>
+							
+						GEORGE: Me neither. I've never been happy.<br>
+							<br>
+							
+						JERRY: I mean I'm happy sometimes, but-but not now.<br>
+							<br>
+							
+						GEORGE: In college, maybe. Those were fun times.<br>
+							<br>
+							
+						JERRY: Yeah, college was fun.<br>
+							<br>
+							
+						GEORGE: Yeah.<br>
+							<br>
+							
+						JERRY: Yeah.<br>
+							<br>
+							
+						(Pam walks in again and interjects.)<br>
+							<br>
+							
+						PAM: You know the whole practice is in jeopardy, you know that? (she turns and walks away again.)<br>
+							<br>
+							
+						ROY: Don't mind her.<br>
+							<br>
+							
+						JERRY: Oh please, I love her.<br>
+							<br>
+							
+						GEORGE: I've just met her but I'm very impressed.<br>
+							<br>
+							
+						ROY: I can't understand, I've never had a problem with these notes before.<br>
+							<br>
+							
+						JERRY: Well what's the next move, what's gonna happen now?<br>
+							<br>
+							
+						ROY: Well, nothing really, as long as we get the physical therapist to go along with our story.<br>
+							<br>
+							
+						JERRY: What? The physical therapist? Why?<br>
+							<br>
+							
+						ROY: She just has to say the complaint was related to a dental problem.<br>
+							<br>
+							
+						(The woman in the chair wakes up and looks at Jerry and George.)<br>
+							<br>
+							
+						GEORGE: How ya doing?<br>
+							<br>
+							<br>
+							<br>
+							
+						[Jerry and George are at Julianna's office.]<br>
+							<br>
+							
+						JERRY: Hi. Ah look, I know I don't have an appointment but it's really important that I talk with Julianna.<br>
+							<br>
+							
+						RECEPTIONIST: I'm sorry, Mr. Seinfeld, she's not in.<br>
+							<br>
+							
+						JERRY: Yeah, I know she's mad at me, but I really have to speak with her.<br>
+							<br>
+							
+						RECEPTIONIST: I told you, she's not here.<br>
+							<br>
+							
+						JERRY: You don't understand, ah&#133;<br>
+							<br>
+							
+						RECEPTIONIST: Look, you have to leave.<br>
+							<br>
+							
+						JERRY: Wait a second, don't you--<br>
+							<br>
+							
+						(Julianna walks out with her child. When she sees Jerry, she pulls her son in front of her with her arms down on his chest to protect him from Jerry.)<br>
+							<br>
+							
+						JERRY: Hi. Hi. Look, I don't know what you think --<br>
+							<br>
+							
+						JULIANNA: Please!<br>
+							<br>
+							
+						JERRY: --but, you see, let me just talk to you for a second, see, what I did is inadvertently sent an insurance--<br>
+							<br>
+							
+						JULIANNA: I treated you, so please, just get out of the office!<br>
+							<br>
+							
+						JERRY: Can't you just listen to me?<br>
+							<br>
+							
+						JULIANNA (releasing her child): Run Billy! Run to the office and close the door! (to the receptionist) Call the police!<br>
+							<br>
+							
+						(Julianna then runs down the hall.)<br>
+							<br>
+							
+						JERRY: The police?<br>
+							<br>
+							
+						(Raymond the masseuse walks up.)<br>
+							<br>
+							
+						RAYMOND: What is the --. Hi George. (stands there with a big smile)<br>
+							<br>
+							
+						GEORGE: Hello.<br>
+							<br>
+							
+						JERRY (to George): Raymond?<br>
+							<br>
+							
+						(George appears to be very uncomfortable.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Jerry, Elaine and George are at the coffee shop.]<br>
+							<br>
+							
+						ELAINE: Well, I mean it's only a six month probation, it's a slap on the wrist.<br>
+							<br>
+							
+						JERRY: Yeah, I still don't see any dinner invitations forthcoming.<br>
+							<br>
+							
+						GEORGE: Men have been popping into my sexual fantasies. All of a sudden I'll be, in the middle.<br>
+							<br>
+							
+						ELAINE: Of what?<br>
+							<br>
+							
+						(to Elaine, George makes a &#147;you know&#148; face and rolls his right hand open -- she responds with an equally silent yet somewhat disgusted face that says &#147;Oh.&#148;)<br>
+							<br>
+							
+						GEORGE: And a guy will appear from out of nowhere. I say &quot;Get out of here! What do you want? You don't belong here!&quot;<br>
+							<br>
+							
+						ELAINE: What do they do?<br>
+							<br>
+							
+						GEORGE: They talk back. They go, &quot;Hey George, how's it going?&quot; I say, &quot;Get the hell out of here!&quot;<br>
+							<br>
+							
+						(Jerry spots Kramer through the window. He&#146;s talking to a guy in a blue coat.)<br>
+							<br>
+							
+						JERRY: Hey, it's the K-man. (he bangs on the glass to get Kramer's attention, Elaine laughs) Maybe it's time you got a different hobby.<br>
+							<br>
+							
+						(Kramer enters and sits at the booth.)<br>
+							<br>
+							
+						KRAMER: Man, Ughhhh, wwwheh.&#133; I just came from Roy's. I threw up from the gas.<br>
+							<br>
+							
+						(All three put down their coffee cups simultaneously.)<br>
+							<br>
+							
+						JERRY: Did he say anything?<br>
+							<br>
+							
+						KRAMER: No no, he's fine.<br>
+							<br>
+							
+						JERRY (noticing something across the coffee shop): Oh my god, it's...<br>
+							<br>
+							
+						GEORGE (looking over): Joe DiMaggio.<br>
+							<br>
+							
+						ELAINE: (gasps)<br>
+							<br>
+							
+						KRAMER: Where?<br>
+							<br>
+							
+						JERRY: Having a cup of coffee.<br>
+							<br>
+							
+						(shot of a man in a suit jacket and tie, dunking a donut in a cup of coffee)<br>
+							<br>
+							
+						ELAINE: And he's dunking!<br>
+							<br>
+							
+						KRAMER: Yeah -- yeah.<br>
+							<br>
+							
+						JERRY: Wow. Look at him. The Yankee Clipper&#133;<br>
+							<br>
+							
+						KRAMER: (quietly) yeah.<br>
+							<br>
+							
+						JERRY: &#133;here.<br>
+							<br>
+							
+						GEORGE: You see? Now that is a handsome man. (Elaine and Jerry look right at George) Oh please.<br>
+							<br>
+							
+						KRAMER: Wait, wait&#133; hold on now, wait, wait&#133; *bang* (he slams his hand down on the table, startling Jerry, Elaine and George) *bang* (again) *yip* (another high pitched yelping sound) *yip* *yip* See? I told you.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Closing monologue.]<br>
+							<br>
+							
+						JERRY: What causes homophobia? What is it, that makes a heterosexual man, worry? I think it's because, men know, that deep down we have weak sales resistance. We're constantly buying shoes that hurt us, pants that don't fit right. Men think, &quot;Obviously I can be talked into anything. What if I accidentally wander into some sort of homosexual store, thinking it's a shoe store, and the salesman goes, 'Just hold this guy's hand, walk around the store a little bit, see how you feel. No obligation, no pressure, just try it. Would you like to see him in a sandal?'&quot;<br>
+							<br>
+							<br>
+							
+						The End<br>
+							<br>
+							<br>
+							
+						Song over the end credits: Joltin' Joe DiMaggio<br>
+							
+						*Complete song lyric below this shortend version<br>
+							
+						(which is what we hear over the end credits)<br>
+							<br>
+							
+						&#151; From the 1941 song, ``Joltin' Joe DiMaggio,'' about the 56-game hitting streak, written by New York disc jockey Alan Courtney and recorded by band leader Les Brown &amp; His Orchestra (with Betty Bonney singing)<br>
+							<br>
+							
+						He started baseball's famous streak<br>
+							
+						That's got us all aglow<br>
+							
+						He's just a man and not a freak,<br>
+							
+						Joltin' Joe DiMaggio.<br>
+							<br>
+							
+						Joe, Joe DiMaggio<br>
+							
+						We want you on our side<br>
+							<br>
+							
+						He tied the mark at forty-four<br>
+							
+						July the 1st you know<br>
+							
+						Since then he's hit a good twelve more<br>
+							
+						Joltin' Joe DiMaggio<br>
+							<br>
+							
+						Joe, Joe DiMaggio<br>
+							
+						We want you on our side<br>
+							<br>
+							
+						From coast to coast that's all you'll hear<br>
+							
+						Of Joe the one man show<br>
+							
+						He's glorified the horsehide sphere<br>
+							
+						Joltin' Joe DiMaggio<br>
+							<br>
+							
+						Joe, Joe<br>
+							<br>
+							<br>
+							<br>
+							
+						http://www.baseball-almanac.com/poetry/joltinjoedimaggio.shtml<br>
+							<br>
+							
+						&quot;The combination of proficiency and exquisite grace which Joe DiMaggio brought to the<br>
+							
+						art of playing center field was something no baseball averages can measure and that<br>
+							
+						must be seen to be believed and appreciated.&quot; - The New York Times<br>
+							<br>
+							
+						The legendary Les Brown Orchestra brought to life the words and music that Alan<br>
+							
+						Courtney and Ben Homer put to pen and paper in 1941. Those lyrics paid tribute to Joe<br>
+							
+						DiMaggio, were inspired by the fifty-six game hitting streak, and were aptly named Joltin' Joe DiMaggio. The song was written &amp; performed during the season in which the streak took place AND that Joe DiMaggio won the Most Valuable Player Award that particular year (even though Ted Williams hit .406 that same season)!<br>
+							<br>
+							
+						* Complete lyric *<br>
+							<br>
+							
+						Joltin' Joe DiMaggio<br>
+							
+						by Ben Homer &amp; Alan Courtney&copy;<br>
+							
+						Published: 1941<br>
+							
+						Performed by: Les Brown<br>
+							
+						Sung by: Betty Bonney<br>
+							<br>
+							
+						Hello Joe, whatta you know?<br>
+							
+						We need a hit so here I go.<br>
+							
+						Ball one (Yea!)<br>
+							
+						Ball two (Yea!)<br>
+							
+						Strike one (Booo!)<br>
+							
+						Strike two (Kill that umpire!)<br>
+							
+						A case of Wheaties<br>
+							<br>
+							
+						He started baseball's famous streak<br>
+							
+						That's got us all aglow<br>
+							
+						He's just a man and not a freak,<br>
+							
+						Joltin' Joe DiMaggio.<br>
+							<br>
+							
+						Joe, Joe DiMaggio<br>
+							
+						We want you on our side<br>
+							<br>
+							
+						He tied the mark at forty-four<br>
+							
+						July the 1st you know<br>
+							
+						Since then he's hit a good twelve more<br>
+							
+						Joltin' Joe DiMaggio<br>
+							<br>
+							
+						Joe, Joe DiMaggio<br>
+							
+						We want you on our side<br>
+							<br>
+							
+						From coast to coast that's all you'll hear<br>
+							
+						Of Joe the one man show<br>
+							
+						He's glorified the horsehide sphere<br>
+							
+						Joltin' Joe DiMaggio<br>
+							<br>
+							
+						Joe, Joe DiMaggio<br>
+							
+						We want you on our side<br>
+							<br>
+							
+						He'll live in baseball's Hall of Fame<br>
+							
+						He got there blow by blow<br>
+							
+						Our kids will tell their kids his name<br>
+							
+						Joltin' Joe DiMaggio<br>
+							<br>
+							
+						We dream of Joey with the light brown plaque<br>
+							
+						Joe, Joe DiMaggio<br>
+							
+						We want you on our side<br>
+							<br>
+							
+						And now they speak in whispers low<br>
+							
+						Of how they stopped our Joe<br>
+							
+						One night in Cleveland Oh Oh Oh<br>
+							
+						Goodbye streak DiMaggio<br>
+							
+						Joltin' Joe DiMaggio</td>
+						</tr>
+						<tr height="6">
+							<td class="bottom2" width="645" height="6"></td>
+						</tr>
+						<tr>
+							<td width="645">
+								<div align="center">
+									<font size="-1">Copyright 2006 seinology.com | All Rights Reserved | Designed by 13erla</font></div>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+		<p></p>
+	</body>
+
+</html>

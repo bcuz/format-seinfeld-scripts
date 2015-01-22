@@ -1,0 +1,1259 @@
+<tdOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+<html>
+
+	<head>
+		<meta http-equiv="content-type" content="text/html;charset=ISO-8859-1">
+		<meta name="description" content="Top Source for Seinfeld">
+		<meta name="keywords" content="seinfeld, sienfeld, Jerry Seinfeld, Julia Louis Dreyfus, Jason Alexander, Michael Richards, Kramer, George, Costanza, Elaine Benes, morty, Larry David">
+		<title>Seinology.com :: Scripts :: 41-The Trip(1)</title>
+	<link rel='stylesheet' href='/stylesheet.css' type='text/css'>
+	</head>
+
+	<body>
+			<table align="center" width="787" border="0" cellspacing="0" cellpadding="0">
+				<tr>
+					<td><font size="-2" color="red">Seinology.com - </font><font size="-3" color="black">Where Seinfeld Content and Accuracy Matter Most. Seinfeld scripts in pdf form, Seinfeld episode video clips, Seinfeld episode audio clips, Jerry Seinfeld appearances, Julia Louis-Dreyfus appearances, Michael Richards appearances, Jason Alexander appearances, Seinfeld discussion Forum, Seinfeld Where are they Now? Seinlanguage Newsletter, Popular Seinfeld Lists, Seinfeld episode standup, Seinfeld episode guide, Seinfeld fan fiction. Seinfeld content all on one domain. Seinology.com enjoy your stay.</font></td>
+				</tr>
+			</table>
+		
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr height="100">
+				<td class="logo"></td>
+			</tr>
+			<tr><td class="ads" align="center" background=#8694fa>
+				<script type="text/javascript"><!--
+google_ad_client = "pub-1924026976931416";
+google_ad_width = 728;
+google_ad_height = 90;
+google_ad_format = "728x90_as";
+google_ad_type = "text";
+google_ad_channel = "";
+google_color_border = "FFFFFF";
+google_color_bg = "8694fa";
+google_color_link = "0000FF";
+google_color_text = "000000";
+google_color_url = "002E3F";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></td></tr>
+		</table>
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr>
+				<td valign="top" width="136">
+					<table width="136" border="0" cellspacing="0" cellpadding="0">
+						<tr height="24">
+							<td class="navigation">
+								<div align="center">
+									
+									<b>Navigation</b></div>
+							</td>
+						</tr>
+						<tr height="199">
+							<td class="spacer1" valign="top" width="136" height="199">
+								<div align="center">
+									<font size="-1"><a href="http://www.seinology.com">Home</a><br>
+										<a href="http://board.seinology.com">Forum</a><br>
+										<a href="http://www.seinology.com/av.shtml">Audio/Video</a><br>
+										<a href="http://www.seinology.com/scripts.shtml">Scripts</a><br>
+										<a href="http://www.seinology.com/survivor.shtml">Survivor</a><br>
+										<a href="http://www.seinology.com/fanfics.shtml">Fan Fiction</a><br>
+										<a href="http://www.seinology.com/gallery/">Gallery</a><br>
+										<a href="http://www.seinology.com/newsletter.shtml">Newsletter</a><br>
+										<a href="http://www.seinology.com/lists.shtml">Lists</a><br>
+										<a href="http://www.seinology.com/epguide.shtml">Episode Guide</a><br>
+										<a href="http://www.seinology.com/links.shtml">Links</a><br>
+										<a href="http://www.seinology.com/faqother.shtml">Faq + others</a><br>
+										<a href="http://www.seinology.com/legal.shtml">Legal</a></font></div>
+							</td>
+						</tr>
+						
+						<tr>
+							<td class="nav2" width="136">
+							<div align="center"><b>Search</b></div></td>
+						</tr>
+						<tr>
+							<td class="spacer1" width="136" valign="top"><div align="center"><form method="get" action="http://www.seinology.com/search/search.cgi">
+<p><label for="fdse_Match">Match</label><br>
+<select name="Match" id="fdse_Match" size="1">
+<option value="1">All</option>
+<option value="0">Any</option>
+<option value="2">Phrase</option>
+</select></p>
+<p><label for="fdse_Realm">Where?</label><br>
+<select name="Realm" id="fdse_Realm" size="1">
+<option selected="selected" value="All">EntireSite</option>
+<option value="Ep Guide">Ep Guide</option>
+<option value="Images">Images</option>
+<option value="Lists">Lists</option>
+<option value="Newsletters">Newsletters</option>
+<option value="Scripts">Scripts</option>
+<option value="Notes..Nothing">Notes..Nothing</option>
+</select></p>
+<p><input type="text" name="Terms" size="14" id="fdse_Terms"><br>
+<input type="submit" class="submit" name="submitButtonName" value="Search"></p>
+</div></form></td>
+						</tr>
+						<tr><td class="bottom" width="136" height="10" valign="top">
+						</td>
+						</tr>
+					</table>
+				</td>
+				<td width="4"></td>
+				<td valign="top" width="645">
+					<table width="645" border="0" cellspacing="0" cellpadding="0">
+						<tr height="18">
+							<td width="645" height="35" class="bar">
+								<div align="center">
+									<b><font size="+2" color="black">Script</font></b></div>
+							</td>
+						</tr>
+						<tr height="362">
+							<td class="spacer2" valign="top" width="645" height="362">
+
+						<p><font size="-2">Episode 41 - The Trip (1)<br>
+							
+						pc: 401, season 4, episode 1<br>
+							
+						Broadcast date: August 12, 1992<br>
+							<br>
+							
+						Written by: Larry Charles<br>
+							
+						Directed By Tom Cherones<br>
+							<br>
+							
+						-------------------------------------------------------------------------------<br>
+							<br>
+							
+						The Cast<br>
+							
+						Regulars:<br>
+							
+						Jerry Seinfeld ............................... Jerry Seinfeld<br>
+							
+						Jason Alexander .......................... George Costanza<br>
+							
+						Julia Louis-Dreyfus ...................... Elaine Benes<br>
+							
+						Michael Richards .......................... Kramer<br>
+							<br>
+							
+						Guest Stars:<br>
+							<br>
+							
+						Peter Murnik ................................ Lt. Martel<br>
+							
+						Elmarie Wendel ............................. Helene<br>
+							
+						Debi A. Monahan .......................... Chelsea<br>
+							
+						Ricky Dean Logan ......................... The Freak<br>
+							
+						Vaughn Armstrong ....................... Lt. Coleman<br>
+							
+						Keith Morrison ............................... Newscaster (Himself)<br>
+							
+						Manfred Melcher ............................ Officer<br>
+							
+						Christopher Michael Moore ............ Studio Guard<br>
+							
+						Dyana Ortelli .................................. Chambermaid (Lupe)<br>
+							
+						Michael Gerard ............................... Receptionist<br>
+							
+						Fred Savage .................................... (Himself)<br>
+							
+						George Wendt ................................ (Himself)<br>
+							
+						Corbin Bernsen&nbsp; .............................. (Himself)<br>
+							<br>
+							
+						==================================================================<br>
+							<br>
+							
+						Opening monologue.<br>
+							<br>
+							
+						It's amazing to me that people will move thousands of miles away to another city, they think nothing of it. They get on a plane, boom. They're there, they live there now. Just, uh, I'm living over there. You know, pioneers, it took years to cross the country. Now, people will move thousands of miles just for one season. I don't think any pioneers did that, you know. Yeah, it took us a decade to get there, and, uh, we stayed for the summer, it was nice, we had a pool, the kids loved it, and then we left about ten years ago and we just got back. We had a great summer, it took us 20 years and now our lives are over.<br>
+							<br>
+							<br>
+							
+						[George and Jerry enter Monk's Coffee Shop.]<br>
+							<br>
+							
+						GEORGE: Kramer was on Murphy Brown?<br>
+							<br>
+							
+						JERRY: Yeah.<br>
+							<br>
+							
+						GEORGE: Are you sure?<br>
+							<br>
+							
+						JERRY: Yeah.<br>
+							<br>
+							
+						GEORGE: Murphy Brown, the TV show.<br>
+							<br>
+							
+						JERRY: C'mon, will ya?<br>
+							<br>
+							
+						GEORGE: Kramer was on Murphy Brown? That son of a gun!<br>
+							<br>
+							
+						JERRY: Something, isn't it?<br>
+							<br>
+							
+						GEORGE: With Candace Bergen!<br>
+							<br>
+							
+						JERRY: I know!<br>
+							<br>
+							
+						GEORGE: I've always liked her. Remember her in 'Carnal Knowledge'?<br>
+							<br>
+							
+						JERRY: Sure.<br>
+							<br>
+							
+						GEORGE: Did she show her breasts in that?<br>
+							<br>
+							
+						JERRY: She's not really the naked type.<br>
+							<br>
+							
+						GEORGE: I can't believe I missed Kramer. You know he asked me to go with him to California.<br>
+							<br>
+							
+						JERRY: He did?<br>
+							<br>
+							
+						GEORGE: Yeah, I turned him down.<br>
+							<br>
+							
+						JERRY: How come you didn't tell me?<br>
+							<br>
+							
+						GEORGE: He asked me to keep it a secret.<br>
+							<br>
+							
+						JERRY: But you can never keep a secret.<br>
+							<br>
+							
+						GEORGE: I know. This was like a record. My previous record was when Joni Hirsch asked me not to tell anybody that we slept together. Kept a lid on that for about 28 seconds.<br>
+							<br>
+							
+						JERRY: Well, you've come a long way.<br>
+							<br>
+							
+						GEORGE: I've matured.<br>
+							<br>
+							
+						JERRY: Hey listen, the Tonight Show called me, they want me to come out and do the show on the 28th and they're giving me two free tickets to LA. You wanna go?<br>
+							<br>
+							
+						GEORGE: A free ticket?<br>
+							<br>
+							
+						JERRY: Yeah, in fact we could track down Kramer. I always felt bad about the way he left, you know? That was a mess. I never should have taken back those keys.<br>
+							<br>
+							
+						GEORGE: What about accommodations?<br>
+							<br>
+							
+						JERRY: All taken care of.<br>
+							<br>
+							
+						GEORGE: Is there a meal allowance? What about seat assignments? Could I have the Kosher meal? I hear the Kosher meal is good. And I need clothes. Gotta get a haircut. Gonna have to, I have to refill my allergy medication. Oh, do I need a hat? I need a hat, don't I? Could we do the Universal tour? They have that Backdraft exhibit now, that looks very cool to me...<br>
+							<br>
+							<br>
+							
+						[Kramer, backstage, talking to some aspiring young actors.]<br>
+							<br>
+							
+						KRAMER: So my acting technique, my personal acting technique is working with color, imagining color, then finding the emotional vibrational mood connected to the color. See, if you look through my scripts, you'll see that all my lines have a special color, so I don't memorize language, I memorize color. This way I can go through red, yellow, green, blue. And I have a full palette of emotions.<br>
+							<br>
+							
+						STUDIO GUARD: Hey, didn't I tell you to get out of here?<br>
+							<br>
+							
+						KRAMER: Uh, did you?<br>
+							<br>
+							
+						STUDIO GUARD: C'mon, let's go.<br>
+							<br>
+							
+						KRAMER: Well, I was just--<br>
+							<br>
+							
+						STUDIO GUARD: Yeah yeah, you were just nothing. C'mon, let's go.<br>
+							<br>
+							
+						KRAMER: Alright, we'll talk about this a little later. Are you an actor?<br>
+							<br>
+							<br>
+							
+						[Kramer's apartment building in LA. Singers and actors are heard practicing in the background. Kramer leaves his apartment and makes a call on the pay phone in the hall.]<br>
+							<br>
+							
+						VOICE: Murphy Brown.<br>
+							<br>
+							
+						KRAMER: Uh, yeah, uh, Candace Bergen please.<br>
+							<br>
+							
+						VOICE: Who's calling please?<br>
+							<br>
+							
+						KRAMER: Ah, well, just tell her that it's Kramer.<br>
+							<br>
+							
+						(Dial tone.)<br>
+							<br>
+							
+						KRAMER: Alright I'll uh, I'll call her at home. (To man waiting behind him) Go ahead, it's all yours.<br>
+							<br>
+							
+						(Helena, a neighbor, steps into the hallway.)<br>
+							<br>
+							
+						HELENA: Hello Kramer.<br>
+							<br>
+							
+						KRAMER: Oh, uh, Helena, how are you?<br>
+							<br>
+							
+						HELENA: I haven't worked since 1934, how do you think I am?<br>
+							<br>
+							
+						KRAMER: Well, that's only uh, 58 years.<br>
+							<br>
+							
+						HELENA: It was a Three Stooges short, &quot;Sappy Pappy.&quot; I played Mr. Sugarman's secretary, remember?<br>
+							<br>
+							
+						KRAMER: Yeah, right, right, yeah, yeah, that was a Shemp, right?<br>
+							<br>
+							
+						HELENA: No, a Curly. The boys played three sailors who find a baby, the baby's been kidnapped and the police think that they did it.<br>
+							<br>
+							
+						KRAMER: Uh huh, right.<br>
+							<br>
+							
+						HELENA: But, but of course they didn't do it, the police had made an awful mistake.<br>
+							<br>
+							
+						KRAMER: Right.<br>
+							<br>
+							
+						HELENA: Moe hits Curly with an axe,<br>
+							<br>
+							
+						KRAMER: Uh huh.<br>
+							<br>
+							
+						HELENA: The Stooges catch the kidnappers,<br>
+							<br>
+							
+						KRAMER: Right.<br>
+							<br>
+							
+						HELENA: But it's too late.<br>
+							<br>
+							
+						KRAMER: Really.<br>
+							<br>
+							
+						HELENA: The baby's dead.<br>
+							<br>
+							
+						KRAMER: Really?<br>
+							<br>
+							
+						HELENA: The boys are sent to Death Row and are executed.<br>
+							<br>
+							
+						KRAMER: Well I don't remember that part.<br>
+							<br>
+							
+						HELENA: I play Mr. Sugarman's secretary.<br>
+							<br>
+							
+						KRAMER: Oh, yeah, yeah, you were, you were very good.<br>
+							<br>
+							
+						HELENA: Yeah, it was sad for a Three Stooges, what with the dead baby and the Stooges being executed and all.<br>
+							<br>
+							
+						KRAMER: Well, that was an unusual choice for the stooges.<br>
+							<br>
+							
+						HELENA: Would you like to buy me a fat-free frozen yogurt at the store, Kramer?<br>
+							<br>
+							
+						KRAMER: Uh, well, uh, you know I can't right now, you know, uh, I got a very big meeting, I got these people interested in my movie treatment. So, uh, I guess we'll have to make it another time, alright?<br>
+							<br>
+							
+						HELENA: Well No! No, don't go out there, Kramer, they'll hurt you, they'll destroy you. You'll never make it in this town, you're too sensitive like me,<br>
+							<br>
+							
+						KRAMER: Helena, you're wrong, you know I'm not that sensitive at all.<br>
+							<br>
+							
+						HELENA: I was engaged to Mickey Rooney! He left me at the altar. Kramer! Kramer!<br>
+							<br>
+							<br>
+							
+						[Jerry's apartment. George walks in with several stuffed suitcases and backpacks.]<br>
+							<br>
+							
+						JERRY: What is this?<br>
+							<br>
+							
+						GEORGE: What?<br>
+							<br>
+							
+						JERRY: We're going on a two day trip, what are you, Diana Ross?<br>
+							<br>
+							
+						GEORGE: I happen to dress based on mood.<br>
+							<br>
+							
+						JERRY: Oh. But you essentially wear the same thing all the time.<br>
+							<br>
+							
+						GEORGE: Seemingly. Seemingly. But within that basic framework there are many subtle variations, only discernable to an acute observer, that reflect the many moods, the many shades, the many sides of George Costanza.<br>
+							<br>
+							
+						JERRY: (referring to George's outfit): And what mood is this.<br>
+							<br>
+							
+						GEORGE: This is Morning Mist.<br>
+							<br>
+							<br>
+							
+						[A murder scene. There's a body under a blanket and two Lieutenants are talking.]<br>
+							<br>
+							
+						LT. COLEMAN:: What do you figure, 20? 21?<br>
+							<br>
+							
+						LT. MARTEL:: Close enough.<br>
+							<br>
+							
+						LT. COLEMAN:: Forensics ought to be able to nail it down.<br>
+							<br>
+							
+						LT. MARTEL:: No ID?<br>
+							<br>
+							
+						LT. COLEMAN:: No ID.<br>
+							<br>
+							
+						LT. MARTEL:: No witnesses?<br>
+							<br>
+							
+						LT. COLEMAN:: Just the trees, Johnny. Pretty young thing.<br>
+							<br>
+							
+						LT. MARTEL:: She was. Not any more. Somebody saw to that.<br>
+							<br>
+							
+						LT. COLEMAN:: Sure did, Johnny. Damn shame too. What do you make of it?<br>
+							<br>
+							
+						LT. MARTEL:: I don't know, but I don't like it.<br>
+							<br>
+							<br>
+							
+						[Jerry and George are at the airport, in line for the metal detector.]<br>
+							<br>
+							
+						JERRY: Look at this guy, he's like a cat burglar. He thinks if he goes through real slow the machine won't detect him.<br>
+							<br>
+							
+						GEORGE: Personally I'm a little nervous about going through these things. I'm afraid I'm gonna step through into another dimension.<br>
+							<br>
+							
+						JERRY: Just go.<br>
+							<br>
+							
+						(George braces himself and walks through the detector.)<br>
+							<br>
+							
+						GEORGE: Heh he, I made it.<br>
+							<br>
+							
+						(Jerry walks through and the machine beeps.)<br>
+							<br>
+							
+						SECURITY GUARD: Empty your pockets please.<br>
+							<br>
+							
+						(Jerry empties his pockets and walks through again, the machine beeps again.)<br>
+							<br>
+							
+						SECURITY GUARD: Walk through again please.<br>
+							<br>
+							
+						(Jerry walks through, the machine beeps again.)<br>
+							<br>
+							
+						SECURITY GUARD: Are you sure you don't have any metal on you? Bracelets? Rings? Anklets?<br>
+							<br>
+							
+						JERRY: Anklets?<br>
+							<br>
+							
+						SECURITY GUARD: A lot of men wear anklets.<br>
+							<br>
+							
+						JERRY: Really?<br>
+							<br>
+							
+						SECURITY GUARD: Yeah.<br>
+							<br>
+							
+						OTHER SECURITY GUARD (to George): What do you have in your bag, sir?<br>
+							<br>
+							
+						GEORGE: My bag?<br>
+							<br>
+							
+						SECURITY GUARD: Step over here please.<br>
+							<br>
+							
+						JERRY: Over here?<br>
+							<br>
+							
+						OTHER SECURITY GUARD: Do you have a knife in the bag?<br>
+							<br>
+							
+						GEORGE: A knife?<br>
+							<br>
+							
+						OTHER SECURITY GUARD: Open the bag, please.<br>
+							<br>
+							
+						(George opens his bag, the other security guard begins rummaging.)<br>
+							<br>
+							
+						OTHER SECURITY GUARD: What's this?<br>
+							<br>
+							
+						GEORGE: Moisturizer?<br>
+							<br>
+							
+						OTHER SECURITY GUARD: For your wife?<br>
+							<br>
+							
+						GEORGE: No, I uh... I use it.<br>
+							<br>
+							
+						SECURITY GUARD: Spread your arms and legs please.<br>
+							<br>
+							
+						(The security guard begins waving a small beeping detector up and down Jerry's body.)<br>
+							<br>
+							
+						JERRY: (facing the lengthening line behind him) Ladies and gentlemen, I implore you.<br>
+							<br>
+							
+						OTHER SECURITY GUARD: Have a good trip.<br>
+							<br>
+							
+						SECURITY GUARD: Alright, go ahead.<br>
+							<br>
+							
+						JERRY: That's it?<br>
+							<br>
+							
+						SECURITY GUARD: That's it.<br>
+							<br>
+							
+						JERRY: Alright.<br>
+							<br>
+							
+						GEORGE: C'mon Jerry, let's go. What was that all about?<br>
+							<br>
+							
+						JERRY: I must have iron rich blood.<br>
+							<br>
+							
+						GEORGE: Here we go, LA.<br>
+							<br>
+							
+						JERRY: The Coast,<br>
+							<br>
+							
+						GEORGE: La-la Land. I got the window seat, right?<br>
+							<br>
+							
+						JERRY: Who said that?<br>
+							<br>
+							
+						GEORGE: I called it.<br>
+							<br>
+							
+						JERRY: Oh no.<br>
+							<br>
+							
+						GEORGE: What do you mean, oh no.<br>
+							<br>
+							<br>
+							
+						[Monologue, Jerry on stage.]<br>
+							<br>
+							
+						Seems to me that the closest thing we have to Royalty in America are the people that get to ride in those little carts through the airport. Don't you hate these things? They come out of nowhere; Beep Beep, cart people, look out, cart people! Look out! We all scurry out of the way like worthless peasants. Oooh! It's cart people! I hope we didn't slow you down. Wave to the cart people, Timmy, they're the best people in the world. Ya know, if you're too fat, slow and disoriented to get to your gate on time, you're not ready for air travel. The other people I hate are the people that get on to the moving walkway and then just stand there. Like it's a ride? Excuse me, there's no animated pirates or bears along the way here. Do your legs work at all?<br>
+							<br>
+							<br>
+							
+						[Stock photo of the HOLLYWOOD sign. Cut to a casting office. Kramer enters.]<br>
+							<br>
+							
+						KRAMER: Oh ah, yeah, I'm here for the audition.<br>
+							<br>
+							
+						RECEPTIONIST: Which audition, the music video, the horror movie, the exercise tape or the infomercial?<br>
+							<br>
+							
+						KRAMER: Uh, let's see... well.<br>
+							<br>
+							
+						[Cut to a montage of Kramer in group auditions for the productions the receptionist mentioned.]<br>
+							<br>
+							<br>
+							
+						[Kramer and Chelsea, a woman he met in the horror movie audition, exit the<br>
+							
+						casting office.]<br>
+							<br>
+							
+						KRAMER: You scream good.<br>
+							<br>
+							
+						CHELSEA: You too.<br>
+							<br>
+							<br>
+							
+						[Kramer and Chelsea are seated at a restaurant table.]<br>
+							<br>
+							
+						CHELSEA: So, can I keep this treatment?<br>
+							<br>
+							
+						KRAMER: Oh yeah, yeah, I got 20 copies.<br>
+							<br>
+							
+						CHELSEA: 'Cause I can, uh, show it to my manager. He has connections with West German television money.<br>
+							<br>
+							
+						KRAMER: Really.<br>
+							<br>
+							
+						CHELSEA: Yeah, they're trying to put together a miniseries for me on Eva Braun. I mean think about it, is that a great idea? We know nothing about Eva Braun, only that she was Hitler's girlfriend.<br>
+							<br>
+							
+						KRAMER: Um-hm.<br>
+							<br>
+							
+						CHELSEA: What was it like having sex with Adolf Hitler? What do you wear in a bunker? What did her parents think of Hitler as a potential son-in-law? I mean it could just go on and on...<br>
+							<br>
+							
+						KRAMER: Wait wait, hold it, hold it. Look who's over there. Don't look, don't look! It's Fred Savage.<br>
+							<br>
+							
+						CHELSEA: Big deal.<br>
+							<br>
+							
+						KRAMER: He'd be perfect for my movie. This is a once-in-a-lifetime opportunity. (takes a deep breath) I gotta go over there, I gotta give him a copy of my treatment.<br>
+							<br>
+							
+						CHELSEA: Why are you breathing so hard?<br>
+							<br>
+							
+						KRAMER: Well, I'm just a little nervous. OK, I gotta relax. Phew. Wish me luck, huh?<br>
+							<br>
+							
+						(Kramer gets up and approaches Fred Savage who's sitting at a table nearby.)<br>
+							<br>
+							
+						KRAMER: Hey. Oh, did I frighten you? I'm not crazy. I mean, I may look weird, but I'm just like you, I'm just a regular guy just trying to make it in this business. You know I really like your work, the, uh...<br>
+							<br>
+							
+						FRED SAVAGE: Thank you.<br>
+							<br>
+							
+						KRAMER: Yeah, I can't remember the name of it.<br>
+							<br>
+							
+						FRED: Thanks.<br>
+							<br>
+							
+						KRAMER: Yeah, my mind's a blank, I'm sorta nervous, you know, uh...<br>
+							<br>
+							
+						FRED: That's ok. Relax, relax.<br>
+							<br>
+							
+						KRAMER: Ok, but I got this...<br>
+							<br>
+							
+						(Kramer lifts his leg and places his foot on a low table and the table collapses.)<br>
+							<br>
+							
+						KRAMER: Stupid table. You know, I'm not normally like this, usually I'm very cool and charming, I don't mean to bother you or anything but I think it's fate that you happened to be here at the same time as me.<br>
+							<br>
+							
+						FRED (a little frightened and backing away towards the door): Yeah, its fate, you know, can't avoid your fate.<br>
+							<br>
+							
+						KRAMER: I got this treatment I think you'll be great in.<br>
+							<br>
+							
+						FRED: Yeah.<br>
+							<br>
+							
+						KRAMER: So I'd like to give it to you.<br>
+							<br>
+							
+						FRED: Yeah, thank you, thanks a lot. Bye!<br>
+							<br>
+							
+						KRAMER: (bumping into a lamp) Alright, excuse me. Uh wait, wait.<br>
+							<br>
+							
+						(Fred takes the treatment and bolts for the door. After he leaves, Kramer gives the rest of the patrons a thumbs-up.)<br>
+							<br>
+							<br>
+							
+						[George and Jerry are in their hotel room. Jerry's on the telephone.]<br>
+							<br>
+							
+						JERRY: Yeah, Kramer. K-R-A-M-E-R. Uh, I don't know, wavy? George, how would you describe Kramer's hair?<br>
+							<br>
+							
+						GEORGE: Curly.<br>
+							<br>
+							
+						JERRY: Wavy.<br>
+							<br>
+							
+						GEORGE: What'd you ask me for?<br>
+							<br>
+							
+						JERRY: Yeah, I'll hold on. Hey George, did you see a piece of paper I had on the nightstand here, like crumpled up, like a napkin?<br>
+							<br>
+							
+						GEORGE: Nope.<br>
+							<br>
+							
+						JERRY: 'Cause I had like three jokes on it, they were all perfectly worded just the way I wanted to have it. Can't find it. Hello?<br>
+							<br>
+							
+						GEORGE (from the bathroom): Hey, a shoe buffing machine!<br>
+							<br>
+							
+						JERRY: I don't know, 6-3, George, how tall is Kramer?<br>
+							<br>
+							
+						GEORGE: You got your own shampoo, conditioner, body lotion! Jerry, body<br>
+							
+						lotion!<br>
+							<br>
+							
+						JERRY: About 6-3.<br>
+							<br>
+							
+						GEORGE: Ooh, a shower cap!<br>
+							<br>
+							
+						KNOCK KNOCK KNOCK KNOCK<br>
+							<br>
+							
+						JERRY: Coming.<br>
+							<br>
+							
+						(George walks to the door wearing a shower cap.)<br>
+							<br>
+							
+						LUPE: Hello. I have more towels.<br>
+							<br>
+							
+						GEORGE: Oh good, good, come in. Come in, welcome. I'm George. And this is Jerry, over there, on the phone, that's Jerry. And you are, um?<br>
+							<br>
+							
+						LUPE: Lupe.<br>
+							<br>
+							
+						GEORGE: Lupe. That's very nice, very nice. Listen, are you going to be making up the bed in the morning?<br>
+							<br>
+							
+						LUPE: Oh Yes.<br>
+							<br>
+							
+						GEORGE: Fine. Excellent. Could you do me a favor? Could you not tuck the blankets in? 'Cause I can't sleep all tucked in.<br>
+							<br>
+							
+						LUPE: Oh, yes, yes.<br>
+							<br>
+							
+						GEORGE: Yes, I like to just be able to take the blankets and swish them and swirl them, you know what I mean? You know, I don't like being all tucked in. I like to have a lot of room, you know I like to have my toes pointed up in the air. Just like to scrunch up the blankets.<br>
+							<br>
+							
+						LUPE: Yes, yes. It's too tight to sleep.<br>
+							<br>
+							
+						GEORGE: Exactly, you know what I'm talking about, right?<br>
+							<br>
+							
+						LUPE: Oh yees, It's too tight. (Gesturing towards Jerry) Him too?<br>
+							<br>
+							
+						GEORGE: Uh, Jerry, you want your blankets tucked in?<br>
+							<br>
+							
+						JERRY: Excuse me, what?<br>
+							<br>
+							
+						GEORGE: You want your blankets tucked in?<br>
+							<br>
+							
+						JERRY: What blankets?<br>
+							<br>
+							
+						GEORGE: When Lupe makes up the beds in the morning.<br>
+							<br>
+							
+						JERRY: I don't know, whatever they do.<br>
+							<br>
+							
+						LUPE: I tuck in? Yes?<br>
+							<br>
+							
+						JERRY: Tuck in, tuck in.<br>
+							<br>
+							
+						GEORGE: Alright, so that's one tuck and one no-tuck.<br>
+							<br>
+							
+						LUPE: Okay.<br>
+							<br>
+							
+						GEORGE: Yeah. One second sweetheart. Jerry, I really think it'd be easier if you didn't tuck.<br>
+							<br>
+							
+						JERRY: Excuse me, fine, you don't want me to tuck, put me down for a no-tuck.<br>
+							<br>
+							
+						GEORGE (to Lupe): Two no-tucks.<br>
+							<br>
+							
+						JERRY: Uh, hang on a second, You know what? Changed my mind, make it a tuck.<br>
+							<br>
+							
+						GEORGE: You just said you weren't tucking.<br>
+							<br>
+							
+						JERRY: I'm tucking! Hello? Hello? They hung up on me. They don't know where Kramer is anyway.<br>
+							<br>
+							
+						GEORGE: Alrighty, so. That's one tuck and one no-tuck. Got that?<br>
+							<br>
+							
+						JERRY: Excuse me, um, did you see a piece of paper on the nightstand here earlier today crumpled up like a napkin?<br>
+							<br>
+							
+						LUPE: Oh, yes, yes. I throw away when we clean the room.<br>
+							<br>
+							
+						JERRY: Oh, okay, thanks.<br>
+							<br>
+							
+						LUPE: Thank you.<br>
+							<br>
+							
+						GEORGE: Thank you.<br>
+							<br>
+							
+						LUPE: Bye-bye.<br>
+							<br>
+							
+						GEORGE: Alright, Lupe, bye-bye now.<br>
+							<br>
+							
+						LUPE: Bye.<br>
+							<br>
+							
+						GEORGE: Bye-bye.<br>
+							<br>
+							
+						(Lupe exits.)<br>
+							<br>
+							
+						JERRY: I can't believe she threw that out. I had like the perfect wording of a whole joke I was gonna do about the X-ray counter at the airport, I was gonna do it on the Tonight Show, now I can't remember it.<br>
+							<br>
+							
+						GEORGE: Well what did you want her to do, you left it on the night table.<br>
+							<br>
+							
+						JERRY: They're not supposed to just take everything and throw it out!<br>
+							<br>
+							
+						GEORGE: Hey, hey, hey! It's not Lupe's fault, you shouldn't have left it out.<br>
+							<br>
+							
+						JERRY: Alright, just get your thing together and let's get out of here.<br>
+							<br>
+							
+						GEORGE: Alright, now. What mood am I in, what mood am I in?<br>
+							<br>
+							<br>
+							
+						[Cut to Jerry and George in the car, continuing their discussion.]<br>
+							<br>
+							
+						GEORGE: You shouldn't have tucked.<br>
+							<br>
+							
+						JERRY: I like it tucked.<br>
+							<br>
+							
+						GEORGE: Nobody tucks anymore.<br>
+							<br>
+							
+						(As Jerry drives past, Kramer exits a printing shop, gets into his car and drives off, spilling dozens of 8&quot;x10&quot; publicity photos. A police office notices this and picks up one of the photos.)<br>
+							<br>
+							<br>
+							
+						[Another murder scene. A police officer pulls a blanket over the body's head, but we catch a glimpse of the dead girl; it's Chelsea, Kramer's friend from the auditions. The same two Lieutenants as before are just arriving.]<br>
+							<br>
+							
+						OFFICER: Hey, Lieutenant.<br>
+							<br>
+							
+						LT. MARTEL:: Yeah.<br>
+							<br>
+							
+						OFFICER: This was found on her person.<br>
+							<br>
+							
+						LT. MARTEL:: On her person? What kind of expression is that?<br>
+							<br>
+							
+						OFFICER: I don't know, sir. Police lingo.<br>
+							<br>
+							
+						LT. MARTEL:: Oh yeah? What's your name, son.<br>
+							<br>
+							
+						OFFICER: Ross.<br>
+							<br>
+							
+						LT. MARTEL:: Ross. Do you see that person there, Ross?<br>
+							<br>
+							
+						OFFICER: Yes sir.<br>
+							<br>
+							
+						LT. MARTEL:: She's dead. Have you got that?<br>
+							<br>
+							
+						OFFICER: Yes sir.<br>
+							<br>
+							
+						LT. MARTEL:: Good. Now get out of here before you find yourself on transit patrol writing tickets to senior citizens with fake bus passes.<br>
+							<br>
+							
+						OFFICER: Yes sir.<br>
+							<br>
+							
+						(The Lt. examines the evidence. It's a title page that says &quot;The Keys&quot; A movie treatment by Kramer. The paper is torn so that the space where Kramer's first name was is missing.)<br>
+							<br>
+							
+						LT. MARTEL:: I think we just caught a break.<br>
+							<br>
+							<br>
+							
+						[Jerry and George are at the NBC studio.]<br>
+							<br>
+							
+						GEORGE: This is very exciting! You're on the Tonight Show, NBC, who else is on the show?<br>
+							<br>
+							
+						JERRY: I don't know.<br>
+							<br>
+							
+						GEORGE: Might meet a celebrity.<br>
+							<br>
+							
+						JERRY: I can't believe she threw out my napkin.<br>
+							<br>
+							
+						GEORGE: What are you worried about, you know it.<br>
+							<br>
+							
+						JERRY: You gonna be alright here?<br>
+							<br>
+							
+						GEORGE: Yeah yeah yeah yeah, go. Go about your business, I'll just wander around.<br>
+							<br>
+							
+						JERRY: Alright, don't wander too far, I'll meet you back here in fifteen minutes.<br>
+							<br>
+							
+						GEORGE: Go, go, go, don't worry about it.<br>
+							<br>
+							
+						(Jerry leaves and Corbin Bernsen enters through a stage door. he stands near George, obviously waiting for someone.)<br>
+							<br>
+							
+						GEORGE: Hey. (pointing at him) Corbin Bernsen.<br>
+							<br>
+							
+						CORBIN BERNSEN: How ya doing?<br>
+							<br>
+							
+						GEORGE: Big fan! Big fan.<br>
+							<br>
+							
+						CORBIN BERNSEN: Yeah.<br>
+							<br>
+							
+						GEORGE: Hey, you grew a beard, huh?<br>
+							<br>
+							
+						CORBIN BERNSEN: Yeah, yeah. I'm doing a movie during my hiatus.<br>
+							<br>
+							
+						GEORGE: Hey. You know, do I have a case for you guys to do on L.A. Law.<br>
+							<br>
+							
+						CORBIN BERNSEN: Really.<br>
+							<br>
+							
+						(Flash forward to the middle of George's 'pitch'.)<br>
+							<br>
+							
+						GEORGE: ...so mind you, at this point I'm only going out with her two or three weeks. So she goes out of town and she asks me to feed her cat. So at this time, there's a lot of stuff going on in my life and, uh, it slips my mind for a few days. Maybe a week. Not a week, five, six days.<br>
+							<br>
+							
+						CORBIN BERNSEN: Yeah yeah yeah. So what happened?<br>
+							<br>
+							
+						GEORGE: Well, it's the damnedest thing. The cat dies. So she comes back into town, she finds the cat lying on the carpet stiff as a board.<br>
+							<br>
+							
+						CORBIN BERNSEN: So you killed the cat.<br>
+							<br>
+							
+						GEORGE: That's what she says. I say, listen. It was an old cat. It died of natural causes. So get this, now she tells me that I gotta buy her a brand new cat. I say listen, honey. First of all, it was a pretty old cat. I'm not gonna buy you a brand new cat to replace an old dying cat. And second of all, I go out to the garbage, I find you a new cat in fifteen seconds. I say, you show me an autopsy report that says this cat died of starvation, I spring for a new cat. So she says something to me, like, uh, I dunno, get the hell out of here, and she breaks up with me. Now don't you think that would be a great case on L.A. Law?<br>
+							<br>
+							
+						(Corbin Bernsen just stares at George.)<br>
+							<br>
+							
+						(Flash forward, George is now talking with George Wendt in the same hallway.)<br>
+							<br>
+							
+						GEORGE: I don't wanna tell you how to run your show.<br>
+							<br>
+							
+						GEORGE WENDT: Oh, of course not.<br>
+							<br>
+							
+						GEORGE: But really, it's enough with the bar already.<br>
+							<br>
+							
+						GEORGE WENDT: Yeah, well.<br>
+							<br>
+							
+						GEORGE: Seriously, have they though about changing the setting?<br>
+							<br>
+							
+						GEORGE WENDT: Doubt it, I doubt it. Yeah.<br>
+							<br>
+							
+						GEORGE: Really? Because people do meet in places besides a bar, huh?<br>
+							<br>
+							
+						GEORGE WENDT: Well yeah, they do, heh heh.<br>
+							<br>
+							
+						GEORGE: What about a rec room? Huh? Or a community center.<br>
+							<br>
+							
+						GEORGE WENDT (checking his watch, obviously uncomfortable): Yeah, you oughta write one of those.<br>
+							<br>
+							
+						GEORGE: Yeah?<br>
+							<br>
+							
+						GEORGE WENDT: Yeah, I'll bring it up with the producers, I gotta... uh...<br>
+							<br>
+							
+						GEORGE: Fabulous, I'll think about that George, thank you!<br>
+							<br>
+							
+						(Jerry walks up as George Wendt leaves hastily.)<br>
+							<br>
+							
+						JERRY: How's it going?<br>
+							<br>
+							
+						GEORGE: Great! Great! I actually just had two meaningful intelligent conversations with Corbin Bernsen and George Wendt.<br>
+							<br>
+							
+						JERRY: Really?<br>
+							<br>
+							
+						GEORGE: Yeah, yeah, not fan talk, not gushing, you know? Actual conversation, I was incredibly articulate!<br>
+							<br>
+							
+						JERRY: You got toilet paper on your heel there.<br>
+							<br>
+							
+						(George looks down, Jerry walks away.)<br>
+							<br>
+							<br>
+							
+						[The Tonight Show, George is in the audience applauding.]<br>
+							<br>
+							
+						Announcer: It's the Tonight Show with Jay Leno. Tonight Jay welcomes Corbin Bernsen, George Wendt and comedian Jerry Seinfeld.<br>
+							<br>
+							
+						(Quick cut to Corbin Bernsen, mid-interview.)<br>
+							<br>
+							
+						CORBIN BERNSEN: Oh yeah, yeah, people are always coming up to me trying to give me a great case for L.A. Law, just a few seconds ago, right here, right outside in the hallway this nut, some sick nut comes up to me and says he's supposed to watch this girl's cat while she's away out of town. Anyway he forgets to feed the cat, the cat dies, starves to death, he kills the cat, refuses to get her a new one, won't give her any money, won't pay her, and he wants Arnie Becker to represent him. Nice guy. Yeah, that'd make a *great* case for L.A. Law. Thanks a lot.<br>
+							<br>
+							
+						(Quick shot of the audience, everyone is laughing besides George.)<br>
+							<br>
+							<br>
+							
+						[Cut to a police station. Helena is being questioned by Lt. Martel.]<br>
+							<br>
+							
+						HELENA: He's a very handsome man. Passionate, intense, but troubled, strange. I think he may be in love with me. Of course there's nothing abnormal about that, I have many suitors.<br>
+							<br>
+							<br>
+							
+						[Cut back to the Tonight Show, George Wendt, mid-interview.]<br>
+							<br>
+							
+						GEORGE WENDT: It's funny, 'cause even after all these years, we still get people giving us advice, how to improve the show. Actually, a few moments ago I ran into a nut back there, he said, you know, that maybe we should think about, you know, not doing the show in a bar.<br>
+							<br>
+							
+						(Another quick shot of the audience, again everyone is laughing besides George.)<br>
+							<br>
+							<br>
+							
+						[Cut back to the police station. One of the kids from the van Kramer hitched a ride to LA in (see &quot;The Keys&quot;) known only as 'The Freak' is being questioned by the Lt.]<br>
+							<br>
+							
+						THE FREAK: So that's when I said, &quot;Hey, Kramer, dude. You ever killed a man before?&quot; And he said, &quot;What do you think, Junior? These hands have been soaking in Ivory liquid?<br>
+							<br>
+							<br>
+							
+						[Cut back to the Tonight Show, Corbin Bernsen and George Wendt are talking between takes.]<br>
+							<br>
+							
+						GEORGE WENDT: The guy you talked to, what did he look like?<br>
+							<br>
+							
+						CORBIN BERNSEN: Short little bald guy with glasses.<br>
+							<br>
+							
+						GEORGE WENDT: Yeah, yeah, that's the same guy I talked to.<br>
+							<br>
+							
+						CORBIN BERNSEN: It never ends, does it?<br>
+							<br>
+							
+						(Cut to Jerry, on stage, doing his routine.)<br>
+							<br>
+							
+						JERRY: So I'm going through the airport and I have to put my bag on that little uh, uh, the uh, that uh, the conveyor belt.<br>
+							<br>
+							
+						(Quick shot of the audience, nobody is laughing.)<br>
+							<br>
+							
+						(Quick shot of an extremely uncomfortable Jerry.)<br>
+							<br>
+							<br>
+							
+						[Cut back to the police station. The Lt. is on the phone.]<br>
+							<br>
+							
+						LT. MARTEL: Issue an arrest warrant, put out an APB. Let's pick up this, uh, Kramer.<br>
+							<br>
+							<br>
+							
+						[George and Jerry are leaving the Tonight Show set]<br>
+							<br>
+							
+						JERRY: I was terrible.<br>
+							<br>
+							
+						GEORGE: What are you, crazy? You were fine.<br>
+							<br>
+							
+						JERRY: Nah, did you hear the end? I couldn't remember what I was trying to say, that whole thing about the, uh...<br>
+							<br>
+							
+						GEORGE: Conveyor belt.<br>
+							<br>
+							
+						JERRY: Yeah. Because she threw out my napkin.<br>
+							<br>
+							
+						GEORGE: I can't believe, you're blaming Lupe?<br>
+							<br>
+							
+						JERRY: Yes, Lupe. I'm blaming Lupe.<br>
+							<br>
+							
+						(George and Jerry walk past a TV and stop as a special report is being broadcast.)<br>
+							<br>
+							
+						TV NEWSCASTER: Our top story tonight, there has been a break in the so called 'Smog Stranglings'. Police have just released a photo of the suspect being sought in connection with the slayings. He is known only as &quot;Kramer&quot;.<br>
+							<br>
+							
+						(George and Jerry stare at each other in disbelief.)<br>
+							<br>
+							<br>
+							
+						Closing monologue.<br>
+							<br>
+							
+						Talk show hosts never seem to have any idea how much time is left in the show. You know, they're always looking off camera, &quot;Do we have time? Are we out of time? How we doin' on time? Anybody know what the time is? What's the time? Check the time?&quot; You never see Magnum P.I. go, &quot;Should I strangle this guy or are we gonna take a break here? Can you stay for another beating? I'll tell you what, I'll bop him in the head, we'll do a commercial, we'll come back, I'll drive in the car real fast, stay with us.&quot;<br>
+							<br>
+							
+						To Be Continued...<br>
+						</td>
+						</tr>
+						<tr height="6">
+							<td class="bottom2" width="645" height="6"></td>
+						</tr>
+						<tr>
+							<td width="645">
+								<div align="center">
+									<font size="-1">Copyright 2006 seinology.com | All Rights Reserved | Designed by 13erla</font></div>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+		<p></p>
+	</body>
+
+</html>

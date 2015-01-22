@@ -1,0 +1,1342 @@
+<tdOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+<html>
+
+	<head>
+		<meta http-equiv="content-type" content="text/html;charset=ISO-8859-1">
+		<meta name="description" content="Top Source for Seinfeld">
+		<meta name="keywords" content="seinfeld, sienfeld, Jerry Seinfeld, Julia Louis Dreyfus, Jason Alexander, Michael Richards, Kramer, George, Costanza, Elaine Benes, morty, Larry David">
+		<title>Seinology.com :: Scripts :: 137-The Bizarro Jerry</title>
+	<link rel='stylesheet' href='/stylesheet.css' type='text/css'>
+	</head>
+
+	<body>
+			<table align="center" width="787" border="0" cellspacing="0" cellpadding="0">
+				<tr>
+					<td><font size="-2" color="red">Seinology.com - </font><font size="-3" color="black">Where Seinfeld Content and Accuracy Matter Most. Seinfeld scripts in pdf form, Seinfeld episode video clips, Seinfeld episode audio clips, Jerry Seinfeld appearances, Julia Louis-Dreyfus appearances, Michael Richards appearances, Jason Alexander appearances, Seinfeld discussion Forum, Seinfeld Where are they Now? Seinlanguage Newsletter, Popular Seinfeld Lists, Seinfeld episode standup, Seinfeld episode guide, Seinfeld fan fiction. Seinfeld content all on one domain. Seinology.com enjoy your stay.</font></td>
+				</tr>
+			</table>
+		
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr height="100">
+				<td class="logo"></td>
+			</tr>
+			<tr><td class="ads" align="center" background=#8694fa>
+				<script type="text/javascript"><!--
+google_ad_client = "pub-1924026976931416";
+google_ad_width = 728;
+google_ad_height = 90;
+google_ad_format = "728x90_as";
+google_ad_type = "text";
+google_ad_channel = "";
+google_color_border = "FFFFFF";
+google_color_bg = "8694fa";
+google_color_link = "0000FF";
+google_color_text = "000000";
+google_color_url = "002E3F";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></td></tr>
+		</table>
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr>
+				<td valign="top" width="136">
+					<table width="136" border="0" cellspacing="0" cellpadding="0">
+						<tr height="24">
+							<td class="navigation">
+								<div align="center">
+									
+									<b>Navigation</b></div>
+							</td>
+						</tr>
+						<tr height="199">
+							<td class="spacer1" valign="top" width="136" height="199">
+								<div align="center">
+									<font size="-1"><a href="http://www.seinology.com">Home</a><br>
+										<a href="http://board.seinology.com">Forum</a><br>
+										<a href="http://www.seinology.com/av.shtml">Audio/Video</a><br>
+										<a href="http://www.seinology.com/scripts.shtml">Scripts</a><br>
+										<a href="http://www.seinology.com/survivor.shtml">Survivor</a><br>
+										<a href="http://www.seinology.com/fanfics.shtml">Fan Fiction</a><br>
+										<a href="http://www.seinology.com/gallery/">Gallery</a><br>
+										<a href="http://www.seinology.com/newsletter.shtml">Newsletter</a><br>
+										<a href="http://www.seinology.com/lists.shtml">Lists</a><br>
+										<a href="http://www.seinology.com/epguide.shtml">Episode Guide</a><br>
+										<a href="http://www.seinology.com/links.shtml">Links</a><br>
+										<a href="http://www.seinology.com/faqother.shtml">Faq + others</a><br>
+										<a href="http://www.seinology.com/legal.shtml">Legal</a></font></div>
+							</td>
+						</tr>
+						
+						<tr>
+							<td class="nav2" width="136">
+							<div align="center"><b>Search</b></div></td>
+						</tr>
+						<tr>
+							<td class="spacer1" width="136" valign="top"><div align="center"><form method="get" action="http://www.seinology.com/search/search.cgi">
+<p><label for="fdse_Match">Match</label><br>
+<select name="Match" id="fdse_Match" size="1">
+<option value="1">All</option>
+<option value="0">Any</option>
+<option value="2">Phrase</option>
+</select></p>
+<p><label for="fdse_Realm">Where?</label><br>
+<select name="Realm" id="fdse_Realm" size="1">
+<option selected="selected" value="All">EntireSite</option>
+<option value="Ep Guide">Ep Guide</option>
+<option value="Images">Images</option>
+<option value="Lists">Lists</option>
+<option value="Newsletters">Newsletters</option>
+<option value="Scripts">Scripts</option>
+<option value="Notes..Nothing">Notes..Nothing</option>
+</select></p>
+<p><input type="text" name="Terms" size="14" id="fdse_Terms"><br>
+<input type="submit" class="submit" name="submitButtonName" value="Search"></p>
+</div></form></td>
+						</tr>
+						<tr><td class="bottom" width="136" height="10" valign="top">
+						</td>
+						</tr>
+					</table>
+				</td>
+				<td width="4"></td>
+				<td valign="top" width="645">
+					<table width="645" border="0" cellspacing="0" cellpadding="0">
+						<tr height="18">
+							<td width="645" height="35" class="bar">
+								<div align="center">
+									<b><font size="+2" color="black">Script</font></b></div>
+							</td>
+						</tr>
+						<tr height="362">
+							<td class="spacer2" valign="top" width="645" height="362">
+
+						<p><font size="-2">Episode 137 - The Bizarro Jerry<br>
+							
+						pc: 803, season 8, episode 3<br>
+							
+						Broadcast date: October 3, 1996<br>
+							<br>
+							
+						Written by David Mandel<br>
+							
+						Directed by Andy Ackerman<br>
+							<br>
+							
+						-------------------------------------------------------------------------------<br>
+							<br>
+							
+						The Cast<br>
+							
+						Regulars:<br>
+							
+						Jerry Seinfeld ........................&nbsp; Jerry Seinfeld<br>
+							
+						Jason Alexander .................... George Costanza<br>
+							
+						Julia Louis-Dreyfus ................ Elaine Benes<br>
+							
+						Michael Richards .................... Cosmo Kramer<br>
+							<br>
+							
+						Guest Stars:<br>
+							<br>
+							
+						Tim DeKay .............................. Kevin<br>
+							
+						Kristin Bauer ........................... Gillian<br>
+							
+						Pat Kilbane ............................. Bizarro Kramer (Feldman)<br>
+							
+						Kyle T. Hefner ....................... Bizarro George (Gene)<br>
+							
+						Justina Vail ............................. Amanda<br>
+							
+						J. Patrick McCormack ............. Leland<br>
+							
+						Harry Murphy ....................... Office Manager<br>
+							
+						Dana Patrick .......................... Model #1<br>
+							
+						Shireen Crutchfield ................ Model #2<br>
+							
+						Robin Nance .......................... Model #3<br>
+							
+						Mark S. Larson ...................... Bizarro Newman (Vargas)<br>
+							
+						James Lesure ......................... Office Worker<br>
+							
+						Jason Beck ............................. Bouncer<br>
+							<br>
+							
+						==================================================================<br>
+							<br>
+							
+						[JERRY and GEORGE are eating at an outdoor table, possibly in a zoo.]<br>
+							<br>
+							
+						JERRY: All right. How 'bout this one: let's say you're abducted by aliens.<br>
+							<br>
+							
+						GEORGE: Fine.<br>
+							<br>
+							
+						JERRY: They haul you aboard the mother ship, take you back to their planet as a curiosity. Now: would you rather be in their zoo, or their circus?<br>
+							<br>
+							
+						GEORGE: I gotta go zoo. I feel like I could set more of my own schedule.<br>
+							<br>
+							
+						JERRY: But in the circus you get to ride around in the train, see the whole planet!<br>
+							<br>
+							
+						GEORGE: I'm wearin' a little hat, I'm jumpin' through fire.. They're puttin' their little alien heads in my mouth..<br>
+							<br>
+							
+						JERRY: (resigned) At least it's show business..<br>
+							<br>
+							
+						GEORGE: But in the zoo, you know, they might, put a woman in there with me to uh.. you know, get me to mate.<br>
+							<br>
+							
+						JERRY: What if she's got no interest in you?<br>
+							<br>
+							
+						GEORGE: W--then I'm pretty much where I am now. At least I got to take a ride on a spaceship.<br>
+							<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						[Exterior long shot: looking up at an office building; Interior of office reception area of &quot;Brand/Leland&quot; as GEORGE, JERRY, and KRAMER come in. They calmly keep it quiet.]<br>
+							<br>
+							
+						KRAMER: George, why couldn't I use the bathroom in that store?<br>
+							<br>
+							
+						GEORGE: Kramer, trust me, this is the best bathroom in midtown!<br>
+							<br>
+							
+						KRAMER: (frustrated) Wha??<br>
+							<br>
+							
+						JERRY: (dry) He knows.<br>
+							<br>
+							
+						GEORGE: (Anyway,) on the left--exquisite marble! High ceilings. An' a flush, like a jet engine! (imitates sound) Ha ha!<br>
+							<br>
+							
+						KRAMER: (impressed) Now, listen, uh. You better not wait. I'll catch you later.<br>
+							<br>
+							
+						GEORGE: You sure?<br>
+							<br>
+							
+						JERRY: (dry) He knows.<br>
+							<br>
+							
+						(KRAMER goes on his mission and they're waiting for the elevator as the RECEPTIONIST calmly arrives, not noticing them. She could be a model.)<br>
+							<br>
+							
+						GEORGE: Wow. Nice.<br>
+							<br>
+							
+						JERRY: Why don't you try your engagement story?<br>
+							<br>
+							
+						GEORGE: (considers, but got into elevator) Won't work.<br>
+							<br>
+							
+						JERRY: Are you sure?<br>
+							<br>
+							
+						GEORGE: (wry) He knows.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Reggie's diner. ELAINE and KEVIN, a geekish nice guy in a red jacket, are eating at a table. ELAINE is a little bored, dreading.]<br>
+							<br>
+							
+						ELAINE: Look. Kevin. I really like you, heh, heh, uh. But, um, maybe we'd be, better off just being.. friends. (takes a bite of her sandwich)<br>
+							<br>
+							
+						KEVIN: Friends?<br>
+							<br>
+							
+						ELAINE: Well. I mean. (distracted by the food) Oh, god. This tuna tastes like an old sponge.<br>
+							<br>
+							
+						KEVIN: Friends. Yeah! Why not friends? I might like to try that! Like you an' Jerry!<br>
+							<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						[Men's room door. Flush sound and &quot;Wooo!&quot;.]<br>
+							<br>
+							
+						(Down the hall, a MAN in a suit is trying to use the copier as KRAMER comes out of the men's room affecting nonchalance.)<br>
+							<br>
+							
+						MAN: (frustrated) Damn thing is jammed again..<br>
+							<br>
+							
+						KRAMER: You know what happens with these? The rollers, they get flat spots on 'em. (hits button several times and whacks it)<br>
+							<br>
+							
+						MAN #2 (rushing by, tense) Hey Leland wants everyone in the conference room right now.<br>
+							<br>
+							
+						MAN: Come on, let's go.<br>
+							<br>
+							
+						KRAMER: (absently wants to be part of it) Oh, yeah--yeah.. (follows them)<br>
+							<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						[Monk's. GEORGE, JERRY, and ELAINE at a booth.]<br>
+							<br>
+							
+						ELAINE: (to JERRY) Remember I was telling you about Gillian, my friend who writes for the L.L. Bean catalogue? I really think you should give her a call.<br>
+							<br>
+							
+						JERRY: (doubtful) I don't know, do you have a--<br>
+							<br>
+							
+						(ELAINE has anticipated the question, gives him her picture.)<br>
+							<br>
+							
+						JERRY: Not bad. Wuh--what does she--<br>
+							<br>
+							
+						ELAINE: (dry) I put her stats on the back.<br>
+							<br>
+							
+						JERRY: Pretty impressive--&quot;Serious boyfriend '92 to '95.&quot; Owns her own car.. &quot;Favorite president: James Polk!&quot; (ELAINE had echoed: &quot;Uh-huh. Yup.&quot; during it)<br>
+							<br>
+							
+						GEORGE: Hnn! Let me see that.<br>
+							<br>
+							
+						JERRY: (hands it to him as he asks ELAINE) So how'd it go with Kevin? Did you, steel-toe his ass back to Kentucky?<br>
+							<br>
+							
+						ELAINE: (laughs in appreciation) You are not gonna believe this! I told him that I just wanted to be friends. He's fine with it. He really wants to be friends.<br>
+							<br>
+							
+						JERRY: Why would anybody want a friend.<br>
+							<br>
+							
+						ELAINE: (dread) Uh. It's really not that bad, actually. He said he'd even go with me to the Museum of Miniatures. This is something you would never ever do.<br>
+							<br>
+							
+						JERRY: I mean all that stuff is so small.. ((ELAINE is wryly assessing him)) stupid..<br>
+							<br>
+							
+						GEORGE: (still looking at that picture) You know if I told my engagement story to that receptionist, but told her this, was my fianc&eacute;e..<br>
+							<br>
+							
+						JERRY: What?<br>
+							<br>
+							
+						GEORGE: Don't you see. Women like that are like, members of a secret tribe living in a forbidden city. People like me have not been inside in thousands of years.. But with this, it's like I've already been with one of her own! My hands been stamped! I come and go as I please!<br>
+							<br>
+							
+						ELAINE: (wry, not impressed) Well you cracked it! I warned the Queen you were gettin' close an', now it looks like we're gonna have to move the whole damn forbidden city. (chuckles with JERRY)<br>
+							<br>
+							
+						GEORGE: (getting up) Can I keep this?<br>
+							<br>
+							
+						ELAINE: No, I need it.<br>
+							<br>
+							
+						GEORGE: (absently leaving with it) Thanks.<br>
+							<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						[The Brand/Leland office reception area. GEORGE comes in off elevator to the RECEPTIONIST (AMANDA).]<br>
+							<br>
+							
+						GEORGE: Hi. I'm ah, I'm here to see a Mr. Art Vandelay..<br>
+							<br>
+							
+						AMANDA: I'm sorry sir, there is no Mr. Vandelay here..<br>
+							<br>
+							
+						GEORGE: (taking out wallet) Well, let me. Heh. Let me just eh.. check an', make sure I have the right man--ha! Heh, heh, heh! Seems--oh! I, oh! (has conveniently dropped the photo into her view)<br>
+							<br>
+							
+						AMANDA: Oh! She's beautiful! Who is she?<br>
+							<br>
+							
+						GEORGE: (humble) Well, if you must know, shhhe, was my fianc&eacute;e, Susan. May she rest in peace.<br>
+							<br>
+							
+						AMANDA: Oh, sorry.. She was lovely. I'm Amanda.<br>
+							<br>
+							
+						GEORGE: (shaking hands) I'm George.<br>
+							<br>
+							
+						(As they continue talking, MAN3 and KRAMER go to the elevator.)<br>
+							<br>
+							
+						MAN #3: Good work today, K-man!<br>
+							<br>
+							
+						KRAMER Well, you know what they say, you don't sell the steak, you sell the sizzle.<br>
+							<br>
+							
+						MAN #3: Heh, heh!<br>
+							<br>
+							
+						KRAMER: You want a drink? I'm buyin'.<br>
+							<br>
+							
+						MAN #3: In that case, make mine a double!<br>
+							<br>
+							
+						(They yuck it up, getting on the elevator.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Night at a restaurant. JERRY and GILLIAN meet.]<br>
+							<br>
+							
+						GILLIAN: Jerry?<br>
+							<br>
+							
+						JERRY: Gillian. Hiii..<br>
+							<br>
+							
+						GILLIAN: Very nice to meet you.<br>
+							<br>
+							
+						JERRY: It's nice to meet you!<br>
+							<br>
+							
+						(They're shaking hands and he notices hers are like a man's--nice enough, but big, beefy.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Day, at Monk's. JERRY and ELAINE are in a booth.]<br>
+							<br>
+							
+						JERRY: She had man-hands.<br>
+							<br>
+							
+						ELAINE: (pause) Man, Hands?<br>
+							<br>
+							
+						JERRY: The hands of a man. It's like a creature out of Greek Mythology, I mean, she was like part woman, part horrible beast.<br>
+							<br>
+							
+						ELAINE: (weary) (Look,) would you, prefer it, if she had, no hands at all?<br>
+							<br>
+							
+						JERRY: Would she have hooks?<br>
+							<br>
+							
+						ELAINE: Do uh, do hooks make it more attractive, Jerry?<br>
+							<br>
+							
+						JERRY: Kinda cool lookin'..<br>
+							<br>
+							
+						ELAINE: (getting up to go) Uh.. Listen, you're picking me up from my (place tomorrow)--<br>
+							<br>
+							
+						JERRY: (leaving too) Yeah. Yeah.<br>
+							<br>
+							
+						ELAINE: Okay, I've got five, huge boxes of (buttons).<br>
+							<br>
+							
+						JERRY: Right. Well if you need an extra set of hands, I know who you can call--<br>
+							<br>
+							
+						ELAINE: (weary) Jerry!<br>
+							<br>
+							<br>
+							<br>
+							
+						[Early morning in Jerry's &quot;house,&quot; a tea kettle is whistling. KRAMER's cooking breakfast as JERRY comes out of the bedroom, tired but surprised. He's in his pajamas. KRAMER's wearing a suit and oven mitts.]<br>
+							<br>
+							
+						JERRY: Kramer?!<br>
+							<br>
+							
+						KRAMER: Hey buddy! Hey!<br>
+							<br>
+							
+						JERRY: It--eight o'clock in the morning! What the hell is goin' on?!<br>
+							<br>
+							
+						KRAMER: Breakfast. I gotta be in at Brand/Leland by nine.<br>
+							<br>
+							
+						JERRY: Why??<br>
+							<br>
+							
+						KRAMER: Because I'm workin' there, that's why.<br>
+							<br>
+							
+						JERRY: (disoriented) How long have I been asleep? What--what year is this?<br>
+							<br>
+							
+						KRAMER: Jerry. I don't know if you've noticed, but lately, I've been drifting, aimlessly?<br>
+							<br>
+							
+						JERRY: (snaps fingers) Now that you mention it.<br>
+							<br>
+							
+						KRAMER: But I finally realized what's missing, in my life. Structure. An' at Brand/Leland, I'm gettin' things done. An' I love the people I'm workin' with.<br>
+							<br>
+							
+						JERRY: How much are they payin' you?<br>
+							<br>
+							
+						KRAMER: Oh, no, no, no-no--I don't want any pay. I'm doin' this just for me.<br>
+							<br>
+							
+						JERRY: Really. So uh, what do you do down there all day?<br>
+							<br>
+							
+						KRAMER: T.C.B. You know, takin' care o' business. Aa--I gotta go.<br>
+							<br>
+							
+						JERRY: All right.<br>
+							<br>
+							
+						KRAMER: (leaving) I'll see you tonight, huh? (turning back, grabs his briefcase) Forget my briefcase.<br>
+							<br>
+							
+						JERRY: W-w-wha' you got in there?<br>
+							<br>
+							
+						KRAMER: (as he leaves with it) Crackers.<br>
+							<br>
+							
+						(MUSIC (Sheena Easton's &quot;Morning Train (Nine to Five)&quot;) accompanies assorted shots of working-man Kramer: Getting on the subway (everyone else is going the opposite direction). Washing his shoes at the water cooler. Eating rolls of crackers out of his briefcase. Laughing it up after hours with co-workers at a TGIF-type restaurant.)<br>
+							<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						[JERRY at home on the phone. GEORGE is on the other end.]<br>
+							<br>
+							
+						JERRY: So the picture worked. Amazing!<br>
+							<br>
+							
+						GEORGE: Hey, she wants me to dress uh &quot;smart casual.&quot; What uh, what is that?<br>
+							<br>
+							
+						JERRY: I don't know, but you don't have it.<br>
+							<br>
+							
+						GEORGE: Right. Bye.<br>
+							<br>
+							
+						(ELAINE comes in, appalled, shrugging at JERRY. He doesn't know why so shrugs back.)<br>
+							<br>
+							
+						ELAINE: Where were you today?<br>
+							<br>
+							
+						JERRY: What?<br>
+							<br>
+							
+						ELAINE: Pick. Up.<br>
+							<br>
+							
+						JERRY: (whispers) Damn.<br>
+							<br>
+							
+						ELAINE: So? Where were you?!<br>
+							<br>
+							
+						JERRY: Uh, here I guess, an' uh, uh I went out and picked up a paper.<br>
+							<br>
+							
+						ELAINE: (irritated, throwing down her bag) I had to ask Kevin, to leave his office an' come an' pick me up!<br>
+							<br>
+							
+						JERRY: So? What are friends for?<br>
+							<br>
+							
+						ELAINE: Yeah! An' he is a friend, Jerry. He is reliable. He is considerate. He's like your, exact opposite.<br>
+							<br>
+							
+						JERRY: So he's Bizarro Jerry!<br>
+							<br>
+							
+						ELAINE: (pause) Bizarro Jerry?<br>
+							<br>
+							
+						JERRY: Yeah. Like Bizarro Superman. Superman's exact opposite, who lives in the backwards bizarro world. Up is Down. Down is Up. He says &quot;Hello&quot; when he leaves, &quot;Good bye&quot; when he arrives.<br>
+							<br>
+							
+						ELAINE: (pause) Shouldn't he say &quot;Bad bye&quot;? Isn't that the, opposite of &quot;Good bye&quot;?<br>
+							<br>
+							
+						JERRY: No. It's still a goodbye.<br>
+							<br>
+							
+						ELAINE: Uh. Does he live underwater?<br>
+							<br>
+							
+						JERRY: No.<br>
+							<br>
+							
+						ELAINE: Is he black..<br>
+							<br>
+							
+						JERRY: Look. Just, forget it, (already). All right?<br>
+							<br>
+							
+						(KRAMER enters, exhausted, frazzled.)<br>
+							<br>
+							
+						KRAMER: Wow. Man. What a day. Could I use a drink. (starts getting a drink and ice)<br>
+							<br>
+							
+						JERRY: Tough day at the office?<br>
+							<br>
+							
+						KRAMER: Just comin' in, an' that phone just wouldn't stop.<br>
+							<br>
+							
+						JERRY: Well, we better get goin' if we're gonna go to that uh, seven o'clock cold fusion.<br>
+							<br>
+							
+						KRAMER: Yeah. Well, count me out. I'm swimmin'. Old man Leland is bustin' my hump over these reports. If I don't get 'em done by nine, I'm toast.. ((takes a swig and reacts))<br>
+							<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						[Exterior of cheap-looking bar with neon &quot;V&quot;s on the outside. Then interior, it's a black-walled dance bar full of gorgeous women and GEORGE and AMANDA.]<br>
+							<br>
+							
+						GEORGE: This is a fantastic place! I always thought it was a meat packing plant!<br>
+							<br>
+							
+						(Three female MODELS come up to them.)<br>
+							<br>
+							
+						MODEL #1: Hey! Amanda!<br>
+							<br>
+							
+						AMANDA: These are my friends. Anabelle, Justina, and Nikki. We used to model together.<br>
+							<br>
+							
+						GEORGE: Oh! Modelling! What's that like? Fun? Ha ha. (to self in head) Stupid! Stupid! Stupid!<br>
+							<br>
+							
+						AMANDA: So Nikki, uh, how was Paris this time?<br>
+							<br>
+							
+						MODEL #2: (petulant) A bore.<br>
+							<br>
+							
+						GEORGE: You know, I used to love Paris. My uh, dead Fianc&eacute;e, Susan.. (opening wallet) In fact I. think I, I may have a picture of her..<br>
+							<br>
+							
+						(shows them the picture)<br>
+							<br>
+							
+						MODEL #3: (awed) Wow.. She was beautiful.. Do you wanna dance?<br>
+							<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						[Exterior of a restaurant.]<br>
+							<br>
+							
+						(Close-up of GILLIAN's man-hands tearing restaurant bread in half.)<br>
+							<br>
+							
+						(GILLIAN and JERRY at a table in a restaurant. JERRY's hiding his horror of her hands.)<br>
+							<br>
+							
+						GILLIAN: Would you like some bread, Jerry?<br>
+							<br>
+							
+						JERRY: No.. No thanks, I'm, just not hungry.<br>
+							<br>
+							
+						GILLIAN: Well, then at least drink your beer.. (she's opening the bottle--brief closeup on hands)<br>
+							<br>
+							
+						JERRY: (to self) Oh. Twist off..<br>
+							<br>
+							
+						GILLIAN: You have a little something on your face.<br>
+							<br>
+							
+						JERRY: I can get it. (feeling his face)<br>
+							<br>
+							
+						GILLIAN: Eh, no-no, No-no.. You're missing it, it's higher. (reaches over)<br>
+							<br>
+							
+						(A close-up of his face while a man-hand is getting the very small thing. He's uneasy.)<br>
+							<br>
+							
+						GILLIAN: (friendly) It's an eyelash. Make a wish.<br>
+							<br>
+							
+						(Closeup of his face with her outstretched finger in front of him.)<br>
+							<br>
+							
+						JERRY: I don't want to.<br>
+							<br>
+							
+						GILLIAN: Make a wish.<br>
+							<br>
+							
+						JERRY: Okay. (closes eyes, blows on her finger, opens eyes, says to self) Didn't come true.<br>
+							<br>
+							
+						GILLIAN: (smiles at him) Don't you just love lobster?<br>
+							<br>
+							
+						(Closeup of her man-hands tearing open a lobster.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Night, ELAINE and KEVIN walking into Reggie's diner.]<br>
+							<br>
+							
+						KEVIN: That Museum of Miniatures was amazing.<br>
+							<br>
+							
+						ELAINE: I know, he's so tiny!<br>
+							<br>
+							
+						(Two guys are sitting in a booth and KEVIN sees them, motioning ELAINE to come along.)<br>
+							<br>
+							
+						KEVIN: Yeah! Hey--hey guys! Elaine, sit down. These are a couple o' my friends. Uh, this is Gene. And this guy, we.. just call &quot;Feldman!&quot;<br>
+							<br>
+							
+						(GENE is short and bald with glasses. Feldman is tall and a little goofy-looking. ELAINE sits with them.)<br>
+							<br>
+							
+						ELAINE: (to self in head) Bizarro world..<br>
+							<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						[Day, JERRY and GEORGE at Monk's.]<br>
+							<br>
+							
+						GEORGE: (delighted) Jerry? It was incredible! Models! As far as the eye could see!<br>
+							<br>
+							
+						JERRY: Then it does exist.<br>
+							<br>
+							
+						GEORGE: Yes. The legends are true.<br>
+							<br>
+							
+						JERRY: So when are you goin' out with this girl again?<br>
+							<br>
+							
+						GEORGE: I'm not! I'm inside the walls!<br>
+							<br>
+							
+						JERRY: So you're gonna burn that bridge.<br>
+							<br>
+							
+						GEORGE: Flame on!<br>
+							<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						[Reggie's, FELDMAN, GENE, and KEVIN are at a booth when ELAINE comes and sits with them.]<br>
+							<br>
+							
+						GENE: (about the check) I got it.<br>
+							<br>
+							
+						KEVIN: (grabs it) No. You got it last time.<br>
+							<br>
+							
+						GENE: (calmly takes it) Don't worry about it.<br>
+							<br>
+							
+						ELAINE: (to self in head) This is unbelievable..<br>
+							<br>
+							
+						FELDMAN: Hey Elaine, what do you think of an alarm clock, that automatically tells you the weather when you wake up?<br>
+							<br>
+							
+						ELAINE: Well, I gotta say that I think that that is a fantastic idea, Feldman!<br>
+							<br>
+							
+						FELDMAN: Nah, it's not--it's just not practical.<br>
+							<br>
+							
+						KEVIN: (getting up) Well. See ya later, Elaine. Feldman an' I 'a' gotta get down 'o the library. (the three guys are leaving)<br>
+							<br>
+							
+						ELAINE: What are you gonna do down there?<br>
+							<br>
+							
+						KEVIN: Read!<br>
+							<br>
+							
+						ELAINE: (pause, then vaguely waves while watching them leave) Hello?<br>
+							<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						[At Jerry's, JERRY and KRAMER eating breakfast. KRAMER's tired, preoccupied with the paper, JERRY's in a blue robe eating cereal and orange juice.]<br>
+							<br>
+							
+						JERRY: So, uh. Gillian's comin' over later. I think I'm gonna end it.<br>
+							<br>
+							
+						KRAMER: Uh-huh.<br>
+							<br>
+							
+						JERRY: Those meaty paws, I feel like I'm dating George the Animal, (steer).<br>
+							<br>
+							
+						KRAMER: Yeah..<br>
+							<br>
+							
+						JERRY: Maybe I'll chain her to the refrigerator an' sell tickets.<br>
+							<br>
+							
+						KRAMER: That's nice..<br>
+							<br>
+							
+						JERRY: Kramer, put the paper down! You never listen to me anymore! We hardly even talk!<br>
+							<br>
+							
+						KRAMER: Well, we're, talkin' now, aren't we?--<br>
+							<br>
+							
+						JERRY: I sit here for twenty lousy minutes in the morning--<br>
+							<br>
+							
+						KRAMER: Oh here we go--<br>
+							<br>
+							
+						JERRY: An' then when you come home at night, you're always exhausted--we never do anything anymore!<br>
+							<br>
+							
+						KRAMER: What are you starting with me for? You know this is my crazy time o' year?!<br>
+							<br>
+							
+						JERRY: (pause) It's your third day..<br>
+							<br>
+							
+						KRAMER: (grabs briefcase to leave) I gotta go to work. We'll talk about this later. (leaves)<br>
+							<br>
+							
+						JERRY: Well. (calling down the hall) Call if you're gonna be late!<br>
+							<br>
+							
+						(ELAINE's arrived.)<br>
+							<br>
+							
+						ELAINE: What? What is goin' on with you two?<br>
+							<br>
+							
+						JERRY: Oh, I don't wanna talk about it..<br>
+							<br>
+							
+						ELAINE: All right, listen. Have you seen my addre-- (sees address book on counter) --ah! There it is. Okay. I got it. I'll see you later. (leaving)<br>
+							<br>
+							
+						JERRY: Hey! Wait! Wait! Wait a second! Where you goin'? I-I hardly ever see you anymore.<br>
+							<br>
+							
+						ELAINE: (stops, pause) Well, I. (a little ashamed) I guess I been at Reggie's..<br>
+							<br>
+							
+						JERRY: The Bizarro coffeeshop?<br>
+							<br>
+							
+						ELAINE: Kevin and his friends are nice people! They do good things. They read..<br>
+							<br>
+							
+						JERRY: I read.<br>
+							<br>
+							
+						ELAINE: Books, Jerry.<br>
+							<br>
+							
+						JERRY: (pause) Oh. Big deal..<br>
+							<br>
+							
+						ELAINE: Well! I can't spend the rest of my life coming into this stinking apartment every ten minutes to pore over the, excruciating minutia, of every, single, daily event..<br>
+							<br>
+							
+						JERRY: (What's goin' on,) like yesterday, I go to the bank to make a deposit, an' the teller gives me this look, like--<br>
+							<br>
+							
+						ELAINE: I'll see you later man. I gotta go.<br>
+							<br>
+							
+						JERRY: (frustrated, to self) The whole system is breakin' down!<br>
+							<br>
+							<br>
+							<br>
+							
+						[GEORGE in his bathroom, drying his hair, looking at Gillian's picture. In the background, on a door, is a poster of a closeup of Dennis Franz in black and white. The phone rings and GEORGE puts the picture and blow-drier together on the side of the sink--the dryer's still running.]<br>
+							<br>
+							
+						GEORGE: Hello? Amanda. Hi, yes. Listen. You know, I'm thinkin', we might just be better of bein' friends. Yeah. Yeah, you know what, I can't even really talk about it right now. Bye-bye. (hangs up) (happy with himself, but then sees the burned up photo) No! No!<br>
+							<br>
+							<br>
+							<br>
+							
+						[At Jerry's, JERRY and GILLIAN.]<br>
+							<br>
+							
+						GILLIAN: Friends. Just friends.<br>
+							<br>
+							
+						JERRY: Yeah.<br>
+							<br>
+							
+						GILLIAN: Yeah. All right. Well, do you still want to see a movie later?<br>
+							<br>
+							
+						JERRY: I wish I could, but, we're friends..<br>
+							<br>
+							
+						GILLIAN: I'm just gonna go, wash my hands.<br>
+							<br>
+							
+						JERRY: Good idea. (phone's ringing, goes to it) (muttering) There's a beach towel on the rack.. (to phone) Yeah.<br>
+							<br>
+							
+						GEORGE: (frantic) Jerry! Jerry, muh--muh--my hair-dryer ruined the picture! An' I need another one or I can't get back into the forbidden city!<br>
+							<br>
+							
+						JERRY: (to drive him crazy) Who is this..<br>
+							<br>
+							
+						GEORGE: Jerry! I need you to get another picture of man-hands. I'm beggin' you!<br>
+							<br>
+							
+						JERRY: (pause) If I get it for you, will you take me to that club an' show me a good time?<br>
+							<br>
+							
+						GEORGE: Yes! Yes, all right--anything!<br>
+							<br>
+							
+						(JERRY looks toward the bathroom--GILLIAN's taking forever--she's got quite a job there. He opens her purse and peeks around in it. Close-up of his hand getting the picture.)<br>
+							<br>
+							
+						JERRY: Got it. (but now a man-hand grabs his arm) Uh!<br>
+							<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						[Jerry's house, it's dark, JERRY is sitting at the table waiting up as KRAMER comes in and turns on the light.]<br>
+							<br>
+							
+						KRAMER: Jerry. Hey Jerry?<br>
+							<br>
+							
+						JERRY: I'm right here. (note: he has an athletic bandage on his right hand) You're late.<br>
+							<br>
+							
+						KRAMER: Yeah, well, I got held up, you know. What happened to your hand?<br>
+							<br>
+							
+						JERRY: Like you care.<br>
+							<br>
+							
+						KRAMER: The work piled up, I lost track of time--<br>
+							<br>
+							
+						JERRY: (calmly getting up with plate of chicken) Oh! Sure! Sure! You an' your work! Elaine's off in the Bizarro World, George only calls when he wants something, an' I'm left sitting here like this plate of cold chicken, which, by the way, (drops chicken into sink) was, for two.<br>
+							<br>
+							
+						KRAMER: You cooked?<br>
+							<br>
+							
+						JERRY: (calm) I ordered in. It's still effort.<br>
+							<br>
+							
+						KRAMER: (in pain) Ow! Jeez!<br>
+							<br>
+							
+						JERRY: What's wrong?<br>
+							<br>
+							
+						KRAMER: (Ow!) It's my stomach.<br>
+							<br>
+							
+						JERRY: You're probably gettin' an ulcer. This job is killing you! It's killing Us.<br>
+							<br>
+							
+						KRAMER: (putting briefcase down) You know what? You're right. These reports, they can wait a couple of hours. Whadda say we go out tonight? Any place you want.<br>
+							<br>
+							
+						JERRY: The coffeeshop?<br>
+							<br>
+							
+						KRAMER: You got it, buddy.<br>
+							<br>
+							
+						JERRY: (pleased) I'll call George!<br>
+							<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						[Night exterior. GEORGE, JERRY, and KRAMER walking down the street. Down the sidewalk is ELAINE coming out of a shop by a liquor store.]<br>
+							<br>
+							
+						JERRY: Hey. Isn't that Elaine?<br>
+							<br>
+							
+						GEORGE: (quiet, desperate) Maybe she can get me another picture of man-hands. (calling) Elaine!<br>
+							<br>
+							
+						JERRY: Elaine!<br>
+							<br>
+							
+						KRAMER: Elaine!<br>
+							<br>
+							
+						ALL THREE: Elaine! Elaine!<br>
+							<br>
+							
+						(ELAINE finally notices them, but suddenly from the other direction, three other guys are coming: GENE, KEVIN, and FELDMAN.)<br>
+							<br>
+							
+						KEVIN: Hey! Elaine! Hi-i! Over here!<br>
+							<br>
+							
+						(Eerie music as ELAINE looks one way, then the other. All the MEN continue walking toward her. They all meet by her. To the left of ELAINE are KEVIN, GENE, and FELDMAN. To the right of her are KRAMER, GEORGE, and JERRY. It's like a bizarre mirroring.)<br>
+							<br>
+							
+						ELAINE: Jerry.. George, Kramer.. This is Kevin, Gene.. and Feldman.<br>
+							<br>
+							
+						(The MEN murmur &quot;How ya doin'..&quot;, &quot;Good to meet you..&quot;)<br>
+							<br>
+							
+						JERRY: (quietly crept out) This is really weird..<br>
+							<br>
+							
+						(KRAMER's drinking--a bottle of Pepto Bismol.)<br>
+							<br>
+							
+						ELAINE: (diplomatically to KEVIN, GENE, and FELDMAN) Could you guys excuse us, just for a moment.<br>
+							<br>
+							
+						KEVIN: Sure. (strolls away with his friends)<br>
+							<br>
+							
+						ELAINE: (pause) Thanks. (to JERRY, GEORGE, and KRAMER) What.. what do you guys want..<br>
+							<br>
+							
+						GEORGE: Elaine, I got to have another picture of Gillian.<br>
+							<br>
+							
+						JERRY: I tried to get him one but Man-Hands almost ripped my arm out of the socket!<br>
+							<br>
+							
+						(While the three argue briefly, ELAINE looks over to see where KEVIN and FRIENDS are. They are friendly giving a beggar money.)<br>
+							<br>
+							
+						KEVIN: (Here ya are.)<br>
+							<br>
+							
+						ELAINE: (pause, turns back to JERRY et al.) Guys. I gotta go. Take it easy.<br>
+							<br>
+							
+						(GEORGE tentatively follows her a couple steps.)<br>
+							<br>
+							
+						GEORGE: Elaine? (she turns, sighing) Can I come?<br>
+							<br>
+							
+						ELAINE: I'm, I'm sorry.. We've already got a George..<br>
+							<br>
+							
+						(KEVIN, GENE, and FELDMAN cheerily/nicely turn to ELAINE as she joins them. They all go on companionably. JERRY, GEORGE, and KRAMER look on awkwardly.)<br>
+							<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						[Day, interior of Brand/Leland, KRAMER's in LELAND's office. LELAND's a greying man.]<br>
+							<br>
+							
+						KRAMER: What did you want to see me about, Mr. Leland?<br>
+							<br>
+							
+						LELAND: Kramer, I've.. been reviewing your work.. Quite frankly, it stinks.<br>
+							<br>
+							
+						KRAMER: Well, I ah.. been havin' trouble at home and uh.. I mean, ah, you know, I'll work harder, nights, weekends, whatever it takes..<br>
+							<br>
+							
+						LELAND: No, no, I don't think that's going to, do it, uh. These reports you handed in. It's almost as if you have no business training at all.. I don't know what this is supposed to be!<br>
+							<br>
+							
+						KRAMER: Well, I'm uh, just--tryin' to get ahead..<br>
+							<br>
+							
+						LELAND: Well, I'm sorry. There's just no way that we could keep you on.<br>
+							<br>
+							
+						KRAMER: I don't even really work here!<br>
+							<br>
+							
+						LELAND: That's what makes this so difficult.<br>
+							<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						[Night, GEORGE at the forbidden city.]<br>
+							<br>
+							
+						GEORGE: Hi. George.<br>
+							<br>
+							
+						MODEL #4: Are you sure you're supposed to be here?<br>
+							<br>
+							
+						GEORGE: Oh, yeah. Yeah. I used to come here all the time with my fianc&eacute;e, back when it was a meat-packing plant. Ha. Here's her picture. (hands her a magazine page)<br>
+							<br>
+							
+						MODEL #4: What'd you do? Cut this out of a magazine or something?<br>
+							<br>
+							
+						GEORGE: Huh?<br>
+							<br>
+							
+						MODEL #4: That's me? It's from a Clinique ad I did..<br>
+							<br>
+							
+						GEORGE: Ha! Heh.<br>
+							<br>
+							
+						(Muscled BOUNCER comes up.)<br>
+							<br>
+							
+						BOUNCER: Let's go. Private party. (escorts him out)<br>
+							<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						[Night, Kevin's apartment. The doorbell rings. KEVIN gets up to get it. GENE is reading on the couch. The apartment layout and furniture is the reverse of Jerry's--what's to the left in Jerry's is to the right at Kevin's. Also, Kevin's furnishings have more earth tones.]<br>
+							<br>
+							
+						KEVIN: Who is it?<br>
+							<br>
+							
+						ELAINE: (off-camera) It's Lainey!<br>
+							<br>
+							
+						KEVIN: (unlocks, opens door) Hi Elaine! (warmly hugs her)<br>
+							<br>
+							
+						ELAINE: Hi (?). Oh! Oh-oh-oh-oh!<br>
+							<br>
+							
+						KEVIN: Come on in!<br>
+							<br>
+							
+						ELAINE: Okay. Hi Gene! (comfortably tosses her bag to the left, it falls on the floor) Uh-ha! (smiling, picks up her bag, puts it on a chair that's to the right)<br>
+							<br>
+							
+						(As KEVIN gets back to reading, ELAINE looks around, noting how everything is the reverse. There's a unicycle on the wall. There's a bookcase near the couch. She goes to the kitchen. He has whole foods, not cereal boxes.)<br>
+							<br>
+							
+						ELAINE: What's up?<br>
+							<br>
+							
+						KEVIN: (friendly) Just reading..<br>
+							<br>
+							
+						(ELAINE decides to make herself at home, opens the refrigerator and starts eating olives out of a jar, with her fingers. In the living room area, KEVIN is looking at her. Note: a statue of Bizarro Superman on a stereo speaker.)<br>
+							<br>
+							
+						KEVIN: Hey.. What're you doing?<br>
+							<br>
+							
+						ELAINE: Eatin' olives.<br>
+							<br>
+							
+						KEVIN: Have you ever heard of asking? (door bell rings) Who is it?<br>
+							<br>
+							
+						FELDMAN: (off-screen) Feldman.. From across the hall.<br>
+							<br>
+							
+						KEVIN: (drops his suspicion and smiles, goes to door) Hold on. (unlocks and opens door) Hey.<br>
+							<br>
+							
+						FELDMAN: He-ey, Kevin!<br>
+							<br>
+							
+						KEVIN: Hi.<br>
+							<br>
+							
+						FELDMAN: Look who I ran into.<br>
+							<br>
+							
+						(VARGUS, a heavy Fed-Ex guy comes into view in the hall.)<br>
+							<br>
+							
+						VARGUS: (testy) Hello, Kevin..<br>
+							<br>
+							
+						KEVIN: (testy) Hello, Vargus..<br>
+							<br>
+							
+						(They both break into grins, chuckling--it was a joke.)<br>
+							<br>
+							
+						KEVIN: Ya wanna catch a ballgame this weekend?<br>
+							<br>
+							
+						VARGUS: Great! I'll see ya later! (leaves)<br>
+							<br>
+							
+						KEVIN: Okay. (to self, smiling) Vargus.. (to FELDMAN) So?<br>
+							<br>
+							
+						FELDMAN: I got 'em..<br>
+							<br>
+							
+						KEVIN: All right! Hey, Elaine, Feldman was able to get us all tickets to the Bolshoi!<br>
+							<br>
+							
+						ELAINE: Oh! (comes to him)<br>
+							<br>
+							
+						KEVIN: (enthused) Fourth row, center.<br>
+							<br>
+							
+						ELAINE: Get out! (pushes him back, but he falls back on the floor!)<br>
+							<br>
+							
+						(GENE and FELDMAN rush to KEVIN, who's hurt!)<br>
+							<br>
+							
+						GENE: (to ELAINE) What is the matter with you?<br>
+							<br>
+							
+						ELAINE: Oh, Kevin! I'm so sorry. Is there anything I can do?<br>
+							<br>
+							
+						GENE: Haven't you done enough already?<br>
+							<br>
+							
+						(Embarrassed, she grabs her bag and tries to leave. But the locks are set and the rape chain's in place. She tries to undo the locks.)<br>
+							<br>
+							
+						ELAINE: (turning to them, awkward) It's locked..<br>
+							<br>
+							
+						(The meat-packing plant. GEORGE and JERRY are walking around. The walls are still black, but there's no furniture and there are sides of beef hanging on hooks, sawdust on the floor. They are the only people there. GEORGE is dismayed, and bumps into a side of beef in his distraction.)<br>
+							<br>
+							
+						JERRY: So this is it, huh?<br>
+							<br>
+							
+						GEORGE: But it--eh.. It was here, I'm tellin' you, an' w--w--it was really here! The, there was, a, bar, and a, an' a dance floor..<br>
+							<br>
+							
+						JERRY: (dry) I guess the DJ booth was over there behind the bone saw? (really disappointed) Let's get out of here George.<br>
+							<br>
+							
+						(Shot of their feet in the sawdust as they walk out. There is the magazine photo GEORGE had brought there the previous night.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Day, exterior of an apartment building. The familiar Seinfeld interlude music, but done via corny &quot;Brady Bunch&quot;-esque sound effects.; Interior of Kevin's apartment. GENE and KEVIN are talking]<br>
+							<br>
+							
+						GENE: At work today, I discovered there's a payphone in the lobby that has free long distance.<br>
+							<br>
+							
+						KEVIN: Oh, so what did you do?<br>
+							<br>
+							
+						GENE: I called the phone company an' immediately reported the error.<br>
+							<br>
+							
+						KEVIN: Nice. (doorbell rings) Who is it?<br>
+							<br>
+							
+						FELDMAN: (off-screen) Feldman.. From across the hall.<br>
+							<br>
+							
+						KEVIN: (smiles, relieved) Hold on.<br>
+							<br>
+							
+						(GENE's arranging fruit as KEVIN goes to unlock and open the door. FELDMAN's carrying two paper bags of groceries.)<br>
+							<br>
+							
+						FELDMAN: Kevin! Brought some groceries.<br>
+							<br>
+							
+						KEVIN: Again?! Feldman, you didn't have to do that!<br>
+							<br>
+							
+						FELDMAN: Hey, what are friends for?<br>
+							<br>
+							
+						KEVIN: You know, I may not say this enough but you two are about the best friends a guy could have.<br>
+							<br>
+							
+						(They have a long smarmy group hug.)<br>
+							<br>
+							
+						KEVIN: (eyes closed in hug) Oh. Me so happy. Me want to cry.<br>
+							<br>
+							<br>
+							
+						The End</td>
+						</tr>
+						<tr height="6">
+							<td class="bottom2" width="645" height="6"></td>
+						</tr>
+						<tr>
+							<td width="645">
+								<div align="center">
+									<font size="-1">Copyright 2006 seinology.com | All Rights Reserved | Designed by 13erla</font></div>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+		<p></p>
+	</body>
+
+</html>

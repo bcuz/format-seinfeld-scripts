@@ -1,0 +1,1259 @@
+<tdOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+<html>
+
+	<head>
+		<meta http-equiv="content-type" content="text/html;charset=ISO-8859-1">
+		<meta name="description" content="Top Source for Seinfeld">
+		<meta name="keywords" content="seinfeld, sienfeld, Jerry Seinfeld, Julia Louis Dreyfus, Jason Alexander, Michael Richards, Kramer, George, Costanza, Elaine Benes, morty, Larry David">
+		<title>Seinology.com :: Scripts :: 10-The Apartment</title>
+	<link rel='stylesheet' href='/stylesheet.css' type='text/css'>
+	</head>
+
+	<body>
+			<table align="center" width="787" border="0" cellspacing="0" cellpadding="0">
+				<tr>
+					<td><font size="-2" color="red">Seinology.com - </font><font size="-3" color="black">Where Seinfeld Content and Accuracy Matter Most. Seinfeld scripts in pdf form, Seinfeld episode video clips, Seinfeld episode audio clips, Jerry Seinfeld appearances, Julia Louis-Dreyfus appearances, Michael Richards appearances, Jason Alexander appearances, Seinfeld discussion Forum, Seinfeld Where are they Now? Seinlanguage Newsletter, Popular Seinfeld Lists, Seinfeld episode standup, Seinfeld episode guide, Seinfeld fan fiction. Seinfeld content all on one domain. Seinology.com enjoy your stay.</font></td>
+				</tr>
+			</table>
+		
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr height="100">
+				<td class="logo"></td>
+			</tr>
+			<tr><td class="ads" align="center" background=#8694fa>
+				<script type="text/javascript"><!--
+google_ad_client = "pub-1924026976931416";
+google_ad_width = 728;
+google_ad_height = 90;
+google_ad_format = "728x90_as";
+google_ad_type = "text";
+google_ad_channel = "";
+google_color_border = "FFFFFF";
+google_color_bg = "8694fa";
+google_color_link = "0000FF";
+google_color_text = "000000";
+google_color_url = "002E3F";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></td></tr>
+		</table>
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr>
+				<td valign="top" width="136">
+					<table width="136" border="0" cellspacing="0" cellpadding="0">
+						<tr height="24">
+							<td class="navigation">
+								<div align="center">
+									
+									<b>Navigation</b></div>
+							</td>
+						</tr>
+						<tr height="199">
+							<td class="spacer1" valign="top" width="136" height="199">
+								<div align="center">
+									<font size="-1"><a href="http://www.seinology.com">Home</a><br>
+										<a href="http://board.seinology.com">Forum</a><br>
+										<a href="http://www.seinology.com/av.shtml">Audio/Video</a><br>
+										<a href="http://www.seinology.com/scripts.shtml">Scripts</a><br>
+										<a href="http://www.seinology.com/survivor.shtml">Survivor</a><br>
+										<a href="http://www.seinology.com/fanfics.shtml">Fan Fiction</a><br>
+										<a href="http://www.seinology.com/gallery/">Gallery</a><br>
+										<a href="http://www.seinology.com/newsletter.shtml">Newsletter</a><br>
+										<a href="http://www.seinology.com/lists.shtml">Lists</a><br>
+										<a href="http://www.seinology.com/epguide.shtml">Episode Guide</a><br>
+										<a href="http://www.seinology.com/links.shtml">Links</a><br>
+										<a href="http://www.seinology.com/faqother.shtml">Faq + others</a><br>
+										<a href="http://www.seinology.com/legal.shtml">Legal</a></font></div>
+							</td>
+						</tr>
+						
+						<tr>
+							<td class="nav2" width="136">
+							<div align="center"><b>Search</b></div></td>
+						</tr>
+						<tr>
+							<td class="spacer1" width="136" valign="top"><div align="center"><form method="get" action="http://www.seinology.com/search/search.cgi">
+<p><label for="fdse_Match">Match</label><br>
+<select name="Match" id="fdse_Match" size="1">
+<option value="1">All</option>
+<option value="0">Any</option>
+<option value="2">Phrase</option>
+</select></p>
+<p><label for="fdse_Realm">Where?</label><br>
+<select name="Realm" id="fdse_Realm" size="1">
+<option selected="selected" value="All">EntireSite</option>
+<option value="Ep Guide">Ep Guide</option>
+<option value="Images">Images</option>
+<option value="Lists">Lists</option>
+<option value="Newsletters">Newsletters</option>
+<option value="Scripts">Scripts</option>
+<option value="Notes..Nothing">Notes..Nothing</option>
+</select></p>
+<p><input type="text" name="Terms" size="14" id="fdse_Terms"><br>
+<input type="submit" class="submit" name="submitButtonName" value="Search"></p>
+</div></form></td>
+						</tr>
+						<tr><td class="bottom" width="136" height="10" valign="top">
+						</td>
+						</tr>
+					</table>
+				</td>
+				<td width="4"></td>
+				<td valign="top" width="645">
+					<table width="645" border="0" cellspacing="0" cellpadding="0">
+						<tr height="18">
+							<td width="645" height="35" class="bar">
+								<div align="center">
+									<b><font size="+2" color="black">Script</font></b></div>
+							</td>
+						</tr>
+						<tr height="362">
+							<td class="spacer2" valign="top" width="645" height="362">
+
+						<p><font size="-2">Episode 10 - The Apartment<br>
+							
+						pc: 208, season 2, episode 5<br>
+							
+						Broadcast date: April 4, 1991<br>
+							<br>
+							
+						Written By Peter Mehlman<br>
+							
+						Directed By Tom Cherones<br>
+							<br>
+							
+						-------------------------------------------------------------------------------<br>
+							<br>
+							
+						The Cast<br>
+							
+						Regulars:<br>
+							
+						Jerry Seinfeld ....................... Jerry Seinfeld<br>
+							
+						Jason Alexander .................. George Costanza<br>
+							
+						Julia Louis-Dreyfus ............. Elaine Benes<br>
+							
+						Michael Richards ................. Kramer<br>
+							<br>
+							
+						Guest Stars:<br>
+							<br>
+							
+						Tony Plana ........................... Manny<br>
+							
+						Glenn Shadix ........................ Harold<br>
+							
+						Jeanine Jackson .................... Roxanne<br>
+							
+						Leslie Neale .......................... Rita<br>
+							
+						Theresa Randle ..................... Janice<br>
+							
+						Patricia Amaye Thomson ...... Susie<br>
+							
+						Melody Ryane ...................... Joanne<br>
+							
+						David Blackwood ................ Stan<br>
+							<br>
+							
+						==================================================================<br>
+							<br>
+							<br>
+							
+						INT. COMEDY CLUB &#150; NIGHT<br>
+							<br>
+							
+						(Jerry is on stage, performing.)<br>
+							<br>
+							
+						JERRY: Well, I painted my apartment again. I&#146;ve been living in this apartment for years and years, and every time I paint it, it kinda gets me down. I look around, and I think, well, it&#146;s a little bit smaller now. You know, I realize it&#146;s just the thickness of the paint, but I&#146;m aware of it. It just coming in and coming in. Every-time I paint it, it&#146;s closer and closer. I don&#146;t even know where the wall outlets are anymore. I just look for like a lump with two slots in it. Kinda looks like a pig is trying to push his way through from the other side. That&#146;s where I plug in. My idea of the perfect living room would be the bridge on the Starship Enterprise. You know what I mean? Big chair, nice screen, remote control... That&#146;s why Star Trek really was the ultimate male fantasy. Just hurtling through space in your living room, watching TV. That&#146;s why all the aliens were always dropping in, because Kirk was the only one that had the big screen. They came over Friday nights, Klingon boxing, gotta be there.<br>
+							<br>
+							<br>
+							<br>
+							
+						INT. JERRY&#146;S APARTMENT &#150; DAY<br>
+							<br>
+							
+						(Jerry and Elaine are looking at Kramer with their arms folded. His hair is slicked back.)<br>
+							<br>
+							
+						JERRY: What did you do?<br>
+							<br>
+							
+						KRAMER: Mousse. I moussed up.<br>
+							<br>
+							
+						ELAINE: I guess it was just a matter of time.<br>
+							<br>
+							
+						KRAMER: You know, I should've done this years ago. I mean, I feel like I've had two lives. My pre-mousse. And now, I begin my post-mousse. Hey, tell me the truth, have you ever seen a better looking guy?<br>
+							<br>
+							
+						JERRY: Well, looks are so subjective.<br>
+							<br>
+							
+						ELAINE: I don&#146;t mean to interrupt or anything, but on Sunday, my friend is having a brunch for the New York Marathon.<br>
+							<br>
+							
+						KRAMER: (annoyed that he forgot) Oh, I keep forgetting to enter that!<br>
+							<br>
+							
+						ELAINE: She lives right above First Avenue, says she has a perfect view of the race. And she said I can invite some friends.<br>
+							<br>
+							
+						JERRY: Maybe.<br>
+							<br>
+							
+						(A loud argument can be heard in the hallway between HAROLD and MANNY, the building supervisors.<br>
+							<br>
+							
+						HAROLD: (O.S.) No, I&#146;m not going up there.<br>
+							<br>
+							
+						(Manny screams out something in Spanish.)<br>
+							<br>
+							
+						JERRY: (to Elaine) Harold and Manny.<br>
+							<br>
+							<br>
+							<br>
+							
+						INT. BUILDING&#146;S HALLWAY &#150; CONTINUING<br>
+							<br>
+							
+						(Harold and Manny are arguing.)<br>
+							<br>
+							
+						HAROLD: I&#146;m not going.<br>
+							<br>
+							
+						(Manny says something in Spanish. Jerry enters the hallway.)<br>
+							<br>
+							
+						JERRY: Boys, boys.<br>
+							<br>
+							
+						HAROLD: Oh, Jerry.<br>
+							<br>
+							
+						JERRY: I slid the rent under your door, Harold. Did you get it?<br>
+							<br>
+							
+						HAROLD: Yeah, yeah... Hey, Jerry, would you like anything from Mrs. Hudwalker&#146;s apartment?<br>
+							<br>
+							
+						MANNY: (in Spanish) You can't give him anything from there!<br>
+							<br>
+							
+						HAROLD: I was only joking. (to Jerry) He thinks I&#146;m gonna give you Mrs. Hudwalker&#146;s things.<br>
+							<br>
+							
+						MANNY: (in Spanish) You offered them to him.<br>
+							<br>
+							
+						HAROLD: (to Jerry) We have to go up there now and clean the apartment. It&#146;s a good thing her rent was overdue. She&#146;d be rotting up there for a month.<br>
+							<br>
+							
+						JERRY: She died? Mrs. Hudwalker died?<br>
+							<br>
+							
+						HAROLD: Ninety-four years old. I found her yesterday. She didn&#146;t have her wig on. It was horrifying.<br>
+							<br>
+							
+						MANNY: (in Spanish) Harold, Come on, hurry up!<br>
+							<br>
+							
+						HAROLD: (to Manny) What&#146;s the matter with you? I&#146;m talking! So, Jerry, you know anyone who needs an apartment?<br>
+							<br>
+							
+						JERRY: Are you kidding? You know my friend Elaine?<br>
+							<br>
+							
+						HAROLD: Oh yeah, I like her. She always says hello to me.<br>
+							<br>
+							
+						JERRY: It&#146;s not promised to anybody? &#145;Cause she&#146;d take it in a second.<br>
+							<br>
+							
+						HAROLD: Well, Manny wanted it for his brother, but he got deported.<br>
+							<br>
+							
+						MANNY: (in spanish) What do you mean deported? It was a misunderstanding with the Department of Immigration.<br>
+							<br>
+							
+						HAROLD: What&#146;s the difference? It&#146;s true!<br>
+							<br>
+							
+						JERRY: So, it&#146;s okay? I could just tell her she can have it?<br>
+							<br>
+							
+						HAROLD: Sure, sure. She&#146;s getting a bargain, too. It&#146;s only four hundred dollars a month.<br>
+							<br>
+							
+						MANNY: (in Spanish) Four hundred dollars? What are you nuts? Someone will pay more.<br>
+							<br>
+							
+						HAROLD: Okay...<br>
+							<br>
+							
+						(Manny keeps talking in Spanish.)<br>
+							<br>
+							
+						HAROLD: Okay!<br>
+							<br>
+							
+						(Jerry goes back to his apartment, passing Kramer on the way. Kramer models his new hairdo for the boys.)<br>
+							<br>
+							
+						KRAMER: Hey, Harold, what do you think?<br>
+							<br>
+							
+						HAROLD: Manny, look. Kramer put mousse in his hair.<br>
+							<br>
+							
+						MANNY: (in Spanish) It looks worse.<br>
+							<br>
+							
+						KRAMER: (not understanding him) Hey, thanks.<br>
+							<br>
+							<br>
+							<br>
+							
+						INT. JERRY&#146;S APARTMENT &#150; DAY<br>
+							<br>
+							
+						(Jerry enters.)<br>
+							<br>
+							
+						ELAINE: What was that all about?<br>
+							<br>
+							
+						JERRY: (coyly) Oh, nothing important.<br>
+							<br>
+							
+						ELAINE: What&#146;s going on? What is that look?<br>
+							<br>
+							
+						JERRY: What look? Nothing.<br>
+							<br>
+							
+						ELAINE: Something&#146;s going on here.<br>
+							<br>
+							
+						JERRY: I don&#146;t know if you should sit for this or not. Sitting is good if you faint, but standing is good for jumping up and down. I can&#146;t decide.<br>
+							<br>
+							
+						ELAINE: Jumping up and down? What are you talking about? C&#146;mon. Cough it up.<br>
+							<br>
+							
+						JERRY: Oh, Elaine. You know the way I am &#150; rarely ever thinking of myself. My only concern is the welfare and happiness of those close to me. Sure, it hurts sometimes to give, and give, and give...<br>
+							<br>
+							
+						ELAINE: Would you please?<br>
+							<br>
+							
+						JERRY: What would you say if I told you that...<br>
+							<br>
+							
+						(Jerry lets his words hang in the air.)<br>
+							<br>
+							
+						ELAINE: Told me what?!<br>
+							<br>
+							
+						JERRY: ...I got you an apartment in this building.<br>
+							<br>
+							
+						ELAINE: (dumbfounded) No.<br>
+							<br>
+							
+						JERRY: Yes.<br>
+							<br>
+							
+						ELAINE: No.<br>
+							<br>
+							
+						JERRY: Yes.<br>
+							<br>
+							
+						ELAINE: You didn&#146;t.<br>
+							<br>
+							
+						JERRY: I did.<br>
+							<br>
+							
+						ELAINE: You got me an apartment in the building?!<br>
+							<br>
+							
+						JERRY: I got you an apartment in the building.<br>
+							<br>
+							
+						ELAINE: How did you...<br>
+							<br>
+							
+						JERRY: Remember Mrs. Hudwalker? The ninety-four-year-old woman who lived above me?<br>
+							<br>
+							
+						ELAINE: No.<br>
+							<br>
+							
+						JERRY: She died.<br>
+							<br>
+							
+						ELAINE: (thrilled) She died?!<br>
+							<br>
+							
+						JERRY: She died.<br>
+							<br>
+							
+						ELAINE: She died!<br>
+							<br>
+							
+						JERRY: And the rent is only four hundred dollars a month!<br>
+							<br>
+							
+						ELAINE: Get out!<br>
+							<br>
+							
+						(Elaine pushes Jerry with both hands. Jerry stumbles back.)<br>
+							<br>
+							
+						ELAINE: Four hundred a month? Only four hundred a month?!<br>
+							<br>
+							
+						JERRY: Four hundred a month.<br>
+							<br>
+							
+						ELAINE: And I&#146;ll be right upstairs?<br>
+							<br>
+							
+						JERRY: Right upstairs.<br>
+							<br>
+							
+						ELAINE: Right above you?<br>
+							<br>
+							
+						JERRY: Right above me.<br>
+							<br>
+							
+						ELAINE: Oh, we&#146;re neighbors. I&#146;ll be here all the time!<br>
+							<br>
+							
+						(Jerry is starting to regret his actions.)<br>
+							<br>
+							
+						JERRY: All the time.<br>
+							<br>
+							
+						ELAINE: (overly excited) We can exchange keys so we can come in and out. Oh, this is going to be great!<br>
+							<br>
+							
+						JERRY: All the time.<br>
+							<br>
+							<br>
+							<br>
+							
+						INT. COMEDY CLUB &#150; NIGHT<br>
+							<br>
+							
+						(Jerry is on stage, performing.)<br>
+							<br>
+							
+						JERRY: The problem with talking is that nobody stops you from saying the wrong thing. I think life would be a lot better if it was like you&#146;re always making a movie. You mess up, somebody just walks on the set, and stops the whole shot. You know what I mean? Think of the things you wish you could take back. You&#146;re out somewhere with people, &#147;Gee, you look pregnant.. are you?&#148; &#147;Cut, cut, cut, cut, cut, that&#146;s not gonna work at all. Walk out the door, and come back in. Let&#146;s take this whole scene again. People, think about what you&#146;re saying!&#148;<br>
+							<br>
+							<br>
+							<br>
+							
+						INT. MONK&#146;S DINER &#150; NIGHT<br>
+							<br>
+							
+						(George pays his bill at the cashier.)<br>
+							<br>
+							
+						GEORGE: Thanks, see you later, Donna.<br>
+							<br>
+							
+						(George walks outside.)<br>
+							<br>
+							<br>
+							<br>
+							
+						EXT. MONK&#146;S DINER &#150; CONTINUING<br>
+							<br>
+							
+						(George runs into Jerry outside the restaurant.)<br>
+							<br>
+							
+						GEORGE: What happened to you?<br>
+							<br>
+							
+						JERRY: You can&#146;t believe what I just did.<br>
+							<br>
+							
+						GEORGE: What? What did you do?<br>
+							<br>
+							
+						JERRY: I could tell you what I did, but you wouldn&#146;t believe it. It&#146;s not believable.<br>
+							<br>
+							
+						GEORGE: What did you do?<br>
+							<br>
+							
+						JERRY: How could I have done that?<br>
+							<br>
+							
+						GEORGE: Done what?<br>
+							<br>
+							
+						JERRY: I told Elaine about an apartment opening up in my building. She&#146;s going to move in.<br>
+							<br>
+							
+						GEORGE: Elaine&#146;s moving into your building?<br>
+							<br>
+							
+						JERRY: Yes. Right above me.<br>
+							<br>
+							
+						GEORGE: Right above you?<br>
+							<br>
+							
+						JERRY: Yeah.<br>
+							<br>
+							
+						GEORGE: You&#146;re gonna be neighbors.<br>
+							<br>
+							
+						JERRY: I know. Neighbors.<br>
+							<br>
+							
+						GEORGE: She&#146;s right above you?<br>
+							<br>
+							
+						JERRY: Right above me.<br>
+							<br>
+							
+						GEORGE: How could you do that?<br>
+							<br>
+							
+						JERRY: &#145;Cause I&#146;m an idiot! You may think you&#146;re an idiot, but with all due respect, I&#146;m a much bigger idiot than you are.<br>
+							<br>
+							
+						GEORGE: Don&#146;t insult me, my friend. Remember who you&#146;re talking to. No one&#146;s a bigger idiot than me.<br>
+							<br>
+							
+						JERRY: Did you ever ask an ex-girlfriend to move into your building?<br>
+							<br>
+							
+						GEORGE: Did you ever go to a singles weekend in the Pocono&#146;s?<br>
+							<br>
+							
+						JERRY: She&#146;s right in my building! Right above me! Every time I come in the building, I&#146;m gonna have to sneak around like a cat burglar.<br>
+							<br>
+							
+						GEORGE: You&#146;re doomed. You&#146;re gonna have to have all your sex at women&#146;s apartments. It&#146;ll be like a permanent road trip. Forget about the home bed advantage.<br>
+							<br>
+							
+						JERRY: But I need the home bed advantage.<br>
+							<br>
+							
+						GEORGE: Of course. We all do.<br>
+							<br>
+							
+						JERRY: Come in for two minutes and sit with me.<br>
+							<br>
+							
+						GEORGE: I was just in there. It&#146;s embarrassing.<br>
+							<br>
+							
+						JERRY: Oh, who&#146;s gonna know?<br>
+							<br>
+							
+						GEORGE: They saw me walk out.<br>
+							<br>
+							
+						JERRY: Two minutes.<br>
+							<br>
+							
+						(Jerry opens the door. George gestures to the people in the window of the coffee shop that he has no choice. They enter.)<br>
+							<br>
+							<br>
+							<br>
+							
+						INT. MONK&#146;S DINER &#150; LATER<br>
+							<br>
+							
+						(Jerry and George are at a booth.)<br>
+							<br>
+							
+						JERRY: My censoring system broke down. You know that little guy in your head who watches everything you say? Makes sure you don&#146;t make a mistake? He went for a cup of coffee. And in that second ruined my life.<br>
+							<br>
+							
+						GEORGE: My censor quit two years ago. He checked into a clinic. Emotionally exhausted.<br>
+							<br>
+							
+						JERRY: So, is there any way out of this Elaine thing?<br>
+							<br>
+							
+						GEORGE: Tough.<br>
+							<br>
+							
+						JERRY: You know, the water pressure&#146;s terrible in my building. And she loves a good shower.<br>
+							<br>
+							
+						GEORGE: I never heard of anyone would turned down an apartment because of a weak shower spray.<br>
+							<br>
+							
+						JERRY: If they were fanatic about showers, they might.<br>
+							<br>
+							
+						GEORGE: For that rent, she&#146;d take a bath in the toilet tank if she had to.<br>
+							<br>
+							
+						(There&#146;s a woman at the counter feeding her kid, who sits in a stroller.)<br>
+							<br>
+							
+						JERRY: Look at that woman feeding her baby greasy, disgusting, coffee shop corned beef hash. Isn&#146;t that child abuse?<br>
+							<br>
+							
+						GEORGE: I&#146;d like to have a kid. Of course, you have to have a date first... Remember my friend, Adam, from Detroit?<br>
+							<br>
+							
+						JERRY: Yeah, the guy with the flat head.<br>
+							<br>
+							
+						GEORGE: He&#146;s a cube. Anyway, he got married six months ago. He told me ever since he&#146;s been wearing a wedding band, women have been coming on to him everywhere he goes.<br>
+							<br>
+							
+						JERRY: Yeah, I&#146;ve heard that about wedding bands.<br>
+							<br>
+							
+						GEORGE: I wonder if that&#146;s really true.<br>
+							<br>
+							
+						JERRY: That would be an interesting sociological experiment. You know, Kramer has his father&#146;s band. He&#146;d loan it to you.<br>
+							<br>
+							
+						(George laughs at the idea)<br>
+							<br>
+							<br>
+							<br>
+							
+						INT. APARTMENT BUILDING HALLWAY &#150; DAY<br>
+							<br>
+							
+						(Outside Kramer&#146;s apartment. George has Kramer&#146;s father&#146;s band on. Kramer is in the doorway.)<br>
+							<br>
+							
+						GEORGE: Thanks a lot. I&#146;ll give it back to you in a week.<br>
+							<br>
+							
+						KRAMER: You know, I don&#146;t even know why you&#146;re fooling around with this ring. I&#146;ve been telling you, get yourself some plugs. Or a piece.<br>
+							<br>
+							
+						GEORGE: I&#146;m not doing that.<br>
+							<br>
+							
+						KRAMER: Oh, man. You know, you&#146;re crazy. You&#146;re a good looking guy. What do you want to walk around like that for?<br>
+							<br>
+							
+						GEORGE: No, I&#146;ll put half a can of mousse in my head like you.<br>
+							<br>
+							
+						(Harold and Manny are arguing down the hall.)<br>
+							<br>
+							
+						HAROLD: I told you I don&#146;t like these sponges, they&#146;re too small! I want a big sponge!<br>
+							<br>
+							
+						(Manny yells in Spanish.)<br>
+							<br>
+							
+						HAROLD: You can&#146;t pick up anything with these! There&#146;s no absorption!<br>
+							<br>
+							
+						(Manny yells in Spanish. Jerry exits his apartment.)<br>
+							<br>
+							
+						JERRY: Boys, boys.<br>
+							<br>
+							
+						HAROLD: Hi, Jerry.<br>
+							<br>
+							
+						MANNY: Hello, Jerry. (in spanish to Harold) You tell him.<br>
+							<br>
+							
+						HAROLD: Okay<br>
+							<br>
+							
+						MANNY: (in spanish to Harold again) You tell him.<br>
+							<br>
+							
+						HAROLD: Your friend can&#146;t have the apartment, Jerry.<br>
+							<br>
+							
+						JERRY: What?<br>
+							<br>
+							
+						HAROLD: Because somebody offered Manny five thousand dollars for the apartment. I don&#146;t want to do it. Manny wants to do it.<br>
+							<br>
+							
+						MANNY: (in spanish) Why are you telling him it's my fault?<br>
+							<br>
+							
+						HAROLD: Because it&#146;s true! Why shouldn&#146;t I tell him?<br>
+							<br>
+							
+						JERRY: Hey, hey. I understand. You&#146;re businessmen.<br>
+							<br>
+							
+						MANNY: (in spanish) Tell him that if his friend can come up with the same money then she can have the apartment.<br>
+							<br>
+							
+						HAROLD: Oh, now, he says that if your friend has five thousand dollars, we&#146;ll give it to her.<br>
+							<br>
+							
+						JERRY: Well, that&#146;s a lot of money. But, if that&#146;s the way it&#146;s gotta be, that&#146;s the way it&#146;s gotta be.<br>
+							<br>
+							
+						(Jerry returns to his own apartment.)<br>
+							<br>
+							<br>
+							<br>
+							
+						INT. JERRY&#146;S APARTMENT &#150; DAY<br>
+							<br>
+							
+						(George is there. Jerry enters.)<br>
+							<br>
+							
+						JERRY: You know, I used to think that the universe is a random, chaotic sequence of meaningless events, but I see now that there is reason and purpose to all things.<br>
+							<br>
+							
+						GEORGE: What happened to you?<br>
+							<br>
+							
+						JERRY: Religion, my friend, that&#146;s what happened to me. Because, I have just been informed that it&#146;s going to cost Elaine the sum of five thousand dollars to get the apartment upstairs.<br>
+							<br>
+							
+						GEORGE: (jubilant) Five thousand dollars? She doesn&#146;t have five thousand dollars!<br>
+							<br>
+							
+						JERRY: Of course she doesn&#146;t have five thousand dollars!<br>
+							<br>
+							
+						GEORGE: So, she can&#146;t get the apartment.<br>
+							<br>
+							
+						JERRY: Can&#146;t get it.<br>
+							<br>
+							
+						GEORGE: So, she doesn&#146;t move in.<br>
+							<br>
+							
+						JERRY: No move. So, you see, it&#146;s all part of a divine plan.<br>
+							<br>
+							
+						GEORGE: And how does the baldness fit into that plan?<br>
+							<br>
+							
+						(The intercom buzzes. Jerry presses the first button.)<br>
+							<br>
+							
+						JERRY: (to the intercom) Elaine?<br>
+							<br>
+							
+						ELAINE: Yeah.<br>
+							<br>
+							
+						(Jerry opens his door.)<br>
+							<br>
+							
+						JERRY: (to George) All right, this is going to require some great acting now. I have to pretend I&#146;m disappointed. You&#146;re going to really see me being a phony, now. I hope you can take this. Maybe you should go in the other room.<br>
+							<br>
+							
+						GEORGE: Are you kidding? I lie every second of the day. My whole life is a sham!<br>
+							<br>
+							
+						JERRY: &#145;Cause you know, I love Elaine.<br>
+							<br>
+							
+						GEORGE: Of course you do.<br>
+							<br>
+							
+						JERRY: But you know... not in the building. Really, I feel terrible about this. My intentions were good. What can I do? Tell me.<br>
+							<br>
+							
+						(Elaine appears in the doorway.)<br>
+							<br>
+							
+						ELAINE: (to someone in the hallway) No, I&#146;ll be seeing you. (She enters the apartment; singing) &quot;Good morning, good morning..&#148; (to Jerry and George) Have you ever gotten up in the morning and felt it&#146;s great to be alive? That every breath is a gift of sweet life from above?<br>
+							<br>
+							
+						(George looks at Jerry then head into the other room.)<br>
+							<br>
+							
+						ELAINE: Oh, and before I forget, I have the checks for the first month, last month&#146;s security deposit. (laughs) I have seventy-five dollars left in my account.<br>
+							<br>
+							
+						JERRY: Well... there&#146;s a little bit of a problem.<br>
+							<br>
+							
+						ELAINE: Oh, I know. There&#146;s a weak shower spray, I know. I&#146;ve already thought about it, and I&#146;m switching to baths. As Winston Churchill said, &#147;Why stand when you can sit?&#148; Maybe I&#146;ll get some rubber duckies.<br>
+							<br>
+							
+						JERRY: Uh, no uh, someone offered Harold and Manny five thousand for the apartment. I&#146;m sure they&#146;d just as soon give it to you, but you&#146;d have to come up with that money.<br>
+							<br>
+							
+						ELAINE: Five thousand dollars? I don&#146;t have five thousand dollars.<br>
+							<br>
+							
+						JERRY: I know.<br>
+							<br>
+							
+						ELAINE: (disappointed) How am I going to get five thousand dollars?<br>
+							<br>
+							
+						JERRY: I have no idea.<br>
+							<br>
+							
+						(Kramer enters.)<br>
+							<br>
+							
+						KRAMER: (to Elaine) Hey, my new neighbor!<br>
+							<br>
+							
+						ELAINE: I&#146;m not moving in.<br>
+							<br>
+							
+						KRAMER: What?<br>
+							<br>
+							
+						ELAINE: They want five thousand dollars now.<br>
+							<br>
+							
+						KRAMER: So, okay uh what&#146;s the problem?<br>
+							<br>
+							
+						ELAINE: I don&#146;t have five thousand dollars.<br>
+							<br>
+							
+						KRAMER: C&#146;mon, you can come up with five thousand dollars. (to Jerry) Jerry, you don&#146;t have five thousand dollars you can led her? Come on.<br>
+							<br>
+							
+						JERRY: Yeah, well, I didn&#146;t- Is that something you want to borrow?<br>
+							<br>
+							
+						ELAINE: No, that&#146;s too much money to borrow.<br>
+							<br>
+							
+						KRAMER: Loan her the money. You can afford it.<br>
+							<br>
+							
+						JERRY: She doesn&#146;t wanna borrow the money.<br>
+							<br>
+							
+						KRAMER: Oh, c&#146;mon. She&#146;ll pay you back. What&#146;s five grand between friends?<br>
+							<br>
+							
+						ELAINE: Of course I&#146;d pay you back..<br>
+							<br>
+							
+						KRAMER: Yeah, so what&#146;s the problem?<br>
+							<br>
+							
+						JERRY: Who said there&#146;s a problem?<br>
+							<br>
+							
+						KRAMER: Hey see He said he&#146;d loan you the money.<br>
+							<br>
+							
+						ELAINE: Well Jerry, it might take a while for me to pay you back. Maybe a few years. How do you feel about that?<br>
+							<br>
+							
+						(Jerry opens his mouth.)<br>
+							<br>
+							
+						KRAMER: That&#146;s okay. He doesn&#146;t care.<br>
+							<br>
+							
+						ELAINE: Well, you know, money can sometimes come between friends.<br>
+							<br>
+							
+						(Jerry opens his mouth.)<br>
+							<br>
+							
+						KRAMER: Get outta here.<br>
+							<br>
+							
+						ELAINE: Let me think about it.<br>
+							<br>
+							
+						KRAMER: What&#146;s to think about?<br>
+							<br>
+							
+						ELAINE: I don&#146;t know... I don&#146;t know. Five thousand... let me just take one more look at it.<br>
+							<br>
+							
+						(She leaves.)<br>
+							<br>
+							
+						JERRY: (to Kramer) It was all over! Taken care of. Done! Finished. Five thousand. Where&#146;s she gonna get five thousand? She doesn&#146;t have five thousand. Clean. Good bye. She&#146;s gone. Then you come in, &#147;Why don&#146;t you loan her five thousand? What do you care? You&#146;ve got five thousand. Give her five thousand!&#148;<br>
+							<br>
+							
+						KRAMER: You didn&#146;t want her in the building?<br>
+							<br>
+							
+						JERRY: No, I didn&#146;t!<br>
+							<br>
+							
+						KRAMER: Well, then what did you loan her the five thousand for? Oh, look, maybe she won&#146;t take it. I mean, she did say that she was gonna think about it.<br>
+							<br>
+							
+						JERRY: People don&#146;t turn down money. It&#146;s what separates us from the animals.<br>
+							<br>
+							
+						KRAMER: I still don&#146;t understand what the problem is having her in the building.<br>
+							<br>
+							
+						JERRY: Let me explain something to you. You see, you&#146;re not normal. You&#146;re a great guy, I love you, but you&#146;re a pod. I, on the other hand, am a human being. I sometimes feel awkward, uncomfortable, even inhibited in certain situations with the other human beings. You wouldn&#146;t understand.<br>
+							<br>
+							
+						KRAMER: Because I&#146;m a pod?<br>
+							<br>
+							
+						(George returns from Jerry&#146;s bedroom just as Elaine returns.)<br>
+							<br>
+							
+						ELAINE: I&#146;ll take it!<br>
+							<br>
+							
+						(George turns on his heels, and goes back into Jerry&#146;s room.)<br>
+							<br>
+							<br>
+							<br>
+							
+						INT. ROXANNE&#146;S APARTMENT<br>
+							<br>
+							
+						(Guests are milling around, eating. Elaine enters with Jerry and George. Roxanne greets them.)<br>
+							<br>
+							
+						ROXANNE: Hi, Elaine.<br>
+							<br>
+							
+						ELAINE: Oh, hi, Roxanne. Nice to be here. These are my friends. This is George, and this is Jerry.<br>
+							<br>
+							
+						(Jerry and George greet Roxanne.)<br>
+							<br>
+							
+						JERRY: Hi<br>
+							<br>
+							
+						ELAINE: Jerry&#146;s the one who got me my new apartment.<br>
+							<br>
+							
+						ROXANNE: So, you&#146;re Elaine&#146;s hero.<br>
+							<br>
+							
+						JERRY: Yes, it&#146;s my life&#146;s work.<br>
+							<br>
+							
+						ROXANNE: There are so few true heroes left in this world.<br>
+							<br>
+							
+						GEORGE: Yeah, my wife couldn&#146;t make it today. She&#146;s got something with her mother... Who knows what&#146;s going on with her. Don&#146;t let any one kid you, it&#146;s tough.<br>
+							<br>
+							
+						(George goes off to mingle.)<br>
+							<br>
+							
+						JERRY: Well, better load up on some carbos before the race.<br>
+							<br>
+							
+						(Jerry starts selecting food from the tables.)<br>
+							<br>
+							
+						ROXANNE: Oh, the marathon is great, isn&#146;t it?<br>
+							<br>
+							
+						JERRY: Oh, yes. Particularly if you&#146;re not in it.<br>
+							<br>
+							
+						ROXANNE: I wish we had a view of the finish line.<br>
+							<br>
+							
+						JERRY: What&#146;s to see? A woman from Norway, a guy from Kenya, and twenty thousand losers.<br>
+							<br>
+							
+						(George is talking to a woman, RITA by the couch.)<br>
+							<br>
+							
+						GEORGE: ...yeah, my wife started getting on me about the lawn today. I&#146;m tellin&#146; you, it&#146;s one thing after another.<br>
+							<br>
+							
+						RITA: Is she here?<br>
+							<br>
+							
+						GEORGE: Uh no no, she&#146;s working.<br>
+							<br>
+							
+						RITA: What does she do?<br>
+							<br>
+							
+						GEORGE: She&#146;s an... etymologist. You know, bees, flies, gnats. W-What about you?<br>
+							<br>
+							
+						RITA: I work for the Director of Madison Square Garden. It&#146;s great! I can get free tickets to any sporting in New York. Anyway, she&#146;s a very luck woman. Enjoy the race.<br>
+							<br>
+							
+						(The woman leaves.)<br>
+							<br>
+							
+						GEORGE: (calling after her) But..<br>
+							<br>
+							
+						(STAN and JOANNE enter the apartment.)<br>
+							<br>
+							
+						ROXANNE: Hi Stan. Joanne.<br>
+							<br>
+							
+						ELAINE: Jerry, this is Joanne, and this is Stan. They&#146;re in my short story class with Roxanne and me.<br>
+							<br>
+							
+						JERRY: Hi how are ya?<br>
+							<br>
+							
+						ELAINE: Hey, Jerry just got me a great apartment in his building!<br>
+							<br>
+							
+						JOANNE: Well, Jerry, it&#146;ll be nice having a close friend nearby.<br>
+							<br>
+							
+						JERRY: (no amused) Fantastic.<br>
+							<br>
+							
+						STAN: She can pop in whenever she wants.<br>
+							<br>
+							
+						JERRY: I know.<br>
+							<br>
+							
+						JOANNE: She doesn&#146;t even need to knock!<br>
+							<br>
+							
+						JERRY: It&#146;s tremendous.<br>
+							<br>
+							
+						STAN: Anytime of day.<br>
+							<br>
+							
+						JERRY: I&#146;m in heaven.<br>
+							<br>
+							
+						ELAINE: Oh, Rita come here. This is Jerry. He&#146;s the one who got me the apartment.<br>
+							<br>
+							
+						RITA: Oh, hi. (calling to someone) Bob, this is the guy who got Elaine the apartment.<br>
+							<br>
+							
+						(George is talking to another woman, SUSIE whom he sits next to on the couch.)<br>
+							<br>
+							
+						GEORGE: I&#146;m sorry, I don&#146;t see the big deal about being a matador. The bull charges, you move the cape, what&#146;s so hard?<br>
+							<br>
+							
+						(The both laugh.)<br>
+							<br>
+							
+						SUSIE: So uh, are you really married? Because, I&#146;ve actually heard of single guys who wear wedding bands to attract women.<br>
+							<br>
+							
+						GEORGE: (laughs) You&#146;d have to be a real loser to try something like that.<br>
+							<br>
+							
+						SUSIE: That&#146;s too bad, because I really have a thing for bald guys with glasses.<br>
+							<br>
+							
+						(Susie shrugs, smiles, then leaves George&#146;s side.)<br>
+							<br>
+							
+						RITA: Hey everybody! Here come the runners!<br>
+							<br>
+							
+						(Everyone runs to the windows. Jerry and Elaine stay put.)<br>
+							<br>
+							
+						ELAINE: (to Jerry) So you and Roxanne are hitting it off, huh?<br>
+							<br>
+							
+						JERRY: Oh, I wouldn&#146;t quite say that.<br>
+							<br>
+							
+						ELAINE: Really? From a distance, you seemed to be coming on to her.<br>
+							<br>
+							
+						JERRY: I&#146;m a guy &#150; it always looks like that.<br>
+							<br>
+							
+						ELAINE: Because, I was thinking... are you at all concerned that living in the same building will, y&#146;know... cramp our styles?<br>
+							<br>
+							
+						JERRY: Nah...<br>
+							<br>
+							
+						ELAINE: Because, I was worried that there might be a situation in which one of us come home with somebody, it could get a little uncomfortable. But, as long as you&#146;re okay with it, it&#146;s fine with me.<br>
+							<br>
+							
+						(Jerry opens his mouth to say something, but Elaine leaves. George is now sitting beside JANICE.)<br>
+							<br>
+							
+						JANICE: I&#146;ve never been able to be with just one person. I can, however, carry on strictly physical relationships which can last for years and years. It&#146;s a shame you&#146;re married.<br>
+							<br>
+							
+						(Janice gets up. George frantically tries to take the ring off.)<br>
+							<br>
+							
+						GEORGE: Umm, I&#146;m not. It&#146;s just a sociological experiment!<br>
+							<br>
+							
+						JANICE: Please...<br>
+							<br>
+							
+						(George stands up. She leaves George, who proceeds to the snack table. Jerry walks over to him.)<br>
+							<br>
+							
+						JERRY: You have no idea what an idiot is. Elaine just gave me a chance to get out and I didn&#146;t take it. (pointing to himself) This is an idiot.<br>
+							<br>
+							
+						GEORGE: Is that right? I just threw away a lifetime of guilt-free sex, and floor seats for ever sporting event in Madison Square Garden. So please, a little respect. For I am Costanza: Lord of the Idiots!<br>
+							<br>
+							
+						ROXANNE: (yelling out the window) You&#146;re all winners!<br>
+							<br>
+							
+						GEORGE: But suddenly, a new contender has emerged...<br>
+							<br>
+							<br>
+							<br>
+							
+						INT. JERRY&#146;S APARTMENT &#150; DAY<br>
+							<br>
+							
+						(Jerry is talking on the phone with George.)<br>
+							<br>
+							
+						JERRY: George, I didn&#146;t sleep at all last night. I decided I have to tell her. I&#146;m just going to be honest. That&#146;s all... Yes, I&#146;m nervous... Are you listening to me?... Just put some soap on your finger. It&#146;ll slide right off... Then try axle grease... (Kramer enters; to the phone) I&#146;ll call you back after I talk to her... Bye.<br>
+							<br>
+							
+						KRAMER: Well, it&#146;s all taken care of. Everything&#146;s cool.<br>
+							<br>
+							
+						JERRY: What? What&#146;s cool?<br>
+							<br>
+							
+						KRAMER: Elaine.<br>
+							<br>
+							
+						JERRY: What are you talking about?<br>
+							<br>
+							
+						KRAMER: I just found a guy who&#146;s willing to pay ten thousand dollars for the apartment.<br>
+							<br>
+							
+						JERRY: You what?! Get out! (pushes Kramer) Ten thousand?<br>
+							<br>
+							
+						KRAMER: Cash.<br>
+							<br>
+							
+						JERRY: Who would pay that much?<br>
+							<br>
+							
+						KRAMER: He&#146;s in the music business.<br>
+							<br>
+							
+						JERRY: Elaine would never borrow that much money! (Jerry hugs Kramer, then grabs him by the cheeks.) Kramer, my God, man! This is beautiful! I think I&#146;m in the clear here. Elaine&#146;s not moving in. I don&#146;t have to confront her. She has no idea I never wanted her to move in. I&#146;m golden!<br>
+							<br>
+							
+						KRAMER: Well, occasionally I like to help the humans.<br>
+							<br>
+							<br>
+							<br>
+							
+						INT. JERRY&#146;S APARTMENT &#150; NIGHT<br>
+							<br>
+							
+						(The door to Jerry&#146;s apartment is open. Harold and Manny, and Elaine are there. Pulsing music is emanating through the walls.)<br>
+							<br>
+							
+						ELAINE: Wow. You&#146;re right. That is loud.<br>
+							<br>
+							
+						JERRY: It&#146;s just unbelievable.<br>
+							<br>
+							
+						ELAINE: They rehearse all the time?<br>
+							<br>
+							
+						JERRY: All the time. I&#146;ve been up there six times. They refuse to stop. I can&#146;t live like this. I don&#146;t know what I&#146;m gonna do. I&#146;m heading for breakdown! (to Harold) Can&#146;t you do something?<br>
+							<br>
+							
+						HAROLD: I&#146;m not going up. It stinks up there.<br>
+							<br>
+							
+						JERRY: Manny...<br>
+							<br>
+							
+						MANNY: (in Spanish) They&#146;re allowed to play until eleven o&#146;clock!<br>
+							<br>
+							
+						HAROLD: I&#146;m not the one who said eleven o&#146;clock. He makes up his own rules.<br>
+							<br>
+							
+						ELAINE: Boy, too bad. If I was up there, you&#146;d never hear a peep out of me. I&#146;m as quiet as a mouse.<br>
+							<br>
+							
+						(Kramer enters, and hears the music.)<br>
+							<br>
+							
+						KRAMER: Oh, I love the one they do right after this one! (Starts dancing)<br>
+							<br>
+							<br>
+							<br>
+							
+						INT. COMEDY CLUB &#150; NIGHT<br>
+							<br>
+							
+						(Jerry is on stage, performing.)<br>
+							<br>
+							
+						JERRY: I don&#146;t know. What do you do when a neighbor is making, like, a lot of noise at three o&#146;clock in the morning? I mean, can you knock on someone&#146;s door and tell them to keep it down? You&#146;re really altering your whole self-image. I mean, what am I, Fred Mertz now? What&#146;s happening to me? Can I do this? Am I a shusher? I used to be a shushee. There&#146;s a lot of shushing going on in movie theaters. People are always shushing. &#147;Shh... shh... shhh... shhh...&#148; Doesn&#146;t work, &#145;cause nobody knows where a shush is coming from. They just hear a shh. &#147;Was that a shush? I think somebody just shushed me.&#148; Some people you can&#146;t shush in a movie theater. There&#146;s always that certain group of people, isn&#146;t it? They&#146;re talking and talking, and everyone around them is shushing them, and shushing them. They won&#146;t shush. They&#146;re the unshushables.<br>
+							<br>
+							<br>
+							
+						The End</td>
+						</tr>
+						<tr height="6">
+							<td class="bottom2" width="645" height="6"></td>
+						</tr>
+						<tr>
+							<td width="645">
+								<div align="center">
+									<font size="-1">Copyright 2006 seinology.com | All Rights Reserved | Designed by 13erla</font></div>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+		<p></p>
+	</body>
+
+</html>

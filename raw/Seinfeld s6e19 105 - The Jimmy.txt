@@ -1,0 +1,1277 @@
+<tdOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+<html>
+
+	<head>
+		<meta http-equiv="content-type" content="text/html;charset=ISO-8859-1">
+		<meta name="description" content="Top Source for Seinfeld">
+		<meta name="keywords" content="seinfeld, sienfeld, Jerry Seinfeld, Julia Louis Dreyfus, Jason Alexander, Michael Richards, Kramer, George, Costanza, Elaine Benes, morty, Larry David">
+		<title>Seinology.com :: Scripts :: 105-The Jimmy</title>
+	<link rel='stylesheet' href='/stylesheet.css' type='text/css'>
+	</head>
+
+	<body>
+			<table align="center" width="787" border="0" cellspacing="0" cellpadding="0">
+				<tr>
+					<td><font size="-2" color="red">Seinology.com - </font><font size="-3" color="black">Where Seinfeld Content and Accuracy Matter Most. Seinfeld scripts in pdf form, Seinfeld episode video clips, Seinfeld episode audio clips, Jerry Seinfeld appearances, Julia Louis-Dreyfus appearances, Michael Richards appearances, Jason Alexander appearances, Seinfeld discussion Forum, Seinfeld Where are they Now? Seinlanguage Newsletter, Popular Seinfeld Lists, Seinfeld episode standup, Seinfeld episode guide, Seinfeld fan fiction. Seinfeld content all on one domain. Seinology.com enjoy your stay.</font></td>
+				</tr>
+			</table>
+		
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr height="100">
+				<td class="logo"></td>
+			</tr>
+			<tr><td class="ads" align="center" background=#8694fa>
+				<script type="text/javascript"><!--
+google_ad_client = "pub-1924026976931416";
+google_ad_width = 728;
+google_ad_height = 90;
+google_ad_format = "728x90_as";
+google_ad_type = "text";
+google_ad_channel = "";
+google_color_border = "FFFFFF";
+google_color_bg = "8694fa";
+google_color_link = "0000FF";
+google_color_text = "000000";
+google_color_url = "002E3F";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></td></tr>
+		</table>
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr>
+				<td valign="top" width="136">
+					<table width="136" border="0" cellspacing="0" cellpadding="0">
+						<tr height="24">
+							<td class="navigation">
+								<div align="center">
+									
+									<b>Navigation</b></div>
+							</td>
+						</tr>
+						<tr height="199">
+							<td class="spacer1" valign="top" width="136" height="199">
+								<div align="center">
+									<font size="-1"><a href="http://www.seinology.com">Home</a><br>
+										<a href="http://board.seinology.com">Forum</a><br>
+										<a href="http://www.seinology.com/av.shtml">Audio/Video</a><br>
+										<a href="http://www.seinology.com/scripts.shtml">Scripts</a><br>
+										<a href="http://www.seinology.com/survivor.shtml">Survivor</a><br>
+										<a href="http://www.seinology.com/fanfics.shtml">Fan Fiction</a><br>
+										<a href="http://www.seinology.com/gallery/">Gallery</a><br>
+										<a href="http://www.seinology.com/newsletter.shtml">Newsletter</a><br>
+										<a href="http://www.seinology.com/lists.shtml">Lists</a><br>
+										<a href="http://www.seinology.com/epguide.shtml">Episode Guide</a><br>
+										<a href="http://www.seinology.com/links.shtml">Links</a><br>
+										<a href="http://www.seinology.com/faqother.shtml">Faq + others</a><br>
+										<a href="http://www.seinology.com/legal.shtml">Legal</a></font></div>
+							</td>
+						</tr>
+						
+						<tr>
+							<td class="nav2" width="136">
+							<div align="center"><b>Search</b></div></td>
+						</tr>
+						<tr>
+							<td class="spacer1" width="136" valign="top"><div align="center"><form method="get" action="http://www.seinology.com/search/search.cgi">
+<p><label for="fdse_Match">Match</label><br>
+<select name="Match" id="fdse_Match" size="1">
+<option value="1">All</option>
+<option value="0">Any</option>
+<option value="2">Phrase</option>
+</select></p>
+<p><label for="fdse_Realm">Where?</label><br>
+<select name="Realm" id="fdse_Realm" size="1">
+<option selected="selected" value="All">EntireSite</option>
+<option value="Ep Guide">Ep Guide</option>
+<option value="Images">Images</option>
+<option value="Lists">Lists</option>
+<option value="Newsletters">Newsletters</option>
+<option value="Scripts">Scripts</option>
+<option value="Notes..Nothing">Notes..Nothing</option>
+</select></p>
+<p><input type="text" name="Terms" size="14" id="fdse_Terms"><br>
+<input type="submit" class="submit" name="submitButtonName" value="Search"></p>
+</div></form></td>
+						</tr>
+						<tr><td class="bottom" width="136" height="10" valign="top">
+						</td>
+						</tr>
+					</table>
+				</td>
+				<td width="4"></td>
+				<td valign="top" width="645">
+					<table width="645" border="0" cellspacing="0" cellpadding="0">
+						<tr height="18">
+							<td width="645" height="35" class="bar">
+								<div align="center">
+									<b><font size="+2" color="black">Script</font></b></div>
+							</td>
+						</tr>
+						<tr height="362">
+							<td class="spacer2" valign="top" width="645" height="362">
+
+						<p><font size="-2">Episode 105 - The Jimmy<br>
+							
+						pc: 617, season 6, episode 19<br>
+							
+						Broadcast date: March 16, 1995<br>
+							<br>
+							
+						Written by Gregg Kavet &amp; Andy Robin<br>
+							
+						Directed by Andy Ackerman<br>
+							<br>
+							
+						-------------------------------------------------------------------------------<br>
+							<br>
+							
+						The Cast<br>
+							
+						Regulars:<br>
+							
+						Jerry Seinfeld ....................... Jerry Seinfeld<br>
+							
+						Jason Alexander .................. George Costanza<br>
+							
+						Julia Louis-Dreyfus ............. Elaine Benes<br>
+							
+						Michael Richards ................. Cosmo Kramer<br>
+							<br>
+							
+						Guest Stars:<br>
+							<br>
+							
+						Anthony Starke ................... Jimmy<br>
+							
+						Bryan Cranston ................... Dr. Tim Whatley<br>
+							
+						Robert Katims ..................... DEENSFREI:<br>
+							
+						Mel Torme ........................... Himself<br>
+							
+						Alison Armitage .................. Cheryl<br>
+							
+						J.D. Bridges ......................... Paramedic<br>
+							
+						Elan Carter .......................... Receptionist<br>
+							
+						rc: Richard Herd .................. Wilhelm<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						==================================================================<br>
+							<br>
+							
+						[The New York Health Club. Jerry, Kramer and George are getting dressed]<br>
+							<br>
+							
+						GEORGE: &quot; That guy was amazing, he could dunk and he was my height...What was his name again?&quot;<br>
+							<br>
+							
+						JERRY: &quot;Jimmy&quot;<br>
+							<br>
+							
+						GEORGE: &quot;Jimmy, right.&quot;<br>
+							<br>
+							
+						JERRY: &quot;I dunno how you could forget . He kept reffering to himself in the third person. &quot;Jimmy's under the boards. Jimmy's in the open. Jimmy makes the shot.&quot;<br>
+							<br>
+							
+						GEORGE: &quot;Ah! your just mad 'cause we beat ya.&quot;<br>
+							<br>
+							
+						KRAMER: &quot;Jerry it's my fault .I couldn't make a shot. These losses they stay with me. They (?) Jerry. Now this is gonna plague me.&quot;( Puts on aftershave and cries out) OH! Mother!!!&quot;<br>
+							<br>
+							
+						(Jimmy walks in)<br>
+							<br>
+							
+						GEORGE: &quot;HEY! JIMMY!!! ha ha ha........Great game.&quot;<br>
+							<br>
+							
+						JIMMY: &quot;OH yeah.......Jimmy played pretty good.&quot;<br>
+							<br>
+							
+						GEORGE: &quot;Hey you know , I felt we had like a synergy out there,you know, like we were really helping each other.&quot;<br>
+							<br>
+							
+						KRAMER: &quot;What d'you got there?&quot;<br>
+							<br>
+							
+						JIMMY: &quot;These?&quot;<br>
+							<br>
+							
+						KRAMER: &quot;Yeah&quot;<br>
+							<br>
+							
+						JIMMY: &quot;These are Jimmy's training shoes.&quot;<br>
+							<br>
+							
+						GEORGE: &quot;Yeah,yeah yeah yeah! I've seen these.....they sorta ..they make your legs..stronger.&quot;<br>
+							<br>
+							
+						JIMMY: &quot;Oh yeah! Jimmy couldn't jump at all before he got these. Jimmy was like you (looks at George)<br>
+							<br>
+							
+						KRAMER: &quot;They're Plyometric.(sp?)&quot;<br>
+							<br>
+							
+						GEORGE: &quot;Plyometric?&quot;<br>
+							<br>
+							
+						KRAMER: &quot;Yeah! They isolate the muscles. The muscle has to grow....or die.&quot;<br>
+							<br>
+							
+						GEORGE: (to Jimmy) Wh...Where d'you get'em?&quot;<br>
+							<br>
+							
+						JIMMY: &quot;Jimmy sells'em.&quot;<br>
+							<br>
+							
+						GEORGE: &quot;You sell them?&quot;<br>
+							<br>
+							
+						JIMMY: &quot;Oh yeah! But Jimmy's all out right now. Moving to Manhattan set Jimmy back a bit.&quot;<br>
+							<br>
+							
+						GEORGE: &quot;Hey listen, let me give you my card. It's got my home number on it. I want to buy the first pair when the next shipment comes in.&quot;<br>
+							<br>
+							
+						JIMMY: &quot;All right&quot;<br>
+							<br>
+							
+						GEORGE: &quot;All right Jimmy Good talking to ya.&quot;<br>
+							<br>
+							
+						JIMMY: &quot;Jimmy'll see you around.&quot;<br>
+							<br>
+							
+						(Jimmy leaves.)<br>
+							<br>
+							
+						GEORGE: &quot;What day is today?....Aw. ..Tuesday! Damn it. I shouldn't have worked out today. Mr Wilhem has called a big meeting and now I'm gonna be sweating through the whole thing.&quot;<br>
+							<br>
+							
+						JERRY: &quot;Why. You took a shower?&quot;<br>
+							<br>
+							
+						GEORGE: &quot;Aahhrgh...it wouldn't take...... long pause, audience laughter) ten minutes from now, I'll be sweating all over again ,I can feel it. I'm a human heat pump!&quot;<br>
+							<br>
+							
+						KRAMER: &quot;You should take cold showers.&quot;<br>
+							<br>
+							
+						GEORGE: &quot;Cold showers? They're for psychotics.&quot;<br>
+							<br>
+							
+						KRAMER: &quot;Well I take 'em........They give me a Whooooosh.&quot;<br>
+							<br>
+							
+						GEORGE: &quot;All right, I'll see you guys later.&quot;<br>
+							<br>
+							
+						JERRY: &quot;Aw right.&quot;<br>
+							<br>
+							
+						KRAMER: &quot;So, you're heading home?&quot;<br>
+							<br>
+							
+						JERRY: &quot;No...Got dental appointment.&quot;<br>
+							<br>
+							
+						KRAMER: &quot;Ah! what.. Tim Whatley?<br>
+							<br>
+							
+						JERRY: &quot;Yeah!&quot;<br>
+							<br>
+							
+						KRAMER: &quot;Oh yeah.! I got a check up on Thursday.&quot;<br>
+							<br>
+							
+						JERRY: &quot;Oh! How d'you like that?&quot;<br>
+							<br>
+							
+						KRAMER: &quot;You know.. You really shouldn't brush 24 hours before seeing the dentist.&quot;<br>
+							<br>
+							
+						JERRY: &quot;I think that's eat 24 hours before surgery.&quot;<br>
+							<br>
+							
+						KRAMER: &quot;Oh no, you got to eat before surgery, you need your strength.&quot;<br>
+							<br>
+							
+						(Kramer leaves. Jerry is speechless.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Meeting at Yankee Stadium.]<br>
+							<br>
+							
+						WILHELM: &quot;I called this meeting because we......have........a problem. For the last few months someone has been stealing equipment from the club. Until recently it's been little things, y'know; bases, batting helmets, donuts, but two nights ago they pulled the big one. &quot;<br>
+							<br>
+							
+						(The camera goes back and forth from Wilhem to George who keeps pulling on his collar he's sweating.)<br>
+							<br>
+							
+						WILHELM: &quot;They took a pitching machine, a batting cage ,the in-field tarp and all of Mr Steinbrenner's vitamins.. Now , we have reasons to believe it's an inside job.&quot;<br>
+							<br>
+							
+						GEORGE: (still puffing)&quot; Whoa!!&quot;<br>
+							<br>
+							
+						WILHELM: &quot;If anybody here knows anything about it I recommend strongly that...you come forward.&quot;<br>
+							<br>
+							
+						(Wilhem looks at George who's sweating so much it seems he's hiding something.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Scene cuts to Tim Whatley's dental office.]<br>
+							<br>
+							
+						RECEPTIONIST: &quot;Dr Whatley's running a little late. If you'd like to take a seat, I'll call you when he's ready.&quot;<br>
+							<br>
+							
+						JERRY: &quot;All right.&quot;<br>
+							<br>
+							
+						(Jerry sits down and browses through the magazine on the table and discovers Tim has Penthouse magazines for patients to read.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Scene then switches to Jerry's apartment. Elaine is on the phone.]<br>
+							<br>
+							
+						ELAINE: &quot;Oh! Okay. Right. Thanks Mr Pitt....'kay. ..goodbye.&quot;<br>
+							<br>
+							
+						ELAINE: (to Jerry) &quot;Hey ! You want to go see &quot;The Velvet Fog&quot;.<br>
+							<br>
+							
+						JERRY: &quot;The Velvet fog?&quot;<br>
+							<br>
+							
+						ELAINE: &quot;Yeah! Mel Torm&eacute;, That's his nickname.&quot;<br>
+							<br>
+							
+						JERRY: &quot;What the hell his a velvet fog.&quot;<br>
+							<br>
+							
+						ELAINE: &quot;Do you wanna go or not?&quot;<br>
+							<br>
+							
+						JERRY: &quot;Well , where is it?.&quot;<br>
+							<br>
+							
+						ELAINE: &quot;He's performing at this AMCA benefit.&quot;<br>
+							<br>
+							
+						JERRY: &quot;AMCA?&quot;<br>
+							<br>
+							
+						ELAINE: &quot;Able Mentally Challenged Adults&quot;<br>
+							<br>
+							
+						JERRY: &quot;Naaaaaa...I can't watch a man sing a song.&quot;<br>
+							<br>
+							
+						ELAINE: &quot;What are you..crazy?&quot;<br>
+							<br>
+							
+						JERRY: &quot;They get all emotional , they sway. It's embarrassing.&quot;<br>
+							<br>
+							
+						ELAINE: &quot;Well, what am I gonna do for a date.?...Oh! do you know that ..hemmm! blond guy who's always at the exercycle at the health club?&quot;<br>
+							<br>
+							
+						JERRY: &quot;I don't think so.&quot;<br>
+							<br>
+							
+						ELAINE: &quot;Yeah yeah! He's really handsome with those...&quot;<br>
+							<br>
+							
+						JERRY: (interrupting) &quot;Elaine , I really don't...............pay much attention to men`s faces.&quot;<br>
+							<br>
+							
+						ELAINE: &quot;You can't find beauty in a man?&quot;<br>
+							<br>
+							
+						JERRY: &quot;No... I find them repugnant and unappealing.&quot;<br>
+							<br>
+							
+						(Kramer bursts in)<br>
+							<br>
+							
+						KRAMER: &quot;Hey!&quot;<br>
+							<br>
+							
+						JERRY: (pointing Kramer) &quot;To wit&quot;<br>
+							<br>
+							
+						KRAMER: &quot;What?&quot;<br>
+							<br>
+							
+						JERRY: &quot;No ,Elaine and I we're just discussing whether I could admit a man is attractive.&quot;<br>
+							<br>
+							
+						KRAMER: &quot; Hmm! Oh! Yeah. I'll tell you who is an attractive man; Gorge Will.&quot;<br>
+							<br>
+							
+						JERRY: &quot;Really!&quot;<br>
+							<br>
+							
+						KRAMER: &quot;Yeah! He has clean looks, scrubbed and shampooed and....&quot;<br>
+							<br>
+							
+						ELAINE: &quot;He's smart....&quot;<br>
+							<br>
+							
+						KRAMER: &quot;No, no I don't find him all that bright.&quot;<br>
+							<br>
+							
+						KRAMER: &quot;So you got any cavities?&quot;<br>
+							<br>
+							
+						JERRY: &quot;Just one....gotta go back.....Oh but get this. Elaine, you will appreciate this. I'm sitting in Tim Whatley's waiting room...He's got a Penthouse right out on the table.&quot;<br>
+							<br>
+							
+						ELAINE: &quot;Penthouse?&quot;<br>
+							<br>
+							
+						JERRY: &quot;Yeah!!! What is that? I mean isn't that sick. I mean , I'd be embarrassed to have that in my apartment.&quot;<br>
+							<br>
+							
+						KRAMER: &quot;So what's wrong with that?<br>
+							<br>
+							
+						JERRY: (outraged) He's a doctor!.I mean it's supposed to be like a sterile environment.&quot;<br>
+							<br>
+							
+						KRAMER: &quot;So... Did you take a look?&quot;<br>
+							<br>
+							
+						JERRY: &quot;Of course.... But that's got nothing to do with it.&quot;<br>
+							<br>
+							
+						KRAMER: &quot;Well I'll tell you I'm looking forward to my appointment on Thursday. I might even get there a few minutes early.&quot;<br>
+							<br>
+							
+						(George comes in. Kramer walks out.)<br>
+							<br>
+							
+						GEORGE: &quot;Hey&quot;<br>
+							<br>
+							
+						ELAINE: &quot;Hey! Hey! listen ... Do one of you guys know that ..that blond guy who's always on the exercycle at the health club. You know he's just really handsome?..&quot;<br>
+							<br>
+							
+						GEORGE: (head down low) I...I wouldn't know&quot;<br>
+							<br>
+							
+						ELAINE: &quot;You know that just admitting a man is handsome doesn't necessarily make you a homosexual.&quot;<br>
+							<br>
+							
+						GEORGE: &quot;It doesn't help&quot;<br>
+							<br>
+							
+						ELAINE: &quot;All right, I'm gone&quot;<br>
+							<br>
+							
+						GEORGE: &quot;I'll see you.&quot;<br>
+							<br>
+							
+						GEORGE: (to Jerry) &quot;You know those shoes that Jimmy had? I cut a deal with him. We're gonna import a case of them together.&quot;<br>
+							<br>
+							
+						JERRY: &quot;What are you doing that for, you got a job&quot;<br>
+							<br>
+							
+						GEORGE: &quot;There's a lot of money in this.. He's got a proven sales method&quot;<br>
+							<br>
+							
+						JERRY: &quot; Yeah! What's that.&quot;<br>
+							<br>
+							
+						GEORGE: &quot;He jumps!&quot;<br>
+							<br>
+							
+						JERRY: &quot;Jimmy's got a record. Jimmy's jumping for dollars. Jimmt and George are gonna get rich.&quot;<br>
+							<br>
+							
+						GEORGE: &quot;Will you stop with the Jimmies&quot;<br>
+							<br>
+							
+						Kramer takes something out of the fridge<br>
+							<br>
+							
+						KRAMER: &quot;Hey! What's this?&quot;<br>
+							<br>
+							
+						JERRY: &quot;Kom Pau(sp?&quot;<br>
+							<br>
+							
+						(Kramer tastes the chicken but realizes too late how hot and spicy it is)<br>
+							<br>
+							
+						KRAMER: &quot;(gasp_)......Kom Pau........&quot;<br>
+							<br>
+							<br>
+							<br>
+							
+						[Elaine at the health club trying to attract the handsome blond guy's attention.]<br>
+							<br>
+							
+						ELAINE: (We hear what she thinks) Look at me....Look at Mee!. Come on. I'm stretching right in front of you. Heeeey!! ...a smile. Aah! we made contact, all right one more stretch and then go talk to him.<br>
+							<br>
+							
+						(Hank leaves as she's ready to make her move. Elaine turns to try to find out where he could be and stops when she takes notice of Jimmy.)<br>
+							<br>
+							
+						JIMMY: &quot;You know...Jimmy is pretty sweet on you.&quot;<br>
+							<br>
+							
+						ELAINE: &quot;Aaaaaahhh! He is?!&quot;<br>
+							<br>
+							
+						JIMMY: &quot;Oh yeah!. Jimmy's been watching you....you're just Jimmy's type.&quot;<br>
+							<br>
+							
+						ELAINE: &quot;AAaaaaahhh! Really?&quot;(giggles)<br>
+							<br>
+							
+						JIMMY: &quot;Jimmy's new in town. Jimmy hem ..doesn't really know anyone.&quot;<br>
+							<br>
+							
+						ELAINE: &quot;Oh! well I'd like, like to get to know him.&quot;<br>
+							<br>
+							
+						JIMMY: &quot;Jimmy would like to get to know you.&quot;<br>
+							<br>
+							
+						ELAINE: &quot;Ha....&quot;<br>
+							<br>
+							<br>
+							<br>
+							
+						[Scene cuts to Tim Whatley's office. Kramer is in the chair.]<br>
+							<br>
+							
+						WHATLEY: &quot;Hey! Kramer&quot;<br>
+							<br>
+							
+						KRAMER: &quot;Boy , you're looking sharp there Tim.&quot;<br>
+							<br>
+							
+						WHATLEY: &quot;Yeah Well....I do what I can. How've you been.&quot;<br>
+							<br>
+							
+						KRAMER: &quot;Euh.. Fine , good , yeah! Just been occupying myself with some of your....hem reading material.&quot;<br>
+							<br>
+							
+						WHATLEY: &quot;So what'ill it be? Novocaine?&quot;<br>
+							<br>
+							
+						KRAMER: &quot;Oh yes, yes indeed.&quot;<br>
+							<br>
+							
+						WHATLEY: &quot;Why don't we just clear a path first.&quot;<br>
+							<br>
+							
+						KRAMER: &quot;yeah, yeah, lets do that.&quot;<br>
+							<br>
+							
+						WHATLEY: &quot;You remember Mr. Thirsty.&quot;<br>
+							<br>
+							
+						KRAMER: &quot;All right euhhm.....&quot;<br>
+							<br>
+							
+						(Whatley puts the suction device in Kramer's mouth and loud suctions sounds are heard.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Scene then cuts back to the health club where Kramer is trying the vertical lift shoes.]<br>
+							<br>
+							
+						JERRY: &quot;Ahh! You too with these?&quot;<br>
+							<br>
+							
+						KRAMER: (still under the effects of the Novocaine slurrs his words heavily) &quot;Yeah H'amon board.&quot;<br>
+							<br>
+							
+						JERRY: &quot;So what did Tim say?&quot;<br>
+							<br>
+							
+						KRAMER: &quot;Wellhum....He th'aid I gotta cut out the SsssfKittles.&quot;<br>
+							<br>
+							
+						JERRY: &quot;Looks like he gave you some Novocaine&quot;<br>
+							<br>
+							
+						KRAMER: &quot;Ohhh H'am loaded.&quot;<br>
+							<br>
+							
+						JERRY: &quot;So what about the Penthouse. Did you ask him?&quot;<br>
+							<br>
+							
+						KRAMER: &quot;Well he said that humm.. you know.that it helps his pathients relax a little bit..and he's got a new polithy: Adults only.&quot;<br>
+							<br>
+							
+						JERRY: &quot;Adults only?&quot;<br>
+							<br>
+							
+						KRAMER: &quot;Yeah!!!&quot;<br>
+							<br>
+							
+						JERRY: &quot;What the hell's going on over there?&quot;<br>
+							<br>
+							
+						KRAMER: &quot;Well you know its.. great. You know, no kids ..allowed. you don't have to watch your language.&quot;<br>
+							<br>
+							
+						JERRY: &quot;You find you need to use a lot of obscenities at the dentist.<br>
+							<br>
+							
+						KRAMER: &quot;He..he... When they pull that needle out I let the expletives fly.&quot;<br>
+							<br>
+							
+						(Kramer reaches for a glass of water and drinks but manages to have it spill out on to the floor)<br>
+							<br>
+							
+						JERRY: &quot;Hey! Hey! Watch it.!... You're drooling all over the floor. How much Novocaine did that guy give you.&quot;<br>
+							<br>
+							
+						KRAMER: &quot;Well.. Aye can't hold the water.&quot;<br>
+							<br>
+							
+						(Jimmy comes in dribbling.)<br>
+							<br>
+							
+						JIMMY: &quot;Oh yeah!! ... Jimmy's ready.&quot;<br>
+							<br>
+							
+						KRAMER: &quot;Hey Jimmy&quot;<br>
+							<br>
+							
+						GEORGE: &quot;Ha..harrr.&quot;<br>
+							<br>
+							
+						JIMMY: &quot;Jimmy's got some new moves.&quot;<br>
+							<br>
+							
+						KRAMER: &quot;Go Jimmy&quot;<br>
+							<br>
+							
+						JIMMY: 'Check Jimmy out&quot;<br>
+							<br>
+							
+						(Jimmy slips on Kramer's puddle and falls on his back)<br>
+							<br>
+							
+						JIMMY: &quot;Ooohhh!!!!! JIMMY'S DOWN.&quot;<br>
+							<br>
+							
+						(paramedics and Jimmy on a stretcher.)<br>
+							<br>
+							
+						PARAMEDIC: (missing a few words) ......was gonna be in traction.&quot;<br>
+							<br>
+							
+						JIMMY: &quot;Jimmy might have a compound fracture.. Jimmy's going into shock!!&quot;<br>
+							<br>
+							
+						GEORGE: (angrily)&quot;WHY WEREN'T YOU MORE CAREFUL WITH YOUR DROOL!&quot;<br>
+							<br>
+							
+						KRAMER: &quot;HEY I'M DOING THE BEST I CAN!!!&quot;<br>
+							<br>
+							
+						JERRY: &quot;Why are you taking this so personally?&quot;<br>
+							<br>
+							
+						GEORGE: &quot;BECAUSE IF HE CAN'T JUMP. THERE GOES MY SNEAKER BUSINESS!!&quot;<br>
+							<br>
+							
+						KRAMER: (cries out) WELL I SAID I'M SORRY.&quot;<br>
+							<br>
+							
+						JIMMY: (as he gets taken out) &quot;JIM....JIMMY WONT FORGET YOU KRAMER... JIMMY HOLDS GRUDGES. LET JIMMY GO......&quot;<br>
+							<br>
+							
+						KRAMER: &quot;BUT I CAN'T FEEL ANYTHING.&quot;<br>
+							<br>
+							<br>
+							<br>
+							
+						[Kramer is seen running down the street with his vertical lift shoes. He's trying to hail a cab.]<br>
+							<br>
+							
+						KRAMER: &quot;HEY TAXI!!!.....TAXI!!&quot;<br>
+							<br>
+							
+						(An elderly gentleman is after the same taxi.)<br>
+							<br>
+							
+						KRAMER: &quot;Go ahead, go ahead you got it......(to the driver) He's got it.&quot;<br>
+							<br>
+							
+						(The man is looking him up and down, noticing the shoes and the slurred speech.)<br>
+							<br>
+							
+						DEENSFREI: (slowly) Oh! Please, go ahead take it<br>
+							<br>
+							
+						KRAMER: &quot;No,No...You were here first.&quot;<br>
+							<br>
+							
+						DEENSFREI: No. No I..I insist. I'll grab the next one.&quot;<br>
+							<br>
+							
+						KRAMER: &quot;Lets share.. we share....Awight&quot;<br>
+							<br>
+							
+						DEENSFREI: &quot;Yes ! Splendid. That's a great idea.&quot;<br>
+							<br>
+							
+						(Kramer bumps his head as he gets into the cab)<br>
+							<br>
+							
+						DEENSFREI: &quot;My name is Arnold DEENSFREI:. What is your name?&quot;<br>
+							<br>
+							
+						KRAMER: &quot;Eh!! Cosmo Kramer. Nice to meet you&quot;<br>
+							<br>
+							
+						DEENSFREI: &quot;Very nice to meet you Cosmo. Are you heading home?<br>
+							<br>
+							
+						KRAMER: (like rainman)&quot;Yeah! heading home.&quot;<br>
+							<br>
+							
+						DEENSFREI: &quot;Good for you.....You are really independant.&quot;<br>
+							<br>
+							
+						KRAMER: &quot;Yeaheum ... You're not doing too bad yourself&quot;<br>
+							<br>
+							<br>
+							<br>
+							
+						[In a sporting goods store, George tries to make a sale. He is putting on the shoes.]<br>
+							<br>
+							
+						GEORGE: &quot;Argh!!..Anyway...Jimmy couldn't be here today so he asked me to fill in for him, and I'm sure that you'll be impressed at what can be accomplished after only a few short days of training.....yeah!&quot;<br>
+							<br>
+							
+						(George tries three times to jump but barely lifts a couple of inches off the ground. The store personnel gets uninterested quickly and leave.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Scene cuts to Jerry's apartment.]<br>
+							<br>
+							
+						KRAMER: (whose voice has returned to normal)&quot; THE VELVET FOG!!!!&quot;<br>
+							<br>
+							
+						JERRY: &quot;What about the Velvet Fog ?&quot;<br>
+							<br>
+							
+						ELAINE: (as she comes in) &quot;What about the Velvet Fog?&quot;<br>
+							<br>
+							
+						KRAMER: &quot;Well...He's singing at a benefit and I'm gonna be sitting at his table.&quot;<br>
+							<br>
+							
+						ELAINE: &quot;I'm going to that!&quot;<br>
+							<br>
+							
+						KRAMER: &quot;I'm a guest of honor.&quot;<br>
+							<br>
+							
+						ELAINE: &quot;What are you talking about?&quot;<br>
+							<br>
+							
+						KRAMER: &quot;Well this afternoon I shared a cab with this...a hum..DEENSFREI:.&quot;<br>
+							<br>
+							
+						ELAINE: &quot;Yeah, yeah! Arnold DEENSFREI:, he runs the AMCA &quot;<br>
+							<br>
+							
+						KRAMER: &quot;Yeah! well ..that's the guy .He's organizing the dinner.&quot;<br>
+							<br>
+							
+						ELAINE: &quot;I know that but why are you going?&quot;<br>
+							<br>
+							
+						KRAMER: &quot;Well, because we hit it off and he was very impressed with what I do.&quot;<br>
+							<br>
+							
+						ELAINE: &quot;What you do!!. You don't do anything.&quot;<br>
+							<br>
+							
+						KRAMER: &quot;Well apparently I do something 'cause I'm sitting at the head table with Mr. Mel Torm&eacute;<br>
+							<br>
+							
+						(Kramer sits on the couch and puts his feet up on the coffee table.)<br>
+							<br>
+							
+						ELAINE: (pointing at the shoes) &quot;What are those?&quot;<br>
+							<br>
+							
+						KRAMER: &quot;Ehmm ..These are my vertical leap training shoes.&quot;<br>
+							<br>
+							
+						JERRY: &quot;Wait a second ..Where you wearing those shoes in the cab?&quot;<br>
+							<br>
+							
+						KRAMER: &quot;Yeah! yeah! right after I left the Y.&quot;<br>
+							<br>
+							
+						JERRY: &quot;Don't you see what's happened, he couldn't talk , he's wearing these shoes, he's drooling.&quot;<br>
+							<br>
+							
+						KRAMER: &quot;What!!!&quot;<br>
+							<br>
+							
+						ELAINE: &quot;He thinks you're mentally challenged.&quot;<br>
+							<br>
+							
+						JERRY: &quot;Well...........you know.....&quot;<br>
+							<br>
+							
+						ELAINE: &quot;Well ,what happens when you show up . He'll see that you're not.?&quot;<br>
+							<br>
+							
+						JERRY: &quot;Not necessarily because.....&quot;<br>
+							<br>
+							<br>
+							<br>
+							
+						[Scene cuts back to Tim Whatley's dental office. Jerry is sitting in the chair.]<br>
+							<br>
+							
+						WHATLEY: &quot;Sheryl, would you ready the Nitro(???) please?&quot;<br>
+							<br>
+							
+						(Whatley inhales the gas mask before handing it over to Jerry.)<br>
+							<br>
+							
+						JERRY: &quot;Oh! where's Jennifer today?&quot;<br>
+							<br>
+							
+						WHATLEY: &quot;OH!! She's over at Dr.Cessman's office. We find it fun to swap now and then.&quot;<br>
+							<br>
+							<br>
+							<br>
+							
+						[Cuts to Yankee Stadium. George is sitting at his desk eating Kam Pau chicken.]<br>
+							<br>
+							
+						GEORGE: &quot;Whhhoooo!!!!&quot;(taps on his desk loudly)<br>
+							<br>
+							
+						(Phone rings.)<br>
+							<br>
+							
+						GEORGE: &quot;Arrrrrrgh!! .. It's George.. Oh! Sports wholesaler. yeah. yeah. .. thanks for calling back. No , no , no still got the shoes, still got the shoes. Lots of them. This is.. beautiful athletic gear.&quot;<br>
+							<br>
+							
+						(Wilhelm enters the office as George is talking on the phone. He seems suspicious.)<br>
+							<br>
+							
+						GEORGE: &quot;.....Well. I'm sorry. Call you right back.&quot;<br>
+							<br>
+							
+						WILHELM: &quot;So George. Have you heard anything about the missing equipment?&quot;<br>
+							<br>
+							
+						GEORGE: &quot;No!...not...nothing.&quot;<br>
+							<br>
+							
+						WILHELM: &quot;George, there's nothing I hate more than a liar.&quot;<br>
+							<br>
+							
+						GEORGE: &quot;Well...there's no room for someone like that in this organization.&quot;<br>
+							<br>
+							
+						WILHELM: &quot;Are you feeling all right George?&quot;<br>
+							<br>
+							
+						GEORGE: &quot;Hemmm!.. Fine!&quot;<br>
+							<br>
+							
+						WILHELM: &quot;You look a little warm.&quot;<br>
+							<br>
+							
+						GEORGE: &quot;...It's the chicken&quot;<br>
+							<br>
+							
+						WILHELM: &quot;You're a terrible liar George. Look at you, you're a wreck!. you're sweating bullets.&quot;<br>
+							<br>
+							
+						GEORGE: &quot;It's the Kom Pau ... George likes his chicken spicy.&quot;<br>
+							<br>
+							<br>
+							<br>
+							
+						[Back in Tim Whatleys office..Jerry wakes up , his vision blurred. He sees Whatley and Sheryl getting dressed.]<br>
+							<br>
+							<br>
+							<br>
+							
+						[Scene cuts to Monks. Jerry and Elaine are talking.]<br>
+							<br>
+							
+						ELAINE: &quot;....Maybe you were still under the gas.Maybe you were hallucinating you're coming out of the gas but you were still under the gas.&quot;<br>
+							<br>
+							
+						JERRY: &quot;I don't think so. I think they were getting dressed and not only that; my shirt was out!!!&quot;<br>
+							<br>
+							
+						ELAINE: &quot;your shirt was out?&quot;<br>
+							<br>
+							
+						JERRY: &quot;I think so.&quot;<br>
+							<br>
+							
+						ELAINE: &quot;Well, what kind of shirt was it.?&quot;<br>
+							<br>
+							
+						JERRY: &quot;You know! Like a tennis shirt.&quot;<br>
+							<br>
+							
+						ELAINE: &quot;Oh! Well ... You don't tuck those in?&quot;<br>
+							<br>
+							
+						JERRY: &quot;Sometimes I tuck'em sometimes I don't&quot;<br>
+							<br>
+							
+						ELAINE: &quot;Well. Were you tucked?&quot;<br>
+							<br>
+							
+						JERRY: &quot;I think I was tucked.!&quot;<br>
+							<br>
+							
+						ELAINE: &quot;All right then say you were. I mean .. what do you think could have happened.?&quot;<br>
+							<br>
+							
+						JERRY: &quot;I don't know but I was spitting out and rinsing like there was no tomorrow.&quot;<br>
+							<br>
+							
+						ELAINE: &quot;Ughhhh&quot;<br>
+							<br>
+							
+						JERRY: &quot;Is this guy a dentist or Caligula?&quot;<br>
+							<br>
+							
+						ELAINE: &quot;What are you gettin'?&quot;<br>
+							<br>
+							
+						JERRY: &quot;I don't think I'm hungry:&quot;<br>
+							<br>
+							
+						ELAINE: &quot;Okay...So you were violated by two people while you were under the gas. So What? You're single.&quot;<br>
+							<br>
+							
+						JERRY: &quot; But I'm damaged goods now.&quot;<br>
+							<br>
+							
+						ELAINE: &quot;Join the club.&quot;<br>
+							<br>
+							
+						JERRY: &quot;Hey, by the way, did you ever call that guy from the health club.?&quot;<br>
+							<br>
+							
+						ELAINE: &quot;Oh yeah! Jimmy.&quot;<br>
+							<br>
+							
+						JERRY: &quot;Jimmy?<br>
+							<br>
+							
+						ELAINE: &quot;Ahum!&quot;<br>
+							<br>
+							
+						JERRY: &quot;That's the guy?&quot;<br>
+							<br>
+							
+						ELAINE: &quot;Yeah!&quot;<br>
+							<br>
+							
+						JERRY: &quot;Can't believe your going out with him...&quot;<br>
+							<br>
+							
+						ELAINE: &quot;Why?&quot;<br>
+							<br>
+							
+						JERRY: &quot;I dunno. He's so strange.'<br>
+							<br>
+							
+						ELAINE: &quot;How so?&quot;<br>
+							<br>
+							
+						JERRY: &quot;Did you notice he always refer to himself in the third person. Jimmy can dunk. Jimmy's new in town. Jimmy we'll see you later.&quot;<br>
+							<br>
+							
+						ELAINE: &quot;No No... That's not him. That's the guy who gave me... Jimmy's number.&quot;<br>
+							<br>
+							
+						JERRY: &quot;That's Jimmy. That's the way he talks.&quot;<br>
+							<br>
+							
+						ELAINE: &quot;I'm going to go see Mel Torm&eacute; with him?&quot;<br>
+							<br>
+							
+						JERRY: &quot;Jimmy's gonna put the moves on Elaine..&quot;<br>
+							<br>
+							
+						(George comes in and sits down with them)<br>
+							<br>
+							
+						GEORGE: &quot;I have to go see Steinbrenner later. Mr Wilhelm told him that I was the one responsable for stealing all the merchandise.&quot;<br>
+							<br>
+							
+						JERRY: &quot;Why?&quot;<br>
+							<br>
+							
+						GEORGE: &quot;'Cause when he questioned me about it I was sweating from the Kom Pau..&quot;<br>
+							<br>
+							
+						JERRY: &quot;I don't know how you can eat that spicy chicken,&quot;<br>
+							<br>
+							
+						GEORGE: &quot;George likes spicy chicken.&quot;<br>
+							<br>
+							
+						JERRY: &quot;What's that?&quot;<br>
+							<br>
+							
+						GEORGE: &quot;....I like spicy chicken&quot;<br>
+							<br>
+							
+						JERRY: &quot;No no you said George likes spicy chicken.&quot;<br>
+							<br>
+							
+						GEORGE: &quot;No I didn't&quot;<br>
+							<br>
+							
+						ELAINE: &quot;Yes you did you said George likes spicy chicken..<br>
+							<br>
+							
+						JERRY: &quot;You're turning in to Jimmy.&quot;<br>
+							<br>
+							
+						GEORGE: &quot;George is getting upset..&quot;<br>
+							<br>
+							<br>
+							<br>
+							
+						[Back at the health club Elaine meets Jimmy who is wearing crutches.]<br>
+							<br>
+							
+						JIMMY: &quot;So what do you want to see Jimmy about?&quot;<br>
+							<br>
+							
+						ELAINE: &quot;Well.... (pointing at him) Jimmy!&quot;<br>
+							<br>
+							
+						JIMMY: &quot;Huh uh...&quot;<br>
+							<br>
+							
+						ELAINE: &quot;About tonight hum.. there's been a little misunderstanding.&quot;<br>
+							<br>
+							
+						JIMMY: &quot;Ah! ... Jimmy doesn't like misunderstanding.&quot;<br>
+							<br>
+							
+						ELAINE: &quot;Yeah. What happened was....&quot;<br>
+							<br>
+							
+						JIMMY: &quot;Jimmy and misunderstanding kinda clash.&quot;<br>
+							<br>
+							
+						ELAINE: (suddenly intrigued) &quot;You know, I've never heard anyone talk the way you do. It's very unusual.&quot;<br>
+							<br>
+							
+						JIMMY: &quot;Well, Jimmy's very unusual.&quot;<br>
+							<br>
+							
+						ELAINE: &quot;Well anyway hum.... see when I made the date, I thought that Jimmy......&quot;<br>
+							<br>
+							
+						JIMMY: &quot;Hey look. Hank's got a new boyfriend. Jimmy's not threatened by Hanks sexuality ... Jimmy's happy for Hank.&quot;<br>
+							<br>
+							
+						ELAINE: &quot;Elaine once tried to convert one but Elaine's not going through that again.&quot;<br>
+							<br>
+							<br>
+							<br>
+							
+						[Scene cuts to The Marriot for the benefit.]<br>
+							<br>
+							
+						KRAMER: &quot;I'm going to try and find some candy. You want some?&quot;<br>
+							<br>
+							
+						ELAINE: &quot;Yeah!&quot;<br>
+							<br>
+							
+						KRAMER: &quot;What kind?&quot;<br>
+							<br>
+							
+						ELAINE: &quot;I don't care:&quot;<br>
+							<br>
+							
+						(Jimmy walks in)<br>
+							<br>
+							
+						ELAINE: &quot;Hey Jimmy!!&quot;<br>
+							<br>
+							
+						JIMMY: &quot;I Elaine.&quot;<br>
+							<br>
+							
+						ELAINE: &quot;Elaine got a new dress.&quot;<br>
+							<br>
+							
+						JIMMY: &quot;Jimmy likes it.&quot;<br>
+							<br>
+							
+						KRAMER: &quot;There's no candy around here. hey! Jimmy.&quot;<br>
+							<br>
+							
+						JIMMY: &quot;Well look who's here.&quot;<br>
+							<br>
+							
+						KRAMER: &quot;Whooo!&quot;<br>
+							<br>
+							
+						JIMMY: &quot;That's the guy who sidelined Jimmy.&quot;<br>
+							<br>
+							
+						KRAMER: &quot;What!&quot;<br>
+							<br>
+							
+						JIMMY: &quot;That's the guy who took the bread out of Jimmy's mouth. Jimmy's out of work because of you..<br>
+							<br>
+							
+						(Jimmy punches Kramer in the mouth.)<br>
+							<br>
+							
+						JIMMY: &quot;Jimmy wants a piece of Kramer..(fighting ensues and Jimmy gets taken out by hotel security)<br>
+							<br>
+							
+						JIMMY: &quot;JIMMY'S GONNA GET YOU KRAMER!!. HANDS OFF JIMMY!!. DON'T TOUCH<br>
+							<br>
+							
+						JIMMY!! LET GO OF JIMMY!!!&quot;<br>
+							<br>
+							
+						KRAMER: (Keamer's voice starts slurring again) &quot;Yeah! My lips swollen?&quot;<br>
+							<br>
+							
+						(Kramer sitting at the head table.)<br>
+							<br>
+							
+						KRAMER: &quot;No No I've been living alone a long time now.&quot;<br>
+							<br>
+							
+						MEL: &quot;Well I think that's the tops.&quot;<br>
+							<br>
+							<br>
+							<br>
+							
+						[We cut back to Yankee stadium in George Steinbrenners office.]<br>
+							<br>
+							
+						GEORGE: (knocks) You hem... wanted to see me Mr. Steinbrenner?&quot;<br>
+							<br>
+							
+						STEIN: &quot;Yes George, come in ,come in. You know George I've been your biggest supporter around here and thats why I was so disappointed to hear that you been pilfering the equipment.&quot;<br>
+							<br>
+							
+						GEORGE: &quot;George would never do anything like that.&quot;<br>
+							<br>
+							
+						STEIN: 'No why would I. I own it.&quot;<br>
+							<br>
+							
+						GEORGE: &quot;Right!&quot;<br>
+							<br>
+							
+						STEIN: &quot;So what are you saying?&quot;<br>
+							<br>
+							
+						GEORGE: &quot;Why would George steal from the Yankees?&quot;<br>
+							<br>
+							
+						STEIN: 'He wouldn't.&quot;<br>
+							<br>
+							
+						GEORGE: &quot; 'course not&quot;<br>
+							<br>
+							
+						STEIN: &quot;Exactly..................(mumbles) I don't what the hell's going on here.&quot;<br>
+							<br>
+							
+						GEORGE: &quot;Sir?&quot;<br>
+							<br>
+							
+						STEIN: &quot;Nothing.&quot;<br>
+							<br>
+							
+						GEORGE: (energetically) &quot;Well seems it's about time for George's lunch.&quot;<br>
+							<br>
+							
+						STEIN: &quot;Yes it is. Well lets see what I have today. Darn it It's ham &amp; Cheese again and she forgot the fancy mustard. I told her I like that fancy mustard. You could put that fancy mustard on a shoe and it would taste pretty good to me. oh! she made it up with a cupcake though. Hey look at this. you know I got a new system for eating these things. `I used to peel off the chocolate now I turn them upside down , I eat the cake first and save the frosting for the end. (George stops listening and It's almost like its own dessert.............<br>
+							<br>
+							<br>
+							<br>
+							
+						[Scene fades and we go back to the AMCA benefit.]<br>
+							<br>
+							
+						MEL: &quot;Ladies and gentlemen....I want to dedicate this song to a very courageous young man. (starts singing) &quot;When you're smiling, When you're smiling... The whole world smiles with you... When you're laughin', When you're laughin' The sun comes shining through But when you're crying, You bring on the rain So stop that sign. Be happy again Keep on smiling , 'cause when you're smiling The whole world smiles with yooooouuuuuuu The whole world smiles with (with Kramer)yooooouuuuuuu..<br>
+							<br>
+							<br>
+							<br>
+							
+						[On the street Jerry and Kramer.]<br>
+							<br>
+							
+						KRAMER: &quot;Hey! Got the new Penthouse&quot;<br>
+							<br>
+							
+						JERRY: &quot;Where's my Mr. Goodbar?&quot;<br>
+							<br>
+							
+						KRAMER: &quot; Ah! here here Listen...Dear Penthouse, I want to tell you about an experience I recently had. As an avid reader I've always wondered if the letters (with Jerry) are I'm a dentist and one afternoon my hygienist and I decided to have a little fun with one of our patients. Of course none of our patients had any idea exactly of what we were up to. I was still wondering what if ......... (Jerry stops and seems bewildered)<br>
+							<br>
+							
+						&nbsp;<br>
+							
+						The End </td>
+						</tr>
+						<tr height="6">
+							<td class="bottom2" width="645" height="6"></td>
+						</tr>
+						<tr>
+							<td width="645">
+								<div align="center">
+									<font size="-1">Copyright 2006 seinology.com | All Rights Reserved | Designed by 13erla</font></div>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+		<p></p>
+	</body>
+
+</html>

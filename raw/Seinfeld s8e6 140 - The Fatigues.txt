@@ -1,0 +1,1230 @@
+<tdOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+<html>
+
+	<head>
+		<meta http-equiv="content-type" content="text/html;charset=ISO-8859-1">
+		<meta name="description" content="Top Source for Seinfeld">
+		<meta name="keywords" content="seinfeld, sienfeld, Jerry Seinfeld, Julia Louis Dreyfus, Jason Alexander, Michael Richards, Kramer, George, Costanza, Elaine Benes, morty, Larry David">
+		<title>Seinology.com :: Scripts :: 140-The Fatigues</title>
+	<link rel='stylesheet' href='/stylesheet.css' type='text/css'>
+	</head>
+
+	<body>
+			<table align="center" width="787" border="0" cellspacing="0" cellpadding="0">
+				<tr>
+					<td><font size="-2" color="red">Seinology.com - </font><font size="-3" color="black">Where Seinfeld Content and Accuracy Matter Most. Seinfeld scripts in pdf form, Seinfeld episode video clips, Seinfeld episode audio clips, Jerry Seinfeld appearances, Julia Louis-Dreyfus appearances, Michael Richards appearances, Jason Alexander appearances, Seinfeld discussion Forum, Seinfeld Where are they Now? Seinlanguage Newsletter, Popular Seinfeld Lists, Seinfeld episode standup, Seinfeld episode guide, Seinfeld fan fiction. Seinfeld content all on one domain. Seinology.com enjoy your stay.</font></td>
+				</tr>
+			</table>
+		
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr height="100">
+				<td class="logo"></td>
+			</tr>
+			<tr><td class="ads" align="center" background=#8694fa>
+				<script type="text/javascript"><!--
+google_ad_client = "pub-1924026976931416";
+google_ad_width = 728;
+google_ad_height = 90;
+google_ad_format = "728x90_as";
+google_ad_type = "text";
+google_ad_channel = "";
+google_color_border = "FFFFFF";
+google_color_bg = "8694fa";
+google_color_link = "0000FF";
+google_color_text = "000000";
+google_color_url = "002E3F";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></td></tr>
+		</table>
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr>
+				<td valign="top" width="136">
+					<table width="136" border="0" cellspacing="0" cellpadding="0">
+						<tr height="24">
+							<td class="navigation">
+								<div align="center">
+									
+									<b>Navigation</b></div>
+							</td>
+						</tr>
+						<tr height="199">
+							<td class="spacer1" valign="top" width="136" height="199">
+								<div align="center">
+									<font size="-1"><a href="http://www.seinology.com">Home</a><br>
+										<a href="http://board.seinology.com">Forum</a><br>
+										<a href="http://www.seinology.com/av.shtml">Audio/Video</a><br>
+										<a href="http://www.seinology.com/scripts.shtml">Scripts</a><br>
+										<a href="http://www.seinology.com/survivor.shtml">Survivor</a><br>
+										<a href="http://www.seinology.com/fanfics.shtml">Fan Fiction</a><br>
+										<a href="http://www.seinology.com/gallery/">Gallery</a><br>
+										<a href="http://www.seinology.com/newsletter.shtml">Newsletter</a><br>
+										<a href="http://www.seinology.com/lists.shtml">Lists</a><br>
+										<a href="http://www.seinology.com/epguide.shtml">Episode Guide</a><br>
+										<a href="http://www.seinology.com/links.shtml">Links</a><br>
+										<a href="http://www.seinology.com/faqother.shtml">Faq + others</a><br>
+										<a href="http://www.seinology.com/legal.shtml">Legal</a></font></div>
+							</td>
+						</tr>
+						
+						<tr>
+							<td class="nav2" width="136">
+							<div align="center"><b>Search</b></div></td>
+						</tr>
+						<tr>
+							<td class="spacer1" width="136" valign="top"><div align="center"><form method="get" action="http://www.seinology.com/search/search.cgi">
+<p><label for="fdse_Match">Match</label><br>
+<select name="Match" id="fdse_Match" size="1">
+<option value="1">All</option>
+<option value="0">Any</option>
+<option value="2">Phrase</option>
+</select></p>
+<p><label for="fdse_Realm">Where?</label><br>
+<select name="Realm" id="fdse_Realm" size="1">
+<option selected="selected" value="All">EntireSite</option>
+<option value="Ep Guide">Ep Guide</option>
+<option value="Images">Images</option>
+<option value="Lists">Lists</option>
+<option value="Newsletters">Newsletters</option>
+<option value="Scripts">Scripts</option>
+<option value="Notes..Nothing">Notes..Nothing</option>
+</select></p>
+<p><input type="text" name="Terms" size="14" id="fdse_Terms"><br>
+<input type="submit" class="submit" name="submitButtonName" value="Search"></p>
+</div></form></td>
+						</tr>
+						<tr><td class="bottom" width="136" height="10" valign="top">
+						</td>
+						</tr>
+					</table>
+				</td>
+				<td width="4"></td>
+				<td valign="top" width="645">
+					<table width="645" border="0" cellspacing="0" cellpadding="0">
+						<tr height="18">
+							<td width="645" height="35" class="bar">
+								<div align="center">
+									<b><font size="+2" color="black">Script</font></b></div>
+							</td>
+						</tr>
+						<tr height="362">
+							<td class="spacer2" valign="top" width="645" height="362">
+
+						<p><font size="-2">Episode 140 - The Fatigues<br>
+							
+						pc: 806, season 8, episode 6<br>
+							
+						Broadcast date: October 31, 1996<br>
+							<br>
+							
+						Written by Gregg Kavet &amp; Andy Robin<br>
+							
+						Directed by Andy Ackerman<br>
+							<br>
+							
+						-------------------------------------------------------------------------------<br>
+							<br>
+							
+						The Cast<br>
+							
+						Regulars:<br>
+							
+						Jerry Seinfeld ........................&nbsp; Jerry Seinfeld<br>
+							
+						Jason Alexander .................... George Costanza<br>
+							
+						Julia Louis-Dreyfus ................ Elaine Benes<br>
+							
+						Michael Richards .................... Cosmo Kramer<br>
+							<br>
+							
+						Guest Stars:<br>
+							<br>
+							
+						Joseph Urla ............................ Dugan<br>
+							
+						Ned Bellamy .......................... Eddie<br>
+							
+						A.J. Langer ........................... Abby<br>
+							
+						Katie Layman ........................ Cynthia<br>
+							
+						Eddie Allen ........................... Doctor<br>
+							
+						Gwen McGee ........................ Janine<br>
+							
+						Lynn Manning ...................... Blind Man<br>
+							
+						rc: Estelle Harris ................... Estelle Costanza<br>
+							
+						rc: Jerry Stiller ....................... Frank Costanza<br>
+							
+						rc: Richard Herd ................... Wilhelm<br>
+							
+						rc:&nbsp; Steve Hytner .................. Kenny Bania<br>
+							<br>
+							
+						==================================================================<br>
+							<br>
+							
+						[Jerry and a woman are eating at a restaurant.]<br>
+							<br>
+							
+						WOMAN: Well I started out working in mortgage bonds, but I just found that so limiting.<br>
+							<br>
+							
+						JERRY: My friend Kramer and I were discussing that same thing the other day. He was with Brant-Leland for a while.<br>
+							<br>
+							
+						WOMAN: Wow. Well then my mentor suggested that I move into equities, best move I ever made.<br>
+							<br>
+							
+						JERRY: Mentor? You mean your boss.<br>
+							<br>
+							
+						WOMAN: Oh, no no no, Cynthia's just a successful businesswoman who's taken me under her wing.<br>
+							<br>
+							
+						JERRY: Hmm. So Cynthia's your mentor.<br>
+							<br>
+							
+						WOMAN: And I'm her prot&eacute;g&eacute;. You must have someone like that. You know, who guides you in your career path.<br>
+							<br>
+							
+						JERRY: Well, I like Gabe Kaplan.<br>
+							<br>
+							<br>
+							<br>
+							
+						[George and Jerry are in Jerry's apartment.]<br>
+							<br>
+							
+						GEORGE: I still don't understand this. Abby has a mentor?<br>
+							<br>
+							
+						JERRY: Yes. And the mentor advises the prot&eacute;g&eacute;.<br>
+							<br>
+							
+						GEORGE: Is there any money involved?<br>
+							<br>
+							
+						JERRY: No.<br>
+							<br>
+							
+						GEORGE: So what's in it for the mentor?<br>
+							<br>
+							
+						JERRY: Respect, admiration, prestige.<br>
+							<br>
+							
+						GEORGE: Pssh. Would the prot&eacute;g&eacute; pick up stuff for the mentor?<br>
+							<br>
+							
+						JERRY: I suppose if it was on the prot&eacute;g&eacute;'s way to the mentor, they might.<br>
+							<br>
+							
+						GEORGE: Laundry? Dry cleaning?<br>
+							<br>
+							
+						JERRY: It's not a valet, it's a prot&eacute;g&eacute;.<br>
+							<br>
+							
+						GEORGE: Alright. Listen, I gotta get some reading done. You mind if I do this here? I can't concentrate in my apartment.<br>
+							<br>
+							
+						JERRY: (checking out George's textbook) Risk management?<br>
+							<br>
+							
+						GEORGE: Yeah. Steinbrenner wants everyone in the front office to give a lecture in their area of business expertise.<br>
+							<br>
+							
+						JERRY: Well what makes them think you're a risk management expert?<br>
+							<br>
+							
+						GEORGE: I guess it's on my resume.<br>
+							<br>
+							
+						(The phone rings, Jerry answers.)<br>
+							<br>
+							
+						JERRY: Hello?<br>
+							<br>
+							
+						VOICE: Please hold for Elaine Benes.<br>
+							<br>
+							
+						GEORGE: You know what? I can't do this. I can't read books anymore; books on tape have ruined me, Jerry. I need that nice voice. This book has *my* voice. I hate my voice.<br>
+							<br>
+							
+						JERRY: So get this book on tape.<br>
+							<br>
+							
+						GEORGE: You can't, it's a textbook.<br>
+							<br>
+							
+						ELAINE: Hey, Jer. Are you going to this Bob Sacamano party?<br>
+							<br>
+							
+						JERRY: Am I going? It was three nights ago.<br>
+							<br>
+							
+						ELAINE: What? You're kidding, I just got this invitation today. Oh, I was so excited. It's really a beautiful invitation.<br>
+							<br>
+							
+						JERRY: Oh, it was a lovely affair.<br>
+							<br>
+							
+						ELAINE: Wait a minute; this postmark is three weeks old. Man, this happens all the time. (Into intercom) Jeanine? Who the hell runs the mailroom?<br>
+							<br>
+							
+						JEANINE: Eddie Sherman.<br>
+							<br>
+							
+						ELAINE: Alright, send him up here.<br>
+							<br>
+							
+						JERRY: You gonna do a little yelling?<br>
+							<br>
+							
+						ELAINE: I'm gonna do a little firing.<br>
+							<br>
+							
+						JERRY: That is so cool, can you put me on the speaker?<br>
+							<br>
+							
+						ELAINE: Oh yeah, sure. (hangs up) Gimme a break.<br>
+							<br>
+							
+						(Jerry gets a dial tone and hangs up; he looks over at George who has nodded off with the book in his lap. Jerry picks up a peanut and tosses it at George, hitting him in the glasses and waking him up.)<br>
+							<br>
+							
+						JERRY: Hey, Copernicus?<br>
+							<br>
+							<br>
+							<br>
+							
+						[Elaine's office.]<br>
+							<br>
+							
+						JEANINE: Eddie Sherman is here.<br>
+							<br>
+							
+						ELAINE: Oh, great. Send him in.<br>
+							<br>
+							
+						(Eddie Sherman walks in dressed in full military fatigues. He speaks in a raspy voice.)<br>
+							<br>
+							
+						EDDIE: You wanted to see me?<br>
+							<br>
+							
+						ELAINE: Eddie. Yes, um, I am so sorry but I'm afraid we're gonna have to... promote you.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Elaine and Jerry are at the coffee shop.]<br>
+							<br>
+							
+						JERRY: So, what did you say?<br>
+							<br>
+							
+						ELAINE: Well, I called him all the way up to my office, so I had to tell him something important. So I promoted him.<br>
+							<br>
+							
+						JERRY: What? What did you--<br>
+							<br>
+							
+						ELAINE: Copywriter.<br>
+							<br>
+							
+						JERRY: He's writing copy?<br>
+							<br>
+							
+						ELAINE: Well it can't be any worse than the pointless drivel we normally churn out.<br>
+							<br>
+							
+						(Kramer walks in carrying a stack of flyers, he hands a few to Jerry and Elaine.)<br>
+							<br>
+							
+						KRAMER: Yowza yowza. Check it out.<br>
+							<br>
+							
+						JERRY: (reading) Jewish singles night?<br>
+							<br>
+							
+						KRAMER: I expect you both to be there.<br>
+							<br>
+							
+						ELAINE: I'm not Jewish.<br>
+							<br>
+							
+						KRAMER: Well neither am I.<br>
+							<br>
+							
+						JERRY: Well why are you going?<br>
+							<br>
+							
+						KRAMER: I'm not, I'm running it.<br>
+							<br>
+							
+						JERRY: What are you talking about?<br>
+							<br>
+							
+						KRAMER: Well Lomez, he usually runs it but he's in the Everglades.<br>
+							<br>
+							
+						JERRY: Lomez is Jewish?<br>
+							<br>
+							
+						KRAMER: Oh yeah yeah yeah. Orthodox, Jerry. Old school.<br>
+							<br>
+							
+						ELAINE: (reading) At the Knights of Columbus?<br>
+							<br>
+							
+						KRAMER: Yeah, Frank Costanza, he's getting me a room at his lodge. So Jerry, you know I'm really counting on you to come to this.<br>
+							<br>
+							
+						JERRY: Kramer, you know, I--<br>
+							<br>
+							
+						KRAMER: No, Jerry, look I'm cooking all the food myself.<br>
+							<br>
+							
+						ELAINE: (reading) A tempting schmear of authentic Jewish delicacies.<br>
+							<br>
+							
+						KRAMER: Do you like tsimmis?<br>
+							<br>
+							<br>
+							<br>
+							
+						[Jerry and Abby are being seated in a restaurant.]<br>
+							<br>
+							
+						ABBY: My mentor says the duck is outstanding here.<br>
+							<br>
+							
+						JERRY: I'm not really a duck fan, the skin seems sort of human.<br>
+							<br>
+							
+						ABBY: Oh! Look who's here, Cynthia!<br>
+							<br>
+							
+						CYNTHIA: Hello, Abby.<br>
+							<br>
+							
+						ABBY: Hello. Jerry, this is Cynthia Pearlman, my mentor.<br>
+							<br>
+							
+						JERRY: Hello.<br>
+							<br>
+							
+						CYNTHIA: Hi Jerry, nice to finally meet you.<br>
+							<br>
+							
+						ABBY: Well come join us, we could pull up a chair.<br>
+							<br>
+							
+						CYNTHIA: Great, my boyfriend's just parking the car. Actually, Jerry, you<br>
+							
+						night know him, he's a comic too.<br>
+							<br>
+							
+						JERRY: No kidding?<br>
+							<br>
+							
+						CYNTHIA: Kenny Bania.<br>
+							<br>
+							
+						JERRY: Bania?<br>
+							<br>
+							
+						(Bania enters.)<br>
+							<br>
+							
+						BANIA: Hey, Jerry!! How's it going?! You gonna join us for dinner? The duck here's the best. The best, Jerry.<br>
+							<br>
+							<br>
+							<br>
+							
+						[George is on the subway, seated beside a blind man wearing headphones.]<br>
+							<br>
+							
+						GEORGE: Excuse me, I'm sorry to bother you, I noticed that you have a textbook on tape. May I ask where you got that?<br>
+							<br>
+							
+						MAN: Reading for the Blind. They can get any book on tape.<br>
+							<br>
+							
+						GEORGE: I tell ya, I am hooked on these books on tape.<br>
+							<br>
+							
+						MAN: Oh, tell me about it. These things have ruined me for Braille.<br>
+							<br>
+							<br>
+							<br>
+							
+						[George and Jerry are at Jerry's apartment.]<br>
+							<br>
+							
+						JERRY: Reading for the Blind?<br>
+							<br>
+							
+						GEORGE: I take an eye test; I flunk it, the next thing you know I am swinging to the sweet sounds of risk management.<br>
+							<br>
+							
+						JERRY: So, I finally met the mentor.<br>
+							<br>
+							
+						GEORGE: What's she like? Impressive?<br>
+							<br>
+							
+						JERRY: Oh yeah, she's dating Bania.<br>
+							<br>
+							
+						GEORGE: Bania?<br>
+							<br>
+							
+						JERRY: Yeah. I had to spend two hours at dinner last night with that specimen.<br>
+							<br>
+							
+						GEORGE: What did you have?<br>
+							<br>
+							
+						JERRY: Chicken, how could she look up to a person who voluntarily spends time with Bania?<br>
+							<br>
+							
+						GEORGE: Marsala?<br>
+							<br>
+							
+						JERRY: Piccata, if anything I should be dating a mentor and Bania should be setting pins in a bowling alley.<br>
+							<br>
+							
+						GEORGE (leaving) Alright, I got a test to fail.<br>
+							<br>
+							
+						JERRY: Hey, good luck with that.<br>
+							<br>
+							
+						GEORGE: Thank you.<br>
+							<br>
+							
+						(George opens the door to see Kramer and Frank leaving Kramer's apartment.)<br>
+							<br>
+							
+						GEORGE: Dad.<br>
+							<br>
+							
+						FRANK: What are you wearing, an athletic sweat suit?<br>
+							<br>
+							
+						GEORGE: What are you doing here?<br>
+							<br>
+							
+						KRAMER: Well, he came by to pick up his check for the banquet hall. You know I got a hundred and eighty-three responses? Oh, it's gonna be a rager.<br>
+							<br>
+							
+						JERRY: Kramer, how are you gonna cook Jewish delicacies for a hundred and eighty-three people?<br>
+							<br>
+							
+						KRAMER: Yeah, you're right. That's a lot of pupkitz. Hey Frank, you know anybody who can help me cook?<br>
+							<br>
+							
+						FRANK: Cook? No, I don't know any cooks. I don't know anything about cooking!<br>
+							<br>
+							
+						(Frank storms out of the apartment.)<br>
+							<br>
+							
+						KRAMER: What's the matter with him?<br>
+							<br>
+							
+						GEORGE: My dad was a cook during the Korean War. Something very bad happened, ever since you can't get him near a kitchen.<br>
+							<br>
+							
+						KRAMER: Shell-shocked?<br>
+							<br>
+							
+						GEORGE: Oh yeah, but that has nothing to do with it.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Elaine is wrapping up a meeting at Peterman's.]<br>
+							<br>
+							
+						ELAINE: That's good work, guys. That aught to do it for today.<br>
+							<br>
+							
+						EDDIE: Wait. You didn't ask me about my ideas.<br>
+							<br>
+							
+						ELAINE: Oh, Eddie, well it's your first day.<br>
+							<br>
+							
+						EDDIE: I'm ready.<br>
+							<br>
+							
+						ELAINE: Oh, okay.<br>
+							<br>
+							
+						EDDIT: (reading) It's a hot night. The mind races. You think about your knife; the only friend who hasn't betrayed you, the only friend who won't be dead by sun up. Sleep tight, mates, in your quilted Chambray nightshirts.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Elaine and Jerry are at the coffee shop.]<br>
+							<br>
+							
+						ELAINE: What am I gonna do? He is a disaster.<br>
+							<br>
+							
+						JERRY: Well, if he's doing that bad, maybe he's in line for another promotion.<br>
+							<br>
+							
+						ELAINE: You know what? You are exactly right. That is what I should do, I should promote him. I'll give him another office on another floor and he can sit there with his nice title and his bayonet and stop freakin' me out.<br>
+							<br>
+							<br>
+							<br>
+							
+						[George is taking an eye exam.]<br>
+							<br>
+							
+						GEORGE: Nothing at all.<br>
+							<br>
+							
+						DOCTOR: Well George, your vision is quite impaired. If you'll just sign this insurance form, here's a pen.<br>
+							<br>
+							
+						(George reaches for the pen and grabs the Doctor's face.)<br>
+							<br>
+							
+						GEORGE: You're a very handsome man, by the way.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Jerry walks into his apartment; there are pots and pans bubbling on the stove.]<br>
+							<br>
+							
+						JERRY: What the hell is going on here?<br>
+							<br>
+							
+						(Kramer comes running in holding a scalding pot full of dumplings, he drops the pot into the sink and cools his burnt fingers.)<br>
+							<br>
+							
+						JERRY: What are you doing?<br>
+							<br>
+							
+						KRAMER: I got three kitchens going. I got brisket going at Newman's, I got kugel working at Mrs. Zamfino's, this is kreplach. Here, try some of this.<br>
+							<br>
+							
+						JERRY: No, I don't want to.<br>
+							<br>
+							
+						KRAMER: Eat, eat! You're skin and bones.<br>
+							<br>
+							
+						(Jerry gabs a fork and tastes a piece.)<br>
+							<br>
+							
+						KRAMER: Hah?<br>
+							<br>
+							
+						JERRY: Oh, this is awful.<br>
+							<br>
+							
+						KRAMER: Jerry, it's kreplach. It's an acquired taste, yeah.<br>
+							<br>
+							
+						(Kramer bites into one and spits it out.)<br>
+							<br>
+							
+						JERRY: Did you follow the recipe?<br>
+							<br>
+							
+						KRAMER: The recipe was for four to six people; I had to multiply for a hundred and eighty-three people. I guess I got confused.<br>
+							<br>
+							
+						JERRY: It tastes like dirt.<br>
+							<br>
+							
+						KRAMER: Well I also dropped it on the way over. Look I'm in trouble, I got no skills. I can't peel, I can't chop, I can't grate. I can't mince! I got no sense of flavor, obviously. You know, I gotta talk to Frank.<br>
+							<br>
+							
+						JERRY: Kramer, you can't talk to Frank.<br>
+							<br>
+							
+						KRAMER: No I gotta talk to him, I know that he can help me, Jerry.<br>
+							<br>
+							
+						(Abby walks in.)<br>
+							<br>
+							
+						ABBY: I think there's a dead animal in the elevator.<br>
+							<br>
+							
+						KRAMER: My stuffed cabbage!<br>
+							<br>
+							
+						(Kramer runs out.)<br>
+							<br>
+							
+						ABBY: So, great dinner last night.<br>
+							<br>
+							
+						JERRY: Yeah, it was alright.<br>
+							<br>
+							
+						ABBY: I told Cynthia we'd double with her and Bania Saturday and then catch his act.<br>
+							<br>
+							
+						JERRY: No. No, no way, no Bania.<br>
+							<br>
+							
+						ABBY: What?<br>
+							<br>
+							
+						JERRY: Have you seen his act? He's got a twelve-minute bit about Ovaltine. He's a punk, a patsy, a hack.<br>
+							<br>
+							
+						ABBY: Cynthia would not date a hack.<br>
+							<br>
+							
+						JERRY: Would. Does. Is.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Elaine is chairing a meeting at Peterman's.]<br>
+							<br>
+							
+						ELAINE: Before we get started, I am happy to tell you that Eddie Sherman is no longer writing for this catalog.<br>
+							<br>
+							
+						(There are general remarks of relief from the meeting attendees.)<br>
+							<br>
+							
+						ELAINE: He's upstairs, I made him Director of Corporate Development.<br>
+							<br>
+							
+						EMPLOYEE: You promoted him?<br>
+							<br>
+							
+						ELAINE: Well, no, I would hardly--<br>
+							<br>
+							
+						EMPLOYEE: I bust my hump ever day.<br>
+							<br>
+							
+						ELAINE: Relax--<br>
+							<br>
+							
+						EMPLOYEE: As far as I'm concerned, you and your deranged prot&eacute;g&eacute; can run the catalog by yourselves! I quit!<br>
+							<br>
+							
+						(What follows is a chorus of &quot;me too&quot;s and &quot;I'm with him&quot;s as everybody walks out.)<br>
+							<br>
+							
+						ELAINE: Well, hey? Hey. Hey!!<br>
+							<br>
+							<br>
+							<br>
+							
+						[George is in his office at Yankee stadium, he pushes 'play' on a cassette recorder. The voice on the tape sounds exactly like George.]<br>
+							<br>
+							
+						VOICE: Chapter one. In order to manage risk we must first understand risk. How do you spot risk? How do you avoid risk and what makes it so risky?<br>
+							<br>
+							
+						GEORGE: This guy sounds just like me.<br>
+							<br>
+							
+						VOICE: To understand risk, we must first define risk.<br>
+							<br>
+							
+						GEORGE: This is horrible.<br>
+							<br>
+							
+						VOICE: Risk is defined as--<br>
+							<br>
+							
+						GEORGE: (banging the recorder) Stop it! Stop it!<br>
+							<br>
+							<br>
+							<br>
+							
+						[Kramer is at Frank's.]<br>
+							<br>
+							
+						KRAMER: C'mon Frank, I need you. I mean the war was fifty years ago.<br>
+							<br>
+							
+						FRANK: In my mind, there's a war still going on.<br>
+							<br>
+							
+						KRAMER: Alright, what happened, Frank? What is it that you can't get over?<br>
+							<br>
+							
+						(Frank pours a shot of whiskey and drinks it.)<br>
+							<br>
+							
+						FRANK: Inchon, Korea, 1950. I was the best cook Uncle Sam ever saw, slinging hash for the Fighting 103rd. As we marched north, our supply lines were getting thin. One day a couple of GIs found a crate, inside were six hundred pounds of prime Texas steer. At least it once was prime. The Use date was three weeks past, but I was arrogant, I was brash, I thought if I used just the right spices, cooked it long enough...<br>
+							<br>
+							
+						KRAMER: What happened?<br>
+							<br>
+							
+						FRANK: I went too far. I over seasoned it. Men were keeling over all around me. I can still hear the retching, the screaming. I sent sixteen of my own men to the latrines that night. They were just boys.<br>
+							<br>
+							
+						KRAMER: Frank, you were a boy too. And it was war. It was a crazy time for everyone.<br>
+							<br>
+							
+						FRANK: Tell that to Bobby Colby. All that kid wanted to do was go home. Well he went home alright, with a crater in his colon the size of a cutlet. Had to sit him on a cork the eighteen-hour flight home!<br>
+							<br>
+							
+						KRAMER: Frank, now listen to me. Two hundred Jewish singles need you. This is your chance to make it all right again.<br>
+							<br>
+							
+						FRANK: No. No, I'll never cook again! Never! Now get out of my house!! Get out. Go.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Jerry and Abby are in Jerry's apartment.]<br>
+							<br>
+							
+						JERRY: So you saw Bania's act?<br>
+							<br>
+							
+						ABBY: He got two minutes into that Ovaltine thing and I just couldn't take it anymore.<br>
+							<br>
+							
+						JERRY: I told you, it's like getting beaten with a bag of oranges.<br>
+							<br>
+							
+						ABBY: Why is he so obsessed with Ovaltine?<br>
+							<br>
+							
+						JERRY: He just thinks that anything that dissolves in milk is funny.<br>
+							<br>
+							
+						ABBY: Anyway, Cynthia and I got into this big argument afterwards and I think it's over.<br>
+							<br>
+							
+						JERRY: No more mentor?<br>
+							<br>
+							
+						ABBY: Looks that way.<br>
+							<br>
+							
+						JERRY: Well at least you and I are okay again.<br>
+							<br>
+							
+						ABBY: Actually I was kind of thinking that maybe we shouldn't see each other for a while.<br>
+							<br>
+							
+						JERRY: Why?<br>
+							<br>
+							
+						ABBY: Well I'm feeling a little disoriented. It's just weird for me not to have an advisor.<br>
+							<br>
+							
+						JERRY: I can tell you what to do.<br>
+							<br>
+							
+						ABBY: No, it's more than that.<br>
+							<br>
+							
+						JERRY: I can tell you what to think.<br>
+							<br>
+							
+						ABBY: I need someone I can trust.<br>
+							<br>
+							
+						JERRY: Oh.<br>
+							<br>
+							
+						(George busts in.)<br>
+							<br>
+							
+						GEORGE: I got a big problem here, Jerry. The tapes are worthless.<br>
+							<br>
+							
+						JERRY: Kind of in the middle of something here, George.<br>
+							<br>
+							
+						(George shuts up and relaxes on the couch.)<br>
+							<br>
+							
+						JERRY: George?<br>
+							<br>
+							
+						ABBY: I gotta run anyway.<br>
+							<br>
+							
+						JERRY: I can't believe you feel you really need a mentor.<br>
+							<br>
+							
+						ABBY: I just need someone who can give me some kind of direction. I'll see ya.<br>
+							<br>
+							
+						JERRY: Yeah, see ya.<br>
+							<br>
+							
+						(Abby leaves and George gets up and runs out the door after her.)<br>
+							<br>
+							
+						JERRY: What's your problem.<br>
+							<br>
+							
+						(George runs back.)<br>
+							<br>
+							
+						GEORGE: No problem.<br>
+							<br>
+							
+						(George runs away again.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Elaine and Eddie Sherman are alone in the office working on writing copy.]<br>
+							<br>
+							
+						EDDIE: Hey, I think I got something here. The Bengalese Galoshes.<br>
+							<br>
+							
+						ELAINE: Oh.<br>
+							<br>
+							
+						EDDIE: (reading) It's tough keeping your feet dry when you're kicking in a skull.<br>
+							<br>
+							
+						ELAINE: You know, Eddie, that might be just a tad harsh for womenswear.<br>
+							<br>
+							
+						EDDIE: Well, I'm not married to it.<br>
+							<br>
+							
+						Elaine. Oh. Well, um, in that case why don't we take the phrase, &quot;kicking in a skull&quot; and we tweak it, you know, just a hair, to something like, what, like &quot;strolling through a dewy meadow&quot;?<br>
+							<br>
+							
+						EDDIE: Dewy meadow.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Frank and Estelle are in their kitchen.]<br>
+							<br>
+							
+						ESTELLE: Here's your omelet.<br>
+							<br>
+							
+						FRANK: It's dry.<br>
+							<br>
+							
+						ESTELLE: That's the way I always make it.<br>
+							<br>
+							
+						FRANK: Well it sucks.<br>
+							<br>
+							
+						ESTELLE: What did you say?<br>
+							<br>
+							
+						FRANK: Your meatloaf is mushy, your salmon croquettes are oily and your eggplant parmesan is a disgrace to this house!<br>
+							<br>
+							
+						ESTELLE: Well that's too bad, because I'm the only one who cooks around here!<br>
+							<br>
+							
+						FRANK: Not any more! Gimme that spatula! I'm back, baby!<br>
+							<br>
+							<br>
+							<br>
+							
+						[George and Abby are at George's office.]<br>
+							<br>
+							
+						ABBY: And you're sure with your busy schedule you'd have time to take on a prot&eacute;g&eacute;?<br>
+							<br>
+							
+						GEORGE: I'll make time, because Abby, I was once like you; wide-eyed, naive, I didn't know the first thing about a subject as fundamental as risk management.<br>
+							<br>
+							
+						ABBY: I'm not familiar with that, you'll have to explain it to me.<br>
+							<br>
+							
+						GEORGE: I'll tell you what, why don't you read this book and let's just see if you can explain it to me.<br>
+							<br>
+							
+						ABBY: Alright.<br>
+							<br>
+							
+						GEORGE: Okay.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Jerry runs into Bania on a street corner.]<br>
+							<br>
+							
+						BANIA: Hey Jerry.<br>
+							<br>
+							
+						JERRY: Oh, hey Bania.<br>
+							<br>
+							
+						BANIA: Didja hear what happened? The mentor saw my act. She dumped me.<br>
+							<br>
+							
+						JERRY: Oh, that's too bad.<br>
+							<br>
+							
+						BANIA: Maybe she's right. Maybe I am a complete hack. I'm the absolute worst. The worst, Jerry.<br>
+							<br>
+							
+						JERRY: Well it's just that you got so many things with the milk. You got that Bosco bit then you got your Nestl&eacute;'s Quik bit, by the time you get to Ovaltine--<br>
+							<br>
+							
+						BANIA: You think you can give me a hand with my material?<br>
+							<br>
+							<br>
+							<br>
+							
+						[Frank is knocking on Kramer's door.]<br>
+							<br>
+							
+						KRAMER: Hey.<br>
+							<br>
+							
+						FRANK: You still need a cook?<br>
+							<br>
+							
+						KRAMER: Oh yeah, come on in, Frank.<br>
+							<br>
+							
+						FRANK: Ya got T-Fal?<br>
+							<br>
+							
+						KRAMER: Keflon.<br>
+							<br>
+							
+						FRANK: No! Follow me.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Jerry is reviewing material with Bania.]<br>
+							<br>
+							
+						BANIA: (reading) Why do they call it Ovaltine? The mug is round. The jar is round. They should call it round tine. That's gold, Jerry! Gold!<br>
+							<br>
+							<br>
+							<br>
+							
+						[Elaine is reviewing copy with Eddie.]<br>
+							<br>
+							
+						ELAINE: Let's just replace &quot;hail of shrapnel&quot; and &quot;scar tissue&quot; with &quot;string of pearls&quot; and &quot;raspberry scones&quot;.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Jerry and Abby are at Jerry's apartment.]<br>
+							<br>
+							
+						JERRY: George Costanza is your mentor?<br>
+							<br>
+							
+						ABBY: Yeah, he's great! I am learning so much.<br>
+							<br>
+							
+						(Abby places her risk management folder on the table.)<br>
+							<br>
+							
+						JERRY: About what? How to calculate five percent of a restaurant check?<br>
+							<br>
+							
+						ABBY: You know what your problem is? You just have no respect for the mentor/mentor relationship.<br>
+							<br>
+							
+						JERRY: As a matter of fact, I happen to have a prot&eacute;g&eacute; of my own.<br>
+							<br>
+							
+						(Jerry places his Bania folder on the table.)<br>
+							<br>
+							
+						ABBY: Who?<br>
+							<br>
+							
+						JERRY: A Mister Kenneth Bania.<br>
+							<br>
+							
+						ABBY: Bania?<br>
+							<br>
+							
+						JERRY: I'm gonna mentor this kid to the top.<br>
+							<br>
+							
+						ABBY: Huh, well, I don't think I want to date a mentor whose prot&eacute;g&eacute; is a hack.<br>
+							<br>
+							
+						(Abby picks up a folder and puts it in her bag.)<br>
+							<br>
+							
+						JERRY: Well, I don't think I want to date a prot&eacute;g&eacute; whose mentor is a Costanza.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Elaine and Eddie are sharing chocolate shakes at the coffee shop.]<br>
+							<br>
+							
+						ELAINE: I don't know how we did it, but there's some kind of chemistry between us, we turned out one hell of a catalog.<br>
+							<br>
+							
+						EDDIE: Cool.<br>
+							<br>
+							
+						ELAINE: Hey Ed, let me ask you something. What's with the fatigues and all the psychotic imagery? Huh?<br>
+							<br>
+							
+						EDDIE: I don't want to talk about it.<br>
+							<br>
+							
+						ELAINE: Come on, don't be a baby.<br>
+							<br>
+							
+						EDDIE: I went out on a couple of dates with this woman, I thought she really liked me, and then things kind of cooled off.<br>
+							<br>
+							
+						ELAINE: That's it?<br>
+							<br>
+							
+						EDDIE: Well it's tough meeting somebody you like, let alone somebody Jewish.<br>
+							<br>
+							<br>
+							<br>
+							
+						[&quot;Jewish Singles Night&quot;.]<br>
+							<br>
+							
+						ELAINE: Mm. This food is fantastic.<br>
+							<br>
+							
+						JERRY: Have you tried the hamentashen?<br>
+							<br>
+							
+						ELAINE: I can't get off the kishkas.<br>
+							<br>
+							
+						BANIA: Hey Jerry!<br>
+							<br>
+							
+						JERRY: Bania?<br>
+							<br>
+							
+						BANIA: I just stopped by to thank you. That risk management stuff you wrote for me? It's killer!<br>
+							<br>
+							
+						JERRY: Risk management?<br>
+							<br>
+							
+						BANIA: Aw, it's gold, Jerry! Gold! I got all these corporate gigs and even Cynthia took me back.<br>
+							<br>
+							
+						(Cut to a woman talking with Eddie Sherman.)<br>
+							<br>
+							
+						WOMAN: So you went from the mailroom to the director of corporate development in two days?<br>
+							<br>
+							
+						EDDIE: That's right.<br>
+							<br>
+							
+						WOMAN: How much are they paying you? I'll double it.<br>
+							<br>
+							
+						(Cut to Kramer and Frank behind a table loaded with 'Jewish delicacies'.)<br>
+							<br>
+							
+						KRAMER: Ya know these latkes are going like hotcakes.<br>
+							<br>
+							
+						FRANK: Where's the powdered sugar?<br>
+							<br>
+							
+						KRAMER: You know Frank, you could take a break.<br>
+							<br>
+							
+						FRANK: No breaks. I fell reborn, I'm like a Phoenix rising from Arizona.<br>
+							<br>
+							
+						(Cut to Eddie breaking the news to Elaine.)<br>
+							<br>
+							
+						ELAINE: You're quitting?<br>
+							<br>
+							
+						EDDIE: I can't churn out that pointless drivel any more.<br>
+							<br>
+							
+						ELAINE: Well, you can't quit, you're all I've got. I need you!<br>
+							<br>
+							
+						(Elaine grabs Eddie by the lapels and shakes him, Eddie chokes on a piece of bread. Frank sees this and flashes back to Korea. He runs around the room knocking plates to the floor and when Kramer tries to stop him, he heads to the loaded down table and starts to tip it over. The scene ends in mid-tip.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[George is prepared to give his speech at the Yankees meeting.]<br>
+							<br>
+							
+						VOICE: Our next speaker is George Costanza on the subject of risk management.<br>
+							<br>
+							
+						(George steps up and opens his folder.)<br>
+							<br>
+							
+						GEORGE: Ovaltine. Have you ever had this stuff? Why is it called Ovaltine?<br>
+							<br>
+							
+						(George flips through a few pages.)<br>
+							<br>
+							
+						GEORGE: They should call it round tine. You know what I'm talking about.<br>
+							<br>
+							
+						WILHELM: (proudly, to the man seated beside him): He's my prot&eacute;g&eacute;.<br>
+							<br>
+							
+						FRANK: Noooo!!! Don't eat it! No good!&quot;<br>
+							<br>
+							<br>
+							
+						The End</td>
+						</tr>
+						<tr height="6">
+							<td class="bottom2" width="645" height="6"></td>
+						</tr>
+						<tr>
+							<td width="645">
+								<div align="center">
+									<font size="-1">Copyright 2006 seinology.com | All Rights Reserved | Designed by 13erla</font></div>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+		<p></p>
+	</body>
+
+</html>

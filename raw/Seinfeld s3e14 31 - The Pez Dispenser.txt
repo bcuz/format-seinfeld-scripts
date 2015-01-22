@@ -1,0 +1,1137 @@
+<tdOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+<html>
+
+	<head>
+		<meta http-equiv="content-type" content="text/html;charset=ISO-8859-1">
+		<meta name="description" content="Top Source for Seinfeld">
+		<meta name="keywords" content="seinfeld, sienfeld, Jerry Seinfeld, Julia Louis Dreyfus, Jason Alexander, Michael Richards, Kramer, George, Costanza, Elaine Benes, morty, Larry David">
+		<title>Seinology.com :: Scripts :: 31-The Pez Dispenser</title>
+	<link rel='stylesheet' href='/stylesheet.css' type='text/css'>
+	</head>
+
+	<body>
+			<table align="center" width="787" border="0" cellspacing="0" cellpadding="0">
+				<tr>
+					<td><font size="-2" color="red">Seinology.com - </font><font size="-3" color="black">Where Seinfeld Content and Accuracy Matter Most. Seinfeld scripts in pdf form, Seinfeld episode video clips, Seinfeld episode audio clips, Jerry Seinfeld appearances, Julia Louis-Dreyfus appearances, Michael Richards appearances, Jason Alexander appearances, Seinfeld discussion Forum, Seinfeld Where are they Now? Seinlanguage Newsletter, Popular Seinfeld Lists, Seinfeld episode standup, Seinfeld episode guide, Seinfeld fan fiction. Seinfeld content all on one domain. Seinology.com enjoy your stay.</font></td>
+				</tr>
+			</table>
+		
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr height="100">
+				<td class="logo"></td>
+			</tr>
+			<tr><td class="ads" align="center" background=#8694fa>
+				<script type="text/javascript"><!--
+google_ad_client = "pub-1924026976931416";
+google_ad_width = 728;
+google_ad_height = 90;
+google_ad_format = "728x90_as";
+google_ad_type = "text";
+google_ad_channel = "";
+google_color_border = "FFFFFF";
+google_color_bg = "8694fa";
+google_color_link = "0000FF";
+google_color_text = "000000";
+google_color_url = "002E3F";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></td></tr>
+		</table>
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr>
+				<td valign="top" width="136">
+					<table width="136" border="0" cellspacing="0" cellpadding="0">
+						<tr height="24">
+							<td class="navigation">
+								<div align="center">
+									
+									<b>Navigation</b></div>
+							</td>
+						</tr>
+						<tr height="199">
+							<td class="spacer1" valign="top" width="136" height="199">
+								<div align="center">
+									<font size="-1"><a href="http://www.seinology.com">Home</a><br>
+										<a href="http://board.seinology.com">Forum</a><br>
+										<a href="http://www.seinology.com/av.shtml">Audio/Video</a><br>
+										<a href="http://www.seinology.com/scripts.shtml">Scripts</a><br>
+										<a href="http://www.seinology.com/survivor.shtml">Survivor</a><br>
+										<a href="http://www.seinology.com/fanfics.shtml">Fan Fiction</a><br>
+										<a href="http://www.seinology.com/gallery/">Gallery</a><br>
+										<a href="http://www.seinology.com/newsletter.shtml">Newsletter</a><br>
+										<a href="http://www.seinology.com/lists.shtml">Lists</a><br>
+										<a href="http://www.seinology.com/epguide.shtml">Episode Guide</a><br>
+										<a href="http://www.seinology.com/links.shtml">Links</a><br>
+										<a href="http://www.seinology.com/faqother.shtml">Faq + others</a><br>
+										<a href="http://www.seinology.com/legal.shtml">Legal</a></font></div>
+							</td>
+						</tr>
+						
+						<tr>
+							<td class="nav2" width="136">
+							<div align="center"><b>Search</b></div></td>
+						</tr>
+						<tr>
+							<td class="spacer1" width="136" valign="top"><div align="center"><form method="get" action="http://www.seinology.com/search/search.cgi">
+<p><label for="fdse_Match">Match</label><br>
+<select name="Match" id="fdse_Match" size="1">
+<option value="1">All</option>
+<option value="0">Any</option>
+<option value="2">Phrase</option>
+</select></p>
+<p><label for="fdse_Realm">Where?</label><br>
+<select name="Realm" id="fdse_Realm" size="1">
+<option selected="selected" value="All">EntireSite</option>
+<option value="Ep Guide">Ep Guide</option>
+<option value="Images">Images</option>
+<option value="Lists">Lists</option>
+<option value="Newsletters">Newsletters</option>
+<option value="Scripts">Scripts</option>
+<option value="Notes..Nothing">Notes..Nothing</option>
+</select></p>
+<p><input type="text" name="Terms" size="14" id="fdse_Terms"><br>
+<input type="submit" class="submit" name="submitButtonName" value="Search"></p>
+</div></form></td>
+						</tr>
+						<tr><td class="bottom" width="136" height="10" valign="top">
+						</td>
+						</tr>
+					</table>
+				</td>
+				<td width="4"></td>
+				<td valign="top" width="645">
+					<table width="645" border="0" cellspacing="0" cellpadding="0">
+						<tr height="18">
+							<td width="645" height="35" class="bar">
+								<div align="center">
+									<b><font size="+2" color="black">Script</font></b></div>
+							</td>
+						</tr>
+						<tr height="362">
+							<td class="spacer2" valign="top" width="645" height="362">
+
+						<p><font size="-2">Episode 31 - The Pez Dispenser<br>
+							
+						pc: 314, season 3, episode 14<br>
+							
+						Broadcast date: January 15, 1992<br>
+							<br>
+							
+						Written By Larry David<br>
+							
+						Directed By Tom Cherones<br>
+							<br>
+							
+						-------------------------------------------------------------------------------<br>
+							<br>
+							
+						The Cast<br>
+							
+						Regulars:<br>
+							
+						Jerry Seinfeld ....................... Jerry Seinfeld<br>
+							
+						Jason Alexander .................. George Costanza<br>
+							
+						Julia Louis-Dreyfus ............. Elaine Benes<br>
+							
+						Michael Richards ................. Kramer<br>
+							<br>
+							
+						Guest Stars:<br>
+							<br>
+							
+						Elizabeth Morehead ........... Noel<br>
+							
+						Fred Sanders ....................... John<br>
+							
+						Bill Applebaum ................... D'Giff<br>
+							
+						Allen Bloomfield ................ Polar Bear<br>
+							
+						Chris Barnes ....................... Richie<br>
+							
+						Steve Kehela ....................... Intervenor<br>
+							
+						Kate Benton ........................ Roberta<br>
+							<br>
+							
+						==================================================================<br>
+							<br>
+							
+						[Jerry's Apartment]<br>
+							<br>
+							
+						GEORGE: ...pianist. A *classical* pianist. She *plays* the piano. She's a *brilliant* woman. I-I-I sat in her living room... She played the *Waldstein Sonata*! The *Waldstein*!<br>
+							<br>
+							
+						GEORGE: We did a crossword puzzle together, *in bed*. It was the most fun I ever had in my entire life. Did you hear me? in my *life*! Y'know?<br>
+							<br>
+							
+						(Jerry enters)<br>
+							<br>
+							
+						JERRY: Were you talking? I couldn't hear anything.<br>
+							<br>
+							
+						GEORGE: I was telling you about Noel.<br>
+							<br>
+							
+						JERRY: Oh, Noel! Yeah, the one who plays bongos...<br>
+							<br>
+							
+						GEORGE: [sarcastically] Heh heh heh... So side-splittingly funny...<br>
+							<br>
+							
+						JERRY: All right, I'm sorry. What about her?<br>
+							<br>
+							
+						GEORGE: What, you think I'm going to repeat the whole thing now?<br>
+							<br>
+							
+						JERRY: I know, you told me you like her, everything is going good.<br>
+							<br>
+							
+						GEORGE: No everything is *not* going good. I'm very uncomfortable. I have no power. I mean, why should she have the upper hand. *Once* in my life I would like the upper hand. I have no hand-- no hand at all. She has the hand; I have *no* hand...<br>
+							<br>
+							
+						GEORGE: How do I get the hand?<br>
+							<br>
+							
+						JERRY: We all want the hand. Hand is tough to get. You gotta get the hand right from the opening.<br>
+							<br>
+							
+						GEORGE: She's playing a recital this week at the McBierney School. You wanna hear her play? I got two extra tickets, you and Elaine could go...<br>
+							<br>
+							
+						JERRY: Yeah, that sounds like somethin'...<br>
+							<br>
+							
+						GEORGE: Then afterwards maybe we could all go out together. Y'know she'll see me with my friends, she'll observe me as I really am, as myself. Maybe I can get some hand that way.<br>
+							<br>
+							
+						(Kramer enters)<br>
+							<br>
+							
+						KRAMER: Hey, smell my arm... Smell it!<br>
+							<br>
+							
+						GEORGE: With all due respect, I don't think so...<br>
+							<br>
+							
+						JERRY: That smells good, what is that?<br>
+							<br>
+							
+						KRAMER: The *beach*!<br>
+							<br>
+							
+						JERRY: The *beach*?<br>
+							<br>
+							
+						GEORGE: What, did you go swimmin'? It's 29 degrees out!<br>
+							<br>
+							
+						KRAMER: I just joined the Polar Bear Club.<br>
+							<br>
+							
+						JERRY: You joined the *Polar Bears*?!<br>
+							<br>
+							
+						GEORGE: What the Hell is a &quot;Polar Bear&quot;?<br>
+							<br>
+							
+						KRAMER: Well, it's these people-- they go swimmin' in the winter. They're terrific, I just took my first swim today. Brrrrrrr! It's invigorating....<br>
+							<br>
+							
+						JERRY: Yeah... So's shock therapy.<br>
+							<br>
+							
+						JERRY: [with glee] What is that, a Pez dispenser?!<br>
+							<br>
+							
+						KRAMER: Want one? Yeah, I just bought it at the Flea Market.<br>
+							<br>
+							
+						GEORGE: Hey, what goes on there, exactly?<br>
+							<br>
+							
+						JERRY: You don't know?<br>
+							<br>
+							
+						GEORGE: No, I-I-I know... [retreats back to his Chinese take out] I know...<br>
+							<br>
+							
+						JERRY: You think they have fleas there, don't you?<br>
+							<br>
+							
+						GEORGE: *No*...<br>
+							<br>
+							
+						JERRY: Yes you do, Biff. You've never been to a Flea Market, and you think they have fleas there.<br>
+							<br>
+							
+						GEORGE: All right, I think they have fleas there. So what...<br>
+							<br>
+							
+						ELAINE: I don't know how anyone does this. It must be *so* nerve racking... How do they warm up their fingers?<br>
+							<br>
+							
+						JERRY: They have a piano backstage they warm up on.<br>
+							<br>
+							
+						ELAINE: *No*, we would have heard it.<br>
+							<br>
+							
+						JERRY: What, do you think they just crack their knuckles and come out?<br>
+							<br>
+							
+						GEORGE: I told her we'd all go out afterwards, okay? And don't applaud when she stops playing the first time. It's not over yet.<br>
+							<br>
+							
+						JERRY: [quickly whispering] I resent that you said that! That's directed at *me*, isn't it?!<br>
+							<br>
+							
+						(A very elegant Noel comes out and sits at her piano.)<br>
+							<br>
+							
+						JERRY: Is this okay? Can I do this? (he claps)<br>
+							<br>
+							
+						(Noel begins. Dramatically. It's enough to make a man reach for his candy pooper. Jerry helps himself to a Pez, he stands Tweety up on Elaine's purse on her lap. Elaine valiantly tries to hold back her laughter, but it escalates from a giggle to a chortle to a chuckle to laughter to snorting. Noel is visibly shaken and she has difficulty playing with this anonymous distraction from one of the unwashed masses. Elaine removes herself from the auditorium, all the while snorting and gasping for breath, (we're talkin' full-on gales of laughter, here). Outside, she runs into an old acquaintance.)<br>
+							<br>
+							
+						STEVE: Something I said? [no response] It's John... Mollika.<br>
+							<br>
+							
+						ELAINE: Oh, oh, *John*... Oh, hi John... Hi...<br>
+							<br>
+							
+						STEVE: What're you doing down here?<br>
+							<br>
+							
+						ELAINE: Oh, I was just at this recital and Jerry put a Pez dispenser on my leg and I started laughing.<br>
+							<br>
+							
+						MOLLIKA: Jerry's in there? I heard you guys broke up.<br>
+							<br>
+							
+						ELAINE: We did. We're just hanging out.<br>
+							<br>
+							
+						MOLLIKA: REally. ... You really look great.<br>
+							<br>
+							
+						ELAINE: Oh, uh, thank you. Are you still friends with Richie Appel?<br>
+							<br>
+							
+						MOLLIKA: Oh, Richie, he's been doing comedy in L. A. for a few years. He just got back a month ago. He's kind of messed up. On drugs. I don't know what to do for the guy.<br>
+							<br>
+							
+						ELAINE: Have you thought about an intervention?<br>
+							<br>
+							
+						MOLLIKA: What's that?<br>
+							<br>
+							
+						ELAINE: You get all his friends in a room, They confront himm to try to get him into rehab. It's a very popular thing now.<br>
+							<br>
+							
+						MOLLIKA: He'd never listen to anyone. ... Except of course Jerry. He'd listen to Jerry. Jerry would have to be involved. He really respects Jerry.<br>
+							<br>
+							
+						(Cut to Jerry playing with Tweety Bird Pez dispenser.)<br>
+							<br>
+							<br>
+							
+						[Outside Noel's dressing room]<br>
+							<br>
+							
+						ElainELAINE: I'm sorry. George, I'm sorry!<br>
+							<br>
+							
+						GEORGE: What did you put the Pez dispenser on her leg for in the first place?<br>
+							<br>
+							
+						JERRY: I dunno, it was an impulse.<br>
+							<br>
+							
+						GEORGE: What kind of a sick impulse does that??<br>
+							<br>
+							
+						JERRY: How could I know she would start to laugh?<br>
+							<br>
+							
+						ELAINE: I'm sorry. I'm sorry. I *am*!<br>
+							<br>
+							
+						JERRY: Can we just go in already?<br>
+							<br>
+							
+						GEORGE: What are we gonna tell her?<br>
+							<br>
+							
+						ELAINE: I'll tell her I was the one who laughed.<br>
+							<br>
+							
+						GEORGE: No, don't say a word. If she thinks my friends are jerks, then I'm a *jerk*...<br>
+							<br>
+							
+						ELAINE: [To Jerry] Oh, remind me to talk to you about something later.<br>
+							<br>
+							
+						JERRY: What about?<br>
+							<br>
+							
+						GEORGE: Hey, hey! We're discussing something!<br>
+							<br>
+							
+						JERRY: I know, but I'm distracted now.<br>
+							<br>
+							
+						GEORGE: What are you? A *baby*!? All right. Tell her.<br>
+							<br>
+							
+						ELAINE: When I was outside I ran into John Mollika.<br>
+							<br>
+							
+						JERRY: Really John Mollika, they guy that used to bartend at the Comedy Club. How's he doing?<br>
+							<br>
+							
+						ELAINE: He's good.<br>
+							<br>
+							
+						GEORGE: Uh, can we cut to the chase?<br>
+							<br>
+							
+						JERRY: &quot;Cut to the chase&quot;?<br>
+							<br>
+							
+						GEORGE: Yeah...<br>
+							<br>
+							
+						JERRY: What're you, &quot;Joe Hollywood&quot;?<br>
+							<br>
+							
+						GEORGE: A lot of people say it.<br>
+							<br>
+							
+						JERRY: I would lose that.<br>
+							<br>
+							
+						GEORGE: [Accusingly] What's *that*?<br>
+							<br>
+							
+						JERRY: &quot;Lose that&quot;? That's not a Hollywood expression!<br>
+							<br>
+							
+						GEORGE: [Realizing full well it isn't] ...Yes it is.<br>
+							<br>
+							
+						ELAINE: Anyway ... So John told me that Richie is in town from Los Angeles and he's really messed up on drugs. So I told him that he should do an intervention.<br>
+							<br>
+							
+						JERRY: Really, an intervention ...<br>
+							<br>
+							
+						GEORGE: Y'know people, we got a situation over here!<br>
+							<br>
+							
+						ELAINE: Yeah, but he want's you to be a part of it.<br>
+							<br>
+							
+						JERRY: Me? Why me?<br>
+							<br>
+							
+						ELAINE: 'Cause Richie really respects you and he would listen to you.<br>
+							<br>
+							
+						JERRY: Y'know these things are *really* hard to load...<br>
+							<br>
+							
+						GEORGE: All right, OK, I'm goin' in.<br>
+							<br>
+							
+						JERRY: We've got to talk about this (to Elaine)<br>
+							<br>
+							
+						ELAINE: All right.<br>
+							<br>
+							
+						(They Enter)<br>
+							<br>
+							
+						GEORGE: Hi, hi, hi, You were wonderful.<br>
+							<br>
+							
+						NOEL: No..<br>
+							<br>
+							
+						GEORGE: Oh, these are my friends, Elaine and Jerry, ... Noel<br>
+							<br>
+							
+						JERRY: You play a *Hell* of a piano.<br>
+							<br>
+							
+						ELAINE: Yeah, I was really moved, *really* moved.<br>
+							<br>
+							
+						NOEL: Well didn't you hear that person laughing? I couldn't play. I was *humiliated...<br>
+							<br>
+							
+						ELAINE: Well, I'm sure it wasn't *at* you.<br>
+							<br>
+							
+						NOEL: Well then, what was she laughing at?<br>
+							<br>
+							
+						JERRY: Pez?<br>
+							<br>
+							
+						NOEL: Uh, no, No thank you. Did you see her?<br>
+							<br>
+							
+						GEORGE: Me, uh, uh, no, ...<br>
+							<br>
+							
+						JERRY: Anyone who would laugh at a recital is probably some sort of lunatic anyway. I mean only a sick twisted mind could be that rude and ignorant.<br>
+							<br>
+							
+						ELAINE: Maybe some mental defective put something stupid on her leg.<br>
+							<br>
+							
+						JERRY: Even if this so called mental defective did put something on her leg she's still the one who laughed.<br>
+							<br>
+							
+						NOEL: I'll never forget that laugh for the rest of my life. [exits]<br>
+							<br>
+							
+						ELAINE: I'm sure she would apologize if she could. Probably somebody is holding her back against every fibre in her being.<br>
+							<br>
+							
+						GEORGE: If she want's to continue to have a fibre of her being she'll be very careful (hitting each other)<br>
+							<br>
+							
+						[Noel enters]<br>
+							<br>
+							
+						GEORGE: All right, so are you ready, so we'll go out and get something to eat.<br>
+							<br>
+							
+						NOEL: I don't feel like it tonight.<br>
+							<br>
+							
+						JERRY: We'll be outside<br>
+							<br>
+							
+						ELAINE: Yeah<br>
+							<br>
+							
+						JERRY: It was nice meeting you By the way, How do you warm up your fingers before you play?<br>
+							<br>
+							
+						NOEL: I just crack my knuckles.<br>
+							<br>
+							
+						GEORGE: We'll have a good time<br>
+							<br>
+							
+						NOEL: I don't feel like it<br>
+							<br>
+							
+						GEORGE: Ah, come on<br>
+							<br>
+							
+						NOEL: I said I DON'T FEEL LIKE IT!<br>
+							<br>
+							
+						GEORGE: Um, all right, um, uh, I'll call 'ya. I'll call you and we'll talk on the phone. A telephone communiqu&eacute;. Every thing is fine ok, uh, fine, .. [exits]<br>
+							<br>
+							<br>
+							
+						[MONKS]<br>
+							<br>
+							
+						JERRY: You know I thing Kramer might have been responsible for getting Richie involved with drugs in the first place.<br>
+							<br>
+							
+						ELAINE: What? How?<br>
+							<br>
+							
+						JERRY: A few years ago the comedy club had a softball team. Kramer was our first baseman You couldn't get anything by him It was unbelievable. Anyway this one game we came back to win from like 8 runs behind. So Kramer says to Richie why don't you dump the bucket of Gatorade on Marty Benson's head? The club owner. So Richie goes ahead and does it.<br>
+							<br>
+							
+						ELAINE: So? What happened?<br>
+							<br>
+							
+						JERRY: What happened? The guy was like 67 years old, it was freezing out, he caught a cold, got pneumonia, and a month later he was dead.<br>
+							<br>
+							
+						ELAINE: Shut up!<br>
+							<br>
+							
+						JERRY: All the comedians were happy. He was one of these club owners nobodu liked anyway. But Richie was never the same.<br>
+							<br>
+							
+						ELAINE: Whar about Kramer?<br>
+							<br>
+							
+						JERRY: He's the same!<br>
+							<br>
+							<br>
+							
+						[Jerry on phone at home]<br>
+							<br>
+							
+						JERRY: Are you sure you want me John. I have spoken to Richie in two years. I don't have a good apartment for an intervention. The furniture, it's very non-confrontational. All right All right. Goodbye. [to Kramer] Remember Ricie Appel?<br>
+							<br>
+							
+						KRAMER: (looks shocked) Oh sure, the guy I told to pour the Gatorade that killed Marty Benson?<br>
+							<br>
+							
+						JERRY: Right, we'll John Mollika is organizing some kind of intervention for him. We're having it here.<br>
+							<br>
+							
+						KRAMER: Can I get in on that?<br>
+							<br>
+							
+						JERRY: What do you think? It's like a poker game?<br>
+							<br>
+							
+						KRAMER: Is Elaine going?<br>
+							<br>
+							
+						JERRY: Yeah<br>
+							<br>
+							
+						KRAMER: Well, I knew him as well as she did.<br>
+							<br>
+							
+						JERRY: Yeah, but John invited her.<br>
+							<br>
+							
+						KRAMER: So what are you saying, you don't want me to intervene?<br>
+							<br>
+							
+						JERRY: No, intervene, go intervene all you want. I am just afraid you might be interfering while we're intervening.<br>
+							<br>
+							
+						(Buzzer)<br>
+							<br>
+							
+						GEORGE: It's George<br>
+							<br>
+							
+						JERRY: Stop smelling your arm.<br>
+							<br>
+							
+						KRAMER: You know I got a great idea for a cologne. The Beach. You spray it on and you smell like you just came home from the beach<br>
+							<br>
+							
+						JERRY: Hum, a cologne that smells like the beach. I can't believe I'm saying this, &quot;That's not a bad idea.&quot;<br>
+							<br>
+							
+						KRAMER: Tell me about it!<br>
+							<br>
+							
+						JERRY: Why don't you call Steve D'Jiff, he works in the marketing department at Calvin Klein. In fact he's a good friend of John Mollika and Richie also.<br>
+							<br>
+							
+						[George enters]<br>
+							<br>
+							
+						GEORGE: Well it's over. It's definitely over.<br>
+							<br>
+							
+						JERRY: She broke up with you?<br>
+							<br>
+							
+						GEORGE: No, but I can tell she's going to. I can sense it. We had this terrible phone conversation. I was so nervous before I called I made up this whole list of things to talk about.<br>
+							<br>
+							
+						JERRY: What was on the list?<br>
+							<br>
+							
+						GEORGE: Let's see, How I'm very good at going in reverse in my car, why isn't Postum a more popular drink,<br>
+							<br>
+							
+						JERRY: Yeah, Postum is under-ratted,<br>
+							<br>
+							
+						GEORGE: Anyway there was all this tension. I asked her if she wanted to go out to dinner and she said &quot;no, maybe we could get together for lunch.&quot; You know what that means.<br>
+							<br>
+							
+						JERRY: What's wrong with lunch?<br>
+							<br>
+							
+						GEORGE: Lunch is fine at the beginning then you move on to dinner. you don't move back to lunch. It's like being demoted. I'll never do another crossword puzzle with her again. I know it.<br>
+							<br>
+							
+						KRAMER: I like the Jumble You ever do the Jumble?<br>
+							<br>
+							
+						GEORGE: I have no power Do you understand? I need hand. I have no hand.<br>
+							<br>
+							
+						KRAMER: Break up with her<br>
+							<br>
+							
+						GEORGE: What?<br>
+							<br>
+							
+						KRAMER: You break up with her. You reverse everything that way.<br>
+							<br>
+							
+						JERRY: A preemptive breakup.<br>
+							<br>
+							
+						GEORGE: A preemptive breakup. This is an incredible idea. I got nothing to lose. We either break up which she would do anyway but at least I go out with some Dignity. Completely turn the tables. It's absolutely brilliant.<br>
+							<br>
+							<br>
+							
+						[MONKS]<br>
+							<br>
+							
+						GEORGE: So, I am have to going to break up with you.<br>
+							<br>
+							
+						NOEL: You're breaking up with me?<br>
+							<br>
+							
+						GEORGE: I, ... am breaking up with, ... you.<br>
+							<br>
+							
+						NOEL: Wow.<br>
+							<br>
+							
+						GEORGE: Shocked?<br>
+							<br>
+							
+						NOEL: I really am.<br>
+							<br>
+							
+						GEORGE: Never expected this did you?<br>
+							<br>
+							
+						NOEL: I thought everything was fine.<br>
+							<br>
+							
+						GEORGE: Well, live and learn.<br>
+							<br>
+							
+						NOEL: I don't understand. You're breaking up with me. Didn't we have fun doing the crossword puzzles?<br>
+							<br>
+							
+						GEORGE: Kind of.<br>
+							<br>
+							
+						NOEL: I'm very confused.<br>
+							<br>
+							
+						GEORGE: Well, I didn't mean to hurt you kid.<br>
+							<br>
+							
+						NOEL: I thought,...<br>
+							<br>
+							
+						GEORGE: Now, stop it ...<br>
+							<br>
+							
+						NOEL: What do you want, I can make you happy.<br>
+							<br>
+							
+						GEORGE: When you're playing the piano do you think about me?<br>
+							<br>
+							
+						NOEL: I don't know.<br>
+							<br>
+							
+						GEORGE: This is what I'm talking about.<br>
+							<br>
+							
+						NOEL: OK, I'll think about you.<br>
+							<br>
+							
+						GEORGE: All the time.<br>
+							<br>
+							
+						NOEL: All the time? ... OK, All the time.<br>
+							<br>
+							
+						GEORGE: I can't hear you.<br>
+							<br>
+							
+						NOEL: All the time. ALL THE TIME.<br>
+							<br>
+							
+						GEORGE: See, It's not so hard.<br>
+							<br>
+							<br>
+							
+						[CALVIN KLEIN]<br>
+							<br>
+							
+						KRAMER: Go ahead smell, smell<br>
+							<br>
+							
+						STEVE: Yeah, so?<br>
+							<br>
+							
+						KRAMER: Do you recognize it? ... The beach.<br>
+							<br>
+							
+						STEVE: What are you talking about?<br>
+							<br>
+							
+						KRAMER: Oh, I'm talking about the beach.<br>
+							<br>
+							
+						STEVE: What about it?<br>
+							<br>
+							
+						KRAMER: You know the way you smell when you first come home from the beach? Well, I want to make a cologne that captures the essence of that smell. Oh yeah.<br>
+							<br>
+							
+						STEVE: That is the dumbest idea I have ever heard.<br>
+							<br>
+							
+						KRAMER: Oh, wait, Did you here what I just said?<br>
+							<br>
+							
+						STEVE: Do you think people are going to pay $80 a bottle to smell like dead fish and sea weed? That's why people take showers when the come home from the beach. It's an objectionable offensive odour.<br>
+							<br>
+							
+						KRAMER: So you don't think it's a good idea?<br>
+							<br>
+							<br>
+							
+						[The Intervention [NOTE:DOUBLE CHECK THIS PART FOR SURE!!!!]<br>
+							<br>
+							
+						(To Elaine)<br>
+							<br>
+							
+						GUY: The membranes get dried and it just starts bleeding. Since I was a kid so I have to stick tissue up there<br>
+							<br>
+							
+						ELAINE: (very uninterested) Uh, you have to work like that?<br>
+							<br>
+							
+						GUY: Nobody minds Nobody has ever said anything to me.<br>
+							<br>
+							
+						(To Jerry)<br>
+							<br>
+							
+						OTHER GUY: Are there any ice cubes?<br>
+							<br>
+							
+						JERRY: In the freezer.<br>
+							<br>
+							
+						OTHER GUY: I looked. There aren't any ice cubes.<br>
+							<br>
+							
+						JERRY: Well I guess there aren't any ice cubes.<br>
+							<br>
+							
+						OTHER GUY: I can't drink this. It's warm! (walks away)<br>
+							<br>
+							
+						GUY: Shouldn't we rehearse this a little bit before Richie comes?<br>
+							<br>
+							
+						STEVE: What's the plan?<br>
+							<br>
+							
+						JERRY: Do I have to talk? I don't feel like talking.<br>
+							<br>
+							
+						OTHER GUY: Well, if he's not going to talk I'm not going to talk either.<br>
+							<br>
+							
+						GUY: No, we all have to talk.<br>
+							<br>
+							
+						ELAINE: What's the order?<br>
+							<br>
+							
+						GUY: We'll go in alphabetical order. First Roberta.<br>
+							<br>
+							
+						ROBERTA: Why am I first?<br>
+							<br>
+							
+						ELAINE: Albano is your last name.<br>
+							<br>
+							
+						ROBERTA: That's not my name any more. I'm divorced.<br>
+							<br>
+							
+						STEVE: I'll go first.<br>
+							<br>
+							
+						(Kramer enters)<br>
+							<br>
+							
+						KRAMER: Hey.<br>
+							<br>
+							
+						JERRY: Hey.<br>
+							<br>
+							
+						KRAMER: Is this the interference?<br>
+							<br>
+							
+						JERRY: Intervention.<br>
+							<br>
+							
+						OTHER GUY: What are you doing here?<br>
+							<br>
+							
+						KRAMER: Uh, is it all right if I stay for the intervention?<br>
+							<br>
+							
+						STEVE: Hey, this is for close friends only.<br>
+							<br>
+							
+						KRAMER: I'm a friend. Who do you think told him to pour the Gatorade over Marty Benson's head?<br>
+							<br>
+							
+						OTHER GUY: Let him stay.<br>
+							<br>
+							
+						KRAMER: Hey, you know I got someone to make up that cologne for me, big mouth.<br>
+							<br>
+							
+						STEVE: Somebody's going to make that crap?<br>
+							<br>
+							
+						(Some old guys enter)<br>
+							<br>
+							
+						OLD GUY: Kramer!<br>
+							<br>
+							
+						KRAMER: Hey, come on, these are some of my polar bear buddies.<br>
+							<br>
+							
+						OTHER GUY: They can't stay.<br>
+							<br>
+							
+						OLD GUY: We're having a party here?<br>
+							<br>
+							
+						JERRY: No, we're having an intervention<br>
+							<br>
+							
+						OLD GUY: An intervention? Who's intervening?<br>
+							<br>
+							
+						JERRY: There's a friend of ours on drugs and we're going to confront him.<br>
+							<br>
+							
+						OLD GUY: Sure, we used to do that when one of our polar bears stopped coming. We would go to his house and say, &quot;What you don't want to be a polar bear anymore? It's too cold for you?&quot;<br>
+							<br>
+							
+						(Buzzer)<br>
+							<br>
+							
+						GUY: It's him.<br>
+							<br>
+							
+						ROBERTA: What should we do?<br>
+							<br>
+							
+						ELAINE: Hide!<br>
+							<br>
+							
+						JERRY: It's NOT a surprise party! Yeah (to intercom)<br>
+							<br>
+							
+						GEORGE: It's George<br>
+							<br>
+							
+						JERRY: Yeah, come on up. ... It's not him.<br>
+							<br>
+							
+						GUY: If you don't go out with me it's because I'm a bar tender.<br>
+							<br>
+							
+						ELAINE: Look, I don't think this is appropriate right now.<br>
+							<br>
+							
+						GUY: Is it because I have a tissue in my nose?<br>
+							<br>
+							
+						ELAINE: You're getting warm.<br>
+							<br>
+							
+						(George and Noel enter (Noel looks awful)<br>
+							<br>
+							
+						GEORGE: We just came from Chadway's(?) What's going on.<br>
+							<br>
+							
+						JERRY: We're having the intervention for Richie.<br>
+							<br>
+							
+						GEORGE: Oh, right, right, the intervention. Should we leave?<br>
+							<br>
+							
+						JERRY: Well, uh..<br>
+							<br>
+							
+						NOEL: (happily) Elaine, hi.<br>
+							<br>
+							
+						ELAINE: Oh, hi Noel<br>
+							<br>
+							
+						(Noel sits on couch with Elaine with Old Guy between them)<br>
+							<br>
+							
+						JERRY: Well, you're looking well.<br>
+							<br>
+							
+						GEORGE: Jerry, let me tell you something, &quot;A man without hand is not a man.&quot; I got so much hand I'm coming out of my gloves. I got to thank Kramer.<br>
+							<br>
+							
+						STEVE: Even if I were dragged through manure I still wouldn't put that stuff on.<br>
+							<br>
+							
+						GEORGE: (to Kramer) This man is a genius. Genius!<br>
+							<br>
+							
+						STEVE: You think so?<br>
+							<br>
+							
+						GEORGE: I don't think so I know so, Kramer, come here I got to talk to you<br>
+							<br>
+							
+						OLD MAN: The male kangaroo doesn't have a pouch only the female has it. The male has pouch envy.<br>
+							<br>
+							
+						ELAINE: (Chuckles)<br>
+							<br>
+							
+						Old GUY; at least give me a pocket.<br>
+							<br>
+							
+						ELAINE: (laughs)<br>
+							<br>
+							
+						(Noel turns to Elaine. Jerry raises his eyes to heaven)<br>
+							<br>
+							
+						NOEL: That laugh. That's the laugh. That's it. You're the one.<br>
+							<br>
+							
+						ELAINE: No, no. It was an accident. It really wasn't my fault. It was Jerry.<br>
+							<br>
+							
+						(Jerry put a Pez dispenser on my leg)<br>
+							<br>
+							
+						NOEL: You put a Pez dispenser on her leg during my recital?.<br>
+							<br>
+							
+						JERRY: I didn't know she would laugh.<br>
+							<br>
+							
+						NOEL: You lied to me George, you lied to me.<br>
+							<br>
+							
+						GEORGE: No, I, uh, um, wa, wa, What did I do? ... Where are you going?<br>
+							<br>
+							
+						NOEL: I ... am breaking up ... with you!<br>
+							<br>
+							
+						GEORGE: You can't break up with me. I've got hand.<br>
+							<br>
+							
+						NOEL: And you're going to need it.<br>
+							<br>
+							
+						(Noel exits, George chases her)<br>
+							<br>
+							
+						(Richie and John enter)<br>
+							<br>
+							
+						JERRY: Hey Richie<br>
+							<br>
+							
+						RICHIE: So what's going on?<br>
+							<br>
+							
+						(Later)<br>
+							<br>
+							
+						JERRY: It was pretty ugly from the get go. he's not listening, He's hostile, he's talking back.<br>
+							<br>
+							
+						GEORGE: I can't do these puzzles.<br>
+							<br>
+							
+						JERRY: So he starts to get up He spots the Pez dispenser on the coffee table<br>
+							<br>
+							
+						GEORGE: Ah ah Pez dispenser.<br>
+							<br>
+							
+						JERRY: He picks it up - he stares at it - It's like he's hypnotized by it. Then he's telling us this story about how when he was a kid he was in the car with his father, and his father was trying to load one of them<br>
+							<br>
+							
+						GEORGE: Well they're hard to load.<br>
+							<br>
+							
+						JERRY: Tell me something I don't know. So as the father's trying to load it he loses control of the car and it crashes into a high school cafeteria. Nobody's hurt but Pez is all over the car. And the dispenser was destroyed virtually beyond recognition.<br>
+							<br>
+							
+						GEORGE: Poor kid.<br>
+							<br>
+							
+						JERRY: So as he's telling the story he starts crying.<br>
+							<br>
+							
+						GEORGE: What did you do?<br>
+							<br>
+							
+						JERRY: What do you think? I gave him my Pez dispenser.<br>
+							<br>
+							
+						GEORGE: Wow<br>
+							<br>
+							
+						JERRY: Two hours later he checks into Smither's clinic. I talked to the doctor yesterday. He's doing great on the rehab. He's hooked on Pez. He's eating them like there's no tomorrow.<br>
+							<br>
+							
+						GEORGE: What's a three letter word for candy?<br>
+							<br>
+							
+						JERRY: I can't do those things.<br>
+							<br>
+							<br>
+							
+						The End</td>
+						</tr>
+						<tr height="6">
+							<td class="bottom2" width="645" height="6"></td>
+						</tr>
+						<tr>
+							<td width="645">
+								<div align="center">
+									<font size="-1">Copyright 2006 seinology.com | All Rights Reserved | Designed by 13erla</font></div>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+		<p></p>
+	</body>
+
+</html>

@@ -1,0 +1,1180 @@
+<tdOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+<html>
+
+	<head>
+		<meta http-equiv="content-type" content="text/html;charset=ISO-8859-1">
+		<meta name="description" content="Top Source for Seinfeld">
+		<meta name="keywords" content="seinfeld, sienfeld, Jerry Seinfeld, Julia Louis Dreyfus, Jason Alexander, Michael Richards, Kramer, George, Costanza, Elaine Benes, morty, Larry David">
+		<title>Seinology.com :: Scripts :: 38-The Letter</title>
+	<link rel='stylesheet' href='/stylesheet.css' type='text/css'>
+	</head>
+
+	<body>
+			<table align="center" width="787" border="0" cellspacing="0" cellpadding="0">
+				<tr>
+					<td><font size="-2" color="red">Seinology.com - </font><font size="-3" color="black">Where Seinfeld Content and Accuracy Matter Most. Seinfeld scripts in pdf form, Seinfeld episode video clips, Seinfeld episode audio clips, Jerry Seinfeld appearances, Julia Louis-Dreyfus appearances, Michael Richards appearances, Jason Alexander appearances, Seinfeld discussion Forum, Seinfeld Where are they Now? Seinlanguage Newsletter, Popular Seinfeld Lists, Seinfeld episode standup, Seinfeld episode guide, Seinfeld fan fiction. Seinfeld content all on one domain. Seinology.com enjoy your stay.</font></td>
+				</tr>
+			</table>
+		
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr height="100">
+				<td class="logo"></td>
+			</tr>
+			<tr><td class="ads" align="center" background=#8694fa>
+				<script type="text/javascript"><!--
+google_ad_client = "pub-1924026976931416";
+google_ad_width = 728;
+google_ad_height = 90;
+google_ad_format = "728x90_as";
+google_ad_type = "text";
+google_ad_channel = "";
+google_color_border = "FFFFFF";
+google_color_bg = "8694fa";
+google_color_link = "0000FF";
+google_color_text = "000000";
+google_color_url = "002E3F";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></td></tr>
+		</table>
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr>
+				<td valign="top" width="136">
+					<table width="136" border="0" cellspacing="0" cellpadding="0">
+						<tr height="24">
+							<td class="navigation">
+								<div align="center">
+									
+									<b>Navigation</b></div>
+							</td>
+						</tr>
+						<tr height="199">
+							<td class="spacer1" valign="top" width="136" height="199">
+								<div align="center">
+									<font size="-1"><a href="http://www.seinology.com">Home</a><br>
+										<a href="http://board.seinology.com">Forum</a><br>
+										<a href="http://www.seinology.com/av.shtml">Audio/Video</a><br>
+										<a href="http://www.seinology.com/scripts.shtml">Scripts</a><br>
+										<a href="http://www.seinology.com/survivor.shtml">Survivor</a><br>
+										<a href="http://www.seinology.com/fanfics.shtml">Fan Fiction</a><br>
+										<a href="http://www.seinology.com/gallery/">Gallery</a><br>
+										<a href="http://www.seinology.com/newsletter.shtml">Newsletter</a><br>
+										<a href="http://www.seinology.com/lists.shtml">Lists</a><br>
+										<a href="http://www.seinology.com/epguide.shtml">Episode Guide</a><br>
+										<a href="http://www.seinology.com/links.shtml">Links</a><br>
+										<a href="http://www.seinology.com/faqother.shtml">Faq + others</a><br>
+										<a href="http://www.seinology.com/legal.shtml">Legal</a></font></div>
+							</td>
+						</tr>
+						
+						<tr>
+							<td class="nav2" width="136">
+							<div align="center"><b>Search</b></div></td>
+						</tr>
+						<tr>
+							<td class="spacer1" width="136" valign="top"><div align="center"><form method="get" action="http://www.seinology.com/search/search.cgi">
+<p><label for="fdse_Match">Match</label><br>
+<select name="Match" id="fdse_Match" size="1">
+<option value="1">All</option>
+<option value="0">Any</option>
+<option value="2">Phrase</option>
+</select></p>
+<p><label for="fdse_Realm">Where?</label><br>
+<select name="Realm" id="fdse_Realm" size="1">
+<option selected="selected" value="All">EntireSite</option>
+<option value="Ep Guide">Ep Guide</option>
+<option value="Images">Images</option>
+<option value="Lists">Lists</option>
+<option value="Newsletters">Newsletters</option>
+<option value="Scripts">Scripts</option>
+<option value="Notes..Nothing">Notes..Nothing</option>
+</select></p>
+<p><input type="text" name="Terms" size="14" id="fdse_Terms"><br>
+<input type="submit" class="submit" name="submitButtonName" value="Search"></p>
+</div></form></td>
+						</tr>
+						<tr><td class="bottom" width="136" height="10" valign="top">
+						</td>
+						</tr>
+					</table>
+				</td>
+				<td width="4"></td>
+				<td valign="top" width="645">
+					<table width="645" border="0" cellspacing="0" cellpadding="0">
+						<tr height="18">
+							<td width="645" height="35" class="bar">
+								<div align="center">
+									<b><font size="+2" color="black">Script</font></b></div>
+							</td>
+						</tr>
+						<tr height="362">
+							<td class="spacer2" valign="top" width="645" height="362">
+
+						<p><font size="-2">Episode 38 - The Letter<br>
+							
+						pc: 320, season 3, episode 21<br>
+							
+						Broadcast date: March 25, 1992<br>
+							<br>
+							
+						Written By Larry David<br>
+							
+						Directed By Tom Cherones<br>
+							<br>
+							
+						-------------------------------------------------------------------------------<br>
+							<br>
+							
+						The Cast<br>
+							
+						Regulars:<br>
+							
+						Jerry Seinfeld ....................... Jerry Seinfeld<br>
+							
+						Jason Alexander .................. George Costanza<br>
+							
+						Julia Louis-Dreyfus ............. Elaine Benes<br>
+							
+						Michael Richards ................. Kramer<br>
+							<br>
+							
+						Guest Stars:<br>
+							<br>
+							
+						Catherine Keener .............. Nina<br>
+							
+						Richard Venture ................. Leonard West<br>
+							
+						Elliott Reid ........................... Mr. Armstrong<br>
+							
+						Justine Johnston ................. Mrs. Armstrong<br>
+							
+						Shashawnee Hall ................ Usher<br>
+							
+						rc: Richard Fancy ................ Mr. Lippman<br>
+							<br>
+							
+						==================================================================<br>
+							<br>
+							
+						[ACT 1]<br>
+							<br>
+							
+						(Nina&#146;s art studio. Kramer is posing for Nina (Jerry&#146;s current girlfriend.)<br>
+							<br>
+							
+						NINA: (laughing) Kramer, would you hold still? I can&#146;t do this if you keep moving.<br>
+							<br>
+							
+						KRAMER: You sure you don&#146;t want me to take my clothes off? (beat) I&#146;ll do it!<br>
+							<br>
+							
+						NINA: No, that&#146;s the last thing in the world I want you to do.<br>
+							<br>
+							
+						KRAMER: Well, why don&#146;t you take your clothes off?<br>
+							<br>
+							
+						NINA: I don&#146;t know... I don&#146;t think Jerry would like that.<br>
+							<br>
+							
+						KRAMER: (debonair smile) Well, it&#146;d be our little secret.<br>
+							<br>
+							<br>
+							
+						[CUT TO: Jerry&#146;s apartment]<br>
+							<br>
+							
+						GEORGE: (bursting out of the bathroom, fumbling with his fly) Button fly! Why do they put buttons on a fly? It takes ten minutes to get these things open!<br>
+							<br>
+							
+						JERRY: I like the button fly.<br>
+							<br>
+							
+						GEORGE: (incredulous) What?<br>
+							<br>
+							
+						JERRY: That is one place on my wardrobe I do not need sharp interlocking metal teeth. It&#146;s like a mink trap down there. (beat) What are you doing today?<br>
+							<br>
+							
+						GEORGE: Nothing.<br>
+							<br>
+							
+						JERRY: I have to go meet Nina. Want to come up to her lot, check out her paintings?<br>
+							<br>
+							
+						GEORGE: I don&#146;t get art.<br>
+							<br>
+							
+						JERRY: There&#146;s nothing to get.<br>
+							<br>
+							
+						GEORGE: Well, it always has to be explained to me, and then I have to have someone explain the explanation.<br>
+							<br>
+							
+						JERRY: She does a lot of abstract stuff. In fact she's painting Kramer right now.<br>
+							<br>
+							
+						GEORGE: What for?<br>
+							<br>
+							
+						JERRY: She sees something in him.<br>
+							<br>
+							
+						GEORGE: So do I, but I wouldn't hang it on a wall.<br>
+							<br>
+							<br>
+							
+						[CUT TO: Nina's studio again--same scene]<br>
+							<br>
+							
+						KRAMER: Are you getting the eyes? 'Cause they're brown. (beat) Or, really, they're dark brown, like rich, Columbian coffee.<br>
+							<br>
+							
+						NINA: Tell me about Elaine.<br>
+							<br>
+							
+						KRAMER: She and Jerry were a big thing, like Abe Lincoln and Mary Todd.<br>
+							<br>
+							
+						NINA: But, they're still friends.<br>
+							<br>
+							
+						KRAMER: Oh yeah, they're like this (holds up two fingers together).<br>
+							<br>
+							
+						NINA: Don't you think that's strange?<br>
+							<br>
+							
+						KRAMER: Why, what's the difference?<br>
+							<br>
+							
+						NINA: Well, are you still friends with any of your ex-girlfriends?<br>
+							<br>
+							
+						KRAMER: Well, you know... I, uh... have many relationships.<br>
+							<br>
+							<br>
+							
+						[CUT TO: the door outside Nina's studio]<br>
+							<br>
+							
+						GEORGE: You know, I'm a little nervous.<br>
+							<br>
+							
+						JERRY: Why?<br>
+							<br>
+							
+						GEORGE: Well, you know... the friend meeting the new woman. I feel like I'm getting fixed up for a friendship.<br>
+							<br>
+							
+						JERRY: I don't know how long this is gonna last.<br>
+							<br>
+							
+						GEORGE: Really? I thought you liked her.<br>
+							<br>
+							
+						JERRY: I do... she's got like a jealousy thing. She doesn't like me having fun with anyone but her. (knocks on the door)<br>
+							<br>
+							
+						GEORGE: You know, it's a miracle you're not married. (beat) Hey, I'm not obligated to buy anything, am I?<br>
+							<br>
+							
+						(Nina opens the door)<br>
+							<br>
+							
+						JERRY: Hi, Nina. (smooch) This is my friend George.<br>
+							<br>
+							
+						NINA: How nice to meet you, I've heard a lot about you. (George nods)<br>
+							<br>
+							
+						JERRY: (walking over to where Kramer is posing) Hey, look at this guy!<br>
+							<br>
+							
+						KRAMER: Yeah!<br>
+							<br>
+							
+						JERRY: (to Nina) I brought George up to see some of your paintings.<br>
+							<br>
+							
+						NINA: Oh, are you interested?<br>
+							<br>
+							
+						GEORGE: (looking uncomfortable) Um... yeah! Sure, sure I'm interested.<br>
+							<br>
+							
+						KRAMER: George, you gonna buy a painting?<br>
+							<br>
+							
+						GEORGE: (gritting teeth) Yeah, sure.<br>
+							<br>
+							
+						NINA: Are you an art-lover?<br>
+							<br>
+							
+						GEORGE: I am an art-adorer! I adore art.<br>
+							<br>
+							
+						NINA: Great! Well, take a look around. Pick out something you like. (George reluctantly begins to look around, while Jerry strolls over to the painting-in-progress [Kramer] and picks up a brush.)<br>
+							<br>
+							
+						JERRY: May I? (pantomimes making a big &quot;X&quot; across the painting)<br>
+							<br>
+							
+						NINA: (laughing) Get outta here! (beat) Here, play with this. (hands Jerry a small white envelope)<br>
+							<br>
+							
+						JERRY: What's this?<br>
+							<br>
+							
+						NINA: My father gave me four tickets to the Yankee game for Saturday afternoon. Owner's box, first row behind the dugout.<br>
+							<br>
+							
+						JERRY: (sincerely disappointed) Oh, Saturday... I'm working, I'm going out of town.<br>
+							<br>
+							
+						NINA: Oh, well. I'm not gonna go without you. Do you guys want 'em?<br>
+							<br>
+							
+						KRAMER: (immediately) Yeah.<br>
+							<br>
+							
+						JERRY: They're right behind the dugout, George, first row!<br>
+							<br>
+							
+						GEORGE: Behind the dugout, are you kidding? How did you get them?<br>
+							<br>
+							
+						NINA: Oh, my father's the Yankees accountant... it's the owner's box.<br>
+							<br>
+							
+						GEORGE: All my life I've dreamed of sitting front row, behind the dugout!<br>
+							<br>
+							
+						NINA: (gesturing towards a small, ugly painting George was apparently look-ing at and happens to be holding) You like that one?<br>
+							<br>
+							<br>
+							
+						[CUT TO: Saturday, the game. George, Kramer, and Elaine are being lead to their seats]<br>
+							<br>
+							
+						GEORGE: Look at where we are! (referring to the seat usher) He's not stopping! He just keeps going and going and going! (the usher abruptly stops at the second row) We're not in the first row?<br>
+							<br>
+							
+						USHER: No, no, these are your seats.<br>
+							<br>
+							
+						GEORGE: She said first row! Right behind the dugout!<br>
+							<br>
+							
+						ELAINE: Well, it's the second row. It's just as good.<br>
+							<br>
+							
+						GEORGE: I was all primed for the first row; I was gonna put my feet up on the dugout!<br>
+							<br>
+							
+						ELAINE: Would you shut up? These are great! You can't get any better than this.<br>
+							<br>
+							
+						GEORGE: Oh, there's better, (pointing at the row in front of them) right there, that's better.<br>
+							<br>
+							
+						KRAMER: Right. (Elaine giggles) Oh boy... okay, who wants a dog? (Kramer hands out the hot dogs)What a great day!<br>
+							<br>
+							
+						ELAINE: I could've been at my boss' son's bris right now.<br>
+							<br>
+							
+						GEORGE: (amused) You're supposed to do that?<br>
+							<br>
+							
+						ELAINE: (shrugs) Yeah. (beat) What makes you think anyone would want to go to a circumcision?<br>
+							<br>
+							
+						GEORGE: I'd rather go to a hanging.<br>
+							<br>
+							
+						ELAINE: Anyway, I called him back... I told him I had to go visit my father in the hospital in Maryland. (George laughs)<br>
+							<br>
+							
+						KRAMER: (screaming at the players on the field) YOU BETTER CATCH IT,<br>
+							<br>
+							
+						JOHNNY, 'CAUSE THIS AIN'T PHILIDELPHIA!!<br>
+							<br>
+							
+						(a man approaches the trio)<br>
+							<br>
+							
+						MAN: George?<br>
+							<br>
+							
+						GEORGE: Yeah?<br>
+							<br>
+							
+						MAN: Hi. I'm Leonard West, Nina's father.<br>
+							<br>
+							
+						GEORGE: Hi! Mr. West, this is my friend Elaine--<br>
+							<br>
+							
+						ELAINE: Hi!<br>
+							<br>
+							
+						KRAMER: (screaming again) HEY, 230 AIN'T GONNA CUT IT IN THIS TOWN, BABE!<br>
+							<br>
+							
+						GEORGE: --and this is Kramer.<br>
+							<br>
+							
+						KRAMER: Oh, hey.<br>
+							<br>
+							
+						(the Yankees make a good play, the crowd applauds)<br>
+							<br>
+							
+						WEST: So how are the seats?<br>
+							<br>
+							
+						GEORGE: Okay.<br>
+							<br>
+							
+						ELAINE: Great, great.<br>
+							<br>
+							
+						KRAMER: Yeah.<br>
+							<br>
+							
+						WEST: George, I heard you bought one of Nina's paintings.<br>
+							<br>
+							
+						GEORGE: Yeah, it's being framed right now. I don't even know what it costs. (beat) Not, uh, too expensive, is it?<br>
+							<br>
+							
+						WEST: Well, if you have a lot of money.<br>
+							<br>
+							
+						(Yankees make a horrible play, the crowd responds)<br>
+							<br>
+							
+						WEST: (leaving) Well, enjoy the game. (beat -- to Elaine) I think you better take off that Orioles cap.<br>
+							<br>
+							
+						ELAINE: (thinking he's joking) Yeah. I better!<br>
+							<br>
+							
+						WEST: No, no, no. Seriously. You're in the owner's box, and I don't think it's a good idea.<br>
+							<br>
+							
+						ELAINE: You're not serious.<br>
+							<br>
+							
+						WEST: Yes, yes, yes, I am!<br>
+							<br>
+							
+						ELAINE: Well, did he say that?<br>
+							<br>
+							
+						WEST: No, no, but he gave me the seats. I don't think he'd like it if you wore an Orioles cap.<br>
+							<br>
+							
+						ELAINE: Well maybe you should ask him!<br>
+							<br>
+							
+						WEST: I don't have to ask him! Now are you gonna take the hat off or not?<br>
+							<br>
+							
+						ELAINE: No! I don't have to take it off, why should I take it off? This is ridiculous!!<br>
+							<br>
+							
+						GEORGE: Just take the cap off.<br>
+							<br>
+							
+						ELAINE: George, we are at a baseball game! This is America!<br>
+							<br>
+							
+						WEST: Look. Either you take the cap off, or you'll have to leave.<br>
+							<br>
+							
+						ELAINE: Well, I don't care, I'm not taking it off.<br>
+							<br>
+							
+						GEORGE: Just take the cap off!<br>
+							<br>
+							
+						ELAINE: No!<br>
+							<br>
+							
+						(a fight starts between Elaine and George; Elaine ends up taking off<br>
+							<br>
+							
+						GEORGE'S hat, and throwing it onto the field... West calls security over, they proceed to remove Elaine)<br>
+							<br>
+							
+						KRAMER: Hey! Just wait a minute. We just got here!<br>
+							<br>
+							
+						GEORGE: (to Elaine) Do you want us to go with you?<br>
+							<br>
+							
+						KRAMER: (getting up) I'll go get your hat, George.<br>
+							<br>
+							
+						ELAINE: (sarcastically, to George) Stay!<br>
+							<br>
+							
+						GEORGE: Okay, we'll go!<br>
+							<br>
+							
+						(meanwhile Kramer is climbing over the dugout retrieve George's cap... the camera cuts to the field where the batter hits a pop fly to where Kramer is: the ball knocks him squarely in the head, he falls off the dugout onto the crowd)<br>
+							<br>
+							
+						[END OF ACT 1]<br>
+							<br>
+							<br>
+							
+						[ACT 2]<br>
+							<br>
+							
+						(Jerry's apartment--day)<br>
+							<br>
+							
+						ELAINE: ...and then the ball hits him in the head and he falls right over the railing!<br>
+							<br>
+							
+						JERRY: Is he okay?<br>
+							<br>
+							
+						ELAINE: Well, yeah, he's fine! We took him to the emergency room, and you know, the x-rays were all negative. (beat) It was quite a day!<br>
+							<br>
+							
+						JERRY: This is the most amazing story I've ever heard--why did he want you to take off the baseball cap? That is so insane!<br>
+							<br>
+							
+						ELAINE: I know! Can you imagine that?<br>
+							<br>
+							
+						(Kramer enters with a bandage wrapper around his forehead)<br>
+							<br>
+							
+						JERRY: How you feeling?<br>
+							<br>
+							
+						KRAMER: Oh, yeah, yeah, I'm fine, I'm fine. (beat--holds up newspaper) Hey, we made the paper. Eh? Look at this- page 2, sports section... we're all in the picture.<br>
+							<br>
+							
+						ELAINE: Wha- a picture?<br>
+							<br>
+							
+						KRAMER: A picture.<br>
+							<br>
+							
+						ELAINE: OUR PICTURE'S IN THERE??<br>
+							<br>
+							
+						KRAMER: Uh-huh.<br>
+							<br>
+							
+						(they all crowd around, looking at the picture)<br>
+							<br>
+							
+						ELAINE: (gasps) I cannot believe this!<br>
+							<br>
+							
+						JERRY: (pointing) There's George!<br>
+							<br>
+							
+						KRAMER: Yup, yup!<br>
+							<br>
+							
+						ELAINE: Ohmygod! Lippman could see this! He thinks I was visiting my father! Oh my g-I make up one little white lie and they put my picture in the paper!<br>
+							<br>
+							<br>
+							
+						[CUT TO: Lippman's office. Lippman is at his desk, Elaine enters.]<br>
+							<br>
+							
+						ELAINE: Hi, Mr. Lippman.<br>
+							<br>
+							
+						LIPPMAN:How's your father?<br>
+							<br>
+							
+						ELAINE: My, my father?<br>
+							<br>
+							
+						LIPPMAN:Yeah. You, you went to see him, right?<br>
+							<br>
+							
+						ELAINE: Yeah.<br>
+							<br>
+							
+						LIPPMAN:Uh-huh.<br>
+							<br>
+							
+						ELAINE: I went to visit him.<br>
+							<br>
+							
+						LIPPMAN:Uh-huh. So, what was wrong with him?<br>
+							<br>
+							
+						ELAINE: Well, you name it, uh, neuritis, uh, neuralgia...<br>
+							<br>
+							
+						LIPPMAN:But--but he's feeling better now?<br>
+							<br>
+							
+						ELAINE: Um, yup. Yes, yes, it just... such a miracle, um. My visit must have buoyed (Elaine says &quot;boyed&quot;) his spirits.<br>
+							<br>
+							
+						LIPPMAN:(correcting her) Boo-eed.<br>
+							<br>
+							
+						ELAINE: What--what did I say?<br>
+							<br>
+							
+						LIPPMAN:You said &quot;boyed.&quot;<br>
+							<br>
+							
+						ELAINE: I did?<br>
+							<br>
+							
+						LIPPMAN:Yeah.<br>
+							<br>
+							
+						(Elaine starts to laugh hysterically, and at the same time discreetly removes Lippman's sports section from his desk. She manages to maneuver it into her lap, out of sight.)<br>
+							<br>
+							
+						LIPPMAN:Well, I got a plane to catch.<br>
+							<br>
+							
+						ELAINE: Oh! Where are you going?<br>
+							<br>
+							
+						LIPPMAN:Going to Houston. It's a publisher's convention. (beat) Can I have my sports section?<br>
+							<br>
+							
+						ELAINE: Ah. ...Yeah.<br>
+							<br>
+							
+						LIPPMAN:I've been saving it for the plane. I never miss the Sunday sports section.<br>
+							<br>
+							
+						ELAINE: There's nothing to read, it's just yesterday's news. You know, the Yankees won, the Mets lost, Ricky Henderson's unhappy...<br>
+							<br>
+							
+						LIPPMAN:Right, right. (starts to take the paper from Elaine's hand; Elaine holds on tight.) What, what are you doing?<br>
+							<br>
+							
+						ELAINE: Wha-- oh! (noticing her hand) Oh, god! (laughs) That is the THIRD time today I have done that! BLAAAH! (laughs again) Grabbing news- papers... I'm just tugging at 'em... (laughs)<br>
+							<br>
+							
+						LIPPMAN:Gotta go.<br>
+							<br>
+							
+						ELAINE: Okay! Well, you know, have a nice trip, and uh... alrighty! (beat) I'll just hold down the, uh, fort!<br>
+							<br>
+							<br>
+							
+						[CUT TO: Nina's studio. Mr. and Mrs. Armstrong are admiring Nina's &quot;Kramer.&quot;]<br>
+							<br>
+							
+						MRS.ARM:I sense great vulcrability. A land child crying out for love, an innocent orphan in the post-modern world.<br>
+							<br>
+							
+						MR. ARM:I see a parasite.<br>
+							<br>
+							
+						MRS.ARM:A sexually-depraved miscrient, who is seeking to gratify only his most basic and immediate urges.<br>
+							<br>
+							<br>
+							
+						[CUT TO: Another part of the studio where Jerry and Nina are arguing.]<br>
+							<br>
+							
+						NINA: She was a guest of my father's. She should've taken the cap off.<br>
+							<br>
+							
+						JERRY: It's preposterous! They ask someone to take off a baseball cap at a baseball game. (beat) How can you defend that?<br>
+							<br>
+							<br>
+							
+						[CUT TO: Armstrongs admiring painting again.]<br>
+							<br>
+							
+						MRS.ARM:He is struggled, he is man-struggled. He lifts my spirit!<br>
+							<br>
+							
+						MR. ARM:He is a loathsome, offensive brute, yet I can't look away.<br>
+							<br>
+							<br>
+							
+						[CUT TO: Jerry and Nina again.]<br>
+							<br>
+							
+						JERRY: Look, I'm really getting tired off all the fighting. Maybe we should just end this before we really start hating each other.<br>
+							<br>
+							
+						NINA: Oh, well, you wouldn't want that because you always have to remain friends!<br>
+							<br>
+							
+						JERRY: Well, I like to remain friends with people I was friends with!<br>
+							<br>
+							
+						NINA: Hey -- why don't you just go then! And -- oh, give this to George. Tell him he owes me $500!<br>
+							<br>
+							<br>
+							
+						[CUT TO: Armstrongs]<br>
+							<br>
+							
+						MRS.ARM:He transcends time and space.<br>
+							<br>
+							
+						MR. ARM:He sickens me.<br>
+							<br>
+							
+						MRS.ARM:I love it.<br>
+							<br>
+							
+						MR. ARM:Me too.<br>
+							<br>
+							<br>
+							
+						[CUT TO: Jerry's apartment.]<br>
+							<br>
+							
+						GEORGE: Five-hundred dollars?! What?<br>
+							<br>
+							
+						JERRY: That's what she told me!<br>
+							<br>
+							
+						GEORGE: I'm not paying $500 for this! It's a piece of junk!<br>
+							<br>
+							
+						JERRY: That's what it costs!<br>
+							<br>
+							
+						GEORGE: Why did you even take it? You broke up with her!<br>
+							<br>
+							
+						JERRY: I wasn't thinking! I don't know.<br>
+							<br>
+							
+						GEORGE: You weren't thinking.<br>
+							<br>
+							
+						JERRY: Well, she framed it and everything.<br>
+							<br>
+							
+						GEORGE: Well, I'm not buying it. No way. Forget it. No way I'm buying this! (beat) I mean, look at it! What is it? It's a bunch of squiggly lines! (beat) Are you telling me you couldn't paint this?<br>
+							<br>
+							
+						JERRY: Do you want me to paint you something? I'd love to paint you some- thing!<br>
+							<br>
+							
+						GEORGE: I'm not paying for this. If you were going out with her, it'd be a different story.<br>
+							<br>
+							
+						KRAMER: (entering, handing Jerry a piece of paper) This was in front of your door.<br>
+							<br>
+							
+						GEORGE: Hey, Kramer.<br>
+							<br>
+							
+						KRAMER: Hi, Mike.<br>
+							<br>
+							
+						JERRY: (looking at the paper) Wow, a letter from Nina!<br>
+							<br>
+							
+						KRAMER: (notices the painting) Whoa, man! That is the ugliest thing I've ever seen!<br>
+							<br>
+							
+						JERRY: (reading note) Oh my god!<br>
+							<br>
+							
+						GEORGE: What?<br>
+							<br>
+							
+						JERRY: This is amazing, you can't believe this!<br>
+							<br>
+							
+						GEORGE: What's it say?<br>
+							<br>
+							
+						JERRY: Listen to this: &quot;I don't know what you expect to find out there, Jerry, you know what you want better than me. But there's one thing I do know. I know I can stand here watching you destroy everything I've ever wanted in my life, wanting to smash your face with my fists, because you won't make even the slightest effort to offer happiness and still know that I love you. You mean so much to me that I'm will-ing to take all your abuse and insults and insensitivity.&quot;<br>
+							<br>
+							
+						GEORGE: WOW!<br>
+							<br>
+							
+						KRAMER: (emotionally) She's deep.<br>
+							<br>
+							
+						JERRY: (reading on) &quot;...'cause that's what you need to do to prove I'm not going to leave you. I'm sick and tired of running from places and people and relationships. You want me, that fight for me, becau-&quot;<br>
+							<br>
+							
+						(Kramer blows his noes loudly) &quot;...because I'm sure as hell fighting for you!&quot;<br>
+							<br>
+							
+						KRAMER: You know Jerry, she sounds like a poet!<br>
+							<br>
+							
+						JERRY: No one's ever written me a letter like this. Maybe I was wrong about her!<br>
+							<br>
+							
+						KRAMER: (pushing Jerry towards the phone) Yeah! Get in there and give her a call. Pick up the phone and call her!<br>
+							<br>
+							
+						JERRY: Should I?<br>
+							<br>
+							
+						KRAMER: (screaming) YES! YOU'RE DAMN RIGHT YOU SHOULD! (hysterically) Fight for her, Jerry, she's sure as hell fighting for you!<br>
+							<br>
+							
+						JERRY: ALL RIGHT, all right! I'll call her.<br>
+							<br>
+							<br>
+							
+						[CUT TO: Jerry's apartment, another day. Jerry is helping Nina put on her coat. The TV is on a horse race.]<br>
+							<br>
+							
+						JERRY: SHOT! (the sound of a shot on the TV is heard) I told ya! (the inter- com buzzes) Yeah?<br>
+							<br>
+							
+						GEORGE: (on intercom) It's George.<br>
+							<br>
+							
+						JERRY: Come on up. (to Nina) Well, now we gotta get a posse together. I love a good posse.<br>
+							<br>
+							
+						NINA: What's the appeal of the posse?<br>
+							<br>
+							
+						JERRY: The appeal of the posse? The posse has tremendous appeal. Get away from the job, camp out, you're with your friends... Come on, it's a week-long game of hide-and-seek on horseback.<br>
+							<br>
+							
+						(George enters)<br>
+							<br>
+							
+						NINA: Hello, George.<br>
+							<br>
+							
+						GEORGE: Hey, Nina! (beat) I owe you some money, don't I?<br>
+							<br>
+							
+						NINA: Well, I really love that piece.<br>
+							<br>
+							
+						GEORGE: Oh, yeah, me too, me too. Boy oh boy oh boy...! You know, in fact, I've been thinking about it, and I feel like I'm stealing from you! Five-hundred dollars! It's gonna be worth thousands soon! You know what? On second thought, I can't even accept it.<br>
+							<br>
+							
+						NINA: No, no no no, George! A deal's a deal. I want you to have it!<br>
+							<br>
+							
+						GEORGE: This could be in a museum some day! It's not safe with me! It should really be in a doormanned building.<br>
+							<br>
+							
+						NINA: Honestly, George, the money's not important.<br>
+							<br>
+							
+						GEORGE: Who said anything about money? (intercom buzzes)<br>
+							<br>
+							
+						JERRY: Yeah?<br>
+							<br>
+							
+						ELAINE: (on intercom) It's Elaine.<br>
+							<br>
+							
+						JERRY: Come on up.<br>
+							<br>
+							
+						NINA: Elaine?<br>
+							<br>
+							
+						JERRY: ...Yeah.<br>
+							<br>
+							
+						NINA: (rolling eyes) This person does not believe in telephones, does she?<br>
+							<br>
+							
+						JERRY: She likes the pop-in. I've told her how I hate the pop-in. (pointing to George) He likes the pop-in, too.<br>
+							<br>
+							
+						GEORGE: I just popped in now. I'm a big pop-in guy.<br>
+							<br>
+							
+						JERRY: Yeah.<br>
+							<br>
+							
+						GEORGE: How 'bout Kramer.<br>
+							<br>
+							
+						JERRY: HUGE pop-in guy!<br>
+							<br>
+							
+						NINA: Well, I was leaving anyway, so, uh, we're on for tomorrow?<br>
+							<br>
+							
+						JERRY: Yeah.<br>
+							<br>
+							
+						NINA: Okay.<br>
+							<br>
+							
+						JERRY: Okay!<br>
+							<br>
+							
+						NINA: Bye. (just as Nina is about to leave, Elaine walks in.)<br>
+							<br>
+							
+						ELAINE: (to Nina) Hello!<br>
+							<br>
+							
+						(Nina doesn't respond, just walks past Elaine)<br>
+							<br>
+							
+						ELAINE: (sarcastic) Chatty gal. (beat) Lippman's coming back tomorrow, I'll be fired!<br>
+							<br>
+							
+						JERRY: If he noticed, he would have called you from Houston!<br>
+							<br>
+							
+						ELAINE: No, he wants to torture me.<br>
+							<br>
+							<br>
+							
+						[CUT TO: later on that night. George, Elaine, and Jerry are watching TV.Jerry, with the remote, is furiously flipping through channels.]<br>
+							<br>
+							
+						ELAINE: (annoyed) Oh! Would you gimme the clicker? I hate it when you're the clicker! You go too fast! (Elain makes a grab for the clicker, instigating a tug-o-war between Elaine and Jerry over the clicker)<br>
+							<br>
+							
+						JERRY: (tugging at the clicker) I'm a great clicker! (gets the clicker back) Great instincts. How dare you impune my clicking.<br>
+							<br>
+							
+						ELAINE: You're all over the dial! You don't know what you want! I've never seen you stay on anything for more than 5 seconds. Gimme that.<br>
+							<br>
+							
+						(another tug-o-war starts)<br>
+							<br>
+							
+						JERRY: Let go!<br>
+							<br>
+							
+						ELAINE: No, come on! I want it, Jerry!<br>
+							<br>
+							
+						JERRY: Let go, Elaine!<br>
+							<br>
+							
+						ELAINE: Well at least let George do it!<br>
+							<br>
+							
+						JERRY: Oh, George can't click! (George joins in the fight)<br>
+							<br>
+							
+						GEORGE: (as Jerry and Elaine continue to whine) Give it! Give it! (he finally gets the remote away from them) Pinheads.<br>
+							<br>
+							
+						(George starts clicking, the first station he lands on is playing Neil Simon's Chapter 2. After a few seconds, George gets bored, and changes the station)<br>
+							<br>
+							
+						JERRY: Wait, wait a second! Go back, go back to that. (they watch it a little longer)<br>
+							<br>
+							
+						ELAINE: It's Chapter 2, it's Neil Simon.<br>
+							<br>
+							
+						JERRY: (on to something) Wait a second... wait a second!! (he watches the TV for another minute) The letter, that's the letter!<br>
+							<br>
+							
+						ELAINE: What letter?<br>
+							<br>
+							
+						JERRY: This is the letter she wrote to me, she stole it right from the movie!<br>
+							<br>
+							
+						(Jerry get up to go find the letter. A second later, he returns, and starts reading in unison with movie on TV.)<br>
+							<br>
+							
+						JERRY: &quot;...'cause you don't even make the slightest effort to offer happiness still know that I love you!!&quot;<br>
+							<br>
+							
+						GEORGE: This is incredible!<br>
+							<br>
+							
+						JERRY: I always thought there was something funny about this letter! She copied it right out of Chapter 2! She a thief, a bunko-artist!<br>
+							<br>
+							
+						GEORGE: Maybe I won't send her that check.<br>
+							<br>
+							
+						ELAINE: You know, it's not really that terrible.<br>
+							<br>
+							
+						JERRY: What are you talking about? She completely misrepresented herself! (mimicking the letter) I don't offer happiness. I offer happiness! James Caan doesn't offer happiness!<br>
+							<br>
+							<br>
+							
+						[CUT TO: Lippman's office. Lippman is on the phone when Elaine walks in and places something on his desk. After she does, she tries to leave but Lippman, still on the phone, motions for her to stay in the room]<br>
+							<br>
+							
+						LIPPMAN:(into phone)...yeah, yeah. But she wouldn't take the cap off? (beat) But didn't she know they were the owner's seats? (beat) Aw, that's unbelievable. (beat) Yeah. Okay. Alright Lenny, thanks again. Take care. (hangs up the phone, and then, to Elaine) That was Lenny West, my accountant, who is a hell of a guy. And he handles the Yankees too; it's his biggest account. So every once in a while they throw him a couple of seats and last weekend he gave them to his daughter. She's an artist, by the way. Anyway, her daughter gives 'em to some friends, you know. One of her friends shows up wearing a Baltimore cap! (beat) You're from Baltimore, right?<br>
+							<br>
+							
+						ELAINE: Um, oh, it's Townscend, which is NEAR Baltimore.<br>
+							<br>
+							
+						LIPPMAN:Yeah, but you're an Oriole fan, right?<br>
+							<br>
+							
+						ELAINE: Well, uh, fan. My father--<br>
+							<br>
+							
+						LIPPMAN:Anyway, she refused to take the cap off; caused a whole big scene!<br>
+							<br>
+							
+						ELAINE: Really?<br>
+							<br>
+							
+						LIPPMAN:Yeah.<br>
+							<br>
+							
+						ELAINE: So... impudent.<br>
+							<br>
+							
+						LIPPMAN:Yeah, so Lenny gave me the tickets for tomorrow night. I'm inviting Frank and Marsha. 'Wantcha to come.<br>
+							<br>
+							
+						ELAINE: (pause) Ah. I've-I've got plans, though, Mr. Li--<br>
+							<br>
+							
+						LIPPMAN:Well, break 'em. You missed the bris, I want you at the game.<br>
+							<br>
+							
+						ELAINE: (very reluctant) Okay.<br>
+							<br>
+							
+						LIPPMAN:Good. (Elaine stars to leave) Oh--and Elaine. You know the Baltimore cap you got in your office? Wear it. I'm gonna have a little fun with him.<br>
+							<br>
+							
+						ELAINE: That will be fun.<br>
+							<br>
+							<br>
+							
+						[CUT TO: Nina's studio. Nina is working on a painting. Jerry is watching her, sitting on the sofa.]<br>
+							<br>
+							
+						JERRY: How's it coming?<br>
+							<br>
+							
+						NINA: Good, good.<br>
+							<br>
+							
+						JERRY: Seen any good movies lately?<br>
+							<br>
+							
+						NINA: No... not really. You?<br>
+							<br>
+							
+						JERRY: No. I like a good comedy. You know, like a Neil Simon? You like Neil Simon?<br>
+							<br>
+							
+						NINA: Neil Simon? Uh, some of his stuff.<br>
+							<br>
+							
+						JERRY: I've seen MOST of it. I guess my favorite would have to be, uh... Chapter 2. Have you ever seen that?<br>
+							<br>
+							
+						NINA: I don't know... maybe.<br>
+							<br>
+							
+						JERRY: I have. Funny, funny. In fact it was on TV just the other night. Happened to catch it. (a knock is heard at the door) I couldn't help notice a STUNNING similiarity-- (Jerry is interrupted as Nina opens answer the door...)<br>
+							<br>
+							
+						MR. ARM:Well, we've made our decision. We want &quot;The Kramer.&quot;<br>
+							<br>
+							<br>
+							
+						[CUT TO: Jerry's apartment, night. Jerry and George are watching a baseball game and talking.]<br>
+							<br>
+							
+						GEORGE: Five-thousand? Why would anybody buy Kramer for $5000? (laughs)<br>
+							<br>
+							
+						JERRY: Boy, the Yankees cannot buy a hit tonight!<br>
+							<br>
+							
+						GEORGE: So is it all over between you and... Marsha Mason?<br>
+							<br>
+							
+						JERRY: Yeah. (picks up Nina's painting George bought) And by the way, can you get this thing outta my house?<br>
+							<br>
+							
+						GEORGE: Tell you what, I'll make a deal with you. I'll sell it to you right now for ten bucks.<br>
+							<br>
+							
+						(the Yankees announcer is heard on TV)<br>
+							<br>
+							
+						TVVOICE: Uh, there's seems to be a lot of trouble in the area just behind the Yankee dugout.<br>
+							<br>
+							
+						GEORGE: Behind the dugout, that's where we were sitting the other day.<br>
+							<br>
+							
+						TVVOICE: Well, we're not going to show it, we don't want to encourage that kind of behavior. Say, it's a young lady, and boy she's really going at it with the security guard. She's a fiesty one. And now they're getting the other security guard to come down. How do you like that Seegers? Boy, she's someting. (beat) And a ball to left field...&quot;<br>
+							<br>
+							
+						(Jerry and George look at each other, wondering.)<br>
+							<br>
+							<br>
+							
+						[CUT TO: the Armstrong's dining room. Mr. and Mrs. Armstrong are having Kramer over for dinner.]<br>
+							<br>
+							
+						KRAMER: ...then, when I was seventeen, I ran away from home and hopped a steamship to Sweden. (beat) This steak is excellent, by the way.<br>
+							<br>
+							
+						MRS.ARM: More potatoes?<br>
+							<br>
+							
+						KRAMER: Yeah, sure. Please.<br>
+							<br>
+							
+						MR. ARM:Yes, yes. Go on. You hopped a steamship to Sweden?<br>
+							<br>
+							
+						KRAMER: Yeah. (beat) And, it was a big one.<br>
+							<br>
+							
+						END OF ACT 2<br>
+							<br>
+							<br>
+							
+						The End</td>
+						</tr>
+						<tr height="6">
+							<td class="bottom2" width="645" height="6"></td>
+						</tr>
+						<tr>
+							<td width="645">
+								<div align="center">
+									<font size="-1">Copyright 2006 seinology.com | All Rights Reserved | Designed by 13erla</font></div>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+		<p></p>
+	</body>
+
+</html>

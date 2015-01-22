@@ -1,0 +1,1492 @@
+<tdOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+<html>
+
+	<head>
+		<meta http-equiv="content-type" content="text/html;charset=ISO-8859-1">
+		<meta name="description" content="Top Source for Seinfeld">
+		<meta name="keywords" content="seinfeld, sienfeld, Jerry Seinfeld, Julia Louis Dreyfus, Jason Alexander, Michael Richards, Kramer, George, Costanza, Elaine Benes, morty, Larry David">
+		<title>Seinology.com :: Scripts :: 158-The Voice</title>
+	<link rel='stylesheet' href='/stylesheet.css' type='text/css'>
+	</head>
+
+	<body>
+			<table align="center" width="787" border="0" cellspacing="0" cellpadding="0">
+				<tr>
+					<td><font size="-2" color="red">Seinology.com - </font><font size="-3" color="black">Where Seinfeld Content and Accuracy Matter Most. Seinfeld scripts in pdf form, Seinfeld episode video clips, Seinfeld episode audio clips, Jerry Seinfeld appearances, Julia Louis-Dreyfus appearances, Michael Richards appearances, Jason Alexander appearances, Seinfeld discussion Forum, Seinfeld Where are they Now? Seinlanguage Newsletter, Popular Seinfeld Lists, Seinfeld episode standup, Seinfeld episode guide, Seinfeld fan fiction. Seinfeld content all on one domain. Seinology.com enjoy your stay.</font></td>
+				</tr>
+			</table>
+		
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr height="100">
+				<td class="logo"></td>
+			</tr>
+			<tr><td class="ads" align="center" background=#8694fa>
+				<script type="text/javascript"><!--
+google_ad_client = "pub-1924026976931416";
+google_ad_width = 728;
+google_ad_height = 90;
+google_ad_format = "728x90_as";
+google_ad_type = "text";
+google_ad_channel = "";
+google_color_border = "FFFFFF";
+google_color_bg = "8694fa";
+google_color_link = "0000FF";
+google_color_text = "000000";
+google_color_url = "002E3F";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></td></tr>
+		</table>
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr>
+				<td valign="top" width="136">
+					<table width="136" border="0" cellspacing="0" cellpadding="0">
+						<tr height="24">
+							<td class="navigation">
+								<div align="center">
+									
+									<b>Navigation</b></div>
+							</td>
+						</tr>
+						<tr height="199">
+							<td class="spacer1" valign="top" width="136" height="199">
+								<div align="center">
+									<font size="-1"><a href="http://www.seinology.com">Home</a><br>
+										<a href="http://board.seinology.com">Forum</a><br>
+										<a href="http://www.seinology.com/av.shtml">Audio/Video</a><br>
+										<a href="http://www.seinology.com/scripts.shtml">Scripts</a><br>
+										<a href="http://www.seinology.com/survivor.shtml">Survivor</a><br>
+										<a href="http://www.seinology.com/fanfics.shtml">Fan Fiction</a><br>
+										<a href="http://www.seinology.com/gallery/">Gallery</a><br>
+										<a href="http://www.seinology.com/newsletter.shtml">Newsletter</a><br>
+										<a href="http://www.seinology.com/lists.shtml">Lists</a><br>
+										<a href="http://www.seinology.com/epguide.shtml">Episode Guide</a><br>
+										<a href="http://www.seinology.com/links.shtml">Links</a><br>
+										<a href="http://www.seinology.com/faqother.shtml">Faq + others</a><br>
+										<a href="http://www.seinology.com/legal.shtml">Legal</a></font></div>
+							</td>
+						</tr>
+						
+						<tr>
+							<td class="nav2" width="136">
+							<div align="center"><b>Search</b></div></td>
+						</tr>
+						<tr>
+							<td class="spacer1" width="136" valign="top"><div align="center"><form method="get" action="http://www.seinology.com/search/search.cgi">
+<p><label for="fdse_Match">Match</label><br>
+<select name="Match" id="fdse_Match" size="1">
+<option value="1">All</option>
+<option value="0">Any</option>
+<option value="2">Phrase</option>
+</select></p>
+<p><label for="fdse_Realm">Where?</label><br>
+<select name="Realm" id="fdse_Realm" size="1">
+<option selected="selected" value="All">EntireSite</option>
+<option value="Ep Guide">Ep Guide</option>
+<option value="Images">Images</option>
+<option value="Lists">Lists</option>
+<option value="Newsletters">Newsletters</option>
+<option value="Scripts">Scripts</option>
+<option value="Notes..Nothing">Notes..Nothing</option>
+</select></p>
+<p><input type="text" name="Terms" size="14" id="fdse_Terms"><br>
+<input type="submit" class="submit" name="submitButtonName" value="Search"></p>
+</div></form></td>
+						</tr>
+						<tr><td class="bottom" width="136" height="10" valign="top">
+						</td>
+						</tr>
+					</table>
+				</td>
+				<td width="4"></td>
+				<td valign="top" width="645">
+					<table width="645" border="0" cellspacing="0" cellpadding="0">
+						<tr height="18">
+							<td width="645" height="35" class="bar">
+								<div align="center">
+									<b><font size="+2" color="black">Script</font></b></div>
+							</td>
+						</tr>
+						<tr height="362">
+							<td class="spacer2" valign="top" width="645" height="362">
+
+						<p><font size="-2">Episode 158 - The Voice<br>
+							
+						pc: 902 season 9, episode 2<br>
+							
+						Broadcast date: October 2, 1997<br>
+							<br>
+							
+						Written by Alec Berg &amp; Jeff Schaffer &amp; David Mandel<br>
+							
+						Directed by Andy Ackerman<br>
+							<br>
+							
+						-------------------------------------------------------------------------------<br>
+							<br>
+							
+						The Cast<br>
+							
+						Regulars:<br>
+							
+						Jerry Seinfeld ......................&nbsp; Jerry Seinfeld<br>
+							
+						Jason Alexander .................. George Costanza<br>
+							
+						Julia Louis-Dreyfus .............. Elaine Benes<br>
+							
+						Michael Richards .................. Cosmo Kramer<br>
+							<br>
+							
+						Guest Stars:<br>
+							<br>
+							
+						Gordon Jump ...................... Mr. Thomassoulo<br>
+							
+						Sara Rose Peterson .............. Claire<br>
+							
+						Jarrad Paul .......................... Darin<br>
+							
+						Ella Joyce ............................. Dean Jones<br>
+							
+						Nancy Balbirer .................... Alice<br>
+							
+						Brian J. Williams ................... Glenn<br>
+							
+						Cindy Lu ............................. Worker<br>
+							
+						rc:&nbsp; Patrick Warburton ......... David Puddy<br>
+							<br>
+							
+						==================================================================<br>
+							<br>
+							
+						[Scene: In the Play Now office]<br>
+							<br>
+							
+						THOMASSOULO: George, you&#146;re not really handicapped, are you?<br>
+							<br>
+							
+						GEORGE: I&#146;ve had my difficulties.<br>
+							<br>
+							
+						THOMASSOULO: I saw you running down Amsterdam Avenue lifting that 200 pound motorized cart with one hand.<br>
+							<br>
+							
+						GEORGE: Mr. Thomassoulo during times of great stress, people are capable of super human strength. Have you ever seen the Incredible Hulk, sir?<br>
+							<br>
+							
+						THOMASSOULO: No<br>
+							<br>
+							
+						GEORGE: How about the old Spider Man live action show?<br>
+							<br>
+							
+						THOMASSOULO: George, I&#146;ve realized we&#146;ve signed a one-year contract with you, but at this point I think it&#146;s best that we both go our separate ways.<br>
+							<br>
+							
+						GEORGE: I don&#146;t understand.<br>
+							<br>
+							
+						THOMASSOULO: We don&#146;t like you. We want you to leave.<br>
+							<br>
+							
+						GEORGE: Clearer<br>
+							<br>
+							<br>
+							<br>
+							
+						[Scene: At Monks Caf&eacute;]<br>
+							<br>
+							
+						JERRY: So you&#146;re staying at Play Now?<br>
+							<br>
+							
+						GEORGE: Why not? Pay is good. I got dental, private access to one of the great handicapped toilets in the city.<br>
+							<br>
+							
+						JERRY: But they not you aren&#146;t handicapped, aren&#146;t you ashamed?<br>
+							<br>
+							
+						GEORGE: They&#146;re the ones who should be ashamed. They signed me to a one-year contract. As long as I show up for work every day, they have to pay me.<br>
+							<br>
+							
+						(Elaine walks in)<br>
+							<br>
+							
+						ELAINE: Hey<br>
+							<br>
+							
+						JERRY &amp; GEORGE: (doing the voice) Hello-o-o-o!<br>
+							<br>
+							
+						GEORGE: Hello-o-o-o Elaine!<br>
+							<br>
+							
+						ELAINE: What&#146;s that?<br>
+							<br>
+							
+						JERRY: Oh, it&#146;s just this stupid thing.<br>
+							<br>
+							
+						ELAINE: Well, I&#146;m sure it&#146;s stupid. It&#146;s not about me, is it?<br>
+							<br>
+							
+						JERRY: (doing the voice) No-o-o-o.<br>
+							<br>
+							
+						GEORGE: (doing the voice) Not at all.<br>
+							<br>
+							
+						ELAINE: Tell me!<br>
+							<br>
+							
+						JERRY: All right. You know this girl Clare I am seeing?<br>
+							<br>
+							
+						ELAINE: Yeah.<br>
+							<br>
+							
+						JERRY: Well, he and I starting joking that when she falls asleep her stomach stays awake all night and talks to me.<br>
+							<br>
+							
+						ELAINE: How is it talking?<br>
+							<br>
+							
+						JERRY: Well, her belly button is like a mouth. (doing the voice) I&#146;m bored. Talk to me.<br>
+							<br>
+							
+						ELAINE: Oh I gotta start taking these &quot;stupid&quot; warnings more seriously.<br>
+							<br>
+							
+						(Puddy walks in)<br>
+							<br>
+							
+						JERRY: Hey, look whose here - Puddy.<br>
+							<br>
+							
+						ELAINE: My Puddy? But we broke up.<br>
+							<br>
+							
+						JERRY: And yet he continues to live.<br>
+							<br>
+							
+						(Puddy walks over to the table)<br>
+							<br>
+							
+						PUDDY: Hey Benes, How are you?<br>
+							<br>
+							
+						ELAINE: I&#146;m doing great.<br>
+							<br>
+							
+						PUDDY: Great. (pauses) See ya.<br>
+							<br>
+							
+						JERRY: Well, that&#146;s it. You two are back together.<br>
+							<br>
+							
+						ELAINE: What?<br>
+							<br>
+							
+						JERRY: The bump into. The bump into always leads to the backslide.<br>
+							<br>
+							
+						ELAINE: David and I will not be getting back together.<br>
+							<br>
+							
+						JERRY: Elaine, breaking up is like knocking over a coke machine. You can&#146;t do it in one push, you got to rock it back and forth a few times, and then it goes over.<br>
+							<br>
+							
+						GEORGE: That&#146;s beautiful.<br>
+							<br>
+							
+						ELAINE: What about you? You were even engaged, and you cut it off just like that.<br>
+							<br>
+							
+						JERRY: That&#146;s different. I didn&#146;t have feelings for those people. But you, you&#146;ll backslide<br>
+							<br>
+							
+						ELAINE: You want to bet?<br>
+							<br>
+							
+						JERRY: Stakes?<br>
+							<br>
+							
+						ELAINE: 50<br>
+							<br>
+							
+						JERRY: Dollars?<br>
+							<br>
+							
+						ELAINE: All right. Witness? (looks at George).<br>
+							<br>
+							
+						GEORGE: Witness.<br>
+							<br>
+							
+						JERRY: Done.<br>
+							<br>
+							
+						GEORGE: Percentage?<br>
+							<br>
+							
+						JERRY &amp; ELAINE: No.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Scene: At Jerry&#146;s apartment]<br>
+							<br>
+							
+						CLARE: So I&#146;ll call you tonight?<br>
+							<br>
+							
+						JERRY: Yeah.<br>
+							<br>
+							
+						CLARE: What&#146;s wrong with the belt?<br>
+							<br>
+							
+						JERRY: I went to the movies last night, I went to the bathroom and I unbuckled a little wobbly and the buckle kind of banged against the side of the urinal. So&#133;(throws away belt) that&#146;s it!<br>
+							<br>
+							
+						CLARE: So, you&#146;re insane?<br>
+							<br>
+							
+						JERRY: Oh yes, quite.<br>
+							<br>
+							
+						(Kramer walks in)<br>
+							<br>
+							
+						KRAMER: Hello!<br>
+							<br>
+							
+						JERRY: Of course it&#146;s a sliding scale.<br>
+							<br>
+							
+						CLARE: Catch you later.<br>
+							<br>
+							
+						KRAMER &amp; JERRY: (doing the voice) Hello-o-o-o! (haha)<br>
+							<br>
+							
+						JERRY: (doing the voice) La la la.<br>
+							<br>
+							
+						KRAMER: (doing the voice) La la la.<br>
+							<br>
+							
+						(Kramer is reading the newspaper at the table)<br>
+							<br>
+							
+						KRAMER: Look at this, they are redoing the Cloud Club.<br>
+							<br>
+							
+						JERRY: Oh, that restaurant on top of the Chrysler building? Yeah, that&#146;s a good idea.<br>
+							<br>
+							
+						KRAMER: Of course it&#146;s a good idea, it&#146;s my idea. I conceived this whole project two years ago.<br>
+							<br>
+							
+						JERRY: Which part? The renovating the restaurant you don&#146;t own part or spending the two hundred million you don&#146;t have part?<br>
+							<br>
+							
+						KRAMER: You see I come up with these things, I know they&#146;re gold, but nothing happens. You know why?<br>
+							<br>
+							
+						JERRY: No resources, no skill, no talent, no ability, no brains.<br>
+							<br>
+							
+						KRAMER: (interrupts) No, no&#133;time! It&#146;s all this meaningless time. Laundry, grocery, shopping, coming in here talking to you. Do you have any idea how much time I waste in this apartment?<br>
+							<br>
+							
+						JERRY: I can ball park it.<br>
+							<br>
+							
+						(Elaine walks in &#150; how did she come up without the buzzer?)<br>
+							<br>
+							
+						ELAINE: (doing the voice) Hello-o-o-o!<br>
+							<br>
+							
+						KRAMER: Here we go; now she comes in. Now my whole day is shot!<br>
+							<br>
+							
+						JERRY: Hey, I called you last night, where were you?<br>
+							<br>
+							
+						ELAINE: (looking VERY guilty) I went out with a (fake cough) a friend.<br>
+							<br>
+							
+						JERRY: George?<br>
+							<br>
+							
+						ELAINE: (looking guiltier) No, no&#133;no.<br>
+							<br>
+							
+						JERRY: Well, I was here, that&#146;s everyone (laughing).<br>
+							<br>
+							
+						ELAINE: (laughing).<br>
+							<br>
+							
+						JERRY: Are those the same shoes as yesterday?<br>
+							<br>
+							
+						ELAINE: Oh, you know I wear these shoes all the time.<br>
+							<br>
+							
+						JERRY: Your hair, it&#146;s somewhat de-poofed.<br>
+							<br>
+							
+						ELAINE: It&#146;s the new look. You know Heroin Cheek?<br>
+							<br>
+							
+						JERRY: Wait a second, what&#146;s going on here?<br>
+							<br>
+							
+						ELAINE: Nothing, nothing.<br>
+							<br>
+							
+						JERRY: (screams).<br>
+							<br>
+							
+						ELAINE: (screams).<br>
+							<br>
+							
+						JERRY: You&#146;re wearing the same clothes as yesterday!!! (pauses) You saw Puddy!<br>
+							<br>
+							
+						KRAMER: Hoochie moochie. (haha)<br>
+							<br>
+							
+						JERRY: Hand it over. Pay up.<br>
+							<br>
+							
+						ELAINE: No! It&#146;s an isolated, sexual incident. We are not back together!<br>
+							<br>
+							
+						JERRY: Then what do you call it? People don&#146;t just bump into each other and have sex. This isn&#146;t cinemax.<br>
+							<br>
+							
+						ELAINE: It was no big deal OK? I mean we fooled around, then we went out and grabbed a little dinner.<br>
+							<br>
+							
+						JERRY: Ah, dinner! That&#146;s it, you&#146;re all the way back!<br>
+							<br>
+							
+						ELAINE: Ugh!<br>
+							<br>
+							
+						JERRY: Sex, that&#146;s meaningless, I can understand that, but dinner; that&#146;s heavy. That&#146;s like an hour.<br>
+							<br>
+							
+						KRAMER: (still reading the paper) Man, 2.9 percent financing on a Toyota Onedun (Sp?). That was my idea too!<br>
+							<br>
+							<br>
+							<br>
+							
+						[Scene: At Play Now]<br>
+							<br>
+							
+						GEORGE: Good Morning!<br>
+							<br>
+							
+						CO-WORKER: Go to hell!<br>
+							<br>
+							
+						GEORGE: Hi Allison, that&#146;s a nice dress.<br>
+							<br>
+							
+						ALLISON: Don&#146;t even look at me.<br>
+							<br>
+							
+						GEORGE: Hey Glenn!<br>
+							<br>
+							
+						GLENN: Hey, go tell hell!<br>
+							<br>
+							
+						GEORGE: Heard that one already.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Scene: At Jerry&#146;s apartment]<br>
+							<br>
+							
+						(Jerry walks in. Kramer is showing his &quot;intern,&quot; Darren around)<br>
+							<br>
+							
+						KRAMER: &#133;So that&#146;s the bedroom. Here&#146;s the bathroom. If you need to, you can familiarize yourself with the kitchen&#133;Yeah, go ahead and look through some of the drawers.<br>
+							<br>
+							
+						JERRY: And you are?<br>
+							<br>
+							
+						DARREN: Oh, hey, I&#146;m Darren. I&#146;m new here.<br>
+							<br>
+							
+						KRAMER: Yeah, that&#146;s Jerry, you don&#146;t have to worry about him. Why don&#146;t you go across the hall and get started on that mail.<br>
+							<br>
+							
+						DARREN: Right!<br>
+							<br>
+							
+						KRAMER: He&#146;s a go getter!<br>
+							<br>
+							
+						JERRY: Who&#146;s he?<br>
+							<br>
+							
+						KRAMER: My intern from NYU. Well, you remember my corporation, Kramerica Industries.<br>
+							<br>
+							
+						JERRY: Alright.<br>
+							<br>
+							
+						KRAMER: Well, apparently NYU is very enthusiastic about their students getting some real world corporate experience.<br>
+							<br>
+							
+						JERRY: But you only provide fantasy world corporate experience.<br>
+							<br>
+							
+						KRAMER: Well, this will really free up my time so I can focus on more important things, like my bladder system.<br>
+							<br>
+							
+						JERRY: Alright, it&#146;s time to go.<br>
+							<br>
+							
+						KRAMER: Jerry, it&#146;s not for people, it&#146;s for oil tankers.<br>
+							<br>
+							
+						JERRY: (sarcastically) I know!<br>
+							<br>
+							
+						(Jerry tries to shove Kramer out the door)<br>
+							<br>
+							
+						KRAMER: You see the idea is for a rubber ball inside the tanker so if it crashes, the oil won&#146;t spill out.<br>
+							<br>
+							
+						JERRY: Actually, that is not a bad idea.<br>
+							<br>
+							
+						KRAMER: (smiles) yeah.<br>
+							<br>
+							
+						JERRY: Now, it&#146;s time to go.<br>
+							<br>
+							
+						(slams door)<br>
+							<br>
+							
+						(phone rings)<br>
+							<br>
+							
+						JERRY: Hello<br>
+							<br>
+							
+						GEORGE: (doing the voice) Hello-o-o-o. (He&#146;s sitting on the floor in his Play Now office).<br>
+							<br>
+							
+						JERRY: (doing the voice) Hello-o-o-o. (pauses) So, what&#146;s going on?<br>
+							<br>
+							
+						GEORGE: Siege mentality, Jerry. They really want me out of here. They&#146;ve downgraded me to some sort of a bunker. I&#146;m like Hitler&#146;s last days here.<br>
+							<br>
+							
+						JERRY: So, are you going to leave?<br>
+							<br>
+							
+						GEORGE: Oh no! I&#146;m vigilant. They&#146;ll never get me out. I&#146;m like a weed, Jerry.<br>
+							<br>
+							
+						JERRY: I thought you&#146;re like Hitler in the bunker?<br>
+							<br>
+							
+						GEORGE: I&#146;m a weed in Hitler&#146;s bunker.<br>
+							<br>
+							
+						JERRY: I&#146;m getting a little uncomfortable with the Hitler stuff. (his other line beeps) I&#146;m getting another call, see ya&#133;(answers call) Hello!<br>
+							<br>
+							
+						DARREN: Hi, this is Darren from Kramer&#146;s office. Mr. Kramer would like to schedule a lunch with you at Monk&#146;s coffee shop.<br>
+							<br>
+							
+						JERRY: (looking shocked) Really? When?<br>
+							<br>
+							
+						DARREN: In 10 minutes. Do you need directions?<br>
+							<br>
+							
+						JERRY: No, I don&#146;t.<br>
+							<br>
+							
+						DARREN: Well, I&#146;ll call back in 5 minutes to confirm.<br>
+							<br>
+							
+						KRAMER: Yeah, 5.<br>
+							<br>
+							
+						(Elaine walks in &#150; again, how did she get up without the buzzer?)<br>
+							<br>
+							
+						ELAINE: Hey!<br>
+							<br>
+							
+						JERRY: Hey! So, where&#146;s my money?<br>
+							<br>
+							
+						ELAINE: No money, I am Puddy free. So, are we eating or what?<br>
+							<br>
+							
+						JERRY: Oh yeah, hold on.<br>
+							<br>
+							
+						(Jerry calls Kramer and Darren answers)<br>
+							<br>
+							
+						JERRY: Hello Darren, this is Jerry from Jerry&#146;s office. (Elaine is looking confused). We&#146;re going to be three for lunch. (Elaine is still looking confused) What do you mean he&#146;s already left?<br>
+							<br>
+							
+						(Kramer walks in)<br>
+							<br>
+							
+						JERRY: Hey, Elaine is going to come with us, alright?<br>
+							<br>
+							
+						KRAMER: What? When did this happen?<br>
+							<br>
+							
+						JERRY: Well, just&#133;<br>
+							<br>
+							
+						KRAMER: (yelling) DARREN!<br>
+							<br>
+							<br>
+							<br>
+							
+						[Scene: At Elaine&#146;s apartment]<br>
+							<br>
+							
+						(Sitting on the couch thinking to herself)<br>
+							<br>
+							
+						ELAINE: I am not calling Puddy. What did I do with my gloves? Oh, I bet I left them over at Puddy&#146;s. I should call him. I need those gloves. No, I better not. I&#146;ll call. (looks at table) Oh, look at that! There are the gloves. I was just about to call. There they are. That&#146;s funny. That&#146;s really funny. That&#146;s really really funny. You know who loves funny stories, David Puddy. (Picks up phone).<br>
+							<br>
+							<br>
+							<br>
+							
+						[Scene: At Monk&#146;s Cafe]<br>
+							<br>
+							
+						GEORGE: Well, Play Now is through playing. They turned the heat way up in my office. They tried to sweat me out.<br>
+							<br>
+							
+						JERRY: Do you have to write all this stuff down.<br>
+							<br>
+							
+						DARREN: Well, Mr. Kramer is in a meeting with Mr. Lohmase and he didn&#146;t want to miss anything.<br>
+							<br>
+							
+						JERRY: So, how hot did it get?<br>
+							<br>
+							
+						GEORGE: I don&#146;t know, 120, 130&#133;Then they sent some guys to sandblast for 6 hours. Tomorrow they are putting in asbestos.<br>
+							<br>
+							
+						JERRY: I guess you can take anything, but actual work.<br>
+							<br>
+							
+						GEORGE: Bring it on!<br>
+							<br>
+							
+						(Kramer walks in)<br>
+							<br>
+							
+						GEORGE: (doing the voice) Hello-o-o-o Kramer!<br>
+							<br>
+							
+						JERRY: (doing the voice) Wel-l-l-c-o-m-e!<br>
+							<br>
+							
+						GEORGE: (doing the voice) La la la.<br>
+							<br>
+							
+						KRAMER: Sorry I couldn&#146;t get out of there, what did I miss? (asking his &quot;intern&quot;)<br>
+							<br>
+							
+						DARREN: Well, after ordering, Mr. Seinfeld and Mr. Costanza debated on whether or not iron man wore some sort under garment between his skin and his iron suit&#133;<br>
+							<br>
+							
+						KRAMER: Uh huh&#133;<br>
+							<br>
+							
+						GEORGE: (Interrupts) And I still say he&#146;s naked under there!<br>
+							<br>
+							
+						JERRY: Oh that makes a lot of sense.<br>
+							<br>
+							
+						GEORGE: Oh, shut up!<br>
+							<br>
+							
+						DARREN: &#133;Then Mr. Seinfeld went to the restroom, at which point Mr. Costanza scooped ice out of Mr. Seinfeld&#146;s drink with his bare hands using it to wash up (Jerry is taking a sip of water and looking mad) then Mr. Costanza remarked to me, &quot;This never happened.&quot; (Jerry then spits out the water).<br>
+							<br>
+							
+						(George is looking pissed off)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Scene: At Jerry&#146;s apartment in his bed]<br>
+							<br>
+							
+						JERRY: (giggling)<br>
+							<br>
+							
+						CLARE: What&#146;s so funny?<br>
+							<br>
+							
+						JERRY: Oh, nothing. (still giggling)<br>
+							<br>
+							
+						CLARE: What are you laughing about? Tell me.<br>
+							<br>
+							
+						JERRY: Oh all right, this is really dumb, really stupid. We&#146;ve been doing this silly, dumb voice.<br>
+							<br>
+							
+						(Clare storms out of the room mad!)<br>
+							<br>
+							
+						CLARE: So is it fun humiliating me?<br>
+							<br>
+							
+						JERRY: No, it&#146;s not you. It&#146;s your stomach, he&#146;s taking with this funny, booming, jovial voice. (doing the voice) Hello-o-o-o.<br>
+							<br>
+							
+						CLARE: So you think I&#146;m fat?<br>
+							<br>
+							
+						JERRY: No it&#146;s&#133;<br>
+							<br>
+							
+						(Darren walks in)<br>
+							<br>
+							
+						DARREN: Mr. Kramer says, &quot;hey buddy!&quot;<br>
+							<br>
+							
+						JERRY: Hey, we&#146;re kind of in the middle of something here. Would you mind coming back later?<br>
+							<br>
+							
+						DARREN: Oh yeah sure, sure. Should we set something up now?<br>
+							<br>
+							
+						JERRY: (Screams) GET OUT!<br>
+							<br>
+							
+						CLARE: I&#146;m leaving too.<br>
+							<br>
+							
+						JERRY: No body said you&#146;re fat. He&#146;s a loving character, like the Kool-ade guy.<br>
+							<br>
+							
+						CLARE: He is fat!<br>
+							<br>
+							
+						JERRY: No, he&#146;s just a little bloated.<br>
+							<br>
+							
+						CLARE: Good-bye!<br>
+							<br>
+							
+						JERRY: It&#146;s mostly water weight.<br>
+							<br>
+							
+						(Kramer walks in)<br>
+							<br>
+							
+						KRAMER: Boysenberry, the kid is still learning.<br>
+							<br>
+							
+						(Darren is standing in the hallway on the phone)<br>
+							<br>
+							
+						DARREN: Mr. Kramer&#133;Dean, my internship is on line two, she wants to set up a meeting.<br>
+							<br>
+							
+						KRAMER: Yeah, well nothing before noon.<br>
+							<br>
+							
+						JERRY: Line two?<br>
+							<br>
+							
+						KRAMER: Yeah, your phone is line one.<br>
+							<br>
+							
+						JERRY: Oh&#133;<br>
+							<br>
+							<br>
+							<br>
+							
+						[Scene: At Elaine&#146;s apartment]<br>
+							<br>
+							
+						PUDDY: So the gloves were right by the phone. That is pretty funny.<br>
+							<br>
+							
+						ELAINE: See, this is what Jerry&#146;s doesn&#146;t understand. We can see each other. We can see each other every day, but it doesn&#146;t mean we are back together.<br>
+							<br>
+							
+						PUDDY: I mean I love just seeing you and having sex.<br>
+							<br>
+							
+						ELAINE: Yeah.<br>
+							<br>
+							
+						PUDDY: Not having to do all that&#133;you know&#133;work.<br>
+							<br>
+							
+						ELAINE: Well, either way&#133;<br>
+							<br>
+							
+						PUDDY: All that calling you, and buying you stuff&#133;<br>
+							<br>
+							
+						ELAINE: David&#133;<br>
+							<br>
+							
+						PUDDY: Caring about how everyone at work isn&#146;t as smart as you. It&#146;s brutal.<br>
+							<br>
+							
+						ELAINE: Alright that&#146;s it! We&#146;re back together!<br>
+							<br>
+							
+						PUDDY: Oh, no.<br>
+							<br>
+							
+						ELAINE: Oh, yeah.<br>
+							<br>
+							
+						PUDDY: Look Elaine, be reasonable.<br>
+							<br>
+							
+						(Elaine kisses Puddy)<br>
+							<br>
+							
+						ELAINE: Get those clothes off. You&#146;re going to spend the night and we&#146;re going to cuddle.<br>
+							<br>
+							
+						PUDDY: What?<br>
+							<br>
+							
+						ELAINE: You heard me. Strip!<br>
+							<br>
+							<br>
+							<br>
+							
+						[Scene: At Play Now]<br>
+							<br>
+							
+						(George is walking in the hallway to his office. He sees his office has been boarded up)<br>
+							<br>
+							
+						GEORGE: (whistling)&#133;.(laughing)&#133;.Alright&#133;&#133;OK&#133;.<br>
+							<br>
+							
+						(George goes through air vent &#150; in his office)<br>
+							<br>
+							
+						GEORGE: (on phone &#150; calling secretary) Hello Margery, George Costanza. How are you sweet heart? Listen, can you give Mr. Thomassoulo a message for me? &#133;Yes. If he needs me, tell him (screams) I&#146;M IN MY OFFICE! Thanks.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Scene: At NYU]<br>
+							<br>
+							
+						KRAMER: Dean Jones, you wanting to talk to me?<br>
+							<br>
+							
+						DEAN JONES: I&#146;ve been reviewing Darren&#146;s internship journal. Doing laundry&#133;<br>
+							<br>
+							
+						KRAMER: &#133;Yeah.<br>
+							<br>
+							
+						DEAN JONES: &#133;Mending chicken wire, hi-tea with a Mr. Newman.<br>
+							<br>
+							
+						KRAMER: I know it sounds pretty glamorous, but it&#146;s business as usual at Kramerica.<br>
+							<br>
+							
+						DEAN JONES: As far as I can tell your entire enterprise is more than a solitary man with a messy apartment which may or may not contain a chicken.<br>
+							<br>
+							
+						KRAMER: And with Darren&#146;s help, we&#146;ll get that chicken.<br>
+							<br>
+							
+						DEAN JONES: I&#146;m sorry, but we can&#146;t allow Darren to continue working with you.<br>
+							<br>
+							
+						KRAMER: Well, I have to say this seems capricious and arbitrary.<br>
+							<br>
+							
+						DEAN JONES: You fly is open.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Scene: At Jerry&#146;s apartment]<br>
+							<br>
+							
+						(Jerry &amp; Clare are talking by the doorway)<br>
+							<br>
+							
+						JERRY: So you&#146;re sure you&#146;re not still angry about last night?<br>
+							<br>
+							
+						CLARE: No, I&#146;m fine. Just as long as you don&#146;t ever do that voice again.<br>
+							<br>
+							
+						JERRY: Never?<br>
+							<br>
+							
+						CLARE: Never.<br>
+							<br>
+							
+						JERRY: What about if you&#146;re not around?<br>
+							<br>
+							
+						CLARE: No!<br>
+							<br>
+							
+						JERRY: So I have to choose between seeing you and doing the voice?<br>
+							<br>
+							
+						CLARE: That&#146;s right.<br>
+							<br>
+							
+						JERRY: I can do that.<br>
+							<br>
+							
+						CLARE: So what&#146;s your decision?<br>
+							<br>
+							
+						JERRY: I don&#146;t know.<br>
+							<br>
+							
+						(At the dock or beach)<br>
+							<br>
+							
+						(Jerry is thinking to himself &#150; looking quite funny)<br>
+							<br>
+							
+						(He&#146;s thinking about all the times him and Clare spent together. He&#146;s trying to decide if he likes her more or the voice more)<br>
+							<br>
+							
+						(Jerry knocks on Clare&#146;s door)<br>
+							<br>
+							
+						CLARE: Jerry&#133;HI.<br>
+							<br>
+							
+						JERRY: (doing the voice) Hello-o-o-o. La-la-la. (haha)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Scene: At Jerry&#146;s apartment]<br>
+							<br>
+							
+						GEORGE: You broke up with her? Why?<br>
+							<br>
+							
+						JERRY: So we could do the voice. (doing the voice) La-la-la. What&#146;s the matter?<br>
+							<br>
+							
+						GEORGE: I think I&#146;m getting tired of it. I mean is that all it does? Hello? La-la-la?<br>
+							<br>
+							
+						JERRY: No, it can do anything. It can be Spanish. (doing the voice) Hola. Hello-o-o-o.<br>
+							<br>
+							
+						GEORGE: I think I like the girl better than the voice.<br>
+							<br>
+							
+						JERRY: Really?<br>
+							<br>
+							
+						(Elaine walks in &#150; how does she keep getting up without that buzzer?!)<br>
+							<br>
+							
+						JERRY: (doing the voice) Hello-o-o-o.<br>
+							<br>
+							
+						ELAINE: Still?<br>
+							<br>
+							
+						GEORGE: I told you.<br>
+							<br>
+							
+						ELAINE: Alright, here you go, choke on it (hands him money).<br>
+							<br>
+							
+						JERRY: See, never bet against the backslide. I knew you two would get back together.<br>
+							<br>
+							
+						ELAINE: Yeah, well not for long. I&#146;m breaking up with him.<br>
+							<br>
+							
+						JERRY: No, I don&#146;t think so. I&#146;ve seen you two together. You make each other miserable. It&#146;s kismet.<br>
+							<br>
+							
+						ELAINE: Double or nothing.<br>
+							<br>
+							
+						JERRY: Done.<br>
+							<br>
+							
+						GEORGE: (talking from bathroom) Witness?<br>
+							<br>
+							
+						JERRY: You&#146;re in there again.<br>
+							<br>
+							
+						GEORGE: I think Play Now is putting something in my food.<br>
+							<br>
+							
+						(Kramer walks in)<br>
+							<br>
+							
+						ELAINE: Alright, I&#146;m out of here.<br>
+							<br>
+							
+						JERRY: What is this? (Kramer is wearing jeans that look like it doesn&#146;t fit him).<br>
+							<br>
+							
+						KRAMER: I don&#146;t know. I found them in your closet. Ever since Darren left I haven&#146;t been able to find anything. He took all my clothes to some cleaners. I&#146;m clueless. (looks at clock) Is that clock right?<br>
+							<br>
+							
+						JERRY: Yeah. Nine o&#146;clock.<br>
+							<br>
+							
+						KRAMER: I was supposed to pick up Newman at the zoo twelve hours ago.<br>
+							<br>
+							
+						JERRY: (doing the voice) Good-bye Kramer.<br>
+							<br>
+							
+						KRAMER: Jerry, buddy, I got to tell you something. That voice is played.<br>
+							<br>
+							
+						JERRY: Really?<br>
+							<br>
+							
+						KRAMER: So played.<br>
+							<br>
+							
+						GEORGE: I told you.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Scene: Hallway, Darren is knocking on Kramer&#146;s door]<br>
+							<br>
+							
+						KRAMER: Darren? What are you doing here? The college canceled the internship.<br>
+							<br>
+							
+						DARREN: I don&#146;t care about the internship. I care about Kramerica.<br>
+							<br>
+							
+						KRAMER: Kramerica is no more.<br>
+							<br>
+							
+						DARREN: What about the oil tanker bladder system? We were going to put an end to maritime oil spills.<br>
+							<br>
+							
+						KRAMER: Probably. Darren, you go home. Forget about Kramerica.<br>
+							<br>
+							
+						(Kramer slams door)<br>
+							<br>
+							
+						(Kramer opens door)<br>
+							<br>
+							
+						KRAMER: Well, you&#146;re still here?<br>
+							<br>
+							
+						DARREN: I haven&#146;t had time to leave.<br>
+							<br>
+							
+						KRAMER: Well, I haven&#146;t changed my mind.<br>
+							<br>
+							
+						(Kramer slams door)<br>
+							<br>
+							
+						(Kramer opens door)<br>
+							<br>
+							
+						KRAMER: Well, you are a tenacious little monkey. Alright, I&#146;ll do it. Kramerica industries lives! Let&#146;s get back to work!<br>
+							<br>
+							
+						(Kramer slams door)<br>
+							<br>
+							
+						(Kramer opens door)<br>
+							<br>
+							
+						KRAMER: Let&#146;s see what Jerry has to eat.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Scene: At Play Now &#150; in the bosses office]<br>
+							<br>
+							
+						THOMASSOULO: You win George. We&#146;ve had it. If you leave right now, Play Now will give you six months pay. That&#146;s half of your entire contract. Please&#133;just go.<br>
+							<br>
+							
+						GEORGE: You see if I stay the whole year, I get it all.<br>
+							<br>
+							
+						THOMASSOULO: Want to play hand ball huh? Fine. (calls on intercom) Attention Play Now employees, George Costanza&#146;s handicapped bathroom is now open on the sixteenth floor to all employees and their families.<br>
+							<br>
+							
+						GEORGE: Well played.<br>
+							<br>
+							
+						THOMASSOULO: I&#146;ll see you in hell Costanza.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Scene: At Jerry&#146;s apartment]<br>
+							<br>
+							
+						JERRY: (on the phone with Clare) Clare thanks for giving me a second chance. Our relationship is certainly worth more than some silly, stupid voice. Hold on one second. (George walks in &#150; Jerry asks George) So we definitely don&#146;t want to do the voice anymore? (George shakes his head NO) Alright, we&#146;re back together again, great. Bye bye.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Scene: Hallway &#150; Kramer &amp; Darren are pushing an oil tank]<br>
+							<br>
+							
+						KRAMER: Hey.<br>
+							<br>
+							
+						JERRY: Trouble down at the plant?<br>
+							<br>
+							
+						KRAMER: It&#146;s a tank of oil. Darren and I are finally going to test out my bladder system.<br>
+							<br>
+							
+						GEORGE: You have to drink that whole thing?<br>
+							<br>
+							
+						KRAMER: No. No. No. It&#146;s for oil tankers. All I need to do is fill some sort of rubber container with oil and then drop it to see whether or not it can restrain the impact.<br>
+							<br>
+							
+						JERRY: I understand (not really understanding, lol).<br>
+							<br>
+							
+						GEORGE: Would a giant rubber ball work?<br>
+							<br>
+							
+						KRAMER: Conceivably.<br>
+							<br>
+							
+						GEORGE: Well, Play Now has all kinds of different rubber balls. Why don&#146;t we test your bladder system at my office?<br>
+							<br>
+							
+						JERRY: You&#146;re not&#133;<br>
+							<br>
+							
+						GEORGE: Oh, yes I am. Mr. Thomassoulo likes to play dirty. Well, there&#146;s nothing dirtier than a giant ball of oil.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Scene: At Monk&#146;s Cafe]<br>
+							<br>
+							
+						PUDDY: Hey, you want to split a root beer (I think that&#146;s what he says)?<br>
+							<br>
+							
+						ELAINE: I don&#146;t think so David, we&#146;re through.<br>
+							<br>
+							
+						PUDDY: Oh&#133;That&#146;s a nice sweater (Elaine smiles).<br>
+							<br>
+							<br>
+							<br>
+							
+						[Scene: At Elaine&#146;s house &#150; the two are in bed]<br>
+							<br>
+							
+						ELAINE: Whew that was a dozy.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Scene: At Jerry&#146;s apartment]<br>
+							<br>
+							
+						(Elaine throws down money on the table).<br>
+							<br>
+							
+						JERRY: Go again?<br>
+							<br>
+							
+						ELAINE: Book it.<br>
+							<br>
+							
+						GEORGE: (again from bathroom) Witness.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Scene: At Elaine&#146;s apartment]<br>
+							<br>
+							
+						ELAINE: David I know this hurts, but it&#146;s the way it has to be (Puddy is giving her a look like he&#146;s going to still get some).<br>
+							<br>
+							<br>
+							<br>
+							
+						[Scene: At Jerry&#146;s apartment]<br>
+							<br>
+							
+						(Elaine is placing money on the table one by one)<br>
+							<br>
+							
+						JERRY: Ha ha ha. Ha ha ha ha.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Scene: Jerry and Elaine at the movies]<br>
+							<br>
+							
+						ELAINE: I&#146;m going to get some popcorn.<br>
+							<br>
+							<br>
+							<br>
+							
+						Scene: At Jerry&#146;s apartment]<br>
+							<br>
+							
+						(Elaine hands Jerry money)<br>
+							<br>
+							
+						ELAINE: So, how did it end?<br>
+							<br>
+							
+						JERRY: They got away.<br>
+							<br>
+							
+						ELAINE: uh.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Scene: At Elaine&#146;s apartment]<br>
+							<br>
+							
+						ELAINE: Listen David, I&#146;ve got to run. Can you lend me fifty bucks?<br>
+							<br>
+							<br>
+							<br>
+							
+						[Scene: At Play Now]<br>
+							<br>
+							
+						(Darren &amp; Kramer are pushing the ball of oil &#150; Jerry walks in)<br>
+							<br>
+							
+						JERRY: Hey.<br>
+							<br>
+							
+						KRAMER: Did you bring the video camera?<br>
+							<br>
+							
+						JERRY: Yeah, I put a six hour tape in. That should cover the experiment, the arrest, and most of your trial. Alright, I&#146;ll see ya.<br>
+							<br>
+							
+						GEORGE: Oh, you might want to stick around Jerry. Mr. Thomassoulo picked the wrong man to hire because he was fake handicapped.<br>
+							<br>
+							
+						JERRY: I can&#146;t. I got to meet Clare.<br>
+							<br>
+							
+						KRAMER: You gave up the voice?<br>
+							<br>
+							
+						JERRY: Yeah, I thought it was stupid. Unless you guys are liking it again.<br>
+							<br>
+							
+						KRAMER &amp; GEORGE: No. No<br>
+							<br>
+							
+						JERRY: Darren?<br>
+							<br>
+							
+						DARREN: Sorry Mr. Seinfeld.<br>
+							<br>
+							
+						JERRY: Uh, bathroom.<br>
+							<br>
+							
+						GEORGE: Hey, use mine. I&#146;ll let you in.<br>
+							<br>
+							
+						JERRY: I thought it was open to the public.<br>
+							<br>
+							
+						GEORGE: I uh, took care of that.<br>
+							<br>
+							
+						(Both go to the bathroom, which looks really nice)<br>
+							<br>
+							
+						JERRY: Wow! Zanadu . No wonder you&#146;re putting in so many hours. (looks at urinal) May I?<br>
+							<br>
+							
+						GEORGE: I insist. I&#146;ll fix us a drink. (phone rings &#150; who would that be?) I got it.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Back to Kramer &amp; Darren in George&#146;s office]<br>
+							<br>
+							
+						KRAMER: Whew. You know Darren, if you would have told me twenty-five years ago that some day I&#146;d be standing here about to solve the worlds energy problems, I would&#146;ve said you&#146;re crazy&#133; Now let&#146;s push this giant ball of oil out the window.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Back in the bathroom]<br>
+							<br>
+							
+						GEORGE: So, check out my view.<br>
+							<br>
+							
+						JERRY: Wow! Hey, there&#146;s Clare. I better go down.<br>
+							<br>
+							
+						GEORGE: Hey, there&#146;s Kramer &amp; Darren.<br>
+							<br>
+							
+						JERRY: There&#146;s the giant ball of oil. Clare&#146;s right underneath that thing. Clare! Hello-o-o-o! Hello-o-o-o! Hello-o-o-o!<br>
+							<br>
+							
+						CLARE: I don&#146;t believe this. I am not looking up if you&#146;re going to do that voice.<br>
+							<br>
+							
+						KRAMER: Bombs away (Uh oh).<br>
+							<br>
+							
+						JERRY: This is going to be a shame.<br>
+							<br>
+							
+						(SPLAT!)<br>
+							<br>
+							
+						GEORGE: Hello.<br>
+							<br>
+							
+						KRAMER: Well, that didn&#146;t work. Hey, how about this&#133;ketchup and mustard in the same bottle?<br>
+							<br>
+							
+						DARREN: Oh that sounds interesting sir.<br>
+							<br>
+							
+						KRAMER: Yeah.<br>
+							<br>
+							
+						(Police sirens &#150; uh oh)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Scene: At Monk&#146;s Caf&eacute;]<br>
+							<br>
+							
+						JERRY: Clare won her lawsuit against Play Now. Gee, Play Now is filing for bankruptcy. I guess you&#146;re not going in anymore.<br>
+							<br>
+							
+						GEORGE: Yeah.<br>
+							<br>
+							
+						JERRY: So they&#146;re not paying you your&#133;<br>
+							<br>
+							
+						GEORGE: No.<br>
+							<br>
+							
+						JERRY: So you&#146;re pretty much&#133;<br>
+							<br>
+							
+						GEORGE: Yeah.<br>
+							<br>
+							
+						JERRY: What ever happened to Darren?<br>
+							<br>
+							
+						KRAMER: Darren is going away for a long long time.<br>
+							<br>
+							
+						JERRY: So Clare sure looked real funny covered in oil like that&#133; (doing the voice) Hello-o-o-o I got beamed with a giant ball of oil&#133;<br>
+							<br>
+							
+						GEORGE: (doing the voice) I&#146;m slippery as an eel&#133;<br>
+							<br>
+							
+						KRAMER: (doing the voice) La la la.<br>
+							<br>
+							
+						JERRY: I&#146;m just so glad it&#146;s back.<br>
+							<br>
+							
+						(Scene: At Elaine&#146;s apartment in bed with Puddy AGAIN)<br>
+							<br>
+							
+						ELAINE: See, this is good. This is the way it should be. You know why are we fooling ourselves. We belong together.<br>
+							<br>
+							
+						PUDDY: ELAINE: I want to break up.<br>
+							<br>
+							
+						ELAINE: Ah nuts!<br>
+							<br>
+							<br>
+							
+						The End</td>
+						</tr>
+						<tr height="6">
+							<td class="bottom2" width="645" height="6"></td>
+						</tr>
+						<tr>
+							<td width="645">
+								<div align="center">
+									<font size="-1">Copyright 2006 seinology.com | All Rights Reserved | Designed by 13erla</font></div>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+		<p></p>
+	</body>
+
+</html>

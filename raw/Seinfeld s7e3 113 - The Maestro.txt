@@ -1,0 +1,1571 @@
+<tdOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+<html>
+
+	<head>
+		<meta http-equiv="content-type" content="text/html;charset=ISO-8859-1">
+		<meta name="description" content="Top Source for Seinfeld">
+		<meta name="keywords" content="seinfeld, sienfeld, Jerry Seinfeld, Julia Louis Dreyfus, Jason Alexander, Michael Richards, Kramer, George, Costanza, Elaine Benes, morty, Larry David">
+		<title>Seinology.com :: Scripts :: 113-The Maestro</title>
+	<link rel='stylesheet' href='/stylesheet.css' type='text/css'>
+	</head>
+
+	<body>
+			<table align="center" width="787" border="0" cellspacing="0" cellpadding="0">
+				<tr>
+					<td><font size="-2" color="red">Seinology.com - </font><font size="-3" color="black">Where Seinfeld Content and Accuracy Matter Most. Seinfeld scripts in pdf form, Seinfeld episode video clips, Seinfeld episode audio clips, Jerry Seinfeld appearances, Julia Louis-Dreyfus appearances, Michael Richards appearances, Jason Alexander appearances, Seinfeld discussion Forum, Seinfeld Where are they Now? Seinlanguage Newsletter, Popular Seinfeld Lists, Seinfeld episode standup, Seinfeld episode guide, Seinfeld fan fiction. Seinfeld content all on one domain. Seinology.com enjoy your stay.</font></td>
+				</tr>
+			</table>
+		
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr height="100">
+				<td class="logo"></td>
+			</tr>
+			<tr><td class="ads" align="center" background=#8694fa>
+				<script type="text/javascript"><!--
+google_ad_client = "pub-1924026976931416";
+google_ad_width = 728;
+google_ad_height = 90;
+google_ad_format = "728x90_as";
+google_ad_type = "text";
+google_ad_channel = "";
+google_color_border = "FFFFFF";
+google_color_bg = "8694fa";
+google_color_link = "0000FF";
+google_color_text = "000000";
+google_color_url = "002E3F";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></td></tr>
+		</table>
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr>
+				<td valign="top" width="136">
+					<table width="136" border="0" cellspacing="0" cellpadding="0">
+						<tr height="24">
+							<td class="navigation">
+								<div align="center">
+									
+									<b>Navigation</b></div>
+							</td>
+						</tr>
+						<tr height="199">
+							<td class="spacer1" valign="top" width="136" height="199">
+								<div align="center">
+									<font size="-1"><a href="http://www.seinology.com">Home</a><br>
+										<a href="http://board.seinology.com">Forum</a><br>
+										<a href="http://www.seinology.com/av.shtml">Audio/Video</a><br>
+										<a href="http://www.seinology.com/scripts.shtml">Scripts</a><br>
+										<a href="http://www.seinology.com/survivor.shtml">Survivor</a><br>
+										<a href="http://www.seinology.com/fanfics.shtml">Fan Fiction</a><br>
+										<a href="http://www.seinology.com/gallery/">Gallery</a><br>
+										<a href="http://www.seinology.com/newsletter.shtml">Newsletter</a><br>
+										<a href="http://www.seinology.com/lists.shtml">Lists</a><br>
+										<a href="http://www.seinology.com/epguide.shtml">Episode Guide</a><br>
+										<a href="http://www.seinology.com/links.shtml">Links</a><br>
+										<a href="http://www.seinology.com/faqother.shtml">Faq + others</a><br>
+										<a href="http://www.seinology.com/legal.shtml">Legal</a></font></div>
+							</td>
+						</tr>
+						
+						<tr>
+							<td class="nav2" width="136">
+							<div align="center"><b>Search</b></div></td>
+						</tr>
+						<tr>
+							<td class="spacer1" width="136" valign="top"><div align="center"><form method="get" action="http://www.seinology.com/search/search.cgi">
+<p><label for="fdse_Match">Match</label><br>
+<select name="Match" id="fdse_Match" size="1">
+<option value="1">All</option>
+<option value="0">Any</option>
+<option value="2">Phrase</option>
+</select></p>
+<p><label for="fdse_Realm">Where?</label><br>
+<select name="Realm" id="fdse_Realm" size="1">
+<option selected="selected" value="All">EntireSite</option>
+<option value="Ep Guide">Ep Guide</option>
+<option value="Images">Images</option>
+<option value="Lists">Lists</option>
+<option value="Newsletters">Newsletters</option>
+<option value="Scripts">Scripts</option>
+<option value="Notes..Nothing">Notes..Nothing</option>
+</select></p>
+<p><input type="text" name="Terms" size="14" id="fdse_Terms"><br>
+<input type="submit" class="submit" name="submitButtonName" value="Search"></p>
+</div></form></td>
+						</tr>
+						<tr><td class="bottom" width="136" height="10" valign="top">
+						</td>
+						</tr>
+					</table>
+				</td>
+				<td width="4"></td>
+				<td valign="top" width="645">
+					<table width="645" border="0" cellspacing="0" cellpadding="0">
+						<tr height="18">
+							<td width="645" height="35" class="bar">
+								<div align="center">
+									<b><font size="+2" color="black">Script</font></b></div>
+							</td>
+						</tr>
+						<tr height="362">
+							<td class="spacer2" valign="top" width="645" height="362">
+
+						<p><font size="-2">Episode 113 - The Maestro<br>
+							
+						pc: 703, season 7, episode 3<br>
+							
+						Broadcast date: October 5, 1995<br>
+							<br>
+							
+						Written by Larry David<br>
+							
+						Directed by Andy Ackerman<br>
+							<br>
+							
+						-------------------------------------------------------------------------------<br>
+							<br>
+							
+						The Cast<br>
+							
+						Regulars:<br>
+							
+						Jerry Seinfeld ....................... Jerry Seinfeld<br>
+							
+						Jason Alexander .................. George Costanza<br>
+							
+						Julia Louis-Dreyfus ............. Elaine Benes<br>
+							
+						Michael Richards ................. Cosmo Kramer<br>
+							<br>
+							
+						Guest Stars:<br>
+							<br>
+							
+						Mark Metcalf ....................... Maestro<br>
+							
+						Gary Yates ........................... Security Guard<br>
+							
+						Paul Michael ......................... Giggio<br>
+							
+						James Noah .......................... Ned<br>
+							
+						Tim Bagley ............................ Manager<br>
+							
+						Richard McGonagle .............. Mr. Star<br>
+							
+						Kenneth Ryan ....................... Mr. Burns<br>
+							
+						Kymberley S. Newberry ....... Ms. Jordan<br>
+							
+						David Wendelman ................ Waiter<br>
+							
+						rc: Heidi Swedberg ............... Susan Biddle Ross<br>
+							
+						rc: Phil Morris ........................ Jackie Chiles<br>
+							<br>
+							
+						==================================================================<br>
+							<br>
+							
+						[Setting: Booth at Monk's Cafe]<br>
+							<br>
+							
+						GEORGE: And then I hear this rabbi on television, I mean imagine.<br>
+							<br>
+							
+						ELAINE: I'm really sorry George, I, I, I wasn't jealous of you. It was just the whole marriage thing.<br>
+							<br>
+							
+						GEORGE: Ya know, I was just a little surprised.<br>
+							<br>
+							
+						JERRY: Why would anyone eat canned fruit? I mean can anybody answer that?<br>
+							<br>
+							
+						GEORGE: What about all the loser stuff?<br>
+							<br>
+							
+						ELAINE: I don't know where the rabbi got that. Ya know I never said that. I said &quot;I've never seen you looser&quot;.<br>
+							<br>
+							
+						JERRY: I can see the can if you're in the army, but fresh fruit it's available, it's there, it's 2 aisles over.<br>
+							<br>
+							
+						GEORGE: (Gets up to leave) Well, scintillating as always.<br>
+							<br>
+							
+						JERRY: Where you going?<br>
+							<br>
+							
+						GEORGE: I'm going shopping with Susan.<br>
+							<br>
+							
+						ELAINE: What kind of shopping?<br>
+							<br>
+							
+						GEORGE: Clothes shopping.<br>
+							<br>
+							
+						ELAINE: Where are you going?<br>
+							<br>
+							
+						GEORGE: Ross'.<br>
+							<br>
+							
+						ELAINE: Oh that's a nice store.<br>
+							<br>
+							
+						GEORGE: Yeah, it's her uncle's.<br>
+							<br>
+							
+						JERRY: Discount?<br>
+							<br>
+							
+						GEORGE: (As he leaves) One would hope.<br>
+							<br>
+							
+						(Scene ends)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Setting: Jackie Child's Office]<br>
+							<br>
+							
+						(Kramer is sitting across from Jackie)<br>
+							<br>
+							
+						KRAMER: So ya know, my friend and I we were going to the movies and we stopped off and bought this cafe latte.<br>
+							<br>
+							
+						JACKIE: (Agreeing) Hm Hm. Oh what is that like Italian coffee?<br>
+							<br>
+							
+						KRAMER: Yeah that's right.<br>
+							<br>
+							
+						JACKIE: Half milk, half coffee?<br>
+							<br>
+							
+						KRAMER: Yeah.<br>
+							<br>
+							
+						JACKIE: Hm Hm. You take a sip?<br>
+							<br>
+							
+						KRAMER: Yes I did.<br>
+							<br>
+							
+						JACKIE: Now when you took a sip, did you notice it was hot? Were you able to sip it in your normal fashion?<br>
+							<br>
+							
+						KRAMER: No I wasn't able to sip it in my normal fashion.<br>
+							<br>
+							
+						JACKIE: Hm Hm. All right, all right. You take big sips?<br>
+							<br>
+							
+						KRAMER: Well I think I take a normal sip.<br>
+							<br>
+							
+						JACKIE: O.K. You take normal sips. Nothing wrong with that. Then what happened?<br>
+							<br>
+							
+						KRAMER: Well you know ahh, they don't allow outside drinks in the movie theater. So I had to put it in my shirt and sneak it in.<br>
+							<br>
+							
+						JACKIE: Yeah, see they like to sell their own coffee.<br>
+							<br>
+							
+						KRAMER: Yeah, now is that going to be a problem?<br>
+							<br>
+							
+						JACKIE: Yeah that's going to be a problem. It's gonna be a problem for them. This a clear violation of your rights as a consumer. It's an infringement on your constitutional rights. It's outrageous, egregious, preposterous.<br>
+							<br>
+							
+						KRAMER: It's definitely preposterous.<br>
+							<br>
+							
+						JACKIE: So. Then what happened?<br>
+							<br>
+							
+						KRAMER: Well ahh. I was trying to get to my seat and I had to step over someone and I kind of got pushed and it spilled on me.<br>
+							<br>
+							
+						JACKIE: Was there a top on it?<br>
+							<br>
+							
+						KRAMER: Yeah.<br>
+							<br>
+							
+						JACKIE: Now did you put the top on or did they put the top on for you?<br>
+							<br>
+							
+						KRAMER: No. They put the top on.<br>
+							<br>
+							
+						JACKIE: And they made the top. You didn't make the top did you?<br>
+							<br>
+							
+						(Kramer motions that he did not make the top)<br>
+							<br>
+							
+						JACKIE: (To secretary over intercom) Suzie. I want you to go down to Java World. Get me a cafe latte with a top. (To Kramer) We're gonna run some test on that top. Have you been to the doctor?<br>
+							<br>
+							
+						KRAMER: Ah No no, I haven't.<br>
+							<br>
+							
+						JACKIE: (To secretary over intercom) Suzie. Call Dr. Bison. Set up an appointment for Mr. Kramer here. Tell him it's from me.<br>
+							<br>
+							
+						KRAMER: So ah, what do you think Mr. Chiles.<br>
+							<br>
+							
+						JACKIE: Jackie.<br>
+							<br>
+							
+						KRAMER: Jackie. I mean, we have a chance?<br>
+							<br>
+							
+						JACKIE: Do we have a chance? You get me one coffee drinker on that jury, you gonna walk outta there a rich man.<br>
+							<br>
+							
+						(Scene ends)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Setting: Ross' clothing store]<br>
+							<br>
+							
+						(Susan is holding a bright red shirt up to George)<br>
+							<br>
+							
+						GEORGE: I don't like it, it's red. It it's too flashy.<br>
+							<br>
+							
+						SUSAN: Well you could use a little flash.<br>
+							<br>
+							
+						GEORGE: All right. Don't change me. Susan. Don't change me. Ya know there are a lot of woman that would love to be in your position right now.<br>
+							<br>
+							
+						SUSAN: Name one.<br>
+							<br>
+							
+						MR ROSS: So, you find anything?<br>
+							<br>
+							
+						SUSAN: Oh, he's impossible to shop for uncle Ned.<br>
+							<br>
+							
+						MR ROSS: I'm going on vacation to Costa Rica. Maybe I'll see you in a couple of weeks.<br>
+							<br>
+							
+						SUSAN: O.K.<br>
+							<br>
+							
+						SALESMAN: Excuse me Mr Ross.<br>
+							<br>
+							
+						(George notices the security guard standing near the front door)<br>
+							<br>
+							
+						GEORGE: See now this I don't get.<br>
+							<br>
+							
+						SUSAN: What?<br>
+							<br>
+							
+						GEORGE: The security guard.<br>
+							<br>
+							
+						SUSAN: What about him?<br>
+							<br>
+							
+						GEORGE: Why does he have to stand?<br>
+							<br>
+							
+						SUSAN: Because he's a security guard.<br>
+							<br>
+							
+						GEORGE: But I mean look at him. He's gotta be on his feet like that all day? That's brutal. I think I'm gonna say something to your uncle.<br>
+							<br>
+							
+						SUSAN: George, you just met him. Don't say anything to him.<br>
+							<br>
+							
+						GEORGE: Aren't you concerned about the security guard?<br>
+							<br>
+							
+						SUSAN: Not really. (Walks away)<br>
+							<br>
+							
+						GEORGE: (Thinking to himself) She's not concerned about the security guard. What kind of a person is this? I'm marrying a person who doesn't care that this man has to stand here 8 hours a day when he could easily be sitting.<br>
+							<br>
+							
+						SUSAN: All right George. (She puts the red shirt up to him again) What do you think?<br>
+							<br>
+							
+						(Scene ends)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Setting: Elaine and Jerry are in Jerry's apartment.]<br>
+							<br>
+							
+						JERRY: So ah, what did you do last night?<br>
+							<br>
+							
+						ELAINE: Nothing.<br>
+							<br>
+							
+						JERRY: I know nothing, but what did you actually do?<br>
+							<br>
+							
+						ELAINE: Literally nothing. I sat in a chair and I stared.<br>
+							<br>
+							
+						JERRY: Wow. That really is nothing.<br>
+							<br>
+							
+						ELAINE: I told ya.<br>
+							<br>
+							
+						(Kramer enters)<br>
+							<br>
+							
+						KRAMER: Hey.<br>
+							<br>
+							
+						JERRY: Hey.<br>
+							<br>
+							
+						ELAINE: Hey.<br>
+							<br>
+							
+						JERRY: What are you all dressed up for?<br>
+							<br>
+							
+						KRAMER: Oh I ah just came from a meeting with my lawyer.<br>
+							<br>
+							
+						JERRY: Oh yeah, how's that looking?<br>
+							<br>
+							
+						KRAMER: Oh I'll tell you how it's looking. My lawyer Jackie says if there is one coffee drinker on that jury, (in a very high voice) I'm gonna be a rich man.<br>
+							<br>
+							
+						ELAINE: That's despicable. How does he know how all coffee drinkers will vote? I'm a coffee drinker. If I was on that jury I wouldn't give you a nickel Kramer.<br>
+							<br>
+							
+						KRAMER: Yeah, well you wouldn't be on that jury. He would have weeded you out.<br>
+							<br>
+							
+						JERRY: Frankly I'm surprised you're so litigious.<br>
+							<br>
+							
+						KRAMER: Oh I can be quite litigious.<br>
+							<br>
+							
+						ELAINE: What I mean who ever heard of this anyway? Suing a company because there coffee is too hot? Coffee is supposed to be hot.<br>
+							<br>
+							
+						KRAMER: Yeah but Jackie says the top was faulty.<br>
+							<br>
+							
+						ELAINE: (Mocking) Jackie says the top was faulty.<br>
+							<br>
+							
+						(Sounds of knocking in the background on Kramer's door)<br>
+							<br>
+							
+						KRAMER: Hey Maestro!<br>
+							<br>
+							
+						MAESTRO: Ah, Kramer.<br>
+							<br>
+							
+						KRAMER: I'm in here. How's it going.<br>
+							<br>
+							
+						MAESTRO: Fine.<br>
+							<br>
+							
+						JERRY: Hi Bob.<br>
+							<br>
+							
+						(Kramer coughs purposely and motions toward maestro with his head)<br>
+							<br>
+							
+						JERRY: (Apologetically) Oh, I'm sorry. Maestro.<br>
+							<br>
+							
+						KRAMER: Well, this is a surprise ha?<br>
+							<br>
+							
+						MAESTRO: I just wanted to drop off this Chinese balm for your burns. It's supposed to be great stuff. It's all herbal.<br>
+							<br>
+							
+						KRAMER: Oh Maestro, you, what are you doing? You don't have to do this. Do you believe this Maestro?<br>
+							<br>
+							
+						MAESTRO: It's nothing.<br>
+							<br>
+							
+						KRAMER: Yeah, ya know you haven't been around for a while.<br>
+							<br>
+							
+						MAESTRO: Oh yeah, I've been at my house in Tuscany.<br>
+							<br>
+							
+						KRAMER: Oh Tuscany huh? Hear that Jerry? That's in Italy.<br>
+							<br>
+							
+						JERRY: I hear it's ah beautiful there.<br>
+							<br>
+							
+						MAESTRO: Well if you're thinking of getting a place there don't bother. There's really nothing available.<br>
+							<br>
+							
+						JERRY: (Surprised) Huh?<br>
+							<br>
+							
+						(Elaine enters from bathroom)<br>
+							<br>
+							
+						MAESTRO: (Seeing Elaine) Oh!<br>
+							<br>
+							
+						ELAINE: Hello.<br>
+							<br>
+							
+						MAESTRO: Well Hello. And who might you be?<br>
+							<br>
+							
+						ELAINE: I might be Elaine.<br>
+							<br>
+							
+						JERRY: This is a, Bob Cobb.<br>
+							<br>
+							
+						KRAMER: Maestro.<br>
+							<br>
+							
+						ELAINE: Oh, Maestro.<br>
+							<br>
+							
+						MAESTRO: It is my very great pleasure. (Kisses Elaine's hand)<br>
+							<br>
+							
+						ELAINE: Enchante.<br>
+							<br>
+							
+						MAESTRO AND ELAINE (Simultaneously): Well I have to be going.<br>
+							<br>
+							
+						ELAINE: Jinx buy me a coke.<br>
+							<br>
+							
+						MAESTRO: Oh. Love it when that happeneds.<br>
+							<br>
+							
+						ELAINE: I know I know. That is so ahh ......<br>
+							<br>
+							
+						MAESTRO: Coincidental.<br>
+							<br>
+							
+						ELAINE: Yeah, thanks. O.K. Bye you guys.<br>
+							<br>
+							
+						MAESTRO: Ciao.<br>
+							<br>
+							
+						(Elaine and Maestro leave)<br>
+							<br>
+							
+						KRAMER: Yeah, yeah oh hey and a thanks for the balm. Yeah.<br>
+							<br>
+							
+						(Kramer shuts the door and stares at Jerry)<br>
+							<br>
+							
+						KRAMER: You know you hurt the Maestro's feelings.<br>
+							<br>
+							
+						JERRY: Oh what, because I didn't call him Maestro?<br>
+							<br>
+							
+						KRAMER: That's right.<br>
+							<br>
+							
+						JERRY: Ya know I feel a little funny calling somebody Maestro.<br>
+							<br>
+							
+						KRAMER: Why?<br>
+							<br>
+							
+						JERRY: Because it's a stupid thing to be called.<br>
+							<br>
+							
+						KRAMER: Jerry he's a conductor.<br>
+							<br>
+							
+						JERRY: Oh conductor. He conducts the Policeman's Benevolent Association Orchestra.<br>
+							<br>
+							
+						KRAMER: Well, he's still a conductor.<br>
+							<br>
+							
+						JERRY: Well he sure worked pretty fast with Elaine.<br>
+							<br>
+							
+						KRAMER: Oh, you should see him do 'Flight of the Bumble Bee'.<br>
+							<br>
+							
+						(Kramer makes like a conductor and makes a classic Kramer sound)<br>
+							<br>
+							
+						(Scene ends)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Setting: Monks Cafe. George and Jerry are sitting across from each other]<br>
+							<br>
+							
+						JERRY: New shirt?<br>
+							<br>
+							
+						GEORGE: Yeah. You like it.<br>
+							<br>
+							
+						JERRY: No, not particularly.<br>
+							<br>
+							
+						GEORGE: Why, the color?<br>
+							<br>
+							
+						JERRY: Yeah.<br>
+							<br>
+							
+						GEORGE: Too flashy?<br>
+							<br>
+							
+						JERRY: Yeah, it's burning my retina. Susan picked that out for you right?<br>
+							<br>
+							
+						GEORGE: (Obviously lying) No.<br>
+							<br>
+							
+						JERRY: (Reaches for a menu) All right what's it going to be here.<br>
+							<br>
+							
+						GEORGE: Let me ask you something. When you go into a store, does it bother you that they make the security guard just stand there all day?<br>
+							<br>
+							
+						JERRY: No.<br>
+							<br>
+							
+						GEORGE: See, didn't bother Susan either. That's why I'm different. I can sense the slightest human suffering.<br>
+							<br>
+							
+						JERRY: Are you sensing anything right now?<br>
+							<br>
+							
+						GEORGE: Let me just say this. It is inhumane to make a man stand on his feet, in one spot for eight hours a day. Why shouldn't he have a chair?<br>
+							<br>
+							
+						JERRY: Well, what about criminal activity? He's got to be alert.<br>
+							<br>
+							
+						GEORGE: What, he can't jump out of the chair? How long does that take? Here look at this. (he moves to the end of the booth) Here, watch. (stands up) Criminals. Boom. I'm up. (pretends he's shooting) Stop It! Stop It! Stop It!<br>
+							<br>
+							
+						JERRY: Maybe they offered him a chair and he turned it down.<br>
+							<br>
+							
+						GEORGE: Would you get out of here. Who's gonna turn down a chair? I would be very interested to know how he felt about all of this. Maybe I'll have a talk with him.<br>
+							<br>
+							
+						JERRY: I know you will.<br>
+							<br>
+							
+						(Kramer enters and sits next to Jerry)<br>
+							<br>
+							
+						KRAMER: Hey, hey, hey, listen to this. Jackie just called.<br>
+							<br>
+							
+						GEORGE: Who?<br>
+							<br>
+							
+						JERRY: His lawyer.<br>
+							<br>
+							
+						KRAMER: Yeah, Java World wants to settle.<br>
+							<br>
+							
+						JERRY: What?<br>
+							<br>
+							
+						KRAMER: Yeah, I'm gonna be rich.<br>
+							<br>
+							
+						JERRY: Why are they settling?<br>
+							<br>
+							
+						KRAMER: Cause their afraid of bad publicity.<br>
+							<br>
+							
+						JERRY: All this because you spilled coffee on yourself?<br>
+							<br>
+							
+						KRAMER: Yeah that's right.<br>
+							<br>
+							
+						GEORGE: (Very loud in the direction of a waiter) I'm gonna need a coffee here. Very hot! Boiling!<br>
+							<br>
+							
+						(Scene ends)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Setting: Restaurant. Maestro and Elaine are talking)<br>
+							<br>
+							
+						MAESTRO: And then about four years ago I was on holiday in Tuscany.<br>
+							<br>
+							
+						ELAINE: Uh ha.<br>
+							<br>
+							
+						MAESTRO: And I fell in love with this house.<br>
+							<br>
+							
+						(Waiter approaches)<br>
+							<br>
+							
+						WAITER: Are you ready to order?<br>
+							<br>
+							
+						ELAINE: Oh God. What are you getting Bob?<br>
+							<br>
+							
+						(Maestro looks at Elaine with an annoyed look on his face)<br>
+							<br>
+							
+						MAESTRO: Good question. (to waiter) We'll need a few minutes.<br>
+							<br>
+							
+						(Maestro puts his head in his hand. He is visibly upset)<br>
+							<br>
+							
+						MAESTRO: You know, I'm sorry but, I didn't mention it earlier but actually I preferred to be called Maestro.<br>
+							<br>
+							
+						ELAINE: Excuse me?<br>
+							<br>
+							
+						MAESTRO: Well, ya know I am a conductor.<br>
+							<br>
+							
+						ELAINE: Yeah, so?<br>
+							<br>
+							
+						MAESTRO: Oh I suppose it's O.K. for Leonard Burnstein to be called Maestro because he conducted the New York Philharmonic. So he gets to be called Maestro and I don't.<br>
+							<br>
+							
+						ELAINE: Well, I mean don't you think that he was probably called Maestro while he was conducting, not in social situations. I mean his friends probably just called him Lenny.<br>
+							<br>
+							
+						MAESTRO: I happen to know for a fact, that he was called Maestro in social situations. I once saw him at a bar and someone came up to him and said &quot;Hello Maestro, how about a beer&quot;. O.K. So that's a fact.<br>
+							<br>
+							
+						ELAINE: Maestro huh? O.K. (laughing)<br>
+							<br>
+							
+						(Scene ends)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Setting: Jerry's apartment. Jerry is at the refrigerator getting orange juice.]<br>
+							<br>
+							
+						(Kramer enters frantically)<br>
+							<br>
+							
+						KRAMER: Jerry! Jerry! Jerry! Jerry my burn is gone look.(shows Jerry the burn area).<br>
+							<br>
+							
+						JERRY: What do you mean?<br>
+							<br>
+							
+						KRAMER: Well I put that Chinese balm on that the Maestro gave me. And look, it healed it.<br>
+							<br>
+							
+						JERRY: So?<br>
+							<br>
+							
+						KRAMER: So? My lawsuit. I'm finished.<br>
+							<br>
+							
+						JERRY: I thought they wanted to settle.<br>
+							<br>
+							
+						KRAMER: Well what happens if they want to see it?<br>
+							<br>
+							
+						JERRY: Then you're in a lot of trouble.<br>
+							<br>
+							
+						KRAMER: Yeah!!<br>
+							<br>
+							
+						(Scene ends)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Setting: Ross' clothing store. Guard is standing near entrance. George enters.]<br>
+							<br>
+							
+						GEORGE: (To guard) Tired?<br>
+							<br>
+							
+						GUARD: No.<br>
+							<br>
+							
+						GEORGE: How come uh, no chair?<br>
+							<br>
+							
+						GUARD: What?<br>
+							<br>
+							
+						GEORGE: I, I couldn't help but notice that uh you don't have a chair.<br>
+							<br>
+							
+						GUARD: I don't need a chair.<br>
+							<br>
+							
+						GEORGE: No I didn't mean to imply that you did. You're obviously a very well proportioned individual. I was just wondering, have they ever offered you a chair?<br>
+							<br>
+							
+						GUARD: Nope.<br>
+							<br>
+							
+						GEORGE: Would you like a chair?<br>
+							<br>
+							
+						GUARD: I suppose if they gave me one I'd sit down.<br>
+							<br>
+							
+						GEORGE: Ah ha, Ah ha. You would, wouldn't you?<br>
+							<br>
+							
+						GUARD: Obviously I'd rather sit than stand, if that's what your asking.<br>
+							<br>
+							
+						GEORGE: That's exactly my point.<br>
+							<br>
+							
+						GUARD: Well who wouldn't?<br>
+							<br>
+							
+						GEORGE: Cause I tell you, frankly, I would like to walk in hear one day and find you sitting down. (Starts to walk out of the store) That would give me a lot of pleasure. Call me crazy.<br>
+							<br>
+							
+						(Scene ends)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Setting: Back seat of a cab. Jackie and Kramer]<br>
+							<br>
+							
+						JACKIE: You put the balm on? Who told you to put the balm on? I didn't tell you to put the balm on. Why'd you put the balm on? You haven't even been to see the doctor. If your gonna put a balm on, let a doctor put a balm on.<br>
+							<br>
+							
+						KRAMER: I guess I screwed up huh Jackie?<br>
+							<br>
+							
+						JACKIE: Your damn right you screwed up. Where the hell did you get that damm balm anyway?<br>
+							<br>
+							
+						KRAMER: The Maestro.<br>
+							<br>
+							
+						JACKIE: The who? What are you talking about Maestro?<br>
+							<br>
+							
+						KRAMER: My friend he's a conductor.<br>
+							<br>
+							
+						JACKIE: Oh oh oh, so a Maestro tells you to put a balm on and you do it?<br>
+							<br>
+							
+						KRAMER: Well my stomach was burning.<br>
+							<br>
+							
+						JACKIE: I tell you what this is. This is a public humiliation.<br>
+							<br>
+							
+						KRAMER: Well I didn't know the balm was gonna work.<br>
+							<br>
+							
+						JACKIE: Do you know what a balm is? Have you ever seen a balm? Didn't you read the instructions?<br>
+							<br>
+							
+						KRAMER: Well I ...<br>
+							<br>
+							
+						JACKIE: (interrupts) No one can tell what a balm's gonna do. They're unpredictable.<br>
+							<br>
+							
+						KRAMER: I'm sorry Jackie.<br>
+							<br>
+							
+						JACKIE: (To cab driver) Pull over here driver this is it.<br>
+							<br>
+							
+						KRAMER: (Motions with his head) Yeah, get over.<br>
+							<br>
+							
+						(Scene ends)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Setting: Elaine and Jerry walking on the sidewalk in NYC]<br>
+							<br>
+							
+						JERRY: Did you have a good time?<br>
+							<br>
+							
+						ELAINE: Yeah, he's very interesting. Did you know that Mozart died while he was writing 'The Requiem'.<br>
+							<br>
+							
+						JERRY: (Sarcastically) Yeah, everyone knows that, it was in Amadeus.<br>
+							<br>
+							
+						ELAINE: Really?<br>
+							<br>
+							
+						JERRY: So what about the &quot;Maestro&quot; stuff. Did he make you call him Maestro.<br>
+							<br>
+							
+						ELAINE: Yeah, I called him Maestro.<br>
+							<br>
+							
+						JERRY: You didn't mind?<br>
+							<br>
+							
+						ELAINE: Well, I did at first, but actually I kind of got used to it.<br>
+							<br>
+							
+						JERRY: O.K. from now on I want you to call me &quot;Jerry the Great&quot;.<br>
+							<br>
+							
+						ELAINE: I am not calling you &quot;Jerry the Great&quot;.<br>
+							<br>
+							
+						JERRY: Why not you call him Maestro.<br>
+							<br>
+							
+						ELAINE: He is a Maestro.<br>
+							<br>
+							
+						JERRY: Well, I'm great.<br>
+							<br>
+							
+						ELAINE: So you say.<br>
+							<br>
+							
+						JERRY: What about his house in Tuscany, he mention that?<br>
+							<br>
+							
+						ELAINE: Yeah. (bragging) I'm invited.<br>
+							<br>
+							
+						JERRY: You know when I told him it was beautiful there, out of the clear blue sky he says there's nothing to rent. As if he doesn't want anyone else there.<br>
+							<br>
+							
+						ELAINE: Why?<br>
+							<br>
+							
+						JERRY: I don't know. Maybe he's embarrassed by Americans.<br>
+							<br>
+							
+						ELAINE: Yeah, well maybe there aren't any houses to rent there.<br>
+							<br>
+							
+						JERRY: In all of Tuscany? I wonder.<br>
+							<br>
+							
+						(Scene ends)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Setting: Office of a Java World building]<br>
+							<br>
+							
+						MR STAR: I say we offer him $50,000 that's it, take it or leave it.<br>
+							<br>
+							
+						MR BURNS: How do we know how severe the burns are? Why don't we have him examined by a doctor.<br>
+							<br>
+							
+						MS. JORDAN: Listen, the faster we dispose of this the better. This thing gets into the paper it will kill us.<br>
+							<br>
+							
+						MR STAR: All right, we'll start at 50,000 and free coffee at all of our stores.<br>
+							<br>
+							
+						(Secretary beeps)<br>
+							<br>
+							
+						MR STAR: (Answering secretary) Yes?<br>
+							<br>
+							
+						(Heard over the speaker)<br>
+							<br>
+							
+						SECRETARY: Mr. Chiles and Mr. Kramer are here.<br>
+							<br>
+							
+						(To intercom)<br>
+							<br>
+							
+						MR STAR: Send them in.<br>
+							<br>
+							
+						(Mr. Star opens door to let Jackie and Kramer in)<br>
+							<br>
+							
+						MR STAR: Gentleman.<br>
+							<br>
+							
+						(Kramer and Jackie enter Mr. Star's office)<br>
+							<br>
+							
+						MR STAR: Gentleman come in. Now we don't want to take up much of your time. Let's make this short and sweet. We're prepared to offer you all the free coffee you want in any of our stores throughout North America and Europe, Plus..<br>
+							<br>
+							
+						KRAMER: (Interrupting) I'LL TAKE IT!!<br>
+							<br>
+							
+						(Scene ends)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Setting: Jackie and Kramer in the back of a cab]<br>
+							<br>
+							
+						JACKIE: I'll take it? Who told you to take it? Did I tell you to take it?<br>
+							<br>
+							
+						KRAMER: No.<br>
+							<br>
+							
+						JACKIE: I know the Maestro didn't tell you to take it, he wasn't there.<br>
+							<br>
+							
+						KRAMER: Well I thought we were lucky to get anything.<br>
+							<br>
+							
+						JACKIE: Free coffee?<br>
+							<br>
+							
+						KRAMER: Yeah.<br>
+							<br>
+							
+						JACKIE: I don't want free coffee. It's not hard to get coffee. I can get my own<br>
+							
+						damn coffee. I wanted to hear what came after that &quot;Plus&quot;.<br>
+							<br>
+							
+						KRAMER: Well I didn't hear any Plus.<br>
+							<br>
+							
+						JACKIE: 20 years practicing law I've never experienced anything like this.<br>
+							<br>
+							
+						(Kramer spots a Java World)<br>
+							<br>
+							
+						KRAMER: Look, Java World. (To cabbie) Hey listen I'm gonna get out here. I'm gonna get myself a free cafe latte.<br>
+							<br>
+							
+						(Kramer tramples over Jackie to get out of the cab)<br>
+							<br>
+							
+						(Scene ends)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Setting: Jerry and Elaine are walking down the street and hear music approaching]<br>
+							<br>
+							
+						ELAINE: Hey. Hi Maestro.<br>
+							<br>
+							
+						(Maestro makes like a conductor waiving his hands. Elaine joins in to finish the song)<br>
+							<br>
+							
+						MAESTRO: Beethoven's 7th.<br>
+							<br>
+							
+						ELAINE: Yeah.<br>
+							<br>
+							
+						JERRY: Hey you know we were just talking about you.<br>
+							<br>
+							
+						MAESTRO: Oh yeah?<br>
+							<br>
+							
+						JERRY: Yeah, ya know the other day how you mentioned that there were no houses available in Tuscany?<br>
+							<br>
+							
+						MAESTRO: You didn't find one, did you?<br>
+							<br>
+							
+						JERRY: No. I'm not really looking.<br>
+							<br>
+							
+						MAESTRO: Nor should you.<br>
+							<br>
+							
+						JERRY: So are you telling me there's not one house to rent in all of Tuscany?<br>
+							<br>
+							
+						MAESTRO: The houses are passed down from generation to generation, it's very hard.<br>
+							<br>
+							
+						JERRY: I can't get a sublet, a guest room, a cot, nothing?<br>
+							<br>
+							
+						MAESTRO: It's booked solid!<br>
+							<br>
+							
+						ELAINE: It's BOOKED Jerry!<br>
+							<br>
+							
+						JERRY: How'd you get yours?<br>
+							<br>
+							
+						MAESTRO: Got lucky. Come on, Elaine, let's take a ride, I was about to pop in some Verdi.<br>
+							<br>
+							
+						(Elaine starts to sing in Italian. Maestro and Elaine drive away)<br>
+							<br>
+							
+						JERRY: Maybe I'll check out France.<br>
+							<br>
+							
+						(George walks towards Jerry)<br>
+							<br>
+							
+						JERRY: Hey George, do you believe this guy?<br>
+							<br>
+							
+						GEORGE: Who?<br>
+							<br>
+							
+						JERRY: Bob Cobb.<br>
+							<br>
+							
+						GEORGE: Bob Cobb?<br>
+							<br>
+							
+						JERRY: You know, the Maestro.<br>
+							<br>
+							
+						GEORGE: Oh I missed the Maestro?<br>
+							<br>
+							
+						JERRY: Yeah, get this, he tells me there are no houses any where in Tuscany to rent.<br>
+							<br>
+							
+						GEORGE: Huh. Your renting a house in Tuscany?<br>
+							<br>
+							
+						JERRY: No.<br>
+							<br>
+							
+						GEORGE: So what do you care?<br>
+							<br>
+							
+						(George walks away leaving Jerry standing there by himself)<br>
+							<br>
+							
+						(Scene ends)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Setting: Monk's cafe. George and Jerry are sitting at the booth]<br>
+							<br>
+							
+						JERRY: I just wish I could figure out if this guy is trying to keep me out of Tuscany.<br>
+							<br>
+							
+						GEORGE: Of course he is. There's got to be houses for rent in Tuscany. Do you know how big Tuscany is?<br>
+							<br>
+							
+						JERRY: I have no idea.<br>
+							<br>
+							
+						GEORGE: It it's huge. It's probably like North Dakota.<br>
+							<br>
+							
+						JERRY: Oh, no way it's that big.<br>
+							<br>
+							
+						GEORGE: It's a big region.<br>
+							<br>
+							
+						JERRY: Do you know how big North Dakota is stupid?<br>
+							<br>
+							
+						GEORGE: I don't know why I bother even talking to you.<br>
+							<br>
+							
+						JERRY: Hey, no one's got a gun to your head.<br>
+							<br>
+							
+						GEORGE: All right.<br>
+							<br>
+							
+						(George and Jerry hold there arms up in a truce)<br>
+							<br>
+							
+						GEORGE: So I spoke to the security guard.<br>
+							<br>
+							
+						JERRY: Yeah and?<br>
+							<br>
+							
+						GEORGE: Well it's tough to get a good read but I think if I brought him a chair, he'd sit.<br>
+							<br>
+							
+						JERRY: So are you gonna get him a chair?<br>
+							<br>
+							
+						GEORGE: Yup. It's really just a question of what kind. Thinking about a bar stool.<br>
+							<br>
+							
+						JERRY: Yeah, that would give him some height, be able to check things out. With a back or without.<br>
+							<br>
+							
+						GEORGE: Oh I think I'd go for the back.<br>
+							<br>
+							
+						JERRY: Swivel?<br>
+							<br>
+							
+						GEORGE: I suppose he could swivel. Hey maybe one of those director's chairs. What do you think of those.<br>
+							<br>
+							
+						JERRY: I thinks it's kind of a pompous look. You know my parents used to have a kitchen chair that would have been perfect.<br>
+							<br>
+							
+						GEORGE: You mean one of those vinyl things?<br>
+							<br>
+							
+						JERRY: Yes.<br>
+							<br>
+							
+						GEORGE: Vinyl yeah, maybe.<br>
+							<br>
+							
+						JERRY: How can I figure out if there's any places to rent in Tuscany? Wait a minute. Poppy's from Tuscany. I'm gonna go call him.<br>
+							<br>
+							
+						(Jerry leaves the booth headed for the phone in the back of the cafe)<br>
+							<br>
+							
+						GEORGE: Yeah, good luck. Hey I'll meet you outside.<br>
+							<br>
+							
+						(Scene ends)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Setting: In Maestro's car, he and Elaine are driving and singing Finiculi, Finicula]<br>
+							<br>
+							
+						(Scene ends)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Setting: On the street in the city, George and Jerry are talking]<br>
+							<br>
+							
+						JERRY: Poppy told me to talk to his cousin, he lives down in Little Italy.<br>
+							<br>
+							
+						GEORGE: What do you think about a rocking chair?<br>
+							<br>
+							
+						(Camera shifts to inside a Java World and Kramer is exiting at the door)<br>
+							<br>
+							
+						KRAMER: (Speaking very fast and fidgety) You can't put a limit on my cafe lattes, it says so right here. And I don't want to get dirty looks when I come in here. If I want a cafe latte, you give me a cafe latte. And if I have any problems I'm gonna get my lawyer Jackie Chiles down here and your gonna be in really big trouble.<br>
+							<br>
+							
+						(Kramer exits and runs into Jerry and George)<br>
+							<br>
+							
+						JERRY: Hey hey hey, slow down Eddie. What what's the matter?<br>
+							<br>
+							
+						KRAMER: Awe there making faces at me cause I've had a couple of cafe lattes. But I'm entitled to them. I can have as many cafe lattes as I want, that was the settlement.<br>
+							<br>
+							
+						JERRY: That's it?<br>
+							<br>
+							
+						KRAMER: That's it. What you want one George? I can get one for you. No problem. Jerry, you want one? They're delicious. My pleasure.<br>
+							<br>
+							
+						JERRY: You've got to stop it. Your your all hopped up on the caffein.<br>
+							<br>
+							
+						KRAMER: Well I feel like I'm talking fast but it's very hard to tell.<br>
+							<br>
+							
+						JERRY: You're racing!<br>
+							<br>
+							
+						KRAMER: Well well I've got things to do. I'll see you later. Bye.<br>
+							<br>
+							
+						(Kramer walks extremely fast away from Jerry and George first putting the contract into his jacket and then fixes his tie all while still walking extremely fast)<br>
+							<br>
+							
+						(Scene ends)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Setting: Dark room. Elaine and Maestro are kissing]<br>
+							<br>
+							
+						ELAINE: (Passionately) Oh Bob! Bob!<br>
+							<br>
+							
+						(Maestro is insulted and pulls away)<br>
+							<br>
+							
+						ELAINE: (Correcting herself) Maestro!<br>
+							<br>
+							
+						(Maestro begins kissing Elaine again)<br>
+							<br>
+							
+						(Scene ends)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Setting: Ross' clothing store. George carries in a rocking chair]<br>
+							<br>
+							
+						CLERK: (Noticing George with the rocking chair) Excuse me. Can I help you?<br>
+							<br>
+							
+						GEOGE: Nope. Just a, giving a chair to the security guard.<br>
+							<br>
+							
+						CLERK: Did Mr. Ross tell you to do this?<br>
+							<br>
+							
+						(George motions for the clerk to approach him)<br>
+							<br>
+							
+						GEORGE: What's your name?<br>
+							<br>
+							
+						CLERK: Evan Fayne.<br>
+							<br>
+							
+						GEORGE: I'm engaged to Mr. Ross' niece. I'm probably gonna be taking over this whole place someday so if I were you I would stay on my good side.<br>
+							<br>
+							
+						CLERK: I'm terribly sorry, I didn't know.<br>
+							<br>
+							
+						GEORGE: Innocent mistake.<br>
+							<br>
+							
+						(George gives the chair to the security guard)<br>
+							<br>
+							
+						GEORGE: Well, here you go. What do you think?<br>
+							<br>
+							
+						GUARD: Mr. Ross says this is O.K.?<br>
+							<br>
+							
+						GEORGE: Hey, I'm his nephew, all right? Don't worry about it. Go ahead. Check it out.<br>
+							<br>
+							
+						(Guard sits in the chair)<br>
+							<br>
+							
+						GUARD: Not bad. Not bad at all.<br>
+							<br>
+							
+						(Scene ends)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Setting: Dark room in the back of an Italian restaurant.]<br>
+							<br>
+							
+						JERRY: Ah, excuse me, I'm looking for a Mr. Giggio.<br>
+							<br>
+							
+						GIGGIO: Si, Si, imma Giggio.<br>
+							<br>
+							
+						JERRY: Poppy sent me to see you Mr. Giggio.<br>
+							<br>
+							
+						GIGGIO: Si, Si Poppy.<br>
+							<br>
+							
+						JERRY: Um, did he did he mention to you why I called?<br>
+							<br>
+							
+						GIGGIO: Si, the house in Tuscana.<br>
+							<br>
+							
+						JERRY: Yeah, right, right. So is there anything there to rent?<br>
+							<br>
+							
+						GIGGIO: Si. Two million lira. You give me the check.<br>
+							<br>
+							
+						JERRY: I didn't actually want to rent it.<br>
+							<br>
+							
+						GIGGIO: The keys, here are the keys. You give me the check. Two million lira. Seventeen hundred Americana. Molto generoso.<br>
+							<br>
+							
+						(A man approaches Mr. Giggio and whispers in his ear.)<br>
+							<br>
+							
+						GIGGIO: (To the man) Si, Si.<br>
+							<br>
+							
+						(Jerry watches the man walk away and appears to be very frightened)<br>
+							<br>
+							
+						JERRY: So see um, I didn't say that I wanted to rent it, I was just wondering if there were houses there to rent.<br>
+							<br>
+							
+						GIGGIO: Si. (hods up the keys) Thissa one!. Capiche?<br>
+							<br>
+							
+						(Scene ends)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Setting: Ross' clothing store. The employees are being held up at gun point. The camera moves from the right to the left. There is a masked man taking the money from the cash register. As the camera moves all the way to the left of the store, you see the security guard fast asleep in his new chair]<br>
+							<br>
+							
+						(Scene ends)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Setting: At the window of a house in Tuscany. Elaine and Maestro are talking. There is a lady singing in Italian in the background]<br>
+							<br>
+							
+						ELAINE: It's been a rough couple of weeks, ya know I really needed to get away.<br>
+							<br>
+							
+						MAESTRO: I told you, it's paradise.<br>
+							<br>
+							
+						ELAINE: You're right Maestro.<br>
+							<br>
+							
+						(The sound of a car horn is heard in the background. A cab driver is yelling in Italian. Elaine and Maestro go to the window on the other side of the room to see what is going on. We see the cab.)<br>
+							<br>
+							
+						KRAMER: Common Jerry, this guy is crazy. Get out.<br>
+							<br>
+							
+						(Jerry falls out of the back seat of the cab.)<br>
+							<br>
+							
+						JERRY: You didn't have to push me.<br>
+							<br>
+							
+						KRAMER: I didn't push you. How much did you pay that guy?<br>
+							<br>
+							
+						JERRY: 75,000 lira.<br>
+							<br>
+							
+						KRAMER: 75,000 lira? Are you out of your mind?<br>
+							<br>
+							
+						JERRY: Kramer you don't under the conversion rate.<br>
+							<br>
+							
+						KRAMER: Oh, conversion rate, oh.<br>
+							<br>
+							
+						JERRY: You know I don't even know why I brought you.<br>
+							<br>
+							
+						KRAMER: Nobody put a gun to your head.<br>
+							<br>
+							
+						(They look up and see the place)<br>
+							<br>
+							
+						JERRY: Not bad!<br>
+							<br>
+							
+						KRAMER: Yeah!<br>
+							<br>
+							<br>
+							
+						The End</td>
+						</tr>
+						<tr height="6">
+							<td class="bottom2" width="645" height="6"></td>
+						</tr>
+						<tr>
+							<td width="645">
+								<div align="center">
+									<font size="-1">Copyright 2006 seinology.com | All Rights Reserved | Designed by 13erla</font></div>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+		<p></p>
+	</body>
+
+</html>

@@ -1,0 +1,1607 @@
+<tdOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+<html>
+
+	<head>
+		<meta http-equiv="content-type" content="text/html;charset=ISO-8859-1">
+		<meta name="description" content="Top Source for Seinfeld">
+		<meta name="keywords" content="seinfeld, sienfeld, Jerry Seinfeld, Julia Louis Dreyfus, Jason Alexander, Michael Richards, Kramer, George, Costanza, Elaine Benes, morty, Larry David">
+		<title>Seinology.com :: Scripts :: 150-The Pothole</title>
+	<link rel='stylesheet' href='/stylesheet.css' type='text/css'>
+	</head>
+
+	<body>
+			<table align="center" width="787" border="0" cellspacing="0" cellpadding="0">
+				<tr>
+					<td><font size="-2" color="red">Seinology.com - </font><font size="-3" color="black">Where Seinfeld Content and Accuracy Matter Most. Seinfeld scripts in pdf form, Seinfeld episode video clips, Seinfeld episode audio clips, Jerry Seinfeld appearances, Julia Louis-Dreyfus appearances, Michael Richards appearances, Jason Alexander appearances, Seinfeld discussion Forum, Seinfeld Where are they Now? Seinlanguage Newsletter, Popular Seinfeld Lists, Seinfeld episode standup, Seinfeld episode guide, Seinfeld fan fiction. Seinfeld content all on one domain. Seinology.com enjoy your stay.</font></td>
+				</tr>
+			</table>
+		
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr height="100">
+				<td class="logo"></td>
+			</tr>
+			<tr><td class="ads" align="center" background=#8694fa>
+				<script type="text/javascript"><!--
+google_ad_client = "pub-1924026976931416";
+google_ad_width = 728;
+google_ad_height = 90;
+google_ad_format = "728x90_as";
+google_ad_type = "text";
+google_ad_channel = "";
+google_color_border = "FFFFFF";
+google_color_bg = "8694fa";
+google_color_link = "0000FF";
+google_color_text = "000000";
+google_color_url = "002E3F";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></td></tr>
+		</table>
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr>
+				<td valign="top" width="136">
+					<table width="136" border="0" cellspacing="0" cellpadding="0">
+						<tr height="24">
+							<td class="navigation">
+								<div align="center">
+									
+									<b>Navigation</b></div>
+							</td>
+						</tr>
+						<tr height="199">
+							<td class="spacer1" valign="top" width="136" height="199">
+								<div align="center">
+									<font size="-1"><a href="http://www.seinology.com">Home</a><br>
+										<a href="http://board.seinology.com">Forum</a><br>
+										<a href="http://www.seinology.com/av.shtml">Audio/Video</a><br>
+										<a href="http://www.seinology.com/scripts.shtml">Scripts</a><br>
+										<a href="http://www.seinology.com/survivor.shtml">Survivor</a><br>
+										<a href="http://www.seinology.com/fanfics.shtml">Fan Fiction</a><br>
+										<a href="http://www.seinology.com/gallery/">Gallery</a><br>
+										<a href="http://www.seinology.com/newsletter.shtml">Newsletter</a><br>
+										<a href="http://www.seinology.com/lists.shtml">Lists</a><br>
+										<a href="http://www.seinology.com/epguide.shtml">Episode Guide</a><br>
+										<a href="http://www.seinology.com/links.shtml">Links</a><br>
+										<a href="http://www.seinology.com/faqother.shtml">Faq + others</a><br>
+										<a href="http://www.seinology.com/legal.shtml">Legal</a></font></div>
+							</td>
+						</tr>
+						
+						<tr>
+							<td class="nav2" width="136">
+							<div align="center"><b>Search</b></div></td>
+						</tr>
+						<tr>
+							<td class="spacer1" width="136" valign="top"><div align="center"><form method="get" action="http://www.seinology.com/search/search.cgi">
+<p><label for="fdse_Match">Match</label><br>
+<select name="Match" id="fdse_Match" size="1">
+<option value="1">All</option>
+<option value="0">Any</option>
+<option value="2">Phrase</option>
+</select></p>
+<p><label for="fdse_Realm">Where?</label><br>
+<select name="Realm" id="fdse_Realm" size="1">
+<option selected="selected" value="All">EntireSite</option>
+<option value="Ep Guide">Ep Guide</option>
+<option value="Images">Images</option>
+<option value="Lists">Lists</option>
+<option value="Newsletters">Newsletters</option>
+<option value="Scripts">Scripts</option>
+<option value="Notes..Nothing">Notes..Nothing</option>
+</select></p>
+<p><input type="text" name="Terms" size="14" id="fdse_Terms"><br>
+<input type="submit" class="submit" name="submitButtonName" value="Search"></p>
+</div></form></td>
+						</tr>
+						<tr><td class="bottom" width="136" height="10" valign="top">
+						</td>
+						</tr>
+					</table>
+				</td>
+				<td width="4"></td>
+				<td valign="top" width="645">
+					<table width="645" border="0" cellspacing="0" cellpadding="0">
+						<tr height="18">
+							<td width="645" height="35" class="bar">
+								<div align="center">
+									<b><font size="+2" color="black">Script</font></b></div>
+							</td>
+						</tr>
+						<tr height="362">
+							<td class="spacer2" valign="top" width="645" height="362">
+
+						<p><font size="-2">Episode 150 - The Pothole<br>
+							
+						pc: 816 season 8, episode 16<br>
+							
+						Broadcast date: February 20, 1997<br>
+							<br>
+							
+						Written by Steve O'Donnell and Dan O'Keefe<br>
+							
+						Directed by Andy Ackerman<br>
+							<br>
+							
+						-------------------------------------------------------------------------------<br>
+							<br>
+							
+						The Cast<br>
+							
+						Regulars:<br>
+							
+						Jerry Seinfeld ......................&nbsp; Jerry Seinfeld<br>
+							
+						Jason Alexander .................. George Costanza<br>
+							
+						Julia Louis-Dreyfus .............. Elaine Benes<br>
+							
+						Michael Richards .................. Cosmo Kramer<br>
+							<br>
+							
+						Guest Stars:<br>
+							<br>
+							
+						Kristin Davis ....................... Jenna<br>
+							
+						Jack McGee ........................ Ralph<br>
+							
+						George Kee Cheung ........... Owner<br>
+							
+						Seraiah Carol ...................... Mrs. Allister<br>
+							
+						Radmar Agana Jao ............. Delivery Boy<br>
+							
+						Walter Addison ................. Man<br>
+							
+						rc: Wayne Knight ............... Newman<br>
+							<br>
+							
+						==================================================================<br>
+							<br>
+							
+						[Jenna's Apartment: Bathroom]<br>
+							<br>
+							
+						(Jerry is standing by the sink, preparing to brush his teeth. Jenna enters.)<br>
+							<br>
+							
+						JENNA: Morning.<br>
+							<br>
+							
+						JERRY: Morning.<br>
+							<br>
+							
+						(She hands him a tube of toothpaste.)<br>
+							<br>
+							
+						JENNA: Hope you don't mind baking soda flavour.<br>
+							<br>
+							
+						JERRY: (applying paste to brush) Ah, baking soda. Annoying little product. 'I can do this. I can do that.' Why doesn't this stuff just shut up?<br>
+							<br>
+							
+						JENNA: I'm gonna grab you a towel.<br>
+							<br>
+							
+						(Jenna leaves the bathroom. Jerry brushes his teeth. He clearly doesn't like the taste of the baking soda, and leans over the sink to spit. He puts his hand on the counter and knocks Jenna's toothbrush off the edge. The brush falls into the toilet bowl. )<br>
+							<br>
+							
+						(There is a shot from beneath the water in the toilet, looking up. Jerry's face looking down into the bowl, with an expression of shock and horror. )<br>
+							<br>
+							
+						(Jerry looks behind him, to see if Jenna has spotted him. He rolls up the sleeve of his dressing gown, grimaces, and plunges his hand into the toilet. He grabs the brush out, drops it on a shelf beside the mirror and immediately begins frantically washing his hands. As he completes this task, he raises his head and finds Jenna has returned. She is standing behind him, smiling as she brushes her teeth with the brush he just retrieved from the toilet. )<br>
+							<br>
+							
+						JERRY: Ooh-ooh<br>
+							<br>
+							<br>
+							<br>
+							
+						[Monk's]<br>
+							<br>
+							
+						(Jerry and George in a booth, as per usual.)<br>
+							<br>
+							
+						GEORGE: So?<br>
+							<br>
+							
+						JERRY: So? She used the toothbrush!<br>
+							<br>
+							
+						GEORGE: You said you grabbed it outta there real fast, right?<br>
+							<br>
+							
+						JERRY: Yeah.<br>
+							<br>
+							
+						GEORGE: So I'm sure whatever germs it landed on were knocked out, and by the time the rest of them realised what was going on, you had already grabbed it out.<br>
+							<br>
+							
+						JERRY: How many years of med school did you have?<br>
+							<br>
+							
+						GEORGE: Was she mad?<br>
+							<br>
+							
+						(Jerry says nothing, but pulls a face.)<br>
+							<br>
+							
+						GEORGE: You didn't tell her.<br>
+							<br>
+							
+						JERRY: Jenna's like me. She's very... (searches for word)<br>
+							<br>
+							
+						GEORGE: Finicky? Prissy? Fastidious?<br>
+							<br>
+							
+						JERRY: I'll take fastidious.<br>
+							<br>
+							
+						(George puts his keys on the table. On the ring is a miniature head, clearly a caricature of someone.)<br>
+							<br>
+							
+						JERRY: What is that?<br>
+							<br>
+							
+						GEORGE: Ahh, Steinbrenner gave 'em to us, in honour of Phil Rizzuto being inducted into the Hall of Fame.<br>
+							<br>
+							
+						(He squeezes the miniature head.)<br>
+							<br>
+							
+						HEAD: Holy cow!<br>
+							<br>
+							
+						JERRY: They don't actually have to squeeze his head to get him to say 'holy cow', do they?<br>
+							<br>
+							
+						GEORGE: Just the last few innings of a double-header.<br>
+							<br>
+							
+						(Kramer enters. He is carrying a battered sewing machine. He comes over.)<br>
+							<br>
+							
+						KRAMER: Hey. Look at this. I'm in the passing lane of the Arthur Berkhardt expressway, going seventy and (makes impact sound - pckergh!) Dragged this thing for five exits.<br>
+							<br>
+							
+						(He dumps the machine on the table and sits beside Jerry.)<br>
+							<br>
+							
+						JERRY: Why didn't you pull over?<br>
+							<br>
+							
+						KRAMER: Well I was draughting behind a semi. I didn't wanna lose him. The infrastructure, Jerry, it's crumbling.<br>
+							<br>
+							
+						(George squeezes the miniature head.)<br>
+							<br>
+							
+						HEAD: Holy cow!<br>
+							<br>
+							
+						KRAMER: Well, look at that. A talking Nixon.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Elaine's Apartment/Chinese Restaurant]<br>
+							<br>
+							
+						(Elaine is calling for Chinese food. The scene flicks from her at home with the phone and a menu, to the restaurant owner taking the order.)<br>
+							<br>
+							
+						OWNER: China Panda.<br>
+							<br>
+							
+						ELAINE: Yeah, I'd like to place an order.<br>
+							<br>
+							
+						OWNER: Ah yes, what you like?<br>
+							<br>
+							
+						ELAINE: This Supreme Flounder, it says first time served in America. Is that true?<br>
+							<br>
+							
+						OWNER: What number?<br>
+							<br>
+							
+						ELAINE: Forty-seven.<br>
+							<br>
+							
+						OWNER: Yeah, first time. What else?<br>
+							<br>
+							
+						ELAINE: Uh, that's it.<br>
+							<br>
+							
+						OWNER: Address?<br>
+							<br>
+							
+						ELAINE: Seventy-eight, West Eighty-sixth Street. Apartment three E.<br>
+							<br>
+							
+						OWNER: That's southside. Sorry, we don't deliver below Eighty-sixth.<br>
+							<br>
+							
+						ELAINE: I'm not below.<br>
+							<br>
+							
+						OWNER: Yes you are. Street itself is boundary.<br>
+							<br>
+							
+						ELAINE: Your guy can't cross to my side?<br>
+							<br>
+							
+						OWNER: If we deliver to you, then what? Eighty-fifth Street, Wall Street, Mexico, Eighty-fourth Street.<br>
+							<br>
+							
+						ELAINE: Alright, fine. I'll just cross and meet him.<br>
+							<br>
+							
+						OWNER: Sorry, food only for those who live within boundary. (slams down phone)<br>
+							<br>
+							
+						(Elaine listens to the dial tone for a second. Then she pushes the redial.)<br>
+							<br>
+							
+						OWNER: (picks up phone) China Panda.<br>
+							<br>
+							
+						ELAINE: (using silly voice) Uh, yeah yeah. I'd like to place an order.<br>
+							<br>
+							
+						OWNER: Ah, what you like?<br>
+							<br>
+							<br>
+							<br>
+							
+						[Jerry's Apartment]<br>
+							<br>
+							
+						(Kramer enters. He's smoking a substantial cigar.)<br>
+							<br>
+							
+						KRAMER: Well, I'm a poppa.<br>
+							<br>
+							
+						JERRY: Bring it on. Nothing's throwing me at this point.<br>
+							<br>
+							
+						KRAMER: (handing Jerry a cigar) Well, as of today I am a proud parent of a one-mile stretch of the Arthur Berkhardt Expressway.<br>
+							<br>
+							
+						JERRY: Oh, that adopt-a-highway thing.<br>
+							<br>
+							
+						KRAMER: Yeah, I'm part of the solution now Jerry. Yeah, I went down there and I checked it out this morning. Here, take a look. Mile one-fourteen.<br>
+							<br>
+							
+						(He gets his wallet from his back pocket and shows Jerry a Polaroid snapshot in it.)<br>
+							<br>
+							
+						JERRY: Aw, looks just like you.<br>
+							<br>
+							
+						KRAMER: Aw, I'm beaming Jerry.<br>
+							<br>
+							
+						JERRY: So what d'you have to do? Pay to keep it clean?<br>
+							<br>
+							
+						KRAMER: They try to push you into using their cleaning crew, with all their so-called maintenance equipment.<br>
+							<br>
+							
+						JERRY: That old scam.<br>
+							<br>
+							
+						KRAMER: Yeah, well that's why I'm doing it all myself. This parenting isn't about delegating responsibility, it's about being there.<br>
+							<br>
+							
+						JERRY: At the side of the road, with a pile of garbage.<br>
+							<br>
+							
+						KRAMER: Quality time.<br>
+							<br>
+							
+						(George enters looking anxious, maybe borderline panicky. He stalks about the place, looking for something, frustratedly.)<br>
+							<br>
+							
+						GEORGE: Keys. I can't find my keys.<br>
+							<br>
+							
+						JERRY: You lost Phil Rizzuto's head?!<br>
+							<br>
+							
+						GEORGE: Have you seen 'em?<br>
+							<br>
+							
+						JERRY: No.<br>
+							<br>
+							
+						GEORGE: Dammit!<br>
+							<br>
+							
+						KRAMER: C'mon, retrace your steps. What d'you do today?<br>
+							<br>
+							
+						GEORGE: I got up, I was supposed to go to work, I came here instead.<br>
+							<br>
+							
+						KRAMER: Right.<br>
+							<br>
+							
+						JERRY: Well, they're not here. You'll have to dig up your spare set.<br>
+							<br>
+							
+						GEORGE: I don't have a spare set. All my keys say 'do not duplicate'.<br>
+							<br>
+							
+						JERRY: So?<br>
+							<br>
+							
+						GEORGE: So you can't duplicate 'em.<br>
+							<br>
+							
+						(At this, Jerry and Kramer exchange a look, and laugh.)<br>
+							<br>
+							
+						KRAMER: Sure you can. (to Jerry) Such a sweet kid.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Street]<br>
+							<br>
+							
+						(Elaine stands on the sidewalk, waiting for someone. She looks up the street and sees a Chinese delivery boy approaching with a bag of food. She ducks into the entranceway to the apartment building behind her, and then effects to be coming out of the building as the delivery boy gets there.)<br>
+							<br>
+							
+						ELAINE: Oh. Oh, hi. China Panda?<br>
+							<br>
+							
+						DELIVERY BOY: (suspicious) Why you waiting on the street and not in your apartment?<br>
+							<br>
+							
+						ELAINE: I... thought that I would meet you halfway.<br>
+							<br>
+							
+						(She takes the bag of food.)<br>
+							<br>
+							
+						DELIVERY BOY: You really live here?<br>
+							<br>
+							
+						ELAINE: Oh yeah. (handing over money) There you go, keep the change. Bye now. I'll see you.<br>
+							<br>
+							
+						(Elaine walks back towards the door to the building. She expects the boy to leave, but he's still suspicious, and waits. Elaine tries the door, but it's locked. She looks, and the boy still waits. Elaine tries the door harder, but it won't yield. She admits defeat and hands the food back, and receives her money. The delivery boy walks off.)<br>
+							<br>
+							
+						ELAINE: (at the boy's back) This isn't fair. This is address discrimination!<br>
+							<br>
+							<br>
+							<br>
+							
+						[Another Street]<br>
+							<br>
+							
+						(George is standing outside a store, looking preoccupied. Jerry emerges from the store with a carrier bag full of stuff.)<br>
+							<br>
+							
+						JERRY: Well, I cleaned out their whole dental hygiene shelf.<br>
+							<br>
+							
+						GEORGE: So the plan is to secretly sterilise her mouth?<br>
+							<br>
+							
+						(They begin to walk along the street.)<br>
+							<br>
+							
+						JERRY: By the time I'm through with her mouth, she'll be able to eat off it. Is it safe to drink bleach if you dilute it?<br>
+							<br>
+							
+						GEORGE: No, stings the throat. Anyway, so I was coming along here, and I felt like a piece of cake, you know? But then I thought, it's morning, I should really have a muffin. I like those chocolate chip ones. Then I figured, well, they're really both cake. So I, uh, I sat on that bench for a little while, twenty minutes or an hour, and then I figured, check and see what you were up to. (a thought occurs to him) Wait a minute, wait a minute. The broad jump! The broad jump over the pothole on Eighty-sixth Street!<br>
+							<br>
+							
+						(George dashes off excitedly. Jerry follows, with somewhat less enthusiasm. )<br>
+							<br>
+							<br>
+							<br>
+							
+						[Eighty-sixth Street]<br>
+							<br>
+							
+						(George is still animatedly leading Jerry along in pursuit of his keys.)<br>
+							<br>
+							
+						GEORGE: Now I remember, as I jumped over the hole I heard a, like a jingling sound.<br>
+							<br>
+							
+						JERRY: You didn't look down?<br>
+							<br>
+							
+						GEORGE: I was trying to stick the landing. (indistinct) ...was right around here.<br>
+							<br>
+							
+						(He peers about at the road surface for the pothole. He finds a patch of fresh tarmac.)<br>
+							<br>
+							
+						GEORGE: No! No!!<br>
+							<br>
+							
+						(A car drives by, running right over the patch.)<br>
+							<br>
+							
+						HEAD (O.C.): Holy, Holy Cow!<br>
+							<br>
+							
+						JERRY: Poor son of a bitch.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Jenna's Apartment]<br>
+							<br>
+							
+						(Jenna is at the sink in her bathroom, using an electric toothbrush which Jerry has bought her. It's loud.)<br>
+							<br>
+							
+						JERRY: It's a hundred thousand revolutions a second. It's the most powerful one they make.<br>
+							<br>
+							
+						JENNA: It's like I'm holding a blender.<br>
+							<br>
+							
+						JERRY: The engine's made by McDonnell-Douglas.<br>
+							<br>
+							
+						(Jerry begins to wander into the living room. Jenna switches off the brush.)<br>
+							<br>
+							
+						JERRY: Oh no, you keep going. It shuts off automatically.<br>
+							<br>
+							
+						JENNA: (restarting and reapplying the brush) Really, it does?<br>
+							<br>
+							
+						JERRY: (unheard by Jenna) When the battery runs out.<br>
+							<br>
+							
+						JENNA: (shouting to Jerry) I was really happy with my old toothbrush.<br>
+							<br>
+							
+						(In the living room, Jerry is carefully putting the old brush into a plastic bag, being very careful not to touch it with his bare skin. He then seals the bag.)<br>
+							<br>
+							
+						JERRY: No, trust me, that one was doing more harm than good. Don't forget to use the Plax too.<br>
+							<br>
+							
+						(Jenna takes a sip from a glass as if to gargle.)<br>
+							<br>
+							
+						JENNA (O.C.): That stuff tastes like bleach!<br>
+							<br>
+							
+						(Jerry is looking for a place to put the soiled brush.)<br>
+							<br>
+							
+						JERRY: I don't know anything about that.<br>
+							<br>
+							
+						(Just before Jenna emerges from the bathroom, Jerry throws the bag with the brush out of the window.)<br>
+							<br>
+							
+						JENNA: Mmm. My mouth feels so clean.<br>
+							<br>
+							
+						JERRY: That's the idea.<br>
+							<br>
+							
+						(Jenna approaches Jerry, clearly intending to kiss him. As Jenna leans toward him, Jerry gets a flashback of the toothbrush plunging into the toilet bowl, in black and white, with portentous music. From his viewpoint, we see Jenna's lips looming toward him. He looks nauseated by the prospect of the kiss, and pulls away.)<br>
+							<br>
+							
+						JERRY: You know, maybe we better not. I, I think I'm getting a little cold. I don't wanna give you any of my germs.<br>
+							<br>
+							
+						JENNA: Aww. Okay. Thanks, I guess.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Jerry's Car]<br>
+							<br>
+							
+						(Jerry driving with Elaine in the passenger seat.)<br>
+							<br>
+							
+						ELAINE: You still couldn't kiss her?<br>
+							<br>
+							
+						JERRY: She has a taint. I can't see it, but I know it's there.<br>
+							<br>
+							
+						ELAINE: Oh, so now you're finding fault on a sub-atomic level.<br>
+							<br>
+							
+						JERRY: Maybe if I could shrink myself down, like in Fantastic Voyage, and get inside a microscopic submarine, I could be sure. Although if there was something there, it might be pretty scary. Course, I would have that laser.<br>
+							<br>
+							
+						ELAINE: Jer, do you see where this is going?<br>
+							<br>
+							
+						JERRY: Being really clean and happy?<br>
+							<br>
+							
+						ELAINE: Jerry, you have tendencies. They're always annoying, but they were just tendencies. But now, if you can't kiss this girl, I'm afraid we're talking disorder.<br>
+							<br>
+							
+						JERRY: Disorder?<br>
+							<br>
+							
+						ELAINE: And from disorder, you're a quirk or two away from full-on dementia.<br>
+							<br>
+							
+						JERRY: (thoughtful) Hmm, that could hurt me. (pointing out of window) Hey, there it is.<br>
+							<br>
+							
+						(We see Jerry and Elaine's view of the road signs. 'Mile 114' 'Adopt-a-Highway' and 'Litter removal next 1 Mile KRAMER'.)<br>
+							<br>
+							
+						ELAINE: Shall we stop and say hi?<br>
+							<br>
+							
+						JERRY: Nah, we've seen it.<br>
+							<br>
+							
+						ELAINE: Yeah.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Mile 114]<br>
+							<br>
+							
+						(Kramer is standing on the verge beside a large pile of plastic bags full of trash, a couple of brooms lean against the crash barrier. He has an armful of assorted garbage. Jerry's car passes in the traffic, and a brief beep of the horn is heard.)<br>
+							<br>
+							
+						KRAMER: (shouting after car) Hey Jerry! Yeah, I'll see you back at the house!<br>
+							<br>
+							
+						(He drops the last handful of trash into a bag.)<br>
+							<br>
+							
+						KRAMER: Mile one-fourteen, clean as a whistle.<br>
+							<br>
+							
+						(He claps his hands in satisfaction, and looks out at 'his' road. He notices something. In the middle of the road is a Coke can, crushed by traffic.)<br>
+							<br>
+							
+						(Kramer makes a decision, and dashes out into the traffic to retrieve the can. His progress to the can is accompanied by the squeal of brakes and the blare of horns as the traffic passes him. As he reaches the can, one car has to come to a complete stop. Kramer grabs the can and hurries back to the side of the road, where he leans on the barrier.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Apartment Building]<br>
+							<br>
+							
+						(Elaine is in the hallway of a building, outside Apartment 1A. She knocks at the door and a guy opens it.)<br>
+							<br>
+							
+						MAN: Yeah?<br>
+							<br>
+							
+						ELAINE: Hi. I'm your neighbour, uh, fr... from across the street. And uh, (coughs nervously) I was wondering, if it wouldn't be too much trouble, if I could use your apartment to order some food?<br>
+							<br>
+							
+						MAN: Wha? What d'you want?<br>
+							<br>
+							
+						ELAINE: You see, there's this certain flounder and they won't deliver it to my side of the street.<br>
+							<br>
+							
+						MAN: Wh, when is that?<br>
+							<br>
+							
+						ELAINE: No, I just need them to deliver it here and I have to be kinda inside is all.<br>
+							<br>
+							
+						MAN: Who are you with?<br>
+							<br>
+							
+						ELAINE: No, actually I'm... I'm just kind of hungry.<br>
+							<br>
+							
+						MAN: Who let you in?<br>
+							<br>
+							
+						ELAINE: Well, the lock was broken. You just have to jiggle it, actually. But, I just need like a half an hour to an hour.<br>
+							<br>
+							
+						(The man shuts the door in her face.)<br>
+							<br>
+							
+						(Elaine turns to leave, and as she does she sees an unmarked door opposite which stands open. She crosses over for a closer look. It's clearly a janitor's closet, with the usual fixings. A thought occurs to Elaine, and a smile comes to her face.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Jerry's Apartment]<br>
+							<br>
+							
+						(Jerry has just entered and is removing his coat. Kramer is in the kitchen cleaning highway signs in the sink.)<br>
+							<br>
+							
+						JERRY: What's with the signs?<br>
+							<br>
+							
+						KRAMER: Hey, you should see the Berkhardt, Jerry. My mile is spotless. I mean the big stuff was easy. Cinderblocks, air-conditioners, shopping carts (makes sound - fzup!), I just rolled 'em into the woods.<br>
+							<br>
+							
+						JERRY: Yeah, that stuff's all natural anyway.<br>
+							<br>
+							
+						KRAMER: (holding up a sign) Speed limit, one hundred and sixty-five miles per hour. See? They slipped a one in there. (laughing) Those kids with the spray paint, God love 'em.<br>
+							<br>
+							
+						(George enters.)<br>
+							<br>
+							
+						JERRY: Hey. So, keys?<br>
+							<br>
+							
+						GEORGE: No keys. And I been calling the city all day. Course there's not really a number to call if you wanna make a pothole.<br>
+							<br>
+							
+						JERRY: I guess they leave that up to the general population.<br>
+							<br>
+							
+						GEORGE: I tell you this. If the real Phil Rizzuto was down there, this wouldn't be happening!<br>
+							<br>
+							
+						JERRY: Hard to say.<br>
+							<br>
+							
+						KRAMER: Hey, you need some roadwork done? 'Cos I met some maintenance guys today on the highway, they could probably help you out.<br>
+							<br>
+							
+						GEORGE: Really?<br>
+							<br>
+							
+						KRAMER: Oh yeah, yeah. I borrowed some cones from them when I was sweeping my car-pool lane.<br>
+							<br>
+							
+						(The buzzer buzzes.)<br>
+							<br>
+							
+						JERRY: Yeah?<br>
+							<br>
+							
+						JENNA (O.C.): It's Jenna.<br>
+							<br>
+							
+						(Jerry buzzes Jenna in, opens the door and indicates to George and Kramer that their presence is no longer required.)<br>
+							<br>
+							
+						JERRY: If you guys wouldn't mind, I would like to ward off dementia.<br>
+							<br>
+							
+						(George and Kramer leave, still discussing the maintenance guys.)<br>
+							<br>
+							
+						GEORGE: You think you could hook me up with these guys?<br>
+							<br>
+							
+						KRAMER: Oh yeah, yeah. Give me a ring tomorrow. I'm gonna be at emergency callbox seven-eight-four.<br>
+							<br>
+							
+						GEORGE: Seven-eight-four.<br>
+							<br>
+							
+						(Jenna enters.)<br>
+							<br>
+							
+						JENNA: Hey.<br>
+							<br>
+							
+						JERRY: Hi.<br>
+							<br>
+							
+						JENNA: How you feeling?<br>
+							<br>
+							
+						JERRY: Good. My cold's gone, and I've been looking forwards to kissing you, which I'm ready to do now, if you are ready.<br>
+							<br>
+							
+						(Jenna moves in for the kiss. As she leans towards Jerry, he gets that revolted look on his again and turns his face away.)<br>
+							<br>
+							
+						JENNA: What?!<br>
+							<br>
+							
+						JERRY: Nothing. I just, I uh, I bruised my lip. I was drinking a Celray, and I brought it up too fast and I banged it into my lip, (lower voice and hurriedly) and then I knocked your toothbrush into the toilet and I wasn't able to tell you before you could use it.<br>
+							<br>
+							
+						JENNA: What?<br>
+							<br>
+							
+						JERRY: I'm sorry.<br>
+							<br>
+							
+						JENNA: When were you gonna tell me this?!<br>
+							<br>
+							
+						JERRY: Obviously never.<br>
+							<br>
+							
+						(The door opens and Kramer enters.)<br>
+							<br>
+							
+						KRAMER: I need the yield sign.<br>
+							<br>
+							
+						(Kramer goes and begins to gather the signs from the kitchen.)<br>
+							<br>
+							
+						JERRY: Kramer, I'm kind of in the middle of something. Would you get these signs out of here, please?<br>
+							<br>
+							
+						(Kramer brings his signs from the kitchen and Jerry picks up those which were on his table. Together they carry them across the hall to Kramer's apartment.)<br>
+							<br>
+							
+						KRAMER: You could've introduced me.<br>
+							<br>
+							
+						JERRY: I wouldn't know where to start.<br>
+							<br>
+							
+						(As Jerry is about to return to his apartment, the door is slammed shut. He tries to open it, but it has been locked.)<br>
+							<br>
+							
+						JERRY: (knocking) Hey, Jenna. Hey!<br>
+							<br>
+							
+						(Jenna opens the door, she has her jacket in her hand and is ready to leave.)<br>
+							<br>
+							
+						JENNA: There. Now something of yours has been in the toilet.<br>
+							<br>
+							
+						JERRY: What?! Wha... what'd you put in there?<br>
+							<br>
+							
+						JENNA: Gotta run.<br>
+							<br>
+							
+						(Jenna departs, leaving Jerry looking around him. He's wide-eyed, looking panicky and disgusted.)<br>
+							<br>
+							
+						JERRY: Oh, man!<br>
+							<br>
+							<br>
+							<br>
+							
+						[Jerry's Apartment]<br>
+							<br>
+							
+						(Jerry is on the phone. His table is covered with bottles of cleaning fluids, disinfectants, etc.. He is wearing a rubber glove to hold a spatula. Elaine is eating an apple and watching him.)<br>
+							<br>
+							
+						JERRY: (into phone) Hello, Jenna, did you dunk the spatula? Was it the spatula? Hello? Dammit!<br>
+							<br>
+							
+						(Frustrated, he throws the spatula into the waste bin.)<br>
+							<br>
+							
+						ELAINE: She won't even give you a hint?<br>
+							<br>
+							
+						JERRY: No. Could be anything. The whole apartment's a biohazard.<br>
+							<br>
+							
+						ELAINE: You know what I bet it is? (points) Your remote.<br>
+							<br>
+							
+						JERRY: Yes, that is a definite possibility.<br>
+							<br>
+							
+						(He picks up the remote control and drops it into a waste bin.)<br>
+							<br>
+							
+						ELAINE: (walking to the couch) Or, could be your walkman there.<br>
+							<br>
+							
+						(Jerry picks up the walkman and begins to deposit it in the trash, then a thought occurs to him. Elaine sits on the couch and picks up the phone.)<br>
+							<br>
+							
+						JERRY: Are you just screwing with me?<br>
+							<br>
+							
+						ELAINE: Yeah, I am.<br>
+							<br>
+							
+						(Jerry thinks for a second, then he throws the walkman in the garbage anyway. Kramer enters carrying a box.)<br>
+							<br>
+							
+						KRAMER: Hey ah.<br>
+							<br>
+							
+						JERRY: Hey, how's life on the road?<br>
+							<br>
+							
+						KRAMER: Oh, I'm making a difference Jerry.<br>
+							<br>
+							
+						JERRY: I don't doubt it.<br>
+							<br>
+							
+						(Kramer puts his box on the kitchen counter.)<br>
+							<br>
+							
+						KRAMER: You should see the smiles on the drivers' faces. I mean, you gotta look quick, but they're there.<br>
+							<br>
+							
+						(From the box, Kramer picks up square orange reflective objects.)<br>
+							<br>
+							
+						JERRY: What's this?<br>
+							<br>
+							
+						KRAMER: Well, you know, those annoying little bumps on the lane-lines? (makes noise - bum, bum, bum, bum, bump)<br>
+							<br>
+							
+						JERRY: Isn't that some kind of safety thing?<br>
+							<br>
+							
+						KRAMER: Well, I had to pull 'em up if I'm gonna widen the lanes.<br>
+							<br>
+							
+						JERRY: What the hell are you talking about?<br>
+							<br>
+							
+						KRAMER: Ah, you know how in planes they got first class? More leg room, better ride? Well, I'm bringing that concept to mile one-fourteen.<br>
+							<br>
+							
+						(Elaine has the receiver from the phone held to her ear.)<br>
+							<br>
+							
+						ELAINE: How are you gonna widen the lanes?<br>
+							<br>
+							
+						KRAMER: Well you black out lane-lines one and three, and a four-lane highway becomes a two-lane comfort cruise. (to Jerry) So, you got any black paint?<br>
+							<br>
+							
+						JERRY: (sarcasm) Yeah, in my toolshed, next to the riding mower.<br>
+							<br>
+							
+						ELAINE: (into phone) Yuh, I'd like an order of supreme flounder, number forty-seven. Yeah, apartment one-Q.<br>
+							<br>
+							
+						JERRY: One-Q? Whose apartment is that?<br>
+							<br>
+							
+						ELAINE: That's the janitor closet, across the street.<br>
+							<br>
+							
+						JERRY: You're pretending to live in a janitor's closet, just to get this flounder?<br>
+							<br>
+							
+						ELAINE: It's better than eating it alone in the restaurant, like some loser.<br>
+							<br>
+							
+						(Kramer is applying something from Jerry's table of cleaning fluids, etc, to his neck, like a cologne.)<br>
+							<br>
+							
+						KRAMER: That stuff is unbelievable. I'd eat it out of a dumpster.<br>
+							<br>
+							
+						ELAINE: (heading to door) How do you know about it? You're not in the delivery zone.<br>
+							<br>
+							
+						KRAMER: Well, Newman uses his mail truck to run fish for China Panda on the weekends.<br>
+							<br>
+							
+						ELAINE: Well, mine's coming in ten, so... see you boys.<br>
+							<br>
+							
+						(Elaine leaves.)<br>
+							<br>
+							
+						KRAMER: Now, where's that tool shed of yours?<br>
+							<br>
+							<br>
+							<br>
+							
+						[Apartment Building]<br>
+							<br>
+							
+						(The delivery boy from China Panda in the hallway. He knocks at the door to the janitor's closet. He looks at the label on the door, which is a piece of tape with '1Q' crudely written in magic marker. He waits for a couple of seconds then knocks again. Elaine opens the door, with a towel wrapped around her head, as if her hair is wet.)<br>
+							<br>
+							
+						ELAINE: Hi. Sorry, I didn't hear you. I was in the shower.<br>
+							<br>
+							
+						(She takes the bag with her order and hands over some money. The delivery boy is trying to see past her into the 'apartment'.)<br>
+							<br>
+							
+						ELAINE: I'll see you.<br>
+							<br>
+							
+						(She shuts the door, leaving the delivery boy looking a tad bemused.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Eighty-sixth Street]<br>
+							<br>
+							
+						(George stands by the filled pothole. A highway maintenance truck is parked next to it. A trio of workers approach George, and the senior man speaks.)<br>
+							<br>
+							
+						RALPH: You Costanza?<br>
+							<br>
+							
+						GEORGE: Yeah. Thanks for, thanks for coming by fellas. Eh, got a set of keys, buried in the pothole.<br>
+							<br>
+							
+						RALPH: What're the keys doing in there?<br>
+							<br>
+							
+						GEORGE: Just need to uh, to dig 'em up.<br>
+							<br>
+							
+						RALPH: You put 'em in there?<br>
+							<br>
+							
+						GEORGE: Nah, nah, it's uh, it's a long story. Just uh, try to get it up.<br>
+							<br>
+							
+						RALPH: Bad place to put your keys.<br>
+							<br>
+							
+						GEORGE: Yeah, I know that. (clears throat) Could you start, working?<br>
+							<br>
+							
+						RALPH: Difficult job. You want those keys, we're gonna have to dig this up.<br>
+							<br>
+							
+						GEORGE: (penny drops) Oh, uh, wait a minute, wait a minute. (snorts) Is this about money?<br>
+							<br>
+							
+						RALPH: Yeah. (snorts) It's about money.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Mile 114]<br>
+							<br>
+							
+						(Kramer is driving his car slowly along the Expressway. On either side of his boot is balanced an orange road cone. The traffic is passing him, and the blare of horns is regularly heard.)<br>
+							<br>
+							
+						(Kramer opens the driver side door. He picks up a paint roller, and loads it with black paint from a tray on the passenger seat. Then he leans out of the door and rolls the paint over the lane markers, still steering the car with his other hand.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Apartment Building]<br>
+							<br>
+							
+						(Elaine emerges from the janitor's closet. She's wiping her lips, following the flounder repast. As she does so, a woman walking along the hall notices her.)<br>
+							<br>
+							
+						MRS ALLISTER: 'Scuse me, what are you doing in there?<br>
+							<br>
+							
+						ELAINE: Uhm, nothing. I was just uhm... I wasn't in there.<br>
+							<br>
+							
+						MRS ALLISTER: You were hanging around in there, lazing on the job. When you shoulda been downstairs in the basement, cleaning out those old carpets and scrap wood.<br>
+							<br>
+							
+						ELAINE: Right, because... I'm the janitor. (picks teeth with fingernail)<br>
+							<br>
+							
+						MRS ALLISTER: Don't get smart with me.<br>
+							<br>
+							
+						ELAINE: (meek) Yes ma'am.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Kramer's Apartment]<br>
+							<br>
+							
+						(Kramer is in bed. His alarm goes off, and the radio comes on in the middle of the traffic report. Kramer wakes up and listens.)<br>
+							<br>
+							
+						RADIO: Hey, and if you're heading north on the Arthur Berkhardt, whoah Nelly, for some reason four lanes are converging into two, instantaneously right at mile-marker one-fourteen. I don't know what that is, but the A-B's a parking lot out there. Somebody screwed up on that one.<br>
+							<br>
+							
+						(By the end of the report, Kramer looks slightly worried.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Janitor's Closet]<br>
+							<br>
+							
+						(Elaine stands waiting in the closet. There's the usual paraphernalia - buckets, brooms, cleaning materials, stepladder, boxes, etc.. There's a knock at the door. Elaine opens it to find Jerry.)<br>
+							<br>
+							
+						ELAINE: Oh it's you.<br>
+							<br>
+							
+						JERRY: Is the flounder here yet?<br>
+							<br>
+							
+						ELAINE: No, it's not here yet. You want the tour?<br>
+							<br>
+							
+						(Jerry enters, and Elaine closes the door.)<br>
+							<br>
+							
+						ELAINE: (gesturing) There's this.<br>
+							<br>
+							
+						JERRY: Nice. French doors'd really open this place up. Oh, but you have a slop-bucket.<br>
+							<br>
+							
+						(There's another knock at the door.)<br>
+							<br>
+							
+						ELAINE: (gleeful) The fish!<br>
+							<br>
+							
+						(She opens the door to find George. He's wearing a tartan workshirt.)<br>
+							<br>
+							
+						ELAINE: Ah, what're you doing here?<br>
+							<br>
+							
+						GEORGE: Hey.<br>
+							<br>
+							
+						JERRY: Hey.<br>
+							<br>
+							
+						(George joins Jerry and Elaine in the closet. It's getting a bit cramped.)<br>
+							<br>
+							
+						GEORGE: Oh, I was uh, I was waiting downstairs for the jackhammer, thought I'd drop by.<br>
+							<br>
+							
+						JERRY: Kramer's guys?<br>
+							<br>
+							
+						GEORGE: Yeah. I got 'em down to fifty bucks. I just have to do all the jackhammering myself.<br>
+							<br>
+							
+						JERRY: Oh that's nice, kind of a hard-labour fantasy camp.<br>
+							<br>
+							
+						(The door is pushed open from the outside. It thumps into George who is pushed into Elaine, who stumbles into Jerry.)<br>
+							<br>
+							
+						GEORGE: Ow!<br>
+							<br>
+							
+						ELAINE: Uh, man!<br>
+							<br>
+							
+						(Kramer enters the now crowded closet.)<br>
+							<br>
+							
+						KRAMER: Huh, yeah. (looks round) Oh, sweet setup. Elaine, d'you have any paint thinner? I need like uh, forty gallons.<br>
+							<br>
+							
+						ELAINE: I'm plumb out.<br>
+							<br>
+							
+						KRAMER: Oh man, if I don't get that black paint off the City's gonna go ape. I don't wanna lose my baby!<br>
+							<br>
+							
+						(There's yet another knock at the door. More strident.)<br>
+							<br>
+							
+						MRS ALLISTER (O.C.): Janitor?<br>
+							<br>
+							
+						ELAINE: (to the guys) Uh, Mrs Allister. (louder) Yeah, uh, just coming Mrs Allister. (to guys) Okay, I've gotta get out.<br>
+							<br>
+							
+						(Elaine struggle to squeeze past George, and then Kramer to reach the door. The she has to make room to swing the door inwards.)<br>
+							<br>
+							
+						ELAINE: Here, can you move, you gotta move from the door.<br>
+							<br>
+							
+						(She succeeds in squeezing out, and stumbles into the hallway. The crush behind her slams the door shut.)<br>
+							<br>
+							
+						ELAINE: Hi, I uhm... What can I do for you?<br>
+							<br>
+							
+						MRS ALLISTER: I told you yesterday to haul that trash outta the basement.<br>
+							<br>
+							
+						ELAINE: Yeah, I am so sorry.<br>
+							<br>
+							
+						MRS ALLISTER: Some of the children have been playing near it and putting it in their mouths.<br>
+							<br>
+							
+						ELAINE: Well, a lot of it is vegetable...<br>
+							<br>
+							
+						(In the closet, the guys are struggling together with equipment and supplies in the cramped space. The thumps of their movements can be heard in the hallway.)<br>
+							<br>
+							
+						MRS ALLISTER: Get that stuff outta there today, or you'll be outta here. Understand?<br>
+							<br>
+							
+						ELAINE: (meekly) Yes ma'am.<br>
+							<br>
+							
+						(The janitor's closet door opens and the guys stumble out.)<br>
+							<br>
+							
+						GEORGE: ...stop pushing. (to Elaine) Kramer spilled ammonia.<br>
+							<br>
+							
+						JERRY: I don't feel like eating.<br>
+							<br>
+							
+						KRAMER: (holding up a set of heavy chains) I'm gonna borrow this, huh?<br>
+							<br>
+							
+						ELAINE: (to Mrs Allister) Janitor's meeting.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Jerry's Apartment]<br>
+							<br>
+							
+						(Jenna enters and sits, Jerry closes the door behind her. It is clear that Jerry has gone overboard in his efforts to dispose of whatever was contaminated - his kitchen shelves are bare, and most other surfaces are free of the usual knick-knacks.)<br>
+							<br>
+							
+						JENNA: So Jerry, why'd you call me?<br>
+							<br>
+							
+						JERRY: Well, I thought it's about time we put aside all this silliness. I know now you didn't put anything in my toilet bowl. (pause) Did you?<br>
+							<br>
+							
+						JENNA: Yes, I did.<br>
+							<br>
+							
+						JERRY: Well, whatever. So, how've you been?<br>
+							<br>
+							
+						JENNA: Good.<br>
+							<br>
+							
+						JERRY: Good. (pause) Steak knife?<br>
+							<br>
+							
+						JENNA: Just eating away at you isn't it?<br>
+							<br>
+							
+						JERRY: Nah.<br>
+							<br>
+							
+						(The door opens and Elaine enters.)<br>
+							<br>
+							
+						ELAINE: Hi.<br>
+							<br>
+							
+						JENNA: Hi.<br>
+							<br>
+							
+						JERRY: Hi.<br>
+							<br>
+							
+						ELAINE: Hi. Jerry, can I borrow your car?<br>
+							<br>
+							
+						JERRY: For what?<br>
+							<br>
+							
+						ELAINE: I have to haul some dirty garbage to the dump.<br>
+							<br>
+							
+						JERRY: Dirt? That's alright, (for Jenna's benefit) because there's nothing wrong with dirt.<br>
+							<br>
+							
+						ELAINE: Well, actually it's pretty grimy.<br>
+							<br>
+							
+						JERRY: Grime, grease, filth, funk, ooze. Whatever it is, you take that stuff and put it right on my leather upholstery.<br>
+							<br>
+							
+						(He hands the keys to Elaine.)<br>
+							<br>
+							
+						ELAINE: Well, I don't know who you are, but thanks for the car.<br>
+							<br>
+							
+						JERRY: Sure. Bye.<br>
+							<br>
+							
+						ELAINE: Bye.<br>
+							<br>
+							
+						JENNA: Bye.<br>
+							<br>
+							
+						ELAINE: Bye.<br>
+							<br>
+							
+						(Elaine leaves.)<br>
+							<br>
+							
+						JERRY: There, you see? I just leant her my car, and she's gonna fill it with all sorts of... (he cracks) Alright! You win! That car was my last germ-free sanctuary. I slept there last night! Now, for the love of God, please, what is it? What is it?!<br>
+							<br>
+							
+						JENNA: Toilet brush.<br>
+							<br>
+							
+						JERRY: Toilet brush, oh (he pulls a 'Damn, shoulda guessed!' face). Alright, I can replace that.<br>
+							<br>
+							
+						JENNA: You wanna order dinner?<br>
+							<br>
+							
+						JERRY: Yeah. Let's uh, go to your place. Because I, threw out all my dishes.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Eighty-sixth Street]<br>
+							<br>
+							
+						(Elaine strides along the sidewalk looking very blue-collar in overalls and cap, grimy face, etc. She has some old carpet slung over one shoulder and some paint cans in her hand. A jackhammer can be heard. As she walks along, she passes George who is holding the jackhammer. She nods acknowledgment and he touches the peak of his hardhat. George gives the pothole a burst from the jackhammer.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Street]<br>
+							<br>
+							
+						(Kramer struggles to lift a forty-gallon drum into the boot of his car. He eventually heaves it in.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Jenna's Apartment]<br>
+							<br>
+							
+						(Jerry and Jenna, sitting on the couch, eating and conversing (looks like Chinese food).)<br>
+							<br>
+							
+						JERRY: That's true.<br>
+							<br>
+							
+						JENNA: Mm.<br>
+							<br>
+							
+						JERRY: But, I'll tell you this much. I am never going to let some silly hygienic mishap get in the way of, what could be, a meaningful, long-lasting relationship.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Eighty-sixth Street]<br>
+							<br>
+							
+						(George is giving the street a long burst from the jackhammer. Suddenly, there is a clang. George stops hammering, and listens. There is a deep rumbling sound, from beneath his feet, which seems to be getting louder. He looks around for the source of the noise.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Jenna's Apartment]<br>
+							<br>
+							
+						(Jenna and Jerry are still eating on the couch. The rumbling noise can be heard,<br>
+							
+						though not so loud as outside. Then, in the bathroom, the toilet starts to<br>
+							
+						rattle.)<br>
+							<br>
+							
+						JENNA: Do you hear something?<br>
+							<br>
+							
+						(They both listen intently. The rumble continues and, in the bathroom, the toilet<br>
+							
+						rattles again, the cistern shaking.)<br>
+							<br>
+							
+						JERRY: I don't know what that could be.<br>
+							<br>
+							
+						(Jenna gets up and goes to the bathroom door.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Eighty-sixth Street]<br>
+							<br>
+							
+						(There is a rending sound, and a huge jet of water erupts from the ground right in front of George, where he was hammering. There is a shot from above the rising column of water. On the top rises George's keyring.)<br>
+							<br>
+							
+						HEAD: Holy cow!<br>
+							<br>
+							
+						(The plume of water rises high above George, who can be seen looking up at the height of it.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Jenna's Apartment]<br>
+							<br>
+							
+						(In the bathroom, Jenna is peering curiously at her rattling toilet, wondering what's wrong. She leans toward the bowl. Jerry is in the living room, still talking to her.)<br>
+							<br>
+							
+						JERRY: Anyway, I'm a new man, and I'm looking towards the future. Clean, dirty, whatever.<br>
+							<br>
+							
+						(There is the sound of a wet explosion and splashing water, followed by Jenna screaming in the bathroom. Jerry leaps to his feet and rushes to see what has happened.)<br>
+							<br>
+							
+						(Jerry enters the bathroom and sees Jenna. Only her forearm is visible to us, but it's enough for us to know that she is wringing wet as the result of a violent eruption from the toilet bowl.)<br>
+							<br>
+							
+						(Jerry's face registers his obvious distaste. He shrugs, sorry.)<br>
+							<br>
+							
+						JERRY: Holy cow! Have a nice life.<br>
+							<br>
+							
+						(He closes the bathroom door as he leaves.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Jerry's Car]<br>
+							<br>
+							
+						(Elaine driving. The passenger seats are piled with the garbage from the basement - old carpets, bits of timber, boxes, etc. An external shot of the car reveals she is driving on Kramer's section of road, as the black-painted lane markers can be seen.)<br>
+							<br>
+							
+						ELAINE: Hey, look at this. Wide lanes. This is so luxurious. Woo, yeah.<br>
+							<br>
+							
+						(We see the Saab weave across the extra wide lanes. From the boot falls a battered sewing machine. It sits in the middle of the carriageway.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Arthur Berkhardt Expressway]<br>
+							<br>
+							
+						(Kramer is manhandling the forty gallon drum out of his boot. He struggles to heave it clear, and then he drops it. The drum falls onto its side, and the lid comes off, spilling the contents across the road.)<br>
+							<br>
+							
+						KRAMER: Bugger!<br>
+							<br>
+							<br>
+							<br>
+							
+						[Newman's Truck]<br>
+							<br>
+							
+						(Newman is singing as he drives. Beside him are a stack of boxes, marked 'Fresh Fish'.)<br>
+							<br>
+							
+						NEWMAN: (sings) You're once. Twice. Three times a lady.<br>
+							<br>
+							
+						(There's a loud crash as the truck runs over the sewing machine. Tyres squeal as Newman regains control.)<br>
+							<br>
+							
+						NEWMAN: What the hell was that?<br>
+							<br>
+							
+						(The truck is travelling along with the sewing machine caught on the front axle. As it scrapes along the road, it leaves a huge trail of sparks behind.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Arthur Berkhardt Expressway]<br>
+							<br>
+							
+						(Kramer rights the empty drum and does a double-take as he notices the warning<br>
+							
+						labels on the side - 'Paint Thinner' 'Highly Flammable'.)<br>
+							<br>
+							
+						KRAMER: Double bugger!<br>
+							<br>
+							<br>
+							<br>
+							
+						[Newman's Truck]<br>
+							<br>
+							
+						(Newman still singing, although the grinding sound of the sewing machine is almost drowning out his voice. The sewing machine is still producing a shower of sparks under the truck.)<br>
+							<br>
+							
+						NEWMAN: (sings) Yes, you're once. Twice. Three times...<br>
+							<br>
+							
+						(Suddenly, the truck clearly reaches the pool of thinner and the sparks ignite it. Flames shoot up around the truck, and are reflected in the windows. Newman begins screaming and yelling in the midst of the inferno.)<br>
+							<br>
+							
+						NEWMAN: Aaah! Aaagh! Aah-aah. Oh, oh the humanity! Aaagh!<br>
+							<br>
+							<br>
+							<br>
+							
+						[Arthur Berkhardt Expressway]<br>
+							<br>
+							
+						(Kramer finally manages to get the drum back into his boot and slams the lid down. Then he sees Newman staggering along the road. Newman is walking stiffly, and is singed all over, with blackened patches on his hair and clothing. He's staring ahead, clearly in such a state of shock that he's uncomprehending of his surroundings.)<br>
+							<br>
+							
+						KRAMER: Hey buddy. What're you doing out here?<br>
+							<br>
+							
+						(Newman continues to walk, oblivious of Kramer.)<br>
+							<br>
+							
+						KRAMER: Man, did you see that fireball? Woo-hoo-hoo, hoo-hoo.<br>
+							<br>
+							
+						(Newman still doesn't respond. In the distance the sound of sirens can be heard. Kramer hears them, looks worried, and moves toward the car.)<br>
+							<br>
+							
+						KRAMER: Hey, I gotta skedaddle. You wanna lift?<br>
+							<br>
+							
+						(Kramer has the driver's door open and is impatient to be off. The sirens<br>
+							
+						continue.)<br>
+							<br>
+							
+						KRAMER: Newman! Newman!!<br>
+							<br>
+							
+						(Kramer gets in the car and leans out of the window to call to Newman.)<br>
+							<br>
+							
+						KRAMER: Well, I'll meet you at the coffee shop.<br>
+							<br>
+							
+						(He starts the car, and leaves with a squeal of protesting tyres. Newman continues his walk.)<br>
+							<br>
+							
+						(As the Castle Rock logo comes up, Newman can be heard screaming 'Aargh!'. )<br>
+							<br>
+							<br>
+							
+						The End</td>
+						</tr>
+						<tr height="6">
+							<td class="bottom2" width="645" height="6"></td>
+						</tr>
+						<tr>
+							<td width="645">
+								<div align="center">
+									<font size="-1">Copyright 2006 seinology.com | All Rights Reserved | Designed by 13erla</font></div>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+		<p></p>
+	</body>
+
+</html>

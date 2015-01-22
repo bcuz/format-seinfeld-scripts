@@ -1,0 +1,1351 @@
+<tdOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+<html>
+
+	<head>
+		<meta http-equiv="content-type" content="text/html;charset=ISO-8859-1">
+		<meta name="description" content="Top Source for Seinfeld">
+		<meta name="keywords" content="seinfeld, sienfeld, Jerry Seinfeld, Julia Louis Dreyfus, Jason Alexander, Michael Richards, Kramer, George, Costanza, Elaine Benes, morty, Larry David">
+		<title>Seinology.com :: Scripts :: 48-The Cheever Letters</title>
+	<link rel='stylesheet' href='/stylesheet.css' type='text/css'>
+	</head>
+
+	<body>
+			<table align="center" width="787" border="0" cellspacing="0" cellpadding="0">
+				<tr>
+					<td><font size="-2" color="red">Seinology.com - </font><font size="-3" color="black">Where Seinfeld Content and Accuracy Matter Most. Seinfeld scripts in pdf form, Seinfeld episode video clips, Seinfeld episode audio clips, Jerry Seinfeld appearances, Julia Louis-Dreyfus appearances, Michael Richards appearances, Jason Alexander appearances, Seinfeld discussion Forum, Seinfeld Where are they Now? Seinlanguage Newsletter, Popular Seinfeld Lists, Seinfeld episode standup, Seinfeld episode guide, Seinfeld fan fiction. Seinfeld content all on one domain. Seinology.com enjoy your stay.</font></td>
+				</tr>
+			</table>
+		
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr height="100">
+				<td class="logo"></td>
+			</tr>
+			<tr><td class="ads" align="center" background=#8694fa>
+				<script type="text/javascript"><!--
+google_ad_client = "pub-1924026976931416";
+google_ad_width = 728;
+google_ad_height = 90;
+google_ad_format = "728x90_as";
+google_ad_type = "text";
+google_ad_channel = "";
+google_color_border = "FFFFFF";
+google_color_bg = "8694fa";
+google_color_link = "0000FF";
+google_color_text = "000000";
+google_color_url = "002E3F";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></td></tr>
+		</table>
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr>
+				<td valign="top" width="136">
+					<table width="136" border="0" cellspacing="0" cellpadding="0">
+						<tr height="24">
+							<td class="navigation">
+								<div align="center">
+									
+									<b>Navigation</b></div>
+							</td>
+						</tr>
+						<tr height="199">
+							<td class="spacer1" valign="top" width="136" height="199">
+								<div align="center">
+									<font size="-1"><a href="http://www.seinology.com">Home</a><br>
+										<a href="http://board.seinology.com">Forum</a><br>
+										<a href="http://www.seinology.com/av.shtml">Audio/Video</a><br>
+										<a href="http://www.seinology.com/scripts.shtml">Scripts</a><br>
+										<a href="http://www.seinology.com/survivor.shtml">Survivor</a><br>
+										<a href="http://www.seinology.com/fanfics.shtml">Fan Fiction</a><br>
+										<a href="http://www.seinology.com/gallery/">Gallery</a><br>
+										<a href="http://www.seinology.com/newsletter.shtml">Newsletter</a><br>
+										<a href="http://www.seinology.com/lists.shtml">Lists</a><br>
+										<a href="http://www.seinology.com/epguide.shtml">Episode Guide</a><br>
+										<a href="http://www.seinology.com/links.shtml">Links</a><br>
+										<a href="http://www.seinology.com/faqother.shtml">Faq + others</a><br>
+										<a href="http://www.seinology.com/legal.shtml">Legal</a></font></div>
+							</td>
+						</tr>
+						
+						<tr>
+							<td class="nav2" width="136">
+							<div align="center"><b>Search</b></div></td>
+						</tr>
+						<tr>
+							<td class="spacer1" width="136" valign="top"><div align="center"><form method="get" action="http://www.seinology.com/search/search.cgi">
+<p><label for="fdse_Match">Match</label><br>
+<select name="Match" id="fdse_Match" size="1">
+<option value="1">All</option>
+<option value="0">Any</option>
+<option value="2">Phrase</option>
+</select></p>
+<p><label for="fdse_Realm">Where?</label><br>
+<select name="Realm" id="fdse_Realm" size="1">
+<option selected="selected" value="All">EntireSite</option>
+<option value="Ep Guide">Ep Guide</option>
+<option value="Images">Images</option>
+<option value="Lists">Lists</option>
+<option value="Newsletters">Newsletters</option>
+<option value="Scripts">Scripts</option>
+<option value="Notes..Nothing">Notes..Nothing</option>
+</select></p>
+<p><input type="text" name="Terms" size="14" id="fdse_Terms"><br>
+<input type="submit" class="submit" name="submitButtonName" value="Search"></p>
+</div></form></td>
+						</tr>
+						<tr><td class="bottom" width="136" height="10" valign="top">
+						</td>
+						</tr>
+					</table>
+				</td>
+				<td width="4"></td>
+				<td valign="top" width="645">
+					<table width="645" border="0" cellspacing="0" cellpadding="0">
+						<tr height="18">
+							<td width="645" height="35" class="bar">
+								<div align="center">
+									<b><font size="+2" color="black">Script</font></b></div>
+							</td>
+						</tr>
+						<tr height="362">
+							<td class="spacer2" valign="top" width="645" height="362">
+
+						<p><font size="-2">Episode 48 - The Cheever Letters<br>
+							
+						pc: 408, season 4, episode 8<br>
+							
+						Broadcast date: October 28, 1992<br>
+							<br>
+							
+						Written by Larry David &amp; Larry Charles<br>
+							
+						Story by Larry David and Elaine Pope &amp; Tom Leopold<br>
+							
+						Directed by Tom Cherones<br>
+							<br>
+							
+						-------------------------------------------------------------------------------<br>
+							<br>
+							
+						The Cast<br>
+							
+						Regulars:<br>
+							
+						Jerry Seinfeld ....................... Jerry Seinfeld<br>
+							
+						Jason Alexander .................. George Costanza<br>
+							
+						Julia Louis-Dreyfus ............. Elaine Benes<br>
+							
+						Michael Richards ................. Kramer<br>
+							<br>
+							
+						Guest Stars:<br>
+							<br>
+							
+						Warren Frost ...................... Mr. Henry Ross<br>
+							
+						Grace Zabriskie .................. Mrs. Ross<br>
+							
+						Lisa Malkiewicz .................. Sandra<br>
+							
+						Miguel Perez ....................... Luis<br>
+							
+						Vanessa Marquez ............... Receptionist<br>
+							
+						Timothy Omundson ........... Ricky Ross<br>
+							
+						Patricia Lee Willson ............ Sara Ross<br>
+							
+						David Blackwood ............... Doorman<br>
+							
+						rc: Heidi Swedberg ............ Susan Biddle Ross<br>
+							<br>
+							
+						==================================================================<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						[Setting: Jerry's apartment]<br>
+							<br>
+							
+						(Jerry and George enter with some plastic bags)<br>
+							<br>
+							
+						JERRY: She hasn't told her father yet?<br>
+							<br>
+							
+						GEORGE: No. We're supposed to tell him tonight.<br>
+							<br>
+							
+						JERRY: &quot;We're&quot;? What do you mean, &quot;We're&quot;?<br>
+							<br>
+							
+						GEORGE: Susan wants me to be there.<br>
+							<br>
+							
+						JERRY: You're meetin' the father for the first time?<br>
+							<br>
+							
+						GEORGE: (Reluctantly) Yeah.<br>
+							<br>
+							
+						JERRY: (Chuckles slightly) Well, you'll make quite an impression on him when you tell him how you burned his cabin down.<br>
+							<br>
+							
+						GEORGE: I didn't burn it down - Kramer did!<br>
+							<br>
+							
+						JERRY: (Laughs) I mean, the whole thing is ironic. Think of it: Here the guy is nice enough to give you a box of very fine Cuban cigars..<br>
+							<br>
+							
+						GEORGE: Yeah, I know what happened.<br>
+							<br>
+							
+						JERRY: No, but wait, wait: And then you dump them off onto Kramer..<br>
+							<br>
+							
+						GEORGE: (Getting frustrated) I know.<br>
+							<br>
+							
+						JERRY: (Continuing) ..Who, who proceeds to burn the man's cabin down with one of those very same cigars! (Topping off his observation) It's very comical..<br>
+							<br>
+							
+						GEORGE: Listen, maybe we shouldn't start writing today. I got a lot on my mind.<br>
+							<br>
+							
+						JERRY: (Persisting) No, no, we put this off long enough. Today's the day.<br>
+							<br>
+							
+						GEORGE: (Letting his conscious get the best of him) I wonder how Susan's father's going to react to this. Alright, what- what's the worst he could do? So you burn a cabin down..<br>
+							<br>
+							
+						JERRY: (Agreeing) C'mon. It's not even a house - it's, like, a cabin.<br>
+							<br>
+							
+						GEORGE: We could build a cabin like (Snaps) that.<br>
+							<br>
+							
+						JERRY: (Blunt) Well, maybe not us, but two men could.<br>
+							<br>
+							
+						GEORGE: (Looking over the writing materials they just bought) Bics? What, d'ja get, bics?<br>
+							<br>
+							
+						JERRY: What, you got a problem with the pen now?<br>
+							<br>
+							
+						GEORGE: Well, I like a rolling writer. They're very smooth.<br>
+							<br>
+							
+						JERRY: Alright, let's just get to work. (They both move into the living room - ready to start writing their script. Jerry sits down) NBC Pilot, Seinfeld project. Act I, Scene A.<br>
+							<br>
+							
+						GEORGE: (Still standing) So, you're gonna sit there?<br>
+							<br>
+							
+						JERRY: (Wanting to get started) Just - just park yourself. (George reluctantly sits on the sofa) Alright. Act I, Scene A.<br>
+							<br>
+							
+						GEORGE: (Offering) Drink?<br>
+							<br>
+							
+						JERRY: No, no thank you.<br>
+							<br>
+							
+						GEORGE: (Uncapping his pen) Alright, here we go.<br>
+							<br>
+							
+						JERRY: Act I, Scene A..<br>
+							<br>
+							
+						(A long pause as they both attempt to start writing passes)<br>
+							<br>
+							
+						GEORGE: Weren't you supposed to call Elaine?<br>
+							<br>
+							
+						JERRY: (Eagerly reaching for the phone) Yes. (George turns the TV on, and begins watching as Jerry dials the number) Hi, is Elaine there? Oh, uh, Hi, Sandra. Uh, yeah. I can hold. (To George) Every time I call I gotta chit-chat with her assistant for, like, twenty minutes. (Back into the phone) Oh, hi, Sandra. Listen, I'm at a pay phone, and there's lots of people here waiting to use it. (Yelling out for believability) I'll be off in a minute! (To Sandra) Yeah, could you just put me through to Elaine? Okay, thanks! (He turns to George) Are you thinking of ideas? (George, picking his teeth with his finger, is absorbed into the television. He seems to not even notice Jerry) Listen, Elaine, is there any way I could get through to you directly? Every time I call Sandra bends my ear for, like, twenty minutes. (Pause) So we're on for later?<br>
+							<br>
+							
+						(Scene cuts to Elaine's office. She's waving a pencil around in her free hand)<br>
+							<br>
+							
+						ELAINE: Yeah, I'll come by after work. Hey, I got a rubber pencil thing happenin' here.. (Sandra passes her doorway) Uh, I gotta go. I gotta go. (Hangs up) Sandra! Sandra? Hi, can you come here for a second?<br>
+							<br>
+							
+						(Scene goes back to Jerry's apartment)<br>
+							<br>
+							
+						JERRY: Okay, let's go. (George shuts the television off, ready to work)<br>
+							<br>
+							
+						GEORGE: Alright, here we go. You got it?<br>
+							<br>
+							
+						JERRY: Yeah.<br>
+							<br>
+							
+						GEORGE: Here we go.<br>
+							<br>
+							
+						JERRY: Okay, how about this: I'm in my apartment, you come in.<br>
+							<br>
+							
+						GEORGE: (Holding out his arms - giving praise) It's beautiful. Now, what do I say?<br>
+							<br>
+							
+						(A long pause, then the scene jumps back to Elaine and Sandra)<br>
+							<br>
+							
+						ELAINE: Could you do me a favor? Um, when my friends call, could you not talk to them for too long?<br>
+							<br>
+							
+						SANDRA: Why? Did Jerry say something?<br>
+							<br>
+							
+						ELAINE: No, no.<br>
+							<br>
+							
+						SANDRA: He must have said something.<br>
+							<br>
+							
+						ELAINE: Oh, no, he didn't say anything.<br>
+							<br>
+							
+						SANDRA: (Near tears) I can't work for you! I can't. I'm leaving. (Exits quickly)<br>
+							<br>
+							
+						ELAINE: (Calling out to Sandra) No, Sandra. I'm sorry, I'm sorry! I really am! Listen, listen, Jerry's under a lot of pressure right now. It's very hard being a stand-up comedian! Sometimes they don't laugh!<br>
+							<br>
+							
+						(Scene goes back to Jerry's apartment. Jerry and George are sleeping. Kramer slams his apartment door shut, waking both of them up)<br>
+							<br>
+							
+						GEORGE: Alright, let's go.<br>
+							<br>
+							
+						JERRY: Here we go.<br>
+							<br>
+							
+						(Both get situated to write as Kramer enters)<br>
+							<br>
+							
+						KRAMER: Hey.<br>
+							<br>
+							
+						GEORGE: yeah, Kramer, we're, uh, kind of in the middle of something here. We're trying to do a little work..<br>
+							<br>
+							
+						JERRY: Yeah, come on. (Kramer gives out a frustrated sigh) What's with you?<br>
+							<br>
+							
+						KRAMER: (Complaining) No more golf.<br>
+							<br>
+							
+						JERRY: Why?<br>
+							<br>
+							
+						KRAMER: Well, you remember I told you about the pro, you know, at the Westchester Country Club, who's letting me play a round every time I give him a couple of those Cuban cigars?<br>
+							<br>
+							
+						JERRY: Yeah.<br>
+							<br>
+							
+						KRAMER: (Angered) Yeah, well, I lost them all in the fire! (Leaning over the couch, he addresses George) Hey, George, maybe you can ask Susan's father for more, huh?<br>
+							<br>
+							
+						GEORGE: What are you, Crazy? I can't ask the guy for more cigars after you burned down his cabin!<br>
+							<br>
+							
+						KRAMER: Why? What's one thing got to do with another?<br>
+							<br>
+							
+						GEORGE: Kramer, please.<br>
+							<br>
+							
+						KRAMER: Well, I can't go back to the public courses, now. I can't! I won't. I mean, you know what that's like? It's crowded, the grass has big brown patches in it, they don't rake the sand traps! Not to mention the caliber of people you have to play with!<br>
+							<br>
+							
+						GEORGE: Kramer, I can't help you. You're gonna have to get them some place else.<br>
+							<br>
+							
+						KRAMER: (Opening the door) Where? They're Cubans. (Leaves)<br>
+							<br>
+							
+						GEORGE: (Getting up) You know what? Maybe I should take off.<br>
+							<br>
+							
+						JERRY: What?!<br>
+							<br>
+							
+						GEORGE: Well, you know, I gotta go to, uh, Susan's parent's house for dinner.. and, you know, I want to shower first.. and I want to leave myself plenty of time.<br>
+							<br>
+							
+						JERRY: (Looking at his watch) You got four hours! What about the script?<br>
+							<br>
+							
+						GEORGE: I think we got a bite on it. (Exits)<br>
+							<br>
+							
+						(Scene ends)<br>
+							<br>
+							<br>
+							
+						[Setting: The Ross' house]<br>
+							<br>
+							
+						(Susan, her parents, and George are all dining)<br>
+							<br>
+							
+						MRS. ROSS: (To Mr. Ross) Doesn't George look like your sister, Sarah?<br>
+							<br>
+							
+						MR. ROSS: (Gruff) A slight resemblance.<br>
+							<br>
+							
+						(George laughs slightly)<br>
+							<br>
+							
+						MRS. ROSS: (To George) Her son's a podiatrist, you know.<br>
+							<br>
+							
+						GEORGE: Ohh, I have tremendous respect for people who work with feet. I mean, to dedicate yourself to the foot - you're toiling in virtual anonymity. I mean..<br>
+							<br>
+							
+						(Seeing the Ross' expression, he trails off)<br>
+							<br>
+							
+						MR. ROSS: How are you enjoying those cigars I gave you?<br>
+							<br>
+							
+						GEORGE: Oh, uh, the cigars.. (Chuckles nervously) I'm, uh, suckin' 'em down. I'm puffing my brains out, yeah.<br>
+							<br>
+							
+						MR. ROSS: You know those cigars are made special for Castro?<br>
+							<br>
+							
+						GEORGE: (Impersonating Carson) I didn't not know that. Weird. Wild. (Susan and George both laugh)<br>
+							<br>
+							
+						MR. ROSS: What?<br>
+							<br>
+							
+						SUSAN: (Explaining) He's doing Johnny Carson, daddy.<br>
+							<br>
+							
+						MR. ROSS: I didn't care much for his jokes.<br>
+							<br>
+							
+						SUSAN: (To George) Daddy never laughs.<br>
+							<br>
+							
+						GEORGE: Oh, well, so what? Laughter - what is that? I mean, what is the point of opening your mouth and going &quot;Ha, ha!&quot;? What is that? &quot;Ha, ha!&quot;?<br>
+							<br>
+							
+						MR. ROSS: You know, you can't get those cigars anywhere.<br>
+							<br>
+							
+						MRS. ROSS: You and your cigars..<br>
+							<br>
+							
+						MR. ROSS: (Shooting back at his wife) Wear some more lipstick.<br>
+							<br>
+							
+						SUSAN: Daddy, there's, um, there's something that we have to talk to you about..<br>
+							<br>
+							
+						MR. ROSS: Oh, I forgot to ask you - how'd you like the cabin?<br>
+							<br>
+							
+						GEORGE: (Even more nervous than before) Oh, the, uh, the cabin.. well, (Clears throat)<br>
+							<br>
+							
+						(Scene ends)<br>
+							<br>
+							<br>
+							
+						[Setting: Jerry's apartment]<br>
+							<br>
+							
+						(Jerry and Elaine are talking. Jerry's using a harsh tone)<br>
+							<br>
+							
+						JERRY: Right after we get off the phone, then you go and tell her that?! Well, of course she knows it was me who complained! Now I'm responsible for this woman's quitting. Oh, this is unbelievable!<br>
+							<br>
+							
+						ELAINE: (Full of guilt) I know! I screwed up. It's all my fault. Would you call her?<br>
+							<br>
+							
+						JERRY: (Caving in) Ohh.. dial the number. (Elaine picks up the phone, and starts to dial) How could you do this?<br>
+							<br>
+							
+						ELAINE: (Handing the phone over to him) I was just trying to help you.<br>
+							<br>
+							
+						JERRY: (Muttering) Oh, just trying to (Rudely grabs the phone from her) help me.. (Into the phone) Hello? Sandra? Hi, uh, this is Jerry Seinfeld. (Elaine now has her hand in a bowl of popcorn - grabbing a fistful) Listen, I - I just want to tell you, (Jerry sternly grabs Elaine's hand - forcing her to drop the popcorn, then shoves her hand away. Elaine sits back like a scolded child) There's been a terrible misunderstanding: See, I told Elaine that, uh, it was a real treat talking to you on the phone, and she thought I was being sarcastic, you know, 'cause I'm a comedian and all. She thought I meant (Deeply sarcastic) &quot;Yeah, it was a real treat talking to her on the phone.&quot; (Back to normal) You know, but I was really being sincere.. No, of course I like you.. Tonight? ..Um, uh, hold on a second. (To Elaine, whispering) Now she wants to have a drink with me. (Elaine mouths out &quot;Just go&quot; while making gestures. Jerry, again, gives in. Back on the phone) Yeah, I think I can.. Um.. yeah, I know where that is.. Ok.. uh, I'll see you there. Okay, bye. (Hangs up, peeved) Now I gotta have a drink with her.<br>
+							<br>
+							
+						(Scene ends)<br>
+							<br>
+							<br>
+							
+						[Setting: The Ross' house]<br>
+							<br>
+							
+						(Same diner party is going on. News of the cabin has yet to be discussed)<br>
+							<br>
+							
+						GEORGE: The cabin.. (Laughs nervously) Well.. (Pauses as he thinks of a way to break the news, then decides to pass it off) Susan?<br>
+							<br>
+							
+						SUSAN: Uhh.. about the cabin..<br>
+							<br>
+							
+						MR. ROSS: (Cutting her off) I love that place. My father built that cabin in 1947. My mother was recuperating from Impetigo at the time, and dad thought it would be a good idea to get her out into the fresh air. She died there the following winter. And he passed away 10 years later to the day. His last words to me were, (Mrs. Ross, bored out of her mind, has obviously heard this story a million times - she mouths the words as Mr. Ross says them) &quot;Cherish the cabin.&quot; Not, uh, &quot;Take care of your sister.&quot; (Adding) She's a paraplegic. But, &quot;Cherish the cabin.&quot; (Smiling, reflecting) And I have.. for 45 years. It's often been a.. sanctuary for me.<br>
+							<br>
+							
+						GEORGE: (Annoyingly butting in) Kinda like Superman's fortress of solitude.<br>
+							<br>
+							
+						MR. ROSS: What?<br>
+							<br>
+							
+						GEORGE: S, uh, Superman - he, uh, built the fortress of solitude up at the North Pole, to, uh, you know, sort of get away from it all..<br>
+							<br>
+							
+						MR. ROSS: When I go, I'm passing it on to her. (Pointing at Susan)<br>
+							<br>
+							
+						MRS. ROSS: (Drunk, she laughs out loud) I'll take a hotel any day.<br>
+							<br>
+							
+						SUSAN: Daddy..<br>
+							<br>
+							
+						MR. ROSS: Yes?<br>
+							<br>
+							
+						SUSAN: Daddy, about the cabin..<br>
+							<br>
+							
+						MRS. ROSS: (Laughing, she points to her shirt) Look, Henry, I spilled wine on me! (Laughs again)<br>
+							<br>
+							
+						MR. ROSS: (To Susan) What about it?<br>
+							<br>
+							
+						SUSAN: Well, the thing is..<br>
+							<br>
+							
+						MR. ROSS: What? What is it?<br>
+							<br>
+							
+						SUSAN: Well, the - the cabin, is, kind of, uh.. George?<br>
+							<br>
+							
+						GEORGE: (Extremely blunt) Burned.<br>
+							<br>
+							
+						MR. ROSS: Burned?<br>
+							<br>
+							
+						SUSAN: There was a fire, and it uh..<br>
+							<br>
+							
+						GEORGE: Burned.<br>
+							<br>
+							
+						MR. ROSS: (Still trying to comprehend what has happened) The cabin burned?<br>
+							<br>
+							
+						GEORGE: (Laughs) yeah, burned. Whoo..<br>
+							<br>
+							
+						MRS. ROSS: (Laughing out loud) Burned! (George laughs with her)<br>
+							<br>
+							
+						MR. ROSS: Was anything found? Was it all burned to the ground?! Did they find anything?<br>
+							<br>
+							
+						SUSAN: (Solemn) No. Nothing.<br>
+							<br>
+							
+						MRS. ROSS: (Laughing, she's obviously getting a kick out of her husband's misfortune) Nothing! Ha, ha, ha.<br>
+							<br>
+							
+						(Mr. Ross, devastated, slowly gets up and starts walking toward the room's exit as everyone continues to talk)<br>
+							<br>
+							
+						GEORGE: Eh, but, you know, Mr. Ross, if - if you look at the whole situating, what with it being your cigars, and everything, it's really rather ironic - one might even say, in a sense, comical.. (Mr. Ross has, by now, left the room. Mrs. Ross is pointing at George, nodding, laughing. As if to say he hit the bullseye. George calls out to Mr. Ross) Really. Think about it.<br>
+							<br>
+							
+						(Scene ends)<br>
+							<br>
+							<br>
+							
+						[Setting: Jerry's apartment]<br>
+							<br>
+							
+						(Sandra runs out of Jerry's room, hastily putting on her jacket. Jerry follow, buttoning his shirt)<br>
+							<br>
+							
+						SANDRA: (Offended) I can't believe you said that!<br>
+							<br>
+							
+						JERRY: What?!<br>
+							<br>
+							
+						SANDRA: (Buttoning her jacket) How could you say something like that to me?!<br>
+							<br>
+							
+						JERRY: What? What?! You were the one who was talking dirty. I was just trying to keep up!<br>
+							<br>
+							
+						SANDRA: That was a weird thing to say.<br>
+							<br>
+							
+						JERRY: Why? It didn't mean anything. I was just trying to join in so you wouldn't feel embarrassed.<br>
+							<br>
+							
+						SANDRA: Ohh, I think you're really sick.<br>
+							<br>
+							
+						JERRY: (Getting slightly offended) I'm not sick. (Pointing at her) You - you said much sicker things than me.<br>
+							<br>
+							
+						SANDRA: I'm leaving. (Moves toward the door. Jerry blocks her path)<br>
+							<br>
+							
+						JERRY: I really think you're making too much of this.<br>
+							<br>
+							
+						SANDRA: (Attempting to get past him) Excuse me. (They both move to the door)<br>
+							<br>
+							
+						JERRY: Let me walk you to a cab.<br>
+							<br>
+							
+						SANDRA: (Opens the door) That's ok.<br>
+							<br>
+							
+						JERRY: I mean, the main thing is that this is just between us, and that'll be the end of it.<br>
+							<br>
+							
+						SANDRA: Oh, really? (Quickly walks out)<br>
+							<br>
+							
+						JERRY: (Calling after her) I mean, people - they're not interested in things like this. They don't want to hear about it. They really don't.<br>
+							<br>
+							
+						(Scene ends)<br>
+							<br>
+							<br>
+							
+						[Setting: The Coffee shop]<br>
+							<br>
+							
+						(Jerry's telling George about last night)<br>
+							<br>
+							
+						JERRY: So, we're.. uhh, drinkin' and talkin', and uhh, so, she starts rubbing my leg.<br>
+							<br>
+							
+						GEORGE: Wo-hoah! What did you do?<br>
+							<br>
+							
+						JERRY: (Sarcastic) Have you ever told a woman to stop touching your leg?<br>
+							<br>
+							
+						GEORGE: Yeah, right.<br>
+							<br>
+							
+						JERRY: I mean, I know it's the wrong thing to do. She works in Elaine's office. I know it's wrong - but I can't get that hand off my leg. I mean, I'm looking at the hand, and I'm thinking, &quot;That hand should not be on my leg.&quot; But I can't make my brain to get my mouth to say the words, &quot;Would you mind?!&quot;<br>
+							<br>
+							
+						GEORGE: Yeah, woman have no problem getting the hand off. How do they do that?<br>
+							<br>
+							
+						JERRY: I don't know, they're working on a whole other level..<br>
+							<br>
+							
+						GEORGE: Alright, so, go ahead.<br>
+							<br>
+							
+						JERRY: So we go back to my apartment..<br>
+							<br>
+							
+						GEORGE: (Expressing shock) Woah. Whoa! Woah!<br>
+							<br>
+							
+						JERRY: So, we're, uh, foolin' around there.. you know, it's getting a little passionate.. (Scoots closer to George, to prevent others from hearing) and, uh, she starts with the dirty talking.<br>
+							<br>
+							
+						GEORGE: (Putting his hands up) Alright, alright, hold on! (Jerry has George's full attention) Time out! Woah, woah! (Scooting in, giddy) What did she say?<br>
+							<br>
+							
+						JERRY: (Modest) Oh, you know, the usual..<br>
+							<br>
+							
+						GEORGE: No, I don't know. How do I know the usual?<br>
+							<br>
+							
+						JERRY: Typical things.<br>
+							<br>
+							
+						GEORGE: (Picking up the ketchup) What typical? Gimme typical. Gimme some typical.<br>
+							<br>
+							
+						JERRY: She says, uh.. (Mumbles something inaudible. George, so shocked by what he's just heard, accidentally squeezes the ketchup bottle - ketchup squirts out and files off-screen. George reacts deeply)<br>
+							<br>
+							
+						GEORGE: (Breathing deeply) That's very dirty. (Jerry nods) That's absolutely filthy.<br>
+							<br>
+							
+						JERRY: ..And then she starts talking about her panties.<br>
+							<br>
+							
+						GEORGE: (Yelling out to a waitress) Gonna need some water here!<br>
+							<br>
+							
+						JERRY: So I said something.<br>
+							<br>
+							
+						GEORGE: Ok, what did you say?<br>
+							<br>
+							
+						JERRY: (Defensively) Now, bear in mind, I am just trying to keep up.<br>
+							<br>
+							
+						GEORGE: Of course.<br>
+							<br>
+							
+						JERRY: Okay? So, she's taking about her panties, so, uh.. So, I said, &quot;You mean the panties your mother laid out for you?&quot;<br>
+							<br>
+							
+						GEORGE: (Takes a few seconds to mull this one over. Shooting Jerry a confused look, he repeats it) &quot;The panties your mother laid out for you&quot;? (Jerry nods) What does that mean?<br>
+							<br>
+							
+						JERRY: (Throwing up his hands) I don't know! It just popped out.<br>
+							<br>
+							
+						GEORGE: Well, how did she react?<br>
+							<br>
+							
+						JERRY: She flipped out! Just left.<br>
+							<br>
+							
+						GEORGE: Well, that's not offensive. (Reflects) It's abnormal, but it's not offensive.<br>
+							<br>
+							
+						JERRY: Look, the main thing is I don't want Elaine to know about any of this. I mean, especially the panty remark. I mean, it's embarrassing. And she's never let me hear the end of it.<br>
+							<br>
+							
+						GEORGE; Well, what if this girl says something?<br>
+							<br>
+							
+						JERRY: She will tell her. She's going back to work. I talked her into it - how stupid was that? (Changing subject as they both collect money to pay for the check) Hey, so, Susan's father took that news pretty hard, huh?<br>
+							<br>
+							
+						GEORGE: Yeah, yeah. He went into the bedroom and started sobbing.<br>
+							<br>
+							
+						JERRY: I guess he failed to see the humor in it.<br>
+							<br>
+							
+						GEORGE: Huh. (Makes a &quot;over his head&quot; gesture with his arm) C'mon, let's go, go. We got a lot of work to do today.<br>
+							<br>
+							
+						JERRY: (Getting up) Alright, big work day.<br>
+							<br>
+							
+						GEORGE: That's right.<br>
+							<br>
+							
+						(Scene ends)<br>
+							<br>
+							<br>
+							
+						[Setting: Jerry's apartment]<br>
+							<br>
+							
+						(Jerry and George, with their writing materials, go to sit down in the living room while giving each other pep talks)<br>
+							<br>
+							
+						GEORGE: Okay.<br>
+							<br>
+							
+						JERRY: Let's go.<br>
+							<br>
+							
+						GEORGE: Here we are.<br>
+							<br>
+							
+						JERRY: Right now.<br>
+							<br>
+							
+						GEORGE: Let's do it.<br>
+							<br>
+							
+						JERRY: You and me.<br>
+							<br>
+							
+						GEORGE: Okay.<br>
+							<br>
+							
+						JERRY: Alright.<br>
+							<br>
+							
+						GEORGE: What'dya got?<br>
+							<br>
+							
+						JERRY: (Reading from his notebook) I got: You enter, you go &quot;Hi&quot;, and I go, &quot;Hello.&quot; Now.. we need something here..<br>
+							<br>
+							
+						(Kramer enters)<br>
+							<br>
+							
+						KRAMER: Oh, hey.<br>
+							<br>
+							
+						(Both George and Jerry get up, giving Kramer an excited greeting - talking fast, together) Oh, you guys are working? I'll come back. (Turns to leave. Jerry and George strongly protest with a series of &quot;No, no, no!&quot;'s) No, you guys should get back to work. (More protests)<br>
+							<br>
+							
+						GEORGE: Don't be silly.<br>
+							<br>
+							
+						JERRY: Come in, we're taking a break.<br>
+							<br>
+							
+						KRAMER: (Moving back into the room) Oh, yeah?<br>
+							<br>
+							
+						JERRY: Yeah!<br>
+							<br>
+							
+						KRAMER: Uh, George, did you talk to that guy about getting me some more cigars?<br>
+							<br>
+							
+						GEORGE: (Scoffs) No, I told you, I'm not gonna do that.<br>
+							<br>
+							
+						KRAMER: (Concluding) Okay.. well, I guess I'm just going to have to take matters into my own hands, huh? (Pause) Alright, I'll see you guys. (Leaves, despite &quot;No, don't go!&quot; and other various comments by Jerry and George)<br>
+							<br>
+							
+						(Scene ends)<br>
+							<br>
+							<br>
+							
+						[Setting: United Nations' Permanent Mission of Cuba building]<br>
+							<br>
+							
+						(Kramer walks up to a secretary)<br>
+							<br>
+							
+						KRAMER: Buenos dias.<br>
+							<br>
+							
+						SECRETARY: Buenos dias.<br>
+							<br>
+							
+						KRAMER: Uh, habla ingles?<br>
+							<br>
+							
+						SECRETARY: Si.<br>
+							<br>
+							
+						KRAMER: Giddy-up. Ok, uh, (Looks at a woman wearing dark sunglasses and sitting on a sofa behind him. He reacts oddly) Um. I need to talk to someone.<br>
+							<br>
+							
+						SECRETARY: What is this about?<br>
+							<br>
+							
+						KRAMER: Uh, well, It's a very private matter, but it's extremely urgent.<br>
+							<br>
+							
+						SECRETARY: Are you an American?<br>
+							<br>
+							
+						KRAMER: Oh, yeah.<br>
+							<br>
+							
+						SECRETARY: I see.. excuse me. (Picks up the phone)<br>
+							<br>
+							
+						KRAMER: Okay.<br>
+							<br>
+							
+						(Scene ends)<br>
+							<br>
+							<br>
+							
+						[Setting: Jerry's apartment]<br>
+							<br>
+							
+						(Jerry, curled up on his living room chair, and George, laid out on the sofa, are asleep. Jerry's buzzer goes off, waking them up. George rolls off the couch and falls to the floor)<br>
+							<br>
+							
+						JERRY: (Stirring, he gets up to answer the buzzer) Alright, let's get going. C'mon, c'mon now. (Approaches the intercom) C'mon, let's get it together.. (Through intercom) Yeah?<br>
+							<br>
+							
+						ELAINE: It's Elaine.<br>
+							<br>
+							
+						JERRY: C'mon up. (Slightly opens the door for Elaine)<br>
+							<br>
+							
+						GEORGE: (Standing up, still waking up) Alright, you know what we should do? We should go to the movies. Get away from this script for a while..<br>
+							<br>
+							
+						JERRY: (Agreeing) Yeah, we should.<br>
+							<br>
+							
+						GEORGE: Alright, I just have to go over to the Ross' apartment and drop off Susan's sunglasses. You'll come with me?<br>
+							<br>
+							
+						JERRY: Yeah. Wha - what, does she live with them?<br>
+							<br>
+							
+						GEORGE: No, no, no, no.<br>
+							<br>
+							
+						JERRY: Oh.<br>
+							<br>
+							
+						(Elaine enters)<br>
+							<br>
+							
+						ELAINE: Hey, nice going, Jerome Seinfeld!<br>
+							<br>
+							
+						JERRY: What?<br>
+							<br>
+							
+						ELAINE: I just got a message from Sandra, she's coming back to work.<br>
+							<br>
+							
+						JERRY: Well, then, you've just got to fire her! Don't even think about it - there's no two ways about it.<br>
+							<br>
+							
+						ELAINE: Why? What happened? Did you talk?<br>
+							<br>
+							
+						JERRY: Talk? Did I talk? It - you're darn right I talk to her! We talked up a storm - and I concluded from the basis of these talks that this isn't anybody you should be talking to.<br>
+							<br>
+							
+						ELAINE: Really?<br>
+							<br>
+							
+						JERRY: Yes.<br>
+							<br>
+							
+						ELAINE: Really? You really think I should fire her?<br>
+							<br>
+							
+						JERRY: Oh yeah. Yeah, in fact, if George and I weren't so busy here working on the script, I'd do it myself.<br>
+							<br>
+							
+						(George, sitting out the couch, dozes off to sleep)<br>
+							<br>
+							
+						(Scene ends)<br>
+							<br>
+							<br>
+							
+						[Setting: United Nations' Permanent Mission of Cuba building]<br>
+							<br>
+							
+						(A group of men in suits walk out into the lobby to deal with Kramer)<br>
+							<br>
+							
+						MAN: (To secretary) Expira te afuera.<br>
+							<br>
+							
+						KRAMER: (Standing up, greeting the men) Buenos dias.<br>
+							<br>
+							
+						MAN: What is your name, Senor?<br>
+							<br>
+							
+						KRAMER: Uh, Kramer.<br>
+							<br>
+							
+						MAN: So, Senor Kramer, what is this about?<br>
+							<br>
+							
+						KRAMER: (Leaning in, confidentially) Cigars.<br>
+							<br>
+							
+						MAN: (Confused) Cigars?<br>
+							<br>
+							
+						KRAMER: (Definite) Cigars.<br>
+							<br>
+							
+						MAN: What about cigars?<br>
+							<br>
+							
+						KRAMER: Uh, see here, I.. (Pulls out a paper ring from his pocket) I saved one of the cigar rings..<br>
+							<br>
+							
+						MAN: Ohh.. (Laughs, pulling a cigar from his inner coat pocket) You mean - one of these..<br>
+							<br>
+							
+						KRAMER: (Pointing at the cigar, incredibly nervous) Yeah, yeah. That- that's, uh, okay, So, uh, I'd like to buy a couple of boxes of those from you, yeah?<br>
+							<br>
+							
+						MAN: (Deeply sniffs the cigar's aroma) You do realize, of course, these are illegal in your country.<br>
+							<br>
+							
+						KRAMER: Um, wha - oh, illegal, huh?<br>
+							<br>
+							
+						(The man is staring at Kramer's clothes, mesmerized. He reaches out to touch Kramer's legendary jacket)<br>
+							<br>
+							
+						MAN: I like that jacket..<br>
+							<br>
+							
+						(Scene ends)<br>
+							<br>
+							<br>
+							
+						[Setting: The Ross' apartment]<br>
+							<br>
+							
+						(There's a knock at the door. Susan answers it - it's Jerry and George)<br>
+							<br>
+							
+						SUSAN: Hi!<br>
+							<br>
+							
+						GEORGE: Hi, how are ya? (They kiss)<br>
+							<br>
+							
+						SUSAN: Hey, Jerry.<br>
+							<br>
+							
+						JERRY: Hi.<br>
+							<br>
+							
+						SUSAN: I thought you two guys were working today.<br>
+							<br>
+							
+						JERRY: Ah, just - takin' a little break.<br>
+							<br>
+							
+						GEORGE: (Chuckling) yeah. Uh, oh, here's your sunglasses. (Hands them to her)<br>
+							<br>
+							
+						SUSAN: Ok, thanks. Come on in for a second. (They move into the living room. Susan gestures to a man sitting on the couch reading the paper) This is my brother, Ricky. He's home from college for the weekend.<br>
+							<br>
+							
+						GEORGE: Ohh, hey there, young fella. (They shake hands) What's your major?<br>
+							<br>
+							
+						RICKY: (Blunt) I don't have one.<br>
+							<br>
+							
+						GEORGE: Well, you should always consider podiatry. (Patting Ricky on the shoulder) There's nothing wrong with the feet. (Ricky looks critically back at George)<br>
+							<br>
+							
+						SUSAN: (Now gestures to an old woman in a wheelchair) And this is my Aunt, Sara.<br>
+							<br>
+							
+						SARA: (Staring at George) He doesn't look like me.<br>
+							<br>
+							
+						MRS. ROSS: Sara, what do you have on your wheels?<br>
+							<br>
+							
+						SARA: Nothing, they're clean.<br>
+							<br>
+							
+						MRS. ROSS: Ricky, did you wipe her wheels off?<br>
+							<br>
+							
+						RICKY: (Annoyed) Yes.<br>
+							<br>
+							
+						MRS. ROSS: (Concluding) Well, they're filthy. It's just a matter of common courtesy.. (Wheels Sara over to a spot off the rug) When you come in the house you wipe your wheels.<br>
+							<br>
+							
+						(Doorbell rings)<br>
+							<br>
+							
+						SUSAN: Excuse me. (Answer the door. It's her doorman, Raymond, carrying a burnt box) Hello, Raymond.<br>
+							<br>
+							
+						RAYMOND: Ah, yes, the man from the insurance company dropped this off this morning. He said it was the only thing left from the remains of the fire.<br>
+							<br>
+							
+						SUSAN: (Accepts the box) Oh, thank you. (As the doorman leaves, she turns to Jerry and George) Wow, I've never seen this before.. (Opens the charred box) Oh, they're letters. (Hands the box to George) Here.<br>
+							<br>
+							
+						GEORGE: Oh, sure. (Holds the box out as Susan takes out a few letters)<br>
+							<br>
+							
+						SUSAN: From.. (Trying to read one) from John Cheever.<br>
+							<br>
+							
+						JERRY AND GEORGE: Oh, wow.<br>
+							<br>
+							
+						SUSAN: (Chuckles as she opens up one of the letters. She reads it) &quot;Dear Henry, last night with you was bliss. I fear my.. orgasm (She now has everyone's attention) has left me a cripple. I don't how how I shall ever get back to work.. (Jerry and George make odd faces as Susan is still concentrating on the notes) I love you madly, John. (Pause) P.S. Loved the cabin.&quot; (George nods, and Jerry gives a &quot;Oh, of course&quot; reaction)<br>
+							<br>
+							
+						(A long pause)<br>
+							<br>
+							
+						GEORGE: Well, we.. we, we, ah..<br>
+							<br>
+							
+						JERRY: (Looking at his watch ) Yeah..<br>
+							<br>
+							
+						GEORGE: We really should be, uh, heading out..<br>
+							<br>
+							
+						JERRY: Yeah. (Tapping his watch) Look at the time.<br>
+							<br>
+							
+						GEORGE: You know, the time..<br>
+							<br>
+							
+						(Susan's father is now standing in the hallway)<br>
+							<br>
+							
+						MR. ROSS: The box! (Rushes toward George, grabbing the box away from him, then the letters from Susan's hands) My letters! Gimme that! (Now holding them against his chest, defensively) Who told you to open this?!<br>
+							<br>
+							
+						MRS. ROSS: (Hysterical) Who's John?! Who's John?!<br>
+							<br>
+							
+						SARA: (Yelling out) I knew it!<br>
+							<br>
+							
+						MRS. ROSS: I want to know who John is!<br>
+							<br>
+							
+						RICKEY: John Cheever?! Dad, you and John Cheever?!<br>
+							<br>
+							
+						MR. ROSS: (Proclaiming) Yes! Yes, he was the most wonderful person I've ever known. And I love him deeply! In a way you could never understand.. (Slowly walks back to his room, leaving everyone speechless. Susan seems to be affected the most. A long pause passes. Jerry gives George a signal that they should go)<br>
+							<br>
+							
+						GEORGE: Well, we really should be-<br>
+							<br>
+							
+						JERRY: Yeah.<br>
+							<br>
+							
+						GEORGE: Uh, heading out. Jerry really hates to miss the coming attractions.<br>
+							<br>
+							
+						JERRY: Yeah, and, (Pointing to his watch) because of the.. (Slowly exiting) time.<br>
+							<br>
+							
+						GEORGE: yeah, time is what he's indicating there..<br>
+							<br>
+							
+						JERRY: (Waving good bye) We'll see ya.<br>
+							<br>
+							
+						GEORGE: Uh, anyway, (Waving bye to everyone) onward and upward.<br>
+							<br>
+							
+						(Jerry grabs George, leaving)<br>
+							<br>
+							
+						(Scene ends)<br>
+							<br>
+							<br>
+							
+						[Setting: Jerry's apartment]<br>
+							<br>
+							
+						(Jerry and George, once again, are sitting down in the living room, attempting to write)<br>
+							<br>
+							
+						GEORGE: Alright, here we go.<br>
+							<br>
+							
+						JERRY: Alright, let's go.<br>
+							<br>
+							
+						GEORGE: Come on now.<br>
+							<br>
+							
+						JERRY: Right now.<br>
+							<br>
+							
+						GEORGE: Here we go.<br>
+							<br>
+							
+						JERRY: You and me.<br>
+							<br>
+							
+						GEORGE: You got it.<br>
+							<br>
+							
+						JERRY: No foolin'<br>
+							<br>
+							
+						GEORGE: Ok, so, what'dya got?<br>
+							<br>
+							
+						JERRY: (Looking at his notebook) Alright, I got, uh, you come in, you say &quot;Hi&quot;, and I say &quot;Hello&quot;.<br>
+							<br>
+							
+						GEORGE: Alright, so, we need something..<br>
+							<br>
+							
+						JERRY: Yeah.. how about this: I say &quot;How's it goin'?&quot;<br>
+							<br>
+							
+						GEORGE: &quot;How's it going?&quot; - beautiful.<br>
+							<br>
+							
+						(They both start to write it down as a pounding on the door sounds) Oh, come on, we were just on a roll now..<br>
+							<br>
+							
+						JERRY: (Getting up to answer the door) Alright, did you get that line?<br>
+							<br>
+							
+						GEORGE: (Nodding, writing) &quot;How's it going?&quot;<br>
+							<br>
+							
+						JERRY: Did you write it down?<br>
+							<br>
+							
+						GEORGE: I'm writin' it. &quot;How's it going?&quot;<br>
+							<br>
+							
+						JERRY: Okay.. (Opens the door to a frantic Elaine)<br>
+							<br>
+							
+						ELAINE: Real good!<br>
+							<br>
+							
+						JERRY: What?!<br>
+							<br>
+							
+						ELAINE: Do you know how much money you cost me today?! 429 dollars!<br>
+							<br>
+							
+						JERRY: What?! How?<br>
+							<br>
+							
+						ELAINE: I got Sandra transferred to another office upstairs, okay?! So, she blabs to Lippman about my long distance calls to Europe!<br>
+							<br>
+							
+						JERRY: What calls?!<br>
+							<br>
+							
+						ELAINE: Uh! I made a friend when I was in Europe, okay?! And we've been in touch, and Sandra told Lippman!<br>
+							<br>
+							
+						JERRY: Oh, did - did she say anything else to you?<br>
+							<br>
+							
+						ELAINE: (Confused) &quot;Anything else&quot;? What do you mean &quot;anything else&quot;?<br>
+							<br>
+							
+						JERRY: So she just left the office - didn't say a word to you about anything?<br>
+							<br>
+							
+						ELAINE: Yeah!<br>
+							<br>
+							
+						JERRY: (Smiling to himself) Beautiful.<br>
+							<br>
+							
+						ELAINE: Why is that beautiful?<br>
+							<br>
+							
+						JERRY: Oh, no, not beautiful.<br>
+							<br>
+							
+						ELAINE: It's four hundred and twenty nine dollars!<br>
+							<br>
+							
+						JERRY: Hey, look, I'm going to pay for that.<br>
+							<br>
+							
+						ELAINE: No, no.<br>
+							<br>
+							
+						JERRY: (Taking out his checkbook) No, I insist. I was the one who encouraged you to fire her - the whole thing was all my-<br>
+							<br>
+							
+						ELAINE: (Giving up too easy) Okay.<br>
+							<br>
+							
+						JERRY: (Pauses, noting Elaine's quick accept) fault. (Starts to write a check out, then stops, looking at the door) Do you smell smoke?<br>
+							<br>
+							
+						(Elaine opens the door to find Kramer and the 3 Cubans dressed up in golf wear, smoking cigars)<br>
+							<br>
+							
+						KRAMER: Oh, hey! Hey, Jer, I want you to meet my new friends, here. (Introducing each one) This is, uh, Louis, Jorge, and Umberto.<br>
+							<br>
+							
+						JERRY: Oh, how you doing? Nice to meet you.<br>
+							<br>
+							
+						KRAMER: Yeah, we're heading up to Westchester - gonna hit the links.<br>
+							<br>
+							
+						JERRY: Oh. (Notices Louis' jacket) Isn't that, uh, your..<br>
+							<br>
+							
+						KRAMER: (Trying to avoid the issue) Oh, yeah, yeah, Okay, we're going. (To his three friends) Vamanos, muchachos!<br>
+							<br>
+							
+						(They exit)<br>
+							<br>
+							
+						ELAINE: (Turns to George, he is now reading a book) Hey, what are you reading?<br>
+							<br>
+							
+						GEORGE: Oh, uh, &quot;The Falconer&quot; by John Cheever. It's really excellent.<br>
+							<br>
+							
+						ELAINE: (To Jerry) John Cheever, you ever read any of his stuff?<br>
+							<br>
+							
+						JERRY: Uh, yeah, I'm familiar with some of his writing. (George shoots Jerry a smirk, then returns to his book) Alright, (Hand the check to Elaine) look, we gotta get back to work. We just had a big breakthrough here.<br>
+							<br>
+							
+						ELAINE: (Folding up the check) Ok, I'll leave you two alone.<br>
+							<br>
+							
+						JERRY: (Moving back into the living room) Okay.<br>
+							<br>
+							
+						ELAINE: (In the door way) Maybe I'll go visit my mother. She just bought me some new panties (Jerry pauses right before sitting in his chair) and they're - all laid out for me. (Leaves, smiling to herself. Jerry and George both look at each other, frozen in their places)<br>
+							<br>
+							<br>
+							
+						The End</td>
+						</tr>
+						<tr height="6">
+							<td class="bottom2" width="645" height="6"></td>
+						</tr>
+						<tr>
+							<td width="645">
+								<div align="center">
+									<font size="-1">Copyright 2006 seinology.com | All Rights Reserved | Designed by 13erla</font></div>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+		<p></p>
+	</body>
+
+</html>

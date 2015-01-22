@@ -1,0 +1,1149 @@
+<tdOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+<html>
+
+	<head>
+		<meta http-equiv="content-type" content="text/html;charset=ISO-8859-1">
+		<meta name="description" content="Top Source for Seinfeld">
+		<meta name="keywords" content="seinfeld, sienfeld, Jerry Seinfeld, Julia Louis Dreyfus, Jason Alexander, Michael Richards, Kramer, George, Costanza, Elaine Benes, morty, Larry David">
+		<title>Seinology.com :: Scripts :: 42-The Trip(2)</title>
+	<link rel='stylesheet' href='/stylesheet.css' type='text/css'>
+	</head>
+
+	<body>
+			<table align="center" width="787" border="0" cellspacing="0" cellpadding="0">
+				<tr>
+					<td><font size="-2" color="red">Seinology.com - </font><font size="-3" color="black">Where Seinfeld Content and Accuracy Matter Most. Seinfeld scripts in pdf form, Seinfeld episode video clips, Seinfeld episode audio clips, Jerry Seinfeld appearances, Julia Louis-Dreyfus appearances, Michael Richards appearances, Jason Alexander appearances, Seinfeld discussion Forum, Seinfeld Where are they Now? Seinlanguage Newsletter, Popular Seinfeld Lists, Seinfeld episode standup, Seinfeld episode guide, Seinfeld fan fiction. Seinfeld content all on one domain. Seinology.com enjoy your stay.</font></td>
+				</tr>
+			</table>
+		
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr height="100">
+				<td class="logo"></td>
+			</tr>
+			<tr><td class="ads" align="center" background=#8694fa>
+				<script type="text/javascript"><!--
+google_ad_client = "pub-1924026976931416";
+google_ad_width = 728;
+google_ad_height = 90;
+google_ad_format = "728x90_as";
+google_ad_type = "text";
+google_ad_channel = "";
+google_color_border = "FFFFFF";
+google_color_bg = "8694fa";
+google_color_link = "0000FF";
+google_color_text = "000000";
+google_color_url = "002E3F";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></td></tr>
+		</table>
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr>
+				<td valign="top" width="136">
+					<table width="136" border="0" cellspacing="0" cellpadding="0">
+						<tr height="24">
+							<td class="navigation">
+								<div align="center">
+									
+									<b>Navigation</b></div>
+							</td>
+						</tr>
+						<tr height="199">
+							<td class="spacer1" valign="top" width="136" height="199">
+								<div align="center">
+									<font size="-1"><a href="http://www.seinology.com">Home</a><br>
+										<a href="http://board.seinology.com">Forum</a><br>
+										<a href="http://www.seinology.com/av.shtml">Audio/Video</a><br>
+										<a href="http://www.seinology.com/scripts.shtml">Scripts</a><br>
+										<a href="http://www.seinology.com/survivor.shtml">Survivor</a><br>
+										<a href="http://www.seinology.com/fanfics.shtml">Fan Fiction</a><br>
+										<a href="http://www.seinology.com/gallery/">Gallery</a><br>
+										<a href="http://www.seinology.com/newsletter.shtml">Newsletter</a><br>
+										<a href="http://www.seinology.com/lists.shtml">Lists</a><br>
+										<a href="http://www.seinology.com/epguide.shtml">Episode Guide</a><br>
+										<a href="http://www.seinology.com/links.shtml">Links</a><br>
+										<a href="http://www.seinology.com/faqother.shtml">Faq + others</a><br>
+										<a href="http://www.seinology.com/legal.shtml">Legal</a></font></div>
+							</td>
+						</tr>
+						
+						<tr>
+							<td class="nav2" width="136">
+							<div align="center"><b>Search</b></div></td>
+						</tr>
+						<tr>
+							<td class="spacer1" width="136" valign="top"><div align="center"><form method="get" action="http://www.seinology.com/search/search.cgi">
+<p><label for="fdse_Match">Match</label><br>
+<select name="Match" id="fdse_Match" size="1">
+<option value="1">All</option>
+<option value="0">Any</option>
+<option value="2">Phrase</option>
+</select></p>
+<p><label for="fdse_Realm">Where?</label><br>
+<select name="Realm" id="fdse_Realm" size="1">
+<option selected="selected" value="All">EntireSite</option>
+<option value="Ep Guide">Ep Guide</option>
+<option value="Images">Images</option>
+<option value="Lists">Lists</option>
+<option value="Newsletters">Newsletters</option>
+<option value="Scripts">Scripts</option>
+<option value="Notes..Nothing">Notes..Nothing</option>
+</select></p>
+<p><input type="text" name="Terms" size="14" id="fdse_Terms"><br>
+<input type="submit" class="submit" name="submitButtonName" value="Search"></p>
+</div></form></td>
+						</tr>
+						<tr><td class="bottom" width="136" height="10" valign="top">
+						</td>
+						</tr>
+					</table>
+				</td>
+				<td width="4"></td>
+				<td valign="top" width="645">
+					<table width="645" border="0" cellspacing="0" cellpadding="0">
+						<tr height="18">
+							<td width="645" height="35" class="bar">
+								<div align="center">
+									<b><font size="+2" color="black">Script</font></b></div>
+							</td>
+						</tr>
+						<tr height="362">
+							<td class="spacer2" valign="top" width="645" height="362">
+
+						<p><font size="-2">Episode 42 - The Trip (2)<br>
+							
+						pc: 402, season 4, episode 2<br>
+							
+						Broadcast date: August 19, 1992<br>
+							<br>
+							
+						Written by Larry Charles<br>
+							
+						Directed by Tom Cherones<br>
+							<br>
+							
+						-------------------------------------------------------------------------------<br>
+							<br>
+							
+						The Cast<br>
+							
+						Regulars:<br>
+							
+						Jerry Seinfeld ....................... Jerry Seinfeld<br>
+							
+						Jason Alexander .................. George Costanza<br>
+							
+						Julia Louis-Dreyfus ............. Elaine Benes<br>
+							
+						Michael Richards ................. Kramer<br>
+							<br>
+							
+						Guest Stars:<br>
+							<br>
+							
+						Peter Murnik ...................... Lt. Martel<br>
+							
+						Elmarie Wendel .................. Helene<br>
+							
+						Marty Rackham .................. Officer #1<br>
+							
+						Peter Parros ....................... Officer #2<br>
+							
+						Vaughn Armstrong ............ Lt. Coleman<br>
+							
+						Clint Howard ..................... Tobias Lehigh Nagy<br>
+							
+						Steve Greenstein ................ Man<br>
+							
+						Kerry Leigh Michaels ......... Woman<br>
+							
+						Keith Morrison ................... Newscaster (Himself)<br>
+							
+						Peggy Lane O'Rourke ........ Reporter #1<br>
+							
+						Deck McKenzie .................. Reporter #2<br>
+							
+						Steve Dougherty ............... Prison Guard<br>
+							<br>
+							
+						==================================================================<br>
+							<br>
+							
+						[OPENING MONOLOGUE]<br>
+							<br>
+							
+						There are many different job in the police. It seems to me, that the chalk outline guy is one of the better jobs that you can get. You know it's not dangerous, the criminals are long gone, that seems like a good one. I don't know who they are, I guess they're people who wanted to be a sketch artists, but they couldn't draw too well...&quot;listen Johnson, forget the sketches. Do you think if we left a dead body right there on the sidewalk, you could manage to trace around it? Could you do that?&quot;. I don't even know how it helps to solve the crime? You know, they look at the thing on the ground...&quot;aah his arm was like that when he hit the pavement. That means the killer must've been Jim.&quot;<br>
+							<br>
+							<br>
+							
+						[OPENING SCENE]<br>
+							<br>
+							
+						(GEORGE AND JERRY ARE IN A CAR. GEORGE IS GRABBING JERRY'S ARM)<br>
+							<br>
+							
+						GEORGE: He's on the lamb(?), he's on the loose!<br>
+							<br>
+							
+						JERRY: Would you let go of my arm?! I'm trying to drive, you're getting us both killed!<br>
+							<br>
+							
+						GEORGE: What are we supposed to do? What do you do on a situation like this? Should we call a lawyer, should we call the police?<br>
+							<br>
+							
+						JERRY: Obviously we're gonna call the police and tell that he's not the guy.<br>
+							<br>
+							
+						GEORGE: Hope he's not the guy.<br>
+							<br>
+							
+						JERRY: Couldn't be the guy...nah.<br>
+							<br>
+							
+						GEORGE: God, I'm starved, I'm weak from hunger.<br>
+							<br>
+							
+						JERRY: How can you think of food at the time like this?<br>
+							<br>
+							
+						GEORGE: Time like what? I'm hungry. My stomach doesn't know that Kramer's wanted.<br>
+							<br>
+							
+						JERRY: I told you to have breakfast, you should've had breakfast!<br>
+							<br>
+							
+						GEORGE: I couldn't have breakfast, it was lunchtime! The three hour time difference threw me. I wanted a tuna fish sandwich, they wouldn't serve me tuna fish sandwich, because they were only serving breakfast.<br>
+							<br>
+							
+						JERRY: You should've had some eggs.<br>
+							<br>
+							
+						GEORGE: For lunch? Who eats eggs for lunch?<br>
+							<br>
+							
+						JERRY: Have you ever heard of egg salad?<br>
+							<br>
+							
+						GEORGE: Why didn't you say something then?<br>
+							<br>
+							
+						JERRY: I've gotta to tell you about existence of egg salad?<br>
+							<br>
+							
+						GEORGE: I need food, Jerry. I feel faint, I'm getting light headed.<br>
+							<br>
+							
+						JERRY: I've gotta call the police, there's a pay phone over there.<br>
+							<br>
+							
+						GEORGE: Pay phone in L.A., look it's a miracle.<br>
+							<br>
+							<br>
+							
+						[CUT TO KRAMER SINGING IN A SHOWER FOLLOWED BY A FALLING SOUND]<br>
+							<br>
+							<br>
+							
+						[BACK TO GEORGE AND JERRY ON THE STREET]<br>
+							<br>
+							
+						JERRY: I don't have any change. You've got any change?<br>
+							<br>
+							
+						GEORGE: No, I don't have any change. I never carry change.<br>
+							<br>
+							
+						JERRY: Well, we need change and all I have is twenties.<br>
+							<br>
+							
+						GEORGE: I have a ten.<br>
+							<br>
+							
+						JERRY: So, break it.<br>
+							<br>
+							
+						GEORGE: I hate asking for change. They always make a face. Like I'm asking them to donate a kidney.<br>
+							<br>
+							
+						JERRY: So, buy something.<br>
+							<br>
+							
+						GEORGE: What?<br>
+							<br>
+							
+						JERRY: I don't know, some mints or TicTacs.<br>
+							<br>
+							
+						GEORGE: Breath problem?<br>
+							<br>
+							
+						JERRY: No, I just want some change.<br>
+							<br>
+							
+						GEORGE: Tell me.<br>
+							<br>
+							
+						JERRY: Your breath is fine. It's delightful, it's delicious.<br>
+							<br>
+							
+						GEORGE: You know, I haven't eaten anything.<br>
+							<br>
+							
+						JERRY: I just wanna call the police!<br>
+							<br>
+							
+						GEORGE: Why don't you just call 911?<br>
+							<br>
+							
+						JERRY: But is this an emergency?<br>
+							<br>
+							
+						GEORGE: Of course it is.<br>
+							<br>
+							
+						JERRY: How is this an emergency?<br>
+							<br>
+							
+						GEORGE: Your friend is been accused of being a serial killer. I think that qualifies.<br>
+							<br>
+							
+						JERRY: All right, I'll call 911. Think he did it? Could've he done it? Couldn't done it? How could've he done it? Couldn't be? Could it? Hello 911? How are you? I'm sorry it was just a reflex...I know it's an emergency number...it is an emergency...my friend is being accused of being a smog strangler and I know he didn't do it...they're putting me trough to the detective in charge of the investigation...what is my name? Who am I? I'm eh...George Costanza...<br>
+							<br>
+							
+						GEORGE: What's the matter with you? Are you crazy? Why are you using my name?!<br>
+							<br>
+							
+						JERRY: Oh, don't be a baby! What are you scared of?<br>
+							<br>
+							
+						GEORGE: What am I scared of? I'm scared of the same thing that you are, everything! Why don't you just use your own name?<br>
+							<br>
+							
+						JERRY: Your name is a good name, Costanza. Sounds like it's stands for something, they'll believe us.<br>
+							<br>
+							
+						GEORGE: Really?<br>
+							<br>
+							
+						JERRY: Sure.<br>
+							<br>
+							
+						GEORGE: You think so?<br>
+							<br>
+							
+						JERRY: Oh yeah. Yes I have some very important information regarding the smog strangler. (George leans close) would you suck a mint or something. Can I come right now? I suppose, where are you located? Where is that? I don't know where we are. Where are we?<br>
+							<br>
+							
+						GEORGE: I don't know.<br>
+							<br>
+							
+						JERRY: We don't know. He says ask somebody, ask that guy.<br>
+							<br>
+							
+						GEORGE: Excuse me, where are we?<br>
+							<br>
+							
+						MAN: Earth.<br>
+							<br>
+							
+						JERRY: Hey, you know I'm on the phone with the police! Some guy just gave me a wise answer. Ask that woman.<br>
+							<br>
+							
+						GEORGE: Excuse me Ms. which street are we on?<br>
+							<br>
+							
+						WOMAN: I don't know.<br>
+							<br>
+							
+						GEORGE: You don't know?<br>
+							<br>
+							
+						WOMAN: I don't know.<br>
+							<br>
+							
+						GEORGE: How come you don't know what street are you on?<br>
+							<br>
+							
+						WOMAN: You don't know.<br>
+							<br>
+							
+						JERRY: George, it says it here on the phone. It's 12145 Ventura Boulevard. Aha, ok...do we know where the 101 is? (George shakes his head) No...do we know where 170 is? (George shakes his head) No...do we know where 134 is? (George just looks at Jerry) No. Aha, ok. (Jerry hangs up) He's gonna send a black and white to pick us up.<br>
+							<br>
+							
+						(Police car rolls by the sidewalk and stops. The police listens their conversation.)<br>
+							<br>
+							
+						GEORGE: Black and white?<br>
+							<br>
+							
+						JERRY: A cop car.<br>
+							<br>
+							
+						GEORGE: Why didn't you just say that?<br>
+							<br>
+							
+						JERRY: I thought it sounded kind of cool.<br>
+							<br>
+							
+						GEORGE: Oh yeah, real cool. You're a cool guy.<br>
+							<br>
+							
+						JERRY: Oh, you are? I guaranty you, Lupe is going to tuck your covers in.<br>
+							<br>
+							
+						GEORGE: I'll bet you, how much?<br>
+							<br>
+							
+						JERRY: Her tip.<br>
+							<br>
+							
+						GEORGE: You've got a bet.<br>
+							<br>
+							
+						JERRY: Ok.<br>
+							<br>
+							
+						GEORGE: How much do you tip a chamber maid?<br>
+							<br>
+							
+						POLICE: Which one of you is Costanza?<br>
+							<br>
+							
+						(Jerry and George point at each other.)<br>
+							<br>
+							
+						POLICE: Get in.<br>
+							<br>
+							
+						GEORGE: Hi, how are you guys? Listen, does either one of you have like a mint or piece of gum or...<br>
+							<br>
+							<br>
+							
+						[KRAMER IS SHAVING. HE SNEEZES AND GETS SHAVING CREAM ON THE MIRROR]<br>
+							<br>
+							<br>
+							
+						[BACK TO THE POLICE CAR WITH JERRY, GEORGE AND TWO COPS]<br>
+							<br>
+							
+						GEORGE: Jerry, would you do me a favor, close the window.<br>
+							<br>
+							
+						(JERRY SEARCHES FOR THE HANDLE, BUT CAN'T FIND ONE)<br>
+							<br>
+							
+						JERRY: Hey, get out of here...hey officer, he's fooling around back here.<br>
+							<br>
+							
+						COP: Cut it up back there.<br>
+							<br>
+							
+						GEORGE: He started it.<br>
+							<br>
+							
+						JERRY: I did not. You guys gonna go through some red lights?<br>
+							<br>
+							
+						COP: I don't think so.<br>
+							<br>
+							
+						JERRY: But you could?<br>
+							<br>
+							
+						COP: Oh yeah, of course we could. We can do anything we want.<br>
+							<br>
+							
+						COP 2: We could drive on the wrong side of the road.<br>
+							<br>
+							
+						COP: Yeah, we do that all the time. You should see the looks on people's faces.<br>
+							<br>
+							
+						COP 2: Shoot people...<br>
+							<br>
+							
+						GEORGE: You guys ever shot anybody?<br>
+							<br>
+							
+						COPS: No...<br>
+							<br>
+							
+						GEORGE: Hey, can I flip on the siren?<br>
+							<br>
+							
+						JERRY: Why are you bothering them for?<br>
+							<br>
+							
+						GEORGE: I'm just asking, all they have to do is say no.<br>
+							<br>
+							
+						COP: Yeah, go ahead.<br>
+							<br>
+							
+						(GEORGE TRIES THE SIREN)<br>
+							<br>
+							
+						GEORGE: Wohoo, check it out.<br>
+							<br>
+							
+						JERRY: Can I try it?<br>
+							<br>
+							
+						COP: Yeah, go ahead, hurry up.<br>
+							<br>
+							
+						(JERRY TRIES THE SIREN)<br>
+							<br>
+							
+						JERRY: Scared the hell out of that guy.<br>
+							<br>
+							
+						GEORGE: You know what I never understood? Why did they change the siren noise? When I was a kid it was always &quot;waaaa, waaaa&quot;, you know now it &quot;woo-woo-woo-woo-woo&quot;. Why did they do that, did they do some research? Did they find that woo-woo was more effective than waa?<br>
+							<br>
+							
+						JERRY: Yeah, what about those English sirens, you know...eee-aaa-eee-aaa-eee-aaa...<br>
+							<br>
+							
+						JERRY and GEORGE: Eee-aaa-eee-aaa-eee-aaa...<br>
+							<br>
+							
+						COP: Hey!<br>
+							<br>
+							<br>
+							
+						[KRAMER IS COMBING HIS HAIR. TRYING TO GET THE COMB THROUGH.]<br>
+							<br>
+							
+						KRAMER: I'm dizzy.<br>
+							<br>
+							<br>
+							
+						[BACK TO THE POLICE CAR]<br>
+							<br>
+							
+						JERRY: Nice shotgun.<br>
+							<br>
+							
+						COP: Thanks.<br>
+							<br>
+							
+						JERRY: Clean as a whistle.<br>
+							<br>
+							
+						GEORGE: You could eat of that shotgun.<br>
+							<br>
+							
+						JERRY: What is that, a 12 gauge?<br>
+							<br>
+							
+						COP: Yeah.<br>
+							<br>
+							
+						JERRY: 12 gauge. Seems to be the most popular gauge.<br>
+							<br>
+							
+						GEORGE: My favorite.<br>
+							<br>
+							
+						JERRY: Mine too, love the 12 gauge.<br>
+							<br>
+							
+						GEORGE: Makes the 11 gauge look like a cap pistol.<br>
+							<br>
+							
+						COP: What do got over there?<br>
+							<br>
+							
+						COP 2: I don't know.<br>
+							<br>
+							
+						COP: Looks like a possible 5-19.<br>
+							<br>
+							
+						JERRY: 5-19? What's a 5-19?<br>
+							<br>
+							
+						GEORGE: Where?<br>
+							<br>
+							
+						COP 2: Think so?<br>
+							<br>
+							
+						COP: Looks like it.<br>
+							<br>
+							
+						JERRY: I can't believe this. A 5-19?<br>
+							<br>
+							
+						GEORGE: Where, where? I can't see.<br>
+							<br>
+							
+						COP: This is car 23, we have a possible 5-19 in progress, over.<br>
+							<br>
+							
+						COP 2: All right, let's pull over and check it out.<br>
+							<br>
+							
+						JERRY: Pull over? You can't pull over.<br>
+							<br>
+							
+						GEORGE: What are you doing? Where do you think you're going?<br>
+							<br>
+							
+						JERRY: Pull over? The lieutenant is waiting to see us.<br>
+							<br>
+							
+						GEORGE: Hey hey hey, we're in a rush here.<br>
+							<br>
+							
+						JERRY: We have an appointment!<br>
+							<br>
+							
+						GEORGE: What are you doing?!<br>
+							<br>
+							
+						JERRY: Great.<br>
+							<br>
+							
+						(COPS GO TO ARREST A GUY FOR TRYING TO STEAL A CAR)<br>
+							<br>
+							
+						GEORGE: There's a bag of Pepperidge Farm cookies up there.<br>
+							<br>
+							
+						JERRY: Which flavor?<br>
+							<br>
+							
+						GEORGE: Milano.<br>
+							<br>
+							
+						JERRY: Cops eating Milanos. What crazy town is this?<br>
+							<br>
+							
+						GEORGE: Should I take some?<br>
+							<br>
+							
+						JERRY: I think that's a 5-19.<br>
+							<br>
+							
+						GEORGE: I'm starving...<br>
+							<br>
+							
+						(GEORGE REACHES FOR THE COOKIES AND THE COPS SLAM A GUY ON THE HOOD AND GEORGE BACKS AWAY)<br>
+							<br>
+							
+						JERRY: They're busting this guy.<br>
+							<br>
+							
+						GEORGE: They're cuffing him.<br>
+							<br>
+							
+						JERRY: I can't believe this.<br>
+							<br>
+							
+						(GEORGE GET CLOSER TO JERRY AND THEY THROW THE GUY NEXT TO GEORGE)<br>
+							<br>
+							<br>
+							
+						[MIDDLE MONOLOGUE]<br>
+							<br>
+							
+						I can't believe that cops still have to read that whole &quot;you have the right to remain silence&quot;-speech to every criminal they arrest. I mean is there anybody who doesn't know that by now? Can't they just go &quot;Freeze, you're under arrest. You've ever seen Baretta? Yeah, good, get in the car.&quot;<br>
+							<br>
+							<br>
+							
+						[BACK TO POLICE CAR]<br>
+							<br>
+							
+						GEORGE: Hi.<br>
+							<br>
+							
+						JERRY: Hi, I'm Jerry.<br>
+							<br>
+							
+						GEORGE: George, how you doing?<br>
+							<br>
+							
+						(GEORGE OFFERS HIS HAND, BUT THE GUY IS IN CUFFS)<br>
+							<br>
+							
+						GUY: What did you do?<br>
+							<br>
+							
+						GEORGE: Nothing.<br>
+							<br>
+							
+						JERRY: Nothing.<br>
+							<br>
+							
+						GUY: Oh yeah right, me neither. Hey I didn't do nothing!<br>
+							<br>
+							
+						COP: Shut up.<br>
+							<br>
+							
+						JERRY: Hot out.<br>
+							<br>
+							
+						GUY: Brutal.<br>
+							<br>
+							
+						GEORGE: What do you tip a chamber maid.<br>
+							<br>
+							
+						GUY: I don't know, five bucks a night.<br>
+							<br>
+							
+						JERRY: No, a dollar, two tops.<br>
+							<br>
+							
+						GUY: Hey, you guys aren't cuffed. What are you, narks?<br>
+							<br>
+							
+						GEORGE: Narks?<br>
+							<br>
+							
+						JERRY: Imagine, us narks?<br>
+							<br>
+							
+						GEORGE: No no no, you know actually we are friends of a serial killer.<br>
+							<br>
+							
+						GUY: Really? Well, that's very nice.<br>
+							<br>
+							
+						GEORGE: Oh, thank you.<br>
+							<br>
+							
+						JERRY: Suspected serial killer, he didn't actually do it.<br>
+							<br>
+							
+						GEORGE: Yeah well, we don't think.<br>
+							<br>
+							
+						JERRY: We're pretty sure.<br>
+							<br>
+							
+						GUY: A dollar a night?<br>
+							<br>
+							
+						JERRY: Yeah, that's a good tip!<br>
+							<br>
+							
+						GUY: That stinks!<br>
+							<br>
+							
+						JERRY: I read it in Ann Landers.<br>
+							<br>
+							
+						GUY: Oh, Ann Landers sucks!<br>
+							<br>
+							
+						COP 2: Hey, shut it up back there.<br>
+							<br>
+							
+						POLICE RADIO: Attention all units, attention all units, all units code 3. All units in the area, code 3 in progress, 1648 North Bartholis, units required for assistance in apprehension of 702.<br>
+							<br>
+							
+						COP: That's smog strangler.<br>
+							<br>
+							
+						JERRY: Kramer.<br>
+							<br>
+							
+						COP 2: Got him. Let's go.<br>
+							<br>
+							
+						(POLICE CAR COMES TO THE SCENE. JERRY OPENS THE BACK DOOR THROUGH THE WINDOW AND THEY GO AFTER THE COPS)<br>
+							<br>
+							
+						JERRY: I wanna see what's happening.<br>
+							<br>
+							
+						GEORGE: I don't know why I'm doing this.<br>
+							<br>
+							
+						LT MARTEL KNOCKS ON A DOOR AND KRAMER OPENS<br>
+							<br>
+							
+						KRAMER: Jerry, George!<br>
+							<br>
+							
+						LT. MARTEL: You are under arrest in first degree murder and death of Ms Chelsea Lang.<br>
+							<br>
+							
+						(THE CAR THIEVE GUY RUNS AWAY FROM THE DOOR THAT JERRY AND GEORGE LEFT OPEN)<br>
+							<br>
+							<br>
+							
+						[KRAMER IS RUSHED THROUGH A GROUP OF PRESS]<br>
+							<br>
+							
+						REPORTERS: Why did you do it? What possessed you?<br>
+							<br>
+							
+						KRAMER: I don't know...<br>
+							<br>
+							<br>
+							
+						[COUNTY OF LOS ANGELES CENTRAL JAIL]<br>
+							<br>
+							
+						(JERRY AND GEORGE ARE VISITING KRAMER)<br>
+							<br>
+							
+						KRAMER: Hey, how are you doing? Jerry! George!<br>
+							<br>
+							
+						JERRY: We're doing fine. How are you?<br>
+							<br>
+							
+						KRAMER: What me? Fabulous, just fabulous. I've got a lot of auditions, a lot of call backs and I've got a lot of interest for my movie treatment. I'm in development, I'm in developed vehicles. And there's a lot of energy here, man. You know, the vibe, it's powerful. I'm just swept up at it. Yeah, I'm a player.<br>
+							<br>
+							
+						GEORGE: A player?<br>
+							<br>
+							
+						KRAMER: Yeah, a player...<br>
+							<br>
+							
+						JERRY: Kramer, do you realize what's going on here? Do you know why you're here?<br>
+							<br>
+							
+						KRAMER: What? What this? I'll be out of here in couple of hours. Hey, guess who I met today? Rick Savage, oh nice kid, really good kid. You know, we're talking about doing a project together.<br>
+							<br>
+							
+						JERRY: Kramer, you've been arrested as a serial killer!<br>
+							<br>
+							
+						KRAMER: So? I'm innocent! I mean you guys believe that I'm innocent, don't you? Jerry? George?<br>
+							<br>
+							
+						JERRY: Well, yeah...sure.<br>
+							<br>
+							
+						POLICE: Kramer, let's go. The Lieutenant wants to see you.<br>
+							<br>
+							
+						KRAMER: Ok, yeah. All right look, I'll be out of here by noon. Maybe we'll have lunch together, huh?<br>
+							<br>
+							
+						(KRAMER GOES WITH THE POLICE OFFICER, BUT ASKS IF HE COULD SAY JUST ONE MORE THING)<br>
+							<br>
+							
+						KRAMER: Help me!! Help me!<br>
+							<br>
+							
+						(OFFICER DRAGS KRAMER AWAY)<br>
+							<br>
+							<br>
+							
+						[KRAMER IS BEEN INTERROGATED BY LT. MARTEL]<br>
+							<br>
+							
+						KRAMER: I didn't kill anyone, I swear! I swear to God!<br>
+							<br>
+							
+						LT. MARTEL: Don't you ever swear to my God, Kramer. My God is the god who protects the innocent and punishes the evil scum like you, have you got that?<br>
+							<br>
+							
+						KRAMER: You're making a big mistake.<br>
+							<br>
+							
+						LT. MARTEL: No! You have made the mistake, Kramer. Sickies like you always do. The only difference is that this time you're gonna pay.<br>
+							<br>
+							
+						KRAMER: What?<br>
+							<br>
+							
+						LT. MARTEL: Now you might beat the gas chamber Kramer, but as long as I have got a breath in my body you will never ever see the light of day again.<br>
+							<br>
+							
+						KRAMER: Wow wow wow wow, you've got the wrong man!! It wasn't me!<br>
+							<br>
+							
+						LT. MARTEL: Oh yeah, right. Maybe it was one of your other personalities huh, the wise guy, the little kid, the bellhop, the ball player, maybe the door to door vacuum cleaner salesman, but not you right? No, you wouldn't hurt a fly. You just couldn't help yourself, could you Kramer? You saw life brimming brightly with optimism and verve and you just had to snuff it out.<br>
+							<br>
+							
+						KRAMER: Ok, can I just talk to somebody? Can I just explain...<br>
+							<br>
+							
+						LT. MARTEL: I'm not interested in your explanations, Kramer! Sure, I bet you've got a million of 'em. Maybe your mother didn't love you enough, maybe the teacher didn't call on you in school when you had your little hand raised, maybe the pervert in the park had a present in his pants, huh? Well, I've got another theory you're a weed.<br>
+							<br>
+							
+						KRAMER: No...<br>
+							<br>
+							
+						LT. MARTEL: Society is filled with them. They're choking the life out of the all pretty flowers.<br>
+							<br>
+							
+						(KRAMER SOBS)<br>
+							<br>
+							
+						LT. MARTEL: You see something even remotely pretty and you have to choke the life out if it, don't you Kramer?<br>
+							<br>
+							
+						(KRAMER CRIES)<br>
+							<br>
+							
+						LT. MARTEL: You killed all the pretty flowers, didn't you Kramer? You killed the pretty little flowers, didn't you? You dirty, filthy, stinky weed! Didn't you?<br>
+							<br>
+							
+						(PHONE RINGS)<br>
+							<br>
+							
+						OFFICER: Lieutenant, it's for you.<br>
+							<br>
+							
+						LT. MARTEL: Martel...yeah...yeah...yeah...yeah.<br>
+							<br>
+							
+						(KRAMER KEEPS CRYING)<br>
+							<br>
+							
+						OFFICER: What it is, Lieutenant?<br>
+							<br>
+							
+						LT. MARTEL: Let him go.<br>
+							<br>
+							
+						OFFICER: What, but Lieutenant?<br>
+							<br>
+							
+						LT. MARTEL: You heard me, let him go. They just found another body at the Laurel Canyon. Go on Kramer, get out of my sight.<br>
+							<br>
+							
+						KRAMER: Hey, how did you know about the guy in the park?<br>
+							<br>
+							
+						LT. MARTEL: I said beat it!<br>
+							<br>
+							<br>
+							
+						[JERRY AND GEORGE ARE WAITING OUTSIDE OF THE JAIL]<br>
+							<br>
+							
+						(KRAMER WALKS OUT)<br>
+							<br>
+							
+						KRAMER: Hahaa!<br>
+							<br>
+							
+						GEORGE: What?<br>
+							<br>
+							
+						JERRY: What happened?<br>
+							<br>
+							
+						KRAMER: Somebody got killed while they had me in custody.<br>
+							<br>
+							
+						JERRY: Really? Did you hear that? Somebody else was killed!<br>
+							<br>
+							
+						GEORGE: You're kidding? Somebody else got killed?<br>
+							<br>
+							
+						JERRY: While you were in jail. So you're free.<br>
+							<br>
+							
+						KRAMER: Yes, I'm free. (singing) 'cause the murderer struck again!<br>
+							<br>
+							
+						(THEY ALL DANCE A FEW STEPS AND THEN AS A POLICE GOES BY THEY LEAVE QUIETLY)<br>
+							<br>
+							<br>
+							
+						[KRAMER, JERRY AND GEORGE AT THE HILLS OF L.A.]<br>
+							<br>
+							
+						JERRY: So Kramer, what are you going to do?<br>
+							<br>
+							
+						KRAMER: Do? Do? Hey, I'm doing what I do. You know, I've always done what I do. I'm doing what I do, way I've always done and the way I'll always do it.<br>
+							<br>
+							
+						GEORGE: Kramer, what the hell are you talking about?<br>
+							<br>
+							
+						KRAMER: What do you want me to say? That the things haven't worked out the way that I planned? That I'm struggling, barely able to keep my head above water? That L.A. is a cold place even in the middle of the summer? That it's a lonely place even when your stuck in traffic at the Hollywood Freeway? That I'm no better than a screenwriter driving a cab, a starlet turning tricks, a producer in a house he can't afford? Is that what you want me to say?<br>
+							<br>
+							
+						GEORGE: I'd like to hear that.<br>
+							<br>
+							
+						JERRY: Yeah...<br>
+							<br>
+							
+						KRAMER: Well, I'm not saying that! You know, things are going pretty well for me here. I met a girl...<br>
+							<br>
+							
+						JERRY: Kramer, she was murdered!<br>
+							<br>
+							
+						KRAMER: Yeah, well I wasn't looking for a long term relationship. I was on TV.<br>
+							<br>
+							
+						GEORGE: As a suspect in a serial killing.<br>
+							<br>
+							
+						KRAMER: Ok, yeah, you guys got to put a negative spin on everything.<br>
+							<br>
+							
+						GEORGE: What did they put on this tuna? Tastes like a dill, I think it's a dill.<br>
+							<br>
+							
+						JERRY: So you're not gonna come back to New York with us?<br>
+							<br>
+							
+						KRAMER: No no I'm not ready, things are starting to happen.<br>
+							<br>
+							
+						GEORGE: Taste this, is this a dill?<br>
+							<br>
+							
+						JERRY: No, it's tarragon. Hey Kramer, I'm sorry about that whole fight we had about you having my apartment keys and everything.<br>
+							<br>
+							
+						KRAMER: Ok, it's forgotten.<br>
+							<br>
+							
+						GEORGE: Tarragon? Oh, you're crazy.<br>
+							<br>
+							
+						JERRY: Well, take it easy.<br>
+							<br>
+							
+						KRAMER: Yeah, ok.<br>
+							<br>
+							
+						GEORGE: Yeah, take care. Stay in touch.<br>
+							<br>
+							
+						KRAMER: Hey hey, whoa come on give me a hug...<br>
+							<br>
+							
+						JERRY: Oh, no...<br>
+							<br>
+							
+						GEORGE: No, you're crushing my sandwich.<br>
+							<br>
+							<br>
+							
+						[JERRY AND GEORGE AT THE HOTEL. GEORGE IS KICKING THE TUCKED COVERS.]<br>
+							<br>
+							
+						JERRY: Yeah, it's so nice when it happens to you.<br>
+							<br>
+							<br>
+							
+						[BACK TO JERRY'S APARTMENT. GEORGE AND JERRY ARE WATCHING TV. ]<br>
+							<br>
+							
+						GEORGE: Mint?<br>
+							<br>
+							
+						JERRY: No thanks.<br>
+							<br>
+							
+						GEORGE: I've got to tell you, I'm really disappointed in Lupe.<br>
+							<br>
+							
+						JERRY: It's been three days already, forget about Lupe.<br>
+							<br>
+							
+						GEORGE: Do you think she gets to take any of those little bars of soap home?<br>
+							<br>
+							
+						JERRY: No, I don't.<br>
+							<br>
+							
+						GEORGE: You would think that at the end of the week when they hand out the checks, throw in a few soaps.<br>
+							<br>
+							
+						JERRY: Yeah, maybe they should throw in a couple of lamps too.<br>
+							<br>
+							
+						GEORGE: I'll tell you something, if I'd own a company, my employees would love me. They'd have huge pictures of me up on the walls and in their home, like Lenin.<br>
+							<br>
+							
+						JERRY: How much did you wound up tipping her?<br>
+							<br>
+							
+						GEORGE: Oh my God, I forgot!<br>
+							<br>
+							
+						JERRY: Well, communism didn't work.<br>
+							<br>
+							
+						(KRAMER WALKS IN)<br>
+							<br>
+							
+						KRAMER: Hey!<br>
+							<br>
+							
+						(KRAMER GOES TO THE FRIDGE)<br>
+							<br>
+							
+						KRAMER: Any mustard? This is empty.<br>
+							<br>
+							
+						JERRY: Yeah, there's a new one in there.<br>
+							<br>
+							
+						KRAMER: No no, I don't like this one. It's too yellow. Any pickles?<br>
+							<br>
+							
+						JERRY: Help yourself.<br>
+							<br>
+							
+						KRAMER: Yeah, all right.<br>
+							<br>
+							
+						GEORGE: Kramer, what are you doing here?<br>
+							<br>
+							
+						KRAMER: Getting something to eat.<br>
+							<br>
+							
+						JERRY: Kramer, here!<br>
+							<br>
+							
+						(JERRY THROWS THE APARTMENT KEYS TO KRAMER. KRAMER WALKS OUT AND COMES BACK WITH HIS KEYS. HE THROWS THEM TO THE TABLE KNOCKING JERRY'S SODA.)<br>
+							<br>
+							<br>
+							
+						[ACTION NEWS. KEITH MORRISON.]<br>
+							<br>
+							
+						Newscaster: Authorities exposed today, that the latest suspect in the smog strangling was apprehended this week on an unrelated charge, but somehow managed to escape from the police car, in which he was being held. Tobias Lehigh Nagy, who is also wanted in connection with a series of unrelated slains in the North West is still at large, his whereabouts unknown. He's described as 5'5&quot; bald and reputedly a very generous tipper.<br>
+							<br>
+							<br>
+							
+						[CLOSING MONOLOGUE]<br>
+							<br>
+							
+						The thing about L.A. to me, that kind of threw me, was when they have these smog alerts out there and they actually recommend that people stay indoors during the smog alert. Now, maybe I'm way off, but don't you think, wouldn't you assume, that the air in the house pretty much comes from the air in the city where the house is? I mean what do they think, that we live in a jar with couple of holes punched in the top? What the hell is going on out there? It's very strange, do you realize that it's now possible for parents to say to their children &quot;All right kids, I want you in the house and get some fresh air! Summer vacation, everybody indoors.&quot;<br>
+							<br>
+							
+						THE END </td>
+						</tr>
+						<tr height="6">
+							<td class="bottom2" width="645" height="6"></td>
+						</tr>
+						<tr>
+							<td width="645">
+								<div align="center">
+									<font size="-1">Copyright 2006 seinology.com | All Rights Reserved | Designed by 13erla</font></div>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+		<p></p>
+	</body>
+
+</html>

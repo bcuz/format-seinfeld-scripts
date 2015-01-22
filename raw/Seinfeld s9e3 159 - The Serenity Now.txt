@@ -1,0 +1,1175 @@
+<tdOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+<html>
+
+	<head>
+		<meta http-equiv="content-type" content="text/html;charset=ISO-8859-1">
+		<meta name="description" content="Top Source for Seinfeld">
+		<meta name="keywords" content="seinfeld, sienfeld, Jerry Seinfeld, Julia Louis Dreyfus, Jason Alexander, Michael Richards, Kramer, George, Costanza, Elaine Benes, morty, Larry David">
+		<title>Seinology.com :: Scripts :: 159-The Serenity Now</title>
+	<link rel='stylesheet' href='/stylesheet.css' type='text/css'>
+	</head>
+
+	<body>
+			<table align="center" width="787" border="0" cellspacing="0" cellpadding="0">
+				<tr>
+					<td><font size="-2" color="red">Seinology.com - </font><font size="-3" color="black">Where Seinfeld Content and Accuracy Matter Most. Seinfeld scripts in pdf form, Seinfeld episode video clips, Seinfeld episode audio clips, Jerry Seinfeld appearances, Julia Louis-Dreyfus appearances, Michael Richards appearances, Jason Alexander appearances, Seinfeld discussion Forum, Seinfeld Where are they Now? Seinlanguage Newsletter, Popular Seinfeld Lists, Seinfeld episode standup, Seinfeld episode guide, Seinfeld fan fiction. Seinfeld content all on one domain. Seinology.com enjoy your stay.</font></td>
+				</tr>
+			</table>
+		
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr height="100">
+				<td class="logo"></td>
+			</tr>
+			<tr><td class="ads" align="center" background=#8694fa>
+				<script type="text/javascript"><!--
+google_ad_client = "pub-1924026976931416";
+google_ad_width = 728;
+google_ad_height = 90;
+google_ad_format = "728x90_as";
+google_ad_type = "text";
+google_ad_channel = "";
+google_color_border = "FFFFFF";
+google_color_bg = "8694fa";
+google_color_link = "0000FF";
+google_color_text = "000000";
+google_color_url = "002E3F";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></td></tr>
+		</table>
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr>
+				<td valign="top" width="136">
+					<table width="136" border="0" cellspacing="0" cellpadding="0">
+						<tr height="24">
+							<td class="navigation">
+								<div align="center">
+									
+									<b>Navigation</b></div>
+							</td>
+						</tr>
+						<tr height="199">
+							<td class="spacer1" valign="top" width="136" height="199">
+								<div align="center">
+									<font size="-1"><a href="http://www.seinology.com">Home</a><br>
+										<a href="http://board.seinology.com">Forum</a><br>
+										<a href="http://www.seinology.com/av.shtml">Audio/Video</a><br>
+										<a href="http://www.seinology.com/scripts.shtml">Scripts</a><br>
+										<a href="http://www.seinology.com/survivor.shtml">Survivor</a><br>
+										<a href="http://www.seinology.com/fanfics.shtml">Fan Fiction</a><br>
+										<a href="http://www.seinology.com/gallery/">Gallery</a><br>
+										<a href="http://www.seinology.com/newsletter.shtml">Newsletter</a><br>
+										<a href="http://www.seinology.com/lists.shtml">Lists</a><br>
+										<a href="http://www.seinology.com/epguide.shtml">Episode Guide</a><br>
+										<a href="http://www.seinology.com/links.shtml">Links</a><br>
+										<a href="http://www.seinology.com/faqother.shtml">Faq + others</a><br>
+										<a href="http://www.seinology.com/legal.shtml">Legal</a></font></div>
+							</td>
+						</tr>
+						
+						<tr>
+							<td class="nav2" width="136">
+							<div align="center"><b>Search</b></div></td>
+						</tr>
+						<tr>
+							<td class="spacer1" width="136" valign="top"><div align="center"><form method="get" action="http://www.seinology.com/search/search.cgi">
+<p><label for="fdse_Match">Match</label><br>
+<select name="Match" id="fdse_Match" size="1">
+<option value="1">All</option>
+<option value="0">Any</option>
+<option value="2">Phrase</option>
+</select></p>
+<p><label for="fdse_Realm">Where?</label><br>
+<select name="Realm" id="fdse_Realm" size="1">
+<option selected="selected" value="All">EntireSite</option>
+<option value="Ep Guide">Ep Guide</option>
+<option value="Images">Images</option>
+<option value="Lists">Lists</option>
+<option value="Newsletters">Newsletters</option>
+<option value="Scripts">Scripts</option>
+<option value="Notes..Nothing">Notes..Nothing</option>
+</select></p>
+<p><input type="text" name="Terms" size="14" id="fdse_Terms"><br>
+<input type="submit" class="submit" name="submitButtonName" value="Search"></p>
+</div></form></td>
+						</tr>
+						<tr><td class="bottom" width="136" height="10" valign="top">
+						</td>
+						</tr>
+					</table>
+				</td>
+				<td width="4"></td>
+				<td valign="top" width="645">
+					<table width="645" border="0" cellspacing="0" cellpadding="0">
+						<tr height="18">
+							<td width="645" height="35" class="bar">
+								<div align="center">
+									<b><font size="+2" color="black">Script</font></b></div>
+							</td>
+						</tr>
+						<tr height="362">
+							<td class="spacer2" valign="top" width="645" height="362">
+
+						<p><font size="-2">Episode 159 - The Serenity Now<br>
+							
+						pc: 903 season 9, episode 3<br>
+							
+						Broadcast date: October 9, 1997<br>
+							<br>
+							
+						Written by Steve Koren<br>
+							
+						Directed by Andy Ackerman<br>
+							<br>
+							
+						-------------------------------------------------------------------------------<br>
+							<br>
+							
+						The Cast<br>
+							
+						Regulars:<br>
+							
+						Jerry Seinfeld ......................&nbsp; Jerry Seinfeld<br>
+							
+						Jason Alexander .................. George Costanza<br>
+							
+						Julia Louis-Dreyfus .............. Elaine Benes<br>
+							
+						Michael Richards .................. Cosmo Kramer<br>
+							<br>
+							
+						Guest Stars:<br>
+							<br>
+							
+						Lori Loughlin ........................ Patty<br>
+							
+						Ross Malinger ....................... Adam<br>
+							
+						Matt McCoy&nbsp; ........................ Lloyd Braun<br>
+							
+						Bruce Mahler ........................ Rabbi Glickman<br>
+							
+						rc: Jerry Stiller ....................... Frank Costanza<br>
+							
+						rc: Estelle Harris ................... Estelle Costanza<br>
+							
+						rc: Richard Fancy .................. Mr. Lippman<br>
+							<br>
+							
+						==================================================================<br>
+							<br>
+							
+						[The Costanzas are driving in the car.]<br>
+							<br>
+							
+						FRANK: I got no leg room back here. Move your seat forward.<br>
+							<br>
+							
+						ESTELLE: That's as far as it goes.<br>
+							<br>
+							
+						FRANK: There's a mechanism. You just pull it, and throw your body weight.<br>
+							<br>
+							
+						ESTELLE: I pulled it. It doesn't go.<br>
+							<br>
+							
+						FRANK: If you want the leg room, say you want the leg room! Don't blame the mechanism!<br>
+							<br>
+							
+						GEORGE: All right, Dad, we're five blocks from the house. Sit sideways.<br>
+							<br>
+							
+						FRANK: Like an animal. Because of her, I have to sit here like an animal! Serenity now! Serenity now!<br>
+							<br>
+							
+						GEORGE: What is that?<br>
+							<br>
+							
+						FRANK: Doctor gave me a relaxation cassette. When my blood pressure gets too high, the man on the tape tells me to say, 'Serenity now!'<br>
+							<br>
+							
+						GEORGE: Are you supposed to yell it?<br>
+							<br>
+							
+						FRANK: The man on the tape wasn't specific.<br>
+							<br>
+							
+						GEORGE: What happened to the screen door? It blew off again?<br>
+							<br>
+							
+						ESTELLE: I told you to fix that thing.<br>
+							<br>
+							
+						FRANK: Serenity nowww!<br>
+							<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						[Monk's]<br>
+							<br>
+							
+						PATTY: So I told Bobby and Lisa that we'd try the new Chinese Spanish<br>
+							<br>
+							
+						place La Caridad on Saturday.<br>
+							<br>
+							
+						JERRY: Oh, I thought we had tickets for the Knicks home opener.<br>
+							<br>
+							
+						PATTY: Well I thought this would be more fun so I gave the tickets away.<br>
+							<br>
+							
+						JERRY: What? All right, fine.<br>
+							<br>
+							
+						PATTY: Are you mad at me?<br>
+							<br>
+							
+						JERRY: No, I love a good Chinese Spanish whatever it is.<br>
+							<br>
+							
+						PATTY: You know... I've never seen you mad.<br>
+							<br>
+							
+						JERRY: I get peeved.<br>
+							<br>
+							
+						PATTY: Mad.<br>
+							<br>
+							
+						JERRY: Miffed.<br>
+							<br>
+							
+						PATTY: *Mad*.<br>
+							<br>
+							
+						JERRY: Irked?<br>
+							<br>
+							
+						PATTY: I'd like to see you get *really* mad.<br>
+							<br>
+							
+						GEORGE: Why does she want you to be mad?<br>
+							<br>
+							
+						JERRY: She says I suppress my emotions.<br>
+							<br>
+							
+						GEORGE: So what do you care what she thinks.<br>
+							<br>
+							
+						JERRY: Good body.<br>
+							<br>
+							
+						GEORGE: She probably gets that impression because you're cool. You're under control. Like me. Nothing wrong with that.<br>
+							<br>
+							
+						JERRY: But I get upset, I've yelled. You've heard me yell.<br>
+							<br>
+							
+						GEORGE: Not really. Your voice kind of raises to this comedic pitch. (Kramer enters)<br>
+							<br>
+							
+						KRAMER: Hey.<br>
+							<br>
+							
+						JERRY: Kramer, I am so sick of you comin' in here and eatin' all my food. Now shut that door and get the hell out of here!<br>
+							<br>
+							
+						KRAMER: (Laughing) What is that, a new bit?<br>
+							<br>
+							
+						GEORGE: I told ya. Hey, any of you guys want to come out and help me fix my father's screen door in Queens?<br>
+							<br>
+							
+						JERRY: Sorry, I'm fixing a screen door in the Bronx.<br>
+							<br>
+							
+						KRAMER: I'll do it.<br>
+							<br>
+							
+						GEORGE: Really? You wanna come?<br>
+							<br>
+							
+						KRAMER: Yeah, I love going to the country.<br>
+							<br>
+							
+						ELAINE: Where are they goin'?<br>
+							<br>
+							
+						JERRY: Fix a screen door in Queens.<br>
+							<br>
+							
+						ELAINE: (Laughing) That's funny. Hey, listen, what are you doin' Saturday night?<br>
+							<br>
+							
+						JERRY: Not goin' to the Knick game.<br>
+							<br>
+							
+						ELAINE: I need someone to go with me to Mr. Lippman's son's Bar Mitzvah.<br>
+							<br>
+							
+						JERRY: You know, if you don't bring a guest they save a catering. You should be able to buy a cheaper gift.<br>
+							<br>
+							
+						ELAINE: (Taking out Boggle) Oh, I don't think that's possible.<br>
+							<br>
+							
+						KRAMER: (Holding camera) Get in a little closer. I can't see the screen door. (Takes picture) Perfect.<br>
+							<br>
+							
+						GEORGE: Dad, the hinges are all rusted here. That's why the wind keeps blowing the door off.<br>
+							<br>
+							
+						ESTELLE: I hate that old door. Throw it out!<br>
+							<br>
+							
+						FRANK: Serenity now!<br>
+							<br>
+							
+						KRAMER: It might be time to just let her go, Frank. She's worked hard for ya.<br>
+							<br>
+							
+						FRANK: Will you put her to rest for me?<br>
+							<br>
+							
+						KRAMER: Oh yeah, I'll take good care of her. (Rips out the screen door) &nbsp;<br>
+							<br>
+							
+						ESTELLE: (From other room) Get George to put those boxes in the garage.<br>
+							<br>
+							
+						GEORGE: Dad, what's all this?<br>
+							<br>
+							
+						ESTELLE: (From other room) It's junk.<br>
+							<br>
+							
+						FRANK: My computers. I've been selling them for two months now. Shut up!<br>
+							<br>
+							
+						GEORGE: You're selling computers?<br>
+							<br>
+							
+						FRANK: Two months ago, I saw a provocative movie on cable TV. It was called The Net, with that girl from the bus. I did a little reading, and I realize, it wasn't that farfetched.<br>
+							<br>
+							
+						GEORGE: Dad, you know what it takes to compete with Microsoft and IBM?<br>
+							<br>
+							
+						FRANK: Yes, I do. That's why I got a secret weapon... my son.<br>
+							<br>
+							
+						JERRY: Damn it, they gave me cream! I asked for nonfat milk!<br>
+							<br>
+							
+						PATTY: I think they have 1% over there.<br>
+							<br>
+							
+						JERRY: 1%?! They can kiss 1% of my ass!<br>
+							<br>
+							
+						PATTY: OK, Jerry, enough. I'm not buying it.<br>
+							<br>
+							
+						JERRY: You're damn right you're not buying it!<br>
+							<br>
+							
+						PATTY: You shouldn't have to try. It's just being open.<br>
+							<br>
+							
+						JERRY: I'm open. There's just nothing in there.<br>
+							<br>
+							
+						PATTY: Sarcastically) Uh huh.<br>
+							<br>
+							
+						JERRY: Oh, you think I'm lying about this?<br>
+							<br>
+							
+						PATTY: I think you are.<br>
+							<br>
+							
+						JERRY: Well, I'm not.<br>
+							<br>
+							
+						PATTY: Yes, you are, liar.<br>
+							<br>
+							
+						JERRY: Oh, stop it.<br>
+							<br>
+							
+						PATTY: OK, liar.<br>
+							<br>
+							
+						JERRY: That's enough!<br>
+							<br>
+							
+						PATTY: Ooh, that was good.<br>
+							<br>
+							
+						JERRY: Really? It felt good.<br>
+							<br>
+							
+						ELAINE: Congratulations, Mr. Lippman.<br>
+							<br>
+							
+						LIPPMAN: Oh, Elaine. My boy's a man today. Can you believe it? He's a man.<br>
+							<br>
+							
+						ELAINE: Oh, congratulations, Adam. (Adam zealously French-kisses Elaine)<br>
+							<br>
+							
+						ADAM: I'm a man!<br>
+							<br>
+							
+						JERRY: Tongue?<br>
+							<br>
+							
+						ELAINE: Yeah.<br>
+							<br>
+							
+						GEORGE: Wow! I didn't try that 'til I was 23.<br>
+							<br>
+							
+						JERRY: Well this kid's not just a man. He's a man's man.<br>
+							<br>
+							
+						ELAINE: And I think he's been telling his friends. I got invitations to six more Bar Mitzvahs. (phone rings)<br>
+							<br>
+							
+						JERRY: Hello? Yeah, this is Jerry Seinfeld. No, no, no, I do not want to stop over in Cincinnati. Well, then you upgrade me. That's right, you should thank me. Goodbye. (Hangs up) Hey, I'm flyin' first class.<br>
+							<br>
+							
+						ELAINE: Where did that come from?<br>
+							<br>
+							
+						JERRY: Patty showed me how to get mad. You gotta problem with that?<br>
+							<br>
+							
+						ELAINE: No.<br>
+							<br>
+							
+						JERRY: Good.<br>
+							<br>
+							
+						GEORGE: All right, relax, tough guy. I got to go out to my father's garage, help him sell some computers.<br>
+							<br>
+							
+						JERRY: What? The two of you workin' in that garage is like a steel cage death match.<br>
+							<br>
+							
+						GEORGE: Kramer.<br>
+							<br>
+							
+						KRAMER: Yeah.<br>
+							<br>
+							
+						GEORGE: What-what are you doing?<br>
+							<br>
+							
+						KRAMER: Oh, I'm putting up Frank's screen door. This beauty's got a little life in her yet.<br>
+							<br>
+							
+						JERRY: What do you need it for?<br>
+							<br>
+							
+						KRAMER: (Closing door) The cool evening breezes of Anytown, USA. Let's see how this baby closes. Oh yeah, yeah, yeah.<br>
+							<br>
+							
+						GEORGE: Morning, ma.<br>
+							<br>
+							
+						ESTELLE: (From another room ) You're late!<br>
+							<br>
+							
+						GEORGE: Morning, dad.<br>
+							<br>
+							
+						FRANK: I'm not 'dad' in the workplace. My professional name is Mr. Costanza, and I will refer to you as 'Costanza'. Morning, Braun.<br>
+							<br>
+							
+						LLOYD: (Handing Frank coffee) Morning, George. Two cream, no sugar.<br>
+							<br>
+							
+						GEORGE: What is Lloyd Braun doing here?<br>
+							<br>
+							
+						FRANK: Your mother recommended him.<br>
+							<br>
+							
+						GEORGE: Yeah, of course she did. That's all I ever heard growing up is 'Why can't you be more like Lloyd Braun?' Did you know he was in a mental institution?<br>
+							<br>
+							
+						FRANK: I didn't read his resume.<br>
+							<br>
+							
+						LLOYD: (Ringing the sale bell) Another sale, Mr. Costanza. Chalk me up on the big board.<br>
+							<br>
+							
+						GEORGE: (Inquiring about the chalk board) What is this?<br>
+							<br>
+							
+						FRANK: (Drawing a zero under George's name) This is your lagging. Good work, Braun.<br>
+							<br>
+							
+						ESTELLE: (From another room) Good for you, Lloyd!<br>
+							<br>
+							
+						ELAINE: So Adam, I just talked to your father, and, apology accepted.<br>
+							<br>
+							
+						ADAM: I'm not apologizing. It was great. I told everyone.<br>
+							<br>
+							
+						ELAINE: Yeah, I know. Uh, by the way, could you do me a favor and tell Mitchell Tanenbaum that I will be unable to attend this Saturday.<br>
+							<br>
+							
+						ADAM: Are you free Friday night?<br>
+							<br>
+							
+						ELAINE: I am, but that is not the point. You are thirteen, and I am in my early... 20s.<br>
+							<br>
+							
+						ADAM: But I'm a man. The rabbi said so.<br>
+							<br>
+							
+						ELAINE: No. You are not a man. It takes a *long* time to become a man. I mean, half my friends aren't even there yet.<br>
+							<br>
+							
+						ADAM: Well, if I'm not a man, then this whole thing was a sham! First, they said I was gonna get great gifts, and then, somebody gives me Boggle. I renounce my religion!<br>
+							<br>
+							
+						LIPPMAN: Who wants cookies?<br>
+							<br>
+							
+						ADAM: As of this moment, I am no longer Jewish. I quit!<br>
+							<br>
+							
+						LIPPMAN: What?<br>
+							<br>
+							
+						ELAINE: (Eating) Walnuts, mmmmmm. &nbsp;<br>
+							<br>
+							
+						FRANK: You're late again, Costanza, so listen up. Starting tonight, we're having a little sales contest. The loser gets fired, the winner gets a Waterpik.<br>
+							<br>
+							
+						ESTELLE: (From another room) You're not giving away our Waterpik!<br>
+							<br>
+							
+						FRANK: Serenity now!<br>
+							<br>
+							
+						GEORGE: You know what? It doesn't matter, because I quit!<br>
+							<br>
+							
+						FRANK: I guess your mother was right. You never could compete with Lloyd Braun! (Lloyd rings his sale bell and smiles)<br>
+							<br>
+							
+						GEORGE: You wanna sell computers? I will show *you* how to sell computers! Hello, Mr. Farneman. You wanna buy a computer? No? Why not? All right, I see! Good answer! Thank you! (Lloyd rings his sale bell) Serenity now!<br>
+							<br>
+							
+						ELAINE: Adam, you don't become a man overnight. Look at your father. It takes time. Patience, experience. Uh, several careers of varying success. And these are things I look for in a man.<br>
+							<br>
+							
+						ADAM: (Storming out of the room) Well, that does me a lot of good. 'Early 20s'!<br>
+							<br>
+							
+						ELAINE: Well, I'm sorry, sir, I tried.<br>
+							<br>
+							
+						LIPPMAN: So, that's the type of guy you're looking for?<br>
+							<br>
+							
+						ELAINE: Uhh. I guess so. Why? (Mr. Lippman vigorously starts making out with her)<br>
+							<br>
+							
+						PATTY: (Surveying Kramer's hall patio ) What is this?<br>
+							<br>
+							
+						JERRY: (Knocking on Kramer's door) Anytown, U.S.A. Hello? Is Kramer home? Oh, hey.<br>
+							<br>
+							
+						KRAMER: (Spraying his flowers) Hello, neighbor.<br>
+							<br>
+							
+						JERRY: Boy, those azaleas are really coming in nicely.<br>
+							<br>
+							
+						KRAMER: Oh, you gotta mulch. You've got to.<br>
+							<br>
+							
+						JERRY: You barbecuing tonight?<br>
+							<br>
+							
+						KRAMER: (Ringing his wind chimes) Right after the fireworks.<br>
+							<br>
+							
+						JERRY: So, where do you want to eat tonight?<br>
+							<br>
+							
+						PATTY: How about La Caridad again?<br>
+							<br>
+							
+						JERRY: Again!? How much flan can a person eat!?<br>
+							<br>
+							
+						PATTY: Jerry, you've been yelling at me all afternoon.<br>
+							<br>
+							
+						JERRY: Well, I don't think more flan is the answer!<br>
+							<br>
+							
+						PATTY: Maybe I should just leave.<br>
+							<br>
+							
+						JERRY: 'Maybe'!?<br>
+							<br>
+							
+						PATTY: Good-bye!<br>
+							<br>
+							
+						JERRY: Double good-bye! (As Patty leaves, open door reveals Kramer, sitting on his lawn chair with a sparkler)<br>
+							<br>
+							
+						KRAMER: Hey, buddy!<br>
+							<br>
+							
+						ELAINE: (Coming in Jerry's apartment) Hey. Happy New Year!<br>
+							<br>
+							
+						KRAMER: (Getting the door slammed on him) Y'all come back reeeaall...<br>
+							<br>
+							
+						ELAINE: Did you and Patty just break up?<br>
+							<br>
+							
+						JERRY: Yeah! In fact, she broke up with me! And I don't want to talk about it!<br>
+							<br>
+							
+						ELAINE: Well, then you're free tonight. You know what, I heard about this great place called La Caridad.<br>
+							<br>
+							
+						JERRY: That's the last thing she said to me. She wanted to go there also, but I wasn't in the mood.<br>
+							<br>
+							
+						ELAINE: Whoa. What is the matter?<br>
+							<br>
+							
+						JERRY: It's Patty.<br>
+							<br>
+							
+						ELAINE: Jerry, you break up with a girl every week.<br>
+							<br>
+							
+						JERRY: (Crying) What--what is this salty discharge?<br>
+							<br>
+							
+						ELAINE: Oh my God. You're crying.<br>
+							<br>
+							
+						JERRY: This is horrible! I care!<br>
+							<br>
+							
+						JERRY: Patty won't call me back. I don't know if I can live without her.<br>
+							<br>
+							
+						KRAMER: She's really gotten to you, hasn't she?<br>
+							<br>
+							
+						JERRY: I don't know what's happening to me.<br>
+							<br>
+							
+						KRAMER: Simple. You let out one emotion, all the rest will come with it. It's like Endora's box.<br>
+							<br>
+							
+						JERRY: That was the mother on Bewitched. You mean Pandora.<br>
+							<br>
+							
+						KRAMER: Yeah, well, she... had one, too. (George enters)<br>
+							<br>
+							
+						GEORGE: Jerry, can I talk to you for a second? (They enter Jerry's apartment)<br>
+							<br>
+							
+						KRAMER: (Baseball flies at Kramer and hits him) That's it, that's it! I warned you kids. I told you not to play in front of my house. This time, I'm keepin' it. And you're not getting back your rock either!<br>
+							<br>
+							
+						GEORGE: (hearing Jerry broke up with Patty) Are you still down in the dumps? Come on. It's just a chick.<br>
+							<br>
+							
+						JERRY: You ever heard of a little thing called feelings?<br>
+							<br>
+							
+						GEORGE: Well, I got just the thing to cheer you up. A computer! Huh? We can check porn, and stock quotes.<br>
+							<br>
+							
+						JERRY: Porn quotes... I'm so lucky to have a friend like you, George. Ever tell you how much I love you?<br>
+							<br>
+							
+						GEORGE: What?<br>
+							<br>
+							
+						JERRY: I love you, George. Come here.<br>
+							<br>
+							
+						GEORGE: I-I'm already here. I'm here. I'm here. Uh, you know what? If you want a computer, call me. I-I gotta go.<br>
+							<br>
+							
+						JERRY: Go wherever you want. I'm still gonna love you.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Jerry's Apartment; Later]<br>
+							<br>
+							
+						KRAMER: Look what they did. Look what they did to my house! I turn my back for two seconds, and they put shaving cream all over my door. You, I see you! I'll teach these kids a lesson. Where's that house I put under your sink?<br>
+							<br>
+							
+						JERRY: Hose under my sink. I love *you*, Kramer!<br>
+							<br>
+							
+						KRAMER: I love you, too, buddy, and George--<br>
+							<br>
+							
+						GEORGE: I don't want to hear it, Kramer!<br>
+							<br>
+							
+						KRAMER: Listen, when I give you the signal, I want you to turn this water on full blast.<br>
+							<br>
+							
+						GEORGE: What signal? What-what signal?<br>
+							<br>
+							
+						KRAMER: I'll yell, uh, 'Hoochie mama!'<br>
+							<br>
+							
+						GEORGE: If I do it, will you buy a computer?<br>
+							<br>
+							
+						KRAMER: On the signal, George. On the signal.<br>
+							<br>
+							
+						GEORGE: Only if you buy. I gotta make a sale.<br>
+							<br>
+							
+						JERRY: I love you, Costanza.<br>
+							<br>
+							
+						GEORGE: Will you shut up?!<br>
+							<br>
+							
+						KRAMER: Now! Now, George! Turn on the faucet! George, turn on the faucet! Hoochie mama! Hoochie mama! Hoochie mamamaaaaa!<br>
+							<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						[Cab; Elaine and George]<br>
+							<br>
+							
+						ELAINE: So now the *other* Lippman kissed me.<br>
+							<br>
+							
+						GEORGE: Well, sure. They're Jewish, and you're a shiksa.<br>
+							<br>
+							
+						ELAINE: What?<br>
+							<br>
+							
+						GEORGE: It means a non-Jewish woman.<br>
+							<br>
+							
+						ELAINE: I know what it means, but what does being a shiksa have to do with it?<br>
+							<br>
+							
+						GEORGE: You've got 'shiksappeal'. Jewish men love the idea of meeting a woman that's not like their mother.<br>
+							<br>
+							
+						ELAINE: Oh, that's insane.<br>
+							<br>
+							
+						GEORGE: I'll tell you what's insane: the price that I could get you on a new desktop computer.<br>
+							<br>
+							
+						ELAINE: I am not buying a computer from you.<br>
+							<br>
+							
+						GEORGE: There's porn.<br>
+							<br>
+							
+						ELAINE: (Pausing) Even so.<br>
+							<br>
+							
+						GEORGE: Damn it!<br>
+							<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						[Lippman's House]<br>
+							<br>
+							
+						ELAINE: Don't get me wrong, Mr. Lippman. I-I'm very flattered that you found me attractive enough to... lunge at me. Huh. But the only reason you like me is because I'm a shiksa.<br>
+							<br>
+							
+						LIPPMAN: That's simply not true.<br>
+							<br>
+							
+						ELAINE: If you weren't Jewish, you wouldn't be interested in me.<br>
+							<br>
+							
+						LIPPMAN: You are wrong. I'll prove it.<br>
+							<br>
+							
+						ELAINE: Oh, no. Don't!<br>
+							<br>
+							
+						LIPPMAN: I renounce Judaism!<br>
+							<br>
+							
+						ELAINE: Oy vey!<br>
+							<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						[Jerry's Apartment]<br>
+							<br>
+							
+						JERRY: What happened to you, pal?<br>
+							<br>
+							
+						KRAMER: Joey Zanfino and some of the neighborhood kids. They ambushed me with a box of 'Grade A's.<br>
+							<br>
+							
+						JERRY: Are you all right?<br>
+							<br>
+							
+						KRAMER: Oh, no. I'm fine. Serenity now. Serenity now. Serenity now.<br>
+							<br>
+							
+						JERRY: So, you're using Frank's relaxation method?<br>
+							<br>
+							
+						KRAMER: (Trying to open a back of chips) Jerry, the anger, it just melts right off. Serenity now. Look at this. Serenity now!<br>
+							<br>
+							
+						ELAINE: (Enters) Hey, what happened to you?<br>
+							<br>
+							
+						KRAMER: Serenity! (He exits)<br>
+							<br>
+							
+						ELAINE: Well. You are not gonna believe this. Now Lippman is renounced. This shiksa thing is *totally* out of control. What is *with* you people? What are you looking at?<br>
+							<br>
+							
+						JERRY: Sit down, Elaine.<br>
+							<br>
+							
+						ELAINE: Oh, no. Jerry, I can't take any more gentle sobbing.<br>
+							<br>
+							
+						JERRY: I've been thinking about what it means to be complete.<br>
+							<br>
+							
+						ELAINE: Do you have an apple or anything?<br>
+							<br>
+							
+						JERRY: Look at us, hurtling through space on this big, blue marble.<br>
+							<br>
+							
+						ELAINE: Or a nectarine? I would absolutely love a nectarine.<br>
+							<br>
+							
+						JERRY: Looking everywhere for some kind of meaning...<br>
+							<br>
+							
+						ELAINE: Why am I in such a fruit mood? Ahh, banana!<br>
+							<br>
+							
+						JERRY: When all the while, the real secret to happiness has been right in front of us!<br>
+							<br>
+							
+						ELAINE: What?<br>
+							<br>
+							
+						JERRY: Elaine...<br>
+							<br>
+							
+						GEORGE: (Entering Jerry's apartment with a cartload of computers) Jerry, I've found a way to beat Lloyd Braun! I buy the computers myself, I store 'em in your apartment. Then, after I win the contest, I bring 'em all back and get my money back. Ha ha! It's brilliant. What? What's wrong with your leg?<br>
+							<br>
+							
+						JERRY: I'm asking Elaine to marry me.<br>
+							<br>
+							
+						GEORGE: (Leaving) I'll store these over at Kramer's apartment.<br>
+							<br>
+							
+						JERRY: Elaine?<br>
+							<br>
+							
+						ELAINE: Uhh, Jerry, I've got a lot goin' on with, uh, Lippman right now.<br>
+							<br>
+							
+						JERRY: Lippman?<br>
+							<br>
+							
+						ELAINE: (Trying to get her bag to leave) Yeah, and him too. What?! Oh, yeah! I think George is calling me, so I'm gonna go give him a hand. Come on! Come on!<br>
+							<br>
+							
+						JERRY: Can I help you?<br>
+							<br>
+							
+						ELAINE: No. Stay! Stay. Stay.<br>
+							<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						[Costanzas' Garage]<br>
+							<br>
+							
+						FRANK: Hey, Braun, Costanza's kicking your butt!<br>
+							<br>
+							
+						GEORGE: (using the phone) Watch how it's done. Oh, hello, Mr. Vandelay? Would you like to buy a computer? Oh, really? Two dozen?<br>
+							<br>
+							
+						FRANK: Costanza, you're white hot!<br>
+							<br>
+							
+						PHONE: If you'd like to make a call, please hang up and--<br>
+							<br>
+							
+						FRANK: Hey, Braun, I got good news and bad news. And they're both the same: you're fired. Costanza, you've won the water pik!<br>
+							<br>
+							
+						ESTELLE: You're not gonna give away that water pik!<br>
+							<br>
+							
+						FRANK: You wanna bet? Serenity now, serenity now!<br>
+							<br>
+							
+						LLOYD: You know, you should tell your dad that 'serenity now' thing doesn't work. It just bottles up the anger, and eventually, you blow.<br>
+							<br>
+							
+						GEORGE: What do you know? You were in the nut house.<br>
+							<br>
+							
+						LLOYD: What do you think put me there?<br>
+							<br>
+							
+						GEORGE: I heard they found a family in your freezer<br>
+							<br>
+							
+						LLOYD: Serenity now. Insanity later.<br>
+							<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						[Hallway in to Jerry's Apartment]<br>
+							<br>
+							
+						JERRY: What happened here, Kramer?<br>
+							<br>
+							
+						KRAMER: Serenity now, serenity now...<br>
+							<br>
+							
+						JERRY: Kramer!<br>
+							<br>
+							
+						KRAMER: Geez! Jerry, I didn't here you come in. Yeah, the children, they've done sum redecorating. Serenity now, serenity now.<br>
+							<br>
+							
+						JERRY: You don't look well.<br>
+							<br>
+							
+						KRAMER: Well, that's odd, 'cause I feel perfectly at peace with the world- uh! eggs! you! Serenity now, serenity now, serenity now.<br>
+							<br>
+							
+						JERRY: Oh, I'm sorry. Look at me, I stepped on your last rose.<br>
+							<br>
+							
+						KRAMER: (going into his apartment) Jerry, come on. Don't get upset about it. There's always next spring. Now will you excuse me for a moment. Serenity nooooooooww!<br>
+							<br>
+							
+						GEORGE: Jerry! I did it! Haha! I beat Braun!<br>
+							<br>
+							
+						KRAMER: (crashing and banging in his apartment) Serenity now!<br>
+							<br>
+							
+						GEORGE: Come on, wanna give me a hand with the computers?<br>
+							<br>
+							
+						KRAMER: (Crashing and banging around) Serenity nooooowwwww!<br>
+							<br>
+							<br>
+							<br>
+							
+						[Jerry's Apartment]<br>
+							<br>
+							
+						GEORGE: Why couldn't you squeeze one of those stupid rubber balls to get your stress out? Why did you have to destroy *twenty-five* computers?<br>
+							<br>
+							
+						KRAMER: (Leaving) George, you listen to me. I owe ya one.<br>
+							<br>
+							
+						JERRY: He's incorrigible. You want to talk about it?<br>
+							<br>
+							
+						GEORGE: Oh, please don't tell me you love me again, Jerry, I can't handle it.<br>
+							<br>
+							
+						JERRY: George, letting my emotions out was the best thing I've ever done. Sure I'm not funny anymore, but there's more to life than making shallow, fairly-obvious observations. How about you?<br>
+							<br>
+							
+						GEORGE: All right... here goes...<br>
+							<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						[Rabbi's Office]<br>
+							<br>
+							
+						ELAINE: Rabbi, is there anything I can do to combat this Shiks-appeal?<br>
+							<br>
+							
+						RABBI: Ha! Elaine, shiks-appeal is a myth, like the Yeti, or his North American cousin, the Sasquatch.<br>
+							<br>
+							
+						ELAINE: Well, something's goin' on here, 'cause every able-bodied Israelite in the county is driving pretty strong to the hoop.<br>
+							<br>
+							
+						RABBI: Elaine, there's much you don't understand about the Jewish religion. For example, did you know that rabbis are allowed to date?<br>
+							<br>
+							
+						ELAINE: (About to leave) Well, what does that have to do...?<br>
+							<br>
+							
+						RABBI: You know, a member of my congregation has a timeshare in Myrtle Beach. Perhaps, if you're not too busy, we could wing on down after the High Holidays? Elaine? 'Lainie?<br>
+							<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						[Jerry's Apartment]<br>
+							<br>
+							
+						GEORGE: So, that's it. All of my darkest fears, and... everything I'm capable of. That's me.<br>
+							<br>
+							
+						JERRY: Yikes. Well, good look with all that.<br>
+							<br>
+							
+						GEORGE: Where you going? I-I thought I could count on you for a little compassion.<br>
+							<br>
+							
+						JERRY: I think you scared me straight.<br>
+							<br>
+							
+						ELAINE: All right, Jerome, I'm in.<br>
+							<br>
+							
+						JERRY: What?<br>
+							<br>
+							
+						ELAINE: Maybe we should get married. Maybe everything we need is right here in front of us. Jer... let's do it.<br>
+							<br>
+							
+						JERRY: I tell ya, I don't see it happening.<br>
+							<br>
+							
+						ELAINE: What? What happened to the new Jerry?<br>
+							<br>
+							
+						JERRY: He doesn't work here anymore.<br>
+							<br>
+							
+						ELAINE: Oh, well that's just *great!*<br>
+							<br>
+							
+						GEORGE: I love you, Jerry.<br>
+							<br>
+							
+						JERRY: (Leaving) Right back at ya, Slick.<br>
+							<br>
+							
+						GEORGE: You know, all these years, I've always wanted to see the two of you get back together.<br>
+							<br>
+							
+						ELAINE: Well, that's because you're an idiot.<br>
+							<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						[Costanzas' Garage]<br>
+							<br>
+							
+						FRANK: You single-handedly brought Costanza and Son to the brink of bankruptcy.<br>
+							<br>
+							
+						GEORGE: Well what about all the Lloyd Braun sales?<br>
+							<br>
+							
+						FRANK: He's crazy. His phone wasn't even hooked up. He just liked ringing that bell.<br>
+							<br>
+							
+						ESTELLE: I told you to clean out this garage. I have to put my car in!<br>
+							<br>
+							
+						FRANK: This is a place of business. I told you never to come in here. Serenity now!<br>
+							<br>
+							
+						ESTELLE: All right...<br>
+							<br>
+							
+						GEORGE: Dad, you really should lay off the 'serenity now' stuff.<br>
+							<br>
+							
+						FRANK: So, what am I supposed to say?<br>
+							<br>
+							
+						GEORGE: 'Hoochie mama'?<br>
+							<br>
+							
+						ESTELLE: Move your crap, I'm comin' in!<br>
+							<br>
+							
+						FRANK: No you're not! Hoochie mama! Hoochie mama!<br>
+							<br>
+							
+						&nbsp;<br>
+							
+						The End</td>
+						</tr>
+						<tr height="6">
+							<td class="bottom2" width="645" height="6"></td>
+						</tr>
+						<tr>
+							<td width="645">
+								<div align="center">
+									<font size="-1">Copyright 2006 seinology.com | All Rights Reserved | Designed by 13erla</font></div>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+		<p></p>
+	</body>
+
+</html>

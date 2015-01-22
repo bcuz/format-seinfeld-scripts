@@ -1,0 +1,1478 @@
+<tdOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+<html>
+
+	<head>
+		<meta http-equiv="content-type" content="text/html;charset=ISO-8859-1">
+		<meta name="description" content="Top Source for Seinfeld">
+		<meta name="keywords" content="seinfeld, sienfeld, Jerry Seinfeld, Julia Louis Dreyfus, Jason Alexander, Michael Richards, Kramer, George, Costanza, Elaine Benes, morty, Larry David">
+		<title>Seinology.com :: Scripts :: 44-The Ticket</title>
+	<link rel='stylesheet' href='/stylesheet.css' type='text/css'>
+	</head>
+
+	<body>
+			<table align="center" width="787" border="0" cellspacing="0" cellpadding="0">
+				<tr>
+					<td><font size="-2" color="red">Seinology.com - </font><font size="-3" color="black">Where Seinfeld Content and Accuracy Matter Most. Seinfeld scripts in pdf form, Seinfeld episode video clips, Seinfeld episode audio clips, Jerry Seinfeld appearances, Julia Louis-Dreyfus appearances, Michael Richards appearances, Jason Alexander appearances, Seinfeld discussion Forum, Seinfeld Where are they Now? Seinlanguage Newsletter, Popular Seinfeld Lists, Seinfeld episode standup, Seinfeld episode guide, Seinfeld fan fiction. Seinfeld content all on one domain. Seinology.com enjoy your stay.</font></td>
+				</tr>
+			</table>
+		
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr height="100">
+				<td class="logo"></td>
+			</tr>
+			<tr><td class="ads" align="center" background=#8694fa>
+				<script type="text/javascript"><!--
+google_ad_client = "pub-1924026976931416";
+google_ad_width = 728;
+google_ad_height = 90;
+google_ad_format = "728x90_as";
+google_ad_type = "text";
+google_ad_channel = "";
+google_color_border = "FFFFFF";
+google_color_bg = "8694fa";
+google_color_link = "0000FF";
+google_color_text = "000000";
+google_color_url = "002E3F";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></td></tr>
+		</table>
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr>
+				<td valign="top" width="136">
+					<table width="136" border="0" cellspacing="0" cellpadding="0">
+						<tr height="24">
+							<td class="navigation">
+								<div align="center">
+									
+									<b>Navigation</b></div>
+							</td>
+						</tr>
+						<tr height="199">
+							<td class="spacer1" valign="top" width="136" height="199">
+								<div align="center">
+									<font size="-1"><a href="http://www.seinology.com">Home</a><br>
+										<a href="http://board.seinology.com">Forum</a><br>
+										<a href="http://www.seinology.com/av.shtml">Audio/Video</a><br>
+										<a href="http://www.seinology.com/scripts.shtml">Scripts</a><br>
+										<a href="http://www.seinology.com/survivor.shtml">Survivor</a><br>
+										<a href="http://www.seinology.com/fanfics.shtml">Fan Fiction</a><br>
+										<a href="http://www.seinology.com/gallery/">Gallery</a><br>
+										<a href="http://www.seinology.com/newsletter.shtml">Newsletter</a><br>
+										<a href="http://www.seinology.com/lists.shtml">Lists</a><br>
+										<a href="http://www.seinology.com/epguide.shtml">Episode Guide</a><br>
+										<a href="http://www.seinology.com/links.shtml">Links</a><br>
+										<a href="http://www.seinology.com/faqother.shtml">Faq + others</a><br>
+										<a href="http://www.seinology.com/legal.shtml">Legal</a></font></div>
+							</td>
+						</tr>
+						
+						<tr>
+							<td class="nav2" width="136">
+							<div align="center"><b>Search</b></div></td>
+						</tr>
+						<tr>
+							<td class="spacer1" width="136" valign="top"><div align="center"><form method="get" action="http://www.seinology.com/search/search.cgi">
+<p><label for="fdse_Match">Match</label><br>
+<select name="Match" id="fdse_Match" size="1">
+<option value="1">All</option>
+<option value="0">Any</option>
+<option value="2">Phrase</option>
+</select></p>
+<p><label for="fdse_Realm">Where?</label><br>
+<select name="Realm" id="fdse_Realm" size="1">
+<option selected="selected" value="All">EntireSite</option>
+<option value="Ep Guide">Ep Guide</option>
+<option value="Images">Images</option>
+<option value="Lists">Lists</option>
+<option value="Newsletters">Newsletters</option>
+<option value="Scripts">Scripts</option>
+<option value="Notes..Nothing">Notes..Nothing</option>
+</select></p>
+<p><input type="text" name="Terms" size="14" id="fdse_Terms"><br>
+<input type="submit" class="submit" name="submitButtonName" value="Search"></p>
+</div></form></td>
+						</tr>
+						<tr><td class="bottom" width="136" height="10" valign="top">
+						</td>
+						</tr>
+					</table>
+				</td>
+				<td width="4"></td>
+				<td valign="top" width="645">
+					<table width="645" border="0" cellspacing="0" cellpadding="0">
+						<tr height="18">
+							<td width="645" height="35" class="bar">
+								<div align="center">
+									<b><font size="+2" color="black">Script</font></b></div>
+							</td>
+						</tr>
+						<tr height="362">
+							<td class="spacer2" valign="top" width="645" height="362">
+
+						<p><font size="-2">Episode 44 - The Ticket<br>
+							
+						pc: 404, season 4, episode 4<br>
+							
+						Broadcast date: September 16, 1992<br>
+							<br>
+							
+						Written by Larry David<br>
+							
+						Directed by Tom Cherones<br>
+							<br>
+							
+						-------------------------------------------------------------------------------<br>
+							<br>
+							
+						The Cast<br>
+							
+						Regulars:<br>
+							
+						Jerry Seinfeld ....................... Jerry Seinfeld<br>
+							
+						Jason Alexander .................. George Costanza<br>
+							
+						Julia Louis-Dreyfus ............. Elaine Benes<br>
+							
+						Michael Richards ................. Kramer<br>
+							<br>
+							
+						Guest Stars:<br>
+							<br>
+							
+						Kevin Page .......................... Stu<br>
+							
+						Steve Eastin ........................ Cop #1<br>
+							
+						David Graf ......................... Cop #2<br>
+							
+						Al Fann ............................... Judge<br>
+							
+						Stephen McHattie ............... Psychiatrist (Dr. Reston)<br>
+							
+						Peter Blood ......................... Jay<br>
+							
+						Julie Blum ............................ Receptionist<br>
+							
+						rc: Wayne Knight ................ Newman<br>
+							
+						rc: Bob Balaban ................... Russell Dalrimple<br>
+							
+						rc: Heidi Swedberg ............. Susan Biddle Ross<br>
+							
+						rc: Len Lesser ..................... Uncle Leo<br>
+							<br>
+							
+						==================================================================<br>
+							<br>
+							
+						[Jerry's apartment]<br>
+							<br>
+							
+						(Enter Kramer with one pant leg on)<br>
+							<br>
+							
+						JERRY: (going through couch cushions) Where the hell did I put this?<br>
+							<br>
+							
+						KRAMER: What are you looking for?<br>
+							<br>
+							
+						JERRY: The remote, the remote, I can't find the remote. Did I lost, I lost it. Did you take it? Did you put it some place?<br>
+							<br>
+							
+						KRAMER: No, no, no.<br>
+							<br>
+							
+						(Jerry notices Kramer's look)<br>
+							<br>
+							
+						JERRY: All right, what is this?<br>
+							<br>
+							
+						KRAMER: (clueless) what is what?<br>
+							<br>
+							
+						JERRY: All right, very funny. I get it.<br>
+							<br>
+							
+						KRAMER: You're in a weird mood.<br>
+							<br>
+							
+						JERRY: Come on. Go back to your apartment and fix it.<br>
+							<br>
+							
+						KRAMER: Fix what?<br>
+							<br>
+							
+						JERRY: Your pants!<br>
+							<br>
+							
+						(Kramer is startled when he realizes his looks)<br>
+							<br>
+							
+						KRAMER: what is this? What have I got one pant leg on for?<br>
+							<br>
+							
+						JERRY: Don't you know? Look-look at your face! You only shaved the right side of your face! What is this? A joke?<br>
+							<br>
+							
+						KRAMER: No, t's a joke.. a joke... a joke... you think this is funny?<br>
+							<br>
+							
+						JERRY: Go look at your face in the mirror.<br>
+							<br>
+							
+						KRAMER: Wha-huh-wha-huh...<br>
+							<br>
+							
+						(door buzzer)<br>
+							<br>
+							
+						JERRY: (pressing intercom) yeah?<br>
+							<br>
+							
+						GEORGE: (on intercom) It's George.<br>
+							<br>
+							
+						JERRY: Come on up.<br>
+							<br>
+							
+						KRAMER: I don't believe this.<br>
+							<br>
+							
+						JERRY: You mean, you didn't know you were doing any of these things?<br>
+							<br>
+							
+						KRAMER: No, I swear.<br>
+							<br>
+							
+						JERRY: I bet this is from that kick from that crazy Joe Davola. You better see a doctor and get some X-rays.<br>
+							<br>
+							
+						(Enter George)<br>
+							<br>
+							
+						GEORGE: (to Kramer) Ah! You're just the man I'm looking for.<br>
+							<br>
+							
+						KRAMER: Me?<br>
+							<br>
+							
+						(George hands Kramer a paper)<br>
+							<br>
+							
+						GEORGE: Yeah, here you go.<br>
+							<br>
+							
+						KRAMER: What's this?<br>
+							<br>
+							
+						GEORGE: A dry-cleaning bill?<br>
+							<br>
+							
+						JERRY: From that woman at NBC?<br>
+							<br>
+							
+						GEORGE: Yeah.<br>
+							<br>
+							
+						KRAMER: A dry-cleaning bill for what?<br>
+							<br>
+							
+						GEORGE: For vomiting on her vest!<br>
+							<br>
+							
+						KRAMER: Oh, come on George! I didn't do that on purpose!<br>
+							<br>
+							
+						GEORGE: Well, I shouldn't have to pay for it!<br>
+							<br>
+							
+						KRAMER: Well, neither should I! Jerry's the one who left the milk in the refrigerator.<br>
+							<br>
+							
+						GEORGE: (to Jerry) Yeah, your milk.<br>
+							<br>
+							
+						JERRY: (pointing Kramer) He drank it.<br>
+							<br>
+							
+						KRAMER: I didn't know.<br>
+							<br>
+							
+						JERRY: All right, well, we should all chip in I guess.<br>
+							<br>
+							
+						KRAMER: Yeah.<br>
+							<br>
+							
+						JERRY: How much was it to clean the vest?<br>
+							<br>
+							
+						GEORGE: Eighteen dollars.<br>
+							<br>
+							
+						JERRY: Can you get vomit out of suede?<br>
+							<br>
+							
+						GEORGE: I don't know.<br>
+							<br>
+							
+						KRAMER: Yo-yo Ma!<br>
+							<br>
+							
+						JERRY: What? Yo-yo Ma?<br>
+							<br>
+							
+						KRAMER: What about him?<br>
+							<br>
+							
+						JERRY: You just said 'Yo-yo Ma'.<br>
+							<br>
+							
+						GEORGE: What's Yo-yo Ma?<br>
+							<br>
+							
+						JERRY: He's a cellist. (to Kramer) You should see a doctor today.<br>
+							<br>
+							
+						GEORGE: All right, come on, come on, let's go. Six dollars.<br>
+							<br>
+							
+						JERRY: I can't believe she sent you that dry-cleaning bill.<br>
+							<br>
+							
+						GEORGE: I know!<br>
+							<br>
+							
+						JERRY: That doesn't really bode well for the show, does it?<br>
+							<br>
+							
+						GEORGE: The show! Forget about the show! We should take the idea to a different network<br>
+							<br>
+							
+						JERRY: Oh, yeah. Right. Like anybody's ever gonna do this! How did you get me to go along with that? A show about nothing!<br>
+							<br>
+							
+						GEORGE: It was a good idea. Susan liked it. Now, if he hadn't vomitted all over her, we'd be writing it right now.<br>
+							<br>
+							
+						KRAMER: Jeez!<br>
+							<br>
+							
+						GEORGE: Anyway.<br>
+							<br>
+							
+						(Phone rings, Kramer picks up. Answers in Italian.)<br>
+							<br>
+							
+						JERRY: (interrupts) What are you doing? What's wrong with you? What're you doing? Give me that phone! Go to your apartment and lie down, I'll make an appointment for a doctor today. (on the phone) Hello? Oh hi! I'm sorry. No, that's my next door neighbor. He's not quite himself. He got kicked in the head. What? Really? You're kidding! Today? Yeah! Sure! We could make it. Two o'clock? Yeah, we would do that. Okay. Great! Thanks a million! Okay, bye.<br>
+							<br>
+							
+						GEORGE: What?<br>
+							<br>
+							
+						JERRY: NBC! They wanna have another meeting about the idea.<br>
+							<br>
+							
+						GEORGE: They wanna have another meeting? They wanna buy it?! They wanna but it?! Oh! I tell you! We're gonna be rich!! What are we gonna get for this? Fifty, sixty thousand?<br>
+							<br>
+							
+						JERRY: I don't know about sixty.<br>
+							<br>
+							
+						GEORGE: Oh, it's gotta be fifty! Hee hee! You know how much Ted Danson makes, huh?<br>
+							<br>
+							
+						JERRY: Ted Danson! Now, how are you comparing us to Ted Danson?<br>
+							<br>
+							
+						GEORGE: I didn't say 'We're Ted Danson.'<br>
+							<br>
+							
+						JERRY: Yes, you did. You said 'We're Ted Danson'!<br>
+							<br>
+							
+						GEORGE: Oh!<br>
+							<br>
+							
+						JERRY: You know, I think he wears a piece.<br>
+							<br>
+							
+						GEORGE: Yeah, don't worry. He can afford it.<br>
+							<br>
+							<br>
+							
+						[Street]<br>
+							<br>
+							
+						JERRY: I'm ten minutes slow again! That's it for this piece of junk! I've had it.<br>
+							<br>
+							
+						(He throws his watch in the trash can beside him)<br>
+							<br>
+							
+						GEORGE: What, is that the one your parents gave you?<br>
+							<br>
+							
+						JERRY: Yeah! But it never works. You know we're supposed to be there by two o'clock. We should take a cab.<br>
+							<br>
+							
+						GEORGE: All right, we'll be a little late, I,m not taking a cab.<br>
+							<br>
+							
+						JERRY: I'll pay for it.<br>
+							<br>
+							
+						GEORGE: It's not the money!<br>
+							<br>
+							
+						JERRY: Well, what is it you object to? The comfort? The Speed? The convenience?<br>
+							<br>
+							
+						(Both raise their arm to signal a cab.)<br>
+							<br>
+							
+						LEO: Jerry!<br>
+							<br>
+							
+						JERRY: Uncle Leo!<br>
+							<br>
+							
+						LEO: Helloooo!<br>
+							<br>
+							
+						JERRY: Hello there, how're you doing?<br>
+							<br>
+							
+						LEO: Ha ha! How are you?<br>
+							<br>
+							
+						JERRY: Good, good.<br>
+							<br>
+							
+						LEO: How's your mom and dad?<br>
+							<br>
+							
+						JERRY: Good, fine.<br>
+							<br>
+							
+						LEO: What are you getting to be too much of a big shot now to give me a call? I don't hear from you anymore!<br>
+							<br>
+							
+						JERRY: Oh, no. I've been kinda busy. It's all.<br>
+							<br>
+							
+						LEO: You know where I just came from?<br>
+							<br>
+							
+						(He grabs Jerry's forearm.)<br>
+							<br>
+							
+						Danny Barma.<br>
+							<br>
+							
+						JERRY: (not enthousiastic at all) Oh, sure. Danny.<br>
+							<br>
+							
+						LEO: He used to be in the pajama business. I used to be able to get pajamas for free. I used to come over and get pajamas all the time!<br>
+							<br>
+							
+						(Leo shakes Jerry around using his grip on Jerry's arm.)<br>
+							<br>
+							
+						JERRY: Oh, yeah, yeah. I remember.<br>
+							<br>
+							
+						(George gets impatient, touches his watch subtly, maybe subconsciously.)<br>
+							<br>
+							
+						LEO: The funny thing is: I can't wear 'em. I get too hot. I sleep in my underwear and a t-shirt. If it gets too hot, I just get the t-shirt off! Anyway, Danny says to me: 'You need any pajamas?'<br>
+							<br>
+							
+						JERRY: (interrupts) I-I'm sorry Uncle Leo, I really gotta get going.<br>
+							<br>
+							
+						LEO: Oh. Well. You gotta get going, so go.<br>
+							<br>
+							
+						JERRY: We, we got a big meeting with the president of NBC.<br>
+							<br>
+							
+						LEO: Nobody got a gun to your head!<br>
+							<br>
+							
+						JERRY: (seems sincere) Yeah, I'm really sorry, uh.<br>
+							<br>
+							
+						LEO: Go. Really. I understand. You got an appointment, go to your appointment.<br>
+							<br>
+							
+						JERRY: I'm sorry, really.<br>
+							<br>
+							
+						LEO: You know, I know plenty of people in Hollywood too!<br>
+							<br>
+							
+						JERRY: Sorry, really.<br>
+							<br>
+							
+						(Leo turns around and leaves. He passes by the trash can and sees the watch. He picks it up, takes it to his ear, laughs and puts it on. He walks away.)<br>
+							<br>
+							<br>
+							
+						[Hall out of Kramer's apartment]<br>
+							<br>
+							
+						(Newman knocks on Kramer's door)<br>
+							<br>
+							
+						KRAMER: (from inside) Yeah?<br>
+							<br>
+							
+						NEWMAN: Come on, are you ready? Let's go!<br>
+							<br>
+							
+						(Straightens his tie)<br>
+							<br>
+							
+						(Kramer opens the door. He has shaving cream on his face.)<br>
+							<br>
+							
+						KRAMER: For what?<br>
+							<br>
+							
+						NEWMAN: What's the matter with you? I just talked to you fifteen minutes ago.<br>
+							<br>
+							
+						KRAMER: what about?<br>
+							<br>
+							
+						NEWMAN: The courthouse. You gotta go with me to the courthouse. I'm contesting a ticket today.<br>
+							<br>
+							
+						KRAMER: I can't, I'm going to the doctor's later.<br>
+							<br>
+							
+						NEWMAN: You gotta go with me. I mean, you-you're my alibi. You have to take the stand.<br>
+							<br>
+							
+						KRAMER: Well, I can't!<br>
+							<br>
+							
+						NEWMAN: Well, let me remind you of something. You wouldn't be here if it wasn't for me and my helmet. I saved your life! You would be dead! Dead! You would cease to exist! You would be gone for the rest of eternity! You wouldn't even begin to comprehend what that means!!<br>
+							<br>
+							
+						KRAMER: Shut up! I'll get my coat!<br>
+							<br>
+							<br>
+							
+						[Newman enters Kramer's apartment]<br>
+							<br>
+							
+						KRAMER: Don't step on anything.<br>
+							<br>
+							<br>
+							
+						[NBC's waiting room]<br>
+							<br>
+							
+						JERRY: You see the look on my uncle's face? Did you see how insulted he was? What could I do? Waht are we supposed to do? You can't leave. There's no excuse good enough to justify walking away from a conversation with one of my relatives.<br>
+							<br>
+							
+						GEORGE: I didn't shave this morning. I don't feel like myself.<br>
+							<br>
+							
+						JERRY: You could be a fireman on a fire truck on the way to a fire. You bump into one of my relatives. 'I'm sorry Uncle Leo, there's a building full of people burning down. I really do have to be running.' He'll go: 'Go. Go ahead. Go to your fancy fire. If that's what you have to do.'<br>
+							<br>
+							
+						GEORGE: Look at this.<br>
+							<br>
+							
+						JERRY: Why didn't you shave this morning?<br>
+							<br>
+							
+						GEORGE: 'Cause I shaved yesterday in the afternoon.<br>
+							<br>
+							
+						JERRY: Why?<br>
+							<br>
+							
+						GEORGE: Because of the day before. It's a long story.<br>
+							<br>
+							
+						(Jerry looks down the hall.)<br>
+							<br>
+							
+						Can't get back on schedule.<br>
+							<br>
+							
+						JERRY: Is that Joe Davola?<br>
+							<br>
+							
+						(Jerry crouches in his seat)<br>
+							<br>
+							
+						GEORGE: It's not him!<br>
+							<br>
+							
+						JERRY: I can't live tlike this. I'm being stalked.<br>
+							<br>
+							
+						Receptionist: Mister Seinfeld? They're ready for you.<br>
+							<br>
+							
+						JERRY: Oh.<br>
+							<br>
+							
+						(They get up)<br>
+							<br>
+							
+						GEORGE: Mister Seinfeld? What about Mister Costanza? I'm not here?<br>
+							<br>
+							
+						(They walk toward the office)<br>
+							<br>
+							
+						JERRY: All right. Look. Now, you promised you're gonna be a little more flexible on the nothing idea, okay? Jsut a little.<br>
+							<br>
+							
+						GEORGE: Okay. A little.<br>
+							<br>
+							<br>
+							
+						[Courthouse waiting room]<br>
+							<br>
+							
+						NEWMAN: Okay, you're all set? You got your story?<br>
+							<br>
+							
+						KRAMER: No.<br>
+							<br>
+							
+						NEWMAN: When the cop stopped me, I told him that I was rushing home because my friend was about to commit suicide.<br>
+							<br>
+							
+						KRAMER: Uhm...<br>
+							<br>
+							
+						NEWMAN: Now, you're that firend. Now, all we need is a reason why you were going to commit suicide.<br>
+							<br>
+							
+						(Pause; they're thinking)<br>
+							<br>
+							
+						KRAMER: I never had an air conditioner.<br>
+							<br>
+							
+						NEWMAN: No! That's no reason to kill yourself!<br>
+							<br>
+							
+						KRAMER: Why? It gets hot at night, you can't sleep. You ever tried to sleep in a really hot room?<br>
+							<br>
+							
+						NEWMAN: Every night I sleep in a really hot room, I don't want to kill myself.<br>
+							<br>
+							
+						KRAMER: Well, I slept in really hot rooms and I wanted to kill myself.<br>
+							<br>
+							
+						NEWMAN: No, no, no. That's not gonna work. Something else.<br>
+							<br>
+							
+						KRAMER: I was never able to become a banker.<br>
+							<br>
+							
+						(Newman has a revelation.)<br>
+							<br>
+							
+						NEWMAN: Banker! So you're killing yourself because your dreams of becoming a banker have gone unfulfilled. You-you-you-you can't live without being a banker.<br>
+							<br>
+							
+						KRAMER: Yeah, yeah. If I can't be banker, I don't wanna live.<br>
+							<br>
+							
+						NEWMAN: You must be banker.<br>
+							<br>
+							
+						KRAMER: MUST be banker.<br>
+							<br>
+							
+						NEWMAN (satisfied): Okay, we'll go with the banker story.<br>
+							<br>
+							<br>
+							
+						[NBC office]<br>
+							<br>
+							
+						(I might be missing a line here, I suck at cutting the commercials. If so, please complete.)<br>
+							<br>
+							
+						GEORGE: The story is the foundation of all entertainment. You must have a good story otherwise it's just masturbation.<br>
+							<br>
+							
+						(George is the only one laughing)<br>
+							<br>
+							
+						RUSSEL: And people really have to care about the characters.<br>
+							<br>
+							
+						GEORGE: Care? Forget about care. Love. They have to love the characters. Otherwise, why would they keep tuning in?<br>
+							<br>
+							
+						JERRY: Wouldn't tune in.<br>
+							<br>
+							
+						GEORGE: Would they tune in?<br>
+							<br>
+							
+						JERRY: No tune.<br>
+							<br>
+							
+						RUSSEL: We like to look at the show as if it were in EKG. You have your highs and your lows and it goes up and down.<br>
+							<br>
+							
+						GEORGE: The show will be like a heart attack!<br>
+							<br>
+							
+						JERRY: Just a huge massive coronary.<br>
+							<br>
+							
+						RUSSEL: So what you said last week about no story, you're a little flexible on that now.<br>
+							<br>
+							
+						GEORGE: Is-is that what I said 'no story'? Because Jerry had to tell me later.<br>
+							<br>
+							
+						JERRY: He couldn't believe it.<br>
+							<br>
+							
+						GEORGE: (Laughs, snorts) I said, I said: 'Get outta here! No story? Is that what I said?'<br>
+							<br>
+							
+						(Jerry and George laugh)<br>
+							<br>
+							<br>
+							
+						[Courtroom]<br>
+							<br>
+							
+						Police officer: Well, I informed him that he was exceeding the speed limit and uh, that's when he told me that he was racing home because his friend was about to commit suicide.<br>
+							<br>
+							
+						JUDGE: And then what happened?<br>
+							<br>
+							
+						Police officer: Well, then he became very loud and hysterical. He was flailing his arms about as he told the story and then he threw himself on the ground and he grabbed me around the legs and then he begged me to let him go. And when I refused, that's when he began to scream: 'My friend's going to die, my friend's going to die.'<br>
+							<br>
+							<br>
+							
+						[NBC office]<br>
+							<br>
+							
+						RUSSEL: Look. I don't know how you two guys feel but we would really like to be in business with you.<br>
+							<br>
+							
+						(George starts, Jerry starts later, both speak at the same time, nonstop)<br>
+							<br>
+							
+						GEORGE: Well, we would like to be in business. Let's do business. We'll have some business. Let's have business.<br>
+							<br>
+							
+						JERRY: We would love to be in business. We'll do business. We're in business. It's... it's business. This is business.<br>
+							<br>
+							
+						GEORGE: Yeah!<br>
+							<br>
+							
+						Stu: Would it be possible to get a-a-a copy of 'La Cocina'?<br>
+							<br>
+							
+						(Pause. George and Jerry are puzzled.)<br>
+							<br>
+							
+						(Jerry gets it, pokes George.)<br>
+							<br>
+							
+						JERRY: Your off-Broadway play.<br>
+							<br>
+							
+						GEORGE: Oh, oh. Uh, you know. It's the damndest thing. I, uh, I moved recently and my files, pfff, disappeared. Now, I-I don't know if they fell off the truck or if there was some sort of foul play but let me tell you something. I'm not through with that moving company.<br>
+							<br>
+							
+						JERRY: (backs his story) Hmm, hmm.<br>
+							<br>
+							
+						GEORGE: That's my vow to you.<br>
+							<br>
+							
+						RUSSEL: Well, I got a feeling about you two. And even more than that. I place a great deal of confidence in that lady's judgment.<br>
+							<br>
+							
+						(the lady is Susan)<br>
+							<br>
+							
+						(George and Jerry both speak at the same time, nonstop)<br>
+							<br>
+							
+						GEORGE: Oh! That's good judgment. That's a pile of judgment there. Sure.<br>
+							<br>
+							
+						JERRY: Oh! Taht's judgment. Yes, yes. Judgment with earrings on. Yeah.<br>
+							<br>
+							
+						RUSSEL: (gets up) So, let's make a pilot.<br>
+							<br>
+							
+						(Hand shakes)<br>
+							<br>
+							<br>
+							
+						[Courtroom]<br>
+							<br>
+							
+						NEWMAN: I had gone up to Westchester. I go there every Tuesday. I do charity for the blind in my spare time for the Lighthouse. I was in the middle of a game of Parcheesi with an old blind man and I excused myself to call my friend as he was very depressed lately because he never became a banker.<br>
+							<br>
+							
+						JUDGE: I don't understand.<br>
+							<br>
+							
+						NEWMAN: You see, it'd been his lifelong dream to be a banker and he uh, just the day before he was turned down by another bank. I believe it was the Manufacturer's Hanover on Lexington and 40th Street. That was the third bank to turn him down so I was-I was a little concerned. I wanted to see how he was doing. Well, Your Honor, he was barely audible. But I distinctly recall him say...<br>
+							<br>
+							
+						KRAMER: (interupts involuntarily) Yo-yo Ma!<br>
+							<br>
+							
+						NEWMAN: So I sped home to save my friend's life and I was stopped for speeding. Yes, I admit I was speeding but it was to save a man's life. A close friend. An innocent person who wanted nothing more out of life than to love, to be loved and to be a banker.<br>
+							<br>
+							
+						JUDGE: So then he didn't kill himself.<br>
+							<br>
+							
+						NEWMAN: No sir. He did not. But only by thge grace of God. He's in the courtroom today<br>
+							<br>
+							
+						(Stands up, points to Kramer.) (dramatically) sitting right over there! And he can corroborate my entire testimony.<br>
+							<br>
+							<br>
+							
+						[NBC's waiting room]<br>
+							<br>
+							
+						(Jerry and George are coming out of the office)<br>
+							<br>
+							
+						GEORGE: See?<br>
+							<br>
+							
+						JERRY: Yeah!<br>
+							<br>
+							
+						GEORGE: I told you, I told you! Ha ha ha! Ooh ooh!<br>
+							<br>
+							
+						JERRY: Now, all we gotta do is write it.<br>
+							<br>
+							
+						GEORGE: Yes! How're we gonna do that?<br>
+							<br>
+							
+						(Enter Susan)<br>
+							<br>
+							
+						SUSAN: Hey! Congratulations!<br>
+							<br>
+							
+						JERRY: Thanks.<br>
+							<br>
+							
+						GEORGE: Oh, thank you.<br>
+							<br>
+							
+						JERRY: Thank you, thanks.<br>
+							<br>
+							
+						GEORGE: Thanks. Gee, you know, I thought you were mad at me.<br>
+							<br>
+							
+						SUSAN: No.<br>
+							<br>
+							
+						Receptionist: Mister Seinfeld, you have a phone call.<br>
+							<br>
+							
+						JERRY: Phone call? Who knows I'm here?<br>
+							<br>
+							
+						(He picks up the phone)<br>
+							<br>
+							
+						Hello? Mom? How'd you know I was here? Oh, I was not rude to him, that is baloney! I couldn't talk! I couldn't talk! I had a meeting! I don't know... he-he went off on something about pajamas!<br>
+							<br>
+							
+						GEORGE: When you sent me the-the bill for the dry-cleaning. I thought the show didn't have a chance.<br>
+							<br>
+							
+						SUSAN: Oh, it was only vomit.<br>
+							<br>
+							
+						GEORGE: Anyway, I-I would like to-to pay for the cleaning.<br>
+							<br>
+							
+						SUSAN: Oh no-no, it's okay. *comment from transcriber: yeah, she doesn't want to be paid, didn't she send the bill?*<br>
+							<br>
+							
+						GEORGE: No-no-no, we all chipped in. We have the money.<br>
+							<br>
+							
+						SUSAN: Well, it was eighteen dollars.<br>
+							<br>
+							
+						GEORGE: Okay, uh, eighteen dollars, and there it is. There you go. So maybe we could get together this weekend.<br>
+							<br>
+							
+						SUSAN: Yeah. Call me.<br>
+							<br>
+							
+						GEORGE: All right, great.<br>
+							<br>
+							
+						SUSAN: Bye.<br>
+							<br>
+							
+						JERRY: Bye thanks.<br>
+							<br>
+							
+						GEORGE: (chuckles) Bye, thanks. (To Jerry, when Susan is far) I can't believe she took the money.<br>
+							<br>
+							
+						JERRY: Why?<br>
+							<br>
+							
+						GEORGE: I offered to pay. She should've said no.<br>
+							<br>
+							
+						JERRY: She did, you insisted.<br>
+							<br>
+							
+						GEORGE: Maybe this is what the pilot should be about, vomiting on somebody's vest.<br>
+							<br>
+							
+						JERRY: Nah!<br>
+							<br>
+							
+						GEORGE: How much are we gonna get for this? Fifty, sixty thousand?<br>
+							<br>
+							
+						JERRY: oh, I d-I don't know. I d---<br>
+							<br>
+							
+						GEORGE: Oh, gotta get fifty. Gotta get fifty. All right, I tell you what. We go to the coffee shop, you call your manager. Maybe they made an offer.<br>
+							<br>
+							
+						JERRY: Okay.<br>
+							<br>
+							
+						GEORGE: (excited, pushing Jerry forward) All right, let's go, let's go, let's go, come on.<br>
+							<br>
+							<br>
+							
+						[Coffee shop]<br>
+							<br>
+							
+						GEORGE: Thirteen thousand?<br>
+							<br>
+							
+						JERRY: Thirteen thousand.<br>
+							<br>
+							
+						GEORGE: a piece?<br>
+							<br>
+							
+						JERRY: No, for both!<br>
+							<br>
+							
+						GEORGE: That's insulting! Ted Danson makes eight hundred thousand dollars an episode.<br>
+							<br>
+							
+						JERRY: Oh, would you stop with the Ted Danson?<br>
+							<br>
+							
+						GEORGE: Well, he does.<br>
+							<br>
+							
+						JERRY: You're nuts!<br>
+							<br>
+							
+						GEORGE: I'm sorry. I can't live knowing Ted Danson makes that much more than me. Who is he?<br>
+							<br>
+							
+						JERRY: He's somebody.<br>
+							<br>
+							
+						GEORGE: What about me?<br>
+							<br>
+							
+						JERRY: You're nobody.<br>
+							<br>
+							
+						GEORGE: Why him? Why not me?<br>
+							<br>
+							
+						JERRY: He's good, you're not.<br>
+							<br>
+							
+						GEORGE: I'm better than him.<br>
+							<br>
+							
+						JERRY: You're worse, much much worse. (crouches in booth) That's Davola!<br>
+							<br>
+							
+						GEORGE: (crouches too) What? Where? Where?<br>
+							<br>
+							
+						JERRY: Outside! I saw him outside!<br>
+							<br>
+							<br>
+							
+						[Europe]<br>
+							<br>
+							
+						(Elaine is kissing with a guy. He stops. She keeps kissing him, then stops.)<br>
+							<br>
+							
+						ELAINE: what is it?<br>
+							<br>
+							
+						BOYFRIEND: Oh, it's this patient.<br>
+							<br>
+							
+						ELAINE: (sighing) Again?<br>
+							<br>
+							
+						BOYFRIEND: I'm fairly certain. I forgot to leave him an extra prescription for his medication.<br>
+							<br>
+							
+						ELAINE: Well, so, he can live without his Valium for a couple of days.<br>
+							<br>
+							
+						BOYFRIEND: Nah, you don't understand. He could be dangerous.<br>
+							<br>
+							
+						(Elaine turns around, rolls her eyes.)<br>
+							<br>
+							<br>
+							
+						[Coffee shop]<br>
+							<br>
+							
+						JERRY: Go outside and see if he's still there.<br>
+							<br>
+							
+						GEORGE: I can't go out there, he knows we're friends.<br>
+							<br>
+							
+						JERRY: Well, what are we supposed to do? I gotta take Kramer to the doctor.<br>
+							<br>
+							
+						(A cop sits down at the counter.)<br>
+							<br>
+							
+						GEORGE: Tell the cop.<br>
+							<br>
+							
+						JERRY: Good idea.<br>
+							<br>
+							
+						(Walks to counter)<br>
+							<br>
+							
+						Excuse me officer. There's a guy outside and he's kind of a nut job and I think he's waiting to beat me up. If you could just walk me outside and wait till I get into a cab.<br>
+							<br>
+							
+						COP: Yeah, all right. Just let me get a muffin.<br>
+							<br>
+							
+						JERRY: Thanks.<br>
+							<br>
+							
+						(Jerry waits a while and realizes he has to go sit back with George and wait over there.)<br>
+							<br>
+							
+						JERRY: (back in booth) He's gonna get a muffin and then he'll walk us outside. This is a great way to go through life.<br>
+							<br>
+							
+						(Looks over at the cop)<br>
+							<br>
+							
+						Hey! He's looking at the menu now. What's he looking at the menu for?!<br>
+							<br>
+							
+						GEORGE: I thought you said he was gonna get a muffin.<br>
+							<br>
+							
+						(Jerry gets up and walks to the counter)<br>
+							<br>
+							
+						JERRY: (bossy) What are you doing?<br>
+							<br>
+							
+						COP: What?<br>
+							<br>
+							
+						JERRY: What, are you ordering food now?<br>
+							<br>
+							
+						COP: Yeah! Yeah, I decided to get a sandwich.<br>
+							<br>
+							
+						JERRY: What happened to the muffin?<br>
+							<br>
+							
+						COP: I got a little hungry.<br>
+							<br>
+							
+						JERRY: All of a sudden you get hungry?<br>
+							<br>
+							
+						COP: Yeah! You got a problem with that?<br>
+							<br>
+							
+						JERRY: No! Enjoy your lunch.<br>
+							<br>
+							
+						(Goes back toward the booth and stops.)<br>
+							<br>
+							
+						You know a muffin can be very filling.<br>
+							<br>
+							
+						(Keeps walking to the booth) (to George) He's getting a sandwich now!<br>
+							<br>
+							
+						GEORGE: I thought he was just gonna have a muffin.<br>
+							<br>
+							
+						JERRY: All of a sudden he gets hungry.<br>
+							<br>
+							
+						GEORGE: You know, a muffin can be very filling.<br>
+							<br>
+							
+						JERRY: I know!<br>
+							<br>
+							<br>
+							
+						[Courtroom]<br>
+							<br>
+							
+						NEWMAN: (interrogating Kramer) Mister Kramer, you heard the testimony so far. Would you please tell the court in your own words what happened on the afternoon of September 10th?<br>
+							<br>
+							
+						KRAMER: What do you mean 'my own words'? Whose words are they gonna be?<br>
+							<br>
+							
+						NEWMAN: You know what I mean.<br>
+							<br>
+							
+						KRAMER: (to Judge) I was very upset that day.<br>
+							<br>
+							
+						NEWMAN: And why was that?<br>
+							<br>
+							
+						KRAMER: (to Newman) Would you let me say it? Let me talk!<br>
+							<br>
+							
+						NEWMAN: All right, all right. Go ahead, go ahead.<br>
+							<br>
+							
+						KRAMER: All right.<br>
+							<br>
+							
+						NEWMAN: Okay.<br>
+							<br>
+							
+						KRAMER: (to Judge) I was very upset that day because I could never become a banker.<br>
+							<br>
+							
+						NEWMAN: And that failure to become a banker was eating at you. Eating-eating-eating at you inside.<br>
+							<br>
+							
+						KRAMER: (not convincing) Uh, yeah.<br>
+							<br>
+							
+						NEWMAN: It was your family that pushed you into banking , it was their dream for you...<br>
+							<br>
+							
+						JUDGE: Mister Newman.<br>
+							<br>
+							
+						NEWMAN: Your Honor, I'm only trying to establish Mister Kramer's fragile emotional state, my entire case depends on it.<br>
+							<br>
+							
+						JUDGE: Uh, continue.<br>
+							<br>
+							
+						NEWMAN: As you were saying, Mister Kramer...<br>
+							<br>
+							
+						KRAMER: What was the question?<br>
+							<br>
+							
+						NEWMAN: You're telling how your parents pushed you into banking.<br>
+							<br>
+							
+						KRAMER: Uh, well, my father when I was a kid, he took me to the bank and he lifted me up and he pointed to the teller and he said: 'Sonny boy, take a good look at him, that's gonna be you some day.'<br>
+							<br>
+							
+						NEWMAN: But you never became a banker, did you Mister Kramer? Why? Why did you fail?<br>
+							<br>
+							
+						KRAMER: I don't know.<br>
+							<br>
+							
+						NEWMAN: It was because you hated your father and you would do anything to displease him. Isn't THAT true?<br>
+							<br>
+							
+						JUDGE: Uh, could you get to the speeding?<br>
+							<br>
+							
+						NEWMAN: Yuh, yes. I intend to Your Honor. And then, on the afternoon of September 10th, you received a phone call did you not?<br>
+							<br>
+							
+						KRAMER: (puzzled) Phone call?<br>
+							<br>
+							
+						NEWMAN: Yes, a phone call!<br>
+							<br>
+							
+						KRAMER: From who?<br>
+							<br>
+							
+						NEWMAN: From me!<br>
+							<br>
+							
+						KRAMER: From you?<br>
+							<br>
+							
+						NEWMAN: Yes, from me!! I called you remember?<br>
+							<br>
+							
+						KRAMER: You called me?<br>
+							<br>
+							
+						NEWMAN: Yes, I called you, you idiot! Because you were going to... You were going to... Remember?<br>
+							<br>
+							
+						KRAMER: what?<br>
+							<br>
+							
+						NEWMAN: You were going to...<br>
+							<br>
+							
+						(Mimmicks hanging himself, growing hysterical as only Newman can)<br>
+							<br>
+							
+						You were going to do something<br>
+							<br>
+							
+						(Mimmicks stabbing himself in stomach and jerking the knife around) to yourself! You were going to do something to yourself! Remember the banking? The banking, about the banking, about the banking!!!<br>
+							<br>
+							
+						JUDGE: I'm afraid I'm gonna have to call a---<br>
+							<br>
+							
+						NEWMAN: Yes, the banker!!!<br>
+							<br>
+							
+						KRAMER: What banking?<br>
+							<br>
+							
+						NEWMAN: A banker! A banker! Your Honor, Your Honor, Your Honor...<br>
+							<br>
+							
+						JUDGE: That's enough already.<br>
+							<br>
+							
+						NEWMAN: Your Honor, Mister Kramer's obviously very distraught.<br>
+							<br>
+							
+						KRAMER: I'm distraught!?! Wooh-wooh-hoo!<br>
+							<br>
+							
+						NEWMAN: (to Kramer) You shut up! (to judge) I demand a recess so I can take him outside and help him regain hius composure.<br>
+							<br>
+							
+						JUDGE: That'll be seventy-five dollars.<br>
+							<br>
+							
+						NEWMAN: (Strangling Kramer) What's the matter with you? We had it all worked out!<br>
+							<br>
+							
+						(They fall on their backs. Kramer knocks the flag on judge.)<br>
+							<br>
+							<br>
+							
+						[Coffee shop]<br>
+							<br>
+							
+						JERRY: Do you see him?<br>
+							<br>
+							
+						GEORGE: I'm not* sure.<br>
+							<br>
+							
+						JERRY: Well, either you see him or you don't.<br>
+							<br>
+							
+						GEORGE: All right. I don't.<br>
+							<br>
+							
+						JERRY: (looking at the cop) What is he doing? Is he getting coffee? I think he's getting coffee.!<br>
+							<br>
+							
+						GEORGE: What's with this guy?<br>
+							<br>
+							
+						(Jerry walks to the counter)<br>
+							<br>
+							
+						JERRY: (still bossy) Did you just order coffee?<br>
+							<br>
+							
+						COP: Yeah.<br>
+							<br>
+							
+						JERRY: This is really too much.<br>
+							<br>
+							
+						COP: What is your problem?<br>
+							<br>
+							
+						JERRY: Well, I'm sitting over there waiting for you to finish your sandwich for twenty minutes. Now you're drinking coffee, that's gonna be another ten minutes.<br>
+							<br>
+							
+						COP: Well, you're just gonna have to wait.<br>
+							<br>
+							
+						(Enter Kramer and Newman)<br>
+							<br>
+							
+						KRAMER: Never said anything about the banking.<br>
+							<br>
+							
+						NEWMAN: You're off your rocker.<br>
+							<br>
+							
+						JERRY: Hey you guys!<br>
+							<br>
+							
+						KRAMER: Hey!<br>
+							<br>
+							
+						JERRY: What are you doing here?<br>
+							<br>
+							
+						KRAMER: What are YOU doing here?<br>
+							<br>
+							
+						JERRY: Hey, is Davola outside?<br>
+							<br>
+							
+						KRAMER: Davola?<br>
+							<br>
+							
+						JERRY: Yeah.<br>
+							<br>
+							
+						KRAMER: No, I didn't see him.<br>
+							<br>
+							
+						NEWMAN: Crazy Joe Davola?<br>
+							<br>
+							
+						GEORGE: (reading the tabs) Jerry, yours is eleven dollars.<br>
+							<br>
+							
+						JERRY: Eleven dollars for what?<br>
+							<br>
+							
+						GEORGE: Muffin, sandwich and coffee!<br>
+							<br>
+							
+						JERRY: (to Kramer) Hey, NBC okayed our idea. We're gonna make the pilot.<br>
+							<br>
+							
+						KRAMER: You're gonna do the circus freak show, uh?<br>
+							<br>
+							
+						JERRY: No.<br>
+							<br>
+							
+						NEWMAN: Pilot? So what do you make for something like that? Fifty? Sixty thousand?<br>
+							<br>
+							
+						GEORGE: What's the difference? The money is not important.<br>
+							<br>
+							
+						JERRY: (looking outside) Hey Newman, is that your red car?<br>
+							<br>
+							
+						NEWMAN: Yeah.<br>
+							<br>
+							
+						JERRY: I think you're getting a ticket.<br>
+							<br>
+							
+						NEWMAN: Deh!<br>
+							<br>
+							
+						KRAMER: Run, run! Go, go, go!<br>
+							<br>
+							
+						(Newman runs outside)<br>
+							<br>
+							
+						NEWMAN: Hey! What are you doing? It's after six o'clock! You can't give me a ticket! Hey, you're not gonna get away with this. I'll fight this. I got witnesses.<br>
+							<br>
+							
+						KRAMER: I saw the whole thing!<br>
+							<br>
+							
+						JERRY: Maybe this whole thing would be a good idea for the pilot.<br>
+							<br>
+							
+						GEORGE: Ah, get outta here. The vomiting is much funnier.<br>
+							<br>
+							
+						JERRY: Oh, like you know what you're talking about!<br>
+							<br>
+							
+						GEORGE: No, YOU do!<br>
+							<br>
+							<br>
+							
+						The End</td>
+						</tr>
+						<tr height="6">
+							<td class="bottom2" width="645" height="6"></td>
+						</tr>
+						<tr>
+							<td width="645">
+								<div align="center">
+									<font size="-1">Copyright 2006 seinology.com | All Rights Reserved | Designed by 13erla</font></div>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+		<p></p>
+	</body>
+
+</html>

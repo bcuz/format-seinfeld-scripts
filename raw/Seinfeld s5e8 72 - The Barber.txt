@@ -1,0 +1,1309 @@
+<tdOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+<html>
+
+	<head>
+		<meta http-equiv="content-type" content="text/html;charset=ISO-8859-1">
+		<meta name="description" content="Top Source for Seinfeld">
+		<meta name="keywords" content="seinfeld, sienfeld, Jerry Seinfeld, Julia Louis Dreyfus, Jason Alexander, Michael Richards, Kramer, George, Costanza, Elaine Benes, morty, Larry David">
+		<title>Seinology.com :: Scripts :: 72-The Barber</title>
+	<link rel='stylesheet' href='/stylesheet.css' type='text/css'>
+	</head>
+
+	<body>
+			<table align="center" width="787" border="0" cellspacing="0" cellpadding="0">
+				<tr>
+					<td><font size="-2" color="red">Seinology.com - </font><font size="-3" color="black">Where Seinfeld Content and Accuracy Matter Most. Seinfeld scripts in pdf form, Seinfeld episode video clips, Seinfeld episode audio clips, Jerry Seinfeld appearances, Julia Louis-Dreyfus appearances, Michael Richards appearances, Jason Alexander appearances, Seinfeld discussion Forum, Seinfeld Where are they Now? Seinlanguage Newsletter, Popular Seinfeld Lists, Seinfeld episode standup, Seinfeld episode guide, Seinfeld fan fiction. Seinfeld content all on one domain. Seinology.com enjoy your stay.</font></td>
+				</tr>
+			</table>
+		
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr height="100">
+				<td class="logo"></td>
+			</tr>
+			<tr><td class="ads" align="center" background=#8694fa>
+				<script type="text/javascript"><!--
+google_ad_client = "pub-1924026976931416";
+google_ad_width = 728;
+google_ad_height = 90;
+google_ad_format = "728x90_as";
+google_ad_type = "text";
+google_ad_channel = "";
+google_color_border = "FFFFFF";
+google_color_bg = "8694fa";
+google_color_link = "0000FF";
+google_color_text = "000000";
+google_color_url = "002E3F";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></td></tr>
+		</table>
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr>
+				<td valign="top" width="136">
+					<table width="136" border="0" cellspacing="0" cellpadding="0">
+						<tr height="24">
+							<td class="navigation">
+								<div align="center">
+									
+									<b>Navigation</b></div>
+							</td>
+						</tr>
+						<tr height="199">
+							<td class="spacer1" valign="top" width="136" height="199">
+								<div align="center">
+									<font size="-1"><a href="http://www.seinology.com">Home</a><br>
+										<a href="http://board.seinology.com">Forum</a><br>
+										<a href="http://www.seinology.com/av.shtml">Audio/Video</a><br>
+										<a href="http://www.seinology.com/scripts.shtml">Scripts</a><br>
+										<a href="http://www.seinology.com/survivor.shtml">Survivor</a><br>
+										<a href="http://www.seinology.com/fanfics.shtml">Fan Fiction</a><br>
+										<a href="http://www.seinology.com/gallery/">Gallery</a><br>
+										<a href="http://www.seinology.com/newsletter.shtml">Newsletter</a><br>
+										<a href="http://www.seinology.com/lists.shtml">Lists</a><br>
+										<a href="http://www.seinology.com/epguide.shtml">Episode Guide</a><br>
+										<a href="http://www.seinology.com/links.shtml">Links</a><br>
+										<a href="http://www.seinology.com/faqother.shtml">Faq + others</a><br>
+										<a href="http://www.seinology.com/legal.shtml">Legal</a></font></div>
+							</td>
+						</tr>
+						
+						<tr>
+							<td class="nav2" width="136">
+							<div align="center"><b>Search</b></div></td>
+						</tr>
+						<tr>
+							<td class="spacer1" width="136" valign="top"><div align="center"><form method="get" action="http://www.seinology.com/search/search.cgi">
+<p><label for="fdse_Match">Match</label><br>
+<select name="Match" id="fdse_Match" size="1">
+<option value="1">All</option>
+<option value="0">Any</option>
+<option value="2">Phrase</option>
+</select></p>
+<p><label for="fdse_Realm">Where?</label><br>
+<select name="Realm" id="fdse_Realm" size="1">
+<option selected="selected" value="All">EntireSite</option>
+<option value="Ep Guide">Ep Guide</option>
+<option value="Images">Images</option>
+<option value="Lists">Lists</option>
+<option value="Newsletters">Newsletters</option>
+<option value="Scripts">Scripts</option>
+<option value="Notes..Nothing">Notes..Nothing</option>
+</select></p>
+<p><input type="text" name="Terms" size="14" id="fdse_Terms"><br>
+<input type="submit" class="submit" name="submitButtonName" value="Search"></p>
+</div></form></td>
+						</tr>
+						<tr><td class="bottom" width="136" height="10" valign="top">
+						</td>
+						</tr>
+					</table>
+				</td>
+				<td width="4"></td>
+				<td valign="top" width="645">
+					<table width="645" border="0" cellspacing="0" cellpadding="0">
+						<tr height="18">
+							<td width="645" height="35" class="bar">
+								<div align="center">
+									<b><font size="+2" color="black">Script</font></b></div>
+							</td>
+						</tr>
+						<tr height="362">
+							<td class="spacer2" valign="top" width="645" height="362">
+
+						<p><font size="-2">Episode 72 - The Barber<br>
+							
+						pc: 507, season 5, episode 8<br>
+							
+						Broadcast date: November 11, 1993<br>
+							<br>
+							
+						Written by Andy Robin<br>
+							
+						Directed by Tom Cherones<br>
+							<br>
+							
+						-------------------------------------------------------------------------------<br>
+							<br>
+							
+						The Cast<br>
+							
+						Regulars:<br>
+							
+						Jerry Seinfeld ....................... Jerry Seinfeld<br>
+							
+						Jason Alexander .................. George Costanza<br>
+							
+						Julia Louis-Dreyfus ............. Elaine Benes<br>
+							
+						Michael Richards ................. Kramer<br>
+							<br>
+							
+						Guest Stars:<br>
+							<br>
+							
+						Anthony Ponzini&nbsp; ............... Enzo<br>
+							
+						David Ciminello .................. Gino<br>
+							
+						Michael Fairman ................. Mr. Pensky<br>
+							
+						Jack Shearer ....................... Mr. Tuttle<br>
+							
+						Kenny Myles ...................... Mike<br>
+							
+						Peggy Maltby ..................... Clarisse<br>
+							
+						David Richardson .............. Customer<br>
+							
+						rc: Wayne Knight .............. Newman<br>
+							<br>
+							
+						==================================================================<br>
+							<br>
+							
+						[Opening Monologue]<br>
+							<br>
+							
+						JERRY: The old-fashioned barber shop is unfortunately becoming a thing of the past, now what went wrong? Well first of all there's a twenty thousand dollar chair to make a three dollar tip. I say cut back on the chair, update the magazines. Why do barbers always display that license? There's no laws in hair cutting, except show every person the back of their head that's the one law. I don't want to see the back of my head. Why do I want to see something that I'm never going to see at any other time? When I buy pants two salesmen don't lift me up by the legs and go &quot;how do you like crotch?&quot; If I wanted to see everything I would have been a fly. <br>
+							<br>
+							<br>
+							
+						[Sanalac office building]<br>
+							<br>
+							
+						(George is at a meeting)<br>
+							<br>
+							
+						MR. TUTTLE: Well George we here at Sanalac like to think of ourselves as a fairly progressive company. We have a small but prestigious group of clients. <br>
+							<br>
+							
+						GEORGE: Well a lot of people consider me small and prestigious. <br>
+							<br>
+							
+						MR. TUTTLE: That's funny George. You're very quick. I feel like I, like I don't have to explain every little thing to you. You understand everything immediately. <br>
+							<br>
+							
+						GEORGE: I enjoy understanding. <br>
+							<br>
+							
+						MR. TUTTLE: I want you to have this job. Of course... <br>
+							<br>
+							
+						SECRETARY: Mr. Zimmer is on line 2. <br>
+							<br>
+							
+						MR. TUTTLE: Thanks. I've got to take this call. Listen, I'm really glad that you came in. <br>
+							<br>
+							<br>
+							<br>
+							
+						[At Monk's] <br>
+							<br>
+							
+						(Jerry, George and Elaine are sitting at the booth closest to the door)<br>
+							<br>
+							
+						GEORGE: I want you to have this job. Of course... <br>
+							<br>
+							
+						JERRY &amp; ELAINE: Yeah? <br>
+							<br>
+							
+						GEORGE: That's it. <br>
+							<br>
+							
+						JERRY: What do you mean that's it? <br>
+							<br>
+							
+						GEORGE: He never finished the sentence. He got a call, that was the end of the interview. <br>
+							<br>
+							
+						JERRY: &quot;Of course&quot; was the last thing he said? <br>
+							<br>
+							
+						GEORGE: Maybe he was going to say &quot;Of course I have to check with my associates.&quot; <br>
+							<br>
+							
+						ELAINE: &quot;I want you to have this job, of course the Board of Directors is under indictment and will be serving time.&quot; <br>
+							<br>
+							
+						JERRY: &quot;I want you to have this job, of course sodomy is a prerequisite.&quot; <br>
+							<br>
+							
+						(Elaine laughs)<br>
+							<br>
+							
+						GEORGE: All right. <br>
+							<br>
+							
+						ELAINE: Why don't you go ahead and call him? <br>
+							<br>
+							
+						GEORGE: Because he made a big deal about how I understand everything immediately. That's what impressed him. <br>
+							<br>
+							
+						JERRY: So if you call and ask if you have the job, you might lose the job. <br>
+							<br>
+							
+						GEORGE: And if I don't call... <br>
+							<br>
+							
+						JERRY: You might have the job, but you'll never know it. What kind of company is it? <br>
+							<br>
+							
+						GEORGE: Rest stop supply. <br>
+							<br>
+							
+						ELAINE &amp; JERRY: Oh.<br>
+							<br>
+							
+						ELAINE: Good for you.<br>
+							<br>
+							
+						(Kramer comes in and sits down.) <br>
+							<br>
+							
+						KRAMER: Yeah, yeah, yeah.<br>
+							<br>
+							
+						GEORGE: Hey<br>
+							<br>
+							
+						JERRY: Hey<br>
+							<br>
+							
+						KRAMER: Hey. <br>
+							<br>
+							
+						JERRY: Shower? <br>
+							<br>
+							
+						KRAMER: Haircut. <br>
+							<br>
+							
+						JERRY: Oh.<br>
+							<br>
+							
+						KRAMER: I'm very happy with this.<br>
+							<br>
+							
+						JERRY: Who'd you use? Gino? <br>
+							<br>
+							
+						KRAMER: Oh course. I wouldn't let that other butcher cut my hair. <br>
+							<br>
+							
+						ELAINE: What butcher? <br>
+							<br>
+							
+						KRAMER: The uncle Enzo. That's the guy Jerry uses. <br>
+							<br>
+							
+						JERRY: Well I've been going with him for 12 years. I can't switch. I'd hurt his feelings. <br>
+							<br>
+							
+						ELAINE: You never get good haircuts. <br>
+							<br>
+							
+						KRAMER: You can get a good one today. It's Enzo's day off. Gino's there all by himself. <br>
+							<br>
+							
+						JERRY: Really? <br>
+							<br>
+							
+						ELAINE: Yeah. You know what, you should go over there and get one to look good for my bachelor auction. <br>
+							<br>
+							
+						KRAMER: What bachelor auction? <br>
+							<br>
+							
+						ELAINE: Oh it's a thing where they auction off dates with bachelors for charity. <br>
+							<br>
+							
+						KRAMER: And you didn't ask me to do it? I could raise enough money to cure polio. <br>
+							<br>
+							
+						JERRY: I believe they've had a cure for polio for quite some time. <br>
+							<br>
+							
+						KRAMER: Polio? <br>
+							<br>
+							
+						ELAINE: Will you go ahead? You need a haircut. <br>
+							<br>
+							
+						JERRY: Okay. <br>
+							<br>
+							
+						KRAMER: What are you all dressed up for? <br>
+							<br>
+							
+						GEORGE: I had a job interview. <br>
+							<br>
+							
+						KRAMER: Yeah. How'd it go? <br>
+							<br>
+							
+						GEORGE: Good. Of course... <br>
+							<br>
+							<br>
+							<br>
+							
+						[At the barber shop] <br>
+							<br>
+							
+						ENZO: Oh Jerry. <br>
+							<br>
+							
+						JERRY: Oh hi Enzo. <br>
+							<br>
+							
+						ENZO: Oh, you've come for the haircut. <br>
+							<br>
+							
+						JERRY: No, actually I was just gonna... <br>
+							<br>
+							
+						ENZO: It's my day off, but I take care of you anyway because you're my favorite customer. You've been with me for so long. You're so loyal. <br>
+							<br>
+							
+						JERRY: Well I, if it's your day off I really... (tries to leave) <br>
+							<br>
+							
+						ENZO: (He pulls Jerry into the barber chair. Jerry is trying to get away but can't.) Eh, what's the difference. It takes 10 minutes. Jerry, today I'm going to do something special for you. <br>
+							<br>
+							
+						JERRY: Well I don't want to take too much off. <br>
+							<br>
+							
+						ENZO: Hey who's your barber, eh? You tell the joke, I cut the hair. <br>
+							<br>
+							
+						MAN: Gino, you've outdone yourself this time. This is the best haircut I've ever had. <br>
+							<br>
+							<br>
+							<br>
+							
+						[At Jerry's apartment.] <br>
+							<br>
+							
+						(Jerry is sitting down on the couch with a really bad haircut. He is holding a mirror. Jerry and George are looking in disbelief at the haircut.) <br>
+							<br>
+							
+						GEORGE: He massacred you. <br>
+							<br>
+							
+						JERRY: I know.<br>
+							<br>
+							
+						GEORGE: You look like you're five years old. <br>
+							<br>
+							
+						JERRY: What if I shampoo? Sometimes a shampoo helps. <br>
+							<br>
+							
+						GEORGE: You've got to start seeing someone else. Get out of this relationship. <br>
+							<br>
+							
+						JERRY: I can't. He loves me. He says I'm his most loyal customer. Plus he's right there on the corner. I'd have to pass him every day when I go by. <br>
+							<br>
+							
+						GEORGE: Well, you gotta do it. <br>
+							<br>
+							
+						JERRY: I can't, I can't. I'd break his heart. <br>
+							<br>
+							
+						(Kramer enters. He flinches when he sees the haircut.) <br>
+							<br>
+							
+						KRAMER: No way my Gino did that. It's an Enzo. <br>
+							<br>
+							
+						JERRY: He was in the shop. I thought you told me he wasn't going to be there. <br>
+							<br>
+							
+						KRAMER: So what? <br>
+							<br>
+							
+						JERRY: I didn't want to hurt his feelings. <br>
+							<br>
+							
+						KRAMER: His feelings? You can't continue seeing him. You're destroying yourself. <br>
+							<br>
+							
+						JERRY: Yea but...<br>
+							<br>
+							
+						KRAMER: I'm not going to let you. If you don't call him I will. <br>
+							<br>
+							
+						JERRY: No, no Kramer. I don't want you to do that. You can't do that. <br>
+							<br>
+							
+						KRAMER: I'm going to call Gino, you're going to see him, and we're going to get that haircut fixed up. <br>
+							<br>
+							
+						JERRY: I don't want you to call him. <br>
+							<br>
+							
+						KRAMER: All right, geez. You're crazy. <br>
+							<br>
+							
+						(Kramer leaves.) <br>
+							<br>
+							
+						GEORGE: So I still haven't heard about that job. <br>
+							<br>
+							
+						JERRY: Yeah that's a tough one. What are you going to do about that? <br>
+							<br>
+							
+						GEORGE: I have an idea. <br>
+							<br>
+							
+						JERRY: Yeah? <br>
+							<br>
+							
+						GEORGE: I show up. <br>
+							<br>
+							
+						JERRY: What do you mean you show up? <br>
+							<br>
+							
+						GEORGE: I show up. I pretend I have the job. The guy's on vacation. If I have the job, it's fine. If I don't have the job, by the time he comes back, I'm ensconced. <br>
+							<br>
+							
+						JERRY: Hmm. Not bad. <br>
+							<br>
+							
+						GEORGE: What's the worst thing that could happen? <br>
+							<br>
+							
+						JERRY: Well, you'd be embarrassed and humiliated in front of a large group of people and have to walk out in shame with your tail between your legs. <br>
+							<br>
+							
+						GEORGE: Yeah, so? <br>
+							<br>
+							
+						JERRY: Yeah, I see what you mean. I forgot who I was dealing with here.<br>
+							<br>
+							<br>
+							
+						[At the office.] <br>
+							<br>
+							
+						GEORGE: (to various people as he walks in) Good morning. Good morning. Good morning. Hi nice to see you. How are you. Good morning. (to the secretary) Good morning. <br>
+							<br>
+							
+						SECRETARY: How can I help you? <br>
+							<br>
+							
+						GEORGE: The name's George Constanza. I'm starting work here today. I was wondering if you could tell me where my office is. <br>
+							<br>
+							
+						SECRETARY: I wasn't aware that, uh, Mike, this is George Constanza. He's starting here today. <br>
+							<br>
+							
+						MIKE: Welcome aboard. <br>
+							<br>
+							
+						GEORGE: Thanks Mike. Nice to be aboard. <br>
+							<br>
+							
+						MIKE: I wasn't aware that Mr. Tuttle was finished interviewing. <br>
+							<br>
+							
+						GEORGE: Oh, well, he was probably just getting anxious to start his vacation. <br>
+							<br>
+							
+						SECRETARY: He wants to know where his office is. <br>
+							<br>
+							
+						MIKE: Oh, ah, let's see, we've got two. There's a big one down the hall there and a small one over here. You know I should ask Jack. <br>
+							<br>
+							
+						GEORGE: Oh leave Jack alone. Jack's got enough problems. I'll just take the small office. <br>
+							<br>
+							
+						MIKE: Really? <br>
+							<br>
+							
+						GEORGE: Yes. I like to feel cozy. I have a very small apartment. I like to feel tucked in, nestled in. Love to be nestled. <br>
+							<br>
+							
+						MIKE: All right, it's 808 right down there. Meanwhile, I'll get you the Pensky file, you can start working on that. <br>
+							<br>
+							
+						GEORGE: Yes, yes of course. The Pensky file. Ho ho, can't wait to sink my teeth into that. Wow that Pensky. Well we'll straighten him out. <br>
+							<br>
+							
+						(George walks into his office. He sets down his briefcase and coat and sits down. He quickly flips through the folder, then drops the folder on his desk with a big thud.) <br>
+							<br>
+							
+						(Camera shot at the clock on his wall. The clock says 9:00.) <br>
+							<br>
+							
+						(A moment later, the clock flips to 5:00.) <br>
+							<br>
+							
+						(George puts the folder in his briefcase. He picks up the briefcase and his coat and he walks out.) <br>
+							<br>
+							<br>
+							<br>
+							
+						[At Monk's]<br>
+							<br>
+							
+						(Jerry is wearing a baseball cap sitting with George at the usual booth] <br>
+							<br>
+							
+						JERRY: So what did you do there all day? <br>
+							<br>
+							
+						GEORGE: They gave me the Pensky file. <br>
+							<br>
+							
+						JERRY: So it's a nice place to work? <br>
+							<br>
+							
+						GEORGE: You know I'm enjoying it very much. I think my coworkers are really taking to me. <br>
+							<br>
+							
+						*flashback* (a white fuzzy border is around the TV screen) <br>
+							<br>
+							
+						GEORGE: (continuing) I feel like a family. In fact, yesterday was Grace's birthday. She's such a sweet woman so, we had a little party, with cake and champagne. I made a toast. <br>
+							<br>
+							
+						*end flashback* <br>
+							<br>
+							
+						JERRY: What about your boss? The guys you interviewed you? <br>
+							<br>
+							
+						GEORGE: He'll be back on Monday. <br>
+							<br>
+							
+						(Elaine enters and sits down.) <br>
+							<br>
+							
+						JERRY: Hi. <br>
+							<br>
+							
+						ELAINE: Hi. How come you're wearing a hat? <br>
+							<br>
+							
+						JERRY: I got a haircut. <br>
+							<br>
+							
+						ELAINE: Oh yeah? Can I see it? <br>
+							<br>
+							
+						JERRY: Oh there's nothing to see. <br>
+							<br>
+							
+						ELAINE: Come on. Let me see it. <br>
+							<br>
+							
+						JERRY: Forget it. <br>
+							<br>
+							
+						ELAINE: Come on. <br>
+							<br>
+							
+						JERRY: All right. <br>
+							<br>
+							
+						(Jerry takes off his baseball cap. Elaine bursts out laughing. George starts laughing. Jerry rolls his eyes in the air. Elaine and George are still laughing. George pounds his fist on the table.)<br>
+							<br>
+							
+						JERRY: Alright, that's very good. Thank you.<br>
+							<br>
+							
+						ELAINE: (still laughing, tears in her eyes) I'm sorry. I'm so sorry. <br>
+							<br>
+							
+						JERRY: Well I'll tell you this, you can forget about me going to that bachelor auction. <br>
+							<br>
+							
+						ELAINE: What? No Jerry, you have to go. <br>
+							<br>
+							
+						GEORGE: You know Elaine, I'd do it but I'm working that day. <br>
+							<br>
+							
+						ELAINE: (dryly) Yeah, too bad. <br>
+							<br>
+							<br>
+							<br>
+							
+						[At the barber shop. Gino is giving Kramer a shave.] <br>
+							<br>
+							
+						KRAMER: It the worst haircut Jerry's ever had. You gotta fix it. <br>
+							<br>
+							
+						GINO: Sure, I fix. But you gotta make sure you no tell anybody. He's a little crazy. I don't know what he'd do if he found out I touch Jerry's hair. <br>
+							<br>
+							
+						KRAMER: Yeah yeah yeah.<br>
+							<br>
+							
+						GINO: (Enzo enters) So I love the Edward Scissorhands. That's the best movie I've ever seen. <br>
+							<br>
+							
+						ENZO: Oh ah, again with the Edward Scissorhand. How can you have hand like a scissor, huh? Show me one person who's got hand like a scissor. <br>
+							<br>
+							
+						GINO: Hey, it's a beautiful dream. I'd love to be this man. <br>
+							<br>
+							
+						ENZO: Did you ever think about what you're going to do on the toilet? (yelling) What are you going to do on the toilet? <br>
+							<br>
+							
+						KRAMER: I'd like to have shoehorn hands. <br>
+							<br>
+							<br>
+							<br>
+							
+						[At Monk's.] <br>
+							<br>
+							
+						(Kramer joins Jerry, George and Elaine at the booth)<br>
+							<br>
+							
+						KRAMER: Hey.<br>
+							<br>
+							
+						JERRY: Hey<br>
+							<br>
+							
+						KRAMER: Okay listen to me. I talked to Gino, he's going to fix the haircut. <br>
+							<br>
+							
+						ELAINE: Oh great, then you can go to the bachelor auction. <br>
+							<br>
+							
+						JERRY: Yeah, but how am I... <br>
+							<br>
+							
+						KRAMER: No buts. His apartment tonight, Eight o'clock. <br>
+							<br>
+							
+						ELAINE: Can he fix it? <br>
+							<br>
+							
+						KRAMER: I don't know. <br>
+							<br>
+							<br>
+							<br>
+							
+						[At Gino's apartment.]<br>
+							<br>
+							
+						GINO: Boy, you've got a beautiful head of hair. <br>
+							<br>
+							
+						JERRY: Oh. thank you. <br>
+							<br>
+							
+						GINO: I bet uncle Enzo, he tell you that all the time. <br>
+							<br>
+							
+						JERRY: Well actually Enzo hasn't said that to me in a while. <br>
+							<br>
+							
+						GINO: I don't think Uncle Enzo realize what a lucky barber he is. <br>
+							<br>
+							
+						JERRY: That's nice of you to say. <br>
+							<br>
+							
+						(The buzzer buzzes.) <br>
+							<br>
+							
+						GINO: Just a second. (answering buzzer) Yes. <br>
+							<br>
+							
+						ENZO: (over the speaker) It's your uncle Enzo. <br>
+							<br>
+							
+						GINO: It's Uncle Enzo. Go in there. I'll clean up. <br>
+							<br>
+							
+						(&quot;The Barber of Seville&quot; music is playing. Gino picks up the chair and puts it into the closet. He picks up a broom and sweeps some hair into the next room.)<br>
+							<br>
+							
+						*knock, knock, knock* <br>
+							<br>
+							
+						(Gino opens the door.) <br>
+							<br>
+							
+						GINO: Uncle Enzo, what are you doing here? <br>
+							<br>
+							
+						ENZO: I've come to apologize. <br>
+							<br>
+							
+						GINO: Apologize? <br>
+							<br>
+							
+						ENZO: Yea. I rented the move Edward Scissorhands. That Johnny Depp, he make me cry. <br>
+							<br>
+							
+						GINO: He make me cry too. You want something to drink? <br>
+							<br>
+							
+						ENZO: Hey, what's all of this? <br>
+							<br>
+							
+						GINO: Nothing. It's just hair. <br>
+							<br>
+							
+						ENZO: You do haircut in the apartment? <br>
+							<br>
+							
+						GINO: No. Pizza man was here. Maybe some fall off. He's going bald. <br>
+							<br>
+							
+						ENZO: It looks very familiar. <br>
+							<br>
+							<br>
+							<br>
+							
+						[At Jerry's apartment.] <br>
+							<br>
+							
+						JERRY: In the one minute he worked on me I could tell he was really good. <br>
+							<br>
+							
+						KRAMER: Yeah. Slow, gentle, attentive.<br>
+							<br>
+							
+						JERRY: Yeah.<br>
+							<br>
+							
+						KRAMER: I told you he could do it. <br>
+							<br>
+							
+						JERRY: Enzo picked up one of my hairs off the floor. <br>
+							<br>
+							
+						KRAMER: Yeah, so? <br>
+							<br>
+							
+						JERRY: I think he knew. <br>
+							<br>
+							
+						KRAMER: No. He doesn't know. <br>
+							<br>
+							
+						JERRY: Who do you know? He knows my hair. <br>
+							<br>
+							
+						KRAMER: Listen you're just imagining things. He doesn't know a thing. Now come on. Pull yourself together. <br>
+							<br>
+							
+						JERRY: Okay, okay. <br>
+							<br>
+							
+						(Elaine enters.) <br>
+							<br>
+							
+						ELAINE: What happened? It looks the same. <br>
+							<br>
+							
+						JERRY: He didn't get to finish it. His uncle came in. We almost got caught. <br>
+							<br>
+							
+						ELAINE: Jerry, the auction is in a few hours. <br>
+							<br>
+							
+						JERRY: Take the K-man. <br>
+							<br>
+							
+						ELAINE: You can still go. <br>
+							<br>
+							
+						KRAMER: What are you kidding? Look at him. He's grotesque. <br>
+							<br>
+							
+						ELAINE: You think? <br>
+							<br>
+							
+						KRAMER: Do I think? He's repugnant. <br>
+							<br>
+							
+						(Elaine fiddles with the hair, trying to make it not look so bad. It doesn't work.) <br>
+							<br>
+							
+						ELAINE: What would you wear? <br>
+							<br>
+							
+						KRAMER: Whatever it takes. <br>
+							<br>
+							<br>
+							<br>
+							
+						[At the barber shop.] <br>
+							<br>
+							
+						ENZO: See, now Newman is a good customer. <br>
+							<br>
+							
+						NEWMAN: Once I find a barber I stick with him. I almost went to barber school. I always felt I had a talent for it. <br>
+							<br>
+							
+						ENZO: Oh, not everybody like Newman, so loyal. <br>
+							<br>
+							
+						NEWMAN: Yeah, just the way that I was raised. I'm special. <br>
+							<br>
+							
+						ENZO: You know I don't mind if somebody's funny, but I no like the funny business. <br>
+							<br>
+							
+						GINO: I'm going to go out for a little bit. I'll be right back. <br>
+							<br>
+							
+						ENZO: Take your time. (Gino leaves) You happy with the haircut? <br>
+							<br>
+							
+						NEWMAN: It's okay. A little crooked. <br>
+							<br>
+							
+						ENZO: How'd you like to have free haircut for six months. <br>
+							<br>
+							
+						NEWMAN: What's the catch? <br>
+							<br>
+							
+						ENZO: You're going to get me a sample of Jerry's hair. <br>
+							<br>
+							
+						NEWMAN: Hmm, that job sounds like it might be worth a year's free haircuts. And a comb. <br>
+							<br>
+							<br>
+							<br>
+							
+						[At George's office.] <br>
+							<br>
+							
+						(George is &quot;playing the drums&quot; on his desk. He is tapping his desk with pencils.) <br>
+							<br>
+							
+						(buzzer on the phone)<br>
+							<br>
+							
+						SECRETARY: (over the speaker) Mr. Costanza, Mr. Pensky is here to see you. <br>
+							<br>
+							
+						GEORGE: Mr. Pensky? Of the Pensky file? <br>
+							<br>
+							
+						(Pensky enters.) <br>
+							<br>
+							
+						PENSKY: Costanza? Arthur Pensky. <br>
+							<br>
+							
+						GEORGE: Mr. Pensky. I was just working on your file. I was transferring the contents of the file into this flexible accordion-style folder.<br>
+							<br>
+							
+						PENSKY: Where's Tuttle? <br>
+							<br>
+							
+						GEORGE: He's on vacation. <br>
+							<br>
+							
+						PENSKY: He was on vacation the last time I dropped by. Give me my file. (looks through the file) Looks like you put a lot of work into this. <br>
+							<br>
+							
+						GEORGE: Well you know in college they used to call me the little bulldog. <br>
+							<br>
+							
+						PENSKY: Hey, you are Pensky material. Would you ever consider coming to work directly for me? <br>
+							<br>
+							
+						GEORGE: Really? <br>
+							<br>
+							
+						PENSKY: You are aware... <br>
+							<br>
+							
+						(buzzer on the phone)<br>
+							<br>
+							
+						SECRETARY: (over the speaker) Mr. Castanza? <br>
+							<br>
+							
+						GEORGE: Not now Florice. <br>
+							<br>
+							
+						SECRETARY: (speaker) I thought Mr. Pensky should know they're towing his car. <br>
+							<br>
+							
+						PENSKY: Damn this city. <br>
+							<br>
+							
+						(Pensky leaves.) <br>
+							<br>
+							
+						GEORGE: I am aware. I am aware. <br>
+							<br>
+							<br>
+							<br>
+							
+						[At Jerry's apartment.]<br>
+							<br>
+							
+						GINO: He knows. He knows about us. <br>
+							<br>
+							
+						JERRY: How do you know? <br>
+							<br>
+							
+						GINO: Because I know. He's crazy. All morning, he looking at the hair. He staring at the hair. <br>
+							<br>
+							
+						(knock knock knock)<br>
+							<br>
+							
+						JERRY: Who is it? <br>
+							<br>
+							
+						NEWMAN: It's Newman. <br>
+							<br>
+							
+						GINO: He was in the shop with Enzo. He can't see me here. <br>
+							<br>
+							
+						JERRY: All right, go in the bedroom. Open the window. You can go out the fire escape. <br>
+							<br>
+							
+						(Jerry opens the door.) <br>
+							<br>
+							
+						JERRY: What do you want? <br>
+							<br>
+							
+						NEWMAN: (dancing) Can I use your bathroom? <br>
+							<br>
+							
+						JERRY: What's wrong with yours? <br>
+							<br>
+							
+						NEWMAN: My toilet's clogged. <br>
+							<br>
+							
+						JERRY: You can't unclog it? <br>
+							<br>
+							
+						NEWMAN: No. <br>
+							<br>
+							
+						JERRY: Did you ask Kramer? <br>
+							<br>
+							
+						NEWMAN: He's out. <br>
+							<br>
+							
+						JERRY: Number one? <br>
+							<br>
+							
+						NEWMAN: Yes, yes. May I go? Cause I gotta go very badly. <br>
+							<br>
+							
+						JERRY: All right. Flush twice. <br>
+							<br>
+							
+						(He goes in the bathroom.) <br>
+							<br>
+							
+						NEWMAN: (thinking to himself; checks a comb) No. (checks a brush) Jackpot. I don't believe this. There's no hair in this thing. I've never seen a person that didn't have at least one hair in a brush. <br>
+							<br>
+							
+						(searches the bathtub drain) Unbelievable, nothing. (sees some scissors) Ahh. <br>
+							<br>
+							
+						JERRY: All right? <br>
+							<br>
+							
+						NEWMAN: Yeah, yeah. <br>
+							<br>
+							
+						JERRY: All right, I'll see you later. <br>
+							<br>
+							
+						NEWMAN: What are you doing? <br>
+							<br>
+							
+						JERRY: I'm watching Edward Scissorhands. <br>
+							<br>
+							
+						NEWMAN: Oh, can I watch a little? Cuz it's my favorite movie. <br>
+							<br>
+							
+						JERRY: Yeah all right. <br>
+							<br>
+							
+						(Newman follows behind Jerry closely as Jerry goes to the kitchen. Newman puts the scissors close up to Jerry's hair. Jerry turns around. Newman hides the scissors.) <br>
+							<br>
+							
+						JERRY: You want something to drink? <br>
+							<br>
+							
+						NEWMAN: No. No.<br>
+							<br>
+							
+						(Newman tries again as Jerry goes to his couch. Newman follows behind Jerry closely. Newman puts the scissors close up to Jerry's hair. Jerry turns around. Newman hides the scissors. Jerry looks at Newman confused.) <br>
+							<br>
+							
+						JERRY: If you want to watch, sit down. You're making me nervous. I tell you this Scissorhands is a hell of a barber. <br>
+							<br>
+							
+						(Newman reaches behind Jerry and get a snip of hair.) <br>
+							<br>
+							
+						NEWMAN: Gotta go. Oh gee, I dropped a nickel (reaches down and picks up the hair.) <br>
+							<br>
+							
+						(Newman leaves laughing. Jerry looks confused. Gino re-enters from the bedroom) <br>
+							<br>
+							<br>
+							<br>
+							
+						[At the barber shop.] <br>
+							<br>
+							
+						(Newman enters)<br>
+							<br>
+							
+						ENZO: Did you get it? (comparing the hairs) Oh you done good Newman. <br>
+							<br>
+							
+						NEWMAN: It was a cinch. Where are you going? <br>
+							<br>
+							
+						ENZO: Io volgio vandetta. <br>
+							<br>
+							<br>
+							<br>
+							
+						[At the auction house.]<br>
+							<br>
+							
+						ELAINE: Nine hundred. Do I hear a thousand? Ladies, he is a Harvard graduate. <br>
+							<br>
+							
+						WOMAN: A thousand. <br>
+							<br>
+							
+						ELAINE: A thousand. Okay, a thousand once, a thousand twice, a thousand three times, sold to the lucky lady in the third row. Congratulations, thank you so much. <br>
+							<br>
+							
+						(Kramer peeks out the curtain and comes out and walks around on stage.) <br>
+							<br>
+							
+						ELAINE: Okay next bachelor is number, um 124 on your program. He's uh, he's a high school graduate. <br>
+							<br>
+							
+						KRAMER: Equivalency. <br>
+							<br>
+							
+						ELAINE: Oh, uh equivalency. A high school equivalency program graduate. (Kramer dances up and down the stage) He's uh, self-employed. He's... I don't know, six foot three, 190 pounds, he likes, uh... fruit, and he just got uh, a haircut. <br>
+							<br>
+							
+						(Kramer steps from the stage onto a table. The table tips over and Kramer falls off. )<br>
+							<br>
+							
+						ELAINE: Oh, Kramer. Okay uh, why don't we start the bidding. Do I hear, um, five bucks? <br>
+							<br>
+							<br>
+							<br>
+							
+						[At Jerry's apartment.] <br>
+							<br>
+							
+						JERRY: I don't get this Scissorhands. What, is he supposed to be like a super hero, like Green Lantern or somebody? What's with this guy? (Gino looks at him annoyed) Just asking. <br>
+							<br>
+							
+						(knock, knock, knock)<br>
+							<br>
+							
+						JERRY: Who is it? <br>
+							<br>
+							
+						ENZO: (yelling) Enzo Manginero. <br>
+							<br>
+							
+						(&quot;Barber of Seville&quot; music playing.) <br>
+							<br>
+							
+						JERRY: Oh my god, he knows. (Jerry and Gino scrambling) Go. (yelling to the door) One second. <br>
+							<br>
+							
+						ENZO: It was you that was in Gino's apartment the other night. <br>
+							<br>
+							
+						JERRY: No I wasn't there. (enters and slams the door) <br>
+							<br>
+							
+						ENZO: Don't lie. I know it was you. I get a sample of your hair. I match them up. <br>
+							<br>
+							
+						JERRY: Sample? (under his breath) Newman. Uh, I was there but I was just dropping off a book. <br>
+							<br>
+							
+						(Gino enters from the bedroom)<br>
+							<br>
+							
+						GINO: Don't Jerry. <br>
+							<br>
+							
+						ENZO: So, it's true. <br>
+							<br>
+							
+						GINO: Yes it's true. <br>
+							<br>
+							
+						ENZO: I'm going to kill the both of you. <br>
+							<br>
+							
+						(Enzo notices &quot;Edward Scissorhands&quot; playing on the TV and becomes calm.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[At the office.] <br>
+							<br>
+							
+						(George is at his desk sleeping with a newspaper draped over him. Tuttle walks in. He bangs on the door. George wakes up.) <br>
+							<br>
+							
+						GEORGE: Mr. Tuttle, you're back. <br>
+							<br>
+							
+						TUTTLE: George, I'm surprised to see you here. <br>
+							<br>
+							
+						GEORGE: You are? <br>
+							<br>
+							
+						TUTTLE: I thought you would have taken the large office. <br>
+							<br>
+							
+						GEORGE: Oh. Really. <br>
+							<br>
+							
+						TUTTLE: I guess I didn't make that clear when I hired you. So where's that Pensky file? Let's see what you've been up to all week.<br>
+							<br>
+							
+						GEORGE: Ah, here it is.<br>
+							<br>
+							
+						TUTTLE:  (pages through the file) What have you been doing all week? <br>
+							<br>
+							
+						GEORGE: Well you missed a lovely little party that we had for Grace. <br>
+							<br>
+							
+						TUTTLE: You haven't done anything with this. <br>
+							<br>
+							
+						GEORGE: Well bear in mind that I am in the smaller office. <br>
+							<br>
+							
+						TUTTLE: I'm beginning to wonder if you understand anything. <br>
+							<br>
+							
+						GEORGE: You are aware that Pensky is interested in me. <br>
+							<br>
+							
+						TUTTLE: (scoffs) You're not Pensky material. <br>
+							<br>
+							
+						GEORGE: (chuckles) Really? Well, we'll just see about that. Ta-ta, Tut-tle. <br>
+							<br>
+							<br>
+							<br>
+							
+						[At Jerry's apartment.] <br>
+							<br>
+							
+						(Gino and Enzo are watching &quot;Edward Scissorhands&quot; on TV. They are both sobbing.) <br>
+							<br>
+							<br>
+							<br>
+							
+						[At the barber shop.] <br>
+							<br>
+							
+						(&quot;Barber of Seville&quot; music is playing.) <br>
+							<br>
+							
+						(Jerry looks in the barber shop window and sees Newman giving a guy a haircut. He enters. Newman looks at him scared. Jerry picks up an electric razor and walks toward Newman. Newman is very frightened.) <br>
+							<br>
+							<br>
+							<br>
+							
+						[Pensky office]<br>
+							<br>
+							
+						PENSKY: Gee George, I'm sorry I gave you the wrong impression. What is was going to say was, now you are aware that our Board of Directors has been indicted, myself included, and we're prohibited from doing business until the investigation is completed. So obviously, we would have no use for you. <br>
+							<br>
+							
+						GEORGE: Obviously. <br>
+							<br>
+							
+						(buzzer on the phone)<br>
+							<br>
+							
+						PENSKY: Yes. <br>
+							<br>
+							
+						SECRETARY: (over the speaker) Excuse me, but Mr. Costanza's car is being towed. <br>
+							<br>
+							
+						(George waves his hand and the final note of &quot;Barber of Seville&quot; plays.) <br>
+							<br>
+							<br>
+							
+						THE END<br>
+							<br>
+							<br>
+							
+						[After the closing Castle Rock Logo]<br>
+							<br>
+							
+						KRAMER: (on the phone in Jerry's apartment) So when are you gonna be able to go out?<br>
+							<br>
+							
+						NEWMAN: (on the phone in his apartment with a Bald head) Not for a while.<br>
+							<br>
+							<br>
+							<br>
+							
+						TRUELY THE END</td>
+						</tr>
+						<tr height="6">
+							<td class="bottom2" width="645" height="6"></td>
+						</tr>
+						<tr>
+							<td width="645">
+								<div align="center">
+									<font size="-1">Copyright 2006 seinology.com | All Rights Reserved | Designed by 13erla</font></div>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+		<p></p>
+	</body>
+
+</html>

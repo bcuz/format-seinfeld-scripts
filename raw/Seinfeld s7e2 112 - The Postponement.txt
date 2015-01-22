@@ -1,0 +1,1204 @@
+<tdOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+<html>
+
+	<head>
+		<meta http-equiv="content-type" content="text/html;charset=ISO-8859-1">
+		<meta name="description" content="Top Source for Seinfeld">
+		<meta name="keywords" content="seinfeld, sienfeld, Jerry Seinfeld, Julia Louis Dreyfus, Jason Alexander, Michael Richards, Kramer, George, Costanza, Elaine Benes, morty, Larry David">
+		<title>Seinology.com :: Scripts :: 112-The Postponement</title>
+	<link rel='stylesheet' href='/stylesheet.css' type='text/css'>
+	</head>
+
+	<body>
+			<table align="center" width="787" border="0" cellspacing="0" cellpadding="0">
+				<tr>
+					<td><font size="-2" color="red">Seinology.com - </font><font size="-3" color="black">Where Seinfeld Content and Accuracy Matter Most. Seinfeld scripts in pdf form, Seinfeld episode video clips, Seinfeld episode audio clips, Jerry Seinfeld appearances, Julia Louis-Dreyfus appearances, Michael Richards appearances, Jason Alexander appearances, Seinfeld discussion Forum, Seinfeld Where are they Now? Seinlanguage Newsletter, Popular Seinfeld Lists, Seinfeld episode standup, Seinfeld episode guide, Seinfeld fan fiction. Seinfeld content all on one domain. Seinology.com enjoy your stay.</font></td>
+				</tr>
+			</table>
+		
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr height="100">
+				<td class="logo"></td>
+			</tr>
+			<tr><td class="ads" align="center" background=#8694fa>
+				<script type="text/javascript"><!--
+google_ad_client = "pub-1924026976931416";
+google_ad_width = 728;
+google_ad_height = 90;
+google_ad_format = "728x90_as";
+google_ad_type = "text";
+google_ad_channel = "";
+google_color_border = "FFFFFF";
+google_color_bg = "8694fa";
+google_color_link = "0000FF";
+google_color_text = "000000";
+google_color_url = "002E3F";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></td></tr>
+		</table>
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr>
+				<td valign="top" width="136">
+					<table width="136" border="0" cellspacing="0" cellpadding="0">
+						<tr height="24">
+							<td class="navigation">
+								<div align="center">
+									
+									<b>Navigation</b></div>
+							</td>
+						</tr>
+						<tr height="199">
+							<td class="spacer1" valign="top" width="136" height="199">
+								<div align="center">
+									<font size="-1"><a href="http://www.seinology.com">Home</a><br>
+										<a href="http://board.seinology.com">Forum</a><br>
+										<a href="http://www.seinology.com/av.shtml">Audio/Video</a><br>
+										<a href="http://www.seinology.com/scripts.shtml">Scripts</a><br>
+										<a href="http://www.seinology.com/survivor.shtml">Survivor</a><br>
+										<a href="http://www.seinology.com/fanfics.shtml">Fan Fiction</a><br>
+										<a href="http://www.seinology.com/gallery/">Gallery</a><br>
+										<a href="http://www.seinology.com/newsletter.shtml">Newsletter</a><br>
+										<a href="http://www.seinology.com/lists.shtml">Lists</a><br>
+										<a href="http://www.seinology.com/epguide.shtml">Episode Guide</a><br>
+										<a href="http://www.seinology.com/links.shtml">Links</a><br>
+										<a href="http://www.seinology.com/faqother.shtml">Faq + others</a><br>
+										<a href="http://www.seinology.com/legal.shtml">Legal</a></font></div>
+							</td>
+						</tr>
+						
+						<tr>
+							<td class="nav2" width="136">
+							<div align="center"><b>Search</b></div></td>
+						</tr>
+						<tr>
+							<td class="spacer1" width="136" valign="top"><div align="center"><form method="get" action="http://www.seinology.com/search/search.cgi">
+<p><label for="fdse_Match">Match</label><br>
+<select name="Match" id="fdse_Match" size="1">
+<option value="1">All</option>
+<option value="0">Any</option>
+<option value="2">Phrase</option>
+</select></p>
+<p><label for="fdse_Realm">Where?</label><br>
+<select name="Realm" id="fdse_Realm" size="1">
+<option selected="selected" value="All">EntireSite</option>
+<option value="Ep Guide">Ep Guide</option>
+<option value="Images">Images</option>
+<option value="Lists">Lists</option>
+<option value="Newsletters">Newsletters</option>
+<option value="Scripts">Scripts</option>
+<option value="Notes..Nothing">Notes..Nothing</option>
+</select></p>
+<p><input type="text" name="Terms" size="14" id="fdse_Terms"><br>
+<input type="submit" class="submit" name="submitButtonName" value="Search"></p>
+</div></form></td>
+						</tr>
+						<tr><td class="bottom" width="136" height="10" valign="top">
+						</td>
+						</tr>
+					</table>
+				</td>
+				<td width="4"></td>
+				<td valign="top" width="645">
+					<table width="645" border="0" cellspacing="0" cellpadding="0">
+						<tr height="18">
+							<td width="645" height="35" class="bar">
+								<div align="center">
+									<b><font size="+2" color="black">Script</font></b></div>
+							</td>
+						</tr>
+						<tr height="362">
+							<td class="spacer2" valign="top" width="645" height="362">
+
+						<p><font size="-2">Episode 112 - The Postponement<br>
+							
+						pc: 702, season 7, episode 2<br>
+							
+						Broadcast date: September 28, 1995<br>
+							<br>
+							
+						Written by Larry David<br>
+							
+						Directed by Andy Ackerman<br>
+							<br>
+							
+						-------------------------------------------------------------------------------<br>
+							<br>
+							
+						The Cast<br>
+							
+						Regulars:<br>
+							
+						Jerry Seinfeld ....................... Jerry Seinfeld<br>
+							
+						Jason Alexander .................. George Costanza<br>
+							
+						Julia Louis-Dreyfus ............. Elaine Benes<br>
+							
+						Michael Richards ................. Cosmo Kramer<br>
+							<br>
+							
+						Guest Stars:<br>
+							<br>
+							
+						Bruce Mahler ...................... Rabbi (Glickman)<br>
+							
+						Kelly Perine ........................ Usher<br>
+							
+						John Rubano ...................... Man<br>
+							
+						Evie Peck ........................... Woman<br>
+							
+						rc: Heidi Swedberg ............ Susan Biddle Ross<br>
+							<br>
+							
+						==================================================================<br>
+							<br>
+							
+						[JERRY and ELAINE are walking down the street and Kramer is parking his car]<br>
+							<br>
+							
+						ELAINE: Hey, good news. My dog problem has been solved.<br>
+							<br>
+							
+						JERRY: Really? What happened?<br>
+							<br>
+							
+						ELAINE: Well, there's this rabbi in my building. You've met him. Very nice man.<br>
+							<br>
+							
+						JERRY: Isn't he the one with the show on cable?<br>
+							<br>
+							
+						ELAINE: Yea, yeah, yeah,. So I spoke to him about the dog. He went down. Talked to the owner. She agr4eed to keep the dog inside from now on.<br>
+							<br>
+							
+						JERRY: That's great.<br>
+							<br>
+							
+						ELAINE: I know.<br>
+							<br>
+							
+						(Kramer crashing into parking spot)<br>
+							<br>
+							
+						JERRY: That looks pretty good.<br>
+							<br>
+							
+						ELAINE: He's in.<br>
+							<br>
+							
+						JERRY: Hey, say, you know, we haven't even discussed George's engagement yet.<br>
+							<br>
+							
+						ELAINE: What's to discuss?<br>
+							<br>
+							
+						JERRY: Come on! GEORGE: is getting married!<br>
+							<br>
+							
+						ELAINE: Is he happy?<br>
+							<br>
+							<br>
+							<br>
+							
+						[At the restaurant! GEORGE: is coming from the bathroom to sit with his bride-to-be.]<br>
+							<br>
+							
+						GEORGE: I will never understand the bathrooms in this country. Why is it that the doors on the stalls do not come all the way down to the floor?<br>
+							<br>
+							
+						SUSAN: Well, maybe it's so you can see if there's someone in there.<br>
+							<br>
+							
+						GEORGE: Isn't that why we have locks on the doors?<br>
+							<br>
+							
+						SUSAN: Well, as a backup system, in case the lock is broken, you can see if it's taken.<br>
+							<br>
+							
+						GEORGE: A backup system? We're designing bathroom doors with our legs exposed in anticipation of the locks not working? That's not a system. That's a complete breakdown of the system.<br>
+							<br>
+							
+						SUSAN: Can we change the subject, please?<br>
+							<br>
+							
+						GEORGE: Why? What's wrong with the subject? This is a bad subject?<br>
+							<br>
+							
+						SUSAN: No, fine. If you wanna keep talking about it, we'll talk about it.<br>
+							<br>
+							
+						GEORGE: It's not that I want to keep talking about it? just think that the subject should resolve itself based on its own momentum.<br>
+							<br>
+							
+						SUSAN: Well, I didn't think that it had any momentum.<br>
+							<br>
+							
+						GEORGE: (To himself) How am I gonna do this? I'm engaged to this woman? She doesn't even like me. Change the subject? Toilets were the subject. We don't even share the same interests.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Jerry's]<br>
+							<br>
+							
+						JERRY: Yeah, he seems pretty happy.<br>
+							<br>
+							
+						ELAINE: Well, that's all that counts, I guess.<br>
+							<br>
+							
+						JERRY: What's the matter?<br>
+							<br>
+							
+						ELAINE: Oh, nothin'.<br>
+							<br>
+							
+						JERRY: Well, you don't seem too enthused about the whole thing.<br>
+							<br>
+							
+						ELAINE: Well, what do you want me to do?<br>
+							<br>
+							
+						JERRY: Well, at least have some reaction to it.<br>
+							<br>
+							
+						ELAINE: &#133;Well, I don't.<br>
+							<br>
+							
+						JERRY: Maybe you're a little jealous.<br>
+							<br>
+							
+						ELAINE: Oh, what? You think I wanna marry George?<br>
+							<br>
+							
+						JERRY: No! But maybe you wish it was you who was getting married, not him.<br>
+							<br>
+							
+						ELAINE: Oh, please! That is the last thing that I want.<br>
+							<br>
+							
+						JERRY: Oh, yeah. Right.<br>
+							<br>
+							
+						ELAINE: Yeah, right.<br>
+							<br>
+							
+						JERRY: Lainy!<br>
+							<br>
+							
+						ELAINE: Jerry!<br>
+							<br>
+							
+						JERRY: You don't wanna get married?<br>
+							<br>
+							
+						ELAINE: Yeah, that's right. I don't wanna get married.<br>
+							<br>
+							
+						JERRY: Oh, come on!<br>
+							<br>
+							
+						ELAINE: Oh, you come on.<br>
+							<br>
+							
+						JERRY: You're such...<br>
+							<br>
+							
+						(Kramer enters)<br>
+							<br>
+							
+						KRAMER: Oh, hey!<br>
+							<br>
+							
+						JERRY: Hey.<br>
+							<br>
+							
+						KRAMER: Elaine, listen, I was talking to a friend about this dog business. Do you realize this is gonna be on our permanent records? Are you aware of this?<br>
+							<br>
+							
+						ELAINE: Oh, dear.<br>
+							<br>
+							
+						KRAMER: It can never be erased. It'll follow us wherever we go for the rest of our lives. I'll never be able to get a job. I mean, doesn't that concern you? Everything I've worked for...down the drain because of one stupid mistake. I mean, aren't we entitled to make one mistake in our lives, Jerry?<br>
+							<br>
+							
+						JERRY: We're gonna change the system.<br>
+							<br>
+							
+						KRAMER: Yes!<br>
+							<br>
+							
+						ELAINE: Well, I could care less. I hope it is on our record. I'm just sorry they didn't lock me up.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Outside Elaine's place]<br>
+							<br>
+							
+						ELAINE: Oh, hello, Rabbi Krischma.<br>
+							<br>
+							
+						RABBI: ELAINE:! Always a pleasure to see you.<br>
+							<br>
+							
+						ELAINE: Thanks again for taking care of that dog for us.<br>
+							<br>
+							
+						RABBI: Elaine, often times in life there are problems, and just as often there are solutions.<br>
+							<br>
+							
+						ELAINE: Yeah, I suppose.<br>
+							<br>
+							
+						RABBI: Elaine, you don't seem yourself today. You seem, if I may say, troubled.<br>
+							<br>
+							
+						ELAINE: No, Rabbi, I'm not myself.<br>
+							<br>
+							
+						RABBI: Come upstairs. We'll have a talk.<br>
+							<br>
+							<br>
+							<br>
+							
+						[At Jerry's apartment. George trots in after his lunch with Kiki and Big Jer is kicking back with a paper.]<br>
+							<br>
+							
+						JERRY: Hey!<br>
+							<br>
+							
+						GEORGE: I want your honest opinion about something.<br>
+							<br>
+							
+						JERRY: Have I ever been less than forthright?<br>
+							<br>
+							
+						GEORGE: No, you haven't. Well, maybe you have. What do I know.<br>
+							<br>
+							
+						JERRY: Yeah, I probably have. Yeah, of course I have. What am I talking about?<br>
+							<br>
+							
+						GEORGE: All right. Okay, tell me what you think about this idea: Extend the doors on the toilet stalls at Yankee Stadium all the way to the floor.<br>
+							<br>
+							
+						JERRY: Extend the doors on the toilet stalls at Yankee Stadium to the floor ...door comes down. Hides your feet. Yes. I like it. I like it a lot.<br>
+							<br>
+							
+						GEORGE: It's good, right?<br>
+							<br>
+							
+						JERRY: I think it's fantastic. I think it's a fantastic idea.<br>
+							<br>
+							
+						GEORGE: You do?<br>
+							<br>
+							
+						JERRY: Yes, I do.<br>
+							<br>
+							
+						GEORGE: Well, I told it to Susan before, and she didn't like it.<br>
+							<br>
+							
+						JERRY: Hmm.<br>
+							<br>
+							
+						GEORGE: Yeah. Not only that, this is what she said to me, &quot;Can we change the subject?&quot;<br>
+							<br>
+							
+						JERRY: See, now that I don't care for.<br>
+							<br>
+							
+						GEORGE: Right. I mean, we're on a subject. Why does it have to be changed?<br>
+							<br>
+							
+						JERRY: It should resolve of its own volition.<br>
+							<br>
+							
+						GEORGE: That's exactly what I said, except I used the word &quot;momentum&quot;.<br>
+							<br>
+							
+						JERRY: Momentum - same thing.<br>
+							<br>
+							
+						GEORGE: Same thing. My god, I'm getting married in December, do you know that?<br>
+							<br>
+							
+						JERRY: Yeah, I know.<br>
+							<br>
+							
+						GEORGE: Well, I don't see how I'm gonna make December. I mean, I need a little more time. I mean, look at me I'm a nervous wreck. My stomach aches. My neck is killing me. I can't turn. Look. Look.<br>
+							<br>
+							
+						JERRY: You're turning.<br>
+							<br>
+							
+						GEORGE: Nah, it's not a good turn. December. December. Don't you think we should have a little more time just to get to know each other a little.<br>
+							<br>
+							
+						JERRY: If you need more time, you should have more time.<br>
+							<br>
+							
+						GEORGE: What, you think I could postpone it?<br>
+							<br>
+							
+						JERRY: Sure you can. Why not?<br>
+							<br>
+							
+						GEORGE: That's allowed? You're allowed to postpone it?<br>
+							<br>
+							
+						JERRY: I don't see why not.<br>
+							<br>
+							
+						GEORGE: So, I could do that?<br>
+							<br>
+							
+						JERRY: Sure, go ahead.<br>
+							<br>
+							
+						GEORGE: All right! All right. I'll tell you what. How about this? Got the date; March 21st, the first day of spring.<br>
+							<br>
+							
+						JERRY: Spring. Of course.<br>
+							<br>
+							
+						GEORGE: Huh? You know? Spring. Rejuvenation. Rebirth. Everything's blooming. All that crap.<br>
+							<br>
+							
+						JERRY: Beautiful.<br>
+							<br>
+							
+						GEORGE: She's not gonna like it.<br>
+							<br>
+							
+						JERRY: No, she's not.<br>
+							<br>
+							
+						GEORGE: You know, I think I'm a little bit scared of her. She's five-three, like a hundred pounds. I'm frightened to death of her.<br>
+							<br>
+							
+						JERRY: Well, she's a woman. They don't like to be disappointed.<br>
+							<br>
+							
+						GEORGE: Especially her. She does not like disappointment. Well, I have to do it. I can't make December. There's no way I can make December. Right? I mean, you can see that, right? I mean, look at me. Look. Look. Can I make December? I can't make December. Right? Look. Look.<br>
+							<br>
+							
+						JERRY: Yeah, you'd better shoot for March.<br>
+							<br>
+							
+						(Kramer enters)<br>
+							<br>
+							
+						KRAMER: Hey, hey.<br>
+							<br>
+							
+						GEORGE: March 21st. Hey! So, you're gonna back me on this, right?<br>
+							<br>
+							
+						JERRY: Oh, all the way.<br>
+							<br>
+							
+						GEORGE: You are a good friend. You know what? Even if you killed somebody I wouldn't turn you in.<br>
+							<br>
+							
+						JERRY: Is that so?<br>
+							<br>
+							
+						JERRY: Hey, Kramer if I killed somebody would you turn me in?<br>
+							<br>
+							
+						KRAMER: Definitely.<br>
+							<br>
+							
+						JERRY: You're kidding?<br>
+							<br>
+							
+						KRAMER: No, no, I would turn you in.<br>
+							<br>
+							
+						JERRY: You would turn me in?<br>
+							<br>
+							
+						KRAMER: Phwap, I wouldn't even think about it.<br>
+							<br>
+							
+						JERRY: I can't believe your a friend of mine.<br>
+							<br>
+							
+						KRAMER: What kind of person are you going around killing people?<br>
+							<br>
+							
+						JERRY: Well, I am sure I had a good reason.<br>
+							<br>
+							
+						KRAMER: Well,, if you'll kill this person, who's to say I wouldn't be next?<br>
+							<br>
+							
+						JERRY: But you know me!<br>
+							<br>
+							
+						KRAMER: I thought I DID!<br>
+							<br>
+							<br>
+							<br>
+							
+						[Rabbi's apartment]<br>
+							<br>
+							
+						ELAINE: I'm not a very religious person but I do feel as if I'm in need of some guidance here.<br>
+							<br>
+							
+						RABBI: Would you care for a snack of some kind? I have the Snackwells which are very popular but I think that sometimes with the so called fat free cookies people may overindulge forgetting they may be high in calories<br>
+							<br>
+							
+						ELAINE: Thank you I am not very hungry. Anyway, um, this friend of mine, George, got engaged .<br>
+							<br>
+							
+						RABBI: How wonderful.<br>
+							<br>
+							
+						ELAINE: Yeah, yeah, well, for some reason, um, I just find myself just overcome with feelings of jealousy and resentment.<br>
+							<br>
+							
+						RABBI: Doesn't it give you any joy to see your friend enter into this holiest of unions?<br>
+							<br>
+							
+						ELAINE: No, no, no it doesn't. No joy no joy whatsoever. Just the whole think makes me . . sick.<br>
+							<br>
+							
+						RABBI: You know, Elaine, very often we cannot see the forest for the trees.<br>
+							<br>
+							
+						ELAINE: Yeah, I don't know what that means.<br>
+							<br>
+							
+						RABBI: Well, for example, say there's a forest, . . .<br>
+							<br>
+							
+						ELAINE: You see the thing is we It should have been me. You know, I'm smart. I'm attractive.<br>
+							<br>
+							
+						RABBI: You know my temple has many single functions.<br>
+							<br>
+							
+						ELAINE: No, no, it's okay.<br>
+							<br>
+							
+						RABBI: My nephew Alex is someone who is also looking perhaps &#133;<br>
+							<br>
+							
+						ELAINE: I don't think so.<br>
+							<br>
+							
+						RABBI: He owns a flower store. Very successful.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Outside Coffee shop]<br>
+							<br>
+							
+						JERRY: So you're nothing but a stoolie. Admit it.<br>
+							<br>
+							
+						KRAMER: Hey, don't do the crime if you can't do the time.<br>
+							<br>
+							
+						JERRY: Another Caf&eacute; Latte?<br>
+							<br>
+							
+						KRAMER: You better believe it.<br>
+							<br>
+							
+						KRAMER: Since when are you so trendy?<br>
+							<br>
+							
+						JERRY: Hey, baby. I set the trends. Who do you think started this whole Caf&eacute; Latte?<br>
+							<br>
+							
+						JERRY: I don't recall you drinking Caf&eacute; Latte.<br>
+							<br>
+							
+						KRAMER: I've been drinking Caf&eacute; Latte since the fifth grade and I haven't looked back.<br>
+							<br>
+							
+						JERRY: Hey, Planet 9 From Outer Space is playing tomorrow night. One show only.<br>
+							<br>
+							
+						KRAMER: I've always wanted to see this.<br>
+							<br>
+							
+						JERRY: You know I was supposed to see this five years ago. I was in a Chinese restaurant with George and Elaine and got all screwed up trying to get a table and I missed it.<br>
+							<br>
+							
+						KRAMER: Well, yeah, lets do it uh?<br>
+							<br>
+							
+						JERRY: Look at this Jerry, dropping paper on the ground. That's littering.<br>
+							<br>
+							
+						JERRY: Maybe you better call the cops and turn me in.<br>
+							<br>
+							
+						KRAMER: Maybe I will.<br>
+							<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						[George's]<br>
+							<br>
+							
+						GEORGE: Hi,<br>
+							<br>
+							
+						SUSAN: How was your day?<br>
+							<br>
+							
+						GEORGE: Good, good day. How was your day?<br>
+							<br>
+							
+						SUSAN: Mine was okay. So what's goin' on?<br>
+							<br>
+							
+						GEORGE: Oh, nothin' much. I went over to jerry's, uh, talked to Jerry.<br>
+							<br>
+							
+						SUSAN: Oh, the Lowers want to get together with us on Friday night.<br>
+							<br>
+							
+						GEORGE: The Lowers, really?<br>
+							<br>
+							
+						SUSAN: You don't want to go?<br>
+							<br>
+							
+						GEORGE: No, I want to go.<br>
+							<br>
+							
+						SUSAN: So what did Jerry have to say?<br>
+							<br>
+							
+						GEORGE: Oh, nothin' much, . . . talkin'. . . . Oh, oh, oh, did I have an unbelievable idea today!<br>
+							<br>
+							
+						SUSAN: Oh, yeah, the toilets. You told me.<br>
+							<br>
+							
+						GEORGE: Yeah, ha ha, It's not the toilets, it's not the toilets. It's something else. Are you ready for this?<br>
+							<br>
+							
+						SUSAN: Yeah.<br>
+							<br>
+							
+						GEORGE: Okay, how about this? All right, we get married March 21st, the first day of Spring.<br>
+							<br>
+							
+						SUSAN: What do you mean? You want to postpone the wedding?<br>
+							<br>
+							
+						GEORGE: No, no no it's not about postponing. I just think the first day of Spring is the perfect day to get married. You know, Spring! Rejuvenation! Rebirth! Everything is blooming all the &#133;<br>
+							<br>
+							
+						SUSAN: If you don't want to marry me, George, just say so. (crying) Say so.<br>
+							<br>
+							
+						GEORGE: Still marry , still marry.<br>
+							<br>
+							
+						SUSAN: You don't love me.<br>
+							<br>
+							
+						GEORGE: Sstill love. Still love.<br>
+							<br>
+							
+						SUSAN: My parents told me you were too neurotic and that I was making a mistake.<br>
+							<br>
+							
+						GEORGE: No no no, no mistake, no mistake. No, no , listen, we're going to get married over Christmas, I &#133;It doesn't make any difference to me. It's fine. Really.<br>
+							<br>
+							
+						SUSAN: Are you sure?<br>
+							<br>
+							
+						GEORGE: Yeah, yeah, sure, Christmas. Snow. Santa. All that stuff.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Monk's]<br>
+							<br>
+							
+						JERRY: Let me take a guess. She cried and you caved.<br>
+							<br>
+							
+						GEORGE: How did you know that?<br>
+							<br>
+							
+						JERRY: I live and breath my friend. . . . I live and breath.<br>
+							<br>
+							
+						GEORGE: I got to tell you I felt terrible. I really thought she was going to collapse and kill herself.<br>
+							<br>
+							
+						JERRY: tes, it's very difficult. Few men have the constitution for it. That's why breakups take two or three tries. You gotta build up your immunity.<br>
+							<br>
+							
+						GEORGE: You see those tears streaming down you don't know what to do. It was like she was on fire and I was trying to put her out.<br>
+							<br>
+							
+						JERRY: Well, at least you probably had some, uh, pretty good make-up sex after.<br>
+							<br>
+							
+						GEORGE: I didn't have any sex.<br>
+							<br>
+							
+						JERRY: You didn't have make-up sex? How could you not have make-up sex? I mean that's the best feature of the heavy relationship.<br>
+							<br>
+							
+						GEORGE: I didn't have make-up sex.<br>
+							<br>
+							
+						JERRY: In your situation the only sex you're going to have better than make-up sex is if you're dent to prison and you have a conjugal visit.<br>
+							<br>
+							
+						GEORGE: Yeah, conjugal visit sex. That is happening!<br>
+							<br>
+							
+						WOMAN: (crying)<br>
+							<br>
+							
+						MAN: I can tell you're very upset but I'm sorry I'm not goin'<br>
+							<br>
+							
+						GEORGE: Did you here that? I can't believe this he's eating his sandwich.<br>
+							<br>
+							
+						MAN: Are you going to eat thoise fries?<br>
+							<br>
+							
+						GEORGE: This is amazing. (George gets up to leave and shake's man's hand) Thank you. Thank you very much. . . . I'm going back in! . . . You'll feel better (to woman)<br>
+							<br>
+							
+						JERRY: . . . Poor bastard.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Outside Elaine's]<br>
+							<br>
+							
+						JERRY: Good evening, Rabbi.<br>
+							<br>
+							
+						RABBI: Good evening. And how does this evening find you?<br>
+							<br>
+							
+						JERRY: Well, Rabbi, well.<br>
+							<br>
+							
+						RABBI: I trust you are here to see your friend, Elaine.<br>
+							<br>
+							
+						JERRY: Yeah, that's right.<br>
+							<br>
+							
+						RABBI: I hope she's feeling better.<br>
+							<br>
+							
+						JERRY: What do you mean?<br>
+							<br>
+							
+						RABBI: She didn't tell you?<br>
+							<br>
+							
+						JERRY: No.<br>
+							<br>
+							
+						RABBI: Well it seems the engagement of her ffriend George has left her feeling bitter and hostile.<br>
+							<br>
+							
+						JERRY: is that so?<br>
+							<br>
+							
+						RABBI: Yes, in fact she told me that she wishes she was the one getting married.<br>
+							<br>
+							
+						JERRY: Really?<br>
+							<br>
+							
+						RABBI: She came off as pretty desperate.<br>
+							<br>
+							
+						JERRY: I didn't know any of this.<br>
+							<br>
+							
+						RABBI: Apparently she doesn't think much of this George fellow either. I recall the word loser peppered throughout her conversation.<br>
+							<br>
+							
+						JERRY: Hum, well it all comes as news to me.<br>
+							<br>
+							<br>
+							<br>
+							
+						[George's apartment]<br>
+							<br>
+							
+						GEORGE: (enters) Hi.<br>
+							<br>
+							
+						SUSAN: Hi, how was your day?<br>
+							<br>
+							
+						GEORGE: Good, good day. How was your day?<br>
+							<br>
+							
+						SUSAN: Ah, it was okay. What's going on?<br>
+							<br>
+							
+						GEORGE: Oh, nothing much. You know, I went over to Jerry's. Talked to Jerry. Um, could I talk to you for a minute?<br>
+							<br>
+							
+						SUSAN: Yeah, sure.<br>
+							<br>
+							
+						GEORGE: You see this is the thing. . . . (crying) I just feel . . . mumble, cry, mumble, . . . I'm scared. You and I together, (cry)<br>
+							<br>
+							
+						SUSAN: George, of course, of course it can wait until march if that is what you want.<br>
+							<br>
+							
+						GEORGE: Yeah?<br>
+							<br>
+							
+						SUSAN: Oh, don't worry your head. Of course.<br>
+							<br>
+							
+						GEORGE: All right. (smiles behind her back)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Elaine's]<br>
+							<br>
+							
+						ELAINE: I've got that magazine article for you.<br>
+							<br>
+							
+						JERRY: You iknow I talked to the rabbi outside.<br>
+							<br>
+							
+						ELAINE: Are you<br>
+							<br>
+							
+						JERRY: Understand you had a little talk with him too.<br>
+							<br>
+							
+						ELAINE: Yeah, talked earlier.<br>
+							<br>
+							
+						JERRY: Yes I know, I know.<br>
+							<br>
+							
+						ELAINE:. . . What does that mean?<br>
+							<br>
+							
+						JERRY: Nothing, nothing.<br>
+							<br>
+							
+						ELAINE: He didn't mention . . .<br>
+							<br>
+							
+						JERRY: Yes he did.<br>
+							<br>
+							
+						ELAINE: He told you about our conversation?<br>
+							<br>
+							
+						JERRY: We had quite a little chat.<br>
+							<br>
+							
+						ELAINE: He told you about . . .<br>
+							<br>
+							
+						JERRY: Yes, about how you're very jealous of George. How you wished it was you who were getting married instead of him.<br>
+							<br>
+							
+						ELAINE: He told you all that? How could he?<br>
+							<br>
+							
+						JERRY: It didn't take much prodding either, I must say.<br>
+							<br>
+							
+						ELAINE: Can he do that?<br>
+							<br>
+							
+						JERRY: He did it.<br>
+							<br>
+							
+						ELAINE: But he's a Rabbi! How can a Rabbi have such a big mouth?<br>
+							<br>
+							
+						JERRY: That's what's so fascinating.<br>
+							<br>
+							
+						(Movie line)<br>
+							<br>
+							
+						JERRY: You better finish your little caf&eacute; latte there. They won't let you in with it.<br>
+							<br>
+							
+						KRAMER: Why not?<br>
+							<br>
+							
+						JERRY: Because they don't allow outside drinks into the movie.<br>
+							<br>
+							
+						KRAMER: Well that's stupid<br>
+							<br>
+							
+						JERRY: That's the rule.<br>
+							<br>
+							
+						KRAMER: Well, we'll just see if we can't get around that.<br>
+							<br>
+							
+						(Kramer puts coffee cup into his pants)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Rabbi's apartment]<br>
+							<br>
+							
+						RABBI: Oh, Elaine. Come in. Come in. So nice to see you again.<br>
+							<br>
+							
+						ELAINE: Yeah&#133;<br>
+							<br>
+							
+						RABBI: Can I offere you some Kasha Varnishkas?<br>
+							<br>
+							
+						ELAINE: No, no. Listen, Rabbi, I'd like to ask you a question. Why, why did you tell my friend Jerry what I talked to you about?<br>
+							<br>
+							
+						RABBI: Was that a problem for you?<br>
+							<br>
+							
+						ELAINE: Of course it was a problem for me. . . . You didn't, you didn't tell anyone else about this, did you?<br>
+							<br>
+							
+						RABBI: Well, let's see? I seem to recall a conversation with Mrs. Winston in 1F.<br>
+							<br>
+							
+						ELAINE: Mrs. Winston?<br>
+							<br>
+							
+						RABBI: Yes, we were waiting for our mail to arrive and I happened to mention to her how you felt that it was never going &quot;to happen&quot; for you.<br>
+							<br>
+							
+						ELAINE: What about Don Ramsey? You didn't mention anything to him did you?<br>
+							<br>
+							
+						RABBI: Don Ramsey?<br>
+							<br>
+							
+						ELAINE: You know that tall really good looking guy, he lives on the fifth floor.<br>
+							<br>
+							
+						RABBI: Oh him! Well this morning I found myself in the elevator with him&#133;<br>
+							<br>
+							
+						ELAINE: my god, you didn't.<br>
+							<br>
+							
+						(Movie theatre)<br>
+							<br>
+							
+						JERRY: Excuse me, pardon me, excuse me<br>
+							<br>
+							
+						KRAMER: Oh, yow, oow Ah!<br>
+							<br>
+							
+						USHER: Hey, hey, what's going on? What just happened here?<br>
+							<br>
+							
+						KRAMER: Nothing Nothing.<br>
+							<br>
+							
+						USHER: Whatya got? One of those Caf&eacute; Latte's in your shirt?<br>
+							<br>
+							
+						KRAMER: I don't have anything. Ask him.<br>
+							<br>
+							
+						(Jerry makes a silent drink gesture)<br>
+							<br>
+							
+						USHER: All right, come on Coffee Boy, bring it out.<br>
+							<br>
+							
+						KRAMER: What?!<br>
+							<br>
+							
+						USHER: Here you go.<br>
+							<br>
+							
+						KRAMER: Ow<br>
+							<br>
+							
+						(Kramer leaves)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Jerry's apartment]<br>
+							<br>
+							
+						ELAINE: But the whole thing is a mess. He told everyone in the building. I met that cute guy on the fifth floor. I mean he could barely bring himself to nod.<br>
+							<br>
+							
+						JERRY: Elaine, if I could say a word here about Jewish people. That man in no way represents our ability to take in a nice piece of juicy gossip and keep it to ourselves.<br>
+							<br>
+							
+						ELAINE: You didn't say this to George, did you?<br>
+							<br>
+							
+						JERRY: No, . . . about how you wish it was YOU who was getting married instead of him? Feelings of resentment, hostility?<br>
+							<br>
+							
+						ELAINE: Yeah that! So, . . .<br>
+							<br>
+							
+						(George enters)<br>
+							<br>
+							
+						GEORGE: Hey oh.<br>
+							<br>
+							
+						ELAINE: GEORGIE! CONGRATULATIONS! Oh, my god. I haven't seen you since it happened. I'm so happy for you.<br>
+							<br>
+							
+						GEORGE: Alright, thanks a lot.<br>
+							<br>
+							
+						ELAINE: Oh, come on. You really, really deserve it.<br>
+							<br>
+							
+						(Gives George a kiss)<br>
+							<br>
+							
+						GEORGE: Oh, deserve! I don't know if I deserve...I mean...<br>
+							<br>
+							
+						ELAINE: Are you kidding? I have seen the changes in you the past couple of years. Man, you have grown. You've matured.<br>
+							<br>
+							
+						GEORGE: Well, I guess I'm getting older.<br>
+							<br>
+							
+						ELAINE: Oh! Well, I just think it's wonderful. Honestly! I've gotta run, but um, please, please give my best to Susan.<br>
+							<br>
+							
+						GEORGE: Yeah.<br>
+							<br>
+							
+						ELAINE: My most, just heartfelt congratulations.<br>
+							<br>
+							
+						GEORGE: Yeah. Thanks. Hey, listen, if you ever get a date, maybe the four of us could go out together sometime.<br>
+							<br>
+							
+						ELAINE: Yes! Yes, yes. Sure.<br>
+							<br>
+							
+						GEORGE: Wait, as a matter of fact, wasn't there some guy in your building that you said you liked? He lived up on the fifth floor or something.<br>
+							<br>
+							
+						ELAINE: Yes. Yes, yes. Yes.<br>
+							<br>
+							
+						GEORGE: Yeah! Boy, she is something, isn't she?<br>
+							<br>
+							
+						JERRY: Yeah, she's something else. Hey, so what happened? Did you hold your ground or...uh&#133;<br>
+							<br>
+							
+						GEORGE: Nope. I wept like a baby.<br>
+							<br>
+							
+						JERRY: What?<br>
+							<br>
+							
+						GEORGE: Well, I started to tell her and then all of the sudden, for some reason, I just burst into tears.<br>
+							<br>
+							
+						JERRY: You cried?<br>
+							<br>
+							
+						GEORGE: I bawled uncontrollably. I just poured my guts out. And I'll tell you, Jerry, it was incredible. I never realized how powerful these tears are. I could have postponed it another five years if I wanted to.<br>
+							<br>
+							
+						JERRY, GEORGE, &amp; KRAMER: Hey!<br>
+							<br>
+							
+						JERRY: Sorry about that movie-thing. I was joking around.<br>
+							<br>
+							
+						KRAMER: Sorry? Are you kidding? You did me the biggest favor of my life. I spoke to a lawyer, we're suing for millions.<br>
+							<br>
+							
+						JERRY: Suing? What for?<br>
+							<br>
+							
+						KRAMER: The coffee was too hot.<br>
+							<br>
+							
+						JERRY: It's supposed to be hot.<br>
+							<br>
+							
+						KRAMER: Not THAT hot.<br>
+							<br>
+							<br>
+							<br>
+							
+						[At George's home. He and Susan are in bed watching TV]<br>
+							<br>
+							
+						RABBI: (On TV) The prophet Isaah tells us without friends our lives are empty and meaningless.<br>
+							<br>
+							
+						GEORGE: Wait. Whoa! That's the Rabbi from Elaine's building. I just met this guy the other day.<br>
+							<br>
+							
+						RABBI: A young lady I know, let's call her Elaine, happened to find herself overwhelmed with feelings of resentment and hostility for her friend, let's call him George. She felt that George was somewhat of a loser and that she was the one who deserved to be married first. She also happened to mention to me that her friend had wondered if going to a prostitute while you're engaged is considered cheating. His feeling was they're never going to see each other again so what's the difference. But that is a subject for another sermon. Now, I'd like to close with a psalm.<br>
+							<br>
+							<br>
+							
+						The End</td>
+						</tr>
+						<tr height="6">
+							<td class="bottom2" width="645" height="6"></td>
+						</tr>
+						<tr>
+							<td width="645">
+								<div align="center">
+									<font size="-1">Copyright 2006 seinology.com | All Rights Reserved | Designed by 13erla</font></div>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+		<p></p>
+	</body>
+
+</html>

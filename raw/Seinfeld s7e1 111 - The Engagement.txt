@@ -1,0 +1,1250 @@
+<tdOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+<html>
+
+	<head>
+		<meta http-equiv="content-type" content="text/html;charset=ISO-8859-1">
+		<meta name="description" content="Top Source for Seinfeld">
+		<meta name="keywords" content="seinfeld, sienfeld, Jerry Seinfeld, Julia Louis Dreyfus, Jason Alexander, Michael Richards, Kramer, George, Costanza, Elaine Benes, morty, Larry David">
+		<title>Seinology.com :: Scripts :: 111-The Engagement</title>
+	<link rel='stylesheet' href='/stylesheet.css' type='text/css'>
+	</head>
+
+	<body>
+			<table align="center" width="787" border="0" cellspacing="0" cellpadding="0">
+				<tr>
+					<td><font size="-2" color="red">Seinology.com - </font><font size="-3" color="black">Where Seinfeld Content and Accuracy Matter Most. Seinfeld scripts in pdf form, Seinfeld episode video clips, Seinfeld episode audio clips, Jerry Seinfeld appearances, Julia Louis-Dreyfus appearances, Michael Richards appearances, Jason Alexander appearances, Seinfeld discussion Forum, Seinfeld Where are they Now? Seinlanguage Newsletter, Popular Seinfeld Lists, Seinfeld episode standup, Seinfeld episode guide, Seinfeld fan fiction. Seinfeld content all on one domain. Seinology.com enjoy your stay.</font></td>
+				</tr>
+			</table>
+		
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr height="100">
+				<td class="logo"></td>
+			</tr>
+			<tr><td class="ads" align="center" background=#8694fa>
+				<script type="text/javascript"><!--
+google_ad_client = "pub-1924026976931416";
+google_ad_width = 728;
+google_ad_height = 90;
+google_ad_format = "728x90_as";
+google_ad_type = "text";
+google_ad_channel = "";
+google_color_border = "FFFFFF";
+google_color_bg = "8694fa";
+google_color_link = "0000FF";
+google_color_text = "000000";
+google_color_url = "002E3F";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></td></tr>
+		</table>
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr>
+				<td valign="top" width="136">
+					<table width="136" border="0" cellspacing="0" cellpadding="0">
+						<tr height="24">
+							<td class="navigation">
+								<div align="center">
+									
+									<b>Navigation</b></div>
+							</td>
+						</tr>
+						<tr height="199">
+							<td class="spacer1" valign="top" width="136" height="199">
+								<div align="center">
+									<font size="-1"><a href="http://www.seinology.com">Home</a><br>
+										<a href="http://board.seinology.com">Forum</a><br>
+										<a href="http://www.seinology.com/av.shtml">Audio/Video</a><br>
+										<a href="http://www.seinology.com/scripts.shtml">Scripts</a><br>
+										<a href="http://www.seinology.com/survivor.shtml">Survivor</a><br>
+										<a href="http://www.seinology.com/fanfics.shtml">Fan Fiction</a><br>
+										<a href="http://www.seinology.com/gallery/">Gallery</a><br>
+										<a href="http://www.seinology.com/newsletter.shtml">Newsletter</a><br>
+										<a href="http://www.seinology.com/lists.shtml">Lists</a><br>
+										<a href="http://www.seinology.com/epguide.shtml">Episode Guide</a><br>
+										<a href="http://www.seinology.com/links.shtml">Links</a><br>
+										<a href="http://www.seinology.com/faqother.shtml">Faq + others</a><br>
+										<a href="http://www.seinology.com/legal.shtml">Legal</a></font></div>
+							</td>
+						</tr>
+						
+						<tr>
+							<td class="nav2" width="136">
+							<div align="center"><b>Search</b></div></td>
+						</tr>
+						<tr>
+							<td class="spacer1" width="136" valign="top"><div align="center"><form method="get" action="http://www.seinology.com/search/search.cgi">
+<p><label for="fdse_Match">Match</label><br>
+<select name="Match" id="fdse_Match" size="1">
+<option value="1">All</option>
+<option value="0">Any</option>
+<option value="2">Phrase</option>
+</select></p>
+<p><label for="fdse_Realm">Where?</label><br>
+<select name="Realm" id="fdse_Realm" size="1">
+<option selected="selected" value="All">EntireSite</option>
+<option value="Ep Guide">Ep Guide</option>
+<option value="Images">Images</option>
+<option value="Lists">Lists</option>
+<option value="Newsletters">Newsletters</option>
+<option value="Scripts">Scripts</option>
+<option value="Notes..Nothing">Notes..Nothing</option>
+</select></p>
+<p><input type="text" name="Terms" size="14" id="fdse_Terms"><br>
+<input type="submit" class="submit" name="submitButtonName" value="Search"></p>
+</div></form></td>
+						</tr>
+						<tr><td class="bottom" width="136" height="10" valign="top">
+						</td>
+						</tr>
+					</table>
+				</td>
+				<td width="4"></td>
+				<td valign="top" width="645">
+					<table width="645" border="0" cellspacing="0" cellpadding="0">
+						<tr height="18">
+							<td width="645" height="35" class="bar">
+								<div align="center">
+									<b><font size="+2" color="black">Script</font></b></div>
+							</td>
+						</tr>
+						<tr height="362">
+							<td class="spacer2" valign="top" width="645" height="362">
+
+						<p><font size="-2">Episode 111 - The Engagement<br>
+							
+						pc: 701, season 7, episode 1<br>
+							
+						Broadcast date: September 21, 1995<br>
+							<br>
+							
+						Written by Larry David<br>
+							
+						Directed by Andy Ackerman<br>
+							<br>
+							
+						-------------------------------------------------------------------------------<br>
+							<br>
+							
+						The Cast<br>
+							
+						Regulars:<br>
+							
+						Jerry Seinfeld ....................... Jerry Seinfeld<br>
+							
+						Jason Alexander .................. George Costanza<br>
+							
+						Julia Louis-Dreyfus ............. Elaine Benes<br>
+							
+						Michael Richards ................. Cosmo Kramer<br>
+							<br>
+							
+						Guest Stars:<br>
+							<br>
+							
+						Mario Joyner ....................... Himself<br>
+							
+						Janni Brenn ......................... Woman #2<br>
+							
+						Mailon Rivera ...................... Cop #1<br>
+							
+						Athena Massey ................... Melanie<br>
+							
+						Ron Byron&nbsp; ......................... Man<br>
+							
+						Renee Phillips ...................... Alice<br>
+							
+						Cindy Cheung .................... Woman #1<br>
+							
+						rc: Wayne Knight ................ Newman<br>
+							
+						rc: Jerry Stiller ..................... FRANK: Costanza<br>
+							
+						rc: Estelle Harris ................. Estelle Costanza<br>
+							
+						rc: Heidi Swedberg ............. Susan Biddle Ross<br>
+							<br>
+							
+						==================================================================<br>
+							<br>
+							
+						[George's Apartment]<br>
+							<br>
+							
+						GEORGE: Well, you got no place to go. I'll tell you what your problem is: You brought your queen out too fast. What do you think? She's one of these feminists looking to get out of the house? No, the queen is old fashioned. . Likes to stay home. Cook. Take care of her man. Make sure he feels good.<br>
+							<br>
+							
+						LIZ: Checkmate.<br>
+							<br>
+							
+						GEORGE: I don't think we should see each other any more.<br>
+							<br>
+							<br>
+							<br>
+							
+						[At Elaine's. She's trying to get some rest.]<br>
+							<br>
+							
+						(dogs barking)<br>
+							<br>
+							
+						ELAINE: Shut up! Shut up! You stupid mutt.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Monk's]<br>
+							<br>
+							
+						JERRY: And you broke up with her 'cuz she beat you at chess? That's pretty sick.<br>
+							<br>
+							
+						GEORGE: I don't see how I could perform sexually in a situation after something like that. I was completely emasculated. Anyway, it's not the only reason.<br>
+							<br>
+							
+						JERRY: Yeah, what else?<br>
+							<br>
+							
+						GEORGE: All right. You wanna know what one of her favorite expressions is? Happy, Pappy?<br>
+							<br>
+							
+						JERRY: Happy, Pappy? What does that mean?<br>
+							<br>
+							
+						GEORGE: Like if she wants to know if I'm pleased with something, she'll say, &quot;Happy, Pappy?&quot;<br>
+							<br>
+							
+						JERRY: Oh, you're &quot;Pappy&quot;.<br>
+							<br>
+							
+						GEORGE: I'm &quot;Pappy&quot;.<br>
+							<br>
+							
+						JERRY: Oh, I get it. Why don't you just say it?<br>
+							<br>
+							
+						GEORGE: Oh, come on. What, are you kidding? GEORGE: I'm much more comfortable criticizing people behind there backs. Anyway, look who's talking. You just broke up with with Melanie last week because she &quot;shuushed you&quot; while you were watching TV.<br>
+							<br>
+							
+						JERRY: Hey, I got a real thing about &quot;shushing&quot;!<br>
+							<br>
+							
+						GEORGE: What is this? Did you ever get the feeling like you've had a haircut but you didn't have one? I'm all itchy back here.<br>
+							<br>
+							
+						JERRY: Ahh.<br>
+							<br>
+							
+						GEORGE: What?<br>
+							<br>
+							
+						JERRY: What is this? What are we doing? What in god's name are we doing?<br>
+							<br>
+							
+						GEORGE: What?<br>
+							<br>
+							
+						JERRY: OUR LIVES!! . What kind of lives are these? We're like children. We're not men.<br>
+							<br>
+							
+						GEORGE: No, we're not. We're not men.<br>
+							<br>
+							
+						JERRY: We come up with all these stupid reasons to break up with these women.<br>
+							<br>
+							
+						GEORGE: I know. I know. That's what I do. That's what I do.<br>
+							<br>
+							
+						JERRY: Are we going to be sitting here when we're sixty like two idiots?<br>
+							<br>
+							
+						GEORGE: . We should be having dinner with our sons when we're sixty.<br>
+							<br>
+							
+						JERRY: We're pathetic&#133; you know that?<br>
+							<br>
+							
+						GEORGE: Yeah, Like I don't know that I'm pathetic.<br>
+							<br>
+							
+						JERRY: Why can't I be normal?<br>
+							<br>
+							
+						GEORGE: Yes. Me, too. I wanna be normal. Normal.<br>
+							<br>
+							
+						JERRY: It would be nice to care about someone.<br>
+							<br>
+							
+						GEORGE: Yes. Yes. Care. You know who I think about a lot? Remember SUSAN: ? The one that used to work for NBC?<br>
+							<br>
+							
+						JERRY: Hmm. I thought she became a lesbian.<br>
+							<br>
+							
+						GEORGE: No. It didn't take.<br>
+							<br>
+							
+						JERRY: Oh.<br>
+							<br>
+							
+						GEORGE: Did I tell you I ran into her last week? Ho-ho, she looked great.<br>
+							<br>
+							
+						JERRY: Hmm.<br>
+							<br>
+							
+						GEORGE: You thought she was good looking, right?<br>
+							<br>
+							
+						JERRY: See, there you go again. What is the difference what I think?<br>
+							<br>
+							
+						GEORGE: I was just curious.<br>
+							<br>
+							
+						JERRY: Well, this is it. I'm really gonna do something about my life, you know? You know, I think I'm gonna call Melanie again. So what if she shushed me. GEORGE:, I am really gonna make some changes.<br>
+							<br>
+							
+						GEORGE: Yes. Changes.<br>
+							<br>
+							
+						JERRY: I'm serious about it.<br>
+							<br>
+							
+						GEORGE: Think I'M not?<br>
+							<br>
+							
+						JERRY: I'm not kidding.<br>
+							<br>
+							
+						GEORGE: Me, too.<br>
+							<br>
+							<br>
+							<br>
+							
+						[At JERRY:'s. He's on the phone]<br>
+							<br>
+							
+						JERRY: Melanie, you can shush me at every opportunity. 5? 3? Oh, it was just an expression. All right, well, that's very sweet of you. Okay, I'll call you later. All right, bye. Hey!<br>
+							<br>
+							
+						KRAMER: What?<br>
+							<br>
+							
+						JERRY: I had a very interesting lunch with GEORGE: Costanza today.<br>
+							<br>
+							
+						KRAMER: Really?<br>
+							<br>
+							
+						JERRY: We were talking about our lives and we both kind of realized we're kids. We're not men.<br>
+							<br>
+							
+						KRAMER: So, then you asked yourselves, &quot;Isn't there something more to life?&quot;<br>
+							<br>
+							
+						JERRY: Yes. We did.<br>
+							<br>
+							
+						KRAMER: Yeah, well, let me clue you in on something. There isn't.<br>
+							<br>
+							
+						JERRY: There isn't?<br>
+							<br>
+							
+						KRAMER: Absolutely not. I mean, what are you thinking about, JERRY:? Marriage? Family?<br>
+							<br>
+							
+						JERRY: Well...<br>
+							<br>
+							
+						KRAMER: They're prisons. Man made prisons. You're doing time. You get up in the morning. She's there. You go to sleep at night. She's there. It's like you gotta ask permission to use the bathroom. Is it all right if I use the bathroom now?<br>
+							<br>
+							
+						JERRY: Really?<br>
+							<br>
+							
+						KRAMER: Yeah, and you can forget about watching TV while you're eating.<br>
+							<br>
+							
+						JERRY: I can?<br>
+							<br>
+							
+						KRAMER: Oh, yeah. You know why? Because it's dinner time. And you know what you do at dinner?<br>
+							<br>
+							
+						JERRY: What?<br>
+							<br>
+							
+						KRAMER: You talk about your day. How was your day today? Did you have a good day today or a bad day today? Well, what kind of day was it? Well, I don't know. How about you? How was your day?<br>
+							<br>
+							
+						JERRY: Boy.<br>
+							<br>
+							
+						KRAMER: It's sad , Jerry. It's a sad state of affairs..<br>
+							<br>
+							
+						JERRY: I'm glad we had this talk.<br>
+							<br>
+							
+						KRAMER: Oh, you have no idea.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Apiphany scene - on the pier]<br>
+							<br>
+							
+						GEORGE: La-la-la...<br>
+							<br>
+							<br>
+							<br>
+							
+						[Jerry's. Elaine pops in, she looks like something the cat just dragged in]<br>
+							<br>
+							
+						KRAMER: Hey.<br>
+							<br>
+							
+						JERRY: Hey.<br>
+							<br>
+							
+						ELAINE: Three hours of sleep again last night.. Three hours of sleep because of that dog.<br>
+							<br>
+							
+						KRAMER: What dog?<br>
+							<br>
+							
+						KRAMER: Yeah. What dog?<br>
+							<br>
+							
+						ELAINE: This dog in the courtyard across from my bedroom window that never never stops barking..<br>
+							<br>
+							
+						KRAMER: Don't...<br>
+							<br>
+							
+						ELAINE: I lost my voice screaming at this thing. I can't sleep. I can't work. I mean, I just moved. I can't move again. What am I gonna do? What? What am I gonna do?<br>
+							<br>
+							
+						KRAMER: Well, there is something you can do.<br>
+							<br>
+							
+						ELAINE: What? KRAMER:, I'll do anything.<br>
+							<br>
+							
+						KRAMER: Well, what if there should be an unfortunate accident?<br>
+							<br>
+							
+						JERRY: You're going to rub out the dog?<br>
+							<br>
+							
+						KRAMER: No, no. Not me. I just happen to know someone who specializes in exactely these kinds of sticky situations.<br>
+							<br>
+							
+						ELAINE: Uh-huh.<br>
+							<br>
+							
+						JERRY: What, you're considering this?<br>
+							<br>
+							
+						KRAMER: Look, just meet with him. ?????.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Newman's - dark and dangerous]<br>
+							<br>
+							
+						ELAINE: I don't really know why I'm here. Kramer talked me into coming up here. But, obviously, I could never really do anything.<br>
+							<br>
+							
+						NEWMAN: Of course. Obviously.<br>
+							<br>
+							
+						ELAINE: Uh, so, anyway, I'm sorry for wasting your time.<br>
+							<br>
+							
+						NEWMAN: What kind of dog did you say it was?<br>
+							<br>
+							
+						ELAINE: Um, I don't know. I've never really seen it.<br>
+							<br>
+							
+						NEWMAN: I see many dogs on my mail route. I'll bet there's not one type of mutt or mongrel I haven't run across.<br>
+							<br>
+							
+						NEWMAN: If you ask me, they have no business living amongst us. Vile, USELESS BEASTS . . .<br>
+							<br>
+							
+						KRAMER: NEWMAN: ! Stop it!!<br>
+							<br>
+							
+						NEWMAN: Anyway.<br>
+							<br>
+							
+						ELAINE: Yeah. Well um, I was just curious if I were interested in availing myself of your services, um, what exactly would you do?<br>
+							<br>
+							
+						NEWMAN: Well, ELAINE:, There's any number of things I could do. But, I can promise you this, though, this vicious beast will never bother you again. So, what's it going to be?<br>
+							<br>
+							
+						ELAINE: No, I'm sorry. I can't hurt a dog. I can't hurt a dog. I can't.<br>
+							<br>
+							
+						KRAMER: I got it. We'll kidnap him . and we'll drop him off Upstate and this way he won't bother you anymore and he won't get hurt.<br>
+							<br>
+							
+						NEWMAN: Yeah, I suppose.<br>
+							<br>
+							
+						KRAMER: Huh?<br>
+							<br>
+							
+						ELAINE: I'd have to think about it. I doubt it, though. I doubt it. I'll let you know.<br>
+							<br>
+							
+						NEWMAN: Of course. Take your time. I be here.<br>
+							<br>
+							<br>
+							<br>
+							
+						[GEORGE: is still at the pier. His thoughts shift somewhat.]<br>
+							<br>
+							
+						GEORGE: La-la-la-la-la-la-la! [flashbacks to Susan]<br>
+							<br>
+							<br>
+							<br>
+							
+						[Elaine's .- makes phone call]<br>
+							<br>
+							
+						ELAINE: All right. Let's do it.<br>
+							<br>
+							
+						NEWMAN: Excellent. Excellent.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Restaurant]<br>
+							<br>
+							
+						JERRY: How come you're eating your peas one at a time?<br>
+							<br>
+							
+						MELANIE: I'm sorry.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Susan's]<br>
+							<br>
+							
+						SUSAN: Who is it?<br>
+							<br>
+							
+						GEORGE: It's GEORGE:.<br>
+							<br>
+							
+						SUSAN: GEORGE:? GEORGE:, what is it?<br>
+							<br>
+							
+						GEORGE: Will you marry me?<br>
+							<br>
+							<br>
+							<br>
+							
+						[George is on the phone.]<br>
+							<br>
+							
+						GEORGE: Ma, guess what!<br>
+							<br>
+							
+						MRS. COSTANZA: Oh, my god!<br>
+							<br>
+							
+						GEORGE: No, it's nothing bad. I'm getting married.<br>
+							<br>
+							
+						MRS. COSTANZA: You're what?<br>
+							<br>
+							
+						GEORGE: I'm getting married?<br>
+							<br>
+							
+						MRS. COSTANZA: Oh, my god! You're getting married?<br>
+							<br>
+							
+						GEORGE: Yes!<br>
+							<br>
+							
+						MRS. COSTANZA: Oh, I can't believe it. FRANK:, come here.<br>
+							<br>
+							
+						FRANK: You come here.<br>
+							<br>
+							
+						MRS. COSTANZA: Georgie's getting married.<br>
+							<br>
+							
+						FRANK: What?<br>
+							<br>
+							
+						MRS. COSTANZA: Georgie's getting married.<br>
+							<br>
+							
+						FRANK: Get the hell out of here. He's getting married?<br>
+							<br>
+							
+						MRS. COSTANZA: Yes.<br>
+							<br>
+							
+						FRANK: To a woman?<br>
+							<br>
+							
+						MRS. COSTANZA: Of course to a woman. What's she look like?<br>
+							<br>
+							
+						FRANK: I'm sure she's pretty gorgeous.<br>
+							<br>
+							
+						GEORGE: What difference does it make what she looks like?<br>
+							<br>
+							
+						MRS. COSTANZA: Is she pretty?<br>
+							<br>
+							
+						GEORGE: Yes, she's pretty. What difference does it make?<br>
+							<br>
+							
+						MRS. COSTANZA: Oh, I'm just curious.<br>
+							<br>
+							
+						FRANK: She's not pretty?<br>
+							<br>
+							
+						MRS. COSTANZA: Let me talk to her.<br>
+							<br>
+							
+						GEORGE: She wants to talk to you.<br>
+							<br>
+							
+						SUSAN: Uh, hello?<br>
+							<br>
+							
+						MRS. COSTANZA: Congratulations!<br>
+							<br>
+							
+						SUSAN: I just want you to know that I love your son very much.<br>
+							<br>
+							
+						MRS. COSTANZA: You do?<br>
+							<br>
+							
+						SUSAN: Yes.<br>
+							<br>
+							
+						MRS. COSTANZA: Really?<br>
+							<br>
+							
+						SUSAN: Yes.<br>
+							<br>
+							
+						MRS. COSTANZA: May I ask why?<br>
+							<br>
+							
+						FRANK: Okay...<br>
+							<br>
+							
+						MRS. COSTANZA: Will you stop. I'm on the telephone.<br>
+							<br>
+							
+						FRANK: Can I talk to her, please?<br>
+							<br>
+							<br>
+							<br>
+							
+						[Outside Jer's and Cosmo's apt.]<br>
+							<br>
+							
+						JERRY: Hey!<br>
+							<br>
+							
+						KRAMER: Hey!<br>
+							<br>
+							
+						JERRY: What are you up to?<br>
+							<br>
+							
+						KRAMER: Nothing.<br>
+							<br>
+							
+						JERRY: What's the rope for?<br>
+							<br>
+							
+						KRAMER: Oh! Well, How do you like that. I got rope. Um, I gotta go.<br>
+							<br>
+							
+						JERRY: The dog. You're getting the dog.<br>
+							<br>
+							
+						GEORGE: Hey, Kramer, where are you going?<br>
+							<br>
+							
+						KRAMER: Out.<br>
+							<br>
+							
+						GEORGE: Don't go. Kramer! Come back. I got great news. Well, I did it.<br>
+							<br>
+							
+						JERRY: Did what?<br>
+							<br>
+							
+						GEORGE: I got engaged. I'm getting married. I asked Susan to marry me. We're getting married this Christmas.<br>
+							<br>
+							
+						JERRY: You're getting married?<br>
+							<br>
+							
+						GEORGE: Yes!<br>
+							<br>
+							
+						JERRY: Oh, my god!<br>
+							<br>
+							
+						GEORGE: I'm a man. Jerry, I'm a man. And do you know why? It's because of that talk we had. You were my inspiration. Do you believe it? You. That lunch was the defining moment of my life.<br>
+							<br>
+							
+						JERRY: I'm blown away.<br>
+							<br>
+							
+						GEORGE: You're blown?<br>
+							<br>
+							
+						JERRY: Wow!<br>
+							<br>
+							
+						GEORGE: You like that?<br>
+							<br>
+							
+						JERRY: And she said &quot;Yes&quot;?<br>
+							<br>
+							
+						GEORGE: It took a couple of hours of convincing. I was persistent. I was just like those guys in the movies. And it worked! She said &quot;Yes&quot;! I can't believe my luck that she was still available . A beautiful woman like that. You think she's good looking, right?<br>
+							<br>
+							
+						JERRY: You're gonna have gorgeous kids.<br>
+							<br>
+							
+						GEORGE: Yes. She's got great skin - a rosy glow..<br>
+							<br>
+							
+						JERRY: Pinkish hue?<br>
+							<br>
+							
+						GEORGE: Oh, she's got the hue. So, what's going on with you and Melanie? I mean, I know you're not getting married, but uh, things are happening?<br>
+							<br>
+							
+						JERRY: Well...actually, we kind of broke up.<br>
+							<br>
+							
+						GEORGE: You what?<br>
+							<br>
+							
+						JERRY: Well, you know, we were having dinner the other night, and she's got this strangest habit. She eats her peas one at a time. You've never seen anything like it. It takes her an hour to finish them. I mean, we've had dinner other times. I've seen her eat Corn Niblets. But she scooped them.<br>
+							<br>
+							
+						GEORGE: . . . she scooped her niblets?<br>
+							<br>
+							
+						JERRY: Yes. That's what was so vexing.<br>
+							<br>
+							
+						GEORGE: Uh-huh. Uh-huh. What about the pact?<br>
+							<br>
+							
+						JERRY: What?<br>
+							<br>
+							
+						GEORGE: What happened to the pact? We were both gonna change. We shook hands on a pact. Did you not shake my hand on it uh?<br>
+							<br>
+							
+						JERRY: You stuck your hand out, so I shook it. I don't know about a pact. Anyway, you should be happy you're engaged. You're getting married.<br>
+							<br>
+							
+						GEORGE: Well, it's not that. I just, you know, I thought that we were both uh...<br>
+							<br>
+							
+						JERRY: You thought I was gonna get married?<br>
+							<br>
+							
+						GEORGE: Well, maybe not married, but...<br>
+							<br>
+							
+						JERRY: I mean, you love Susan, right?<br>
+							<br>
+							
+						GEORGE: Yeah.<br>
+							<br>
+							
+						JERRY: You want to spend the rest of your life with her<br>
+							<br>
+							
+						GEORGE: . . . . . . Yeah.<br>
+							<br>
+							
+						JERRY: So?<br>
+							<br>
+							
+						GEORGE: Yeah. It doesn't make any difference.<br>
+							<br>
+							
+						JERRY: No. So, we're still on to see uh, Firestorm tonight?<br>
+							<br>
+							
+						GEORGE: Yeah.<br>
+							<br>
+							
+						JERRY: I'll pick you up at your apartment. We'll go to the Eight.<br>
+							<br>
+							
+						GEORGE: Yeah.<br>
+							<br>
+							
+						JERRY: Hey, wait a second. Wait a second. ! Celebrate! How about some champagne?<br>
+							<br>
+							
+						GEORGE: Champagne?<br>
+							<br>
+							
+						JERRY: Yes, come on! How often do you get engaged? Come on!<br>
+							<br>
+							
+						GEORGE: Okay! Alright!<br>
+							<br>
+							
+						JERRY: You know what? No champagne. Anyway. . . I'll see you later.<br>
+							<br>
+							
+						GEORGE: Yeah.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Night outside]<br>
+							<br>
+							
+						ELAINE: That's it. That's it. Stop right here.<br>
+							<br>
+							
+						NEWMAN: All right, give me the rope.<br>
+							<br>
+							
+						ELAINE: What? What do you need a rope for?<br>
+							<br>
+							
+						NEWMAN: Look, I don't have time to explain every little thing to you.<br>
+							<br>
+							
+						ELAINE: I don't know. Now, I'm thinking maybe we shouldn't do this.<br>
+							<br>
+							
+						NEWMAN: I knew you'd back out.<br>
+							<br>
+							
+						ELAINE: KRAMER:, are we doing a bad thing?<br>
+							<br>
+							
+						KRAMER: Well, Look at it this way. We drop the dog off in front of somebody's house in the country. They find it and adopt it. Now the dog is prancing in the fields. Dancing and prancing. Fresh air. . Dandelions. We're doing this dog a huge favor.<br>
+							<br>
+							
+						ELAINE: Yeah. That's him.<br>
+							<br>
+							
+						NEWMAN: All right. I'm going in. Keep the motor running.<br>
+							<br>
+							<br>
+							<br>
+							
+						[George's.]<br>
+							<br>
+							
+						JERRY: Ready?<br>
+							<br>
+							
+						GEORGE: Um, I don't uh, really think I can go.<br>
+							<br>
+							
+						JERRY: Oh, how come?<br>
+							<br>
+							
+						GEORGE: Well, I didn't really tell Susan about it, and she doesn't really have anything else to do.<br>
+							<br>
+							
+						JERRY: Well, she could come.<br>
+							<br>
+							
+						GEORGE: Well, she doesn't really want to see Firestorm.<br>
+							<br>
+							
+						JERRY: Oh.<br>
+							<br>
+							
+						GEORGE: She um, she wants to see The Muted Heart.<br>
+							<br>
+							
+						JERRY: Oh, The Muted Heart. Glen Close. Sally Field. Well, that should be good.<br>
+							<br>
+							
+						GEORGE: Yeah. see you later.<br>
+							<br>
+							
+						JERRY: Hey, wait a second. You know, we could share a cab. They're playing at the same Cineplex.<br>
+							<br>
+							
+						SUSAN: George, better get ready.<br>
+							<br>
+							
+						GEORGE: I am ready.<br>
+							<br>
+							
+						SUSAN: You wearing that shirt?.<br>
+							<br>
+							
+						GEORGE: Okay, I guess I'll see you down there.<br>
+							<br>
+							
+						JERRY: Yeah.<br>
+							<br>
+							
+						GEORGE: Okay.<br>
+							<br>
+							<br>
+							<br>
+							
+						[In the van.]<br>
+							<br>
+							
+						ELAINE: What time you got?<br>
+							<br>
+							
+						KRAMER: Oh, no. I don't wear a watch.<br>
+							<br>
+							
+						ELAINE: What do you do?<br>
+							<br>
+							
+						KRAMER: Well, I tell time by the sun.<br>
+							<br>
+							
+						ELAINE: How close do you get?<br>
+							<br>
+							
+						KRAMER: Well, I can guess within an hour.<br>
+							<br>
+							
+						ELAINE: Tsk. Well, I can guess within the hour, and I don't even have to look at the sun.<br>
+							<br>
+							
+						KRAMER: Yeah.<br>
+							<br>
+							
+						ELAINE: Well, what about at night? What do you do then?<br>
+							<br>
+							
+						KRAMER: Well, night's tougher but it's only a couple of hours.<br>
+							<br>
+							
+						NEWMAN: Let's go. Let's go. Move!<br>
+							<br>
+							
+						KRAMER: You got it?<br>
+							<br>
+							
+						NEWMAN: What do you think? Drive. Drive.<br>
+							<br>
+							
+						ELAINE: Where is it? Where is it? This? This is the dog?<br>
+							<br>
+							
+						NEWMAN: Yep.<br>
+							<br>
+							
+						ELAINE: But he's so small.<br>
+							<br>
+							
+						NEWMAN: Yeah, but he's a fighter.<br>
+							<br>
+							
+						ELAINE: That can't be the dog. Are you sure you got the right one?<br>
+							<br>
+							
+						NEWMAN: Look, you said the one in the second courtyard. He was in the second courtyard.<br>
+							<br>
+							
+						ELAINE: How could that be the dog?<br>
+							<br>
+							
+						KRAMER: Well, get him to bark.<br>
+							<br>
+							
+						ELAINE: Yeah. Yeah. I'll know if he barks.<br>
+							<br>
+							
+						NEWMAN: All right. Bark.<br>
+							<br>
+							
+						ELAINE: Bark.<br>
+							<br>
+							
+						NEWMAN: Bark.<br>
+							<br>
+							<br>
+							<br>
+							
+						[At the theater]<br>
+							<br>
+							
+						SUSAN: Did you like it?<br>
+							<br>
+							
+						GEORGE: Yes, it was very, very good.<br>
+							<br>
+							
+						SUSAN: Oh, do you think he'll ever find her again?<br>
+							<br>
+							
+						GEORGE: Oh, I sure hope so.<br>
+							<br>
+							
+						JERRY: How about when Harrison Ford jumped out of that plane, and he was shooting back at them as he was falling?<br>
+							<br>
+							
+						FRIEND: What about that underwater escape?<br>
+							<br>
+							
+						JERRY: Oh, man!<br>
+							<br>
+							<br>
+							<br>
+							
+						[In the van]<br>
+							<br>
+							
+						KRAMER: Let's turn the radio on. Maybe there's a news report about it.<br>
+							<br>
+							
+						NEWMAN: ???????<br>
+							<br>
+							
+						ELAINE: You think we're far enough.<br>
+							<br>
+							
+						NEWMAN: We're practically to Monticello.<br>
+							<br>
+							
+						KRAMER: Yeah. This looks right. All right. Give me the dog. Okay, boy. This is it. This is your new home. Let go of my shirt. Come on. Let go of my shirt. This shirt is from Rudy's.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Jerry's on the phone with his newly imprisoned buddy, Georgie.]<br>
+							<br>
+							
+						GEORGE: Hello?<br>
+							<br>
+							
+						JERRY: Hey, ??? is rerunning the Yankee game. You watching this?<br>
+							<br>
+							
+						GEORGE: They are?<br>
+							<br>
+							
+						SUSAN: GEORGE:, you coming to bed? I'm taping Mad About You.<br>
+							<br>
+							
+						GEORGE: Uh, yeah, I'll be there in a minute.<br>
+							<br>
+							
+						JERRY: What was that?<br>
+							<br>
+							
+						GEORGE: Uh, nothing. I got to go.<br>
+							<br>
+							
+						JERRY: Oh, Mattingly just singled .<br>
+							<br>
+							
+						GEORGE: You know, it was really wrong of you to back out on that deal.<br>
+							<br>
+							
+						JERRY: I didn't make a deal. I just shook your hand.<br>
+							<br>
+							
+						GEORGE: Yeah, Well that's a deal where I come from.<br>
+							<br>
+							
+						JERRY: We come from the same place.<br>
+							<br>
+							
+						SUSAN: GEORGE:, I'm starting it.<br>
+							<br>
+							
+						GEORGE: I got to go.<br>
+							<br>
+							<br>
+							<br>
+							
+						[At the pooch's pad. ]<br>
+							<br>
+							
+						LADY: Roxy! Where have you been? We've been worried sick about you. What's this? Hmm. Rudy's.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Elaine's bedroom - dog barking]<br>
+							<br>
+							
+						ELAINE: No! No! It's impossible. It's impossible.<br>
+							<br>
+							<br>
+							<br>
+							
+						[At Jerry's. ]<br>
+							<br>
+							
+						ELAINE: I don't know. I don't know how it happened. We were practically in Monticello. I mean, how could that thing have found its way back? There's no way.<br>
+							<br>
+							
+						JERRY: Very strange.<br>
+							<br>
+							
+						ELAINE: I know.<br>
+							<br>
+							
+						JERRY: So, tell me anyway. Who was the BIG mastermind?<br>
+							<br>
+							
+						ELAINE: Oh, I can't Jerry. 4I'm sworn to secrecy.<br>
+							<br>
+							
+						JERRY: All right. But then I can't tell you the BIG news.<br>
+							<br>
+							
+						ELAINE: News? What news?<br>
+							<br>
+							
+						JERRY: Sorry!<br>
+							<br>
+							
+						ELAINE: What? What?<br>
+							<br>
+							
+						JERRY: All right, Elaine but this is beyond news. This is like Pearl Harbor. Or the Kennedy assassination. It's like not even news. It's total shock.<br>
+							<br>
+							
+						ELAINE: Oh, come on, Jerry. Please, please, please, please, please!<br>
+							<br>
+							
+						JERRY: George Costanza...<br>
+							<br>
+							
+						ELAINE: Yeah?<br>
+							<br>
+							
+						JERRY: Is getting married!<br>
+							<br>
+							
+						ELAINE: Get out!<br>
+							<br>
+							<br>
+							<br>
+							
+						[Outside Kramer's apartment]<br>
+							<br>
+							
+						KRAMER: Hi.<br>
+							<br>
+							
+						COP: You Cosmo Kramer?<br>
+							<br>
+							
+						KRAMER: Uh, yes. Yeah.<br>
+							<br>
+							
+						COP: You recognize this piece of fabric?<br>
+							<br>
+							
+						KRAMER: Oh, yeah, that's...<br>
+							<br>
+							
+						COP: What?<br>
+							<br>
+							
+						KRAMER: What?<br>
+							<br>
+							
+						COP: You're under arrest.<br>
+							<br>
+							
+						KRAMER: Arrest?<br>
+							<br>
+							
+						COP: I have a receipt for a rental car with your signature. Including a report with some damage to the rear seat. It seems the spring was so compressed it completely collapsed the right side..<br>
+							<br>
+							
+						JERRY: Newman.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Cop at Newman's door]<br>
+							<br>
+							
+						NEWMAN: What took you so long?<br>
+							<br>
+							<br>
+							<br>
+							
+						[back of a Cop car]<br>
+							<br>
+							
+						KRAMER: Hey, what do you think they'll do to us?<br>
+							<br>
+							
+						NEWMAN: Ah, don't worry about a thing. In twenty minutes that place'll be swarming with mailmen. We'll be back on the street by lunch.<br>
+							<br>
+							
+						ELAINE: I gotta make some changes. I'm not a woman. I'm a child. What kind of life is this?<br>
+							<br>
+							
+						(George and Susan in bed - MAY music)<br>
+							<br>
+							<br>
+							
+						The End</td>
+						</tr>
+						<tr height="6">
+							<td class="bottom2" width="645" height="6"></td>
+						</tr>
+						<tr>
+							<td width="645">
+								<div align="center">
+									<font size="-1">Copyright 2006 seinology.com | All Rights Reserved | Designed by 13erla</font></div>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+		<p></p>
+	</body>
+
+</html>

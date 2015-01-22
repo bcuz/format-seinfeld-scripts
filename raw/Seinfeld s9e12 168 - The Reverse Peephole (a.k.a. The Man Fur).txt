@@ -1,0 +1,1442 @@
+<tdOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+<html>
+
+	<head>
+		<meta http-equiv="content-type" content="text/html;charset=ISO-8859-1">
+		<meta name="description" content="Top Source for Seinfeld">
+		<meta name="keywords" content="seinfeld, sienfeld, Jerry Seinfeld, Julia Louis Dreyfus, Jason Alexander, Michael Richards, Kramer, George, Costanza, Elaine Benes, morty, Larry David">
+		<title>Seinology.com :: Scripts :: 168-The Reverse Peephole</title>
+	<link rel='stylesheet' href='/stylesheet.css' type='text/css'>
+	</head>
+
+	<body>
+			<table align="center" width="787" border="0" cellspacing="0" cellpadding="0">
+				<tr>
+					<td><font size="-2" color="red">Seinology.com - </font><font size="-3" color="black">Where Seinfeld Content and Accuracy Matter Most. Seinfeld scripts in pdf form, Seinfeld episode video clips, Seinfeld episode audio clips, Jerry Seinfeld appearances, Julia Louis-Dreyfus appearances, Michael Richards appearances, Jason Alexander appearances, Seinfeld discussion Forum, Seinfeld Where are they Now? Seinlanguage Newsletter, Popular Seinfeld Lists, Seinfeld episode standup, Seinfeld episode guide, Seinfeld fan fiction. Seinfeld content all on one domain. Seinology.com enjoy your stay.</font></td>
+				</tr>
+			</table>
+		
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr height="100">
+				<td class="logo"></td>
+			</tr>
+			<tr><td class="ads" align="center" background=#8694fa>
+				<script type="text/javascript"><!--
+google_ad_client = "pub-1924026976931416";
+google_ad_width = 728;
+google_ad_height = 90;
+google_ad_format = "728x90_as";
+google_ad_type = "text";
+google_ad_channel = "";
+google_color_border = "FFFFFF";
+google_color_bg = "8694fa";
+google_color_link = "0000FF";
+google_color_text = "000000";
+google_color_url = "002E3F";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></td></tr>
+		</table>
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr>
+				<td valign="top" width="136">
+					<table width="136" border="0" cellspacing="0" cellpadding="0">
+						<tr height="24">
+							<td class="navigation">
+								<div align="center">
+									
+									<b>Navigation</b></div>
+							</td>
+						</tr>
+						<tr height="199">
+							<td class="spacer1" valign="top" width="136" height="199">
+								<div align="center">
+									<font size="-1"><a href="http://www.seinology.com">Home</a><br>
+										<a href="http://board.seinology.com">Forum</a><br>
+										<a href="http://www.seinology.com/av.shtml">Audio/Video</a><br>
+										<a href="http://www.seinology.com/scripts.shtml">Scripts</a><br>
+										<a href="http://www.seinology.com/survivor.shtml">Survivor</a><br>
+										<a href="http://www.seinology.com/fanfics.shtml">Fan Fiction</a><br>
+										<a href="http://www.seinology.com/gallery/">Gallery</a><br>
+										<a href="http://www.seinology.com/newsletter.shtml">Newsletter</a><br>
+										<a href="http://www.seinology.com/lists.shtml">Lists</a><br>
+										<a href="http://www.seinology.com/epguide.shtml">Episode Guide</a><br>
+										<a href="http://www.seinology.com/links.shtml">Links</a><br>
+										<a href="http://www.seinology.com/faqother.shtml">Faq + others</a><br>
+										<a href="http://www.seinology.com/legal.shtml">Legal</a></font></div>
+							</td>
+						</tr>
+						
+						<tr>
+							<td class="nav2" width="136">
+							<div align="center"><b>Search</b></div></td>
+						</tr>
+						<tr>
+							<td class="spacer1" width="136" valign="top"><div align="center"><form method="get" action="http://www.seinology.com/search/search.cgi">
+<p><label for="fdse_Match">Match</label><br>
+<select name="Match" id="fdse_Match" size="1">
+<option value="1">All</option>
+<option value="0">Any</option>
+<option value="2">Phrase</option>
+</select></p>
+<p><label for="fdse_Realm">Where?</label><br>
+<select name="Realm" id="fdse_Realm" size="1">
+<option selected="selected" value="All">EntireSite</option>
+<option value="Ep Guide">Ep Guide</option>
+<option value="Images">Images</option>
+<option value="Lists">Lists</option>
+<option value="Newsletters">Newsletters</option>
+<option value="Scripts">Scripts</option>
+<option value="Notes..Nothing">Notes..Nothing</option>
+</select></p>
+<p><input type="text" name="Terms" size="14" id="fdse_Terms"><br>
+<input type="submit" class="submit" name="submitButtonName" value="Search"></p>
+</div></form></td>
+						</tr>
+						<tr><td class="bottom" width="136" height="10" valign="top">
+						</td>
+						</tr>
+					</table>
+				</td>
+				<td width="4"></td>
+				<td valign="top" width="645">
+					<table width="645" border="0" cellspacing="0" cellpadding="0">
+						<tr height="18">
+							<td width="645" height="35" class="bar">
+								<div align="center">
+									<b><font size="+2" color="black">Script</font></b></div>
+							</td>
+						</tr>
+						<tr height="362">
+							<td class="spacer2" valign="top" width="645" height="362">
+
+						<p><font size="-2">Episode 168 - The Reverse Peephole (a.k.a. The Man Fur)<br>
+							
+						pc: 912 season 9, episode 12<br>
+							
+						Broadcast date: January 15, 1998<br>
+							<br>
+							
+						Written by Spike Feresten<br>
+							
+						Directed by Andy Ackerman<br>
+							<br>
+							
+						-------------------------------------------------------------------------------<br>
+							<br>
+							
+						The Cast<br>
+							
+						Regulars:<br>
+							
+						Jerry Seinfeld ......................&nbsp; Jerry Seinfeld<br>
+							
+						Jason Alexander .................. George Costanza<br>
+							
+						Julia Louis-Dreyfus .............. Elaine Benes<br>
+							
+						Michael Richards .................. Cosmo Kramer<br>
+							<br>
+							
+						Guest Stars:<br>
+							<br>
+							
+						Jon Polito ............................. Silvio<br>
+							
+						Pat Finn ................................ Joe Mayo<br>
+							
+						Jennette Robbins .................. Keri<br>
+							
+						Fitz Houston ........................ COP:<br>
+							
+						Joe Basile .............................. Delivery Guy<br>
+							
+						Lauren Bowles ..................... Waitress<br>
+							
+						rc: Wayne Knight ................. Newman<br>
+							
+						rc:&nbsp; Patrick Warburton ......... David Puddy<br>
+							<br>
+							
+						==================================================================<br>
+							<br>
+							
+						[Waitress giving Elaine her meal at Monk's.]<br>
+							<br>
+							
+						WAITRESS: Careful, this plate is extremely hot.<br>
+							<br>
+							
+						(Elaine touching the plate.)<br>
+							<br>
+							
+						ELAINE: Thank you. Ow!<br>
+							<br>
+							
+						WAITRESS: I just told you it was hot. Why'd you touch it?<br>
+							<br>
+							
+						ELAINE: I just wanted to know what your idea of 'hot' is.<br>
+							<br>
+							
+						(Puddy entering Monk's in a fur coat)<br>
+							<br>
+							
+						PUDDY: Hey, babe. You ready to hit the ice?<br>
+							<br>
+							
+						(Elaine cracking up when she sees Puddy's coat.)<br>
+							<br>
+							
+						ELAINE: I am ready to skate up a-- ha, ha, ha...Why are you wearing that?<br>
+							<br>
+							
+						PUDDY: It's my winter coat.<br>
+							<br>
+							
+						ELAINE: A fur?<br>
+							<br>
+							
+						(Puddy sits down in the booth.)<br>
+							<br>
+							
+						PUDDY: Is there a problem?<br>
+							<br>
+							
+						ELAINE: A seemingly infinite supply.<br>
+							<br>
+							
+						(Elaine touching the plate again.)<br>
+							<br>
+							
+						ELAINE: Ow! Careful, it's hot.<br>
+							<br>
+							
+						(Puddy touching the plate.)<br>
+							<br>
+							
+						PUDDY: Ow!<br>
+							<br>
+							<br>
+							<br>
+							
+						[Jerry, in his apartment with Elaine and George.]<br>
+							<br>
+							
+						JERRY: So, Puddy wear's a man fur?<br>
+							<br>
+							
+						ELAINE: He was struttin' around the coffee shop like Stein Erickson.<br>
+							<br>
+							
+						JERRY: And, of course, you find fur morally reprehensible.<br>
+							<br>
+							
+						ELAINE: Eh, anti-fur. I mean, who has the energy anymore? This is more about hanging off the arm of an idiot.<br>
+							<br>
+							
+						GEORGE: And this is the first you're seeing of the coat?<br>
+							<br>
+							
+						ELAINE: We never dated in winter.<br>
+							<br>
+							
+						JERRY: You might want to get a look at that bathing suit drawer.<br>
+							<br>
+							
+						ELAINE: Oh, I walked by Bloomingdale's the other day, and I saw that massage chair we want to get Joe Mayo as an apartment gift.<br>
+							<br>
+							
+						GEORGE: An apartment-warming gift? We got to give presents to people for moving? Birthdays, Christmas, it's enough gifts. I would like one month off.<br>
+							<br>
+							
+						JERRY: Kramer said it's a perfect gift. That's what we're gettin' him.<br>
+							<br>
+							
+						GEORGE: All right, but we're not buyin' it at Bloomingdale's. I will buy it, you pay me back later. I'll sniff out a deal. I have a sixth sense.<br>
+							<br>
+							
+						JERRY: Cheapness is not a sense.<br>
+							<br>
+							
+						ELAINE: I can't stand Joe Mayo's parties. You know, the second you walk in, he's got you workin' for him. 'Hey, can you do me a favor? Can you keep an eye on the ice, make sure we have enough?' Uh...<br>
+							<br>
+							
+						JERRY: I had a great time at the last one. I was in charge of the music. I turned that mother out.<br>
+							<br>
+							
+						(Kramer enters Jerry's apartment with Newman.)<br>
+							<br>
+							
+						KRAMER: Hey.<br>
+							<br>
+							
+						JERRY: Hey.<br>
+							<br>
+							
+						KRAMER: You got any pliers?<br>
+							<br>
+							
+						JERRY: What, has Newman got another army man stuck in his ear?<br>
+							<br>
+							
+						NEWMAN: Hilarious.<br>
+							<br>
+							
+						KRAMER: Newman and I are reversing the peepholes on our door. So you can see in.<br>
+							<br>
+							
+						ELAINE: Why?<br>
+							<br>
+							
+						NEWMAN: To prevent an ambush.<br>
+							<br>
+							
+						KRAMER: Yeah, so now I can peek to see if anyone is waiting to jack me with a sock full of pennies.<br>
+							<br>
+							
+						JERRY: But then anyone can just look in and see you.<br>
+							<br>
+							
+						KRAMER: Our policy is, we're comfortable with our bodies. You know, if someone wants to help themselves to an eyefull, well, we say, 'Enjoy the show.'<br>
+							<br>
+							
+						ELAINE: I'm sorry I can't stay for the... second act.<br>
+							<br>
+							
+						(Jerry pulls a stub of paper out of his wallet.)<br>
+							<br>
+							
+						JERRY: Hey, George. Here's the model number on that chair, by the way.<br>
+							<br>
+							
+						KRAMER: Mmm... Nice wallet.<br>
+							<br>
+							
+						NEWMAN: Wallet.<br>
+							<br>
+							
+						JERRY: What?<br>
+							<br>
+							
+						(Kramer showing Jerry the contents of his pocket)<br>
+							<br>
+							
+						KRAMER: Nobody carries wallets anymore. I mean, they went out with powdered wigs. Yeah, see here's what you need. Just a couple of cards and your bankroll. See, keep the big bills on the outside.<br>
+							<br>
+							
+						JERRY: That's a five.<br>
+							<br>
+							
+						(Kramer singing as he switches his peephole around)<br>
+							<br>
+							
+						KRAMER: I'm on the Mexican, whoa ohh, radio...<br>
+							<br>
+							
+						(Silvio coming up behind Kramer)<br>
+							<br>
+							
+						SILVIO: Eh, what are you doing?<br>
+							<br>
+							
+						KRAMER: Hey, Silvio. Yeah, I'm reversing my peephole.<br>
+							<br>
+							
+						SILVIO: Hey, you know you gotta get permission from me. I'm the super. Who said you could do that?<br>
+							<br>
+							
+						KRAMER: Well, who says I can do any of the things I do in my place?<br>
+							<br>
+							
+						SILVIO: Like what?<br>
+							<br>
+							
+						KRAMER: Well, I... uh, nothing. No, I'll, um, I'll switch it back.<br>
+							<br>
+							
+						SILVIO: No, no, no, no. No, that's all right.<br>
+							<br>
+							
+						KRAMER: Well, that's good. Because, uh, Newman and I--<br>
+							<br>
+							
+						SILVIO: Newman? He did this, too?<br>
+							<br>
+							
+						KRAMER: Well, yeah.<br>
+							<br>
+							
+						SILVIO: I deal with him.<br>
+							<br>
+							
+						(George showing Jerry a newspaper ad.)<br>
+							<br>
+							
+						GEORGE: Hey, look at this. This is the same massage chair we're gettin' for Joe Mayo, $60 cheaper.<br>
+							<br>
+							
+						JERRY: Except the store's in Delaware.<br>
+							<br>
+							
+						GEORGE: I'll have 'em overnight it.<br>
+							<br>
+							
+						JERRY: Maybe cheapness is a sense. You know it is better without this big wallet. It's more comfortable.<br>
+							<br>
+							
+						GEORGE: It doesn't matter if it's more comfortable. It's wrong.<br>
+							<br>
+							
+						JERRY: Why?<br>
+							<br>
+							
+						(George pulling out his wallet.)<br>
+							<br>
+							
+						GEORGE: Because important things go in a case. You got a skull for your brain, a plastic sleeve for your comb, and a wallet for your money.<br>
+							<br>
+							
+						(Jerry holding up a hamburger while holding George's wallet.)<br>
+							<br>
+							
+						JERRY: But look at this thing. It's-it's huge. You got more cow here than here.<br>
+							<br>
+							
+						GEORGE: I need everything in there.<br>
+							<br>
+							
+						(Jerry looking through George's wallet )<br>
+							<br>
+							
+						JERRY: Irish money?<br>
+							<br>
+							
+						GEORGE: I might go there.<br>
+							<br>
+							
+						JERRY: Show this card at any participating Orlando-area Exxon station...to get your free 'Save the Tiger' poster.<br>
+							<br>
+							
+						(George grabbing back his wallet.)<br>
+							<br>
+							
+						GEORGE: All right, just gimme that. And gimme some of those Sweet &amp; Lows.<br>
+							<br>
+							
+						(Newman walks up to Kramer's door, looks into his reverse peephole, and sees Kramer, wearing an open shirt, scratching his stomach with a backscratcher, with opera music playing in the background. Newman knocks on the door, and Kramer startingly peers into his reverse peephole)<br>
+							<br>
+							
+						KRAMER: Who is it?<br>
+							<br>
+							
+						NEWMAN: It's Newman.<br>
+							<br>
+							
+						KRAMER: What do you want? I'm in the middle of something.<br>
+							<br>
+							
+						NEWMAN: I can't believe I'm being evicted.<br>
+							<br>
+							
+						KRAMER: What? What are you talking about?<br>
+							<br>
+							
+						NEWMAN: The reverse peepholes. Silvio said I'm an agitator and I'm out of the building.<br>
+							<br>
+							
+						KRAMER: No. No, he can't do that.<br>
+							<br>
+							
+						NEWMAN: I'm homeless! I'm gonna be out on a street corner, dancing for nickels. I'll be with the hobos in the trainyard, eating out of a bucket.<br>
+							<br>
+							
+						KRAMER: Come on, we'll go and talk to him, and we'll straighten this thing out.<br>
+							<br>
+							
+						(Kramer closes his door behind him to go with Newman, when Newman sees that he's still wearing his open shirt)<br>
+							<br>
+							
+						NEWMAN: Uh, you, uh, you better put something on.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Jerry, at Joe Mayo's party with George.]<br>
+							<br>
+							
+						JERRY: George, I am loving this no wallet thing.<br>
+							<br>
+							
+						GEORGE: A man carries a wallet.<br>
+							<br>
+							
+						JERRY: You know, the very fact that you oppose this makes me think I'm onto something.<br>
+							<br>
+							
+						(Joe Mayo, coming up to George and Jerry.)<br>
+							<br>
+							
+						JOY MAYO: Hey, Jerry.<br>
+							<br>
+							
+						JERRY: Hey, Joe Mayo. Nice place.<br>
+							<br>
+							
+						JOY MAYO: Thanks. George, can you do me a favor and stay by the phone in case anybody calls and needs directions?<br>
+							<br>
+							
+						(George tossing his coat on a chair.)<br>
+							<br>
+							
+						GEORGE: Love to.<br>
+							<br>
+							
+						JOY MAYO: Thanks. Jerry...<br>
+							<br>
+							
+						JERRY: Music?<br>
+							<br>
+							
+						JOY MAYO: Actually, can you keep an eye on the aquarium and make sure nobody taps on the glass?<br>
+							<br>
+							
+						JERRY: But I could do that and the music.<br>
+							<br>
+							
+						JOY MAYO: Oh, no, don't worry about the music. Just... have fun!<br>
+							<br>
+							
+						JERRY: I was ready to get jiggy with it.<br>
+							<br>
+							
+						(Elaine entering the party with Puddy who's wearing his fur coat.)<br>
+							<br>
+							
+						PUDDY: Hey.<br>
+							<br>
+							
+						JERRY: Hey, Elaine.<br>
+							<br>
+							
+						ELAINE: Hey. I think you know Dr... Zaius.<br>
+							<br>
+							
+						(Jerry showcasing his no-wallet look.)<br>
+							<br>
+							
+						JERRY: So, Elaine, notice anything different about my... pants?<br>
+							<br>
+							
+						(Elaine eyeing Jerry patheticall, then turning to George.)<br>
+							<br>
+							
+						ELAINE: So, George... did you get the chair?<br>
+							<br>
+							
+						GEORGE: No, I don't have it yet.<br>
+							<br>
+							
+						JERRY: So, we're givin' him nothing?<br>
+							<br>
+							
+						(George pulling out a picture of the chair.)<br>
+							<br>
+							
+						GEORGE: No, I brought a picture of the chair.<br>
+							<br>
+							
+						JERRY: Did you at least get him a card?<br>
+							<br>
+							
+						GEORGE: I thought we'd all sign the picture.<br>
+							<br>
+							
+						(Joe Mayo walking up to the gang with an armload of guests' coats.)<br>
+							<br>
+							
+						JOY MAYO: Elaine...<br>
+							<br>
+							
+						ELAINE: Hey, Joe Mayo.<br>
+							<br>
+							
+						JOY MAYO: I need you to be in charge of coats.<br>
+							<br>
+							
+						(Elaine being given all the coats and Puddy's fur coat thrown on top.)<br>
+							<br>
+							
+						ELAINE: Oh, fantastic.<br>
+							<br>
+							
+						JOY MAYO: And Puddy, can you make sure no one puts a drink on my...sound system?<br>
+							<br>
+							
+						PUDDY: Sure thing, Joe Mayo.<br>
+							<br>
+							
+						(Jerry over by the aquarium talking to a girl.)<br>
+							<br>
+							
+						JERRY: Hi, I'm Jerry. How do you like my pants?<br>
+							<br>
+							
+						KERI: Nice.<br>
+							<br>
+							
+						JERRY: (talking to George) It's working. (to the girl, who's tapping on the aquarium) Don't tap on the glass.<br>
+							<br>
+							
+						GEORGE: (answering the phone while walking away) Joe Mayo's apartment?<br>
+							<br>
+							
+						PUDDY: (standing guard by the stereo as George walks by him) Hey! Cocktail off the speaker.<br>
+							<br>
+							
+						(Putting the coats on a bed, Elaine sees the window, opens it, and throws Puddy's coat out)<br>
+							<br>
+							
+						ELAINE: Goodbye, Dr. Zaius.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Silvio with his wife, Kramer, and Newman in Jerry's apartment.]<br>
+							<br>
+							
+						SILVIO: Why are we in Jerry's apartment?<br>
+							<br>
+							
+						KRAMER: Well, I, uh, I like to think of this as my conference room. Yeah, it has a more formal atmosphere, you know, with the shelves, and the furniture.<br>
+							<br>
+							
+						SILVIO: Make it quick Kramer, my wife and I are about to go bowling.<br>
+							<br>
+							
+						KRAMER: Oh, well, um, Newman thinks that you, uh, evicted him?<br>
+							<br>
+							
+						SILVIO: I did. I don't like Mr. Newman. He is an agitator.<br>
+							<br>
+							
+						KRAMER: Look... I've known Newman all my life, in the building, and you're all wrong about him. He's a model tenant. Portly, yes, but smart as a whip.<br>
+							<br>
+							
+						SILVIO: OK, on your word he can stay.<br>
+							<br>
+							
+						KRAMER: All right.<br>
+							<br>
+							
+						SILVIO: But... I'm gonna keep my eye on him.<br>
+							<br>
+							
+						KRAMER: Well, you won't regret it.<br>
+							<br>
+							
+						(Kramer looks up at Newman and he sees him close to kissing Silvio's wife. Silvio, sees the cigar fall right out of Kramer's mouth.<br>
+							<br>
+							
+						SILVIO: What's wrong?<br>
+							<br>
+							
+						(Kramer hurriedly picks the cigar up, but puts the wrong end in his mouth, burning his tongue, and quickly replacing it the right way in his mouth)<br>
+							<br>
+							
+						JOY MAYO: Elaine, thanks for coming.<br>
+							<br>
+							
+						ELAINE: Good working with you.<br>
+							<br>
+							
+						(Puddy coming up to them in his fur coat ready to go.)<br>
+							<br>
+							
+						PUDDY: All right, let's hit the bricks.<br>
+							<br>
+							
+						(Elaine sees Puddy still having a coat.)<br>
+							<br>
+							
+						ELAINE: What?<br>
+							<br>
+							
+						JOY MAYO: Hey, I got a coat just like this!<br>
+							<br>
+							
+						ELAINE: Oh. Uhhh...<br>
+							<br>
+							<br>
+							<br>
+							
+						[Elaine at Monk's with George and Jerry.]<br>
+							<br>
+							
+						ELAINE: So Joe Mayo had the same coat.<br>
+							<br>
+							
+						GEORGE: And you threw it out the window?<br>
+							<br>
+							
+						ELAINE: Mm-hmm.<br>
+							<br>
+							
+						GEORGE: God, you're like a rock star.<br>
+							<br>
+							
+						ELAINE: So now Joe Mayo wants me to buy him a new coat.<br>
+							<br>
+							
+						JERRY: Because you threw it out.<br>
+							<br>
+							
+						ELAINE: No, because I was in charge of the coats. It's... insane.<br>
+							<br>
+							
+						JERRY: But you did actually throw his coat out the window.<br>
+							<br>
+							
+						ELAINE: But he doesn't know that. As far as he knows, somebody stole it, and that's the person who should be responsible.<br>
+							<br>
+							
+						JERRY: But that's you.<br>
+							<br>
+							
+						ELAINE: So I guess I'll have to buy him a new coat, even though I don't think I should be held responsible, which I am anyway.<br>
+							<br>
+							
+						(George, taking out his wallet to pay the check.)<br>
+							<br>
+							
+						GEORGE: Well, I'm satisfied. Uh...my back is...killing me.<br>
+							<br>
+							
+						JERRY: Of course. Because of that wallet. You-you got a filing cabinet under half of your ass.<br>
+							<br>
+							
+						(George replacing his wallet in his pocket.)<br>
+							<br>
+							
+						GEORGE: This...is an organizer, a secretary, and a friend.<br>
+							<br>
+							
+						ELAINE: Look at you. You're on a slant.<br>
+							<br>
+							
+						GEORGE: Here, just give me a couple of napkins.<br>
+							<br>
+							
+						(He pulls some napkins out of the dispenser, puts them in his other back pocket, and becomes un-slanted)<br>
+							<br>
+							
+						GEORGE: There, there I'm fine.<br>
+							<br>
+							
+						(Suddenly, half of George's body falls with a crunch sound, as he becomes slanty the other way now)<br>
+							<br>
+							
+						JERRY: What was that?<br>
+							<br>
+							
+						GEORGE: I think I had some hard candy in there.<br>
+							<br>
+							<br>
+							<br>
+							
+						[George sees the delivery man bringing the massage chair into his apartment.]<br>
+							<br>
+							
+						GEORGE: No, no, this is supposed to go to Joe Mayo's apartment.<br>
+							<br>
+							
+						(George sits down in the chair.)<br>
+							<br>
+							
+						GEORGE: Ahhh. How does this thing work?<br>
+							<br>
+							
+						(George turns the chair on.)<br>
+							<br>
+							
+						GEORGE:Ahhhhh...<br>
+							<br>
+							
+						DELIVERY MAN: Sir, do you want me to deliver this to your friend's place or not?<br>
+							<br>
+							
+						GEORGE: Ahhhhh...<br>
+							<br>
+							<br>
+							<br>
+							
+						[Keri meeting Jerry on the street. ]<br>
+							<br>
+							
+						KERI: Ready to go?<br>
+							<br>
+							
+						JERRY: All set. I can't believe I'm going dancing.<br>
+							<br>
+							
+						KERI: You don't go that often?<br>
+							<br>
+							
+						JERRY: No, because it's so stupid. Shall we?<br>
+							<br>
+							
+						(Keri handing him a bunch of miscellaneous items that would seem to normally go in her purse.)<br>
+							<br>
+							
+						KERI: Do me a favor. Can you hold this stuff for me?<br>
+							<br>
+							
+						JERRY: Compact, lipstick, all this?<br>
+							<br>
+							
+						(Keri, handing him a gigantic ring of keys.)<br>
+							<br>
+							
+						KERI: And can you help to carry my keys?<br>
+							<br>
+							
+						(Jerry looks at the keys.)<br>
+							<br>
+							
+						JERRY: What are you, a medieval dungeon master?<br>
+							<br>
+							
+						(Keri, handing him another item as she starts to walk down the street. )<br>
+							<br>
+							
+						KERI: And a tin of altoids.<br>
+							<br>
+							
+						(Jerry puts it all in his pocket and then trying to catch up to her)<br>
+							<br>
+							
+						JERRY: Ow! Sharp key.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Kramer walks on the street with Newman]<br>
+							<br>
+							
+						KRAMER: So, you're sleeping with Silvio's wife?<br>
+							<br>
+							
+						NEWMAN: Well, there's very little sleeping going on.<br>
+							<br>
+							
+						KRAMER: Well, why didn't you tell me about this?<br>
+							<br>
+							
+						NEWMAN: Quite frankly, I don't see how it's any of your business.<br>
+							<br>
+							
+						KRAMER: Well, it's my business now. Look, I stuck up for you. Man, if he catches you, we're both out.<br>
+							<br>
+							
+						(Newman stops under a tree on the street and looking up into it.)<br>
+							<br>
+							
+						NEWMAN: Hey, what is that up that tree?<br>
+							<br>
+							
+						KRAMER: Hoooh! Man, that looks like a dead bear.<br>
+							<br>
+							
+						NEWMAN: No, that's a fur coat! Hey, uh, give me a boost.<br>
+							<br>
+							
+						(Kramer boosting Newman into the tree.)<br>
+							<br>
+							
+						KRAMER: Man, where did you learn to climb trees like that?<br>
+							<br>
+							
+						NEWMAN: The Pacific Northwest.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Elaine with Jerry at his apartment.]<br>
+							<br>
+							
+						ELAINE: So, you had to carry some of Keri's stuff. Big deal.<br>
+							<br>
+							
+						JERRY: You don't understand. I went on a successful pocket diet, and I want to keep that weight off.<br>
+							<br>
+							
+						(Elaine making a bowl of cereal.)<br>
+							<br>
+							
+						ELAINE: You know what? We sell this thing at Peterman that would be perfect for you.<br>
+							<br>
+							
+						JERRY: Not more of that crap from the Titanic?<br>
+							<br>
+							
+						ELAINE: No. No. It's a small men's carryall.<br>
+							<br>
+							
+						JERRY: I'm not carrying a purse.<br>
+							<br>
+							
+						(Elaine sits down at the table to eat her cereal.)<br>
+							<br>
+							
+						ELAINE: It's not a purse. It's European.<br>
+							<br>
+							
+						(Jerry sits down with Elaine.)<br>
+							<br>
+							
+						JERRY: Oh.<br>
+							<br>
+							
+						ELAINE: Hey, did George buy Joe Mayo that chair yet?<br>
+							<br>
+							
+						(Jerry dialing his phone.)<br>
+							<br>
+							
+						JERRY: I don't know.<br>
+							<br>
+							
+						ELAINE: If I'm gettin' him a new fur, I'm not chippin' in on a gift, too.<br>
+							<br>
+							
+						(George answering his phone, while still using the massage chair.)<br>
+							<br>
+							
+						GEORGE: Yeah?<br>
+							<br>
+							
+						JERRY: Hey, George, did you get Joe Mayo that chair yet?<br>
+							<br>
+							
+						GEORGE: Not yet. Oh! Ho ho! God...<br>
+							<br>
+							
+						JERRY: What?<br>
+							<br>
+							
+						GEORGE: It's in... transit.<br>
+							<br>
+							
+						ELAINE: Did he get it?<br>
+							<br>
+							
+						JERRY: No.<br>
+							<br>
+							
+						ELAINE: Mmm, good. Tell him I'm out.<br>
+							<br>
+							
+						GEORGE: (hearing Elaine over the phone) What, she's out?<br>
+							<br>
+							
+						JERRY: Well, so what? You're gettin' a deal, right? We'll split it three ways.<br>
+							<br>
+							
+						GEORGE: Allllll right!<br>
+							<br>
+							
+						JERRY: What is that noise?<br>
+							<br>
+							
+						GEORGE: (hangs up the phone) That's my toaster. I got to go. Ohhhhhhhhhhhhh!<br>
+							<br>
+							
+						JERRY: You know, sometimes I get the feeling George isn't being completely honest with me.<br>
+							<br>
+							
+						(Kramer enters Jerry's apartment and handing Jerry back his pliers.)<br>
+							<br>
+							
+						KRAMER: Hey. Oh, uh, yeah. Uh, here are your pliers back....Weak hinge.<br>
+							<br>
+							
+						ELAINE: Well, I guess I better go and price fur coats.<br>
+							<br>
+							
+						KRAMER: Oh, go down to 88th Street. They're free.<br>
+							<br>
+							
+						ELAINE: What are you talking about?<br>
+							<br>
+							
+						KRAMER: Well, they're hanging from the trees. You know, Newman found one there yesterday. Man, that guy can climb like a ring-tailed lemur!<br>
+							<br>
+							
+						(Elaine pushing Kramer in her 'get-out!' style.)<br>
+							<br>
+							
+						ELAINE: 88th Street? That's where Joe Mayo lives. That's the coat!<br>
+							<br>
+							
+						JERRY: What was that pop sound?<br>
+							<br>
+							
+						KRAMER: Well, I had some hard candy in there.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Newman enters Elaine's apartment.]<br>
+							<br>
+							
+						NEWMAN: So, to what do I owe this unusual invitation?<br>
+							<br>
+							
+						(Elaine taking his coat and then throwing it on the floor.)<br>
+							<br>
+							
+						ELAINE: Come in, come in.<br>
+							<br>
+							
+						NEWMAN: Ahh! This is very much as I imagined it to be. Aside from this rattan piece, which seems oddly out of place.<br>
+							<br>
+							
+						ELAINE: Please, sit down. Newman, um, I wanted to talk to you about something.<br>
+							<br>
+							
+						NEWMAN: This isn't about my opening your mail?<br>
+							<br>
+							
+						ELAINE: What?<br>
+							<br>
+							
+						NEWMAN: Because I don't, never have, anything I read was already open.<br>
+							<br>
+							
+						ELAINE: Uh, yeah, uh, no. Newman, uh, I heard that you found a fur coat in a tree. And, I believe that it belongs to a friend of mine, and I'd like to give it back to him.<br>
+							<br>
+							
+						NEWMAN: Sorry. Climbers, keepers.<br>
+							<br>
+							
+						ELAINE: You know, Newmie. Um, I know how you feel about me, and I have to tell you, I'm quite flattered.<br>
+							<br>
+							
+						NEWMAN: You are?<br>
+							<br>
+							
+						ELAINE: Oh, yeah. I mean, of all the men that I know, you're the only one who's held down a steady job for several years.<br>
+							<br>
+							
+						NEWMAN: Well, it's-it's interesting work, I don't mind it.<br>
+							<br>
+							
+						ELAINE: Ha ha ha ha.<br>
+							<br>
+							
+						NEWMAN: Don't you have a-a boyfriend? A, uh, burly, athletic type?<br>
+							<br>
+							
+						ELAINE: Uh, don't worry, he's cool.<br>
+							<br>
+							
+						NEWMAN: Cool?<br>
+							<br>
+							
+						ELAINE: Very cool. So, what do you say? Can you do this one little favor, Newmie?<br>
+							<br>
+							
+						NEWMAN: Oh, how I've waited for this moment. But alas, my heart belongs to another man's wife, and I have given the coat to her.<br>
+							<br>
+							
+						ELAINE: All right, we're done here.<br>
+							<br>
+							
+						NEWMAN: For I am in love with Svetlana, and I don't care if the whole world knows, except for Silvio, who would throw me out of the apartment, where I would be dancing on the sidewalk--<br>
+							<br>
+							
+						ELAINE: Thank you, thank you, thank you very much.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Keri putting her things into Jerry's carryal.]<br>
+							<br>
+							
+						KERI: Nice carryall.<br>
+							<br>
+							
+						JERRY: It's European.<br>
+							<br>
+							
+						KERI: Do you still have my lipstick?<br>
+							<br>
+							
+						JERRY: Uh, yeah, I think I do. I can never find anything in here. Ah, here it is. So, that Joe Mayo throws the worst parties, doesn't he? So what was your job?<br>
+							<br>
+							
+						KERI: My job was to keep you away from the music.<br>
+							<br>
+							
+						JERRY: What, he doesn't like my taste in music?<br>
+							<br>
+							
+						KERI: Guess not.<br>
+							<br>
+							
+						JERRY: You should've been there last year. I got jiggy with it!<br>
+							<br>
+							<br>
+							<br>
+							
+						[Silvio, running up and knocking on Kramer's door.]<br>
+							<br>
+							
+						SILVIO: Kramer! It's Silvio! Open up, I need to talk to you! I can see you through the reverse peephole.<br>
+							<br>
+							
+						KRAMER: Hey, Silvio!<br>
+							<br>
+							
+						(Silvio holding up a fur coat.)<br>
+							<br>
+							
+						SILVIO: Look at this.<br>
+							<br>
+							
+						KRAMER: Huh?<br>
+							<br>
+							
+						SILVIO: Svetlana says she find it in the laundry room, but I think it is a gift from that postman agitator. Where is he?<br>
+							<br>
+							
+						KRAMER: Relax, Silvio.<br>
+							<br>
+							
+						SILVIO: No, that's it. You're both out of the building!<br>
+							<br>
+							
+						KRAMER: Oh, come on! Hey, Newman didn't even give her that! No, that's not even a woman's coat. It's a man's!<br>
+							<br>
+							
+						SILVIO: A man's?<br>
+							<br>
+							
+						KRAMER: Yeah.<br>
+							<br>
+							
+						SILVIO: What kind of a man would wear fur?<br>
+							<br>
+							
+						KRAMER: Oh, lots of 'em.<br>
+							<br>
+							
+						SILVIO: Would you?<br>
+							<br>
+							
+						KRAMER: No.<br>
+							<br>
+							
+						SILVIO: Then who?<br>
+							<br>
+							
+						KRAMER: What about Jerry?<br>
+							<br>
+							
+						SILVIO: Jerry?<br>
+							<br>
+							
+						KRAMER: Yeah, sure, he's a celebrity. Oh, yeah, they wear a lot of furs. They're desperate, insecure people.<br>
+							<br>
+							
+						SILVIO: Yes, you are right. It's all about, me, me, me. Please, look at me! I am so pretty! Love me! Want me!<br>
+							<br>
+							
+						KRAMER: Yeah, something like that.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Jerry in his apartment with Kramer.]<br>
+							<br>
+							
+						JERRY: I have to do what?<br>
+							<br>
+							
+						KRAMER: All you have to do is wear the fur so Silvio thinks it's yours.<br>
+							<br>
+							
+						JERRY: I'm not wearing the fur.<br>
+							<br>
+							
+						KRAMER: Well, then, Newman and I, we get thrown out of the building.<br>
+							<br>
+							
+						JERRY: Is that right?<br>
+							<br>
+							
+						KRAMER: All right, why don't you just take a good, hard look at what your life will be like if I'm not around?<br>
+							<br>
+							
+						JERRY: Newman, too?<br>
+							<br>
+							
+						KRAMER: Oh, come on, man! Well, I'll tell you what, if you do this, I'll give you that walkman you're always asking about.<br>
+							<br>
+							
+						JERRY: That's my walkman!<br>
+							<br>
+							
+						KRAMER: And you'll get it back.<br>
+							<br>
+							
+						JERRY: All right.<br>
+							<br>
+							
+						KRAMER: All right. Good, thanks, I owe you one.<br>
+							<br>
+							
+						GEORGE: Hey.<br>
+							<br>
+							
+						KRAMER: Oh, hey, and by the way, uh, that walkman was broke when you gave it to me.<br>
+							<br>
+							
+						JERRY: George, did you get that chair yet?<br>
+							<br>
+							
+						GEORGE: It gets here when it gets here. Would you stop ridin' me?<br>
+							<br>
+							
+						JERRY: You know what? Just call up and cancel it. I'm out.<br>
+							<br>
+							
+						GEORGE: Excuse me?<br>
+							<br>
+							
+						JERRY: Joe Mayo doesn't like my taste in music. He's not gettin' a gift from me.<br>
+							<br>
+							
+						GEORGE: Oh, I can't believe you're dropping out, too. So now Kramer and I have to pay for the entire gift?<br>
+							<br>
+							
+						KRAMER: Whoa, whoa. Now, who's this Joe Mayo everyone's talking about?<br>
+							<br>
+							
+						GEORGE: He's the guy we're the buying the chair for, remember? It was your suggestion.<br>
+							<br>
+							
+						KRAMER: I think the chair is a fantastic gift idea. But I never heard of this Joe Mayo. And frankly, it sounds made up.<br>
+							<br>
+							
+						GEORGE: Oh, so now I have to buy this whole chair by myself?<br>
+							<br>
+							
+						JERRY: No, you don't have to buy anything.<br>
+							<br>
+							
+						GEORGE: I already bought it! I've been lyin' to you for three days, and now you're all screwin' me!<br>
+							<br>
+							
+						JERRY: I don't understand. Why didn't you tell us you had it?<br>
+							<br>
+							
+						GEORGE: I needed it! My back is... a little tweaked.<br>
+							<br>
+							
+						JERRY: Because of your giant wallet. Just get rid of it!<br>
+							<br>
+							
+						GEORGE: Never! It is a part of me. I will just return the chair, and it will be easy, because the receipt is in my good friend.<br>
+							<br>
+							
+						JERRY: Your good friend is morbidly obese.<br>
+							<br>
+							
+						GEORGE: Well, at least, I'm not carrying a purse.<br>
+							<br>
+							
+						JERRY: It's not a purse. It's European!<br>
+							<br>
+							
+						KRAMER: All right, Silvio's down there. He's shoveling the walk. Now, all you gotta do is put this on, you go down to the corner, you pick up a paper, and you come right back.<br>
+							<br>
+							
+						JERRY: All right.<br>
+							<br>
+							
+						(Kramer puts the coat on Jerry.)<br>
+							<br>
+							
+						KRAMER: There you go.<br>
+							<br>
+							
+						JERRY: How do I look?<br>
+							<br>
+							
+						KRAMER: Ahh....<br>
+							<br>
+							<br>
+							<br>
+							
+						[George pulls down a tab from an ad he sees on the street.]<br>
+							<br>
+							
+						GEORGE: Learn guitar, first lesson free? Huh.<br>
+							<br>
+							
+						(George puts the stub of paper in his wallet, and tries to close it, everything inside it flies out as the whole wallet explodes)<br>
+							<br>
+							
+						GEORGE: My receipts! The chair! My tiger poster!<br>
+							<br>
+							<br>
+							<br>
+							
+						[Outside on the Street in front of Jerry's]<br>
+							<br>
+							
+						JERRY: Hey, Silvio, just out for a little stroll in my favorite fur coat.<br>
+							<br>
+							
+						SILVIO: That is your coat?<br>
+							<br>
+							
+						JERRY: It sure is.<br>
+							<br>
+							
+						SILVIO: Kramer says you need it because you're an entertainer and you're desperate for attention.<br>
+							<br>
+							
+						JERRY: That's true.<br>
+							<br>
+							
+						(Kramer giving Jerry his carryal.)<br>
+							<br>
+							
+						KRAMER: Jerry, you forgot your purse.<br>
+							<br>
+							
+						JERRY: Oh, thanks.<br>
+							<br>
+							
+						KRAMER: Hey, Silvio, look at Jerry here, prancing around in his coat with his purse. Yup, he's a dandy. He's a real fancy boy.<br>
+							<br>
+							
+						JERRY: Maybe this isn't my coat.<br>
+							<br>
+							
+						KRAMER: All right, you're not fancy!<br>
+							<br>
+							
+						SILVIO: No, he's very fancy! Want me, love me! Shower me with kisses!<br>
+							<br>
+							
+						(Elaine, coming up to them on the street.)<br>
+							<br>
+							
+						ELAINE: Jerry, where'd you get it? That's his coat.<br>
+							<br>
+							
+						JERRY: No, it's not. It's mine. I'm a fancy boy.<br>
+							<br>
+							
+						ELAINE: No, that's not your coat.<br>
+							<br>
+							
+						SILVIO: If that is not his coat, whose coat is it?<br>
+							<br>
+							
+						ELAINE: It's Joe Mayo's coat.<br>
+							<br>
+							
+						SILVIO: Who's Joe Mayo?<br>
+							<br>
+							
+						KRAMER: That must be the man that's sleeping with your wife.<br>
+							<br>
+							
+						(A pickpocket runs by, taking Jerry's carryall, while everyone yells in surprise)<br>
+							<br>
+							
+						JERRY: Hey! Officer! Someone took my European carryall!<br>
+							<br>
+							
+						COP:: Your what?<br>
+							<br>
+							
+						JERRY: The...black, leather...thing with a strap.<br>
+							<br>
+							
+						COP:: You mean a purse?<br>
+							<br>
+							
+						JERRY: Yes, a purse. I carry a purse!<br>
+							<br>
+							<br>
+							<br>
+							
+						[Jerry, on the phone with Elaine putting his things back into his wallet]<br>
+							<br>
+							
+						JERRY: So, Silvio ambushed Joe Mayo?<br>
+							<br>
+							
+						ELAINE: Yeah, he was waitin' inside his apartment for him with a sock full of pennies.<br>
+							<br>
+							
+						JERRY: He should have had a reverse peephole.<br>
+							<br>
+							
+						(Puddy entering Elaine's apartment in a new bright, multi-colored leather coat.)<br>
+							<br>
+							
+						PUDDY: Hey, Babe.<br>
+							<br>
+							
+						(Elaine hangs up the phone to talk to Puddy.)<br>
+							<br>
+							
+						JERRY: Hello? Hello?<br>
+							<br>
+							
+						ELAINE: What is that?<br>
+							<br>
+							
+						PUDDY: It's my new coat.<br>
+							<br>
+							
+						ELAINE: You ditched the fur?<br>
+							<br>
+							
+						PUDDY: Yeah, I saw Jerry wearing his. He looked like a bit of a dandy. Check it out! 8-Ball! You got a question, you ask the 8-Ball.<br>
+							<br>
+							
+						ELAINE: You're gonna wear this all the time?<br>
+							<br>
+							
+						PUDDY: All signs point to 'Yes!'<br>
+							<br>
+							<br>
+							
+						The End</td>
+						</tr>
+						<tr height="6">
+							<td class="bottom2" width="645" height="6"></td>
+						</tr>
+						<tr>
+							<td width="645">
+								<div align="center">
+									<font size="-1">Copyright 2006 seinology.com | All Rights Reserved | Designed by 13erla</font></div>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+		<p></p>
+	</body>
+
+</html>

@@ -1,0 +1,1336 @@
+<tdOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+<html>
+
+	<head>
+		<meta http-equiv="content-type" content="text/html;charset=ISO-8859-1">
+		<meta name="description" content="Top Source for Seinfeld">
+		<meta name="keywords" content="seinfeld, sienfeld, Jerry Seinfeld, Julia Louis Dreyfus, Jason Alexander, Michael Richards, Kramer, George, Costanza, Elaine Benes, morty, Larry David">
+		<title>Seinology.com :: Scripts :: 171-The Wizard</title>
+	<link rel='stylesheet' href='/stylesheet.css' type='text/css'>
+	</head>
+
+	<body>
+			<table align="center" width="787" border="0" cellspacing="0" cellpadding="0">
+				<tr>
+					<td><font size="-2" color="red">Seinology.com - </font><font size="-3" color="black">Where Seinfeld Content and Accuracy Matter Most. Seinfeld scripts in pdf form, Seinfeld episode video clips, Seinfeld episode audio clips, Jerry Seinfeld appearances, Julia Louis-Dreyfus appearances, Michael Richards appearances, Jason Alexander appearances, Seinfeld discussion Forum, Seinfeld Where are they Now? Seinlanguage Newsletter, Popular Seinfeld Lists, Seinfeld episode standup, Seinfeld episode guide, Seinfeld fan fiction. Seinfeld content all on one domain. Seinology.com enjoy your stay.</font></td>
+				</tr>
+			</table>
+		
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr height="100">
+				<td class="logo"></td>
+			</tr>
+			<tr><td class="ads" align="center" background=#8694fa>
+				<script type="text/javascript"><!--
+google_ad_client = "pub-1924026976931416";
+google_ad_width = 728;
+google_ad_height = 90;
+google_ad_format = "728x90_as";
+google_ad_type = "text";
+google_ad_channel = "";
+google_color_border = "FFFFFF";
+google_color_bg = "8694fa";
+google_color_link = "0000FF";
+google_color_text = "000000";
+google_color_url = "002E3F";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></td></tr>
+		</table>
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr>
+				<td valign="top" width="136">
+					<table width="136" border="0" cellspacing="0" cellpadding="0">
+						<tr height="24">
+							<td class="navigation">
+								<div align="center">
+									
+									<b>Navigation</b></div>
+							</td>
+						</tr>
+						<tr height="199">
+							<td class="spacer1" valign="top" width="136" height="199">
+								<div align="center">
+									<font size="-1"><a href="http://www.seinology.com">Home</a><br>
+										<a href="http://board.seinology.com">Forum</a><br>
+										<a href="http://www.seinology.com/av.shtml">Audio/Video</a><br>
+										<a href="http://www.seinology.com/scripts.shtml">Scripts</a><br>
+										<a href="http://www.seinology.com/survivor.shtml">Survivor</a><br>
+										<a href="http://www.seinology.com/fanfics.shtml">Fan Fiction</a><br>
+										<a href="http://www.seinology.com/gallery/">Gallery</a><br>
+										<a href="http://www.seinology.com/newsletter.shtml">Newsletter</a><br>
+										<a href="http://www.seinology.com/lists.shtml">Lists</a><br>
+										<a href="http://www.seinology.com/epguide.shtml">Episode Guide</a><br>
+										<a href="http://www.seinology.com/links.shtml">Links</a><br>
+										<a href="http://www.seinology.com/faqother.shtml">Faq + others</a><br>
+										<a href="http://www.seinology.com/legal.shtml">Legal</a></font></div>
+							</td>
+						</tr>
+						
+						<tr>
+							<td class="nav2" width="136">
+							<div align="center"><b>Search</b></div></td>
+						</tr>
+						<tr>
+							<td class="spacer1" width="136" valign="top"><div align="center"><form method="get" action="http://www.seinology.com/search/search.cgi">
+<p><label for="fdse_Match">Match</label><br>
+<select name="Match" id="fdse_Match" size="1">
+<option value="1">All</option>
+<option value="0">Any</option>
+<option value="2">Phrase</option>
+</select></p>
+<p><label for="fdse_Realm">Where?</label><br>
+<select name="Realm" id="fdse_Realm" size="1">
+<option selected="selected" value="All">EntireSite</option>
+<option value="Ep Guide">Ep Guide</option>
+<option value="Images">Images</option>
+<option value="Lists">Lists</option>
+<option value="Newsletters">Newsletters</option>
+<option value="Scripts">Scripts</option>
+<option value="Notes..Nothing">Notes..Nothing</option>
+</select></p>
+<p><input type="text" name="Terms" size="14" id="fdse_Terms"><br>
+<input type="submit" class="submit" name="submitButtonName" value="Search"></p>
+</div></form></td>
+						</tr>
+						<tr><td class="bottom" width="136" height="10" valign="top">
+						</td>
+						</tr>
+					</table>
+				</td>
+				<td width="4"></td>
+				<td valign="top" width="645">
+					<table width="645" border="0" cellspacing="0" cellpadding="0">
+						<tr height="18">
+							<td width="645" height="35" class="bar">
+								<div align="center">
+									<b><font size="+2" color="black">Script</font></b></div>
+							</td>
+						</tr>
+						<tr height="362">
+							<td class="spacer2" valign="top" width="645" height="362">
+
+						<p><font size="-2">Episode 171 - The Wizard<br>
+							
+						pc: 915 season 9, episode 15<br>
+							
+						Broadcast date: February 26, 1998<br>
+							<br>
+							
+						Written by Steve Lookner<br>
+							
+						Directed by Andy Ackerman<br>
+							<br>
+							
+						-------------------------------------------------------------------------------<br>
+							<br>
+							
+						The Cast<br>
+							
+						Regulars:<br>
+							
+						Jerry Seinfeld ......................&nbsp; Jerry Seinfeld<br>
+							
+						Jason Alexander .................. George Costanza<br>
+							
+						Julia Louis-Dreyfus .............. Elaine Benes<br>
+							
+						Michael Richards .................. Cosmo Kramer<br>
+							<br>
+							
+						Guest Stars:<br>
+							<br>
+							
+						Grace Zabriskie ................... Mrs. Ross<br>
+							
+						Warren Frost ...................... Mr. (Henry) Ross<br>
+							
+						Samuel Bliss Cooper ............ Darryl<br>
+							
+						Edgar Small ......................... Sid Luckman<br>
+							
+						Vic Helford ......................... Tom<br>
+							
+						Michael McShane ................. FDR (Franklin Delano Romanosky)<br>
+							
+						Bahni Turpin ....................... Waitress #1<br>
+							
+						Constance Zimmer .............. Waitress #2<br>
+							
+						Jeanette Miller ..................... Old Woman<br>
+							
+						Murray Rubin ...................... Rubin<br>
+							
+						rc: Liz Sheridan ................... Helen Seinfeld<br>
+							
+						rc: Barney Martin ................ Morty Seinfeld<br>
+							<br>
+							
+						==================================================================<br>
+							<br>
+							
+						[Monk's]<br>
+							<br>
+							
+						GEORGE: When are they gonna learn that any news about China is an instant page-turner? (seeing Jerry with a small black device) What's that?<br>
+							<br>
+							
+						JERRY: It's a Wizard electronic organizer for my dad. I'm goin' to Florida for his birthday.<br>
+							<br>
+							
+						GEORGE: How much was it?<br>
+							<br>
+							
+						JERRY: Two hundred. But I'll tell him it's fifty. He doesn't care about the gift. He gets excited about the deal.<br>
+							<br>
+							
+						GEORGE: Where are you gettin' a Wizard for fifty dollars?<br>
+							<br>
+							
+						JERRY: Ah, I'll tell him I got it on the street, and maybe it's hot. That's his favorite.<br>
+							<br>
+							
+						GEORGE: I got a message from the Rosses at work today.<br>
+							<br>
+							
+						JERRY: Susan's parents? When's the last time you talked to them?<br>
+							<br>
+							
+						GEORGE: At the funeral, give or take. You know, deep down, I always kinda felt that they blamed me for Susan's death.<br>
+							<br>
+							
+						JERRY: Why, because you picked out the poision envelopes? That's silly.<br>
+							<br>
+							
+						ELAINE: (entering Monk's with her boyfriend) Oh, um... Darryl. These are... people I know. Jerry, George.<br>
+							<br>
+							
+						DARRYL: Nice meeting you. Ah, I gotta run, Elaine. I'll see you later.<br>
+							<br>
+							
+						ELAINE: OK.<br>
+							<br>
+							
+						JERRY: Still no Puddy?<br>
+							<br>
+							
+						ELAINE: Uh, I think his answering machine's broken, so I just gave up. Well, what do you think?<br>
+							<br>
+							
+						JERRY: What? About you datin' a black guy? What's the big deal?<br>
+							<br>
+							
+						ELAINE: What black guy?<br>
+							<br>
+							
+						JERRY: Darryl. He's black, isn't he?<br>
+							<br>
+							
+						ELAINE: He is?<br>
+							<br>
+							
+						GEORGE: No, he isn't.<br>
+							<br>
+							
+						JERRY: Isn't he, Elaine?<br>
+							<br>
+							
+						ELAINE: You think?<br>
+							<br>
+							
+						GEORGE: I thought he looked Irish.<br>
+							<br>
+							
+						JERRY: What's his last name?<br>
+							<br>
+							
+						ELAINE: Nelson.<br>
+							<br>
+							
+						GEORGE: That's not Irish.<br>
+							<br>
+							
+						JERRY: I think he's black.<br>
+							<br>
+							
+						GEORGE: Should we be talkin' about this?<br>
+							<br>
+							
+						ELAINE: I think it's OK.<br>
+							<br>
+							
+						GEORGE: No, it isn't.<br>
+							<br>
+							
+						JERRY: Why not?<br>
+							<br>
+							
+						GEORGE: Well, it would be OK if Darryl was here.<br>
+							<br>
+							
+						JERRY: If he's black.<br>
+							<br>
+							
+						ELAINE: Is he black?<br>
+							<br>
+							
+						JERRY: Does it matter?<br>
+							<br>
+							
+						ELAINE: No, course not. I mean, I'd just like to know.<br>
+							<br>
+							
+						JERRY: Oh, so you need to know?<br>
+							<br>
+							
+						ELAINE: No, I don't need to know. I just think it would be nice if I knew.<br>
+							<br>
+							
+						WAITRESS: Should I take that?<br>
+							<br>
+							
+						JERRY: (getting out his wallet) Uh, one second.<br>
+							<br>
+							
+						ELAINE: (looking in her purse) Oh, here.<br>
+							<br>
+							
+						GEORGE: (pulling out some money) Uh, yeah. Hang on. Just... yeah.<br>
+							<br>
+							
+						(when they see the waitress, who is black, all three hurriedly get out lots of money for her tip)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Jerry's Apartment]<br>
+							<br>
+							
+						GEORGE: (on the phone) Uh, Mrs. Ross? It's-it's George.<br>
+							<br>
+							
+						MRS. ROSS: Uh, who?<br>
+							<br>
+							
+						GEORGE: George Costanza. Susan's, uh, friend? Long time no speak.<br>
+							<br>
+							
+						MR. ROSS: (walking by Mrs. Ross) We're all out of lime juice. I told that woman to buy more.<br>
+							<br>
+							
+						MRS. ROSS: Uh, George, the Susan Ross Foundation is having an event this weekend.<br>
+							<br>
+							
+						GEORGE: Oh, I just, uh, leased a house out in the Hamptons, and I have got to get out there this weekend and sign the papers.<br>
+							<br>
+							
+						MR. ROSS: (again walking by) I'm goin' back to bed.<br>
+							<br>
+							
+						MRS. ROSS: Thank you for calling, George.<br>
+							<br>
+							
+						GEORGE: Oh, sure. I mean, after all, you were almost my, uh... OK, I gotta go.<br>
+							<br>
+							
+						JERRY: House in the Hamptons?<br>
+							<br>
+							
+						GEORGE: Well, you know, I've been lyin' about my income for a few years. I figured I could afford a fake house in the Hamptons.<br>
+							<br>
+							
+						KRAMER: (enters) Well.<br>
+							<br>
+							
+						JERRY: Hey.<br>
+							<br>
+							
+						KRAMER: Well, grab a cigar, boys. Yeah. It's time to celebrate.<br>
+							<br>
+							
+						JERRY: Wow. What are we celebrating?<br>
+							<br>
+							
+						KRAMER: Uh, you remember my coffee table book?<br>
+							<br>
+							
+						JERRY: With the little legs?<br>
+							<br>
+							
+						KRAMER: That's the one. A big Hollywood so-and-so optioned it for a movie.<br>
+							<br>
+							
+						GEORGE: How are they gonna make that book into a movie?<br>
+							<br>
+							
+						KRAMER: You remember that photo book on toy ray guns?<br>
+							<br>
+							
+						GEORGE: Yeah?<br>
+							<br>
+							
+						KRAMER: Independence Day?<br>
+							<br>
+							
+						GEORGE: Oh.<br>
+							<br>
+							
+						JERRY: How much are they payin' you?<br>
+							<br>
+							
+						KRAMER: Let's just say that I don't have to worry about working for a while. A long while.<br>
+							<br>
+							
+						JERRY: That's funny because I haven't seen you working for a while. A long while.<br>
+							<br>
+							
+						KRAMER: Yeah, and you're not going to, because I'm hanging it up. Boys, I'm retiring.<br>
+							<br>
+							
+						JERRY: From what?<br>
+							<br>
+							
+						KRAMER: From the grind. I mean, who needs it? I mean, I've accomplished everything I've set out to do.<br>
+							<br>
+							
+						JERRY: (seeing that Kramer has a new watch) What's that?<br>
+							<br>
+							
+						KRAMER: Oh, I bought myself a little retirement gift. Gold watch.<br>
+							<br>
+							
+						JERRY &amp; GEORGE: Ooh!<br>
+							<br>
+							
+						KRAMER: Well, it's not really gold.<br>
+							<br>
+							
+						JERRY &amp; GEORGE: Aww.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Darryl's Apartment]<br>
+							<br>
+							
+						(approaching Darryl's apartment, Elaine hears loud rap music being played, and smiles knowingly)<br>
+							<br>
+							
+						ELAINE: (as Darryl opens his door) Hey.<br>
+							<br>
+							
+						DARRYL: Hey.<br>
+							<br>
+							
+						ELAINE: Great music.<br>
+							<br>
+							
+						DARRYL: Oh, it's my neighbor. They blast that stuff twenty four hours a day. I hate it.<br>
+							<br>
+							
+						DARRYL: Yo, you! Turn it down!<br>
+							<br>
+							
+						ELAINE: Oh, wow, these are nice. Do they have any cultural significance?<br>
+							<br>
+							
+						DARRYL: They're... African.<br>
+							<br>
+							
+						ELAINE: Right. African.<br>
+							<br>
+							
+						DARRYL: Well, not Africa, actually. South Africa.<br>
+							<br>
+							
+						ELAINE: South Africa.<br>
+							<br>
+							
+						DARRYL: My family used to live there, but, uh, we got out years ago, for obvious reasons. You know how it is.<br>
+							<br>
+							
+						ELAINE: Maybe.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Street]<br>
+							<br>
+							
+						GEORGE: (to a street vender selling hot dogs) You must hate hot dogs, huh? Or else, you, uh, you really like 'em and that's why you, you do this.<br>
+							<br>
+							
+						(the Rosses come out of a nearby building onto the street, observe George not being in the Hamptons, and move on)<br>
+							<br>
+							
+						GEORGE: I'll tell ya, if I had one of these things, I'd be eatin' hot dogs all the time.<br>
+							<br>
+							
+						VENDER: Are you gonna buy a hot dog or not?<br>
+							<br>
+							
+						GEORGE: Mmm... no.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Florida- Seinfeld Condo]<br>
+							<br>
+							
+						MORTY: (Jerry comes out of his room, having just woken up) Rise and shine, sleepy head! Ha ha!<br>
+							<br>
+							
+						JERRY: It's 5:30 in the morning!<br>
+							<br>
+							
+						HELEN: We let you sleep in.<br>
+							<br>
+							
+						JERRY: (handing his dad a gift) Well, as long as I'm up. Dad, I got you a birthday present. Here. Happy Birthday.<br>
+							<br>
+							
+						MORTY: Aw, Jerry. I should be buyin' you presents.<br>
+							<br>
+							
+						JERRY: What does that mean?<br>
+							<br>
+							
+						HELEN: Leave your father alone. It's his birthday.<br>
+							<br>
+							
+						MORTY: Oooh! Heh heh! It's a radar detector.<br>
+							<br>
+							
+						JERRY: Radar detector? I've never seen you go over twenty miles an hour. You're like the Grand Marshall of the Rose Bowl Parade. It's a Wizard organizer.<br>
+							<br>
+							
+						MORTY: This looks like too much money.<br>
+							<br>
+							
+						JERRY: Nah, I got it from a guy on the street. It was, like, fifty bucks.<br>
+							<br>
+							
+						MORTY: You think it's hot?<br>
+							<br>
+							
+						JERRY: Could be.<br>
+							<br>
+							
+						MORTY: Attaboy! Helen, Jerry got me a hot Wizard computer!<br>
+							<br>
+							
+						HELEN: I'm right here.<br>
+							<br>
+							
+						JERRY: And you can do everything with it. You can get e-mail, fax, there's a calculator.<br>
+							<br>
+							
+						MORTY: So, I can use it in the restaurant to figure out the tip?<br>
+							<br>
+							
+						JERRY: Yeah, I guess. But the really cool thing is the daily planner.<br>
+							<br>
+							
+						MORTY: Helen, we got into restaurants and figure out the tips.<br>
+							<br>
+							
+						HELEN: Jerry, you're getting your father too excited.<br>
+							<br>
+							
+						KRAMER: (entering the condo, and going to the fridge as if he's a neighbor) Hey, buddy. When'd you get here?<br>
+							<br>
+							
+						JERRY: Kramer, what are you doing here?<br>
+							<br>
+							
+						KRAMER: I told you I was retiring. I moved in next door.<br>
+							<br>
+							
+						HELEN: Mr. Kornstein died, and it's a beautiful apartment.<br>
+							<br>
+							
+						KRAMER: Yeah, your, uh, folks said it was for rent, so I jumped on it.<br>
+							<br>
+							
+						JERRY: Kramer, you can't live down here. This is where people come to die.<br>
+							<br>
+							
+						JERRY: (getting looks from his parents) Not you. Older people.<br>
+							<br>
+							
+						HELEN: Don't eat cookies for breakfast! I'll fix you something. How 'bout a feta cheese omelette?<br>
+							<br>
+							
+						KRAMER: Mmmm, that sounds great, Mom.<br>
+							<br>
+							
+						JERRY: If you feed him, he'll never leave.<br>
+							<br>
+							
+						HELEN: We don't have any feta. How about cottage cheese and Egg Beaters?<br>
+							<br>
+							
+						KRAMER: (immaturely) I guess.<br>
+							<br>
+							
+						JERRY: I can't believe this.<br>
+							<br>
+							
+						KRAMER: I know, I know. Don't I look more relaxed?<br>
+							<br>
+							<br>
+							<br>
+							
+						[Monk's]<br>
+							<br>
+							
+						ELAINE: So, George, do you have any thoughts on this Darryl situation?<br>
+							<br>
+							
+						GEORGE: Actually, I did have a thought.<br>
+							<br>
+							
+						ELAINE: Oh.<br>
+							<br>
+							
+						GEORGE: Why don't you just ask him?<br>
+							<br>
+							
+						ELAINE: (rudely and giving him a 'duh' look) Because, if I ask him, then it's like I really want to know.<br>
+							<br>
+							
+						GEORGE: Maybe he's, um... mixed.<br>
+							<br>
+							
+						ELAINE: Is that the right word?<br>
+							<br>
+							
+						GEORGE: I really don't think we're supposed to be talkin' about this.<br>
+							<br>
+							
+						ELAINE: Yeah.<br>
+							<br>
+							
+						GEORGE: (standing up) I'm just gonna go to the bathroom.<br>
+							<br>
+							
+						ELAINE: (starting to leave) You know what, I'm leavin'.<br>
+							<br>
+							
+						GEORGE: Yeah.<br>
+							<br>
+							
+						ELAINE: I'll just talk to Jerry when he gets back. (seeing the Rosses entering Monk's) Oh. Mrs. Ross, Mr. Ross.<br>
+							<br>
+							
+						MRS. ROSS: Oh, you're George's friend.<br>
+							<br>
+							
+						MR. ROSS: We saw him in the city this weekend. Uh, what happened to his place in the Hamptons?<br>
+							<br>
+							
+						ELAINE: (laughing uproariously) The Hamptons? George Costanza? I, uh... I don't think so. Have a good one.<br>
+							<br>
+							
+						GEORGE: Rosses.<br>
+							<br>
+							
+						MR. ROSS: George, we were just talking about you.<br>
+							<br>
+							
+						GEORGE: Well, sorry I missed that, uh, charity thing. But this was one of those truly glorious Hampton weekends that you always hear about.<br>
+							<br>
+							
+						MRS. ROSS: Really?<br>
+							<br>
+							
+						GEORGE: Yeah, I may move out there. (getting 'yeah, right' glances from the Rosses) I mean it, I'll do it! OK, I'll see ya later. Keep it real!<br>
+							<br>
+							<br>
+							<br>
+							
+						[Florida- Restaurant]<br>
+							<br>
+							
+						MORTY: (eating lunch with Helen and Jerry) Another fine meal, and now for my Wizard tip calculator.<br>
+							<br>
+							
+						JERRY: Dad, it's got lots of other functions.<br>
+							<br>
+							
+						MORTY: Don't worry. I'll get to the other functions. (trying to open it) I can't get it open.<br>
+							<br>
+							
+						(Jerry easily opens it)<br>
+							<br>
+							
+						HELEN: Yay! Jerry got it open.<br>
+							<br>
+							
+						MORTY: The service was slow. And God forbid they should refill the water. How does 12.4% sound?<br>
+							<br>
+							
+						JERRY: (looking at the Wizard) Well, your tip is four dollars and thirty-six point six six six six cents.<br>
+							<br>
+							
+						MORTY: We'll round down.<br>
+							<br>
+							
+						HELEN: Jerry, it was so nice of you to come down here on your father's birthday. You've helped take his mind off the condo elections.<br>
+							<br>
+							
+						JERRY: Oh, right. You can't run for condo president because you were impeached at the other condo.<br>
+							<br>
+							
+						MORTY: I was never impeached! I resigned!<br>
+							<br>
+							
+						HELEN: Even so, the press would bury him!<br>
+							<br>
+							
+						JERRY: What press?<br>
+							<br>
+							
+						HELEN: The condo newsletter, the Boca Breeze.<br>
+							<br>
+							
+						MORTY: Pinko Commie rag.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Florida- clubhouse]<br>
+							<br>
+							
+						OLD MAN: (coming up to the three Seinfelds) Hey, Morty. Your boy here, he just got a date with that young aquacise instructor.<br>
+							<br>
+							
+						JERRY: She's fifty.<br>
+							<br>
+							
+						OLD MAN: You know what he's got? He's got charisma. That's my man.<br>
+							<br>
+							
+						KRAMER: All right, I'll see you guys.<br>
+							<br>
+							
+						OLD MAN: Yeah.<br>
+							<br>
+							
+						KRAMER: Yeah.<br>
+							<br>
+							
+						(Kramer, scanning the scene, is surprised to see Morty, right next to him, staring at his face)<br>
+							<br>
+							
+						KRAMER: (taping Morty's glasses) Morty, what're you lookin' at?<br>
+							<br>
+							
+						MORTY: I'll tell you what I'm looking at: the next condo president of Del Boca Vista, Phase Three.<br>
+							<br>
+							
+						KRAMER: Hmm.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Darryl's Apartment]<br>
+							<br>
+							
+						DARRYL: Elaine, thank you for the Wizard!<br>
+							<br>
+							
+						(Elaine laughts somewhat awkwardly)<br>
+							<br>
+							
+						DARRYL: Wow, it's got so many functions.<br>
+							<br>
+							
+						ELAINE: Yeah, yeah. Forget about all that. First thing is first. Warranty information. Name, we know that. Uh, hobbies. Skiing, racquetball...<br>
+							<br>
+							
+						DARRYL: Well, I don't do that stuff.<br>
+							<br>
+							
+						ELAINE: It doesn't matter, it doesn't matter, it doesn't matter. Um. Oh, here's one: race.<br>
+							<br>
+							
+						DARRYL: Isn't that optional?<br>
+							<br>
+							
+						ELAINE: It certainly should be. It's nobody's damn business! But they really would like to know.<br>
+							<br>
+							
+						DARRYL: All right, I'm... Asian.<br>
+							<br>
+							
+						ELAINE: What?<br>
+							<br>
+							
+						DARRYL: Just to mess with 'em.<br>
+							<br>
+							
+						ELAINE: laughing awkwardly: Oh. Right. Good one.<br>
+							<br>
+							
+						DARRYL: Average income, uh... over a hundred thousand.<br>
+							<br>
+							
+						ELAINE: Really?<br>
+							<br>
+							
+						DARRYL: Does that matter?<br>
+							<br>
+							
+						ELAINE: No, but... it is very nice to know.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Florida- Seinfeld Condo]<br>
+							<br>
+							
+						JERRY: (in his parent's condo, on the phone with Elaine) So did you figure out Darryl's... you know.<br>
+							<br>
+							
+						ELAINE: (in Jerry's apartment) Ah, I've given up. So, now we're going to a bunch of Spanish restaurants. I figure that'll cover us either way.<br>
+							<br>
+							
+						JERRY: (as Kramer walks by) You're a master of race relations.<br>
+							<br>
+							
+						ELAINE: Hey, so Kramer's running for president of the condo?<br>
+							<br>
+							
+						JERRY: Yeah, it's all my father's doing.<br>
+							<br>
+							
+						(Kramer, apparently looking for something to do, mumbles to Jerry to hand him a magazine from the table)<br>
+							<br>
+							
+						JERRY: He wants to install Kramer in a puppet regime and then wield power from behind the scenes. Preferably from the sauna in the clubhouse.<br>
+							<br>
+							
+						ELAINE: Oh, heh heh heh. Who are they running against?<br>
+							<br>
+							
+						JERRY: Common sense and a guy in a wheelchair.<br>
+							<br>
+							
+						GEORGE: (entering Jerry's apartment) Jerry?<br>
+							<br>
+							
+						ELAINE: (to George) He's still down with his folks.<br>
+							<br>
+							
+						GEORGE: (to Elaine) What are you doin' here?<br>
+							<br>
+							
+						JERRY: (overhearing the other two: Elaine, Elaine--<br>
+							<br>
+							
+						ELAINE: (to George) I'm gettin' his mail.<br>
+							<br>
+							
+						JERRY: (overhearing the other two) Oh, no.<br>
+							<br>
+							
+						GEORGE: (to Elaine) He asked you to get the mail?<br>
+							<br>
+							
+						ELAINE: (to George) Mm-hmm.<br>
+							<br>
+							
+						GEORGE: (taking the phone from Elaine) Jerry, why is Elaine getting your mail?<br>
+							<br>
+							
+						JERRY: George, listen to me. I have a very important job for you. I want you to come by twice a day and flush the toilet so the gaskets don't dry out and leak.<br>
+							<br>
+							
+						ELAINE: (trying to understand what they're talking about) What?<br>
+							<br>
+							
+						GEORGE: What about the mail?<br>
+							<br>
+							
+						JERRY: This is far more important. You must exercise the gaskets, George.<br>
+							<br>
+							
+						GEORGE: (hanging up) All right, Jerry. I'll do it. See ya.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Jerry's apartment]<br>
+							<br>
+							
+						GEORGE: So, I ran into the Rosses again.<br>
+							<br>
+							
+						ELAINE: Oh, right, at the coffee shop. Where did they get the idea that you have a place in the Hamptons?<br>
+							<br>
+							
+						GEORGE: From me.<br>
+							<br>
+							
+						ELAINE: What did you say?<br>
+							<br>
+							
+						GEORGE: I told them I have a place in the Hamptons. What did you say?<br>
+							<br>
+							
+						ELAINE: I told them you didn't. And I laughed and I laughed.<br>
+							<br>
+							
+						GEORGE: So, they knew? Those liars!<br>
+							<br>
+							
+						ELAINE: But you lied first.<br>
+							<br>
+							
+						GEORGE: Yeah, but they let me go on and on all about the Hamptons, they never said a thing! You don't let somebody lie when they know you're lying. You call them a liar!<br>
+							<br>
+							
+						ELAINE: Like you're a liar!<br>
+							<br>
+							
+						GEORGE: Yes. Thank you! Is that so hard?<br>
+							<br>
+							
+						ELAINE: So, this is over, not over? I'm bettin', not over.<br>
+							<br>
+							
+						GEORGE: Hmm-hmm, not by a long shot. I'm calling up the Rosses and inviting them up to my non-existent place in the Hamptons. Then we'll see who blinks first.<br>
+							<br>
+							
+						ELAINE: Haven't you done enough to these people?<br>
+							<br>
+							
+						GEORGE: This is not about them. Now, if you'll excuse me, I have to exercise Jerry's gaskets.<br>
+							<br>
+							
+						(Elaine gets a sarcastic, 'oh, boy' expression)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Florida- Kramer Campaigning]<br>
+							<br>
+							
+						KRAMER: (to a room) Vote for Kramer. (to a man walking by) Cosmo Kramer. I'm running for condo president. I'd like your vote. Thanks. (to an old woman) Remember, ma'am, a vote for me, is a vote for Kramer.<br>
+							<br>
+							
+						OLD WOMAN: Will you cut my meat?<br>
+							<br>
+							
+						KRAMER: Gladly.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Monk's]<br>
+							<br>
+							
+						WAITRESS: (to Darryl) Coffee?<br>
+							<br>
+							
+						DARRYL: Sure.<br>
+							<br>
+							
+						WAITRESS: (to Darryl) Are you black? Or should I bring some cream.<br>
+							<br>
+							
+						DARRYL: I'm black. (re-thinking) Oh, you know what? Bring a little cream. (seeing a couple gesturing towards him and Elaine) Did you hear that?<br>
+							<br>
+							
+						ELAINE: What?<br>
+							<br>
+							
+						DARRYL: God, there are still people who have trouble with an interracial couple.<br>
+							<br>
+							
+						ELAINE: Interracial? Us?<br>
+							<br>
+							
+						DARRYL: Isn't that unbelievable!?<br>
+							<br>
+							
+						ELAINE: Yes, it's awful! They're upset because we're an interracial couple. That is racism!<br>
+							<br>
+							
+						DARRYL: I don't feel like eating.<br>
+							<br>
+							
+						ELAINE: Me neither. Well, maybe this turkey club.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Outside the Ross']<br>
+							<br>
+							
+						GEORGE: So... here I am. Ready to take you to the Hamptons.<br>
+							<br>
+							
+						MRS. ROSS: Sounds grand.<br>
+							<br>
+							
+						GEORGE: Do you have your bathing suits?<br>
+							<br>
+							
+						MR. ROSS: It's March.<br>
+							<br>
+							
+						GEORGE: Speak now, or we are headed to the Hamptons. It's a two-hour drive. Once you get in that car, we are going all the way... to the Hamptons. All right, you wanna get nuts? Come on. Let's get nuts!<br>
+							<br>
+							<br>
+							<br>
+							
+						[Florida-Seinfeld Condo]<br>
+							<br>
+							
+						JERRY: (in his parent's condo, to his father, who's in another room) Hey, Dad. You know you can program this thing to beep every time you need to take a vitamin. (as Kramer comes walking out in a retirement-like athletic sweatsuit) Dad, you look so different.<br>
+							<br>
+							
+						KRAMER: Oh, no. We're campaigning, Jerry. To rule the people, one... must walk among them.<br>
+							<br>
+							
+						MORTY: (coming into the hall) This is the home stretch. Tomorrow's the election!<br>
+							<br>
+							
+						KRAMER: Right. Yeah. The polls close after dinner, three o'clock. But then when we win, the celebration goes all night until the break of eight p.m.<br>
+							<br>
+							
+						JERRY: You know, you can put that whole schedule right in your daily planner.<br>
+							<br>
+							
+						MORTY: Daily what?<br>
+							<br>
+							
+						HELEN: (coming into the condo) Have you read today's Boca Breeze?<br>
+							<br>
+							
+						KRAMER: (looking at the newsletter) Hey, look at that. Picture of me, huh? (reading out loud) Candidate Cosmo Kramer caught barefoot in clubhouse.<br>
+							<br>
+							
+						MORTY: Barefoot in the clubhouse? Don't you realize this is against the rules.<br>
+							<br>
+							
+						KRAMER: Well, I couldn't find my shoes.<br>
+							<br>
+							
+						JERRY: Kramer, these people work and wait their whole lives to move down here, sit in the heat, pretend it's not hot, and enforce these rules.<br>
+							<br>
+							
+						HELEN: Who wants hot chocolate?<br>
+							<br>
+							
+						KRAMER: Oh, yeah! Me.<br>
+							<br>
+							
+						MORTY: This is a huge scandal! We need damage control.<br>
+							<br>
+							
+						KRAMER: All right, look. People seem to like those tip calculators, huh?<br>
+							<br>
+							
+						JERRY: Wizards!<br>
+							<br>
+							
+						KRAMER: Yeah, well, how 'bout if we give one out to every member on the condo board.<br>
+							<br>
+							
+						JERRY: Kramer...<br>
+							<br>
+							
+						MORTY: There are twenty people on the board. Thank God you can get that deal.<br>
+							<br>
+							
+						KRAMER: Payoffs. Now we're playin' politics. All right, what do we next, Morty, huh? Wiretaps, slush funds?<br>
+							<br>
+							
+						MORTY: (rushing to his bedroom) First, I need a nap.<br>
+							<br>
+							
+						HELEN: (running after him) Oh, I'll get your electric blanket!<br>
+							<br>
+							
+						JERRY: Kramer, I can't get that many Wizards.<br>
+							<br>
+							
+						KRAMER: Well, what about your deal, huh?<br>
+							<br>
+							
+						JERRY: I didn't have a deal! They're two hundred dollars a pop. What do I do?<br>
+							<br>
+							
+						KRAMER: Well, don't worry about it. I know a guy.<br>
+							<br>
+							
+						JERRY: Down here?<br>
+							<br>
+							
+						KRAMER: Yeah, Bob Saccamano's father.<br>
+							<br>
+							<br>
+							<br>
+							
+						[George's Car]<br>
+							<br>
+							
+						George, driving in the car with the Rosses) And that leads into the master bedroom.<br>
+							<br>
+							
+						MRS. ROSS: Tell us more.<br>
+							<br>
+							
+						GEORGE: You want to hear more? The master bedroom opens into the solarium.<br>
+							<br>
+							
+						MR. ROSS: Another solarium?<br>
+							<br>
+							
+						GEORGE: Yes, two solariums. Quite a find. And I have horses, too?<br>
+							<br>
+							
+						MR. ROSS: What are their names?<br>
+							<br>
+							
+						GEORGE: Snoopy and Prickly Pete. Should I keep driving?<br>
+							<br>
+							
+						MRS. ROSS: Oh, look, an antique stand. Pull over. We'll buy you a housewarming gift.<br>
+							<br>
+							
+						GEORGE: (chuckling to himself) Housewarming gift. (swerving the car to go to the antique stand) All right, we're taking it up a notch!<br>
+							<br>
+							<br>
+							<br>
+							
+						[Monk's]<br>
+							<br>
+							
+						WAITRESS: (handing Elaine a menu) Here you go.<br>
+							<br>
+							
+						ELAINE: (to the black waitress) Long day?<br>
+							<br>
+							
+						WAITRESS: Yeah, I just worked a triple shift.<br>
+							<br>
+							
+						ELAINE: I hear ya, Sister.<br>
+							<br>
+							
+						WAITRESS: Sister?<br>
+							<br>
+							
+						ELAINE: (as Darryl comes into Monk's) Yeah. It's OK. My boyfriend's black. Here he is. See?<br>
+							<br>
+							
+						DARRYL: Hi, Elaine.<br>
+							<br>
+							
+						ELAINE: Hey.<br>
+							<br>
+							
+						WAITRESS: He's black?<br>
+							<br>
+							
+						ELAINE: Yeah.<br>
+							<br>
+							
+						DARRYL: I'm black?<br>
+							<br>
+							
+						ELAINE: Aren't you?<br>
+							<br>
+							
+						WAITRESS: (leaving) I'll give you a couple minutes to decide.<br>
+							<br>
+							
+						DARRYL: What are you talking about?<br>
+							<br>
+							
+						ELAINE: You're black. You said we were an interracial couple.<br>
+							<br>
+							
+						DARRYL: We are. Because you're Hispanic.<br>
+							<br>
+							
+						ELAINE: I am?<br>
+							<br>
+							
+						DARRYL: Aren't you?<br>
+							<br>
+							
+						ELAINE: No. Why would you think that?<br>
+							<br>
+							
+						DARRYL: Your name's Benes, your hair, and you kept taking me to those Spanish restaurants.<br>
+							<br>
+							
+						ELAINE: That's because I thought you were black.<br>
+							<br>
+							
+						DARRYL: Why would you take me to a Spanish restaurant because I'm black?<br>
+							<br>
+							
+						ELAINE: I don't think we should be talking about this.<br>
+							<br>
+							
+						DARRYL: So, what are you?<br>
+							<br>
+							
+						ELAINE: I'm white.<br>
+							<br>
+							
+						DARRYL: So, we're just a couple of white people?<br>
+							<br>
+							
+						ELAINE: I guess.<br>
+							<br>
+							
+						DARRYL: Oh.<br>
+							<br>
+							
+						ELAINE: Yeah. So do you want to go to the Gap?<br>
+							<br>
+							
+						DARRYL: (leaving with Elaine) Sure.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Florida-Seinfeld Condo]<br>
+							<br>
+							
+						KRAMER: (having lunch with Jerry and his parents) Oh, well... I handed out all the Wizards. Polls close in one hour. Whoo hoo hoo! I think we've got this baby all sewn up, huh? Oh, uh, there was an extra one. Norman Burgerman, he won't be leavin' any tips where he is.<br>
+							<br>
+							
+						JERRY: Aw.<br>
+							<br>
+							
+						MORTY: Congratulations, Mr. President.<br>
+							<br>
+							
+						KRAMER: Congratulations, Mr. Puppet Master.<br>
+							<br>
+							
+						OLD MAN: Hey, Morty, what's wrong with these tip calculators?<br>
+							<br>
+							
+						MORTY: What are you talking about?<br>
+							<br>
+							
+						OLD MAN: It's overtipping. I just left five bucks for a BLT.<br>
+							<br>
+							
+						MORTY: This isn't a Wizard, it's a Willard.<br>
+							<br>
+							
+						JERRY: A Willard? Saccamano, Sr. screwed me!<br>
+							<br>
+							
+						OLD MAN #2: Mine doesn't have a seven!<br>
+							<br>
+							
+						OLD MAN #3: I'm ruined!<br>
+							<br>
+							
+						MORTY: Jerry, why didn't you get them Wizards?<br>
+							<br>
+							
+						JERRY: Because a real Wizard's two hundred dollars.<br>
+							<br>
+							
+						MORTY: You didn't have a deal?<br>
+							<br>
+							
+						JERRY: No deal. Not hot.<br>
+							<br>
+							
+						OLD MAN: Morty, you, and Kramer, you're finished.<br>
+							<br>
+							
+						KRAMER: What?<br>
+							<br>
+							
+						OLD MAN: Everyone vote for the guy in the wheelchair.<br>
+							<br>
+							
+						KRAMER: (getting up to leave) Well, the people have spoken. Well, that's it for me. I'm, I'm headin' back to New York.<br>
+							<br>
+							
+						JERRY: Dad, I'm sorry.<br>
+							<br>
+							
+						MORTY: You should be! How could you spend two hundred dollars on a tip calculator?!<br>
+							<br>
+							
+						JERRY: It does other things!<br>
+							<br>
+							<br>
+							<br>
+							
+						[Outside George's Car on a beach]<br>
+							<br>
+							
+						MR. ROSS: Where are we, George?<br>
+							<br>
+							
+						GEORGE: Almost there.<br>
+							<br>
+							
+						MR. ROSS: Well, this is the end of Long Island. Where's your house?<br>
+							<br>
+							
+						GEORGE: We, uh, we go on foot from here.<br>
+							<br>
+							
+						MR. ROSS: All right.<br>
+							<br>
+							
+						GEORGE: There's no house! It's a lie! There's no solarium. There's no Prickly Pete. There's no other solarium.<br>
+							<br>
+							
+						MR. ROSS: We know.<br>
+							<br>
+							
+						GEORGE: Then, why? Why did you make me drive all the way out here? Why didn't you say something? Why? Why? Why?<br>
+							<br>
+							
+						MRS. ROSS: We don't like you, George.<br>
+							<br>
+							
+						MR. ROSS: And we always blamed you for what happened to Susan.<br>
+							<br>
+							
+						GEORGE: Oh.<br>
+							<br>
+							
+						MR. ROSS: All right! Let's head back.<br>
+							<br>
+							<br>
+							
+						The End</td>
+						</tr>
+						<tr height="6">
+							<td class="bottom2" width="645" height="6"></td>
+						</tr>
+						<tr>
+							<td width="645">
+								<div align="center">
+									<font size="-1">Copyright 2006 seinology.com | All Rights Reserved | Designed by 13erla</font></div>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+		<p></p>
+	</body>
+
+</html>

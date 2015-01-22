@@ -1,0 +1,1115 @@
+<tdOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+<html>
+
+	<head>
+		<meta http-equiv="content-type" content="text/html;charset=ISO-8859-1">
+		<meta name="description" content="Top Source for Seinfeld">
+		<meta name="keywords" content="seinfeld, sienfeld, Jerry Seinfeld, Julia Louis Dreyfus, Jason Alexander, Michael Richards, Kramer, George, Costanza, Elaine Benes, morty, Larry David">
+		<title>Seinology.com :: Scripts :: 21-The Dog</title>
+	<link rel='stylesheet' href='/stylesheet.css' type='text/css'>
+	</head>
+
+	<body>
+			<table align="center" width="787" border="0" cellspacing="0" cellpadding="0">
+				<tr>
+					<td><font size="-2" color="red">Seinology.com - </font><font size="-3" color="black">Where Seinfeld Content and Accuracy Matter Most. Seinfeld scripts in pdf form, Seinfeld episode video clips, Seinfeld episode audio clips, Jerry Seinfeld appearances, Julia Louis-Dreyfus appearances, Michael Richards appearances, Jason Alexander appearances, Seinfeld discussion Forum, Seinfeld Where are they Now? Seinlanguage Newsletter, Popular Seinfeld Lists, Seinfeld episode standup, Seinfeld episode guide, Seinfeld fan fiction. Seinfeld content all on one domain. Seinology.com enjoy your stay.</font></td>
+				</tr>
+			</table>
+		
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr height="100">
+				<td class="logo"></td>
+			</tr>
+			<tr><td class="ads" align="center" background=#8694fa>
+				<script type="text/javascript"><!--
+google_ad_client = "pub-1924026976931416";
+google_ad_width = 728;
+google_ad_height = 90;
+google_ad_format = "728x90_as";
+google_ad_type = "text";
+google_ad_channel = "";
+google_color_border = "FFFFFF";
+google_color_bg = "8694fa";
+google_color_link = "0000FF";
+google_color_text = "000000";
+google_color_url = "002E3F";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></td></tr>
+		</table>
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr>
+				<td valign="top" width="136">
+					<table width="136" border="0" cellspacing="0" cellpadding="0">
+						<tr height="24">
+							<td class="navigation">
+								<div align="center">
+									
+									<b>Navigation</b></div>
+							</td>
+						</tr>
+						<tr height="199">
+							<td class="spacer1" valign="top" width="136" height="199">
+								<div align="center">
+									<font size="-1"><a href="http://www.seinology.com">Home</a><br>
+										<a href="http://board.seinology.com">Forum</a><br>
+										<a href="http://www.seinology.com/av.shtml">Audio/Video</a><br>
+										<a href="http://www.seinology.com/scripts.shtml">Scripts</a><br>
+										<a href="http://www.seinology.com/survivor.shtml">Survivor</a><br>
+										<a href="http://www.seinology.com/fanfics.shtml">Fan Fiction</a><br>
+										<a href="http://www.seinology.com/gallery/">Gallery</a><br>
+										<a href="http://www.seinology.com/newsletter.shtml">Newsletter</a><br>
+										<a href="http://www.seinology.com/lists.shtml">Lists</a><br>
+										<a href="http://www.seinology.com/epguide.shtml">Episode Guide</a><br>
+										<a href="http://www.seinology.com/links.shtml">Links</a><br>
+										<a href="http://www.seinology.com/faqother.shtml">Faq + others</a><br>
+										<a href="http://www.seinology.com/legal.shtml">Legal</a></font></div>
+							</td>
+						</tr>
+						
+						<tr>
+							<td class="nav2" width="136">
+							<div align="center"><b>Search</b></div></td>
+						</tr>
+						<tr>
+							<td class="spacer1" width="136" valign="top"><div align="center"><form method="get" action="http://www.seinology.com/search/search.cgi">
+<p><label for="fdse_Match">Match</label><br>
+<select name="Match" id="fdse_Match" size="1">
+<option value="1">All</option>
+<option value="0">Any</option>
+<option value="2">Phrase</option>
+</select></p>
+<p><label for="fdse_Realm">Where?</label><br>
+<select name="Realm" id="fdse_Realm" size="1">
+<option selected="selected" value="All">EntireSite</option>
+<option value="Ep Guide">Ep Guide</option>
+<option value="Images">Images</option>
+<option value="Lists">Lists</option>
+<option value="Newsletters">Newsletters</option>
+<option value="Scripts">Scripts</option>
+<option value="Notes..Nothing">Notes..Nothing</option>
+</select></p>
+<p><input type="text" name="Terms" size="14" id="fdse_Terms"><br>
+<input type="submit" class="submit" name="submitButtonName" value="Search"></p>
+</div></form></td>
+						</tr>
+						<tr><td class="bottom" width="136" height="10" valign="top">
+						</td>
+						</tr>
+					</table>
+				</td>
+				<td width="4"></td>
+				<td valign="top" width="645">
+					<table width="645" border="0" cellspacing="0" cellpadding="0">
+						<tr height="18">
+							<td width="645" height="35" class="bar">
+								<div align="center">
+									<b><font size="+2" color="black">Script</font></b></div>
+							</td>
+						</tr>
+						<tr height="362">
+							<td class="spacer2" valign="top" width="645" height="362">
+
+						<p><font size="-2">Episode 21 - The Dog<br>
+							
+						pc: 303, season 3, episode 4<br>
+							
+						Broadcast date: October 9, 1991<br>
+							<br>
+							
+						Written By Larry David<br>
+							
+						Directed By Tom Cherones<br>
+							<br>
+							
+						-------------------------------------------------------------------------------<br>
+							<br>
+							
+						The Cast<br>
+							
+						Regulars:<br>
+							
+						Jerry Seinfeld ....................... Jerry Seinfeld<br>
+							
+						Jason Alexander .................. George Costanza<br>
+							
+						Julia Louis-Dreyfus .............. Elaine Benes<br>
+							
+						Michael Richards .................. Kramer<br>
+							<br>
+							
+						Guest Stars:<br>
+							<br>
+							
+						Joseph Maher ...................... Gavin<br>
+							
+						Tom Williams ....................... Bark of the Dog<br>
+							
+						Marvin Wright-Bey ............. Attendant #1<br>
+							
+						Kelly Wellman ...................... Attendant #2<br>
+							<br>
+							
+						==================================================================<br>
+							<br>
+							<br>
+							
+						[Opening monologue; Comedy Club.]<br>
+							<br>
+							
+						JERRY: So I'm on the plane, we left late. Pilot says we're going to be making up some time in the air. I thought, well isn't that interesting. We'll just make up time. That's why you have to reset your watch when you land. Of course, when they say they're making up time, obviously they're increasing the speed of the aircraft. Now, my question is if you can go faster, why don't you just go as fast as you can all the time? C'mon, there's no cops up here, nail it. Give it some gas! We're flying!<br>
+							<br>
+							<br>
+							<br>
+							
+						[New scene. Jerry is on an airplane, seated beside a talkative (and inebriated) man.]<br>
+							<br>
+							
+						GAVIN: Travelling, of course, is the best education. Do you know last year I was in over forty, forty-five countries, and I would have gone to more but I had just got a puppy, and he was too young to take with me. But now I won't travel without him.<br>
+							<br>
+							
+						JERRY: Is he on the plane now?<br>
+							<br>
+							
+						GAVIN: Oh yes. Yes, he's in the, he's in the baggage compartment. I don't know why they won't let him sit up here with me. He's a lot better behaved than most of the dregs you find onboard here. Do you, do you have any pets?<br>
+							<br>
+							
+						JERRY: Uh, just my next door neighbor.<br>
+							<br>
+							
+						GAVIN: You're missing out on a relationship that could enrich your life in ways that you never could have thought possible.<br>
+							<br>
+							
+						JERRY: Howbout picking up their, you know. You find that enriching?<br>
+							<br>
+							
+						(Gavin leans back in his seat wearing a pained expression.)<br>
+							<br>
+							
+						JERRY: What's the matter?<br>
+							<br>
+							
+						GAVIN: Oh, I'm feeling a bit queasy.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Cut to external shot of the plane in flight, then back into the cabin where flight attendants are tending to Gavin, who is lying on the floor.]<br>
+							<br>
+							
+						ATTENDANT #1: Sir, we're gonna make an emergency landing in Chicago and get you to a hospital.<br>
+							<br>
+							
+						GAVIN: My dog. What about my dog?<br>
+							<br>
+							
+						ATTENDANT #1: Uh, you have a dog?<br>
+							<br>
+							
+						ATTENDANT #2: Do you know anyone on the plane, Mr. Palone?<br>
+							<br>
+							
+						(Jerry stares out the window.)<br>
+							<br>
+							
+						GAVIN: Jerry?<br>
+							<br>
+							
+						JERRY: Huh? How you feeling?<br>
+							<br>
+							
+						GAVIN: Would you take care of Farfel?<br>
+							<br>
+							
+						JERRY: Farfel?<br>
+							<br>
+							
+						ATTENDANT #2: It's his dog. We're landing in Chicago to get him to a hospital, could you take his dog to New York?<br>
+							<br>
+							
+						JERRY: The dog? The dog??<br>
+							<br>
+							
+						GAVIN: I'm sure it's only for a day or two.<br>
+							<br>
+							
+						JERRY: But, you know, what if, you know?<br>
+							<br>
+							
+						GAVIN: Give me your address and phone number, I'll call you.<br>
+							<br>
+							
+						JERRY: The dog?<br>
+							<br>
+							<br>
+							<br>
+							
+						[New scene. Jerry's apartment, he's got all of his furniture up and there's a loud incessant barking coming from the bedroom. Jerry and Farfel are playing 'tug of war' with one of Jerry's sneakers. Elaine is in the kitchen.]<br>
+							<br>
+							
+						JERRY: Let go, Farfel! Let go, gimme that! Gimme the sneaker you stupid idiot! Shut up! (to Elaine) So what would you do?<br>
+							<br>
+							
+						ELAINE: Well it's only been three days, I'm sure he's gonna call.<br>
+							<br>
+							
+						JERRY (to Farfel): STOP IT! SHUT UUUUUUP!!! (to Elaine) Do you believe this? Do you believe what I'm dealing with here, I've got a wild animal in the house! He's deranged, maybe he's got rabies. I can get lockjaw.<br>
+							<br>
+							
+						ELAINE: If only.<br>
+							<br>
+							
+						JERRY: Look at this place. He's going everywhere, I can't go out of the house at night. I haven't performed in three days. This'll be my first night out of the house since I got back.<br>
+							<br>
+							
+						ELAINE: Hey, when you walk him, do ya...<br>
+							<br>
+							
+						JERRY: Do I what?<br>
+							<br>
+							
+						ELAINE: Do you pick it up?<br>
+							<br>
+							
+						JERRY: Yes, I pick it up.<br>
+							<br>
+							
+						ELAINE: You pick it up?!?<br>
+							<br>
+							
+						JERRY: Well you have to.<br>
+							<br>
+							
+						ELAINE: Oh, boy would I love to see that.<br>
+							<br>
+							
+						JERRY: SHUT UP!! Shut up Farfel, stop it! (to Elaine) I don't know what to do. I mean what if I take it to the pound then the guy shows up?<br>
+							<br>
+							
+						ELAINE: Maybe you should call the airline, they might know where he is.<br>
+							<br>
+							
+						JERRY: No, I tried. they don't know anything. (notices Elaine making egg creams) You gotta put the syrup in first.<br>
+							<br>
+							
+						ELAINE: No, milk.<br>
+							<br>
+							
+						JERRY: I'm telling you the guy's a drunk, he's probably on a bender.<br>
+							<br>
+							
+						ELAINE: What is a bender anyhow?<br>
+							<br>
+							
+						JERRY: I don't know, they drink and they bend things at the bar.<br>
+							<br>
+							
+						ELAINE: I can't believe he hasn't called.<br>
+							<br>
+							
+						JERRY: Two hundred seats on a plane, I gotta wind up next to Yukon Jack and his dog Cujo. Shut up! One more day and you are pound bound!<br>
+							<br>
+							
+						(Kramer enters.)<br>
+							<br>
+							
+						KRAMER: Sorry, I can't watch the dog tonight.<br>
+							<br>
+							
+						JERRY: Why?<br>
+							<br>
+							
+						ELAINE: We're going to the movies, we're gonna see Prognosis Negative.<br>
+							<br>
+							
+						KRAMER: I can't, I gotta get this Ellen out of my life.<br>
+							<br>
+							
+						JERRY: You're breaking up?<br>
+							<br>
+							
+						KRAMER: Oh ho ho ho yeah, the sooner the better. I can't wait to do it. You know how there's some people you worry about whether you're going to hurt their feelings? With her, I'm looking forward to it. I'd like to get it on video, watch it in slow motion and freeze frame it. Oh ho, yeah.<br>
+							<br>
+							
+						ELAINE: Kramer, I don't know how you lasted as long as you did.<br>
+							<br>
+							
+						KRAMER: Woah, you didn't like her?<br>
+							<br>
+							
+						ELAINE: If you could see her personality it would be like one of the Elephant Man exhibits, you know where they pull off the sheet and everyone gasps.<br>
+							<br>
+							
+						JERRY: I can't believe someone hasn't killed her yet.<br>
+							<br>
+							
+						KRAMER: How come you never said anything?<br>
+							<br>
+							
+						JERRY: Well you can't tell someone how you feel about their girlfriend until after they stop seeing them.<br>
+							<br>
+							
+						KRAMER: I tell you.<br>
+							<br>
+							
+						JERRY: You. I'm talking about people.<br>
+							<br>
+							
+						ELAINE: Are we still going to the movies tonight?<br>
+							<br>
+							
+						JERRY: No, I can't I gotta watch Farfel, you and George can go without me.<br>
+							<br>
+							
+						ELAINE: Just me and George?<br>
+							<br>
+							
+						JERRY: Sure.<br>
+							<br>
+							
+						ELAINE: But we need you.<br>
+							<br>
+							
+						JERRY: What do you need me for?<br>
+							<br>
+							
+						(Jerry's buzzer buzzes.)<br>
+							<br>
+							
+						ELAINE: Because... Yeah?<br>
+							<br>
+							
+						GEORGE: Prognosis Negative! (in a funny voice)<br>
+							<br>
+							
+						(Elaine buzzes George into the building.)<br>
+							<br>
+							
+						ELAINE: Because I relate to George through you, we're like friends-in-law. Besides, you said we were gonna see Prognosis Negative together. Can't you just put some newspapers down or something?<br>
+							<br>
+							
+						JERRY: No, I can't trust him, he gets insane. I won't enjoy myself. That's right, Farfel, I'm talking about you!<br>
+							<br>
+							
+						ELAINE: Just me and George alone?<br>
+							<br>
+							
+						(George enters.)<br>
+							<br>
+							
+						GEORGE: Let's go, people, let's go! It's Prognosis Negative time, wa ha ha ha!!!<br>
+							<br>
+							
+						JERRY: I can't go.<br>
+							<br>
+							
+						GEORGE: Can't go, Why not?<br>
+							<br>
+							
+						JERRY: Because I have to watch idiot Farfel.<br>
+							<br>
+							
+						GEORGE: I thought Kramer was watching.<br>
+							<br>
+							
+						JERRY: He's breaking up with his girlfriend tonight.<br>
+							<br>
+							
+						GEORGE: Well so what's the problem, you just put some newspaper down.<br>
+							<br>
+							
+						JERRY: No, I don't want that smell in the house.<br>
+							<br>
+							
+						GEORGE: You spritz a little Lysol on it.<br>
+							<br>
+							
+						JERRY: No, it's like BO and cologne, they combine forces into some kind of strange mutant funk.<br>
+							<br>
+							
+						GEORGE: So we're not going?<br>
+							<br>
+							
+						JERRY: Nah. You two go.<br>
+							<br>
+							
+						GEORGE: Oh. You still wanna go?<br>
+							<br>
+							
+						ELAINE: Do, do you?<br>
+							<br>
+							
+						GEORGE: If you want.<br>
+							<br>
+							
+						ELAINE: It,s, it's up to you.<br>
+							<br>
+							
+						JERRY: Go ahead.<br>
+							<br>
+							
+						ELAINE: Well, it's, I really wanted to see Prognosis Negative with Jerry, uh, you wanna see Ponce de Leon?<br>
+							<br>
+							
+						GEORGE: Ponce de Leon? Okay. (to Jerry) You sure you don't wanna go?<br>
+							<br>
+							
+						JERRY: I want to but I can't.<br>
+							<br>
+							
+						ELAINE: Oh! I tell you what. How about if I come back here first and I clean everything up and I open up the windows and if you're still not satisfied we can switch apartments for the night.<br>
+							<br>
+							
+						JERRY: No.<br>
+							<br>
+							
+						GEORGE: What about this--<br>
+							<br>
+							
+						JERRY: Forget it. Go ahead, you'll have a good time.<br>
+							<br>
+							
+						ELAINE: I know, it's not that.<br>
+							<br>
+							
+						GEORGE: It's just we want you to go.<br>
+							<br>
+							
+						JERRY: Well, thank you very much. I'm telling you, one more day stinkbreath!<br>
+							<br>
+							<br>
+							<br>
+							
+						[Comedy Club]<br>
+							<br>
+							
+						JERRY: On my block, a lot of ah, people walk their dogs, and I always see them walking along with their little poop bags, which to me is just the lowest function of human life. If aliens are watching this through telescopes, they're gonna think the dogs are the leaders. If you see two life forms, one of them's making a poop, the other one's carrying it for him, who would you assume was in charge?<br>
+							<br>
+							<br>
+							<br>
+							
+						[New scene. George and Elaine are at the coffee shop after seeing Ponce De Leon. They're obviously uncomfortable alone together.]<br>
+							<br>
+							
+						GEORGE: So how long did you live there?<br>
+							<br>
+							
+						ELAINE: About three years.<br>
+							<br>
+							
+						GEORGE: That's pretty long.<br>
+							<br>
+							
+						ELAINE: Hmm.<br>
+							<br>
+							
+						GEORGE: It's not that long, really.<br>
+							<br>
+							
+						ELAINE: Yeah.<br>
+							<br>
+							
+						(An uncomfortable silence ensues. They both speak at the same time, then stop. Another silence.)<br>
+							<br>
+							
+						GEORGE: And then you came here.<br>
+							<br>
+							
+						ELAINE: Yeah. So I've been here about six years.<br>
+							<br>
+							
+						GEORGE (Counting on his fingers): Eighty-six, eighty-seven, eighty-eight, eighty-nine, ninety, ninety-one... Yup.<br>
+							<br>
+							<br>
+							<br>
+							
+						[New scene. Jerry vs. Farfel, part II]<br>
+							<br>
+							
+						JERRY: Bad dog! Bad dog! You go outside! Outside!! What do you want from me? Tell me! Money, you want money? I'll give you money, how much?!<br>
+							<br>
+							<br>
+							<br>
+							
+						[New scene. Kramer is breaking up with his girlfriend.]<br>
+							<br>
+							
+						KRAMER: I must have been out of my mind. Look at you. Why don't you do something with your life? Sit around here all day, you contribute nothing to society. You're just taking up space. How could I be with someone like you? Wouldn't respect myself.<br>
+							<br>
+							<br>
+							<br>
+							
+						[New scene. Monk's, Elaine and George are as bored as before.]<br>
+							<br>
+							
+						GEORGE: I like herbal tea.<br>
+							<br>
+							
+						(Elaine yawns.)<br>
+							<br>
+							
+						GEORGE: Chamomile's good. Lemon Lift. Almond Pleasure.<br>
+							<br>
+							
+						ELAINE: Jerry likes Morning Thunder.<br>
+							<br>
+							
+						GEORGE: Jerry drinks Morning Thunder?<br>
+							<br>
+							
+						ELAINE: Yeah.<br>
+							<br>
+							
+						GEORGE: Morning Thunder has caffeine in it, Jerry doesn't drink caffeine.<br>
+							<br>
+							
+						ELAINE: Jerry doesn't know Morning Thunder has caffeine in it.<br>
+							<br>
+							
+						GEORGE: You don't tell him?<br>
+							<br>
+							
+						ELAINE (laughing): No. And you should see him, man, he gets all hyper, he doesn't even know why, he loves it! He walks around, going, &quot;God, I feel great!&quot;<br>
+							<br>
+							
+						GEORGE (laughing): You don't tell him?<br>
+							<br>
+							
+						ELAINE: No.<br>
+							<br>
+							
+						GEORGE: That is so funny!<br>
+							<br>
+							
+						ELAINE: I know!<br>
+							<br>
+							
+						GEORGE: Wait, have you ever seen him throw up?!<br>
+							<br>
+							
+						(They both make the same convulsive gestures together and break out in more laughter.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[New scene. Kramer has had a change of heart.]<br>
+							<br>
+							
+						KRAMER: Please! Please!! I take it all back, everything! I take it all back, every word! I love you! I love *you*! I can't live without you, I,ll, I'll do anything!<br>
+							<br>
+							<br>
+							<br>
+							
+						[New scene. Jerry's at his apartment, on the phone, Farfel is barking.]<br>
+							<br>
+							
+						JERRY: That's right, Gavin Palone. What? Are you sure? He was released on Monday? *Last* Monday? Did he leave a phone number or address? Unbelievable. Well thank you, thanks, thanks very much. (Hangs up) That's it, Farfel! Party's over! Start packing up your little squeeze toys buddy boy, you're checking out!<br>
+							<br>
+							<br>
+							<br>
+							
+						[New scene. Jerry and Elaine are cleaning Jerry's apartment.]<br>
+							<br>
+							
+						ELAINE: It was weird because George and I get along so great in so many situations but this is the first time we ever really went one-on-one.<br>
+							<br>
+							
+						JERRY: Oh, one-on-one's a whole different game. Can't pass off.<br>
+							<br>
+							
+						ELAINE: The only time it wasn't uncomfortable was when we were making fun of you.<br>
+							<br>
+							
+						JERRY (answering phone) Hello? Aha! Boy George, about time. Beautiful, how soon? Okay, here's the plan. We take the dog to the pound, we go right to the movies. Right, you, me and Elaine. Yes, all three of us. I am going. Okay, see you in five minutes.<br>
+							<br>
+							
+						(Jerry hangs up the phone and begins singing and dancing.)<br>
+							<br>
+							
+						JERRY: Going to the dog pound, everybody! Going to the dog pound, come on down. (To Elaine) What?<br>
+							<br>
+							
+						ELAINE: Do you have to?<br>
+							<br>
+							
+						JERRY: What am I supposed to do? I don't want to do it. I like dogs. I'm not sure this is a dog.<br>
+							<br>
+							
+						ELAINE: You know, the guy might have just lost your number.<br>
+							<br>
+							
+						JERRY: I'm in the book and I have a machine.<br>
+							<br>
+							
+						ELAINE: Jerry, do you know what they do to dogs at the pound? They keep them there for a week and then if nobody claims them, they kill them.<br>
+							<br>
+							
+						JERRY: Really? How late are they open?<br>
+							<br>
+							
+						(Kramer enters.)<br>
+							<br>
+							
+						JERRY: What?<br>
+							<br>
+							
+						ELAINE: What is it?<br>
+							<br>
+							
+						KRAMER: I went back with Ellen.<br>
+							<br>
+							
+						JERRY and ELAINE: Ohhhhh, that's great.<br>
+							<br>
+							
+						ELAINE: Terrific.<br>
+							<br>
+							
+						JERRY: Yeah, I really think you guys are good together.<br>
+							<br>
+							
+						ELAINE: Yes, she understands you and she is not demanding.<br>
+							<br>
+							
+						KRAMER: Do you think that I forgot what you two said about her?<br>
+							<br>
+							
+						JERRY: Well I was just trying to be supportive, you know. I knew you were upset.<br>
+							<br>
+							
+						KRAMER: From now on when we pass each other in the hall, I don't know you, you don't know me.<br>
+							<br>
+							
+						ELAINE: Oh, Kramer, we didn't mean it.<br>
+							<br>
+							
+						JERRY: What are you doing?<br>
+							<br>
+							
+						KRAMER: I'm getting my pot.<br>
+							<br>
+							
+						(Kramer grabs a put from under the counter and walks out.)<br>
+							<br>
+							
+						ELAINE: Kramer, we like her.<br>
+							<br>
+							
+						JERRY: Kramer? What did we say that's so bad?<br>
+							<br>
+							
+						ELAINE: I believe I referred to her personality as a potential science exhibit.<br>
+							<br>
+							
+						JERRY: I said, &quot;How come no one's killed her?&quot; Probably shouldn't have said anything,<br>
+							<br>
+							
+						JERRY: Well.<br>
+							<br>
+							
+						ELAINE: Well.<br>
+							<br>
+							
+						JERRY: everyone knows the first break-up never takes. (answers buzzer) Yeah?<br>
+							<br>
+							
+						GEORGE: Prognosis Negative! (again in a funny voice)<br>
+							<br>
+							
+						(Farfel begins barking.)<br>
+							<br>
+							
+						JERRY: Okay, Farfel, put your shoes on.<br>
+							<br>
+							
+						ELAINE: Jerry, can't you just give it one more day, it's not his fault.<br>
+							<br>
+							
+						JERRY: It's not my dog, I don't know where this boozehound is.<br>
+							<br>
+							
+						ELAINE: Alright, I tell you what. How about if you and George go to the movies, and I stay here and watch the dog tonight.<br>
+							<br>
+							
+						JERRY: I can't let you do that, what about Prognosis Negative?<br>
+							<br>
+							
+						ELAINE: We'll see it Sunday.<br>
+							<br>
+							
+						(George enters.)<br>
+							<br>
+							
+						GEORGE: Tonight's the night, right? Prognosis Negative?<br>
+							<br>
+							
+						ELAINE: I'm not going, I'm gonna watch the dog.<br>
+							<br>
+							
+						GEORGE: What does this mean?<br>
+							<br>
+							
+						JERRY: Well, we'll go see something else tonight. We'll see, uh, Ponce De Leon.<br>
+							<br>
+							
+						GEORGE: What is with this dog, I thought we were taking it to the pound.<br>
+							<br>
+							
+						JERRY: She talked me into one more day. Talk amongst yourselves, I'm gonna go to the bathroom.<br>
+							<br>
+							
+						GEORGE: Uh Jerry, how long will you be in there?<br>
+							<br>
+							
+						JERRY: I don't know, regular human time?<br>
+							<br>
+							
+						GEORGE: Uh why don't you wait then go in the movies?<br>
+							<br>
+							
+						JERRY: Why shouldn't I go here?<br>
+							<br>
+							
+						ELAINE: Well, you know, I mean, sometimes it's good to get there and make sure you get your seats and then go to the bathroom.<br>
+							<br>
+							
+						GEORGE: And isn't it more fun using the urinal?<br>
+							<br>
+							
+						ELAINE: Yeah.<br>
+							<br>
+							
+						JERRY: Oh yeah, urinals are fun. Can I go?!<br>
+							<br>
+							
+						GEORGE: Hey, go.<br>
+							<br>
+							
+						ELAINE: Who's stopping you?<br>
+							<br>
+							
+						GEORGE: What, are you doing me a favor?<br>
+							<br>
+							
+						ELAINE: Like we care if you go to the bathroom.<br>
+							<br>
+							
+						(Elaine and George, left alone together are obviously uncomfortable.)<br>
+							<br>
+							
+						GEORGE: How's it going?<br>
+							<br>
+							
+						ELAINE: Good. Good. You?<br>
+							<br>
+							
+						GEORGE: Things are good.<br>
+							<br>
+							
+						(After a pause, George starts whistling, then picks a chew toy off the floor and squeezes it towards Elaine, making a squeaking sound.)<br>
+							<br>
+							
+						ELAINE: Boy, he takes such a long time.<br>
+							<br>
+							
+						GEORGE: I know.<br>
+							<br>
+							
+						ELAINE: You know what he does in there? He gargles.<br>
+							<br>
+							
+						GEORGE: Jerry gargles? Is that why he takes so long?<br>
+							<br>
+							
+						ELAINE: Yeah, he does it like six times a day.<br>
+							<br>
+							
+						GEORGE: How come we never hear him?<br>
+							<br>
+							
+						ELAINE: Because he does it quiet. He does it quiet. Lookit, Just like this, watch.<br>
+							<br>
+							
+						(Elaine gargles some water and they both break out in laughter.)<br>
+							<br>
+							
+						GEORGE: Wait, wait, did you ever see him throw up?!<br>
+							<br>
+							
+						ELAINE: We talked about that already.<br>
+							<br>
+							
+						GEORGE: Oh.<br>
+							<br>
+							<br>
+							<br>
+							
+						[New scene. Jerry and George are in line outside the Cine 66 theater.]<br>
+							<br>
+							
+						GEORGE: I have nothing to say to anybody. I'm so uninteresting. I think I'm out of conversation.<br>
+							<br>
+							
+						JERRY: So what are calling me six times a day?<br>
+							<br>
+							
+						GEORGE: All I know about is sports. That's it. No matter how depressed I get, I could always read the sports section.<br>
+							<br>
+							
+						JERRY: I could read the sports section if my hair was on fire.<br>
+							<br>
+							
+						GEORGE: Know what? Ponce De Leon is sold out.<br>
+							<br>
+							
+						JERRY: It is? Oh yeah, you're right. What else is playing?<br>
+							<br>
+							
+						GEORGE: Nothing except Prognosis Negative.<br>
+							<br>
+							
+						JERRY: Boy, I know she really wants to see that with me.<br>
+							<br>
+							<br>
+							<br>
+							
+						[New scene. Elaine and Farfel are playing 'tug of war' with a jacket.]<br>
+							<br>
+							
+						ELAINE: Gimme the jacket, furface, this is not Seinfeld you're dealing with! When I get through with you, you'll be begging to go to the pound!<br>
+							<br>
+							
+						(The phone rings, Farfel begins barking.)<br>
+							<br>
+							
+						ELAINE: Shut up. Shut up! (Answers phone) Hello? No, who's calling? Oh my god, the dog guy. Where have *you* been? Yeah, well you better pick up your dog tonight or he has humped his last leg.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Cut back to Jerry and George.]<br>
+							<br>
+							
+						GEORGE: I mean, I could understand if there was something else playing, but it's this or nothing.<br>
+							<br>
+							
+						JERRY: I don't know what to do.<br>
+							<br>
+							
+						GEORGE: What is this 'saving movies' thing? Something's playing, you go.<br>
+							<br>
+							
+						JERRY: I know, I know.<br>
+							<br>
+							
+						GEORGE: So, what? We're gonna do nothing now, this is crazy.<br>
+							<br>
+							
+						JERRY: It is kind of silly.<br>
+							<br>
+							
+						GEORGE: Of course it is.<br>
+							<br>
+							
+						JERRY: I mean, it's just a movie, for god's sake.<br>
+							<br>
+							
+						GEORGE: Exactly.<br>
+							<br>
+							
+						JERRY: It's not like she's *in* the movie.<br>
+							<br>
+							
+						GEORGE: Right.<br>
+							<br>
+							
+						JERRY: Am I supposed to ruin the whole night because she wants to see it? I mean, if I could have seen it with her, fine. But I can't control all these circumstances and schedules and peoples' availabilities at movies.<br>
+							<br>
+							
+						GEORGE: And she'll still see it, you're not stopping her from seeing it.<br>
+							<br>
+							
+						JERRY: How does sitting next to a person in a movie theater increase the level of enjoyment? You can't talk during a movie. You know, this is stupid, c'mon, let's just go.<br>
+							<br>
+							
+						GEORGE: Good.<br>
+							<br>
+							
+						JERRY: Saving movies.<br>
+							<br>
+							
+						GEORGE: Ridiculous!<br>
+							<br>
+							
+						JERRY: Two for Prognosis Negative. I'm in big trouble.<br>
+							<br>
+							
+						GEORGE: Oh, you're dead.<br>
+							<br>
+							<br>
+							<br>
+							
+						[New scene. Jerry's apartment, Gavin has come to collect his dog. Farfel is barking as loud as ever.]<br>
+							<br>
+							
+						GAVIN: Bell's Palsy. The entire side of my, of, of my face was paralyzed. Farfel! I couldn't, I couldn't, I couldn't even feed myself, I was completely incapacitated. Quiet Farfel!<br>
+							<br>
+							
+						JERRY: You know it's interesting, because I called the hospital and they said you were released on Monday.<br>
+							<br>
+							
+						GAVIN: Yes, yes, that's true, but then I was taken to the Bell's Palsy Center in, in, in, in Rockford. Absolutely first, first rate facility, top notch physicians.<br>
+							<br>
+							
+						KRAMER: Hey, c'mon, c'mon, get off me!<br>
+							<br>
+							
+						GAVIN: He won't hurt you, he's just playing.<br>
+							<br>
+							
+						KRAMER: Hey you keep that mutt away from me.<br>
+							<br>
+							
+						GAVIN: Mutt? I'll wager his parents are more pure than yours.<br>
+							<br>
+							
+						ELLEN: Kramer, are you coming?<br>
+							<br>
+							
+						JERRY: Oh, hi Ellen.<br>
+							<br>
+							
+						ELLEN: Get in here.<br>
+							<br>
+							
+						(Kramer sulks off.)<br>
+							<br>
+							
+						JERRY: Listen, it's really been a pleasure taking care of your dog for a week, but if you don't mind...<br>
+							<br>
+							
+						GAVIN: Pre-prediction. You'll be calling me to ask if you can come and visit him before the month is out.<br>
+							<br>
+							
+						JERRY: Prediction. I never see you or him again for the rest of my life.<br>
+							<br>
+							
+						(Farfel barks very loudly and pulls Gavin into the hallway and out of Jerry's apartment.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[New scene. Jerry and Elaine at in Jerry's apartment.]<br>
+							<br>
+							
+						ELAINE: We made plans.<br>
+							<br>
+							
+						JERRY: Why don't we just rent a movie?<br>
+							<br>
+							
+						ELAINE: I thought you wanted to see Prognosis Negative.<br>
+							<br>
+							
+						JERRY: No, it&Mac226;s, it's supposed to be really bad, *really* bad. I mean it's long, there's no story, it's so unbelievably boring, I heard. i...<br>
+							<br>
+							
+						ELAINE: Jerry, you promised me we'd go.<br>
+							<br>
+							
+						JERRY: Well, George told me the whole story, line for line, I mean I almost feel like I've seen it already and walked out on it.<br>
+							<br>
+							
+						ELAINE: Wait, George saw the movie? I saw him yesterday, he didn't mention it.<br>
+							<br>
+							
+						JERRY: You and George got together?<br>
+							<br>
+							
+						ELAINE: Yeah, I wanted to talk about how we have nothing to talk about.<br>
+							<br>
+							
+						(Kramer enters.)<br>
+							<br>
+							
+						JERRY: Hello.<br>
+							<br>
+							
+						KRAMER: Hi, hi, hi, hi, hi.<br>
+							<br>
+							
+						JERRY: What's up?<br>
+							<br>
+							
+						KRAMER: Well, ah you were right.<br>
+							<br>
+							
+						JERRY: About what?<br>
+							<br>
+							
+						KRAMER: Ellen. We, uh, broke up again.<br>
+							<br>
+							
+						JERRY and ELAINE, together: Awwwwww.<br>
+							<br>
+							
+						JERRY: Too bad.<br>
+							<br>
+							
+						ELAINE: I thought she was the one.<br>
+							<br>
+							
+						KRAMER: I'll bring back the pot.<br>
+							<br>
+							
+						ELAINE: Okay, c'mon it's movie time.<br>
+							<br>
+							
+						KRAMER: Hey, what are you gonna see?<br>
+							<br>
+							
+						JERRY: Prognosis Negative.<br>
+							<br>
+							
+						KRAMER: Hey, that's supposed to be great.<br>
+							<br>
+							
+						JERRY: It's not.<br>
+							<br>
+							
+						KRAMER: How do you know?<br>
+							<br>
+							
+						JERRY: I have an instinct for these things.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Closing monologue; Comedy Club]<br>
+							<br>
+							
+						JERRY: I had a parakeet when I was a kid, that was the only pet that I really enjoyed. We used to let him out of his cage, and he would fly around and my mother had built, one entire wall of our living room was mirrored. She felt this gives you a feeling of space. Have you ever heard this interior design principle that a mirror makes it seem like you have an entire other room? What kind of a jerk walks up to a mirror and goes, &quot;Hey look, there's a whole nother room in there. There's a guy in there looks just like me.&quot; But the parakeet will fall for this, you'll let him out of his cage, he flies around the room, BANG! With his little head, he would just go 'click' Ohh! And I'd always think, even if he thinks the mirror is another room, why doesn't he at least try to avoid hitting the other parakeet?<br>
+							<br>
+							<br>
+							
+						The End</td>
+						</tr>
+						<tr height="6">
+							<td class="bottom2" width="645" height="6"></td>
+						</tr>
+						<tr>
+							<td width="645">
+								<div align="center">
+									<font size="-1">Copyright 2006 seinology.com | All Rights Reserved | Designed by 13erla</font></div>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+		<p></p>
+	</body>
+
+</html>

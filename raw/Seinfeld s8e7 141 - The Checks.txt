@@ -1,0 +1,1858 @@
+<tdOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+<html>
+
+	<head>
+		<meta http-equiv="content-type" content="text/html;charset=ISO-8859-1">
+		<meta name="description" content="Top Source for Seinfeld">
+		<meta name="keywords" content="seinfeld, sienfeld, Jerry Seinfeld, Julia Louis Dreyfus, Jason Alexander, Michael Richards, Kramer, George, Costanza, Elaine Benes, morty, Larry David">
+		<title>Seinology.com :: Scripts :: 141-The Checks</title>
+	<link rel='stylesheet' href='/stylesheet.css' type='text/css'>
+	</head>
+
+	<body>
+			<table align="center" width="787" border="0" cellspacing="0" cellpadding="0">
+				<tr>
+					<td><font size="-2" color="red">Seinology.com - </font><font size="-3" color="black">Where Seinfeld Content and Accuracy Matter Most. Seinfeld scripts in pdf form, Seinfeld episode video clips, Seinfeld episode audio clips, Jerry Seinfeld appearances, Julia Louis-Dreyfus appearances, Michael Richards appearances, Jason Alexander appearances, Seinfeld discussion Forum, Seinfeld Where are they Now? Seinlanguage Newsletter, Popular Seinfeld Lists, Seinfeld episode standup, Seinfeld episode guide, Seinfeld fan fiction. Seinfeld content all on one domain. Seinology.com enjoy your stay.</font></td>
+				</tr>
+			</table>
+		
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr height="100">
+				<td class="logo"></td>
+			</tr>
+			<tr><td class="ads" align="center" background=#8694fa>
+				<script type="text/javascript"><!--
+google_ad_client = "pub-1924026976931416";
+google_ad_width = 728;
+google_ad_height = 90;
+google_ad_format = "728x90_as";
+google_ad_type = "text";
+google_ad_channel = "";
+google_color_border = "FFFFFF";
+google_color_bg = "8694fa";
+google_color_link = "0000FF";
+google_color_text = "000000";
+google_color_url = "002E3F";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></td></tr>
+		</table>
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr>
+				<td valign="top" width="136">
+					<table width="136" border="0" cellspacing="0" cellpadding="0">
+						<tr height="24">
+							<td class="navigation">
+								<div align="center">
+									
+									<b>Navigation</b></div>
+							</td>
+						</tr>
+						<tr height="199">
+							<td class="spacer1" valign="top" width="136" height="199">
+								<div align="center">
+									<font size="-1"><a href="http://www.seinology.com">Home</a><br>
+										<a href="http://board.seinology.com">Forum</a><br>
+										<a href="http://www.seinology.com/av.shtml">Audio/Video</a><br>
+										<a href="http://www.seinology.com/scripts.shtml">Scripts</a><br>
+										<a href="http://www.seinology.com/survivor.shtml">Survivor</a><br>
+										<a href="http://www.seinology.com/fanfics.shtml">Fan Fiction</a><br>
+										<a href="http://www.seinology.com/gallery/">Gallery</a><br>
+										<a href="http://www.seinology.com/newsletter.shtml">Newsletter</a><br>
+										<a href="http://www.seinology.com/lists.shtml">Lists</a><br>
+										<a href="http://www.seinology.com/epguide.shtml">Episode Guide</a><br>
+										<a href="http://www.seinology.com/links.shtml">Links</a><br>
+										<a href="http://www.seinology.com/faqother.shtml">Faq + others</a><br>
+										<a href="http://www.seinology.com/legal.shtml">Legal</a></font></div>
+							</td>
+						</tr>
+						
+						<tr>
+							<td class="nav2" width="136">
+							<div align="center"><b>Search</b></div></td>
+						</tr>
+						<tr>
+							<td class="spacer1" width="136" valign="top"><div align="center"><form method="get" action="http://www.seinology.com/search/search.cgi">
+<p><label for="fdse_Match">Match</label><br>
+<select name="Match" id="fdse_Match" size="1">
+<option value="1">All</option>
+<option value="0">Any</option>
+<option value="2">Phrase</option>
+</select></p>
+<p><label for="fdse_Realm">Where?</label><br>
+<select name="Realm" id="fdse_Realm" size="1">
+<option selected="selected" value="All">EntireSite</option>
+<option value="Ep Guide">Ep Guide</option>
+<option value="Images">Images</option>
+<option value="Lists">Lists</option>
+<option value="Newsletters">Newsletters</option>
+<option value="Scripts">Scripts</option>
+<option value="Notes..Nothing">Notes..Nothing</option>
+</select></p>
+<p><input type="text" name="Terms" size="14" id="fdse_Terms"><br>
+<input type="submit" class="submit" name="submitButtonName" value="Search"></p>
+</div></form></td>
+						</tr>
+						<tr><td class="bottom" width="136" height="10" valign="top">
+						</td>
+						</tr>
+					</table>
+				</td>
+				<td width="4"></td>
+				<td valign="top" width="645">
+					<table width="645" border="0" cellspacing="0" cellpadding="0">
+						<tr height="18">
+							<td width="645" height="35" class="bar">
+								<div align="center">
+									<b><font size="+2" color="black">Script</font></b></div>
+							</td>
+						</tr>
+						<tr height="362">
+							<td class="spacer2" valign="top" width="645" height="362">
+
+						<p><font size="-2">Episode 141 - The Checks<br>
+							
+						pc: 807, season 8, episode 7<br>
+							
+						Broadcast date: November 7, 1996<br>
+							<br>
+							
+						Written by Steve O'Donnell and Tom Gammill &amp; Max Pross<br>
+							
+						Directed by Andy Ackerman<br>
+							<br>
+							
+						-------------------------------------------------------------------------------<br>
+							<br>
+							
+						The Cast<br>
+							
+						Regulars:<br>
+							
+						Jerry Seinfeld ........................&nbsp; Jerry Seinfeld<br>
+							
+						Jason Alexander .................... George Costanza<br>
+							
+						Julia Louis-Dreyfus ................ Elaine Benes<br>
+							
+						Michael Richards .................... Cosmo Kramer<br>
+							<br>
+							
+						Guest Stars:<br>
+							<br>
+							
+						James Patrick Stuart .............. Brett<br>
+							
+						Gedde Watanabe .................. Mr. Oh<br>
+							
+						Sab Shimono .......................... Executive #1<br>
+							
+						John Bowman ........................ Teddy<br>
+							
+						Jock Plotnick .......................... Crew Leader<br>
+							
+						George Wallace ..................... Doctor<br>
+							
+						Toshi Toda ............................ Mr. Tanaka<br>
+							
+						Goh Misawa .......................... Mr. Yamaguchi<br>
+							
+						Tony V. ................................. Clicky<br>
+							
+						Akane Nelson ........................ Executive #2<br>
+							
+						Cherie Hankal ........................ Nurse<br>
+							
+						rc: Richard Herd .................... Wilhelm<br>
+							<br>
+							
+						==================================================================<br>
+							<br>
+							
+						[Street]<br>
+							<br>
+							
+						(Jerry and Elaine come out of a drugstore. Elaine has a couple of carrier bags she's fussing with the contents of.)<br>
+							<br>
+							
+						JERRY: Hey, have you seen all these new commercials for indigestion drugs? Pepcid AC, Tagemat HB.<br>
+							<br>
+							
+						ELAINE: Ugh, the whole country's sick to their stomach.<br>
+							<br>
+							
+						JERRY: Now, you know you're supposed to take these things before you get sick?<br>
+							<br>
+							
+						(Jerry and Elaine begin to walk along the street.)<br>
+							<br>
+							
+						ELAINE: What is this, a 'bit'?<br>
+							<br>
+							
+						JERRY: No.<br>
+							<br>
+							
+						ELAINE: 'Cos I'm not in the mood.<br>
+							<br>
+							
+						JERRY: We're just talking. Is this not the greatest marketing ploy ever? If you feel good, you're supposed to take one!<br>
+							<br>
+							
+						ELAINE: Yeah, I know that tone. This is a bit.<br>
+							<br>
+							
+						JERRY: They've opened up a whole new market. Medication for the well.<br>
+							<br>
+							
+						ELAINE: (tired) Alright, are you done with your little amusement?<br>
+							<br>
+							
+						JERRY: (hopeful) Then you admit it was amusing?<br>
+							<br>
+							
+						ELAINE: It was okay, but move the 'medication for the well' to the front, and hit the word 'good' harder.<br>
+							<br>
+							
+						JERRY: (thinking) Great. Thanks.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Some Fancy Place]<br>
+							<br>
+							
+						(The room is stylishly furnished. A number of people sit around, chatting and drinking. Elaine and her new boyfriend, Brett, walk across the room, carrying drinks.)<br>
+							<br>
+							
+						ELAINE: So, your firm designed all the furniture in here?<br>
+							<br>
+							
+						BRETT: We manufacture it. The original designs are by Karl Farbman.<br>
+							<br>
+							
+						(Elaine and Brett sit on a couch)<br>
+							<br>
+							
+						ELAINE: (as if she knows) Oh, Farbman.<br>
+							<br>
+							
+						BRETT: You know Farbman?<br>
+							<br>
+							
+						ELAINE: Mm, love Farbman.<br>
+							<br>
+							
+						BRETT: Most people go their whole lives without sitting in a Farbman.<br>
+							<br>
+							
+						ELAINE: Wuh, if you call that living. (laughs) Ahaha.<br>
+							<br>
+							
+						(Music begins to play. It's The Eagles' Desperado. Brett hears the music and is enraptured. He stares off into the distance, oblivious to everything but the song.)<br>
+							<br>
+							
+						ELAINE: Wouldn't it be great if Farbman designed shoes?<br>
+							<br>
+							
+						(Brett hasn't heard a word of what Elaine said, continuing to stare off into the distance.)<br>
+							<br>
+							
+						ELAINE: Brett? Don't you think that would be great?<br>
+							<br>
+							
+						(Brett still doesn't react.)<br>
+							<br>
+							
+						ELAINE: Brett?<br>
+							<br>
+							
+						BRETT: (still staring off) After the song, babe.<br>
+							<br>
+							
+						ELAINE: Huh?<br>
+							<br>
+							
+						BRETT: The song.<br>
+							<br>
+							
+						(Elaine stares at Brett and puts a hand to her chest, moved by his sensitivity.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Street]<br>
+							<br>
+							
+						(Jerry and Elaine come round the corner, past the Chinese restaurant and walk along the street.)<br>
+							<br>
+							
+						JERRY: So when do I meet this jerk?<br>
+							<br>
+							
+						ELAINE: He's not a jerk, Jer. He only works with Karl Farbman.<br>
+							<br>
+							
+						JERRY: Who?<br>
+							<br>
+							
+						ELAINE: (dismissive) I dunno, some designer. Anyway, Brett is so generous, and sensitive. Last night he was moved just listening to a song.<br>
+							<br>
+							
+						JERRY: What song?<br>
+							<br>
+							
+						ELAINE: Desperado.<br>
+							<br>
+							
+						JERRY: Desperado?<br>
+							<br>
+							
+						ELAINE: Uh huh.<br>
+							<br>
+							
+						JERRY: And you're still dating him? I tell you who sounds a little desperado.<br>
+							<br>
+							
+						(Ahead of the strolling twosome, a guy stands on the sidewalk, twirling a brightly-coloured umbrella over his shoulder.)<br>
+							<br>
+							
+						JERRY: (pointing toward the guy) See that salesman, twirling that umbrella.<br>
+							<br>
+							
+						ELAINE: Uh huh.<br>
+							<br>
+							
+						JERRY: I invented that.<br>
+							<br>
+							
+						ELAINE: That, had to be invented?<br>
+							<br>
+							
+						JERRY: When I started out as a comedian, I sold umbrellas. It was my idea to twirl it, to attract customers.<br>
+							<br>
+							
+						(Elaine folds her arms, unconvinced.)<br>
+							<br>
+							
+						ELAINE: (skeptical) Oh hoh, really? Well, why don't we ask him about it?<br>
+							<br>
+							
+						(Elaine marches toward the umbrella guy.)<br>
+							<br>
+							
+						JERRY: Elaine.<br>
+							<br>
+							
+						ELAINE: Excuse me. Hey, how you doing. Uhm, my, uh, friend here says that he invented that little twirl you're doing.<br>
+							<br>
+							
+						JERRY: Elaine, please, it was a long time ago. The man doesn't want a history lesson.<br>
+							<br>
+							
+						CLICKY: Teddy Padillac came up with this twirl.<br>
+							<br>
+							
+						ELAINE: (looking at Jerry) Ohh.<br>
+							<br>
+							
+						JERRY: I know Teddy Padillac. I worked with him on Forty-eighth and Sixth.<br>
+							<br>
+							
+						CLICKY: Yeah, that's where he come up with it.<br>
+							<br>
+							
+						JERRY: In his dreams.<br>
+							<br>
+							
+						ELAINE: Alright, can we (glances at her watch) go?<br>
+							<br>
+							
+						(Elaine walks off, crossing the street. Jerry follows.)<br>
+							<br>
+							
+						JERRY: (to Clicky) By the way, you're doing it too fast. You'll disorient the customers.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Jerry's Apartment]<br>
+							<br>
+							
+						(Jerry is demonstrating twirling an umbrella to George, who sits in a chair with a magazine.)<br>
+							<br>
+							
+						JERRY: It's the twirling that dazzles the eye.<br>
+							<br>
+							
+						GEORGE: (pulls a face) I find it disorienting. Who buys an umbrella anyway? Y..you get 'em for free in the coffee shop in the metal cans.<br>
+							<br>
+							
+						JERRY: (as if speaking to a moron) Those belong to people.<br>
+							<br>
+							
+						(Jerry tosses his umbrella onto the couch, and walks toward the kitchen. The door opens and Kramer enters, carrying a large envelope.)<br>
+							<br>
+							
+						KRAMER: Hey. Well. (proffers the envelope) This was downstairs for you. Ker-ching.<br>
+							<br>
+							
+						JERRY: (taking the envelope) Oh no, not more checks. They're coming faster than I can sign 'em.<br>
+							<br>
+							
+						GEORGE: What checks?<br>
+							<br>
+							
+						KRAMER: Oh, you didn't hear? Jerry's a big star in Japan.<br>
+							<br>
+							
+						JERRY: I don't know why. There's a one-second clip of me in the opening credits of some Japanese comedy show.<br>
+							<br>
+							
+						KRAMER: Yeah, the Super Terrific Happy Hour.<br>
+							<br>
+							
+						JERRY: (opening the envelope and pulling out a stack of checks) They run it all the time, and now I'm starting to get all these royalty checks.<br>
+							<br>
+							
+						GEORGE: Look at all of those! You're rich!<br>
+							<br>
+							
+						JERRY: Naw. Each one is for like twelve cents. It's barely worth the pain in my hand to sign 'em.<br>
+							<br>
+							
+						(Kramer sits on the couch and flinches as he sits on the umbrella. He reaches under himself and extracts it, then jumps again as he accidentally opens it. He gets back up, and heads to the kitchen.)<br>
+							<br>
+							
+						KRAMER: Hey, Jerry, you need any new furniture?<br>
+							<br>
+							
+						JERRY: Why?<br>
+							<br>
+							
+						KRAMER: (getting a bottle of water out of the fridge) Yeah, well, Elaine's new boyfriend, you know. He's giving me this oversize chest of drawers. It's a Farbman.<br>
+							<br>
+							
+						(George wanders over.)<br>
+							<br>
+							
+						GEORGE: He's giving you furniture? Who is this guy?<br>
+							<br>
+							
+						JERRY: Ah, who are any of her losers?<br>
+							<br>
+							
+						GEORGE: (dryly) You're on that list.<br>
+							<br>
+							
+						(George goes and gets his coat.)<br>
+							<br>
+							
+						GEORGE: Alright, I gotta go home and open up with the house for the carpet cleaners. You know they're doing my whole place for twenty-five dollars.<br>
+							<br>
+							
+						KRAMER: Oh, no, no, no. Not the Sunshine Carpet Cleaners?<br>
+							<br>
+							
+						EGO: Yeah, you heard of 'em?<br>
+							<br>
+							
+						KRAMER: They're a crazy religious cult. The carpet cleaning is just a means for them to get into your apartment.<br>
+							<br>
+							
+						GEORGE: So? For a twenty-five dollar cleaning, I can listen to some pointless blather.<br>
+							<br>
+							
+						JERRY: I do it, I'm not even getting the cleaning.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Street]<br>
+							<br>
+							
+						(Kramer and Jerry stroll along. Jerry is massaging his left hand, as if it's giving him discomfort.)<br>
+							<br>
+							
+						JERRY: Signed over a hundred checks this morning.<br>
+							<br>
+							
+						KRAMER: Hello, twelve dollars.<br>
+							<br>
+							
+						(Jerry and Kramer draw level with three Japanese tourists. One of them steps forward, holding out a camera.)<br>
+							<br>
+							
+						MR OH: Excuse me. Would you take picture please?<br>
+							<br>
+							
+						KRAMER: (takes camera) Oh, yeah, sure.<br>
+							<br>
+							
+						(Jerry has spotted something further along the street. It's another umbrella salesman, twirling his wares.)<br>
+							<br>
+							
+						JERRY: I'm gonna ask this guy something.<br>
+							<br>
+							
+						(Jerry walks along to the guy. Kramer fusses about, taking a picture of the three Japanese guys, at one point he steps back to frame them all, and stumbles off the curb.)<br>
+							<br>
+							
+						JERRY: (to umbrella guy) Hey. Nice twirl you got there. You know who invented that, don't you?<br>
+							<br>
+							
+						(Back down the street, Kramer has finished photographing. He looks over toward Jerry, and thinks for a second.)<br>
+							<br>
+							
+						KRAMER: (to tourists) Hey, are you folks from Japan.<br>
+							<br>
+							
+						MR YAMAGUCHI: Hai.<br>
+							<br>
+							
+						MR OH: Yes.<br>
+							<br>
+							
+						KRAMER: (points over to Jerry) You recognise that mug?<br>
+							<br>
+							
+						(Jerry has taken one of the umbrellas, and is demonstrating the twirl to the guy. He's speaking animatedly, with lots of hand gestures and arm waving.)<br>
+							<br>
+							
+						KRAMER: That's the funny face that greets you at the beginning of the Super Terrific Happy Hour.<br>
+							<br>
+							
+						MR OH: Ahh, Super Terrific Happy...<br>
+							<br>
+							
+						(The three guys all speak to each other in excited Japanese.)<br>
+							<br>
+							
+						KRAMER: Ah, yeah. Yeah, that's him.<br>
+							<br>
+							
+						(Kramer and the three guys look along to where Jerry is still talking vigorously to the umbrella guy.)<br>
+							<br>
+							
+						MR OH: What is he doing?<br>
+							<br>
+							
+						KRAMER: Well, I don't know. But something super terrific, I'm sure.<br>
+							<br>
+							
+						MR OH: He's funny.<br>
+							<br>
+							
+						KRAMER: Oh yeah, very funny. And it wouldn't be impolite to laugh at his antics.<br>
+							<br>
+							
+						(Jerry is tossing the umbrella from hand to hand, with the unimpressed guy watching him. Kramer laughs, and the Japanese all join in.)<br>
+							<br>
+							
+						KRAMER: Yeah. Yeah, that's it. Because everybody laughs at Jerry here in America.<br>
+							<br>
+							
+						(Kramer and the Japanese all laugh uproariously, watching Jerry.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[George's Apartment]<br>
+							<br>
+							
+						(Three guys in bright yellow overalls stand in George's living room. Two of them have a large carpet cleaner by the door, ready to leave, The third, the leader, has a notebook.)<br>
+							<br>
+							
+						CREW LEADER: (calling to George) We're pretty much finished.<br>
+							<br>
+							
+						(George enters from another room.)<br>
+							<br>
+							
+						CREW LEADER: There's just one more thing.<br>
+							<br>
+							
+						GEORGE: (smiling expectantly) Here it comes.<br>
+							<br>
+							
+						(The leader opens his book and holds up a check.)<br>
+							<br>
+							
+						CREW LEADER: (clears throat) You forgot to sign your check.<br>
+							<br>
+							
+						(The leader hands George a pen, and waits as George appends his signature.)<br>
+							<br>
+							
+						GEORGE: (signs) Sorry. (expectant) You're sure, uh, there isn't anything else?<br>
+							<br>
+							
+						CREW LEADER: (flat) No.<br>
+							<br>
+							
+						(The carpet cleaners begin to leave. George follows the leader toward the door, looking disappointed.)<br>
+							<br>
+							
+						GEORGE: (let down) So, that's it?<br>
+							<br>
+							
+						CREW LEADER: Unless you need a receipt.<br>
+							<br>
+							
+						GEORGE: (melancholy) I wish that was all needed. Life can be so confusing. I..I'm searching for answers, anywhere.<br>
+							<br>
+							
+						CREW LEADER: (flat) Good luck with that.<br>
+							<br>
+							
+						(The leader closes the door on a perplexed George.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Jerry's Apartment]<br>
+							<br>
+							
+						(Jerry sits at his table. He's signing checks, and holding his pen awkwardly in his hand which is twisted uncomfortably. Elaine enters and notices his hand.)<br>
+							<br>
+							
+						JERRY: Hey.<br>
+							<br>
+							
+						ELAINE: What's with the claw?<br>
+							<br>
+							
+						JERRY: Super terrific carpal tunnel syndrome.<br>
+							<br>
+							
+						(Elaine wanders toward the kitchen. The door opens and Brett enters.)<br>
+							<br>
+							
+						BRETT: (to Elaine) There's no sign of Kramer.<br>
+							<br>
+							
+						ELAINE: Oh, Brett. (indicating) This is Jerry.<br>
+							<br>
+							
+						JERRY: Hi.<br>
+							<br>
+							
+						(Jerry holds up his twisted hand in greeting. Brett copies the position of the fingers in his wave back.)<br>
+							<br>
+							
+						BRETT: That's very funny. Elaine told me you were some kinda comedian.<br>
+							<br>
+							
+						JERRY: Ah, I'm one kind.<br>
+							<br>
+							
+						(Elaine gets a bottle of water form the fridge.)<br>
+							<br>
+							
+						ELAINE: Have you seen the chest of drawers that Brett gave to Kramer?<br>
+							<br>
+							
+						JERRY: The Fleckman.<br>
+							<br>
+							
+						BRETT: Farbman.<br>
+							<br>
+							
+						JERRY: Right.<br>
+							<br>
+							
+						ELAINE: You gotta see 'em. Beautiful.<br>
+							<br>
+							
+						JERRY: (not interested) Oh, I'm sure they are.<br>
+							<br>
+							
+						BRETT: I'd be happy to get you some if that's what you're driving at.<br>
+							<br>
+							
+						JERRY: No. I'm fine, thank you.<br>
+							<br>
+							
+						BRETT: Don't worry. It's no charge to you.<br>
+							<br>
+							
+						(Brett walks over past Jerry and points to Jerry's desk.)<br>
+							<br>
+							
+						BRETT: Looks like what you really need is a decent desk for writing your skits.<br>
+							<br>
+							
+						JERRY: (quiet annoyance) I don't write skits.<br>
+							<br>
+							
+						BRETT: (walking back to Elaine) Well, of course you don't. You don't have a proper workstation. I'll fax you over my catalogue.<br>
+							<br>
+							
+						ELAINE: Mmm. Brett, uhm, Jerry doesn't have a fax machine.<br>
+							<br>
+							
+						BRETT: (quiet) Oops.<br>
+							<br>
+							
+						(Brett looks round at Jerry, seeming embarrassed.)<br>
+							<br>
+							
+						BRETT: Well, I'm sure things'll pick up for you soon. Elaine, maybe we should get going.<br>
+							<br>
+							
+						(Brett opens the door.)<br>
+							<br>
+							
+						ELAINE: Oh. Jerry, you wanna join us?<br>
+							<br>
+							
+						JERRY: Oh, where you going? The coffee shop?<br>
+							<br>
+							
+						BRETT: (scoff) Coffee shop? I think we can do a little better than that. You look like you could use a solid meal at a real restaurant.<br>
+							<br>
+							
+						JERRY: You look like you could use a...<br>
+							<br>
+							
+						ELAINE: (warning) Jerry.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Saks]<br>
+							<br>
+							
+						(Kramer and the Japanese tourists are looking at stuff. Kramer picks up a Stetson and reads the price tag.)<br>
+							<br>
+							
+						KRAMER: (reads) Three hundred dollars. Hey, Mr Oh, how much would these run you in Tokyo?<br>
+							<br>
+							
+						(Kramer holds the hat over, so Mr Oh can get a look.)<br>
+							<br>
+							
+						MR OH: (thinks for a second) Ahh, about, uh, thirty thousand yen.<br>
+							<br>
+							
+						KRAMER: (shocked) Thirty thousand?! These are practically free.<br>
+							<br>
+							
+						(Kramer places the hat on an unsure Mr Oh's head.)<br>
+							<br>
+							
+						KRAMER: Giddyup. You're a cowboy now.<br>
+							<br>
+							
+						(Kramer hands Stetsons to each of the other Japanese.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Brett's Car]<br>
+							<br>
+							
+						(Brett and Elaine sit in his parked two seat Ferrari.)<br>
+							<br>
+							
+						BRETT: I feel terrible about your friend Jerry. He's upset that I gave Kramer that chest of drawers, isn't he?<br>
+							<br>
+							
+						ELAINE: Why? Why d'you think he's upset?<br>
+							<br>
+							
+						BRETT: How could he not be? Living in that cramped little apartment. And outdated furniture, so terribly... un-Karl Farbman-like.<br>
+							<br>
+							
+						ELAINE: (romantic) We're not gonna talk about Karl Farbman all night, are we?<br>
+							<br>
+							
+						BRETT: (smiling) I hope not.<br>
+							<br>
+							
+						(Brett leans across to kiss Elaine. Just as they begin to kiss, the Eagles' Desperado comes on the radio. Brett immediately breaks off the kiss, and stares off into the distance again.)<br>
+							<br>
+							
+						ELAINE: (surprised) Brett? Everything alright?<br>
+							<br>
+							
+						(Brett makes no response.)<br>
+							<br>
+							
+						ELAINE: (worried) Brett! What is it? Is there someone outside?<br>
+							<br>
+							
+						BRETT: Elaine, the song.<br>
+							<br>
+							
+						ELAINE: (relieved) Oh. Oh, oh, phew. You know, for a minute there I thought it was like that urban legend about the guy with the hook who's hanging on the fender...<br>
+							<br>
+							
+						BRETT: Elaine, could you just not talk for one minute?<br>
+							<br>
+							
+						ELAINE: (apologetic, silently mouthed) Sorry.<br>
+							<br>
+							
+						(Elaine stares queryingly at the rapt Brett.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Monk's]<br>
+							<br>
+							
+						(Jerry and George sit in a booth, sipping coffee.)<br>
+							<br>
+							
+						JERRY: No spiel?<br>
+							<br>
+							
+						GEORGE: (annoyed) Not a peep. They just cleaned the carpets and left. Call themselves a cult!<br>
+							<br>
+							
+						JERRY: So you're angry that this bizarre carpet cabal made no attempt to abduct you?<br>
+							<br>
+							
+						GEORGE: They could've at least tried!<br>
+							<br>
+							
+						JERRY: You know, maybe they thought you looked too smart to be brainwashed?<br>
+							<br>
+							
+						GEORGE: Please.<br>
+							<br>
+							
+						JERRY: Too dumb?<br>
+							<br>
+							
+						(George gives Jerry a look. Kramer enters, wearing a snazzy new suit. He strolls over to the booth.)<br>
+							<br>
+							
+						JERRY: (impressed) Well! Mack is back in town! Nice duds.<br>
+							<br>
+							
+						KRAMER: Konichi-wa. Yeah, it's a gift from my Japanese friends. (sits beside Jerry) They're known as gift-givers. And tonight we're going dancing at the Rainbow Room.<br>
+							<br>
+							
+						JERRY: Sounds like you're throwing a lot of their money around.<br>
+							<br>
+							
+						KRAMER: Well, Jerry, they're Japanese. I mean, that TV you watch, that sushi you eat, I mean, even that kimono you wear. Where to you think all that money goes, hmm?<br>
+							<br>
+							
+						(Jerry looks puzzled.)<br>
+							<br>
+							
+						KRAMER: That's right.<br>
+							<br>
+							
+						GEORGE: How'd you hook up with these guys?<br>
+							<br>
+							
+						KRAMER: Well, they recognised Jerry from the Super Terrific Happy Hour. See now, you should be doing your own show in Japan. Now, they get you.<br>
+							<br>
+							
+						JERRY: What kind of show am I gonna do in Japan?<br>
+							<br>
+							
+						KRAMER: (to George) Alright, what'd you do with that pilot you did.<br>
+							<br>
+							
+						GEORGE: (excited) Yeah, the pilot!<br>
+							<br>
+							
+						KRAMER: That's right, I think that had marvellous production values.<br>
+							<br>
+							
+						GEORGE: (enthusiastic) And, you know, I do a lotta business with Japanese TV. They broadcast a lot of American baseball. They got an office here in New York!<br>
+							<br>
+							
+						JERRY: Forget it! The pilot was awful. It failed.<br>
+							<br>
+							
+						GEORGE: (animated) It failed here! Because, here, every time you turn on a TV, all you see is four morons sitting round an apartment, whining about their dates!<br>
+							<br>
+							
+						(Jerry looks doubtful.)<br>
+							<br>
+							
+						KRAMER: George is right, Jerry. See, here, you're just another apple, but in Japan, you're an exotic fruit. Like an orange. Which is rare there.<br>
+							<br>
+							
+						(Jerry looks at George, wondering.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Japanese TV Office]<br>
+							<br>
+							
+						(Jerry and George sit on a couch. Two Japanese TV executives, one male, one female, sit on chairs. They are all watching the pilot show Jerry made at the end of Season 4. The Japanese are not looking impressed. George is smiling and pointing, enthusiastically. On a coffee table sits a large bowl containing a plastic bag of oranges.)<br>
+							<br>
+							
+						TV JERRY: You had a date? You went out with my butler?! Who said you could go out with my butler?!<br>
+							<br>
+							
+						TV ELAINE: Well, why do I need your permission?<br>
+							<br>
+							
+						TV JERRY: Because he's my butler.<br>
+							<br>
+							
+						(The first executive stops the tape.)<br>
+							<br>
+							
+						GEORGE: (eager) So? What d'you think?<br>
+							<br>
+							
+						EXECUTIVE 1: We're bit confused. Why was this man Jerry's butler?<br>
+							<br>
+							
+						GEORGE: Ah. You see, the man who was the butler, uh, had gotten into a car accident with Jerry, and because he didn't have any insurance, the judge decreed that the man become Jerry's butler.<br>
+							<br>
+							
+						EXECUTIVE 1: Is this customary in your legal system?<br>
+							<br>
+							
+						JERRY: No. That's what makes it such a humorous situation.<br>
+							<br>
+							
+						EXECUTIVE 1: (speaks Japanese) SUBTITLE: Are you following any of this?<br>
+							<br>
+							
+						EXECUTIVE 2: (speaks Japanese) SUBTITLE: I'm still trying to figure out why they gave us a bag of oranges.<br>
+							<br>
+							
+						EXECUTIVE 1: (to Jerry and George) I'm sorry. I'm sure Mr Seinfeld is very funny to Americans, but I'm not sure this butler show would work in Japan.<br>
+							<br>
+							
+						GEORGE: Oh, I, uh, I disagree. You've, uh, you've been living in America too long. (indicates the bag of oranges) You've forgotten what it's like to have no oranges.<br>
+							<br>
+							
+						(Jerry nods, sagely, and picks up a cup of coffee. His fingers are still twisted from the check signing.)<br>
+							<br>
+							
+						EXECUTIVE 1: (speaks Japanese) SUBTITLE: Again with the oranges<br>
+							<br>
+							
+						(There's a crash as Jerry's grip on the cup fails and he drops it.)<br>
+							<br>
+							
+						JERRY: (flexing his fingers) Sorry. My hand is numb.<br>
+							<br>
+							
+						GEORGE: (positive) Yes. From endorsing checks for the Super Terrific Happy Hour. (laughs)<br>
+							<br>
+							
+						EXECUTIVE 1: You must go now.<br>
+							<br>
+							
+						(Jerry pats George on the knee. George squeezes Jerry's shoulder and they ruefully begin to depart. )<br>
+							<br>
+							<br>
+							<br>
+							
+						[Jerry's Apartment]<br>
+							<br>
+							
+						(Jerry sits at his table, signing yet more checks, the pen gripped in his clawed fingers. Elaine stands in her jacket, her bag on the table.)<br>
+							<br>
+							
+						ELAINE: Ah, I think I'm on the outs with Brett. I got shushed during Desperado.<br>
+							<br>
+							
+						JERRY: (throws out his hands) What does he listen to? The all Desperado station?<br>
+							<br>
+							
+						ELAINE: He is just in his own world when he hears that song. It's like, I'm sitting there in the car, and he's.. out riding fences.<br>
+							<br>
+							
+						JERRY: You know, what you need is a song you can share.<br>
+							<br>
+							
+						ELAINE: Yes. You're right. We need to find 'our' song.<br>
+							<br>
+							
+						JERRY: Okay. So, is there any song that you feel very strongly about?<br>
+							<br>
+							
+						(Elaine tips back her head and thinks for a second, before something occurs.)<br>
+							<br>
+							
+						ELAINE: (points) I like Witchy Woman.<br>
+							<br>
+							
+						JERRY: Witchy Woman?<br>
+							<br>
+							
+						ELAINE: You know, Witchy Woman. (sings) 'Ooo-ooh, wit-chay woman'.<br>
+							<br>
+							
+						JERRY: (getting it) Ahh. Wit-chay Woman.<br>
+							<br>
+							
+						(The door opens and Kramer enters, wearing his suit and carrying another fat envelope.)<br>
+							<br>
+							
+						KRAMER: (to Jerry) Hey, man.<br>
+							<br>
+							
+						ELAINE: Hey.<br>
+							<br>
+							
+						(Kramer puts the envelope down on the table next to Jerry. Elaine walks to the kitchen.)<br>
+							<br>
+							
+						JERRY: Hey. How was the Rainbow Room?<br>
+							<br>
+							
+						KRAMER: Uh, well, we, uh, we had to leave early. There was a, uh, slight monetary discrepancy regarding the bill.<br>
+							<br>
+							
+						JERRY: Ah.<br>
+							<br>
+							
+						KRAMER: Uh, listen, uh, can I borrow some pillows?<br>
+							<br>
+							
+						JERRY: What for?<br>
+							<br>
+							
+						(Kramer wanders into Jerry's bedroom.)<br>
+							<br>
+							
+						KRAMER (O.C.): Yeah, well, uh, my Japanese friends're gonna stay with me.<br>
+							<br>
+							
+						JERRY: I thought they all had suites at the Plaza?<br>
+							<br>
+							
+						(Kramer reenters, carrying three pillows.)<br>
+							<br>
+							
+						KRAMER: Well, I'm sorry, Jerry, we all don't have checks rolling in like you do.<br>
+							<br>
+							
+						JERRY: Well, what about all that money from the kimonos I wear?<br>
+							<br>
+							
+						KRAMER: Well, they ran out of it. Manhattan can be quite pricey. Even with fifty thousand yen.<br>
+							<br>
+							
+						(Elaine is in the kitchen, eating cereal from the box.)<br>
+							<br>
+							
+						ELAINE: Fifty thousand yen? Isn't that only a few hundred dollars?<br>
+							<br>
+							
+						KRAMER: Evidently. (To Elaine) Oh, by the way, tell Brett that his chest of drawers are a big hit. My guests are very comfortable in them.<br>
+							<br>
+							
+						ELAINE: In them?!<br>
+							<br>
+							
+						JERRY: You have them sleeping in drawers?!<br>
+							<br>
+							
+						KRAMER: Jerry, have you ever seen the business hotels in Tokyo? They sleep in tiny stacked cubicles all the time. They feel right at home.<br>
+							<br>
+							
+						JERRY: This has 'international incident' written all over it.<br>
+							<br>
+							
+						KRAMER: (smiling) Oh yeah, yeah.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Kramer's Apartment]<br>
+							<br>
+							
+						(Up against one wall of the apartment stands a very large chest of three drawers. It's about six feet long and each drawers is maybe a foot and a half deep. Kramer walks over to it and looks into the open top drawer.)<br>
+							<br>
+							
+						KRAMER: Goodnight, Mr Tanaka.<br>
+							<br>
+							
+						(One of the Japanese tourists sits up in the drawer.)<br>
+							<br>
+							
+						MR TANAKA: Goodnight.<br>
+							<br>
+							
+						(Mr Tanaka lies down again, and Kramer slides the drawer shut. He then speaks to the occupant of the next drawer.)<br>
+							<br>
+							
+						KRAMER: Goodnight, Mr Oh.<br>
+							<br>
+							
+						MR OH: (sits up) Goodnight.<br>
+							<br>
+							
+						(Mr Oh lies back down and Kramer slides the drawers shut, and speaks to the final drawer's occupant.)<br>
+							<br>
+							
+						KRAMER: Goodnight, Mr Yamaguchi.<br>
+							<br>MR YAMAGUCHI: (sits up) Oyasuminasai *(Japanese for goodnight)<br>
+							<br>
+							
+						(Mr Yamaguchi lies down. Kramer shuts the final drawer, switches off the lamp and, yawning, walks off toward his own bed)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Jerry's Apartment]<br>
+							<br>
+							
+						(Kramer is in the kitchen. He has three bowls out on the counter, and a box of Rice Crispies. Jerry walks over, pushing a bunch of checks into an envelope.)<br>
+							<br>
+							
+						JERRY: What is this?<br>
+							<br>
+							
+						KRAMER: Rice Crispies. East meets West, Jerry.<br>
+							<br>
+							
+						JERRY: Ah. It's a lovely little bureau and breakfast you're running. Well, I'm off to the bank.<br>
+							<br>
+							
+						KRAMER: (opening the fridge) Sayonara.<br>
+							<br>
+							
+						JERRY: (leaving) Konichi-wa.<br>
+							<br>
+							
+						(Kramer fetches out milk and continues making breakfast.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Brett's Car]<br>
+							<br>
+							
+						(Elaine and Brett sit in the parked Ferrari. Witchy Woman is playing on the stereo. Elaine is listening, with her eyes closed and her head nodding. Brett looks puzzled.)<br>
+							<br>
+							
+						BRETT: Elaine, I...<br>
+							<br>
+							
+						ELAINE: Shh-shh! (smiling) What d'you think?<br>
+							<br>
+							
+						(Elaine continues to listen. Brett leans forward and switches off the music.)<br>
+							<br>
+							
+						ELAINE: What are you doing? That's Witchy Woman. That could be our song.<br>
+							<br>
+							
+						BRETT: Witchy Woman is okay for you, but I've already got a song.<br>
+							<br>
+							
+						ELAINE: Oh. Oh, then how about Desperado? (smiling) We can share it.<br>
+							<br>
+							
+						BRETT: (flat) No. It's mine.<br>
+							<br>
+							
+						(There is a flash of lightning and thunder rolls. Elaine peers out at the weather.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Kramer's Apartment]<br>
+							<br>
+							
+						(The top and bottom drawers are open in the chest. Mr Yamaguchi sits up in the bottom drawer, and Mr Tanaka sits on top of the chest, with his feet in his drawer. Kramer comes over and hands bowls of Rice Crispies to the pair of them.)<br>
+							<br>
+							
+						KRAMER: Here you go. Snap, crackle and pop.<br>
+							<br>
+							
+						(Kramer leans over and raps on the face of the middle drawer.)<br>
+							<br>
+							
+						KRAMER: (loudly) Good morning, Mr Oh. I gotta make up the drawer.<br>
+							<br>
+							
+						MR OH (O.C.): Ach, come back in half hour.<br>
+							<br>
+							
+						(Kramer looks impatient. He puts the bowl of Rice Crispies on top of the chest and walks off mumbling irritably.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Street]<br>
+							<br>
+							
+						(It is pouring with rain. Jerry walks along the street, wearing just a light jacket over his clothes. He still has the envelope in his hands. Jerry spots the umbrella vendor, twirling his wares.)<br>
+							<br>
+							
+						JERRY: (calls) Hey, I'll take one.<br>
+							<br>
+							
+						CLICKY: Well, look who's back!<br>
+							<br>
+							
+						(Clicky turns to another umbrella seller,who is facing the other way.)<br>
+							<br>
+							
+						CLICKY: Teddy! (indicates Jerry) This's the guy says he invented the twirl.<br>
+							<br>
+							
+						TEDDY: (unfriendly recognition) Jerry Seinfeld!<br>
+							<br>
+							
+						JERRY: Teddy Padillac. Long time, no see. (pointing at the umbrellas) What've you got in a push-button mini.<br>
+							<br>
+							
+						TEDDY: (bitter) Same thing we had, when you bailed on us, fifteen years ago.<br>
+							<br>
+							
+						JERRY: Bailed? C'mon, you knew I wanted to be a comedian. Besides, we had some good time. Remember Tropical Storm Renee?<br>
+							<br>
+							
+						TEDDY: (angry) Oh, yeah, sure. But where were you during the poncho craze of eighty-four? I almost lost my house.<br>
+							<br>
+							
+						(A guy comes along the street, wearing one of Elaine's urban sombreros. Clicky tries to catch his attention.)<br>
+							<br>
+							
+						CLICKY: Umbrella, buddy?<br>
+							<br>
+							
+						(The sombrero wearer waves away the attention and crosses the street.)<br>
+							<br>
+							
+						CLICKY: Now we got that damn 'urban sombrero' to contend with.<br>
+							<br>
+							
+						TEDDY: (to Clicky) Easy, there. (to Jerry) I hear you're taking credit for the twirl.<br>
+							<br>
+							
+						JERRY: Aw, it was so many years ago. Who cares?<br>
+							<br>
+							
+						TEDDY: (intense) I care. Clicky cares.<br>
+							<br>
+							
+						JERRY: So, could I...<br>
+							<br>
+							
+						(Another peal of thunder rolls as interruption.)<br>
+							<br>
+							
+						JERRY: Could I just buy an umbrella?<br>
+							<br>
+							
+						TEDDY: (sour) Yeah, sure. Two hundred dollars.<br>
+							<br>
+							
+						JERRY: (shock) What?!<br>
+							<br>
+							
+						TEDDY: (caustically) Special price, for a real foul-weather friend.<br>
+							<br>
+							
+						(The rain continues to pour down unabated.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[George's Office, Yankee Stadium]<br>
+							<br>
+							
+						(George is removing a tape from a VCR. Kramer enters, followed by the three Japanese tourists. Outside the window, the rain can be seen bucketing down.)<br>
+							<br>
+							
+						KRAMER: Hey, George. How about that tour, huh? These guys are ready to run the bases.<br>
+							<br>
+							
+						GEORGE: (indicating the window) Kramer, it's, it's raining. They got the tarp on the field.<br>
+							<br>
+							
+						KRAMER: (quietly) Ah, listen, George, what else can I do with these guys? Now, bear in mind, they're a little light on the yen.<br>
+							<br>
+							
+						(George thinks for a minute, then looks down at the tape in his hands.)<br>
+							<br>
+							
+						GEORGE: Well, I, I got the pilot of the Jerry show.<br>
+							<br>
+							
+						KRAMER: (snaps his fingers) That's perfect. (to the Japanese) Hey, how would you guys like to watch Super Terrific Happy star Jerry Seinfeld?<br>
+							<br>
+							
+						(The Japanese nod to each other.)<br>
+							<br>
+							
+						MR OH: But, we are also very hungry.<br>
+							<br>
+							
+						KRAMER: Oh, yeah, yeah. (feeds tape into VCR) Well, you guys just watch the tape and, uh, I'll get you some food.<br>
+							<br>
+							
+						(Kramer and George wave the Japanese toward seats. Kramer leaves the office and looks down the corridor. He raises his arm to attract attention.)<br>
+							<br>
+							
+						KRAMER: (shouts) Hey, peanuts!<br>
+							<br>
+							
+						(As the Japanese sit, Mr Wilhelm comes to the door.)<br>
+							<br>
+							
+						WILHELM: George. (waves George over) George.<br>
+							<br>
+							
+						(George goes out into the hall with Wilhelm.)<br>
+							<br>
+							
+						WILHELM: (puzzled) Uh, George, uh, did you call some carpet cleaners?<br>
+							<br>
+							
+						GEORGE: Are they here?<br>
+							<br>
+							
+						WILHELM: They're in my office, right now.<br>
+							<br>
+							
+						GEORGE: (suspicious) They haven't said anything to you, have they?<br>
+							<br>
+							
+						WILHELM: About what?<br>
+							<br>
+							
+						GEORGE: (to himself, resentful) What kind of a snobby, stuck-up, cult is this?!<br>
+							<br>
+							<br>
+							<br>
+							
+						[Street]<br>
+							<br>
+							
+						(Jerry walks along. He is still carrying the envelope of checks, and by now he's drenched. A familiar red Ferrari pulls to a stop level with Jerry, and the window winds down.)<br>
+							<br>
+							
+						BRETT: (calls over) Hey Jerry!<br>
+							<br>
+							
+						(Jerry peers at the car and walks out into the road as he recognises Brett.)<br>
+							<br>
+							
+						JERRY: Oh, hi Brett.<br>
+							<br>
+							
+						BRETT: Haven't you ever heard of an umbrella?<br>
+							<br>
+							
+						JERRY: Ah, I didn't have enough money.<br>
+							<br>
+							
+						BRETT: I'm sure things'll pick up for you.<br>
+							<br>
+							
+						JERRY: No, it's not that, it's the...<br>
+							<br>
+							
+						(Jerry looks down at the envelope of checks in his hands. The rain has soaked them so thoroughly that the ink of his signatures has run and become illegible.)<br>
+							<br>
+							
+						JERRY: Oh no, look at the checks! Hours of hard work ruined!<br>
+							<br>
+							
+						(Brett peers over at the mass of sodden paper in Jerry's grip.)<br>
+							<br>
+							
+						BRETT: Ah, don't worry, I can spot you the (reads) twelve cents?<br>
+							<br>
+							
+						JERRY: No, it's not the money. It's my hand. It's crippled from writing and writing.<br>
+							<br>
+							
+						BRETT: Nothing's working for you, is is?<br>
+							<br>
+							
+						JERRY: (bitter) Not at the moment, Brett.<br>
+							<br>
+							
+						BRETT: I'd give you a ride, but I got Karl Farbman here.<br>
+							<br>
+							
+						(Beside Brett sits a bald-headed, bearded, guy in shades.)<br>
+							<br>
+							
+						JERRY: (sarcastic) Thanks for stopping!<br>
+							<br>
+							
+						(Jerry walks away)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Jerry's Apartment]<br>
+							<br>
+							
+						(Jerry is drying the checks. Dozens hang from lines around the apartment, and more sit on the table, where Jerry dabs them with a towel.)<br>
+							<br>
+							
+						ELAINE: Brett said you ran away from him, as if he were the boogetyman.<br>
+							<br>
+							
+						JERRY: Boogeyman.<br>
+							<br>
+							
+						ELAINE: Boogey?<br>
+							<br>
+							
+						JERRY: I'm quite sure. Anyway, any luck getting together on a song?<br>
+							<br>
+							
+						ELAINE: No. He blew out my Witchy Woman, and he won't share Desperado. Hey, what d'you think of Oye Como Va?<br>
+							<br>
+							
+						JERRY: (negative) Eehh.<br>
+							<br>
+							
+						ELAINE: (desperation) Well, I'm running outta guys here in this city, Jer!<br>
+							<br>
+							
+						(Elaine puts he hand to her head, walks round the room and flops onto the couch. The door opens and George enters. He's in buoyant mood.)<br>
+							<br>
+							
+						JERRY: Hey.<br>
+							<br>
+							
+						GEORGE: (excited) Great news! I showed the pilot to Kramer's Japanese friends. They loved it!<br>
+							<br>
+							
+						JERRY: Really? They bought the butler character?<br>
+							<br>
+							
+						GEORGE: (excited) Did I tell you that story's relatable?! That was a great show! That is why I'm bringing it back to NBC.<br>
+							<br>
+							
+						JERRY: NBC?<br>
+							<br>
+							
+						GEORGE: (little subdued) Nakahama Broadcast Corporation.<br>
+							<br>
+							
+						(Elaine looks heavenwards.)<br>
+							<br>
+							
+						JERRY: Ah. But they told us we must go now.<br>
+							<br>
+							
+						GEORGE: But now I have my own market research. Actual Japanese viewers, that love the show! I'm gonna talk to Kramer.<br>
+							<br>
+							
+						(George opens the door. Jerry comes over before he can leave.)<br>
+							<br>
+							
+						JERRY: Hey, George, do me a favour. If they make you an offer, whatever it is. (vehement) Just take it!<br>
+							<br>
+							
+						(George smiles, claps Jerry on the shoulder and leaves. Jerry starts to close the door, but George turns back)<br>
+							<br>
+							
+						GEORGE: Hey, by the way, what'd you think of Miss Yoshimura?<br>
+							<br>
+							
+						JERRY: Who?<br>
+							<br>
+							
+						GEORGE: The network executive. You think she liked me?<br>
+							<br>
+							
+						(Jerry swings the door closed in George's face.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Hallway]<br>
+							<br>
+							
+						(George crosses the hall to Kramer's door. He knocks, but there is no immediate reply. George listens, and can hear excited shouting and laughter. He opens the door and goes in)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Kramer's Apartment]<br>
+							<br>
+							
+						(Kramer and the three Japanese sit in the hot-tub. They're stripped to the waist (at least), wearing Stetsons, and drinking sake. They spot George as he enters and shout greetings.)<br>
+							<br>
+							
+						KRAMER: Heyy! Look who's here.<br>
+							<br>
+							
+						(The Japanese whoop and wave at George.)<br>
+							<br>
+							
+						KRAMER: (beckoning to George) Come on, I want you to come in here.<br>
+							<br>
+							
+						(All the Japanese gesture and shout that George should get in the tub with them.)<br>
+							<br>
+							
+						MR OH: Come on in, fat boy!<br>
+							<br>
+							
+						(George waves away their appeals with a smile.)<br>
+							<br>
+							
+						GEORGE: Get a good night's sleep, alright fellas. (thumbs up) Big day tomorrow!<br>
+							<br>
+							
+						(Kramer and the Japanese cheer and splash water at George, who leaves. Then they go back to knocking back sake.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Jerry's Apartment]<br>
+							<br>
+							
+						(Jerry is re-signing all the checks he dried out.)<br>
+							<br>
+							
+						JERRY: (to himself) Last one.<br>
+							<br>
+							
+						(Jerry completes his signature and drops the pen from his claw-like hand. It's clearly painful.)<br>
+							<br>
+							
+						JERRY: (agonised) Uugh! Ahh.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Street]<br>
+							<br>
+							
+						(George stands outside the Nakahama Broadcast Corp offices. He's waiting for someone. Kramer wanders up behind him and speaks into George's ear.)<br>
+							<br>
+							
+						KRAMER: There you are.<br>
+							<br>
+							
+						(George jumps, surprised by Kramer.)<br>
+							<br>
+							
+						GEORGE: Uh. (smiles) Where's the boys?<br>
+							<br>
+							
+						KRAMER: Uh, no, I let 'em sleep in.<br>
+							<br>
+							
+						(Kramer reaches into his pocket and pulls out a number of airline tickets.)<br>
+							<br>
+							
+						KRAMER: I'm on my way to cash in their plane tickets for them. They need a little food money.<br>
+							<br>
+							
+						GEORGE: (horrified) But that meeting starts in ten minutes!<br>
+							<br>
+							
+						KRAMER: No, well, I set their alarm. But they did have a lot of sake in that hot-tub.<br>
+							<br>
+							
+						(A panicky George rushes toward a payphone.)<br>
+							<br>
+							
+						GEORGE: (frantic) I'm calling Jerry.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Street/Jerry's Apartment]<br>
+							<br>
+							
+						(Jerry is bathing his crippled left hand in a bowl of ice-water. The phone rings and he picks up (with his right).)<br>
+							<br>
+							
+						JERRY: Yeah?<br>
+							<br>
+							
+						GEORGE: (panicked and rushed) Jerry! The Japanese guys had sake in the hot-tub! You gotta get 'em outta the drawers and get 'em down here, or I don't have a focus group to sell the pilot to Japanese TV!<br>
+							<br>
+							
+						JERRY: (kidding) Uncle Leo?<br>
+							<br>
+							
+						GEORGE: (scream) Jerry!!<br>
+							<br>
+							
+						(George begins hammering the phone against the kiosk. Jerry lifts the phone away from his ear at the noise.)<br>
+							<br>
+							
+						JERRY: Alright, alright. I'll wake 'em up.<br>
+							<br>
+							
+						(Jerry hangs up the phone.)<br>
+							<br>
+							
+						JERRY: (to himself) Hmm, testy.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Kramer's Apartment]<br>
+							<br>
+							
+						(The chest of drawers still stands against one wall. All the drawers are shut, and from within them can be heard thumping noises and cries for help. Jerry enters and hears the calls.)<br>
+							<br>
+							
+						JERRY: Hello?<br>
+							<br>
+							
+						MR OH (O.C.): Mr Jerry! Open the drawer, please!<br>
+							<br>
+							
+						(Jerry pulls at the handle with his good hand, but it won't move. He tries to hook his bad hand round the other handle and pull.)<br>
+							<br>
+							
+						JERRY: It's stuck. (pained) Oww! The steam from the hot-tub musta warped the wood.<br>
+							<br>
+							
+						MR OH (O.C.): Pull harder.<br>
+							<br>
+							
+						JERRY: I'm trying. I can't get a grip. My hand's had kind of a bad week.<br>
+							<br>
+							
+						MR OH (O.C): Very funny, but no joking, please.<br>
+							<br>
+							
+						JERRY: (looks round) Don't worry, I'll get you out.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Hallway]<br>
+							<br>
+							
+						(Elaine and Brett stroll up to Jerry's door. Brett is carrying an umbrella. Elaine looks dubious.)<br>
+							<br>
+							
+						ELAINE: Brett, believe me. You don't have to do this.<br>
+							<br>
+							
+						BRETT: Elaine, I know he'll appreciate this. Granted, it's not as nice as Kramer's cabinet, but it's start.<br>
+							<br>
+							
+						ELAINE: Uh, I promise you, Jerry is not jealous of Kramer's cabinet.<br>
+							<br>
+							
+						(Elaine reaches for Jerry's doorhandle, but a shout from Kramer's apartment distracts her.)<br>
+							<br>
+							
+						JERRY (O.C.): (yell) Move to the back of the drawers!<br>
+							<br>
+							
+						(Elaine moves to enter Kramer's apartment.)<br>
+							<br>
+							
+						ELAINE: Jerry?<br>
+							<br>
+							<br>
+							<br>
+							
+						[Kramer's Apartment]<br>
+							<br>
+							
+						(Elaine enters followed by Brett.)<br>
+							<br>
+							
+						ELAINE: Jerry.<br>
+							<br>
+							
+						(Jerry stands in front of the chest of drawers, holding a large fireman's axe. He swings it high and smashes it into the top of the chest, the wood splintering under the impact. Brett looks horrified. He drops the umbrella, and rushes forward to protect the furniture.)<br>
+							<br>
+							
+						BRETT: (shouting) Not the Farbman!!<br>
+							<br>
+							
+						(Elaine stares after the charging Brett. She puts her hand to her mouth and screams, horrified at what she sees.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Japanese TV Office]<br>
+							<br>
+							
+						(The Japanese tourists sit on the couch, looking like survivors of some horrible ordeal, with the two executives in their chairs. George perches on the arm of the couch).<br>
+							<br>
+							
+						MR OH: (speaks Japanese) SUBTITLE: Jerry Seinfeld is a dangerous lunatic. He wouldn't let us out of the drawers. Then he came at me with an axe.<br>
+							<br>
+							
+						EXECUTIVE 1: (speaks Japanese) SUBTITLE: We suspect his friend here is also unbalanced.<br>
+							<br>
+							
+						(The tourists turn slowly and look nervously at the smiling, uncomprehending, George.)<br>
+							<br>
+							
+						GEORGE: So, uh, gentlemen, do we have a deal?<br>
+							<br>
+							
+						MR OH: (speaks Japanese) SUBTITLE: Could we have a couple of those oranges?<br>
+							<br>
+							
+						(The executives gesture their assent. The tourists eagerly grab the fruit.)<br>
+							<br>
+							
+						MR OH: (speaks Japanese) SUBTITLE: We are very hungry and have survived many hardships.<br>
+							<br>
+							
+						(Behind the couch, two of the carpet cleaner people enter, including the leader. They walk over to a corner. George notices them and stands.)<br>
+							<br>
+							
+						GEORGE: (to the executives) Excuse me. Did you hire the Sunshine Carpet Cleaners?<br>
+							<br>
+							
+						EXECUTIVE 1: Yes. Cleaned up the (points) coffee stain, left by Jerry Seinfield.<br>
+							<br>
+							
+						(Wilhelm enters, dressed in the same yellow overall as the other carpet cleaners. George looks stunned.)<br>
+							<br>
+							
+						GEORGE: Mr Wilhelm? Wha..what're you doing here?<br>
+							<br>
+							
+						WILHELM: I'm here to clean the carpets. Most of the world is carpeted. And, one day, we will do the cleaning.<br>
+							<br>
+							
+						(George lets this sink in, then slowly turns to the leader.)<br>
+							<br>
+							
+						GEORGE: (incredulity) Him you brainwashed! (angry shout) What's he got that I don't have?!<br>
+							<br>
+							
+						(The leader shrugs, as if to say 'You work it out.')<br>
+							<br>
+							
+						GEORGE: (urgent) Mr Wilhelm, listen. You've been abducted! Please, Mr Wilhelm, you gotta listen to me!<br>
+							<br>
+							
+						WILHELM: Wilhelm? (he raises the nozzle of his cleaner) My name is Tanya.<br>
+							<br>
+							
+						(George purses his lips.)<br>
+							<br>
+							
+						EXECUTIVE 1: (speaks Japanese) SUBTITLE: With these two idiots I don't know how the Yankees won the World Series.<br>
+							<br>
+							
+						(The second executive shakes her head.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Jerry's Apartment]<br>
+							<br>
+							
+						(Brett sits next to Jerry's table, looking dazed. Elaine stands beside him, applying an icepack to his temple. Jerry stands opposite Eaine.)<br>
+							<br>
+							
+						JERRY: (apologetically) Brett, I'm, I'm really sorry. I didn't mean to hit you in the head with.. an axe.<br>
+							<br>
+							
+						(Elaine gives Jerry a look.)<br>
+							<br>
+							
+						JERRY: (defensive) At least it was just the handle!<br>
+							<br>
+							
+						BRETT: It was a beautiful cabinet. What am I gonna tell...<br>
+							<br>
+							
+						(Brett looks concerned.)<br>
+							<br>
+							
+						BRETT: I can't remember his name!<br>
+							<br>
+							
+						JERRY: Fleckman?<br>
+							<br>
+							
+						ELAINE: Calm down Brett, okay. You could have a concussion. Calm down. (holds Brett's head and sings) 'Desperado, mmm-mm-mmm. You better...'<br>
+							<br>
+							
+						ELAINE/JERRY: (singing) '...let somebody love you. Let somebody love you, before it's too...'<br>
+							<br>
+							
+						(Brett slips out from under the icepack and falls face-first onto the table with an audible clunk. Elaine looks down, shocked. Jerry just looks down.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Insert]<br>
+							<br>
+							
+						(An ambulance races through the streets of New York, siren wailing.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Emergency Room]<br>
+							<br>
+							
+						(Brett lays on his back, as a doctor and nurse examine him.)<br>
+							<br>
+							
+						NURSE: His pulse is fine.<br>
+							<br>
+							
+						DOCTOR: Hmm. Looks like a minor concussion. Let me see what I can do to relieve the swelling.<br>
+							<br>
+							
+						(Music begins to play. It's Witchy Woman, and the doctor gets the same look on his face as Brett with Desperado. He looks off into the distance.)<br>
+							<br>
+							
+						NURSE: Doctor?<br>
+							<br>
+							
+						(The doctor stares away.)<br>
+							<br>
+							
+						NURSE: (concerned) Doctor?<br>
+							<br>
+							
+						(The doctor is oblivious to the nurse.)<br>
+							<br>
+							
+						NURSE: (worried) Doctor?<br>
+							<br>
+							
+						(There is still no response from the doctor.)<br>
+							<br>
+							
+						NURSE: (alarm) Doctor, I think we're losing him!<br>
+							<br>
+							
+						(As the doctor stares off into the distance, the monitoring instruments can be heard beeping faster and faster.)<br>
+							<br>
+							<br>
+							
+						The End</td>
+						</tr>
+						<tr height="6">
+							<td class="bottom2" width="645" height="6"></td>
+						</tr>
+						<tr>
+							<td width="645">
+								<div align="center">
+									<font size="-1">Copyright 2006 seinology.com | All Rights Reserved | Designed by 13erla</font></div>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+		<p></p>
+	</body>
+
+</html>

@@ -1,0 +1,1167 @@
+<tdOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+<html>
+
+	<head>
+		<meta http-equiv="content-type" content="text/html;charset=ISO-8859-1">
+		<meta name="description" content="Top Source for Seinfeld">
+		<meta name="keywords" content="seinfeld, sienfeld, Jerry Seinfeld, Julia Louis Dreyfus, Jason Alexander, Michael Richards, Kramer, George, Costanza, Elaine Benes, morty, Larry David">
+		<title>Seinology.com :: Scripts :: 56-The Shoes</title>
+	<link rel='stylesheet' href='/stylesheet.css' type='text/css'>
+	</head>
+
+	<body>
+			<table align="center" width="787" border="0" cellspacing="0" cellpadding="0">
+				<tr>
+					<td><font size="-2" color="red">Seinology.com - </font><font size="-3" color="black">Where Seinfeld Content and Accuracy Matter Most. Seinfeld scripts in pdf form, Seinfeld episode video clips, Seinfeld episode audio clips, Jerry Seinfeld appearances, Julia Louis-Dreyfus appearances, Michael Richards appearances, Jason Alexander appearances, Seinfeld discussion Forum, Seinfeld Where are they Now? Seinlanguage Newsletter, Popular Seinfeld Lists, Seinfeld episode standup, Seinfeld episode guide, Seinfeld fan fiction. Seinfeld content all on one domain. Seinology.com enjoy your stay.</font></td>
+				</tr>
+			</table>
+		
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr height="100">
+				<td class="logo"></td>
+			</tr>
+			<tr><td class="ads" align="center" background=#8694fa>
+				<script type="text/javascript"><!--
+google_ad_client = "pub-1924026976931416";
+google_ad_width = 728;
+google_ad_height = 90;
+google_ad_format = "728x90_as";
+google_ad_type = "text";
+google_ad_channel = "";
+google_color_border = "FFFFFF";
+google_color_bg = "8694fa";
+google_color_link = "0000FF";
+google_color_text = "000000";
+google_color_url = "002E3F";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></td></tr>
+		</table>
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr>
+				<td valign="top" width="136">
+					<table width="136" border="0" cellspacing="0" cellpadding="0">
+						<tr height="24">
+							<td class="navigation">
+								<div align="center">
+									
+									<b>Navigation</b></div>
+							</td>
+						</tr>
+						<tr height="199">
+							<td class="spacer1" valign="top" width="136" height="199">
+								<div align="center">
+									<font size="-1"><a href="http://www.seinology.com">Home</a><br>
+										<a href="http://board.seinology.com">Forum</a><br>
+										<a href="http://www.seinology.com/av.shtml">Audio/Video</a><br>
+										<a href="http://www.seinology.com/scripts.shtml">Scripts</a><br>
+										<a href="http://www.seinology.com/survivor.shtml">Survivor</a><br>
+										<a href="http://www.seinology.com/fanfics.shtml">Fan Fiction</a><br>
+										<a href="http://www.seinology.com/gallery/">Gallery</a><br>
+										<a href="http://www.seinology.com/newsletter.shtml">Newsletter</a><br>
+										<a href="http://www.seinology.com/lists.shtml">Lists</a><br>
+										<a href="http://www.seinology.com/epguide.shtml">Episode Guide</a><br>
+										<a href="http://www.seinology.com/links.shtml">Links</a><br>
+										<a href="http://www.seinology.com/faqother.shtml">Faq + others</a><br>
+										<a href="http://www.seinology.com/legal.shtml">Legal</a></font></div>
+							</td>
+						</tr>
+						
+						<tr>
+							<td class="nav2" width="136">
+							<div align="center"><b>Search</b></div></td>
+						</tr>
+						<tr>
+							<td class="spacer1" width="136" valign="top"><div align="center"><form method="get" action="http://www.seinology.com/search/search.cgi">
+<p><label for="fdse_Match">Match</label><br>
+<select name="Match" id="fdse_Match" size="1">
+<option value="1">All</option>
+<option value="0">Any</option>
+<option value="2">Phrase</option>
+</select></p>
+<p><label for="fdse_Realm">Where?</label><br>
+<select name="Realm" id="fdse_Realm" size="1">
+<option selected="selected" value="All">EntireSite</option>
+<option value="Ep Guide">Ep Guide</option>
+<option value="Images">Images</option>
+<option value="Lists">Lists</option>
+<option value="Newsletters">Newsletters</option>
+<option value="Scripts">Scripts</option>
+<option value="Notes..Nothing">Notes..Nothing</option>
+</select></p>
+<p><input type="text" name="Terms" size="14" id="fdse_Terms"><br>
+<input type="submit" class="submit" name="submitButtonName" value="Search"></p>
+</div></form></td>
+						</tr>
+						<tr><td class="bottom" width="136" height="10" valign="top">
+						</td>
+						</tr>
+					</table>
+				</td>
+				<td width="4"></td>
+				<td valign="top" width="645">
+					<table width="645" border="0" cellspacing="0" cellpadding="0">
+						<tr height="18">
+							<td width="645" height="35" class="bar">
+								<div align="center">
+									<b><font size="+2" color="black">Script</font></b></div>
+							</td>
+						</tr>
+						<tr height="362">
+							<td class="spacer2" valign="top" width="645" height="362">
+
+						<p><font size="-2">Episode 56 - The Shoes<br>
+							
+						pc: 417, season 4, episode 16<br>
+							
+						Broadcast date: February 4, 1993<br>
+							<br>
+							
+						Written by Larry David &amp; Jerry Seinfeld<br>
+							
+						Directed by Tom Cherones<br>
+							<br>
+							
+						-------------------------------------------------------------------------------<br>
+							<br>
+							
+						The Cast<br>
+							
+						Regulars:<br>
+							
+						Jerry Seinfeld ....................... Jerry Seinfeld<br>
+							
+						Jason Alexander .................. George Costanza<br>
+							
+						Julia Louis-Dreyfus ............. Elaine Benes<br>
+							
+						Michael Richards ................. Kramer<br>
+							<br>
+							
+						Guest Stars:<br>
+							<br>
+							
+						Gina Hecht .......................... Dana (Foley)<br>
+							
+						Anita Barone ....................... Gail Cunningham<br>
+							
+						Michael Ornstein .................. Waiter<br>
+							
+						Denise Lee Richards ............ Molly<br>
+							
+						rc: Bob Balaban .................... Russell Dalrimple<br>
+							<br>
+							
+						==================================================================<br>
+							<br>
+							
+						[Open Monologue]<br>
+							<br>
+							
+						The basic problem with the beginning of the relationship, I think, is that each person has their own sexual time-table of what should happen when, that the other person knows nothing about. That's why I really think we need some sort of sexual rulebook, where it's written down and agreed upon - sexual, standard, dating procedure. Know what I mean? So if there's any problems, you can go, (takes a small booklet out of his inside pocket) &quot;Look, honey, I'm very sorry, but we've been out three times, and according to Article 7, Section 5, there's got to be some physical contact, as you can see.&quot; (Gestures to the booklet.) &quot;Otherwise, I will report you to the board, and they can put out a warrant for an embrace.&quot;<br>
+							<br>
+							<br>
+							<br>
+							
+						[Jerry's Apartment]<br>
+							<br>
+							
+						(Jerry and George, working on the script for the &quot;Jerry&quot; pilot episode.)<br>
+							<br>
+							
+						GEORGE (writing on a notepad): Wait a second, wait a second...and then the butler says, &quot;I'm not cleanin' it up! I'm sick of cleaning!&quot;<br>
+							<br>
+							
+						JERRY (copying it down and grinning): That's funny, that's funny! &quot;I'm sick of cleaning.&quot; That's very funny.<br>
+							<br>
+							
+						GEORGE (laughing): I'll tell you something, I've never seen a pilot script as funny as this!<br>
+							<br>
+							
+						JERRY: Yeah, it's funny!<br>
+							<br>
+							
+						GEORGE: I mean, how funny is this?<br>
+							<br>
+							
+						JERRY (low voice): It's funny.<br>
+							<br>
+							
+						GEORGE: I mean, we're not stupid, right? We know when something's funny!<br>
+							<br>
+							
+						JERRY: It cannot not be funny! Now come on, let's stay with it, we gotta finish this today.<br>
+							<br>
+							
+						GEORGE: Okay. Hey, you know what, maybe I should give it to my therapist to read. She's smart, I trust her.<br>
+							<br>
+							
+						JERRY: Yeah, maybe I'll give it to Elaine.<br>
+							<br>
+							
+						GEORGE: Hey, you know, we haven't brought the Elaine character into the show yet. Umm, We should try and get her into this scene.<br>
+							<br>
+							
+						JERRY: Right, right. Okay. (Writing) Elaine enters.<br>
+							<br>
+							
+						GEORGE: Right<br>
+							<br>
+							
+						JERRY: (Thinks) What does she say...?<br>
+							<br>
+							
+						GEORGE (thinking): I don't know, what do women say?<br>
+							<br>
+							
+						JERRY: I don't know.<br>
+							<br>
+							
+						GEORGE: I don't even know what they think. That's why I'm in therapy.<br>
+							<br>
+							
+						JERRY: You know, if we bring Elaine in, it's going to be so many people to keep track of. It's gonna be too hard, I'll forget where everybody's standing, you, me, Kramer, the butler, it's too much.<br>
+							<br>
+							
+						GEORGE: Alright, forget Elaine.<br>
+							<br>
+							
+						JERRY: Alright. (They tear the pages out of their notepads. Kramer enters.)<br>
+							<br>
+							
+						KRAMER: Hey.<br>
+							<br>
+							
+						GEORGE: Hey.<br>
+							<br>
+							
+						JERRY: Hey.<br>
+							<br>
+							
+						KRAMER (to Jerry): You are never gonna believe who I just ran into today.<br>
+							<br>
+							
+						JERRY: Who?<br>
+							<br>
+							
+						KRAMER: Your old flame. Gail Cunningham.<br>
+							<br>
+							
+						JERRY: Did you talk to her?<br>
+							<br>
+							
+						KRAMER: Well, I was on my way to the Y, and I saw her coming towards me? I didn't know what to do! Because I remembered you had three dates with her and she wouldn't kiss you goodnight. So now I'm thinking you know, what is my duty to my friend? Do I acknowledge her? Do I you know ignore her? I mean, what is my responsibility here?<br>
+							<br>
+							
+						JERRY: So what happened?<br>
+							<br>
+							
+						KRAMER: Yeah, yeah, so she sees me and she goes, (imitates Gail) &quot;Oh, hi! Kramer!&quot; You know? Like nothing happened! Like she never you know went three dates with you and refused to kiss you goodnight.<br>
+							<br>
+							
+						JERRY: Yeah, I know about the three dates.<br>
+							<br>
+							
+						KRAMER: You know what I did? I snubbed her.<br>
+							<br>
+							
+						JERRY: What do you mean, you snubbed her?<br>
+							<br>
+							
+						KRAMER: I walked right by her - bffffft - never said a word.<br>
+							<br>
+							
+						JERRY (smiling): Right by her?<br>
+							<br>
+							
+						KRAMER: Right by her!<br>
+							<br>
+							
+						JERRY (to George, hugs Kramer happily): What you do say about a guy like this, huh! (George applauds.) You are some great friend, I tell ya, snubbed her! (seriously) Not that I condone it. I've never condoned snubbing in my administration. But your loyalty is beyond question.<br>
+							<br>
+							
+						KRAMER: Yeah. Well, you know, she was lucky I was in a good mood - coulda been a lot worse.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Monk's]<br>
+							<br>
+							
+						(Jerry and Elaine. Jerry is showing her the script.)<br>
+							<br>
+							
+						ELAINE (throws the script at Jerry): I'm not even in here!<br>
+							<br>
+							
+						JERRY: Yeah, I know.<br>
+							<br>
+							
+						ELAINE: Well, I thought there was going to be a character named Elaine Benes.<br>
+							<br>
+							
+						JERRY: Well, there were too many people in the room, we couldn't keep track of everybody. George, and the butler, and...<br>
+							<br>
+							
+						ELAINE: You couldn't &quot;keep track&quot; of everybody?<br>
+							<br>
+							
+						JERRY: Well, we tried. We couldn't. We didn't know how to, uh...(confessing) ...we couldn't write for a woman. We didn't know what you would say. Even right now, I'm sitting here, I know you're going to say something, I have no idea what it is.<br>
+							<br>
+							
+						ELAINE: You have no idea?<br>
+							<br>
+							
+						JERRY: Something derogatory? (Gail enters the coffee shop and walks over to the booth.)<br>
+							<br>
+							
+						GAIL (to Jerry): I thought I'd find you here.<br>
+							<br>
+							
+						JERRY: Well, Gail Cunningham.<br>
+							<br>
+							
+						ELAINE: Hi, Gail.<br>
+							<br>
+							
+						GAIL: Hi, Elaine. (To Jerry) Hey, what is with your friend Kramer?<br>
+							<br>
+							
+						JERRY: Why?<br>
+							<br>
+							
+						GAIL: He snubbed me.<br>
+							<br>
+							
+						JERRY: Are you sure?<br>
+							<br>
+							
+						GAIL: Yeah, I'm sure. What did you tell him?<br>
+							<br>
+							
+						JERRY: Nothing. (Elaine grabs Jerry's sandwich and is about to take a bite.) Hey, where you goin' with that? Gimme that. (Takes back the sandwich.)<br>
+							<br>
+							
+						ELAINE: I thought you were finished.<br>
+							<br>
+							
+						JERRY: I took two bites, how am I finished? (Elaine coughs.) Plus you're coming down with something? You want me to get sick? (Offers Gail the sandwich) Bite?<br>
+							<br>
+							
+						GAIL: So, how come? Why did Kramer do that?<br>
+							<br>
+							
+						JERRY: I don't know. Once he leaves the building, he's out of my jurisdiction.<br>
+							<br>
+							
+						GAIL: Well, tell him that I am mad at him.<br>
+							<br>
+							
+						JERRY: Alright. So, where ya cookin' now?<br>
+							<br>
+							
+						GAIL: Pfeiffer's.<br>
+							<br>
+							
+						JERRY: Ah, the power lunch crowd.<br>
+							<br>
+							
+						GAIL (to Elaine): Nice shoes!<br>
+							<br>
+							
+						ELAINE: Oh. Thank you.<br>
+							<br>
+							
+						GAIL: Where'd you get 'em?<br>
+							<br>
+							
+						ELAINE (modest): They're um, Botticelli's.<br>
+							<br>
+							
+						GAIL (impressed): Ooh, Botticelli's! Look at you! I'm afraid to go in there.<br>
+							<br>
+							
+						ELAINE: Really.<br>
+							<br>
+							
+						JERRY: Would you care to join us?<br>
+							<br>
+							
+						GAIL: No, no, I gotta get to the restaurant. (Looks at her watch.) Oh! See ya. (Exits.)<br>
+							<br>
+							
+						JERRY: See ya.<br>
+							<br>
+							
+						ELAINE (irritated, imitates Gail): &quot;Oh, look at you, the Botticelli's.&quot;<br>
+							<br>
+							
+						JERRY: That bothered you?<br>
+							<br>
+							
+						ELAINE: Yes, it bothered me. So I bought a pair of shoes at Botticelli's, I'm not allowed to shop there? That really embarrassed me.<br>
+							<br>
+							
+						JERRY: It did?<br>
+							<br>
+							
+						ELAINE: Yes! Couldn't you see that?<br>
+							<br>
+							
+						JERRY (thinks): No. This is why you're not in the pilot.<br>
+							<br>
+							<br>
+							<br>
+							
+						[George in a session with Dana, his therapist.]<br>
+							<br>
+							
+						DANA: Well, George, I think you're beginning to get some perspective on things. I think we're making progress.<br>
+							<br>
+							
+						GEORGE: Yeah, I feel like I've grown.<br>
+							<br>
+							
+						DANA: Good. So, let's pick up on this next week.<br>
+							<br>
+							
+						GEORGE: Great. (They both stand.) Oh, by the way, did you get a chance to read the script?<br>
+							<br>
+							
+						DANA: Yes, yes I did.<br>
+							<br>
+							
+						GEORGE (beaming): Well, what'd you think?<br>
+							<br>
+							
+						DANA (unenthusiastic): Uh...it was...good.<br>
+							<br>
+							
+						GEORGE: You didn't like it?<br>
+							<br>
+							
+						DANA: Well, no, I -<br>
+							<br>
+							
+						GEORGE: I can't believe this! What was wrong with it? What didn't you like about it?<br>
+							<br>
+							
+						DANA: It wasn't funny.<br>
+							<br>
+							
+						GEORGE: It wasn't funny? What, are you kidding?<br>
+							<br>
+							
+						DANA: No, I didn't find it funny.<br>
+							<br>
+							
+						GEORGE: You didn't find it funny?! This is what I'm paying for?<br>
+							<br>
+							
+						DANA: Well, that whole storyline about a guy who gets into a car accident, doesn't have any insurance, so the judge sentences him to be a butler? I didn't really buy that.<br>
+							<br>
+							
+						GEORGE: Let me tell you who did, uh, buy it...um we pitched this story to Russell Dalrymple, the president of NBC, and he ate it up with a spoon.<br>
+							<br>
+							
+						DANA: George, if you're going to be in a creative field, you're going to have to learn how to deal with criticism.<br>
+							<br>
+							
+						GEORGE: How's this for criticism? Um...you stink. How do like that criticism? You know what's funny to me? That diploma up on the wall. That is my idea of &quot;com-med-dee&quot;! You sitting here, telling people what to do.<br>
+							<br>
+							
+						DANA: I think you'd better go.<br>
+							<br>
+							
+						GEORGE: Oh, I'm goin' baby. I'm goin.' (Heads for the door, then stops.) It's Jerry's fault. He took out all my good lines. He's such a control freak!<br>
+							<br>
+							<br>
+							<br>
+							
+						[Jerry and George in Jerry's apartment. They're both standing by the door. Elaine enters.]<br>
+							<br>
+							
+						GEORGE (immediately, to Elaine): So, you send me to this therapist to help me with my emotional disorders, and she criticizes our script. (Tosses the script to Jerry.) What kind of a therapist is that?<br>
+							<br>
+							
+						ELAINE: I guess she didn't think it was funny.<br>
+							<br>
+							
+						GEORGE: Oh, she didn't think it was funny. What is she, Rowan &amp; Martin? We're supposed to meet with NBC tomorrow! She completely shattered my confidence. And I'm paying for this, she's my employee!<br>
+							<br>
+							
+						JERRY: I thought your mother's paying for it.<br>
+							<br>
+							
+						GEORGE: And she slaves to earn every penny. So that someday, I might be able to walk up to a woman and say, &quot;Yes, I'm bald, but I'm still a good person.&quot;<br>
+							<br>
+							
+						JERRY (to Elaine): You know, he's right. It's not her place to criticize the script, which reminds me - what did you think of it? You never told me.<br>
+							<br>
+							
+						ELAINE: What did I think of it? (Manufactures a cough instead of answering. Kramer enters.)<br>
+							<br>
+							
+						KRAMER (to Jerry): Hey, buddy, I got something to tell ya. (Elaine runs towards to the bathroom in lieu of answering Jerry's question.)<br>
+							<br>
+							
+						JERRY (catches Elaine): Hey, one second, you don't get off that easy. C'mon, tell me what you thought.<br>
+							<br>
+							
+						ELAINE: Well, you know, I...<br>
+							<br>
+							
+						KRAMER: I just kissed Gail Cunningham. (Jerry turns and looks at Kramer, shocked. Elaine grins and heads to the bathroom.)<br>
+							<br>
+							
+						JERRY: You what?<br>
+							<br>
+							
+						KRAMER: Yeah, I kissed her.<br>
+							<br>
+							
+						JERRY: You kissed her?<br>
+							<br>
+							
+						KRAMER: Right on the mouth.<br>
+							<br>
+							
+						JERRY: What kinda great friend are you? How do you go from snubbing to kissing?<br>
+							<br>
+							
+						KRAMER: Well, I saw her outside the Y, you know, she came up to me, she started yelling because I snubbed her, and then we started talking a little bit, and I walked her to her building. And just before I left, I put my arm around her waist, I pulled her to me, and I - mmm - I planted one! (Laughs.)<br>
+							<br>
+							
+						JERRY: And what did she do?<br>
+							<br>
+							
+						KRAMER: She kissed me back.<br>
+							<br>
+							
+						JERRY: I don't get this. I go out with this girl three times, she doesn't want to shake my hand - why's she kissing you?<br>
+							<br>
+							
+						KRAMER (realizing): Because I snubbed her. You see? Women, they like that! Yes! I understand women. The snub is good, they love the snub!<br>
+							<br>
+							
+						GEORGE: No they don't. I tried that once. I snubbed for a year. Nothing. Every woman I saw, I snubbed. You never saw people so pleased. (Elaine returns from the bathroom.)<br>
+							<br>
+							
+						KRAMER (to Elaine): Ooh, so...I understand you're buying your shoes now at Botticelli's.<br>
+							<br>
+							
+						ELAINE: What? Who told you that?<br>
+							<br>
+							
+						KRAMER: Gail Cunningham.<br>
+							<br>
+							
+						ELAINE: I don't understand, why is this woman talking about my shoes? Why are my shoes a topic of conversation?<br>
+							<br>
+							
+						KRAMER: Well, you know, we were just talking, and uh she mentioned how you're buying your shoes now at Botticelli's.<br>
+							<br>
+							
+						ELAINE (angrily): &quot;How I'm buying my shoes now at Botticelli's!&quot; Did you hear this? (Shoves Jerry and Kramer.)<br>
+							<br>
+							
+						JERRY: So what?<br>
+							<br>
+							
+						ELAINE: So what?! She is talking about my shoes! She is discussing my shoes! It is nobody's business where I buy my shoes! (Storms over to the couch and angrily sits down. Jerry, Kramer and George look at Elaine from the kitchen, comically puzzled by her outburst...)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Gail cooking in the kitchen at Pfeiffer's Restaurant. Elaine marches in.]<br>
+							<br>
+							
+						ELAINE: Hey! Gail!<br>
+							<br>
+							
+						GAIL: Ya. (noticing it's Elaine) Elaine...!<br>
+							<br>
+							
+						ELAINE: Why are you talking about my shoes?<br>
+							<br>
+							
+						GAIL: What?<br>
+							<br>
+							
+						ELAINE: My Botticelli shoes. You've been talking about my Botticelli shoes.<br>
+							<br>
+							
+						GAIL: What are you talking about?<br>
+							<br>
+							
+						ELAINE: Did you or did you not tell Kramer that I got my shoes at Botticelli's? (A waiter comes over and puts a plate of food on Gail's cutting board.)<br>
+							<br>
+							
+						WAITER: Too spicy. He wants another one. You got that pasta primavera?<br>
+							<br>
+							
+						GAIL: Look Elaine, I am very busy here.<br>
+							<br>
+							
+						ELAINE: Who else have you mentioned my shoes to, huh? I wanna know why my footwear is your conversation!<br>
+							<br>
+							
+						GAIL: I am not discussing this. This is insane.<br>
+							<br>
+							
+						WAITER: You got that pasta primavera? Let's go!<br>
+							<br>
+							
+						GAIL: Ya ya ya, here.<br>
+							<br>
+							
+						(Gail passes the plate to the waiter in front of Elaine. Elaine sneezes on it. The waiter brings the pasta to the dining room and serves it to Russell Dalrymple, the president of NBC.)<br>
+							<br>
+							
+						WAITER: Here you are, Mr. Dalrymple.<br>
+							<br>
+							
+						RUSSELL: Thank you.<br>
+							<br>
+							
+						WAITER: Sorry for the delay. Enjoy your lunch.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Jerry and George arrive at Dalrymple's apartment to discuss the script.]<br>
+							<br>
+							
+						RUSSELL (opening the door): Well, come in. (They shake hands.)<br>
+							<br>
+							
+						JERRY &amp; GEORGE: Hi.<br>
+							<br>
+							
+						RUSSELL: Awfully sorry to make you come up here, but I really wasn't feeling well enough to go back to the office, and well, it's the only chance I have to meet with you this week.<br>
+							<br>
+							
+						JERRY: Are you alright?<br>
+							<br>
+							
+						RUSSELL: Well, it's my stomach. I think there must have been something in the pasta primavera I had for lunch.<br>
+							<br>
+							
+						JERRY: Oh, Where did you eat?<br>
+							<br>
+							
+						RUSSELL: Pfeiffer's.<br>
+							<br>
+							
+						JERRY: Ah. I know the chef there.<br>
+							<br>
+							
+						RUSSELL: Yeah. The food's usually terrific.<br>
+							<br>
+							
+						GEORGE: My cousin worked for Bouchard's. They used to use the bouilla-base for a toilet. (Jerry and Russell are shocked.)<br>
+							<br>
+							
+						RUSSELL: What are you saying?<br>
+							<br>
+							
+						GEORGE: Well, you didn't hear it from me, but needless to say, if you go in there - stick with the consumee.<br>
+							<br>
+							
+						RUSSELL: Well, we'd better get started, my daughter's going to be here soon.<br>
+							<br>
+							
+						JERRY: Oh, you have a daughter?<br>
+							<br>
+							
+						RUSSELL: Yeah, she just turned fifteen last week.<br>
+							<br>
+							
+						GEORGE: Aw, that's a fun age. (Jerry looks at George distastefully.)<br>
+							<br>
+							
+						RUSSELL: Alright. The script. Now, I've read this thing three times...and everytime I read it...(looks nauseous, struggles not to vomit.)<br>
+							<br>
+							
+						JERRY: What?<br>
+							<br>
+							
+						RUSSELL: Excuse me for a second. (Gets up and runs to the bathroom.)<br>
+							<br>
+							
+						JERRY: What?<br>
+							<br>
+							
+						GEORGE: Would you like a Pepto-Bismol? I keep them in my wallet...! (Russell goes into the bathroom and shuts the door.) (To Jerry) Do you think he liked it? (From the bathroom, we hear Russell violently heaving his guts.)<br>
+							<br>
+							
+						JERRY: I'm not sure. (The sounds of Russell vomiting emanate from the bathroom. Jerry and George sit there uncomfortably.) What was that dish he said he had...?<br>
+							<br>
+							
+						GEORGE: Pasta primavera.<br>
+							<br>
+							
+						JERRY: Ah. You know, 'primavera' is Italian for 'spring.'<br>
+							<br>
+							
+						GEORGE: No!<br>
+							<br>
+							
+						JERRY: Yeah.<br>
+							<br>
+							
+						RUSSELL (coming out of the bathroom): Really, I'm terribly sorry, it just, uh...all of a sudden it just hit me.<br>
+							<br>
+							
+						GEORGE: So, you were saying how, um...about the script...<br>
+							<br>
+							
+						RUSSELL: Right. The script. Your script needs some...it needs, um...(looks nauseous again. Gets up and runs to the bathroom a second time.)<br>
+							<br>
+							
+						GEORGE: More jokes?<br>
+							<br>
+							
+						JERRY: Another ending?<br>
+							<br>
+							
+						GEORGE: A different name for the butler? (Russell throws up again.)<br>
+							<br>
+							
+						JERRY: Maybe we should go.<br>
+							<br>
+							
+						GEORGE: We haven't heard his notes yet, we don't know how he feels about our work. (Russell throws up yet again.)<br>
+							<br>
+							
+						RUSSELL (from bathroom): Oh God. Oh my god.<br>
+							<br>
+							
+						JERRY: I can't listen to anymore of this, the guy's losing a lung in there. (Russell's daughter Molly enters.)<br>
+							<br>
+							
+						MOLLY: Hello.<br>
+							<br>
+							
+						JERRY: Hi.<br>
+							<br>
+							
+						GEORGE: Hi.<br>
+							<br>
+							
+						MOLLY: I'm Molly.<br>
+							<br>
+							
+						JERRY: Oh, I'm Jerry.<br>
+							<br>
+							
+						GEORGE: George.<br>
+							<br>
+							
+						JERRY: We're here discussing our script with your father.<br>
+							<br>
+							
+						GEORGE: He just read it. (Russell vomits again. Jerry and George look ashamed.)<br>
+							<br>
+							
+						MOLLY: Daddy? Are you okay?<br>
+							<br>
+							
+						RUSSELL (from bathroom): Yeah, yeah sweetie. I'm fine. (Molly sits on the back of the chair.)<br>
+							<br>
+							
+						GEORGE: So, you live with your mother, huh?<br>
+							<br>
+							
+						MOLLY: Uh, yeah.<br>
+							<br>
+							
+						GEORGE (to Jerry): Divorce is very difficult. Especially on a kid.<br>
+							<br>
+							
+						JERRY: Uh huh.<br>
+							<br>
+							
+						GEORGE: Of course, I'm the result of my parents having stayed together, so you never know. (Russell comes out of the bathroom.)<br>
+							<br>
+							
+						MOLLY: Daddy, are you alright? What's the matter?<br>
+							<br>
+							
+						RUSSELL: It's just a stomach thing.<br>
+							<br>
+							
+						MOLLY: Yuck.<br>
+							<br>
+							
+						RUSSELL (to Jerry and George): We're going to have to do this some other time, so if you'll give me your number, I'll call you later. (Jerry and George nod. Molly takes her jacket off.)<br>
+							<br>
+							
+						GEORGE: You know, suddenly I'm in the mood for pasta primavera myself. (Jerry nudges George to sneak a peek at Molly's cleavage as she bends over and looks in her backpack. Jerry has a quick look, but George stares, hypnotized. Russell comes up behind George.)<br>
+							<br>
+							
+						RUSSELL (angrily): Get a good look, Costanza?<br>
+							<br>
+							<br>
+							<br>
+							
+						[Jerry and George in Jerry's apartment.]<br>
+							<br>
+							
+						JERRY: What were you doing?<br>
+							<br>
+							
+						GEORGE: Well, it's not my fault. You poked me!<br>
+							<br>
+							
+						JERRY: You're supposed to just take a peek after a poke. You were like you just put a quarter into one of those big metal things on top of the Empire State Building.<br>
+							<br>
+							
+						GEORGE: It's cleavage. I couldn't look away. What am I, waiting to win an Oscar here? This is all I have in my life.<br>
+							<br>
+							
+						JERRY: Looking at cleavage is like looking at the sun, you don't stare at it. It's too risky. You get a sense of it and then you look away.<br>
+							<br>
+							
+						GEORGE: All right. So, he caught me in a cleavage peek, so big deal. Who wouldn't look at his daughter's cleavage? She's got nice cleavage.<br>
+							<br>
+							
+						JERRY: That's why I poked.<br>
+							<br>
+							
+						GEORGE: That's why I peeked. (Jerry opens the door to take some trash out, and meets Kramer and Gail in the hallway.)<br>
+							<br>
+							
+						GAIL: Hey! What is with your friend Elaine?<br>
+							<br>
+							
+						JERRY: What?<br>
+							<br>
+							
+						GAIL: She comes to my restaurant, comes right in my kitchen, and starts complaining that I'm talking about her shoes.<br>
+							<br>
+							
+						JERRY: She did?<br>
+							<br>
+							
+						KRAMER: Right in the kitchen. Disgraceful.<br>
+							<br>
+							
+						GAIL: So, I don't want people coming into my kitchen. I think she might have sneezed all over someone's pasta primavera. Someone might have gotten sick because of her. (Kramer and Gail exit.)<br>
+							<br>
+							
+						GEORGE: Pasta primavera?<br>
+							<br>
+							
+						JERRY: Is that what she said? (Kramer pokes his head back in the door.)<br>
+							<br>
+							
+						KRAMER (to Jerry): She's somethin', huh? She's a wild one. She's wearin' me out.<br>
+							<br>
+							
+						JERRY: She is?<br>
+							<br>
+							
+						KRAMER: She's sensual. You know, with the...cooking and all. (Kramer grins happily at Jerry and leaves. The phone rings. Jerry tosses the trashbag to George.)<br>
+							<br>
+							
+						JERRY: Hello? Oh, hi Stu.<br>
+							<br>
+							
+						GEORGE (lazily swinging the garbage bag around): From NBC?<br>
+							<br>
+							
+						JERRY: (to George) Yeah. (oh the phone) What's goin' on? What? Really? Oh my god....did he give you a reason?...Oh boy. Okay. Alright. Thanks. (hangs up.) Dalrymple just cancelled the pilot. (George drops the bag, shocked.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Jerry, George and Elaine in Jerry's apartment.]<br>
+							<br>
+							
+						JERRY (to Elaine): If you hadn't gone into her restaurant, this never would have happened.<br>
+							<br>
+							
+						ELAINE: Look, I don't like people talking about my shoes behind my back, okay? My shoes are my business. The two of you shouldn't have been looking at some fifteen year-old's cleavage anyway!<br>
+							<br>
+							
+						GEORGE: He poked me!<br>
+							<br>
+							
+						JERRY: There was cleavage in the area. That's a reflex - (mimics nudging someone with an elbow) - cleavage-poke, cleavage-poke...<br>
+							<br>
+							
+						ELAINE: But she was fifteen.<br>
+							<br>
+							
+						JERRY: You don't consider age in the face of cleavage. This occurs on a molecular level, you can't control it! We're like some kind of weird fish where the eyes operate independently of the head.<br>
+							<br>
+							
+						GEORGE: Alright, what's the difference. What are we gonna do now? He won't take our calls, we can't get into his office...<br>
+							<br>
+							
+						JERRY: You know what we could do? He eats at that restaurant, Pfeiffer's? We could have Gail call us, tell us the next time he's there, go there and talk to him.<br>
+							<br>
+							
+						GEORGE: Hey, now you're onto something.<br>
+							<br>
+							
+						JERRY: The whole thing is so stupid. Like he wouldn't do the same thing if Elaine walked by in a low-cut dress.<br>
+							<br>
+							
+						GEORGE: Yeah. Well, maybe not Elaine.<br>
+							<br>
+							
+						JERRY: No.<br>
+							<br>
+							
+						GEORGE: But...somebody like Gail, though.<br>
+							<br>
+							
+						JERRY: Ya.<br>
+							<br>
+							
+						ELAINE: What? What do you mean, Gail? (Kramer enters.)<br>
+							<br>
+							
+						KRAMER: Yah-hey.<br>
+							<br>
+							
+						JERRY: Kramer, listen, I want you to ask Gail to do me a favor. The next time Russell Dalrymple comes in the restaurant, ask her if she would call me.<br>
+							<br>
+							
+						KRAMER: Alright, I'll call her right now.<br>
+							<br>
+							
+						JERRY: Ok. (Kramer goes back to his apartment.)<br>
+							<br>
+							
+						ELAINE (to George): What do you mean, Gail? You don't think I can attract attention? You don't think I can put asses in the seats?<br>
+							<br>
+							
+						JERRY: Look, sweetheart, you know you've got it all. But let's face it... (Kramer comes back.)<br>
+							<br>
+							
+						KRAMER: She said she'll do it.<br>
+							<br>
+							
+						GEORGE: Beautiful.<br>
+							<br>
+							
+						JERRY: Beautiful.<br>
+							<br>
+							
+						KRAMER (points at Elaine's feet): But she wants the shoes.<br>
+							<br>
+							
+						ELAINE: What?<br>
+							<br>
+							
+						KRAMER: She says she wants those shoes.<br>
+							<br>
+							
+						ELAINE: She wants my shoes? What kind of person is this? Alright! She is not getting 'em!<br>
+							<br>
+							
+						JERRY: No, come on! I'll buy you another pair!<br>
+							<br>
+							
+						ELAINE: No, these were the last pair of these that they had!<br>
+							<br>
+							
+						JERRY: I'll get you another one just like it!<br>
+							<br>
+							
+						ELAINE: No, but these were the only really cool ones like this! Don't you see how everybody likes 'em and how everybody talks about 'em? (Jerry, realizing Elaine's motivation, sits at the counter unbelievingly.)<br>
+							<br>
+							
+						GEORGE (to Elaine, in a somber tone): Elaine, this pilot...it doesn't matter to me, it's not me I'm concerned about...it's my mother. I've been over to the hospital to see her...<br>
+							<br>
+							
+						ELAINE: Oh yeah, because she caught you jer -<br>
+							<br>
+							
+						GEORGE: Never mind!<br>
+							<br>
+							
+						ELAINE: Oh, come on, wait a second, this whole thing is ridiculous. How do I even know she wears the same size?<br>
+							<br>
+							
+						KRAMER: Alright, what size are you?<br>
+							<br>
+							
+						ELAINE: Seven-and-a-half.<br>
+							<br>
+							
+						KRAMER: Eh! Bingo.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Gail in the kitchen at Pfeiffer's. She notices Dalrymple being shown to his table.]<br>
+							<br>
+							
+						GAIL (hands a plate to another chef): Sauce this. (Goes to the telephone and dials.) Yeah, he's here. Oh, and one more thing...bring the shoes. (Hangs up.)<br>
+							<br>
+							
+						(Russell eating at the restaurant. Jerry and George arrive. Jerry hands the shoes to Gail, and they walk over to Russell's table.)<br>
+							<br>
+							
+						JERRY: Hey! Whattaya know!<br>
+							<br>
+							
+						GEORGE: Look who's here!<br>
+							<br>
+							
+						JERRY: Fancy meeting you here!<br>
+							<br>
+							
+						RUSSELL: Oh. Hello.<br>
+							<br>
+							
+						GEORGE (notices Russell's lunch): Pasta primavera! Back on the horse.<br>
+							<br>
+							
+						JERRY: You know, it's a funny thing, because after the pilot got cancelled, we hadn't heard from you.<br>
+							<br>
+							
+						GEORGE: Didn't hear anything...<br>
+							<br>
+							
+						JERRY: Didn't know...we were wondering...what happened.<br>
+							<br>
+							
+						RUSSELL: Well, it just didn't seem to be the right project for us right now. (Elaine walks by in a low-cut dress. Jerry and George look at her as she moves to the table opposite Russell.) So, what were you saying?<br>
+							<br>
+							
+						GEORGE: Oh...uh, because if it had anything at all to do with what you perceived as me leering at your daughter, I really have to take issue with that. I did not leer. (To Jerry) Did I leer?<br>
+							<br>
+							
+						JERRY: No leer. (Elaine comes over to Russell's table.)<br>
+							<br>
+							
+						ELAINE (to Russell): Uh, excuse me, are you using that ketchup?<br>
+							<br>
+							
+						RUSSELL (not noticing Elaine's cleavage): Uh, no. (Elaine takes the ketchup and goes back to her table.)<br>
+							<br>
+							
+						GEORGE: Because, if I'm looking straight ahead, and something enters my field of vision, that's merely a happenstance. (Elaine loudly snaps and unfolds her napkin at the next table to get Russell's attention.)<br>
+							<br>
+							
+						RUSSELL: Under the circumstances, I don't really feel that we should be in business together. (Elaine comes back over.)<br>
+							<br>
+							
+						ELAINE: Here's your ketchup back. You know, I had the hardest time trying to get some out. I mean, I just kept pounding and pounding on the bottom of it. Do you have any trouble?<br>
+							<br>
+							
+						RUSSELL (still not noticing Elaine's cleavage): No.<br>
+							<br>
+							
+						ELAINE (leaning forward): Do you have a...ketchup secret?<br>
+							<br>
+							
+						RUSSELL: No, I... (finally notices Elaine)...don't have a ketchup secret. (Smiles.)<br>
+							<br>
+							
+						ELAINE (flirtatiously): Because if you do have a ketchup secret, I would really, really like to know what it is. (Russell is pleased, and smiles at Elaine. Elaine goes back to her table, sits down, and waves at Russell.)<br>
+							<br>
+							
+						RUSSELL (to Jerry and George, reconsidering about the pilot): Field of vision, huh?<br>
+							<br>
+							<br>
+							<br>
+							
+						[Jerry, George and Elaine having dinner at Pfeiffer's. Gail comes over to the table.]<br>
+							<br>
+							
+						GAIL: How's everything?<br>
+							<br>
+							
+						ELAINE: Mmmm.<br>
+							<br>
+							
+						JERRY: Really good.<br>
+							<br>
+							
+						GEORGE: This pasta primavera is fabulous.<br>
+							<br>
+							
+						JERRY: Very tasty.<br>
+							<br>
+							
+						GAIL: How'd everything go with that NBC guy?<br>
+							<br>
+							
+						GEORGE: Great.<br>
+							<br>
+							
+						JERRY: The pilot's back on. In fact, Elaine's going out with him tomorrow night. (Gail nods and walks away.) Listen, Elaine, you know if Russell mentions anything about the pilot, you'll of course tell him how much you liked it...?<br>
+							<br>
+							
+						ELAINE: You know, I happen to have the script right here with me and, uh...on page 3, for example, suppose the Elaine character comes in wearing a...a low-cut dress. And the butler is very distracted, and can't work.<br>
+							<br>
+							
+						JERRY: Uh...that kind of comedy, that's a little broad for us.<br>
+							<br>
+							
+						ELAINE: Well, I'm sure it's right up Russell's alley.<br>
+							<br>
+							
+						GEORGE: Well, it's a funny idea.<br>
+							<br>
+							
+						JERRY: It's funny!<br>
+							<br>
+							
+						GEORGE: C'mon, funny is funny.<br>
+							<br>
+							
+						JERRY: Funny is funny, we're here to entertain, right?<br>
+							<br>
+							
+						ELAINE: Alright, well, maybe I'll mention it to Russell tomorrow night.<br>
+							<br>
+							
+						JERRY: If you can.<br>
+							<br>
+							
+						GEORGE: Yeah. Where's he taking you, by the way?<br>
+							<br>
+							
+						ELAINE: Bouchard's, on 53rd. (George starts choking on his wine, and attempts to tell Elaine something.)<br>
+							<br>
+							
+						JERRY: I think what he's trying to say is, &quot;get the bouilla-base.&quot; (George nods 'yes' and continues to choke.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Closing Monologue]<br>
+							<br>
+							
+						Men are obsessed with cleavage, women are obsessed with shoes. It's the same for both sexes. It doesn't matter how many times we've seen these things, every time these objects are presented to us we have to look, we cannot not look. To men cleavage i-i-is like the nearest thing to a nearby UFO landing, that's what it is. Women if women by a pair of shoes that they really love, this is like boarding the alien ship. I think that it's entirely possible that aliens have landed and they haven't been able to get our attention because we are so preoccupied with cleavage and shoes.<br>
+							<br>
+							<br>
+							
+						The End</td>
+						</tr>
+						<tr height="6">
+							<td class="bottom2" width="645" height="6"></td>
+						</tr>
+						<tr>
+							<td width="645">
+								<div align="center">
+									<font size="-1">Copyright 2006 seinology.com | All Rights Reserved | Designed by 13erla</font></div>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+		<p></p>
+	</body>
+
+</html>

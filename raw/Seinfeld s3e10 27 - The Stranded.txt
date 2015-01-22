@@ -1,0 +1,1322 @@
+<tdOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+<html>
+
+	<head>
+		<meta http-equiv="content-type" content="text/html;charset=ISO-8859-1">
+		<meta name="description" content="Top Source for Seinfeld">
+		<meta name="keywords" content="seinfeld, sienfeld, Jerry Seinfeld, Julia Louis Dreyfus, Jason Alexander, Michael Richards, Kramer, George, Costanza, Elaine Benes, morty, Larry David">
+		<title>Seinology.com :: Scripts :: 27-The Stranded</title>
+	<link rel='stylesheet' href='/stylesheet.css' type='text/css'>
+	</head>
+
+	<body>
+			<table align="center" width="787" border="0" cellspacing="0" cellpadding="0">
+				<tr>
+					<td><font size="-2" color="red">Seinology.com - </font><font size="-3" color="black">Where Seinfeld Content and Accuracy Matter Most. Seinfeld scripts in pdf form, Seinfeld episode video clips, Seinfeld episode audio clips, Jerry Seinfeld appearances, Julia Louis-Dreyfus appearances, Michael Richards appearances, Jason Alexander appearances, Seinfeld discussion Forum, Seinfeld Where are they Now? Seinlanguage Newsletter, Popular Seinfeld Lists, Seinfeld episode standup, Seinfeld episode guide, Seinfeld fan fiction. Seinfeld content all on one domain. Seinology.com enjoy your stay.</font></td>
+				</tr>
+			</table>
+		
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr height="100">
+				<td class="logo"></td>
+			</tr>
+			<tr><td class="ads" align="center" background=#8694fa>
+				<script type="text/javascript"><!--
+google_ad_client = "pub-1924026976931416";
+google_ad_width = 728;
+google_ad_height = 90;
+google_ad_format = "728x90_as";
+google_ad_type = "text";
+google_ad_channel = "";
+google_color_border = "FFFFFF";
+google_color_bg = "8694fa";
+google_color_link = "0000FF";
+google_color_text = "000000";
+google_color_url = "002E3F";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></td></tr>
+		</table>
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr>
+				<td valign="top" width="136">
+					<table width="136" border="0" cellspacing="0" cellpadding="0">
+						<tr height="24">
+							<td class="navigation">
+								<div align="center">
+									
+									<b>Navigation</b></div>
+							</td>
+						</tr>
+						<tr height="199">
+							<td class="spacer1" valign="top" width="136" height="199">
+								<div align="center">
+									<font size="-1"><a href="http://www.seinology.com">Home</a><br>
+										<a href="http://board.seinology.com">Forum</a><br>
+										<a href="http://www.seinology.com/av.shtml">Audio/Video</a><br>
+										<a href="http://www.seinology.com/scripts.shtml">Scripts</a><br>
+										<a href="http://www.seinology.com/survivor.shtml">Survivor</a><br>
+										<a href="http://www.seinology.com/fanfics.shtml">Fan Fiction</a><br>
+										<a href="http://www.seinology.com/gallery/">Gallery</a><br>
+										<a href="http://www.seinology.com/newsletter.shtml">Newsletter</a><br>
+										<a href="http://www.seinology.com/lists.shtml">Lists</a><br>
+										<a href="http://www.seinology.com/epguide.shtml">Episode Guide</a><br>
+										<a href="http://www.seinology.com/links.shtml">Links</a><br>
+										<a href="http://www.seinology.com/faqother.shtml">Faq + others</a><br>
+										<a href="http://www.seinology.com/legal.shtml">Legal</a></font></div>
+							</td>
+						</tr>
+						
+						<tr>
+							<td class="nav2" width="136">
+							<div align="center"><b>Search</b></div></td>
+						</tr>
+						<tr>
+							<td class="spacer1" width="136" valign="top"><div align="center"><form method="get" action="http://www.seinology.com/search/search.cgi">
+<p><label for="fdse_Match">Match</label><br>
+<select name="Match" id="fdse_Match" size="1">
+<option value="1">All</option>
+<option value="0">Any</option>
+<option value="2">Phrase</option>
+</select></p>
+<p><label for="fdse_Realm">Where?</label><br>
+<select name="Realm" id="fdse_Realm" size="1">
+<option selected="selected" value="All">EntireSite</option>
+<option value="Ep Guide">Ep Guide</option>
+<option value="Images">Images</option>
+<option value="Lists">Lists</option>
+<option value="Newsletters">Newsletters</option>
+<option value="Scripts">Scripts</option>
+<option value="Notes..Nothing">Notes..Nothing</option>
+</select></p>
+<p><input type="text" name="Terms" size="14" id="fdse_Terms"><br>
+<input type="submit" class="submit" name="submitButtonName" value="Search"></p>
+</div></form></td>
+						</tr>
+						<tr><td class="bottom" width="136" height="10" valign="top">
+						</td>
+						</tr>
+					</table>
+				</td>
+				<td width="4"></td>
+				<td valign="top" width="645">
+					<table width="645" border="0" cellspacing="0" cellpadding="0">
+						<tr height="18">
+							<td width="645" height="35" class="bar">
+								<div align="center">
+									<b><font size="+2" color="black">Script</font></b></div>
+							</td>
+						</tr>
+						<tr height="362">
+							<td class="spacer2" valign="top" width="645" height="362">
+
+						<p><font size="-2">Episode 27 - The Stranded<br>
+							
+						pc: 209, season 3, episode 10<br>
+							
+						Broadcast date: November 27, 1991<br>
+							<br>
+							
+						Written By Larry David &amp; Jerry Seinfeld and Matt Goldman<br>
+							
+						Directed By Tom Cherones<br>
+							<br>
+							
+						-------------------------------------------------------------------------------<br>
+							<br>
+							
+						The Cast<br>
+							
+						Regulars:<br>
+							
+						Jerry Seinfeld ....................... Jerry Seinfeld<br>
+							
+						Jason Alexander .................. George Costanza<br>
+							
+						Julia Louis-Dreyfus ............. Elaine Benes<br>
+							
+						Michael Richards ................. Kramer<br>
+							<br>
+							
+						Guest Stars:<br>
+							<br>
+							
+						Michael Chiklis ..................... Steve<br>
+							
+						Teri Austin ............................ Ava<br>
+							
+						Bobbi Jo Lathan ................... Patti<br>
+							
+						Gwen Shepherd ................... Cashier<br>
+							
+						Dwayne Kennedy ............... Frank<br>
+							
+						Marcia Firesten&nbsp; ................... Jenny<br>
+							
+						Michael Milhoan .................. Security Guard<br>
+							
+						John Putch ............................ Roy<br>
+							
+						Melissa Weil ......................... Gwen<br>
+							
+						Ellen Ratner ......................... Ellen<br>
+							
+						Frank Piazza ........................ Cop<br>
+							<br>
+							
+						==================================================================<br>
+							<br>
+							
+						[Opening monologue]<br>
+							<br>
+							
+						So I was in the drug store the other day, trying to get a cold medication.&nbsp; You ever try and pick one of these out?&nbsp; It's not easy.&nbsp; It's a wall.&nbsp; It's an entire wall of cold medication, you stand there, you're going, &quot;Alright, alright, alright, okay, what the hell--&nbsp; This is quick acting, but this is long lasting.&nbsp; When do I need to feel good, now or later?&quot;&nbsp; It's a tough question. And they always show you the commercials on TV where they show you what's wrong with the guy, you know?&nbsp; They always show you, like, all the problems that he's having.&nbsp; First of all, the always show you the human body, which is usually this guy.&nbsp; No face, mouth open, this is how drug companies see the public.&nbsp; And he's always in, like, a certain pain, it's like red wavy lines are going through him or he's glowing, parts of him are on fire sometimes, lightning is attacking him. I never had a doctor say to me, &quot;Are you having any pain?&quot;&nbsp; &quot;Yes I am.&quot;&nbsp; &quot;Are you having any lightning with the pain?&quot;<br>
+							<br>
+							<br>
+							
+						[Jerry and George are in a drug store.]<br>
+							<br>
+							
+						JERRY:&nbsp; How did you get fleas?<br>
+							<br>
+							
+						GEORGE:&nbsp; Because my cousin's imbecile dog was rolling around outside and they got in his carpet.<br>
+							<br>
+							
+						JERRY:&nbsp; Maybe you can get yourself a little bowtie flea collar.<br>
+							<br>
+							
+						GEORGE:&nbsp; That's not funny.&nbsp; So, are you coming to the party?<br>
+							<br>
+							
+						JERRY:&nbsp; I'd go, but Long Island, it's so far out, it smacks of desperation.&nbsp; The whole party, everyone's gonna be saying to me, &quot;You came all the way out from Manhattan for this?&quot;<br>
+							<br>
+							
+						GEORGE:&nbsp; You know Ava's gonna be there.<br>
+							<br>
+							
+						JERRY:&nbsp; Who?<br>
+							<br>
+							
+						GEORGE:&nbsp; The nice one that works in my office.<br>
+							<br>
+							
+						JERRY:&nbsp; Nah.<br>
+							<br>
+							
+						GEORGE:&nbsp; I'll drive.<br>
+							<br>
+							
+						JERRY:&nbsp; Oh, well, now you're talking.<br>
+							<br>
+							
+						GEORGE:&nbsp; It's supposed to be a good party.<br>
+							<br>
+							
+						JERRY:&nbsp; What does that mean, good dip?<br>
+							<br>
+							
+						GEORGE:&nbsp; No, there'll be girls there.<br>
+							<br>
+							
+						JERRY:&nbsp; There's girls everywhere.&nbsp; I go out of my apartment, there's girls in the elevator.&nbsp; They're in cafeterias, subways, so what?<br>
+							<br>
+							
+						GEORGE:&nbsp; There's a hundred different things here.&nbsp; What's the difference between these two?&nbsp; (They each grab a box and check the ingredients)&nbsp; You got propylparabin?<br>
+							<br>
+							
+						JERRY:&nbsp; Got it.<br>
+							<br>
+							
+						GEORGE:&nbsp; You got isobutane-30?<br>
+							<br>
+							
+						JERRY:&nbsp; I got isobutane-20.<br>
+							<br>
+							
+						GEORGE:&nbsp; A-ha.<br>
+							<br>
+							
+						JERRY:&nbsp; You got&nbsp; sorbitant sesquioliate?<br>
+							<br>
+							
+						GEORGE:&nbsp; Got it.<br>
+							<br>
+							
+						JERRY:&nbsp; I have aloe!<br>
+							<br>
+							
+						GEORGE:&nbsp; You got aloe?&nbsp; I love aloe.<br>
+							<br>
+							
+						JERRY:&nbsp; Where do they make yours?<br>
+							<br>
+							
+						GEORGE:&nbsp; Jersey.<br>
+							<br>
+							
+						JERRY:&nbsp; White Plains.<br>
+							<br>
+							
+						(George puts down the &quot;Jersey&quot; box and grabs the &quot;White Plains&quot; box from Jerry and they go to the check out counter.&nbsp; Two women are standing at the magazine rack in the background.)<br>
+							<br>
+							
+						JERRY:&nbsp; Girls.&nbsp; There's girls right here in the store.&nbsp; Look, look, there's one over there.&nbsp; Look, there's another one.&nbsp; Soon as I walk outside there'll be girls out there.&nbsp; What's the matter?<br>
+							<br>
+							
+						GEORGE:&nbsp; I gave her a twenty, she only gave me change for a ten.<br>
+							<br>
+							
+						JERRY:&nbsp; Are you sure?&nbsp; Oh boy, here we go.<br>
+							<br>
+							
+						GEORGE: (to the cashier)&nbsp; Excuse me, I gave you a twenty dollar bill and you only actually gave me change for a ten.<br>
+							<br>
+							
+						CASHIER:&nbsp; You gave me a ten.<br>
+							<br>
+							
+						GEORGE:&nbsp; I'm positive I gave you a twenty.<br>
+							<br>
+							
+						CASHIER:&nbsp; I know what you gave me.<br>
+							<br>
+							
+						GEORGE:&nbsp; You owe me ten dollars.<br>
+							<br>
+							
+						CASHIER:&nbsp; Will you please step aside?&nbsp; Next?<br>
+							<br>
+							
+						GEORGE:&nbsp; Alright, let's just examine the situation for a second.&nbsp; Who, in this situation, would be more likely to make a mistake?&nbsp; Me, who had access to my wallet, knew exactly what was in there?&nbsp; Or you--<br>
+							<br>
+							
+						CASHIER:&nbsp; You.<br>
+							<br>
+							
+						GEORGE:&nbsp; No, no, no, see you're not really listening.<br>
+							<br>
+							
+						SECURITY GUARD:&nbsp; What's the problem here?<br>
+							<br>
+							
+						GEORGE:&nbsp; No problem.&nbsp; There's no problem.&nbsp; She just owes me ten dollars, that's all.<br>
+							<br>
+							
+						CASHIER:&nbsp; He's claiming short.<br>
+							<br>
+							
+						SECURITY GUARD:&nbsp; Alright, let's just take it outside.<br>
+							<br>
+							
+						GEORGE:&nbsp; Oh, so you don't believe me either?<br>
+							<br>
+							
+						SECURITY GUARD:&nbsp; Come on, let's go.<br>
+							<br>
+							
+						GEORGE:&nbsp; You haven't won.&nbsp; You may think you've won, but you haven't won.&nbsp; Do you know why?&nbsp; It's not over.&nbsp; This is not over.&nbsp; I'm not forgetting what's happening here.&nbsp; You have my ten dollars.&nbsp; I will get it back.&nbsp; Alright, don't worry.&nbsp; It's not over.&nbsp; I'm going now.&nbsp; Good bye.&nbsp; I will be back.<br>
+							<br>
+							<br>
+							
+						[George, Elaine and Jerry enter The Party and stand by the door]<br>
+							<br>
+							
+						ELAINE:&nbsp; Well don't stand here, let's walk in, blend in, blend in.<br>
+							<br>
+							
+						JERRY:&nbsp; No, let's survey first.&nbsp; Camp here.<br>
+							<br>
+							
+						GEORGE: (waving:&nbsp; Eva.<br>
+							<br>
+							
+						(A beautiful woman starts walking over.)<br>
+							<br>
+							
+						JERRY:&nbsp; What could possess anyone to throw a party?&nbsp; I mean, to have a bunch of strangers treat your house like a hotel room.<br>
+							<br>
+							
+						AVA:&nbsp; So, guess who just sold 129 West 81st.<br>
+							<br>
+							
+						GEORGE:&nbsp; Oh no you didn't.&nbsp; Get out, when?<br>
+							<br>
+							
+						AVA:&nbsp; Yesterday<br>
+							<br>
+							
+						GEORGE:&nbsp; I don't believe it.<br>
+							<br>
+							
+						AVA:&nbsp; Ask Mark.<br>
+							<br>
+							
+						GEORGE:&nbsp; Mark, is this true?<br>
+							<br>
+							
+						(A man across the room nods.&nbsp; George and Ava walk towards him.)<br>
+							<br>
+							
+						JERRY:&nbsp; Yeah, this has got disaster written all over it.<br>
+							<br>
+							
+						ELAINE:&nbsp; How did I ever let you talk me into this, I must have been out of my mind.<br>
+							<br>
+							
+						JERRY:&nbsp; Now listen, let's keep an eye on each other tonight.&nbsp; In case one of us gets in a bad conversation, we should have a signal that you're in trouble so the other one can get us out of it.<br>
+							<br>
+							
+						ELAINE:&nbsp; How old are you?<br>
+							<br>
+							
+						JERRY:&nbsp; Thirty-six.&nbsp; What's the signal?&nbsp; Howbout this?&nbsp; Chicken wing?&nbsp; No, no, no, I got a better one.&nbsp; Head patting.<br>
+							<br>
+							
+						ELAINE:&nbsp; Whatever you want.<br>
+							<br>
+							
+						(Fast forward a bit, Jerry is sitting on the couch with a stranger.)<br>
+							<br>
+							
+						GUY:&nbsp; You came all the way out from Manhattan for this?<br>
+							<br>
+							
+						JERRY:&nbsp; Yeah, yeah I did.<br>
+							<br>
+							
+						GUY:&nbsp; So what do you do?<br>
+							<br>
+							
+						JERRY: (Patting his head:&nbsp; I'm a comedian.<br>
+							<br>
+							
+						GUY:&nbsp; Are you?&nbsp; Lemme ask you something.&nbsp; Where do you get your material?<br>
+							<br>
+							
+						JERRY: (still Patting)&nbsp; I hear a voice.<br>
+							<br>
+							
+						GUY:&nbsp; What kind of voice?<br>
+							<br>
+							
+						JERRY:&nbsp; A man's voice, but he speaks in German so I have to get a translator.<br>
+							<br>
+							
+						GUY:&nbsp; How come you keep tapping your head.<br>
+							<br>
+							
+						JERRY:&nbsp; It's a nervous tic.&nbsp; I'm on L-Dopa.<br>
+							<br>
+							
+						(Cut to Elaine, engaged in a conversation with another guy and patting her head.)<br>
+							<br>
+							
+						GUY:&nbsp; On the other hand, you take a guy like George Washington Carver.&nbsp; The man devoted his whole life to the peanut.&nbsp; Imagine having so much passion for something.<br>
+							<br>
+							
+						(Cut back to Jerry and his 'guy'.)<br>
+							<br>
+							
+						GUY:&nbsp; Ya know, people tell me I'm a funny guy.<br>
+							<br>
+							
+						(Cut back to Elaine and her 'guy'.&nbsp; She's still tapping madly.)<br>
+							<br>
+							
+						GUY:&nbsp; I've often wondered if he ever worked with the pecan.<br>
+							<br>
+							
+						ELAINE:&nbsp; Yeah, me too.<br>
+							<br>
+							
+						GUY:&nbsp; Now is that considered a nut, because I know the cashew is a legume.<br>
+							<br>
+							
+						(Cut to George, now talking with Jerry.)<br>
+							<br>
+							
+						GEORGE:&nbsp; How's it going?<br>
+							<br>
+							
+						JERRY:&nbsp; Great, how about you?<br>
+							<br>
+							
+						GEORGE:&nbsp; I can't believe what's happening here.&nbsp; She hasn't taken her hands off me all night.&nbsp; She was always friendly around the office, but that was it.<br>
+							<br>
+							
+						JERRY:&nbsp; How do you account for this?<br>
+							<br>
+							
+						GEORGE:&nbsp; I don't know, maybe a safe fell on her head.<br>
+							<br>
+							
+						JERRY:&nbsp; Well, she obviously liked you all along.<br>
+							<br>
+							
+						GEORGE:&nbsp; No, I would have picked up on it.&nbsp; I can always tell when a woman likes me, they always somehow let you know.&nbsp; With me, they could torture me, I wouldn't tell them.&nbsp; If anything I'd try to make them think I don't like them, then they think, &quot;Oh, look at this guy, he's not even looking at me, he must have something going for him.&quot;<br>
+							<br>
+							
+						JERRY:&nbsp; Anyway, I'm ready to go.<br>
+							<br>
+							
+						GEORGE:&nbsp; Now?<br>
+							<br>
+							
+						JERRY:&nbsp; If not now, when?<br>
+							<br>
+							
+						GEORGE:&nbsp; Gimme a half-hour.<br>
+							<br>
+							
+						JERRY:&nbsp; Okay, half-hour.<br>
+							<br>
+							
+						(Cut to Elaine and the 'peanut guy'.&nbsp; By now, she's weary from tapping.)<br>
+							<br>
+							
+						GUY:&nbsp; Peanut brittle, peanut butter, peanut oil...<br>
+							<br>
+							
+						JERRY: (interrupting)&nbsp; Can I talk to you for a second?<br>
+							<br>
+							
+						ELAINE:&nbsp; Oh, excuse me.&nbsp; (gets up to talk with Jerry)&nbsp; What have you been doing, I've been smacking myself senseless.&nbsp; People think I'm a mental patient.<br>
+							<br>
+							
+						JERRY:&nbsp; Hey, I was dying over there.<br>
+							<br>
+							
+						ELAINE:&nbsp; This guy's going off on the peanut.&nbsp; Now pay attention.<br>
+							<br>
+							
+						(Fast forward a bit, a woman (Ellen) is talking to Jerry.)<br>
+							<br>
+							
+						ELLEN:&nbsp; Yeah, I think I've seen you in a club.&nbsp; You talk about a lot of everyday things, right?<br>
+							<br>
+							
+						JERRY:&nbsp; Right.<br>
+							<br>
+							
+						ELLEN:&nbsp; Yeah, I remember you.<br>
+							<br>
+							
+						(Ellen turns her back and the camera pans out to Elaine, sitting on the couch near a pretentious woman.)<br>
+							<br>
+							
+						WOMAN:&nbsp; I wonder what happened to my fianc&eacute;.&nbsp; I know he's here somewhere. Ellen?&nbsp; Have you seen my fianc&eacute;?<br>
+							<br>
+							
+						ELLEN:&nbsp; He's upstairs.<br>
+							<br>
+							
+						WOMAN:&nbsp; Are you going upstairs?&nbsp; Tell my fianc&eacute; I'm looking for him.&nbsp; I havelost my fianc&eacute;, the poor baby.<br>
+							<br>
+							
+						ELAINE:&nbsp; Maybe the dingo ate your baby.<br>
+							<br>
+							
+						WOMAN:&nbsp; What?<br>
+							<br>
+							
+						ELAINE:&nbsp; The dingo ate your baby!<br>
+							<br>
+							
+						(Cut to George and Jerry.)<br>
+							<br>
+							
+						JERRY:&nbsp; You ready?<br>
+							<br>
+							
+						GEORGE:&nbsp; Listen, I have a tremendous favor to ask.<br>
+							<br>
+							
+						JERRY:&nbsp; I do favors.<br>
+							<br>
+							
+						GEORGE:&nbsp; I think something's happening here.<br>
+							<br>
+							
+						JERRY:&nbsp; What?<br>
+							<br>
+							
+						GEORGE:&nbsp; I think she wants me to take her home.<br>
+							<br>
+							
+						JERRY:&nbsp; Wow.<br>
+							<br>
+							
+						GEORGE:&nbsp; What should I do?<br>
+							<br>
+							
+						JERRY:&nbsp; Go!&nbsp; What could you do?<br>
+							<br>
+							
+						GEORGE:&nbsp; What about you and Elaine?<br>
+							<br>
+							
+						JERRY:&nbsp; We'll get a ride.<br>
+							<br>
+							
+						GEORGE:&nbsp; Are you sure?<br>
+							<br>
+							
+						JERRY:&nbsp; We'll be fine, what did she say?<br>
+							<br>
+							
+						GEORGE:&nbsp; She told me she wants-- (Pauses until a woman coming down the stairs passes)&nbsp; She told me she wants me to make love to her.<br>
+							<br>
+							
+						JERRY:&nbsp; What?&nbsp; She said that?<br>
+							<br>
+							
+						GEORGE:&nbsp; Yeah.<br>
+							<br>
+							
+						JERRY:&nbsp; Get out of here.<br>
+							<br>
+							
+						GEORGE:&nbsp; I swear.<br>
+							<br>
+							
+						JERRY:&nbsp; What did you say?<br>
+							<br>
+							
+						GEORGE:&nbsp; I, I, I can't.<br>
+							<br>
+							
+						JERRY:&nbsp; What did you say?<br>
+							<br>
+							
+						GEORGE:&nbsp; Please, it's--<br>
+							<br>
+							
+						JERRY:&nbsp; What?<br>
+							<br>
+							
+						GEORGE:&nbsp; I... I... I long for you.<br>
+							<br>
+							
+						JERRY:&nbsp; I long for you?<br>
+							<br>
+							
+						GEORGE:&nbsp; I was so shocked I was lucky I said anything.<br>
+							<br>
+							
+						JERRY:&nbsp; It's okay, that's not bad.<br>
+							<br>
+							
+						GEORGE:&nbsp; I don't like when a woman says, 'Make love to me', it's intimidating. The last time a woman said that to me, I wound up apologizing to her.<br>
+							<br>
+							
+						JERRY:&nbsp; Really?<br>
+							<br>
+							
+						GEORGE:&nbsp; That's a lot of pressure.&nbsp; Make love to me.&nbsp; What am I, in the circus? What if I can't deliver?<br>
+							<br>
+							
+						JERRY:&nbsp; Oh, come on.<br>
+							<br>
+							
+						GEORGE:&nbsp; I can't perform under pressure.&nbsp; That's why I never play anything for money, I choke.&nbsp; I could choke tonight.&nbsp; And she works in my office, can you imagine?&nbsp; She goes around telling everyone what happened?&nbsp; Maybe I should cancel, I have a very bad feeling about this.<br>
+							<br>
+							
+						JERRY:&nbsp; George, you're thinking too much.<br>
+							<br>
+							
+						GEORGE:&nbsp; I know, I know, I can't stop it!<br>
+							<br>
+							
+						(Cut to Elaine, talking with yet another guy on the couch.)<br>
+							<br>
+							
+						ELAINE:&nbsp; Well, right now I'm reading manuscripts for Pendant Publishing.<br>
+							<br>
+							
+						JERRY: (walking up)&nbsp; Pendant?&nbsp; Those bastards.<br>
+							<br>
+							
+						ELAINE:&nbsp; Excuse me.<br>
+							<br>
+							
+						JERRY:&nbsp; Listen, George is going home with this Ava from his office<br>
+							<br>
+							
+						ELAINE:&nbsp; Really?&nbsp; Huh.&nbsp; What a world.&nbsp; So we can go now?<br>
+							<br>
+							
+						JERRY:&nbsp; Uh, no, he's taking the car.<br>
+							<br>
+							
+						ELAINE:&nbsp; Well, what are we gonna do for a ride?<br>
+							<br>
+							
+						JERRY:&nbsp; I don't know.<br>
+							<br>
+							
+						ELAINE:&nbsp; You don't know?<br>
+							<br>
+							
+						JERRY:&nbsp; Maybe Kramer can come pick us up.<br>
+							<br>
+							
+						ELAINE:&nbsp; Oh great, oh, this is great.&nbsp; How could you let him take the car?<br>
+							<br>
+							
+						JERRY:&nbsp; There's nothing I could do, it's part of the code.<br>
+							<br>
+							<br>
+							
+						[Middle monologue]<br>
+							<br>
+							
+						All plans between men are tentative.&nbsp; If one man should suddenly have an opportunity to pursue a woman, it's like these two guys never met each other ever in life.&nbsp; This is the male code.&nbsp; And it doesn't matter how important the arrangements are, I mean, most of the time when they scrub a space shuttle mission it's because one of the astronauts met someone on his way to the launch pad.&nbsp; They hold that countdown.&nbsp; He's leaning against the rocket talking to her, &quot;So listen, when I get back what do you say we get together for some Tang?&quot;<br>
+							<br>
+							<br>
+							
+						[Still at the Party]<br>
+							<br>
+							
+						ELAINE: (noticing Ava in a fur)&nbsp; Oh look at that.&nbsp; Look at what she's wearing. You see what she's wearing?<br>
+							<br>
+							
+						JERRY:&nbsp; Yeah, yeah, alright.<br>
+							<br>
+							
+						ELAINE:&nbsp; I can't believe she's walking around in that.<br>
+							<br>
+							
+						JERRY:&nbsp; Just don't make a scene.<br>
+							<br>
+							
+						ELAINE:&nbsp; Hey, is that real fur?<br>
+							<br>
+							
+						JERRY:&nbsp; Oh boy.<br>
+							<br>
+							
+						AVA:&nbsp; It better be or my ex-husband owes me an explanation.<br>
+							<br>
+							
+						GEORGE:&nbsp; Yeah, good night.<br>
+							<br>
+							
+						ELAINE:&nbsp; You don't care that innocent defenseless animals are being tortured so that you can look good?<br>
+							<br>
+							
+						GEORGE:&nbsp; Could we talk about this some other time?<br>
+							<br>
+							
+						AVA:&nbsp; Are you a vegetarian?<br>
+							<br>
+							
+						JERRY:&nbsp; Here we go.<br>
+							<br>
+							
+						ELAINE:&nbsp; Yeah, I eat fish occasionally.<br>
+							<br>
+							
+						AVA:&nbsp; So you're a hypocrite.<br>
+							<br>
+							
+						GEORGE:&nbsp; Hey, I've eaten frogs, so nobody's perfect.&nbsp; Anyway-<br>
+							<br>
+							
+						AVA:&nbsp; Well, talk to me when you stop eating fish.<br>
+							<br>
+							
+						ELAINE:&nbsp; Fish don't feel any pain.<br>
+							<br>
+							
+						AVA:&nbsp; How do you know?&nbsp; Do you communicate with fish?<br>
+							<br>
+							
+						ELAINE:&nbsp; Well, they're not kept in little cages.<br>
+							<br>
+							
+						AVA:&nbsp; Ever seen a goldfish?<br>
+							<br>
+							
+						GEORGE:&nbsp; Goldfish.<br>
+							<br>
+							
+						ELAINE:&nbsp; Yeah, yeah I've seen goldfish.&nbsp; They're not unhappy.<br>
+							<br>
+							
+						AVA:&nbsp; Oh yeah, right.&nbsp; Swim around in a bowl for two weeks and get flushed down the toilet, that's a good life.&nbsp; (To George)&nbsp; Let's go.<br>
+							<br>
+							
+						ELAINE:&nbsp; Oh yeah, that's right.&nbsp; Go ahead, go ahead, maybe you can run over a squirrel!<br>
+							<br>
+							
+						GEORGE:&nbsp; That's why we're here in America.<br>
+							<br>
+							
+						JERRY:&nbsp; You're beautiful.<br>
+							<br>
+							
+						ELAINE:&nbsp; Call Kramer.<br>
+							<br>
+							
+						JERRY:&nbsp; Alright. (Approaches host)&nbsp; Excuse me, this is your party, right?<br>
+							<br>
+							
+						STEVE:&nbsp; No, I just live here.<br>
+							<br>
+							
+						JERRY:&nbsp; Can I use your phone?<br>
+							<br>
+							
+						STEVE:&nbsp; What's in it for me?<br>
+							<br>
+							
+						JERRY:&nbsp; A bigger bill?<br>
+							<br>
+							
+						STEVE:&nbsp; He he, go for it.<br>
+							<br>
+							
+						(Jerry picks up the phone and dials.)<br>
+							<br>
+							
+						JERRY:&nbsp; Krame?&nbsp; Sein.&nbsp; What are you doing?&nbsp; Well, I'm stuck out here on Long Island.&nbsp; What are your thoughts about taking a ride?&nbsp; You sure?&nbsp; Okay, but don't leave me hanging here.&nbsp; Okay, great.&nbsp; Let me give you directions.<br>
+							<br>
+							
+						(Cut to several hours later.&nbsp; The party has ended.&nbsp; The hosts, Steve and Jenny, are cleaning up, Elaine and Jerry are still there.)<br>
+							<br>
+							
+						ELAINE:&nbsp; You sure you don't need any help?<br>
+							<br>
+							
+						JENNY:&nbsp; No, not really.<br>
+							<br>
+							
+						JERRY:&nbsp; I'm sure he'll be here any minute.<br>
+							<br>
+							
+						JENNY: (To Steve)&nbsp; I want them out of here.<br>
+							<br>
+							
+						ELAINE:&nbsp; Call him again.<br>
+							<br>
+							
+						JERRY:&nbsp; I called, what should I do? (To Jenny) We really appreciate this.<br>
+							<br>
+							
+						JENNY: (To Steve)&nbsp; It's two o'clock in the morning.<br>
+							<br>
+							
+						JERRY: (noticing a coffee table book)&nbsp; Oh, you got the Civil War book.&nbsp; I saw some of that show, it was wonderful.<br>
+							<br>
+							
+						ELAINE:&nbsp; Six hundred and twenty million people died.<br>
+							<br>
+							
+						JERRY:&nbsp; Thousand.<br>
+							<br>
+							
+						ELAINE:&nbsp; Thousand.&nbsp; Six hundred and twenty thousand.&nbsp; The horror, the horror. (To Jerry)&nbsp; The wife keeps giving us dirty looks.&nbsp; Are you sure you gave him the right directions?<br>
+							<br>
+							
+						JERRY:&nbsp; Yes.&nbsp; (To Jenny)&nbsp; You're sure there's nothing we can do?<br>
+							<br>
+							
+						JENNY:&nbsp; No!&nbsp; (To Steve)&nbsp; I am not going to bed with them in our house, this is ridiculous.<br>
+							<br>
+							
+						JERRY:&nbsp; You know a friend of my father's used to live right around here.&nbsp; Mike Wichter.&nbsp; He sold plastic straws.&nbsp; You know the ones?&nbsp; You could bend them.<br>
+							<br>
+							
+						ELAINE:&nbsp; Have you noticed, people don't use straws as much as they used to for some reason.<br>
+							<br>
+							
+						JENNY:&nbsp; You know, it doesn't look as if your friend is coming.<br>
+							<br>
+							
+						JERRY:&nbsp; Oh, he's coming.<br>
+							<br>
+							
+						JENNY:&nbsp; Maybe you should take a look at a train schedule.<br>
+							<br>
+							
+						(Jenny sees a figure outside the kitchen window and screams.)<br>
+							<br>
+							
+						JERRY:&nbsp; That's him.<br>
+							<br>
+							
+						JENNY:&nbsp; I'm going to bed!<br>
+							<br>
+							
+						ELAINE:&nbsp; Thanks a lot.<br>
+							<br>
+							
+						JERRY:&nbsp; Thanks, great party.<br>
+							<br>
+							
+						(As Jenny storms up the stairs there's a knock at the door, Steve answers.)<br>
+							<br>
+							
+						KRAMER:&nbsp; Hey, how ya doing?<br>
+							<br>
+							
+						STEVE:&nbsp; Ah, look who's here.<br>
+							<br>
+							
+						KRAMER:&nbsp; I'm sorry.<br>
+							<br>
+							
+						JERRY:&nbsp; Hey, it's okay.<br>
+							<br>
+							
+						KRAMER:&nbsp; I had the directions on the seat right next to me, they flew out the window.<br>
+							<br>
+							
+						ELAINE:&nbsp; Then how did you find the place?<br>
+							<br>
+							
+						KRAMER:&nbsp; Well I knew the exit on the Long Island Expressway, and I thought that the address was 8713 Riviera Drive.&nbsp; Uh uh, so I drove around knocking on everybody's doors that had those numbers; 8317, 7813, 3718, 1837, whoo. Finally, I hit it.&nbsp; 8173.<br>
+							<br>
+							
+						JERRY:&nbsp; Anyway, thanks a lot for letting us stay here, Steve, I really owe you one.<br>
+							<br>
+							
+						STEVE:&nbsp; No problem.<br>
+							<br>
+							
+						JERRY:&nbsp; And if you're ever in the city, you know, you want to come to a comedy club, whatever.<br>
+							<br>
+							
+						STEVE:&nbsp; Hey, I might take you up on that.<br>
+							<br>
+							
+						JERRY: (writing)&nbsp; Here's my address and number.&nbsp; And really, thanks again.<br>
+							<br>
+							
+						KRAMER: (to Elaine)&nbsp; You better zip up.&nbsp; I couldn't get the top on the convertible up.<br>
+							<br>
+							
+						ELAINE:&nbsp; But it's cold out.<br>
+							<br>
+							
+						KRAMER:&nbsp; Yeah, wait till we get on the Expressway.<br>
+							<br>
+							<br>
+							
+						[Jerry's at his apartment, talking on the phone.]<br>
+							<br>
+							
+						JERRY:&nbsp; George, I've been sick all week.&nbsp; Elaine was too.&nbsp; Eighty miles an hour, forty degree temperature for fifty minutes.&nbsp; Do the math.&nbsp; Yeah, maybe I will get out.&nbsp; Hey, let me just stop off at the drug store first.&nbsp; Okay, meet me down there in fifteen minutes then we'll go do something.&nbsp; Yeah, Selwyn's.&nbsp; Okay bye.<br>
+							<br>
+							
+						(Jerry hangs up and grabs his coat and there's a knock at the door.)<br>
+							<br>
+							
+						JERRY:&nbsp; Who is it?<br>
+							<br>
+							
+						VOICE:&nbsp; Mr. Pocatello.<br>
+							<br>
+							
+						JERRY:&nbsp; Who?<br>
+							<br>
+							
+						VOICE:&nbsp; You mean you don't recognize my voice?<br>
+							<br>
+							
+						(Jerry opens the door.&nbsp; Steve steps in.)<br>
+							<br>
+							
+						STEVE:&nbsp; Jerry, baby!<br>
+							<br>
+							
+						JERRY:&nbsp; Do I know you?<br>
+							<br>
+							
+						STEVE:&nbsp; Boy this comedy's really frying your brain.<br>
+							<br>
+							
+						JERRY:&nbsp; I'm sorry, uh-<br>
+							<br>
+							
+						STEVE:&nbsp; See, this is the kind of lasting impression I make on people.<br>
+							<br>
+							
+						JERRY:&nbsp; Oh, okay.<br>
+							<br>
+							
+						STEVE:&nbsp; You said if I was ever in the city, I'm in the city.<br>
+							<br>
+							
+						JERRY:&nbsp; You certainly are.&nbsp; What's going on?<br>
+							<br>
+							
+						STEVE:&nbsp; I'm just waiting for a lift back to the island, he won't be ready until eleven, so I figured I'd give you a break.&nbsp; I thought I'd see what it was like to hang out with someone in show business.<br>
+							<br>
+							
+						JERRY:&nbsp; Listen, I'm really sorry but I'm just on my way out to meet a friend.<br>
+							<br>
+							
+						STEVE:&nbsp; Oh, come on, you can come up with something better than that.<br>
+							<br>
+							
+						JERRY:&nbsp; No, really, I just got off the phone with him.<br>
+							<br>
+							
+						STEVE:&nbsp; I understand.<br>
+							<br>
+							
+						JERRY:&nbsp; Look, you can hang out here if you want.<br>
+							<br>
+							
+						STEVE:&nbsp; Don't be so enthusiastic.<br>
+							<br>
+							
+						JERRY:&nbsp; No, it's-<br>
+							<br>
+							
+						STEVE:&nbsp; I'm not gonna steal anything.<br>
+							<br>
+							
+						JERRY:&nbsp; No, of course not, just close the door when you leave.<br>
+							<br>
+							
+						STEVE:&nbsp; I think I can do that.<br>
+							<br>
+							
+						JERRY:&nbsp; Really, I'm sorry.&nbsp; Maybe another time.<br>
+							<br>
+							
+						STEVE:&nbsp; Yeah.&nbsp; Let's have lunch.<br>
+							<br>
+							<br>
+							
+						[Jerry and George are at the drug store.]<br>
+							<br>
+							
+						JERRY:&nbsp; They guy's in my house right now.&nbsp; What a mistake that party was, I never should have gone.<br>
+							<br>
+							
+						GEORGE:&nbsp; Yeah, me either.<br>
+							<br>
+							
+						JERRY:&nbsp; Oh, come on.<br>
+							<br>
+							
+						GEORGE:&nbsp; What come on?&nbsp; Have you ever dated a woman that worked in your office?<br>
+							<br>
+							
+						JERRY:&nbsp; I've never had a job.<br>
+							<br>
+							
+						GEORGE:&nbsp; You know the anxiety you feel on a date?&nbsp; That's what I have every day now.&nbsp; My worst nightmare's come true, every day is a date.<br>
+							<br>
+							
+						JERRY:&nbsp; That's one of Dante's nine stages of hell, isn't it?<br>
+							<br>
+							
+						GEORGE:&nbsp; Ava was one of the reasons I used to like going to work, she was a friend.&nbsp; Now we sleep together and suddenly, I don't know how to talk to her. Every time I go to the bathroom I pass her desk.&nbsp; I have to plan little patter. I spend half my day writing.&nbsp; Then afterwards, I sit in my office and analyze how it went.&nbsp; If it was a good conversation, I don't go to the bathroom for the rest of the day.&nbsp; I see her laughing and talking with other people, they're all so loose and relaxed, I think, 'that used to be me.&nbsp; I want to go back there again.'<br>
+							<br>
+							
+						JERRY:&nbsp; What are you gonna do?<br>
+							<br>
+							
+						GEORGE:&nbsp; I have no choice, I'm quitting.<br>
+							<br>
+							<br>
+							
+						[Cut back to Steve sitting alone on Jerry's couch watching TV.&nbsp; Kramer walks in and it takes a moment for him to recognize the visitor.]<br>
+							<br>
+							
+						KRAMER:&nbsp; The party, Long Island?<br>
+							<br>
+							
+						STEVE:&nbsp; Kramer, right?<br>
+							<br>
+							
+						KRAMER:&nbsp; Hey, what are you doing here?<br>
+							<br>
+							
+						STEVE:&nbsp; I'm waiting for my ride.<br>
+							<br>
+							
+						KRAMER:&nbsp; Where's Jerry?<br>
+							<br>
+							
+						STEVE:&nbsp; He split.&nbsp; Let me ask you something.&nbsp; Is there anything to drink in here or is that, like, a stupid question?<br>
+							<br>
+							
+						KRAMER:&nbsp; Well, Jerry, he doesn't have anything.&nbsp; (Sensing Steve's disappointment)&nbsp; Well, but I might have something.<br>
+							<br>
+							<br>
+							
+						[Cut back to Jerry and George at the drugstore.&nbsp; Jerry is selecting medication.]<br>
+							<br>
+							
+						JERRY:&nbsp; Alright, I'm gonna get this.&nbsp; This looks good.<br>
+							<br>
+							
+						GEORGE:&nbsp; How much is that?<br>
+							<br>
+							
+						JERRY:&nbsp; Nine sixty.<br>
+							<br>
+							
+						GEORGE:&nbsp; Nine sixty?&nbsp; Give it to me.<br>
+							<br>
+							
+						JERRY:&nbsp; Why?<br>
+							<br>
+							
+						GEORGE:&nbsp; Don't worry, I got it.<br>
+							<br>
+							
+						JERRY:&nbsp; What do you mean, you got it?<br>
+							<br>
+							
+						GEORGE:&nbsp; I got it.<br>
+							<br>
+							
+						(George takes the box and begins to place it in his jacket)<br>
+							<br>
+							
+						JERRY:&nbsp; Since when are you treating me to medicine?&nbsp; What are you doing?&nbsp; You're stealing this, aren't you?<br>
+							<br>
+							
+						GEORGE:&nbsp; I'm not stealing it.&nbsp; They owe me ten dollars.&nbsp; They stole from me.<br>
+							<br>
+							
+						JERRY:&nbsp; You're a lunatic.<br>
+							<br>
+							
+						GEORGE:&nbsp; I have to do this, it's a matter of honor.<br>
+							<br>
+							
+						JERRY:&nbsp; What do you say to a person like you?<br>
+							<br>
+							
+						GEORGE:&nbsp; Just walk.<br>
+							<br>
+							
+						JERRY:&nbsp; Oh.<br>
+							<br>
+							
+						(A security guard approaches George.)<br>
+							<br>
+							
+						SECURITY GUARD:&nbsp; Scuse me.&nbsp; What do you got there?<br>
+							<br>
+							
+						GEORGE:&nbsp; What?<br>
+							<br>
+							
+						SECURITY GUARD:&nbsp; What do you got in your shirt?<br>
+							<br>
+							
+						GEORGE:&nbsp; Oh, I was gonna pay for this.<br>
+							<br>
+							
+						SECURITY GUARD: (grabbing George by the elbow and walking him to the counter) Come with me.<br>
+							<br>
+							
+						GEORGE: (nervous)&nbsp; Where are you taking me?&nbsp; I was gonna pay for it.<br>
+							<br>
+							
+						CASHIER: um-hmm.<br>
+							<br>
+							
+						SECURITY GUARD:&nbsp; You don't think I remember you?<br>
+							<br>
+							
+						GEORGE: (more nervous)&nbsp; What are you talking about?<br>
+							<br>
+							
+						SECURITY GUARD:&nbsp; I know who you are, I was watching you.<br>
+							<br>
+							
+						GEORGE: (panicky)&nbsp; What are you gonna do?&nbsp; Are you gonna call the police?<br>
+							<br>
+							
+						(The Security Guard drags George away and Jerry steps to the counter.)<br>
+							<br>
+							
+						JERRY:&nbsp; Can I still buy this or is this evidence now?<br>
+							<br>
+							<br>
+							
+						[Cut back to Kramer and Steve, they're obviously tanked.&nbsp; Kramer is in the middle of a story.]<br>
+							<br>
+							
+						KRAMER:&nbsp; So, I'm chasing these doves down the street and she's screaming at the top of her lungs, and then when the magician comes back from Europe, two of them turned brown!&nbsp; Well I followed the instructions!<br>
+							<br>
+							
+						(They both erupt in raucous laughter.)<br>
+							<br>
+							
+						STEVE: (hysterical)&nbsp; Ah, they turned brown!!&nbsp; Brown!! (the laughter winds down) So let me ask you something, you know any women we could call?<br>
+							<br>
+							
+						KRAMER:&nbsp; Not really.<br>
+							<br>
+							
+						STEVE:&nbsp; Maybe we should call one of those escort services.&nbsp; I saw one of them advertised before on the cable station.<br>
+							<br>
+							
+						KRAMER: (handing Steve the phone)&nbsp; 555-LOVE.<br>
+							<br>
+							
+						STEVE:&nbsp; Hey, you want in on this?<br>
+							<br>
+							
+						KRAMER:&nbsp; No, I got a girl in the next building<br>
+							<br>
+							<br>
+							
+						[Jerry is outside his apartment door, as he puts in the key, he hears a woman's voice from inside.]<br>
+							<br>
+							
+						VOICE:&nbsp; Now I want my money, mister, and I ain't leaving until I get it.&nbsp; Now I am through playing games with you, I got things to do.<br>
+							<br>
+							
+						STEVE: (drunk and slurring)&nbsp; Oh Jerry!&nbsp; Jerry!&nbsp; Look who's here, it's Jerry<br>
+							<br>
+							
+						JERRY:&nbsp; What the hell?<br>
+							<br>
+							
+						STEVE:&nbsp; Jerry, this is Patti.<br>
+							<br>
+							
+						JERRY:&nbsp; Nice to meet you.<br>
+							<br>
+							
+						PATTI:&nbsp; It's a pleasure to make your acquaintance, I'm sure.<br>
+							<br>
+							
+						JERRY:&nbsp; What the hell is going on here?<br>
+							<br>
+							
+						STEVE:&nbsp; I don't know, but I gotta do this more often.&nbsp; (The buzzer goes off) Ooh, there's my ride, finally.<br>
+							<br>
+							
+						PATTI:&nbsp; I'm not gonna go anywhere until I get the rest of my money.<br>
+							<br>
+							
+						STEVE:&nbsp; See ya, Jerr.&nbsp; And tell Kramer thanks and I'll call him tomorrow.<br>
+							<br>
+							
+						JERRY:&nbsp; Oh, Kramer huh?<br>
+							<br>
+							
+						STEVE:&nbsp; Yeah, he's a hoot.&nbsp; Oh, goodbye, my dear.&nbsp; (trying to kiss Patti's hand as she pulls it away)&nbsp; Ouch.&nbsp; (To Jerry)&nbsp; Weekend of the 26th, come on out, we're having another party.<br>
+							<br>
+							
+						(Steve walks out, leaving the front door open.)<br>
+							<br>
+							
+						PATTI:&nbsp; I ain't leaving.<br>
+							<br>
+							
+						JERRY:&nbsp; Patti?<br>
+							<br>
+							
+						PATTI:&nbsp; You got anything to drink?<br>
+							<br>
+							
+						JERRY:&nbsp; Alright, how much does he owe you?<br>
+							<br>
+							
+						PATTI:&nbsp; Fifty dollars.<br>
+							<br>
+							
+						JERRY: (taking out his wallet and handing over bills grudgingly)&nbsp; Fifty dollars.<br>
+							<br>
+							
+						(In mid-payment, a police officer walks through the open door.)<br>
+							<br>
+							
+						COP:&nbsp; This your apartment?<br>
+							<br>
+							
+						JERRY:&nbsp; Yeah, but--<br>
+							<br>
+							
+						COP:&nbsp; You're under arrest for solicitation of prostitution.<br>
+							<br>
+							
+						JERRY:&nbsp; Wait a second, I--<br>
+							<br>
+							
+						(Elaine walks in.)<br>
+							<br>
+							
+						ELAINE:&nbsp; I brought you chicken soup.&nbsp; (To Patti)&nbsp; Is that real fur?<br>
+							<br>
+							
+						JERRY &amp; COP:&nbsp; Oh boy.<br>
+							<br>
+							<br>
+							
+						[Jerry and George are at Jerry's apartment, watching TV and eating pizza.]<br>
+							<br>
+							
+						GEORGE:&nbsp; You had Sgt. Chadway?&nbsp; Me too.<br>
+							<br>
+							
+						JERRY:&nbsp; He was a nice guy.<br>
+							<br>
+							
+						GEORGE:&nbsp; Oh, great guy.<br>
+							<br>
+							
+						JERRY:&nbsp; Was there a red-headed guy there?<br>
+							<br>
+							
+						GEORGE:&nbsp; The one with the long sideburns?<br>
+							<br>
+							
+						JERRY:&nbsp; Yeah.<br>
+							<br>
+							
+						GEORGE:&nbsp; Where does he come off?<br>
+							<br>
+							
+						JERRY:&nbsp; Yeah, I know.&nbsp; There's no call for that kind of attitude.<br>
+							<br>
+							
+						GEORGE:&nbsp; One of the guys in my cell threw a piece of gum at him.<br>
+							<br>
+							
+						JERRY:&nbsp; Oh, we all hated him.<br>
+							<br>
+							<br>
+							
+						[Closing monologue]<br>
+							<br>
+							
+						There's two types of favors, the big favor and the small favor.&nbsp; You can measure the size of the favor by the pause that a person takes after they ask you to 'do me a favor.'&nbsp; Small favor, small pause.&nbsp; Can you do me a favor, hand me that pencil?&nbsp; No pause at all.&nbsp; Big favors are, 'Could you do me a favor...' (huge pause, followed by closing credits.)<br>
+							<br>
+							<br>
+							
+						THE END</td>
+						</tr>
+						<tr height="6">
+							<td class="bottom2" width="645" height="6"></td>
+						</tr>
+						<tr>
+							<td width="645">
+								<div align="center">
+									<font size="-1">Copyright 2006 seinology.com | All Rights Reserved | Designed by 13erla</font></div>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+		<p></p>
+	</body>
+
+</html>

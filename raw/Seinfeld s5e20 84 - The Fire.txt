@@ -1,0 +1,1230 @@
+<tdOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+<html>
+
+	<head>
+		<meta http-equiv="content-type" content="text/html;charset=ISO-8859-1">
+		<meta name="description" content="Top Source for Seinfeld">
+		<meta name="keywords" content="seinfeld, sienfeld, Jerry Seinfeld, Julia Louis Dreyfus, Jason Alexander, Michael Richards, Kramer, George, Costanza, Elaine Benes, morty, Larry David">
+		<title>Seinology.com :: Scripts :: 84-The Fire</title>
+	<link rel='stylesheet' href='/stylesheet.css' type='text/css'>
+	</head>
+
+	<body>
+			<table align="center" width="787" border="0" cellspacing="0" cellpadding="0">
+				<tr>
+					<td><font size="-2" color="red">Seinology.com - </font><font size="-3" color="black">Where Seinfeld Content and Accuracy Matter Most. Seinfeld scripts in pdf form, Seinfeld episode video clips, Seinfeld episode audio clips, Jerry Seinfeld appearances, Julia Louis-Dreyfus appearances, Michael Richards appearances, Jason Alexander appearances, Seinfeld discussion Forum, Seinfeld Where are they Now? Seinlanguage Newsletter, Popular Seinfeld Lists, Seinfeld episode standup, Seinfeld episode guide, Seinfeld fan fiction. Seinfeld content all on one domain. Seinology.com enjoy your stay.</font></td>
+				</tr>
+			</table>
+		
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr height="100">
+				<td class="logo"></td>
+			</tr>
+			<tr><td class="ads" align="center" background=#8694fa>
+				<script type="text/javascript"><!--
+google_ad_client = "pub-1924026976931416";
+google_ad_width = 728;
+google_ad_height = 90;
+google_ad_format = "728x90_as";
+google_ad_type = "text";
+google_ad_channel = "";
+google_color_border = "FFFFFF";
+google_color_bg = "8694fa";
+google_color_link = "0000FF";
+google_color_text = "000000";
+google_color_url = "002E3F";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></td></tr>
+		</table>
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr>
+				<td valign="top" width="136">
+					<table width="136" border="0" cellspacing="0" cellpadding="0">
+						<tr height="24">
+							<td class="navigation">
+								<div align="center">
+									
+									<b>Navigation</b></div>
+							</td>
+						</tr>
+						<tr height="199">
+							<td class="spacer1" valign="top" width="136" height="199">
+								<div align="center">
+									<font size="-1"><a href="http://www.seinology.com">Home</a><br>
+										<a href="http://board.seinology.com">Forum</a><br>
+										<a href="http://www.seinology.com/av.shtml">Audio/Video</a><br>
+										<a href="http://www.seinology.com/scripts.shtml">Scripts</a><br>
+										<a href="http://www.seinology.com/survivor.shtml">Survivor</a><br>
+										<a href="http://www.seinology.com/fanfics.shtml">Fan Fiction</a><br>
+										<a href="http://www.seinology.com/gallery/">Gallery</a><br>
+										<a href="http://www.seinology.com/newsletter.shtml">Newsletter</a><br>
+										<a href="http://www.seinology.com/lists.shtml">Lists</a><br>
+										<a href="http://www.seinology.com/epguide.shtml">Episode Guide</a><br>
+										<a href="http://www.seinology.com/links.shtml">Links</a><br>
+										<a href="http://www.seinology.com/faqother.shtml">Faq + others</a><br>
+										<a href="http://www.seinology.com/legal.shtml">Legal</a></font></div>
+							</td>
+						</tr>
+						
+						<tr>
+							<td class="nav2" width="136">
+							<div align="center"><b>Search</b></div></td>
+						</tr>
+						<tr>
+							<td class="spacer1" width="136" valign="top"><div align="center"><form method="get" action="http://www.seinology.com/search/search.cgi">
+<p><label for="fdse_Match">Match</label><br>
+<select name="Match" id="fdse_Match" size="1">
+<option value="1">All</option>
+<option value="0">Any</option>
+<option value="2">Phrase</option>
+</select></p>
+<p><label for="fdse_Realm">Where?</label><br>
+<select name="Realm" id="fdse_Realm" size="1">
+<option selected="selected" value="All">EntireSite</option>
+<option value="Ep Guide">Ep Guide</option>
+<option value="Images">Images</option>
+<option value="Lists">Lists</option>
+<option value="Newsletters">Newsletters</option>
+<option value="Scripts">Scripts</option>
+<option value="Notes..Nothing">Notes..Nothing</option>
+</select></p>
+<p><input type="text" name="Terms" size="14" id="fdse_Terms"><br>
+<input type="submit" class="submit" name="submitButtonName" value="Search"></p>
+</div></form></td>
+						</tr>
+						<tr><td class="bottom" width="136" height="10" valign="top">
+						</td>
+						</tr>
+					</table>
+				</td>
+				<td width="4"></td>
+				<td valign="top" width="645">
+					<table width="645" border="0" cellspacing="0" cellpadding="0">
+						<tr height="18">
+							<td width="645" height="35" class="bar">
+								<div align="center">
+									<b><font size="+2" color="black">Script</font></b></div>
+							</td>
+						</tr>
+						<tr height="362">
+							<td class="spacer2" valign="top" width="645" height="362">
+
+						<p><font size="-2">Episode 84 - The Fire<br>
+							
+						pc: 518, season 5, episode 20<br>
+							
+						Broadcast date: May 5, 1994<br>
+							<br>
+							
+						Written by Larry Charles<br>
+							
+						Directed by Tom Cherones<br>
+							<br>
+							
+						-------------------------------------------------------------------------------<br>
+							<br>
+							
+						The Cast<br>
+							
+						Regulars:<br>
+							
+						Jerry Seinfeld ....................... Jerry Seinfeld<br>
+							
+						Jason Alexander .................. George Costanza<br>
+							
+						Julia Louis-Dreyfus ............. Elaine Benes<br>
+							
+						Michael Richards ................. Kramer<br>
+							<br>
+							
+						Guest Stars:<br>
+							<br>
+							Melanie Chartoff&nbsp; ............... Robin<br>
+							
+						Veanne Cox&nbsp; ...................... Toby<br>
+							
+						Dom Irrera&nbsp;&nbsp; ...................... Ronnie<br>
+							
+						Jon Favreau&nbsp; ...................... Clown<br>
+							
+						Lisa Pescia&nbsp; ......................... Joanne<br>
+							
+						Hiram Kasten&nbsp; ................... Michael<br>
+							
+						Patience Cleveland ............ Old Lady<br>
+							
+						Lawrence LeJohn ............. Fireman<br>
+							
+						rc: Jerry Stiller .................. Frank Costanza (voice only, uncredited)<br>
+							
+						rc: Estelle Harris ............... Estelle Costanza (voice only, uncredited)<br>
+							<br>
+							
+						==================================================================<br>
+							<br>
+							
+						[Opening Monologue]<br>
+							<br>
+							
+						To me, the thing about birthday parties is that the first birthday party you have and the last birthday party you have are actually quite similar. You know, you just kinda sit there...you're the least excited person at the party. You don't even really realize that there is a party. You don't know what's goin' on. Both birthday parties, people have to kinda help you blow out the candles, you can't do it...you don't even know why you're doing it. What is this ritual? What is going on? It's also the only two birthday parties where other people have to gather your friends together for you. Sometimes they're not even your friends. They make the judgement. They bring 'em in, they sit 'em down, and they tell you - 'these are your friends! Tell them thank you for coming to my birthday party.'<br>
+							<br>
+							<br>
+							<br>
+							
+						[Elaine's Office at Pendant]<br>
+							<br>
+							
+						(Elaine, Kramer, and Kramer's excitable girlfriend Toby looking at proofs for Kramer's &quot;coffee table book about coffee tables.&quot;)<br>
+							<br>
+							
+						TOBY (exuberantly): These are great! Just great! Really great! Really, really great! Don't you think so, Elaine?<br>
+							<br>
+							
+						ELAINE (put off by Toby's exuberance): Yeah, really great.<br>
+							<br>
+							
+						TOBY: Oh, a coffee table book about coffee tables! (To Kramer) How did you come up with this idea?<br>
+							<br>
+							
+						KRAMER: It was there!<br>
+							<br>
+							
+						TOBY: Oh, look at this one! It's saying, 'I'm a coffee table, put some coffee on me! Oh, the hotter the better, that's what I'm here for!' (laughs)<br>
+							<br>
+							
+						ELAINE: You know actually, I've got some work I gotta do, so...<br>
+							<br>
+							
+						KRAMER: Hey, how about if the book came with these little fold-out legs...so the book itself becomes a coffee table?<br>
+							<br>
+							
+						TOBY: Ohhh, that is a great idea! Really, really great!<br>
+							<br>
+							<br>
+							<br>
+							
+						[Jerry's Apartment]<br>
+							<br>
+							
+						(Elaine and Jerry later that day.)<br>
+							<br>
+							
+						ELAINE (imitating Toby): 'Oooh, and that coffee table is saying, put some coffee on me!' I'd like to put some coffee on her. Hot, scalding coffee - right in her face! I swear! This is like working with a contestant from &quot;The Price Is Right&quot;! (demonstrates a winner on &quot;The Price Is Right&quot;)<br>
+							<br>
+							
+						JERRY: Yeah, that's real interesting. Elaine, listen, tell me if you think this is funny - (reads comedy he's written) &quot;Men definitely hit the remote more than women...men don't care what's on TV, men only care what else is on TV. Women want to see what the show is before they change the channel, because men hunt and women nest.&quot;<br>
+							<br>
+							
+						ELAINE (uninterested): Yeah, it's funny, I dunno.<br>
+							<br>
+							
+						JERRY: You don't know? Come on, that's gold!<br>
+							<br>
+							
+						ELAINE: Well, I don't know about &quot;gold.&quot;<br>
+							<br>
+							
+						JERRY: Oh, that's gold, baby.<br>
+							<br>
+							
+						ELAINE: 'Baby'? What, are you doing George now?<br>
+							<br>
+							
+						JERRY: I was saying 'baby' way before George!<br>
+							<br>
+							
+						ELAINE: Well, I don't know, don't ask me any more questions about jokes, Jerry, it just puts too much pressure on me.<br>
+							<br>
+							
+						JERRY: Well, this guy Leonard Christian's gonna be there tomorrow night.<br>
+							<br>
+							
+						ELAINE: Yeah, who's he?<br>
+							<br>
+							
+						JERRY: He's a writer from Entertainment Weekly . I would like to have a good show.<br>
+							<br>
+							
+						(Kramer enters.)<br>
+							<br>
+							
+						KRAMER: Danke schoen, my little dumplings.<br>
+							<br>
+							
+						ELAINE: Hi.<br>
+							<br>
+							
+						KRAMER (to Elaine): Hey, how about that Toby, huh?<br>
+							<br>
+							
+						ELAINE: Yeah, how about her?<br>
+							<br>
+							
+						KRAMER: Ooh, she's a package full of energy!<br>
+							<br>
+							
+						ELAINE: Yeah, she's a package full of something.<br>
+							<br>
+							
+						KRAMER: Yeah, and that something is life. Jerry, you gotta meet this gal - she's brimmin' with positivity!<br>
+							<br>
+							
+						ELAINE (absolutely disgusted): Oh, pleeeeease. (moves to the living room and sits down)<br>
+							<br>
+							
+						KRAMER (to Jerry): Hey, are you performing tomorrow?<br>
+							<br>
+							
+						JERRY: Yeah.<br>
+							<br>
+							
+						KRAMER: Great, I'm gonna bring Toby.<br>
+							<br>
+							
+						JERRY: Well, you better laugh 'cause I'm being reviewed. Leonard Christian's gonna be there.<br>
+							<br>
+							
+						KRAMER: Oh, she's a great laugher - right, Elaine?<br>
+							<br>
+							
+						ELAINE: Oh yeah, she's a great laugher, Jerry. (imitates Toby) Really, really great!<br>
+							<br>
+							
+						JERRY (to Kramer): Well, you want to sit with George? I think he's coming with Robin.<br>
+							<br>
+							
+						KRAMER: Is that the waitress from the comedy club?<br>
+							<br>
+							
+						JERRY: Yeah.<br>
+							<br>
+							
+						KRAMER: Oh.<br>
+							<br>
+							
+						ELAINE: What about her kid, is she bringing him, too?<br>
+							<br>
+							
+						KRAMER: She's got a kid?<br>
+							<br>
+							
+						JERRY: Yeah, you should see George get along with this kid!<br>
+							<br>
+							<br>
+							<br>
+							
+						[Monk's]<br>
+							<br>
+							
+						(George and Robin in a booth. Robin's kid is under the table.)<br>
+							<br>
+							
+						GEORGE: Ow! What are you doing under there? Hey, stop that! Don't eat that! That's not food! (to Robin) He's suckin' down Equal packets!<br>
+							<br>
+							
+						ROBIN: Do you think 25 kids is too much?<br>
+							<br>
+							
+						GEORGE: 25 kids for his birthday party? (to kid under table) Don't put your tongue on the floor! He's putting his tongue on the floor! Here, here, have some more sugar packets. (tosses some Equal packets under the table)<br>
+							<br>
+							
+						ROBIN: So, what about entertainment? (to kid) Should I get Barney?<br>
+							<br>
+							
+						KID: No Barney!<br>
+							<br>
+							
+						ROBIN (to George): Maybe a clown.<br>
+							<br>
+							
+						GEORGE: How about Bozo?<br>
+							<br>
+							
+						KID: Who's Bozo?<br>
+							<br>
+							
+						GEORGE: Who's Bozo? Bozo the Clown, that's who Bozo is. When I was a kid, Bozo the Clown was the clown, bar none.<br>
+							<br>
+							
+						ROBIN: George...<br>
+							<br>
+							
+						GEORGE: With the orange hair, and the big clown shirt with the ruffles...<br>
+							<br>
+							
+						ROBIN: George...<br>
+							<br>
+							
+						GEORGE: He had a TV show! He had cartoons!<br>
+							<br>
+							
+						ROBIN: George! Forget Bozo, George. Bozo's out. He's finished. It's over for Bozo.<br>
+							<br>
+							
+						GEORGE: You know, when I was a kid, we didn't have these elaborate birthday parties w-with catered food and entertainment. I remember my 7th birthday party...<br>
+							<br>
+							
+						(Flashback of George at seven, sitting in front of a birthday cake with a shocked expression on his face, while Frank and Estelle scream at him)<br>
+							<br>
+							
+						FRANK: Blow out the candles! Blow out the candles, I said! Blow out the damn candles!<br>
+							<br>
+							
+						ESTELLE: Stop it, Frank! You're killing him!<br>
+							<br>
+							
+						FRANK: Blow out the candles!!<br>
+							<br>
+							
+						(Return from flashback)<br>
+							<br>
+							
+						ROBIN: Well, this time, you can blow out the candles.<br>
+							<br>
+							
+						GEORGE: Nah, I have asthma. (Robin's kid grabs George's leg from under the table, and George struggles.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Elaine's office at Pendant]<br>
+							<br>
+							
+						(Toby enters)<br>
+							<br>
+							
+						TOBY: Hi!<br>
+							<br>
+							
+						ELAINE (in a dreadful tone): Hi, Toby.<br>
+							<br>
+							
+						TOBY: How are you doing today?<br>
+							<br>
+							
+						ELAINE: Fine... (Toby sits and waits for Elaine to speak.) How are you?<br>
+							<br>
+							
+						TOBY: Oh, I'm great! Just great. Really great! Oh, hey - did you hear about Bob Rosen?<br>
+							<br>
+							
+						ELAINE: Nope.<br>
+							<br>
+							
+						TOBY: He is going to Knopp. He is going to be a vice president.<br>
+							<br>
+							
+						ELAINE: Knopp? Really? Boy. That means there's an opening here for senior editor...has Lippman, uh, hired anyone?<br>
+							<br>
+							
+						TOBY: No. I hear he wants to promote someone in-house.<br>
+							<br>
+							
+						ELAINE: Really!?<br>
+							<br>
+							
+						TOBY: Maybe it'll be you!<br>
+							<br>
+							
+						ELAINE: Oh...well...<br>
+							<br>
+							
+						TOBY: You really deserve it. I mean, you have experience, seniority...Lippman really respects your opinion...<br>
+							<br>
+							
+						ELAINE (beaming): Well! Well, it could be you.<br>
+							<br>
+							
+						TOBY: No...<br>
+							<br>
+							
+						ELAINE: No, really.<br>
+							<br>
+							
+						TOBY (standing): Really? You think so?<br>
+							<br>
+							
+						ELAINE (humoring her): Sure.<br>
+							<br>
+							
+						TOBY: Boy, wouldn't that be exciting!<br>
+							<br>
+							
+						ELAINE: I mean, stranger things have happened...<br>
+							<br>
+							
+						TOBY: Wow! Me! A senior editor! (deadly serious) I'd like that.<br>
+							<br>
+							
+						ELAINE: Well, you shouldn't get your hopes up, Toby.<br>
+							<br>
+							
+						TOBY: Well, it's a possibility, like you said! Stranger things have happened! Thank you, Elaine. Thank you. (Exits.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Comedy Club]<br>
+							<br>
+							
+						(Jerry and Ronnie the Prop Comic backstage)<br>
+							<br>
+							
+						JERRY: Hey, Ronnie.<br>
+							<br>
+							
+						RONNIE: Hey.<br>
+							<br>
+							
+						JERRY: (To bartender) Can I have a club soda? (To Ronnie) Goin' on tonight?<br>
+							<br>
+							
+						RONNIE: Yeah. You?<br>
+							<br>
+							
+						JERRY: Yeah.<br>
+							<br>
+							
+						RONNIE: You know Leonard Christian's here?<br>
+							<br>
+							
+						JERRY: Yeah, I know.<br>
+							<br>
+							
+						RONNIE: Can I ask you something? Are my nostrils getting bigger?<br>
+							<br>
+							
+						JERRY: (looking at his nostrils) I don't...think so.<br>
+							<br>
+							
+						RONNIE: Are you sure? Take a good look. They seem a little bigger?<br>
+							<br>
+							
+						JERRY: I don't...I dunno.<br>
+							<br>
+							
+						RONNIE: Is it possible for nostrils to expand?<br>
+							<br>
+							
+						JERRY: Oh, is this a bit?<br>
+							<br>
+							
+						RONNIE: Hey, I don't do &quot;bits.&quot; I'm a prop comic. Dammit, I can't find my water gun. I can't go on without my water gun.<br>
+							<br>
+							
+						(Kramer and Toby enter.)<br>
+							<br>
+							
+						KRAMER: Hey, Jerry.<br>
+							<br>
+							
+						JERRY: (turns to greet Kramer) Hey.<br>
+							<br>
+							
+						KRAMER: Well here's Toby, (points to Jerry in order to introduce him to Toby) Jerry.<br>
+							<br>
+							
+						TOBY: This is so exciting! Look, I have goosebumps! (To Jerry) Touch! Touch them! (Jerry touches her arm. Toby screeches with excitement.) I've never been to a comedy club before!<br>
+							<br>
+							
+						JERRY: Really! You know, a lot of restaurants are serving brewed decaf now, too.<br>
+							<br>
+							
+						TOBY (laughing): You are so funny!<br>
+							<br>
+							
+						JERRY: Oh, you'll have a good time, I swear.<br>
+							<br>
+							
+						TOBY: Oh! He swears like he thinks I don't believe him. I believe you. I believe you! Oh, he's so funny! (laughs)<br>
+							<br>
+							
+						KRAMER: What about me?<br>
+							<br>
+							
+						TOBY (serious): What about you? (laughs) I'm only kidding. You're funny, too. I love to laugh.<br>
+							<br>
+							
+						JERRY: Good, good.<br>
+							<br>
+							
+						KRAMER (to Jerry): So, you up next?<br>
+							<br>
+							
+						JERRY: Yeah, why don't you guys get a table so you'll have good seats?<br>
+							<br>
+							
+						TOBY: Oh yeah, we don't want some jerk sitting in front of us, it'll be like, 'Hey, big head, can you move out of the way? I didn't pay a cover charge to stare at your bald spot.' (laughs)<br>
+							<br>
+							
+						KRAMER: Alright, so you have a good show, huh buddy?<br>
+							<br>
+							
+						JERRY: Yeah.<br>
+							<br>
+							
+						TOBY: Oh, have a great show. Hey, we'll make sure it's a great show!<br>
+							<br>
+							
+						JERRY: O.k., good, I'll see you later. (Kramer and Toby are about to exit. She turns around and clutches Kramer's jacket.)<br>
+							<br>
+							
+						TOBY: Oh, he's so great! This is so great! I'm so excited!<br>
+							<br>
+							
+						(Cut to Jerry on stage. Toby and Kramer are sitting in the audience near the front.)<br>
+							<br>
+							
+						JERRY: Men definitely hit the remote button more than women...<br>
+							<br>
+							
+						TOBY (loudly): Oh, really! Really! That is so true!<br>
+							<br>
+							
+						JERRY: Yes, yeah...see, men don't care what's on TV, men only care what else is on TV.<br>
+							<br>
+							
+						TOBY: Yes! Yes! Right on! Right on! (Other audience members give her puzzled looks.)<br>
+							<br>
+							
+						JERRY (attempting to carry on despite Toby's interruptions): See...women really want to see what the show is before they change the channel...<br>
+							<br>
+							
+						TOBY: Oh, that is so true, yes!<br>
+							<br>
+							
+						JERRY: ...that's why men hunt and women nest.<br>
+							<br>
+							
+						TOBY: BOO! BOO! Hiss! Boo! (Toby's obnoxious behavior causes Jerry to completely lose his place and mess up his act.)<br>
+							<br>
+							
+						JERRY: Yea, ya, so...anyway what was I talking about.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Jerry pacing the floor backstage after his act. Kramer enters.]<br>
+							<br>
+							
+						KRAMER: Hey.<br>
+							<br>
+							
+						JERRY: Hey, what's the deal? What was goin' on there? I invite you down here, I have an important show, and she heckles me?!<br>
+							<br>
+							
+						KRAMER: Look, she didn't mean anything.<br>
+							<br>
+							
+						JERRY: Well, what is the matter with her? Is she crazy?!<br>
+							<br>
+							
+						KRAMER: She's just being enthusiastic, that's all!<br>
+							<br>
+							
+						(Toby enters.)<br>
+							<br>
+							
+						JERRY: Hey! What is wrong with you?!<br>
+							<br>
+							
+						TOBY: Me? Nothing's wrong with me.<br>
+							<br>
+							
+						JERRY: Y-You boo me?! You hiss?! You didn't stop blathering throughout the whole set!<br>
+							<br>
+							
+						TOBY: Oh, come on! I thought you're a pro! That's part of the show.<br>
+							<br>
+							
+						JERRY: No! Not part of the show! Booing and hissing are not part of the show! You boo puppets! You hiss villains in silent movies!<br>
+							<br>
+							
+						TOBY: Well, that's the way I express myself. How are you gonna make it in this business if you can't take it?<br>
+							<br>
+							
+						JERRY: Oh, I can take it.<br>
+							<br>
+							
+						TOBY (to Kramer): Let's go. (Ronnie walks by Jerry.)<br>
+							<br>
+							
+						RONNIE: Hey, man. Good set.<br>
+							<br>
+							<br>
+							<br>
+							
+						[George talking to Eric, the clown at Robin's son's birthday party.]<br>
+							<br>
+							
+						GEORGE: Bozo?<br>
+							<br>
+							
+						ERIC: No.<br>
+							<br>
+							
+						GEORGE: B-O-Z-O?<br>
+							<br>
+							
+						ERIC: Sorry, I...<br>
+							<br>
+							
+						GEORGE: You've never heard of Bozo the Clown?<br>
+							<br>
+							
+						ERIC: No!<br>
+							<br>
+							
+						GEORGE: How could you not know who Bozo the Clown is?<br>
+							<br>
+							
+						ERIC: I don't know, I just don't.<br>
+							<br>
+							
+						GEORGE: How can you call yourself a clown and not know who Bozo is?<br>
+							<br>
+							
+						ERIC: Hey, man - what are you hassling me for? This is just a gig, it's not my life. I don't know who Bozo is, what - is he a clown?<br>
+							<br>
+							
+						GEORGE: Is he a clown? What, are you kidding me!?<br>
+							<br>
+							
+						ERIC: Well, what is he?<br>
+							<br>
+							
+						GEORGE: Yes, he's a clown!<br>
+							<br>
+							
+						ERIC: Alright, so what's the big deal! There's millions of clowns!<br>
+							<br>
+							
+						GEORGE: Alright, just forget it.<br>
+							<br>
+							
+						ERIC: Me forget it? You should forget it! You're livin' in the past, man! You're hung up on some clown from the sixties, man!<br>
+							<br>
+							
+						GEORGE: Alright, very good, very good...go fold your little balloon animals, Eric. Eric! (chuckles) What kind of name is that for a clown, huh?<br>
+							<br>
+							
+						ROBIN'S MOTHER: Excuse me...you must be George! I'm Robin's mother. Oh, you seem like such a lovely young man!<br>
+							<br>
+							
+						GEORGE: Well, I do what I can. (Robin comes over.)<br>
+							<br>
+							
+						ROBIN: Hi Mom, how's everything?<br>
+							<br>
+							
+						ROBIN'S MOTHER: Oh, this is just a wonderful party!<br>
+							<br>
+							
+						ROBIN: The burgers should be ready in a minute.<br>
+							<br>
+							
+						GEORGE: Ah, great, great. (sniffs) What's that smell? Smoke? (walks to the kitchen) Hey everybody, I think I smell some smoke back here...(smoke boils into the doorway.) FIRE! FIRE! Get out of the way!<br>
+							<br>
+							
+						(The kids all scream and the party goes crazy. George barrels out of the kitchen, pushing down kids, clowns and old ladies in a mad panic to escape. He runs out the door and leaves everyone behind.)<br>
+							<br>
+							
+						(Cut to George sitting in the back of an ambulance with an oxygen mask on his face.)<br>
+							<br>
+							
+						GEORGE (to the EMTs): It was an inferno in there! An inferno! (Eric, Robin's mother, and all the kids rush at George.)<br>
+							<br>
+							
+						ERIC: There he is! That's him! (Tries to clobber George with his big shoe.)<br>
+							<br>
+							
+						ROBIN'S MOTHER: That's the coward that left us to die!<br>
+							<br>
+							
+						(Cut to George attempting to explain his cowardly actions to Robin, her mother, Eric and a fireman from the back of the ambulance at the party.)<br>
+							<br>
+							
+						GEORGE (voice is hoarse from screaming): I...was trying to lead the way. We needed a leader! Someone to lead the way to safety.<br>
+							<br>
+							
+						ROBIN: But you yelled &quot;get out of my way&quot;!<br>
+							<br>
+							
+						GEORGE: Because! Because, as the leader...if I die...then all hope is lost! Who would lead? The clown? Instead of castigating me, you should all be thanking me. What kind of a topsy-turvy world do we live in, where-where heroes are cast as villains? Brave men as cowards?<br>
+							<br>
+							
+						ROBIN: But I saw you push the women and children out of the way in a mad panic! I saw you knock them down! And when you ran out, you left everyone behind!<br>
+							<br>
+							
+						GEORGE: Seemingly. Seemingly, to the untrained eye, I can fully understand how you got that impression. What looked like pushing...what looked like knocking down...was a safety precaution! In a fire, you stay close to the ground, am I right? And when I ran out that door, I was not leaving anyone behind! Oh, quite the contrary! I risked my life making sure that exit was clear. Any other questions?<br>
+							<br>
+							
+						FIREMAN: How do you live with yourself?<br>
+							<br>
+							
+						GEORGE: Its not easy.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Monk's]<br>
+							<br>
+							
+						(George and Jerry at the usual booth)<br>
+							<br>
+							
+						GEORGE: So she doesn't want to see me anymore.<br>
+							<br>
+							
+						JERRY: Did you knock her over too, or just the kids?<br>
+							<br>
+							
+						GEORGE: No, her too. And her mother.<br>
+							<br>
+							
+						JERRY: Really? Her mother.<br>
+							<br>
+							
+						GEORGE: Yeah. I may have stepped on her arm, too, I don't know.<br>
+							<br>
+							
+						JERRY: You probably couldn't see because of the smoke.<br>
+							<br>
+							
+						GEORGE: Yeah. But it was somebody's arm.<br>
+							<br>
+							
+						JERRY: Hmm. So you feel &quot;women and children first,&quot; in this day and age, is somewhat of an antiquated notion.<br>
+							<br>
+							
+						GEORGE: To some degree.<br>
+							<br>
+							
+						JERRY: So basically, it's every man, woman, child, and invalid for themselves.<br>
+							<br>
+							
+						GEORGE: In a manner of speaking.<br>
+							<br>
+							
+						JERRY: Yeah, well, it's honest.<br>
+							<br>
+							
+						GEORGE: Yeah. She should be commending me for treating everyone like equals.<br>
+							<br>
+							
+						JERRY: Well, perhaps when she's released from the burn center, she'll see things differently.<br>
+							<br>
+							
+						GEORGE: Perhaps.<br>
+							<br>
+							
+						JERRY: So, what was the fire? Just a couple of greasy hamburgers?<br>
+							<br>
+							
+						GEORGE: Yeah. Eric the Clown put it out with his big shoe.<br>
+							<br>
+							
+						JERRY: By the way, did you see this? (Hands George a magazine)<br>
+							<br>
+							
+						GEORGE: What's that?<br>
+							<br>
+							
+						JERRY: It's the Leonard Christian article about my show. Plus my gig in Miami got cancelled, I betcha it's because of the article.<br>
+							<br>
+							
+						GEORGE: Wow, he really does a number on you. (reads) &quot;Seinfeld froze like a deer in the headlights in the face of incessant heckling.&quot;<br>
+							<br>
+							
+						JERRY: I should have let her have it! I held back because of Kramer.<br>
+							<br>
+							
+						GEORGE: You know what you oughta do. You should go to her office and heckle her.<br>
+							<br>
+							
+						JERRY: Yeah, right.<br>
+							<br>
+							
+						GEORGE: You know, like all the comedians always say, 'How would you like it if I came to where you work and heckled you?'<br>
+							<br>
+							
+						JERRY: Yeah, that'd be something.<br>
+							<br>
+							
+						GEORGE: I'm not kidding, you should do it.<br>
+							<br>
+							
+						JERRY: But wouldn't that be the ultimate comedian's revenge? I've always had a fantasy about doing that.<br>
+							<br>
+							
+						GEORGE: Well, go ahead! Do it!<br>
+							<br>
+							
+						JERRY: Why can't I?<br>
+							<br>
+							
+						GEORGE: No reason!<br>
+							<br>
+							
+						JERRY: You know what? I think I'm gonna do that! She came down to where I work, I'll go down to where she works!<br>
+							<br>
+							
+						GEORGE: This is unprecedented!<br>
+							<br>
+							
+						JERRY: There's no precedent, baby!<br>
+							<br>
+							
+						GEORGE: What...are you using my babies now?<br>
+							<br>
+							<br>
+							<br>
+							
+						[Toby in her office at Pendant.]<br>
+							<br>
+							
+						(Jerry pokes his head in the door.)<br>
+							<br>
+							
+						JERRY: Hey, nice shoes. What, you wear sandals to work? It's always nice to walk into a room and get the aroma of feet. That's real conducive to the work atmosphere. I'm sure your co-workers really appreciate it. 'Hey, let's go eat in Toby's office. Great idea! We can check on her bunions!'<br>
+							<br>
+							
+						TOBY: You know, I have work to do here! I'm very busy!<br>
+							<br>
+							
+						JERRY: Oh, is this disruptive? You find it hard to work with someone...interrupting?<br>
+							<br>
+							
+						TOBY: Well, how would you like it if I called security?<br>
+							<br>
+							
+						JERRY: Security? Well, I don't know how you're gonna make it in this business if you can't take it! Ya gotta be tough! Booo! Boooo!<br>
+							<br>
+							
+						TOBY: No, (gets up out of her chair) that's it. (Kramer arrives; to Kramer) Get out of the way.<br>
+							<br>
+							
+						(Toby upset; storms out.)<br>
+							<br>
+							
+						KRAMER: Hey, what's going on?<br>
+							<br>
+							
+						JERRY: Boo!<br>
+							<br>
+							
+						KRAMER: What's happenin' here?<br>
+							<br>
+							
+						JERRY: Hiss!<br>
+							<br>
+							
+						KRAMER: (going after Toby) Toby! Toby!<br>
+							<br>
+							
+						(Cut to a scene of the street outside. We hear screeching tires)<br>
+							<br>
+							
+						TOBY: (voice; screaming) My pinky toe!<br>
+							<br>
+							
+						KRAMER: (voice; yelling) Toby! (Shot of a shocked Kramer is shown) Oh, Oh!<br>
+							<br>
+							<br>
+							<br>
+							
+						[Jerry's Apartment]<br>
+							<br>
+							
+						(Kramer and Jerry)<br>
+							<br>
+							
+						KRAMER: What did you go up there to heckle her for?<br>
+							<br>
+							
+						JERRY: Because she came down to the club and heckled me! Give her a taste of her own medicine! (George enters.)<br>
+							<br>
+							
+						KRAMER: Oh, YEAH! You gave her a taste of medicine, alright.<br>
+							<br>
+							
+						JERRY: Well, I didn't want her to have an accident.<br>
+							<br>
+							
+						GEORGE: What accident?<br>
+							<br>
+							
+						KRAMER: Well, after he heckled Toby, she got so upset, she ran out of the building and a street sweeper ran over her foot and severed her pinky toe.<br>
+							<br>
+							
+						GEORGE: That's unbelievable!<br>
+							<br>
+							
+						KRAMER: Yeah! Then after the ambulance left, I found the toe! So I put it in a Cracker Jack box, filled it with ice, and took off for the hospital.<br>
+							<br>
+							
+						GEORGE: Wha.. you ran?<br>
+							<br>
+							
+						KRAMER: No, I jumped on the bus. I told the driver, &quot;I got a toe here, buddy - step on it.&quot;<br>
+							<br>
+							
+						GEORGE: Holy cow!<br>
+							<br>
+							
+						KRAMER: Yeah, yeah, then all of a sudden, this guy pulls out a gun. Well, I knew any delay is gonna cost her her pinky toe, so I got out of the seat and I started walking towards him. He says, &quot;Where do you think you're going, Cracker Jack?&quot; I said, &quot;Well, I got a little prize for ya, buddy - &quot; (Kramer throws two quick punches and a massive uppercut) - knocked him out cold!<br>
+							<br>
+							
+						GEORGE: How could you do that?!<br>
+							<br>
+							
+						KRAMER: Then everybody is screamin,' because the driver, he's passed out from all the commotion...the bus is out of control! So, I grab him by the collar, I take him out of the seat, I get behind the wheel and now I'm drivin' the bus.<br>
+							<br>
+							
+						GEORGE: You're Batman.<br>
+							<br>
+							
+						KRAMER: Yeah. Yeah, I am Batman. Then the mugger, he comes to, and he starts chokin' me! So I'm fightin' him off with one hand and I kept drivin' the bus with the other, y'know? Then I managed to open up the door, and I kicked him out the door you know with my foot, you know - at the next stop.<br>
+							<br>
+							
+						JERRY: You kept makin' all the stops?<br>
+							<br>
+							
+						KRAMER: Well, people kept ringin' the bell!<br>
+							<br>
+							
+						GEORGE: Well, wha-what about the toe? What happened to the toe?<br>
+							<br>
+							
+						KRAMER: Well! I am happy to say that the little guy is back in place at the end of the line.<br>
+							<br>
+							
+						GEORGE: You did all this...for a pinky toe?<br>
+							<br>
+							
+						KRAMER: Well, it's a valuable appendage.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Elaine's office at Pendant]<br>
+							<br>
+							
+						(Elaine talking with two co-workers.)<br>
+							<br>
+							
+						JOANNE: So, Kramer found the toe, and they re-attached it.<br>
+							<br>
+							
+						ELAINE: Really.<br>
+							<br>
+							
+						JOANNE: Yea, poor kid. What an ordeal.<br>
+							<br>
+							
+						MICHAEL: And you know how extremely sensitive she is?<br>
+							<br>
+							
+						ELAINE: I know.<br>
+							<br>
+							
+						MICHAEL: She's gonna need our full support.<br>
+							<br>
+							
+						ELAINE (wearily): Yeah, right.<br>
+							<br>
+							
+						OTHER CO-WORKERS IN HALLWAY: Look who's here! Toby! (Toby enters on crutches.)<br>
+							<br>
+							
+						MICHAEL: Toby, what can I do? Can I get you something?<br>
+							<br>
+							
+						TOBY: Oh no, no thank you.<br>
+							<br>
+							
+						MICHAEL: Toby please let us help. We're family.<br>
+							<br>
+							
+						TOBY: Oh well, I could use some coffee.<br>
+							<br>
+							
+						(A horde of employees flood into Elaine's office to gush over Toby. Elaine is pushed to the floor as a result.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Jerry's Apartment]<br>
+							<br>
+							
+						(Elaine and Jerry)<br>
+							<br>
+							
+						JERRY: She got the promotion?<br>
+							<br>
+							
+						ELAINE (standing in the doorway): Yep.<br>
+							<br>
+							
+						JERRY: Why?<br>
+							<br>
+							
+						ELAINE: I'll tell ya why. Because of her pinky toe, that's why. Because Lippman felt so sorry for her, he didn't want to hurt her feelings.<br>
+							<br>
+							
+						JERRY: Too bad.<br>
+							<br>
+							
+						ELAINE: Sure, the pinky toe is cute! But, I mean, what is it? It's useless! It does nothing. It's got that little nail that is just impossible to cut. What do we need it for?<br>
+							<br>
+							
+						JERRY: Because Elaine, that's the one that goes 'wee-wee-wee all the home.'<br>
+							<br>
+							
+						ELAINE: Why don't you just shut the f-<br>
+							<br>
+							
+						KRAMER (from his doorway): Hey Elaine, did you hear the good news? Toby got promoted!<br>
+							<br>
+							
+						ELAINE: Yes, I heard, Kramer - I work there, remember??<br>
+							<br>
+							
+						KRAMER: Yeah, and you know what she told me? She said her first order of business is to put my coffee table book into the bookstores as soon as possible.<br>
+							<br>
+							
+						ELAINE: Oh, wonderful!<br>
+							<br>
+							
+						KRAMER: You know, throughout this whole thing, she always kept a smile on her face.<br>
+							<br>
+							
+						ELAINE: Oh, of course! She's deranged.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Jerry and Ronnie backstage at the comedy club.]<br>
+							<br>
+							
+						JERRY: I went down to the magazine, I pleaded with him to come and see me again, finally he agreed to come down tonight, and he's going to write another article.<br>
+							<br>
+							
+						RONNIE: I heard you went down to somebody's office and heckled them?<br>
+							<br>
+							
+						JERRY: Damn right! We've been lapdogs long enough!<br>
+							<br>
+							
+						RONNIE: How could you do that? I mean, everybody's talking about it.<br>
+							<br>
+							
+						JERRY: Yeah well, it's about time one of us drew a line in the sand.<br>
+							<br>
+							
+						RONNIE: Jerry, you're like Rosa Parks. You opened the door for all of us. I can't wait till the next time someone heckles me.<br>
+							<br>
+							
+						JERRY: Yeah, well, it won't be long.<br>
+							<br>
+							
+						ANNOUNCER: Ladies and gentlemen, please welcome Jerry Seinfeld!<br>
+							<br>
+							
+						JERRY: Gotta go. (heads out on stage)<br>
+							<br>
+							
+						(George enters and sees Robin working.)<br>
+							<br>
+							
+						GEORGE: Robin? Robin!<br>
+							<br>
+							
+						ROBIN: George, what is it? I'm working.<br>
+							<br>
+							
+						GEORGE: Robin, listen to me. The most amazing thing has happened. Kramer has opened my eyes. I think I've changed.<br>
+							<br>
+							
+						ROBIN: What are you talking about?<br>
+							<br>
+							
+						GEORGE: O.k....(is about to explain. Cut to Jerry on-stage.)<br>
+							<br>
+							
+						JERRY: I mean, Bozo the Clown...I mean does he really need &quot;the clown&quot; in his title, as clown? Bozo, &quot;the&quot; clown? Are we going to confuse him with Bozo the district attorney? Bozo the pope? There's no other Bozo...<br>
+							<br>
+							
+						(Cut back to George explaining his situation to Robin.)<br>
+							<br>
+							
+						GEORGE: ...you'll see, things will be different now - if you just give me one more chance.<br>
+							<br>
+							
+						ROBIN: L-listen, Listen...I gotta think about this. (walks away.)<br>
+							<br>
+							
+						GEORGE: Alright, but I'm serious about this.<br>
+							<br>
+							
+						RONNIE (points his water gun at the bartender): Alright, hand it over man!<br>
+							<br>
+							
+						(Cut back to Jerry onstage.)<br>
+							<br>
+							
+						JERRY: ...that's why men hunt and women nest.<br>
+							<br>
+							
+						GEORGE (from backstage): He's got a gun! He's got a gun! Get out of the way! (Tries to flee the bar in a mad panic. The audience in the club also goes nuts and heads for the exits. Jerry stands onstage, perplexed.)<br>
+							<br>
+							
+						(Cut back to George in the bar.)<br>
+							<br>
+							
+						ROBIN: George! This is Ronnie Kaye!<br>
+							<br>
+							
+						GEORGE: The prop comic? (Ronnie holds up his water gun and smiles.) Oh, hi...I didn't recognize you, what...did you get a haircut?<br>
+							<br>
+							
+						RONNIE (points to his nose): Nostrils.<br>
+							<br>
+							
+						(Jerry comes backstage.)<br>
+							<br>
+							
+						JERRY: George - could I have a word?<br>
+							<br>
+							<br>
+							<br>
+							
+						[Closing Monologue]<br>
+							<br>
+							
+						I was in a hotel room the other day, and on the back of the door in the hotel room they have the fire map. I'm flattered that they think I have it together enough to stand in a burning hotel room memorizing directions. 'Yeah, I'll go left by the stairs, right by the candy machine...' I'd probably get lost, have to go back to the room, check the map again...and they always tell you, no matter what, whatever you do in a hotel fire - do not panic. Hey, I got four minutes to live, I've never panicked in my whole life - it's my option. Even if they find you, you have a perfect excuse...'Gee, I heard they saved you swingin' from the shower curtain naked with an ice bucket on your head. What happened there?' 'Well, I panicked.' 'That's understandable.'<br>
+							<br>
+							<br>
+							
+						The End</td>
+						</tr>
+						<tr height="6">
+							<td class="bottom2" width="645" height="6"></td>
+						</tr>
+						<tr>
+							<td width="645">
+								<div align="center">
+									<font size="-1">Copyright 2006 seinology.com | All Rights Reserved | Designed by 13erla</font></div>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+		<p></p>
+	</body>
+
+</html>

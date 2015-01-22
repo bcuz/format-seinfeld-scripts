@@ -1,0 +1,1673 @@
+<tdOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+<html>
+
+	<head>
+		<meta http-equiv="content-type" content="text/html;charset=ISO-8859-1">
+		<meta name="description" content="Top Source for Seinfeld">
+		<meta name="keywords" content="seinfeld, sienfeld, Jerry Seinfeld, Julia Louis Dreyfus, Jason Alexander, Michael Richards, Kramer, George, Costanza, Elaine Benes, morty, Larry David">
+		<title>Seinology.com :: Scripts :: 124-The Cadillac(1)</title>
+	<link rel='stylesheet' href='/stylesheet.css' type='text/css'>
+	</head>
+
+	<body>
+			<table align="center" width="787" border="0" cellspacing="0" cellpadding="0">
+				<tr>
+					<td><font size="-2" color="red">Seinology.com - </font><font size="-3" color="black">Where Seinfeld Content and Accuracy Matter Most. Seinfeld scripts in pdf form, Seinfeld episode video clips, Seinfeld episode audio clips, Jerry Seinfeld appearances, Julia Louis-Dreyfus appearances, Michael Richards appearances, Jason Alexander appearances, Seinfeld discussion Forum, Seinfeld Where are they Now? Seinlanguage Newsletter, Popular Seinfeld Lists, Seinfeld episode standup, Seinfeld episode guide, Seinfeld fan fiction. Seinfeld content all on one domain. Seinology.com enjoy your stay.</font></td>
+				</tr>
+			</table>
+		
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr height="100">
+				<td class="logo"></td>
+			</tr>
+			<tr><td class="ads" align="center" background=#8694fa>
+				<script type="text/javascript"><!--
+google_ad_client = "pub-1924026976931416";
+google_ad_width = 728;
+google_ad_height = 90;
+google_ad_format = "728x90_as";
+google_ad_type = "text";
+google_ad_channel = "";
+google_color_border = "FFFFFF";
+google_color_bg = "8694fa";
+google_color_link = "0000FF";
+google_color_text = "000000";
+google_color_url = "002E3F";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></td></tr>
+		</table>
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr>
+				<td valign="top" width="136">
+					<table width="136" border="0" cellspacing="0" cellpadding="0">
+						<tr height="24">
+							<td class="navigation">
+								<div align="center">
+									
+									<b>Navigation</b></div>
+							</td>
+						</tr>
+						<tr height="199">
+							<td class="spacer1" valign="top" width="136" height="199">
+								<div align="center">
+									<font size="-1"><a href="http://www.seinology.com">Home</a><br>
+										<a href="http://board.seinology.com">Forum</a><br>
+										<a href="http://www.seinology.com/av.shtml">Audio/Video</a><br>
+										<a href="http://www.seinology.com/scripts.shtml">Scripts</a><br>
+										<a href="http://www.seinology.com/survivor.shtml">Survivor</a><br>
+										<a href="http://www.seinology.com/fanfics.shtml">Fan Fiction</a><br>
+										<a href="http://www.seinology.com/gallery/">Gallery</a><br>
+										<a href="http://www.seinology.com/newsletter.shtml">Newsletter</a><br>
+										<a href="http://www.seinology.com/lists.shtml">Lists</a><br>
+										<a href="http://www.seinology.com/epguide.shtml">Episode Guide</a><br>
+										<a href="http://www.seinology.com/links.shtml">Links</a><br>
+										<a href="http://www.seinology.com/faqother.shtml">Faq + others</a><br>
+										<a href="http://www.seinology.com/legal.shtml">Legal</a></font></div>
+							</td>
+						</tr>
+						
+						<tr>
+							<td class="nav2" width="136">
+							<div align="center"><b>Search</b></div></td>
+						</tr>
+						<tr>
+							<td class="spacer1" width="136" valign="top"><div align="center"><form method="get" action="http://www.seinology.com/search/search.cgi">
+<p><label for="fdse_Match">Match</label><br>
+<select name="Match" id="fdse_Match" size="1">
+<option value="1">All</option>
+<option value="0">Any</option>
+<option value="2">Phrase</option>
+</select></p>
+<p><label for="fdse_Realm">Where?</label><br>
+<select name="Realm" id="fdse_Realm" size="1">
+<option selected="selected" value="All">EntireSite</option>
+<option value="Ep Guide">Ep Guide</option>
+<option value="Images">Images</option>
+<option value="Lists">Lists</option>
+<option value="Newsletters">Newsletters</option>
+<option value="Scripts">Scripts</option>
+<option value="Notes..Nothing">Notes..Nothing</option>
+</select></p>
+<p><input type="text" name="Terms" size="14" id="fdse_Terms"><br>
+<input type="submit" class="submit" name="submitButtonName" value="Search"></p>
+</div></form></td>
+						</tr>
+						<tr><td class="bottom" width="136" height="10" valign="top">
+						</td>
+						</tr>
+					</table>
+				</td>
+				<td width="4"></td>
+				<td valign="top" width="645">
+					<table width="645" border="0" cellspacing="0" cellpadding="0">
+						<tr height="18">
+							<td width="645" height="35" class="bar">
+								<div align="center">
+									<b><font size="+2" color="black">Script</font></b></div>
+							</td>
+						</tr>
+						<tr height="362">
+							<td class="spacer2" valign="top" width="645" height="362">
+
+						<p><font size="-2">Episode 124 - The Cadillac (1)<br>
+							
+						pc: 714, season 7, episode 14<br>
+							
+						Broadcast date: February 8, 1996<br>
+							
+						NOTE: Originally broadcast as part of a 60 min episode, with The Cadillac (2)<br>
+							<br>
+							
+						Written by Larry David &amp; Jerry Seinfeld<br>
+							
+						Directed by Andy Ackerman<br>
+							<br>
+							
+						-------------------------------------------------------------------------------<br>
+							<br>
+							
+						The Cast<br>
+							
+						Regulars:<br>
+							
+						Jerry Seinfeld .......................&nbsp; Jerry Seinfeld<br>
+							
+						Jason Alexander ..................&nbsp; George Costanza<br>
+							
+						Julia Louis-Dreyfus .............&nbsp; Elaine Benes<br>
+							
+						Michael Richards .................&nbsp; Cosmo Kramer<br>
+							<br>
+							
+						Guest Stars:<br>
+							
+						&nbsp;<br>
+							
+						Walter Olkewicz .................. Nick (Cable Guy)<br>
+							
+						Annabelle Gurwitch ............ Katy<br>
+							
+						Bill Macy .............................. Herb<br>
+							
+						Jesse White .......................... Ralph<br>
+							
+						rc: Liz Sheridan ................... Helen Seinfeld<br>
+							
+						rc: Barney Martin ................ Morty Seinfeld<br>
+							
+						rc: Heidi Swedberg ............. Susan Biddle Ross<br>
+							
+						rc:&nbsp; Sandy Baron .................. Jack Klompus<br>
+							<br>
+							
+						==================================================================<br>
+							<br>
+							
+						[Jerry's Apartment]<br>
+							<br>
+							
+						(Jerry enters, carrying a couple of bags and his mail. No sooner has he put his bags down than Kramer enters.)<br>
+							<br>
+							
+						KRAMER: Hey! You're back!<br>
+							<br>
+							
+						JERRY: Oh, I'm back, baby.<br>
+							<br>
+							
+						KRAMER: Yeah, how was it?<br>
+							<br>
+							
+						JERRY: Great. One of the best jobs I ever had.<br>
+							<br>
+							
+						KRAMER: Good for you.<br>
+							<br>
+							
+						JERRY: I killed.<br>
+							<br>
+							
+						KRAMER: You killed.<br>
+							<br>
+							
+						JERRY: (taking off his jacket) Slaughtered. Wiped the floor with 'em and (hanging up jacket) not only that, the money was unbelievable.<br>
+							<br>
+							
+						KRAMER: Unbelievable.<br>
+							<br>
+							
+						JERRY: Yeah. Highest paying job I ever had.<br>
+							<br>
+							
+						KRAMER: How much?<br>
+							<br>
+							
+						JERRY: (reluctant) Nah, nah. I'd rather...<br>
+							<br>
+							
+						KRAMER: Aw, c'mon.<br>
+							<br>
+							
+						JERRY: Nah. It's not good for friends to talk about money, it can affect the friendship.<br>
+							<br>
+							
+						KRAMER: I tell you how much I make.<br>
+							<br>
+							
+						JERRY: And I'm always impressed.<br>
+							<br>
+							
+						KRAMER: Just show me the cheque, c'mon.<br>
+							<br>
+							
+						JERRY: Awright, fine. You wanna see it?<br>
+							<br>
+							
+						KRAMER: I wanna see it.<br>
+							<br>
+							
+						JERRY: Okay.<br>
+							<br>
+							
+						(Jerry gets out his wallet, extracts a cheque from within it and hands it to Kramer.)<br>
+							<br>
+							
+						JERRY: Here, check that out.<br>
+							<br>
+							
+						(Kramer reads the cheque, and a look of astonishment comes to his face.)<br>
+							<br>
+							
+						KRAMER: (stunned) Whuf! This is unbelievable.<br>
+							<br>
+							
+						JERRY: I told you.<br>
+							<br>
+							
+						(Kramer has to sit on the couch, he's so shocked.)<br>
+							<br>
+							
+						KRAMER: My god, you're rich.<br>
+							<br>
+							
+						JERRY: (taking back the check) Oh yeah.<br>
+							<br>
+							
+						KRAMER: I didn't know you made that kinda money. (subdued) Jeez.<br>
+							<br>
+							
+						JERRY: What?<br>
+							<br>
+							
+						KRAMER: I don't think I can talk to you any more. I feel inferior.<br>
+							<br>
+							
+						JERRY: I never shoulda told you.<br>
+							<br>
+							
+						KRAMER: You know, Jerry, I think this changes the relationship. I mean, I feel it. Do you feel it?<br>
+							<br>
+							
+						JERRY: No, I can't feel anything.<br>
+							<br>
+							
+						KRAMER: Well, what're you gonna do with all that money?<br>
+							<br>
+							
+						JERRY: Actually, I was thinking of donating a large portion of it to charity.<br>
+							<br>
+							
+						KRAMER: (pleased) Really?<br>
+							<br>
+							
+						JERRY: (deadpan) No.<br>
+							<br>
+							
+						KRAMER: Well, you should, Jerry.<br>
+							<br>
+							
+						JERRY: No, to tell you the truth, I was thinking of buying my father a new car.<br>
+							<br>
+							
+						KRAMER: Now, you see, that's nice.<br>
+							<br>
+							
+						JERRY: Maybe a Cadillac.<br>
+							<br>
+							
+						KRAMER: (smiles) Cadillac. Ooh-la-la.<br>
+							<br>
+							
+						JERRY: Yeah. (thinking) That would really blow his mind. He's always wanted one, his whole life, he's never been able to afford it. (decisive) I'm gonna do it.<br>
+							<br>
+							
+						KRAMER: You're gonna score some big points with the man upstairs on this one.<br>
+							<br>
+							
+						JERRY: Oh, isn't that what it's all about?<br>
+							<br>
+							
+						(Kramer and Jerry smile in agreement.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Monk's]<br>
+							<br>
+							
+						(Elaine sits in a booth, across from her friend Katy.)<br>
+							<br>
+							
+						ELAINE: Who was Pippi Longstocking?<br>
+							<br>
+							
+						KATY: Pippi Longstocking? (thoughtful) Hmm, I don't don't know.<br>
+							<br>
+							
+						ELAINE: Did she have anything to do with Hitler?<br>
+							<br>
+							
+						KATY: Hitler? (thinks) Maybe.<br>
+							<br>
+							
+						(George enters and walks over to the booth. He's looking impatient.)<br>
+							<br>
+							
+						GEORGE: Hey.<br>
+							<br>
+							
+						ELAINE: Hey George.<br>
+							<br>
+							
+						GEORGE: Have you seen Jerry? (sitting beside Elaine) I told him two o'clock.<br>
+							<br>
+							
+						(George twists round, so he can watch the door.)<br>
+							<br>
+							
+						ELAINE: (indicating) You remember Katy?<br>
+							<br>
+							
+						GEORGE: (distracted) Mm? (acknowledges Katy) Oh, hi. Oh, yeah, yeah, yeah. We met uh, skiing that time. You're uh, married to the eye guy.<br>
+							<br>
+							
+						KATY: Also ear, nose and throat.<br>
+							<br>
+							
+						GEORGE: Nose. (chuckles) What's the worst that can happen to a nose? What does it get? Stuffed? (chuckles)<br>
+							<br>
+							
+						KATY: (amused) He's funny.<br>
+							<br>
+							
+						ELAINE: Ah, you don't have to tell me.<br>
+							<br>
+							
+						GEORGE: Ahh, ladies, please, please. (chuckles)<br>
+							<br>
+							
+						ELAINE: Oh, you know what? He got engaged.<br>
+							<br>
+							
+						KATY: Oh, you did? (disappointed) Oh.<br>
+							<br>
+							
+						GEORGE: What? Is that bad?<br>
+							<br>
+							
+						KATY: I actually would've set you up with a friend of mine.<br>
+							<br>
+							
+						GEORGE: Oh-ho, yeah?<br>
+							<br>
+							
+						KATY: You'd be perfect for her. She loves quirky, funny guys.<br>
+							<br>
+							
+						GEORGE: (curious) Bald? Uh?<br>
+							<br>
+							
+						KATY: Loves bald.<br>
+							<br>
+							
+						GEORGE: Loves bald? (laughs) Wow. Who uh, who is she?<br>
+							<br>
+							
+						KATY: Marisa Tomei.<br>
+							<br>
+							
+						GEORGE: (taken aback) The actress?<br>
+							<br>
+							
+						KATY: Yeah.<br>
+							<br>
+							
+						GEORGE: You're friends with Marisa Tomei?<br>
+							<br>
+							
+						KATY: That's right.<br>
+							<br>
+							
+						GEORGE: (getting excited) That's, that's incredible. My Cousin Vinnie, I love her, she was fantastic!<br>
+							<br>
+							
+						KATY: Yeah, I know.<br>
+							<br>
+							
+						GEORGE: (more excitement) You were gonna fix me up with her?<br>
+							<br>
+							
+						KATY: Yeah, she's just been sitting home.<br>
+							<br>
+							
+						GEORGE: (fever pitch) Marisa Tomei's sitting home, Elaine! Wh..why didn't you tell me that Katy was friends with Marisa Tomei?!<br>
+							<br>
+							
+						ELAINE: (deadpan) Oh, I don't know what I was thinking.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Jerry's Apartment]<br>
+							<br>
+							
+						(Jerry is talking on the phone as George enters and hangs up his coat.)<br>
+							<br>
+							
+						JERRY: I want this baby fully loaded. (listens) Well, how soon can you get it there? (listens) Oh, that's terrific. (listens) Okay, thanks, bye.<br>
+							<br>
+							
+						(Jerry hangs up and turns to George.)<br>
+							<br>
+							
+						JERRY: Hey, guess what. I just bought my father a Cadillac<br>
+							<br>
+							
+						GEORGE: Really? Wow, you're quite the good son.<br>
+							<br>
+							
+						JERRY: Yeah, I'm a very good boy. I'm flying down there and surprising him.<br>
+							<br>
+							
+						(Jerry walks to the kitchen.)<br>
+							<br>
+							
+						GEORGE: You gonna sleep on the fold-out?<br>
+							<br>
+							
+						JERRY: (joyless) Yeah, yes.<br>
+							<br>
+							
+						(Jerry opens the fridge door and gets out a piece of pie on a plate.)<br>
+							<br>
+							
+						GEORGE: Uh, let me ask you something. You uh, you ever hear of Marisa Tomei?<br>
+							<br>
+							
+						JERRY: The actress?<br>
+							<br>
+							
+						GEORGE: Yeah. She's uh, she's something, isn't she?<br>
+							<br>
+							
+						JERRY: Oh yeah.<br>
+							<br>
+							
+						GEORGE: Well, you know Katy, Elaine's friend?<br>
+							<br>
+							
+						JERRY: Yeah?<br>
+							<br>
+							
+						GEORGE: She happens to be very good friends with her.<br>
+							<br>
+							
+						JERRY: Marisa Tomei?<br>
+							<br>
+							
+						GEORGE: Uh-hmm.<br>
+							<br>
+							
+						JERRY: How does she know Marisa Tomei?<br>
+							<br>
+							
+						GEORGE: I don't know, I didn't ask.<br>
+							<br>
+							
+						JERRY: You didn't ask how she knows Marisa Tomei?<br>
+							<br>
+							
+						GEORGE: Not the point!<br>
+							<br>
+							
+						JERRY: Alright.<br>
+							<br>
+							
+						GEORGE: Can I finish?<br>
+							<br>
+							
+						JERRY: Go ahead. Seems like a reasonable question, is all I'm saying. I would've asked her.<br>
+							<br>
+							
+						(Jerry opens the freezer compartment and gets out a tub of ice cream.)<br>
+							<br>
+							
+						GEORGE: Alright! So, she said, that she could've fixed me up with her.<br>
+							<br>
+							
+						JERRY: What d'you mean, could've?<br>
+							<br>
+							
+						GEORGE: Well, you know, if I uh, wasn't engaged.<br>
+							<br>
+							
+						JERRY: Ohh!<br>
+							<br>
+							
+						GEORGE: Coulda fixed me up with Marisa Tomei. She said I was just her type!<br>
+							<br>
+							
+						JERRY: Really?<br>
+							<br>
+							
+						(Jerry puts a scoop of ice cream on the pie.)<br>
+							<br>
+							
+						GEORGE: (getting animated) Yeah. Yeah. You know the odds of me being anyone's type?! I have never been anyone's type, but apparently, this Marisa Tomei loves funny, quirky, bald men.<br>
+							<br>
+							
+						JERRY: You know, she won an academy award?<br>
+							<br>
+							
+						GEORGE: (sarcasm) Hu-hu, like I don't know that? (excitement) My Cousin Vinnie, I love that! I, George Costanza, could be on a date with an Oscar winner! An Oscar winner, Jerry! You know what that's like? It's like if fifty years ago, someone fixed me up with Katherine Hepburn? Same thing!<br>
+							<br>
+							
+						JERRY: Now there's a match. You and Katherine Hepburn.<br>
+							<br>
+							
+						GEORGE: I mean, you've seen her, right?<br>
+							<br>
+							
+						JERRY: Katherine Hepburn? Oh yeah.<br>
+							<br>
+							
+						GEORGE: (shout) Marisa Tomei!<br>
+							<br>
+							
+						JERRY: Yeah, yeah, yeah.<br>
+							<br>
+							
+						GEORGE: I mean, she's beautiful, right? She's just my type. The dark hair, the full lips.<br>
+							<br>
+							
+						(George wanders to the couch, Jerry following with his plate of pie and ice cream.)<br>
+							<br>
+							
+						JERRY: You like full lips.<br>
+							<br>
+							
+						GEORGE: Oh, I love full lips. Something you can really put the lipstick on.<br>
+							<br>
+							
+						(The two sit on the couch.)<br>
+							<br>
+							
+						JERRY: Mmm-mmm. Too bad you're engaged.<br>
+							<br>
+							
+						(Jerry takes a mouthful of pie.)<br>
+							<br>
+							
+						GEORGE: (downcast) Yeah, too bad. Too bad.<br>
+							<br>
+							
+						(There is a knock at the door.)<br>
+							<br>
+							
+						JERRY: (about the pie) This is no good.<br>
+							<br>
+							
+						(Jerry puts down the plate, gets up and opens the door, to reveal a guy in a Plaza Cable cap.)<br>
+							<br>
+							
+						JERRY: Hi.<br>
+							<br>
+							
+						NICK: Hi, uh, excuse me. I'm uh, I'm with Plaza Cable. I'm sorry to bother you. I...I'm looking for the guy who lives over here. Been waiting about uh, heh, two hours. You uh, happen to know where he is?<br>
+							<br>
+							
+						JERRY: No.<br>
+							<br>
+							
+						NICK: If you see him, Could you just tell him the cable company was here?<br>
+							<br>
+							
+						JERRY: Sure.<br>
+							<br>
+							
+						NICK: Thanks.<br>
+							<br>
+							
+						(The guy leaves. Jerry closes the door and returns to the couch.)<br>
+							<br>
+							
+						JERRY: (about the cable guy) Nice people.<br>
+							<br>
+							
+						(Jerry sits beside George again.)<br>
+							<br>
+							
+						GEORGE: Listen, lemme ask you a question. What if I got a cup of coffee with her?<br>
+							<br>
+							
+						JERRY: Well, what about Susan?<br>
+							<br>
+							
+						GEORGE: (worked up) I can't have a cup of coffee with a person?! I'm not allowed to have coffee?!<br>
+							<br>
+							
+						JERRY: Would you tell Susan about it?<br>
+							<br>
+							
+						GEORGE: (frustrated) Not necessarily.<br>
+							<br>
+							
+						JERRY: Well, if you can't tell Susan about it, then there's something wrong.<br>
+							<br>
+							
+						GEORGE: (shouts) Of course there's something wrong! (points at Jerry) We had a pact!<br>
+							<br>
+							
+						(Jerry heads for the fridge, just as Kramer enters.)<br>
+							<br>
+							
+						JERRY: Hey, cable guy's looking for you.<br>
+							<br>
+							
+						KRAMER: Oh, yeah?<br>
+							<br>
+							
+						JERRY: Yeah.<br>
+							<br>
+							
+						KRAMER: Oh. Yeah, I been getting HBO and Showtime for free. See, they just found out about it, so now they wanna come and take it out.<br>
+							<br>
+							
+						JERRY: Well, said he was waiting about two hours. Seemed a little put out.<br>
+							<br>
+							
+						KRAMER: Oh, was he? Was he? I guess the cable man doesn't like to be kept waiting.<br>
+							<br>
+							
+						JERRY: You don't seem too bothered by it.<br>
+							<br>
+							
+						KRAMER: You remember what they did to me ten years ago? &quot;Oh, we'll be there in the morning between nine and one&quot;, or &quot;We'll be there between two and six&quot;! (quiet anger) And I sat there, hour after hour, without so much as a phone call. Finally, they show up, no apology, tracking mud all over my nice clean floors. (malice) Now, they want me to accommodate them. Well, looks like the shoe's on the other foot, doesn't it?<br>
+							<br>
+							
+						JERRY: Boy, I've never seen you like this.<br>
+							<br>
+							
+						KRAMER: Oh, you don't wanna get on my bad side.<br>
+							<br>
+							<br>
+							<br>
+							
+						[George's Apartment]<br>
+							<br>
+							
+						(George sits on his couch, watching My Cousin Vinnie on video. Onscreen, Marisa Tomei, is in court, explaining transmission systems.)<br>
+							<br>
+							
+						MARISA: ...positrack, which was not available on the sixty-four Buick Skylark.<br>
+							<br>
+							
+						(Susan enters)<br>
+							<br>
+							
+						SUSAN: Hey. (glances at TV) Hey what're you watching? What is that? My Cousin Vinnie?<br>
+							<br>
+							
+						GEORGE: Yeah.<br>
+							<br>
+							
+						(Susan stands behind George as she speaks.)<br>
+							<br>
+							
+						SUSAN: I thought you saw that before. How come you're watching that again?<br>
+							<br>
+							
+						GEORGE: I..I..I dunno.<br>
+							<br>
+							
+						SUSAN: Did you know Marisa Tomei won an Oscar for that? Boy, she's beautiful, don't you think? I wish I looked like that.<br>
+							<br>
+							
+						(George daren't say anything, but from his expression it's clear he wishes Susan looked like that.)<br>
+							<br>
+							
+						SUSAN: Turn it off. You're making me jealous. I'm gonna think you like her more than you like me.<br>
+							<br>
+							
+						(Susan leaves to the bedroom.)<br>
+							<br>
+							
+						GEORGE: (forcing a laugh) Hu, ha.<br>
+							<br>
+							
+						(When Susan has gone, George picks up the phone and dials, keeping an eye open in case Susan returns.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[George's Apartment/Elaine's Apartment]<br>
+							<br>
+							
+						ELAINE (O.C.): Hello.<br>
+							<br>
+							
+						GEORGE: (whispering) Elaine, it's me, George.<br>
+							<br>
+							
+						(Elaine is sitting up in bed, reading a newspaper as she speaks to George.)<br>
+							<br>
+							
+						ELAINE: George. How come you're whispering?<br>
+							<br>
+							
+						GEORGE: (still quiet) Never mind, never mind. I need you to do me a favour. Uhm, remember what we were talking about at the coffee shop earlier?<br>
+							<br>
+							
+						ELAINE: No.<br>
+							<br>
+							
+						GEORGE: (still quiet) Think, a second. You know, your friend was talking about me and, you know...<br>
+							<br>
+							
+						ELAINE: Ech, George, I have no idea what you're talking about.<br>
+							<br>
+							
+						GEORGE: (still quiet) The actress.<br>
+							<br>
+							
+						ELAINE: What?<br>
+							<br>
+							
+						GEORGE: (shouts) Marisa Tomei!<br>
+							<br>
+							
+						(Susan hears from the bedroom.)<br>
+							<br>
+							
+						SUSAN (O.C.): What?<br>
+							<br>
+							
+						GEORGE: (calling to Susan) Uh, ah, nothing. Nothing.<br>
+							<br>
+							
+						ELAINE: Oh, yeah. Yeah, what about her?<br>
+							<br>
+							
+						GEORGE: Well, uhm, I think I'd like to do it.<br>
+							<br>
+							
+						ELAINE: What? (shocked) What?! George, no way. You're engaged!<br>
+							<br>
+							
+						GEORGE: A cup of coffee. That, that doesn't mean anything.<br>
+							<br>
+							
+						ELAINE: Uhh. No George!<br>
+							<br>
+							
+						GEORGE: Elaine.<br>
+							<br>
+							
+						ELAINE: Forget it!<br>
+							<br>
+							
+						(Elaine hangs up her phone in disgust.)<br>
+							<br>
+							
+						GEORGE: Elaine! (shouts) ELAINE!!<br>
+							<br>
+							
+						(Susan walks back in on George at this point. George quickly slips the phone under a cushion to conceal it, and goes back to watching My Cousin Vinnie, to provide an excuse for his raised voice.)<br>
+							<br>
+							
+						GEORGE: D'oh...Oh, oh, the judge! I hate this guy!<br>
+							<br>
+							
+						(Susan looks at him oddly.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Jerry's Apartment]<br>
+							<br>
+							
+						(Jerry is packing some gear into a bag, while Elaine watches and Kramer peers out into the hall through Jerry's peephole.)<br>
+							<br>
+							
+						ELAINE: I can't believe you're buying your father a car.<br>
+							<br>
+							
+						JERRY: And, best of all, it's a Cadillac.<br>
+							<br>
+							
+						ELAINE: (sharp intake of breath) Hoh. A Cadillac! (impressed) Wow.<br>
+							<br>
+							
+						(Elaine seems to become a lot more interested in Jerry. She moves over to the table where Jerry's packing, and turns the 'flirt' knob to the 'on' position.)<br>
+							<br>
+							
+						ELAINE: I had no idea you had this kind of money.<br>
+							<br>
+							
+						JERRY: Ahh, I uh, I don't like to talk about it.<br>
+							<br>
+							
+						ELAINE: Yeah, I thought you were doing okay. I just didn't think you were in this kind of, you know, uh... position.<br>
+							<br>
+							
+						JERRY: Ah, it's just money.<br>
+							<br>
+							
+						ELAINE: (smiling) So, when're you getting back from Florida?<br>
+							<br>
+							
+						JERRY: Oh, I don't know, play it by ear. Why?<br>
+							<br>
+							
+						ELAINE: I don't know. (big smile) Just, things seem a little more exciting when you're around. That's all.<br>
+							<br>
+							
+						JERRY: Are you okay?<br>
+							<br>
+							
+						ELAINE: (squeaky) Sure, sure.<br>
+							<br>
+							
+						JERRY: What was that?<br>
+							<br>
+							
+						(Kramer sees something through the peephole. He motions Jerry and Elaine to quieten down.)<br>
+							<br>
+							
+						KRAMER: Quiet, quiet.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Jerry's Apartment/Hall Outside Jerry's Apartment]<br>
+							<br>
+							
+						(Nick, the cable guy is standing by Kramer's door. George wanders up to Jerry's door and, as he gets there, is addressed.)<br>
+							<br>
+							
+						NICK: Hey, uh, you know the guy who lives here?<br>
+							<br>
+							
+						GEORGE: Yeah.<br>
+							<br>
+							
+						(George moves to open Jerry's door, but the cable guy is still talking.)<br>
+							<br>
+							
+						NICK: (quietly angry) All morning I been waiting here. All morning.<br>
+							<br>
+							
+						(Peering through the peephole, Kramer makes a noise of excited satisfaction.)<br>
+							<br>
+							
+						NICK: (still angry) The guy says he's gonna be home. I show up and all I do is wait. I'm getting pretty sick and tired of it. I'm not gonna put up with it much longer.<br>
+							<br>
+							
+						(The cable guy stalks away. Inside Jerry's, Kramer turns to speak to Jerry and Elaine.)<br>
+							<br>
+							
+						KRAMER: I'm loving this.<br>
+							<br>
+							
+						(Kramer lowers his eye to the peephole again, just as George opens the door. The door cracks Kramer on the forehead with a thump. George enters. Kramer peers round George to check the cable guy's gone.)<br>
+							<br>
+							
+						GEORGE: Kramer, there's a guy out here that...<br>
+							<br>
+							
+						KRAMER: Yeah, yeah. I know, I know.<br>
+							<br>
+							
+						(Kramer exits and crosses the hall to his apartment. George closes the door behind himself, and takes off his coat. He notices Elaine.)<br>
+							<br>
+							
+						GEORGE: (pointedly to Elaine) Oh. Thanks very much for yesterday, by the way.<br>
+							<br>
+							
+						ELAINE: Jerry, he want me to fix him up with Marisa Tomei. I am not gonna be a part of this!<br>
+							<br>
+							
+						GEORGE: (animated) Fixed up? A cup of coffee! A cup of coffee is not a fix up!<br>
+							<br>
+							
+						ELAINE: You wanna meet her. You wanna see if she likes you?<br>
+							<br>
+							
+						GEORGE: (defensive) So what? So what if I do?<br>
+							<br>
+							
+						ELAINE: (shrill) You're engaged!<br>
+							<br>
+							
+						GEORGE: (worked up) I'm aware! I'm aware!! But this is Marisa Tomei, Elaine. An Oscar winner! How can I live the rest of my life, knowing I coulda been with Marisa Tomei? She said I was just her type! She loves short, stocky, balding funny men!<br>
+							<br>
+							
+						JERRY: I notice you threw 'stocky' in there.<br>
+							<br>
+							
+						GEORGE: Yeah, what the hell?!<br>
+							<br>
+							
+						ELAINE: George! It's cheating.<br>
+							<br>
+							
+						GEORGE: (adamant) It's not cheating if there's no sex!<br>
+							<br>
+							
+						ELAINE: Yes it is!<br>
+							<br>
+							
+						GEORGE: (frustrated) Ahh!<br>
+							<br>
+							
+						ELAINE: (looking for support) Jerry!<br>
+							<br>
+							
+						(Jerry is standing by the kitchen counter. He has a stack of bank notes and is counting them. Elaine is mesmerised by the sight of all that currency. She stands by the counter, her eyes locked onto the money.)<br>
+							<br>
+							
+						JERRY: Uhm, hold, hold on a second. (pauses counting) I'm, I'm sorry, I didn't hear what you said.<br>
+							<br>
+							
+						(Elaine looks almost dizzy at the prospect of all that cash.)<br>
+							<br>
+							
+						GEORGE: (pleading) Elaine, c'mon. Would you just make the call? (indicates the phone) Please, make the call.<br>
+							<br>
+							
+						ELAINE: (distractedly) Yeah, yeah, fine, I'll make...<br>
+							<br>
+							
+						(Elaine picks up the phone and dials a number.)<br>
+							<br>
+							
+						GEORGE: (triumph) Alright.<br>
+							<br>
+							
+						(Jerry resumes his counting, but has lost track of where he was up to. He stands, holding one bill, trying to recall. Elaine has obviously been paying more attention, even as she dialled the phone.)<br>
+							<br>
+							
+						ELAINE: Eight-fifty.<br>
+							<br>
+							
+						JERRY: Oh, right.<br>
+							<br>
+							
+						(Elaine waits for the phone to be picked up.)<br>
+							<br>
+							
+						ELAINE: So uh, how are you getting to the airport? D'you need a ride, or...<br>
+							<br>
+							
+						JERRY: No, don't be silly, I've arranged a car.<br>
+							<br>
+							
+						(As Jerry goes to leave the kitchen, Elaine is sure to keep in his path, smiling flirtatiously.)<br>
+							<br>
+							
+						ELAINE: You sure? You sure? 'Cos, you know...<br>
+							<br>
+							
+						JERRY: Maybe I'll let you pick me up.<br>
+							<br>
+							
+						ELAINE: (big smile) Okay.<br>
+							<br>
+							
+						(Jerry is finally allowed out of the kitchen by Elaine, and heads for the bedroom. The phone is picked up at the other end of Elaine's line. As Elaine speaks, George stands beside her, doing a little selection of dances.)<br>
+							<br>
+							
+						ELAINE: Oh, hi. Uhm, is Katy there? (listens) Wh...? Uhm, what? (listens) Oh, really?<br>
+							<br>
+							
+						(Something about the tone of her voice causes George to cease dancing.<br>
+							<br>
+							
+						ELAINE: Well, could you tell her Elaine called? Yeah, thanks.<br>
+							<br>
+							
+						(Elaine turns to an expectant George.)<br>
+							<br>
+							
+						ELAINE: Huh, she's in the hospital. (concerned) She has an arrhythmia.<br>
+							<br>
+							
+						GEORGE: (impatient) What about Marisa Tomei?!<br>
+							<br>
+							<br>
+							<br>
+							
+						[Morty and Helen's, Florida]<br>
+							<br>
+							
+						(Morty is eating a cookie at the kitchen table. Helen comes over and grabs the box he's eating from.)<br>
+							<br>
+							
+						HELEN: Morty, what d'you have to open this box for? (waving at another box) There's already a box of cookies open.<br>
+							<br>
+							
+						MORTY: I wanted a Chip Ahoy.<br>
+							<br>
+							
+						HELEN: I don't like all these open boxes.<br>
+							<br>
+							
+						(Helen puts both boxes of cookies away in a cupboard.)<br>
+							<br>
+							
+						MORTY: Look, I got a few good years left. If I want a Chip Ahoy, I'm having it.<br>
+							<br>
+							
+						(The door opens and Jerry enters, carrying his bags.)<br>
+							<br>
+							
+						JERRY: Surprise!<br>
+							<br>
+							
+						MORTY: (shout) Jerry!<br>
+							<br>
+							
+						HELEN: (shock) Oh, my god!<br>
+							<br>
+							
+						MORTY: What the hell are you doing here?<br>
+							<br>
+							
+						JERRY: I'm a good son.<br>
+							<br>
+							
+						HELEN: Just like that? No calls?<br>
+							<br>
+							
+						JERRY: Just like that.<br>
+							<br>
+							
+						MORTY: Boy, you are really something.<br>
+							<br>
+							
+						HELEN: To what do we owe this great honour?<br>
+							<br>
+							
+						JERRY: You wanna know? Come on outside.<br>
+							<br>
+							
+						MORTY: Outside? What's going on?<br>
+							<br>
+							
+						HELEN: Whenever Jerry comes, something exciting happens.<br>
+							<br>
+							
+						(Helen darts out of the door eagerly.)<br>
+							<br>
+							
+						MORTY: (laughs) Heh hah!<br>
+							<br>
+							
+						JERRY: C'mon, c'mon.<br>
+							<br>
+							
+						(Morty follows Helen outside.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Outside Morty and Helen's, Florida]<br>
+							<br>
+							
+						(Standing at the kerb is a brand new, silver, Cadillac, gleaming in the Floridian sunshine. Jerry leads Morty and Helen over to it.)<br>
+							<br>
+							
+						JERRY: Well, what d'you think?<br>
+							<br>
+							
+						MORTY: Look at this! Look at this! (excited) You bought a Cadillac?!<br>
+							<br>
+							
+						JERRY: I bought it for you. It's yours.<br>
+							<br>
+							
+						(Morty and Helen both look astonished.)<br>
+							<br>
+							
+						MORTY: You what? You bought me a Cadillac?<br>
+							<br>
+							
+						JERRY: I bought you a Cadillac. (hands over the keys) Here you go.<br>
+							<br>
+							
+						HELEN: (sharply, to Jerry) Are you out of your mind?<br>
+							<br>
+							
+						JERRY: What?<br>
+							<br>
+							
+						MORTY: (to Helen) You don't want it? Are you kidding?<br>
+							<br>
+							
+						HELEN: He's not buying us a Cadillac.<br>
+							<br>
+							
+						MORTY: What are you, nuts?<br>
+							<br>
+							
+						HELEN: It's a very nice gesture Jerry, but take it back.<br>
+							<br>
+							
+						(Helen wrests the keys from Morty's grasp and hands them back to Jerry.)<br>
+							<br>
+							
+						MORTY: (to Jerry) Can you believe this?!<br>
+							<br>
+							
+						HELEN: I'm not letting him buy us a Cadillac. He hasn't got that kind of money.<br>
+							<br>
+							
+						JERRY: How d'you know?<br>
+							<br>
+							
+						HELEN: Oh, get out of here Mister Big Shot.<br>
+							<br>
+							
+						JERRY: Why can't I buy my father a car?<br>
+							<br>
+							
+						HELEN: Your father doesn't need a car.<br>
+							<br>
+							
+						MORTY: Yes, I do!<br>
+							<br>
+							
+						(Morty grabs the keys back from Jerry.)<br>
+							<br>
+							
+						HELEN: Oh, Morty.<br>
+							<br>
+							
+						MORTY: We're keeping it.<br>
+							<br>
+							
+						HELEN: Over my dead body.<br>
+							<br>
+							
+						(Helen makes another grab for the keys, and she and Morty struggle for possession, watched by Jerry.)<br>
+							<br>
+							
+						JERRY: (under his breath) Well, this worked out just as I had hoped.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Kramer's Apartment]<br>
+							<br>
+							
+						(Kramer sits on his couch reading a newspaper. Beside him, on a table, are his phone and an answering machine. The phone rings, but Kramer doesn't answer, instead allowing the machine to pick up.)<br>
+							<br>
+							
+						MACHINE (KRAMER): Giddyup.<br>
+							<br>
+							
+						NICK (O.C.): Yeah, this is Nick Stevens, from Plaza Cable.<br>
+							<br>
+							
+						(Kramer smiles on hearing the voice.)<br>
+							<br>
+							
+						NICK (O.C.): Well, I waited all morning again. You said you were gonna be there from nine to one.<br>
+							<br>
+							
+						(Kramer puts down his paper and stretches out on the couch to listen.)<br>
+							<br>
+							
+						NICK (O.C.): I was there. Where were you? You think I got nothing better to do than stand outside all morning, waiting for you to show up?!<br>
+							<br>
+							
+						(Kramer waves his fist, mocking the cable guy's anger. He laughs to himself.)<br>
+							<br>
+							
+						NICK (O.C.): You're not gonna get away with this!<br>
+							<br>
+							<br>
+							<br>
+							
+						[Outside Morty and Helen's, Florida]<br>
+							<br>
+							
+						(Morty is sitting in the Cadillac, with Jerry leaning on the door. They're going through the features of the car.)<br>
+							<br>
+							
+						MORTY: Hey Jerry, look at this. My seat's got a memory, in case somebody moves it. I could be in prison for five years. I come out, my seat goes right back to where I like it.<br>
+							<br>
+							
+						JERRY: That's what I was thinking.<br>
+							<br>
+							
+						(Jack Klompus approaches the car.)<br>
+							<br>
+							
+						JACK: (pointing) Hello, Jerry.<br>
+							<br>
+							
+						JERRY: Hiya, Jack.<br>
+							<br>
+							
+						(Morty gets out of the car, shuts the door and leans against it.)<br>
+							<br>
+							
+						MORTY: (indicating) So, how d'you like this?<br>
+							<br>
+							
+						JACK: Who's car?<br>
+							<br>
+							
+						MORTY: It's mine.<br>
+							<br>
+							
+						JACK: Yours?<br>
+							<br>
+							
+						MORTY: That's right. My son bought it for me.<br>
+							<br>
+							
+						JACK: He what?<br>
+							<br>
+							
+						MORTY: My son bought me the car. It's a present.<br>
+							<br>
+							
+						JACK: (disbelief) You bought it?<br>
+							<br>
+							
+						JERRY: That's right. I bought it.<br>
+							<br>
+							
+						MORTY: You ever see one so nice?<br>
+							<br>
+							
+						JACK: Some car.<br>
+							<br>
+							
+						MORTY: You wanna take a ride?<br>
+							<br>
+							
+						JACK: No, thank you.<br>
+							<br>
+							
+						MORTY: C'mon, take a ride.<br>
+							<br>
+							
+						JACK: I don't wanna take a ride.<br>
+							<br>
+							
+						MORTY: Why not?<br>
+							<br>
+							
+						JACK: I don't feel like taking a ride. Do I have to take a ride?!<br>
+							<br>
+							
+						JERRY: He doesn't wanna take a ride.<br>
+							<br>
+							
+						MORTY: Uh huh.<br>
+							<br>
+							
+						JACK: (worked up) What d'you think? I've never ridden in a Cadillac before? Believe me, I've ridden in a Cadillac hundreds of times. Thousands.<br>
+							<br>
+							
+						MORTY: (skeptical) Thousands?!<br>
+							<br>
+							
+						JACK: What? D'you think you're such a big shot now, because you got a Cadillac?<br>
+							<br>
+							
+						MORTY: (dismissive) Ahh!<br>
+							<br>
+							
+						JACK: (dismissive) Yaah!<br>
+							<br>
+							
+						(Jack angrily stalks away.)<br>
+							<br>
+							
+						MORTY: Could you believe that guy?<br>
+							<br>
+							
+						JERRY: Aahh!<br>
+							<br>
+							<br>
+							<br>
+							
+						[Hospital Room]<br>
+							<br>
+							
+						(George sits, talking enthusiastically to someone.)<br>
+							<br>
+							
+						GEORGE: Anyway, I was thinking about what you said. About uh, me and Marisa.<br>
+							<br>
+							
+						(The person he's talking to is Katy, who's unconscious, wearing an oxygen mask and has an intravenous drip in her.)<br>
+							<br>
+							
+						GEORGE: You know, about the uh, two of us getting together. And I know that I said I was engaged, but (laughs) uh, you know, it's really just something you say. It's like, going steady. You know uh, going steady, engaged, it's, it's all just stuff you say. (chuckles) Anyway, I was watching uh, My Cousin Vinnie, on the uh, on the tape the other day, and I was thinking that uh, you know, the two of us might take a meeting, as they say. (chuckles) So, what d'you, what d'you think?<br>
+							<br>
+							
+						(Katy is still unconscious.)<br>
+							<br>
+							
+						GEORGE: (urgent) Move a pinkie, if it's yes. Can you move a pinkie?<br>
+							<br>
+							<br>
+							<br>
+							
+						[Kramer's Apartment]<br>
+							<br>
+							
+						(Kramer is reading a magazine on the couch. The phone rings and he answers it.)<br>
+							<br>
+							
+						KRAMER: Y'hello.<br>
+							<br>
+							
+						NICK (O.C.): (inexpertly disguising his voice) Hi, uh ah, Mister Kramer, ah, this is McNab down at the phone company. We've got a report about some trouble on your line.<br>
+							<br>
+							
+						(Kramer smiles, as he recognises the voice.)<br>
+							<br>
+							
+						KRAMER: Hmm. Well, I haven't had any trouble.<br>
+							<br>
+							
+						NICK (O.C.): Uh, the thing is, we happen to have a man right in your neighbourhood.<br>
+							<br>
+							
+						(Kramer walks over to his window, and uses his fingers to open a couple of blades on his blinds. Peering through, he can see a public phone box across the street. Parked beside the box is a truck emblazoned with the Plaza Cable insignia, and in the box is the familiar figure of Nick, the cable guy.)<br>
+							<br>
+							
+						KRAMER: (playing along) Ohh, is that right? Well, I have been having a little trouble with my call-waiting.<br>
+							<br>
+							
+						NICK: We can fix that. We can fix that.<br>
+							<br>
+							
+						KRAMER: (sitting back on the couch) Oh, can you? That's funny, because, as it happens, I don't have call-waiting. Seems to me that the phone company would know that.<br>
+							<br>
+							
+						NICK: Oh, right. (laughing it off) I'm sorry, I was looking at the wrong work order.<br>
+							<br>
+							
+						KRAMER: Yeah. Could you hold on for a second? I've got something on the stove.<br>
+							<br>
+							
+						(Kramer puts the phone down beside a radio and switches it on. It plays cheesy music into the phone. Kramer gets up and heads out the door.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Street]<br>
+							<br>
+							
+						(Nick, the cable guy, stands in the phone box. He's listening to the cheesy music on the phone, and getting impatient. He glances at his watch. Suddenly, a car horn blares and a shout is heard.)<br>
+							<br>
+							
+						KRAMER: Hey, McNab!<br>
+							<br>
+							
+						(The cable guy turns, to see Kramer leaning out of the window of a cab as it passes.)<br>
+							<br>
+							
+						KRAMER: Chunnel's on HBO tonight. Why don't you stop by?<br>
+							<br>
+							
+						(Kramer waves and smiles happily at the dumbstruck cable guy, as the cab accelerates away.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Tenant's Committee, Florida]<br>
+							<br>
+							
+						(Around a table sit a number of residents, including an unhappy looking Jack Klompus. Morty is standing behind a lectern addressing the gathering. He bangs a gavel to get their attention.)<br>
+							<br>
+							
+						MORTY: Alright. Next thing on the agenda, the restoration of the fence at the Briarwood gate. At the present time, we are still accepting bids.<br>
+							<br>
+							
+						HERB: C'mon Morty, it's been broken for six months already. What the hell are you doing?<br>
+							<br>
+							
+						MORTY: Well, I, as your president, have to find the best price, and right now, I for one, do not think it's cost-feasible.<br>
+							<br>
+							
+						JACK: (half to himself) I'll bet you don't.<br>
+							<br>
+							
+						MORTY: What was that?<br>
+							<br>
+							
+						JACK: C'mon Morty, the jig is up!<br>
+							<br>
+							
+						MORTY: What're you talking about?<br>
+							<br>
+							
+						JACK: I'm sorry. I'm sitting here, the whole meeting, holding my tongue. I've known you a long time, Morty, but I cannot hold it in any longer.<br>
+							<br>
+							
+						HERB: What's going on, Jack?<br>
+							<br>
+							
+						JACK: I'll tell you what's going on. Morty Seinfeld has been stealing funds from the treasury.<br>
+							<br>
+							
+						MORTY: Stealing?!<br>
+							<br>
+							
+						RALPH: What proof do you have?<br>
+							<br>
+							
+						JACK: Proof? You want proof? He's driving around in a brand new Cadillac. Now what more proof do you want?<br>
+							<br>
+							
+						MORTY: My son bought me that car!<br>
+							<br>
+							
+						JACK: Your son?<br>
+							<br>
+							
+						MORTY: Yeah.<br>
+							<br>
+							
+						JACK: Your son could never afford that car. We all saw his act, last year, at the playhouse. He's lucky he can pay his rent!<br>
+							<br>
+							
+						HERB: Jack's right! He stinks!<br>
+							<br>
+							
+						RALPH: It's his material.<br>
+							<br>
+							
+						MORTY: I tell you, he bought it for me!<br>
+							<br>
+							
+						HERB: (bangs table with his fist) I move for a full investigation!<br>
+							<br>
+							
+						RALPH: I second.<br>
+							<br>
+							
+						(Morty looks dumbstruck.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[George's Apartment]<br>
+							<br>
+							
+						(George sits on the couch, watching Only You on the video. Onscreen, the ever-lovely Marisa is delivering her lines.)<br>
+							<br>
+							
+						MARISA: ...go introduce myself.<br>
+							<br>
+							
+						(Susan enters, with a bag of groceries.)<br>
+							<br>
+							
+						SUSAN: Hey! What're you watching? (looks at TV) Only You? That's another Marisa Tomei movie, and you've seen that one too. (jokingly) What, d'you have a thing for her?<br>
+							<br>
+							
+						GEORGE: (laughing it off and trying too hard) Yeah, yeah. I have a thing for Marisa Tomei. Like she would ever go out with a short, stocky, bald man. (forced laughter) Hu hu, ha ha. Like that's her type. Huh. She's an Oscar winner. (nervous laughter) He heh. Besides, I don't even know her. It's not like anyone's trying to fix us up. Who, who would try and fix me up with Marisa Tomei?<br>
+							<br>
+							
+						SUSAN: What are you talking about?<br>
+							<br>
+							
+						(Susan wanders away into the kitchen with the groceries, looking bemused by George. George watches her go, staring at the kitchen door as he slips off into a daydream.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[George Dream Sequence]<br>
+							<br>
+							
+						(George stares at the kitchen door, which glows with golden light. Then Marisa Tomei slinks out of the kitchen in a long black dress, and her hair up. She comes and sits beside George on the couch, looking at him lovingly.)<br>
+							<br>
+							
+						MARISA: Have I told you how much I love you today?<br>
+							<br>
+							
+						GEORGE: Not in the last fifteen minutes.<br>
+							<br>
+							
+						MARISA: Well, I do love you very much.<br>
+							<br>
+							
+						GEORGE: And I love you, Marisa.<br>
+							<br>
+							
+						MARISA: Well then, c'mon, get dressed. We're going to be late for the premiere.<br>
+							<br>
+							
+						(George leans across and takes Marisa in his arms. They kiss and slowly recline onto the couch.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[George's Apartment]<br>
+							<br>
+							
+						(Susan returns from the kitchen, to find George kissing, and slowly reclining onto the couch with, a cushion. George runs a hand across his head, in the fashion of a loving Marisa's caress. Then he raises his head from the cushion to see Susan observing him. She turns and goes back into the kitchen, wordlessly. George puts the cushion on the arm of the couch and lies down.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Morty and Helen's, Florida]<br>
+							<br>
+							
+						(Jerry sits on the couch and Helen is in the kitchen, as an anxious Morty delivers his news.)<br>
+							<br>
+							
+						HELEN: Impeachment?<br>
+							<br>
+							
+						MORTY: That's right. Have you ever heard of anything like that?<br>
+							<br>
+							
+						HELEN: Can they do that?<br>
+							<br>
+							
+						MORTY: If they get the votes.<br>
+							<br>
+							
+						HELEN: I told you we shouldn't have let him give us the car.<br>
+							<br>
+							
+						JERRY: Didn't you tell 'em I got the bill of sale? That proves I paid for it.<br>
+							<br>
+							
+						MORTY: It doesn't make a difference. They think we're in cahoots.<br>
+							<br>
+							
+						JERRY: You know, you could put a fence around these condos, and call it an insane asylum. Nobody would know the difference!<br>
+							<br>
+							
+						MORTY: No-one's ever been impeached before. I couldn't live here. We'd have to move to Boca.<br>
+							<br>
+							
+						(There's a knock at the door, and then it is opened and Evelyn walks in.)<br>
+							<br>
+							
+						EVELYN: Hello?<br>
+							<br>
+							
+						JERRY: Oh, hi Evelyn.<br>
+							<br>
+							
+						(Morty sits by the table.)<br>
+							<br>
+							
+						EVELYN: Hello, Jerry. (to the senior Seinfelds) I just got off the phone with Saul Brandus.<br>
+							<br>
+							
+						HELEN: What'd he say?<br>
+							<br>
+							
+						EVELYN: He's voting to impeach.<br>
+							<br>
+							
+						(Morty thumps the table with his fist.)<br>
+							<br>
+							
+						EVELYN: Not because he think you stole the money, but mainly because you never thanked him for giving you his aisle seat at Freddy Roman's show.<br>
+							<br>
+							
+						MORTY: I did so thank him!<br>
+							<br>
+							
+						HELEN: (admonishing) No, he never heard you. (prods Morty's back) I told you he didn't hear you.<br>
+							<br>
+							
+						MORTY: Ah, he's deaf anyway.<br>
+							<br>
+							
+						EVELYN: Now, my sources tell me, there's three votes for impeachment, three votes against impeachment, and one undecided.<br>
+							<br>
+							
+						MORTY: Who's that?<br>
+							<br>
+							
+						EVELYN: Mrs Choate.<br>
+							<br>
+							
+						JERRY: Who's she?<br>
+							<br>
+							
+						MORTY: Oh, that one. She's been a member of the board longer than anybody. She's very tough to deal with.<br>
+							<br>
+							
+						HELEN: Maybe we should have her over for coffee, and explain our side of it?<br>
+							<br>
+							
+						MORTY: That's a good idea.<br>
+							<br>
+							
+						EVELYN: Okay. I'll see you at the Lichtenberg's, tonight.<br>
+							<br>
+							
+						HELEN: (surprise) The Lichtenberg's?<br>
+							<br>
+							
+						EVELYN: Yes, they're having a party.<br>
+							<br>
+							
+						HELEN: We weren't invited.<br>
+							<br>
+							
+						EVELYN: Oh. Probably they think you're too good for them. You know, because of the car.<br>
+							<br>
+							
+						(Jerry puts his face in his hands.)<br>
+							<br>
+							<br>
+							
+						The End</td>
+						</tr>
+						<tr height="6">
+							<td class="bottom2" width="645" height="6"></td>
+						</tr>
+						<tr>
+							<td width="645">
+								<div align="center">
+									<font size="-1">Copyright 2006 seinology.com | All Rights Reserved | Designed by 13erla</font></div>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+		<p></p>
+	</body>
+
+</html>

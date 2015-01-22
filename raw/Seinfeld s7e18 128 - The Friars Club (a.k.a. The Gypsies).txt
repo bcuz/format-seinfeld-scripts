@@ -1,0 +1,2003 @@
+<tdOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+<html>
+
+	<head>
+		<meta http-equiv="content-type" content="text/html;charset=ISO-8859-1">
+		<meta name="description" content="Top Source for Seinfeld">
+		<meta name="keywords" content="seinfeld, sienfeld, Jerry Seinfeld, Julia Louis Dreyfus, Jason Alexander, Michael Richards, Kramer, George, Costanza, Elaine Benes, morty, Larry David">
+		<title>Seinology.com :: Scripts :: 128-The Friars Club</title>
+	<link rel='stylesheet' href='/stylesheet.css' type='text/css'>
+	</head>
+
+	<body>
+			<table align="center" width="787" border="0" cellspacing="0" cellpadding="0">
+				<tr>
+					<td><font size="-2" color="red">Seinology.com - </font><font size="-3" color="black">Where Seinfeld Content and Accuracy Matter Most. Seinfeld scripts in pdf form, Seinfeld episode video clips, Seinfeld episode audio clips, Jerry Seinfeld appearances, Julia Louis-Dreyfus appearances, Michael Richards appearances, Jason Alexander appearances, Seinfeld discussion Forum, Seinfeld Where are they Now? Seinlanguage Newsletter, Popular Seinfeld Lists, Seinfeld episode standup, Seinfeld episode guide, Seinfeld fan fiction. Seinfeld content all on one domain. Seinology.com enjoy your stay.</font></td>
+				</tr>
+			</table>
+		
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr height="100">
+				<td class="logo"></td>
+			</tr>
+			<tr><td class="ads" align="center" background=#8694fa>
+				<script type="text/javascript"><!--
+google_ad_client = "pub-1924026976931416";
+google_ad_width = 728;
+google_ad_height = 90;
+google_ad_format = "728x90_as";
+google_ad_type = "text";
+google_ad_channel = "";
+google_color_border = "FFFFFF";
+google_color_bg = "8694fa";
+google_color_link = "0000FF";
+google_color_text = "000000";
+google_color_url = "002E3F";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></td></tr>
+		</table>
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr>
+				<td valign="top" width="136">
+					<table width="136" border="0" cellspacing="0" cellpadding="0">
+						<tr height="24">
+							<td class="navigation">
+								<div align="center">
+									
+									<b>Navigation</b></div>
+							</td>
+						</tr>
+						<tr height="199">
+							<td class="spacer1" valign="top" width="136" height="199">
+								<div align="center">
+									<font size="-1"><a href="http://www.seinology.com">Home</a><br>
+										<a href="http://board.seinology.com">Forum</a><br>
+										<a href="http://www.seinology.com/av.shtml">Audio/Video</a><br>
+										<a href="http://www.seinology.com/scripts.shtml">Scripts</a><br>
+										<a href="http://www.seinology.com/survivor.shtml">Survivor</a><br>
+										<a href="http://www.seinology.com/fanfics.shtml">Fan Fiction</a><br>
+										<a href="http://www.seinology.com/gallery/">Gallery</a><br>
+										<a href="http://www.seinology.com/newsletter.shtml">Newsletter</a><br>
+										<a href="http://www.seinology.com/lists.shtml">Lists</a><br>
+										<a href="http://www.seinology.com/epguide.shtml">Episode Guide</a><br>
+										<a href="http://www.seinology.com/links.shtml">Links</a><br>
+										<a href="http://www.seinology.com/faqother.shtml">Faq + others</a><br>
+										<a href="http://www.seinology.com/legal.shtml">Legal</a></font></div>
+							</td>
+						</tr>
+						
+						<tr>
+							<td class="nav2" width="136">
+							<div align="center"><b>Search</b></div></td>
+						</tr>
+						<tr>
+							<td class="spacer1" width="136" valign="top"><div align="center"><form method="get" action="http://www.seinology.com/search/search.cgi">
+<p><label for="fdse_Match">Match</label><br>
+<select name="Match" id="fdse_Match" size="1">
+<option value="1">All</option>
+<option value="0">Any</option>
+<option value="2">Phrase</option>
+</select></p>
+<p><label for="fdse_Realm">Where?</label><br>
+<select name="Realm" id="fdse_Realm" size="1">
+<option selected="selected" value="All">EntireSite</option>
+<option value="Ep Guide">Ep Guide</option>
+<option value="Images">Images</option>
+<option value="Lists">Lists</option>
+<option value="Newsletters">Newsletters</option>
+<option value="Scripts">Scripts</option>
+<option value="Notes..Nothing">Notes..Nothing</option>
+</select></p>
+<p><input type="text" name="Terms" size="14" id="fdse_Terms"><br>
+<input type="submit" class="submit" name="submitButtonName" value="Search"></p>
+</div></form></td>
+						</tr>
+						<tr><td class="bottom" width="136" height="10" valign="top">
+						</td>
+						</tr>
+					</table>
+				</td>
+				<td width="4"></td>
+				<td valign="top" width="645">
+					<table width="645" border="0" cellspacing="0" cellpadding="0">
+						<tr height="18">
+							<td width="645" height="35" class="bar">
+								<div align="center">
+									<b><font size="+2" color="black">Script</font></b></div>
+							</td>
+						</tr>
+						<tr height="362">
+							<td class="spacer2" valign="top" width="645" height="362">
+
+						<p><font size="-2">Episode 128 - The Friars Club (a.k.a. The Gypsies)<br>
+							
+						pc: 718, season 7, episode 18<br>
+							
+						Broadcast date: March 7, 1996<br>
+							<br>
+							
+						Written by David Mandel<br>
+							
+						Directed by Andy Ackerman<br>
+							<br>
+							
+						-------------------------------------------------------------------------------<br>
+							<br>
+							
+						The Cast<br>
+							
+						Regulars:<br>
+							
+						Jerry Seinfeld .......................&nbsp; Jerry Seinfeld<br>
+							
+						Jason Alexander ..................&nbsp; George Costanza<br>
+							
+						Julia Louis-Dreyfus .............&nbsp; Elaine Benes<br>
+							
+						Michael Richards .................&nbsp; Cosmo Kramer<br>
+							<br>
+							
+						Guest Stars:<br>
+							<br>
+							
+						Rob Schneider .................................. Bob<br>
+							
+						Pat Cooper ....................................... Himself<br>
+							
+						Samantha Smith (II) .......................... Hallie<br>
+							
+						Lisa Kushell ...................................... Connie<br>
+							
+						Robert Martin Robinson ................... Maitre 'd<br>
+							
+						Norman Large ................................. Detective<br>
+							
+						Peggy Lane ...................................... Waitress<br>
+							
+						The Flying Karamazov Brothers ....... The Flying Sandos Brother<br>
+							
+						rc: Heidi Swedberg ........................... Susan Biddle Ross<br>
+							
+						rc: John O'Hurley .............................. J. Peterman<br>
+							
+						rc: Phil Morris .................................... Jackie Chiles<br>
+							<br>
+							
+						==================================================================<br>
+							<br>
+							
+						[Opening Monologue]<br>
+							<br>
+							
+						The other thing I love is when you're in the middle of a dream, and the alarm goes off. You incorporate the sound of the alarm into the dream, so you can keep sleeping. And you'll make any adjustment in the dream to do it. I was with Marie Antoinette in a dream last night, and she was on the guillotine, the blade came down, her head fell into the basket, it rolled over and she started singing Neil Diamond's 'Solitary Man'. And, I thought, &quot;That is not my alarm going off. This is actually happening.&quot;<br>
+							<br>
+							<br>
+							<br>
+							
+						[Street, New York]<br>
+							<br>
+							
+						(An elated George leaps around the corner, kicking a cab's door closed and clapping his hands together.)<br>
+							<br>
+							
+						GEORGE: (joyful) June. It's June.<br>
+							<br>
+							
+						(George begins trotting down the street. He acknowledges a passerby and high-fives him.)<br>
+							<br>
+							
+						GEORGE: (high-fiving) Hey!<br>
+							<br>
+							
+						(George continues his joyful path along the sidewalk, with his hands raised above his head in celebration.)<br>
+							<br>
+							
+						GEORGE: It's June.&nbsp;Mark's Michelle is a dog.<br>
+							<br>
+							
+						(George takes the hand of a female passerby and dances a few steps with her, twirling her round.)<br>
+							<br>
+							
+						GEORGE: June, June, June.<br>
+							<br>
+							
+						(Releasing the woman, George euphorically prances along, laughing and smiling.)<br>
+							<br>
+							
+						GEORGE: (to passerby) Hey, he-hah. It's June, June.<br>
+							<br>
+							
+						(George leaps onto the footing of a streetlight and spins on it, in time-honoured musical fashion.)<br>
+							<br>
+							
+						GEORGE: It's Juu-uu-une! Hey hay. Yes.<br>
+							<br>
+							
+						(George leaps from the streetlight onto the road, where he spreads his arms and spins.)<br>
+							<br>
+							
+						GEORGE: I love Juu-uuu-uu-uune!<br>
+							<br>
+							
+						(A car brakes behind George and sounds its horn. George flinches, and jigs nervously out from in front of the automobile and back to the pavement.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Jerry's Apartment]<br>
+							<br>
+							
+						(George pushes open the door and enters, still ebullient. He punches the air as he looks to Jerry.)<br>
+							<br>
+							
+						GEORGE: June. Juune, baby!<br>
+							<br>
+							
+						JERRY: What?<br>
+							<br>
+							
+						GEORGE: The catering hall screwed up. The wedding is delayed until June. It's like a stay of execution.<br>
+							<br>
+							
+						JERRY: Dead man walking.<br>
+							<br>
+							
+						GEORGE: (pointing to Jerry in joyous agreement) Ha-ha-hah. This is my lucky day.<br>
+							<br>
+							
+						JERRY: Well, one outta twenty thousand. That's not bad.<br>
+							<br>
+							
+						GEORGE: Yeah. Hey, wait a second, you know, good news for you too. Susan's best friend, Hallie? Broke up with her boyfriend.<br>
+							<br>
+							
+						JERRY: She did?<br>
+							<br>
+							
+						GEORGE: Yeah.<br>
+							<br>
+							
+						JERRY: So? Wheels?<br>
+							<br>
+							
+						GEORGE: In motion. The wheels are in motion.<br>
+							<br>
+							
+						JERRY: Beautiful.<br>
+							<br>
+							
+						GEORGE: Aah, hey. (enthusiastic) If this works out, forget about it. Vacations together, movies together, dinner together. It..it's almost as good as if I didn't get married.<br>
+							<br>
+							
+						JERRY: So, set it up. You know what, we could have dinner at the Friars Club.<br>
+							<br>
+							
+						GEORGE: The Friars Club?<br>
+							<br>
+							
+						JERRY: Yeah, I'm thinking of joining. Pat Cooper said he would put me up for membership.<br>
+							<br>
+							
+						(Kramer opens the door and leans in.)<br>
+							<br>
+							
+						KRAMER: Hey everybody. (to Jerry) Listen, uh, do me a favour, will you? I got a hot date tonight with Connie. Knock on my door, wake me up in twenty minutes, alright?<br>
+							<br>
+							
+						JERRY: Catnap?<br>
+							<br>
+							
+						KRAMER: No, no, no, no. (comes in) This is evolutionary. I been reading this book, on Leonardo de Vinci. See, that means 'from Vinci', d'you know that?<br>
+							<br>
+							
+						JERRY: (deadpan) That must be some book.<br>
+							<br>
+							
+						KRAMER: Yeah, well, turns out that the master slept only twenty minutes every three hours. Now, that works out to two and a half extra days, that I'm awake per week, every week. Which means, if I live to be eighty, I will have lived the equivalent of a hundred and five years.<br>
+							<br>
+							
+						JERRY: Just imagine how much more you'll accomplish.<br>
+							<br>
+							
+						KRAMER: Oh, I got a lot of things in the hopper, buddy.<br>
+							<br>
+							
+						(Kramer heads for the door.)<br>
+							<br>
+							
+						JERRY: I didn't know you had a hopper.<br>
+							<br>
+							
+						KRAMER: (smiling) Oh, I got a hopper. A big hopper.<br>
+							<br>
+							
+						(Kramer exits, closing the door behind him.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Conference Room, J. Peterman]<br>
+							<br>
+							
+						(A number of executives are seated round a table, with J Peterman at the head of the table.)<br>
+							<br>
+							
+						PETERMAN: Alright, people, I'd like to begin with a hearty hail and well-met good fellow, to Bob Grossberg, who's joining us from Business Affairs.<br>
+							<br>
+							
+						(Peterman indicates a guy sitting next to Elaine. The other executives give Bob some quiet applause, which he acknowledges with a slight wave.)<br>
+							<br>
+							
+						BOB: Thanks. Hi everybody.<br>
+							<br>
+							
+						PETERMAN: Bob, we have a little baptism by fire for you, so to speak.<br>
+							<br>
+							
+						(Elaine leans over to the guy sitting on the other side of her from Bob.)<br>
+							<br>
+							
+						ELAINE: (whispers) Poor bastard.<br>
+							<br>
+							
+						PETERMAN: (to Bob) I want you to handle all the fact-checking and the copy-editing for the new catalogue.<br>
+							<br>
+							
+						(Bob looks blank and fiddles with something behind his ear.)<br>
+							<br>
+							
+						BOB: Ah, could you repeat that?<br>
+							<br>
+							
+						PETERMAN: (slower and louder) Why don't you handle all the copy-editing?<br>
+							<br>
+							
+						(Bob pulls a face and points to indicate all is not well with his hearing.)<br>
+							<br>
+							
+						BOB: (apologetic) I..I'm sorry. What?<br>
+							<br>
+							
+						PETERMAN: (louder still) Copy-editing!<br>
+							<br>
+							
+						(Peterman sees he's not getting through to Bob, and gives up.)<br>
+							<br>
+							
+						PETERMAN: Eh, never mind. (turns to Elaine) Elaine, you do it.<br>
+							<br>
+							
+						(Elaine does a double-take at hearing this, looking dismayed. Bob has a hearing aid out of his ear and manipulates it before slipping it back in.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Friars Club Lobby]<br>
+							<br>
+							
+						(Jerry, George, Susan, and Hallie stand before the maitre d' of the rather fancy Friars Club. Jerry has no jacket)<br>
+							<br>
+							
+						JERRY: Hi, I'm Jerry Seinfeld. Pat Cooper made a reservation for me.<br>
+							<br>
+							
+						MAITRE D': Yes, Mr Seinfeld, but uhm, all gentlemen are required to wear jackets in the dining room.<br>
+							<br>
+							
+						JERRY: (downcast) Oh, I'm sorry.<br>
+							<br>
+							
+						HALLIE: (smiling) How embarrassing this must be for you.<br>
+							<br>
+							
+						JERRY: (jocular) You just bought your own dinner.<br>
+							<br>
+							
+						(George, Susan and Hallie laugh at his little joke.)<br>
+							<br>
+							
+						MAITRE D': No problem. Please, follow me.<br>
+							<br>
+							
+						(The maitre d' strides away, Jerry follows.)<br>
+							<br>
+							
+						JERRY: (passing Hallie) 'Scuse me.<br>
+							<br>
+							
+						GEORGE: (smiling) Ho ho. Funny. Isn't he funny? Funny guy. Ha ha ha.<br>
+							<br>
+							
+						(A couple of people walk by, George raises a hand in greeting.)<br>
+							<br>
+							
+						GEORGE: Friars.<br>
+							<br>
+							
+						(Jerry returns, wearing a blazer, with a crest on the breast pocket.)<br>
+							<br>
+							
+						JERRY: Hey, not bad. (pointing to crest) I kinda like this little thing here.<br>
+							<br>
+							
+						(George, Susan and Hallie, all make positive noises and comments. The maitre d' comes up behind Jerry and motions them to enter.)<br>
+							<br>
+							
+						MAITRE D': This way please.<br>
+							<br>
+							
+						GEORGE: Hup, here we go. Here we go.<br>
+							<br>
+							
+						(The four of them walk on into the restaurant, with George bringing up the rear.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Friars Club Restaurant]<br>
+							<br>
+							
+						(Jerry, George, Susan and Hallie, sit round a table, eating. They're engage in at least two separate conversations - Jerry with George and Susan with Hallie.)<br>
+							<br>
+							
+						GEORGE: (adamant) Ah, c'mon! I'm telling you, I can coach for the NFL. It's not that hard<br>
+							<br>
+							
+						(Jerry looks scornfully at George.)<br>
+							<br>
+							
+						SUSAN: (to Hallie) Mmm, mm, mm. Hallie (points to her plate) taste this fish. It's really delicious.<br>
+							<br>
+							
+						(Hallie spears a morsel from Susan's plate and eats it.)<br>
+							<br>
+							
+						JERRY: (to George) That might be the stupidest thing you've ever said.<br>
+							<br>
+							
+						GEORGE: (to Jerry) Oh, get outta here.<br>
+							<br>
+							
+						JERRY: (to George) I mean, come on. (a thought occurs) No, the stupidest thing you ever said was when you said Steve Kroft from Sixty Minutes is the same guy from *Seals and Croft*.<br>
+							<br>
+							
+						HALLIE: (to Susan) Mmm, it is good.<br>
+							<br>
+							
+						SUSAN: (to Hallie) What do you think about having fish for the wedding?<br>
+							<br>
+							
+						GEORGE: (to Jerry) You watch the old videos. (insistent) I'm telling you, look at him.<br>
+							<br>
+							
+						HALLIE: (to Susan) Oh. Remember (indistinct) wedding?<br>
+							<br>
+							
+						JERRY: Oh, come on.<br>
+							<br>
+							
+						GEORGE: Look...<br>
+							<br>
+							
+						JERRY: Alright.<br>
+							<br>
+							
+						(The four continue chatting happily.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Jerry's Apartment]<br>
+							<br>
+							
+						(Kramer is asleep on Jerry's couch. Jerry enters, wearing a long coat.)<br>
+							<br>
+							
+						JERRY: (looking at Kramer) This is nice.<br>
+							<br>
+							
+						(Jerry slams the door and Kramer jerks awake.)<br>
+							<br>
+							
+						KRAMER: Yeah, morning.<br>
+							<br>
+							
+						JERRY: Morning?<br>
+							<br>
+							
+						(Jerry removes his coat, to reveal he's wearing the crested jacket from the Friars Club.)<br>
+							<br>
+							
+						KRAMER: Yeah, what time is it?<br>
+							<br>
+							
+						JERRY: (looks at watch) Ten-thirty.<br>
+							<br>
+							
+						KRAMER: (pleased) Ah, see. (rubs his hands together) I got the whole night ahead of me. (looks at Jerry) Boy, that's a nice jacket, huh?<br>
+							<br>
+							
+						(Kramer passes Jerry on his way to the kitchen. Jerry looks downwards at his attire.)<br>
+							<br>
+							
+						JERRY: (realising) Ohh, I don't believe this. I forgot to give it back. It belongs to the Friars Club.<br>
+							<br>
+							
+						(Kramer has a bowl on the counter and fetches a box of cereal. )<br>
+							<br>
+							
+						KRAMER: Yeah, I like that crest. (he shakes cereal into the bowl) Alright, here we go.<br>
+							<br>
+							
+						JERRY: Breakfast?<br>
+							<br>
+							
+						KRAMER: (pouring cereal) Oh yeah. Most important meal of the day.<br>
+							<br>
+							
+						JERRY: So this Da Vinci sleep is working out?<br>
+							<br>
+							
+						KRAMER: (enthusiastic) Oh, I'm percolating, Jerry. I'm telling you, I have never felt so fertile. I'm mossy, Jerry. My brain is mossy. Listen to this idea. (fetches a spoon from the drawer) A restaurant that serves only peanut butter and jelly. (clicks tongue)<br>
+							<br>
+							
+						JERRY: What d'you call it?<br>
+							<br>
+							
+						KRAMER: P B and J's. What d'you think?<br>
+							<br>
+							
+						JERRY: (deadpan) I think you need more sleep.<br>
+							<br>
+							
+						KRAMER: (dismissive) Ahh.<br>
+							<br>
+							
+						(Kramer picks up his bowl of cereal and heads for the door. )<br>
+							<br>
+							
+						JERRY: So, how'd your date work out with the mysterious Connie?<br>
+							<br>
+							
+						(Kramer stops, with the door open, and turns back to Jerry. )<br>
+							<br>
+							
+						KRAMER: I am telling you, this woman is strange. She never wants to leave the apartment. It's almost like she doesn't wanna be seen with me.<br>
+							<br>
+							
+						JERRY: Oh, now you're being ridiculous.<br>
+							<br>
+							
+						KRAMER: (laughing) He he, yeah.<br>
+							<br>
+							
+						(Kramer begins to exit. )<br>
+							<br>
+							
+						JERRY: (indicates the bowl of cereal) No milk?<br>
+							<br>
+							
+						KRAMER: Oh, I'll be back.<br>
+							<br>
+							
+						(Kramer leaves and closes the door behind him.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Elaine's Office, J. Peterman]<br>
+							<br>
+							
+						(It's late at night, and her's is the only light on in the building. Elaine sits at a computer, typing away at the keyboard. She's surrounded by piles of paperwork, which she rummages through. She sighs, frustrated at being saddled with all this work. )<br>
+							<br>
+							<br>
+							<br>
+							
+						[Jerry's Apartment]<br>
+							<br>
+							
+						(It's night, and Jerry lies in bed asleep. Kramer enters the room quietly and sits on the edge of Jerry's bed. )<br>
+							<br>
+							
+						KRAMER: (quietly) Jerry.<br>
+							<br>
+							
+						(Jerry stirs slightly, but doesn't wake up. )<br>
+							<br>
+							
+						KRAMER: (quietly) Hey Jerry.<br>
+							<br>
+							
+						(Jerry still doesn't wake. )<br>
+							<br>
+							
+						KRAMER: (prodding Jerry) C'mon buddy.<br>
+							<br>
+							
+						(Jerry snaps awake, sitting up and recoiling from the figure on his bed. )<br>
+							<br>
+							
+						JERRY: (startled) Kramer!<br>
+							<br>
+							
+						KRAMER: You awake?<br>
+							<br>
+							
+						JERRY: (confused) Wha..? What time is it?<br>
+							<br>
+							
+						KRAMER: W...It's four.<br>
+							<br>
+							
+						JERRY: (aghast) Four in the morning?!<br>
+							<br>
+							
+						KRAMER: Yeah.<br>
+							<br>
+							
+						JERRY: Well, what's wrong with you?<br>
+							<br>
+							
+						KRAMER: I'm bored. I got all this free time on my hands, I dunno what to do. You wanna do something?<br>
+							<br>
+							
+						JERRY: No. Would you just get out?<br>
+							<br>
+							
+						KRAMER: You wanna rent a movie?<br>
+							<br>
+							
+						JERRY: No!<br>
+							<br>
+							
+						KRAMER: Well, what am I gonna do?<br>
+							<br>
+							<br>
+							<br>
+							
+						[Elaine's Office, J. Peterman]<br>
+							<br>
+							
+						(Jerry walks over to Elaine, who is working at her computer. She has a sandwich and a diet soda on her desk.)<br>
+							<br>
+							
+						JERRY: Ready for lunch?<br>
+							<br>
+							
+						ELAINE: (irked) I'm stuck here, editing the stupid catalogue, because of stupid Bob Grossberg.<br>
+							<br>
+							
+						(Jerry pulls a face, helps himself to a sandwich and sits down, as Elaine turns to him.)<br>
+							<br>
+							
+						ELAINE: Listen, there is something really suspicious about this guy. Every time Mr Peterman tries to assign him any work, he says he can't hear, and it all gets dumped on me.<br>
+							<br>
+							
+						JERRY: You think he's faking?<br>
+							<br>
+							
+						ELAINE: I don't know. But I'd like to try that earpiece on, see if it's real.<br>
+							<br>
+							
+						(Bob leans around the open door to speak.)<br>
+							<br>
+							
+						BOB: Hey Elaine. (he spots Jerry) Oh, you have a friend.<br>
+							<br>
+							
+						(Jerry waves a finger in greeting.)<br>
+							<br>
+							
+						BOB: (to Elaine) Just wanted to say hi.<br>
+							<br>
+							
+						(Bob makes to depart, but stops as Elaine speaks.)<br>
+							<br>
+							
+						ELAINE: Bob, you know what? I'm kinda swamped here. You think you could give me a hand with some of the catalogue?<br>
+							<br>
+							
+						BOB: (cupping his hand behind his ear) I..I'm sorry. What?<br>
+							<br>
+							
+						(Elaine leans toward Bob.)<br>
+							<br>
+							
+						ELAINE: (slower and louder) I'm kind of swamped.<br>
+							<br>
+							
+						(Bob smiles, and holds his tie, as if he's been complimented on it.)<br>
+							<br>
+							
+						BOB: Thank you. I'm having lunch with Mr P. I better get going.<br>
+							<br>
+							
+						(Bob smiles, gives Elaine a wink and leaves.)<br>
+							<br>
+							
+						ELAINE: Did you see that? Did you see that, Jerry?<br>
+							<br>
+							
+						JERRY: That was him?<br>
+							<br>
+							
+						ELAINE: Yes.<br>
+							<br>
+							
+						JERRY: Somehow I thought he'd be taller.<br>
+							<br>
+							
+						ELAINE: Alright, listen, we'll have to do this again some other time, okay? I got a lotta work to do.<br>
+							<br>
+							
+						JERRY: (standing) Alright, I'll see you later.<br>
+							<br>
+							
+						(Elaine turns back to her computer. Jerry heads out the door.)<br>
+							<br>
+							
+						ELAINE: Alright.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Peterman Bathroom]<br>
+							<br>
+							
+						(Bob stands at the urinal. Jerry opens the door and enters the room. He sees Bob, and wonders about something. Jerry slowly crosses the room until he's standing about three feet behind Bob.)<br>
+							<br>
+							
+						JERRY: Hey, Bob.<br>
+							<br>
+							
+						(Bob continues to use the urinal, without reaction.)<br>
+							<br>
+							
+						JERRY: Bob.<br>
+							<br>
+							
+						(Still no reaction.)<br>
+							<br>
+							
+						JERRY: Hey, Bobby, over here.<br>
+							<br>
+							
+						(Bob continues his necessary business.)<br>
+							<br>
+							
+						JERRY: Bob. Oh, Bob.<br>
+							<br>
+							
+						(Still nothing.)<br>
+							<br>
+							
+						JERRY: (louder) Bob!<br>
+							<br>
+							
+						(Bob finishes what he has to do, and half-turns to find Jerry behind him. Jerry feigns innocence, Bob completes his zipping up whilst faced away from Jerry.<br>
+							<br>
+							
+						BOB: Hi.<br>
+							<br>
+							
+						(Jerry and Bob give embarrassed acknowledgement smiles.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Elaine's Office, J. Peterman]<br>
+							<br>
+							
+						(Elaine types away at her computer. Jerry enters.)<br>
+							<br>
+							
+						JERRY: (urgent whisper) Elaine.<br>
+							<br>
+							
+						(Jerry closes the door behind him.)<br>
+							<br>
+							
+						ELAINE: (makes an irked noise)<br>
+							<br>
+							
+						JERRY: I was just in the bathroom.<br>
+							<br>
+							
+						ELAINE: (really doesn't want to know) Okay, Jerry, please, please. I'm really busy here.<br>
+							<br>
+							
+						JERRY: No, no, no. I was just in the bathroom with that Bob guy.<br>
+							<br>
+							
+						ELAINE: So what?<br>
+							<br>
+							
+						JERRY: No, I kinda tried to test his hearing.<br>
+							<br>
+							
+						(Elaine stands and slaps Jerry on the chest with a bundle of papers.)<br>
+							<br>
+							
+						ELAINE: Get out! What'd you do?<br>
+							<br>
+							
+						JERRY: Well, I kinda snuck up behind him at the urinal and tried to see if he could hear me.<br>
+							<br>
+							
+						ELAINE: (hopeful) And?<br>
+							<br>
+							
+						JERRY: Well, he flinched, sort of.<br>
+							<br>
+							
+						ELAINE: What d'you mean, sort of? What'd he do?<br>
+							<br>
+							
+						JERRY: Well, he kinda moved his head, you know. It mighta been on the zip up, I dunno.<br>
+							<br>
+							
+						ELAINE: So you don't know anything?<br>
+							<br>
+							
+						JERRY: Actually, no.<br>
+							<br>
+							
+						ELAINE: (sarcasm) Alright, good job.<br>
+							<br>
+							
+						JERRY: Right.<br>
+							<br>
+							
+						(Elaine goes back to work. Jerry leaves.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Jerry's Apartment]<br>
+							<br>
+							
+						(Jerry sits, reading a paper, at the table. There is a knock at the door.)<br>
+							<br>
+							
+						JERRY: Come in.<br>
+							<br>
+							
+						(The door slowly opens wide enough for George to lean into the room. He's smiling, looks at Jerry and raises his eyebrows quizzically. Jerry smiles back.)<br>
+							<br>
+							
+						GEORGE: (entering) Last night, huh? Was that something, or was that something?<br>
+							<br>
+							
+						JERRY: That was something.<br>
+							<br>
+							
+						GEORGE: Ah. She's great, isn't she?<br>
+							<br>
+							
+						JERRY: (positive) Fantastic. Fantastic woman.<br>
+							<br>
+							
+						GEORGE: I told you.<br>
+							<br>
+							
+						JERRY: I'm nuts about her.<br>
+							<br>
+							
+						GEORGE: You think she could be an 'it'? Could she be an 'it'?<br>
+							<br>
+							
+						JERRY: She could be an 'it'.<br>
+							<br>
+							
+						GEORGE: (claps hands triumphantly) We might have an 'it'!<br>
+							<br>
+							
+						JERRY: She's got 'it' written all over her.<br>
+							<br>
+							
+						GEORGE: She's got everything, right? (counts on his fingers) She's intelligent, she's smart, she's got a great sense of humour.<br>
+							<br>
+							
+						JERRY: Well, I dunno. I didn't really talk to her.<br>
+							<br>
+							
+						GEORGE: Well, she's smart. You take my word for it.<br>
+							<br>
+							
+						JERRY: Whatever.<br>
+							<br>
+							
+						GEORGE: (gleeful) Hehee. W..we could be like the Gatsbys. Didn't they always like, you know, a bunch of people around, and they were all best friends?<br>
+							<br>
+							
+						JERRY: That doesn't sound right.<br>
+							<br>
+							
+						GEORGE: No. So, tonight she's got tickets for that show she's been working on. The Flying Sandos Brother.<br>
+							<br>
+							
+						JERRY: Flying Sandos. Beautiful.<br>
+							<br>
+							
+						GEORGE: Great. Seven-thirty, alright?<br>
+							<br>
+							
+						JERRY: Walk me down to the Friars.<br>
+							<br>
+							
+						(Jerry goes into the bedroom.)<br>
+							<br>
+							
+						GEORGE: Sure. So, uh, Jerry, there's an empty apartment in my building. If you and Hallie want, we could try and hold it, may...<br>
+							<br>
+							
+						(Jerry reenters looking confused.)<br>
+							<br>
+							
+						JERRY: It's not here.<br>
+							<br>
+							
+						GEORGE: What?<br>
+							<br>
+							
+						JERRY: Th..the jacket, it's not here. It's gotta be here somewhere.<br>
+							<br>
+							
+						(Kramer enters, rubbing his eyes.)<br>
+							<br>
+							
+						KRAMER: Oh, boy.<br>
+							<br>
+							
+						(Jerry is looking around for the jacket, lifting cushions, etc.)<br>
+							<br>
+							
+						JERRY: (to Kramer) Thanks for that four a.m. wakeup call last night. (frustrated) Where the hell is that jacket?<br>
+							<br>
+							
+						KRAMER: Oh, the one with the crest.<br>
+							<br>
+							
+						JERRY: Yeah.<br>
+							<br>
+							
+						JERRY: Oh, well, that's at the cleaners.<br>
+							<br>
+							
+						JERRY: The cleaners? How did it get there?<br>
+							<br>
+							
+						KRAMER: Well, I, uh, I borrowed it last night and it got a little dirty.<br>
+							<br>
+							
+						JERRY: (irritated) Great.<br>
+							<br>
+							
+						KRAMER: (laughing to himself) Somehow I dozed off and woke up in a pile of garbage.<br>
+							<br>
+							
+						JERRY: Somehow? You've had an hour and twenty minutes sleep in three days!<br>
+							<br>
+							
+						KRAMER: Well, so, look, the cleaner said you could pick it up tonight at six.<br>
+							<br>
+							
+						JERRY: Alright. I just hope I can get it to the Friars Club before the show.<br>
+							<br>
+							
+						GEORGE: Won't be a problem...(mumbles)<br>
+							<br>
+							
+						(Kramer has closed his eyes and fallen asleep while leaning on the counter in Jerry's kitchen.)<br>
+							<br>
+							
+						JERRY: (to Kramer) Hey.<br>
+							<br>
+							
+						(Kramer does not respond.)<br>
+							<br>
+							
+						JERRY: (louder) Hey!!<br>
+							<br>
+							
+						(Kramer snaps awake with a jerk.)<br>
+							<br>
+							
+						KRAMER: Watch out, boy.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Bob's Office, J. Peterman]<br>
+							<br>
+							
+						(Bob is working at his desk, with his back to the door. Elaine arrives and stands in the doorway.)<br>
+							<br>
+							
+						ELAINE: Can you give us a hand with some of these boxes, Bob?<br>
+							<br>
+							
+						(Bob continues to muse over some of the work in front of him, giving no sign of knowing Elaine is there.)<br>
+							<br>
+							
+						ELAINE: Bob!<br>
+							<br>
+							
+						(Bob still doesn't react to Elaine. Elaine takes a couple of steps into Bob's office, and decides to try a different tactic.)<br>
+							<br>
+							
+						ELAINE: (sexily) I want you so bad, Bob. You turn me on...<br>
+							<br>
+							
+						(As Elaine speaks, Peterman walks past the open door. Hearing Elaine's voice, his attention is caught. He stops to listen.)<br>
+							<br>
+							
+						ELAINE: ...so much. You're so damn...sexy.<br>
+							<br>
+							
+						(Peterman watches and listens, surprised.)<br>
+							<br>
+							
+						ELAINE: (sexy) Ohh. I'm starting to unbutton.<br>
+							<br>
+							
+						(Peterman decides he should withdraw, and he leaves.)<br>
+							<br>
+							
+						ELAINE: (dropping the sexy voice) Anything getting through? Bob?<br>
+							<br>
+							
+						(Bob continues to be oblivious to Elaine. Elaine pulls a pensive face and leaves.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Theatre]<br>
+							<br>
+							
+						(George, Susan and Hallie sit in a box overlooking the stage (just like the two guys in the Muppets). There's an empty seat beside Hallie. George is making small talk.)<br>
+							<br>
+							
+						HALLIE: Well, they perform all over. Europe mostly.<br>
+							<br>
+							
+						GEORGE: A-ha, huh. (mumbles) tours.<br>
+							<br>
+							
+						HALLIE: Yeah.<br>
+							<br>
+							
+						(Jerry arrives, wearing the crested jacket.)<br>
+							<br>
+							
+						JERRY: Sorry, sorry I'm late.<br>
+							<br>
+							
+						GEORGE/SUSAN: Hey!<br>
+							<br>
+							
+						SUSAN: Jerry.<br>
+							<br>
+							
+						GEORGE: Isn't that the uh, Friars Club jacket?<br>
+							<br>
+							
+						(Jerry takes the vacant seat.)<br>
+							<br>
+							
+						JERRY: Yeah, it wasn't ready on time. I have to return it after the show.<br>
+							<br>
+							
+						GEORGE: Sure, sure, sure, sure. (patting Jerry on the shoulders) How about these seats? Are these fantastic, huh? Huh? I feel like Lincoln.<br>
+							<br>
+							
+						JERRY: Yeah. Well, let's hope this evening turns out a little better.<br>
+							<br>
+							
+						(Lively music begins and the Flying Sandos Brothers bound onto the stage to applause from the auditorium. Jerry and his friends all join in.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Kramer's Apartment]<br>
+							<br>
+							
+						(Kramer sits on his couch with Connie, who is playfully toying with the collar on his shirt.)<br>
+							<br>
+							
+						KRAMER: So, uhm, are you sure you don't wanna go to the movies?<br>
+							<br>
+							
+						CONNIE: Mmm, no, Cosmo. I like just being here with you.<br>
+							<br>
+							
+						KRAMER: Oh, it's uh, it's a bold adventure.<br>
+							<br>
+							
+						(Connie leans in and begins to kiss Kramer's neck.)<br>
+							<br>
+							
+						KRAMER: Ooh. Well, this is uh, risky business, huh? I'm all a-twitter.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Theatre]<br>
+							<br>
+							
+						(The Sandos Brothers are on stage performing a juggling act with glasses, trays and bottle. It ends with them pouring drinks and toasting the audience. The audience applaud appreciatively.)<br>
+							<br>
+							
+						(The Sandos Brothers launch into the next part of their act. One brother climbs onto the shoulders of another and is carried to the edge of the stage, where he climbs from the shoulders into the box containing Jerry, George, Susan and Hallie. The audience applaud.)<br>
+							<br>
+							
+						SANDOS BROTHER 1: How would you kind people like to lend a hand with our next trick?<br>
+							<br>
+							
+						JERRY: (smiling) I don't think so.<br>
+							<br>
+							
+						SANDOS BROTHER 1: Please, take off your jacket.<br>
+							<br>
+							
+						JERRY: My jacket?<br>
+							<br>
+							
+						SANDOS BROTHER 1: Yes, the jacket. (turns to the crowd) What do you say, ladies and gentlemen?<br>
+							<br>
+							
+						(The rest of the audience cheer and clap.)<br>
+							<br>
+							
+						SANDOS BROTHER 1: (to Jerry) Can't argue with that.<br>
+							<br>
+							
+						HALLIE: C'mon.<br>
+							<br>
+							
+						SUSAN: Do it. Come on, Jerry.<br>
+							<br>
+							
+						GEORGE: Give him the jacket.<br>
+							<br>
+							
+						JERRY: (giving in) Alright.<br>
+							<br>
+							
+						(Jerry shrugs out of the jacket, to the applause of friends and audience. He hands it to the Sandos Brother.)<br>
+							<br>
+							
+						SANDOS BROTHER 1: And now, we say the magic word. (gestures with his hand) Agrabah! And we make it disappear.<br>
+							<br>
+							
+						(As he finishes his speech, he tosses the jacket out of the box and into the audience. The audience clap, as do George, Susan and Hallie. Jerry peers over the edge of the box, after the jacket.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Kramer's Apartment]<br>
+							<br>
+							
+						(Connie lies on the couch, underneath Kramer. She strokes the side of his head with her fingers.)<br>
+							<br>
+							
+						CONNIE: (passionate) Oh Cosmo. Mm-mmm, Cosmo. Oh Cosmo.<br>
+							<br>
+							
+						(Kramer is oddly unresponsive.)<br>
+							<br>
+							
+						CONNIE: (uncomfortable) Uh, honey, can you move a little, this hurts.<br>
+							<br>
+							
+						(Kramer makes no reply.)<br>
+							<br>
+							
+						CONNIE: (worried) Cosmo?<br>
+							<br>
+							
+						(Connie pushes at Kramer to try and move him.)<br>
+							<br>
+							
+						CONNIE: (panicky) Oh my god. Cosmo, wake up!<br>
+							<br>
+							
+						(Connie heaves harder at Kramer, but he's still not moving or replying.)<br>
+							<br>
+							
+						CONNIE: Cosmo?<br>
+							<br>
+							
+						(Connie lifts Kramer's head and looks at his face, which is completely slack and expressionless.)<br>
+							<br>
+							
+						CONNIE: (horrified) Oh my god! He's dead! He's dead.<br>
+							<br>
+							
+						(Panicky, Connie tries again to lift Kramer enough to get out, but is unable to move his inert bulk. She reaches across to the table and grabs the handset of the phone. Quickly, she dials a number and puts the phone to her ear.)<br>
+							<br>
+							
+						CONNIE: (into phone) Yeah, Tommy, this is Connie. You gotta help me. Some guy dropped dead on top of me. (listens) I can't call the cops, 'cos Joey might find out. (listens) I can't. I'm stuck. You gotta help me.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Theatre, Backstage]<br>
+							<br>
+							
+						(Jerry leads George and the girls up to a door marked 'Dressing Room 3'.)<br>
+							<br>
+							
+						GEORGE: This is very exciting. The inner sanctum.<br>
+							<br>
+							
+						(Jerry knocks on the door. It's opened after a second, by one of the Sandos Brothers who looks at Jerry, questioningly.)<br>
+							<br>
+							
+						JERRY: Hi. I..I was in the audience earlier. You threw my jacket down. I just wanted to pick it up.<br>
+							<br>
+							
+						SANDOS BROTHER 2: Jacket? What jacket?<br>
+							<br>
+							
+						JERRY: (explaining) I had a jacket with a crest on it. You came into the audience, you threw it away. Agrabah.<br>
+							<br>
+							
+						SANDOS BROTHER 2: A..are you sure it was me?<br>
+							<br>
+							
+						JERRY: Well, it was either you or one of your brothers.<br>
+							<br>
+							
+						(Jerry looks past to where another couple of Sandos Brother are still changing.)<br>
+							<br>
+							
+						SANDOS BROTHER 2: Well, two of them have left already.<br>
+							<br>
+							
+						(The Sandos Brother at the door turns to the other two an rattles off a question in some foreign language. The other two speak to each other and reply to the question, also in a foreign tongue, but clearly they don't know anything.)<br>
+							<br>
+							
+						SANDOS BROTHER 2: (shaking his head apologetically) No.<br>
+							<br>
+							
+						JERRY: It doesn't even belong to me. It belongs to the Friars Club.<br>
+							<br>
+							
+						SANDOS BROTHER 2: Sorry.<br>
+							<br>
+							
+						(The Sandos Brother closes the door, smiling.)<br>
+							<br>
+							
+						HALLIE: Jerry, I'm sure it'll turn up.<br>
+							<br>
+							
+						JERRY: (cynical) I'm sure it won't.<br>
+							<br>
+							
+						HALLIE: Don't worry. I'll get the jacket back.<br>
+							<br>
+							
+						GEORGE: (cheerful) Alright, there you go. She's gonna get the jacket back. (claps hands) So, let's go get some coffee, huh?<br>
+							<br>
+							
+						JERRY: (downcast) No, I'm a little tired. I think I'll go home.<br>
+							<br>
+							
+						SUSAN: Aww, that's too bad.<br>
+							<br>
+							
+						GEORGE: Really?<br>
+							<br>
+							
+						JERRY: Yeah, we'll do it another time.<br>
+							<br>
+							
+						SUSAN: (bright) George, we'll go.<br>
+							<br>
+							
+						(George doesn't look like the prospect of coffee alone with Susan is something he relishes.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Monk's]<br>
+							<br>
+							
+						(George and Susan sit either side of a table, with coffee. There's a definite lack of sparkling conversation. George forces a smile at Susan. There's a long pause, broken only by Susan sighing. George finally thinks of something to say.)<br>
+							<br>
+							
+						GEORGE: I, uh, oh, broke a shoelace today.<br>
+							<br>
+							
+						SUSAN: Oh, I can get you shoelaces tomorrow.<br>
+							<br>
+							
+						GEORGE: Okay.<br>
+							<br>
+							
+						SUSAN: So, what colour?<br>
+							<br>
+							
+						GEORGE: Brown.<br>
+							<br>
+							
+						(Susan nods her comprehension, as George muses for a moment.)<br>
+							<br>
+							
+						GEORGE: Maybe a black.<br>
+							<br>
+							
+						SUSAN: Mmm.<br>
+							<br>
+							
+						(The waitress walks by the table with the coffee pot.)<br>
+							<br>
+							
+						WAITRESS: More coffee?<br>
+							<br>
+							
+						GEORGE: (urgent) No! Check! (quieter) Please.<br>
+							<br>
+							
+						(The waitress pulls the check from her pocket and puts it on the table for George.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Hallway Outside Jerry's Apartment]<br>
+							<br>
+							
+						(As Jerry walks up to his door, Kramer's door opens and two guys emerge carrying a large body-shaped object wrapped in fabric. They carry it away down the hall.)<br>
+							<br>
+							
+						JERRY: (looking after the guys) That nut is always up to something.<br>
+							<br>
+							
+						(Jerry shakes his head at Kramer's antics as he enters his apartment.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[A Lonely Stretch Of Road On The Banks Of The Hudson]<br>
+							<br>
+							
+						(It is night. A large black car squeals to a stop beside the river. The two guys we just saw leave Kramer's apartment climb out of the car. They open the trunk and haul out the wrapped object they were carrying. They lug it to the rail at the edge of the road, and heave it over the edge. It splashes into the river and begins to sink. The two guys quickly close the trunk of the car and climb back in.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Beneath The Hudson River]<br>
+							<br>
+							
+						(The object sinks down into the water. Suddenly, the contents begin to squirm and jump. The outline of a human body can be seen within the fabric. The top of the wrappings opens and Kramer emerges. He looks around, wide-eyed, and would scream with shock, were he not underwater. He kicks his legs and swims toward the surface.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[The Hudson River]<br>
+							<br>
+							
+						(Kramer breaks the surface with a splutter. He looks round, panicky and confused.)<br>
+							<br>
+							
+						KRAMER: HEY!! Sh..! Shii! MAMA!!<br>
+							<br>
+							
+						(Kramer looks to one side, where he sees a large ferry bearing down on him. He turns and begins swimming away from the vessel.)<br>
+							<br>
+							
+						KRAMER: AAH! AAGH!<br>
+							<br>
+							<br>
+							<br>
+							
+						[Elaine's Office, J. Peterman]<br>
+							<br>
+							
+						(Elaine is working away, when Peterman enters behind her. He's carrying a couple of bits of card.)<br>
+							<br>
+							
+						PETERMAN: Elaine. I think I've been working you a little too hard, lately.<br>
+							<br>
+							
+						(Peterman sits on the edge of Elaine's desk.)<br>
+							<br>
+							
+						ELAINE: (shrugging it off) Oh.<br>
+							<br>
+							
+						PETERMAN: So, I have two tickets for you (holds up the bits of card) to the Flying Sandos Brothers magic show.<br>
+							<br>
+							
+						ELAINE: (pleased) Ah.<br>
+							<br>
+							
+						PETERMAN: It is a real hoot.<br>
+							<br>
+							
+						ELAINE: (delighted) Well, thank you Mr Peterman.<br>
+							<br>
+							
+						PETERMAN: Ah, the tickets are for tonight. So you and Bob can knock off a little early, so you both can get ready.<br>
+							<br>
+							
+						(Elaine looks confused. Peterman begins to leave.)<br>
+							<br>
+							
+						ELAINE: Mr Peterman, you...<br>
+							<br>
+							
+						PETERMAN: (interrupting) There's no need to deny it, Elaine. I heard every word you said.<br>
+							<br>
+							
+						(Elaine realises what Peterman overheard.)<br>
+							<br>
+							
+						PETERMAN: And I know you wouldn't be just having fun with his handicap. (staring away) That kind of cruelty would be grounds for dismissal.<br>
+							<br>
+							
+						ELAINE: (resigned) Of course, Mr Peterman.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Jerry's Apartment]<br>
+							<br>
+							
+						(Jerry is on the phone, as George enters.)<br>
+							<br>
+							
+						JERRY: (into phone) Tell 'em I'll come down and talk to 'em. Okay, bye. (to George) Well, that was the Friars Club. D'you think they're gonna let a jacket-stealer join? I don't think so! They're gonna charge me eight hundred dollars for the jacket, and I gotta deal with Pat Cooper!<br>
+							<br>
+							
+						(Jerry stalks about as George sits on the couch.)<br>
+							<br>
+							
+						JERRY: (worked up) Wh..what kinda show is that Sandos Brothers? They take your jacket, then they just throw it? I never heard of that!<br>
+							<br>
+							
+						GEORGE: It's a little unusual. So, uh, Susan and I were thinking, uh, dinner at our house Saturday night. Just the four of us.<br>
+							<br>
+							
+						JERRY: (unenthusiastic) Uhh, I don't think so.<br>
+							<br>
+							
+						GEORGE: (worried) Why not?<br>
+							<br>
+							
+						JERRY: (impassive) Ah, I'm a little turned off.<br>
+							<br>
+							
+						GEORGE: (standing) C'mon, what're you talking about?<br>
+							<br>
+							
+						JERRY: Ahh, I'm, I'm kinda soured.<br>
+							<br>
+							
+						GEORGE: You're soured?<br>
+							<br>
+							
+						JERRY: Yeah, I'm soured.<br>
+							<br>
+							
+						GEORGE: Don't be soured.<br>
+							<br>
+							
+						JERRY: I'm sorry. I'm soured.<br>
+							<br>
+							
+						GEORGE: (animated) What're you kidding me? We were all getting along so well. Where is all this coming from?<br>
+							<br>
+							
+						JERRY: Well, you know, frankly, I don't think she was too concerned about my jacket.<br>
+							<br>
+							
+						GEORGE: (animated) What're you talking about?! She's very concerned! She said she was gonna get it back.<br>
+							<br>
+							
+						JERRY: (indifferent) Yeah, we'll see.<br>
+							<br>
+							
+						GEORGE: (worked up) Because if she gets it back, then you'll have no reason to be sour. You'll de-sour, right?<br>
+							<br>
+							
+						JERRY: I'll try and de-sour.<br>
+							<br>
+							
+						GEORGE: (aggravated) Oh, that's not good enough! You don't try and de-sour. You have to sweeten too!<br>
+							<br>
+							
+						JERRY: (sharp) I'll try! I'll try and de-sour and sweeten.<br>
+							<br>
+							
+						GEORGE: I wanna get it back when we were the Gatsbys.<br>
+							<br>
+							
+						JERRY: I still don't know what that means.<br>
+							<br>
+							
+						GEORGE: (neither does he) Yeah, well.<br>
+							<br>
+							
+						(The door opens and Kramer enters, fully dressed but soaked to the skin.)<br>
+							<br>
+							
+						KRAMER: God.<br>
+							<br>
+							
+						JERRY: (astonished) Oh god! What happened to you?!<br>
+							<br>
+							
+						KRAMER: (animated) She tried to kill me Jerry!<br>
+							<br>
+							
+						JERRY: Who?<br>
+							<br>
+							
+						KRAMER: (shouts) Connie!<br>
+							<br>
+							
+						JERRY: What'd she do?<br>
+							<br>
+							
+						KRAMER: I don't know! (building to a shout) But I woke up in the Hudson river in a SACK!! I think she drugged me, but she's a murderer and I'm calling the cops.<br>
+							<br>
+							
+						JERRY: (bewildered) Why would she try and kill you?<br>
+							<br>
+							
+						KRAMER: (animated) Well, isn't it obvious? She doesn't want anybody else to have me!<br>
+							<br>
+							
+						(Kramer moves to leave, but walks into the door with a loud thud.)<br>
+							<br>
+							
+						KRAMER: (to door) Gah!<br>
+							<br>
+							
+						(Kramer stomps away to his own apartment.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Friars Club Lobby]<br>
+							<br>
+							
+						(Jerry and George stand where they dealt with the maitre d' on their previous visit. As they wait, they're people-watching.)<br>
+							<br>
+							
+						JERRY: Hey, there's uncle Milty.<br>
+							<br>
+							
+						GEORGE: (pleased) Yeah, it is.<br>
+							<br>
+							
+						JERRY: (pointing) And there's David Steinberg.<br>
+							<br>
+							
+						GEORGE: The comedian, or the manager?<br>
+							<br>
+							
+						JERRY: The manager.<br>
+							<br>
+							
+						(George looks unimpressed. Pat Cooper comes walking toward Jerry and George.)<br>
+							<br>
+							
+						JERRY: (to George) Hey, there's Pat. (calls) Hey, Pat.<br>
+							<br>
+							
+						PAT: Hey, Jerry. What the hell went wrong? What's the matter with you? Are you a kleptomaniac, or what?<br>
+							<br>
+							
+						JERRY: I forgot to take it off.<br>
+							<br>
+							
+						PAT: (dubious) You forgot to take it off? Oh, you go into a department store, you put a suit on, and you walk right out. What are you some sort of an idiot?<br>
+							<br>
+							
+						JERRY: I'm sorry.<br>
+							<br>
+							
+						PAT: Where's the jacket?<br>
+							<br>
+							
+						JERRY: Well, one of the gypsies took it.<br>
+							<br>
+							
+						PAT: (skeptical) Aww, the gypsies took it! Of course, New York has a lot of gypsies! Oh, on every block there's a gypsy!<br>
+							<br>
+							
+						GEORGE: (meekly) Well, it's true. I saw it.<br>
+							<br>
+							
+						PAT: (probing) Excuse me, are you an entertainer? Are you in showbusiness?<br>
+							<br>
+							
+						GEORGE: No, I uh...<br>
+							<br>
+							
+						PAT: (interrupting) Then what am I talking to you for? (to Jerry) Jerry, bring the jacket back tomorrow.<br>
+							<br>
+							
+						JERRY: Alright.<br>
+							<br>
+							
+						(Pat Cooper walks away from the guys. Jerry motions for George to leave with him. George looks round and sees something.)<br>
+							<br>
+							
+						GEORGE: Wait a minute, wait a minute.<br>
+							<br>
+							
+						(Over at one of the tables, the Sandos Brother who took Jerry's jacket is entertaining some other guests. He's wearing a familiar crested jacket.)<br>
+							<br>
+							
+						GEORGE: Look at that guy. Right there. Isn't that the guy from the show? He's..he's wearing the jacket.<br>
+							<br>
+							
+						JERRY: God, you're right.<br>
+							<br>
+							
+						GEORGE: (motioning Jerry to follow) C'mon.<br>
+							<br>
+							
+						(Jerry and George walk into the Friars Club, but within a couple of strides they are faced with the maitre d'.)<br>
+							<br>
+							
+						MAITRE D': Wait a second! Excuse me gentlemen, are you members?<br>
+							<br>
+							
+						JERRY: Well, I'm a prospective member.<br>
+							<br>
+							
+						MAITRE D': Until then, (pointing) that's the way out.<br>
+							<br>
+							
+						JERRY: But that guy has my jacket.<br>
+							<br>
+							
+						MAITRE D': C'mon, let's go.<br>
+							<br>
+							
+						(The maitre d' shepherds Jerry and George out of the door, despite their continuing protests.)<br>
+							<br>
+							
+						GEORGE: Excuse me, the guy is wearing a jacket that my friend is...<br>
+							<br>
+							
+						MAITRE D': Come on.<br>
+							<br>
+							
+						JERRY: Come on.<br>
+							<br>
+							
+						MAITRE D': Let's go.<br>
+							<br>
+							
+						GEORGE: If I could talk to the guy for just a sec...<br>
+							<br>
+							
+						(Jerry and George are ejected from the Friars Club.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Theatre]<br>
+							<br>
+							
+						(Elaine and Bob sit in the same box used by Jerry, George, Susan and Hallie. Elaine looks distinctly unenthused at the prospect of spending the evening with Bob. Bob looks delighted to be ensconced with Elaine.)<br>
+							<br>
+							
+						BOB: These seats are fantastic. It was really nice of Mr Peterman to give us these tickets.<br>
+							<br>
+							
+						ELAINE: (flat) Yeah, yeah. Was nice.<br>
+							<br>
+							
+						(Bob slips one hand round the back of Elaine's seat and leans slightly toward her.)<br>
+							<br>
+							
+						BOB: (smiling) Yeah. Got our own little private box here, don't we?<br>
+							<br>
+							
+						(Elaine looks at Bob, wondering what he's talking about. Bob dives across at Elaine, putting his arms round her and his face on her chest.)<br>
+							<br>
+							
+						ELAINE: (pushing Bob away) Get offa me! Stop it. Stop it.<br>
+							<br>
+							
+						(Elaine succeeds in heaving Bob away from her. She looks at him, angrily.)<br>
+							<br>
+							
+						ELAINE: Get offa me!<br>
+							<br>
+							
+						(Bob stands for a few seconds, with Elaine glaring at him. Then he dives in for another go. Elaine struggles with him again.)<br>
+							<br>
+							
+						ELAINE: Get a hold of yourself, Bob! (throwing Bob back between the seats) Get a hold of yourself!<br>
+							<br>
+							
+						(Bob slowly gets to his feet. Elaine glares at him, and Bob shamefacedly shuffles away out of the box.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Theatre, Backstage]<br>
+							<br>
+							
+						(Jerry and George come round a corner in a dingy corridor at the theatre.)<br>
+							<br>
+							
+						JERRY: I dunno how that guy gave us the slip at the Friars Club.<br>
+							<br>
+							
+						GEORGE: I told you, he probably went out the back.<br>
+							<br>
+							
+						(Along the corridor comes the Sandos Brother who took Jerry's jacket. He has a jacket slung over one shoulder. Jerry and George collide with him.)<br>
+							<br>
+							
+						JERRY: Ouf.<br>
+							<br>
+							
+						(Jerry recognises the guy.)<br>
+							<br>
+							
+						JERRY: Hey. It's you! (pointing) Th..that's my Friars Club jacket!<br>
+							<br>
+							
+						SANDOS BROTHER 1: No, it is not. It is my jacket.<br>
+							<br>
+							
+						(The Sandos Brother backs away from the advancing Jerry and George.)<br>
+							<br>
+							
+						JERRY: (adamant) No, no, no. That's my jacket, give it back.<br>
+							<br>
+							
+						SANDOS BROTHER 1: No, it is not. This is mine.<br>
+							<br>
+							
+						JERRY: C'mon I need it.<br>
+							<br>
+							
+						(Jerry grabs hold of the jacket and begins a tug-of-war with it. George joins in, trying to release the grip of the Sandos Brother. The door to 'Dressing Room 3' opens and Hallie emerges and watches the struggle.)<br>
+							<br>
+							
+						JERRY: (determined) I wanna join. I need it to become a member.<br>
+							<br>
+							
+						GEORGE: Give 'im the jacket already!<br>
+							<br>
+							
+						(Jerry and George succeed in taking the jacket. The Sandos Brother runs away down the corridor, shouting.)<br>
+							<br>
+							
+						SANDOS BROTHER 1: (yelling) Help! Help! (foreign language) Azobar! Azobar disay!<br>
+							<br>
+							
+						GEORGE: What's he yelling about? They're stealing jackets here!<br>
+							<br>
+							
+						JERRY: Can you believe it?!<br>
+							<br>
+							
+						(Jerry looks at the jacket they took, and notices something.)<br>
+							<br>
+							
+						JERRY: (examining) Hey George, you know what? I think this crest is different. It's got a moose on it.<br>
+							<br>
+							
+						GEORGE: Moose?<br>
+							<br>
+							
+						JERRY: Yeah. (subdued) I don't think this is the jacket.<br>
+							<br>
+							
+						HALLIE: No, it's not.<br>
+							<br>
+							
+						(Hallie reaches inside the door of Dressing Room 3 and pulls out a jacket on a hanger.)<br>
+							<br>
+							
+						HALLIE: This is the jacket.<br>
+							<br>
+							
+						(Jerry and George look mortified. Hallie brings the jacket over to Jerry.)<br>
+							<br>
+							
+						JERRY: Ohh, you got the jacket back.<br>
+							<br>
+							
+						GEORGE: Ohh, yeahh.<br>
+							<br>
+							
+						JERRY: (taking the jacket) Thank you.<br>
+							<br>
+							
+						HALLIE: It got a little dirty, so they wanted to clean it before they gave it back to you.<br>
+							<br>
+							
+						JERRY: Oh. (smiling) Oh, that's nice of 'em.<br>
+							<br>
+							
+						GEORGE: (smiling) That is really nice.<br>
+							<br>
+							
+						HALLIE: Yeah.<br>
+							<br>
+							
+						JERRY: Yeah.<br>
+							<br>
+							
+						HALLIE: Yeah.<br>
+							<br>
+							
+						JERRY: Yeah.<br>
+							<br>
+							
+						GEORGE: This is nice.<br>
+							<br>
+							
+						JERRY: Yeahh.<br>
+							<br>
+							
+						HALLIE: Yeah.<br>
+							<br>
+							
+						GEORGE: (forced buoyancy) Hey, you know, let's call Susan, we'll go have coffee.<br>
+							<br>
+							
+						HALLIE: (flat) I'll see you at the wedding.<br>
+							<br>
+							
+						(Hallie walks away, leaving George's Gatsby ambitions in tatters.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Theatre]<br>
+							<br>
+							
+						(Elaine sits alone in the box. Something on the floor catches her eye. It's Bob's hearing-aid earpiece. Elaine picks it up, and it occurs to her that she has the opportunity she wanted. She wipes the earpiece on the lapel of her jacket and carefully slips it over her ear. Elaine cocks her head on one side, listening to see if it makes a difference.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Theatre, Backstage]<br>
+							<br>
+							
+						(Jerry and George walk along backstage. Jerry has his jacket, and George is carrying the Sandos Brother's jacket, looking sullen.)<br>
+							<br>
+							
+						GEORGE: (moody) Great! Now she's sour!<br>
+							<br>
+							
+						JERRY: Maybe she'll sweeten.<br>
+							<br>
+							
+						GEORGE: (angry) She won't sweeten, and I'm bitter!<br>
+							<br>
+							
+						(Behind Jerry and George, the Flying Sandos Brothers appear. They look over toward Jerry and George.)<br>
+							<br>
+							
+						SANDOS BROTHER 1: (pointing) There they are!<br>
+							<br>
+							
+						(The Sandos Brothers set off running after Jerry and George. George hurriedly puts the jacket down on a table, as he and Jerry begin to hasten.)<br>
+							<br>
+							
+						GEORGE: Here. (panicky) We'll leave it here for you!<br>
+							<br>
+							
+						(Jerry and George run away, as the Sandos Brothers advance.)<br>
+							<br>
+							
+						(George is on the lead as he and Jerry reach a door marked 'Emergency Exit. Alarm will sound'. George pushes the door open and he and Jerry dart through. As they do, a loud alarm bell begins to ring.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Theatre]<br>
+							<br>
+							
+						(Elaine is sitting wearing the earpiece when the alarm sounds. Obviously, the earpiece works, as Elaine spasms in pain at the ringing. She clutches her hands to her ears and jerks off her seat, falling out of sight onto the floor of the box.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Hallway, Apartment Building]<br>
+							<br>
+							
+						(Kramer stands outside the door to an apartment, flanked by two other guys. One of the guys knocks at the door. After a few seconds, it is opened by Connie.)<br>
+							<br>
+							
+						KRAMER: (pointing) That's her, officer.<br>
+							<br>
+							
+						CONNIE: (shocked) Kramer! Oh my god, I thought you were...<br>
+							<br>
+							
+						KRAMER: (animated) What? Sleeping with the fishes? I guess I woke up!<br>
+							<br>
+							
+						(The detective shows his shield to Connie.)<br>
+							<br>
+							
+						DETECTIVE: You're under arrest for the attempted murder of Cosmo Kramer.<br>
+							<br>
+							
+						CONNIE: (defensive) I didn't do anything.<br>
+							<br>
+							
+						KRAMER: (sarcastic) Oh, yeah! Yeah!<br>
+							<br>
+							
+						DETECTIVE: Get your coat, we gotta take you in.<br>
+							<br>
+							
+						CONNIE: Can I call my lawyer?<br>
+							<br>
+							
+						DETECTIVE: Okay, go ahead.<br>
+							<br>
+							
+						(Connie goes back into her apartment.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Connie's Apartment/Lawyer's Office]<br>
+							<br>
+							
+						CONNIE: (on phone) You gotta meet me at the police station. They're arresting me for attempted murder.<br>
+							<br>
+							
+						(On the phone in his office is Jackie Chiles.)<br>
+							<br>
+							
+						JACKIE: Attempted murder? Of whom?<br>
+							<br>
+							
+						CONNIE: This guy, Kramer.<br>
+							<br>
+							
+						JACKIE: Oh. (hesitantly) Cosmo Kramer?<br>
+							<br>
+							
+						CONNIE: (surprised) Yeah, that's right.<br>
+							<br>
+							
+						JACKIE: (adamant) I don't want nothing to do with it.<br>
+							<br>
+							
+						(Jackie puts down his phone and looks glad to have escaped.)<br>
+							<br>
+							<br>
+							
+						The End</td>
+						</tr>
+						<tr height="6">
+							<td class="bottom2" width="645" height="6"></td>
+						</tr>
+						<tr>
+							<td width="645">
+								<div align="center">
+									<font size="-1">Copyright 2006 seinology.com | All Rights Reserved | Designed by 13erla</font></div>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+		<p></p>
+	</body>
+
+</html>

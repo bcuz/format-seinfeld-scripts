@@ -1,0 +1,1494 @@
+<tdOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+<html>
+
+	<head>
+		<meta http-equiv="content-type" content="text/html;charset=ISO-8859-1">
+		<meta name="description" content="Top Source for Seinfeld">
+		<meta name="keywords" content="seinfeld, sienfeld, Jerry Seinfeld, Julia Louis Dreyfus, Jason Alexander, Michael Richards, Kramer, George, Costanza, Elaine Benes, morty, Larry David">
+		<title>Seinology.com :: Scripts :: 74-The Cigar Store Indian</title>
+	<link rel='stylesheet' href='/stylesheet.css' type='text/css'>
+	</head>
+
+	<body>
+			<table align="center" width="787" border="0" cellspacing="0" cellpadding="0">
+				<tr>
+					<td><font size="-2" color="red">Seinology.com - </font><font size="-3" color="black">Where Seinfeld Content and Accuracy Matter Most. Seinfeld scripts in pdf form, Seinfeld episode video clips, Seinfeld episode audio clips, Jerry Seinfeld appearances, Julia Louis-Dreyfus appearances, Michael Richards appearances, Jason Alexander appearances, Seinfeld discussion Forum, Seinfeld Where are they Now? Seinlanguage Newsletter, Popular Seinfeld Lists, Seinfeld episode standup, Seinfeld episode guide, Seinfeld fan fiction. Seinfeld content all on one domain. Seinology.com enjoy your stay.</font></td>
+				</tr>
+			</table>
+		
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr height="100">
+				<td class="logo"></td>
+			</tr>
+			<tr><td class="ads" align="center" background=#8694fa>
+				<script type="text/javascript"><!--
+google_ad_client = "pub-1924026976931416";
+google_ad_width = 728;
+google_ad_height = 90;
+google_ad_format = "728x90_as";
+google_ad_type = "text";
+google_ad_channel = "";
+google_color_border = "FFFFFF";
+google_color_bg = "8694fa";
+google_color_link = "0000FF";
+google_color_text = "000000";
+google_color_url = "002E3F";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></td></tr>
+		</table>
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr>
+				<td valign="top" width="136">
+					<table width="136" border="0" cellspacing="0" cellpadding="0">
+						<tr height="24">
+							<td class="navigation">
+								<div align="center">
+									
+									<b>Navigation</b></div>
+							</td>
+						</tr>
+						<tr height="199">
+							<td class="spacer1" valign="top" width="136" height="199">
+								<div align="center">
+									<font size="-1"><a href="http://www.seinology.com">Home</a><br>
+										<a href="http://board.seinology.com">Forum</a><br>
+										<a href="http://www.seinology.com/av.shtml">Audio/Video</a><br>
+										<a href="http://www.seinology.com/scripts.shtml">Scripts</a><br>
+										<a href="http://www.seinology.com/survivor.shtml">Survivor</a><br>
+										<a href="http://www.seinology.com/fanfics.shtml">Fan Fiction</a><br>
+										<a href="http://www.seinology.com/gallery/">Gallery</a><br>
+										<a href="http://www.seinology.com/newsletter.shtml">Newsletter</a><br>
+										<a href="http://www.seinology.com/lists.shtml">Lists</a><br>
+										<a href="http://www.seinology.com/epguide.shtml">Episode Guide</a><br>
+										<a href="http://www.seinology.com/links.shtml">Links</a><br>
+										<a href="http://www.seinology.com/faqother.shtml">Faq + others</a><br>
+										<a href="http://www.seinology.com/legal.shtml">Legal</a></font></div>
+							</td>
+						</tr>
+						
+						<tr>
+							<td class="nav2" width="136">
+							<div align="center"><b>Search</b></div></td>
+						</tr>
+						<tr>
+							<td class="spacer1" width="136" valign="top"><div align="center"><form method="get" action="http://www.seinology.com/search/search.cgi">
+<p><label for="fdse_Match">Match</label><br>
+<select name="Match" id="fdse_Match" size="1">
+<option value="1">All</option>
+<option value="0">Any</option>
+<option value="2">Phrase</option>
+</select></p>
+<p><label for="fdse_Realm">Where?</label><br>
+<select name="Realm" id="fdse_Realm" size="1">
+<option selected="selected" value="All">EntireSite</option>
+<option value="Ep Guide">Ep Guide</option>
+<option value="Images">Images</option>
+<option value="Lists">Lists</option>
+<option value="Newsletters">Newsletters</option>
+<option value="Scripts">Scripts</option>
+<option value="Notes..Nothing">Notes..Nothing</option>
+</select></p>
+<p><input type="text" name="Terms" size="14" id="fdse_Terms"><br>
+<input type="submit" class="submit" name="submitButtonName" value="Search"></p>
+</div></form></td>
+						</tr>
+						<tr><td class="bottom" width="136" height="10" valign="top">
+						</td>
+						</tr>
+					</table>
+				</td>
+				<td width="4"></td>
+				<td valign="top" width="645">
+					<table width="645" border="0" cellspacing="0" cellpadding="0">
+						<tr height="18">
+							<td width="645" height="35" class="bar">
+								<div align="center">
+									<b><font size="+2" color="black">Script</font></b></div>
+							</td>
+						</tr>
+						<tr height="362">
+							<td class="spacer2" valign="top" width="645" height="362">
+
+						<p><font size="-2">Episode 74 - The Cigar Store Indian<br>
+							
+						pc: 510, season 5, episode 10<br>
+							
+						Broadcast date: December 9, 1993<br>
+							<br>
+							
+						Written by Tom Gammill &amp; Max Pross<br>
+							
+						Directed by Tom Cherones<br>
+							<br>
+							
+						-------------------------------------------------------------------------------<br>
+							<br>
+							
+						The Cast<br>
+							
+						Regulars:<br>
+							
+						Jerry Seinfeld ....................... Jerry Seinfeld<br>
+							
+						Jason Alexander .................. George Costanza<br>
+							
+						Julia Louis-Dreyfus ............. Elaine Benes<br>
+							
+						Michael Richards ................. Kramer<br>
+							<br>
+							
+						Guest Stars:<br>
+							<br>
+							
+						Kimberly Norris&nbsp; ................. Winona<br>
+							
+						Sam Lloyd ........................... Ricky<br>
+							
+						Carissa Channing ...............&nbsp; Sylvia<br>
+							
+						Ralph Manza ....................... Gepetto<br>
+							
+						Al Roker&nbsp; ............................. Himself<br>
+							
+						Veralyn Jones ...................... Renee<br>
+							
+						Lisa Pescia ............................ Joanne<br>
+							
+						Benjamin Lum ...................... Mailman<br>
+							
+						Irvin Mosley Jr. .................... Spike<br>
+							
+						rc: Jerry Stiller ...................... Frank Costanza<br>
+							
+						rc: Estelle Harris .................. Estelle Costanza<br>
+							
+						rc: Richard Fancy ................. Mr. Lippman<br>
+							<br>
+							
+						==================================================================<br>
+							<br>
+							
+						[Opening Monologue]<br>
+							<br>
+							
+						JERRY: You can always tell what was the best year of your father's life, because they seem to just freeze that clothing style and just ride it out to the end, don't they? And it's not like they don't continue shopping, it's just they somehow manage to find new old clothes. Every father is like this fashion time capsule, you know what I mean. It's like they should be on a pedestal, with someone next to 'em going 'This was nineteen sixty-five'. To me the worst thing is shopping for pants. I hate dressing and undressing in that little room. What men need is a place to shop where you go in, you check your pants at the door, and you just walk around the store in your underwear. That would be the best way. Then you'd really have to lie to the salesman. 'Need some help?' 'No, just getting some air.' <br>
+							<br>
+							<br>
+							
+						[George's parents' house] <br>
+							<br>
+							
+						(Elaine and Jerry in the living room.) <br>
+							<br>
+							
+						JERRY: How would you describe the smell in this house? <br>
+							<br>
+							
+						ELAINE: (sniffing) Dandruff? <br>
+							<br>
+							
+						JERRY: Yeah, that's part of it. (sniffs) Kasha? <br>
+							<br>
+							
+						ELAINE: There's some kasha. <br>
+							<br>
+							
+						JERRY: Yeah. Dandruff, kasha, mothballs, cheap carpeting. It's pot pourri, really. <br>
+							<br>
+							
+						(George enters from the kitchen<br>
+							<br>
+							
+						ELAINE: Alright, let's go, come on. <br>
+							<br>
+							
+						GEORGE: Wha... you're going? <br>
+							<br>
+							
+						ELAINE: Yeah. You know we shouldn't have bowled that last game, I'm gonna be late. <br>
+							<br>
+							
+						(Kramer enters from bathroom. He's holding some brightly coloured objects in his hand and obviously has an unpleasant taste in his mouth.) <br>
+							<br>
+							
+						KRAMER: Egh. These aren't candies. <br>
+							<br>
+							
+						GEORGE: Wha? Did you use those? These are guest soaps! (he grabs the soaps and begins examining them for damage) <br>
+							<br>
+							
+						KRAMER: Well I'm a guest. <br>
+							<br>
+							
+						GEORGE: Now my parents are gonna know I had people over. <br>
+							<br>
+							
+						JERRY: You're not allowed to have people over? <br>
+							<br>
+							
+						GEORGE: I can't have any parties while they're out of town. (he leaves to return the soaps) <br>
+							<br>
+							
+						KRAMER: What, this is a party? <br>
+							<br>
+							
+						ELAINE: Not any more. Come on, get your ball, we're leaving. Let's go, let's go. <br>
+							<br>
+							
+						(Jerry, Elaine and Kramer begin to leave. George re-enters and notices Jerry's mug on the coffee table.) <br>
+							<br>
+							
+						GEORGE: (yells) Wow! Who put this cup right on the new table! <br>
+							<br>
+							
+						JERRY: (picks it up) I was having coffee, I put it on the coffee table. <br>
+							<br>
+							
+						GEORGE: But you didn't use a coaster, Jerry, you left a stain! (he runs to kitchen) <br>
+							<br>
+							
+						KRAMER: Whoah boy. There's always one at every party, huh? <br>
+							<br>
+							
+						(George returns with a cloth and begins wiping at the stain.) <br>
+							<br>
+							
+						ELAINE: (impatient) Come on! <br>
+							<br>
+							
+						JERRY: What's the big rush? <br>
+							<br>
+							
+						ELAINE: I'm having people over. <br>
+							<br>
+							
+						JERRY: Who? <br>
+							<br>
+							
+						ELAINE: The girls for poker night. You know, Joanne, Renee, Winona... <br>
+							<br>
+							
+						JERRY: Eh, eh, ah. Winona's gonna be there? <br>
+							<br>
+							
+						ELAINE: Yeah. And she broke up with the vitamin guy. <br>
+							<br>
+							
+						JERRY: (interested) Really? <br>
+							<br>
+							
+						ELAINE: I'll put in a good word for you. <br>
+							<br>
+							
+						JERRY: Thanks, because I would really like... (distractedly puts coffee cup back on the table) <br>
+							<br>
+							
+						GEORGE: (screaming) Aaahh!! <br>
+							<br>
+							
+						JERRY: Alright, I'm sorry. I'm sorry. (picks it up again) <br>
+							<br>
+							
+						GEORGE: But Jerry, this is not coming out! <br>
+							<br>
+							
+						JERRY: Just put a coffee table book over it. <br>
+							<br>
+							
+						GEORGE: My parents don't read! They're gonna wonder what a book is doing on the table! <br>
+							<br>
+							
+						KRAMER: Hey, hey, hey, hey. You know what would make a great coffee table book? A coffee table book about coffee tables! Get it? <br>
+							<br>
+							
+						ELAINE: Got it! C'mon, let's go, let's go. Bye George. <br>
+							<br>
+							
+						GEORGE: Wait, wait wait, not so fast. Jerry, you gotta take me to get this thing refinished. <br>
+							<br>
+							
+						ELAINE: Now?! <br>
+							<br>
+							
+						GEORGE: Yes, now. It's gonna take a few days and my parents are gonna be back. I gotta have it back before them! <br>
+							<br>
+							
+						ELAINE: Jerry, you promised you'd get me home by seven. <br>
+							<br>
+							
+						KRAMER: Alright, we'll take the subway. <br>
+							<br>
+							
+						JERRY: There you go. That'll get you home in time. <br>
+							<br>
+							
+						ELAINE: Oh! The subway? From Queens? <br>
+							<br>
+							
+						GEORGE: Alright, Jerry, I'm gonna get my coat. <br>
+							<br>
+							
+						JERRY: I'm sorry Elaine, I'll make it up to you. <br>
+							<br>
+							
+						ELAINE: I need something to read on the subway. <br>
+							<br>
+							
+						JERRY: (handing her a magazine) Here, read this. <br>
+							<br>
+							
+						ELAINE: (looks at it) TV Guide? <br>
+							<br>
+							<br>
+							
+						[Subway train] <br>
+							<br>
+							
+						(Elaine and Kramer sit together. Elaine is reading TV Guide, Kramer is expanding on his book concept.) <br>
+							<br>
+							
+						KRAMER: Like a history of coffee tables, celebrities and their coffee tables. It's a natural. This is a story that must be told. <br>
+							<br>
+							
+						ELAINE: (engrossed in magazine) Hmm-mmm. <br>
+							<br>
+							
+						KRAMER: So, you're gonna talk to your boss about it, huh? <br>
+							<br>
+							
+						ELAINE: (still paying no attention) Hmm-mmm. First thing in the morning. <br>
+							<br>
+							
+						KRAMER: (claps hands) Yes indeed. <br>
+							<br>
+							
+						TANNOY (V.O.): Next stop, Queensboro Plaza. <br>
+							<br>
+							
+						KRAMER: Oh, Queensboro Plaza. (reties his shoelaces) This stop is famous for its gyros, you want one? <br>
+							<br>
+							
+						ELAINE: How are you gonna get something and get back on the train in time? <br>
+							<br>
+							
+						KRAMER: Well, they got a stand right out on the platform. Gyros are cooked, and wrapped, and ready to go. (he pulls money from his pocket) Three dollars, no change. You want one? <br>
+							<br>
+							
+						ELAINE: (laughing) No thanks. <br>
+							<br>
+							
+						KRAMER: Alright, but no bites. <br>
+							<br>
+							
+						(Kramer goes to the door, where he stands jostling with a couple of other guys waiting for it to open. When it does, they all exit in a hurry. Elaine continues to study the TV Guide. A guy sitting opposite (bald, glasses, anorak inside and out) proffers a pen.) <br>
+							<br>
+							
+						RICKY: Highlighter? <br>
+							<br>
+							
+						ELAINE: Excuse me? <br>
+							<br>
+							
+						RICKY: To highlight the programmes you plan to watch. <br>
+							<br>
+							
+						ELAINE: Ah. Uh, look really (looks about to try and avoid contact) I'm just trying to read. <br>
+							<br>
+							
+						RICKY: Fine, okay. It's just, I've never seen a beautiful lady reading 'the Guide' so far away from a TV. You must really like television. <br>
+							<br>
+							
+						(The train about to leave, the doors begin to close. As they do, Kramer tries to enter. The door closes, trapping his arm at the shoulder, leaving him holding his gyro into the carriage.) <br>
+							<br>
+							
+						KRAMER: (yells) Elaine! <br>
+							<br>
+							
+						(A passenger walking down the carriage grabs the gyro from Kramer's hand and sits down to eat it. Kramer extracts his arm and the doors slam closed.)<br>
+							<br>
+							
+						RICKY: Guess your boyfriend'll have to catch the next train. <br>
+							<br>
+							
+						ELAINE: He's not my boyfriend. <br>
+							<br>
+							
+						RICKY: He's not? (thoughtful) Interesting. <br>
+							<br>
+							<br>
+							
+						[Furniture refinishers] <br>
+							<br>
+							
+						(Gepetto, the store owner is assessing the state of the coffee table.) <br>
+							<br>
+							
+						JERRY: Hey, maybe I should get Elaine something. <br>
+							<br>
+							
+						GEORGE: Why? <br>
+							<br>
+							
+						JERRY: Ah, you know, I didn't drive her home. Plus, I give her a gift in front of Winona, how does that hurt me? <br>
+							<br>
+							
+						GEORGE: Can't hurt you. <br>
+							<br>
+							
+						JERRY: What about, what about this thing? <br>
+							<br>
+							
+						GEORGE: The Indian? <br>
+							<br>
+							
+						JERRY: Yeah. You know, kind of a peace offering. Cute. <br>
+							<br>
+							
+						GEPETTO: Well, I can have the table ready for you on Monday. <br>
+							<br>
+							
+						GEORGE: Alright, but no later, because my parents are coming back. <br>
+							<br>
+							
+						GEPETTO: They left you home alone, huh? <br>
+							<br>
+							<br>
+							
+						[Subway train] <br>
+							<br>
+							
+						(Elaine still sits with Ricky the TV anorak. He's poring over the TV Guide. Elaine is looking like she'd rather be anywhere else.) <br>
+							<br>
+							
+						RICKY: Oh, 'kay, see. On this particular Tuesday (he swaps seats and sits beside Elaine) you could've watched six hours of Lucy. There's I Love Lucy, The Lucy Show, Here's Lucy. <br>
+							<br>
+							
+						(The brakes come on as the train pulls into a stop.) <br>
+							<br>
+							
+						ELAINE: Oh, (nervous laugh) my stop. (making her escape) Bye-bye. <br>
+							<br>
+							
+						RICKY: (after Elaine) Hey miss! (waving TV Guide) You forgot this! <br>
+							<br>
+							
+						(Elaine has gone. Ricky looks at the cover of the magazine, and sees the address label, upon which is printed F. COSTANZA, 1344 QUEENS BLVD, FLUSHING NY 11353) <br>
+							<br>
+							<br>
+							<br>
+							
+						[Furniture refinishers] <br>
+							<br>
+							
+						(Gepetto explaining the Indian to Jerry. George sits waiting.) <br>
+							<br>
+							
+						GEPETTO: They don't make these any more. The work is, is all done by hand. (Sylvia enters the store behind him) Takes years, and years, and... (notices) Sylvia! For crying out, you're forty-five minutes late! <br>
+							<br>
+							
+						SYLVIA: Yeah, yeah. (to George, smiling) Is that your car out there? <br>
+							<br>
+							
+						GEORGE: No, it's, it's his. (indicates Jerry) <br>
+							<br>
+							
+						SYLVIA: Oh, nice. You guys are obviously from Manhattan. <br>
+							<br>
+							
+						GEORGE: Well, he is. I, uh, I live around the corner. <br>
+							<br>
+							
+						SYLVIA: Really? Ah, I didn't think any cool guys lived in this neighborhood. <br>
+							<br>
+							
+						GEORGE: (sensing his chance) Well, they do now. Neighborhood's changing. <br>
+							<br>
+							
+						JERRY: Alright, I'll take it. <br>
+							<br>
+							
+						GEPETTO: Smart choice. <br>
+							<br>
+							
+						SYLVIA: Wow, you bought the Indian? Oh, you guys have great taste. <br>
+							<br>
+							
+						GEORGE: Well, we're collectors. We, uh, see objects of great beauty and, uh, we must have them. <br>
+							<br>
+							<br>
+							<br>
+							
+						[Elaine's apartment] <br>
+							<br>
+							
+						(Elaine and the girls are sitting at a table playing poker.)<br>
+							<br>
+							
+						ELAINE: Knocked you out Jack. Pair of deuces <br>
+							<br>
+							
+						THE GIRLS: (disappointed) Oh/Aah.<br>
+							<br>
+							
+						ELAINE: (triumphant) Ha, ha, ha ha! <br>
+							<br>
+							
+						(There's a knock at the door.) <br>
+							<br>
+							
+						ELAINE: Who is it? <br>
+							<br>
+							
+						JERRY (O.C.): It's Jerry. <br>
+							<br>
+							
+						(Elaine gets up and opens the door, revealing Jerry standing beside a large object (the Indian) half-covered with a black plastic bag.) <br>
+							<br>
+							
+						ELAINE: Jerry! <br>
+							<br>
+							
+						JERRY: Surprise! (he carries in the object) <br>
+							<br>
+							
+						ELAINE: What is this? <br>
+							<br>
+							
+						JERRY: Well, I felt bad about this afternoon, so I got you something. <br>
+							<br>
+							
+						ELAINE: Oh, you did? (to girls) Oh, do you guys all know Jerry? <br>
+							<br>
+							
+						THE GIRLS: Hi Jerry/Hello. (etc) <br>
+							<br>
+							
+						JERRY: Hi. Hi Winona. Nice to see you again. <br>
+							<br>
+							
+						GIRL (NOT WINONA): Elaine, is it your birthday? <br>
+							<br>
+							
+						ELAINE: No. <br>
+							<br>
+							
+						JERRY: I don't need a reason to give gifts, it's my nature. I love to make people happy. <br>
+							<br>
+							
+						THE GIRLS: Aww/That's so sweet. (general murmur of approval) <br>
+							<br>
+							
+						JERRY: Are you ready? <br>
+							<br>
+							
+						ELAINE: Yeah. <br>
+							<br>
+							
+						JERRY: (whips off bag to reveal Indian) Ta-da! <br>
+							<br>
+							
+						(There is a deathly hush.) <br>
+							<br>
+							
+						JERRY: It's a cigar store Indian. (to Elaine) Read the card. <br>
+							<br>
+							
+						ELAINE: (examines card; embarrassed) That's very nice. Thank you very much. <br>
+							<br>
+							
+						JERRY: Read it out loud. <br>
+							<br>
+							
+						ELAINE: I, I don't think so. <br>
+							<br>
+							
+						JERRY: (takes the card from Elaine) We had a little fight this afternoon. (reading from card) Let's bury the hatchet. We smoke um peace pipe. <br>
+							<br>
+							
+						WINONA: (gathering her stuff) Hey, you know, it's late. I really should go. <br>
+							<br>
+							
+						ELAINE: I, uh, I don't blame you Winona. I, uh... <br>
+							<br>
+							
+						(Jerry begins rocking the Indian back and forth, making the stereotypical movie Indian chant.) <br>
+							<br>
+							
+						JERRY: Hey-yah, ho-ah, hey-yah, ho-ah. <br>
+							<br>
+							
+						(Winona leaves, looking offended.) <br>
+							<br>
+							
+						ELAINE: Are you out of your mind?! <br>
+							<br>
+							
+						JERRY: ...ho-ah. It's, it's, it's kitschy. <br>
+							<br>
+							
+						ELAINE: Winona is a Native American. <br>
+							<br>
+							
+						JERRY: She is? <br>
+							<br>
+							<br>
+							
+						[George's parents' house] <br>
+							<br>
+							
+						(Sylvia is looking round the living room. Some cheesy male harmony singing can be heard in the background.) <br>
+							<br>
+							
+						SYLVIA: You got very unusual taste. <br>
+							<br>
+							
+						GEORGE: (proffering glasses) I hope prune juice is alright. It's the only thing I had that was chilled. <br>
+							<br>
+							
+						SYLVIA: Fine. <br>
+							<br>
+							
+						GEORGE: I'm sorry about that lock on the liquor cabinet. The combination musta just flown outta my head. It's a mental block. <br>
+							<br>
+							
+						SYLVIA: (regarding photo) Ahh! Is this your son in the bubble bath? <br>
+							<br>
+							
+						GEORGE: (bashful) No, that's me. <br>
+							<br>
+							
+						SYLVIA: Oh. You don't see many guys your age who keep baby pictures of themselves around. (laughs) I like it. Consistent with the rest of the house. <br>
+							<br>
+							
+						GEORGE: Yes, it is consistent. I've, uh, I've tried to maintain a consistent feel throughout the house. <br>
+							<br>
+							
+						SYLVIA: What is this we're listening to? <br>
+							<br>
+							
+						GEORGE: The Ray Conniff Singers. (nervous chuckle) <br>
+							<br>
+							
+						SYLVIA: Mmmm, what's that smell? Kasha? <br>
+							<br>
+							
+						GEORGE: It's a pot pourri. May I, uh, may I show you the master bedroom? (they leave together) <br>
+							<br>
+							<br>
+							<br>
+							
+						[Jerry, downstairs at Winona's building. He's talking on the buzzer.]<br>
+							<br>
+							
+						WINONA (O.C.): Who is it? <br>
+							<br>
+							
+						JERRY: Uh, Winona, it's Jerry Seinfeld. <br>
+							<br>
+							
+						WINONA: (unimpressed) Yeah? <br>
+							<br>
+							
+						JERRY: Uhm, listen, I really felt bad about what happened, and I, I, I'd really like to apologise. Can I come up? <br>
+							<br>
+							
+						WINONA: I'll come down. <br>
+							<br>
+							<br>
+							<br>
+							
+						[Elaine's apartment] <br>
+							<br>
+							
+						KRAMER: I came by to get my ball. <br>
+							<br>
+							
+						ELAINE: It's right over there. <br>
+							<br>
+							
+						KRAMER: Oh, yeah, thanks. (gets ball) Yeah, it's got the magic grip. How d'you think I bowled that two-twenty today, huh? (sees Indian) Yo! Where did this come from? <br>
+							<br>
+							
+						ELAINE: You want it? <br>
+							<br>
+							
+						KRAMER: (unbelieving) I can have this?! <br>
+							<br>
+							
+						ELAINE: Yuh! You wanna lug it uptown, it's yours. <br>
+							<br>
+							
+						KRAMER: Oh. I'll lug. <br>
+							<br>
+							<br>
+							<br>
+							
+						[Street outside Winona's] <br>
+							<br>
+							
+						WINONA: It's just that it's a very sensitive issue for me. <br>
+							<br>
+							
+						JERRY: And well it should be. I think if you spent any time with me at all, you'd see I'm very sensitive to these matters as well. You wouldn't be hungry by any chance, wouldya? <br>
+							<br>
+							
+						WINONA: (smiling) I guess I could go for a bite. <br>
+							<br>
+							
+						JERRY: You like Chinese food, 'cos I once went to a great Szechwan restaurant in this neighbourhood. I don't remember the exact address... (he spots a mailman crouched emptying a box) Uh, excuse me, you must know where the Chinese restaurant is around here. <br>
+							<br>
+							
+						(The mailman stands, turns and is revealed as Chinese. He takes offence.) <br>
+							<br>
+							
+						MAILMAN: Why must I know? Because I'm Chinese? You think I know where all the Chinese restaurants are? (adopts hackneyed Chinese accent) Oh, ask honorable Chinaman for location of restaurant. <br>
+							<br>
+							
+						JERRY: I asked because you were the mailman, you would know the neighbourhood. <br>
+							<br>
+							
+						MAILMAN: Oh, hello American Joe. Which way to hamburger, hotdog stand? (storms away) <br>
+							<br>
+							
+						JERRY: I didn't know that... <br>
+							<br>
+							
+						WINONA: You know, it's late. I should probably just go home. <br>
+							<br>
+							
+						JERRY: I, I had no idea. <br>
+							<br>
+							
+						(A cab drives by. Kramer leans out the window, along with the top of the Indian.) <br>
+							<br>
+							
+						KRAMER: (yells) Hey Jerry! (thumps cab door with his palm) Look what I got! (begins doing war-whoops) <br>
+							<br>
+							
+						(Winona looks offended again. Jerry is mortified, and can find nothing to say. Winona storms back into her building.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[George's parent's house] <br>
+							<br>
+							
+						(George and Jerry are returning the table.) <br>
+							<br>
+							
+						GEORGE: Looks pretty good. <br>
+							<br>
+							
+						JERRY: Yeah, did a good job. <br>
+							<br>
+							
+						(They put the various ornaments back on the table.) <br>
+							<br>
+							
+						GEORGE: Yeah. I don't think they'll be able to tell. <br>
+							<br>
+							
+						JERRY: You know, I don't get it. Not allowed to ask a Chinese person where the Chinese restaurant is! I mean, aren't we all getting a little too sensitive? I mean, someone asks me which way is Israel, I don't fly off the handle. <br>
+							<br>
+							
+						GEORGE: So, anyway, what's uh, what's the status with, uh... <br>
+							<br>
+							
+						JERRY: Ah, she kinda calmed down. I talked to her today. In fact I'm gonna see her tonight. <br>
+							<br>
+							
+						GEORGE: Oh, great. <br>
+							<br>
+							
+						JERRY: Yeah, but I'm a little uncomfortable. I'm afraid of making another mistake. <br>
+							<br>
+							
+						GEORGE: Aw c'mon. <br>
+							<br>
+							
+						(The front door opens and George's parents enter.) <br>
+							<br>
+							
+						ESTELLE: Hello, hello! <br>
+							<br>
+							
+						GEORGE: (insincerely) Ahh, hey you're home. Hi. <br>
+							<br>
+							
+						ESTELLE: Oh, the house looks very nice. <br>
+							<br>
+							
+						GEORGE: Yeah, huh. <br>
+							<br>
+							
+						FRANK: Where's the mail? <br>
+							<br>
+							
+						ESTELLE: Hello Jerry. <br>
+							<br>
+							
+						JERRY: Hello. <br>
+							<br>
+							
+						GEORGE: So, how was the trip? <br>
+							<br>
+							
+						ESTELLE: Ah, your father... <br>
+							<br>
+							
+						FRANK: Is there anything wrong with getting a receipt at a toll booth? <br>
+							<br>
+							
+						ESTELLE: I'm going upstairs. (she leaves for the bedroom) <br>
+							<br>
+							
+						FRANK: (examining mail) This stack should be bigger, where's the TV Guide? <br>
+							<br>
+							
+						GEORGE: What TV Guide? <br>
+							<br>
+							
+						FRANK: I'm missing TV Guide volume forty-one, number thirty-one. <br>
+							<br>
+							
+						JERRY: Uh, Elaine took it to read on the subway. <br>
+							<br>
+							
+						FRANK: Elaine took it? <br>
+							<br>
+							
+						GEORGE: I didn't know she took it! <br>
+							<br>
+							
+						JERRY: Wa, it's two weeks old. <br>
+							<br>
+							
+						FRANK: (shouting) How could you let her take the TV Guide?! <br>
+							<br>
+							
+						GEORGE: (to Jerry) He collects them. <br>
+							<br>
+							
+						JERRY: You collect TV Guide? <br>
+							<br>
+							
+						FRANK: The nerve of that woman. Walking into my house, stealing my collectible! <br>
+							<br>
+							
+						ESTELLE: (screaming) Oh my God! (she enters holding a small packet) This was in our bed. <br>
+							<br>
+							
+						FRANK: (taking the packet) What is this? (accusingly to George) A prophylactic wrapper?! <br>
+							<br>
+							
+						ESTELLE: What is this doing on my bed?! <br>
+							<br>
+							
+						GEORGE: I don't know, uh... <br>
+							<br>
+							
+						JERRY: I'll see you later. (he leaves with unseemly haste) <br>
+							<br>
+							
+						FRANK: You were having sex on our bed?! <br>
+							<br>
+							
+						GEORGE: Yes! <br>
+							<br>
+							
+						ESTELLE: Who told you, you could have sex in our bed? <br>
+							<br>
+							
+						GEORGE: (pleading) Well, my bed is too small. <br>
+							<br>
+							
+						FRANK: Your bed is too small? I'm gone two weeks and you turn our house into, into Bourbon Street! <br>
+							<br>
+							
+						ESTELLE: Where am I going to sleep? <br>
+							<br>
+							
+						GEORGE: What are you talking about? <br>
+							<br>
+							
+						ESTELLE: I can't sleep in there! <br>
+							<br>
+							
+						GEORGE: Of course you can. <br>
+							<br>
+							
+						ESTELLE: I can't! (screams) I can't! <br>
+							<br>
+							
+						FRANK: That's it! You're grounded! <br>
+							<br>
+							
+						GEORGE: (incredulous) You can't ground me, I'm a grown man. <br>
+							<br>
+							
+						FRANK: You wanna live here? You respect the rules of our house. (yells) You're grounded! <br>
+							<br>
+							<br>
+							<br>
+							
+						[Winona's apartment] <br>
+							<br>
+							
+						(Jerry sits on the couch. Winona enters with their jackets.)<br>
+							<br>
+							
+						WINONA: So, where are we gonna go eat? <br>
+							<br>
+							
+						JERRY: I thought we'd eat at the Gentle Harvest. <br>
+							<br>
+							
+						WINONA: Ooh, I love that place, but it's usually so crowded. Can we get a table? <br>
+							<br>
+							
+						JERRY: Ah, don't worry. I made reser... (catches himself) <br>
+							<br>
+							
+						WINONA: You made what? <br>
+							<br>
+							
+						JERRY: I uh, I uh, I arranged for the appropriate accommodations. And then, Knick tickets, floor seats. <br>
+							<br>
+							
+						WINONA: How did you get these? <br>
+							<br>
+							
+						JERRY: Got 'em on the street, from a scal... (catches himself again) <br>
+							<br>
+							
+						WINONA: From who?<br>
+							<br>
+							
+						JERRY: A uh, one of those guys. <br>
+							<br>
+							
+						WINONA: What guys? <br>
+							<br>
+							
+						JERRY: You know, the guys, that uh, they sell the tickets for the sold-out events. <br>
+							<br>
+							
+						WINONA: Oh. <br>
+							<br>
+							
+						JERRY: Wait a second, you got the Mark McEwan TV Guide. <br>
+							<br>
+							
+						WINONA: That's Al Roker. <br>
+							<br>
+							
+						JERRY: Oh well, they're both chubby weathermen. I get Dom Deluise and Paul Prudhoe mixed up too. Could I have this? <br>
+							<br>
+							
+						WINONA: Sure, take it. <br>
+							<br>
+							
+						JERRY: Thanks. <br>
+							<br>
+							<br>
+							<br>
+							
+						[Jerry's apartment] <br>
+							<br>
+							
+						(Jerry enters with the TV Guide.) <br>
+							<br>
+							
+						JERRY: So, Winona had the TV Guide. Told you I'd make it up to you. <br>
+							<br>
+							
+						ELAINE: Aah, so Mr Costanza was pretty mad, huh? <br>
+							<br>
+							
+						JERRY: Yeah. You almost ruined his life's work. <br>
+							<br>
+							
+						ELAINE: He collects (holds up magazine) these? <br>
+							<br>
+							
+						JERRY: Yeah. <br>
+							<br>
+							
+						ELAINE: Wow! Alright, well I will personally go out to Queens and deliver his Al Roker TV Guide to him. <br>
+							<br>
+							
+						JERRY: What'ya do with the one you took? <br>
+							<br>
+							
+						ELAINE: I dunno. <br>
+							<br>
+							<br>
+							
+						[Ricky's apartment] <br>
+							<br>
+							
+						(Ricky sits at a table, in a room which looks like that of a messy teenager. He's cutting away at the TV Guide with a pair of scissors. He's humming the theme to I Love Lucy to himself as he does so.) <br>
+							<br>
+							<br>
+							
+						[Jerry's apartment] <br>
+							<br>
+							
+						(Kramer enters.) <br>
+							<br>
+							
+						ELAINE: Hi. <br>
+							<br>
+							
+						KRAMER: Yeah uh, Elaine uh, what'd he say? <br>
+							<br>
+							
+						ELAINE: What did who say? <br>
+							<br>
+							
+						KRAMER: Your boss. Didn't you tell him about the coffee table book? <br>
+							<br>
+							
+						ELAINE: Uhmm... <br>
+							<br>
+							
+						KRAMER: Yeah, you didn't tell him didya? <br>
+							<br>
+							
+						ELAINE: Kramer, it is such a dumb idea. I would be (raising her voice as Kramer speaks his line) totally embarrassed to bring it... <br>
+							<br>
+							
+						KRAMER: (simultaneous) Wait a minute, on the cover I'm... <br>
+							<br>
+							
+						ELAINE: I would be embarrassed to bring it up. <br>
+							<br>
+							
+						JERRY: I thought it was a pretty good idea. It's about coffee tables, it's on a coffee table. <br>
+							<br>
+							
+						KRAMER: Yeah, right, right, and on the cover is a built-in coaster. (clicks tongue) Alright, well I'm gonna go. <br>
+							<br>
+							
+						JERRY: Where you going? <br>
+							<br>
+							
+						KRAMER: Well, I'm gonna go to the cigar stores. I'm gonna see if I can sell that Indian. <br>
+							<br>
+							
+						JERRY: My Indian? <br>
+							<br>
+							
+						KRAMER: You know, I think it's worth something. It's kitschy. (tongue click) <br>
+							<br>
+							
+						(He leaves.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[George's parents' house] <br>
+							<br>
+							
+						(George and Frank in front of the TV. Frank is still bothered by the TV Guide incident. George is slumped in the sofa, looking long-suffering.) <br>
+							<br>
+							
+						FRANK: How do you just walk into a house and take a TV Guide? How does she expect you to watch TV? (doorbell rings) Am I just supposed to turn it on and wander aimlessly around the dial? <br>
+							<br>
+							
+						(Estelle answers the door. Opening it, she finds Ricky outside, holding what looks like a bouquet of flowers.) <br>
+							<br>
+							
+						RICKY: Hello. Is Elaine home? <br>
+							<br>
+							
+						ESTELLE: Elaine Benes? Oh, she's my son's friend. <br>
+							<br>
+							
+						FRANK: (shouting) And she's not welcome in this house! <br>
+							<br>
+							
+						RICKY: (entering) Oh, 'cos I made her this very special gift. 'Kay, it's a bouquet of paper from her TV Guide. <br>
+							<br>
+							
+						FRANK: (yelling) That's my TV Guide! Ripped to shreds! She gave that to you?! <br>
+							<br>
+							
+						RICKY: (seeing TV) Hey, is that the Twilight Zone you're watching? <br>
+							<br>
+							
+						GEORGE: Yeah. <br>
+							<br>
+							
+						RICKY: Oh, this is a good one. <br>
+							<br>
+							<br>
+							<br>
+							
+						[Subway train] <br>
+							<br>
+							
+						(Elaine riding the subway to Queens.) <br>
+							<br>
+							
+						TANNOY (V.O.): Next stop, Queensboro Plaza. <br>
+							<br>
+							
+						(A thought occurs to Elaine.) <br>
+							<br>
+							
+						ELAINE (V.O.): Mmm, gyro. <br>
+							<br>
+							
+						(She jumps up and goes to the door. She sizes up the woman next to her at the exit. When the doors open, she barges the woman aside and rushes out first.)<br>
+							<br>
+							<br>
+							
+						[Jerry's apartment] <br>
+							<br>
+							
+						(Jerry is pouring glasses of Perrier in the kitchen while Winona looks around.) <br>
+							<br>
+							
+						WINONA: I like your place. It's very unassuming. <br>
+							<br>
+							
+						JERRY: Well, why would I assume. I never assume. Leads to assumptions. <br>
+							<br>
+							
+						WINONA: (laughs) Oh, by the way. That TV Guide I gave you, I need it back. <br>
+							<br>
+							
+						JERRY: Why? <br>
+							<br>
+							
+						WINONA: Well, I'm doing a report on minorities in the media, and I wanted to use that interview with Al Roker. <br>
+							<br>
+							
+						JERRY: Well, it's too late. I gave it to Elaine, and she's already on her way to give it to George's father. <br>
+							<br>
+							
+						WINONA: Jerry, I really need it back. It, it is mine. <br>
+							<br>
+							
+						JERRY: You can't give something and then take it back. I mean, what are you... (catches himself) <br>
+							<br>
+							
+						WINONA: What? <br>
+							<br>
+							
+						JERRY: A uh, a person that uh... <br>
+							<br>
+							
+						WINONA: A person that what? <br>
+							<br>
+							
+						JERRY: Well, a person that gives something and then they're dissatisfied and they wish they had, had never uh... <br>
+							<br>
+							
+						WINONA: And? <br>
+							<br>
+							
+						JERRY: ...give, given it to the person that they originally gave it to. <br>
+							<br>
+							
+						WINONA: You mean like, an Indian giver?! <br>
+							<br>
+							
+						JERRY: I'm sorry, I'm not familiar with that term. <br>
+							<br>
+							<br>
+							<br>
+							
+						[Subway train] <br>
+							<br>
+							
+						(Elaine is eating her gyro. As she does, unseen by her, juices from her sandwich are dripping onto the TV Guide in her bag.) <br>
+							<br>
+							<br>
+							<br>
+							
+						[George's parents' house] <br>
+							<br>
+							
+						(Frank and Ricky are going through Frank's TV Guide collection. The coffee table is covered in boxes of the magazine.) <br>
+							<br>
+							
+						RICKY: I like the special fall preview issues the best. <br>
+							<br>
+							
+						FRANK: Those. I've been saving those from the beginning. <br>
+							<br>
+							
+						(The doorbell rings.) <br>
+							<br>
+							
+						RICKY: These are worth like, a lot of money. <br>
+							<br>
+							
+						(Estelle opens the door, to find Elaine.) <br>
+							<br>
+							
+						ESTELLE: Oh, hello Elaine! <br>
+							<br>
+							
+						ELAINE: Hello. (she enters) <br>
+							<br>
+							
+						RICKY: (jumping to his feet) Elaine! Hello! You look scrumptious. <br>
+							<br>
+							
+						(Elaine looks nervous and surprised.) <br>
+							<br>
+							
+						FRANK: Why'd you take my TV Guide? <br>
+							<br>
+							
+						ELAINE: (placatory) I'm so sorry about that Mr Costanza, but look. Look, I brought you another one. (hands it over) <br>
+							<br>
+							
+						RICKY: I made this for you. <br>
+							<br>
+							
+						ELAINE: (accepts reluctantly) Oh, thank you. <br>
+							<br>
+							
+						FRANK: (examining magazine) What is this? You got stains all over it! What the hell'd you do? <br>
+							<br>
+							
+						RICKY: Hey, you can't talk to her like that. <br>
+							<br>
+							
+						FRANK: (yelling) I'll talk to her any way I want! <br>
+							<br>
+							
+						RICKY: Come on Elaine, let's go. <br>
+							<br>
+							
+						(As Ricky strides over to Elaine, he catches the coffee table with his leg. It tips up with the weight of the TV Guide collection and falls over with a crash.) <br>
+							<br>
+							
+						ESTELLE: My coffee table! <br>
+							<br>
+							<br>
+							
+						[Gus' Smoke Shop] <br>
+							<br>
+							
+						(Kramer is stands beside the Indian in the cigar store, trying to do a job of salesmanship. The guy behind the counter doesn't look impressed. In the background, Mr Lippman is browsing.) <br>
+							<br>
+							
+						KRAMER: I don't understand. How can you have a cigar store, without an Indian? It's unseemly. <br>
+							<br>
+							
+						SPIKE: I'll give you a box of Coronas for it. <br>
+							<br>
+							
+						KRAMER: Forget it. <br>
+							<br>
+							
+						LIPPMAN: Uh, excuse me. Are you uh, selling this Indian? <br>
+							<br>
+							
+						KRAMER: Oh yeah, yeah. <br>
+							<br>
+							
+						LIPPMAN: Uh, I'm just uh, redecorating my office in a south-western motif and this'd be perfect. Give you five hundred dollars for it? <br>
+							<br>
+							
+						KRAMER: Giddyup. <br>
+							<br>
+							
+						LIPPMAN: Yeah? Could you help me bring it up to my office, I'm right next door. Pendant Publishing. <br>
+							<br>
+							
+						KRAMER: Pendant Publishing? Giddyup again. <br>
+							<br>
+							<br>
+							<br>
+							
+						[Lippman's office] <br>
+							<br>
+							
+						(Kramer is sitting in a chair before the desk, smoking a cigar. Elaine enters.) <br>
+							<br>
+							
+						ELAINE: Mr Lippman. I'm sorry, I was in Queens uh... (sees Kramer) Kramer! <br>
+							<br>
+							
+						KRAMER: Yeah, hi Elaine. <br>
+							<br>
+							
+						ELAINE: What are you doing in here with that? <br>
+							<br>
+							
+						KRAMER: Ah, well, it's a business transaction. <br>
+							<br>
+							
+						LIPPMAN: (entering, smoking a cigar and with a handful of cash) Listen uh, petty cash just had tens and twenties. (hands cash to Kramer) Go ahead, count it. <br>
+							<br>
+							
+						KRAMER: Yeah, I'm sure it's all here. (puts in in his pocket) You know I was just admiring your coffee table, out there in the hall. <br>
+							<br>
+							
+						LIPPMAN: You like that, huh? I had that custom made for me in Santa Fe. <br>
+							<br>
+							
+						KRAMER: You mind if I use it in my book? <br>
+							<br>
+							
+						LIPPMAN: What book? <br>
+							<br>
+							
+						KRAMER: Well, I'm doing a coffee table book on coffee tables. <br>
+							<br>
+							
+						LIPPMAN: About coffee tables? <br>
+							<br>
+							
+						(Elaine is pulling skeptical faces.) <br>
+							<br>
+							
+						KRAMER: Uh huh. <br>
+							<br>
+							
+						LIPPMAN: That's fantastic. (Elaine looks gobsmacked) Who's your publisher? <br>
+							<br>
+							
+						KRAMER: Well, I'm still shopping it around. <br>
+							<br>
+							
+						LIPPMAN: Yeah? (to Elaine) You see, this is the kind of idea you should be coming in with. What the hell do you do round here all day anyway? <br>
+							<br>
+							
+						ELAINE: Well I (indistinct) ...manuscript that I... <br>
+							<br>
+							
+						LIPPMAN: (ignoring Elaine) God, that Indian really completes the room. Don't you think? <br>
+							<br>
+							
+						(Elaine looks sick.) <br>
+							<br>
+							<br>
+							<br>
+							
+						[Furniture refinishers] <br>
+							<br>
+							
+						(Estelle is showing the table to Sylvia.) <br>
+							<br>
+							
+						SYLVIA: I know this coffee table, it's George Costanza's. <br>
+							<br>
+							
+						ESTELLE: It's mine. I'm his mother. <br>
+							<br>
+							
+						SYLVIA: Oh, I haven't seen George for a while. He must be working very hard. <br>
+							<br>
+							
+						ESTELLE: George doesn't work. He's a bum. That's why he lives at home with us. <br>
+							<br>
+							
+						SYLVIA: He does? <br>
+							<br>
+							<br>
+							<br>
+							
+						[Subway train] <br>
+							<br>
+							
+						(Jerry and Elaine sit together on the train. Elaine still looks unhappy. Jerry has a copy of the TV Guide.) <br>
+							<br>
+							
+						JERRY: I don't know why we didn't think of this before. We just could call TV Guide. <br>
+							<br>
+							
+						ELAINE: I dunno. <br>
+							<br>
+							
+						JERRY: Well, it's gonna make Mr Costanza very happy. (he hands the magazine to Elaine) <br>
+							<br>
+							
+						ELAINE: I guess. <br>
+							<br>
+							
+						JERRY: What's the matter? <br>
+							<br>
+							
+						ELAINE: What d'you think is the matter? I've been assigned to work on Kramer's coffee table book. <br>
+							<br>
+							
+						JERRY: It is a good idea, Elaine. <br>
+							<br>
+							
+						TANNOY (V.O.): Next stop, Queensboro Plaza. <br>
+							<br>
+							
+						JERRY: You want a gyro? <br>
+							<br>
+							
+						ELAINE: I don't think so. <br>
+							<br>
+							
+						(Jerry jumps up and rushes out of the door, pushing his way past other commuters.) <br>
+							<br>
+							<br>
+							<br>
+							
+						[Subway train: moments later] <br>
+							<br>
+							
+						(Elaine sits alone in her seat. Jerry tries to enter the carriage just as the doors close. They close on his arm, trapping it.) <br>
+							<br>
+							
+						JERRY: Elaine! <br>
+							<br>
+							
+						(A guy walking through the carriage picks the gyro out of Jerry's hand, just as Jerry pulls his arm free. He sits down opposite Elaine, preparing to eat.) <br>
+							<br>
+							
+						AL ROKER: Guess your boyfriend's gonna have to catch the next train. <br>
+							<br>
+							
+						ELAINE: He's not my boyfriend. <br>
+							<br>
+							
+						AL ROKER: He's not? Interesting. (gives a big grin) <br>
+							<br>
+							
+						(Elaine gets a flicker of recognition. She lifts up the TV Guide and finds the guy opposite her is the same guy pictured on the cover, Al Roker. She looks up at the real guy again and he has the exact expression as the picture on the cover.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Nightclub] <br>
+							<br>
+							
+						JERRY: I was always excited as a kid, when that new TV Guide would come. Somehow when that front cover's nice and flat, seems like there's good fresh TV shows in. Then, as the weeks go by you start to hate the TV Guide. All the shows stink. Everything's getting all crumpled and ripped from being sat on, thrown across the room. TV Guide is always thrown, never handed, to another person. It's the world's most thrown reading material. 'Where's TV Guide?' (mimes throwing) 'There it is.' You know in the back of the TV Guide, they have a phone number, ninety-five cents a minute, they will give you the answers to the TV Guide crossword puzzle? My question is, if you can't do the TV Guide crossword puzzle, where are you coming across ninety-five cents? <br>
+							<br>
+							<br>
+							<br>
+							
+						The End</td>
+						</tr>
+						<tr height="6">
+							<td class="bottom2" width="645" height="6"></td>
+						</tr>
+						<tr>
+							<td width="645">
+								<div align="center">
+									<font size="-1">Copyright 2006 seinology.com | All Rights Reserved | Designed by 13erla</font></div>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+		<p></p>
+	</body>
+
+</html>

@@ -1,0 +1,1873 @@
+<tdOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+<html>
+
+	<head>
+		<meta http-equiv="content-type" content="text/html;charset=ISO-8859-1">
+		<meta name="description" content="Top Source for Seinfeld">
+		<meta name="keywords" content="seinfeld, sienfeld, Jerry Seinfeld, Julia Louis Dreyfus, Jason Alexander, Michael Richards, Kramer, George, Costanza, Elaine Benes, morty, Larry David">
+		<title>Seinology.com :: Scripts :: 164-The Betrayal</title>
+	<link rel='stylesheet' href='/stylesheet.css' type='text/css'>
+	</head>
+
+	<body>
+			<table align="center" width="787" border="0" cellspacing="0" cellpadding="0">
+				<tr>
+					<td><font size="-2" color="red">Seinology.com - </font><font size="-3" color="black">Where Seinfeld Content and Accuracy Matter Most. Seinfeld scripts in pdf form, Seinfeld episode video clips, Seinfeld episode audio clips, Jerry Seinfeld appearances, Julia Louis-Dreyfus appearances, Michael Richards appearances, Jason Alexander appearances, Seinfeld discussion Forum, Seinfeld Where are they Now? Seinlanguage Newsletter, Popular Seinfeld Lists, Seinfeld episode standup, Seinfeld episode guide, Seinfeld fan fiction. Seinfeld content all on one domain. Seinology.com enjoy your stay.</font></td>
+				</tr>
+			</table>
+		
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr height="100">
+				<td class="logo"></td>
+			</tr>
+			<tr><td class="ads" align="center" background=#8694fa>
+				<script type="text/javascript"><!--
+google_ad_client = "pub-1924026976931416";
+google_ad_width = 728;
+google_ad_height = 90;
+google_ad_format = "728x90_as";
+google_ad_type = "text";
+google_ad_channel = "";
+google_color_border = "FFFFFF";
+google_color_bg = "8694fa";
+google_color_link = "0000FF";
+google_color_text = "000000";
+google_color_url = "002E3F";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></td></tr>
+		</table>
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr>
+				<td valign="top" width="136">
+					<table width="136" border="0" cellspacing="0" cellpadding="0">
+						<tr height="24">
+							<td class="navigation">
+								<div align="center">
+									
+									<b>Navigation</b></div>
+							</td>
+						</tr>
+						<tr height="199">
+							<td class="spacer1" valign="top" width="136" height="199">
+								<div align="center">
+									<font size="-1"><a href="http://www.seinology.com">Home</a><br>
+										<a href="http://board.seinology.com">Forum</a><br>
+										<a href="http://www.seinology.com/av.shtml">Audio/Video</a><br>
+										<a href="http://www.seinology.com/scripts.shtml">Scripts</a><br>
+										<a href="http://www.seinology.com/survivor.shtml">Survivor</a><br>
+										<a href="http://www.seinology.com/fanfics.shtml">Fan Fiction</a><br>
+										<a href="http://www.seinology.com/gallery/">Gallery</a><br>
+										<a href="http://www.seinology.com/newsletter.shtml">Newsletter</a><br>
+										<a href="http://www.seinology.com/lists.shtml">Lists</a><br>
+										<a href="http://www.seinology.com/epguide.shtml">Episode Guide</a><br>
+										<a href="http://www.seinology.com/links.shtml">Links</a><br>
+										<a href="http://www.seinology.com/faqother.shtml">Faq + others</a><br>
+										<a href="http://www.seinology.com/legal.shtml">Legal</a></font></div>
+							</td>
+						</tr>
+						
+						<tr>
+							<td class="nav2" width="136">
+							<div align="center"><b>Search</b></div></td>
+						</tr>
+						<tr>
+							<td class="spacer1" width="136" valign="top"><div align="center"><form method="get" action="http://www.seinology.com/search/search.cgi">
+<p><label for="fdse_Match">Match</label><br>
+<select name="Match" id="fdse_Match" size="1">
+<option value="1">All</option>
+<option value="0">Any</option>
+<option value="2">Phrase</option>
+</select></p>
+<p><label for="fdse_Realm">Where?</label><br>
+<select name="Realm" id="fdse_Realm" size="1">
+<option selected="selected" value="All">EntireSite</option>
+<option value="Ep Guide">Ep Guide</option>
+<option value="Images">Images</option>
+<option value="Lists">Lists</option>
+<option value="Newsletters">Newsletters</option>
+<option value="Scripts">Scripts</option>
+<option value="Notes..Nothing">Notes..Nothing</option>
+</select></p>
+<p><input type="text" name="Terms" size="14" id="fdse_Terms"><br>
+<input type="submit" class="submit" name="submitButtonName" value="Search"></p>
+</div></form></td>
+						</tr>
+						<tr><td class="bottom" width="136" height="10" valign="top">
+						</td>
+						</tr>
+					</table>
+				</td>
+				<td width="4"></td>
+				<td valign="top" width="645">
+					<table width="645" border="0" cellspacing="0" cellpadding="0">
+						<tr height="18">
+							<td width="645" height="35" class="bar">
+								<div align="center">
+									<b><font size="+2" color="black">Script</font></b></div>
+							</td>
+						</tr>
+						<tr height="362">
+							<td class="spacer2" valign="top" width="645" height="362">
+
+						<p><font size="-2">Episode 164 - The Betrayal<br>
+							
+						pc: 908, season 9, episode 8<br>
+							
+						Broadcast date: November 20, 1997<br>
+							<br>
+							
+						Written by David Mandel &amp; Peter Mehlman<br>
+							
+						Directed by Andy Ackerman<br>
+							<br>
+							
+						-------------------------------------------------------------------------------<br>
+							<br>
+							
+						The Cast<br>
+							
+						Regulars:<br>
+							
+						Jerry Seinfeld ....................... Jerry Seinfeld<br>
+							
+						Jason Alexander .................. George Costanza<br>
+							
+						Julia Louis-Dreyfus ............. Elaine Benes<br>
+							
+						Michael Richards ................. Cosmo Kramer<br>
+							<br>
+							
+						Guest Stars:<br>
+							<br>
+							
+						Brenda Strong ..................... Sue Ellen Mischke<br>
+							
+						Micheal McShane ................ FDR (Franklin Delano Romanosky)<br>
+							
+						Justine Miceli ....................... Nina<br>
+							
+						Bart Braverman .................. Zubin<br>
+							
+						Noor Shic ............................ Usha<br>
+							
+						Jocelyne Kelly ..................... Model<br>
+							
+						Brian Kaiser ......................... Postman<br>
+							
+						Shelley Malil ....................... Usher<br>
+							
+						Bill Lee Brown ..................... Partygoer<br>
+							
+						rc: Wayne Knight ............... Newman<br>
+							
+						rc: Heidi Swedberg ............. Susan Biddle Ross<br>
+							<br>
+							
+						==================================================================<br>
+							<br>
+							
+						(The final 'Castle Rock' screen shows, then the end credits roll. Scene cuts to the Coffee shop. George, Elaine, and Jerry enter with suitcases. Elaine has a large bandage on her nose. They all sit down at a booth. All three of them are tired, fed up, and angered)<br>
+							<br>
+							
+						GEORGE: So, Elaine, are you going to sleep with me or what?!<br>
+							<br>
+							
+						ELAINE: (Aggravated) George, I just got off a twenty-three hour plane ride. I'm too tired to even vomit at the thought.<br>
+							<br>
+							
+						GEORGE: (Angered) Fine. I'll ask you again when you're rested.<br>
+							<br>
+							
+						JERRY: (Sarcastic) Oh, I'm sure she'll come around.<br>
+							<br>
+							
+						GEORGE: Yeah, I hope so. For your sake!<br>
+							<br>
+							
+						(Kramer comes in and sits down at the booth with them)<br>
+							<br>
+							
+						JERRY: (To George) I said I was sorry.<br>
+							<br>
+							
+						GEORGE: You can stuff you sorries in a sack, mister!<br>
+							<br>
+							
+						JERRY: (Nauseated at the saying) Would you please stop saying that?!<br>
+							<br>
+							
+						KRAMER: (Confused) What is up with you two?<br>
+							<br>
+							
+						GEORGE: I don't want to talk about it.<br>
+							<br>
+							
+						KRAMER: (To Jerry) So how was the big trip?<br>
+							<br>
+							
+						JERRY: I don't want to talk about it!<br>
+							<br>
+							
+						KRAMER: (Observing Elaine's bandaged nose) Well, what happened to your nose?<br>
+							<br>
+							
+						ELAINE: I don't want to talk ab-ow!-t it! (She winces under the pain from her nose on the word 'about')<br>
+							<br>
+							
+						KRAMER: Well, you gotta give me something! Come on, how was the wedding? Was the bride radiant?<br>
+							<br>
+							
+						ELAINE: She.. was.<br>
+							<br>
+							
+						JERRY: 'Till she found out Elaine slept with the groom.<br>
+							<br>
+							
+						KRAMER: (Interested) Ooohh... That sounds juicy. Listen, I gotta go to the bathroom, but I want to hear all about it. (Gets up and heads for the bathroom)<br>
+							<br>
+							
+						GEORGE: (While skimming a Monk's menu) You know, I didn't go to the bathroom the entire time we were in India.<br>
+							<br>
+							
+						JERRY: I can't believe we went all the way to India for a wedding!<br>
+							<br>
+							
+						(Scene ends)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Setting: India]<br>
+							<br>
+							
+						Notice: &quot;INDIA - ONE DAY EARLIER&quot;<br>
+							<br>
+							
+						(People storm out of a building. All are dressed in wedding apparel)<br>
+							<br>
+							
+						SUE ELLEN: That's it! The wedding's off.<br>
+							<br>
+							
+						PINTER: What? But, Sue Ellen-<br>
+							<br>
+							
+						SUE ELLEN: (Cutting him off. To Elaine) Elaine, you were my maid of honor and you slept with MY Pinter?!<br>
+							<br>
+							
+						ELAINE: No, no, no! It was years ago - before you met him. And, and I - I got to tell you.. it was very mechanical.<br>
+							<br>
+							
+						SUE ELLEN: I have never been so humiliated!<br>
+							<br>
+							
+						ELAINE: (To Jerry and George) Idiots! This is all your fault!<br>
+							<br>
+							
+						GEORGE: (While pointing at Jerry) Not me! Him! His fault! He betrayed me!<br>
+							<br>
+							
+						JERRY: (Pleading) George, I'm sorry.<br>
+							<br>
+							
+						GEORGE: Oh you can stuff your sorries in a sack, Mister!<br>
+							<br>
+							
+						JERRY: (Confused) I don't know what that means.<br>
+							<br>
+							
+						GEORGE: (To his girlfriend) Nina, you have to decide right now. Jerry or me?<br>
+							<br>
+							
+						NINA: (Casually) Alright.. Neither.<br>
+							<br>
+							
+						GEORGE: What?! Well, what are you doing here?<br>
+							<br>
+							
+						NINA: A free trip to India. And by the way, you can take off those boots. Everyone knows you're five' six.<br>
+							<br>
+							
+						GEORGE: Five' eight! Five' seven!<br>
+							<br>
+							
+						ELAINE: (To Sue Ellen) See? See the way they are?! We're - we're still best friends, right?<br>
+							<br>
+							
+						SUE ELLEN: No. (Grabbing at the stud in Elaine's nose) And take that stupid thing out of your nose!<br>
+							<br>
+							
+						(Elaine screams in pain as Sue Ellen pulls the stud out)<br>
+							<br>
+							
+						JERRY: That's got to hurt, I don't care where you're from!<br>
+							<br>
+							
+						GEORGE: (Whispering to Jerry) What time is our flight back? I got to go to the bathroom.<br>
+							<br>
+							
+						(Scene ends)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Setting: A building in India - the wedding ceremony is about to start]<br>
+							<br>
+							
+						Notice: &quot;FIFTEEN MINUTES EARLIER&quot;<br>
+							<br>
+							
+						(The bride, Sue Ellen, and the Groom, Pinter, are walking down the aisle. Elaine is scattering flowers behind them. Jerry walks in and takes a seat)<br>
+							<br>
+							
+						ELAINE: (Whispering to Jerry) Hey.<br>
+							<br>
+							
+						JERRY: Hey.<br>
+							<br>
+							
+						ELAINE: What happened last night?<br>
+							<br>
+							
+						JERRY: Oh, you were pretty loaded.<br>
+							<br>
+							
+						ELAINE: (Gesturing to her nose stud) I know. I woke up with this.<br>
+							<br>
+							
+						JERRY: Oh. Hello, Tetanus.<br>
+							<br>
+							
+						(Scene cuts to Nina and George entering the wedding hall)<br>
+							<br>
+							
+						NINA: George, I've used the bathroom. It's fine.<br>
+							<br>
+							
+						GEORGE: (Struggling) No, no, no, no. I can walk it off. It's a hundred and twenty degrees in here.. I'll sweat it out.<br>
+							<br>
+							
+						ELAINE: (Seeing George, she walks over to greet him) Hey. (Looking at his shoes) Are those Timberlands ... painted black?<br>
+							<br>
+							
+						GEORGE: (Looking at her nose) Is your nose pierced?<br>
+							<br>
+							
+						ELAINE: (Embarrassed) I should.. (Walks toward the bride and groom)<br>
+							<br>
+							
+						GEORGE: Yeah. (Points to two open seats in front of Jerry's. To Nina) Sit down there. (Sees Jerry in the crowd) Hello, Jerry. (Obviously angered at Jerry) I believe you know Nina.<br>
+							<br>
+							
+						JERRY: (As George sits down) George, we need to talk.<br>
+							<br>
+							
+						GEORGE: (Trying to keep his voice down) I think you've done a lot more than talk! You betrayed me!<br>
+							<br>
+							
+						JERRY: Alright, I admit it. I slept with Nina, but that's all.<br>
+							<br>
+							
+						GEORGE: (Outraged) &quot;That's all&quot;?! That's everything! I don't know what all the rest of it is for anyway!<br>
+							<br>
+							
+						JERRY: (Pleading) I'm really sorry.<br>
+							<br>
+							
+						GEORGE: You can stuff your sorries in a sack, mister!<br>
+							<br>
+							
+						JERRY: (Confused) Where'd you get that one?<br>
+							<br>
+							
+						GEORGE: It's an expression.<br>
+							<br>
+							
+						ELAINE: (From the front of the room, she can hear George and Jerry's heated discussion) Hey! Shhhhh! (Crosses herself, then shakes her head - apologizing)<br>
+							<br>
+							
+						GEORGE: (Trying to whisper to Jerry) Look, we are gonna settle this right now! I demand reparations! I should get to sleep with Elaine. That's the only way to punish you!<br>
+							<br>
+							
+						JERRY: That doesn't punish me. It punishes Elaine! And cruelly, I might add.<br>
+							<br>
+							
+						GEORGE: (Losing it) Funny guy!<br>
+							<br>
+							
+						(Elaine quickly makes her way to Jerry and George, scattering flower petals as she goes -- she throws some at them)<br>
+							<br>
+							
+						ELAINE: Hey! Monkeys! Knock it off. My best friend is trying to get married up here!<br>
+							<br>
+							
+						GEORGE: Elaine, you have to sleep with me.<br>
+							<br>
+							
+						ELAINE: (Definite) I'm not gonna sleep with you.<br>
+							<br>
+							
+						GEORGE: Reparations!<br>
+							<br>
+							
+						ELAINE: Would you grow up, George?! What is the difference? Nina slept with him (Points to Jerry), he slept with me, I slept with Pinter. Nobody cares! It's all ancient history.<br>
+							<br>
+							
+						GEORGE: (Loud, so everyone at the wedding can hear) You slept with the groom?!<br>
+							<br>
+							
+						(Everyone goes silent. George and Elaine both look sheepishly. All eyes on them, especially Sue Ellen)<br>
+							<br>
+							
+						(Scene ends)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Setting: New York street]<br>
+							<br>
+							
+						Notice:<br>
+							
+						&quot;FOUR HOURS EARLIER - BACK IN NEW YORK&quot;<br>
+							<br>
+							
+						(Kramer is standing up against a brick wall. All the sudden, he's pegged straight in the face with a snowball. He winces from the pain and coldness, then walks up to his friend FDR - the one who threw the snowball at him. He hugs him)<br>
+							<br>
+							
+						KRAMER: Oh, thank you, FDR! All right, now we&#146;re even.<br>
+							<br>
+							
+						FDR: I-I-I stuck a rock in there too.<br>
+							<br>
+							
+						FDR: All right.<br>
+							<br>
+							
+						(they put their arms around each other&#146;s shoulder and walk off)<br>
+							<br>
+							
+						(Scene ends)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Setting: The Coffee shop]<br>
+							<br>
+							
+						Notice: &quot;ONE HOUR EARLIER&quot;<br>
+							<br>
+							
+						(Kramer and FDR are both holding a wishbone)<br>
+							<br>
+							
+						KRAMER: Alright, FDR. This wish is for all the marbles. You win, you get your wish - I drop dead. I win, I don't drop dead, and I get one-hundred percent anti-drop-dead protection -- Forever.<br>
+							<br>
+							
+						FDR: Alright.<br>
+							<br>
+							
+						(They each pull, it breaks. FDR won)<br>
+							<br>
+							
+						KRAMER: Oh, man! All right, come on. There's got to be something that'll change your mind, FDR. Something..&quot; (FDR lifts up a cooler, and puts it on the table) What, you want my kidney? (FDR is smiling wickedly as he pulls a snowball out of the cooler) Mama!..<br>
+							<br>
+							
+						(Scene ends)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Setting: Jerry's room in India]<br>
+							<br>
+							
+						Notice: &quot;THE NIGHT BEFORE, BACK IN INDIA&quot;<br>
+							<br>
+							
+						(Elaine is obviously drunk)<br>
+							<br>
+							
+						ELAINE: George knows that you slept with Nina. That's why he was acting so weird.<br>
+							<br>
+							
+						JERRY: How did he find out?<br>
+							<br>
+							
+						ELAINE: He schnapped me.<br>
+							<br>
+							
+						JERRY: You know you're not supposed to drink while you're keeping a secret! (Elaine laughs) Is there anything else?<br>
+							<br>
+							
+						ELAINE: I can't tell you.<br>
+							<br>
+							
+						JERRY: (Handing her a small bottle) Here, drink this.<br>
+							<br>
+							
+						ELAINE: Okay. (Takes a drink and wave Jerry to lean in) I slept with the groom.<br>
+							<br>
+							
+						JERRY: Pinter?<br>
+							<br>
+							
+						ELAINE: He used to be called Peter.<br>
+							<br>
+							
+						JERRY: (Making nothing of it) So? Who cares about that?<br>
+							<br>
+							
+						ELAINE: Sue Ellen! If she knew, she'd call off the whole wedding.<br>
+							<br>
+							
+						(Elaine climbs on to the sofa-- on her knees, head into the side of the couch cushion, her butt in the air towards Jerry)<br>
+							<br>
+							
+						JERRY: Oh, nobody's calling off any weddings. Alright, it's time to go. Come on.. Up.<br>
+							<br>
+							
+						(Elaine climbs onto Jerry's back)<br>
+							<br>
+							
+						ELAINE: Do you know what 'Jerry' is in Indian?<br>
+							<br>
+							
+						JERRY: (Carrying her out, piggy-back style) No, what?<br>
+							<br>
+							
+						ELAINE: (Between laughs) Jugdish.<br>
+							<br>
+							
+						JERRY: Yes, Jugdish.<br>
+							<br>
+							
+						ELAINE: Hey, what if I got my, nose pierced? That would be pretty freaky.. Oooohhhhaaa! (sliding off Jerry onto the hallway floor)<br>
+							<br>
+							
+						JERRY: (Trying to get rid of her) Yes, I think it's a fine idea. Well, good night.<br>
+							<br>
+							
+						(Jerry shuts the door. Elaine peers through the blinds on Jerry's door... Sticking her fingers through the blinds - waving at him)<br>
+							<br>
+							
+						ELAINE: G'night, Jugdish. (Laughs)<br>
+							<br>
+							
+						(Scene ends)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Setting: Jerry's room, India]<br>
+							<br>
+							
+						Notice: &quot;ONE HOUR EARLIER&quot;<br>
+							<br>
+							
+						(Jerry hands Elaine a glass of Schnapps)<br>
+							<br>
+							
+						JERRY: Bless you.<br>
+							<br>
+							
+						ELAINE: Thank you...aah, hm mm.<br>
+							<br>
+							
+						(Scene ends)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Setting: Jerry's room, India]<br>
+							<br>
+							
+						Notice: &quot;THREE SECONDS EARLIER&quot;<br>
+							<br>
+							
+						(Jerry's pouring Elaine a glass of Schnapps. Elaine sneezes)<br>
+							<br>
+							
+						(Scene ends)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Setting: New York park]<br>
+							<br>
+							
+						Notice: &quot;TWO HOURS EARLIER, NEW YORK&quot;<br>
+							<br>
+							
+						(Kramer walks up to the hot-dog vender, FDR)<br>
+							<br>
+							
+						KRAMER: ah, Hello FDR. Yeah, I&#146;ll have a hot one, (pulls out some cash and slaps down a bill on the stand) everything on it.<br>
+							<br>
+							
+						FDR: These things&#146;ll kill ya... but so what...(squirts mustard on the hot dog)You&#146;re already gonna drop dead (grins)<br>
+							<br>
+							
+						KRAMER: Well, guess what, FDR? I made a wish on a shooting star last night, and I wished, against your wish.<br>
+							<br>
+							
+						FDR: That's funny. As it happens, I saw the same shooting star and double-wished you, to drop dead. (clicks out some coins from his changer and hands them to Kramer) Here's your change.<br>
+							<br>
+							
+						(Kramer walks over, and throws his coins in a nearby fountain)<br>
+							<br>
+							
+						KRAMER: Alright, I'm triple-wishing! Yep!<br>
+							<br>
+							
+						FDR: (Throwing four coins into the fountain) Then I'm quadruple-wishing!<br>
+							<br>
+							
+						KRAMER: Alright.. How do you like this? (Pulls out one of his eyebrows) Ya!<br>
+							
+						Blows it away).<br>
+							<br>
+							
+						FDR: I like it a lot. (Pulls out one of his eyebrows) Ow! (Blows it away)<br>
+							<br>
+							
+						KRAMER: (Tears out another eyelash) Ah! (Blows it away)<br>
+							<br>
+							
+						FDR: (Doing the same) Oh! (Blows it away)<br>
+							<br>
+							
+						(Kramer and FDR get into a frenzy - both ripping out their eyelashes)<br>
+							<br>
+							
+						(Scene ends)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Setting: Indian Airport]<br>
+							<br>
+							
+						Notice: &quot;THREE HOURS EARLIER - INDIA&quot;<br>
+							<br>
+							
+						(Elaine, Jerry, George, and Nina are all at the airport -- the sounds of airplanes flying over head, an Indian announcer on the PA system)<br>
+							<br>
+							
+						ELAINE: Oh, God, it's so hot! (Sniffing) What is that smell?<br>
+							<br>
+							
+						JERRY: (Joking around) I think it's the stench of death.<br>
+							<br>
+							
+						NINA: George, you've been wearing those boots since I met you. You're not gonna wear them to the wedding, are you?<br>
+							<br>
+							
+						GEORGE: No (snorts - Laughing nervously)... I'm gonna wear black shoes.<br>
+							<br>
+							
+						ELAINE: (Sees her enemy, Sue Ellen, at the airport) Oh boy. There's Sue Ellen. She didn't want me at this wedding, but here I am with a bunch of my idiot friends!<br>
+							<br>
+							
+						JERRY: (Giddy) This is gonna be great!<br>
+							<br>
+							
+						SUE ELLEN: (Walking up to the group) Elaine? Oh! Oh, I am so happy to see you!<br>
+							<br>
+							
+						ELAINE: (Confused by her reaction) You are?<br>
+							<br>
+							
+						SUE ELLEN: Well, of course! No one else was even willing to come to India. I mean, not even Pinter's parents - and they're Indian.<br>
+							<br>
+							
+						ELAINE: Come on, Sue Ellen. You don't wear a bra, you're tall... we hate each other!<br>
+							<br>
+							
+						SUE ELLEN: Elaine, I know. I know we've had our problems, but.. I want you to be my maid of honor - and my best friend.<br>
+							<br>
+							
+						ELAINE: (Toying with the idea) Huh.. alright. I guess.<br>
+							<br>
+							
+						SUE ELLEN: Uh, this is my fianc&eacute;, Pinter. (To Pinter) Say hello.<br>
+							<br>
+							
+						PINTER: (Walking up to them) Hello.<br>
+							<br>
+							
+						ELAINE: (Recognizing him) Peter?<br>
+							<br>
+							
+						SUE ELLEN: Uh, no. It's Pinter. Does anyone want to use the bathroom?<br>
+							<br>
+							
+						GEORGE: (Leading Nina out the airport) Oh, no. No. We're good. Let's get goin'. Alright. (Almost bumps into Jerry) Watch it, funny man. (Leaves)<br>
+							<br>
+							
+						JERRY: Elaine, have you noticed George was acting strange the whole flight?<br>
+							<br>
+							
+						ELAINE: (Acting equally strange) No. What? Like what? What? Strange.. No. I..<br>
+							<br>
+							
+						JERRY: (Pulls a small bottle out of his pocket) Uh-huh. Hey, look what they had on the plane. Schnapps.<br>
+							<br>
+							
+						ELAINE: Ooohh.<br>
+							<br>
+							
+						(Scene ends)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Setting: Jerry/Kramer's apartment building]<br>
+							<br>
+							
+						Notice: &quot;THE NIGHT BEFORE, NEW YORK&quot;<br>
+							<br>
+							
+						(Kramer is on the roof of his apartment building looking up at the stars)<br>
+							<br>
+							
+						KRAMER: Come on.. Come on. Yes! (Sees a falling star) There's one! (Yelling out) I wish I don't drop dead!!<br>
+							<br>
+							
+						MAN: (Off-screen) Hey, shut up up there!<br>
+							<br>
+							
+						KRAMER: You shut up!<br>
+							<br>
+							
+						MAN: Aw, drop dead!<br>
+							<br>
+							
+						(Scene ends)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Setting: Airplane]<br>
+							<br>
+							
+						Notice: &quot;FIVE HOURS EARLIER - SOMEWHERE BETWEEN NEW YORK &amp; INDIA&quot;<br>
+							<br>
+							
+						(Elaine, Jerry, George, and Nina are on the plane - India-bound. George walks up to Jerry's seat)<br>
+							<br>
+							
+						GEORGE: Hello, friend. Enjoying the flight?<br>
+							<br>
+							
+						JERRY: Coach to India - The only way to go.<br>
+							<br>
+							
+						GEORGE: (Heavily sarcastic. He's angered at Jerry) Good one. Very funny. You're very funny, Jerry. That's what I always tell people. (Yelling out) Jerry Seinfeld's a funny guy!<br>
+							<br>
+							
+						JERRY: You all right?<br>
+							<br>
+							
+						GEORGE: Of course I'm all right. I'm here with my girl, Nina. And what better way to pass the time than gabbing with my best friend -- with whom there are no secrets. (Flashes two intertwined fingers) Like this. Since the fourth grade.<br>
+							<br>
+							
+						JERRY: (Joking around) Hey, didn't I beat you up in the fourth grade?<br>
+							<br>
+							
+						GEORGE: (Yelling out to the whole coach) Funny guy! (Points to Jerry) Right here!<br>
+							<br>
+							
+						(Scene cuts to Nina and Elaine)<br>
+							<br>
+							
+						NINA: By the way, you never said anything to George about Jerry and me, did ya?<br>
+							<br>
+							
+						ELAINE: Oh please.. It's in the vault.<br>
+							<br>
+							
+						(Camera stays on Elaine and Nina as we hear George yelling from the front of the plane)<br>
+							<br>
+							
+						GEORGE: Ho, ha, ho! Jerry Seinfeld's a funny guy!<br>
+							<br>
+							
+						(Scene ends)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Setting: The airplane]<br>
+							<br>
+							
+						Notice: &quot;ONE HOUR EARLIER&quot;<br>
+							<br>
+							
+						ELAINE: Hey, what time is it? (she looks up and asks as Jerry walks in the aisle)<br>
+							<br>
+							
+						JERRY: You just asked me two minutes ago.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Setting: The airplane]<br>
+							<br>
+							
+						Notice: &quot;TWO MINUTES AGO&quot;<br>
+							<br>
+							
+						ELAINE: Hey, what time is it?<br>
+							<br>
+							
+						JERRY: Ah, I&#146;m not wearing a watch.<br>
+							<br>
+							
+						ELAINE: Oh (quietly). Is this tooth chipped? (pointing to a tooth)<br>
+							<br>
+							
+						JERRY: Yeah. How&#146;d ya do that?<br>
+							<br>
+							
+						ELAINE: I have no idea.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Setting: The Coffee shop]<br>
+							<br>
+							
+						Notice: &quot;ONE DAY EARLIER&quot;<br>
+							<br>
+							
+						(Elaine and George are at Monks. Elaine is drunk)<br>
+							<br>
+							
+						ELAINE: Watch this. (Puts the bottle of Schnapps in her mouth, flips her head up, drinking it, then puts it back down with her teeth. She is effected by that last drink:) Oh.. God..<br>
+							<br>
+							
+						GEORGE: So, Jerry and Nina, huh?<br>
+							<br>
+							
+						ELAINE: Oh, Mm mm.. (Scoots up close to George) I'm not gonna tell you, any - more - things. (points at George)<br>
+							<br>
+							
+						GEORGE: You already told me everything.<br>
+							<br>
+							
+						ELAINE: Okey-dokey.<br>
+							<br>
+							
+						(Scene ends)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Setting: Newman's apartment]<br>
+							<br>
+							
+						Notice: &quot;THIRTY MINUTES EARLIER&quot;<br>
+							<br>
+							
+						KRAMER: I mean, we had a deal, Newman. And you were supposed to give my your birthday wish. And now you've wasted it!<br>
+							<br>
+							
+						NEWMAN: (With a gorgeous woman sitting on his lap) Did I?<br>
+							<br>
+							
+						WOMAN: Newman, I'm bored.<br>
+							<br>
+							
+						NEWMAN: Aww..<br>
+							<br>
+							
+						KRAMER: Does your girlfriend have to be here?<br>
+							<br>
+							
+						NEWMAN: (Suggesting Jerry) Does yours?<br>
+							<br>
+							
+						JERRY: (Giving Newman a sour look) I'm just hanging out in this hell-hole because of George.<br>
+							<br>
+							
+						KRAMER: Alright, come on, Newman. Now you gotta help me! What am I gonna do about FDR?<br>
+							<br>
+							
+						WOMAN: Why don't you just make another wish?<br>
+							<br>
+							
+						KRAMER: And how am I gonna do that, Toots?<br>
+							<br>
+							
+						WOMAN: What about a shooting star?<br>
+							<br>
+							
+						KRAMER: (Interested) That's perfect.<br>
+							<br>
+							
+						NEWMAN: (Kissing the woman) Beauty .. and brains. (they nuzzle noses)<br>
+							<br>
+							
+						JERRY: (Disgusted. To the woman) Oh, come on. You know he's a postman, don't ya?<br>
+							<br>
+							
+						NEWMAN (quietly) Humh. (sits up, a bit indignant)<br>
+							<br>
+							
+						(Scene ends)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Setting: Jerry's apartment]<br>
+							<br>
+							
+						Notice: &quot;FIFTEEN MINUTES EARLIER&quot;<br>
+							<br>
+							
+						ELAINE: Here&#146;s your plane ticket.<br>
+							<br>
+							
+						JERRY: What are you talking about.<br>
+							<br>
+							
+						ELAINE: Sue Ellen sends me an invitation, one week before her wedding in India. Tst, I&#146;ll show her...<br>
+							<br>
+							
+						JERRY: By flying half way around the world?<br>
+							<br>
+							
+						ELAINE: Spite Never sleeps (doing a little dance as she says it<br>
+							<br>
+							
+						JERRY: Especially when you got a layover in Sarajevo. (Bosnia Herzegovina)<br>
+							<br>
+							
+						(George enters Jerry's apartment)<br>
+							<br>
+							
+						GEORGE: Hey.<br>
+							<br>
+							
+						ELAINE: (Handing George a ticket) Here. You're going to India with us tomorrow.<br>
+							<br>
+							
+						GEORGE: For how long?<br>
+							<br>
+							
+						ELAINE: Three days.<br>
+							<br>
+							
+						GEORGE: Great. Jerry, I gotta tell you, I had the BEST TIME with that Nina last night. I - I think I'm in love with her already. You are a great friend. (Hugs Jerry) A great, great friend.<br>
+							<br>
+							
+						(Kramer leaves his apartment, entering the hallway)<br>
+							<br>
+							
+						JERRY: (Trying to change the subject away from Nina) Hey - Hey Kramer, what are you doing? You want to borrow something? You want to eat something? Come on in!<br>
+							<br>
+							
+						KRAMER: (Shrugging Jerry off) Nah.<br>
+							<br>
+							
+						ELAINE: You want to go to India?<br>
+							<br>
+							
+						KRAMER: I can't. (Complaining) I'm gonna drop dead.<br>
+							<br>
+							
+						(Kramer turns to go out, then decides to get something from Jerry&#146;s refrigerator)<br>
+							<br>
+							
+						GEORGE: Great! (snaps fingers and grabs the extra plane ticket) Nina could go, huh? Jerry, this is great. You and Elaine. Me and Nina.<br>
+							<br>
+							
+						(As Kramer is walking out of the apartment)<br>
+							<br>
+							
+						JERRY: H-Hey, Kramer, wait up. I'll go with you.<br>
+							<br>
+							
+						KRAMER: I'm goin' to Newman's!<br>
+							<br>
+							
+						JERRY: Great, I love Newman! (Eagerly following Kramer)<br>
+							<br>
+							
+						GEORGE: (Asking Elaine) Jerry seem a little weird when I mentioned Nina?<br>
+							<br>
+							
+						ELAINE: Nina? Nina? No. Psshhh.. Not weird. No. Nina.<br>
+							<br>
+							
+						GEORGE: Why do you keep saying Nina?<br>
+							<br>
+							
+						ELAINE: I don't know. Nina. Nina! (Feeling she's said to much, she goes to leave) I'm gonna go grab a bite.<br>
+							<br>
+							
+						GEORGE: Uhh.. I'll- I'll meet you down there.<br>
+							<br>
+							
+						(Elaine leaves. George instantly goes looking through Jerry's cabinet) Cereal, cereal.. (Picks up a bottle) Peach schnapps. (exits)<br>
+							<br>
+							
+						(Scene ends)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Setting: NYC Street]<br>
+							<br>
+							
+						Notice: &quot;THIRTY MINUTES EARLIER&quot;<br>
+							<br>
+							
+						KRAMER: (Knocking on a port-a-potty door) Come on, Lomez! We're gonna be late for the movie.<br>
+							<br>
+							
+						(Newman, with the woman he wished for, are riding in his car. He stops at a stop light - right next to Kramer)<br>
+							<br>
+							
+						NEWMAN: (To his new girlfriend) You see, my dear, all certified mail is registered, but registered mail is not necessarily certified.<br>
+							<br>
+							
+						WOMAN: I could listen to you talk about mail all day.<br>
+							<br>
+							
+						KRAMER: Anything you wish. I'll tell you a little secret about zip codes: They're meaningless! (Laughs evilly, driving away)<br>
+							<br>
+							
+						KRAMER: Wish?! Newman!<br>
+							<br>
+							
+						(Kramer runs off after Newman -- then runs back to the porta potty and bangs on it)<br>
+							<br>
+							
+						KRAMER: Lomez, I&#146;m Leavin&#146;<br>
+							<br>
+							
+						(Scene ends)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Setting: Newman's apartment]<br>
+							<br>
+							
+						Notice: &quot;ONE DAY EARLIER&quot;<br>
+							<br>
+							
+						(It's Newman's birthday party. His house is full of Postal co-workers)<br>
+							<br>
+							
+						ALL: (Singing to Newman) ..And you smell like one, too. (laughing and clapping)<br>
+							<br>
+							
+						POSTMAN: Make a wish, Newman! We've gotta get back to work in three hours!<br>
+							<br>
+							
+						(Newman inhales, ready to blow the candles out. Kramer rushes in)<br>
+							<br>
+							
+						KRAMER: Newman, wait!<br>
+							<br>
+							
+						NEWMAN: (Stands up and Sputtering loudly) Kramer! I'm with people.<br>
+							<br>
+							
+						KRAMER: Yeah, yeah. And thanks for inviting me!<br>
+							<br>
+							
+						NEWMAN: I did invite you. Your invitation must've gotten ... lost in the mail.<br>
+							<br>
+							
+						(All postal workers burst out with laughter)<br>
+							<br>
+							
+						KRAMER: Well, Newman, I need your wish to protect me from FDR.<br>
+							<br>
+							
+						NEWMAN: Can't do it. I'm on an unbelievable birthday-wish hot streak! My last five birthday wishes came true.<br>
+							<br>
+							
+						KRAMER: Come on! Look, I'll give you my next birthday wish, huh?<br>
+							<br>
+							
+						NEWMAN: (Negotiating) Your next, fifty wishes.<br>
+							<br>
+							
+						KRAMER: Forty-eight.<br>
+							<br>
+							
+						NEWMAN: Fourty-nine.<br>
+							<br>
+							
+						KRAMER: Done!<br>
+							<br>
+							
+						NEWMAN AND KRAMER: (Together) Sucker..<br>
+							<br>
+							
+						(Newman picks up a magazine as he sits back down to his cake -- where his co-workers are about to slice it up)<br>
+							<br>
+							
+						NEWMAN: Alright, alright, back, savages. Back! I haven't made my wish yet..<br>
+							<br>
+							
+						(Newman starts to inhale again. This time, he looks at the VOGUE magazine -- on the Nov. cover is a beautiful woman. Then blows out the candles)<br>
+							<br>
+							
+						(Scene ends)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Setting: Jerry's apartment]<br>
+							<br>
+							
+						Notice: &quot;ONE DAY EARLIER&quot;<br>
+							<br>
+							
+						(Elaine enters)<br>
+							<br>
+							
+						ELAINE: Well, Ahh, this Mischke mish-mash is just gettin' worse.<br>
+							<br>
+							
+						JERRY: Uh-huh.<br>
+							<br>
+							
+						ELAINE: I talked with the groom's parents..<br>
+							<br>
+							
+						JERRY: Mm-hmm. Mm-hmm..<br>
+							<br>
+							
+						ELAINE: ... And it's so obvious that they don't want..<br>
+							<br>
+							
+						JERRY: Uh-huh..<br>
+							<br>
+							
+						ELAINE: ... me to go.<br>
+							<br>
+							
+						JERRY: Sure.<br>
+							<br>
+							
+						ELAINE: So, the only reason ...<br>
+							<br>
+							
+						JERRY: Uh-huh.<br>
+							<br>
+							
+						ELAINE: ... she sent me an invitation was that so I'd send her a gift.<br>
+							<br>
+							
+						JERRY: Uh-huh.<br>
+							<br>
+							
+						NINA: (From Jerry's room) Jerry?<br>
+							<br>
+							
+						JERRY: (To Elaine) Uh, well, you know, a coffee grinder is nice. Or a coffee maker. Everyone likes coffee. Anything to do with coffee. Maybe you should go get some coffee.<br>
+							<br>
+							
+						(Nina enters the living room - sees Elaine)<br>
+							<br>
+							
+						NINA: Oh. Hi.<br>
+							<br>
+							
+						ELAINE: Hi.<br>
+							<br>
+							
+						NINA: (Getting ready to leave) Oh, I should... um...<br>
+							<br>
+							
+						JERRY: Sure.<br>
+							<br>
+							
+						NINA: Yeah.<br>
+							<br>
+							
+						ELAINE: Bye-bye.<br>
+							<br>
+							
+						NINA: Bye. (Leaves)<br>
+							<br>
+							
+						ELAINE: (Gesturing back to the bedroom) Who else ya got back there?<br>
+							<br>
+							
+						JERRY: Look, there was an awkward moment in the conversation. It never happened before.<br>
+							<br>
+							
+						ELAINE: You slept with Nina? What are you gonna tell George?<br>
+							<br>
+							
+						JERRY: Nothing. And neither will you. George can never know about this.. It'll crush him.<br>
+							<br>
+							
+						ELAINE: Uh. Alright, alright. I'll put it in the vault.<br>
+							<br>
+							
+						JERRY: No good. Too many people know the combination.<br>
+							<br>
+							
+						ELAINE: (Confused) What combination?<br>
+							<br>
+							
+						(Jerry makes the &quot;drinky-drinky&quot; sign with his hands)<br>
+							<br>
+							
+						ELAINE: Don't be ridiculous.<br>
+							<br>
+							
+						(Jerry opens one of his kitchen drawers)<br>
+							<br>
+							
+						JERRY: Oh my god. This drawer is filled with Fruit Loops!<br>
+							<br>
+							
+						ELAINE: So what?<br>
+							<br>
+							
+						JERRY: And milk.<br>
+							<br>
+							<br>
+							<br>
+							
+						Notice: &quot;THIRTY MINUTES EARLIER&quot;<br>
+							<br>
+							
+						(Kramer is in Jerry's kitchen. He spills his milk and cereal on the counter)<br>
+							<br>
+							
+						KRAMER: Oh, geez..<br>
+							<br>
+							
+						JERRY: (From outside the apartment) Hello?<br>
+							<br>
+							
+						(Kramer quickly opens a drawer and sweeps his mess into it with his arm)<br>
+							<br>
+							
+						(Scene ends)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Setting: Pinter's parent's house - Elaine visiting]<br>
+							<br>
+							
+						Notice: &quot;ONE HOUR EARLIER&quot;<br>
+							<br>
+							
+						ELAINE: Hi. Mr. and Mrs. Ranawat?<br>
+							<br>
+							
+						ZUBIN: Please, call us Usha and Zubin.<br>
+							<br>
+							
+						ELAINE: Oh. Well, Usha.<br>
+							<br>
+							
+						ZUBIN: I'm Zubin.<br>
+							<br>
+							
+						ELAINE: (Shrugging it off) Anyway, your son is marrying my friend, Sue Ellen Mischke.<br>
+							<br>
+							
+						USHA: You're not going to the wedding, are you?<br>
+							<br>
+							
+						ELAINE: Well ...<br>
+							<br>
+							
+						USHA: Don't go. India is a dreadful, dreadful place.<br>
+							<br>
+							
+						ZUBIN: You know, it's the only country that still has the plague? (laughing as he says the line) I mean, the plague! Please!<br>
+							<br>
+							
+						USHA: Here's the registry. Send her a gift, and be glad you did not have to go.<br>
+							<br>
+							
+						ELAINE: (Soaking it in) Right. Don't go. Send a gift. I think I understand.<br>
+							<br>
+							
+						ZUBIN: If I had to go to India, I wouldn't go to the bathroom the entire trip.<br>
+							<br>
+							
+						ELAINE: (Leaving) That's fantastic.<br>
+							<br>
+							
+						ZUBIN: And I'm not so crazy about Manhattan, either.<br>
+							<br>
+							
+						(Scene ends)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Setting: Jerry's apartment]<br>
+							<br>
+							
+						Notice: &quot;THIRTY MINUTES EARLIER&quot;<br>
+							<br>
+							
+						(Jerry and Nina are in the kitchen)<br>
+							<br>
+							
+						NINA: Oh, you were going to tell me all about George.<br>
+							<br>
+							
+						JERRY: Ah, just remember when you see him tomorrow night to tell him that the waiter liked him.<br>
+							<br>
+							
+						NINA: Really?<br>
+							<br>
+							
+						JERRY: Believe me. You know, I forgot how much fun it is hanging out with you.<br>
+							<br>
+							
+						NINA: I know. You know, we never had a bad conversation.<br>
+							<br>
+							
+						JERRY: I know. No awkward pauses. Probably the reason we never fooled around..<br>
+							<br>
+							
+						NINA: Heh.. yeah.<br>
+							<br>
+							
+						JERRY: Probably the reason..<br>
+							<br>
+							
+						(They both stare at each other, then, Jerry clears of the counter with the sweep of his arm, Nina hops onto the counter, and they start going at it)<br>
+							<br>
+							<br>
+							<br>
+							
+						(Scene ends)<br>
+							<br>
+							
+						[Setting: FDR's apartment building]<br>
+							<br>
+							
+						Notice: &quot;ONE DAY EARLIER&quot;<br>
+							<br>
+							
+						(Kramer is standing outside FDR's door, talking to FDR. He is finishing what was once a large lollipop)<br>
+							<br>
+							
+						FDR: Are - are you dense? I said I wanted you to drop dead. Now.. drop dead! (Slams the door in Kramer's face *Note: FDR&#146;s Apt. #548*)<br>
+							<br>
+							
+						KRAMER: (Walking away) I knew it.. Stupid Jerry..<br>
+							<br>
+							<br>
+							<br>
+							
+						Notice: &quot;TEN MINUTES EARLIER&quot;<br>
+							<br>
+							
+						(At Jerry's apartment. Jerry's at his door, talking with Kramer. Kramer's lollipop is slightly bigger)<br>
+							<br>
+							
+						JERRY: Kramer, I know what I'm talking about. There's no way FDR wants you to drop dead.<br>
+							<br>
+							
+						KRAMER: But you haven't seen..<br>
+							<br>
+							
+						JERRY: Just go back and ask him again. (Slams the door on Kramer)<br>
+							<br>
+							
+						KRAMER: Yeah.. (Heads for FDR's)<br>
+							<br>
+							<br>
+							<br>
+							
+						Notice: &quot;TEN MINUTES EARLIER&quot;<br>
+							<br>
+							
+						(FDR's apartment. Kramer and FDR are talking at the door. Kramer's lollipop, of course, is larger than the scene before)<br>
+							<br>
+							
+						FDR: That's right. My birthday wish was that you drop dead.<br>
+							<br>
+							
+						KRAMER: Well, why?<br>
+							<br>
+							
+						FDR: (Sinister) I have my reasons.<br>
+							<br>
+							
+						KRAMER: Woah, wait, wait, wait. If you make a birthday wish out loud, it doesn't come true.<br>
+							<br>
+							
+						FDR: That's just a silly superstition. (Slams his door on Kramer)<br>
+							<br>
+							<br>
+							<br>
+							
+						Notice: &quot;TEN MINUTES EARLIER&quot;<br>
+							<br>
+							
+						(Kramer comes into Jerry's apartment with a huge lollipop)<br>
+							<br>
+							
+						KRAMER: Hey, FDR wants me to drop dead.<br>
+							<br>
+							
+						GEORGE: FDR?<br>
+							<br>
+							
+						KRAMER: (To George) Yeah, Franklin Delano Romanowski. (Resumes telling the story) I go to his birthday part, and just before he blew out his candles, he gives me this look..<br>
+							<br>
+							
+						GEORGE: (Guessing the look) Stink eye?<br>
+							<br>
+							
+						JERRY: (Also guessing) Crook eye?<br>
+							<br>
+							
+						KRAMER: EVIL, eye.<br>
+							<br>
+							
+						JERRY: Well, everybody's a little cranky on their birthday.<br>
+							<br>
+							
+						GEORGE: Oh, it's a bad day. Uh, you got everyone in your house, you're thinkin', &quot;These are my friends?!&quot;<br>
+							<br>
+							
+						JERRY: Everyday is my birthday. (Sarcastically joking off what George said)<br>
+							<br>
+							
+						KRAMER: Yeah, well, I can't have this hanging over my head. It's bad mojo.<br>
+							<br>
+							
+						(Elaine opens the door, hitting Kramer)<br>
+							<br>
+							
+						ELAINE: Hi.<br>
+							<br>
+							
+						(Kramer, still wheezing from the door, leaves)<br>
+							<br>
+							
+						ELAINE: You're not gonna believe what I got in the mail. Invitation to Sue Ellen Mischke's wedding.<br>
+							<br>
+							
+						JERRY: (Joking about the bra-less wonder) Well, at least the wedding gown will give her some support.<br>
+							<br>
+							
+						ELAINE: Not the point. The wedding is in one week. I got this (Holds up invitation) today.<br>
+							<br>
+							
+						JERRY: So you think it's a non-vite?<br>
+							<br>
+							
+						ELAINE: It's an un-vitation! (Notices George is a few inches higher) Hey, are you gettin' taller?<br>
+							<br>
+							
+						GEORGE: Timberlands. (Showing Elaine his boots)<br>
+							<br>
+							
+						ELAINE: Ah. (Looking at the invitation) Hey, look at this. 'Pinter Ranawat'.. I wonder if he's related to that guy I dated, Peter Ranawat..<br>
+							<br>
+							
+						JERRY: Ah, it's probably like Smith over there.<br>
+							<br>
+							
+						GEORGE: Jerry, would you make the call already?<br>
+							<br>
+							
+						ELAINE: What call?<br>
+							<br>
+							
+						JERRY: He wants me to set him up with this girl, Nina Stengal.<br>
+							<br>
+							
+						ELAINE: (Remembers Jerry's talking about her) Oh, the great conversation girl. (Somewhat bitter toward Jerry) The one you think can replace me?<br>
+							<br>
+							
+						(Jerry picks up the phone, dialing Nina)<br>
+							<br>
+							
+						JERRY: I was kidding when I said that!<br>
+							<br>
+							
+						GEORGE: (To Elaine) Told me the same thing.<br>
+							<br>
+							
+						JERRY: (On the phone) Nina, Hi. It's Jerry.<br>
+							<br>
+							
+						GEORGE: You-you sure you never slept with her? (Jerry shakes his head 'no') Perfect.<br>
+							<br>
+							
+						JERRY: (To Nina) Hey, how 'bout my friend, George? Quite a guy, huh?<br>
+							<br>
+							
+						GEORGE: (Rubbing his stomach) Ooh.. Something's not sitting right..<br>
+							<br>
+							
+						(Scene ends)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Setting: The Coffee shop]<br>
+							<br>
+							
+						Notice: &quot;ONE HOUR EARLIER&quot;<br>
+							<br>
+							
+						(George is ordering his meal)<br>
+							<br>
+							
+						GEORGE: I'll have the Clams Casino.<br>
+							<br>
+							
+						JERRY: Get outta here.<br>
+							<br>
+							
+						GEORGE: (Showing Jerry the menu) &quot;Chef recommends&quot;<br>
+							<br>
+							
+						JERRY: Hmm..<br>
+							<br>
+							
+						GEORGE: (Motioning toward waitress) I think she likes me.<br>
+							<br>
+							
+						JERRY: Sure.<br>
+							<br>
+							
+						GEORGE: So, how come nothing ever happened between you and Nina? (Getting paranoid) Is there a problem with her? Is she a man?<br>
+							<br>
+							
+						JERRY: Are you?<br>
+							<br>
+							
+						GEORGE: Well, what's the reason?<br>
+							<br>
+							
+						JERRY: We were too compatible Our conversations were so engrossing.<br>
+							<br>
+							
+						GEORGE: How engrossing?<br>
+							<br>
+							
+						JERRY: If we ever had a problem with Elaine, we could bring in Nina and not lose a step.<br>
+							<br>
+							
+						GEORGE: Wow! Heh. (Half kidding) You don't, huh, have a replacement lined up for me, do ya? heh he he he he he...<br>
+							<br>
+							
+						(Jerry snickers, then stares at George, smiling)<br>
+							<br>
+							
+						JERRY: Anyway, like I was saying, I couldn't make the transition from conversation to sex. There were no awkward pauses... I need an awkward pause.<br>
+							<br>
+							
+						GEORGE: I'm all for awkward pauses. Fix me up with her.. Wait a minute, Nina just saw me in my Timberlands! Now I have to wear them every time I see her.<br>
+							<br>
+							
+						JERRY: Why?<br>
+							<br>
+							
+						GEORGE: In any other shoe, I lose two inches. I - I can't have a drop down. We were eye to eye, I can't go eye to chin!<br>
+							<br>
+							
+						JERRY: So, you're gonna wear 'em no matter what the situation?<br>
+							<br>
+							
+						GEORGE: In every situation. No matter how silly I look. (Tastes his Clams Casino) Hm.. tastes a little funky.<br>
+							<br>
+							
+						JERRY: Oh, I'm sure it's fine.<br>
+							<br>
+							
+						(Scene ends)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Setting: FDR's apartment]<br>
+							<br>
+							
+						Notice: &quot;THIRTY MINUTES EARLIER&quot;<br>
+							<br>
+							
+						(A group of people are singing to FDR)<br>
+							<br>
+							
+						ALL: ..to you!<br>
+							<br>
+							
+						MAN: Come on, make a wish! Make a wish!<br>
+							<br>
+							
+						KRAMER: Yeah!<br>
+							<br>
+							
+						(FDR eyes Kramer evilly, blows out his candles)<br>
+							<br>
+							
+						ALL: Heyyy, yeahhhh (Clapping).<br>
+							<br>
+							
+						(FDR leans back, crosses arms and gives Kramer the same look. Kramer reacts nervously)<br>
+							<br>
+							
+						(Scene ends)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Setting: NYC Street]<br>
+							<br>
+							
+						Notice: &quot;TEN MINUTES EARLIER&quot;<br>
+							<br>
+							
+						(Jerry and George are walking down the street. The opening credits start to show)<br>
+							<br>
+							
+						GEORGE: Ah, this is the kind of day that almost makes you feel good to be alive.<br>
+							<br>
+							
+						JERRY: Almost. (Notices his shoes) Hey, new Timberlands?<br>
+							<br>
+							
+						GEORGE: Yeah, and a whole new me. I'm up two inches in these babies!<br>
+							<br>
+							
+						JERRY: Really?<br>
+							<br>
+							
+						GEORGE: Five' eight. Five' seven.<br>
+							<br>
+							
+						(Jerry passes Nina, an old girlfriend)<br>
+							<br>
+							
+						NINA: Jerry?<br>
+							<br>
+							
+						JERRY: Nina?<br>
+							<br>
+							
+						NINA: Hi.<br>
+							<br>
+							
+						JERRY: It's been years!<br>
+							<br>
+							
+						NINA: Yeah!<br>
+							<br>
+							
+						JERRY: (Introducing the two) George, this is Nina.<br>
+							<br>
+							
+						GEORGE: Nice to meet you.<br>
+							<br>
+							
+						NINA: Nice to meet you, too.<br>
+							<br>
+							
+						(Nina smiles as she shakes his hand. George raises his eyebrow)<br>
+							<br>
+							
+						(Scene ends)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Setting: Elaine's apartment building]<br>
+							<br>
+							
+						Notice: &quot;THREE HOURS EARLIER&quot;<br>
+							<br>
+							
+						(Elaine's at her mailbox)<br>
+							<br>
+							
+						ELAINE: (Reading an invitation) India? Tst, Yeah, right. (Sarcastic) I'm goin' to India..<br>
+							<br>
+							
+						(Scene ends)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Setting: The Coffee shop]<br>
+							<br>
+							
+						Notice: &quot;TWO YEARS EARLIER&quot;<br>
+							<br>
+							
+						(Jerry is sitting at a booth with Nina)<br>
+							<br>
+							
+						NINA: And they call it the World Wide Web. You can e-mail anyone!<br>
+							<br>
+							
+						JERRY: (Mesmerized) What are you, a scientist?!<br>
+							<br>
+							
+						NINA: Ah, I gotta go. (Gets up to leave)<br>
+							<br>
+							
+						JERRY: Ah.<br>
+							<br>
+							
+						NINA: It's great talkin'<br>
+							<br>
+							
+						JERRY: Great talkin' to you. (Nina leaves. To himself) What the hell is e-mail?<br>
+							<br>
+							
+						(George and Susan enter and sit with Jerry)<br>
+							<br>
+							
+						GEORGE: How as the date?<br>
+							<br>
+							
+						JERRY: Pretty good. I think she might be the one.<br>
+							<br>
+							
+						SUSAN: No.<br>
+							<br>
+							
+						GEORGE: Whooo.. (To a waitress taking orders) Ooh.. French fries.<br>
+							<br>
+							
+						SUSAN: Ah, George.<br>
+							<br>
+							
+						GEORGE: (clearing his throat, he changes his order for Susan) Baked, uh, potato.<br>
+							<br>
+							
+						SUSAN: Uh-huh.<br>
+							<br>
+							
+						GEORGE: Sorry.<br>
+							<br>
+							
+						SUSAN: Yeah, you stuff your sorries in a sack, mister.<br>
+							<br>
+							
+						(Kramer runs into Monk's with a snowball)<br>
+							<br>
+							
+						KRAMER: Hey, hey. Yeah, check it out. It's packin' tight! (Puts the snowball on the table, then drips water from Jerry's cup onto it)<br>
+							<br>
+							
+						JERRY: What are you bringing snowballs in here for?<br>
+							<br>
+							
+						KRAMER: Oh, I need some water. Ice it up nice and hard ... and when you throw it - Pop! Oh look, (FDR is at the cash register, pays and leaves Monk&#146;s) there's my friend, FDR. I'm gonna nail him in the back of the head. It's gonna be great! (Rushes out of Monks to peg his friend with the snowball)<br>
+							<br>
+							
+						(Elaine and Pinter [Peter] enter Monk's, and are greeted)<br>
+							<br>
+							
+						JERRY: Hi, Elaine.<br>
+							<br>
+							
+						GEORGE: Hey!<br>
+							<br>
+							
+						ELAINE: (Turning around and leaving with Pinter) Hey, let's go someplace else, Okay, Peter?<br>
+							<br>
+							
+						(Scene ends)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Setting: Jerry's new apartment]<br>
+							<br>
+							
+						Notice: &quot;ELEVEN YEARS EARLIER&quot;<br>
+							<br>
+							
+						(Jerry, carrying a box, is moving in to his apartment for the first time. He meets his across-the-hall neighbor, Kramer)<br>
+							<br>
+							
+						KRAMER: Oh, hey, how you doing?<br>
+							<br>
+							
+						JERRY: Oh, hi. I-I'm Jerry Seinfeld. I'm movin' in. I saw your name on the buzzer - You must be Kessler.<br>
+							<br>
+							
+						KRAMER: Uh, no. Actually, it's Kramer.<br>
+							<br>
+							
+						JERRY: Oh.<br>
+							<br>
+							
+						KRAMER: Uh, you need any help, or..?<br>
+							<br>
+							
+						JERRY: No, thanks. But I ordered a pizza. You want some of it?<br>
+							<br>
+							
+						KRAMER: Ah, no, no, no. I-I couldn't impose.<br>
+							<br>
+							
+						JERRY: Why not? We're neighbors. What's mine is yours. (And with that, Jerry made the most fatal mistake of his life)<br>
+							<br>
+							
+						KRAMER: (quietly) Ohh (Eyeing Jerry's empty apartment) Really?<br>
+							<br>
+							
+						END OF SHOW.<br>
+							<br>
+							
+						-------------------------------------------------------------------------------<br>
+							
+						Just a side note -- &#147;Sorry&#148; vs &#147;Sari&#148; or &#147;Saree&#148;<br>
+							<br>
+							
+						The expression &quot;You can stuff your sorries in a sack&quot; is used throughout this episode (mainly by George, but also by Susan -- obviously Susan means it as &quot;sorry's&quot; -- You can stuff your sorry's in a sack&quot;<br>
+							<br>
+							
+						Since the episode also revolves around the trip to India, perhaps the writers of the episode are using the word &#147;Sorry&#148; and the Indian term &#147;Sari&#148; or &#147;Saree&#148; in a play on words -- A pun perhaps<br>
+							<br>
+							
+						The definition of &#147;Sari&#148; or &#147;Saree&#148; is:<br>
+							
+						Sari / Saree: A long piece of cotton or silk cloth, constituting the principal garment of Hindu women, worn round the waist, one end falling to the feet, and the other crossed over the bosom and shoulder, and sometimes over the head.<br>
+							<br>
+							
+						As they are in India, this would make sense, because you could literally &quot;stuff your Sarees in a sack&quot; -- so it is a play on words. Otherwise George would be saying &quot;You can stuff your &#147;Sorry's&#148; in a sack&quot; Like you have a sack stuffed full of &quot;apologys.&quot;<br>
+							<br>
+							
+						I think it's something to consider.</td>
+						</tr>
+						<tr height="6">
+							<td class="bottom2" width="645" height="6"></td>
+						</tr>
+						<tr>
+							<td width="645">
+								<div align="center">
+									<font size="-1">Copyright 2006 seinology.com | All Rights Reserved | Designed by 13erla</font></div>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+		<p></p>
+	</body>
+
+</html>

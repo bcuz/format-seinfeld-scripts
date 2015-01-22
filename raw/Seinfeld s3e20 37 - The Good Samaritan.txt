@@ -1,0 +1,1450 @@
+<tdOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+<html>
+
+	<head>
+		<meta http-equiv="content-type" content="text/html;charset=ISO-8859-1">
+		<meta name="description" content="Top Source for Seinfeld">
+		<meta name="keywords" content="seinfeld, sienfeld, Jerry Seinfeld, Julia Louis Dreyfus, Jason Alexander, Michael Richards, Kramer, George, Costanza, Elaine Benes, morty, Larry David">
+		<title>Seinology.com :: Scripts :: 37-The Good Samaritan</title>
+	<link rel='stylesheet' href='/stylesheet.css' type='text/css'>
+	</head>
+
+	<body>
+			<table align="center" width="787" border="0" cellspacing="0" cellpadding="0">
+				<tr>
+					<td><font size="-2" color="red">Seinology.com - </font><font size="-3" color="black">Where Seinfeld Content and Accuracy Matter Most. Seinfeld scripts in pdf form, Seinfeld episode video clips, Seinfeld episode audio clips, Jerry Seinfeld appearances, Julia Louis-Dreyfus appearances, Michael Richards appearances, Jason Alexander appearances, Seinfeld discussion Forum, Seinfeld Where are they Now? Seinlanguage Newsletter, Popular Seinfeld Lists, Seinfeld episode standup, Seinfeld episode guide, Seinfeld fan fiction. Seinfeld content all on one domain. Seinology.com enjoy your stay.</font></td>
+				</tr>
+			</table>
+		
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr height="100">
+				<td class="logo"></td>
+			</tr>
+			<tr><td class="ads" align="center" background=#8694fa>
+				<script type="text/javascript"><!--
+google_ad_client = "pub-1924026976931416";
+google_ad_width = 728;
+google_ad_height = 90;
+google_ad_format = "728x90_as";
+google_ad_type = "text";
+google_ad_channel = "";
+google_color_border = "FFFFFF";
+google_color_bg = "8694fa";
+google_color_link = "0000FF";
+google_color_text = "000000";
+google_color_url = "002E3F";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></td></tr>
+		</table>
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr>
+				<td valign="top" width="136">
+					<table width="136" border="0" cellspacing="0" cellpadding="0">
+						<tr height="24">
+							<td class="navigation">
+								<div align="center">
+									
+									<b>Navigation</b></div>
+							</td>
+						</tr>
+						<tr height="199">
+							<td class="spacer1" valign="top" width="136" height="199">
+								<div align="center">
+									<font size="-1"><a href="http://www.seinology.com">Home</a><br>
+										<a href="http://board.seinology.com">Forum</a><br>
+										<a href="http://www.seinology.com/av.shtml">Audio/Video</a><br>
+										<a href="http://www.seinology.com/scripts.shtml">Scripts</a><br>
+										<a href="http://www.seinology.com/survivor.shtml">Survivor</a><br>
+										<a href="http://www.seinology.com/fanfics.shtml">Fan Fiction</a><br>
+										<a href="http://www.seinology.com/gallery/">Gallery</a><br>
+										<a href="http://www.seinology.com/newsletter.shtml">Newsletter</a><br>
+										<a href="http://www.seinology.com/lists.shtml">Lists</a><br>
+										<a href="http://www.seinology.com/epguide.shtml">Episode Guide</a><br>
+										<a href="http://www.seinology.com/links.shtml">Links</a><br>
+										<a href="http://www.seinology.com/faqother.shtml">Faq + others</a><br>
+										<a href="http://www.seinology.com/legal.shtml">Legal</a></font></div>
+							</td>
+						</tr>
+						
+						<tr>
+							<td class="nav2" width="136">
+							<div align="center"><b>Search</b></div></td>
+						</tr>
+						<tr>
+							<td class="spacer1" width="136" valign="top"><div align="center"><form method="get" action="http://www.seinology.com/search/search.cgi">
+<p><label for="fdse_Match">Match</label><br>
+<select name="Match" id="fdse_Match" size="1">
+<option value="1">All</option>
+<option value="0">Any</option>
+<option value="2">Phrase</option>
+</select></p>
+<p><label for="fdse_Realm">Where?</label><br>
+<select name="Realm" id="fdse_Realm" size="1">
+<option selected="selected" value="All">EntireSite</option>
+<option value="Ep Guide">Ep Guide</option>
+<option value="Images">Images</option>
+<option value="Lists">Lists</option>
+<option value="Newsletters">Newsletters</option>
+<option value="Scripts">Scripts</option>
+<option value="Notes..Nothing">Notes..Nothing</option>
+</select></p>
+<p><input type="text" name="Terms" size="14" id="fdse_Terms"><br>
+<input type="submit" class="submit" name="submitButtonName" value="Search"></p>
+</div></form></td>
+						</tr>
+						<tr><td class="bottom" width="136" height="10" valign="top">
+						</td>
+						</tr>
+					</table>
+				</td>
+				<td width="4"></td>
+				<td valign="top" width="645">
+					<table width="645" border="0" cellspacing="0" cellpadding="0">
+						<tr height="18">
+							<td width="645" height="35" class="bar">
+								<div align="center">
+									<b><font size="+2" color="black">Script</font></b></div>
+							</td>
+						</tr>
+						<tr height="362">
+							<td class="spacer2" valign="top" width="645" height="362">
+
+						<p><font size="-2">Episode 37 - The Good Samaritan<br>
+							
+						pc: 319, season 3, episode 20<br>
+							
+						Broadcast date: March 4, 1992<br>
+							<br>
+							
+						Written By Peter Mehlman<br>
+							
+						Directed By Jason Alexander<br>
+							<br>
+							
+						-------------------------------------------------------------------------------<br>
+							<br>
+							
+						The Cast<br>
+							
+						Regulars:<br>
+							
+						Jerry Seinfeld ....................... Jerry Seinfeld<br>
+							
+						Jason Alexander .................. George Costanza<br>
+							
+						Julia Louis-Dreyfus ............. Elaine Benes<br>
+							
+						Michael Richards ................. Kramer<br>
+							<br>
+							
+						Guest Stars:<br>
+							<br>
+							
+						Melinda McGraw ................ Angela<br>
+							
+						Ann Talman ........................ Robin<br>
+							
+						Joseph Malone .................... Michael<br>
+							
+						Helen Slater ......................... Becky Gelke (uncredited)<br>
+							<br>
+							<br>
+							
+						==================================================================<br>
+							<br>
+							
+						[Jerry is driving alone talking on his car phone to Elaine at home in her bed]<br>
+							<br>
+							
+						ELAINE: You know it's bad enough you have a car phone, you have to use the speaker?<br>
+							<br>
+							
+						JERRY: It's safer! Plus it's more annoying to the other person.<br>
+							<br>
+							
+						(Driver cuts in front of Jerry)<br>
+							<br>
+							
+						JERRY: Oh look at this guy.<br>
+							<br>
+							
+						ELAINE: What's goin' on?<br>
+							<br>
+							
+						JERRY: Oh there's a guy trying to get in front of me, he has to ask permission. Yes. Go ahead. Get in, get in.<br>
+							<br>
+							
+						ELAINE: Did you get a thank you wave?<br>
+							<br>
+							
+						JERRY: No, nothing. How could you not give a thank you wave? Hey buddy! Where's my thank you wave?<br>
+							<br>
+							
+						(Jerry sticks his head out the window)<br>
+							<br>
+							
+						JERRY: Give me that wave!<br>
+							<br>
+							
+						ELAINE: Jerry, are you free on Friday?<br>
+							<br>
+							
+						JERRY: Yeah, I'm free, why?<br>
+							<br>
+							
+						ELAINE: Ah, God, I bumped into Robin Sandusky today, she asked me to have dinner with her and her husband.<br>
+							<br>
+							
+						JERRY: Oh my God! You won't believe what I just saw! A car just bashed into a parked car, and sped off, right on my block!<br>
+							<br>
+							
+						ELAINE: You gotta follow that car!<br>
+							<br>
+							
+						JERRY: What?<br>
+							<br>
+							
+						ELAINE: You can't let him get away with that!<br>
+							<br>
+							
+						JERRY: Elaine, the guy could be dangerous.<br>
+							<br>
+							
+						ELAINE: What are you, yellow?<br>
+							<br>
+							
+						JERRY: I'm not yella. (In a cowboy voice)<br>
+							<br>
+							
+						ELAINE: Jerry, if you don't follow him, you're yella.<br>
+							<br>
+							
+						JERRY: Wait, he stopped, he's parking.<br>
+							<br>
+							
+						ELAINE: What? What? I can't hear you. Jerry?<br>
+							<br>
+							<br>
+							
+						[Scene moves outside where Jerry get out of his car to confront other driver, who as they come out of their car, is an attractive woman]<br>
+							<br>
+							
+						JERRY: Uh, excuse me, uh, I was uh, driving behind you, uh, a few blocks back, and I, I couldn't help, uh, maybe you didn't realize, uh, I witnessed that, uh, um, you're tire's a little low. That can affect the performance of the twin high-beam suspension, not to mention your rack and pinion steering.<br>
+							<br>
+							
+						(They both smile flirtatiously at each other)<br>
+							<br>
+							<br>
+							
+						[Scene moves to Jerry's apartment where Jerry and George are talking by the table]<br>
+							<br>
+							
+						JERRY: So I wound up going out for a decaf cappuccino with her.<br>
+							<br>
+							
+						GEORGE: Boy! What a story! I'm speechless. Speechless. I have no speech.<br>
+							<br>
+							
+						JERRY: You know, I really liked her. We talked. We flirted. And when she left, she reached out and touched my arm.<br>
+							<br>
+							
+						(Reaches out to touch Georges arm to demonstrate)<br>
+							<br>
+							
+						JERRY: He, he, he. (Simulating her feminine laugh)<br>
+							<br>
+							
+						GEORGE: I love when they touch your arm. I can't get enough of that. Why is that?<br>
+							<br>
+							
+						JERRY: Let's not even analyze it.<br>
+							<br>
+							
+						(Jerry begins walking towards door)<br>
+							<br>
+							
+						GEORGE: So you didn't turn her in?<br>
+							<br>
+							
+						JERRY: I wanted to but I couldn't go through with it.<br>
+							<br>
+							
+						GEORGE: Gonna see her again?<br>
+							<br>
+							
+						JERRY: Friday night.<br>
+							<br>
+							
+						(Intercom buzzes, Jerry presses the button)<br>
+							<br>
+							
+						JERRY: Yep.<br>
+							<br>
+							
+						ELAINE: It's me!<br>
+							<br>
+							
+						JERRY: Come on up.<br>
+							<br>
+							
+						(Jerry unlocks and opens door)<br>
+							<br>
+							
+						JERRY: By the way, Elaine does not need to know about anything.<br>
+							<br>
+							
+						GEORGE: Hey, hey, hey! I dig.<br>
+							<br>
+							
+						(George walks into kitchen and opens cupboard to get cups)<br>
+							<br>
+							
+						JERRY: Oh, you dig?<br>
+							<br>
+							
+						GEORGE: Yes! I see enormous potential here.<br>
+							<br>
+							
+						JERRY: Why?<br>
+							<br>
+							
+						(George pours two cups of milk)<br>
+							<br>
+							
+						GEORGE: Because great couples always have a great story about how they met. That's why I've never been in a long term relationship. I've never had a good meeting story.<br>
+							<br>
+							
+						JERRY: I wonder if I'm nuts for pursuing this woman at all.<br>
+							<br>
+							
+						GEORGE: I don't think so.<br>
+							<br>
+							
+						JERRY: Look, she slammed into a parked car! She took no responsibility for mutilating the property of a stranger, then she sped off like a criminal!<br>
+							<br>
+							
+						(Jerry takes a drink of his milk while both remain silent)<br>
+							<br>
+							
+						JERRY: On the other hand, does that mean she should never be allowed to date again? You scratch one car and you're forbidden to have social contact for the rest of your life?!<br>
+							<br>
+							
+						(Jerry looks at his cup in disgust)<br>
+							<br>
+							
+						JERRY: What am I drinking, milk?<br>
+							<br>
+							
+						(Elaine enters, hanging up her jacket)<br>
+							<br>
+							
+						ELAINE: Hey!<br>
+							<br>
+							
+						JERRY: Hi.<br>
+							<br>
+							
+						(Elaine tosses a sweater to Jerry)<br>
+							<br>
+							
+						ELAINE: Sweater.<br>
+							<br>
+							
+						JERRY: Thank you.<br>
+							<br>
+							
+						ELAINE: So? What happened?<br>
+							<br>
+							
+						(Jerry starts walking away)<br>
+							<br>
+							
+						JERRY: With that?<br>
+							<br>
+							
+						ELAINE: With the car!<br>
+							<br>
+							
+						JERRY: What car?<br>
+							<br>
+							
+						ELAINE: The hit and run!<br>
+							<br>
+							
+						JERRY: Oh, right, right, right, right, right, right, right, the hit and run. Well. Actually, the guy went into Queens.<br>
+							<br>
+							
+						ELAINE: Queens?! You followed him over the bridge?<br>
+							<br>
+							
+						JERRY: Over the bridge. (Making a pointing motion with his hand)<br>
+							<br>
+							
+						(George walks out of the kitchen)<br>
+							<br>
+							
+						GEORGE: Oh, well I didn't know you went into Queens Jerry.<br>
+							<br>
+							
+						JERRY: Yeah, Queens.<br>
+							<br>
+							
+						ELAINE: So? Then what?<br>
+							<br>
+							
+						JERRY: So he gets out of the car, I say, &quot;Hey buddy! I saw you hit that car!&quot; So he says to me, &quot;What are ya gonna do about it?&quot;<br>
+							<br>
+							
+						(Elaine gasps)<br>
+							<br>
+							
+						JERRY: So I said to him, &quot;Whatever's necessary.&quot;<br>
+							<br>
+							
+						(Elaine stutters with her mouth open in amazement)<br>
+							<br>
+							
+						ELAINE: I am speechless. I am without speech.<br>
+							<br>
+							
+						GEORGE: Tell her about the shoving.<br>
+							<br>
+							
+						JERRY: What?<br>
+							<br>
+							
+						(George smiles pointing at him)<br>
+							<br>
+							
+						ELAINE: What shoving?!<br>
+							<br>
+							
+						JERRY: Oh, it was nothing.<br>
+							<br>
+							
+						GEORGE: No! Tell her.<br>
+							<br>
+							
+						(Jerry looks at George with a grin)<br>
+							
+						JERRY: Well he kinda lost his temper, and he was pushing me up against the car. So I went into a karate stance. (Jerry assumes karate position and does two punches)<br>
+							<br>
+							
+						ELAINE: You know karate??<br>
+							<br>
+							
+						JERRY: I know a little.<br>
+							<br>
+							
+						ELAINE: Well, this is so, amazing to me! Jerry what did do?<br>
+							<br>
+							
+						JERRY: He backed off. Pretty pathetic actually.<br>
+							<br>
+							
+						(Kramer enters)<br>
+							<br>
+							
+						KRAMER: Hey! (Group does likewise)<br>
+							<br>
+							
+						ELAINE: Did you tell Kramer?<br>
+							<br>
+							
+						JERRY: Ah, nah! (Waving his hand and walking away)<br>
+							<br>
+							
+						KRAMER: What? What? What? Tell me.<br>
+							<br>
+							
+						ELAINE: Jerry saw this guy crash into a car, and he followed him.<br>
+							<br>
+							
+						(Jerry looks at Kramer and raises both his arms smiling)<br>
+							<br>
+							
+						KRAMER: Good for you! What kind of a sick lowlife would do a thing like that? You know those people, you know they're mentally disturbed. (Pointing a finger at Jerry)<br>
+							<br>
+							
+						KRAMER: They should be sent to Australia.<br>
+							<br>
+							
+						(Jerry has a confused look)<br>
+							<br>
+							
+						JERRY: Australia?<br>
+							<br>
+							
+						KRAMER: Yeah, yeah, that's where England used to send their convicts.<br>
+							<br>
+							
+						JERRY: But not anymore.<br>
+							<br>
+							
+						KRAMER: No.<br>
+							<br>
+							
+						(Everyone pauses and looks at Kramer)<br>
+							<br>
+							
+						ELAINE: Hey Kramer, Kramer!<br>
+							<br>
+							
+						KRAMER: Yeah?<br>
+							<br>
+							
+						ELAINE: What happened to you right here? (She pointing to her forehead)<br>
+							<br>
+							
+						KRAMER: I don't know!<br>
+							<br>
+							
+						(Jerry smiles and shakes his head)<br>
+							<br>
+							
+						KRAMER: You know I was watching Entertainment Tonight, and uh, suddenly I got dizzy. And the next thing I know I hit my head on the coffee table.<br>
+							<br>
+							
+						(Elaine has a look of surprise)<br>
+							<br>
+							
+						ELAINE: Well, that is, that is strange.<br>
+							<br>
+							
+						KRAMER: Yep. (Mumbles off)<br>
+							<br>
+							
+						(Elaine walks toward door)<br>
+							<br>
+							
+						ELAINE: Alright, oh Jerry, we're still on for Friday night, right?<br>
+							<br>
+							
+						JERRY: Oh Friday, I can't, I'm sorry, I have a date.<br>
+							<br>
+							
+						(Elaine closes door and walks back toward Jerry)<br>
+							<br>
+							
+						ELAINE: But last night you said you were free! (Sounding very disappointed)<br>
+							<br>
+							
+						JERRY: We just met.<br>
+							<br>
+							
+						(Kramer is tapping his temple with his finger)<br>
+							<br>
+							
+						KRAMER: Maybe it was a reaction to the sardines.<br>
+							<br>
+							
+						ELAINE: But I, I can't go alone!<br>
+							<br>
+							
+						JERRY: Ask George to go with you.<br>
+							<br>
+							
+						ELAINE: George, come on! I'll pay for you.<br>
+							<br>
+							
+						GEORGE: You'll pay? I'm there.<br>
+							<br>
+							
+						JERRY: Why do you even need anybody?<br>
+							<br>
+							
+						ELAINE: Because I hate being at a table alone, with a married couple. Talking about their married friends, and their married furniture. They're always trying to make me feel like their life is so much better than mine. You know, I have a very exciting life. It's very exciting. (As she's closing the door to leave)<br>
+							<br>
+							<br>
+							
+						[Scene moves to restaurant with Elaine, George, and the married couple,]<br>
+							<br>
+							
+						Michael and Robin, sitting down talking, George is mainly focused on eating his meal)<br>
+							<br>
+							
+						ROBIN: You went out with a bullfighter?<br>
+							<br>
+							
+						ELAINE: Yes, well, an ex-bullfighter now.<br>
+							<br>
+							
+						MICHAEL: Wow.<br>
+							<br>
+							
+						ROBIN: What was his name?<br>
+							<br>
+							
+						ELAINE: His name? Name, um, his name was uh, uh, Eduardo Carochio.<br>
+							<br>
+							
+						(George points across the table)<br>
+							<br>
+							
+						GEORGE: Pass the salt please.<br>
+							<br>
+							
+						ROBIN: Where did you meet him?<br>
+							<br>
+							
+						ELAINE: Um, actually, I met him in Switzerland, and he was fighting uh, is that the word they use? Fighting? Because they don't really fight the bull, they avoid fighting the bull.<br>
+							<br>
+							
+						(Elaine and couple laugh, George points at the bread)<br>
+							<br>
+							
+						GEORGE: Bread.<br>
+							<br>
+							
+						(Elaine hands bread to George)<br>
+							<br>
+							
+						ELAINE: I just love meeting new people. You know that's how you really do learn about life.<br>
+							<br>
+							
+						(Robin sneezes, no one says anything, George lifts his head and looks at Michael)<br>
+							<br>
+							
+						GEORGE: God bless you.<br>
+							<br>
+							
+						(Robin smiles)<br>
+							<br>
+							
+						ROBIN: Thank you.<br>
+							<br>
+							
+						GEORGE: I wasn't going to say anything, but then I could see that he wasn't going to open his mouth. (Chuckles)<br>
+							<br>
+							
+						(Michael stops pouring wine and looks seriously at George)<br>
+							<br>
+							<br>
+							
+						[Scene moves to Jerry's car, where Jerry and hit-and-run woman are both eating an ice cream cones]<br>
+							<br>
+							
+						WOMAN: You know who's a good actor? Anthony Quinn.<br>
+							<br>
+							
+						JERRY: Oh, Anthony Quinn, fine actor. But from what I understand, not a very good driver. Hits everything on the road. But always leaves a note.<br>
+							<br>
+							
+						WOMAN: Did you ever see Zorba the Greek?<br>
+							<br>
+							
+						JERRY: Excellent film. In fact Quinn said he never felt so good as when he left a note after smacking into a car.<br>
+							<br>
+							
+						(Woman touches Jerry's hair, smiling)<br>
+							<br>
+							
+						WOMAN: Come here. (moves in for a kiss)<br>
+							<br>
+							<br>
+							
+						[Scene moves back to restaurant where an argument has developed between Michael and George]<br>
+							
+						GEORGE: Really, I was, I was only kidding around.<br>
+							<br>
+							
+						ROBIN: He was only joking Michael.<br>
+							<br>
+							
+						(Michael throws down his serviette)<br>
+							<br>
+							
+						MICHAEL: You think you're so damn special because you say 'God bless you'?<br>
+							<br>
+							
+						GEORGE: No, no, I don't think I'm special. My mother always said I'm not special.<br>
+							<br>
+							
+						ROBIN: He was only joking Michael! Sorry.<br>
+							<br>
+							
+						MICHAEL: All right! Take his side!<br>
+							<br>
+							
+						ROBIN: I am not taking his side.<br>
+							<br>
+							
+						MICHAEL: Well who's side are you taking?!<br>
+							<br>
+							
+						ROBIN: Well I'm not taking your side!<br>
+							<br>
+							
+						(Robin sneezes, George gestures to Michael that the floor is his)<br>
+							<br>
+							<br>
+							
+						[Scene moves back to Jerry's car, where Jerry and the hit-and-run woman are now kissing]<br>
+							<br>
+							
+						JERRY: Kirk Douglas. Now there's another very bad driver. But he's such an unbelievable guy, that when he hits someone, he doesn't even leave a note. He sits in his car and waits for the other person to show up so he can exchange license, registration, and apologize.<br>
+							<br>
+							
+						(Woman pulls Jerry back in and starts kissing him again)<br>
+							<br>
+							<br>
+							
+						[Scene moves back to Jerry's apartment with George talking outside Jerry's room]<br>
+							<br>
+							
+						GEORGE: I said 'God bless you'. Was that so wrong?<br>
+							<br>
+							
+						JERRY: The question is, did you allow a space for the husband to come in with his 'God bless you'? Because as the husband, he has the right to first refusal.<br>
+							<br>
+							
+						(George makes a confused look. The intercom buzzes, Jerry walks over and presses the button)<br>
+							<br>
+							
+						ELAINE: It's me.<br>
+							<br>
+							
+						JERRY: Come on up.<br>
+							<br>
+							
+						(Jerry unlocks door, conversation moves into kitchen)<br>
+							<br>
+							
+						GEORGE: Yes, yes, I definitely waited. But let me say this: Once he passes on that option, that 'God bless you' is up for grabs.<br>
+							<br>
+							
+						JERRY: No argument. Unless, she's one of these multiple sneezers, and he's holding his 'God bless you' in abeyance, until she completes the series.<br>
+							<br>
+							
+						GEORGE: Well I don't think she is a multiple sneezer, because she sneezed again later, and it was also a single.<br>
+							<br>
+							
+						JERRY: What if she's having an off night?<br>
+							<br>
+							
+						(Elaine walks in, Jerry goes to sit down on sofa)<br>
+							<br>
+							
+						ELAINE: Hi!<br>
+							<br>
+							
+						JERRY: Hi.<br>
+							<br>
+							
+						(Elaine takes her coat off and walks into kitchen)<br>
+							<br>
+							
+						ELAINE: Well! If it isn't mister gesuntheit!<br>
+							<br>
+							
+						(George walks out of kitchen)<br>
+							<br>
+							
+						GEORGE: Oh ya, like there's something wrong with saying 'God bless you'. I was raised to say 'God bless you'.<br>
+							<br>
+							
+						(Jerry sneezes)<br>
+							<br>
+							
+						GEORGE: Ah, shut up.<br>
+							<br>
+							
+						ELAINE: What does it mean anyway? 'God bless you'. It's a stupid 'stuperstition'.<br>
+							<br>
+							
+						(Elaine sits on sofa, George sits on arm of sofa)<br>
+							<br>
+							
+						JERRY: A stupid what?<br>
+							<br>
+							
+						(Elaine looks at Jerry)<br>
+							<br>
+							
+						ELAINE: Whatever.<br>
+							<br>
+							
+						JERRY: You know, if you want to make a person feel better after they sneeze, you shouldn't say 'God bless you', you should say, 'You're soo good lookin''.<br>
+							<br>
+							
+						(Elaine nods, George rolls his eyes)<br>
+							<br>
+							
+						ELAINE: Yeah, yeah, that's better than 'God bless you'. Anyway, she left a message on my machine, she wants you to call her.<br>
+							<br>
+							
+						GEORGE: Who?<br>
+							<br>
+							
+						ELAINE: Robin!<br>
+							<br>
+							
+						(George looks quickly at Elaine)<br>
+							<br>
+							
+						GEORGE: Why?!<br>
+							<br>
+							
+						ELAINE: Well I assumed she called to apologize, that's why she called me.<br>
+							<br>
+							
+						(George stands up)<br>
+							<br>
+							
+						JERRY: Entertainment Tonight's on.<br>
+							<br>
+							
+						GEORGE: Where's the remote phone?<br>
+							<br>
+							
+						JERRY: Bedroom.<br>
+							<br>
+							
+						(George walks toward Jerry's bedroom)<br>
+							<br>
+							
+						ELAINE: Hey, grab Jerry's sweater for me, would you?<br>
+							<br>
+							
+						(Theme music plays on TV, Kramer walks in, waves at Jerry and Elaine, then walks over to Jerry's bookshelf, dancing to the music. Voice of Mary Hart starts on TV and Kramer starts having a wild seizure behind the sofa.)<br>
+							<br>
+							
+						JERRY: What's it like out?<br>
+							<br>
+							
+						(Kramer continues to shake behind sofa)<br>
+							<br>
+							
+						ELAINE: Chilly out.<br>
+							<br>
+							
+						JERRY: Can I take a sweater?<br>
+							<br>
+							
+						ELAINE: Yeah, you can take a sweater if you want to.<br>
+							<br>
+							
+						JERRY: Scarf?<br>
+							<br>
+							
+						ELAINE: Nah, hey, shut this off, shut it off.<br>
+							<br>
+							
+						(Jerry and Elaine finally notice Kramer as he finishes)<br>
+							<br>
+							
+						JERRY: What's the matter? What's going on?<br>
+							<br>
+							
+						(Kramer is looking around like he's lost)<br>
+							<br>
+							
+						KRAMER: What happened?!<br>
+							<br>
+							
+						ELAINE: What?<br>
+							<br>
+							
+						KRAMER: I think I hit my head again!<br>
+							<br>
+							
+						JERRY: What is wrong?!<br>
+							<br>
+							
+						(Elaine is pointing at the TV)<br>
+							<br>
+							
+						ELAINE: Hey, hey, wait a minute! Let me ask you something. Kramer, the last time you hit your head, was Mary Hart on TV?<br>
+							<br>
+							
+						KRAMER: Yeah.<br>
+							<br>
+							
+						(Elaine claps her hands together then stands up)<br>
+							<br>
+							
+						ELAINE: That is it!<br>
+							<br>
+							
+						KRAMER: What?<br>
+							<br>
+							
+						(Elaine walks toward Kramer pointing her finger at him)<br>
+							<br>
+							
+						ELAINE: That is it! Mary Hart's voice, don't you see? There's something about Mary Hart's voice that's giving you seizures. Just like, just like, just like that woman in Albany!<br>
+							<br>
+							
+						(George walks out of Jerry's bedroom toward kitchen, Kramer sits down)<br>
+							<br>
+							
+						KRAMER: Mary Hart!<br>
+							<br>
+							
+						GEORGE: God.<br>
+							<br>
+							
+						ELAINE: What?<br>
+							<br>
+							
+						GEORGE: Well she apologized, and then she wanted to know if we could get together Wednesday afternoon.<br>
+							<br>
+							
+						JERRY: Get together?<br>
+							<br>
+							
+						GEORGE: Maybe she just wants to talk to me?<br>
+							<br>
+							
+						ELAINE: Married women don't 'get together'. They have affairs.<br>
+							<br>
+							
+						(George walks to other side of sofa)<br>
+							<br>
+							
+						GEORGE: Oh my God, an affair. That's so adult. It's like with stockings and martinis, and William Holden. On the other hand it probably wouldn't cost me any money.<br>
+							<br>
+							
+						(George sits on chair)<br>
+							<br>
+							
+						ELAINE: Are you actually considering this?<br>
+							<br>
+							
+						GEORGE: I can't have an affair with a married woman, that's despicable!<br>
+							<br>
+							
+						ELAINE: Yeah, it's like hitting a car and driving away without leaving a note.<br>
+							<br>
+							
+						(Jerry moves around sofa as if uncomfortable)<br>
+							<br>
+							
+						JERRY: Yeah.<br>
+							<br>
+							
+						(Kramer walks out of washroom)<br>
+							<br>
+							
+						KRAMER: Hey, you know who owns that car?<br>
+							<br>
+							
+						JERRY: What car?<br>
+							<br>
+							
+						KRAMER: The one that was hit a couple of nights ago.<br>
+							<br>
+							
+						JERRY: Yeah who?<br>
+							<br>
+							
+						KRAMER: That blond across the street. You know the one with the long ponytail, she wears those blue sweatpants.<br>
+							<br>
+							
+						(Jerry stands up and walks toward kitchen)<br>
+							<br>
+							
+						JERRY: The blond with the blue sweatpants! Yeah, I think I've seen her.<br>
+							<br>
+							
+						(Elaine nods, smiling)<br>
+							<br>
+							
+						ELAINE: Well I've got to get going. I'm meeting a guy with grey sweatpants.<br>
+							<br>
+							
+						(Elaine walks out door, Kramer follows)<br>
+							<br>
+							
+						KRAMER: Wait, wait, wait, how do you know it's not John Tesh?<br>
+							<br>
+							
+						(Jerry closes door behind them, then runs over to George very excited)<br>
+							<br>
+							
+						JERRY: The blond with the blue sweatpants!<br>
+							<br>
+							
+						GEORGE: Well, who is she?<br>
+							<br>
+							
+						JERRY: I've had a crush on this woman for year! I've always been afraid to approach her! She looks like she belongs on one of these Hallmark cards.<br>
+							<br>
+							
+						GEORGE: Oh right, right! The blue sweatpants! Gees, it's too bad you can't say anything because of Angela.<br>
+							<br>
+							
+						(Jerry sits down, disgruntled, flips aimlessly through a magazine)<br>
+							<br>
+							
+						JERRY: Oh yeah. Too bad. Angela. Lousy thug. I mean what kind of sick person does something like that? That woman belongs in prison! I mean, I actually owe it to society to do something about this! I can't sit by and allow this to go on. It's a moral issue is what it is!<br>
+							<br>
+							
+						(Jerry and George are both pointing their fingers at each other)<br>
+							<br>
+							
+						GEORGE: You can't compromise your principles!<br>
+							<br>
+							
+						JERRY: How am I going to live with myself?!<br>
+							<br>
+							
+						GEORGE: Can't live!<br>
+							<br>
+							
+						JERRY: I'm not religious, but I certainly know where to draw the line!<br>
+							<br>
+							
+						GEORGE: This country needs more people like you!<br>
+							<br>
+							
+						JERRY: Don't sell yourself short saying 'God bless you' to every Tom, Dick and Harry in great personal risk.<br>
+							<br>
+							
+						GEORGE: I believe strongly in that as you know.<br>
+							<br>
+							
+						JERRY: There should be more people like us.<br>
+							<br>
+							
+						GEORGE: That's why the world's in the shape it's in.<br>
+							<br>
+							
+						JERRY: You're telling me.<br>
+							<br>
+							
+						(Jerry and George both flip pages simultaneously and start reading their magazines)<br>
+							<br>
+							<br>
+							
+						[Scene moves to apartment across street, where Jerry is talking to the girl with the blue sweatpants, Becky Gelke, outside her door]<br>
+							<br>
+							
+						JERRY: Anyway, I just wanted you to know, that I'm going to do everything I can to make sure the party responsible is made to be responsible or something very close to that.<br>
+							<br>
+							
+						(Becky touches Jerry's arm, smiling)<br>
+							<br>
+							
+						BECKY: Well God bless you.<br>
+							<br>
+							
+						(Jerry pauses)<br>
+							<br>
+							
+						JERRY: Thank you very much.<br>
+							<br>
+							<br>
+							
+						[Scene moves to George's apartment, where George and Robin are together in bed]<br>
+							<br>
+							
+						GEORGE: Oh my God. I must be crazy. What have I done?<br>
+							<br>
+							
+						ROBIN: Oh no, what's wrong?<br>
+							<br>
+							
+						GEORGE: What's wrong? I'll tell you what's wrong. I just committed adultery!<br>
+							<br>
+							
+						ROBIN: You didn't commit adultery, I did.<br>
+							<br>
+							
+						GEORGE: Oh yeah.<br>
+							<br>
+							
+						ROBIN: If I didn't do it with you, I would have done it with someone else.<br>
+							<br>
+							
+						GEORGE: Well, I wouldn't want you to do that. You know there's a lot of losers out there.<br>
+							<br>
+							
+						ROBIN: Maybe even someone who didn't say 'God bless you'.<br>
+							<br>
+							
+						GEORGE: Well, that's a given.<br>
+							<br>
+							
+						ROBIN: In three years with Michael, not one 'God bless you'.<br>
+							<br>
+							
+						GEORGE: Must be hell living in that house.<br>
+							<br>
+							<br>
+							
+						[Scene moves to Elaine's apartment, where she is talking on the phone to Michael]<br>
+							<br>
+							
+						MICHAEL: Hi, it's Michael.<br>
+							<br>
+							
+						ELAINE: Hi, Michael!<br>
+							<br>
+							
+						MICHAEL: Is Robin there?<br>
+							<br>
+							
+						ELAINE: Robin? No, why?<br>
+							<br>
+							
+						MICHAEL: Uh, she said she was going to be with you.<br>
+							<br>
+							
+						ELAINE: No I haven't spoken to her all day-uh, yeah right, um, as a matter of fact, um, she was here, and she uh, left a note, but I wasn't here, but I have the note, uh, right here.<br>
+							<br>
+							
+						(Elaine sits on the couch and crumples newspaper into the phone)<br>
+							<br>
+							
+						MICHAEL: If she's not with you, then where is she?<br>
+							<br>
+							
+						ELAINE: Well I, I don't know.<br>
+							<br>
+							
+						MICHAEL: Is she with your bald friend from the other night?!<br>
+							<br>
+							
+						ELAINE: No, no, come on Michael!<br>
+							<br>
+							
+						MICHAEL: He's finished! I'm going to sew his ass to his face! I'm going to twist his neck so hard his lips will be his eyebrows! I'm going to break his joints, and reattach them!<br>
+							<br>
+							
+						(Michael sneezes)<br>
+							<br>
+							
+						ELAINE: You're soo good lookin'.<br>
+							<br>
+							<br>
+							
+						[Scene moves back to Jerry's apartment, where Jerry and Angela are talking by the sofa]<br>
+							<br>
+							
+						ANGELA: Now you listen to me, suck face! You tell anybody, anything, and I will carve my initials in your brain tissue!<br>
+							<br>
+							
+						JERRY: Let me rephra-<br>
+							<br>
+							
+						ANGELA: I'll bash your skull into a vegematic like a bad cabbage, and I'll have a party on your head!<br>
+							<br>
+							
+						(Elaine walks in)<br>
+							<br>
+							
+						JERRY: Hi Elaine, this is Angela.<br>
+							<br>
+							
+						ANGELA: I'll pluck all your body hairs out with my teeth!<br>
+							<br>
+							
+						(Jerry walks past her away from the kitchen)<br>
+							<br>
+							
+						JERRY: Well I think I get the gist of it.<br>
+							<br>
+							
+						ANGELA: So you don't say anything to anybody about me hitting that car!<br>
+							<br>
+							
+						(Jerry shrugs)<br>
+							<br>
+							
+						JERRY: What car?<br>
+							<br>
+							
+						(Jerry hands Angela her purse)<br>
+							<br>
+							
+						ANGELA: Good. I'm glad we understand each other.<br>
+							<br>
+							
+						JERRY: It's not complicated.<br>
+							<br>
+							
+						(Angela walks out and down hall, Elaine waves)<br>
+							<br>
+							
+						ELAINE: Very nice meeting you!<br>
+							<br>
+							
+						(Intercom buzzes, Elaine hits button while walking toward Jerry)<br>
+							<br>
+							
+						ELAINE: Come on up.<br>
+							<br>
+							
+						(Elaine laughs)<br>
+							<br>
+							
+						ELAINE: Well, well, well, Mr. Seinfeld! That must have been so frightening! When you confronted that guy, in Queens! Now, let's just see if I've got this scenario right.<br>
+							<br>
+							
+						JERRY: Alright Elaine.<br>
+							<br>
+							
+						ELAINE: No, no, no, no, no. Because I'm picturing 'French Connection', kind of thing. You know? Sort of a Popeye Doyle chase through the city!<br>
+							<br>
+							
+						JERRY: It was just a couple of blocks.<br>
+							<br>
+							
+						(Elaine takes cup from Jerry and sets it on counter)<br>
+							<br>
+							
+						ELAINE: Oh no, no, come on. Don't be so modest!<br>
+							<br>
+							
+						(George walks in open door, and into kitchen. Elaine walks toward him, Jerry goes to washroom)<br>
+							<br>
+							
+						GEORGE: Hey.<br>
+							<br>
+							
+						ELAINE: Oh, did you check you machine?<br>
+							<br>
+							
+						(George takes glass from cupboard)<br>
+							<br>
+							
+						GEORGE: No, why, what's happening?<br>
+							<br>
+							
+						ELAINE: Michael called me today, and he asked me where Robin was.<br>
+							<br>
+							
+						GEORGE: Yeah, okay.<br>
+							<br>
+							
+						ELAINE: And I said I hadn't seen her.<br>
+							<br>
+							
+						GEORGE: What?!<br>
+							<br>
+							
+						ELAINE: No, no George! You don't understand! She didn't tell me she was using me as an excuse! Okay?! But then I realized what was going on, and I said that she left a note. Um, but he didn't really buy that. And then, and then he did mention your name.<br>
+							<br>
+							
+						GEORGE: He mentioned my name?! What did he say?!<br>
+							<br>
+							
+						ELAINE: He said he was going to sew your ass to your face.<br>
+							<br>
+							
+						GEORGE: What? Why couldn't you think of something?!<br>
+							<br>
+							
+						ELAINE: Well I don't know, he caught me off guard!<br>
+							<br>
+							
+						GEORGE: You lie! How hard is it to lie?!<br>
+							<br>
+							
+						(Jerry walks back from washroom)<br>
+							<br>
+							
+						JERRY: It's not that hard.<br>
+							<br>
+							
+						(Elaine points finger at George)<br>
+							<br>
+							
+						ELAINE: Well who told you to sleep with her George?!<br>
+							<br>
+							
+						GEORGE: It's not my fault! I wasn't going to do anything until you got her all juiced up with your story about having the affair with the matador!<br>
+							<br>
+							
+						ELAINE: Oh Gosh! None of this would never have happened if you wouldn't have said 'God bless you'!<br>
+							<br>
+							
+						GEORGE: Oh don't-<br>
+							<br>
+							
+						(Jerry raises his arms)<br>
+							<br>
+							
+						JERRY: Hold it! Hold it! Hold it people! Matador? What matador?<br>
+							<br>
+							
+						GEORGE: She told this couple she had an affair with a matador.<br>
+							<br>
+							
+						JERRY: A matador! Well, well, well. Uno momento por favor. Pray tell, what was the young man's name?<br>
+							<br>
+							
+						ELAINE: Uh, Eduardo, uh, Carochio.<br>
+							<br>
+							
+						(Jerry uses hand towel to mimic matador)<br>
+							<br>
+							
+						JERRY: Eduardo, Carochio! That's good. That's very good. Kind of just rolls of the tongue. I wonder where on the upper west side a single girl might meet a matador? Perhaps Zabars? Or Les Pizza!<br>
+							<br>
+							<br>
+							
+						[Scene moves to Becky's apartment, where Jerry is talking to her outside her door)<br>
+							<br>
+							
+						JERRY: Anyway, this person told me to tell you to get an estimate on the damage.<br>
+							<br>
+							
+						BECKY: Well, I already got an estimate. It's $875.<br>
+							<br>
+							
+						JERRY: $875?<br>
+							<br>
+							
+						BECKY: That's right.<br>
+							<br>
+							
+						JERRY: Uh, well, I'll tell you what. Um, I'll give you a check, and then this person can pay me back.<br>
+							<br>
+							
+						(Jerry takes out checkbook, and start writing)<br>
+							<br>
+							
+						JERRY: Um, who do I make it out to?<br>
+							<br>
+							
+						BECKY: Becky Gelke. G-E-L-K-E.<br>
+							<br>
+							
+						JERRY: So, what are you doing this weekend?<br>
+							<br>
+							
+						(Jerry hands check to Becky)<br>
+							<br>
+							
+						BECKY: You have got some nerve! You smash up my car, you don't admit it, and now you want to ask me out on a date?<br>
+							<br>
+							
+						JERRY: I didn't do it!<br>
+							<br>
+							
+						BECKY: Yeah righ-<br>
+							<br>
+							
+						(Becky sneezes)<br>
+							<br>
+							
+						JERRY: You are soo good lookin'.<br>
+							<br>
+							
+						(Becky closes door)<br>
+							<br>
+							
+						BECKY: Thank you.<br>
+							<br>
+							<br>
+							
+						[Scene moves to Jerry's apartment where Jerry is changing in bedroom and George is looking out window]<br>
+							<br>
+							
+						GEORGE: Jerry, let's go! You ready?<br>
+							<br>
+							
+						(Jerry walks out of bedroom)<br>
+							<br>
+							
+						JERRY: You sure you want to do this? I'm going to be on the road for three weeks!<br>
+							<br>
+							
+						GEORGE: Excuse me, I've got a maniac stalking me, I'm not staying in the city.<br>
+							<br>
+							
+						JERRY: Alright!<br>
+							<br>
+							
+						(George put his bag over his shoulder)<br>
+							<br>
+							
+						GEORGE: Come on let's get out of here.<br>
+							<br>
+							
+						(Kramer enters)<br>
+							<br>
+							
+						KRAMER: How could you?<br>
+							<br>
+							
+						JERRY: What?!<br>
+							<br>
+							
+						KRAMER: Man! I never thought you were capable of this!<br>
+							<br>
+							
+						JERRY: What did I do?<br>
+							<br>
+							
+						KRAMER: I just talked to Becky Gelke outside, she told me how you hit and ran.<br>
+							<br>
+							
+						JERRY: I-<br>
+							<br>
+							
+						KRAMER: I don't even want to look at you anymore! All these years of friendship and you're nothing but a felon. You're an embarrassment to the building.<br>
+							<br>
+							
+						JERRY: I didn't do it! I just had to pay her to cover for somebody else!<br>
+							<br>
+							
+						KRAMER: Now you're not going to lie to me, are you?<br>
+							<br>
+							
+						(Jerry is putting on sweater)<br>
+							<br>
+							
+						JERRY: No, never.<br>
+							<br>
+							
+						KRAMER: Alright. Well. Glad we got that straightened out because I've got a date with her.<br>
+							<br>
+							
+						JERRY: You got a date with Becky Gelke?!<br>
+							<br>
+							
+						KRAMER: Yeah, going out with her Saturday night.<br>
+							<br>
+							
+						GEORGE: Jerry, can we get out of here?!<br>
+							<br>
+							
+						KRAMER: As a matter of fact, if it wasn't for you, I wouldn't have even had an excuse to talk to her.<br>
+							<br>
+							
+						JERRY: Well I'm happy to help, in any way that I can.<br>
+							<br>
+							
+						(Jerry yanks coat out of George's hands)<br>
+							<br>
+							<br>
+							
+						[Scene moves to outside Becky's apartment. Kramer is walking toward her door, hair slicked back, with a bouquet of flowers in his hand. He knocks on her door, she opens. Mary Hart's voice is playing on the TV in the distance. Kramer starts having a violent seizure.]<br>
+							<br>
+							<br>
+							
+						The End</td>
+						</tr>
+						<tr height="6">
+							<td class="bottom2" width="645" height="6"></td>
+						</tr>
+						<tr>
+							<td width="645">
+								<div align="center">
+									<font size="-1">Copyright 2006 seinology.com | All Rights Reserved | Designed by 13erla</font></div>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+		<p></p>
+	</body>
+
+</html>

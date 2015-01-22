@@ -1,0 +1,1417 @@
+<tdOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+<html>
+
+	<head>
+		<meta http-equiv="content-type" content="text/html;charset=ISO-8859-1">
+		<meta name="description" content="Top Source for Seinfeld">
+		<meta name="keywords" content="seinfeld, sienfeld, Jerry Seinfeld, Julia Louis Dreyfus, Jason Alexander, Michael Richards, Kramer, George, Costanza, Elaine Benes, morty, Larry David">
+		<title>Seinology.com :: Scripts :: 65-The Mango</title>
+	<link rel='stylesheet' href='/stylesheet.css' type='text/css'>
+	</head>
+
+	<body>
+			<table align="center" width="787" border="0" cellspacing="0" cellpadding="0">
+				<tr>
+					<td><font size="-2" color="red">Seinology.com - </font><font size="-3" color="black">Where Seinfeld Content and Accuracy Matter Most. Seinfeld scripts in pdf form, Seinfeld episode video clips, Seinfeld episode audio clips, Jerry Seinfeld appearances, Julia Louis-Dreyfus appearances, Michael Richards appearances, Jason Alexander appearances, Seinfeld discussion Forum, Seinfeld Where are they Now? Seinlanguage Newsletter, Popular Seinfeld Lists, Seinfeld episode standup, Seinfeld episode guide, Seinfeld fan fiction. Seinfeld content all on one domain. Seinology.com enjoy your stay.</font></td>
+				</tr>
+			</table>
+		
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr height="100">
+				<td class="logo"></td>
+			</tr>
+			<tr><td class="ads" align="center" background=#8694fa>
+				<script type="text/javascript"><!--
+google_ad_client = "pub-1924026976931416";
+google_ad_width = 728;
+google_ad_height = 90;
+google_ad_format = "728x90_as";
+google_ad_type = "text";
+google_ad_channel = "";
+google_color_border = "FFFFFF";
+google_color_bg = "8694fa";
+google_color_link = "0000FF";
+google_color_text = "000000";
+google_color_url = "002E3F";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></td></tr>
+		</table>
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr>
+				<td valign="top" width="136">
+					<table width="136" border="0" cellspacing="0" cellpadding="0">
+						<tr height="24">
+							<td class="navigation">
+								<div align="center">
+									
+									<b>Navigation</b></div>
+							</td>
+						</tr>
+						<tr height="199">
+							<td class="spacer1" valign="top" width="136" height="199">
+								<div align="center">
+									<font size="-1"><a href="http://www.seinology.com">Home</a><br>
+										<a href="http://board.seinology.com">Forum</a><br>
+										<a href="http://www.seinology.com/av.shtml">Audio/Video</a><br>
+										<a href="http://www.seinology.com/scripts.shtml">Scripts</a><br>
+										<a href="http://www.seinology.com/survivor.shtml">Survivor</a><br>
+										<a href="http://www.seinology.com/fanfics.shtml">Fan Fiction</a><br>
+										<a href="http://www.seinology.com/gallery/">Gallery</a><br>
+										<a href="http://www.seinology.com/newsletter.shtml">Newsletter</a><br>
+										<a href="http://www.seinology.com/lists.shtml">Lists</a><br>
+										<a href="http://www.seinology.com/epguide.shtml">Episode Guide</a><br>
+										<a href="http://www.seinology.com/links.shtml">Links</a><br>
+										<a href="http://www.seinology.com/faqother.shtml">Faq + others</a><br>
+										<a href="http://www.seinology.com/legal.shtml">Legal</a></font></div>
+							</td>
+						</tr>
+						
+						<tr>
+							<td class="nav2" width="136">
+							<div align="center"><b>Search</b></div></td>
+						</tr>
+						<tr>
+							<td class="spacer1" width="136" valign="top"><div align="center"><form method="get" action="http://www.seinology.com/search/search.cgi">
+<p><label for="fdse_Match">Match</label><br>
+<select name="Match" id="fdse_Match" size="1">
+<option value="1">All</option>
+<option value="0">Any</option>
+<option value="2">Phrase</option>
+</select></p>
+<p><label for="fdse_Realm">Where?</label><br>
+<select name="Realm" id="fdse_Realm" size="1">
+<option selected="selected" value="All">EntireSite</option>
+<option value="Ep Guide">Ep Guide</option>
+<option value="Images">Images</option>
+<option value="Lists">Lists</option>
+<option value="Newsletters">Newsletters</option>
+<option value="Scripts">Scripts</option>
+<option value="Notes..Nothing">Notes..Nothing</option>
+</select></p>
+<p><input type="text" name="Terms" size="14" id="fdse_Terms"><br>
+<input type="submit" class="submit" name="submitButtonName" value="Search"></p>
+</div></form></td>
+						</tr>
+						<tr><td class="bottom" width="136" height="10" valign="top">
+						</td>
+						</tr>
+					</table>
+				</td>
+				<td width="4"></td>
+				<td valign="top" width="645">
+					<table width="645" border="0" cellspacing="0" cellpadding="0">
+						<tr height="18">
+							<td width="645" height="35" class="bar">
+								<div align="center">
+									<b><font size="+2" color="black">Script</font></b></div>
+							</td>
+						</tr>
+						<tr height="362">
+							<td class="spacer2" valign="top" width="645" height="362">
+
+						<p><font size="-2">Episode 65 - The Mango<br>
+							
+						pc: 501, season 5, episode 1<br>
+							
+						Broadcast date: September 16, 1993<br>
+							<br>
+							
+						Written by Lawrence H. Levy &amp; Buck Dancer (Larry David pseudonym)<br>
+							
+						Directed by Tom Cherones<br>
+							<br>
+							
+						-------------------------------------------------------------------------------<br>
+							<br>
+							
+						The Cast<br>
+							
+						Regulars:<br>
+							
+						Jerry Seinfeld ....................... Jerry Seinfeld<br>
+							
+						Jason Alexander .................. George Costanza<br>
+							
+						Julia Louis-Dreyfus ............. Elaine Benes<br>
+							
+						Michael Richards ................. Kramer<br>
+							<br>
+							
+						Guest Stars:<br>
+							<br>
+							
+						Lisa Edelstein ..................... Karen<br>
+							
+						Leonard Termo ................. Joe<br>
+							
+						Veralyn Jones .................... Renee<br>
+							<br>
+							
+						==================================================================<br>
+							<br>
+							
+						[Opening Monologue]<br>
+							<br>
+							
+						How 'bout that seedless watermelon? What an invention, scientists are working on this. You know other scientists devote their lives to fighting cancer, aids, heart disease. These guys are goin' 'No, I'm focusing on melon. Oh sure thousands of people are dying needlessly. But this (makes a spitting noise) that's gotta stop. You ever try to pick a wet one up off the floor? It's almost impossible I'm devoting my life to that.' So I guess if they can get rid of the seeds the rind is goin' next. What do we need that for? Get rid of the rind. They're not going to stop till they're making in the ground ready to eat fruit cups, growin' right out of the ground.<br>
+							<br>
+							<br>
+							<br>
+							
+						[location: Monk's]<br>
+							<br>
+							
+						(Jerry and George at the usual booth)<br>
+							<br>
+							
+						JERRY: So, what's her name?<br>
+							<br>
+							
+						GEORGE: Karen.<br>
+							<br>
+							
+						JERRY: Is she nice?<br>
+							<br>
+							
+						GEORGE: Great.<br>
+							<br>
+							
+						JERRY: So you like her?<br>
+							<br>
+							
+						GEORGE: I think so.<br>
+							<br>
+							
+						JERRY: You don't know?<br>
+							<br>
+							
+						GEORGE: I can't tell anymore.<br>
+							<br>
+							
+						JERRY: Well do you feel anything?<br>
+							<br>
+							
+						GEORGE: Feel? What's that?<br>
+							<br>
+							
+						JERRY: All right, let me ask you this: when she comes over, you're cleaning up a lot?<br>
+							<br>
+							
+						GEORGE: Yeah.<br>
+							<br>
+							
+						JERRY: You're just straightening up or you're cleaning?<br>
+							<br>
+							
+						GEORGE: Cleaning<br>
+							<br>
+							
+						JERRY: You do the tub?<br>
+							<br>
+							
+						GEORGE: Yeah.<br>
+							<br>
+							
+						JERRY: On your knees, Ajax, hands scrubbin', the whole deal?<br>
+							<br>
+							
+						GEORGE: Yeah, yeah.<br>
+							<br>
+							
+						JERRY: Okay, I think you're in love!<br>
+							<br>
+							
+						GEORGE: Tub is love?<br>
+							<br>
+							
+						JERRY: Tub is love.<br>
+							<br>
+							
+						GEORGE: Hah.<br>
+							<br>
+							
+						JERRY: So there you are. You've got a nice girl and a clean apartment.<br>
+							<br>
+							
+						GEORGE: Yep. There's one liiiittle problem.<br>
+							<br>
+							
+						JERRY: Sexual?<br>
+							<br>
+							
+						GEORGE: Yeeeaaah. (Jerry and George lean in to make their conversation a little more private) Well..... I've never really felt confident in uh..... one particular aspect.<br>
+							<br>
+							
+						JERRY: Below the equator?<br>
+							<br>
+							
+						GEORGE: Yeah.<br>
+							<br>
+							
+						JERRY: Nobody does. You know, nobody knows what to do. You just close your eyes and you hope for the best. I really think they're happy if you just make an effort.<br>
+							<br>
+							
+						GEORGE: I-I don't know. Last time I got the tap.<br>
+							<br>
+							
+						JERRY: You got the tap?<br>
+							<br>
+							
+						GEORGE: You know, you're going along, you think everything's all right and all of a sudden you get that tap. (George taps his own shoulder). You know it's like pfffff (whistling sound), all right that's enough, you're through.<br>
+							<br>
+							
+						JERRY: The tap is tough.<br>
+							<br>
+							
+						GEORGE: It's like the manager coming out and asking you for the ball.<br>
+							<br>
+							
+						JERRY: Well maybe she just wanted to move on to other business.<br>
+							<br>
+							
+						GEORGE: No, no, this wasn't moving on. I got the hook. I wish I could get a lesson in that.<br>
+							<br>
+							
+						JERRY: It's a very complicated area.<br>
+							<br>
+							
+						GEORGE: You can go crazy trying to figure that place out.<br>
+							<br>
+							
+						JERRY: It's a haaazy mystery.<br>
+							<br>
+							
+						GEORGE: Anyway, I think everything else is okay. Unless of course she's faking.<br>
+							<br>
+							
+						(Elaine joins them)<br>
+							<br>
+							
+						ELAINE: Who's faking?<br>
+							<br>
+							
+						GEORGE: Nothing.<br>
+							<br>
+							
+						ELAINE: Faking what?<br>
+							<br>
+							
+						GEORGE: Nobody's faking.<br>
+							<br>
+							
+						ELAINE: Ah! Orgasm?<br>
+							<br>
+							
+						GEORGE: She's not faking!<br>
+							<br>
+							
+						ELAINE: How do you know?<br>
+							<br>
+							
+						GEORGE: I know. I can tell. It's one of my powers. Why, did you ever fake?<br>
+							<br>
+							
+						ELAINE: Of course.<br>
+							<br>
+							
+						JERRY: Really?<br>
+							<br>
+							
+						GEORGE: You faked?<br>
+							<br>
+							
+						ELAINE: On occasion.<br>
+							<br>
+							
+						JERRY: And the guy never knows?<br>
+							<br>
+							
+						ELAINE: No.<br>
+							<br>
+							
+						JERRY: How can he not know that?<br>
+							<br>
+							
+						ELAINE: Because I was gooood.<br>
+							<br>
+							
+						JERRY: I guess after that many beers he's probably a little groggy anyway.<br>
+							<br>
+							
+						(Jerry and George laugh)<br>
+							<br>
+							
+						ELAINE: You didn't know.<br>
+							<br>
+							
+						JERRY: What?<br>
+							<br>
+							
+						ELAINE: You didn't know.<br>
+							<br>
+							
+						JERRY: Are you saying...<br>
+							<br>
+							
+						(George clears his throat and calls a waitress)<br>
+							<br>
+							
+						GEORGE: I think I'll have a piece of cake.<br>
+							<br>
+							
+						JERRY: With me?<br>
+							<br>
+							
+						ELAINE: Well...<br>
+							<br>
+							
+						JERRY: You faked with me?<br>
+							<br>
+							
+						ELAINE: Ye.<br>
+							<br>
+							
+						JERRY: You faked with me?<br>
+							<br>
+							
+						ELAINE: Yeass.<br>
+							<br>
+							
+						JERRY: No.<br>
+							<br>
+							
+						ELAINE: Yeass.<br>
+							<br>
+							
+						JERRY: You faked it?<br>
+							<br>
+							
+						ELAINE: I faked it.<br>
+							<br>
+							
+						JERRY: That whole thing, the whole production, it was all an act?<br>
+							<br>
+							
+						ELAINE: Not bad huh?<br>
+							<br>
+							
+						JERRY: What about the breathing, the panting, the moaning, the screaming?<br>
+							<br>
+							
+						ELAINE: (points in the air as is to point out each things Jerry asked) Fake, fake, fake, fake.<br>
+							<br>
+							
+						JERRY: I'm stunned, I'm shocked! How many times did you do this?<br>
+							<br>
+							
+						ELAINE: Uuuhm, all the time.<br>
+							<br>
+							
+						JERRY: All the time?!<br>
+							<br>
+							
+						GEORGE: We got a chocolate malt in here!<br>
+							<br>
+							
+						JERRY: But I'm so good.<br>
+							<br>
+							
+						GEORGE: I'm sure you are.<br>
+							<br>
+							
+						ELAINE: Jerry, listen, it wasn't you. I just didn't have 'em back then.<br>
+							<br>
+							
+						JERRY: She faked.<br>
+							<br>
+							
+						(George smiles sarcastically)<br>
+							<br>
+							
+						JERRY: Maybe they've all been faking.<br>
+							<br>
+							
+						ELAINE: I'm sure they're not.<br>
+							<br>
+							
+						GEORGE: Maybe Karen is faking.<br>
+							<br>
+							<br>
+							<br>
+							
+						[location: Jerry's apartment]<br>
+							<br>
+							
+						(Kramer is lighting his cigar on the stove)<br>
+							<br>
+							
+						KRAMER: She was probably joking.<br>
+							<br>
+							
+						JERRY: No no, it was no joke.<br>
+							<br>
+							
+						KRAMER: She didn't have any?<br>
+							<br>
+							
+						JERRY: No. None.<br>
+							<br>
+							
+						KRAMER: (raising hand) She faked 'em all.<br>
+							<br>
+							
+						JERRY: (raising hand) Faked 'em all.<br>
+							<br>
+							
+						KRAMER: Well so she faked 'em, so what?<br>
+							<br>
+							
+						JERRY: The woman had an orgasm under false pretences. That's sexual perjury.<br>
+							<br>
+							
+						KRAMER: You know I heard her screaming from my apartment? She woke me up a few times.<br>
+							<br>
+							
+						JERRY: How did she do it? She's like Meryl Streep this woman. And I had to work the equipment. I'm not unskilled, I'm in the union. If she'd at least told me, maybe I could have done something about it.<br>
+							<br>
+							
+						KRAMER: Yeah I could have helped you out.<br>
+							<br>
+							
+						JERRY: What could you have done?<br>
+							<br>
+							
+						KRAMER: I could have given you some pointers. I know how to press those buttons buddy.<br>
+							<br>
+							
+						JERRY: I'm feeling very inadequate about the whole thing.<br>
+							<br>
+							
+						KRAMER: Aaaaah.<br>
+							<br>
+							
+						JERRY: Don't aaaaah! I'm supposed to do something with her later? I don't even think I wanna see her.<br>
+							<br>
+							
+						(The phone rings)<br>
+							<br>
+							
+						KRAMER: Giddy-up.<br>
+							<br>
+							
+						(Jerry picks it up)<br>
+							<br>
+							
+						JERRY: Hello... Oh hello Elaine.<br>
+							<br>
+							
+						(Elaine at her desk in her office)<br>
+							<br>
+							
+						ELAINE: So we're having dinner tonight?<br>
+							<br>
+							
+						JERRY: I don't know, I'm not really in the mood.<br>
+							<br>
+							
+						ELAINE: Why? What's wrong? You're not still thinking about this afternoon are you?<br>
+							<br>
+							
+						JERRY: What, the grilled cheese? Naaah, they always burn the toast.<br>
+							<br>
+							
+						ELAINE: Nooo, the other thing.<br>
+							<br>
+							
+						JERRY: Oooh that. Well...<br>
+							<br>
+							
+						ELAINE: Oh come on, Jerry. Making to much of a big deal about it.<br>
+							<br>
+							
+						JERRY: Yeah I guess. So you wanna meet at that place at seven thirty?<br>
+							<br>
+							
+						ELAINE: Okay.<br>
+							<br>
+							
+						JERRY: All right.<br>
+							<br>
+							
+						ELAINE: All right, see you later.<br>
+							<br>
+							
+						JERRY: Bye.<br>
+							<br>
+							
+						ELAINE: Bye.<br>
+							<br>
+							
+						(The Location stays at Elaine's office)<br>
+							<br>
+							<br>
+							<br>
+							
+						[location: Elaine's office]<br>
+							<br>
+							
+						(Elaine hangs up the phone; Rene walks passed the office)<br>
+							<br>
+							
+						ELAINE: Rene, can you come here a second? Let me ask you something: Ummm, have you ever... you know... faked it?<br>
+							<br>
+							
+						RENE: Yeah, sometimes.<br>
+							<br>
+							
+						ELAINE: Really, like when?<br>
+							<br>
+							
+						RENE: Like if we went to a Broadway show, if we had really good seats. (Elaine is sitting there, jaw opened shaking her head yes) Well you know, if it's enough all ready and I just wanna get some sleep.<br>
+							<br>
+							<br>
+							<br>
+							
+						[location: Jerry's apartment]<br>
+							<br>
+							
+						(Resume at the point Jerry hangs up his phone from the conversation with Elaine)<br>
+							<br>
+							
+						JERRY: I really don't feel like seeing her.<br>
+							<br>
+							
+						KRAMER: You know, I faked it.<br>
+							<br>
+							
+						JERRY: (confused) What?!<br>
+							<br>
+							
+						KRAMER: Yeah.<br>
+							<br>
+							
+						JERRY: You faked it? Why would you do that?<br>
+							<br>
+							
+						KRAMER: Well you know, if it's enough already and I just wanna get some sleep.<br>
+							<br>
+							
+						JERRY: Yeah, but why would you... (Kramer is eating a peach then disgusted he spits it out) Bad peach?<br>
+							<br>
+							
+						KRAMER: It's terrible!<br>
+							<br>
+							
+						JERRY: Did you get that at Joe's?<br>
+							<br>
+							
+						KRAMER: Yeah, of course I got it at Joe's.<br>
+							<br>
+							
+						JERRY: That's surprising, his fruit is usually the best.<br>
+							<br>
+							
+						KRAMER: You know what I'm gonna do? (heading for the door) I'm gonna return this.<br>
+							<br>
+							
+						JERRY: You're returning used fruit?<br>
+							<br>
+							
+						KRAMER: Jerry this peach is sub par.<br>
+							<br>
+							
+						(Kramer exits)<br>
+							<br>
+							<br>
+							<br>
+							
+						[location: Joe's]<br>
+							<br>
+							
+						JOE: So what do you want me to do?<br>
+							<br>
+							
+						KRAMER: I want restitution.<br>
+							<br>
+							
+						JOE: Restitution? You want restitution? Why should I give you restitution?<br>
+							<br>
+							
+						KRAMER: Because it's no good.<br>
+							<br>
+							
+						JOE: When you put that fruit out, that's where it ends for me.<br>
+							<br>
+							
+						KRAMER: It's still your fruit, you gotta stand behind your fruit.<br>
+							<br>
+							
+						JOE: I stand behind my fruit.<br>
+							<br>
+							
+						KRAMER: So...<br>
+							<br>
+							
+						JOE: Hey, you got a bad peach? That's an act of God. He makes the peaches. I don't make the peaches, I sell the peaches. You have a problem? You talk to him.<br>
+							<br>
+							
+						KRAMER: You know this whole place is going vrrrrrrrrrrrrt, downhill. I could have come in here last week with a bad plum but I let it go.<br>
+							<br>
+							
+						JOE: Well let me put a solution for ya: do your business elsewhere, I don't want your business.<br>
+							<br>
+							
+						KRAMER: Oh now you don't want my business.<br>
+							<br>
+							
+						JOE: No, I don't want your business and from this moment you're banned from the store, you're banned!<br>
+							<br>
+							
+						KRAMER: But what am I gonna do for fruit?<br>
+							<br>
+							<br>
+							<br>
+							
+						[location: restaurant]<br>
+							<br>
+							
+						(George and Karen having dinner)<br>
+							<br>
+							
+						KAREN: (moaning) Mmmmm, Mmmm, Hmmhmmhmmm (lights a cigarette) Mmmm (takes a puff) Woo<br>
+							<br>
+							
+						GEORGE: (thinking of the moans) Heh. (Karen takes another puff of her cigarette) You seem like you really enjoyed your Risotto. (chuckles) You have a very contented air over there. (chuckles again) You look very contented, very satisfied. (pauses) Are you satisfied?<br>
+							<br>
+							
+						KAREN: I'm very satisfied.<br>
+							<br>
+							
+						GEORGE: I-I'm sure if you weren't satisfied you would probably say something wouldn't you?<br>
+							<br>
+							
+						KAREN: I probably would. But then again I'm an enigma.<br>
+							<br>
+							
+						GEORGE: Hey listen... umm, instead of the movie... uh, maybe we'll go back and uh you know...(nudges her head with his head)<br>
+							<br>
+							
+						KAREN: Maybe.<br>
+							<br>
+							
+						GEORGE: So... uh you feel okay about that whole thing... what we do in there... you're generally okay with everything in there?<br>
+							<br>
+							
+						KAREN: Generally.<br>
+							<br>
+							
+						GEORGE: Do you uh feel the way you feel after the Risotto?<br>
+							<br>
+							
+						KAREN: Well no, I feel full after the Risotto.<br>
+							<br>
+							
+						GEORGE: Yeah...(scratching his head) full.<br>
+							<br>
+							<br>
+							<br>
+							
+						[location: (another) restaurant]<br>
+							<br>
+							
+						ELAINE: Oh god, Mmmm, Mmm, Mmm, Mmmmm, Mmm, Ah, Woo<br>
+							<br>
+							
+						JERRY: Satisfied?<br>
+							<br>
+							
+						ELAINE: Mmm, hey, you know what? You wanna go see that new Meryl Streep movie?<br>
+							<br>
+							
+						JERRY: Meryl Streep?<br>
+							<br>
+							
+						ELAINE: You don't like her?<br>
+							<br>
+							
+						JERRY: Ah, she's okay.<br>
+							<br>
+							
+						ELAINE: I love her Jerry, she's so authentic. I really believe everything is actually happening to her. There's no acting there.<br>
+							<br>
+							
+						JERRY: Yeah. You don't want coffee or anything do you?<br>
+							<br>
+							
+						(Calls for the waiter)<br>
+							<br>
+							
+						ELAINE: I really admire actors, you know. It's just such an incredible skill.<br>
+							<br>
+							
+						JERRY: Yeah, yeah, can we get off of this?<br>
+							<br>
+							
+						ELAINE: What's the matter?<br>
+							<br>
+							
+						JERRY: Nothing.<br>
+							<br>
+							
+						ELAINE: You're not still thinking about that are you?<br>
+							<br>
+							
+						JERRY: Nooo.<br>
+							<br>
+							
+						(Jerry and Elaine somewhat chuckling)<br>
+							<br>
+							
+						ELAINE: Oh good.<br>
+							<br>
+							
+						JERRY: Give me another shot!<br>
+							<br>
+							
+						ELAINE: (shocked) What?<br>
+							<br>
+							
+						JERRY: Another shot, I want another shot.<br>
+							<br>
+							
+						ELAINE: You mean...?<br>
+							<br>
+							
+						JERRY: Yes!<br>
+							<br>
+							
+						ELAINE: Oooh no, I don't think so.<br>
+							<br>
+							
+						JERRY: Come on! One shot, I can do it, I know I can do it!<br>
+							<br>
+							
+						ELAINE: Jerry, we're friends! We can't do that, it would ruin our friendship.<br>
+							<br>
+							
+						JERRY: Oh friendship... friendship, shmanship .<br>
+							<br>
+							
+						ELAINE: Jerry no, that's important to me.<br>
+							<br>
+							
+						JERRY: We won't ruin the friendship.<br>
+							<br>
+							
+						ELAINE: Ya, Yes we will!<br>
+							<br>
+							
+						JERRY: Elaine...<br>
+							<br>
+							
+						ELAINE: No Jerry, it is out of the question. You know what sex does to a friendship, it kills it.<br>
+							<br>
+							
+						JERRY: A half hour, give me a half our.<br>
+							<br>
+							
+						ELAINE: No!<br>
+							<br>
+							
+						JERRY: Okay, fifteen minutes. I guarantee you fifteen minutes, I can make it happen!<br>
+							<br>
+							
+						ELAINE: Noo!<br>
+							<br>
+							
+						JERRY: You're worried I'll be able to do it aren't you?<br>
+							<br>
+							
+						ELAINE: What, no, it doesn't matter. Jerry, I don't care.<br>
+							<br>
+							
+						JERRY: That's it, that's it. You like having this over me, you don't want me to do it.<br>
+							<br>
+							
+						ELAINE: That is so ridiculous.<br>
+							<br>
+							
+						JERRY: Come on, Elaine!<br>
+							<br>
+							
+						ELAINE: No.<br>
+							<br>
+							
+						JERRY: Elaine?!<br>
+							<br>
+							
+						ELAINE: No!<br>
+							<br>
+							<br>
+							<br>
+							
+						[location: Karen's bedroom]<br>
+							<br>
+							
+						(George and Karen in bed; George indicates that the sex went wrong)<br>
+							<br>
+							
+						GEORGE: It's Jerry's fault.<br>
+							<br>
+							
+						KAREN: Jerry?<br>
+							<br>
+							
+						GEORGE: Jerry and Elaine. They made me nuts.<br>
+							<br>
+							
+						KAREN: Oh I don't care, George, really it's all right.<br>
+							<br>
+							
+						GEORGE: So you feel okay?<br>
+							<br>
+							
+						KAREN: Well, it's not like after the Risotto.<br>
+							<br>
+							<br>
+							<br>
+							
+						[location: Jerry's car]<br>
+							<br>
+							
+						JERRY: Well good night.<br>
+							<br>
+							
+						ELAINE: I still don't understand why we had to walk out on that movie.<br>
+							<br>
+							
+						JERRY: Oh that Meryl Streep, she's such a phony baloney.<br>
+							<br>
+							
+						ELAINE: Goodnight. Thanks for a really fabulous evening (sarcastic).<br>
+							<br>
+							
+						JERRY: Oh what, you're upset?<br>
+							<br>
+							
+						ELAINE: Yes I'm upset, can't you tell?<br>
+							<br>
+							
+						JERRY: No I can't, maybe you're faking.<br>
+							<br>
+							
+						ELAINE: I'm really, really sorry I told you that.<br>
+							<br>
+							
+						JERRY: I'm sorry too.<br>
+							<br>
+							
+						ELAINE: Well stop being such a baby.<br>
+							<br>
+							
+						JERRY: You're a baby!<br>
+							<br>
+							
+						ELAINE: You're a baby!<br>
+							<br>
+							<br>
+							<br>
+							
+						[location: Jerry's apartment]<br>
+							<br>
+							
+						GEORGE: It's all your fault! You and Elaine! All that orgasm talk. She did have an orgasm, she didn't have an orgasm. Orgasm this, orgasm that. I got so focused on it. I started to panic and boom, I lost it. I tried everything, I was talking to him: 'Please wake up, do something.'<br>
+							<br>
+							
+						JERRY: They're mysterious little fellows aren't they?<br>
+							<br>
+							
+						GEORGE: I hate him!<br>
+							<br>
+							
+						JERRY: You know it happens to everybody. It happened to Houdini. And he could get out of a trunk under water with his hands in chains! But he had a problem with that. The miracle is that it ever happens.<br>
+							<br>
+							
+						GEORGE: It's like a magic trick. Sometimes I think it would be easier to bend a spoon mentally than to make that transformation.<br>
+							<br>
+							
+						(Kramer enters)<br>
+							<br>
+							
+						KRAMER: Hey.<br>
+							<br>
+							
+						JERRY: Hey.<br>
+							<br>
+							
+						KRAMER: Hey listen, if I give you money would you go out and get me some fruit?<br>
+							<br>
+							
+						JERRY: Why can't you get it?<br>
+							<br>
+							
+						KRAMER: Well I got banned from the store I can't go back in there now.<br>
+							<br>
+							
+						JERRY: What happened?<br>
+							<br>
+							
+						KRAMER: Well you know, we had a fight over the peach and uh well Joe doesn't want my business.<br>
+							<br>
+							
+						GEORGE: Hey, was that a joke about Houdini?<br>
+							<br>
+							
+						JERRY: (to George) No. (to Kramer) I told you not to say anything.<br>
+							<br>
+							
+						KRAMER: Jerry, what am I gonna do for fruit?<br>
+							<br>
+							
+						JERRY: Well you'll have to go to the supermarket.<br>
+							<br>
+							
+						KRAMER: The supermarket? That's impossible! They don't have a decent piece of fruit at the supermarket. The apples are mealy, the oranges are dry. I don't know what's going on with the Papayas! Jerry you gotta go to Joe's, you gotta get me some fruit!<br>
+							<br>
+							
+						JERRY: Oh so what I'm going to buy all your fruit now?<br>
+							<br>
+							
+						GEORGE: Well if Houdini couldn't do it, what chance do I have?<br>
+							<br>
+							
+						(George leaves)<br>
+							<br>
+							
+						(The phone rings, Jerry picks it up)<br>
+							<br>
+							
+						JERRY: Hello... Oh hi Patty, thanks for calling me back. I-I just wanted to ask you a question: when we we're going out did you have orgasms?... Okay, thanks... No that's it... Ya, Okay, bye.<br>
+							<br>
+							
+						(Jerry hangs up the phone)<br>
+							<br>
+							
+						JERRY: Patty Lawrence had 'em!<br>
+							<br>
+							
+						KRAMER: Alright look I'm gonna make you a fruit list, all right?<br>
+							<br>
+							
+						JERRY: Yeah.<br>
+							<br>
+							
+						(Jerry makes another call)<br>
+							<br>
+							
+						JERRY: Hello Elaine? Patty Lawrence had orgasms what do you think about that? And I got calls in to six other women and I bet you they confirm an orgasm too. So what do you have to say now Elaine?... Hello?<br>
+							<br>
+							<br>
+							<br>
+							
+						[location: outside Joe's]<br>
+							<br>
+							
+						JERRY: Why do I feel like I'm doing something wrong?<br>
+							<br>
+							
+						KRAMER: All right now here's the list. (hands Jerry the list)<br>
+							<br>
+							
+						JERRY: All this? It's too much. What do you need five mangos for?<br>
+							<br>
+							
+						KRAMER: I like mangos.<br>
+							<br>
+							
+						JERRY: Avocado? I don't know how to pick out an avocado.<br>
+							<br>
+							
+						KRAMER: Well they gotta be soft.<br>
+							<br>
+							
+						JERRY: How soft?<br>
+							<br>
+							
+						KRAMER: Not too soft. Better too hard than too soft.<br>
+							<br>
+							
+						JERRY: (looking over the list) Hmm ah. I'm not going through this every week, I tell you that right now. And what are these? Plums? What is that?<br>
+							<br>
+							
+						KRAMER: Yeah now get the ones that are red on the inside.<br>
+							<br>
+							
+						JERRY: Uh huh. Well how do I know what they look like on the inside? What do they look like on the outside?<br>
+							<br>
+							
+						KRAMER: Oh! And get some plantains. (grabs the list to write them down)<br>
+							<br>
+							
+						JERRY: Plantains?<br>
+							<br>
+							
+						KRAMER: Yeah.<br>
+							<br>
+							
+						JERRY: What the hell is a plantain.<br>
+							<br>
+							
+						KRAMER: It's part of the banana family. It's a delicacy.<br>
+							<br>
+							
+						JERRY: (grabbing the list from Kramer) You're not getting any plantains.<br>
+							<br>
+							
+						(Jerry enters Joe's; Kramer is outside looking in through the window)<br>
+							<br>
+							
+						JERRY: Hey Joe.<br>
+							<br>
+							
+						JOE: How's it going?<br>
+							<br>
+							
+						JERRY: Good, just getting some fruit for myself. Uh, gotta have fruit in the house. I like it as a snack. Wholesome, natural, chock-full of vitamins. Alright let's see... mangos... four plums with red on the inside... avocado... (looks at Joe; Joe gives him a weird look)ooo, just right... and three plantains uh ought to do it.<br>
+							<br>
+							
+						JOE: All right, all right, just hold it right there.<br>
+							<br>
+							
+						JERRY: What?<br>
+							<br>
+							
+						JOE: This fruit isn't for you.<br>
+							<br>
+							
+						JERRY: (shocked) Wha, what are you talking about?<br>
+							<br>
+							
+						JOE: You think I don't know huh? Mangos, plantains, plums with the red on the inside, that's Kramer!<br>
+							<br>
+							
+						JERRY: I can't buy mangos and plantains?<br>
+							<br>
+							
+						JOE: All right, get out!<br>
+							<br>
+							
+						JERRY: You're making a big mistake, Joe!<br>
+							<br>
+							
+						JOE: I'll tell you something else: I don't what your business anymore either.<br>
+							<br>
+							
+						JERRY: Are saying you're banning me from the store?<br>
+							<br>
+							
+						JOE: That's exactly what I'm saying.<br>
+							<br>
+							
+						JERRY: I'm banned?!<br>
+							<br>
+							
+						JOE: You're banned.<br>
+							<br>
+							<br>
+							<br>
+							
+						[location: Jerry's apartment]<br>
+							<br>
+							
+						(George enters with four huge bags of fruit)<br>
+							<br>
+							
+						GEORGE: All right, where do you want it?<br>
+							<br>
+							
+						JERRY: Put it over there.<br>
+							<br>
+							
+						KRAMER: Yes! Oh look at this, these mangos are beautiful! Oh these are beautiful, (smells them) you did good George.<br>
+							<br>
+							
+						(Kramer leaves the apartment)<br>
+							<br>
+							
+						GEORGE: All right I gotta get going.<br>
+							<br>
+							
+						JERRY: What are you doing?<br>
+							<br>
+							
+						GEORGE: I got a date with Karen. I don't know what I'm gonna do. Nothing happening down there.<br>
+							<br>
+							
+						JERRY: You're thinking about it too much. You're putting too much emphasis on it.<br>
+							<br>
+							
+						GEORGE: I knew this was gonna happen some day. It was inevitable. I've known it ever since I was a little kid. I've been waiting for it.<br>
+							<br>
+							
+						(Kramer enters the apartment)<br>
+							<br>
+							
+						KRAMER: This mango is delicious!<br>
+							<br>
+							
+						GEORGE: That reminds me, I'm not getting you guys any more fruit. That guy was eyeballing me the whole time. He gave me the creeps. All right, you owe me twenty-eight sixty.<br>
+							<br>
+							
+						JERRY: Sorry, I don't have any cash.<br>
+							<br>
+							
+						KRAMER: I only got hundreds.<br>
+							<br>
+							
+						GEORGE: You see... All right I knew it.<br>
+							<br>
+							
+						KRAMER: Come on, come on, we're gonna pay you! Here have some mango.<br>
+							<br>
+							
+						GEORGE: I don't want any mango.<br>
+							<br>
+							
+						KRAMER: Come on, take some. It's good.<br>
+							<br>
+							
+						(George tries a piece)<br>
+							<br>
+							
+						GEORGE: Very good. Juicy.<br>
+							<br>
+							
+						KRAMER: Ya.<br>
+							<br>
+							
+						GEORGE: Ripe. Boy, this Joe's got some terrific fruit.<br>
+							<br>
+							
+						KRAMER: Mmm.<br>
+							<br>
+							
+						(George looks a little weird)<br>
+							<br>
+							
+						JERRY: What?<br>
+							<br>
+							
+						GEORGE: I feel like I got a B12 shot. This is like a taste explosion!<br>
+							<br>
+							
+						KRAMER: Ya I told you.<br>
+							<br>
+							
+						(George stands still)<br>
+							<br>
+							
+						JERRY: What is it?<br>
+							<br>
+							
+						GEORGE: I think it moved. Oh my god, I think it moved. Yeah, give me the big piece. I'll see you later.<br>
+							<br>
+							
+						(Elaine enters the apartment)<br>
+							<br>
+							
+						ELAINE: Hi George.<br>
+							<br>
+							
+						GEORGE: I'm back, baby, I'm back!<br>
+							<br>
+							
+						(George leaves the apartment)<br>
+							<br>
+							
+						KRAMER: Want some mango?<br>
+							<br>
+							
+						ELAINE: Noo, thanks.<br>
+							<br>
+							
+						(Kramer leaves the apartment)<br>
+							<br>
+							
+						JERRY: Well well, if it isn't the first lady of the American Theatre. (Elaine smiles and rolls her eyes at him) What brings you here?<br>
+							<br>
+							
+						ELAINE: Just gonna return some of your things that were in my house.<br>
+							<br>
+							
+						JERRY: Oh and I've got some things of yours here.<br>
+							<br>
+							
+						ELAINE: I know.<br>
+							<br>
+							
+						JERRY: Well I'll get them.<br>
+							<br>
+							
+						ELAINE: I'm waiting.<br>
+							<br>
+							
+						JERRY: All right. (goes into his hallway and comes back) You got my fins?<br>
+							<br>
+							
+						ELAINE: Yeah I got your fins. You got my poker chips?<br>
+							<br>
+							
+						JERRY: I got your poker chips. You got my goggles?<br>
+							<br>
+							
+						ELAINE: They're next to the fins. You got my cards?<br>
+							<br>
+							
+						JERRY: They're next to the poker chips.<br>
+							<br>
+							
+						(They switch bags; Elaine checks her bag, Jerry tosses his on the table)<br>
+							<br>
+							
+						ELAINE: All right and that just about... does it.<br>
+							<br>
+							
+						JERRY: I guess.<br>
+							<br>
+							
+						ELAINE: Okay, welp... see you around.<br>
+							<br>
+							
+						JERRY: Yeah, see you.<br>
+							<br>
+							
+						(Elaine opens the door gets about half way out; Jerry goes to look inside his bag; Elaine comes back in and slams the door closed)<br>
+							<br>
+							
+						ELAINE: All right, let's go, I give you half an hour.<br>
+							<br>
+							
+						JERRY: (shocked) What?<br>
+							<br>
+							
+						ELAINE: Come on!<br>
+							<br>
+							
+						JERRY: Are you serious?<br>
+							<br>
+							
+						ELAINE: Look, Jerry, we have to have sex to save the friendship.<br>
+							<br>
+							
+						JERRY: Sex... to save the friendship. (Elaine drops her bag, takes off her jacket and walks into Jerry's bedroom) Well, if we have to (un-tucks his shirt) we have to.<br>
+							<br>
+							<br>
+							<br>
+							
+						[location: Karen's bedroom]<br>
+							<br>
+							
+						(George and Karen in bed)<br>
+							<br>
+							
+						KAREN: Mmmm, Oh George, oooh.<br>
+							<br>
+							
+						GEORGE: Please, it's not necessary.<br>
+							<br>
+							
+						KAREN: Mmm What's not necessary?<br>
+							<br>
+							
+						GEORGE: The little extra moan you threw in there. Laying it on a bit thick, don't you think?<br>
+							<br>
+							
+						KAREN: What are you talking about?<br>
+							<br>
+							
+						GEORGE: What am I talking about? Come on. (laughing) You don't think I bought all that? (does a little move)<br>
+							<br>
+							
+						KAREN: What, what?<br>
+							<br>
+							
+						GEORGE: You're very good. Very good with the moanings and the gyrations. Y-You really had me going there for a minute.<br>
+							<br>
+							
+						KAREN: You think I was faking?<br>
+							<br>
+							
+						GEORGE: Come on: 'Oh George, oh Geeeooorge!' Come on! Not that I don't appreciate the effort that was put into it.<br>
+							<br>
+							
+						KAREN: I'd like you to leave.<br>
+							<br>
+							
+						GEORGE: What?<br>
+							<br>
+							
+						KAREN: I said, I would like you to leave. Come on, just get your clothes on and get out.<br>
+							<br>
+							
+						GEORGE: But why?<br>
+							<br>
+							
+						KAREN: Because I said so. (pushes George off the bed)<br>
+							<br>
+							
+						GEORGE: I-I-I can't find my glasses.<br>
+							<br>
+							
+						KAREN: Well hurry up.<br>
+							<br>
+							
+						GEORGE: I need to look for my glasses.<br>
+							<br>
+							
+						KAREN: (seen through George eyes all blurry) Get out! Get out!! Get out!!!<br>
+							<br>
+							<br>
+							<br>
+							
+						[location: Jerry's bedroom]<br>
+							<br>
+							
+						(Elaine is reading a magazine and Jerry is making desperate noises indicating how the sex went wrong similarly to George's indications)<br>
+							<br>
+							
+						JERRY: It's all George's fault. All that talk about impotence. It got to me. And that orgasm stuff: orgasm this and orgasm that. It's a lot of pressure!<br>
+							<br>
+							
+						ELAINE: You know I'm a little hungry. You wouldn't happen to have any of that mango left?<br>
+							<br>
+							
+						(Jerry looks like he's got an idea)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Closing Monologue]<br>
+							<br>
+							
+						The female orgasm is kinda like the bat cave, very few people know where it is and if you're lucky enough to see it you probably don't know how you got there and you can't find you way back after you left. There are two types of female orgasms: the real and the fake. And uh I'll tell you right now, as a man, we don't know. We do not know, because to a man sex is like a car accident and determining the female orgasm is like being asked 'What did you see after the car went out of control?'. 'Uh I heard a lot of screeching sounds, uh I remember I was facing the wrong way at one point. And in the end my body was thrown clear.<br>
+							<br>
+							<br>
+							
+						The End</td>
+						</tr>
+						<tr height="6">
+							<td class="bottom2" width="645" height="6"></td>
+						</tr>
+						<tr>
+							<td width="645">
+								<div align="center">
+									<font size="-1">Copyright 2006 seinology.com | All Rights Reserved | Designed by 13erla</font></div>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+		<p></p>
+	</body>
+
+</html>

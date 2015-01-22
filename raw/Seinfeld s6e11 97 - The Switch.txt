@@ -1,0 +1,1312 @@
+<tdOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+<html>
+
+	<head>
+		<meta http-equiv="content-type" content="text/html;charset=ISO-8859-1">
+		<meta name="description" content="Top Source for Seinfeld">
+		<meta name="keywords" content="seinfeld, sienfeld, Jerry Seinfeld, Julia Louis Dreyfus, Jason Alexander, Michael Richards, Kramer, George, Costanza, Elaine Benes, morty, Larry David">
+		<title>Seinology.com :: Scripts :: 97-The Switch</title>
+	<link rel='stylesheet' href='/stylesheet.css' type='text/css'>
+	</head>
+
+	<body>
+			<table align="center" width="787" border="0" cellspacing="0" cellpadding="0">
+				<tr>
+					<td><font size="-2" color="red">Seinology.com - </font><font size="-3" color="black">Where Seinfeld Content and Accuracy Matter Most. Seinfeld scripts in pdf form, Seinfeld episode video clips, Seinfeld episode audio clips, Jerry Seinfeld appearances, Julia Louis-Dreyfus appearances, Michael Richards appearances, Jason Alexander appearances, Seinfeld discussion Forum, Seinfeld Where are they Now? Seinlanguage Newsletter, Popular Seinfeld Lists, Seinfeld episode standup, Seinfeld episode guide, Seinfeld fan fiction. Seinfeld content all on one domain. Seinology.com enjoy your stay.</font></td>
+				</tr>
+			</table>
+		
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr height="100">
+				<td class="logo"></td>
+			</tr>
+			<tr><td class="ads" align="center" background=#8694fa>
+				<script type="text/javascript"><!--
+google_ad_client = "pub-1924026976931416";
+google_ad_width = 728;
+google_ad_height = 90;
+google_ad_format = "728x90_as";
+google_ad_type = "text";
+google_ad_channel = "";
+google_color_border = "FFFFFF";
+google_color_bg = "8694fa";
+google_color_link = "0000FF";
+google_color_text = "000000";
+google_color_url = "002E3F";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></td></tr>
+		</table>
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr>
+				<td valign="top" width="136">
+					<table width="136" border="0" cellspacing="0" cellpadding="0">
+						<tr height="24">
+							<td class="navigation">
+								<div align="center">
+									
+									<b>Navigation</b></div>
+							</td>
+						</tr>
+						<tr height="199">
+							<td class="spacer1" valign="top" width="136" height="199">
+								<div align="center">
+									<font size="-1"><a href="http://www.seinology.com">Home</a><br>
+										<a href="http://board.seinology.com">Forum</a><br>
+										<a href="http://www.seinology.com/av.shtml">Audio/Video</a><br>
+										<a href="http://www.seinology.com/scripts.shtml">Scripts</a><br>
+										<a href="http://www.seinology.com/survivor.shtml">Survivor</a><br>
+										<a href="http://www.seinology.com/fanfics.shtml">Fan Fiction</a><br>
+										<a href="http://www.seinology.com/gallery/">Gallery</a><br>
+										<a href="http://www.seinology.com/newsletter.shtml">Newsletter</a><br>
+										<a href="http://www.seinology.com/lists.shtml">Lists</a><br>
+										<a href="http://www.seinology.com/epguide.shtml">Episode Guide</a><br>
+										<a href="http://www.seinology.com/links.shtml">Links</a><br>
+										<a href="http://www.seinology.com/faqother.shtml">Faq + others</a><br>
+										<a href="http://www.seinology.com/legal.shtml">Legal</a></font></div>
+							</td>
+						</tr>
+						
+						<tr>
+							<td class="nav2" width="136">
+							<div align="center"><b>Search</b></div></td>
+						</tr>
+						<tr>
+							<td class="spacer1" width="136" valign="top"><div align="center"><form method="get" action="http://www.seinology.com/search/search.cgi">
+<p><label for="fdse_Match">Match</label><br>
+<select name="Match" id="fdse_Match" size="1">
+<option value="1">All</option>
+<option value="0">Any</option>
+<option value="2">Phrase</option>
+</select></p>
+<p><label for="fdse_Realm">Where?</label><br>
+<select name="Realm" id="fdse_Realm" size="1">
+<option selected="selected" value="All">EntireSite</option>
+<option value="Ep Guide">Ep Guide</option>
+<option value="Images">Images</option>
+<option value="Lists">Lists</option>
+<option value="Newsletters">Newsletters</option>
+<option value="Scripts">Scripts</option>
+<option value="Notes..Nothing">Notes..Nothing</option>
+</select></p>
+<p><input type="text" name="Terms" size="14" id="fdse_Terms"><br>
+<input type="submit" class="submit" name="submitButtonName" value="Search"></p>
+</div></form></td>
+						</tr>
+						<tr><td class="bottom" width="136" height="10" valign="top">
+						</td>
+						</tr>
+					</table>
+				</td>
+				<td width="4"></td>
+				<td valign="top" width="645">
+					<table width="645" border="0" cellspacing="0" cellpadding="0">
+						<tr height="18">
+							<td width="645" height="35" class="bar">
+								<div align="center">
+									<b><font size="+2" color="black">Script</font></b></div>
+							</td>
+						</tr>
+						<tr height="362">
+							<td class="spacer2" valign="top" width="645" height="362">
+
+						<p><font size="-2">Episode 97 - The Switch<br>
+							
+						pc: 610, season 6, episode 11<br>
+							
+						Broadcast date: January 5, 1995<br>
+							<br>
+							
+						Written by Bruce Kirschbaum and Sam Kass<br>
+							
+						Directed by Andy Ackerman<br>
+							<br>
+							
+						-------------------------------------------------------------------------------<br>
+							<br>
+							
+						The Cast<br>
+							
+						Regulars:<br>
+							
+						Jerry Seinfeld ....................... Jerry Seinfeld<br>
+							
+						Jason Alexander .................. George Costanza<br>
+							
+						Julia Louis-Dreyfus ............. Elaine Benes<br>
+							
+						Michael Richards ................. Cosmo Kramer<br>
+							<br>
+							
+						Guest Stars:<br>
+							<br>
+							
+						Sheree North ................................ Babs Kramer<br>
+							
+						Gail Strickland ............................... Landis<br>
+							
+						Charlotte Lewis ............................ Nina<br>
+							
+						Jann Karam ................................... Sandi<br>
+							
+						Terry Sweeney ............................. Keith<br>
+							
+						Heather Medway&nbsp; ........................ Laura<br>
+							
+						Clive Rosengren ............................ Mr. Clotworthy<br>
+							
+						Jacqueline M. Houston ................. Lorraine<br>
+							
+						Cheryl Francis Harrington ........... Waitress<br>
+							
+						Tish Smiley ................................... Woman<br>
+							
+						rc: Wayne Knight ......................... Newman<br>
+							<br>
+							
+						==================================================================<br>
+							<br>
+							
+						[Pro shop at Manhattan Plaza Racquet Club]<br>
+							<br>
+							
+						JERRY: Come on. Lets go<br>
+							<br>
+							
+						ELAINE: No wait, I gotta go in here and pick up Mr. Pitt's tennis recquet.<br>
+							<br>
+							
+						JERRY: What's it doin here?<br>
+							<br>
+							
+						ELAINE: He wanted to have it restrung. (to clerk) Here I need to pick that up<br>
+							<br>
+							
+						LANDIS: Hello<br>
+							<br>
+							
+						ELAINE: Oh, Hi.<br>
+							<br>
+							
+						LANDIS: Jocylin Landis from Doubleday. I interviewed you for a position a couple of months ago.<br>
+							<br>
+							
+						ELAINE: Yes, yes, the one I didn't get. (they giggle)<br>
+							<br>
+							
+						LANDIS: I was watching you play<br>
+							<br>
+							
+						ELAINE: Oh, I'm not very good.<br>
+							<br>
+							
+						LANDIS: No. You exhibited a lot of grace out there.<br>
+							<br>
+							
+						ELAINE: Really? Grace?<br>
+							<br>
+							
+						LANDIS: Yes. So have you found anything yet?<br>
+							<br>
+							
+						ELAINE: Uh, no. Not really.<br>
+							<br>
+							
+						LANDIS: You know you should keep in touch. Something may be opening up in a few weeks. Is that a Bruline?<br>
+							<br>
+							
+						JERRY: Oh, Bruline. Newman's got the same one.<br>
+							<br>
+							
+						ELAINE: Newman plays tennis?<br>
+							<br>
+							
+						JERRY: He's fantastic.<br>
+							<br>
+							
+						LANDIS: Would you mind if I tried this out?<br>
+							<br>
+							
+						ELAINE: Uh, no ... take it.<br>
+							<br>
+							
+						LANDIS: How will you get it back?<br>
+							<br>
+							
+						ELAINE: Um, I could come by your office and pick it up tomorrow.<br>
+							<br>
+							
+						LANDIS: That's so generous of you.<br>
+							<br>
+							
+						ELAINE: Thanks<br>
+							<br>
+							
+						JERRY: You loaned her Pitt's racquet?<br>
+							<br>
+							
+						ELAINE: What could I do? She said there might be something for me at Doubleday. Oh wouldn't that be great I wouldn't have to work for Mr. Pitt anymore.<br>
+							<br>
+							
+						SANDY: I gotta get going.<br>
+							<br>
+							
+						JERRY: Oh, OK. Next time lets play ping pong. It's easier to jump over the net.<br>
+							<br>
+							
+						SANDY: (nods silently)<br>
+							<br>
+							
+						ELAINE: Bye<br>
+							<br>
+							
+						JERRY: Bye bye<br>
+							<br>
+							
+						ELAINE: Have you noticed she never laughs<br>
+							<br>
+							
+						JERRY: Hm, really?<br>
+							<br>
+							
+						ELAINE: Yeah<br>
+							<br>
+							<br>
+							<br>
+							
+						[Kramer and George on street]<br>
+							<br>
+							
+						GEORGE: Check that out (showing newspaper)<br>
+							<br>
+							
+						KRAMER: Whoa, you're dating this woman?<br>
+							<br>
+							
+						GEORGE: That's right.<br>
+							<br>
+							
+						KRAMER: George, you're becoming one of the gliterratti<br>
+							<br>
+							
+						GEORGE: What's that.<br>
+							<br>
+							
+						KRAMER: Ya' know, people who glitter. She's a slim gal.<br>
+							<br>
+							
+						GEORGE: And the amazing thing is she eats like there's no tomorra'. I mean I've never seen an appetite like this. Desserts. Everything. I don't know how she does it.<br>
+							<br>
+							
+						KRAMER: Maybe she's bulimic<br>
+							<br>
+							
+						GEORGE: Wa?<br>
+							<br>
+							
+						KRAMER: Bulimic,<br>
+							<br>
+							
+						GEORGE: Kramer, she's a model.<br>
+							<br>
+							
+						KRAMER: Exactly<br>
+							<br>
+							
+						GEORGE: I have noticed she does tend to go to the bathroom right after we finish eating.<br>
+							<br>
+							
+						KRAMER: There you go monkey boy.<br>
+							<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						[Pepperdella's Restaurant]<br>
+							<br>
+							
+						NINA: Mmm, Mmmm oh, so good, mmm, mmm. Aren't you hungry?<br>
+							<br>
+							
+						GEORGE: Just enjoying watching you.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Other restaurant]<br>
+							<br>
+							
+						SANDY: So did you like the movie?<br>
+							<br>
+							
+						JERRY: Yeah, it was OK. Frankenstein didn't seem quite right to me. I missed the sport jacket.<br>
+							<br>
+							
+						SANDY: (nods silently)<br>
+							<br>
+							
+						JERRY: Not that it was that nice of a jacket. I mean it didn't fit him that well. To me there's just something about a monster in a blazer. It shows at least he's making an effort.<br>
+							<br>
+							
+						SANDY: (nods silently) That's funny.<br>
+							<br>
+							
+						JERRY: I'm glad you enjoyed it.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Pepperdella's Restaurant]<br>
+							<br>
+							
+						NINA: Oh, I'm so full.<br>
+							<br>
+							
+						GEORGE: Yes, full. I love to be full ... love to sit back, loosen the old belt and digest away for hours. Let those enzymes do their work.<br>
+							<br>
+							
+						NINA: Will you excuse me.<br>
+							<br>
+							
+						GEORGE: Where you going?<br>
+							<br>
+							
+						NINA: I just need to freshen up.<br>
+							<br>
+							
+						GEORGE: You're fresh (grabs her arm) You're very fresh. You seem very fresh to me. You're very vital. I couldn't take you any fresher.<br>
+							<br>
+							
+						NINA: George I need to freshen., George, George, George ...<br>
+							<br>
+							<br>
+							<br>
+							
+						[Jerry's Apartment]<br>
+							<br>
+							
+						JERRY: It was unbelievable. You're right the jokes kept bouncing off her like superman.<br>
+							<br>
+							
+						ELAINE: See, what did I tell ya?<br>
+							<br>
+							
+						JERRY: And even when she did like something, she doesn't laugh. She says, &quot;That's funny.&quot; ... That's funny!<br>
+							<br>
+							
+						ELAINE: Oo, I better call that woman at Doubleday and see when I can pick up Mr. Pitt's racquet.<br>
+							<br>
+							
+						JERRY: I mean how can I be with someone that doesn't laugh. It's like ... well it's like something!<br>
+							<br>
+							
+						ELAINE: (on phone)Hello, yeah, hi. Uh, is Miss. Landis there please. Wa? Oh, Gosh, ah ok, she'll be in later? OK, thank you. Uh. (to Jerry) This guy said she hurt her arm playing tennis. ... Pretty bad.<br>
+							<br>
+							
+						(George enters)<br>
+							<br>
+							
+						GEORGE: Well, I heard a noise.<br>
+							<br>
+							
+						JERRY: What noise?<br>
+							<br>
+							
+						GEORGE: You know, .. blah ...<br>
+							<br>
+							
+						JERRY: What blah?<br>
+							<br>
+							
+						GEORGE: From the bathroom.<br>
+							<br>
+							
+						JERRY: Oh, you think she was refunding?<br>
+							<br>
+							
+						GEORGE: Every time we go out to eat the minute we we're done eating she's runnin to the bathroom.<br>
+							<br>
+							
+						ELAINE: So you're concerned.<br>
+							<br>
+							
+						GEORGE: Elaine, of course I'm concerned. I'm payin' for those meals. It's like throwing money down the toilet.<br>
+							<br>
+							
+						JERRY: In a manner of speaking.<br>
+							<br>
+							
+						GEORGE: Let me digest it. Let me get my money's worth. Y'know what would be good is if there was someone else in the bathroom that could tell me.<br>
+							<br>
+							
+						(Kramer enters.)<br>
+							<br>
+							
+						KRAMER: Here's your scrubber back.<br>
+							<br>
+							
+						JERRY: Thanks.<br>
+							<br>
+							
+						GEORGE: Hey, maybe I could bribe one of those women that hand out the towels in the powder room.<br>
+							<br>
+							
+						JERRY: A matron?<br>
+							<br>
+							
+						GEORGE: Yeah<br>
+							<br>
+							
+						(Kramer nervously waves at to stop Jerry talking)<br>
+							<br>
+							
+						JERRY: uh, well I can't help you there (weakly).<br>
+							<br>
+							
+						GEORGE: Wha?<br>
+							<br>
+							
+						KRAMER: Nothin'<br>
+							<br>
+							
+						GEORGE: You know a matron?<br>
+							<br>
+							
+						KRAMER: Me?<br>
+							<br>
+							
+						GEORGE: You<br>
+							<br>
+							
+						KRAMER: No.<br>
+							<br>
+							
+						GEORGE: Kramer,<br>
+							<br>
+							
+						KRAMER: Well, now look, just leave me alone.<br>
+							<br>
+							
+						GEORGE: Well, what is it?<br>
+							<br>
+							
+						KRAMER: No, don't, don't make me<br>
+							<br>
+							
+						GEORGE: Wha?<br>
+							<br>
+							
+						KRAMER: No, I can't, all right I can't ...<br>
+							<br>
+							
+						GEORGE: Who?<br>
+							<br>
+							
+						KRAMER: ... My mother's a matron!<br>
+							<br>
+							
+						ELAINE: Babs?<br>
+							<br>
+							
+						KRAMER: Yeah, there, all right I said it there.. Ya' satisfied? Anything else you want to know?<br>
+							<br>
+							
+						GEORGE: Kramer, Kramer, I need to know if Nina is refunding.<br>
+							<br>
+							
+						KRAMER: Look, George, I can't help ya, all right.<br>
+							<br>
+							
+						GEORGE: Why not? Why not?<br>
+							<br>
+							
+						KRAMER: let me go. let me go. Because I haven't talked to my mother in five years. We just don't see eye to eye. I don't even want to get into my childhood. I'm still carrying a lot of pain. A LOT of pain.<br>
+							<br>
+							
+						GEORGE: Come on, Kramer.<br>
+							<br>
+							
+						KRAMER: I can't I can't<br>
+							<br>
+							
+						JERRY: Kramer you're going to have to face her some time<br>
+							<br>
+							
+						KRAMER: (mumbles) b'd b'd<br>
+							<br>
+							<br>
+							<br>
+							
+						[Doubleday offices]<br>
+							<br>
+							
+						ELAINE: Hello (sees Landis) Oh, my goodness. What happened?<br>
+							<br>
+							
+						LANDIS: I tore my umeral epicondilitist<br>
+							<br>
+							
+						ELAINE: Oh<br>
+							<br>
+							
+						LANDIS: My doctor said it might never fully heal. I may never play again.<br>
+							<br>
+							
+						ELAINE: Oh, you'll be playing ...<br>
+							<br>
+							
+						LANDIS: If I can't play tennis I don't know what I'll do.<br>
+							<br>
+							
+						ELAINE: There are plenty of things you can do, there's chess and uh uh mah jong,<br>
+							<br>
+							
+						LANDIS: You don't know how lucky you are to be healthy ...<br>
+							<br>
+							
+						ELAINE: ... and biking and ..<br>
+							<br>
+							
+						LANDIS: What am I going to do?<br>
+							<br>
+							
+						ELAINE: ... hiking ...<br>
+							<br>
+							
+						LANDIS: (wimpers)<br>
+							<br>
+							
+						ELAINE: (sees racquet) Could I ...<br>
+							<br>
+							
+						LANDIS: If I can't play tennis I have no reason to live .. (cries)<br>
+							<br>
+							
+						ELAINE: (sees racquet), You know it's not important I'm gonna, ok, well, you know. Take care of that condolitis<br>
+							<br>
+							<br>
+							<br>
+							
+						[Restaurant Woman's Powder Room]<br>
+							<br>
+							
+						(Kramer and George enter)<br>
+							<br>
+							
+						KRAMER: Ma?<br>
+							<br>
+							
+						BABS: Cosmo!<br>
+							<br>
+							
+						GEORGE: Cosmo?<br>
+							<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						[Jerry's apartment]<br>
+							<br>
+							
+						JERRY: Why didn't you just ask her for it?<br>
+							<br>
+							
+						ELAINE: I told you I couldn't. The woman was crying about how she might never play tennis again<br>
+							<br>
+							
+						(Buzzer)<br>
+							<br>
+							
+						JERRY: Yeah<br>
+							<br>
+							
+						GEORGE: Hey di ho<br>
+							<br>
+							
+						JERRY: C'mon up.<br>
+							<br>
+							
+						JERRY: So when do you have to get the racquet back to Mr. Pitt?<br>
+							<br>
+							
+						ELAINE: augh, he's got a big match tomorrow with Ethyl Kennedy<br>
+							<br>
+							
+						JERRY: He needs a three hundred-dollar Bruline to beat Ethyl Kennedy?<br>
+							<br>
+							
+						ELAINE: He'll only play with his racquet<br>
+							<br>
+							
+						JERRY: Well, why don't you wait 'til she's not there on her lunch hour and just take it?<br>
+							<br>
+							
+						ELAINE: That's stealing?<br>
+							<br>
+							
+						JERRY: Stealing? You loaned her the racquet!<br>
+							<br>
+							
+						ELAINE: I know.<br>
+							<br>
+							
+						(George enters)<br>
+							<br>
+							
+						GEORGE: Hey oh.<br>
+							<br>
+							
+						ELAINE: JERRY: Hey<br>
+							<br>
+							
+						JERRY: So what happened with Kramer's mother?<br>
+							<br>
+							
+						GEORGE: It's all worked out. Nina and I will have dinner Thursday at the restaurant where Babs works.<br>
+							<br>
+							
+						JERRY: What's she like?<br>
+							<br>
+							
+						GEORGE: Oh, she's a Kramer. And uh, while I was there I uh happened to pick up another juicy little nugget about our friend.<br>
+							<br>
+							
+						ELAINE: Ah, I'm ready what?<br>
+							<br>
+							
+						JERRY: What is it?<br>
+							<br>
+							
+						GEORGE: I uh got the first name.<br>
+							<br>
+							
+						ELAINE: You found out Kramer's first name?<br>
+							<br>
+							
+						GEORGE: That's right. You ready?<br>
+							<br>
+							
+						JERRY: We've been trying to get it out of him for ten years. What is it?<br>
+							<br>
+							
+						GEORGE: Cosmo<br>
+							<br>
+							
+						ELAINE: JERRY: Cosmo?<br>
+							<br>
+							
+						GEORGE: Cosmo<br>
+							<br>
+							
+						ELAINE: JERRY: Cosmo<br>
+							<br>
+							
+						(- all laugh - )<br>
+							<br>
+							
+						ELAINE: Cosmo, Cosmo?<br>
+							<br>
+							
+						(Kramer enters)<br>
+							<br>
+							
+						KRAMER: What's so funny? ... wha?<br>
+							<br>
+							
+						ELAINE: COSMO?<br>
+							<br>
+							
+						KRAMER: All right, OK So you the name now. The cat is .a a a .. out of the bag.<br>
+							<br>
+							
+						JERRY; Well I got to hand it to you. You did a hell of a job keeping it a secret all these years.<br>
+							<br>
+							
+						ELAINE: It's not such a bad name.<br>
+							<br>
+							
+						KRAMER: Well you know all my life I've been running away from that name. That's why I wouldn't tell anybody. But I've been thinking about it. All this time I'm trying not to be me. I'm afraid to face who I was. But I'm Cosmo Jerry. I'm Cosmo Kramer. And that's who I'm going to be. From now on that's who I'm going to be. I'm Cosmo!<br>
+							<br>
+							<br>
+							<br>
+							
+						[Sandy's apartment]<br>
+							<br>
+							
+						LAURA: Yes?<br>
+							<br>
+							
+						JERRY: Hi, is Sandy here?<br>
+							<br>
+							
+						LAURA: Hi, you must be Jerry. Sandy's in the shower. Do you want to come in?<br>
+							<br>
+							
+						JERRY: I would except I forgot to bring a towel.<br>
+							<br>
+							
+						LAURA: (laughs nicely)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Monks]<br>
+							<br>
+							
+						(Jerry starts.)<br>
+							<br>
+							
+						JERRY: So the roommate laughed at everything I said.<br>
+							<br>
+							
+						GEORGE: Wow.<br>
+							<br>
+							
+						JERRY: It was a great sounding laugh too, kind of lilting and feminine--none of those big coarse &quot;ha's.&quot; You know those?<br>
+							<br>
+							
+						GEORGE: Oh yeah: HA-A-A, HA-A-A.<br>
+							<br>
+							
+						JERRY: Yeah.<br>
+							<br>
+							
+						GEORGE: Hate the big coarse &quot;ha.&quot; Hate those.<br>
+							<br>
+							
+						JERRY: And the worst part of course is that she also possessed many of the other qualities prized by the Superficial Man.<br>
+							<br>
+							
+						GEORGE: I see.<br>
+							<br>
+							
+						JERRY: So as you can see, I've got a bit of a problem here.<br>
+							<br>
+							
+						GEORGE: Well, if I hear you correctly--and I think that I do--my advice to you is to finish your meal, pay your check, leave here, and never mention this to anyone again.<br>
+							<br>
+							
+						JERRY: Can't be done, huh?<br>
+							<br>
+							
+						GEORGE: The Switch?<br>
+							<br>
+							
+						JERRY: &quot;The Switch.&quot;<br>
+							<br>
+							
+						GEORGE: Can't be done.<br>
+							<br>
+							
+						JERRY: I wonder.<br>
+							<br>
+							
+						GEORGE: Do you realize in the entire history of western civilization no one has successfully accomplished the Roommate Switch? In the Middle Ages you could get locked up for even suggesting it!<br>
+							<br>
+							
+						JERRY: They didn't have roommates in the Middle Ages.<br>
+							<br>
+							
+						GEORGE: Well, I'm sure at some point between the years 800 and 1200--somewhere--there were two women living together.<br>
+							<br>
+							
+						JERRY: The point is I intend to undertake this. And I'll do it with or without you. So if you're scared, if you haven't got the stomach for this, let's get it out right now! And I'll go on my own. If not, you can get on board and we can get to work! Now what's it going to be?<br>
+							<br>
+							
+						GEORGE: All right, dammit, I'm in.<br>
+							<br>
+							
+						JERRY: I couldn't do it without you.<br>
+							<br>
+							
+						GEORGE: All right. Let's get to work.<br>
+							<br>
+							
+						(Now here's the boys' second conversation on the subject, after we've seen them struggling with the issue over coffee, wandering the sidewalks of NYC-- all to 40's-style movie music--before continuing their discussion in Jerry's apartment. George begins this time.)<br>
+							<br>
+							
+						GEORGE: All right. That's enough for today. You're tired. Get some sleep. I'll see you first thing in the morning.<br>
+							<br>
+							
+						JERRY: Aw, we can't do it, who are we kidding? It's impossible! It's true! You can't do the Switch! Nobody can do the Switch! It was a stupid idea to begin with! Let's face it. I'm stuck with the non-laugher and that's that!<br>
+							<br>
+							
+						GEORGE: We'll come up with something.<br>
+							<br>
+							
+						JERRY: Yeah, sure we will.<br>
+							<br>
+							
+						GEORGE: All right. See you tomorrow. (George sighs, exits.)<br>
+							<br>
+							
+						(Pregnant pause, then George bursts back in.)<br>
+							<br>
+							
+						GEORGE: I-I-I-I-I got it!!!!!<br>
+							<br>
+							
+						(&quot;third scene,&quot;The boys are finishing pizza and beer. George begins here, slowly, carefully, to make sure Jerry's got it. (Be sure to keep in mind the descriptions' hilarious visual enactments.))<br>
+							<br>
+							
+						GEORGE: All right. Let's go over it again, one more time.<br>
+							<br>
+							
+						JERRY: All right. So I tell Sandy that I want to have a m&eacute;nage &agrave; trois with her and her roommate.<br>
+							<br>
+							
+						GEORGE: That's right.<br>
+							<br>
+							
+						JERRY: And you believe this course of action will have a two-pronged effect. Firstly, the very mention of the idea will cause Sandy to recoil in disgust, whereupon she will insist that I remove myself from the premises.<br>
+							<br>
+							
+						GEORGE: Keep going.<br>
+							<br>
+							
+						JERRY: At this point, it is inevitable that she will seek out the roommate to apprise her of this abhorrent turn of events.<br>
+							<br>
+							
+						GEORGE: Continue.<br>
+							<br>
+							
+						JERRY: The roommate will then offer her friend the requisite sympathy even as part of her cannot help but feel somewhat flattered by her inclusion in the unusual request.<br>
+							<br>
+							
+						(George takes over.)<br>
+							<br>
+							
+						GEORGE: A few days go by and a call is placed at a time when Sandy is known to be busy at work. Once the initial awkwardness is relieved with a little playful humor, which she [Laura] of course cannot resist, an invitation to a friendly dinner is proffered.<br>
+							<br>
+							
+						JERRY: Huh. Well, it all sounds pretty good. There's only one flaw in it: They're roommates. She'd have to go out with me behind Sandy's back. She's not gonna do that.<br>
+							<br>
+							
+						(Another pregnant pause. George?)<br>
+							<br>
+							
+						GEORGE: You disappoint me, my friend. Sandy wants nothing to do with you. She tells Laura, &quot;If you want to waste your time with that pervert, that's your problem.&quot;<br>
+							<br>
+							
+						(Final pause. Jerry?)<br>
+							<br>
+							
+						JERRY: It's a perfect plan. So inspired. So devious. Yet so simple.<br>
+							<br>
+							
+						GEORGE: (George, finger in the peanut butter jar): This is what I do.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Doubleday]<br>
+							<br>
+							
+						(Elaine surreptitiously enters office and takes racquet.)<br>
+							<br>
+							
+						KEITH: Can I help you?<br>
+							<br>
+							
+						ELAINE: Uh, no, I'm OK.<br>
+							<br>
+							
+						KEITH: Well then what are you doing with that racquet?<br>
+							<br>
+							
+						ELAINE: Um, it's mine. Miss. Landis borrowed it.<br>
+							<br>
+							
+						KEITH: Well, I'm sorry you can't take that, no no no..<br>
+							<br>
+							
+						ELAINE: No no no, I can. I can. It's mine. It's my racquet.<br>
+							<br>
+							
+						KEITH: Look sweetheart I don't know who you are. I don't know what you're doing here. But...<br>
+							<br>
+							
+						ELAINE: All right. I'm going I'm going<br>
+							<br>
+							
+						KEITH: Not with ...<br>
+							<br>
+							
+						ELAINE: Give it give it ..<br>
+							<br>
+							
+						KEITH: Leave ...<br>
+							<br>
+							
+						ELAINE: All right all right forget it. You don't have to mention any of this to Miss. Landis do you?<br>
+							<br>
+							
+						KEITH: I don't have to but I will.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Street]<br>
+							<br>
+							
+						(Babs and Kramer)<br>
+							<br>
+							
+						CLOTWORTHY: Morning Cosmo<br>
+							<br>
+							
+						KRAMER: Hi Mr. Clotworthy<br>
+							<br>
+							
+						CLOTWORTHY: How are you today?<br>
+							<br>
+							
+						KRAMER: Ah couldn't be better. Hi Lorraine.<br>
+							<br>
+							
+						LANDIS: Hi Cosmo<br>
+							<br>
+							
+						KRAMER: My mom Babs.<br>
+							<br>
+							
+						LANDIS: Hi Mrs. Kramer<br>
+							<br>
+							
+						BABS: Lorraine<br>
+							<br>
+							
+						KRAMER: Yes, It's a fine day<br>
+							<br>
+							
+						VOICE: (Larry David's voice) What do you say Cosmo?<br>
+							<br>
+							
+						KRAMER: Hey, everything my man.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Sandy's apartment]<br>
+							<br>
+							
+						SANDY: What:<br>
+							<br>
+							
+						JERRY: You know, I don't know the exact pronunciation but I believe its Manage A Trois.<br>
+							<br>
+							
+						SANDY: Oooo, that is a wild idea<br>
+							<br>
+							
+						JERRY: Uh?<br>
+							<br>
+							<br>
+							<br>
+							
+						[Monks]<br>
+							<br>
+							
+						(Kramer and Babs)<br>
+							<br>
+							
+						KRAMER: You ma, know I've been thinking. I want you to quit that matron job.<br>
+							<br>
+							
+						BABS: Yes, well isn't that just easy for you to say. What the hell do you think I'm going to do with myself?<br>
+							<br>
+							
+						KRAMER: Well maybe we could go into business together. If you're clean?<br>
+							<br>
+							
+						BABS: I've been clean for two years. Anyway what would we do together?<br>
+							<br>
+							
+						KRAMER: I've got plenty of ideas.<br>
+							<br>
+							
+						BABS: I've always believed in you Cosmo. You know that. So I want you to call that place today and tell then tha you're through.<br>
+							<br>
+							
+						BABS: All right. I'll do it.<br>
+							<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						[Restaurant]<br>
+							<br>
+							
+						(George and Nina)<br>
+							<br>
+							
+						NINA: Mmmm mm so good.<br>
+							<br>
+							
+						GEORGE: ... so glad.<br>
+							<br>
+							
+						NINA: Will you excuse me I've got to freshen up.<br>
+							<br>
+							
+						GEORGE: And why shouldn't you? Be fresh Stay fresh<br>
+							<br>
+							
+						WOMAN: I'll be back. I'm not feeling very well.<br>
+							<br>
+							
+						WAITRESS: Care to see our dessert menu?<br>
+							<br>
+							
+						GEORGE: Uh, yeah. Do you know Babs?<br>
+							<br>
+							
+						WAITRESS: Oh, yeah I was sorry to hear she left.<br>
+							<br>
+							
+						GEORGE: Babs left?<br>
+							<br>
+							
+						WAITRESS: She quit today.<br>
+							<br>
+							
+						(George runs to bathroom and hears retching sounds. George enters woman's bathroom)<br>
+							<br>
+							
+						GEORGE: Ah Ha.<br>
+							<br>
+							
+						NINA: What are you doing here George?<br>
+							<br>
+							
+						GEORGE: I was just wondering what it was you wanted for dessert.<br>
+							<br>
+							
+						(Nina leaves - woman exits stall)<br>
+							<br>
+							
+						GEORGE: How 'ya feelin'?<br>
+							<br>
+							<br>
+							<br>
+							
+						[Street]<br>
+							<br>
+							
+						(Newman and Bab)<br>
+							<br>
+							
+						BABS: Hi Newman<br>
+							<br>
+							
+						NEWMAN: Hi Babs<br>
+							<br>
+							
+						BABS: What are you doin'<br>
+							<br>
+							
+						NEWMAN: Minding my own business.<br>
+							<br>
+							
+						BABS: You'll never get into trouble that way.<br>
+							<br>
+							
+						NEWMAN: What makes you think I'm lookin' for trouble?<br>
+							<br>
+							
+						BABS: From what I hear you postmen don't have to look too far.<br>
+							<br>
+							
+						NEWMAN: ha ha ha Well you know sometimes it just has a way of finding you. Cigarette?<br>
+							<br>
+							
+						BABS: Don't mind if I do.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Jerry's Apartment]<br>
+							<br>
+							
+						(George knocking on Kramer's door yelling Kramer... Jerry opens his door.)<br>
+							<br>
+							
+						JERRY: Hey<br>
+							<br>
+							
+						(George enters)<br>
+							<br>
+							
+						GEORGE: What happened to Babs. She never showed up last night. The whole thing blew up in my face.<br>
+							<br>
+							
+						JERRY: Ah, that's a shame.<br>
+							<br>
+							
+						GEORGE: Hey, what happened with Sandy. I forgot all about it. Did you call her?<br>
+							<br>
+							
+						JERRY: Yeah, I did. In fact I went over there.<br>
+							<br>
+							
+						GEORGE: So what happened? She throw you out? Eh?<br>
+							<br>
+							
+						JERRY: No actually, she took it pretty well.<br>
+							<br>
+							
+						GEORGE: So what happened?<br>
+							<br>
+							
+						JERRY: She's into it.<br>
+							<br>
+							
+						GEORGE: Into what?<br>
+							<br>
+							
+						JERRY: The manage. And not only that. She just called me and said she talked to the roommate and the roomate's into the manage too.<br>
+							<br>
+							
+						GEORGE: That's unbelievable.<br>
+							<br>
+							
+						JERRY: Oh, it's a scene man.<br>
+							<br>
+							
+						GEORGE: Do you ever just get down on your knees and thank god that you know me and have access to my dementia?<br>
+							<br>
+							
+						JERRY: What are you talking about? I'm not goin' to do it.<br>
+							<br>
+							
+						GEORGE: You're not goin to do it? What do you mean, You're not goin to do it?<br>
+							<br>
+							
+						JERRY: I can't. I'm not an orgy guy.<br>
+							<br>
+							
+						GEORGE: Are you crazy? This is like discovering Plutonium ... by accident.<br>
+							<br>
+							
+						JERRY: Don't you know what it means to become an orgy guy? It changes everything. I'd have to dress different. I'd have to act different. I'd have to grow a mustache and get all kinds of robes and lotions and I'd need a new bedspread and new curtains I'd have to get thick carpeting and weirso lighting. I'd have to get new friends. I'd have to get orgy friends. ... Naw, I'm not ready for it.<br>
+							<br>
+							
+						GEORGE: If only something like that could happen to me.<br>
+							<br>
+							
+						JERRY: Oh, shut up you couldn't do it either.<br>
+							<br>
+							
+						GEORGE: I know.<br>
+							<br>
+							
+						(Elaine enters)<br>
+							<br>
+							
+						JERRY: Hey, what happened? Did you get your racquet?<br>
+							<br>
+							
+						ELAINE: No, I got caught.<br>
+							<br>
+							
+						JERRY: What do you mean you got caught?<br>
+							<br>
+							
+						ELAINE: Her assistant caught me. And now I'm probably not going to get a job. He's going to tell Landis that I was sneakin around her office.<br>
+							<br>
+							
+						JERRY: I still don't understand how you can get in trouble for taking your own racquet.<br>
+							<br>
+							
+						ELAINE: Meanwhile Mr. Pitt's got this match with Ethyl Kennedy this afternoon.<br>
+							<br>
+							
+						(Kramer enters)<br>
+							<br>
+							
+						KRAMER: Hey.<br>
+							<br>
+							
+						JERRY: Hi Cosmo.<br>
+							<br>
+							
+						ELAINE: Hi Cosmo<br>
+							<br>
+							
+						KRAMER: Thanks man.<br>
+							<br>
+							
+						JERRY: Hey, doesn't Newman have a Bruline racquet?<br>
+							<br>
+							
+						KRAMER: Uh, Yeah, yeah, but he's on vacation. Went to Baltimore.<br>
+							<br>
+							
+						JERRY: Hum, but you've got the key to his place right?<br>
+							<br>
+							
+						KRAMER: Yeah<br>
+							<br>
+							
+						JERRY: Well Elaine needs to borrow his racquet. Just for today.<br>
+							<br>
+							
+						KRAMER: All right all right. Come on I'll take you over to Newman's<br>
+							<br>
+							
+						GEORGE: Hey, Cosmo what happened to your mother last night. She hung me out to dry.<br>
+							<br>
+							
+						KRAMER: She quit.<br>
+							<br>
+							
+						GEORGE: It would have been nice if someone told me about it. I just think you could have said something. That's all.<br>
+							<br>
+							
+						(Trying to enter Newman's apartment)<br>
+							<br>
+							
+						KRAMER: Don't talk to me George, talk to her.<br>
+							<br>
+							
+						GEORGE: Well where is she?<br>
+							<br>
+							
+						KRAMER: I don't know.<br>
+							<br>
+							
+						(They enter Newman's apartment - Babs and Newman on the couch.)<br>
+							<br>
+							
+						KRAMER: Ma!<br>
+							<br>
+							
+						BABS: Cosmo!<br>
+							<br>
+							
+						NEWMAN: We din, we didn't ... ... Cosmo?<br>
+							<br>
+							
+						&nbsp;<br>
+							
+						The End </td>
+						</tr>
+						<tr height="6">
+							<td class="bottom2" width="645" height="6"></td>
+						</tr>
+						<tr>
+							<td width="645">
+								<div align="center">
+									<font size="-1">Copyright 2006 seinology.com | All Rights Reserved | Designed by 13erla</font></div>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+		<p></p>
+	</body>
+
+</html>

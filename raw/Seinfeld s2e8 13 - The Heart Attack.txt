@@ -1,0 +1,1014 @@
+<tdOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+<html>
+
+	<head>
+		<meta http-equiv="content-type" content="text/html;charset=ISO-8859-1">
+		<meta name="description" content="Top Source for Seinfeld">
+		<meta name="keywords" content="seinfeld, sienfeld, Jerry Seinfeld, Julia Louis Dreyfus, Jason Alexander, Michael Richards, Kramer, George, Costanza, Elaine Benes, morty, Larry David">
+		<title>Seinology.com :: Scripts :: 13-The Heart Attack</title>
+	<link rel='stylesheet' href='/stylesheet.css' type='text/css'>
+	</head>
+
+	<body>
+			<table align="center" width="787" border="0" cellspacing="0" cellpadding="0">
+				<tr>
+					<td><font size="-2" color="red">Seinology.com - </font><font size="-3" color="black">Where Seinfeld Content and Accuracy Matter Most. Seinfeld scripts in pdf form, Seinfeld episode video clips, Seinfeld episode audio clips, Jerry Seinfeld appearances, Julia Louis-Dreyfus appearances, Michael Richards appearances, Jason Alexander appearances, Seinfeld discussion Forum, Seinfeld Where are they Now? Seinlanguage Newsletter, Popular Seinfeld Lists, Seinfeld episode standup, Seinfeld episode guide, Seinfeld fan fiction. Seinfeld content all on one domain. Seinology.com enjoy your stay.</font></td>
+				</tr>
+			</table>
+		
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr height="100">
+				<td class="logo"></td>
+			</tr>
+			<tr><td class="ads" align="center" background=#8694fa>
+				<script type="text/javascript"><!--
+google_ad_client = "pub-1924026976931416";
+google_ad_width = 728;
+google_ad_height = 90;
+google_ad_format = "728x90_as";
+google_ad_type = "text";
+google_ad_channel = "";
+google_color_border = "FFFFFF";
+google_color_bg = "8694fa";
+google_color_link = "0000FF";
+google_color_text = "000000";
+google_color_url = "002E3F";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></td></tr>
+		</table>
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr>
+				<td valign="top" width="136">
+					<table width="136" border="0" cellspacing="0" cellpadding="0">
+						<tr height="24">
+							<td class="navigation">
+								<div align="center">
+									
+									<b>Navigation</b></div>
+							</td>
+						</tr>
+						<tr height="199">
+							<td class="spacer1" valign="top" width="136" height="199">
+								<div align="center">
+									<font size="-1"><a href="http://www.seinology.com">Home</a><br>
+										<a href="http://board.seinology.com">Forum</a><br>
+										<a href="http://www.seinology.com/av.shtml">Audio/Video</a><br>
+										<a href="http://www.seinology.com/scripts.shtml">Scripts</a><br>
+										<a href="http://www.seinology.com/survivor.shtml">Survivor</a><br>
+										<a href="http://www.seinology.com/fanfics.shtml">Fan Fiction</a><br>
+										<a href="http://www.seinology.com/gallery/">Gallery</a><br>
+										<a href="http://www.seinology.com/newsletter.shtml">Newsletter</a><br>
+										<a href="http://www.seinology.com/lists.shtml">Lists</a><br>
+										<a href="http://www.seinology.com/epguide.shtml">Episode Guide</a><br>
+										<a href="http://www.seinology.com/links.shtml">Links</a><br>
+										<a href="http://www.seinology.com/faqother.shtml">Faq + others</a><br>
+										<a href="http://www.seinology.com/legal.shtml">Legal</a></font></div>
+							</td>
+						</tr>
+						
+						<tr>
+							<td class="nav2" width="136">
+							<div align="center"><b>Search</b></div></td>
+						</tr>
+						<tr>
+							<td class="spacer1" width="136" valign="top"><div align="center"><form method="get" action="http://www.seinology.com/search/search.cgi">
+<p><label for="fdse_Match">Match</label><br>
+<select name="Match" id="fdse_Match" size="1">
+<option value="1">All</option>
+<option value="0">Any</option>
+<option value="2">Phrase</option>
+</select></p>
+<p><label for="fdse_Realm">Where?</label><br>
+<select name="Realm" id="fdse_Realm" size="1">
+<option selected="selected" value="All">EntireSite</option>
+<option value="Ep Guide">Ep Guide</option>
+<option value="Images">Images</option>
+<option value="Lists">Lists</option>
+<option value="Newsletters">Newsletters</option>
+<option value="Scripts">Scripts</option>
+<option value="Notes..Nothing">Notes..Nothing</option>
+</select></p>
+<p><input type="text" name="Terms" size="14" id="fdse_Terms"><br>
+<input type="submit" class="submit" name="submitButtonName" value="Search"></p>
+</div></form></td>
+						</tr>
+						<tr><td class="bottom" width="136" height="10" valign="top">
+						</td>
+						</tr>
+					</table>
+				</td>
+				<td width="4"></td>
+				<td valign="top" width="645">
+					<table width="645" border="0" cellspacing="0" cellpadding="0">
+						<tr height="18">
+							<td width="645" height="35" class="bar">
+								<div align="center">
+									<b><font size="+2" color="black">Script</font></b></div>
+							</td>
+						</tr>
+						<tr height="362">
+							<td class="spacer2" valign="top" width="645" height="362">
+
+						<p><font size="-2">Episode 13 - The Heart Attack<br>
+							
+						pc: 211, season 2, episode 8<br>
+							
+						Broadcast date: April 25, 1991<br>
+							<br>
+							
+						Written By Larry Charles<br>
+							
+						Directed By Tom Cherones<br>
+							<br>
+							
+						-------------------------------------------------------------------------------<br>
+							<br>
+							
+						The Cast<br>
+							
+						Regulars:<br>
+							
+						Jerry Seinfeld ....................... Jerry Seinfeld<br>
+							
+						Jason Alexander .................. George Costanza<br>
+							
+						Julia Louis-Dreyfus ............. Elaine Benes<br>
+							
+						Michael Richards ................. Kramer<br>
+							
+						&nbsp;<br>
+							
+						Guest Stars:<br>
+							<br>
+							
+						Stephen Tobolowsky .......... Tor<br>
+							
+						John Posey .......................... Dr. Fein<br>
+							
+						John Fleck ........................... Attendant<br>
+							
+						Jimmy Woodward .............. Driver<br>
+							
+						Pat Hazell ........................... Man in Other Bed<br>
+							
+						Sharon McKnight ............... The Nurse<br>
+							
+						Thomas Wagner ................. The Cook<br>
+							
+						Heather James .................... The Waitress<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						==================================================================<br>
+							<br>
+							<br>
+							
+						[Setting: Night club]<br>
+							<br>
+							
+						JERRY: You know, I tell ya, I gotta say that I'm enjoying adulthood. For a lot of reasons. And, I'll tell you reason number one: as an adult, if I want a cookie, I have a cookie, okay? I have three cookies or four cookies, or eleven cookies if I want. Many times I will intentionally ruin my entire appetite. Just ruin it. And then, I call my mother up right after to tell her that I did it. &quot;Hello, Mom? yeah, I just ruined my entire appetite.. cookies.&quot; So what if you ruin.. See, because as an adult, we understand even if you ruin an appetite, there's another appetite coming right behind it. There's no danger in running out of appetites. I've got millions of them, I'll ruin them whenever I want!<br>
+							<br>
+							
+						(Scene ends)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Setting: Jerry's apartment]<br>
+							<br>
+							
+						(Jerry's sitting on his couch in the dark, watching TV)<br>
+							<br>
+							
+						TV VOICE: (Germanic) Look, Sigmund. Look in the sky. The planets are on fire. It is just as you prophesied. The planets of our solar system, incinerating. Like flaming globes, Sigmund. Like flaming globes.. Ah, ha, ha, ha..<br>
+							<br>
+							
+						(Jerry's now asleep)<br>
+							<br>
+							
+						(Scene ends)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Setting: Jerry's bedroom]<br>
+							<br>
+							
+						(Jerry's laying in his bed. He wakes suddenly, picks up a pen and scribbles something down on a pad. He laughs, shakes his head, then goes back to sleep, laughing to himself)<br>
+							<br>
+							
+						(Scene ends)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Setting: Coffee shop]<br>
+							<br>
+							
+						(Jerry looks tired. He's staring at a crumpled piece of note paper. George takes out a cucumber from a bag in his pocket)<br>
+							<br>
+							
+						ELAINE: What do you got, a cucumber?<br>
+							<br>
+							
+						GEORGE: Yeah, so what?<br>
+							<br>
+							
+						ELAINE: You're bringing in an ouside cucumber?<br>
+							<br>
+							
+						GEORGE: They refuse to put cucumber in the salad. I need cucumber.<br>
+							<br>
+							
+						JERRY: (Trying to read the note) What have I done? I can't read this! Ful-hel-mo-nen-ter-val? I got up last night, I wrote this down, I thought I had this great bit.<br>
+							<br>
+							
+						(Tries to focus on the paper) Wait a second, wait a second.. &quot;Fax me some halibut.&quot; Is that funny? Is that a joke?<br>
+							<br>
+							
+						ELAINE: No. Let me see that. (Takes the paper from Jerry) Don't-mess-with-Johnny.&quot;<br>
+							<br>
+							
+						JERRY: Johnny? Johnny who? Johnny Carson? Did I insult Johnny on The Tonight Show?<br>
+							<br>
+							
+						ELAINE: (Joking) Did you mess with Johnny, Jerry?<br>
+							<br>
+							
+						GEORGE: Let me see that. (Studies the note)<br>
+							<br>
+							
+						ELAINE: Hey, where's Kramer?<br>
+							<br>
+							
+						JERRY: I don't know. That's like asking &quot;Where's Waldo?&quot;<br>
+							<br>
+							
+						GEORGE: (Still holding the note) I think I'm having a heart attack.<br>
+							<br>
+							
+						JERRY: I don't think that's it.<br>
+							<br>
+							
+						GEORGE: I'm not kidding.<br>
+							<br>
+							
+						JERRY: What does that mean?<br>
+							<br>
+							
+						ELAINE: I think what he's trying to say is that he's having a heart attack.<br>
+							<br>
+							
+						JERRY: Oh, he's having a heart attack.<br>
+							<br>
+							
+						GEORGE: Tightness..<br>
+							<br>
+							
+						JERRY: C'mon.<br>
+							<br>
+							
+						GEORGE: Shortness of breath..<br>
+							<br>
+							
+						JERRY: Oh, this is ridiculous.<br>
+							<br>
+							
+						GEORGE: Radiating waves of pain..<br>
+							<br>
+							
+						JERRY: I know what this is. You saw that show on PBS last night, Coronary Country. (To Elaine) I saw it in the TV Guide. I called him and told him to make sure and not watch it.<br>
+							<br>
+							
+						GEORGE: There was nothing else on. Oh, the left arm.. the left arm.<br>
+							<br>
+							
+						JERRY: (To Elaine) He saw that show on anorexia last year, and ate like an animal for two weeks.<br>
+							<br>
+							
+						GEORGE: Why can't I have a heart attack? I'm allowed.<br>
+							<br>
+							
+						JERRY: So what do you want? You want me take you to the hospital?<br>
+							<br>
+							
+						GEORGE: Manhattan Memorial, less of a line.<br>
+							<br>
+							
+						JERRY: I'll call an ambulance. (Exits)<br>
+							<br>
+							
+						(A waitress approaches. George is dying, but the waitress doesn't seem to notice)<br>
+							<br>
+							
+						WAITRESS: Is everything alright?<br>
+							<br>
+							
+						GEORGE: We'll just take a check. (She leaves the check. George, in all his cheapness, can't help but to review the check. He finds an error) You made a mistake on the..<br>
+							<br>
+							
+						ELAINE: George!<br>
+							<br>
+							
+						(Scene ends)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Setting: Hospital room]<br>
+							<br>
+							
+						(George lies in the bed. He has EKG cups on his chest, a tube up his nose, and an IV in his arm. The man in the neighboring bed seems to be in pain)<br>
+							<br>
+							
+						MAN: Ooohhh... Argghhh..<br>
+							<br>
+							
+						GEORGE: Are.. are you okay?<br>
+							<br>
+							
+						MAN: Ooooooohhh..<br>
+							<br>
+							
+						GEORGE: I'm George.. George Costanza.. I've never been in the hospital a day in my life.. except when I had my tonsils out. You know, they never gave me any ice cream. I always felt that-<br>
+							<br>
+							
+						MAN: Shut up!<br>
+							<br>
+							
+						(Scene goes to Jerry. He's standing at the doorway, showing the note to a nurse)<br>
+							<br>
+							
+						JERRY: Well? What do you think?<br>
+							<br>
+							
+						NURSE 1: &quot;Salami, salami, bologna.&quot; Definitely.<br>
+							<br>
+							
+						JERRY: &quot;Salami salami bologna&quot;?<br>
+							<br>
+							
+						DOCTOR: (In a hurry) Oh, your friend's fine. He didn't have a heart attack. I'll be in - in a few minutes.<br>
+							<br>
+							
+						JERRY: (Sarcastic) What a surprise. (Enters George's room overly sympathetic - leading George to think that the Doctor told Jerry something significant) Hey, how ya doin' buddy? You need anything? Do you want me to go out and get you a Superman comic?<br>
+							<br>
+							
+						GEORGE: No, no thanks.<br>
+							<br>
+							
+						JERRY: (Still going along with the practical joke) You know, I was wondering.. You know that Black Hawks jacket you have?<br>
+							<br>
+							
+						GEORGE: Oh, sure, my Black Hawks jacket. I love my Black Hawks jacket.<br>
+							<br>
+							
+						JERRY: Well, you know, I was thinking - if things don't exactly work out..<br>
+							<br>
+							
+						GEORGE: Well, it wouldn't fit you. The sleeves are too short.<br>
+							<br>
+							
+						JERRY: No, I tried it on. It fits good.<br>
+							<br>
+							
+						GEORGE: Well, I didn't really think about what I was gonna do with all..<br>
+							<br>
+							
+						JERRY: Well, you know..<br>
+							<br>
+							
+						GEORGE: (Reluctantly) Well, okay.<br>
+							<br>
+							
+						JERRY: Oh, and.. do you think it would be alright if I called Susan Davis?<br>
+							<br>
+							
+						GEORGE: Susan Davis? (Getting possessive) Hey, wait a second..<br>
+							<br>
+							
+						JERRY: Well, it's not like we'd be bumping into you.<br>
+							<br>
+							
+						GEORGE: I don't know.. you and Susan Davis?<br>
+							<br>
+							
+						JERRY: You know, if your future was a little more certain..<br>
+							<br>
+							
+						GEORGE: Okay, go ahead. Call her, get married, have babies, have a great life.. What do I care? I'm finished. (Really depressed) It's all over for me. In fact, let's end it right now. Jerry, kill me, kill me now. I'm begging you. Let's just get it over with. Be a pal.. Just take the pillow and put it over my face.<br>
+							<br>
+							
+						JERRY: Well, ah.. (Takes his pillow) What? Kind of like this? (Violently smothers George with the pillow. George freaks out. He didn't think Jerry would actually do it)<br>
+							<br>
+							
+						GEORGE: What are ya doing?! Whadya, crazy?!<br>
+							<br>
+							
+						(Elaine enters - she gets a clear shot of Jerry's jokingly trying to kill George)<br>
+							<br>
+							
+						ELAINE: Jerry!<br>
+							<br>
+							
+						JERRY: (Acts like he was cought red-handed) Elaine, what are you doing here? (Takes the pillow off George, and puts it back on his bed)<br>
+							<br>
+							
+						GEORGE: (To Jerry) Jerk off.<br>
+							<br>
+							
+						(Jerry goes over to Elaine)<br>
+							<br>
+							
+						JERRY: (Whispering) There's nothing wrong with him. I saw the doctor. He's fine.<br>
+							<br>
+							
+						(They both go to George's bed. Elaine decides to go along with Jerry's joke)<br>
+							<br>
+							
+						ELAINE: Hi, George. How ya feeling? Is anybody getting your apartment?<br>
+							<br>
+							
+						(Jerry and Elaine both sit down, and have their own conversation. They completely ignore George)<br>
+							<br>
+							
+						GEORGE: I'll tell ya, if I ever get out of here, I'm gonna change my life. I'm gonna do a whole Zen thing. Take up yoga, meditate.. I'll eat right. Calm down, lose my anger.. (Sees Jerry and Elaine aren't listening. He snaps) Hey, is anybody listening?!<br>
+							<br>
+							
+						(The doctor enters. Elaine and the doctor exchange an awkward, romantic glance)<br>
+							<br>
+							
+						DOCTOR: (To Elaine) Uh, hello. (To George) Uh, Mr. Costanza?<br>
+							<br>
+							
+						GEORGE: (Panicky) Uh, yeah. You know, Doctor, I gotta tell you, I feel a lot better.<br>
+							<br>
+							
+						DOCTOR: Well, we looked at your EKG's, ran some tests, did a complete work-up.<br>
+							<br>
+							
+						GEORGE: (Getting in a more panicked state) Oh God, Mommy!<br>
+							<br>
+							
+						DOCTOR: And you simply haven't had a heart attack.<br>
+							<br>
+							
+						GEORGE: (Relieved) I haven't? I'm okay? I'm okay? Oh, thank you, thank you, Doctor! I don't know how to thank you.<br>
+							<br>
+							
+						JERRY: (Sarcastic) Hey, that was really fun, George. Can we go home now?<br>
+							<br>
+							
+						DOCTOR: No, actually, we'd like to keep him here overnight for observation, just to be safe.<br>
+							<br>
+							
+						GEORGE: Oh, sure. Sure, anything. Can you believe it? There's nothing wrong with me.<br>
+							<br>
+							
+						DOCTOR: Well, I wouldn't go that far.<br>
+							<br>
+							
+						GEORGE: (Starting to panic again) What? Oh my God. What? Is it meningitis? Scoliosis? Lupis?! Is it Lupis?!<br>
+							<br>
+							
+						DOCTOR: Have you ever had your tonsils taken out?<br>
+							<br>
+							
+						GEORGE: My tonsils? Yeah, when I was a kid.<br>
+							<br>
+							
+						DOCTOR: Well, they've grown back. Your adenoids are swollen too.<br>
+							<br>
+							
+						GEORGE: Really?<br>
+							<br>
+							
+						ELAINE: (Jokingly hits the doctor) Whose tonsils grow back? (Laughs)<br>
+							<br>
+							
+						DOCTOR: It happens.<br>
+							<br>
+							
+						JERRY: Yeah, if you've been exposed to gamma rays.<br>
+							<br>
+							
+						ELAINE: I still have my tonsils. Everyone in my family has their tonsils. In fact, we were forbidden to socialize with anyone who didn't have their tonsils.<br>
+							<br>
+							
+						DOCTOR: That's interesting. Because, no one in my family has their tonsils, and we were forbidden to socialize with tonsil people.<br>
+							<br>
+							
+						JERRY: (Sarcastically) Well, it's like the Capulets and the Montagues.<br>
+							<br>
+							
+						GEORGE: (Drawing attention back to him) Excuse me!<br>
+							<br>
+							
+						DOCTOR: Anyway, I strongly recommend they come out.<br>
+							<br>
+							
+						GEORGE: What? You mean with a knife?<br>
+							<br>
+							
+						DOCTOR: Yes. With a knife. You know, snip, snip. Anyway, you'd be completely under, you wouldn't feel a thing. And when you wake up, you can have some ice cream.<br>
+							<br>
+							
+						GEORGE: (Angry) Yeah, that's what they told me the last time.<br>
+							<br>
+							
+						DOCTOR: Think about it. (Turns to leave, but runs into Elaine) Excuse me.<br>
+							<br>
+							
+						ELAINE: (Flustered) Oh, I'm sorry. (Doctor exits) I just.. have to ask that doctor one more question. (Leaves)<br>
+							<br>
+							
+						JERRY: Women go after doctors like men go after models. They want someone with knowledge of the body.. we just want the body.<br>
+							<br>
+							
+						(Kramer enters, eating off a tray of hospital food)<br>
+							<br>
+							
+						KRAMER: Hey.<br>
+							<br>
+							
+						JERRY: Hey.<br>
+							<br>
+							
+						KRAMER: Boy, they got a great cafeteria downstairs. Hot food, sandwiches, a salad bar.. It's like a Sizzler's opened up a hospital! (Sits and starts eating) So, how did you have a heart attack? You're a young man. What were you doing? Are they gonna do a zipper job? Oh, they love to do zipper jobs.<br>
+							<br>
+							
+						JERRY: (Trying to shut him up) Kramer.<br>
+							<br>
+							
+						KRAMER: The really bad thing about the heart is the sex thing. See, you gotta be careful about sex now. You get that heart pumping and suddenly, boom! Next thing you know, you got a hose coming out of your chest attached to a piece of luggage.<br>
+							<br>
+							
+						JERRY: Kramer, George didn't have a heart attack.<br>
+							<br>
+							
+						KRAMER: No? That's good.<br>
+							<br>
+							
+						GEORGE: I have to have my tonsils taken out.<br>
+							<br>
+							
+						KRAMER: Oh man.. No.. George, we gotta get you outta here. Get out! Right now! They'll kill ya in here.<br>
+							<br>
+							
+						JERRY: (Trying to calm George down) It's routine surgery.<br>
+							<br>
+							
+						KRAMER: Oh yeah? My friend, Bob Saccomanno, he came in here for a hernia operation.. Oh yeah, routine surgery.. now he's sittin' around in a chair by a window going, &quot;My name is Bob&quot; .. George, whatever you do, don't let 'em cut you. Don't let 'em cut you..<br>
+							<br>
+							
+						GEORGE: Well, what should I do, Kramer?<br>
+							<br>
+							
+						JERRY: Well, for one think, don't listen to him.<br>
+							<br>
+							
+						KRAMER: I'll tell you what to do, I'll tell you what to do. You go to Tor Eckman. Tor, Tor, he'll fix you right up. He's a herbalist, a healer, George. He's not just gonna fix the tonsils and the adenoids, he is gonna change the whole way you function - body and mind.<br>
+							<br>
+							
+						JERRY: Eckman? I thought he was doing time?<br>
+							<br>
+							
+						KRAMER: No, no, he's out. He got out. See, the medical establishment, see, they tried to frame him. It's all politics. But he's a rebel.<br>
+							<br>
+							
+						JERRY: A rebel? No. Johnny Yuma was a rebel. Eckman is a nut. George, you want to take care of your tonsils, you do it in a hospital. With a doctor.<br>
+							<br>
+							
+						KRAMER: He's holistic, George. He's holistic.<br>
+							<br>
+							
+						GEORGE: Holistic.. that sounds right.<br>
+							<br>
+							
+						JERRY: George, you need a medical doctor.<br>
+							<br>
+							
+						GEORGE: (To Jerry) Let me ask you something.. How much do you think it would cost to have tonsils and adenoids removed in the hospital?<br>
+							<br>
+							
+						JERRY: Well, an overnight stay in a hospital? Minor surgery? I dunno, four grand.<br>
+							<br>
+							
+						GEORGE: Uh-huh. And how much does the healer charge?<br>
+							<br>
+							
+						KRAMER: First visit? Thirty-eight bucks.<br>
+							<br>
+							
+						GEORGE: Oh, yeah? Holistic.. that's what I need. That's the answer.<br>
+							<br>
+							
+						(Scene ends)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Setting: Healer's apartment]<br>
+							<br>
+							
+						(Jerry and George are sitting on huge pillows on the apartment floor. Kramers fiddling with an acupuncture model)<br>
+							<br>
+							
+						GEORGE: So, how do you like the way I talked you into comin' down here?<br>
+							<br>
+							
+						JERRY: Don't flatter yourself, my friend. I'm here strictly for material, and I have a feeling this is a potential gold mine.. I still think you're nuts, though.<br>
+							<br>
+							
+						GEORGE: All I know is I've been going to doctors all my life. What has it gotten me? I'm thirty-three years old. I haven't outgrown the problems of puberty, I'm already facing the problems of old age. I completely skipped healthy adulthood. I went from having orgasms immediately to taking forever. You could do your taxes in the time it takes me to have an orgasm. I've never had a normal, medium orgasm.<br>
+							<br>
+							
+						JERRY: (Jokingly making fun of George) I've never had a really good pickle.<br>
+							<br>
+							
+						GEORGE: Besides, what's it gonna cost me? Thirty-eight bucks?<br>
+							<br>
+							
+						(Tor enters. He hugs Kramer for a long time, then walks over to Jerry and George)<br>
+							<br>
+							
+						TOR: (To Jerry) Would you not put your foot on that please?<br>
+							<br>
+							
+						JERRY: Sorry.<br>
+							<br>
+							
+						(Tor sits down, and turns tward George)<br>
+							<br>
+							
+						TOR: What month were you born?<br>
+							<br>
+							
+						GEORGE: April.<br>
+							<br>
+							
+						TOR: You should have been born in August. Your parents would have been well-advised to wait.<br>
+							<br>
+							
+						GEORGE: Really?<br>
+							<br>
+							
+						TOR: Do you use hot water in the shower?<br>
+							<br>
+							
+						GEORGE: Yes.<br>
+							<br>
+							
+						TOR: Stop using it.<br>
+							<br>
+							
+						GEORGE: ..Okay.<br>
+							<br>
+							
+						KRAMER: I'm off hot water.<br>
+							<br>
+							
+						TOR: Kramer tells me that you are interested in an alternative to surgery.<br>
+							<br>
+							
+						GEORGE: Yes, yes I am.<br>
+							<br>
+							
+						TOR: (Blows into George's face) I think we can help you. See, unfortunately, the medical establishment is a business like any other business. And business needs customers. And, they want to sell you their most expensive item which is unnecessary surgery.<br>
+							<br>
+							
+						GEORGE: (Still on the showers) Can I use hot water on my face?<br>
+							<br>
+							
+						TOR: No. You know, I am not a business man. I'm a holistic healer. It's a calling, it's a gift. You see, it's in the best interest of the medical profession that you remain sick. You see, that insures good business. You're not a patient. You're a customer.<br>
+							<br>
+							
+						JERRY: (He thinks this, the audience can hear his thoughts) And you're not a doctor, but you play one in real life.<br>
+							<br>
+							
+						GEORGE: (Still on the hot water) What about shaving?<br>
+							<br>
+							
+						TOR: (To Jerry) You're eating too much dairy. (To George) May I? (Reaches over, and touches George's face)<br>
+							<br>
+							
+						GEORGE: I guess so.<br>
+							<br>
+							
+						TOR: (Feeling George's face) You see, you are in disharmony. The throat is the gateway to the lung. Tonsillitis, adenoiditis, is, in Chinese medical terms, and invasion of heat and wind.<br>
+							<br>
+							
+						JERRY: (Again, we hear his thoughts) There's some hot air blowing in here..<br>
+							<br>
+							
+						TOR: You know, I lived with the Eskimos many years ago, and they used to plunge their faces into the snow.<br>
+							<br>
+							
+						GEORGE: (Once again, still on the shower) Could it be lukewarm?<br>
+							<br>
+							
+						JERRY: Too much dairy? You really think I'm eating too much dairy?<br>
+							<br>
+							
+						(Scene ends)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Setting: Doctor's car]<br>
+							<br>
+							
+						(The Doctor and Elaine are almost done with their date. the doctor is speaking seductively to Elaine while holding out her tongue)<br>
+							<br>
+							
+						DOCTOR: ..The tongue.. yes, the tongue.. or, in medical terms, the glossa. It's a muscular organ.. Consists of two parts.. the body, and the root.. You see, it's covered by this mucous membrane.. These little raised projections are the papillae, which give it that furry appearance. Very tactile..<br>
+							<br>
+							
+						(The Doctor is still holding her tongue)<br>
+							<br>
+							
+						ELAINE: Uh-huh.<br>
+							<br>
+							
+						(Scene ends)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Setting: Healer's apartment]<br>
+							<br>
+							
+						TOR: (Pouring tea) Your tea is ready now. This will solve your so-called tonsil problem. It's a special concoction. It contains crampbark.<br>
+							<br>
+							
+						JERRY: I love crampbark.<br>
+							<br>
+							
+						TOR: Cleavers.<br>
+							<br>
+							
+						JERRY: Cleaver, I once had cleaver as a kid. I was able to lift a car.<br>
+							<br>
+							
+						TOR: And some couchgrass.<br>
+							<br>
+							
+						JERRY: Couchgrass and crampbark? You know, I think that's what killed Curly.<br>
+							<br>
+							
+						(Tor hands George the tea. George isn't willing to drink it right away. Jerry looks skeptical, Kramer, on the other hand, is enthusiastic)<br>
+							<br>
+							
+						KRAMER: Go ahead, drink it, George.<br>
+							<br>
+							
+						JERRY: Excuse me, Tor. May I ask you a question? You have intuitive abilities. You're in touch with a lot of this cosmic kind of things.. I have this note I can't read. I was wondering if-<br>
+							<br>
+							
+						TOR: (Takes the note, then laughs when he reads it) Oh, yes.. yes.. &quot;Cleveland 117, San Antonio 109.. (Hands note back to Jerry)<br>
+							<br>
+							
+						KRAMER: Go ahead, drink it, George.<br>
+							<br>
+							
+						GEORGE: (Takes a sip) Hey, it's not too bad..<br>
+							<br>
+							
+						(Scene ends)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Setting: Ambulance]<br>
+							<br>
+							
+						(George's strapped down on a gurney. His face is purple, and he's screaming. Jerry and Kramer are trying to calm him down. The driver and the assistant in the back are having a huge fight)<br>
+							<br>
+							
+						GEORGE: (In a state of hysteria) I'm an eggplant! I'm an eggplant! I'm a minstrel man!<br>
+							<br>
+							
+						DRIVER: (To Assistant) I didn't take your Chuckle, man!<br>
+							<br>
+							
+						ASSISTANT: I had five Chuckles. I ate a green one, and the yellow one, and the red one is missing!<br>
+							<br>
+							
+						DRIVER: I don't even like Chuckles!<br>
+							<br>
+							
+						JERRY: (To Assistant) Maybe he doesn't like them. That's possible.<br>
+							<br>
+							
+						GEORGE: My face! My face! Get me to the hospital!<br>
+							<br>
+							
+						ASSISTANT: I want that Chuckle! You hear me?!<br>
+							<br>
+							
+						JERRY: (To Assistant) I'll get you a Chuckle. You want me to get you a Chuckle?<br>
+							<br>
+							
+						ASSISTANT: (Angry, to Driver) Pull over!<br>
+							<br>
+							
+						DRIVER: Pull over? Did you say pull over?! You want a piece of me?!<br>
+							<br>
+							
+						ASSISTANT: Yeah!<br>
+							<br>
+							
+						JERRY: You're gonna fight?<br>
+							<br>
+							
+						GEORGE: Now?! I'm a mutant!<br>
+							<br>
+							
+						KRAMER: (To Driver) Hey, let me drive.<br>
+							<br>
+							
+						ASSISTANT: Come on, man. Pull over!<br>
+							<br>
+							
+						DRIVER: Alright! I'm gonna mess you up, man!<br>
+							<br>
+							
+						(Ambulance comes to a screeching halt. Driver gets out, and the assistant heads for the back door)<br>
+							<br>
+							
+						JERRY: (Pleading) Really, gentlemen, please.<br>
+							<br>
+							
+						GEORGE: My heart! My heart! (To Assistant) Where you going? Are you crazy?!<br>
+							<br>
+							
+						ASSISTANT: I'm gonna kick his ass.<br>
+							<br>
+							
+						KRAMER: (To Assistant) Hey, you have keys?<br>
+							<br>
+							
+						GEORGE: You can't leave! This is an ambulance! This is an emergency!<br>
+							<br>
+							
+						(The Assistant leaves. Jerry, Kramer, and George watch the two fight)<br>
+							<br>
+							
+						JERRY: All this for a Chuckle.<br>
+							<br>
+							
+						KRAMER: What's a Chuckle?<br>
+							<br>
+							
+						JERRY: It's a jelly candy. it comes in five flavors.<br>
+							<br>
+							
+						(Scene ends)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Setting: Doctor's car]<br>
+							<br>
+							
+						(He's still holding Elaine's tongue)<br>
+							<br>
+							
+						DOCTOR: You see, taste buds run on grooves along the surfaces.<br>
+							<br>
+							
+						ELAINE: Can you let go of my tongue now?<br>
+							<br>
+							
+						DOCTOR: What?<br>
+							<br>
+							
+						ELAINE: Let go of my tongue!<br>
+							<br>
+							
+						DOCTOR: (Lets go) Oh, sorry.<br>
+							<br>
+							
+						ELAINE: Well, I should get going.. (The Doctor leans in for a kiss. Elaine stops him) What are you doing?<br>
+							<br>
+							
+						DOCTOR: I was going to kiss you good night.<br>
+							<br>
+							
+						ELAINE: A kiss? With the tongue? The glossa with the bumps and the papillae? ..Yech, I don't think so. (Leaves)<br>
+							<br>
+							
+						(Scene ends)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Setting: Ambulance]<br>
+							<br>
+							
+						(It's now moving. The driver's behind the wheel, but the assistant is nowhere in sight)<br>
+							<br>
+							
+						JERRY: You just can't leave him out there.<br>
+							<br>
+							
+						DRIVER: I told him I was gonna mess him up.<br>
+							<br>
+							
+						KRAMER: Well, can you call him an ambulance?<br>
+							<br>
+							
+						DRIVER: I told him I didn't take his Chuckle. I don't eat that gooey crap!<br>
+							<br>
+							
+						KRAMER: hey, watch the road! Watch the road, man!<br>
+							<br>
+							
+						DRIVER: (Turns back, facing Kramer) Hey, man, you want some of what he got?!<br>
+							<br>
+							
+						JERRY AND KRAMER: Watch out!<br>
+							<br>
+							
+						(The Ambulance crashes into something)<br>
+							<br>
+							
+						(Scene ends)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Setting: Hospital room]<br>
+							<br>
+							
+						(George is in the bed, watching TV, wearing a neck brace. Jerry enters limping and wearing a neck brace, also. He talks to George, but George can't respond verbally)<br>
+							<br>
+							
+						JERRY: How ya doing? (George nods) Can't talk? (George shakes his head. Jerry gestures to his brace) Hey, how'd you get the plastic one? (George raises his eyebrows) I like that. (George sticks his tongue out) So how's life without tonsils? (George quickly indicates with his arm that he wants ice cream) What? What's that? ..So, how much is this thing gonna cost you now? Like, five, six thousand?.. (George signals that it's more) Well, live and learn.. at least we lived. Kramer went to Eckman.. He feels better alreadyy.. (George motions for ice cream again) What are you doing?<br>
+							<br>
+							
+						(Elaine enters)<br>
+							<br>
+							
+						ELAINE: Oh, poor George. Oh, I'm sorry, but I can't stay long. I don't want to run into Doctor Tongue.. Here, I brought you something. (Takes out a pint of ice cream. George gets excited) Oh, please, come on.. it was nothing.<br>
+							<br>
+							
+						(Nurse enters)<br>
+							<br>
+							
+						JERRY: Hey, check the TV.<br>
+							<br>
+							
+						(The TV is showing the same exact movie Jerry was watching at the start of the show)<br>
+							<br>
+							
+						TV VOICE: (Germanic) It's just as you prophesied. The planets of our solar system, incinerating. Like flaming globes, Sigmond. Like flaming globes. Ah, ha, ha, ha..<br>
+							<br>
+							
+						JERRY: (Pulls the note out of his pocket) That's it! That's it! Flaming globes of Sigmond! Flaming Globes of Sigmond! That's my note! tha'ts what I thought was so funny?! ..That's not funny.. There's nothing funny about that.<br>
+							<br>
+							
+						MAN IN NEIGHBORING BED: Shut up!<br>
+							<br>
+							
+						(George throws the whole carton of ice cream over the separating curtan)<br>
+							<br>
+							
+						MAN: Aaahhhgggg!<br>
+							<br>
+							
+						(Scene ends)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Setting: Night club]<br>
+							<br>
+							
+						JERRY: I have a friend who's a hypochondriac, always thinks he's sick - never is. And they, you have another type of person, always thinks they're well, not matter how bad they really are. You know this type of person? Very annoying. &quot;Feel great.. like being on the respirator.. intravenous heart/lung machine. I never felt better in my life.&quot; Medical science is making advances every day in control health problems. In fact, it's probably only a matter of time before a heart attack, you know, becomes like, a head ache. We'll just see people on TV going, &quot;I had a heart attack this big (Holds out hands, gesturing bigness) ..but, I gave myself one of these. Clear! (Puts imaginary electrode panels to his chest) Brrhht.. and it's gone!&quot;<br>
+							<br>
+							<br>
+							
+						The End</td>
+						</tr>
+						<tr height="6">
+							<td class="bottom2" width="645" height="6"></td>
+						</tr>
+						<tr>
+							<td width="645">
+								<div align="center">
+									<font size="-1">Copyright 2006 seinology.com | All Rights Reserved | Designed by 13erla</font></div>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+		<p></p>
+	</body>
+
+</html>

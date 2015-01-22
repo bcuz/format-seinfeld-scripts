@@ -1,0 +1,1120 @@
+<tdOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+<html>
+
+	<head>
+		<meta http-equiv="content-type" content="text/html;charset=ISO-8859-1">
+		<meta name="description" content="Top Source for Seinfeld">
+		<meta name="keywords" content="seinfeld, sienfeld, Jerry Seinfeld, Julia Louis Dreyfus, Jason Alexander, Michael Richards, Kramer, George, Costanza, Elaine Benes, morty, Larry David">
+		<title>Seinology.com :: Scripts :: 59-The Implant</title>
+	<link rel='stylesheet' href='/stylesheet.css' type='text/css'>
+	</head>
+
+	<body>
+			<table align="center" width="787" border="0" cellspacing="0" cellpadding="0">
+				<tr>
+					<td><font size="-2" color="red">Seinology.com - </font><font size="-3" color="black">Where Seinfeld Content and Accuracy Matter Most. Seinfeld scripts in pdf form, Seinfeld episode video clips, Seinfeld episode audio clips, Jerry Seinfeld appearances, Julia Louis-Dreyfus appearances, Michael Richards appearances, Jason Alexander appearances, Seinfeld discussion Forum, Seinfeld Where are they Now? Seinlanguage Newsletter, Popular Seinfeld Lists, Seinfeld episode standup, Seinfeld episode guide, Seinfeld fan fiction. Seinfeld content all on one domain. Seinology.com enjoy your stay.</font></td>
+				</tr>
+			</table>
+		
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr height="100">
+				<td class="logo"></td>
+			</tr>
+			<tr><td class="ads" align="center" background=#8694fa>
+				<script type="text/javascript"><!--
+google_ad_client = "pub-1924026976931416";
+google_ad_width = 728;
+google_ad_height = 90;
+google_ad_format = "728x90_as";
+google_ad_type = "text";
+google_ad_channel = "";
+google_color_border = "FFFFFF";
+google_color_bg = "8694fa";
+google_color_link = "0000FF";
+google_color_text = "000000";
+google_color_url = "002E3F";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></td></tr>
+		</table>
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr>
+				<td valign="top" width="136">
+					<table width="136" border="0" cellspacing="0" cellpadding="0">
+						<tr height="24">
+							<td class="navigation">
+								<div align="center">
+									
+									<b>Navigation</b></div>
+							</td>
+						</tr>
+						<tr height="199">
+							<td class="spacer1" valign="top" width="136" height="199">
+								<div align="center">
+									<font size="-1"><a href="http://www.seinology.com">Home</a><br>
+										<a href="http://board.seinology.com">Forum</a><br>
+										<a href="http://www.seinology.com/av.shtml">Audio/Video</a><br>
+										<a href="http://www.seinology.com/scripts.shtml">Scripts</a><br>
+										<a href="http://www.seinology.com/survivor.shtml">Survivor</a><br>
+										<a href="http://www.seinology.com/fanfics.shtml">Fan Fiction</a><br>
+										<a href="http://www.seinology.com/gallery/">Gallery</a><br>
+										<a href="http://www.seinology.com/newsletter.shtml">Newsletter</a><br>
+										<a href="http://www.seinology.com/lists.shtml">Lists</a><br>
+										<a href="http://www.seinology.com/epguide.shtml">Episode Guide</a><br>
+										<a href="http://www.seinology.com/links.shtml">Links</a><br>
+										<a href="http://www.seinology.com/faqother.shtml">Faq + others</a><br>
+										<a href="http://www.seinology.com/legal.shtml">Legal</a></font></div>
+							</td>
+						</tr>
+						
+						<tr>
+							<td class="nav2" width="136">
+							<div align="center"><b>Search</b></div></td>
+						</tr>
+						<tr>
+							<td class="spacer1" width="136" valign="top"><div align="center"><form method="get" action="http://www.seinology.com/search/search.cgi">
+<p><label for="fdse_Match">Match</label><br>
+<select name="Match" id="fdse_Match" size="1">
+<option value="1">All</option>
+<option value="0">Any</option>
+<option value="2">Phrase</option>
+</select></p>
+<p><label for="fdse_Realm">Where?</label><br>
+<select name="Realm" id="fdse_Realm" size="1">
+<option selected="selected" value="All">EntireSite</option>
+<option value="Ep Guide">Ep Guide</option>
+<option value="Images">Images</option>
+<option value="Lists">Lists</option>
+<option value="Newsletters">Newsletters</option>
+<option value="Scripts">Scripts</option>
+<option value="Notes..Nothing">Notes..Nothing</option>
+</select></p>
+<p><input type="text" name="Terms" size="14" id="fdse_Terms"><br>
+<input type="submit" class="submit" name="submitButtonName" value="Search"></p>
+</div></form></td>
+						</tr>
+						<tr><td class="bottom" width="136" height="10" valign="top">
+						</td>
+						</tr>
+					</table>
+				</td>
+				<td width="4"></td>
+				<td valign="top" width="645">
+					<table width="645" border="0" cellspacing="0" cellpadding="0">
+						<tr height="18">
+							<td width="645" height="35" class="bar">
+								<div align="center">
+									<b><font size="+2" color="black">Script</font></b></div>
+							</td>
+						</tr>
+						<tr height="362">
+							<td class="spacer2" valign="top" width="645" height="362">
+
+						<p><font size="-2">Episode 59 - The Implant<br>
+							
+						pc: 419, season 4, episode 19<br>
+							
+						Broadcast date: February 25, 1993<br>
+							<br>
+							
+						Written by Peter Mehlman<br>
+							
+						Directed by Tom Cherones<br>
+							<br>
+							
+						-------------------------------------------------------------------------------<br>
+							<br>
+							
+						The Cast<br>
+							
+						Regulars:<br>
+							
+						Jerry Seinfeld ....................... Jerry Seinfeld<br>
+							
+						Jason Alexander .................. George Costanza<br>
+							
+						Julia Louis-Dreyfus ............. Elaine Benes<br>
+							
+						Michael Richards ................. Kramer<br>
+							<br>
+							
+						Guest Stars:<br>
+							<br>
+							
+						Teri Hatcher ........................ Sidra<br>
+							
+						Megan Mullally .................... Betsy<br>
+							
+						Carol Rosenthal ................... Ticket Clerk #1<br>
+							
+						Donald Bishop ..................... Dr. Allenwood<br>
+							
+						Tony Amendola ................... Rushdie<br>
+							
+						Kieran Mulroney ................. Timmy<br>
+							
+						Peggy Stewart .................... Aunt May<br>
+							
+						Bruce E. Morrow ................ Father Jessup<br>
+							
+						Susan Beaubian ................... Ticket Clerk #2<br>
+							<br>
+							
+						==================================================================<br>
+							<br>
+							
+						[Opening Monologue]<br>
+							<br>
+							
+						The cosmetic surgery procedures that are available to people today - liposuction, are you familiar with this? This is a fat-sucking machine. Now you know, somewhere, somebody is working on a way that this thing could go into a restaurant. And you could just order it off the menu. 'I tell you what, give me the cheesecake, crank me up to nine, and put a scoop of ice cream on the side.'<br>
+							<br>
+							<br>
+							
+						[Opening scene]<br>
+							<br>
+							
+						(Sidra on a Stairmaster at the New York Health Club. Jerry enters after his workout w/gymbag in hand.)<br>
+							<br>
+							
+						SIDRA: Oh, hi Jerry.<br>
+							<br>
+							
+						JERRY: Hi, Sidra. I usually last about ten minutes on a Stairmaster. Unless of course there's someone stretching in front of me in a leotard, then I can go an hour.<br>
+							<br>
+							
+						SIDRA (amused): Really.<br>
+							<br>
+							
+						JERRY: Oh, yeah. That's why they call it a Stairmaster. You get up there and you stare.<br>
+							<br>
+							
+						SIDRA (stepping off): Well, I'm done. I think I'm gonna go take a sauna.<br>
+							<br>
+							
+						JERRY: Alright, I'll see you Thursday night, right?<br>
+							<br>
+							
+						SIDRA: Thursday night.<br>
+							<br>
+							
+						JERRY: Alright.<br>
+							<br>
+							
+						(Elaine walks over to Jerry.)<br>
+							<br>
+							
+						ELAINE: Good workout?<br>
+							<br>
+							
+						JERRY (mimics smoking an &quot;after sex cigarette&quot;): Tremendous workout.<br>
+							<br>
+							
+						ELAINE: That's a pretty girl.<br>
+							<br>
+							
+						JERRY: Tremendous girl.<br>
+							<br>
+							
+						ELAINE: She's the one you went out with last night?<br>
+							<br>
+							
+						JERRY: Yeah. I really like her.<br>
+							<br>
+							
+						ELAINE: You know, uh...they're fake.<br>
+							<br>
+							
+						JERRY: What? Don't say that!<br>
+							<br>
+							
+						ELAINE: Nah! They're fake!<br>
+							<br>
+							
+						JERRY: How do you know?<br>
+							<br>
+							
+						ELAINE: I can tell. You know how you're always bragging how you can spot a lesbian?<br>
+							<br>
+							
+						JERRY: I'm not bragging, I happen to have a very keen lesbian eye. (A woman walks by Jerry and Elaine.) Hi, how ya doin.' (Jerry jerks a thumb at the woman to confirm his talent. Elaine is skeptical.)<br>
+							<br>
+							
+						ELAINE: Oh, right. C'mon, don't you think they seem a bit too perfect?<br>
+							<br>
+							
+						JERRY: Yes, they do!<br>
+							<br>
+							
+						ELAINE: I never knew you were so into breasts. I thought you were a leg man.<br>
+							<br>
+							
+						JERRY: A leg man? Why would I be a leg man? I don't need legs. I have legs. Have you ever seen her naked in the locker room?<br>
+							<br>
+							
+						ELAINE: No.<br>
+							<br>
+							
+						JERRY: Oh, well, then I can't accept your testimony. Maybe if you had seen her naked.<br>
+							<br>
+							
+						ELAINE: I don't want to see her naked.<br>
+							<br>
+							
+						JERRY: Well, I do.<br>
+							<br>
+							
+						ELAINE: Well, that's your problem.<br>
+							<br>
+							
+						JERRY: Look, you made the allegation. The least you could do is follow up.<br>
+							<br>
+							
+						ELAINE: Jerry, what am I gonna do? I'm gonna go in there and spy on her in the sauna?<br>
+							<br>
+							
+						JERRY: Yes! Go in there! Do a little investigative journalism. I need to know!<br>
+							<br>
+							
+						ELAINE: But a few more dates and you can find out for yourself!<br>
+							<br>
+							
+						JERRY: Don't be so sure. Look at George - he's on his ninth date with Betsy, he still hasn't gotten anywhere with her.<br>
+							<br>
+							
+						ELAINE: What's his problem?<br>
+							<br>
+							
+						JERRY: Well, every time he tries to make a move, something screws up. Like on their last date, they were on the couch, but she was sitting on his wrong side.<br>
+							<br>
+							
+						ELAINE: Wrong side?<br>
+							<br>
+							
+						JERRY: Yeah, she was on his right side. He can't make a move with his left hand. Can't go left.<br>
+							<br>
+							
+						ELAINE: He can't go left.<br>
+							<br>
+							
+						JERRY: No! I'm lefty, can't go right. What about women? Do they go left or right?<br>
+							<br>
+							
+						ELAINE: Nah, we just play defense.<br>
+							<br>
+							<br>
+							
+						[New scene - George and Betsy at Betsy's apartment. George tries to make it to the right-hand side of the couch, but Betsy beats him to it.]<br>
+							<br>
+							
+						GEORGE: Can I ask you a question? Would you mind switching seats?<br>
+							<br>
+							
+						BETSY: Oh, actually, I really prefer to sit here. I don't hear very well out of this ear (points to her right ear) so, I always try to sit to the right of people.<br>
+							<br>
+							
+						GEORGE: I'll shout.<br>
+							<br>
+							
+						BETSY: Well, I really think I feel more comfortable here.<br>
+							<br>
+							
+						GEORGE: C'mon, c'mon...(stands up and physically rolls Betsy to the left side of the couch.) See, now, is that so bad?<br>
+							<br>
+							
+						BETSY: What? (The phone rings.)<br>
+							<br>
+							
+						GEORGE (attempting to make a move): No, no, the machine'll get it...<br>
+							<br>
+							
+						BETSY: No, no, it's not on...<br>
+							<br>
+							
+						GEORGE: They'll call back.<br>
+							<br>
+							
+						BETSY: But George, what if it's an emergency?<br>
+							<br>
+							
+						GEORGE: In the whole world right now, there's maybe three emergencies. Why would you think, on this entire planet, that you're one of those three?<br>
+							<br>
+							
+						BETSY: George, please. (Gets up and answers the phone.) Hello? What? (shocked) Oh my god!<br>
+							<br>
+							
+						GEORGE: Alright, maybe four.<br>
+							<br>
+							<br>
+							
+						[New scene - Elaine at the health club, in the sauna with Sidra and some other women. We hear her thoughts.]<br>
+							<br>
+							
+						ELAINE's brain: Boy, I'm really sweatin.' Good sweat, beads of sweat...sweatin' bullets. (Notices Sidra.) Look at her. I don't need to see her naked to know those aren't real. Why does she need to tie the towel around her? She's got a rack on her chest. (Sidra takes her towel off and lies down.) Oh god! Sidra's takin' the towel off! (Looks at Sidra's chest.) Whoa, doctor! That's it, I knew it! I knew it, they're definitely fake.<br>
+							<br>
+							<br>
+							
+						[Cut back to George and Betsy at her apartment. Betsy's still on the phone.]<br>
+							<br>
+							
+						BETSY: So, when's the funeral? Well, Aunt Clarice was so ill, I guess it was really a blessing. (George, on the couch behind Betsy, is impatiently waiting for her to get off the phone so he can continue putting the moves on her. He shrugs, and crosses himself.) Yeah, I'll fly home as soon as I can. (George waves goodbye, and mimics a plane flying through the air with his hand.) O.k. You, too. Get some sleep. (Betsy looks at George, and he manufactures a completely phony look of sorrow.)<br>
+							<br>
+							<br>
+							
+						[New scene - Jerry and Elaine in Jerry's apartment.]<br>
+							<br>
+							
+						JERRY: You're sure?<br>
+							<br>
+							
+						ELAINE: Positive! This chick's playin' with confederate money.<br>
+							<br>
+							
+						JERRY: Well then, that's it. That's the end of that.<br>
+							<br>
+							
+						ELAINE: What? Just 'cause of that?<br>
+							<br>
+							
+						JERRY: Just 'cause of that? It's like finding out Mickey Mantle corked his bat!<br>
+							<br>
+							
+						ELAINE: Oh, come on! You've dated women with nosejobs, what's the difference?<br>
+							<br>
+							
+						JERRY: You don't touch the nose! You don't aspire to reach the nose. You don't unhook anything to get to a nose, and no man has ever tried to look up a woman's nostril.<br>
+							<br>
+							
+						ELAINE: You've put a lot of thought into this, haven't you?<br>
+							<br>
+							
+						JERRY: Well, I take it very seriously.<br>
+							<br>
+							
+						ELAINE: You know, sometimes when I think you're the shallowest man I've ever met, you somehow manage to drain a little more out of the pool.<br>
+							<br>
+							
+						(Kramer enters.)<br>
+							<br>
+							
+						KRAMER: Hey.<br>
+							<br>
+							
+						JERRY: Hey. You know, I do kinda wonder what fake breast feel like.<br>
+							<br>
+							
+						KRAMER: Well, I know what they feel like.<br>
+							<br>
+							
+						JERRY: You? How do you know?<br>
+							<br>
+							
+						KRAMER: Well, I lived in Los Angeles for three months.<br>
+							<br>
+							
+						ELAINE (laughs): I thought you hated Los Angeles.<br>
+							<br>
+							
+						KRAMER: I do! I just miss the warm weather, y'know? Jeez. Oh man, I wish I could get away.<br>
+							<br>
+							
+						JERRY: Real busy now down at the office?<br>
+							<br>
+							
+						KRAMER: No. Huh? You know who I saw at the health club? Salman Rushdie.<br>
+							<br>
+							
+						ELAINE (laughing): Yeah right, Salman Rushdie. Yeah well, I can see that - you got five millions Moslems after you, you wanna stay in pretty good shape.<br>
+							<br>
+							<br>
+							
+						[New scene - Jerry, George and Kramer in the sauna at the health club.]<br>
+							<br>
+							
+						GEORGE: I know what the problem is - I like her too much. That's why I can't make a move.<br>
+							<br>
+							
+						JERRY: You put her on a pedestal.<br>
+							<br>
+							
+						KRAMER: I put them on a dental chair.<br>
+							<br>
+							
+						JERRY: He puts 'em on a dental chair.<br>
+							<br>
+							
+						GEORGE: I'm not her boyfriend. I want to be her boyfriend.<br>
+							<br>
+							
+						KRAMER: Whoo. It's like a sauna in here.<br>
+							<br>
+							
+						GEORGE: That's funny. You're a funny guy.<br>
+							<br>
+							
+						JERRY: Yeah, funny. Yeah, I never heard that before. (To George) So, you goin' to the funeral?<br>
+							<br>
+							
+						GEORGE: Why, you think I should?<br>
+							<br>
+							
+						JERRY: What, are you kidding? It's a golden opportunity to advance the relationship. She's crying, you put your arm around her and console her...you're the consolation guy!<br>
+							<br>
+							
+						GEORGE: I'm the consolation guy...?<br>
+							<br>
+							
+						KRAMER: Consolation Guy is big.<br>
+							<br>
+							
+						JERRY: Her aunt dying is the best thing that ever happened to you.<br>
+							<br>
+							
+						KRAMER: It's like ten dates in one shot.<br>
+							<br>
+							
+						JERRY: This confers upon you instant boyfriend status. The family's there...you're taking care of things...you're gettin' the sandwiches...you're the rock!<br>
+							<br>
+							
+						GEORGE: It's in Detroit though, it's an expensive flight.<br>
+							<br>
+							
+						KRAMER: Why don't you get a &quot;death in the family&quot; fare?<br>
+							<br>
+							
+						GEORGE: What?<br>
+							<br>
+							
+						KRAMER: You go to the airlines, you tell them you got a death in the family? They give you 50% off the fare.<br>
+							<br>
+							
+						GEORGE: Really?<br>
+							<br>
+							
+						KRAMER: In fact, listen...I'll go down there with ya. You know, we'll tell them there's a death in my family, you buy the ticket, I'll split it...then I'll get the bonus miles and you'll get to Detroit for a quarter of the price!<br>
+							<br>
+							
+						(George considers.)<br>
+							<br>
+							<br>
+							
+						[New scene - Elaine in the sauna again. We hear her thoughts.]<br>
+							<br>
+							
+						ELAINE's brain: Boy, I'm gettin' a good sweat here. Great sweat, good beads. Nice beads.<br>
+							<br>
+							
+						(Sidra enters the sauna with a friend.)<br>
+							<br>
+							
+						ELAINE's brain: Ah, look who's here. &quot;Silicon Valley.&quot;<br>
+							<br>
+							
+						SIDRA (to her friend): So anyway, we go out on one date, he asks me out for a second, then out of nowhere he cancels the date and says he doesn't want to see me again.<br>
+							<br>
+							
+						ELAINE: Uh...sorry, I couldn't help overhearing.<br>
+							<br>
+							
+						SIDRA: Oh, that's o.k.<br>
+							<br>
+							
+						ELAINE: Did he give you a reason?<br>
+							<br>
+							
+						SIDRA: Yeah. He's going back to his old girlfriend.<br>
+							<br>
+							
+						ELAINE: Really?<br>
+							<br>
+							
+						SIDRA: He said she's mentally ill. He's one of those guys who is obsessed with neatness and order? Everything has gotta be just so. He would have made a great Nazi.<br>
+							<br>
+							
+						ELAINE: Hey, does he ever talk about Superman?<br>
+							<br>
+							
+						SIDRA: Yes! How did you know?<br>
+							<br>
+							
+						ELAINE: Oh, I know the type.<br>
+							<br>
+							
+						SIDRA: So you can relate?<br>
+							<br>
+							
+						ELAINE: Oh, yeah.<br>
+							<br>
+							
+						SIDRA (sits across from Elaine and takes her towel off): You know, I've seen you around the club. My name's Sidra. This is Marcy.<br>
+							<br>
+							
+						ELAINE: Oh, hi. I'm Elaine. (Gets up to shake Sidra's hand, but stumbles and falls &quot;right into them.&quot;)<br>
+							<br>
+							<br>
+							
+						[New scene - Jerry and Elaine in Jerry's apartment.]<br>
+							<br>
+							
+						ELAINE: So anyway, I stood up to shake her hand, then suddenly I lost my balance and I fell right into her.<br>
+							<br>
+							
+						JERRY: You fell on her?<br>
+							<br>
+							
+						ELAINE: I touched 'em.<br>
+							<br>
+							
+						JERRY: You what?<br>
+							<br>
+							
+						ELAINE: I...touched...'em.<br>
+							<br>
+							
+						JERRY: You touched 'em?!<br>
+							<br>
+							
+						ELAINE: I needed them to help me break my fall! If it hadn't been for them, I could have really injured myself!<br>
+							<br>
+							
+						JERRY: Wow.<br>
+							<br>
+							
+						ELAINE: Anyway...they're real.<br>
+							<br>
+							
+						JERRY: Excuse me?!<br>
+							<br>
+							
+						ELAINE: I think they might be real.<br>
+							<br>
+							
+						JERRY: Oh, what do you know, you have no breast touching experience.<br>
+							<br>
+							
+						ELAINE: I've touched mine!<br>
+							<br>
+							
+						JERRY: So have I.<br>
+							<br>
+							
+						ELAINE: Oh, right...I forgot. (smiles)<br>
+							<br>
+							
+						JERRY: Anyway, touching two breasts doesn't make you an expert.<br>
+							<br>
+							
+						ELAINE: Alright, well anyway, I think they're real. And if they are, I must say they are...spectacular.<br>
+							<br>
+							
+						JERRY: Aw, what are you doin' to me? (puts his head down on the counter.)<br>
+							<br>
+							<br>
+							
+						[New scene - George and Kramer at the airline ticket counter. Kramer is pretending to be grief-stricken.]<br>
+							<br>
+							
+						GEORGE (to clerk): You see, my friend here, his aunt passed away last night.<br>
+							<br>
+							
+						CLERK (to Kramer): Oh, I'm very sorry.<br>
+							<br>
+							
+						KRAMER: I saw her last week, she looked healthy and peaceful, but...she knew...<br>
+							<br>
+							
+						CLERK: You poor thing!<br>
+							<br>
+							
+						KRAMER (breaking into tears): I...I...<br>
+							<br>
+							
+						GEORGE: You don't think you can buy the ticket yourself...? No, there, there...you sit, and I'll purchase the ticket for you.<br>
+							<br>
+							
+						CLERK: You're a good friend.<br>
+							<br>
+							
+						GEORGE: I understand you offer a 50%-off 'bereavement' fare...?<br>
+							<br>
+							
+						CLERK: Yes, all you have to do is pay the full fare now, then return to any one of our counters with a copy of the death certificate, and we'll refund half your fare.<br>
+							<br>
+							
+						GEORGE: The death certificate?<br>
+							<br>
+							
+						CLERK: Yes, yes, we do need documentation or you know, people could take advantage.<br>
+							<br>
+							
+						GEORGE: What kind of a sick person would do a thing like that?<br>
+							<br>
+							
+						CLERK: I know! But it happens.<br>
+							<br>
+							
+						GEORGE: You want my friend to ask his uncle, a man who just lost his wife of 44 years, for a death certificate so that he can save a few bucks on a flight?<br>
+							<br>
+							
+						CLERK: That would be $387 round-trip.<br>
+							<br>
+							
+						KRAMER (in a perfectly normal tone of voice): Alright, so you'll need my frequent flyer number, huh?<br>
+							<br>
+							
+						CLERK: Yes.<br>
+							<br>
+							<br>
+							
+						[Cut back to Jerry and Elaine in Jerry's apartment.]<br>
+							<br>
+							
+						JERRY: I don't know, one minute you say they're fake, the next minute you think they're real...I don't know what to believe!<br>
+							<br>
+							
+						ELAINE: Hey, of the two of us, I'm the only one who's touched 'em.<br>
+							<br>
+							
+						JERRY: But you were just grabbing on to them to save your life. If you were drowning and I threw you a life preserver, you think you could tell me if it was an inflatable?<br>
+							<br>
+							
+						ELAINE: I wouldn't have said anything if I knew you were going to stop seeing her!<br>
+							<br>
+							
+						JERRY: Well, I don't mind someone with a phony personality, but I gotta draw the line somewhere.<br>
+							<br>
+							
+						(Kramer enters.)<br>
+							<br>
+							
+						KRAMER: Hey!<br>
+							<br>
+							
+						JERRY: Hey. George off to Detroit?<br>
+							<br>
+							
+						KRAMER: Yep! And, in two days, I'm off to Puerto Rico.<br>
+							<br>
+							
+						ELAINE: Hey Kramer, by the way, I saw that guy at the health club...that is not Salman Rushdie.<br>
+							<br>
+							
+						KRAMER: Pffft - wrong.<br>
+							<br>
+							<br>
+							
+						[New scene - Kramer and Jerry at the health club. They see &quot;Salman Rushdie&quot; talking to Sidra.]<br>
+							<br>
+							
+						JERRY: There's Sidra.<br>
+							<br>
+							
+						KRAMER: There's Salman.<br>
+							<br>
+							
+						JERRY: Where?<br>
+							<br>
+							
+						KRAMER: Talkin' to that woman.<br>
+							<br>
+							
+						JERRY: Talkin' to Sidra?<br>
+							<br>
+							
+						KRAMER: If that's Sidra, she's talkin' to Salman.<br>
+							<br>
+							
+						JERRY: I don't think that's Salman.<br>
+							<br>
+							
+						KRAMER: Well, I don't think they're real.<br>
+							<br>
+							
+						JERRY: If that's Rushdie, they're real.<br>
+							<br>
+							
+						KRAMER: If they're real, that's Rushdie.<br>
+							<br>
+							
+						JERRY: Well, I gotta know - I'm talkin' to Sidra.<br>
+							<br>
+							
+						KRAMER: I gotta know, I'm talkin' to Salman.<br>
+							<br>
+							<br>
+							
+						[New scene - Kramer and &quot;Salman&quot; sitting in the sauna together.]<br>
+							<br>
+							
+						KRAMER: It's like a sauna in here, huh? I feel like I'm...back at the desert.<br>
+							<br>
+							
+						&quot;SALMAN&quot;: You've lived in the desert?<br>
+							<br>
+							
+						KRAMER: Oh, yeah. Yeah, I've uh...I've spent a little time in the Mideast. You ever been to the Mideast?<br>
+							<br>
+							
+						&quot;SALMAN&quot;: Yes, I've been there.<br>
+							<br>
+							
+						KRAMER: My name's Kramer.<br>
+							<br>
+							
+						&quot;SALMAN&quot; (shakes Kramer's hand): Sal Bass. Pleased to meet you, Kramer.<br>
+							<br>
+							
+						KRAMER: So, uh...what kind of work do you do?<br>
+							<br>
+							
+						&quot;SALMAN&quot;: I'm a writer.<br>
+							<br>
+							<br>
+							
+						[New scene - George and Betsy at Aunt Clarice's wake in Detroit.]<br>
+							<br>
+							
+						BETSY (to Aunt May): Have you met my boyfriend George?<br>
+							<br>
+							
+						AUNT MAY: No! (shakes George's hand.)<br>
+							<br>
+							
+						BETSY: George, this is Aunt May, and Father Jessup. Oh, and that's my brother, Timmy. (Timmy smiles thinly.) This is my boyfriend, George.<br>
+							<br>
+							
+						AUNT MAY: Oh George, how nice of you to come all this way.<br>
+							<br>
+							
+						GEORGE: Well, I'm the boyfriend. Otherwise, what's the point of being the boyfriend? This is where you have to be when you're the boyfriend.<br>
+							<br>
+							
+						AUNT MAY: Betsy, dear, have you had anything to eat?<br>
+							<br>
+							
+						BETSY: I'm not very hungry.<br>
+							<br>
+							
+						AUNT MAY: They have some very nice snacks.<br>
+							<br>
+							
+						FATHER JESSUP: I'm about to get myself a snack.<br>
+							<br>
+							
+						(Betsy starts to go for a snack.)<br>
+							<br>
+							
+						GEORGE: Oh, no, no, no...you sit right here...I will get you a nice snack.<br>
+							<br>
+							
+						(George goes into the other room and meets Father Jessup.)<br>
+							<br>
+							
+						FATHER JESSUP: This is my third wake this month. It never gets any easier.<br>
+							<br>
+							
+						GEORGE (loading up his plate with sandwiches): Well, losing a loved is, uh...I mean, forget about it. (Starts wolfing down the sandwiches.)<br>
+							<br>
+							
+						FATHER JESSUP: You seem to be of great comfort to Betsy, we're very appreciative.<br>
+							<br>
+							
+						GEORGE: Oh - comfort, schmomfort. Listen, Father, can I ask you a question? In a terrible time like this...who would I get the death certificate from?<br>
+							<br>
+							<br>
+							
+						[New scene - Jerry and Kramer entering Jerry's apartment after returning from the health club.]<br>
+							<br>
+							
+						KRAMER: C'mon Jerry!<br>
+							<br>
+							
+						JERRY: Oh, how can you be so sure?<br>
+							<br>
+							
+						KRAMER: Jerry, are you blind? He's a writer. He said his name was Sal Bass. Bass, Jerry! Instead of salmon, he went with bass! He just substituted one fish for another!<br>
+							<br>
+							
+						JERRY: Look, you idiot, first of all, it's Salman, not salmon!<br>
+							<br>
+							
+						KRAMER: Jerry, Jerry, you're missing the big picture!<br>
+							<br>
+							
+						JERRY: Alright, maybe it is, but listen, I gotta get ready - Sidra's coming over in a few minutes, so if you don't mind...<br>
+							<br>
+							
+						KRAMER: What, did you ask her?<br>
+							<br>
+							
+						JERRY: I'm gonna find out tonight.<br>
+							<br>
+							
+						KRAMER (nods): Oh, yes indeed...<br>
+							<br>
+							<br>
+							
+						[Cut back to George at the wake in Detroit.]<br>
+							<br>
+							
+						DR. ALLENWOOD: Why do you need a death certificate?<br>
+							<br>
+							
+						GEORGE: Well, Dr, Allenwood, uh...I was hoping to compile an - admittedly, rudimentary - scrapbook of her life. Something that Betsy could have, and hold onto.<br>
+							<br>
+							
+						DR. ALLENWOOD: Well, I suppose I could make a copy of it.<br>
+							<br>
+							
+						GEORGE: Oh, that would be wonderful.<br>
+							<br>
+							
+						DR. ALLENWOOD: It was very nice meeting you, George.<br>
+							<br>
+							
+						GEORGE: Likewise.<br>
+							<br>
+							
+						(George walks over to the snack table as Timmy watches him from across the room. He takes a chip from the bowl, dips it, takes a bite, and then dips again. Timmy hurriedly comes over.)<br>
+							<br>
+							
+						TIMMY: What are you doing?<br>
+							<br>
+							
+						GEORGE: What?<br>
+							<br>
+							
+						TIMMY: Did...did you just double-dip that chip?<br>
+							<br>
+							
+						GEORGE: Excuse me?<br>
+							<br>
+							
+						TIMMY: You double-dipped the chip!<br>
+							<br>
+							
+						GEORGE: &quot;Double-dipped&quot;? What are you talking about?<br>
+							<br>
+							
+						TIMMY: You dipped the chip. You took a bite. (points at the dip) And you dipped again.<br>
+							<br>
+							
+						GEORGE: So...?<br>
+							<br>
+							
+						TIMMY: That's like putting your whole mouth right in the dip! From now on, when you take a chip - just take one dip and end it!<br>
+							<br>
+							
+						GEORGE: Well, I'm sorry, Timmy...but I don't dip that way. (takes a chip.)<br>
+							<br>
+							
+						TIMMY: Oh, you don't, huh?<br>
+							<br>
+							
+						GEORGE: No. (dips the chip) You dip the way you want to dip...(bites the chip) I'll dip the way I want to dip. (dips the chip again.)<br>
+							<br>
+							
+						TIMMY: Gimme the chip! (Grabs George and the chip goes flying.) Gimme the chip! (They struggle in front of the snack table.)<br>
+							<br>
+							<br>
+							
+						[New scene - Night-time; Jerry and Sidra in Jerry's apartment.]<br>
+							<br>
+							
+						SIDRA: I don't know what I'm doing here, I must be crazy. (Moves to the couch and sits on the left side. Jerry tries to run over and beat her to it, but doesn't make it. He sits down on the right side.)<br>
+							<br>
+							
+						JERRY: Hey, would you mind switching seats?<br>
+							<br>
+							
+						SIDRA: Why?<br>
+							<br>
+							
+						JERRY: Oh, I don't know...I just like sitting to the left of people, makes me feel like I'm driving.<br>
+							<br>
+							
+						SIDRA: O.K....(they switch places.)<br>
+							<br>
+							
+						JERRY: How ya doin'?<br>
+							<br>
+							
+						SIDRA: Good. How you doin'?<br>
+							<br>
+							
+						JERRY: Good, feel good...you know that Jayne Mansfield had some big breasts. Really big, huge...just coming out the top of her dress, they were like, chokin' her.<br>
+							<br>
+							
+						SIDRA: I hear that's how she died.<br>
+							<br>
+							
+						JERRY: Have you noticed that women today are, you know, they seem...bigger.<br>
+							<br>
+							
+						SIDRA: Well, a lot of women are having them done.<br>
+							<br>
+							
+						JERRY: Really?<br>
+							<br>
+							
+						SIDRA: Yeah.<br>
+							<br>
+							
+						JERRY: How do you like that.<br>
+							<br>
+							
+						SIDRA: A lot of people ask me if I've had mine done.<br>
+							<br>
+							
+						JERRY: Aw, you know people.<br>
+							<br>
+							
+						SIDRA: It gets a little tiring, it's really none of their business.<br>
+							<br>
+							
+						JERRY: Oh, the nerve. You know, some people have asked me if you've uh, done that.<br>
+							<br>
+							
+						SIDRA: What do you tell them?<br>
+							<br>
+							
+						JERRY: Whatever you want me to tell them.<br>
+							<br>
+							
+						SIDRA: Well, I think you'll find out soon enough. (They prepare to kiss. There's a loud bang on the door.) Aren't you going to get that?<br>
+							<br>
+							
+						JERRY: No.<br>
+							<br>
+							
+						SIDRA: What if it's an emergency?<br>
+							<br>
+							
+						JERRY: Oh, there's no emergency...<br>
+							<br>
+							
+						KRAMER (in hallway): Jerry! C'mon, it's an emergency!<br>
+							<br>
+							
+						JERRY: Excuse me. (Gets up and answers the door.) Alright, what is it? You're interrupting!<br>
+							<br>
+							
+						KRAMER: Well, you know, I'm packing for Puerto Rico, I need to borrow your bathing suit.<br>
+							<br>
+							
+						JERRY: This is an emergency? You need a bathing suit?<br>
+							<br>
+							
+						KRAMER: Well, I like yours.<br>
+							<br>
+							
+						JERRY: I don't know, my bathing suit? That's a little familiar, I don't want your...your boys down there.<br>
+							<br>
+							
+						KRAMER: C'mon, what's wrong with my boys?<br>
+							<br>
+							
+						JERRY: Your boys should stay in their neighborhood.<br>
+							<br>
+							
+						KRAMER: Alright, c'mon!<br>
+							<br>
+							
+						JERRY: Alright. It's in the top drawer. Hurry up. (Kramer goes to get the suit. Elaine enters.)<br>
+							<br>
+							
+						ELAINE: Hi, Jer.<br>
+							<br>
+							
+						JERRY: Oh, hi, Elaine.<br>
+							<br>
+							
+						ELAINE: Oh...hi, Sidra -<br>
+							<br>
+							
+						SIDRA: Hi...Elaine? (Kramer comes back into the living room.)<br>
+							<br>
+							
+						JERRY (to Elaine): What are you doing here?<br>
+							<br>
+							
+						ELAINE: I'm looking for Kramer.<br>
+							<br>
+							
+						KRAMER: Yeah, she was just showing me pictures of places I can visit when I go to Puerto Rico...you know, when you two went down there?<br>
+							<br>
+							
+						JERRY: Oh. yeah. Alright. (pushes Kramer and Elaine out the door, then sits next to Sidra on the couch.) So, where were we?<br>
+							<br>
+							
+						SIDRA: I was just leaving.<br>
+							<br>
+							
+						JERRY: Right, you were leaving.<br>
+							<br>
+							
+						SIDRA: I can't believe you sent a woman into the sauna to do that.<br>
+							<br>
+							
+						JERRY: That was an accident!<br>
+							<br>
+							
+						SIDRA: I think you're both mentally ill. (leaves, then opens the door again.) And by the way...they're real, and they're spectacular. (Sidra leaves.)<br>
+							<br>
+							<br>
+							
+						[Cut back to an exterior shot of the funeral home in Detroit. We hear the commotion of George and Timmy fighting.]<br>
+							<br>
+							
+						BETSY: Stop it, George! Get out! Get out! I never want to see you again!<br>
+							<br>
+							
+						DR. ALLENWOOD: Go back to New York! Get out!<br>
+							<br>
+							<br>
+							
+						[New scene of a disheveled George at the airport in Detroit, talking to Clerk no. 2.]<br>
+							<br>
+							
+						CLERK 2: Alright sir, now all I need is a death certificate and you'll be on your way.<br>
+							<br>
+							
+						GEORGE: Well, you see, what happened was...the doctor - the very same doctor that was attending to my late aunt - suffered an untimely stroke, and lost the use of his right hand, so...obviously I was unable to get the death certificate. However, I do have this. (Reaches inside his coat and takes out a Polaroid photo.)<br>
+							<br>
+							
+						CLERK 2: What's this?<br>
+							<br>
+							
+						GEORGE: That's a picture of me next to the coffin.<br>
+							<br>
+							
+						(We see a photo of George standing next to a coffin.)<br>
+							<br>
+							
+						CLERK 2: Nice try.<br>
+							<br>
+							
+						GEORGE: Not even close, huh?<br>
+							<br>
+							<br>
+							
+						The End</td>
+						</tr>
+						<tr height="6">
+							<td class="bottom2" width="645" height="6"></td>
+						</tr>
+						<tr>
+							<td width="645">
+								<div align="center">
+									<font size="-1">Copyright 2006 seinology.com | All Rights Reserved | Designed by 13erla</font></div>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+		<p></p>
+	</body>
+
+</html>

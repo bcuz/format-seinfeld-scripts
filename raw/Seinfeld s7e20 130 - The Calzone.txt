@@ -1,0 +1,1231 @@
+<tdOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+<html>
+
+	<head>
+		<meta http-equiv="content-type" content="text/html;charset=ISO-8859-1">
+		<meta name="description" content="Top Source for Seinfeld">
+		<meta name="keywords" content="seinfeld, sienfeld, Jerry Seinfeld, Julia Louis Dreyfus, Jason Alexander, Michael Richards, Kramer, George, Costanza, Elaine Benes, morty, Larry David">
+		<title>Seinology.com :: Scripts :: 130-The Calzone</title>
+	<link rel='stylesheet' href='/stylesheet.css' type='text/css'>
+	</head>
+
+	<body>
+			<table align="center" width="787" border="0" cellspacing="0" cellpadding="0">
+				<tr>
+					<td><font size="-2" color="red">Seinology.com - </font><font size="-3" color="black">Where Seinfeld Content and Accuracy Matter Most. Seinfeld scripts in pdf form, Seinfeld episode video clips, Seinfeld episode audio clips, Jerry Seinfeld appearances, Julia Louis-Dreyfus appearances, Michael Richards appearances, Jason Alexander appearances, Seinfeld discussion Forum, Seinfeld Where are they Now? Seinlanguage Newsletter, Popular Seinfeld Lists, Seinfeld episode standup, Seinfeld episode guide, Seinfeld fan fiction. Seinfeld content all on one domain. Seinology.com enjoy your stay.</font></td>
+				</tr>
+			</table>
+		
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr height="100">
+				<td class="logo"></td>
+			</tr>
+			<tr><td class="ads" align="center" background=#8694fa>
+				<script type="text/javascript"><!--
+google_ad_client = "pub-1924026976931416";
+google_ad_width = 728;
+google_ad_height = 90;
+google_ad_format = "728x90_as";
+google_ad_type = "text";
+google_ad_channel = "";
+google_color_border = "FFFFFF";
+google_color_bg = "8694fa";
+google_color_link = "0000FF";
+google_color_text = "000000";
+google_color_url = "002E3F";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></td></tr>
+		</table>
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr>
+				<td valign="top" width="136">
+					<table width="136" border="0" cellspacing="0" cellpadding="0">
+						<tr height="24">
+							<td class="navigation">
+								<div align="center">
+									
+									<b>Navigation</b></div>
+							</td>
+						</tr>
+						<tr height="199">
+							<td class="spacer1" valign="top" width="136" height="199">
+								<div align="center">
+									<font size="-1"><a href="http://www.seinology.com">Home</a><br>
+										<a href="http://board.seinology.com">Forum</a><br>
+										<a href="http://www.seinology.com/av.shtml">Audio/Video</a><br>
+										<a href="http://www.seinology.com/scripts.shtml">Scripts</a><br>
+										<a href="http://www.seinology.com/survivor.shtml">Survivor</a><br>
+										<a href="http://www.seinology.com/fanfics.shtml">Fan Fiction</a><br>
+										<a href="http://www.seinology.com/gallery/">Gallery</a><br>
+										<a href="http://www.seinology.com/newsletter.shtml">Newsletter</a><br>
+										<a href="http://www.seinology.com/lists.shtml">Lists</a><br>
+										<a href="http://www.seinology.com/epguide.shtml">Episode Guide</a><br>
+										<a href="http://www.seinology.com/links.shtml">Links</a><br>
+										<a href="http://www.seinology.com/faqother.shtml">Faq + others</a><br>
+										<a href="http://www.seinology.com/legal.shtml">Legal</a></font></div>
+							</td>
+						</tr>
+						
+						<tr>
+							<td class="nav2" width="136">
+							<div align="center"><b>Search</b></div></td>
+						</tr>
+						<tr>
+							<td class="spacer1" width="136" valign="top"><div align="center"><form method="get" action="http://www.seinology.com/search/search.cgi">
+<p><label for="fdse_Match">Match</label><br>
+<select name="Match" id="fdse_Match" size="1">
+<option value="1">All</option>
+<option value="0">Any</option>
+<option value="2">Phrase</option>
+</select></p>
+<p><label for="fdse_Realm">Where?</label><br>
+<select name="Realm" id="fdse_Realm" size="1">
+<option selected="selected" value="All">EntireSite</option>
+<option value="Ep Guide">Ep Guide</option>
+<option value="Images">Images</option>
+<option value="Lists">Lists</option>
+<option value="Newsletters">Newsletters</option>
+<option value="Scripts">Scripts</option>
+<option value="Notes..Nothing">Notes..Nothing</option>
+</select></p>
+<p><input type="text" name="Terms" size="14" id="fdse_Terms"><br>
+<input type="submit" class="submit" name="submitButtonName" value="Search"></p>
+</div></form></td>
+						</tr>
+						<tr><td class="bottom" width="136" height="10" valign="top">
+						</td>
+						</tr>
+					</table>
+				</td>
+				<td width="4"></td>
+				<td valign="top" width="645">
+					<table width="645" border="0" cellspacing="0" cellpadding="0">
+						<tr height="18">
+							<td width="645" height="35" class="bar">
+								<div align="center">
+									<b><font size="+2" color="black">Script</font></b></div>
+							</td>
+						</tr>
+						<tr height="362">
+							<td class="spacer2" valign="top" width="645" height="362">
+
+						<p><font size="-2">Episode 130 - The Calzone<br>
+							
+						pc: 720, season 7, episode 20<br>
+							
+						Broadcast date: April 25, 1996<br>
+							<br>
+							
+						Written by Alec Berg &amp; Jeff Schaffer<br>
+							
+						Directed by Andy Ackerman<br>
+							<br>
+							
+						-------------------------------------------------------------------------------<br>
+							<br>
+							
+						The Cast<br>
+							
+						Regulars:<br>
+							
+						Jerry Seinfeld.......................&nbsp; Jerry Seinfeld<br>
+							
+						Jason Alexander..................&nbsp; George Costanza<br>
+							
+						Julia Louis-Dreyfus.............&nbsp; Elaine Benes<br>
+							
+						Michael Richards.................&nbsp; Cosmo Kramer<br>
+							<br>
+							
+						Guest Stars:<br>
+							<br>
+							
+						John D'Aquino..................... Todd<br>
+							
+						Peter Allas............................ Counter Guy<br>
+							
+						Danette Tays........................ Nicki<br>
+							
+						Greg Collins.......................... Policeman<br>
+							
+						Jane A. Johnston.................. Todd's Mother<br>
+							
+						rc: Wayne Knight................. Newman<br>
+							<br>
+							
+						==================================================================<br>
+							<br>
+							
+						[George in a meeting at Yankee Stadium]<br>
+							<br>
+							
+						GEORGE: I believe the doors on the bathroom stalls, here at the stadium, don't offer much by way of privacy. But I was thinking if we extend the doors all the way to the floors......<br>
+							<br>
+							
+						MR. STEINBRENNER: All the way to the floor! What are you crazy! You'd suffocate in there. Your lucky you have any doors at all. You know when I was in the army...... Hey Costanza. What's that your eating over there? It looks pretty tasty.<br>
+							<br>
+							
+						GEORGE: It's a calzone, sir.<br>
+							<br>
+							
+						MR. STEINBRENNER: A calzone huh. Pass it down here. Let's have a look at at it. I want a little taste. Come on, come on. Pass it down here. That's a good boy. Okay. What's in this thing?<br>
+							<br>
+							
+						GEORGE: Uh. Cheese, pepperoni, eggplant.<br>
+							<br>
+							
+						MR. STEINBRENNER: Eggplant. Yes. That's a hell of a thing. Okay let's get back to business. Okay here you go. Very good, very good. Excellent. excellent calzone you got there Costanza. Okay a little jealous now. Okay lets go. Ok last week....... You know that eggplant was very good. Everybody out. I got eggplant on my mind. Costanza get me couple of those calzones right now. Pronto. Move out. Pigstein what's an eggplant calzone. Must have one. Everybody out. Out.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Jerry and Elaine at apartment]<br>
+							<br>
+							
+						ELAINE: One of those fabric wholesalers. This guy Todd Gack. I won a bet from him.<br>
+							<br>
+							
+						JERRY: What bet?<br>
+							<br>
+							
+						ELAINE: He bet me Dustin Hoffman was in Star Wars.<br>
+							<br>
+							
+						JERRY: Dustin Hoffman in Star Wars!?! Short Jewish guy against Darth Vader. I don't think so.<br>
+							<br>
+							
+						ELAINE: That's what I said.<br>
+							<br>
+							
+						JERRY: So the bet was that the loser has to buy dinner?<br>
+							<br>
+							
+						ELAINE: Yeah.<br>
+							<br>
+							
+						JERRY: Huh.<br>
+							<br>
+							
+						ELAINE: What?<br>
+							<br>
+							
+						JERRY: No. nothing.<br>
+							<br>
+							
+						(Kramer walks in)<br>
+							<br>
+							
+						JERRY: What's with you?<br>
+							<br>
+							
+						KRAMER: Feel this.<br>
+							<br>
+							
+						JERRY: Wow.That's hot.<br>
+							<br>
+							
+						KRAMER: Yeah. It's piquing hot. It's fresh out of the dryer. Hey Elaine you have to feel my pants.<br>
+							<br>
+							
+						ELAINE: I'll see you later.<br>
+							<br>
+							
+						KRAMER: Oh. All right. You don't know what your missing. I'm loving this Jerry. I am never putting on another piece of clothing unless it's straight out of the dryer.<br>
+							<br>
+							
+						JERRY: So know every time you get dressed. You are going to go down to the basement and use the dryer.<br>
+							<br>
+							
+						KRAMER: Oh yeah. It's a warm and wonderful feeling, Jerry. So what are you doing later?<br>
+							<br>
+							
+						JERRY: I got a date with Nikki.<br>
+							<br>
+							
+						KRAMER: Oh yeah she's a beauty.<br>
+							<br>
+							
+						JERRY: She's also quite bold.<br>
+							<br>
+							
+						KRAMER: Oh bold and beautiful.<br>
+							<br>
+							<br>
+							<br>
+							
+						[George and Mr. Steinbrenner at Yankee Stadium]<br>
+							<br>
+							
+						MR. STEINBRENNER: I am loving this calzone. The pita pocket prevents it from dripping. The pita pocket. (phone rings)What is it Watson? A lost and found. No. I don't think we need that. If people keel over because they lost something that's there tough luck. You got a drip on your mouth by the way.<br>
+							<br>
+							
+						GEORGE: You know a lost and found could be a good idea.<br>
+							<br>
+							
+						MR. STEINBRENNER: Hold on Watson. You like lost and found George?<br>
+							<br>
+							
+						GEORGE: Definitely.<br>
+							<br>
+							
+						MR. STEINBRENNER: All right lost and found. But these got to be a time limit. We're not running a pawn shop here.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Jerry and Nikki at movies]<br>
+							<br>
+							
+						JERRY: Hey, Elaine.<br>
+							<br>
+							
+						ELAINE: Hi Jerry!<br>
+							<br>
+							
+						JERRY: This is Nikki.<br>
+							<br>
+							
+						NIKKI: Hi!<br>
+							<br>
+							
+						ELAINE: Hello. This is Todd Gack.<br>
+							<br>
+							
+						JERRY: Oh of course. Todd Gack. You did you bet was in Star Wars? Sammy Davis Jr.<br>
+							<br>
+							
+						ELAINE: So what movie are you guys seeing?<br>
+							<br>
+							
+						NIKKI:&quot;Means to an End&quot;<br>
+							<br>
+							
+						ELAINE: Oh. We were going to see that but it was sold out. So were going to see&quot;Blame it on the Rain&quot;<br>
+							<br>
+							
+						JERRY: Why don't you see what you can do?<br>
+							<br>
+							
+						NIKKI: Okay.<br>
+							<br>
+							
+						ELAINE: What's she going to do? There's no more tickets.<br>
+							<br>
+							
+						JERRY: We'll see.<br>
+							<br>
+							
+						TODD: Hey Jerry. Do you like cigars?<br>
+							<br>
+							
+						JERRY: Yeah. Why?<br>
+							<br>
+							
+						TODD: I am going to Montreal tomorrow and they sell them dirt cheap.<br>
+							<br>
+							
+						JERRY: Hey,that might be a nice idea for George's wedding.<br>
+							<br>
+							
+						TODD: So do you want a box?<br>
+							<br>
+							
+						JERRY: Sure. If there cheap Why not.<br>
+							<br>
+							
+						TODD: All right I buy a box and give to Elaine.<br>
+							<br>
+							
+						NIKKI: Okay two tickets&quot;Means to an End&quot;<br>
+							<br>
+							
+						JERRY: Told you.<br>
+							<br>
+							
+						ELAINE: How did you do that?<br>
+							<br>
+							
+						NIKKI: I just talked to the manager.<br>
+							<br>
+							
+						JERRY: All right. Enjoy&quot;Blame it on the Rain&quot;<br>
+							<br>
+							<br>
+							<br>
+							
+						[Jerry and George at the coffee shop]<br>
+							<br>
+							
+						GEORGE: There putting in a lost and found because of me. There's a time limit but still.<br>
+							<br>
+							
+						JERRY: There really building a Utopian society up there huh.And you tribute all this to the calzone.<br>
+							<br>
+							
+						GEORGE: Yeah. I am like a drug dealer. I got the guy hooked. I am having lunch at his desk everyday this week. He doesn't make a move without me. It's very exciting.<br>
+							<br>
+							
+						JERRY: With you two guys at the helm. The last piece of the puzzle is in place.<br>
+							<br>
+							
+						GEORGE: So let me ask you a question about the tip jar. I had a little thing with the calzone guy this week. I go to drop a buck in the tip jar and just as I am about to drop it in he looks the other way. And then when I am leaving he gives me this look think thanks for nothing. I mean if they don't notice it what's the point.<br>
+							<br>
+							
+						JERRY: So you don't make it a habit of giving to the blind.<br>
+							<br>
+							
+						GEORGE: Not bills.<br>
+							<br>
+							
+						JERRY: So George. Remember when I told you Nikki gets whatever she wants. We are at the movies last night. It's sold out. Nikki goes and talks to the manager. Right in.<br>
+							<br>
+							
+						GEORGE: Beautiful women. You know they could get away with murder. You never she any of them lift anything over three pounds. They get whatever they want whenever they want it. You can't stop them.<br>
+							<br>
+							
+						JERRY: She's like a beautiful Godzilla.<br>
+							<br>
+							
+						GEORGE: Without thousands of fleeing Japanese.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Jerry and Kramer at his apartment]<br>
+							<br>
+							
+						KRAMER: Hey buddy.<br>
+							<br>
+							
+						JERRY: What the hell is all this?<br>
+							<br>
+							
+						KRAMER: I am looking for quarters for the dryer.<br>
+							<br>
+							
+						JERRY: Why can't you do this on your table?<br>
+							<br>
+							
+						KRAMER: Because I don't have a table.<br>
+							<br>
+							
+						(Elaine walks in)<br>
+							<br>
+							
+						ELAINE: Hey.<br>
+							<br>
+							
+						JERRY: Hey. So how was&quot;Blame it on the Rain?&quot;<br>
+							<br>
+							
+						ELAINE: Huh. Yeah thanks for getting us tickets too.<br>
+							<br>
+							
+						JERRY: Oh!! Let me ask you a question. Was the movie part of the bet?<br>
+							<br>
+							
+						(Kramer leaves)<br>
+							<br>
+							
+						ELAINE: No. We were both in the mood for one.<br>
+							<br>
+							
+						JERRY: You know Elaine, It is not my way to intrude on the personal lives of close fiends....<br>
+							<br>
+							
+						ELAINE: Oh is that so.<br>
+							<br>
+							
+						JERRY: Absolutely. But I feel I must inform you that what happened last night was more than a simple bet.<br>
+							<br>
+							
+						ELAINE: What are you talking about?<br>
+							<br>
+							
+						JERRY: Come on. Dustin Hoffman in Star Wars. He made a bet he knew he was going to lose just to take you to dinner<br>
+							<br>
+							
+						ELAINE: If he wanted to ask me out why didn't he just ask me.<br>
+							<br>
+							
+						JERRY: Because if he doesn't ask you out he doesn't get rejected. He has found a dating loop hole.<br>
+							<br>
+							
+						ELAINE: I don't buy it.<br>
+							<br>
+							
+						(Kramer walks in with more change)<br>
+							<br>
+							
+						JERRY: So what happened after the movie?<br>
+							<br>
+							
+						ELAINE: Nothing. He walked me home.<br>
+							<br>
+							
+						JERRY: To the door?<br>
+							<br>
+							
+						ELAINE: Yeah.<br>
+							<br>
+							
+						JERRY: That's a date.<br>
+							<br>
+							
+						ELAINE: No it's not.<br>
+							<br>
+							
+						JERRY: But I never walk you home.<br>
+							<br>
+							
+						ELAINE: That's just because your a jackass.<br>
+							<br>
+							
+						KRAMER: Ah!! I found a quarter. Anybody want there clothes heated up?<br>
+							<br>
+							
+						JERRY: No, no.<br>
+							<br>
+							
+						ELAINE: No, no.<br>
+							<br>
+							
+						JERRY: So how did you leave it with him?<br>
+							<br>
+							
+						ELAINE: I am supposed to meet him to pick up your cigars.<br>
+							<br>
+							
+						JERRY: That's another loop hole. That's two dates without asking you out.<br>
+							<br>
+							
+						ELAINE: Your crazy!<br>
+							<br>
+							
+						JERRY: Crazy like a man.<br>
+							<br>
+							<br>
+							<br>
+							
+						[George at Pisano's]<br>
+							<br>
+							
+						WORKER: Number 49.<br>
+							<br>
+							
+						GEORGE: You know my last name is Costanza. That's Italian. So you and I are like country men. Pisano's!<br>
+							<br>
+							
+						WORKER: $ 6.50 your change.<br>
+							<br>
+							
+						GEORGE: And I always take care of my Pisano's. So here is a little something. (drop in tip and worker looks the other way, so George decides to take it out and try again only to get caught)<br>
+							<br>
+							
+						WORKER: Hey! You steal my money!!<br>
+							<br>
+							
+						GEORGE: No no. That's not what I was trying to do.<br>
+							<br>
+							
+						WORKER: I know what you try to do. Get out. Don't ever come back ever.<br>
+							<br>
+							<br>
+							<br>
+							
+						[George and Mr. Steinbrenner at Yankee Stadium]<br>
+							<br>
+							
+						GEORGE: I got your calzones Mr. Steinbrenner.<br>
+							<br>
+							
+						MR. STEINBRENNER: Beautiful. I am starving George.<br>
+							<br>
+							
+						GEORGE: I thought tomorrow maybe we'd try a little corn beef.<br>
+							<br>
+							
+						MR. STEINBRENNER: Corn beef. I don't think so. It is a little fatty.<br>
+							<br>
+							
+						GEORGE: How about Chinese?<br>
+							<br>
+							
+						MR. STEINBRENNER: Uhhhhh. No. Too many containers. Big mess, big mess. Too sloppy.I want to stick with the calzones from Pisano's. That's the ticket.<br>
+							<br>
+							
+						GEORGE: I just thought it would be nice. A little variety.<br>
+							<br>
+							
+						MR. STEINBRENNER: No, no, no. George let me tell you something. When I find something I like I stick with it. From 1973 to 1982 I ate the exact same lunch everyday. Turkey chili in a bowl made out of bread. Bread bowl George. First you eat the chili then you eat the bowl. There's nothing more satisfying than looking down after lunch and seeing nothing but a table.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Todd walking Elaine to her apartment]<br>
+							<br>
+							
+						ELAINE: Thanks for the dinner.<br>
+							<br>
+							
+						TODD: Well I had to give these cigars and we were both hungry.<br>
+							<br>
+							
+						ELAINE: Hey Todd. Let me ask you a question. Um. Was this whole date thing just a way of asking me out?<br>
+							<br>
+							
+						TODD: What?<br>
+							<br>
+							
+						ELAINE: I mean Dustin Hoffman in Star Wars?<br>
+							<br>
+							
+						TODD: Elaine that was a legitimate bet and I lost so I bought you dinner.<br>
+							<br>
+							
+						ELAINE: Oh all right. Okay well, goodnight.<br>
+							<br>
+							
+						TODD: Hey, if your not doing anything Saturday do you want to meet somewhere?<br>
+							<br>
+							
+						ELAINE: See what is that? Is that a date?<br>
+							<br>
+							
+						TODD: Why can't two people go and do something without it being a date?<br>
+							<br>
+							
+						ELAINE: All right. I am sorry it's not a date.<br>
+							<br>
+							
+						TODD: No way. So I'll see you Saturday night?<br>
+							<br>
+							
+						ELAINE: All right.<br>
+							<br>
+							
+						TODD: Pick you up at 8:00 p.m.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Jerry and Nikki getting pulled over by a cop]<br>
+							<br>
+							
+						POLICE OFFICER: Do you know what the posted speed limit on this road is?<br>
+							<br>
+							
+						JERRY: I was got to be 55.<br>
+							<br>
+							
+						POLICE OFFICER: That's right it is. Do you know how fast you were going?<br>
+							<br>
+							
+						JERRY: A lot faster than that!<br>
+							<br>
+							
+						POLICE OFFICER: Step out of the car sir.<br>
+							<br>
+							
+						JERRY: Okay dokey<br>
+							<br>
+							
+						POLICE OFFICER: Can I have your license and registration please?<br>
+							<br>
+							
+						JERRY: Absolutely. Nikki!<br>
+							<br>
+							
+						NIKKI: Yes.<br>
+							<br>
+							
+						JERRY: Would you mind bringing the officer the registration?<br>
+							<br>
+							
+						NIKKI: Not at all.<br>
+							<br>
+							
+						POLICE OFFICER: I got you on the radar at 93 miles per hour.<br>
+							<br>
+							
+						JERRY: You must have gotten me when I slowed down to take that curve because for a while there I was doing well over 100.<br>
+							<br>
+							
+						NIKKI: Officer. Hi. Do you really have to give us a ticket?<br>
+							<br>
+							
+						JERRY: All right Nik. That's it.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Kramer and Jerry at his apartment]<br>
+							<br>
+							
+						KRAMER: Hey buddy. I am waiting for my shirt.<br>
+							<br>
+							
+						JERRY: You got your shirt in my oven!?!<br>
+							<br>
+							
+						KRAMER: I didn't have any quarters for the dryer. Anyway this is better. And it's more convenient.<br>
+							<br>
+							
+						JERRY: For both of us.<br>
+							<br>
+							
+						KRAMER: And I have a lot more control. I have one shirt going for 10 minutes at 325 degrees.<br>
+							<br>
+							
+						JERRY: What's wrong with your oven?<br>
+							<br>
+							
+						KRAMER: I am baking a pie!<br>
+							<br>
+							
+						(Buzz, buzz)<br>
+							<br>
+							
+						JERRY: Yeah.<br>
+							<br>
+							
+						GEORGE: Yeah.<br>
+							<br>
+							
+						JERRY: Come on up.<br>
+							<br>
+							
+						KRAMER: You got cigars, huh.<br>
+							<br>
+							
+						JERRY: I got some Cubans for George's wedding. They were more than I wanted to pay for but what the hell!<br>
+							<br>
+							
+						KRAMER: Oh yeah baby. spit, spit. What are these?&quot;Perducto de Peru&quot;Jerry, if you think these are Cubans you have another thing coming.<br>
+							<br>
+							
+						JERRY: Peru! I paid $300 bucks for these. I could have bought a house in Peru for $300 bucks!<br>
+							<br>
+							
+						KRAMER: You got ripped buddy.<br>
+							<br>
+							
+						JERRY: I got to pay this Todd Gack guy $300 bucks just so he has some excuse to see Elaine again without asking her out.<br>
+							<br>
+							
+						KRAMER: That's a nice name. Todd Gack. Is that Dutch? (Dingggggg) Oh baby. Here we go. Uh momma.(putting his fresh out of the oven shirt on) Hey George hey.<br>
+							<br>
+							
+						(Kramer leaves)<br>
+							<br>
+							
+						GEORGE: Well this is bad. I am really in a bad situation now.<br>
+							<br>
+							
+						JERRY: so what is Steinbrenner going to do if he doesn't get his calzones?<br>
+							<br>
+							
+						GEORGE: What's he going to do? That's exactly the point. Nobody knows what this guy is capable of! He fires people like it is a bodily function.<br>
+							<br>
+							
+						JERRY: Why don't you get someone else from the office to go get Pisano's for you?<br>
+							<br>
+							
+						GEORGE: Because before you know it he'll be having lunch with him. You know how these interoffice politics work.<br>
+							<br>
+							
+						JERRY: No. I never had a job.<br>
+							<br>
+							
+						(Kramer walks in with no pants on)<br>
+							<br>
+							
+						KRAMER: I decided to go with the brown one 's. (pants)<br>
+							<br>
+							
+						GEORGE: What the hell is this?<br>
+							<br>
+							
+						JERRY: Kramer's cooking up some corduroy.<br>
+							<br>
+							
+						GEORGE: There has got to be some way to get back into Pisano's.<br>
+							<br>
+							
+						KRAMER: Pisano's. That's the place by the stadium right?<br>
+							<br>
+							
+						GEORGE: Yeah. You've heard of it?<br>
+							<br>
+							
+						KRAMER: Yeah. Newman raves about it. It's on his mail route. He goes by there everyday.<br>
+							<br>
+							
+						GEORGE: I'll see you guys later.<br>
+							<br>
+							
+						JERRY: What kind of pie are you cooking?<br>
+							<br>
+							
+						KRAMER: Huckleberry.<br>
+							<br>
+							<br>
+							<br>
+							
+						[George at Newman's apartment]<br>
+							<br>
+							
+						NEWMAN: You certainly are in a bind.<br>
+							<br>
+							
+						GEORGE: Yeah. And since you go buy there everyday. I was hoping that we could help each other out.<br>
+							<br>
+							
+						NEWMAN: Oh well. Let me perfectly blunt. I don't care for you Costanza. You hang out at the west side of the building with Seinfeld all day and just it up wasting your lives.<br>
+							<br>
+							
+						GEORGE: Are you going to help me or not?<br>
+							<br>
+							
+						NEWMAN: All right, all right. I'll help you but I will except something in return.<br>
+							<br>
+							
+						GEORGE: What?<br>
+							<br>
+							
+						NEWMAN: Well for starters I want a calzone of my own.....<br>
+							<br>
+							
+						GEORGE: All right.<br>
+							<br>
+							
+						NEWMAN: And a slice of pepperoni pizza and a large soda and three times a week I will require a canolie.<br>
+							<br>
+							
+						GEORGE: That's a little steep don't you think?<br>
+							<br>
+							
+						NEWMAN: You know I hear Mr. Steinbrenner can be a bit erratic. I would hate to see him when he's hungry.<br>
+							<br>
+							
+						GEORGE: All right, all right.<br>
+							<br>
+							
+						NEWMAN: Do we have a deal?<br>
+							<br>
+							
+						GEORGE: But I have to have them by one o'clock. He's very regiment about his meals.<br>
+							<br>
+							
+						NEWMAN: I know exactly how he feels. Pleasure doing business with you. Do come again. Ha, ha, ha, ha.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Todd and Elaine at a restaurant]<br>
+							<br>
+							
+						ELAINE: This is nice.<br>
+							<br>
+							
+						TODD: Gack. Party of four.<br>
+							<br>
+							
+						ELAINE: Party of four? Who are we meeting?<br>
+							<br>
+							
+						TODD: Mom! Dad! This is Elaine.<br>
+							<br>
+							
+						MOM: Hello.<br>
+							<br>
+							
+						ELAINE: Hellllllooooo.<br>
+							<br>
+							
+						(End of dinner)<br>
+							<br>
+							
+						MOM: Nice meeting you.<br>
+							<br>
+							
+						TODD: Bye mom.<br>
+							<br>
+							
+						MOM: She's wonderful.<br>
+							<br>
+							
+						ELAINE: What the hell was that?<br>
+							<br>
+							
+						TODD: What?<br>
+							<br>
+							
+						ELAINE: Why did you introduce me to your parents?<br>
+							<br>
+							
+						TODD: There nice people. I thought you would like them.<br>
+							<br>
+							
+						ELAINE: Come on Todd. Admit it, this is a date.<br>
+							<br>
+							
+						TODD: Why is this a date?<br>
+							<br>
+							
+						ELAINE: Saturday night with your parents. Unless I'm your sister this is a date.<br>
+							<br>
+							
+						TODD: Elaine. I don't understand why you can't meet someone else's parents without classifying it as a date.<br>
+							<br>
+							
+						ELAINE: Well if it's not a date then what is it?<br>
+							<br>
+							
+						TODD: It's a lovely evening together.<br>
+							<br>
+							
+						ELAINE: I don't believe this.<br>
+							<br>
+							
+						TODD: Well I am getting a cab want to join me?<br>
+							<br>
+							
+						ELAINE: No. I'll just walk home.<br>
+							<br>
+							
+						TODD: Okay goodnight. (goes to kiss her)<br>
+							<br>
+							
+						ELAINE: Now what was that?<br>
+							<br>
+							<br>
+							<br>
+							
+						[George at Newman's apartment]<br>
+							<br>
+							
+						(Knock, knock)<br>
+							<br>
+							
+						NEWMAN: Hello. What 's this?<br>
+							<br>
+							
+						GEORGE: Well I was dropping of the calzone money for the week.... Um shouldn't you be at work by now?<br>
+							<br>
+							
+						NEWMAN: Work? It's raining.<br>
+							<br>
+							
+						GEORGE: Soooooo<br>
+							<br>
+							
+						NEWMAN: I called in sick. I don't work in the rain.<br>
+							<br>
+							
+						GEORGE: You don't work in the rain? Your a mailman.&quot;Neither rain nor sleet nor snow.....&quot;It's the first one.<br>
+							<br>
+							
+						NEWMAN: I was never that big on creeds.<br>
+							<br>
+							
+						GEORGE: You were supposed to deliver my calzones. We had a deal!<br>
+							<br>
+							
+						NEWMAN: I believe the deal was that I get the calzones on my mail route. Well today I won't be going on my mail route! Will I. Perhaps tomorrow.<br>
+							<br>
+							
+						GEORGE: But I'm paying you!<br>
+							<br>
+							
+						NEWMAN: Yes thank you. (slams door)<br>
+							<br>
+							
+						GEORGE: Newman!!<br>
+							<br>
+							<br>
+							<br>
+							
+						[Nikki and Jerry at his apartment]<br>
+							<br>
+							
+						NIKKI: Peru? I thought you wanted cigars from Cuba?<br>
+							<br>
+							
+						JERRY: I did.<br>
+							<br>
+							
+						NIKKI: Well if these aren't what you wanted then why did you pay him?<br>
+							<br>
+							
+						JERRY: Well what could I do? Unless you pay him a visit.<br>
+							<br>
+							
+						NIKKI: Okay.<br>
+							<br>
+							<br>
+							<br>
+							
+						[George at Kramer's apartment]<br>
+							<br>
+							
+						(Knock, knock)<br>
+							<br>
+							
+						GEORGE: Kramer!<br>
+							<br>
+							
+						KRAMER: Hey you!<br>
+							<br>
+							
+						GEORGE: Look I need you to do me a favor. I need you to get me lunch at Pisano's.<br>
+							<br>
+							
+						KRAMER: What happened to Newman?<br>
+							<br>
+							
+						GEORGE: He called in sick.<br>
+							<br>
+							
+						KRAMER: Oh yeah right it's raining.<br>
+							<br>
+							
+						GEORGE: Can you do it?<br>
+							<br>
+							
+						KRAMER: What time do you need it at?<br>
+							<br>
+							
+						GEORGE: 1:00 p.m. Do you need any money?<br>
+							<br>
+							
+						KRAMER: No. I got eight tons of change. I'm loaded.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Kramer on street]<br>
+							<br>
+							
+						KRAMER: Hey hold that bus!<br>
+							<br>
+							<br>
+							<br>
+							
+						[Kramer at Pisano's]<br>
+							<br>
+							
+						KRAMER: Hey. It's really wet out there.<br>
+							<br>
+							
+						WORKER: What can I get you?<br>
+							<br>
+							
+						KRAMER: I here you make a pretty mean calzone.<br>
+							<br>
+							
+						WORKER: Calzone!<br>
+							<br>
+							
+						KRAMER: Yeah calzone.<br>
+							<br>
+							
+						WORKER: The best!<br>
+							<br>
+							
+						KRAMER: All right. Lay them on me. I'll take three.<br>
+							<br>
+							
+						WORKER: Three calzones.<br>
+							<br>
+							
+						KRAMER: Hey. That's a big oven. Huh. Listen. I was wondering if you could do me a favor.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Elaine goes to the coffee shop]<br>
+							<br>
+							
+						ELAINE: Hey Todd.<br>
+							<br>
+							
+						TODD: Hi. You know Nikki.<br>
+							<br>
+							
+						ELAINE: Yeah sure.<br>
+							<br>
+							
+						NIKKI: Wait. Elaine will settle this. What's the&quot;M&quot;stand for in Richard M. Nixon?<br>
+							<br>
+							
+						ELAINE: Milhouse.<br>
+							<br>
+							
+						NIKKI: I told you so. He said it was Moe. You owe me a dinner.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Kramer at Pisano's]<br>
+							<br>
+							
+						WORKER: Your order is ready. Three calzones and one shirt and jacket.<br>
+							<br>
+							
+						KRAMER: Oh. This is all burned up. Look at this.<br>
+							<br>
+							
+						WORKER: What the hell do I know about cooking a shirt? What the hell is this? Your paying in pennies?<br>
+							<br>
+							
+						KRAMER: That's all I got.<br>
+							<br>
+							
+						WORKER: No. You have to have bills. Paper money. You can't pay with this.<br>
+							<br>
+							
+						KRAMER: I told you this is all I got.<br>
+							<br>
+							
+						WORKER: Then no calzones.<br>
+							<br>
+							
+						(Worker and Kramer yelling at each other back and forth in Italian)<br>
+							<br>
+							<br>
+							<br>
+							
+						[George's office at Yankee Stadium]<br>
+							<br>
+							
+						GEORGE: What happened? Where have you been?<br>
+							<br>
+							
+						KRAMER: The guy wouldn't give them to me because I wanted to pay in change.<br>
+							<br>
+							
+						GEORGE: What the hell happened to your shirt?<br>
+							<br>
+							
+						KRAMER: He overcooked it. It's ruined.<br>
+							<br>
+							
+						GEORGE: Your clothes smell just like Pisano's. There's another Italian place on Jerome. Maybe I can fool him.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Mr. Steinbrenner at his office]<br>
+							<br>
+							
+						MR. STEINBRENNER: (on phone) That's right. Do you want to say it again. I'll say it again. I hadn't had a pimple since I was eighteen and I don't care that you don't believe me or not. And how's this. Your fired. Okay your not. I am just a little hungry. Where's Costanza with my calzone. It's 1:15. He's late. That smell. I have to call you back. Costanza. He's in the building. Costanza is in the building and he's not in this office. Costanza! I'll get you.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Jerry and Elaine at apartment]<br>
+							<br>
+							
+						JERRY: Stupid cigars. You know if I didn't send Nikki over to talk to him they wouldn't be together.<br>
+							<br>
+							
+						ELAINE: These are terrible.<br>
+							<br>
+							
+						JERRY: It's like trying to smoke a chicken bone.<br>
+							<br>
+							
+						ELAINE: What kind of a name is Todd Gack anyway.<br>
+							<br>
+							
+						JERRY: I think it's Dutch. I got to get going.<br>
+							<br>
+							
+						ELAINE: Where are you going?<br>
+							<br>
+							
+						JERRY: I... uh....promised Nikki that I'd walk her dog for her.<br>
+							<br>
+							
+						ELAINE: But she broke up with you.<br>
+							<br>
+							
+						JERRY: I know, I know. But some how she explained it to me and I couldn't say no.<br>
+							<br>
+							
+						ELAINE: It smells like a rubber fire.<br>
+							<br>
+							
+						JERRY:What's that?<br>
+							<br>
+							
+						ELAINE: I said rubber fire.<br>
+							<br>
+							
+						JERRY: Oh.<br>
+							<br>
+							
+						ELAINE: Did you ever pay Todd for these things?<br>
+							<br>
+							
+						JERRY: Actually it's being taken care of right now.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Kramer at Todd's apartment]<br>
+							<br>
+							
+						(Knock, knock)<br>
+							<br>
+							
+						KRAMER: You Gack?<br>
+							<br>
+							
+						TODD: Yeah.<br>
+							<br>
+							
+						KRAMER: Here's your money.<br>
+							<br>
+							
+						(Kramer throws a bag full of change at him)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Mr. Steinbrenner in George's office]<br>
+							<br>
+							
+						MR. STEINBRENNER: George. Why do these clothes smell like Pisano's?<br>
+							<br>
+							
+						GEORGE: Because they were heated up there.<br>
+							<br>
+							
+						MR. STEINBRENNER: Heating up your clothes? That's not a bad idea.<br>
+							<br>
+							<br>
+							
+						The End</td>
+						</tr>
+						<tr height="6">
+							<td class="bottom2" width="645" height="6"></td>
+						</tr>
+						<tr>
+							<td width="645">
+								<div align="center">
+									<font size="-1">Copyright 2006 seinology.com | All Rights Reserved | Designed by 13erla</font></div>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+		<p></p>
+	</body>
+
+</html>

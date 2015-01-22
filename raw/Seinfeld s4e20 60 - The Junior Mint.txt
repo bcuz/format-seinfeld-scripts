@@ -1,0 +1,1619 @@
+<tdOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+<html>
+
+	<head>
+		<meta http-equiv="content-type" content="text/html;charset=ISO-8859-1">
+		<meta name="description" content="Top Source for Seinfeld">
+		<meta name="keywords" content="seinfeld, sienfeld, Jerry Seinfeld, Julia Louis Dreyfus, Jason Alexander, Michael Richards, Kramer, George, Costanza, Elaine Benes, morty, Larry David">
+		<title>Seinology.com :: Scripts :: 60-The Junior Mint</title>
+	<link rel='stylesheet' href='/stylesheet.css' type='text/css'>
+	</head>
+
+	<body>
+			<table align="center" width="787" border="0" cellspacing="0" cellpadding="0">
+				<tr>
+					<td><font size="-2" color="red">Seinology.com - </font><font size="-3" color="black">Where Seinfeld Content and Accuracy Matter Most. Seinfeld scripts in pdf form, Seinfeld episode video clips, Seinfeld episode audio clips, Jerry Seinfeld appearances, Julia Louis-Dreyfus appearances, Michael Richards appearances, Jason Alexander appearances, Seinfeld discussion Forum, Seinfeld Where are they Now? Seinlanguage Newsletter, Popular Seinfeld Lists, Seinfeld episode standup, Seinfeld episode guide, Seinfeld fan fiction. Seinfeld content all on one domain. Seinology.com enjoy your stay.</font></td>
+				</tr>
+			</table>
+		
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr height="100">
+				<td class="logo"></td>
+			</tr>
+			<tr><td class="ads" align="center" background=#8694fa>
+				<script type="text/javascript"><!--
+google_ad_client = "pub-1924026976931416";
+google_ad_width = 728;
+google_ad_height = 90;
+google_ad_format = "728x90_as";
+google_ad_type = "text";
+google_ad_channel = "";
+google_color_border = "FFFFFF";
+google_color_bg = "8694fa";
+google_color_link = "0000FF";
+google_color_text = "000000";
+google_color_url = "002E3F";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></td></tr>
+		</table>
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr>
+				<td valign="top" width="136">
+					<table width="136" border="0" cellspacing="0" cellpadding="0">
+						<tr height="24">
+							<td class="navigation">
+								<div align="center">
+									
+									<b>Navigation</b></div>
+							</td>
+						</tr>
+						<tr height="199">
+							<td class="spacer1" valign="top" width="136" height="199">
+								<div align="center">
+									<font size="-1"><a href="http://www.seinology.com">Home</a><br>
+										<a href="http://board.seinology.com">Forum</a><br>
+										<a href="http://www.seinology.com/av.shtml">Audio/Video</a><br>
+										<a href="http://www.seinology.com/scripts.shtml">Scripts</a><br>
+										<a href="http://www.seinology.com/survivor.shtml">Survivor</a><br>
+										<a href="http://www.seinology.com/fanfics.shtml">Fan Fiction</a><br>
+										<a href="http://www.seinology.com/gallery/">Gallery</a><br>
+										<a href="http://www.seinology.com/newsletter.shtml">Newsletter</a><br>
+										<a href="http://www.seinology.com/lists.shtml">Lists</a><br>
+										<a href="http://www.seinology.com/epguide.shtml">Episode Guide</a><br>
+										<a href="http://www.seinology.com/links.shtml">Links</a><br>
+										<a href="http://www.seinology.com/faqother.shtml">Faq + others</a><br>
+										<a href="http://www.seinology.com/legal.shtml">Legal</a></font></div>
+							</td>
+						</tr>
+						
+						<tr>
+							<td class="nav2" width="136">
+							<div align="center"><b>Search</b></div></td>
+						</tr>
+						<tr>
+							<td class="spacer1" width="136" valign="top"><div align="center"><form method="get" action="http://www.seinology.com/search/search.cgi">
+<p><label for="fdse_Match">Match</label><br>
+<select name="Match" id="fdse_Match" size="1">
+<option value="1">All</option>
+<option value="0">Any</option>
+<option value="2">Phrase</option>
+</select></p>
+<p><label for="fdse_Realm">Where?</label><br>
+<select name="Realm" id="fdse_Realm" size="1">
+<option selected="selected" value="All">EntireSite</option>
+<option value="Ep Guide">Ep Guide</option>
+<option value="Images">Images</option>
+<option value="Lists">Lists</option>
+<option value="Newsletters">Newsletters</option>
+<option value="Scripts">Scripts</option>
+<option value="Notes..Nothing">Notes..Nothing</option>
+</select></p>
+<p><input type="text" name="Terms" size="14" id="fdse_Terms"><br>
+<input type="submit" class="submit" name="submitButtonName" value="Search"></p>
+</div></form></td>
+						</tr>
+						<tr><td class="bottom" width="136" height="10" valign="top">
+						</td>
+						</tr>
+					</table>
+				</td>
+				<td width="4"></td>
+				<td valign="top" width="645">
+					<table width="645" border="0" cellspacing="0" cellpadding="0">
+						<tr height="18">
+							<td width="645" height="35" class="bar">
+								<div align="center">
+									<b><font size="+2" color="black">Script</font></b></div>
+							</td>
+						</tr>
+						<tr height="362">
+							<td class="spacer2" valign="top" width="645" height="362">
+
+						<p><font size="-2">Episode 60 - The Junior Mint<br>
+							
+						pc: 421, season 4, episode 20<br>
+							
+						Broadcast date: March 18, 1993<br>
+							<br>
+							
+						Written by&nbsp; Andy Robin<br>
+							
+						Directed by Tom Cherones<br>
+							<br>
+							
+						-------------------------------------------------------------------------------<br>
+							<br>
+							
+						The Cast<br>
+							
+						Regulars:<br>
+							
+						Jerry Seinfeld ........................ Jerry Seinfeld<br>
+							
+						Jason Alexander ................... George Costanza<br>
+							
+						Julia Louis-Dreyfus .............. Elaine Benes<br>
+							
+						Michael Richards .................. Kramer<br>
+							<br>
+							
+						Guest Stars:<br>
+							<br>
+							
+						Susan Walters ...................... Mystery Woman / Mulva (Delores)<br>
+							
+						Sherman Howard ................ Roy<br>
+							
+						Victor Raider-Wexler ........... Doctor<br>
+							<br>
+							
+						==================================================================<br>
+							<br>
+							
+						[Opening monologue]<br>
+							<br>
+							
+						JERRY: You can't just *have* an adultery-- you *commit* adultery. And you can't even *commit* adultery unless you already *have* a commitment. So you have to make the commitment before you can even think about committing it. There's no commit without the commit. Then, once you commit, then you can commit the adultery. Then you can get caught, get divorced, lose your mind and they have you committed. But y'know some people actually *cheat* on the people that they're cheating with. Which is like, y'know, being in a hold up and then turning to the robber next to you and goin'&nbsp; Alright, gimme everything you have, too''.<br>
+							
+						&nbsp;<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						[Jerry's apartment, Jerry's unloading groceries.]<br>
+							<br>
+							
+						GEORGE: You met her at the supermarket? How did you do that?<br>
+							<br>
+							
+						JERRY: (flips a roll of paper towels in the air) Produce section. *Very* provocative area. A lot of melons and shapes. Everyone's squeezing and smelling... It just happened.<br>
+							<br>
+							
+						GEORGE: (laughs-hu) So when're you gonna see her?<br>
+							<br>
+							
+						JERRY: Tonight.<br>
+							<br>
+							
+						GEORGE: What's her name?<br>
+							<br>
+							
+						JERRY: I... don't... know...<br>
+							<br>
+							
+						GEORGE: How could you not know her name?<br>
+							<br>
+							
+						JERRY: I was a little nervous, I got distracted. It has something to do with a car, or a fish...<br>
+							<br>
+							
+						(Jerry interrupts himself to pick up a pile of black bananas on his counter)<br>
+							<br>
+							
+						JERRY: Look at that. Why do I get bananas? They're good for *one* day...<br>
+							<br>
+							
+						(Tosses the bananas back in the bowl and goes back to unpacking the grocery bag.)<br>
+							<br>
+							
+						GEORGE: Oh my God, I forgot to tell you. I got a letter today from the State Controller's Office. Y'know when I was going to public school back in Brooklyn, every week I used to put fifty cents in the Lincoln Savings Bank.<br>
+							<br>
+							
+						JERRY: Yeah, I did that too.<br>
+							<br>
+							
+						GEORGE: Yeah, You remember the, the little eh, bank book, there?<br>
+							<br>
+							
+						JERRY: Sure.<br>
+							<br>
+							
+						GEORGE: Alright, so I haven't put anything in it since sixth grade, I completely forgot about it. The State Controller's Office tracks me down. The interest has accumulated to 1,900 dollars. 1,900 dollars! They're sending me a cheque!<br>
+							<br>
+							
+						JERRY: Wow!<br>
+							<br>
+							
+						GEORGE: Hu-Yeah, interest. It's an amazing thing. You make money without doing anything...<br>
+							<br>
+							
+						JERRY: Y'know I have some friends who try and base their whole life on that principle.<br>
+							<br>
+							
+						GEORGE: Really? Who?<br>
+							<br>
+							
+						JERRY: Nobody you know...<br>
+							<br>
+							
+						GEORGE: Maybe I'll go down to the track. Put it all on a horse...<br>
+							<br>
+							
+						JERRY: Why don't you put it in the *bank*?<br>
+							<br>
+							
+						GEORGE: The *bank*? This is *found* money. I want to *parlay* it. I wanna make a big score!<br>
+							<br>
+							
+						JERRY: *Oh*, you mean you wanna *lose* it...<br>
+							<br>
+							
+						(Kramer Enters. Jerry flips him a pack of dishwashing gloves he picked up for him at the grocery store.)<br>
+							<br>
+							
+						KRAMER: Yeah... All right....Ya got it, eh.<br>
+							<br>
+							
+						JERRY: Yes I did.<br>
+							<br>
+							
+						KRAMER: Yes.<br>
+							<br>
+							
+						GEORGE: What's with the gloves?<br>
+							<br>
+							
+						KRAMER: Well, I'm staining my floors, y'know, I don't want to get my hands dirty...<br>
+							<br>
+							
+						GEORGE: Huh. What, the whole apartment?<br>
+							<br>
+							
+						KRAMER: The whole apartment. And I'm buying that fake wood wallpaper. I'm gonna surround myself in wood. It's gonna be like a log cabin. 'Cuz I *need* wood around me. Wood, Jerry [Snaps fingers]... Wood.<br>
+							<br>
+							
+						JERRY: Wood is good.<br>
+							<br>
+							
+						KRAMER: Definitely.<br>
+							<br>
+							
+						JERRY: So we're still going to the health club to play racquetball right?<br>
+							<br>
+							
+						KRAMER: Yeah, yeah, whenever you're ready.<br>
+							<br>
+							
+						JERRY: O.K., soon as Elaine gets here.<br>
+							<br>
+							
+						KRAMER: Yep.<br>
+							<br>
+							
+						[Kramer exits]<br>
+							<br>
+							
+						JERRY: What, you rented &quot;Home Alone&quot;?<br>
+							<br>
+							
+						GEORGE: Yeah.<br>
+							<br>
+							
+						JERRY: I thought you saw that already...<br>
+							<br>
+							
+						GEORGE: No, I saw &quot;Home Alone II&quot;.<br>
+							<br>
+							
+						JERRY: Oh, right... But you *hated* it!<br>
+							<br>
+							
+						GEORGE: Well I was lost, I never saw the first one. By the way, you mind if I watch it here?<br>
+							<br>
+							
+						JERRY: What for?<br>
+							<br>
+							
+						GEORGE: Because if I watch it at my apartment I feel like I'm not doing anything. If I watch it here, I'm out of the house; I'm doing something.<br>
+							<br>
+							
+						JERRY: All right.. Go ahead.<br>
+							<br>
+							
+						[Intercom buzzes - Jerry walks over to answer it.&nbsp; George puts the tape in the VCR.]<br>
+							<br>
+							
+						JERRY: Yeah?<br>
+							<br>
+							
+						ELAINE: (on the intercom) It's me, are you ready to go?<br>
+							<br>
+							
+						JERRY: No. Come on up.<br>
+							<br>
+							
+						[Kramer enters wearing the gloves Jerry got him.]<br>
+							<br>
+							
+						KRAMER: I can't work with these!<br>
+							<br>
+							
+						JERRY: What's wrong?<br>
+							<br>
+							
+						KRAMER: Well, you bought me dishwashing gloves. There's no *fine touch*...<br>
+							<br>
+							
+						JERRY: You said &quot;gloves&quot;...<br>
+							<br>
+							
+						KRAMER: No, no, these are too thick.&nbsp; (removes the gloves/tosses them on the kitchen counter)<br>
+							<br>
+							
+						KRAMER: Oooh, is that &quot;Home Alone&quot;?<br>
+							<br>
+							
+						GEORGE: Yeah. The *original*.<br>
+							<br>
+							
+						(Elaine Enters)<br>
+							<br>
+							
+						ELAINE: Hey Boys-O!<br>
+							<br>
+							
+						EVERYONE: (in unison) Heyyyyyyyy.<br>
+							<br>
+							
+						KRAMER: Hey, how's it goin'?<br>
+							<br>
+							
+						ELAINE: Hello.<br>
+							<br>
+							
+						JERRY: (to Kramer) Hey (snaps fingers) get your stuff, let's get going.<br>
+							<br>
+							
+						(Kramer get up to leave, but)<br>
+							<br>
+							
+						ELAINE: Well wait a minute, there's a slight change of plans.<br>
+							<br>
+							
+						JERRY: What?<br>
+							<br>
+							
+						ELAINE: eh, Remember Roy, the artist?<br>
+							<br>
+							
+						JERRY: Oh, the &quot;triangle&quot; guy.<br>
+							<br>
+							
+						ELAINE: Yeah, exactly, the &quot;triangle&quot; guy.<br>
+							<br>
+							
+						JERRY: Yeah, you liked him. What happened with him?<br>
+							<br>
+							
+						ELAINE: Yeah I did. He was very talented. He was, ah just, I don't know a little too...<br>
+							<br>
+							
+						JERRY: Artsy?<br>
+							<br>
+							
+						ELAINE: Fat.<br>
+							<br>
+							
+						JERRY: Oh. (unh - very quiet sigh)<br>
+							<br>
+							
+						ELAINE: He was a fat, starving artist, y'know. That's very rare.<br>
+							<br>
+							
+						JERRY: Yeah.<br>
+							<br>
+							
+						ELAINE: Anyway, he's in the hospital, he's having surgery and I feel like should go visit him.<br>
+							<br>
+							
+						JERRY: What's wrong with him?<br>
+							<br>
+							
+						ELAINE: Unh, something with his spleen.&nbsp; Anyway it'll just take five minutes, O.K., and then, the hospital is right on the way.<br>
+							<br>
+							
+						KRAMER: Yeah. (putting hand to his mouth, hatching a thought)<br>
+							<br>
+							
+						JERRY: All right we'll wait for you.<br>
+							<br>
+							
+						KRAMER: Yeah, maybe I can get some rubber gloves there huh, yea.<br>
+							<br>
+							
+						[Kramer exits]<br>
+							<br>
+							
+						ELAINE: Listen, Jerry can you do me a favor? (clears throat) Could you, go into the room with me to visit him because ah, I don't want him to think that I'm, y'know... interested.<br>
+							<br>
+							
+						JERRY: Oh, you want me to pretend to be your boyfriend.<br>
+							<br>
+							
+						ELAINE: Well...<br>
+							<br>
+							
+						JERRY: Well I think I can do that. I believe I've played that role before to some critical acclaim.<br>
+							<br>
+							
+						ELAINE: Aha ha ha (laugh)<br>
+							<br>
+							
+						[Kramer enters, standing in the open doorway holding a sports bag]<br>
+							<br>
+							
+						KRAMER: All right, lets go.<br>
+							<br>
+							
+						JERRY: All right (picks up his sports bag)<br>
+							<br>
+							
+						KRAMER: Yep yep yep.<br>
+							<br>
+							
+						(Elaine notices George is staying behind)<br>
+							<br>
+							
+						ELAINE: What's with him?<br>
+							<br>
+							
+						JERRY: Y'know a lot of people have asked that...<br>
+							
+						&nbsp;<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						[EXTERIOR shot of the hospital with cars driving by -- then INTERIOR of Roy's hospital room.&nbsp; Roy is lying in bed, resting. At the Hospital, Elaine and Jerry enter -- finding the triangle? man's room]<br>
+							<br>
+							
+						ELAINE: Roy!<br>
+							<br>
+							
+						ROY: *Elaine*! What a *surprise*.&nbsp; (sitting up)<br>
+							<br>
+							
+						ELAINE: (gasp) Oh, my *God*! I hardly recognize you! You look so...<br>
+							<br>
+							
+						ROY: Yeah, ya know, I've lost some weight...<br>
+							<br>
+							
+						ELAINE: A *lot* of weight. (enthusiastically)<br>
+							<br>
+							
+						ROY: I know.<br>
+							<br>
+							
+						ELAINE: Aha hu, You look *terrific*.<br>
+							<br>
+							
+						ROY: Thank you. So do you.<br>
+							<br>
+							
+						ELAINE: Ah hahaha hhuu ha (flirty laughing)<br>
+							<br>
+							
+						(Elaine introduces Jerry the boyfriend? to Roy)<br>
+							<br>
+							
+						ELAINE: Ah, This is... uh... you *really* lost weight.<br>
+							<br>
+							
+						ROY: Thank you.<br>
+							<br>
+							
+						(Since Elaine is preoccupied, thinking about Roy, Jerry takes it upon himself to be introduced and sticks out his hand.)<br>
+							<br>
+							
+						JERRY: Jerry, uh, I'm the boyfriend. (puts his arm around Elaine's shoulder, but she shrugs it off twice)<br>
+							
+						&nbsp;<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						[While Roy, Elaine and Jerry are talking -- Kramer is out in the hallway looking for some thinner gloves on a hospital cart.]<br>
+							<br>
+							
+						HOSPITAL VOICEOVER: Doctor Wittenberg, Outside call. Doctor Wittenberg, Outside call.<br>
+							<br>
+							
+						(Kramer opens a door)<br>
+							<br>
+							
+						WOMAN: AHAaaaaaaaaa!&nbsp; (scream)<br>
+							<br>
+							
+						KRAMER: (a bit startled) Ahh.<br>
+							<br>
+							
+						(he takes a few steps down the hallway and sees another door to try).<br>
+							<br>
+							
+						HOSPITAL VOICEOVER: Doctor Wittenberg, Outside call.<br>
+							<br>
+							
+						KRAMER: Ah, the mother lode!&nbsp; (the door squeaks a bit as he pushes it open)<br>
+							
+						&nbsp;<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						[George sits on the couch in the darkened apartment -- watching Home Alone, and eating a bag of popcorn -- 6 seconds of funny dramatic music from the movie play during the scene]<br>
+							
+						&nbsp;<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						[Back in Roy's room, Elaine is sitting on the bed, close to Roy -- Jerry sits in a chair in the corner]<br>
+							<br>
+							
+						ELAINE: I can't believe it! You were *huge*! Like blubber! I couldn't even get my arms around you...<br>
+							<br>
+							
+						ROY: Yesss, I remember.<br>
+							<br>
+							
+						ELAINE: Ahahaha. Well that's the positive thing about getting sick, you get to lose weight.<br>
+							<br>
+							
+						ROY: Elaine, it wasn't the illness. It was you.<br>
+							<br>
+							
+						ELAINE: Me?<br>
+							<br>
+							
+						ROY: (quietly- yeah) After you stopped seeing me, I was devastated. I couldn't eat for weeks.<br>
+							<br>
+							
+						ELAINE: *Get* *out*!<br>
+							<br>
+							
+						ROY: Really, it's the truth.<br>
+							<br>
+							
+						ELAINE: Jerry, did you hear this? He couldn't eat for weeks...<br>
+							<br>
+							
+						JERRY: That's terrible...<br>
+							<br>
+							
+						ELAINE: I had no idea I had that kind of effect on you.<br>
+							<br>
+							
+						(Jerry gets up and starts playing with a Yo-Yo)<br>
+							<br>
+							
+						ROY: You did.<br>
+							<br>
+							
+						JERRY: You know I can't get this *damn thing* to sleep. (about the Yo-Yo)<br>
+							<br>
+							
+						ELAINE: Now listen Roy, tell me something. When, are you gettin' out of here?<br>
+							<br>
+							
+						ROY: Next Thursday.<br>
+							<br>
+							
+						ELAINE: Okay, I'll tell you what. How about on Friday I take you out for a *big* meal because *you* are getting *too* thin...<br>
+							<br>
+							
+						[Jerry the boyfriend? seems to have a problem with this -- and the two exchange in a banter as they speak to each other in super-polite, higher-pitched voices.]<br>
+							<br>
+							
+						JERRY: Honey... Aren't we going to the Poconos next Friday?<br>
+							<br>
+							
+						ELAINE: No that's the week after.<br>
+							<br>
+							
+						JERRY: No, I believe it's next week.<br>
+							<br>
+							
+						ELAINE: You're wrong.<br>
+							<br>
+							
+						JERRY: No I'm not...<br>
+							<br>
+							
+						ELAINE: Shut up...<br>
+							<br>
+							
+						(Kramer comes back in the room with a mitt full o' gloves.)<br>
+							<br>
+							
+						KRAMER: Pay dirt!&nbsp; (holding up the hand full of gloves. He looks behind himself as the door closes)<br>
+							<br>
+							
+						ELAINE: Uh Roy, this is uh Kramer -- he's one of our friends.<br>
+							<br>
+							
+						ROY: Oh, How do you do?<br>
+							<br>
+							
+						KRAMER: Yeah... I do great, yeah.<br>
+							<br>
+							
+						[Roy's doctor enters the room.]<br>
+							<br>
+							
+						DOCTOR: Hi Roy.<br>
+							<br>
+							
+						ROY: Oh, hey Dr. Siegel.<br>
+							<br>
+							
+						JERRY: Hey Doc, check this out. [does an around-the-world with the Yo-Yo]<br>
+							<br>
+							
+						KRAMER: Heey.<br>
+							<br>
+							
+						JERRY: I *just* learned that.&nbsp; (proudly holding the Yo-Yo)<br>
+							<br>
+							
+						DOCTOR:&nbsp; A-hu. (The doctor is at a loss)<br>
+							<br>
+							
+						DOCTOR: I just wanted to stop by -- see if you had any questions about tomorrow's operation.<br>
+							<br>
+							
+						KRAMER: Ah, Yeah Yeah, I have a - I have a question, um -- What do you know about inter-abdominal retractors?<br>
+							<br>
+							
+						DOCTOR: Are you asking because you saw &quot;20/20&quot; last night?<br>
+							<br>
+							
+						KRAMER: I sure am.<br>
+							<br>
+							
+						DOCTOR: Well that report was about *one* very specific type of retractor and I can assure you we do not use that retractor in your friend's procedure.<br>
+							<br>
+							
+						KRAMER: But you *will* use... a retractor.<br>
+							<br>
+							
+						DOCTOR: We have to...<br>
+							<br>
+							
+						KRAMER: Mmm-hmm... (turns and walks away, makes a face, raises his eyebrows, nodding his head, then turns back to the group.)<br>
+							<br>
+							
+						DOCTOR: Tell you what. You're obviously concerned about your friend's welfare. A few of my students will be observing tomorrow's operation from the viewing gallery. How would you like to watch it with them?<br>
+							<br>
+							
+						KRAMER: I'd love to watch the operation, yeah!<br>
+							<br>
+							
+						JERRY: I dunno...<br>
+							<br>
+							
+						KRAMER: Oh, come on Jerry. You gotta see the operation. They're gonna cut him open -- His guts'll be all over the place...<br>
+							<br>
+							
+						JERRY: Yeah, that's true...<br>
+							<br>
+							
+						KRAMER: ...They'll saw through bone.&nbsp; Uuuuuuuing yutyutyutyutn naannnaaa [makes saw noises while gesturing over Roy's chest] You'll see what's *inside* bone...<br>
+							
+						&nbsp;<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						[Jerry's apartment. George is finishing watching the movie, music playing -- he is crying]<br>
+							<br>
+							
+						GEORGE: Ttu (wipes nose and sniffs) Ttu.<br>
+							<br>
+							
+						[Jerry enters]<br>
+							<br>
+							
+						JERRY: Hey.<br>
+							<br>
+							
+						GEORGE: Hi...<br>
+							<br>
+							
+						JERRY: What are doing, you crying??<br>
+							<br>
+							
+						GEORGE: No... (takes off his glasses and wipes his eyes with his sleeve)<br>
+							<br>
+							
+						JERRY: You crying from &quot;Home Alone&quot;??<br>
+							<br>
+							
+						GEORGE: The old man got to me.<br>
+							<br>
+							
+						JERRY: Alright, just get yourself together... I dunno if I can be friends with you anymore after this display.<br>
+							<br>
+							
+						GEORGE: Oh Shut up! What are you doing back so soon, anyway? (puts the tape back in it's case.)<br>
+							<br>
+							
+						JERRY: Oh, I never even got to the gym. Kramer got the gloves, wanted to come home and start working on his floor.<br>
+							<br>
+							
+						GEORGE: Oh. How's the guy?<br>
+							<br>
+							
+						JERRY: Oh, he's okay. In fact him and Elaine are getting ah, pretty chummy. Now Elaine wants me to buy some of his art. (opens the fridge and gets a bottle of water.)<br>
+							<br>
+							
+						GEORGE: Hnh. That's nerve...<br>
+							<br>
+							
+						JERRY: Yeah, so she and &quot;Triangle Boy&quot; can go out to fancy restaurants. (takes a sip of water)<br>
+							<br>
+							
+						GEORGE: Y'know what it is? It's &quot;Clara Nightingale Syndrome.&quot;&nbsp; He falls ill; she falls in love.<br>
+							<br>
+							
+						JERRY: You mean Florence Nightingale. **<br>
+							
+						(** Footnote: see short bio at end of script **)<br>
+							<br>
+							
+						GEORGE: What'd I say? Clara?<br>
+							<br>
+							
+						JERRY: Yeah, you must have meant Clara Barton. **<br>
+							
+						(** Footnote: see short bio at end of script **)<br>
+							<br>
+							
+						GEORGE: Clara Barton? What did she do?<br>
+							<br>
+							
+						JERRY: I'm not sure, but I think she was nice. (takes a sip of water)<br>
+							<br>
+							
+						GEORGE: Susan B. Anthony** I think I'd have a problem with.<br>
+							
+						(** Footnote: see short bio at end of script **)<br>
+							<br>
+							
+						JERRY: Yeah, I think you would.<br>
+							<br>
+							
+						GEORGE: So, you gonna buy his art?<br>
+							<br>
+							
+						JERRY: No. Why don't you buy it? You got 1,900 dollars.<br>
+							<br>
+							
+						GEORGE: Yeah, that's what I want-- triangles. Alright, I'm outta here. Have fun with what's-her-name.<br>
+							<br>
+							
+						JERRY: I will.<br>
+							<br>
+							
+						GEORGE: Y'know, now you gotta ask her her name. It's so embarrassing.<br>
+							<br>
+							
+						JERRY: No, it isn't. I can find out.<br>
+							<br>
+							
+						GEORGE: Yeah? How?<br>
+							<br>
+							
+						JERRY: There are ways.<br>
+							
+						&nbsp;<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						[Later, the mystery woman and Jerry are sitting on the couch]<br>
+							<br>
+							
+						JERRY: Y'know I remember when I was a kid growin up, kids would make fun of my name like you wouldn't believe-- &quot;Jerry Jerry Dingleberry&quot;, and-hu &quot;Seinsmelled&quot;...<br>
+							<br>
+							
+						WOMAN: &quot;Seinsmelled&quot;?<br>
+							<br>
+							
+						JERRY: Yeah. a-hu. What about you? Did people make fun of your name?<br>
+							<br>
+							
+						WOMAN: Are you kidding? They were merciless! What do you expect when your name rhymes with a part of the female anatomy?<br>
+							<br>
+							
+						(They both laugh, she leans in and kisses his ear and they hug. Jerry looks confused.&nbsp; She leans back --)<br>
+							<br>
+							
+						WOMAN: (con't) Of course, not everybody can be as sweet as you are.<br>
+							<br>
+							
+						(They embrace and a couple of light kisses and a hug)<br>
+							<br>
+							
+						WOMAN: Oh, oh Jerry...<br>
+							<br>
+							
+						JERRY: Oh... *you*...<br>
+							
+						&nbsp;<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						[Exterior shot of Monks Restaurant then inside to Jerry and George sitting in the usual&nbsp; booth.&nbsp; Seems like it's the next day -- they're in the middle of a conversation when we join them.]<br>
+							<br>
+							
+						GEORGE: Now let's try &quot;breast&quot;... Celeste... Kest...<br>
+							<br>
+							
+						JERRY: No.<br>
+							<br>
+							
+						GEORGE: Rest... Sest... Hest...<br>
+							<br>
+							
+						JERRY: &quot;Hest&quot;? That's not a name.<br>
+							<br>
+							
+						GEORGE: What, you should've just asked her.<br>
+							<br>
+							
+						JERRY: I know, I should've asked her.<br>
+							<br>
+							
+						GEORGE: What're you gonna do now?<br>
+							<br>
+							
+						JERRY: I dunno. I can't ask her now; I've already made out with her. Once you make out with a woman, you can't ask her her name.<br>
+							<br>
+							
+						GEORGE: Aretha!&nbsp; (points finger at Jerry)<br>
+							<br>
+							
+						JERRY: No...<br>
+							<br>
+							
+						GEORGE: Bovary!&nbsp; (points finger again at Jerry)<br>
+							<br>
+							
+						JERRY: Alright, that's enough. (sips coffee)<br>
+							<br>
+							
+						GEORGE: Alright, well you know what'cha gotta do, you gotta go through her purse. Y'know, the-the credit cards, driver's license...<br>
+							<br>
+							
+						JERRY: How am I gonna do that?<br>
+							<br>
+							
+						GEORGE: When she goes to the bathroom.<br>
+							<br>
+							
+						[Kramer enters]<br>
+							<br>
+							
+						KRAMER: Ah, (smacks hands) there you are. My date stood me up. Listen, will you guys go to the operation with me?<br>
+							<br>
+							
+						JERRY: You asked a date to go to the operation?<br>
+							<br>
+							
+						KRAMER: Yeah... So c'mon,&nbsp; (smacks hands and rubs them together) what d'you say?<br>
+							<br>
+							
+						GEORGE: What kind of operation is it?<br>
+							<br>
+							
+						KRAMER: Spleenectomy.<br>
+							<br>
+							
+						GEORGE: Isn't that where they remove the--<br>
+							<br>
+							
+						KRAMER: No No, Don't ruin it for me, I haven't seen it yet! Ah-C'mon, what d'you say?<br>
+							<br>
+							
+						GEORGE: Mulva! (again pointing finger at Jerry -- Kramer watches the exchange back and forth)<br>
+							<br>
+							
+						JERRY: Mulva? (waves off George with his hand)<br>
+							<br>
+							
+						KRAMER: C'mon, C'mon. You wanna go? (pats Jerry a couple times on the shoulder quietly) C'mon. Yeah, yeah, yeah.<br>
+							<br>
+							
+						JERRY: Alright, alright. Just let me finish my coffee... then we'll watch 'em go slice this fat bastard up. (sips coffee)<br>
+							
+						&nbsp;<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						[Exterior of the hospital then cut to the operating room where Jerry and Kramer, dressed in green scrubs and head cover, are seated in the front row of the viewing gallery directly overlooking the table below. There's no glass in front of them, so they can look right over the edge.&nbsp; Several students are also in the gallery behind them.&nbsp; The sounds of beep, beep, beep from the heart monitor, and the breathing from the patients oxygen mask are a constant throughout the scene]<br>
+							<br>
+							
+						DOCTOR: Now we'll open the peritoneal cavity, exposing the body's internal organs. Nurse-- retractor.<br>
+							<br>
+							
+						(Kramer gets a box of candy out and pours a few into his hand and starts to munch)<br>
+							<br>
+							
+						JERRY: What are you eating?<br>
+							<br>
+							
+						KRAMER: Junior Mints. Do you want one?<br>
+							<br>
+							
+						JERRY: No...<br>
+							<br>
+							
+						KRAMER: Now, I can't see..... Psst.... Psst...<br>
+							<br>
+							
+						(The entire surgical team stops and looks up at him. Kramer motions to a nurse to get out of the way so he can see.)<br>
+							<br>
+							
+						KRAMER: ... Cou, ye, ge...<br>
+							<br>
+							
+						(The doctor shakes his head in disbelief and returns to the surgical procedure)<br>
+							<br>
+							
+						KRAMER: Y-ea (pours a few more Junior Mints into his hand and eats them)<br>
+							<br>
+							
+						JERRY: Where'd you get those?<br>
+							<br>
+							
+						KRAMER: The machine. You want one?<br>
+							<br>
+							
+						JERRY: No.<br>
+							<br>
+							
+						KRAMER: Here, take one.<br>
+							<br>
+							
+						JERRY: I don't want one.<br>
+							<br>
+							
+						KRAMER: No, they're good! Take one..<br>
+							<br>
+							
+						JERRY: I don't want any!<br>
+							<br>
+							
+						KRAMER: Just take one.<br>
+							<br>
+							
+						JERRY: No! Stop it! Kramer, stop it!<br>
+							<br>
+							
+						[As they struggle to force the Junior Mint on each other, Jerry pushes Kramers' hand away and -- in slow motion with the sound of a beating heart to emphasize the event -- The Junior Mint is launched into the air towards the operating table and, well, in a word: &quot;Bingo&quot; -- with a small &quot;splat&quot; sound -- falls into Roy, the patient.&nbsp; The surgical team looks around puzzled as to what just happened -- but they continue on with the operation)<br>
+							<br>
+							
+						[Jerry and Kramer look around at the other students and at each other in amazement as to what just happened]<br>
+							<br>
+							
+						JERRY: (pointing at the operation he mouths the words) Did it go in?<br>
+							<br>
+							
+						KRAMER: Ge--<br>
+							<br>
+							
+						(Camera fade to black with familiar Seinfeld music)<br>
+							
+						&nbsp;<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						[Jerry's apartment where he is obviously relating the day's events to George.]<br>
+							<br>
+							
+						JERRY: ...Over the balcony, bounced off some respirator thing *into* the patient!<br>
+							<br>
+							
+						GEORGE: What do you mean &quot;into the patient&quot;?<br>
+							<br>
+							
+						JERRY: Into the patient, *literally*!<br>
+							<br>
+							
+						GEORGE: Into the hole?<br>
+							<br>
+							
+						JERRY: Yes, the hole!<br>
+							<br>
+							
+						GEORGE: Didn't they notice it?<br>
+							<br>
+							
+						JERRY: No!<br>
+							<br>
+							
+						GEORGE: How could they not notice it?!?<br>
+							<br>
+							
+						JERRY: Because it's a little mint. It's a *Junior* Mint.<br>
+							<br>
+							
+						GEORGE: W-ca-What did they do?<br>
+							<br>
+							
+						JERRY: They sealed him up with the mint inside.<br>
+							<br>
+							
+						GEORGE: They *left* the Junior Mint *in* him?<br>
+							<br>
+							
+						JERRY: Yes!<br>
+							<br>
+							
+						GEORGE: I-I guess it can't hurt him... People eat *pounds* of those things.<br>
+							<br>
+							
+						JERRY: Yes they *eat* them. They don't put them next to vital organs in their abdominal cavity!<br>
+							<br>
+							
+						[Intercom buzzes - Jerry answers it.&nbsp; George goes to the fridge]<br>
+							<br>
+							
+						JERRY: Yeah.<br>
+							<br>
+							
+						ELAINE: It's me.<br>
+							<br>
+							
+						JERRY: Come on up.<br>
+							<br>
+							
+						[Kramer enters with a sheet of the wood? wallpaper]<br>
+							<br>
+							
+						KRAMER: Hey. This wallpaper is *very* good. My place looks like a ski lodge!<br>
+							<br>
+							
+						JERRY: Why did you force that mint on me? I told ya I didn't want the mint!<br>
+							<br>
+							
+						KRAMER: Well, I didn't believe you.<br>
+							<br>
+							
+						JERRY: How could you not believe me?!?<br>
+							<br>
+							
+						KRAMER: Well who's gonna turn down a Junior Mint? It's chocolate, it's peppermint-- it's *delicious*!<br>
+							<br>
+							
+						JERRY: That's true.<br>
+							<br>
+							
+						KRAMER: It's very refreshing!<br>
+							<br>
+							
+						JERRY: Well, just don't say anything about this to Elaine...<br>
+							<br>
+							
+						[Elaine enters the apartment, looking forlorn and morose...]<br>
+							<br>
+							
+						ELAINE: Prognosis... negative.<br>
+							<br>
+							
+						JERRY: Prognosis *negative*!?<br>
+							<br>
+							
+						ELAINE: He's not doing well, the doctors don't know what it is. They're baffled.<br>
+							<br>
+							
+						JERRY and KRAMER: Oh, my God...<br>
+							<br>
+							
+						ELAINE: Just my luck, y'know... just when he's getting thin and attractive. Y'know Jerry, you should buy some of his art. That would really lift his spirits.<br>
+							<br>
+							
+						GEORGE: It's that bleak? (pours a glass of milk)<br>
+							<br>
+							
+						ELAINE: Mmm... (Elaine goes to the bathroom)<br>
+							<br>
+							
+						GEORGE: Y'know if the guy dies, the art could really be worth something...<br>
+							<br>
+							
+						JERRY: We gotta confess.<br>
+							<br>
+							
+						KRAMER: Really?<br>
+							<br>
+							
+						JERRY: Yes!<br>
+							<br>
+							
+						KRAMER: We could be tried for murder...<br>
+							<br>
+							
+						JERRY: I can't have this on my conscience. We're like Leopold and Loeb! **<br>
+							
+						(** Footnote: see short bio at end of script **)<br>
+							<br>
+							
+						KRAMER: You're not gonna say anything, you got that?<br>
+							<br>
+							
+						JERRY: I'm telling and you can't stop me!<br>
+							<br>
+							
+						KRAMER: You're *not*!!!<br>
+							<br>
+							
+						(Elaine comes out of the bathroom -- just in time before Jerry and Kramer resort to fisticuffs).<br>
+							<br>
+							
+						GEORGE: Hey Elaine? Put me down for some of that art. 1,900 dollars worth.<br>
+							<br>
+							
+						[Kramer, Jerry and Elaine look at George like they can't believe he would do that.&nbsp; George raises a toast? with his glass of milk.&nbsp; He has a large sandwich in his other hand.]<br>
+							
+						&nbsp;<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						[Later, at Jerry's apartment, the Mystery Woman gives him a massage.]<br>
+							<br>
+							
+						JERRY: Oh yeah, that's the spot...<br>
+							<br>
+							
+						WOMAN: What're you so tense about?<br>
+							<br>
+							
+						JERRY: Oh, nothing really, just a homicide. [She finds the right spot on his back] Oh that's terrific... Mulva.<br>
+							<br>
+							
+						WOMAN: What?<br>
+							<br>
+							
+						JERRY: Mulva?<br>
+							<br>
+							
+						WOMAN: Mulva?<br>
+							<br>
+							
+						JERRY: Oh my eh, my Aunt's name is Mulva. She's-she's a masseuse.<br>
+							<br>
+							
+						WOMAN: huh.<br>
+							<br>
+							
+						JERRY: Yeah.<br>
+							<br>
+							
+						WOMAN: Um, I'm going to the bathroom. I'll be right back.<br>
+							<br>
+							
+						JERRY: Oh, good idea...<br>
+							<br>
+							
+						(She walks into the bathroom and closes the door.&nbsp; Jerry gets up quickly and opens her purse to look for an ID, but she comes back suddenly, catching him with the open purse.)<br>
+							<br>
+							
+						WOMAN: What are you doing?<br>
+							<br>
+							
+						JERRY: Oh, I was just looking for er, some... gum or... mint.<br>
+							<br>
+							
+						WOMAN: Oh, I have Junior Mints.<br>
+							<br>
+							
+						JERRY: No! [throws her purse back at her] No, I mean, no thank you, nah...<br>
+							<br>
+							
+						(She turns and walks back into the bathroom taking her purse with her.)<br>
+							<br>
+							
+						(Stealthy Kramer enters the apartment)<br>
+							<br>
+							
+						KRAMER: Any news?<br>
+							<br>
+							
+						JERRY: [whispering] No, no news. You better get out of here.<br>
+							<br>
+							
+						KRAMER: Oh.<br>
+							<br>
+							
+						JERRY: Oh No, wait a second... Wait a second... I-I don't know the name of this woman in the bathroom, so when she comes out, you introduce yourself and then she'll be forced to say her name.<br>
+							<br>
+							
+						KRAMER: 10-4.<br>
+							<br>
+							
+						JERRY: O.K. (closes the apartment door)<br>
+							<br>
+							
+						WOMAN: Oh, hello.<br>
+							<br>
+							
+						KRAMER: Hello, I'm Kramer.<br>
+							<br>
+							
+						WOMAN: Nice to meet you.<br>
+							<br>
+							
+						KRAMER: See you later. (He promptly turns and leaves)<br>
+							<br>
+							
+						WOMAN: Well, I better get going. I don't want to be late for the play. (Grabs her coat.)<br>
+							<br>
+							
+						JERRY: Oh, okay.<br>
+							<br>
+							
+						WOMAN: Y'know my cousin knows the producer. I may get to go backstage and meet Olympia Dukakis.<br>
+							<br>
+							
+						JERRY: Oh, Hey, there's a name you don't forget.<br>
+							<br>
+							
+						WOMAN: Mm. Bye Jerry.<br>
+							<br>
+							
+						JERRY: Bye.<br>
+							<br>
+							
+						[They kiss.&nbsp; She turns and opens the door to leave. In the hallway, George is just reaching for the door knob as she opens the door. He has three more videos with him to watch at Jerry's -- the movie on top looks to be &quot;Pretty Woman&quot;, in which Jason Alexander plays an evil lawyer)<br>
+							<br>
+							
+						WOMAN: Oh, hi.<br>
+							<br>
+							
+						GEORGE: Oh, Hi, I'm George. (they shake hands)<br>
+							<br>
+							
+						WOMAN: Oh, Nice to meet you, George.<br>
+							<br>
+							
+						[She leaves]<br>
+							<br>
+							
+						GEORGE: Yeahaha, I gave it a shot (pats Jerry on the arm)... So, any word on the &quot;artiste&quot;?&nbsp; (puts a video in the VCR)<br>
+							<br>
+							
+						JERRY: No, I haven't heard anything.<br>
+							<br>
+							
+						GEORGE: Hehe. Well, I got my triangles. (sitting on the couch)<br>
+							<br>
+							
+						JERRY: Really...<br>
+							<br>
+							
+						GEORGE: Yup, y'know, they really spruce up the apartment.<br>
+							<br>
+							
+						JERRY: Yeah, I'm sure...<br>
+							<br>
+							
+						JERRY: Well, I-I gotta call the Hospital. I gotta tell 'em what happened.<br>
+							<br>
+							
+						GEORGE: No-no Jerry. I wouldn't do that.<br>
+							<br>
+							
+						JERRY: Why?<br>
+							<br>
+							
+						GEORGE: Ehh, You could get in trouble.<br>
+							<br>
+							
+						JERRY: Look, I gotta try and help the guy.<br>
+							<br>
+							
+						GEORGE: Who are you to play God!? Every man's time comes! If his number is up, who are you to interfere!?<br>
+							<br>
+							
+						JERRY: Yes I'd like to speak with Dr. Siegel... it's about Roy Kordic's condition...<br>
+							<br>
+							
+						GEORGE: W-What? What?<br>
+							<br>
+							
+						JERRY: Oh, that's *fantastic*!<br>
+							<br>
+							
+						GEORGE: He didn't get better, did he?<br>
+							<br>
+							
+						JERRY: Thank you very much. O.K. Bye-bye. He's gonna be okay!<br>
+							<br>
+							
+						GEORGE: Where's the luck? There's no luck. 1,900 dollars down the drain.<br>
+							
+						&nbsp;<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						[Exterior of the Hospital then into Roy's room.&nbsp; Roy is recovering with a huge plate of&nbsp;spaghetti.&nbsp; Jerry, Elaine, Kramer and George are visiting]<br>
+							<br>
+							
+						ROY: You saved my life, George. You buying my art is what inspired me to get better. I'll never forget what'cha did for me.<br>
+							<br>
+							
+						GEORGE: Oh, well th-that's great. It's really great.&nbsp; Hm hm mm.<br>
+							<br>
+							
+						KRAMER: Y'know, art's a great investment.<br>
+							<br>
+							
+						ELAINE: And they're gonna look great in your apartment, George.<br>
+							<br>
+							
+						GEORGE: Yes I look forward to many years of... looking at the triangles. Well, I'll ah, I'll wait for you outside.<br>
+							<br>
+							
+						ROY: Hey, George...<br>
+							<br>
+							
+						GEORGE: Yeah.<br>
+							<br>
+							
+						(Roy puts his hand out -- George takes it, but Roy pulls him in and kisses him on the cheek.&nbsp; George is a bit surprised but does not let on -- he claps his other hand to Roy's)<br>
+							<br>
+							
+						KRAMER: Awe, alright<br>
+							<br>
+							
+						JERRY: That's nice.<br>
+							<br>
+							
+						GEORGE: Thanks Roy.<br>
+							<br>
+							
+						[George leaves as the Doctor enters the room]<br>
+							<br>
+							
+						ROY: Heeyy - there's the guy who saved my life. (points at the doctor.)<br>
+							<br>
+							
+						DOCTOR: Y'know... I don't want to totally discount the emotional element in your recovery but, I think there were other factors at play here.<br>
+							<br>
+							
+						JERRY: What do you mean?<br>
+							<br>
+							
+						DOCTOR: I have no medical evidence to back me up but, something happened during the operation that staved off that infection. Something beyond science. Something perhaps, from above...<br>
+							<br>
+							
+						(Kramer reaches into his shirt pocket and takes out a box of Junior mints -- he rattles it.)<br>
+							<br>
+							
+						KRAMER:&nbsp; Mint?<br>
+							<br>
+							
+						DOCTOR: Those can be very refreshing.<br>
+							<br>
+							
+						(Kramer shakes a couple of mints from the box into the doctor's hand. The doctor turns and exits.)<br>
+							
+						&nbsp;<br>
+							
+						(Roy is thinking about Elaine while continuing to eating the giant plate of spaghetti like an absolute pig.)<br>
+							<br>
+							
+						ROY: So Elaine... Where are we going for our big dinner on Friday? (takes a big mouthful of spaghetti)<br>
+							<br>
+							
+						ELAINE: Uh-m, uh I'm so sorry Roy, but actually, we are going to the, Poconos on Friday, right honey? (pointing to Jerrythe boyfriend?)<br>
+							<br>
+							
+						JERRY: I don't think so...<br>
+							<br>
+							
+						ELAINE: We are... that means that we ah, we are...<br>
+							<br>
+							
+						JERRY: I believe we're not...<br>
+							<br>
+							
+						ELAINE: (Catching another glimpse of Roy eating) Hunh, Please can we go to the Poconos?<br>
+							<br>
+							
+						JERRY: Well, I'll think about it...<br>
+							<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						[Exterior of Jerry's apartment building then inside where Jerry and the woman are talking...]<br>
+							<br>
+							
+						WOMAN: Great seats. You could see the actors spitting.<br>
+							<br>
+							
+						JERRY: Really...<br>
+							<br>
+							
+						WOMAN: Uh-huh. And afterwards we went backstage and Olympia Dukakis autographed my playbill.<br>
+							<br>
+							
+						JERRY: Oh, Wait a second, you got her autograph?<br>
+							<br>
+							
+						WOMAN: Yeah.<br>
+							<br>
+							
+						JERRY: Do you have it with you?<br>
+							<br>
+							
+						WOMAN: Yeah, it's in my purse.<br>
+							<br>
+							
+						JERRY: Ah, Le'me see.&nbsp; (hands Jerry the playbill)<br>
+							<br>
+							
+						WOMAN: Y'know I really think I'm falling for you, Jerry Seinfeld. (stands up, a quick&nbsp; kiss on the cheek and hugs him.)<br>
+							<br>
+							
+						WOMAN: Oh, well, I really think I'm falling for you... [opens the playbill and flips five pages till he finds and reads autograph] .....Joseph Puglia...<br>
+							<br>
+							
+						WOMAN: I had it autographed for my uncle.<br>
+							<br>
+							
+						JERRY: Yeah, I-I know...<br>
+							<br>
+							
+						WOMAN: (licks he lips) You don't know my name, do you?<br>
+							<br>
+							
+						JERRY: Yes I do.<br>
+							<br>
+							
+						WOMAN: What is it?<br>
+							<br>
+							
+						JERRY: It-it rhymes with a female body part.<br>
+							<br>
+							
+						WOMAN: What is it?<br>
+							<br>
+							
+						JERRY: Mulva...<br>
+							<br>
+							
+						(She turns and grabs her purse, playbill and coat and leaves the apartment. Jerry follows)<br>
+							<br>
+							
+						JERRY: Aub, ah, Gipple?<br>
+							<br>
+							
+						(He stands in the open doorway and tries again)<br>
+							<br>
+							
+						JERRY: Loleola?<br>
+							<br>
+							
+						(Nope, obviously not. He closes the door and and goes to get something out of the refrigerator, but before the fridge light can even go on, a light goes on in Jerry's head and he rushes to the window to catch the Mystery Woman before she gets out of earshot.)<br>
+							<br>
+							
+						JERRY: Oh! Oh! *Delores*!<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						[Closing monologue.]<br>
+							<br>
+							
+						JERRY: Ages zero through ten, candy is your life. There's nothing else. Family, friends, school-- they're only obstacles in the way of getting more candy. And you have your favorite candies that you love. You know the ones I love those... I hate those...''. ``I hate those... I love those...''.&nbsp; And only a seven year old kid could actually taste the difference between like a red M&amp;M and a light brown, M&amp;M. That's two totally different things when you're seven years old. &quot;Well, your red is more of a main course M&amp;M, but the brown it's more of a mellower flavor; it's an after dinner M&amp;M, really''.<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						The End<br>
+							
+						&nbsp;<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						==================================================================<br>
+							<br>
+							
+						Footnotes:&nbsp; Really short bios:<br>
+							<br>
+							
+						Clara Barton<br>
+							
+						December 25, 1821 - April 12, 1912<br>
+							<br>
+							
+						served from 1881-1904 as the first president of the American Red Cross organization (formed in 1881), she wrote theAmerican amendment to the Red Cross constitution, which provided for disaster relief during peace time as well as war.<br>
+							
+						http://www.incwell.com/Biographies/Barton.html<br>
+							
+						&nbsp;<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						Florence Nightingale<br>
+							
+						May 12, 1820 - August 13, 1910<br>
+							<br>
+							
+						Florence Nightingale is most remembered as a pioneer of nursing and a reformer of hospital sanitation methods. For most of her ninety years, Nightingale pushed for reform of the British military health-care system and with that the profession of nursing started to gain the respect it deserved.<br>
+							
+						http://education.yahoo.com/search/be?lb=t&amp;p=url%3An/nightingale__florence<br>
+							
+						http://www.agnesscott.edu/lriddle/women/nitegale.htm<br>
+							
+						&nbsp;<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						Susan B. Anthony<br>
+							
+						February 15, 1820 - March 13, 1906<br>
+							<br>
+							
+						In addition to many things, during her time she was the leading proponent for the Woman Suffrage/Woman's rights movement.<br>
+							
+						http://www.mith2.umd.edu/WomensStudies/PictureGallery/anthony.html<br>
+							
+						http://womenshistory.about.com/library/bio/blanthony.htm<br>
+							
+						&nbsp;<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						Leopold and Loeb<br>
+							<br>
+							
+						Among the criminal celebrities of Prohibition-era Chicago, not even Al Capone was more notorious than two well-educated and highly intelligent Jewish boys from wealthy South Side families. In a meticulously planned murder scheme disguised as a kidnapping, 19-year-old Nathan Leopold and 18-year-old Richard Loeb chose 14-year-old Bobby Franks at random as their victim, abandoning his crumpled body in a culvert before his parents had a chance to respond to the ransom demand.<br>
+							<br>
+							
+						Leopold and Loeb - links<br>
+							
+						http://www.leopoldandloeb.com/<br>
+							
+						http://www.law.umkc.edu/faculty/projects/ftrials/leoploeb/LEOPOLD.HTM<br>
+							
+						http://www.lawbuzz.com/famous_trials/leopold/leopold_loeb.htm<br>
+							
+						http://www.unomaha.edu/~wwwphrel/leopold.htm<br>
+							<br>
+							
+						==================================================================</td>
+						</tr>
+						<tr height="6">
+							<td class="bottom2" width="645" height="6"></td>
+						</tr>
+						<tr>
+							<td width="645">
+								<div align="center">
+									<font size="-1">Copyright 2006 seinology.com | All Rights Reserved | Designed by 13erla</font></div>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+		<p></p>
+	</body>
+
+</html>

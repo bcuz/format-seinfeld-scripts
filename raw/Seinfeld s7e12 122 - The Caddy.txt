@@ -1,0 +1,1589 @@
+<tdOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+<html>
+
+	<head>
+		<meta http-equiv="content-type" content="text/html;charset=ISO-8859-1">
+		<meta name="description" content="Top Source for Seinfeld">
+		<meta name="keywords" content="seinfeld, sienfeld, Jerry Seinfeld, Julia Louis Dreyfus, Jason Alexander, Michael Richards, Kramer, George, Costanza, Elaine Benes, morty, Larry David">
+		<title>Seinology.com :: Scripts :: 122-The Caddy</title>
+	<link rel='stylesheet' href='/stylesheet.css' type='text/css'>
+	</head>
+
+	<body>
+			<table align="center" width="787" border="0" cellspacing="0" cellpadding="0">
+				<tr>
+					<td><font size="-2" color="red">Seinology.com - </font><font size="-3" color="black">Where Seinfeld Content and Accuracy Matter Most. Seinfeld scripts in pdf form, Seinfeld episode video clips, Seinfeld episode audio clips, Jerry Seinfeld appearances, Julia Louis-Dreyfus appearances, Michael Richards appearances, Jason Alexander appearances, Seinfeld discussion Forum, Seinfeld Where are they Now? Seinlanguage Newsletter, Popular Seinfeld Lists, Seinfeld episode standup, Seinfeld episode guide, Seinfeld fan fiction. Seinfeld content all on one domain. Seinology.com enjoy your stay.</font></td>
+				</tr>
+			</table>
+		
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr height="100">
+				<td class="logo"></td>
+			</tr>
+			<tr><td class="ads" align="center" background=#8694fa>
+				<script type="text/javascript"><!--
+google_ad_client = "pub-1924026976931416";
+google_ad_width = 728;
+google_ad_height = 90;
+google_ad_format = "728x90_as";
+google_ad_type = "text";
+google_ad_channel = "";
+google_color_border = "FFFFFF";
+google_color_bg = "8694fa";
+google_color_link = "0000FF";
+google_color_text = "000000";
+google_color_url = "002E3F";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></td></tr>
+		</table>
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr>
+				<td valign="top" width="136">
+					<table width="136" border="0" cellspacing="0" cellpadding="0">
+						<tr height="24">
+							<td class="navigation">
+								<div align="center">
+									
+									<b>Navigation</b></div>
+							</td>
+						</tr>
+						<tr height="199">
+							<td class="spacer1" valign="top" width="136" height="199">
+								<div align="center">
+									<font size="-1"><a href="http://www.seinology.com">Home</a><br>
+										<a href="http://board.seinology.com">Forum</a><br>
+										<a href="http://www.seinology.com/av.shtml">Audio/Video</a><br>
+										<a href="http://www.seinology.com/scripts.shtml">Scripts</a><br>
+										<a href="http://www.seinology.com/survivor.shtml">Survivor</a><br>
+										<a href="http://www.seinology.com/fanfics.shtml">Fan Fiction</a><br>
+										<a href="http://www.seinology.com/gallery/">Gallery</a><br>
+										<a href="http://www.seinology.com/newsletter.shtml">Newsletter</a><br>
+										<a href="http://www.seinology.com/lists.shtml">Lists</a><br>
+										<a href="http://www.seinology.com/epguide.shtml">Episode Guide</a><br>
+										<a href="http://www.seinology.com/links.shtml">Links</a><br>
+										<a href="http://www.seinology.com/faqother.shtml">Faq + others</a><br>
+										<a href="http://www.seinology.com/legal.shtml">Legal</a></font></div>
+							</td>
+						</tr>
+						
+						<tr>
+							<td class="nav2" width="136">
+							<div align="center"><b>Search</b></div></td>
+						</tr>
+						<tr>
+							<td class="spacer1" width="136" valign="top"><div align="center"><form method="get" action="http://www.seinology.com/search/search.cgi">
+<p><label for="fdse_Match">Match</label><br>
+<select name="Match" id="fdse_Match" size="1">
+<option value="1">All</option>
+<option value="0">Any</option>
+<option value="2">Phrase</option>
+</select></p>
+<p><label for="fdse_Realm">Where?</label><br>
+<select name="Realm" id="fdse_Realm" size="1">
+<option selected="selected" value="All">EntireSite</option>
+<option value="Ep Guide">Ep Guide</option>
+<option value="Images">Images</option>
+<option value="Lists">Lists</option>
+<option value="Newsletters">Newsletters</option>
+<option value="Scripts">Scripts</option>
+<option value="Notes..Nothing">Notes..Nothing</option>
+</select></p>
+<p><input type="text" name="Terms" size="14" id="fdse_Terms"><br>
+<input type="submit" class="submit" name="submitButtonName" value="Search"></p>
+</div></form></td>
+						</tr>
+						<tr><td class="bottom" width="136" height="10" valign="top">
+						</td>
+						</tr>
+					</table>
+				</td>
+				<td width="4"></td>
+				<td valign="top" width="645">
+					<table width="645" border="0" cellspacing="0" cellpadding="0">
+						<tr height="18">
+							<td width="645" height="35" class="bar">
+								<div align="center">
+									<b><font size="+2" color="black">Script</font></b></div>
+							</td>
+						</tr>
+						<tr height="362">
+							<td class="spacer2" valign="top" width="645" height="362">
+
+						<p><font size="-2">Episode 122 - The Caddy<br>
+							
+						pc: 712, season 7, episode 12<br>
+							
+						Broadcast date: January 25, 1996<br>
+							<br>
+							
+						Written by Gregg Kavet &amp; Andy Robin<br>
+							
+						Directed by Andy Ackerman<br>
+							<br>
+							
+						-------------------------------------------------------------------------------<br>
+							<br>
+							
+						The Cast<br>
+							
+						Regulars:<br>
+							
+						Jerry Seinfeld ....................... Jerry Seinfeld<br>
+							
+						Jason Alexander .................. George Costanza<br>
+							
+						Julia Louis-Dreyfus ............. Elaine Benes<br>
+							
+						Michael Richards ................. Cosmo Kramer<br>
+							<br>
+							
+						Guest Stars:<br>
+							<br>
+							
+						Brenda Strong ..................... Sue Ellen Mischke<br>
+							
+						Armin Shimerman .............. Stan (The Caddy)<br>
+							
+						Arthur Rosenburg .............. Judge<br>
+							
+						Cynthia Madvig................... Woman #1<br>
+							
+						Marilyn Tokuda .................. Woman #2<br>
+							
+						rc: Jerry Stiller ...................... Frank Costanza<br>
+							
+						rc: Estelle Harris .................. Estelle Costanza<br>
+							
+						rc: Heidi Swedberg ............. Susan Biddle Ross<br>
+							
+						rc: Phil Morris ...................... Jackie Chiles<br>
+							
+						rc: Richard Herd .................. Wilhelm<br>
+							
+						rc: John O'Hurley ................ J. Peterman<br>
+							
+						rc: Larry David ..................... George Steinbrenner (uncredited)<br>
+							<br>
+							
+						==================================================================<br>
+							<br>
+							
+						[Opening monologue]<br>
+							<br>
+							
+						I don&#146;t know why people are surprised, when someone gets hit in the head, with a golf ball. Do you ever watch these tournaments on TV? You got 600 people crowding around a hole that big (hands in the shape of a golf hole) and no one can believe it when a Titleist gets bounced off of someone&#146;s coconut. You know you throw a rock into a crowd, that&#146;s considered terrorism... but if you have a nice follow through (makes a pretend golf swing) you know - that&#146;s golf (pointing finger in the air). I&#146;m always impressed actually with the golf cameraman, who&#146;s job it is, to, follow the golf ball when it&#146;s in the sky. You know what I mean, it&#146;s a little white ball, it&#146;s doing a hundred miles an hour on a white background -- I got it, I lost it, I got it, I lost it, I got it, I lost it, (spinning back and forth) -- Why bother... aim the camera at the sky, aim it at the ground, take a ball out of you pocket, throw it down -- who&#146;s gonna know where the hell it came from.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Jerry's Apartment]<br>
+							<br>
+							
+						JERRY: How did you lock your keys in the car?<br>
+							<br>
+							
+						GEORGE: How? Cause I&#146;m an Idiot.<br>
+							<br>
+							
+						JERRY:&nbsp;So why don't you get a locksmith?<br>
+							<br>
+							
+						GEORGE: I was going to, but then I found out that the auto club has this free locksmith service, so I signed up. &nbsp;Just waiting for the membership to kick in.<br>
+							<br>
+							
+						JERRY: How long has your car been sitting in the Yankee parking lot?<br>
+							<br>
+							
+						GEORGE: I don't know, about three days.<br>
+							<br>
+							
+						(Kramer enters with golf clubs)<br>
+							<br>
+							
+						KRAMER: Hello boys.<br>
+							<br>
+							
+						JERRY:&nbsp;Y- you're not playin' golf?<br>
+							<br>
+							
+						KRAMER: Yes, indeed. &nbsp;The calendar says winter, but he gods of spring are out.<br>
+							<br>
+							
+						GEORGE: Are the courses open?<br>
+							<br>
+							
+						KRAMER:&nbsp;No, no........I'm sneaking in with Stan the Caddy, we've been going through the caddies entrance.<br>
+							<br>
+							
+						GEORGE: Huh, No kidding?<br>
+							<br>
+							
+						KRAMER:&nbsp;Yeah, and I'll tell ya something else. Stan's advice has transformed my game. He's never wrong. Oh, he thinks eventually I'll have a shot at making it big on the senior tour. (sucks in air through tight lips) Oh, that's my dream, Jerry.<br>
+							<br>
+							
+						JERRY: Really, you're getting that good?<br>
+							<br>
+							
+						KRAMER: Oh, I'm the real deal.<br>
+							<br>
+							
+						(Knocking is heard from outside in the hallway)<br>
+							<br>
+							
+						KRAMER: Yeah, here, Stan, in here!<br>
+							<br>
+							
+						(Stan enters)<br>
+							<br>
+							
+						KRAMER: There he is, yeah - Jerry, George, *this* is Stan the Caddy.<br>
+							<br>
+							
+						GEORGE: How ya doin'?<br>
+							<br>
+							
+						JERRY:&nbsp;Hi.<br>
+							<br>
+							
+						STAN: Nice to meet you. &nbsp;Ready to hit the links, Kramer?<br>
+							<br>
+							
+						KRAMER:&nbsp;Oh yeah, you betcha.<br>
+							<br>
+							
+						STAN: What are those, ah, cotton pants?<br>
+							<br>
+							
+						KRAMER: Yeah, Yeah...Why, is it too cold out?<br>
+							<br>
+							
+						STAN: Here's what you do: you bring a lightweight jacket, that way the sun comes out, you play the jacket off the sweater.<br>
+							<br>
+							
+						KRAMER:&nbsp;Ah, that makes sense, that's a good call, Stan. &nbsp;Alright, we'll see you guys later, huh?<br>
+							<br>
+							
+						GEORGE: Yeah.<br>
+							<br>
+							
+						JERRY:&nbsp;Yeah, we'll see ya.<br>
+							<br>
+							
+						(Kramer and Stan leave)<br>
+							<br>
+							
+						GEORGE &amp; JERRY: (together -- with arms extended -- palms upwards) &nbsp;Stan The Caddy.<br>
+							<br>
+							<br>
+							<br>
+							
+						[On the street]<br>
+							<br>
+							
+						SUE ELLEN:&nbsp;Elaine?<br>
+							<br>
+							
+						(Elaine turns to see Sue Ellen waving her hand)<br>
+							<br>
+							
+						SUE ELLEN:&nbsp;Hi!<br>
+							<br>
+							
+						ELAINE (thinking to herself): &nbsp;Oh, great. &nbsp;It's the bra-less wonder. Who does she think she's kidding? &nbsp;Look at her, she's totally out of control.<br>
+							<br>
+							
+						SUE ELLEN: I was thinking that woman looks like Elaine Benes. &nbsp;<br>
+							<br>
+							
+						ELAINE: Yeah, ha ha ha. &nbsp;What have you been up to?<br>
+							<br>
+							
+						SUE ELLEN: I've just been hanging out.<br>
+							<br>
+							
+						ELAINE (nodding): I see.<br>
+							<br>
+							
+						SUE ELLEN: Hmm. Oh, listen! &nbsp;I'm having a birthday party tomorrow evening, I'd love it if you came by.<br>
+							<br>
+							
+						ELAINE:&nbsp;Oh Tomorrow...? &nbsp;<br>
+							<br>
+							
+						SUE ELLEN: Um-hm.<br>
+							<br>
+							
+						ELAINE:&nbsp;I don't know if I can.<br>
+							<br>
+							
+						SUE ELLEN: Nooo?<br>
+							<br>
+							
+						ELAINE: Yeah, I'm just really, really busy.<br>
+							<br>
+							
+						SUE ELLEN: Oh, that's too bad.<br>
+							<br>
+							
+						ELAINE: Yeah, yeah.<br>
+							<br>
+							
+						SUE ELLEN: Well, I hope you can get me a gift anyway.........ha ha ha.<br>
+							<br>
+							
+						ELAINE: Ah Ha ha ha ha ha ha ha ha ha.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Yankee Stadium]<br>
+							<br>
+							
+						WILHELM: George!?<br>
+							<br>
+							
+						GEORGE: (he drops a paper airplane he was holding) Mr. Wilhelm!<br>
+							<br>
+							
+						WILHELM: I'm sorry to interrupt you, but Mr. Steinbrenner and I really want you to know we appreciate all the hours you've been putting in&#133; Oh, and, ah, confidentially, Sozonkel, our Assistant to the General Manger, hasn't really been working out. And the boss thinks you're the man for the job! &nbsp;So, keep it under your hat!<br>
+							<br>
+							<br>
+							<br>
+							
+						[Exterior at dusk of&nbsp;Jerry's Apartment, then inside Jerry&#146;s apartment]<br>
+							<br>
+							
+						GEORGE: Assistant to the General Manager!! &nbsp;Do you know what means?!? &nbsp;He'd could be askin' my advice on trades! &nbsp;Trades, Jerry, I'm a heartbeat away!<br>
+							<br>
+							
+						JERRY:&nbsp;That's a hell of an organization they're running up there. &nbsp;I can't understand why they haven't won a pennant in 15 years.<br>
+							<br>
+							
+						GEORGE: And, it is all because of that car&#133;<br>
+							<br>
+							
+						(shot of Steinbrenner&#146;s car pulling into his parking space and getting out of the car, with the Costanza sign in the background )<br>
+							<br>
+							
+						GEORGE: &#133;See, Steinbrenner is like the first guy in, at the crack of dawn. &nbsp;He sees my car, he figures I'm the first guy in&#133; &nbsp;<br>
+							<br>
+							
+						(night shot of Wilhelm walking out to the parking lot, he sees George&#146;s car and nods approvingly)<br>
+							<br>
+							
+						GEORGE: &#133;Then, the last person to leave is Wilhelm. &nbsp;He sees my car, he figures I'm burning the midnight oil. &nbsp;Between the two of them, they think I'm working an 18 hour day! (he stands there with his hands on his hips, a wide grin - laughing.)<br>
+							<br>
+							
+						JERRY: Locking your keys in your car is the best career move you ever made.<br>
+							<br>
+							
+						(Elaine enters)<br>
+							<br>
+							
+						ELAINE: Hey.<br>
+							<br>
+							
+						JERRY: Hey.<br>
+							<br>
+							
+						GEORGE: Hey, how ya doing?!?<br>
+							<br>
+							
+						ELAINE: Better, now.<br>
+							<br>
+							
+						JERRY: Yeah, what happened?<br>
+							<br>
+							
+						ELAINE: You know Sue Ellen Mishke?<br>
+							<br>
+							
+						JERRY: Sue Ellen Mishke? &nbsp;<br>
+							<br>
+							
+						ELAINE: Yeah, the woman I grew up with in Maryland, she moved here last year...<br>
+							<br>
+							
+						JERRY: Sounds familiar.<br>
+							<br>
+							
+						ELAINE: The heiress to the O'Henry candy bar fortune--<br>
+							<br>
+							
+						JERRY:&nbsp;Oh, yeah, you mentioned her.<br>
+							<br>
+							
+						ELAINE: Yes. Yes &nbsp;I ran into her today. &nbsp;This woman has never, not once, ever, as long as I have known her, worn a bra.<br>
+							<br>
+							
+						GEORGE: Ah, that is disgusting--<br>
+							<br>
+							
+						JERRY: That is just shameless, I don't know, There's no--<br>
+							<br>
+							
+						GEORGE: She&#146;s a pig. The woman's a pig, what wrong with her--<br>
+							<br>
+							
+						JERRY: It's wrong, it's rude, and it's incorrect.<br>
+							<br>
+							
+						GEORGE: It's disgusting--<br>
+							<br>
+							
+						ELAINE (getting up to leave): &nbsp;Alright, there's no---<br>
+							<br>
+							
+						GEORGE: Come on! Come-on.<br>
+							<br>
+							
+						JERRY: We're only kidding!<br>
+							<br>
+							
+						ELAINE: You don't understand. &nbsp;See, she hasn't changed at all. &nbsp;She stole my boyfriend when I was in high school. (flashback sequence)&nbsp;I was at this party, and I was dating this *really* cute guy, his name was Tom Cosley, by the way, and she goes walking by, in this little floozy outfit, and he follows her, right out the door!<br>
+							<br>
+							
+						JERRY (excited): She's your Lex Luthor!<br>
+							<br>
+							
+						ELAINE: Her birthday's comin' up, see, so I decided to get her a little present.<br>
+							<br>
+							
+						JERRY: What are you going to get her?<br>
+							<br>
+							
+						ELAINE: A very traditional, a very supportive, brazier.<br>
+							<br>
+							
+						JERRY:&nbsp;There's nothing subtle about that.<br>
+							<br>
+							
+						GEORGE:&nbsp;No, no, she might just think it&#146;s a gift.<br>
+							<br>
+							
+						JERRY:&nbsp;Have I ever bought you a jock strap as a gift?<br>
+							<br>
+							<br>
+							<br>
+							
+						[Monk's]<br>
+							<br>
+							
+						GEORGE:&nbsp;Ahh, Hey-Ho. ahhhhh (exhales)<br>
+							<br>
+							
+						JERRY: What the hell are you doing here, aren't you supposed to be at work?!?<br>
+							<br>
+							
+						GEORGE: Yeah, well I'm thinking about getting out of town with Susan for a few days....Her parents rebuilt the cabin! &nbsp;<br>
+							<br>
+							
+						JERRY: So, you're just taking off from work?<br>
+							<br>
+							
+						GEORGE: Yeah well, they won't know. &nbsp;I got the car there.<br>
+							<br>
+							
+						JERRY:&nbsp;Do you think this is such a good idea, with you being on the verge of this big promotion?<br>
+							<br>
+							
+						GEORGE: My presence, in that office, can only hurt my chances.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Elaine's office at J Peterman]<br>
+							<br>
+							
+						RECEPTIONIST: (on Intercom) &nbsp;Sue Ellen Mishke to see you.<br>
+							<br>
+							
+						ELAINE: &nbsp;Sue Ellen Mishke? &nbsp;Ah, alright, send her in.<br>
+							<br>
+							
+						(Sue Ellen enters, wearing the brazier as a top, with a black blazer)<br>
+							<br>
+							
+						SUE ELLEN:&nbsp;Hi Elaine.<br>
+							<br>
+							
+						ELAINE:&nbsp;Hellllloo.<br>
+							<br>
+							
+						SUE ELLEN: I happened to be in the neighborhood, so I thought I'd stop in, and thank you for your lovely gift.<br>
+							<br>
+							
+						ELAINE:&nbsp;Ohhhhh. You're....welcome.<br>
+							<br>
+							
+						SUE ELLEN: Is anything wrong?<br>
+							<br>
+							
+						ELAINE:&nbsp;Well, Sue Ellen, it's a, it's not a top, it's a bra.<br>
+							<br>
+							
+						SUE ELLEN:&nbsp;Oh, I know. Thanks again.<br>
+							<br>
+							<br>
+							<br>
+							
+						[The Rosses cabin]<br>
+							<br>
+							
+						GEORGE: This is the life! Isn't it, huh, kid?<br>
+							<br>
+							
+						SUSAN:&nbsp;Wanna check out a swap meet?<br>
+							<br>
+							
+						GEORGE:&nbsp;Yeah, maybe. (snifs)&nbsp;Where'd you get that?<br>
+							<br>
+							
+						SUSAN: Oh, it was on the windshield of the car when we came out of that rest stop.<br>
+							<br>
+							
+						(George sits up suddenly; realizing something)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Jerry's apartment, phone ringing]<br>
+							<br>
+							
+						(Jerry hits part of the phone receiver with his right hand to make the phone receiver pop up into the air -- he grabs it in his left and answers)<br>
+							<br>
+							
+						JERRY :&nbsp;Yello.<br>
+							<br>
+							
+						GEORGE:&nbsp;(on a pay phone) Hey, hey, it's George, I need ya to do me a favor.<br>
+							<br>
+							
+						JERRY:&nbsp;What's goin' on?<br>
+							<br>
+							
+						GEORGE:&nbsp;I just remembered, th-th-there's this Chinese restaurant out near Yankee Stadium, that puts flyers on all the cars.<br>
+							<br>
+							
+						JERRY: Yeah, so?<br>
+							<br>
+							
+						GEORGE:&nbsp;Alright, this is what ya gotta do: I need ya to go out to the parking lot at Yankee Stadium, take the flyers off my car.<br>
+							<br>
+							
+						JERRY: You know last time you had me throwin' a rye bread up three floors to you, now you want me to go up to the Bronx, take flyers off your car, where does it end?!?<br>
+							<br>
+							
+						GEORGE:&nbsp;Alright, fine.&nbsp;I'll drive the 3 hours each way, 6 hours all together, and take 'em off myself!!<br>
+							<br>
+							
+						JERRY:&nbsp;Alright, alright, I'll do it!!<br>
+							<br>
+							
+						(Jerry hangs up, Kramer enters Jerry's apartment)<br>
+							<br>
+							
+						KRAMER: Oowe (Kramer noise -- he&#146;s eating something)<br>
+							<br>
+							
+						JERRY:&nbsp;Hey, what are ya up to?<br>
+							<br>
+							
+						KRAMER: Nothin'.<br>
+							<br>
+							
+						JERRY:&nbsp;You wanna go with me up to (clap) the Bronx and see if there's any flyers on George's car.<br>
+							<br>
+							
+						KRAMER (excited):&nbsp;Sure!<br>
+							<br>
+							
+						JERRY:&nbsp;I guess I coulda said just about anything there, couldn't I? (throws coat over his right shoulder)<br>
+							<br>
+							
+						KRAMER: yep.<br>
+							<br>
+							
+						(As they turn to go out the door, Kramer walks into the wall where the intercom is -- Jerry is pulling the door shut and Kramer avoids touching any part of the door, he turns quick as it shuts.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Exterior of Yankee Stadium then to the parking lot.]<br>
+							<br>
+							
+						(George's windshield is has a lot of flyers on it and the car is covered with bird droppings -- a bunch of pigeons are on the roof)<br>
+							<br>
+							
+						JERRY:&nbsp;Oh, man, look at this mess! &nbsp;You know what's gonna happen if they see this?<br>
+							<br>
+							
+						KRAMER: Wheehh<br>
+							<br>
+							
+						JERRY:&nbsp;What are we gonna do?<br>
+							<br>
+							
+						KRAMER:&nbsp;I don't know.<br>
+							<br>
+							
+						JERRY:&nbsp;Well, we gotta get it washed (pulls off a few flyers)....Ah, the keys are locked inside!<br>
+							<br>
+							
+						KRAMER: Wait a second....<br>
+							<br>
+							
+						JERRY:&nbsp;What are ya gonna do?<br>
+							<br>
+							
+						KRAMER: I'll just snag the lock with this. auhh&#133; &nbsp;Here we go...<br>
+							<br>
+							
+						JERRY:&nbsp;Yeah, this quite a life I lead here, huh?<br>
+							<br>
+							<br>
+							<br>
+							
+						[Leaving the Gentle Touch Car Wash: Jerry and Kramer driving George's car. Kramer is behind the wheel.]<br>
+							<br>
+							
+						KRAMER: Well, George has gotta be happy about this.<br>
+							<br>
+							
+						JERRY (indifferent): Yeah, yeah, yeah...<br>
+							<br>
+							
+						JERRY:&nbsp;Oh my God, Kramer, is that woman just wearing a bra?<br>
+							<br>
+							
+						(Sue Ellen is seen walking down the street)<br>
+							<br>
+							
+						KRAMER: &nbsp;Oh, mama.<br>
+							<br>
+							
+						JERRY:&nbsp;Kramer!!! (Jerry points to the lamp post they are about to crash into)<br>
+							<br>
+							
+						(Car crash sound)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Jerry's Apartment]<br>
+							<br>
+							
+						ELAINE:&nbsp;My God, are you okay?<br>
+							<br>
+							
+						KRAMER:&nbsp;Well I got a cut on my head and I banged my shoulder. (He has a large Band-aid on his forehead)<br>
+							<br>
+							
+						JERRY: I guess I have to bring his car back up to the stadium, if it can make it.<br>
+							<br>
+							
+						ELAINE:&nbsp;So how did this happen?<br>
+							<br>
+							
+						JERRY: He was starin' at some woman!<br>
+							<br>
+							
+						KRAMER: Well I couldn't help it, you saw what she was wearing.<br>
+							<br>
+							
+						ELAINE: What woman?<br>
+							<br>
+							
+						JERRY:&nbsp;There was this beautiful woman walking down the street wearing *just* a bra. &nbsp;I can't get that image out of my mind.<br>
+							<br>
+							
+						ELAINE: &nbsp;Oh...my God.<br>
+							<br>
+							
+						JERRY:&nbsp;What?<br>
+							<br>
+							
+						ELAINE:&nbsp;Was it a tall woman, in a black blazer?<br>
+							<br>
+							
+						JERRY:&nbsp;Yeah!<br>
+							<br>
+							
+						ELAINE:&nbsp;Ohhh! &nbsp;That's Sue Ellen Mishke! &nbsp;<br>
+							<br>
+							
+						JERRY:&nbsp;Sue Ellen Mishke?<br>
+							<br>
+							
+						ELAINE:&nbsp;That's the bra I gave here, she's wearing it as a top! &nbsp;The woman is walking around in broad daylight with nothing but a bra on, she's a menace to society.<br>
+							<br>
+							
+						KRAMER: Hey you know, my arm really hurts. &nbsp;I wonder if its gonna affect my golf swing. &nbsp;<br>
+							<br>
+							
+						(Kramer makes a horrible golf swing motion and collapses in pain over the back of the couch.)<br>
+							<br>
+							
+						KRAMER: Oohh.<br>
+							<br>
+							
+						(Stan the caddy enters)<br>
+							<br>
+							
+						STAN (out of breath):&nbsp;I got your message, how's the shoulder?<br>
+							<br>
+							
+						KRAMER:&nbsp;Yeah, it's my left arm, I can't swing it!<br>
+							<br>
+							
+						STAN: Oh, no.&nbsp;Not the left arm!<br>
+							<br>
+							
+						KRAMER:&nbsp;Well what happens if I can't play like I was? What about the tour, and all my dreams?<br>
+							<br>
+							
+						ELAINE:&nbsp;Oh! I got it! Let's sue her!<br>
+							<br>
+							
+						KRAMER:&nbsp;Sue her?<br>
+							<br>
+							
+						ELAINE:&nbsp;Yeah, she's loaded. &nbsp;She's the heiress to the O'Henry candy bar fortune.<br>
+							<br>
+							
+						KRAMER:&nbsp;Ah, No, no, no, I can't. I learned my lesson from that coffee company.<br>
+							<br>
+							
+						ELAINE:&nbsp;Kramer, listen to me. Listen! This is a once in a lifetime opportunity. &nbsp;Your dreams have been shattered, somebody's got to be held accountable. Come on, we'll take for every penny she's got!<br>
+							<br>
+							
+						KRAMER:&nbsp;What do you think, Stan?<br>
+							<br>
+							
+						STAN: Let's go for the green! You know a good lawyer?<br>
+							<br>
+							
+						(Kramer smiles)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Jackie Chiles' office]<br>
+							<br>
+							
+						JACKIE:&nbsp;So you're driving in the car, you're with your friend, minding your own business?<br>
+							<br>
+							
+						KRAMER:&nbsp;Yeah.<br>
+							<br>
+							
+						JACKIE:&nbsp;Then what happened?<br>
+							<br>
+							
+						KRAMER:&nbsp;Well then we saw this woman, and she was wearing a bra with no top.<br>
+							<br>
+							
+						JACKIE:&nbsp;No top? &nbsp;She didn't have a top on? &nbsp;<br>
+							<br>
+							
+						KRAMER: Yeah.&nbsp;So I got distracted and I crashed the car.<br>
+							<br>
+							
+						JACKIE:&nbsp;Well how would you describe this woman? &nbsp;Would you say she was an attractive woman?<br>
+							<br>
+							
+						KRAMER:&nbsp;Oh, yeah.<br>
+							<br>
+							
+						JACKIE:&nbsp;So we got an attractive woman, wearing a bra, no top, walkin' around in broad daylight. &nbsp;She's flouting society's conventions! &nbsp;<br>
+							<br>
+							
+						KRAMER:&nbsp;She was flouting.<br>
+							<br>
+							
+						JACKIE:&nbsp;That's totally inappropriate. It's lewd, lascivious, salacious, outrageous!<br>
+							<br>
+							
+						KRAMER:&nbsp;It was outrageous. And she's the heir to the O'Henry candy bar fortune.<br>
+							<br>
+							
+						JACKIE:&nbsp;Could you repeat that?<br>
+							<br>
+							
+						KRAMER:&nbsp;I said she's the heir to the O'Henry candy bar fortune.<br>
+							<br>
+							
+						JACKIE:&nbsp;O'Henry? &nbsp;That's one of our top-selling candy bars. &nbsp;It's got chocolate, peanuts, nougat, it's delicious, scrumptious, outstanding! &nbsp;Have you been to a doctor?<br>
+							<br>
+							
+						KRAMER:&nbsp;No.<br>
+							<br>
+							
+						JACKIE (speaking to the intercom): Susie, call Dr. Bison, set up an appointment for Mr. Kramer, tell him it's for me.<br>
+							<br>
+							
+						KRAMER:&nbsp;So whadda ya think, Jackie? I mean we got a case?<br>
+							<br>
+							
+						JACKIE:&nbsp;Like taking candy from a baby.<br>
+							<br>
+							
+						(Kramer mouths &#147;Oh Yea&#148; then motions his hand in a circle and clicks)<br>
+							<br>
+							<br>
+							<br>
+							
+						[The cabin]<br>
+							<br>
+							
+						GEORGE:&nbsp;I think I got it. &nbsp;How 'bout this? How 'bout this? We trade Jim Leyritz and Bernie Williams, for Barry Bonds, huh? &nbsp;Whadda ya think? That way I have Griffey and Bonds, in the same outfield! Now you got a team! Ha ha ha.<br>
+							<br>
+							
+						SUSAN:&nbsp;I don't know, George. I'm still worried about this car thing.<br>
+							<br>
+							
+						GEORGE:&nbsp;Oh, would ya stop worrying? &nbsp;<br>
+							<br>
+							
+						SUSAN:&nbsp;Well, what about the flyers?<br>
+							<br>
+							
+						GEORGE:&nbsp;Jerry took the flyers off the car, I got the whole thing covered.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Yankee Stadium parking lot]<br>
+							<br>
+							
+						(Jerry having difficulty parking the car. Lots of smoke is coming from the vehicle. After getting the car in the space and hitting the Costanza parking sign, Jerry leans against the door, trying to close it. &nbsp;Finally he gives up and leaves, kicking a piece of the car under it as he goes)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Yankee Stadium, Steinbrenner's office, someone is knocking]<br>
+							<br>
+							
+						STEINBRENNER:&nbsp;Come in!<br>
+							<br>
+							
+						(Wilhelm enters)<br>
+							<br>
+							
+						STEINBRENNER:&nbsp;Ah, Wilhelm.<br>
+							<br>
+							
+						WILHELM:&nbsp;Mr. Steinbrenner, I am very concerned about George Costanza.<br>
+							<br>
+							
+						STEINBRENNER:&nbsp;How 'bout a 'good morning'?<br>
+							<br>
+							
+						WILHELM:&nbsp;Oh yes sir, good morning, good morning, sir.<br>
+							<br>
+							
+						STEINBRENNER:&nbsp;Good morning to you, Wilhelm.<br>
+							<br>
+							
+						WILHELM:&nbsp;Uh-a Anyway, his car's in the parking lot, the front end is bashed in, and there's blood in the car, and we can't find him anywhere. Obviously he was in some sort of a terrible car accident, and trooper that he is, he tried to make it into work, sir.<br>
+							<br>
+							
+						STEINBRENNER:&nbsp;Alright, Wilhelm, listen to me. I want the stadium scoured. He could be bleeding to death in the bullpen.<br>
+							<br>
+							
+						WILHELM:&nbsp;Yes sir. (he starts backing up to the door.)<br>
+							<br>
+							
+						STEINBRENNER:&nbsp;Put everyone on alert, check all the area hospitals, clinics, shelters, we've gotta find that kid. &nbsp;<br>
+							<br>
+							
+						WILHELM:&nbsp;Yes sir, yes sir. (Opening the door)<br>
+							<br>
+							
+						STEINBRENNER:&nbsp;We must find George.<br>
+							<br>
+							
+						WILHELM:&nbsp;Yes sir.<br>
+							<br>
+							
+						STEINBRENNER: Find him, Wilhelm!<br>
+							<br>
+							
+						(Wilhelm closes the door)<br>
+							<br>
+							
+						WILHELM:&nbsp;(from behind the closed door in the hallway)Yes sir.<br>
+							<br>
+							<br>
+							<br>
+							
+						[The hallway in Jerry's building]<br>
+							<br>
+							
+						(As Jerry walks down the hall to his apartment, he finds Sue Ellen knocks 14 times on Kramer's door)<br>
+							<br>
+							
+						SUE ELLEN:&nbsp;Excuse me, do you happen to know the gentleman across the hall?<br>
+							<br>
+							
+						JERRY (mesmerized): Yes, yes, I do.<br>
+							<br>
+							
+						SUE ELLEN: Do you happen to know if he'll be back anytime soon?<br>
+							<br>
+							
+						JERRY:&nbsp;No, I don't.<br>
+							<br>
+							
+						SUE ELLEN:&nbsp;Oh...<br>
+							<br>
+							
+						JERRY:&nbsp;Is there, something I can help you with?<br>
+							<br>
+							
+						SUE ELLEN:&nbsp;No, I really just needed to speak with him. (exhales)<br>
+							<br>
+							
+						JERRY:&nbsp;Well, you can wait for him in here if you like.<br>
+							<br>
+							
+						SUE ELLEN:&nbsp;Oh, well maybe I will.<br>
+							<br>
+							
+						(Jerry quickly unlocks his door, before she can change her mind)<br>
+							<br>
+							
+						SUE ELLEN:&nbsp;If you don't mind.<br>
+							<br>
+							
+						JERRY:&nbsp;No, no, not at all.<br>
+							<br>
+							
+						SUE ELLEN: Thanks.<br>
+							<br>
+							
+						JERRY:&nbsp;I'm Jerry Seinfeld.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Yankee Stadium, Steinbrenner's office, someone is knocking]<br>
+							<br>
+							
+						STEINBRENNER:&nbsp;What is with these people, all day long. Come in, come in.<br>
+							<br>
+							
+						WILHELM:&nbsp;Ah, Mr. Steinbrenner, you know, w-we've searched everywhere, th-there's no sign of him. n-n-Not even anyone who remotely fits his description, sir.<br>
+							<br>
+							
+						STEINBRENNER:&nbsp;Oh my God. Do you know what this means, Wilhelm? &nbsp;<br>
+							<br>
+							
+						WILHELM:&nbsp;What, sir?<br>
+							<br>
+							
+						STEINBRENNER:&nbsp;He's dead! ca-Costanza's dead!<br>
+							<br>
+							
+						WILHELM:&nbsp;No no no sir. Well, you see, I don't think--<br>
+							<br>
+							
+						STEINBRENNER:&nbsp;Oh, as quickly as he came here, he's gone. The poor little guy! Easy. &nbsp;Easy, big Stein, get it together. &nbsp;Ok, Wilhelm.<br>
+							<br>
+							
+						WILHELM:&nbsp;Yessir?<br>
+							<br>
+							
+						STEINBRENNER:&nbsp;Find out where his parents live.<br>
+							<br>
+							
+						WILHELM:&nbsp;Parents.<br>
+							<br>
+							
+						STEINBRENNER:&nbsp;I'm gonna personally notify them. ...and, ah, line up some candidates to fill that assistant to the General Manager position&#133;<br>
+							<br>
+							
+						WILHELM:&nbsp;Yessir. (he starts backing up to the door.)<br>
+							<br>
+							
+						STEINBRENNER:&nbsp;we can't grieve forever! &nbsp;<br>
+							<br>
+							
+						WILHELM: Right. Yessir.<br>
+							<br>
+							
+						STEINBRENNER:&nbsp;We gotta get back to business! &nbsp;<br>
+							<br>
+							
+						WILHELM: Yes Sir! (closes the door)<br>
+							<br>
+							
+						STEINBRENNER:&nbsp;Back to Business Wilhelm!<br>
+							<br>
+							
+						WILHELM: (from behind the closed door in the hallway) Yes Sir!<br>
+							<br>
+							<br>
+							<br>
+							
+						[Jerry's Apartment]<br>
+							<br>
+							
+						(Kramer enters, he still has the Band-aid on his forehead)<br>
+							<br>
+							
+						KRAMER:&nbsp;Well, buddy, (claps) he's taking the case! &nbsp;Jackie Chiles is right on it! &nbsp;Right on it, he's all over it!<br>
+							<br>
+							
+						JERRY (not happy):&nbsp;Oh, really?<br>
+							<br>
+							
+						KRAMER:&nbsp;Why, wh-wh-what's wrong, come on?<br>
+							<br>
+							
+						JERRY:&nbsp;I don't know&#133;<br>
+							<br>
+							
+						KRAMER:&nbsp;uuh-<br>
+							<br>
+							
+						JERRY:&nbsp;&#133;so the woman was walking around in a bra&#133;<br>
+							<br>
+							
+						KRAMER:&nbsp;Yeah-<br>
+							<br>
+							
+						JERRY:&nbsp;&#133; I mean it's no big deal. You're still drivin'. You should have been watching the road. &nbsp;<br>
+							<br>
+							
+						KRAMER:&nbsp;Well, your attitude has certainly changed.<br>
+							<br>
+							
+						JERRY:&nbsp;I don't think my attitude has changed.<br>
+							<br>
+							
+						KRAMER:&nbsp;Now listen, Jerry, I'm gonna need you to testify.<br>
+							<br>
+							
+						JERRY:&nbsp;(quietly, yet in a high and whiney tone) Well, I don't know if I....<br>
+							<br>
+							
+						KRAMER:&nbsp;Jerry, Jerry, you gotta testify!<br>
+							<br>
+							
+						JERRY:&nbsp;Kramer I don't think I can--<br>
+							<br>
+							
+						KRAMER:&nbsp;Listen, this is a million dollars we're talkin' about, Jerry, now this is the big league, the big time, now I need you on my team, Jerry!<br>
+							<br>
+							
+						JERRY:&nbsp;Well, I'm just not sure how I feel about it, Kramer.<br>
+							<br>
+							
+						KRAMER:&nbsp;Alright what's gotten into you, what's happened?!?<br>
+							<br>
+							
+						JERRY:&nbsp;Nothing's happened.<br>
+							<br>
+							
+						KRAMER (in disgust): Goohhhhck.<br>
+							<br>
+							
+						(As Kramer begins to leave, he notices an O'Henry wrapper in the garbage can)<br>
+							<br>
+							
+						KRAMER (picking up the wrapper):&nbsp;Ohhhh, what's this?<br>
+							<br>
+							
+						JERRY:&nbsp;Oh, no, no, no, wait a second, wait a second&#133; th-th-that--<br>
+							<br>
+							
+						KRAMER: Oh I see....Yessss. Little Miss Candy Bar paid a visit, didn't she?<br>
+							<br>
+							
+						JERRY:&nbsp;Kramer, it is not what you think.<br>
+							<br>
+							
+						KRAMER:&nbsp;Ah, Ah, Ahhhhh! &nbsp;I know what I think. &nbsp;I think you're gaga over this dame. She's twisted you around her little finger, and now, you're willing to sell me, and Elaine, and whoever else you have to, right down the river.<br>
+							<br>
+							
+						JERRY:&nbsp;And what about yooou?!? &nbsp;Tryin' to bilk an innocent bystander out of a family fortune, built on sweat and toil, manufacturing quality O'Henry candy bars, for honest, hard-working Americans!<br>
+							<br>
+							
+						KRAMER: You're just out for sex!!<br>
+							<br>
+							
+						JERRY:&nbsp;You're just out for money!!<br>
+							<br>
+							
+						KRAMER and JERRY (together):&nbsp;Ah, Ah, Ahhhhh!!!!!!<br>
+							<br>
+							<br>
+							<br>
+							
+						[The Costanza house, Queens]<br>
+							<br>
+							
+						(Steinbrenner is knocking, Estelle opens the door)<br>
+							<br>
+							
+						STEINBRENNER:&nbsp;Mrs. Costanza?<br>
+							<br>
+							
+						ESTELLE (smiling): Yesss?<br>
+							<br>
+							
+						STEINBRENNER: My name is George Steinbrenner, I'm afraid I have some very sad new about your son.<br>
+							<br>
+							
+						ESTELLE: (gasps)<br>
+							<br>
+							
+						(Costanza living room)<br>
+							<br>
+							
+						ESTELLE (crying):&nbsp;I can't believe it, he was so young. &nbsp;How could this have happened?<br>
+							<br>
+							
+						STEINBRENNER: Well, he'd been logging some pretty heavy hours, first one in in the morning, last one to leave at night. &nbsp;That kid was a human dynamo.<br>
+							<br>
+							
+						ESTELLE:&nbsp;Are you sure you're talking about George?<br>
+							<br>
+							
+						STEINBRENNER:&nbsp;You are Mr. and Mrs. Costanza?<br>
+							<br>
+							
+						FRANK (yelling): What the hell did you trade Jay Buener for?!? &nbsp;He had 30 home runs, and over 100 RBIs last year. He's got a rocket for an arm - - you don't know what the hell you're doin'!!<br>
+							<br>
+							
+						STEINBRENNER:&nbsp;Well, Buhner was a good prospect, no question about it. But my baseball people love Ken Phelps' bat. &nbsp;They kept saying 'Ken Phelps, Ken Phelps'.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Jerry entering his apartment, as Frank is leaving a message on his answering machine]<br>
+							<br>
+							
+						JERRY&#146;S OUTGOING MESSAGE: &#147;I&#146;m not here, leave a message.&#148;<br>
+							<br>
+							
+						FRANK (from the answering machine): Jerry, it's Frank Costanza, Mr. Steinbrenner&#146;s here, George is dead, call me back!<br>
+							<br>
+							
+						(The phone rings again, Jerry takes off his coat and throws his keys on the table.)<br>
+							<br>
+							
+						JERRY (answering phone): Hello?<br>
+							<br>
+							
+						GEORGE (on a pay phone): Hey, it's George. &nbsp;<br>
+							<br>
+							
+						JERRY: Where have you been?!?<br>
+							<br>
+							
+						GEORGE:&nbsp;What?<br>
+							<br>
+							
+						JERRY:&nbsp;I just got the most bizarre message from you father, Steinbrenner is at you house, they think you're dead!<br>
+							<br>
+							
+						GEORGE: Dead? &nbsp;<br>
+							<br>
+							
+						JERRY: Yeah, and we had an accident with your car, it's a, it&#146;s a little crumpled.<br>
+							<br>
+							
+						GEORGE: My car&#146;s a little crumpled?!?<br>
+							<br>
+							
+						JERRY: Yeah, yeah, I didn't know what to do so I put it back at the stadium. &nbsp;Oh, wait a second, wait a second, they saw the car, they saw the blood, they couldn't find ya, that's why Steinbrenner thinks you're dead!<br>
+							<br>
+							
+						GEORGE: Allright, I gotta head back right away, I'll-I&#146;ll -- I gotta figure something out here.<br>
+							<br>
+							
+						JERRY: Well you gotta call your parents.<br>
+							<br>
+							
+						GEORGE: I can't, Steinbrenner might still be there!<br>
+							<br>
+							
+						JERRY: Aren't you gonna tell your parents you're still alive?<br>
+							<br>
+							
+						GEORGE:&nbsp;OOuuoo! &nbsp;They could use the break!<br>
+							<br>
+							
+						(George hangs up the phone. Jerry holds the cordless phone way and makes a facial expression like &#147;well that&#146;s true.&#148;)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Elaine's office at J Peterman. She is at her desk, Peterman enters]<br>
+							<br>
+							
+						PETERMAN (holding up a bra): Elaine, do you see this? &nbsp;Do you see what I'm holding in my hands?<br>
+							<br>
+							
+						ELAINE: Yeah, it's a bra.<br>
+							<br>
+							
+						PETERMAN: I saw a woman in our hallway wearing one of these as a top. (sits on the corner of the desk)&nbsp;What exquisite beauty, I ran down the hallway to talk to her, but the elevator door closed. It was not to be.&nbsp;Perhaps our paths will cross again some day.<br>
+							<br>
+							
+						ELAINE: w-What is this all about?<br>
+							<br>
+							
+						PETERMAN: I wanna market this item as a new direction in women's fashion. &nbsp;<br>
+							<br>
+							
+						ELAINE: Oh-oh, but-<br>
+							<br>
+							
+						PETERMAN: We're gonna sell this as a top. Here's the angle: Zelda Fitzgerald, aaaand, somebody in the 20s, wearing this at wild parties, driving all the men crazy (tosses the bra on Elaine&#146;s desk)&#133; Have it on my desk by the end of the week.<br>
+							<br>
+							
+						(Peterman leaves as Elaine looks up in disbelief.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Yankee Stadium, Steinbrenner's office, someone is knocking]<br>
+							<br>
+							
+						STEINBRENNER: Come in, come in.<br>
+							<br>
+							
+						(George enters, with a bandage on his head, walking with crutches)<br>
+							<br>
+							
+						GEORGE:&nbsp;Mr. Steinbrenner--<br>
+							<br>
+							
+						STEINBRENNER (shocked):&nbsp;Ahhh, Ahhh! &nbsp;Ah, ah ah! &nbsp;Is it you? &nbsp;<br>
+							<br>
+							
+						GEORGE: Yeah, it's me sir. &nbsp;It's been a harrowing few days. uuh,&nbsp;After the car accident, I-I crawled into a ditch, and managed to survive on, grubs and puddle water, until a kindly old gentleman picked me up.<br>
+							<br>
+							
+						STEINBRENNER:&nbsp;Grubs, huh? Gotta admit, I never tasted one of those. &nbsp;<br>
+							<br>
+							
+						GEORGE:&nbsp;Anyway, as I was lying in the puddle, I-I think I may have found a way for us to get Bonds and Griffey, and we wouldn't have to give up that much.<br>
+							<br>
+							
+						STEINBRENNER:&nbsp;Well, don't tell it to me George, tell it to the new Assistant to the General Manager.<br>
+							<br>
+							
+						GEORGE: I didn't get the job?<br>
+							<br>
+							
+						STEINBRENNER: Well, once you were dead, we couldn't just sit on our hands. &nbsp;We had to make a move...<br>
+							<br>
+							
+						(Dejected, George turns to leave, no longer walking with he crutches, and takes the bandage off his head)<br>
+							<br>
+							
+						STEINBRENNER:&nbsp;But, you still have your old job. &nbsp;Of course, we'll have to dock you for the time you missed. &nbsp;We're running a ball club here. &nbsp;If I give special treatment to you, everyone will want it. Next thing you know its chaos! &nbsp;And I can tell you this, (George closes the door) chaos does not work for the New York Yankees! &nbsp;Not as long as I'm running the show!<br>
+							<br>
+							<br>
+							<br>
+							
+						[Courtroom]<br>
+							<br>
+							
+						JACKIE: So it was the meeting on the street that prompted you to buy the bra for Miss Mishke, would you say that was correct?<br>
+							<br>
+							
+						ELAINE (on the witness stand): Yes...ummm, (leans into the microphone, pulling it closer it squeaks) yes, that's correct.<br>
+							<br>
+							
+						(Sue Ellen leans back and smiles at Jerry, Kramer wearing his arm in a sling notices and seems worried)<br>
+							<br>
+							
+						JACKIE: And you have also brought with you, another bra, (goes over to the table and pulls a bra out of a bag) exactly like, the one that she so flagrantly exhibited herself in!<br>
+							<br>
+							
+						ELAINE: Yes, that's correct.<br>
+							<br>
+							
+						(Kramer is now on the witness stand)<br>
+							<br>
+							
+						JACKIE: Uh, what was you golf score, the last round you played&#133; uh, before you shoulder was injured?<br>
+							<br>
+							
+						KRAMER: Three under par.<br>
+							<br>
+							
+						(Stan nods proudly)<br>
+							<br>
+							
+						JACKIE (impressed): Oooohhhh, three under par, Hmm&#133;That's what the professionals shoot, isn't it?<br>
+							<br>
+							
+						KRAMER:&nbsp;Well if they're lucky.<br>
+							<br>
+							
+						(Stan laughs, Elaine and Jerry are also amused. Kramer smiles and nods.)<br>
+							<br>
+							
+						(Jerry is now on the witness stand)<br>
+							<br>
+							
+						JACKIE: Well would you tell this jury exactly what you saw at the corner of 83rd Street and Columbus?<br>
+							<br>
+							
+						JERRY (hesitant): I...don't remember.<br>
+							<br>
+							
+						JACKIE: Well, did you, or did you not, see the defendant, wearing the bra?<br>
+							<br>
+							
+						JERRY: I don't know. &nbsp;Maybe.<br>
+							<br>
+							
+						JACKIE: Mr. Seinfeld, I might remind you that you are under oath. &nbsp;Now I ask you again, did you or did you not, see this woman wearing a bra?!?<br>
+							<br>
+							
+						(shots of Sue Ellen, Kramer, Elaine and Stan waiting for Jerry&#146;s response.)<br>
+							<br>
+							
+						JERRY: ....Alright, alright, I saw her!&#133;<br>
+							<br>
+							
+						(Sue Ellen rolls her head around in disbelief)<br>
+							<br>
+							
+						JERRY: And she was beautiful in that bra! &nbsp;I'm crazy about her! &nbsp;I love her whole free swinging, free wheeling attitude!<br>
+							<br>
+							
+						JUDGE (banging his gavel): This court will come to order!<br>
+							<br>
+							
+						JACKIE: No further questions, your honor.<br>
+							<br>
+							
+						JUDGE: You may step down.<br>
+							<br>
+							
+						JACKIE: Well Kramer, I think we got this wrapped up.<br>
+							<br>
+							
+						KRAMER: Yeah, yeah...What's your read, Stan?<br>
+							<br>
+							
+						STAN: You're close, you're on the green. You just have to go for the cup.<br>
+							<br>
+							
+						KRAMER:&nbsp;What do you mean?<br>
+							<br>
+							
+						STAN: Have her try on the bra, see if it fits.<br>
+							<br>
+							
+						JACKIE: No, no, no, no! &nbsp;<br>
+							<br>
+							
+						KRAMER: Do it, Jackie. Stan's the man.<br>
+							<br>
+							
+						JACKIE: Stan? Who the hell is Stan? &nbsp;<br>
+							<br>
+							
+						KRAMER:&nbsp;He's my caddy.<br>
+							<br>
+							
+						JACKIE: You're caddy?!? &nbsp;This is a big mistake! &nbsp;<br>
+							<br>
+							
+						KRAMER: Gu-gu- cada-<br>
+							<br>
+							
+						JACKIE: Your honor, we request at this time, that Miss Mishke...try on the bra.<br>
+							<br>
+							
+						JUDGE: (bangs the gavel twice)&nbsp;This court will come to order! &nbsp;Go ahead Miss Mishke, try it on.<br>
+							<br>
+							
+						(Sue Ellen proceeds to try on the bra, over her top, but it seems too small. She cannot get the clasps to meet in the front.)<br>
+							<br>
+							
+						SUE ELLEN: Uhhh-Ah, it doesn't fit...I, I-I can't put it on.<br>
+							<br>
+							
+						JACKIE (to Kramer and Stan): &nbsp;Damn fools! &nbsp;Look at that! &nbsp;We got nothin' now, nothin'! I've been practicing law for 25 years, you're listenin' to a caddy! &nbsp;<br>
+							<br>
+							
+						KRAMER: OK, OK-<br>
+							<br>
+							
+						JACKIE : This is a public humiliation! &nbsp;You can't let the defendant, have control of the key piece of evidence. Plus, she's trying it on over a leotard, of course a bra's not gonna fit on over a leotard. &nbsp;A bra&#146;s gotta fit right up against a person's skin, like a glove!<br>
+							<br>
+							
+						(Jackie raises his hand up -- the back of his hand to Kramer)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Elaine's office]<br>
+							<br>
+							
+						(Two women enter wearing bras as tops)<br>
+							<br>
+							
+						WOMAN #1: Oh, hey, Elaine, how 'bout some lunch?<br>
+							<br>
+							
+						ELAINE: Oh, no, I-I don't think so.<br>
+							<br>
+							
+						WOMAN #2: Great job on the Gatzby Swing Top. &nbsp;It's a winner.<br>
+							<br>
+							
+						ELAINE: Yeah, yeah, thanks.<br>
+							<br>
+							
+						WOMAN #1: Are you sure you don't wanna go? &nbsp;We have reservations. &nbsp;<br>
+							<br>
+							
+						ELAINE: Oh, I don't think you'll have any trouble gettin' a table.<br>
+							<br>
+							
+						WOMAN #1: Ciao.<br>
+							<br>
+							
+						WOMAN #2:&nbsp;Ba-bye.<br>
+							<br>
+							
+						(Elaine makes a gun with her fingers and points it to her head)<br>
+							<br>
+							
+						The End<br>
+							<br>
+							<br>
+							<br>
+							
+						============================================================<br>
+							
+						Information on the Jay Buhner for Ken Phelps trade:<br>
+							<br>
+							
+						http://espn.go.com/page2/s/list/readers/deadlineMLB.html<br>
+							<br>
+							
+						Readers: Worst deadline trades<br>
+							<br>
+							
+						8. Yankees send Jay Buhner to Mariners for Ken Phelps (14 letters)<br>
+							
+						Frank Costanza: &quot;How could you have traded Buhner for Ken Phelps?&quot;<br>
+							<br>
+							
+						I have asked myself the same question for years, and as much as I liked Jay Buhner as a player, I was happy to see him retire after being a Yankee killer for over a decade. I have been a Yankee fan from age eight, after their debacle in the 1981 World Series against the Dodgers. I was razzed growing up in New Jersey through the 1980s, a 10-year period when the Mets were good, and the Yankees were horrible! And the reason they were so bad? Because they made horrible trades for overrated, overpriced players like Ken Phelps and Danny Tartabull.<br>
+							<br>
+							
+						(The one player they could have traded -- Kevin Maas -- fizzled after they didn't trade him) And that brings me back to Jay Buhner. I still have images of that shaved head, pulling off acrobatic catches in right field of Yankee Stadium, only he was wearing a Mariners uniform. I recall him crushing home runs over the short porch at Yankee Stadium, again wearing an M's uni.<br>
+							<br>
+							
+						One can only imagine how many homers he would have had if he played his career as a Yankee (but sadly, like Mattingly, he may have never known a World Series because of the stupid trades of the 1980s). Ugh, one of the worst trades ever.<br>
+							<br>
+							
+						Marcus<br>
+							
+						Albany, N.Y.<br>
+							<br>
+							
+						============================================================<br>
+							<br>
+							
+						http://www.pubdim.net/baseballlibrary/ballplayers/P/Phelps_Ken.stm<br>
+							<br>
+							
+						Phelps' power was well-suited to the hitter-happy Kingdome, but when he ironically began to receive publicity about being underpublicized, the Mariners shipped him to the power-hungry New York Yankees for Jay Buhner in July 1988, a deal the Bombers would come to regret. Used as a part-time designated hitter and pinch-hitting power threat with the Yanks, Phelps initially contributed to the run effort, finishing up 1988 as the leader in the AL for home run percentage, going yard once every 12.38 at-bats.<br>
+							<br>
+							
+						============================================================<br>
+							<br>
+							
+						http://www.baseballsavvy.com/archive/art_ken_phelps.html<br>
+							<br>
+							
+						THE BOSS<br>
+							<br>
+							
+						&quot;Ken Phelps, Ken Phelps, Ken Phelps&quot;<br>
+							<br>
+							
+						It's a kid's game. Right, and Seinfeld was a show about nothing.<br>
+							<br>
+							
+						And maybe in Jersey, Bruce Springsteen is still the boss, but make no mistake, in The Big Apple, George Steinbrenner is The Boss. The Big Boss. Queso Grande. The Master of his Domain.<br>
+							<br>
+							
+						Let's update the numbers. OK, so the Yanks lost that last game in 2001, but George has brought his precious Yankees back to prominence, hasn't he? Five pennants and four World Championships in six years. Four in six, mind you. Probably get another one next year. He deserves his props, and if there's any talk about the Hall of Fame going on in those clubby, smoke-filled New York rooms, it isn't all that ridiculous. Not completely.<br>
+							<br>
+							
+						But let's not forget who this guy George Steinbrenner is, shall we. Just for a second. Because Seinfeld didn't base a character on him for nothing.<br>
+							<br>
+							
+						This is the guy who was banned from baseball twice, once for giving money to Richard Nixon. Richard Nixon! Nixon was a good baseball man, but please.<br>
+							<br>
+							
+						This is the guy who feuded with Yogi Berra, content to hold Oldtimers' Games without him.<br>
+							<br>
+							
+						This is the guy who ran his team into the ground for the better part of two decades, bumbling and stumbling with the Oscar Gambles of the world, before finally lucking out with Joe Torre (now there's a Hall of Famer).<br>
+							<br>
+							
+						This is the guy who wasted Don Mattingly's entire career.<br>
+							<br>
+							
+						This is the guy who couldn't make a one way elevator trip during the 1981 World Series without someone landing a punch.<br>
+							<br>
+							
+						This is the guy who inspired &quot;101 Reasons to Hate George Steinbrenner.&quot; And that was a conservative estimate.<br>
+							<br>
+							
+						This is the guy who fired Billy Martin, what, twenty times?<br>
+							<br>
+							
+						This is the guy who to this day still threatens to leave the Bronx.<br>
+							<br>
+							
+						This is the guy who, according to George Costanza, &quot;ruined the Yankees!!&quot; Just about.<br>
+							<br>
+							
+						This is the guy who traded Jay Buhner for Ken Phelps. Jay Buhner for Ken Phelps. With his son missing and presumed dead, Frank Costanza wanted answers about the important things: &quot;How could you trade Jay Buhner?!&quot; &quot;My people said we had to have this guy Ken Phelps. Ken Phelps, they said. Ken Phelps, Ken Phelps, Ken Phelps!&quot;<br>
+							<br>
+							
+						So what is the point of all this? That George Steinbrenner is a flawed man? A winner, a loser, the object of our love, hate, scorn and ridicule? A man thoroughly worthy of his characterization on Seinfeld?<br>
+							<br>
+							
+						I don't know. It's an article about nothing.<br>
+							<br>
+							
+						Howard Cole</td>
+						</tr>
+						<tr height="6">
+							<td class="bottom2" width="645" height="6"></td>
+						</tr>
+						<tr>
+							<td width="645">
+								<div align="center">
+									<font size="-1">Copyright 2006 seinology.com | All Rights Reserved | Designed by 13erla</font></div>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+		<p></p>
+	</body>
+
+</html>

@@ -1,0 +1,1042 @@
+<tdOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+<html>
+
+	<head>
+		<meta http-equiv="content-type" content="text/html;charset=ISO-8859-1">
+		<meta name="description" content="Top Source for Seinfeld">
+		<meta name="keywords" content="seinfeld, sienfeld, Jerry Seinfeld, Julia Louis Dreyfus, Jason Alexander, Michael Richards, Kramer, George, Costanza, Elaine Benes, morty, Larry David">
+		<title>Seinology.com :: Scripts :: 167-The Dealership</title>
+	<link rel='stylesheet' href='/stylesheet.css' type='text/css'>
+	</head>
+
+	<body>
+			<table align="center" width="787" border="0" cellspacing="0" cellpadding="0">
+				<tr>
+					<td><font size="-2" color="red">Seinology.com - </font><font size="-3" color="black">Where Seinfeld Content and Accuracy Matter Most. Seinfeld scripts in pdf form, Seinfeld episode video clips, Seinfeld episode audio clips, Jerry Seinfeld appearances, Julia Louis-Dreyfus appearances, Michael Richards appearances, Jason Alexander appearances, Seinfeld discussion Forum, Seinfeld Where are they Now? Seinlanguage Newsletter, Popular Seinfeld Lists, Seinfeld episode standup, Seinfeld episode guide, Seinfeld fan fiction. Seinfeld content all on one domain. Seinology.com enjoy your stay.</font></td>
+				</tr>
+			</table>
+		
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr height="100">
+				<td class="logo"></td>
+			</tr>
+			<tr><td class="ads" align="center" background=#8694fa>
+				<script type="text/javascript"><!--
+google_ad_client = "pub-1924026976931416";
+google_ad_width = 728;
+google_ad_height = 90;
+google_ad_format = "728x90_as";
+google_ad_type = "text";
+google_ad_channel = "";
+google_color_border = "FFFFFF";
+google_color_bg = "8694fa";
+google_color_link = "0000FF";
+google_color_text = "000000";
+google_color_url = "002E3F";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></td></tr>
+		</table>
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr>
+				<td valign="top" width="136">
+					<table width="136" border="0" cellspacing="0" cellpadding="0">
+						<tr height="24">
+							<td class="navigation">
+								<div align="center">
+									
+									<b>Navigation</b></div>
+							</td>
+						</tr>
+						<tr height="199">
+							<td class="spacer1" valign="top" width="136" height="199">
+								<div align="center">
+									<font size="-1"><a href="http://www.seinology.com">Home</a><br>
+										<a href="http://board.seinology.com">Forum</a><br>
+										<a href="http://www.seinology.com/av.shtml">Audio/Video</a><br>
+										<a href="http://www.seinology.com/scripts.shtml">Scripts</a><br>
+										<a href="http://www.seinology.com/survivor.shtml">Survivor</a><br>
+										<a href="http://www.seinology.com/fanfics.shtml">Fan Fiction</a><br>
+										<a href="http://www.seinology.com/gallery/">Gallery</a><br>
+										<a href="http://www.seinology.com/newsletter.shtml">Newsletter</a><br>
+										<a href="http://www.seinology.com/lists.shtml">Lists</a><br>
+										<a href="http://www.seinology.com/epguide.shtml">Episode Guide</a><br>
+										<a href="http://www.seinology.com/links.shtml">Links</a><br>
+										<a href="http://www.seinology.com/faqother.shtml">Faq + others</a><br>
+										<a href="http://www.seinology.com/legal.shtml">Legal</a></font></div>
+							</td>
+						</tr>
+						
+						<tr>
+							<td class="nav2" width="136">
+							<div align="center"><b>Search</b></div></td>
+						</tr>
+						<tr>
+							<td class="spacer1" width="136" valign="top"><div align="center"><form method="get" action="http://www.seinology.com/search/search.cgi">
+<p><label for="fdse_Match">Match</label><br>
+<select name="Match" id="fdse_Match" size="1">
+<option value="1">All</option>
+<option value="0">Any</option>
+<option value="2">Phrase</option>
+</select></p>
+<p><label for="fdse_Realm">Where?</label><br>
+<select name="Realm" id="fdse_Realm" size="1">
+<option selected="selected" value="All">EntireSite</option>
+<option value="Ep Guide">Ep Guide</option>
+<option value="Images">Images</option>
+<option value="Lists">Lists</option>
+<option value="Newsletters">Newsletters</option>
+<option value="Scripts">Scripts</option>
+<option value="Notes..Nothing">Notes..Nothing</option>
+</select></p>
+<p><input type="text" name="Terms" size="14" id="fdse_Terms"><br>
+<input type="submit" class="submit" name="submitButtonName" value="Search"></p>
+</div></form></td>
+						</tr>
+						<tr><td class="bottom" width="136" height="10" valign="top">
+						</td>
+						</tr>
+					</table>
+				</td>
+				<td width="4"></td>
+				<td valign="top" width="645">
+					<table width="645" border="0" cellspacing="0" cellpadding="0">
+						<tr height="18">
+							<td width="645" height="35" class="bar">
+								<div align="center">
+									<b><font size="+2" color="black">Script</font></b></div>
+							</td>
+						</tr>
+						<tr height="362">
+							<td class="spacer2" valign="top" width="645" height="362">
+
+						<p><font size="-2">Episode 167 - The Dealership<br>
+							pc: 911 season 9, episode 11<br>
+							Broadcast date: January 8, 1998<br>
+							<br>
+							Written by Steve Koren<br>
+							Directed by Andy Ackerman<br>
+							<br>
+							-------------------------------------------------------------------------------<br>
+							<br>
+							The Cast<br>
+							Regulars:<br>
+							Jerry Seinfeld ......................&nbsp; Jerry Seinfeld<br>
+							Jason Alexander .................. George Costanza<br>
+							Julia Louis-Dreyfus .............. Elaine Benes<br>
+							Michael Richards .................. Cosmo Kramer<br>
+							<br>
+							Guest Stars:<br>
+							<br>
+							Daniel Hagen ........................ Rick<br>
+							Joel McCrary ......................... Don<br>
+							Michael Kagan ...................... Willie<br>
+							Dee Freeman ........................ Service Assistant<br>
+							Rif Hutton ............................. Salesman<br>
+							Howard Mann ...................... Willie Sr.<br>
+							Steve Susskind ...................... Customer #1<br>
+							Loretta Fox ........................... Customer #2<br>
+							Catherine Schreiber ............... Saleswoman<br>
+							Unknown .............................. Cab Driver (uncredited)<br>
+							rc:&nbsp; Patrick Warburton .......... David Puddy<br>
+							<br>
+							==================================================================<br>
+							<br>
+							[Setting: A car dealership] <br>
+							<br>
+							(Jerry and George are looking over some cars) <br>
+							<br>
+							GEORGE: When are they gonna have the flying cars, already? <br>
+							<br>
+							JERRY: Yeah, they have been promising that for a while.. <br>
+							<br>
+							GEORGE: Years. When we were kids, they made it seem like it was right around the corner. <br>
+							<br>
+							JERRY: I think Ed Begley Jr. has one. <br>
+							<br>
+							GEORGE: No. That's just electric. <br>
+							<br>
+							JERRY: What about Harrison Ford? He had one in, uh, Blade Runner. That was a cool one. <br>
+							<br>
+							GEORGE: (Sarcastically) What's the competition, Chitty Chitty Bang Bang? <br>
+							<br>
+							JERRY: Well, what do you think the big holdup is? <br>
+							<br>
+							GEORGE: The government is very touchy about us being in the air. Let us run around on the ground as much as we want. Anything in the air is a big production. <br>
+							<br>
+							JERRY: Yeah, right. And what about the floating cities? <br>
+							<br>
+							GEORGE: And the underwater bubble cities? <br>
+							<br>
+							JERRY: It's like we're living in the '50s here. <br>
+							<br>
+							(Kramer is bouncing up and down on the rear bumper of one of the cars for sale) <br>
+							<br>
+							KRAMER: It's good suspension! <br>
+							<br>
+							JERRY: (To Kramer) Would you stop it? You'll have plenty of time to destroy it after I get it. Hey, George, I'm buyin' this car. (Gestures to a black Saab) <br>
+							<br>
+							GEORGE: Shhh&#133; What is wrong with you? You never tell 'em you like the car. (Advising) You're not sure what you want. You don't even know why you're here. <br>
+							<br>
+							JERRY: (Gestures to his forehead) You&#146;re getting that vein again. <br>
+							<br>
+							GEORGE: I'm starving. We should have had lunch first.. <br>
+							<br>
+							JERRY: (Trying to quiet George down) It'll be twenty minutes. I told ya, Puddy's getting me an insider deal. <br>
+							<br>
+							GEORGE: Since when is Elaine's boyfriend selling cars? I thought he was a mechanic. <br>
+							<br>
+							JERRY: I guess he graduated. <br>
+							<br>
+							GEORGE: There's an easy move: go from screwin' you behind your back to screwin' you right to your face. <br>
+							<br>
+							(Kramer, in one of the cars, honks the horn) <br>
+							<br>
+							JERRY: (To Kramer) Thank you. <br>
+							<br>
+							GEORGE: Puddy&#146;s just gonna give you the car, huh? (Skeptically) You&#146;ll see. First they stick you with the undercoating, rust-proofing, dealer prep. Suddenly, you&#146;re on your back like a turtle. <br>
+							<br>
+							JERRY: All right. Calm down. <br>
+							<br>
+							GEORGE: My father had a car salesman buddy. He was gonna fix him up real nice. Next thing I know, I&#146;m gettin&#146; dropped of in a Le Car with a fabric sunroof. All the kids are shoutin&#146; at me, &quot;Hey, Le George! Bonjour, Le George! Let&#146;s stuff Le George in Le Locker!&quot; <br>
+							<br>
+							(Kramer is now on his back, under a car) <br>
+							<br>
+							KRAMER: Jerry, I don&#146;t think this thing is hooked up right. <br>
+							<br>
+							(Jerry and George go to enter the office buildings) <br>
+							<br>
+							JERRY: (To Kramer) All right, we&#146;re goin&#146; in. <br>
+							<br>
+							(A salesman walks up to Kramer. He&#146;s still under the car) <br>
+							<br>
+							SALESMAN: You&#146;ve got a good eye, there. I see you&#146;ve noticed the uni-body construction. I&#146;m Rick. Are you looking to buy or to lease? <br>
+							<br>
+							(Kramer emerges from under the car) <br>
+							<br>
+							KRAMER: Uh, borrow. It&#146;s for my friend. Yeah, he&#146;ll be buying.. <br>
+							<br>
+							RICK: Maybe I should talk to him. <br>
+							<br>
+							KRAMER: Oh, I don&#146;t think so. No, he&#146;s an entertainer. You know, all over the place. That&#146;s where I come in. <br>
+							<br>
+							RICK: I see. So, you&#146;re his manag- <br>
+							<br>
+							(Kramer hops into the car) <br>
+							<br>
+							KRAMER: Yeah, neighbor. That&#146;s right. Yeah, why don&#146;t we take this boiler out for a shakedown huh? <br>
+							<br>
+							<br>
+							<br>
+							[Scene cuts to the insides of the dealership building. Jerry and George are waiting for a salesman to assist them]<br>
+							<br>
+							GEORGE: Look at these salesmen. The only thing these guys fear is the walk-out. No matter what they say, you say, &quot;I&#146;ll walk out of here right now!&quot; <br>
+							<br>
+							(A salesman approaches) <br>
+							<br>
+							SALESMAN: Can I help you with something? <br>
+							<br>
+							GEORGE: (Threatening) Hold it! One more step and we&#146;re walkin&#146;! <br>
+							<br>
+							JERRY: (Scolding) George. (To salesman) Sorry, we&#146;re just waiting for David Puddy. <br>
+							<br>
+							GEORGE: (Still with a tone) He is. You don&#146;t know what I&#146;m doin&#146; here. <br>
+							<br>
+							(Elaine walks into the showroom with David Puddy) <br>
+							<br>
+							ELAINE: Hey. <br>
+							<br>
+							JERRY: Hey. <br>
+							<br>
+							PUDDY: Sorry I&#146;m late. <br>
+							<br>
+							ELAINE: (Full of pride) My new salesman boyfriend took me out to celebrate his promotion. <br>
+							<br>
+							JERRY: Ah. Where&#146;d you go? <br>
+							<br>
+							ELAINE: (Obviously embarrassed) Uh, to a restaurant. <br>
+							<br>
+							PUDDY: Arby&#146;s. <br>
+							<br>
+							ELAINE: I had the roast beef&#133;<br>
+							<br>
+							JERRY: So, Puddy, I decided I&#146;m gonna go with another 900 convertible. <br>
+							<br>
+							PUDDY: All right. Classic. (Holds his hand up) High-five. <br>
+							<br>
+							ELAINE: (Interrupting) David, can you tell me where the Xerox machine is? <br>
+							<br>
+							PUDDY: Oh, sure, babe. Salesman-only copy room (Points) right there. <br>
+							<br>
+							ELAINE: Oh. (Leaves for the room) <br>
+							<br>
+							PUDDY: (To Jerry and George) Hey, come on, guys. I&#146;ll show you the 900. <br>
+							<br>
+							GEORGE: (Mocking, skeptic) Yeah, you show us the 900. <br>
+							<br>
+							<br>
+							<br>
+							[Scene cuts to Kramer. He&#146;s in the car with the salesman, Rick, and they&#146;re driving an unknown street]<br>
+							<br>
+							RICK: &#133; And look at these features, Mr. Kramer: Anti-lock brakes, automatic climate control. Uh, (Points out the windshield) make a right at this corner, please. (Goes back to the features) An adjustable steering wheel, and&#133; Oh, Mr. Kramer, you missed the turn.. <br>
+							<br>
+							KRAMER: No, no, no, I didn&#146;t. <br>
+							<br>
+							RICK: Well, that&#146;s okay. (Pointing) We&#146;ll make this next right, and swing around to get back to the dealership. <br>
+							<br>
+							KRAMER: (Up to something) Well, it&#146;s a test drive, right? I never drive around here. If I&#146;m gonna recommend this car, I need to see that it&#146;ll handle my daily routine. <br>
+							<br>
+							RICK: Well where are we going? <br>
+							<br>
+							KRAMER: Just a little place I like to call, &quot;You&#146;ll see&quot;. <br>
+							<br>
+							<br>
+							<br>
+							[Setting: Puddy&#146;s office] <br>
+							<br>
+							(George and Jerry are in conference with Puddy) <br>
+							<br>
+							GEORGE: I&#146;m starving. You got any of those free donuts you use to soften people up? <br>
+							<br>
+							PUDDY: (Pointing out his office door) By the service department. <br>
+							<br>
+							GEORGE: (Getting up, he addresses Jerry) All right, remember: no rust-proofing. Commit to nothing. If you have to speak - mumble. <br>
+							<br>
+							JERRY: (As George is leaving for the donuts) Au revoir, Le George. <br>
+							<br>
+							GEORGE: Don&#146;t think it can&#146;t happen! (Leaves) <br>
+							<br>
+							JERRY: So, Puddy, this is a pretty good move for you, huh? No more &quot;grease monkey&quot;. <br>
+							<br>
+							PUDDY: I don&#146;t care for that term. <br>
+							<br>
+							JERRY: Oh. Sorry, I didn&#146;t know.. <br>
+							<br>
+							PUDDY: No, I don&#146;t know too many monkeys who could take apart a fuel injector. <br>
+							<br>
+							JERRY: I saw one once that could do sign language. <br>
+							<br>
+							PUDDY: Yeah, I saw that one. Uh.. Koko. <br>
+							<br>
+							JERRY: Yeah, Koko. <br>
+							<br>
+							PUDDY: Right, Koko. That chimp&#146;s all right. (Holds up his hand) High-five. <br>
+							<br>
+							(Returning, George sees Jerry reluctantly slap hands with Puddy) <br>
+							<br>
+							GEORGE: Hey, hey, hey! What&#146;s goin&#146; on here? (To Jerry) You didn&#146;t agree to anything, did ya? <br>
+							<br>
+							JERRY: No. We both just saw the same monkey. <br>
+							<br>
+							GEORGE: (Aggravated) Well, I got screwed on the donuts. There were none left. Heh! <br>
+							<br>
+							PUDDY: (Standing up) Well, there&#146;s a vending machine. I could show you where it is. (Leaves, showing George the way) <br>
+							<br>
+							GEORGE: (To Jerry) Hey, gimme a dollar. <br>
+							<br>
+							JERRY: (Getting a dollar out) Where&#146;s your money? <br>
+							<br>
+							GEORGE: (Talking it) I&#146;m here helpin&#146; you. <br>
+							<br>
+							(Elaine enters) <br>
+							<br>
+							ELAINE: Hey. Where&#146;s Puddy? The copy machine is broken. <br>
+							<br>
+							GEORGE: (On his way out) Heh, heh, heh. That&#146;s what they want you to think. <br>
+							<br>
+							JERRY: Hey, Elaine, have you noticed your boyfriend has developed an annoying little habit? <br>
+							<br>
+							ELAINE: (Squints, imitating Puddy) The squinting? <br>
+							<br>
+							JERRY: No. <br>
+							<br>
+							ELAINE: (Stares ahead, again, imitating Puddy) The staring? <br>
+							<br>
+							JERRY: No. He keeps asking me to give him a high-five. <br>
+							<br>
+							ELAINE: (Shrugging) I thought all guys do that. <br>
+							<br>
+							JERRY: Slapping hands is the lowest form of male primate ritual. In fact, even some of them have moved on - they&#146;re doing sign language now. <br>
+							<br>
+							ELAINE: It&#146;s that bad? <br>
+							<br>
+							JERRY: What do you think the Nazis were doin&#146;? (Imitates the Nazi&#146;s salute) That was the heil-five. <br>
+							<br>
+							ELAINE: (Pointing out) Isn&#146;t that from your act, like, ten years ago? <br>
+							<br>
+							JERRY: (Slightly embarrassed) It was a good bit in the &#145;80&#146;s, and it&#146;s still relatable today. <br>
+							<br>
+							(Puddy approaches them) <br>
+							<br>
+							PUDDY: Good news. We got a 900 in black. That&#146;s the hot color. (Holds up his hand) High-five. <br>
+							<br>
+							(Elaine and Jerry exchange looks) <br>
+							<br>
+							ELAINE: Um, David, you know what? Can you come help me fix the copy machine? Come.<br>
+							<br>
+							(Elaine takes Puddy&#146;s arm, leading him to the room) <br>
+							<br>
+							PUDDY: (Pointing at Jerry) You owe me five. <br>
+							<br>
+							<br>
+							<br>
+							[Setting: Dealership back room] <br>
+							<br>
+							(George is eyeing a Twix candy bar through the vending machine glass) <br>
+							<br>
+							GEORGE: Twix.. (Makes various noises) B-5. <br>
+							<br>
+							(George put in his dollar, but the machine rejects it. He tries to jam it in, same result. He tries one more time - unsuccessful) <br>
+							<br>
+							GEORGE: Ah, come on! <br>
+							<br>
+							(A heavy-set mechanic approaches and stands in line behind George to use the vending machine. George steps back to let him use it. The machine readily accepts the mechanic&#146;s dollar) <br>
+							<br>
+							GEORGE: Ah, excuse me. Do you have, uh, change of a dollar? <br>
+							<br>
+							MECHANIC: (While retrieving his candy) No. <br>
+							<br>
+							GEORGE: Could I, uh, could I trade you for another dollar? <br>
+							<br>
+							MECHANIC: (While walking away) Don&#146;t have one. <br>
+							<br>
+							GEORGE: (Stopping him) Ah, excuse me. When your, uh, when your wallet was open, I - I glanced inside, and I couldn&#146;t help but notice that you have several crisp dollar bills. <br>
+							<br>
+							MECHANIC: (Calm) You&#146;re incorrect. <br>
+							<br>
+							GEORGE: (Persistent) Perhaps you could look again, please? I&#146;m very hungry. <br>
+							<br>
+							MECHANIC: (While taking his exit) We had donuts earlier. <br>
+							<br>
+							GEORGE: (Losing it) I guess everyone here enjoys giving the old screwgie, huh?! You&#146;re all doin&#146; a hell of a job! (Looks longingly at the Twix in the machine) Ho, ho. What I would do with you.. <br>
+							<br>
+							<br>
+							<br>
+							[Setting: Dealership car] <br>
+							<br>
+							(Rick and Kramer are still on the test-drive. The back seat is filled with various items - those including a giant, stuffed Tweety bird) <br>
+							<br>
+							RICK: Uh, Mr. Kramer, we&#146;re really not allowed to use the cars to run errands. <br>
+							<br>
+							KRAMER: Now look, Rick. I&#146;m very close to giving this car, that my celebrity friend is considering, my full endorsement. (Looks out the window) Oooh, Let&#146;s see if I can get a smile from these femininas.. (Yells out to them) Hey, Ladies! (Points to the car) It&#146;s the Saab 900! What do you think? Can I interest you in a little supplemental restraint?! (They obviously do something to offend him. Kramer reacts with a face) Geez&#133; <br>
+							<br>
+							<br>
+							<br>
+							[Setting: Dealership back room] <br>
+							<br>
+							(Jerry walks up to the vending machine. George is on his stomach, reaching under the vending machine for change) <br>
+							<br>
+							JERRY: (Tapping the door you lift to retrieve your candy on the machine) I think the candy comes out over there. <br>
+							<br>
+							GEORGE: People can drop change down here, Jerry. And they&#146;re too lazy to pick it up. <br>
+							<br>
+							JERRY: Either that, or they&#146;ve got a weird little hang-up about lying face-down in filth. Why don&#146;t you just go to the cashier? <br>
+							<br>
+							(George gets up) <br>
+							<br>
+							GEORGE: The cashier is at lunch - which is where I&#146;d like to be. <br>
+							<br>
+							JERRY: How much was under there? <br>
+							<br>
+							GEORGE: (Looking at his finger) I think somethin&#146; bit me. I just need another nickel. <br>
+							<br>
+							JERRY: (While fishing through his pocket for change) Hey, Puddy thinks I should go for the CD player. What do you think? (Hands him a nickel) <br>
+							<br>
+							GEORGE: Ho, ho, ho! He&#146;s got a live one. He&#146;s just reeling his big fish in! <br>
+							<br>
+							JERRY: Hey, can I have my dollar back? <br>
+							<br>
+							GEORGE: (Stingy) It&#146;s wrinkled. It&#146;s worthless. <br>
+							<br>
+							(Jerry gives George a look, then leaves. George hurriedly puts the money into the machine) <br>
+							<br>
+							GEORGE: (As the Twix starts to move) Ha, ha, ha, ha! (The Twix gets stuck in the spindle right before falling. George begins to pound the machine) Come on! Jump! <br>
+							<br>
+							(A man holding a donut walks past George) <br>
+							<br>
+							MAN: They just put out some more donuts. <br>
+							<br>
+							GEORGE: They did? <br>
+							<br>
+							MAN: (Holding his up) Last one. <br>
+							<br>
+							<br>
+							<br>
+							[Setting: Dealership car] <br>
+							<br>
+							(Kramer&#146;s still on the road with Rick) <br>
+							<br>
+							KRAMER: Well, just one more errand and we can head back. <br>
+							<br>
+							RICK: Actually, it looks like we&#146;re gonna need some gas. <br>
+							<br>
+							KRAMER: Oh? Well, how much gas do you think is in there right now? <br>
+							<br>
+							RICK: (Looking) Well, it&#146;s on &quot;E&quot;. <br>
+							<br>
+							KRAMER: You know, Rick, oftentimes, Jerry - he lends me his car and I find myself in a situation where the car is almost out of gas. But, for a variety of reasons, I don&#146;t want to be the one responsible for purchasing costly gasoline. <br>
+							<br>
+							RICK: (Pointing out) So, you want to know how far you can drive your friend&#146;s car for free. <br>
+							<br>
+							KRAMER: (In the spotlight, his voice goes high) Well, I make it up to him in other ways. <br>
+							<br>
+							<br>
+							<br>
+							[Setting: Dealership back room] <br>
+							<br>
+							(George enters with a salesman, regarding the machine) <br>
+							<br>
+							GEORGE: As you will see, the candy bar is paid for, and yet, remains dangling in the machine. (Notices that the Twix slot is completely empty) Hey, it&#146;s gone. Where is my Twix? (Quickly looks around. His sights fall on the window of a door labeled &quot;Employees Only&quot;. The same mechanic from before is eating a candy bar) What?! That guy&#146;s eatin&#146; it! <br>
+							<br>
+							SALESMAN: Well, how do you know that one&#146;s yours? <br>
+							<br>
+							GEORGE: Uh, it was dangling! There were only two left in the machine! He must&#146;ve bought one, and gotten both. <br>
+							<br>
+							SALESMAN: Sir, are you gonna buy a car? <br>
+							<br>
+							GEORGE: No! (The salesman walks away. He addresses the mechanic through the door&#146;s window) Hey! Hey! I see you! That is my Twix! (The mechanic eats the last of the Twix, obviously to make George even more angered. It works) Oh, ha, ha! Ho, ho! <br>
+							<br>
+							<br>
+							<br>
+							[Scene cuts to Puddy in the copy room with Elaine. He&#146;s trying to fix the Xerox machine]<br>
+							<br>
+							PUDDY: Paper jam.. Got it! <br>
+							<br>
+							ELAINE: Yay!<br>
+							<br>
+							PUDDY: (Holds his hand up) High-five. (Elaine reluctantly slaps it. He turns around, and puts his hand out behind his back) On the flip side. <br>
+							<br>
+							ELAINE: David, um, I.. <br>
+							<br>
+							PUDDY: (Still holding out his hand) Don&#146;t leave me hangin&#146;. <br>
+							<br>
+							ELAINE: You&#146;re a salesman now - and the high-five is&#133; it&#146;s very &#147;grease monkey.&#148; <br>
+							<br>
+							PUDDY: What did I tell you about that? <br>
+							<br>
+							ELAINE: Ah, I, I&#146;m sorry, but the high-five is just so stupid. <br>
+							<br>
+							PUDDY: (Somewhat hurt) Oh yeah? I&#146;ll tell you what&#146;s stupid. You. Stupid. <br>
+							<br>
+							ELAINE: (Sarcastically) Oh, that is really mature. <br>
+							<br>
+							PUDDY: Yeah? So are you. You&#146;re the grease monkey. <br>
+							<br>
+							ELAINE: (Confused at David&#146;s attempts at a comeback) Uh&#133; that doesn&#146;t make any sense. I am leaving. <br>
+							<br>
+							PUDDY: Yeah, if you leave, we&#146;re through. <br>
+							<br>
+							ELAINE: Fine! We&#146;re through! <br>
+							<br>
+							PUDDY: Oh, so you&#146;re leaving? <br>
+							<br>
+							ELAINE: (While leaving) That&#146;s right. (Mocking Puddy, she puts her hand up) High-five! (Turns around, putting her hand behind her back like he had done) On the flip side! (As Elaine is leaving, she mutters to herself) Takin&#146; me to Arby&#146;s&#133; <br>
+							<br>
+							JERRY: (Sees Elaine leaving) Hey! Wh-where are you&#133;? <br>
+							<br>
+							(She exits. Puddy sits down at his desk - disturbed) <br>
+							<br>
+							PUDDY: Let&#146;s finish this up. <br>
+							<br>
+							JERRY: Did you two break up? <br>
+							<br>
+							PUDDY: (While punching up numbers on a calculator) That chick&#146;s whacked. We&#146;re history. (Back to the transaction) I just left out a couple of things: uh, rust-proofing&#133; <br>
+							<br>
+							JERRY: &quot;Rust-proofing&quot;? <br>
+							<br>
+							PUDDY: (Reading off what he&#146;s adding up on the calculator) Transport charge, storage surcharge, additional overcharge, finder&#146;s fee&#133; <br>
+							<br>
+							JERRY: &quot;Finder&#146;s fee&quot;? It was on the lot! <br>
+							<br>
+							PUDDY: Yeah, that&#146;s right. (Continues reading off) Uh, floor mats, keys&#133; <br>
+							<br>
+							JERRY: &#147;Keys&#148;?! <br>
+							<br>
+							PUDDY: How ya gonna start it? <br>
+							<br>
+							<br>
+							<br>
+							[Setting: Dealership&#146;s shop] <br>
+							<br>
+							(George catches up with the portly mechanic) <br>
+							<br>
+							GEORGE: Excuse me. I believe you just ate my Twix bar. It was dangling. And when you purchased your Twix bar, you got a little freebie, and you never bothered to ask why, or seek out its rightful owner. <br>
+							<br>
+							MECHANIC: First of all, it wasn&#146;t a Twix. It was a 5th Avenue bar. <br>
+							<br>
+							GEORGE: Huh. You must think I&#146;m pretty stupid. (The mechanic shoots him a look as if he cleary does think he&#146;s stupid) That was no 5th Avenue bar. I can see the crumb right there in the corner of your lip! Now, that-that-that is a cookie - and we all know that Twix is the only candy bar with the cookie crunch. <br>
+							<br>
+							MECHANIC: It&#146;s uh, it&#146;s just a little nougat. <br>
+							<br>
+							GEORGE: Nougat? Please. I think I&#146;ve reached the point in my life where I can tell the difference between nougat and cookie. So let&#146;s not just say things that we both know are obvious fabrications. <br>
+							<br>
+							MECHANIC: (Pointing to George&#146;s forehead) You know, you&#146;re gettin&#146; a little vein there.. <br>
+							<br>
+							GEORGE: (Watching the mechanic leave) I know about the vein! I can&#146;t believe this guy.. <br>
+							<br>
+							(Jerry rushes in with a box of candy) <br>
+							<br>
+							JERRY: Hey, George! <br>
+							<br>
+							GEORGE: Hey, starving! (Grabs the box from Jerry) <br>
+							<br>
+							JERRY: No, last one. Listen, you gotta help me out. Elaine and Puddy just broke up, he&#146;s treatin&#146; me just like a regular customer, now! <br>
+							<br>
+							GEORGE: I tried to tell you, but you wouldn&#146;t listen. No, ho, ho! You were gonna get a deal, huh? There&#146;s no laws in this place. Anything goes! It&#146;s Thunderdome! <br>
+							<br>
+							(A saleswoman approaches them) <br>
+							<br>
+							SALESWOMAN: Is someone helping you? <br>
+							<br>
+							GEORGE: Stay back! (Runs out of the room, pushing Jerry out ahead of him)<br>
+							<br>
+							<br>
+							<br>
+							[Setting: Dealership car] <br>
+							<br>
+							RICK: (Trying to look at the gas gauge) Where is it now? <br>
+							<br>
+							KRAMER: There&#146;s still some overlap between the needle and the slash below the &quot;E&quot;. <br>
+							<br>
+							RICK: How low are you gonna go? <br>
+							<br>
+							KRAMER: Oh, I&#146;ve been in the slash many times. This is nothing. You&#146;ll get used to it. Just, (Makes a popping sound) put it out of your mind. <br>
+							<br>
+							RICK: Have you ever been completely below the slash? <br>
+							<br>
+							KRAMER: Well, I almost did once, and I blacked out. When I came to, the car was in a ditch, and the tank was full. I don&#146;t know who did it, and I never got to thank them.. <br>
+							<br>
+							RICK: (As the car slowly drifts off the road) Mr. Kramer, the road! <br>
+							<br>
+							(Kramer swerves around, trying to get back in place) <br>
+							<br>
+							KRAMER: Whoop! Whoop! <br>
+							<br>
+							<br>
+							<br>
+							[Setting: Puddy&#146;s office] <br>
+							<br>
+							(Jerry and George are in conference) <br>
+							<br>
+							JERRY: (Threatening tone) So, listen, Puddy. When we first started this deal, I thought things were gonna be different. Now, if you want to play hard ball, I got my friend, George, here, and he can play pretty hard&#133; ball. (Leaving the negotiation to George) George, vein it up. <br>
+							<br>
+							GEORGE: All right, Puddy, listen, and listen good: I need to know the name of that mechanic that walks around here. Big guy, a liar. Short name. Sam? Moe? Sol?! <br>
+							<br>
+							JERRY: George! Can we focus on the car, here? <br>
+							<br>
+							GEORGE: I&#146;m starving! I can feel my stomach sucking up against my spine. <br>
+							<br>
+							PUDDY: (Handing a sheet of paper to Jerry) Jerry, I just need your signature here, and we&#146;ll get you that yellow car ready to go. <br>
+							<br>
+							JERRY: Yellow? I wanted black. <br>
+							<br>
+							PUDDY: I can&#146;t give you black at that price. <br>
+							<br>
+							JERRY: (Pleading) George, would you help me, please? <br>
+							<br>
+							GEORGE: (Standing up) Yes. This is wrong! <br>
+							<br>
+							JERRY: Sing it, sister! <br>
+							<br>
+							GEORGE: Just because a candy bar fails to fall from its perch&#133;<br>
+							<br>
+							JERRY: (Exasperated) Oh, God&#133; <br>
+							<br>
+							GEORGE: (Losing it) &#133;does not imply transfer of ownership. Moe, Sol, or&#133; Lem is not gonna get away with this! <br>
+							<br>
+							(Jerry follows George out the office) <br>
+							<br>
+							JERRY: (To Puddy) I&#146;ll be right back. <br>
+							<br>
+							PUDDY: Okay. <br>
+							<br>
+							(Jerry catches up with George) <br>
+							<br>
+							JERRY: Hey, George! <br>
+							<br>
+							<br>
+							<br>
+							[Setting: Dealership car] <br>
+							<br>
+							(The needle is now below &quot;E&quot;. Rick is looking at it) <br>
+							<br>
+							RICK: Is it just the angle I&#146;m looking from? <br>
+							<br>
+							KRAMER: No, Sir. We are down there. <br>
+							<br>
+							RICK: Oh, this is amazing! Oh, I&#146;ve never felt so alive! <br>
+							<br>
+							KRAMER: All right, I&#146;m satisfied. We better get some gas. <br>
+							<br>
+							RICK: What? Well, we can&#146;t stop now. <br>
+							<br>
+							KRAMER: What do you mean? <br>
+							<br>
+							RICK: We have to keep going - all the way back to the dealership. That was the plan. <br>
+							<br>
+							KRAMER: There was no plan. <br>
+							<br>
+							RICK: Well, let&#146;s make it the plan! Let&#146;s just&#133; go for it! Like Thelma and Louise. <br>
+							<br>
+							KRAMER: What, they drove to a dealership? <br>
+							<br>
+							RICK: No, they drove off a cliff. <br>
+							<br>
+							(Kramer eyes Rick, frightened) <br>
+							<br>
+							KRAMER: You are one sick mama&#133; I like it. <br>
+							<br>
+							RICK: Mr. Kramer, the road! <br>
+							<br>
+							(Kramer swerves around again) <br>
+							<br>
+							KRAMER: Yup! Yup! <br>
+							<br>
+							<br>
+							<br>
+							[Setting: Elaine&#146;s apartment] <br>
+							<br>
+							(Phone rings, she answers it) <br>
+							<br>
+							ELAINE: Hello? <br>
+							<br>
+							JERRY: (Over the phone) Elaine, you&#146;ve got to get back down to the dealer. Puddy is screwin&#146; me on this car, which is yellow now! <br>
+							<br>
+							ELAINE: (Jokingly mimicking Jerry) Who is this? <br>
+							<br>
+							JERRY: (Banging the phone against the booth) Elaine! <br>
+							<br>
+							(Elaine flinches with every loud banging noise) <br>
+							<br>
+							ELAINE: What?! <br>
+							<br>
+							JERRY: You gotta get back together with Puddy so I can make this deal. <br>
+							<br>
+							ELAINE: (Sarcastically) You know, just that you cared enough to call means so much, Jerry. <br>
+							<br>
+							JERRY: You&#146;re gonna get back together, anyway. It&#146;s thousands of dollars! <br>
+							<br>
+							ELAINE: Oh, I don&#146;t know.. <br>
+							<br>
+							JERRY: Come on. Then you don&#146;t have to see him again &#145;til my 15,000-mile check. <br>
+							<br>
+							ELAINE: Well, will you pay my cab fare out there? <br>
+							<br>
+							JERRY: Fine. <br>
+							<br>
+							ELAINE: And I didn&#146;t like that roast beef, so how &#145;bout some lunch? <br>
+							<br>
+							JERRY: No. No lunch. <br>
+							<br>
+							ELAINE: I&#146;ll hang this phone up right now! <br>
+							<br>
+							JERRY: All right! Lunch! <br>
+							<br>
+							ELAINE: I&#146;ll see ya. (Hanging up the phone) <br>
+							<br>
+							JERRY: Bye. (Hangs up) <br>
+							<br>
+							JERRY: (Frustrated, he reacts) Everybody&#146;s ripping me off! <br>
+							<br>
+							<br>
+							<br>
+							[Scene cuts to George at the customer complaint window]<br>
+							<br>
+							GEORGE: Yes, I&#146;d like to report a problem with one of your mechanics. <br>
+							<br>
+							WILLIE: When did you bring the car in? <br>
+							<br>
+							GEORGE: (To the man behind him in line) Yeah, right&#133; I&#146;m gonna get my car repaired at a dealership. Huh! Why don&#146;t I just flush my money down the toilet? <br>
+							<br>
+							WILLIE: Sir, what, exactly, is the problem? <br>
+							<br>
+							GEORGE: One of your guys - Kip, or Ned, short name - stole my Twix candy bar! <br>
+							<br>
+							WILLIE: Are you saying he grabbed your candy bar away from you? <br>
+							<br>
+							GEORGE: He might as well have! I caught him, and his face was covered in chocolate and cookie crumbs. <br>
+							<br>
+							WILLIE: I thought you said it was a Twix. <br>
+							<br>
+							GEORGE: Oh, it was. But he claimed it was a 5th Avenue bar. <br>
+							<br>
+							WILLIE: Maybe it was. <br>
+							<br>
+							GEORGE: Oh, no, no. Twix is the only candy with the cookie crunch. <br>
+							<br>
+							WILLIE: What about the Hundred-Thousand-Dollar bar? <br>
+							<br>
+							GEORGE: No. Rice and caramel. <br>
+							<br>
+							WILLIE: Nougat? <br>
+							<br>
+							GEORGE: No. <br>
+							<br>
+							WILLIE: Positive? <br>
+							<br>
+							GEORGE: Please. <br>
+							<br>
+							(A woman appears from behind the window) <br>
+							<br>
+							WOMAN: You know they changed the name from Hundred-Thousand-Dollar bar to Hundred-Grand? <br>
+							<br>
+							GEORGE: All I want is my seventy-five cents back, an apology, and for him to be fired! <br>
+							<br>
+							(An old man sitting in a nearby chair speaks up. He&#146;s Willie&#146;s father) <br>
+							<br>
+							WILLIE SR: I remember when you used to be able to get a Hershey for a nickel. <br>
+							<br>
+							(The man behind George speaks up) <br>
+							<br>
+							MAN: What&#146;s the one with the swirling chocolate in the commercial? <br>
+							<br>
+							GEORGE: They all have swirling chocolate in the commercial! <br>
+							<br>
+							WILLIE SR: Not Skittles. <br>
+							<br>
+							WILLIE: Dad, I told you you could sit here only if you don&#146;t talk. <br>
+							<br>
+							WOMAN: (Sitting behind George) You make your father sit here all day? <br>
+							<br>
+							WILLIE: He likes it! <br>
+							<br>
+							GEORGE: All right, do you mind? I have the window! (To Willie) Now, what are you gonna do about my Twix? <br>
+							<br>
+							MAN: (In line behind George) Twix has too much coconut. <br>
+							<br>
+							GEORGE: No! There&#146;s no coconut! <br>
+							<br>
+							WOMAN: (Behind service window) I&#146;m allergic to coconut. <br>
+							<br>
+							WILLIE: I&#146;m not. <br>
+							<br>
+							WILLIE SR: &#133;A nickel! <br>
+							<br>
+							<br>
+							<br>
+							[Setting: Dealership office showroom] <br>
+							<br>
+							(Elaine enters, and hands Jerry the receipt for her cab) <br>
+							<br>
+							ELAINE: Cab receipt. Hey, Puddy. <br>
+							<br>
+							PUDDY: I&#146;m with a customer. <br>
+							<br>
+							(Elaine throws up her hands, giving a face of disgust, and starts to walk away) <br>
+							<br>
+							ELAINE: Uh&#133; <br>
+							<br>
+							JERRY: No, no. No, Elaine, the car can wait. What&#146;s important is you two getting back together. Eh, then we&#146;ll talk about the car. <br>
+							<br>
+							PUDDY: (Like a kid) I don&#146;t want to get back with her. She&#146;s too bossy. <br>
+							<br>
+							ELAINE: (Raising her finger at him, in an authoritative tone) David.. <br>
+							<br>
+							JERRY: Okay. Now, I know this is an important decision. Why don&#146;t we all just sit down and talk about it? Come on, come on. (All three sit down) Now, look, you both find each other attractive, right? <br>
+							<br>
+							ELAINE AND PUDDY: Right. <br>
+							<br>
+							JERRY: Clearly, no one else can stand to be with either one of you. <br>
+							<br>
+							ELAINE: I guess. <br>
+							<br>
+							PUDDY: Good point. <br>
+							<br>
+							JERRY: (Smiling, like a salesman) All right. Now, what do I have to do to put you two in a relationship today? <br>
+							<br>
+							<br>
+							<br>
+							[Setting: Gas station] <br>
+							<br>
+							(Kramer pulls the car into a gas station and gets out) <br>
+							<br>
+							KRAMER: Cars can go on empty, but not us humans, huh, fella? I&#146;ll get us a couple of Twix bars. <br>
+							<br>
+							RICK: No, no coconut for me. <br>
+							<br>
+							KRAMER: All right, I&#146;ll get ya a Mounds bar. Keep the engine running. <br>
+							<br>
+							(Rick sits back in the car a second, then hurriedly jumps out and reaches for the gas pump. Kramer pops up from behind the pump and scares him) <br>
+							<br>
+							RICK: Ahh! <br>
+							<br>
+							KRAMER: No, man! Not the gas! <br>
+							<br>
+							RICK: But it needs it, Kramer! It needs it bad! <br>
+							<br>
+							KRAMER: Do you think that this&#146;ll make you happy? &#145;Cause it won&#146;t! <br>
+							<br>
+							RICK: (Walking away) Ah, you can just go on without me. <br>
+							<br>
+							(Kramer grabs him by the collar) <br>
+							<br>
+							KRAMER: Listen to me. When that car rolls into that dealership, and that tank is bone dry, I want you to be there with me when everyone says, &quot;Kramer and that other guy, oh, they went further to the left of the slash than anyone ever dreamed!&quot; <br>
+							<br>
+							(The car makes puttering noises) <br>
+							<br>
+							RICK: Maybe we better get moving. <br>
+							<br>
+							KRAMER: It&#146;s good to have you back, Stan. <br>
+							<br>
+							(Both hop into the car) <br>
+							<br>
+							RICK: It&#146;s Rick, by the way. <br>
+							<br>
+							KRAMER: No time! <br>
+							<br>
+							<br>
+							<br>
+							[Setting: Dealership&#146;s customer service room] <br>
+							<br>
+							WILLIE: Mr. Costanza, I really don&#146;t have time for this. <br>
+							<br>
+							GEORGE: Now, if this mechanic guy, was, in fact, eating a 5th Avenue bar, as he claims, wouldn&#146;t you agree he would have no problem picking one out from a candy line-up? <br>
+							<br>
+							WILLIE: &quot;Candy line-up&quot;? <br>
+							<br>
+							GEORGE: I&#146;ve spent the last hour preparing ten candy bars with no wrappers or identification of any kind for him to select from. <br>
+							<br>
+							WILLIE: It took you an hour? <br>
+							<br>
+							GEORGE: Only I hold the answer key to their true candy identities. And so, without further ado, I give you&#133; the candy line-up. (Opens a door to a back room. Various dealership employees are munching on candy bars) <br>
+							<br>
+							SALESWOMAN: Hey, Willie, check it out! Free candy! <br>
+							<br>
+							GEORGE: That&#146;s my candy line-up! Where are all my cards?! They&#146;re - they&#146;re all on the floor! <br>
+							<br>
+							(George starts picking up the numbered cards from off the floor. He sees the mechanic eating one of the candy bars) <br>
+							<br>
+							GEORGE: And you! How many Twix does that make for you, today?! Like, 8 Twix?! <br>
+							<br>
+							MECHANIC: No. <br>
+							<br>
+							MAN: Hey, this Clark bar is good. <br>
+							<br>
+							GEORGE: It&#146;s a Twix! They&#146;re all Twix! It was a setup! A setup, I tell ya! And you&#146;ve robbed it! You&#146;ve all screwed me again! Now, gimme one! Gimme a Twix! <br>
+							<br>
+							MECHANIC: They&#146;re all gone. <br>
+							<br>
+							GEORGE: (Yelling out, frustrated. The camera spins from a top angle) Twwwwiiiiiixxxxx! <br>
+							<br>
+							<br>
+							<br>
+							[Scene cuts to Elaine, Puddy and Jerry, all in conference]<br>
+							<br>
+							ELAINE: What was that? <br>
+							<br>
+							PUDDY: There&#146;s a mental hospital right near here. <br>
+							<br>
+							JERRY: All right. Elaine, David, I believe we have a deal here in principle: Arby&#146;s no more than once a month. And in exchange, Elaine comes to your softball game, and doesn&#146;t read a book. <br>
+							<br>
+							ELAINE: (While looking over the contract Jerry just drew up) Yeah, well, that&#146;s not bad. <br>
+							<br>
+							PUDDY: I can live with that. <br>
+							<br>
+							JERRY: So, you&#146;re back together? <br>
+							<br>
+							PUDDY: Yeah. <br>
+							<br>
+							(Jerry sees them stare at each other, smiling) <br>
+							<br>
+							JERRY: All right, all right. All right, that&#146;s enough! Let&#146;s get back to my deal. That undercoating, that&#146;s a rip-off, isn&#146;t it, David? <br>
+							<br>
+							PUDDY: Oh, we don&#146;t even know what it is. <br>
+							<br>
+							JERRY: So, I&#146;m gettin&#146; the insider&#146;s deal? <br>
+							<br>
+							PUDDY: Insider&#146;s deal. (Holds up his hand) High-five. <br>
+							<br>
+							(Jerry gives a face of resentment) <br>
+							<br>
+							<br>
+							<br>
+							[Setting: Dealership car] <br>
+							<br>
+							(Rick and Kramer are driving back to the dealership) <br>
+							<br>
+							RICK: (Seeing the turn-off up ahead) There&#146;s the dealer! <br>
+							<br>
+							KRAMER: Hey! <br>
+							<br>
+							RICK: We did! We pulled it off! I can&#146;t believe it! Where&#146;s the needle? <br>
+							<br>
+							KRAMER: Oh, it broke off, baby! Woo, hoo, hoo! <br>
+							<br>
+							RICK: Oh, Mr. Kramer, I gotta thank you. I - I learned a lot. Things are gonna be different for me now. <br>
+							<br>
+							KRAMER: Well, that&#146;s a weird thing to say&#133; <br>
+							<br>
+							RICK: I wonder how much longer we could have lasted. <br>
+							<br>
+							KRAMER: Yeah, yeah. I wonder&#133; hmm. <br>
+							<br>
+							(They both eye each other, then lock hands. Kramer slams on the gas, and they both cheer and scream as they drive on) <br>
+							<br>
+							<br>
+							<br>
+							[Setting: NYC Cab] <br>
+							<br>
+							(Elaine, George, and Jerry are riding home in a cab) <br>
+							<br>
+							ELAINE: This is nice. What kind of car is this? <br>
+							<br>
+							CABBIE: Caprice Classic. <br>
+							<br>
+							ELAINE: (To Jerry) You couldn&#146;t just give him one high-five? <br>
+							<br>
+							JERRY: And where does it end? Then everyone&#146;s doin&#146; it. It&#146;s like the wave at ball games. Air quotes. The phrase, &quot;Don&#146;t go there.&quot; - Someone&#146;s gotta take a stand! <br>
+							<br>
+							GEORGE: (Munching on a hamburger) This Arby&#146;s is good. <br>
+							<br>
+							ELAINE: So, George, I still don&#146;t understand - how was that a setup? <br>
+							<br>
+							JERRY: And who were you tryin&#146; to set up, anyway? The mechanic or the manager? <br>
+							<br>
+							GEORGE: I don&#146;t know. All of &#145;em. They&#146;re all crooks! Besides, I couldn&#146;t get all different candy bars, anyway. <br>
+							<br>
+							(Kramer and Rick speed by the cab in the Saab - both screaming and yelling) <br>
+							<br>
+							GEORGE: What was that? <br>
+							<br>
+							JERRY: I think there&#146;s a mental hospital near here. <br>
+							<br>
+							ELAINE: Very near. <br>
+							<br>
+							<br>
+							<br>
+							[Scene cuts to Kramer and Rick. Still yelling, they slowly come to a stop]<br>
+							<br>
+							KRAMER: Ya-hoo! Ya-hoo! (Rick is silent) Whew! Well, I think we stopped. <br>
+							<br>
+							RICK: You - you can probably let go of my hand now. <br>
+							<br>
+							KRAMER: Yeah, yeah. (Getting out of the car) Well, I&#146;ll think about it.. <br>
+							<br>
+							RICK: Do you have my card? <br>
+							<br>
+							<br>
+							<br>
+							(After the Castle Rock Logo Willie Sr. voice is heard saying &quot;A Nickel&quot;)<br>
+							&nbsp;<br>
+							The End<br>
+						</td>
+						</tr>
+						<tr height="6">
+							<td class="bottom2" width="645" height="6"></td>
+						</tr>
+						<tr>
+							<td width="645">
+								<div align="center">
+									<font size="-1">Copyright 2006 seinology.com | All Rights Reserved | Designed by 13erla</font></div>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+		<p></p>
+	</body>
+
+</html>

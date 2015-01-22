@@ -1,0 +1,1319 @@
+<tdOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+<html>
+
+	<head>
+		<meta http-equiv="content-type" content="text/html;charset=ISO-8859-1">
+		<meta name="description" content="Top Source for Seinfeld">
+		<meta name="keywords" content="seinfeld, sienfeld, Jerry Seinfeld, Julia Louis Dreyfus, Jason Alexander, Michael Richards, Kramer, George, Costanza, Elaine Benes, morty, Larry David">
+		<title>Seinology.com :: Scripts :: 139-The Package</title>
+	<link rel='stylesheet' href='/stylesheet.css' type='text/css'>
+	</head>
+
+	<body>
+			<table align="center" width="787" border="0" cellspacing="0" cellpadding="0">
+				<tr>
+					<td><font size="-2" color="red">Seinology.com - </font><font size="-3" color="black">Where Seinfeld Content and Accuracy Matter Most. Seinfeld scripts in pdf form, Seinfeld episode video clips, Seinfeld episode audio clips, Jerry Seinfeld appearances, Julia Louis-Dreyfus appearances, Michael Richards appearances, Jason Alexander appearances, Seinfeld discussion Forum, Seinfeld Where are they Now? Seinlanguage Newsletter, Popular Seinfeld Lists, Seinfeld episode standup, Seinfeld episode guide, Seinfeld fan fiction. Seinfeld content all on one domain. Seinology.com enjoy your stay.</font></td>
+				</tr>
+			</table>
+		
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr height="100">
+				<td class="logo"></td>
+			</tr>
+			<tr><td class="ads" align="center" background=#8694fa>
+				<script type="text/javascript"><!--
+google_ad_client = "pub-1924026976931416";
+google_ad_width = 728;
+google_ad_height = 90;
+google_ad_format = "728x90_as";
+google_ad_type = "text";
+google_ad_channel = "";
+google_color_border = "FFFFFF";
+google_color_bg = "8694fa";
+google_color_link = "0000FF";
+google_color_text = "000000";
+google_color_url = "002E3F";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></td></tr>
+		</table>
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr>
+				<td valign="top" width="136">
+					<table width="136" border="0" cellspacing="0" cellpadding="0">
+						<tr height="24">
+							<td class="navigation">
+								<div align="center">
+									
+									<b>Navigation</b></div>
+							</td>
+						</tr>
+						<tr height="199">
+							<td class="spacer1" valign="top" width="136" height="199">
+								<div align="center">
+									<font size="-1"><a href="http://www.seinology.com">Home</a><br>
+										<a href="http://board.seinology.com">Forum</a><br>
+										<a href="http://www.seinology.com/av.shtml">Audio/Video</a><br>
+										<a href="http://www.seinology.com/scripts.shtml">Scripts</a><br>
+										<a href="http://www.seinology.com/survivor.shtml">Survivor</a><br>
+										<a href="http://www.seinology.com/fanfics.shtml">Fan Fiction</a><br>
+										<a href="http://www.seinology.com/gallery/">Gallery</a><br>
+										<a href="http://www.seinology.com/newsletter.shtml">Newsletter</a><br>
+										<a href="http://www.seinology.com/lists.shtml">Lists</a><br>
+										<a href="http://www.seinology.com/epguide.shtml">Episode Guide</a><br>
+										<a href="http://www.seinology.com/links.shtml">Links</a><br>
+										<a href="http://www.seinology.com/faqother.shtml">Faq + others</a><br>
+										<a href="http://www.seinology.com/legal.shtml">Legal</a></font></div>
+							</td>
+						</tr>
+						
+						<tr>
+							<td class="nav2" width="136">
+							<div align="center"><b>Search</b></div></td>
+						</tr>
+						<tr>
+							<td class="spacer1" width="136" valign="top"><div align="center"><form method="get" action="http://www.seinology.com/search/search.cgi">
+<p><label for="fdse_Match">Match</label><br>
+<select name="Match" id="fdse_Match" size="1">
+<option value="1">All</option>
+<option value="0">Any</option>
+<option value="2">Phrase</option>
+</select></p>
+<p><label for="fdse_Realm">Where?</label><br>
+<select name="Realm" id="fdse_Realm" size="1">
+<option selected="selected" value="All">EntireSite</option>
+<option value="Ep Guide">Ep Guide</option>
+<option value="Images">Images</option>
+<option value="Lists">Lists</option>
+<option value="Newsletters">Newsletters</option>
+<option value="Scripts">Scripts</option>
+<option value="Notes..Nothing">Notes..Nothing</option>
+</select></p>
+<p><input type="text" name="Terms" size="14" id="fdse_Terms"><br>
+<input type="submit" class="submit" name="submitButtonName" value="Search"></p>
+</div></form></td>
+						</tr>
+						<tr><td class="bottom" width="136" height="10" valign="top">
+						</td>
+						</tr>
+					</table>
+				</td>
+				<td width="4"></td>
+				<td valign="top" width="645">
+					<table width="645" border="0" cellspacing="0" cellpadding="0">
+						<tr height="18">
+							<td width="645" height="35" class="bar">
+								<div align="center">
+									<b><font size="+2" color="black">Script</font></b></div>
+							</td>
+						</tr>
+						<tr height="362">
+							<td class="spacer2" valign="top" width="645" height="362">
+
+								<p><font size="-2">Episode 139 - The Package<br>
+							pc: 805, season 8, episode 5<br>
+							Broadcast date: October 17, 1996<br>
+							<br>
+							Written by Jennifer Crittenden<br>
+							Directed by Andy Ackerman<br>
+							<br>
+							-------------------------------------------------------------------------------<br>
+							<br>
+							The Cast<br>
+							Regulars:<br>
+							Jerry Seinfeld........................&nbsp; Jerry Seinfeld<br>
+							Jason Alexander.................... George Costanza<br>
+							Julia Louis-Dreyfus................ Elaine Benes<br>
+							Michael Richards.................... Cosmo Kramer<br>
+							<br>
+							Guest Stars:<br>
+							<br>
+							Richard Roat........................ Dr. Berg<br>
+							Fort Atkinson...................... Dr. Stern<br>
+							David Purdham................... Dr. Resnick<br>
+							Heather Campbell................ Sheila<br>
+							Ramon Franco...................... Mailman<br>
+							Bari K. Willerford................. Ron<br>
+							Shuko Akune....................... Receptionist<br>
+							F. William Parker.................. Country Doctor<br>
+							Lynn A. Henderson............. Clerk<br>
+							Bill Gratton........................... Postal Official<br>
+							Susan Leslie.......................... Nurse<br>
+							rc: Wayne Knight................. Newman<br>
+							rc: Len Lesser...................... Uncle Leo<br>
+							<br>
+							Notes: &quot;The Mikado&quot;, a Gilbert and Sullivan operetta, which ties in later with Leo's<br>
+							made up (drawn) eyelashes.<br>
+							<br>
+							==================================================================<br>
+							<br>[Kramer and Newman at the park, smoking cigars]<br>
+										<br>
+										KRAMER: Well, I really miss the Bermuda Triangle.<br>
+										<br>
+										NEWMAN: I guess there's not much action down there these days.<br>
+										<br>
+										KRAMER: Oh, there's action. There's plenty of action. That damned alien autopsy is stealing all the headlines.<br>
+										<br>
+										NEWMAN: Yeah, tell me about it.<br>
+										<br>
+										KRAMER: See, what they gotta do is loose a plane or a Greenpeace boat in there. See, that would get the triangle going again.<br>
+										<br>
+										NEWMAN: What keeps the water in there? I mean, why doesn't it disappear?<br>
+										<br>
+										KRAMER: What would be the point in taking the water?<br>
+										<br>
+										NEWMAN: It's gorgeous water. (pause) Do we own Bermuda?<br>
+										<br>
+										KRAMER: No. It belongs to the British.<br>
+										<br>
+										NEWMAN: Lucky krauts.<br>
+										<br>
+										KRAMER: So, what do you think about that alien autopsy?<br>
+										<br>
+										NEWMAN: Oh, that's real.<br>
+										<br>
+										KRAMER: I think so too.<br>
+										<br>
+										<br>
+										<br>
+									<font size="-2">[Elaine at the doctor's]<br>
+										<br>
+										
+							ATTENDANT: The doctor will be with you in a moment. <br>
+										<br>
+										
+							(Elaine looking at her chart) <br>
+										<br>
+										
+							ELAINE: Difficult? <br>
+										<br>
+										
+							DOCTOR: Elaine. You shouldn't be reading that. So tell me about this rash of yours. <br>
+										<br>
+										
+							ELAINE: Well it's, it's..... You know I noticed that somebody wrote in my chart that I was difficult in January of 92 and I have to tell you that I remember that appointment exactly. You see this nurse asked me to put a gown on but it was a mole on my shoulder and I specifically wore a tank top so I wouldn't have to put a gown on. You know there made of paper. <br>
+										<br>
+										
+							DOCTOR: Well that was a long time ago. How about if I just erase it. Now about that rash...... <br>
+										<br>
+										
+							ELAINE: But it was in pen. You fake erase. <br>
+										<br>
+										
+							DOCTOR: All right Miss Benes. This doesn't look to serious. You'll be fine.<br>
+										<br>
+										
+							ELAINE: What are you writing? Doctor. <br>
+										<br>
+										<br>
+										<br>
+										
+							[George at Photo Shop] <br>
+										<br>
+										
+							SHEILA: Here you go. <br>
+										<br>
+										
+							GEORGE: Thanks. <br>
+										<br>
+										
+							SHEILA: I hope you got that mustard stain out of your shirt. <br>
+										<br>
+										
+							GEORGE: Ohhhhhh <br>
+										<br>
+										<br>
+										<br>
+										
+							[Jerry, Kramer, and George at the apartment] <br>
+										<br>
+										
+							JERRY: No. All you got to do is jiggle it with this screwdriver. <br>
+										<br>
+										
+							GEORGE: Smile <br>
+										<br>
+										
+							JERRY: What are you doing? <br>
+										<br>
+										
+							GEORGE: I meet this women, Sheila. She works down at the one hour photo pace. She's got this incredible smile. Like she's got extra teeth or something <br>
+										<br>
+										
+							JERRY: Extra teeth. I love that look. <br>
+										<br>
+										
+							GEORGE: Hey check this out. I go to pick up my pictures and she says &quot; I hope you got that mustard stain out of your shirt.&quot; <br>
+										<br>
+										
+							JERRY: What mustard stain? <br>
+										<br>
+										
+							GEORGE: Don't you see. She's looking at my pictures. <br>
+										<br>
+										
+							JERRY: Why did you take a picture of a mustard stain? <br>
+										<br>
+										
+							GEORGE: That's got nothing to do with it. <br>
+										<br>
+										
+							JERRY: I see. She's looking. <br>
+										<br>
+										
+							GEORGE: Yesssss. <br>
+										<br>
+										
+							KRAMER: Hey, you got to get this thing fixed. <br>
+										<br>
+										
+							JERRY: They've tried to fix it. But it keeps coming back the same. <br>
+										<br>
+										
+							KRAMER: Would you like a refund? <br>
+										<br>
+										
+							JERRY: Well I can't the warranty expired two years ago. <br>
+										<br>
+										
+							KRAMER: Would you be interested? <br>
+										<br>
+										
+							JERRY: Well how are you going..... <br>
+										<br>
+										
+							KRAMER: Would you? <br>
+										<br>
+										
+							JERRY: I guess I would. <br>
+										<br>
+										
+							KRAMER: Yeah, yeah. <br>
+										<br>
+										
+							(Elaine walks in) <br>
+										<br>
+										
+							ELAINE: You are not going to believe what happened to me at the doctors office today. <br>
+										<br>
+										
+							JERRY: Not the gown again. <br>
+										<br>
+										
+							ELAINE: No, no. I was looking at my chart and it said I was difficult. Why would they write that? <br>
+										<br>
+										
+							JERRY: They have gotten to know you. <br>
+										<br>
+										
+							(Kramer leaves with Jerry's stereo) <br>
+										<br>
+										
+							ELAINE: Then the doctor writes more stuff down and doesn't even look at my rash. <br>
+										<br>
+										
+							GEORGE: Why don't you find a doctor that doesn't know your difficult. <br>
+										<br>
+										
+							ELAINE: Oh come on. I'm not difficult. I'm easy. <br>
+										<br>
+										
+							JERRY: Why because you dress casual and sleep with a lot of guys. <br>
+										<br>
+										
+							ELAINE: Listen to me you little shi........ <br>
+										<br>
+										
+							GEORGE: Smile. <br>
+										<br>
+										<br>
+										<br>
+										
+							[Elaine at another doctor's office] <br>
+										<br>
+										
+							DOCTOR: Well Elaine you really didn't have to put on the gown. <br>
+										<br>
+										
+							ELAINE: Oh it's my pleasure. I love these. In fact I got one at home. It's perfect when you just want to throw something on. <br>
+										<br>
+										
+							(Nurse hands the doctor her chart) <br>
+										<br>
+										
+							DOCTOR: All rightly. Let me just review your history before we begin. <br>
+										<br>
+										
+							ELAINE: Where did you get my chart? <br>
+										<br>
+										
+							DOCTOR: From your last doctor. It's a standard procedure. <br>
+										<br>
+										
+							ELAINE: You know I can tell you my whole history. Let's just....... <br>
+										<br>
+										
+							DOCTOR: Okay. Let's take a look. Well that doesn't look to serious. You'll be fine. <br>
+										<br>
+										
+							ELAINE: Please, please. It's really, really itchy. <br>
+										<br>
+										
+							(Doctor writes more stuff in her chart) <br>
+										<br>
+										<br>
+										<br>
+										
+							[Jerry at apartment] <br>
+										<br>
+										
+							(Knock, knock)<br>
+										<br>
+										
+							POSTAL WORKER DANNY: Seinfeld? <br>
+										<br>
+										
+							JERRY: Yeah. <br>
+										<br>
+										
+							POSTAL WORKER DANNY: I got a package for you. Sign here. <br>
+										<br>
+										
+							JERRY: Who's it from? <br>
+										<br>
+										
+							POSTAL WORKER DANNY: No return address. <br>
+										<br>
+										
+							JERRY: What if I don't want it? <br>
+										<br>
+										
+							POSTAL WORKER: Are you refusing delivery? <br>
+										<br>
+										
+							JERRY: Maybe I am. <br>
+										<br>
+										
+							POSTAL WORKER DANNY: Why would you do that? <br>
+										<br>
+										
+							JERRY: I've never done it before. <br>
+										<br>
+										
+							POSTAL WORKER DANNY: Why start now? <br>
+										<br>
+										
+							JERRY: Why not? <br>
+										<br>
+										
+							POSTAL WORKER DANNY: All right. <br>
+										<br>
+										
+							(George walks in) <br>
+										<br>
+										
+							GEORGE: Why did you refuse the package. Everybody loves a package. <br>
+										<br>
+										
+							JERRY: I don't know it was weird. Crazy printing. I don't know who it was from. <br>
+										<br>
+										
+							GEORGE: What do you think it's a bomb? <br>
+										<br>
+										
+							JERRY: It's not totally impossible. <br>
+										<br>
+										
+							GEORGE: Oh the ego on you. <br>
+										<br>
+										
+							JERRY: Why can't I be bombable? <br>
+										<br>
+										
+							GEORGE: Who's going to bomb you. An airline for all the stupid little peanut jokes. <br>
+										<br>
+										
+							JERRY: I suppose you think your bombable. <br>
+										<br>
+										
+							GEORGE: Hey. There is a couple of people that wouldn't mind having me out of the way. <br>
+										<br>
+										
+							JERRY: There's more than a couple. <br>
+										<br>
+										
+							GEORGE: Hey. Check these out. I just picked them up from Sheila. She must have loved these. <br>
+										<br>
+										
+							JERRY: You don't have a Mercedes. <br>
+										<br>
+										
+							GEORGE: I know. I just sort of leaned on it so it would look like it was mine. <br>
+										<br>
+										
+							JERRY: The driver seems a little put out. <br>
+										<br>
+										
+							GEORGE: No. He was fine with it. Check that out. <br>
+										<br>
+										
+							JERRY: Is that Burt Reynolds? <br>
+										<br>
+										
+							GEORGE: Wax Museum. <br>
+										<br>
+										
+							JERRY: Oh. <br>
+										<br>
+										
+							GEORGE: Oh. What is this? <br>
+										<br>
+										
+							JERRY: That's a lot of skin. <br>
+										<br>
+										
+							GEORGE: This must be Sheila from the photo place. <br>
+										<br>
+										
+							JERRY: You can barely see her face. <br>
+										<br>
+										
+							GEORGE: She must have slipped it in here. <br>
+										<br>
+										
+							(Kramer walks in) <br>
+										<br>
+										
+							KRAMER: I I I <br>
+										<br>
+										
+							GEORGE: Photo store Sheila. <br>
+										<br>
+										
+							KRAMER: Well hello Photo store Sheila. <br>
+										<br>
+										
+							GEORGE: All right. I will see you boys later. <br>
+										<br>
+										
+							JERRY: Where are you going? <br>
+										<br>
+										
+							GEORGE: To ask her out. <br>
+										<br>
+										
+							KRAMER: No, no. Your not playing the game. <br>
+										<br>
+										
+							GEORGE: What game? <br>
+										<br>
+										
+							KRAMER: She goes to these lengths to entice you and your only response is &quot; Gee I really like your picture. Would you like to go out on a date with me please. &quot; <br>
+										<br>
+										
+							GEORGE: No good? <br>
+										<br>
+										
+							KRAMER: George. It's the timeless art of seduction. You got to join in the dance. She sends you an enticing photo, you send her one right back. <br>
+										<br>
+										
+							GEORGE: Oh, I don't know. <br>
+										<br>
+										
+							KRAMER: Well as you know I've always been something of a photog. <br>
+										<br>
+										
+							JERRY: Oh yeah I like this idea. <br>
+										<br>
+										<br>
+										<br>
+										
+							[Outside Uncle Leo's apartment] <br>
+										<br>
+										
+							UNCLE LEO: Hey Danny. Hello. How are you? <br>
+										<br>
+										
+							POSTAL WORKER DANNY: Hey Leo. Leo what's up with your nephew. He wouldn't except his package. <br>
+										<br>
+										
+							UNCLE LEO: Oh He wants it. He's just trying to be funny. Yeah I'll sign it .<br>
+										<br>
+										<br>
+										<br>
+										
+							[George and Elaine in taxi] <br>
+										<br>
+										
+							ELAINE: And then he starts writing on my chart. <br>
+										<br>
+										
+							GEORGE: Well why don't you get a hold of it and change what you don't like. <br>
+										<br>
+										
+							ELAINE: You can't change your chart. It's your chart. <br>
+										<br>
+										
+							GEORGE: I am in and out of my personnel file at work all the time. <br>
+										<br>
+										
+							ELAINE: You are!?! <br>
+										<br>
+										
+							GEORGE: Hey. I've kept the same job for more than two years. It's not luck. Elaine, have you ever sent a racy photograph of yourself to anyone? <br>
+										<br>
+										
+							ELAINE: Yeah. I sent one to everyone I know. Remember my Christmas card. <br>
+										<br>
+										
+							GEORGE: Oh yeah the nipple. But besides that. How did you feel about Kramer's work? <br>
+										<br>
+										
+							ELAINE: Actually I thought he was very professional. <br>
+										<br>
+										
+							GEORGE: So it was a good experience. <br>
+										<br>
+										
+							ELAINE: Oh yeah. In fact I like the picture so much I cropped out the nipple and am using as my health club ID. <br>
+										<br>
+										
+							GEORGE: Nice. <br>
+										<br>
+										
+							ELAINE: Yeah it is nice actually. <br>
+										<br>
+										<br>
+										<br>
+										
+							[Elaine at another doctors] <br>
+										<br>
+										
+							ELAINE: I need to see Dr. Burke right away. This rash is spreading. <br>
+										<br>
+										
+							ATTENDANT: He can't see you Miss Benes, he's busy. <br>
+										<br>
+										
+							ELAINE: Oh come on. Have some compassion. Okay well I hope it's contagious <br>
+										<br>
+										
+							(Elaine rubs the attendants phone on her neck. Soon after Elaine finds her chart and runs to the elevator) <br>
+										<br>
+										
+							ELAINE: Come on. Move. (elevator doors reopen; Dr. Burke and two orderlies are revealed) Oh hi Dr. Burke. I didn't know if uh.... <br>
+										<br>
+										
+							DR. BURKE: The chart Miss Benes. <br>
+										<br>
+										
+							(The doctor writes more stuff in it) <br>
+										<br>
+										
+							ELAINE: Oh please no more. <br>
+										<br>
+										<br>
+										<br>
+										
+							[Jerry at his apartment] <br>
+										<br>
+										
+							(George walks in) <br>
+										<br>
+										
+							JERRY: Hey <br>
+										<br>
+										
+							GEORGE: Where's Kramer? <br>
+										<br>
+										
+							JERRY: He went to get some steak sauce. Why? <br>
+										<br>
+										
+							GEORGE: Personal matter. <br>
+										<br>
+										
+							(Phone rings) <br>
+										<br>
+										
+							JERRY: Hello <br>
+										<br>
+										
+							UNCLE LEO: Jerry! It's your Uncle Leo! Hello! <br>
+										<br>
+										
+							JERRY: Hello Leo. You don't have to yell. <br>
+										<br>
+										
+							UNCLE LEO: I got your package. <br>
+										<br>
+										
+							JERRY: How did you get my package? <br>
+										<br>
+										
+							UNCLE LEO: What should I do with it? <br>
+										<br>
+										
+							JERRY: I don't know what you should do with it. <br>
+										<br>
+										
+							GEORGE: Tell him to open it. <br>
+										<br>
+										
+							JERRY: I am not going to treat my uncle like a bomb defusing robot. <br>
+										<br>
+										
+							UNCLE LEO: Jerry, Your cousin Jeffrey is in the Parks Production of &quot;The Mikado&quot;. I want you to go see it with me. <br>
+										<br>
+										
+							JERRY: Open the package Leo. <br>
+										<br>
+										
+							UNCLE LEO: Okay. Opening. <br>
+										<br>
+										
+							JERRY: Opening. <br>
+										<br>
+										
+							(Through the phone: BOOM!!!)<br>
+										<br>
+										<br>
+										<br>
+										
+							[Jerry's apartment later that day; Jerry and Elaine] <br>
+										<br>
+										
+							ELAINE: So it wasn't a bomb. <br>
+										<br>
+										
+							JERRY: No, No bomb. <br>
+										<br>
+										
+							ELAINE: Well then what? <br>
+										<br>
+										
+							JERRY: Oh stupid Leo was using one of those oven cleaners. He left the canister in there and the pilot light was on. The whole thing blew up. <br>
+										<br>
+										
+							ELAINE: But he's okay? <br>
+										<br>
+										
+							JERRY: Yeah but the explosion singed off his eyebrows, mustache everything. He's all smooth now. Look's like a seal. <br>
+										<br>
+										
+							(Elaine on phone) <br>
+										<br>
+										
+							ELAINE: Yeah I am still holding. <br>
+										<br>
+										
+							(Jerry opens his package) <br>
+										<br>
+										
+							JERRY: Is this my stereo? <br>
+										<br>
+										
+							(Kramer walks in) <br>
+										<br>
+										
+							KRAMER: Hey you got it. <br>
+										<br>
+										
+							JERRY: What happened to my stereo? It's all smashed up. <br>
+										<br>
+										
+							KRAMER: That's right. Now it looks like it was broken during shipping and I insured it for $400. <br>
+										<br>
+										
+							JERRY: But you were supposed to get me a refund. <br>
+										<br>
+										
+							KRAMER: You can't get a refund. Your warranty expired two years ago. <br>
+										<br>
+										
+							JERRY: So were going to make the Post Office pay for my new stereo? <br>
+										<br>
+										
+							KRAMER: It's just a write off for them. <br>
+										<br>
+										
+							JERRY: How is it a write off? <br>
+										<br>
+										
+							KRAMER: They just write it off. <br>
+										<br>
+										
+							JERRY: Write it off what? <br>
+										<br>
+										
+							KRAMER: Jerry all these big companies they write off everything <br>
+										<br>
+										
+							JERRY: You don't even know what a write off is. <br>
+										<br>
+										
+							KRAMER: Do you? <br>
+										<br>
+										
+							JERRY: No. I don't. <br>
+										<br>
+										
+							KRAMER: But they do and they are the ones writing it off. <br>
+										<br>
+										
+							JERRY: I wish I just had the last twenty seconds of my life back. <br>
+										<br>
+										
+							(Elaine still on phone) <br>
+										<br>
+										
+							ELAINE: What?!? He doesn't have one appointment this whole month!?! Oh come on. I am dying here man. Hello, hello. <br>
+										<br>
+										
+							JERRY: Still no luck <br>
+										<br>
+										
+							(Kramer leaves with a fan) <br>
+										<br>
+										
+							ELAINE: Jerry I am at doctor Zimmerman. I am at the end of the alphabet. <br>
+										<br>
+										
+							JERRY: There's no Zorn or Zoutraph. <br>
+										<br>
+										
+							ELAINE: There on vacation. Every doctor in this city seems to know who I am .<br>
+										<br>
+										
+							JERRY: Hey what about Dr. Resnick My Uncle Leo is going to see him tomorrow .<br>
+										<br>
+										
+							ELAINE: Dr. Resnick. He's not listed. <br>
+										<br>
+										
+							JERRY: He's not that good. <br>
+										<br>
+										
+							Kramer and George at Kramer's apartment <br>
+										<br>
+										
+							GEORGE: Elaine said your pretty good at this stuff. <br>
+										<br>
+										
+							KRAMER: Oh yeah. Elaine was a fun project. I enjoyed working with her. <br>
+										<br>
+										
+							GEORGE: You don't have your own camera. <br>
+										<br>
+										
+							KRAMER: Uh no. Look at this. Okay yeah this looks good and I like what your wearing. <br>
+										<br>
+										
+							GEORGE: I feel fat. <br>
+										<br>
+										
+							KRAMER: No, no. You're stoked. The camera loves stokedness. Look were not going to do anything that makes you feel uncomfortable. The key word is tasteful. Now I want you to relax and have fun because your a fun guy. All right let's do it. Okay come on. Feel the beat. Feel the beat. You know you got some real strong pecks but it's hard to tell under that T-shirt. <br>
+										<br>
+										
+							GEORGE: Well do you want me to take it off? <br>
+										<br>
+										
+							KRAMER: I don't know it's up to you. <br>
+										<br>
+										
+							GEORGE: Do you think it would be better if I did? <br>
+										<br>
+										
+							KRAMER: It might be. I mean whatever you want. <br>
+										<br>
+										
+							GEORGE: ALL RIGHT!! <br>
+										<br>
+										
+							KRAMER: That's it George. Come on, come on. Give it to me. Come on,work it. Work it. Yeah be a man, be a man. <br>
+										<br>
+										
+							(Jerry leaving apartment) <br>
+										<br>
+										
+							KRAMER: You are a lover boy!! <br>
+										<br>
+										
+							JERRY: Oh yeah. This can't miss. <br>
+										<br>
+										<br>
+										<br>
+										
+							[Elaine sleeping in bed] <br>
+										<br>
+										
+							(Phone rings) <br>
+										<br>
+										
+							ELAINE: Hello. <br>
+										<br>
+										
+							GUY: Is this Elaine Marie Benes? <br>
+										<br>
+										
+							ELAINE: Yes. Who it this? <br>
+										<br>
+										
+							GUY: We are with the American Medical Association. Can you confirm the correct spelling of your last name? Is it B-e-n-e-s. <br>
+										<br>
+										
+							ELAINE: Yeah. What is this all about <br>
+										<br>
+										
+							GUY: Good bye. <br>
+										<br>
+										
+							ELAINE: Hello, hello. <br>
+										<br>
+										
+							GUY: What? <br>
+										<br>
+										
+							ELAINE: Oh uh uh... <br>
+										<br>
+										
+							GUY: Get off the line. Were trying to make another call. <br>
+										<br>
+										<br>
+										<br>
+										
+							[Uncle Leo and Elaine at Dr. Resnick's office] <br>
+										<br>
+										
+							UNCLE LEO: Elaine. Hello. What are you doing here? <br>
+										<br>
+										
+							ELAINE: Leo. Has the doctor been in yet? <br>
+										<br>
+										
+							UNCLE LEO: No. I am going to ask him about my eyebrows. <br>
+										<br>
+										
+							ELAINE: Okay listen Leo. Your hairless, your scared. When the doctor comes in let me do the talking. Okay. <br>
+										<br>
+										
+							(Dr. Resnick walks in) <br>
+										<br>
+										
+							DR. RESNICK: Leo. I heard you had a little mishap. <br>
+										<br>
+										
+							UNCLE LEO: It was a fireball. <br>
+										<br>
+										
+							ELAINE: I should have never left him alone. <br>
+										<br>
+										
+							DR. RESNICK: And who are you? <br>
+										<br>
+										
+							ELAINE: I am his nurse... Poloma. <br>
+										<br>
+										
+							UNCLE LEO: You're not my nurse. <br>
+										<br>
+										
+							ELAINE: He has good days and bad. <br>
+										<br>
+										
+							DR. RESNICK: What seems to be the problem? <br>
+										<br>
+										
+							UNCLE LEO: Are my eyebrows going to grow back? <br>
+										<br>
+										
+							ELAINE: And he's has a bit of a rash. <br>
+										<br>
+										
+							DR. RESNICK: Really. <br>
+										<br>
+										
+							ELAINE: Yeah. <br>
+										<br>
+										
+							DR. RESNICK: Well there's been a bit of that going around lately. Will you excuse me Poloma. I just need to get some ointment. <br>
+										<br>
+										
+							ELAINE: I don't like this, it is to easy. <br>
+										<br>
+										
+							UNCLE LEO: Elaine... <br>
+										<br>
+										
+							ELAINE: Shut up! I think he's on to us. <br>
+										<br>
+										
+							UNCLE LEO: Elaine what about my eyebrows? <br>
+										<br>
+										
+							ELAINE: Shhhhhh. Here. <br>
+										<br>
+										
+							(Elaine draws fake eyebrows on him) <br>
+										<br>
+										<br>
+										<br>
+										
+							[Kramer and Jerry at Post Office] <br>
+										<br>
+										
+							JERRY: I don't like this Kramer. Will it be much longer? <br>
+										<br>
+										
+							ATTENDANT: I am sorry. It looks like the claim has been red flagged. Your under investigation. <br>
+										<br>
+										
+							JERRY: Investigation? <br>
+										<br>
+										
+							NEWMAN: Hello Jerry. <br>
+										<br>
+										
+							JERRY: Hello Newman. <br>
+										<br>
+										
+							NEWMAN: Kramer you might as well run along. Jerry might be a while. Suspicion of mail fraud. <br>
+										<br>
+										
+							KRAMER: Mail fraud. Your in a lot of trouble buddy. <br>
+										<br>
+										<br>
+										<br>
+										
+							[Uncle Leo at Dr. Resnick's office]<br>
+										<br>
+										
+							DR. RESNICK: I got your ointment. Where's your nurse? <br>
+										<br>
+										
+							UNCLE LEO: She left. <br>
+										<br>
+										
+							DR. RESNICK: No need to get angry. Calm down. <br>
+										<br>
+										
+							UNCLE LEO: I am calm. <br>
+										<br>
+										
+							DR. RESNICK: Leo I don't care for your demeanor. <br>
+										<br>
+										
+							UNCLE LEO: Demeanor? <br>
+										<br>
+										
+							DR. RESNICK: Now your just being difficult. <br>
+										<br>
+										
+							UNCLE LEO: What are you writing? <br>
+										<br>
+										<br>
+										<br>
+										
+							[George at photo store] <br>
+										<br>
+										
+							GEORGE: So I really liked the pictures I picked up here yesterday. <br>
+										<br>
+										
+							SHEILA: I am glad George. <br>
+										<br>
+										
+							GEORGE: And here's a roll that I think you may enjoy. <br>
+										<br>
+										
+							SHEILA: Great. <br>
+										<br>
+										
+							GEORGE: Shall we say an hour. <br>
+										<br>
+										
+							(George leaves) <br>
+										<br>
+										
+							SHEILA: Hey Ron I got to go to lunch. Can you do a roll? <br>
+										<br>
+										
+							RON: No problem. <br>
+										<br>
+										
+							SHEILA: By the way. You know that model that is always in here. She's missing one of her lingerie shots. Have you seen it? <br>
+										<br>
+										
+							RON: No. <br>
+										<br>
+										<br>
+										<br>
+										
+							[Jerry and Newman at the Post Office] <br>
+										<br>
+										
+							NEWMAN: All right. Then let me ask you this. Didn't you find it interesting that your friend had the foresight to purchase postal insurance for your stereo. Huh. I mean parcels are rarely damaged during shipping. <br>
+										<br>
+										
+							JERRY: Define rarely. <br>
+										<br>
+										
+							NEWMAN: Frequently. <br>
+										<br>
+										
+							JERRY: Are we about throw here Newman? <br>
+										<br>
+										
+							NEWMAN: It's pretty hot under these lights huh Seinfeld. Pretty....... Hot .<br>
+										<br>
+										
+							JERRY: Actually I am quite comfortable. <br>
+										<br>
+										
+							NEWMAN: Can I have a sip? <br>
+										<br>
+										
+							JERRY: No. <br>
+										<br>
+										
+							NEWMAN: Not going to play ball. Huh all right. Admit it that stereo was all ready busted. <br>
+										<br>
+										
+							JERRY: You can't prove anything. <br>
+										<br>
+										
+							NEWMAN: Is this or is this not your signature? <br>
+										<br>
+										
+							JERRY: No in a matter of fact it isn't. <br>
+										<br>
+										
+							NEWMAN: Uncle Leo? This case is closed pending further evidence. Jerry. <br>
+										<br>
+										<br>
+										<br>
+										
+							[Kramer and Elaine at doctor's] <br>
+										<br>
+										
+							ELAINE: Get in there. Get chart. Get out. You got it. <br>
+										<br>
+										
+							KRAMER: Yeah let me borrow your scarf. <br>
+										<br>
+										
+							ELAINE: This. <br>
+										<br>
+										
+							KRAMER: Yeah. All right one chart coming up. <br>
+										<br>
+										
+							ELAINE: Okay. <br>
+										<br>
+										
+							KRAMER: Bennette right? <br>
+										<br>
+										
+							ELAINE: Benes. My last name is Benes you jackass. Yeah. <br>
+										<br>
+										<br>
+										<br>
+										
+							[Newman walking down the street] <br>
+										<br>
+										
+							NEWMAN: Jerry, Jerry, Jerry, Jerry, Jerry, Jerry, Jerry, Jerry, Jerry.<br>
+										<br>
+										<br>
+										<br>
+										
+							[Kramer at doctor's] <br>
+										<br>
+										
+							KRAMER: I like what you've done with that. <br>
+										<br>
+										
+							ATTENDANT: May I help you? <br>
+										<br>
+										
+							KRAMER: Yes, yes. I am Dr. Vanostran from the clinic. I need Elaine Benes chart. She's a patient of mine and she's not going to make it. It's uh very bad very messy. <br>
+										<br>
+										
+							ATTENDANT: I see and what clinic is that again? <br>
+										<br>
+										
+							KRAMER: That's correct. <br>
+										<br>
+										
+							ATTENDANT: Excuse me. <br>
+										<br>
+										
+							KRAMER: From The Hoffer-Mandale Clinic in Belgium. <br>
+										<br>
+										
+							ATTENDANT: Really? <br>
+										<br>
+										
+							KRAMER: The Netherlands? <br>
+										<br>
+										
+							ELAINE: Where's my chart? Did you get it? <br>
+										<br>
+										
+							KRAMER: No. <br>
+										<br>
+										
+							ELAINE: What? What happened? <br>
+										<br>
+										
+							KRAMER: I don't know. But now they got a chart on me. <br>
+										<br>
+										<br>
+										<br>
+										
+							[George at photo store] <br>
+										<br>
+										
+							SHEILA: I don't know where they could be. <br>
+										<br>
+										
+							GEORGE: Can't find them. That's marvelous. The dance continues. <br>
+										<br>
+										
+							SHEILA: Well if I find them I'll call you. <br>
+										<br>
+										
+							GEORGE: And maybe we could go out and do something. <br>
+										<br>
+										
+							SHEILA: Sure. <br>
+										<br>
+										
+							RON: Hello. <br>
+										<br>
+										
+							GEORGE: Hi. <br>
+										<br>
+										
+							(George leaves) <br>
+										<br>
+										
+							SHEILA: So the little guy finally asked me out. <br>
+										<br>
+										
+							RON: Really? <br>
+										<br>
+										
+							SHEILA: Hey I can't find his photo's anywhere. <br>
+										<br>
+										
+							RON: Oh you know what happened. Some guy from the Post Office confiscated them. He left his card. <br>
+										<br>
+										
+							SHEILA: Newman? <br>
+										<br>
+										<br>
+										<br>
+										
+							[George and Jerry at Post Office] <br>
+										<br>
+										
+							GEORGE: I don't know what Newman wanted to see me for. <br>
+										<br>
+										
+							NEWMAN: Gentlemen, gentlemen. I am so happy to see you both. There is just some inconsistencies I'd like to straighten out. <br>
+										<br>
+										
+							JERRY: I'm clean and you know it. <br>
+										<br>
+										
+							NEWMAN: Clean? Hardly. This looks like a man that isn't happy with his stereo performance. <br>
+										<br>
+										
+							JERRY: Where did you get that? <br>
+										<br>
+										
+							GEORGE: I think that's one of mine. <br>
+										<br>
+										
+							NEWMAN: It looks like your breaking into it like an otter breaking into a clad. <br>
+										<br>
+										
+							JERRY: I don't know about that but I'm sure there is a explanation. <br>
+										<br>
+										
+							NEWMAN: Yes. It's called mail fraud. Oohhhh. How I've longed for this moment Seinfeld. The day when I would have the proof I needed to hall you out of your cushy lair and expose to the light of justice as the monster that you are. A monster so vile..... <br>
+										<br>
+										
+							GUY: NEWMAN!! <br>
+										<br>
+										
+							NEWMAN: There will be a small fine. <br>
+										<br>
+										
+							JERRY: Okay. <br>
+										<br>
+										
+							GEORGE: Can we go now? <br>
+										<br>
+										
+							NEWMAN: Not so fast pretty boy. There is more to this sorted little affair. <br>
+										<br>
+										
+							JERRY: Oh my god!! <br>
+										<br>
+										
+							NEWMAN: This photo clearly indicates your involvement in some ill-conceived mail order pornography ring.As does this one found in the same disturbing packet. <br>
+										<br>
+										
+							(Newman holds up a picture of Ron) <br>
+										<br>
+										
+							GEORGE: OH MY GOD!!! <br>
+										<br>
+										
+							NEWMAN: We have some questions we'd like you to answer. <br>
+										<br>
+										
+							JERRY: I have some questions of my own. <br>
+										<br>
+										
+							(Sheila walks in) <br>
+										<br>
+										
+							SHEILA: Hi. One of your mailmen....... Oh my god, George!?! <br>
+										<br>
+										
+							GEORGE: Listen Sheila it's not what you think. I put my trust into the wrong person. He said the key word was tasteful. <br>
+										<br>
+										
+							JERRY: The timeless art of seduction. <br>
+										<br>
+										
+							GEORGE: SHEILA!!! <br>
+										<br>
+										
+							&nbsp;<br>
+										
+							The End</font>
+							</td>
+						</tr>
+						<tr height="6">
+							<td class="bottom2" width="645" height="6"></td>
+						</tr>
+						<tr>
+							<td width="645">
+								<div align="center">
+									<font size="-1">Copyright 2006 seinology.com | All Rights Reserved | Designed by 13erla</font></div>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+		<p></p>
+	</body>
+
+</html>

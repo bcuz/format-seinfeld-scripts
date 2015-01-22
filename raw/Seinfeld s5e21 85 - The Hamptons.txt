@@ -1,0 +1,1269 @@
+<tdOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+<html>
+
+	<head>
+		<meta http-equiv="content-type" content="text/html;charset=ISO-8859-1">
+		<meta name="description" content="Top Source for Seinfeld">
+		<meta name="keywords" content="seinfeld, sienfeld, Jerry Seinfeld, Julia Louis Dreyfus, Jason Alexander, Michael Richards, Kramer, George, Costanza, Elaine Benes, morty, Larry David">
+		<title>Seinology.com :: Scripts :: 85-The Hamptons</title>
+	<link rel='stylesheet' href='/stylesheet.css' type='text/css'>
+	</head>
+
+	<body>
+			<table align="center" width="787" border="0" cellspacing="0" cellpadding="0">
+				<tr>
+					<td><font size="-2" color="red">Seinology.com - </font><font size="-3" color="black">Where Seinfeld Content and Accuracy Matter Most. Seinfeld scripts in pdf form, Seinfeld episode video clips, Seinfeld episode audio clips, Jerry Seinfeld appearances, Julia Louis-Dreyfus appearances, Michael Richards appearances, Jason Alexander appearances, Seinfeld discussion Forum, Seinfeld Where are they Now? Seinlanguage Newsletter, Popular Seinfeld Lists, Seinfeld episode standup, Seinfeld episode guide, Seinfeld fan fiction. Seinfeld content all on one domain. Seinology.com enjoy your stay.</font></td>
+				</tr>
+			</table>
+		
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr height="100">
+				<td class="logo"></td>
+			</tr>
+			<tr><td class="ads" align="center" background=#8694fa>
+				<script type="text/javascript"><!--
+google_ad_client = "pub-1924026976931416";
+google_ad_width = 728;
+google_ad_height = 90;
+google_ad_format = "728x90_as";
+google_ad_type = "text";
+google_ad_channel = "";
+google_color_border = "FFFFFF";
+google_color_bg = "8694fa";
+google_color_link = "0000FF";
+google_color_text = "000000";
+google_color_url = "002E3F";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></td></tr>
+		</table>
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr>
+				<td valign="top" width="136">
+					<table width="136" border="0" cellspacing="0" cellpadding="0">
+						<tr height="24">
+							<td class="navigation">
+								<div align="center">
+									
+									<b>Navigation</b></div>
+							</td>
+						</tr>
+						<tr height="199">
+							<td class="spacer1" valign="top" width="136" height="199">
+								<div align="center">
+									<font size="-1"><a href="http://www.seinology.com">Home</a><br>
+										<a href="http://board.seinology.com">Forum</a><br>
+										<a href="http://www.seinology.com/av.shtml">Audio/Video</a><br>
+										<a href="http://www.seinology.com/scripts.shtml">Scripts</a><br>
+										<a href="http://www.seinology.com/survivor.shtml">Survivor</a><br>
+										<a href="http://www.seinology.com/fanfics.shtml">Fan Fiction</a><br>
+										<a href="http://www.seinology.com/gallery/">Gallery</a><br>
+										<a href="http://www.seinology.com/newsletter.shtml">Newsletter</a><br>
+										<a href="http://www.seinology.com/lists.shtml">Lists</a><br>
+										<a href="http://www.seinology.com/epguide.shtml">Episode Guide</a><br>
+										<a href="http://www.seinology.com/links.shtml">Links</a><br>
+										<a href="http://www.seinology.com/faqother.shtml">Faq + others</a><br>
+										<a href="http://www.seinology.com/legal.shtml">Legal</a></font></div>
+							</td>
+						</tr>
+						
+						<tr>
+							<td class="nav2" width="136">
+							<div align="center"><b>Search</b></div></td>
+						</tr>
+						<tr>
+							<td class="spacer1" width="136" valign="top"><div align="center"><form method="get" action="http://www.seinology.com/search/search.cgi">
+<p><label for="fdse_Match">Match</label><br>
+<select name="Match" id="fdse_Match" size="1">
+<option value="1">All</option>
+<option value="0">Any</option>
+<option value="2">Phrase</option>
+</select></p>
+<p><label for="fdse_Realm">Where?</label><br>
+<select name="Realm" id="fdse_Realm" size="1">
+<option selected="selected" value="All">EntireSite</option>
+<option value="Ep Guide">Ep Guide</option>
+<option value="Images">Images</option>
+<option value="Lists">Lists</option>
+<option value="Newsletters">Newsletters</option>
+<option value="Scripts">Scripts</option>
+<option value="Notes..Nothing">Notes..Nothing</option>
+</select></p>
+<p><input type="text" name="Terms" size="14" id="fdse_Terms"><br>
+<input type="submit" class="submit" name="submitButtonName" value="Search"></p>
+</div></form></td>
+						</tr>
+						<tr><td class="bottom" width="136" height="10" valign="top">
+						</td>
+						</tr>
+					</table>
+				</td>
+				<td width="4"></td>
+				<td valign="top" width="645">
+					<table width="645" border="0" cellspacing="0" cellpadding="0">
+						<tr height="18">
+							<td width="645" height="35" class="bar">
+								<div align="center">
+									<b><font size="+2" color="black">Script</font></b></div>
+							</td>
+						</tr>
+						<tr height="362">
+							<td class="spacer2" valign="top" width="645" height="362">
+
+						<p><font size="-2">Episode 85 - The Hamptons<br>
+							
+						pc: 522, season 5, episode 21<br>
+							
+						Broadcast date: May 12, 1994<br>
+							<br>
+							
+						Written by Peter Mehlman &amp; Carol Leifer<br>
+							
+						Directed by Tom Cherones<br>
+							<br>
+							
+						-------------------------------------------------------------------------------<br>
+							<br>
+							
+						The Cast<br>
+							
+						Regulars:<br>
+							
+						Jerry Seinfeld ....................... Jerry Seinfeld<br>
+							
+						Jason Alexander .................. George Costanza<br>
+							
+						Julia Louis-Dreyfus ............. Elaine Benes<br>
+							
+						Michael Richards ................. Kramer<br>
+							<br>
+							
+						Guest Stars:<br>
+							<br>
+							
+						Melanie Smith&nbsp; .................... Rachel<br>
+							
+						Lisa Mende ........................ Carol<br>
+							
+						Melora Walters&nbsp; ................. Jane<br>
+							
+						Richard Burgi&nbsp;&nbsp; .................. Ben<br>
+							
+						Mark L. Taylor&nbsp; ................ Michael<br>
+							
+						Jesse D. Goins&nbsp; .................. Cop<br>
+							<br>
+							
+						==================================================================<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						[Opening Monologue]<br>
+							<br>
+							
+						I find the human fascination with water is amazing. We're constantly going to beaches, pools, lakes, rivers, we're swimming, we're snorkeling, we're-we're scuba diving, we bathe in it, our bodies are mostly made of water, everyone is caring around these bottles of water. We can't get enough water, unless it rains then we're like, &quot;Oh, look I'm soaked. I am literally drenched.&quot; For some reason we have a huge problem with small flying water. I-It'll just stop us right in our tracks. &quot;Uh, I felt a drop, We're gonna get caught in it! Everyone cover your water bottles, run!!&quot;<br>
+							
+						&nbsp;<br>
+							<br>
+							<br>
+							
+						[Jerry's Car]<br>
+							<br>
+							
+						(Jerry driving, with Elaine in passenger seat and Kramer in back seat)<br>
+							<br>
+							
+						KRAMER: All right, get off at the next exit.<br>
+							<br>
+							
+						JERRY: Kramer, I've driven to east Hampton many times, I know the exit.<br>
+							<br>
+							
+						KRAMER: It's a great house, pool, sun deck? Yeah, I'll be there.<br>
+							<br>
+							
+						JERRY: (To Elaine) You sure we're makin' the right move?<br>
+							<br>
+							
+						ELAINE: We gotta see the new baby anyway, at least we'll get a weekend in the Hamptons out of it.<br>
+							<br>
+							
+						JERRY: Didn't they just have a baby?<br>
+							<br>
+							
+						ELAINE: That was two years ago, remember? 'Jeh-Ree, you gotta see the Bay-Bee! You gotta see the Bay-Bee!'<br>
+							<br>
+							
+						JERRY: Is it possible they're just having babies to get people to visit them?<br>
+							<br>
+							
+						KRAMER: Hey Jerry, you ever wear silk underwear?<br>
+							<br>
+							
+						JERRY: No.<br>
+							<br>
+							
+						KRAMER: Put that on the top of your list.<br>
+							<br>
+							
+						JERRY: No, not for me. A little too delightful. Well, George and Jane should be almost there by now.<br>
+							<br>
+							
+						ELAINE: Oh, isn't that weird that George and Jane haven't had sex yet, but they're spending a weekend together?<br>
+							<br>
+							
+						JERRY: I know, George is pretty pleased about it. It's like she signed a letter of intent.<br>
+							<br>
+							
+						ELAINE: When's Rachel comin' out?<br>
+							<br>
+							
+						JERRY: She's makin' the three o'clock train.<br>
+							<br>
+							
+						ELAINE: Her father is so religious, I'm just amazed that he's letting you see her again after that Schindler's List make-out session.<br>
+							<br>
+							
+						JERRY: I bought him some kishka.<br>
+							<br>
+							
+						KRAMER: What's that?<br>
+							<br>
+							
+						JERRY: It's kind of a stuffed meat thing. Israeli soldiers carry it. In case they're captured behind enemy lines, they eat it and it kills them.<br>
+							<br>
+							
+						(Elaine laughs)<br>
+							<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						[George and Jane in another car driving to the Hamptons.]<br>
+							<br>
+							
+						GEORGE: I never tasted a cough medicine I didn't love.<br>
+							<br>
+							
+						JANE: Me too. I love cough medicine.<br>
+							<br>
+							
+						GEORGE: You see? We were made for each other. (Thinking to himself) It's amazing. If I reach out and touch her breast right not, she'd scream and throw me out of the car. But at this time tomorrow, I could touch it all I want.<br>
+							<br>
+							
+						JANE: What's your favorite?<br>
+							<br>
+							
+						GEORGE: Potussan. Ever try it with club soda?<br>
+							<br>
+							
+						JANE: No.<br>
+							<br>
+							
+						GEORGE: Oh, very refreshing. (Thinking again) Sex is like joining a private club. I'll be the same me tomorrow, but suddenly, the no trespassing sign will be gone.<br>
+							<br>
+							
+						JANE: Are we almost there?<br>
+							<br>
+							
+						GEORGE: Yeah, about ten, fifteen minutes. But I have to stop at a vegetable stand.<br>
+							<br>
+							
+						JANE: What for?<br>
+							<br>
+							
+						GEORGE: My mother loves Hampton tomatoes. She's nuts for Hampton tomatoes.<br>
+							<br>
+							
+						JANE: Can you buy 'em later? I really wanna get some... sun.<br>
+							<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						[George, Jane, Kramer, and Jerry outside of the house in the back.]<br>
+							<br>
+							
+						KRAMER: Hey Jerry. Rub some lotion on my back.<br>
+							<br>
+							
+						JERRY: Who are you, Mrs. Robinson?<br>
+							<br>
+							
+						KRAMER: Come on, I'll rub some on yours.<br>
+							<br>
+							
+						JERRY: No, that's no sweet'ning the deal. No.<br>
+							<br>
+							
+						GEORGE: (To Jane) You know, when I was a kid, I once found a dollar and fifty cents in change on the bottom of the pool.<br>
+							<br>
+							
+						JANE: (No feeling in her voice) You must've been excited.<br>
+							<br>
+							
+						GEORGE: Yeah. Hey, you know, I gotta go get these tomatoes. You wanna go for a ride?<br>
+							<br>
+							
+						JANE: I don't think so.<br>
+							<br>
+							
+						GEORGE: 'Kay. I'll uh, I'll see you later. Anybody want some tomatoes?<br>
+							<br>
+							
+						JERRY: No thanks.<br>
+							<br>
+							
+						KRAMER: No. (George leaves for the tomatoes)<br>
+							<br>
+							
+						JANE: I'm gonna take a dip. (She leaves for beach, Elaine enters with a shady hat on)<br>
+							<br>
+							
+						JERRY: And then there's Maude. (She sits down next to Jerry)<br>
+							<br>
+							
+						ELAINE: Look at my face, look at it. You see any lines?<br>
+							<br>
+							
+						JERRY: No lines.<br>
+							<br>
+							
+						ELAINE: You know why? One word: shade.<br>
+							<br>
+							
+						JERRY: So when are we gonna see this baby? When is the momentous event?<br>
+							<br>
+							
+						ELAINE: I don't know. They're takin' a nap or something.<br>
+							<br>
+							
+						KRAMER: I'm gonna go see if there are any girls on the beach. Elaine, you wanna come?<br>
+							<br>
+							
+						ELAINE: (Sarcastic) No thanks. I got plenty of girlfriends.<br>
+							<br>
+							
+						JERRY: (Looking toward beach) Oh this is interesting.<br>
+							<br>
+							
+						ELAINE: What?<br>
+							<br>
+							
+						JERRY: Jane's topless. (They all look)<br>
+							<br>
+							
+						KRAMER: Yo yo ma.<br>
+							<br>
+							
+						JERRY: Boutros Boutros-Ghali.<br>
+							<br>
+							
+						ELAINE: Nice rack. (Carol and Michael inside open back door)<br>
+							<br>
+							
+						CAROL: Come on, you guys. You can come and see the bay-bee!<br>
+							<br>
+							
+						JERRY: Oh, in a minute, Carol.<br>
+							<br>
+							
+						KRAMER: We're gonna be right there.<br>
+							<br>
+							
+						JERRY: This is weird wild stuff. George hasn't even seen her yet.<br>
+							<br>
+							
+						ELAINE: Why do you think we're getting the sneak preview?<br>
+							<br>
+							
+						KRAMER: Maybe she's trying to create a buzz.<br>
+							<br>
+							
+						ELAINE: What?<br>
+							<br>
+							
+						KRAMER: You know, get some good word of mouth goin'.<br>
+							<br>
+							
+						JERRY: Oh, here she comes. (They pretend to not have watched as Jane enters)<br>
+							<br>
+							
+						JANE: I'm thirsty. Anyone want a drink?<br>
+							<br>
+							
+						(Jerry, Elaine and Kramer are shocked)<br>
+							<br>
+							
+						JERRY: No thanks.<br>
+							<br>
+							
+						ELAINE: I'm good.<br>
+							<br>
+							
+						KRAMER: Deh-deh-deh-deh- (Jane exits) All right, show's over. I'm goin' to the beach.<br>
+							<br>
+							
+						(Carol enters the Bay-bee's room with Elaine, Jerry, and husband Michael not far behind.)<br>
+							<br>
+							
+						CAROL: Adam (the baby's name), Jerry and Elaine are here.<br>
+							<br>
+							
+						ELAINE: Oh, he's a cute little shnugly baby.<br>
+							<br>
+							
+						CAROL: Isn't he gorgeous? (Elaine looks at baby, only to be frightened and turn away)<br>
+							<br>
+							
+						ELAINE: Ugghh.<br>
+							<br>
+							
+						CAROL: Is she gorgeous? (Elaine and Jerry looking away)<br>
+							<br>
+							
+						ELAINE: Oh, gorgeous, yes.<br>
+							<br>
+							
+						JERRY: So very gorgeous.<br>
+							<br>
+							
+						CAROL: Michael, shut the door! You're letting bugs in.<br>
+							<br>
+							
+						(Cut to Kramer on the beach with some girls, then using a metal detector, then seeing a rope leading to something he doesn't know of yet.)<br>
+							<br>
+							
+						(Jerry and Elaine gasping for air outside after they just left the baby's room.)<br>
+							<br>
+							
+						JERRY: Is it me or was that the ugliest baby you have ever seen?<br>
+							<br>
+							
+						ELAINE: Uh, I couldn't look. It was like the Pekinese.<br>
+							<br>
+							
+						JERRY: Boy, a little too much chlorine in that gene pool. (They sit) And, you know, the thing is, they're never gonna know, no one's ever gonna tell them.<br>
+							<br>
+							
+						ELAINE: Oh, you have to lie.<br>
+							<br>
+							
+						JERRY: It's a must lie situation.<br>
+							<br>
+							
+						ELAINE: Yes, it's a must lie situation.<br>
+							<br>
+							
+						JERRY: You know, I don't think we should tell George we saw Jane topless.<br>
+							<br>
+							
+						ELAINE: No, I don't think so.<br>
+							<br>
+							
+						JERRY: In fact remind me to tell Kramer too.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Cut to Kramer reeling in a box of lobster on the ocean.]<br>
+							<br>
+							
+						KRAMER: Oooh, lobsters.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Carol and the baby's doctor with the baby]<br>
+							<br>
+							
+						BEN: Oh this ointment should do it.<br>
+							<br>
+							
+						CAROL: How are you feeling, Adam? (She sees Elaine in the hall) Elaine! (Elaine enters) This is our pediatrician, Ben Feffa.<br>
+							<br>
+							
+						ELAINE: Hi.<br>
+							<br>
+							
+						CAROL: Look at him, Elaine. How gorgeous is he? I ask you, how gorgeous?<br>
+							<br>
+							
+						ELAINE: (Looking at Ben) Pretty gorgeous.<br>
+							<br>
+							
+						BEN: Elaine, you have children?<br>
+							<br>
+							
+						ELAINE: Me? Oh no, but I'd love to have a baby, I mean, I can't wait to have a baby. I'm just dyin' to have a baby.<br>
+							<br>
+							
+						BEN: A beautiful woman like you should. You're quite breathtaking.<br>
+							<br>
+							
+						ELAINE: Breathtaking? I'm breathtaking?<br>
+							<br>
+							
+						CAROL: And he's very particular. Ben, you're staying tonight, right?<br>
+							<br>
+							
+						BEN: Uh, Sure. (Elaine celebrates to herself as Jerry enters and quickly looks away from the baby)<br>
+							<br>
+							
+						JERRY: Ah, I'm gonna go pick up Rachel at the station.<br>
+							<br>
+							
+						ELAINE: Yeah, see ya.<br>
+							<br>
+							
+						JERRY: Okay. (He leaves)<br>
+							<br>
+							
+						CAROL: Oh, just look at him!<br>
+							<br>
+							
+						BEN: Yeah, he really is breathtaking. (Elaine confused by his comment)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Jerry and Rachel outside]<br>
+							<br>
+							
+						RACHEL: Train was so crowded. I had to sit in the seat facing the wrong way.<br>
+							<br>
+							
+						JERRY: Oh I like that. It's like going back in time. (George comes outside)<br>
+							<br>
+							
+						GEORGE: Hey Rachel!<br>
+							<br>
+							
+						RACHEL: (Quickly gets out of seat) Hi. I'm gonna go in there to change.<br>
+							<br>
+							
+						(She leaves)<br>
+							<br>
+							
+						GEORGE: What kind of a greeting was that?<br>
+							<br>
+							
+						JERRY: She's got greeting problems.<br>
+							<br>
+							
+						GEORGE: Yeah. I love Hampton tomatoes. You know, you can eat 'em like apples. You know it's funny, the tomato never really took on as a hand fruit.<br>
+							<br>
+							
+						JERRY: Well, the tomato's an anomaly. So successful with the ketchup and the sauce, but you can't find a good one. (Kramer enters with a box of lobster)<br>
+							<br>
+							
+						KRAMER: Hey, hey, hey! Look at what I got!<br>
+							<br>
+							
+						GEORGE: Hey! Wow, the K-Man! (They walk into the kitchen inside)<br>
+							<br>
+							
+						JERRY: You got lobster for everybody?<br>
+							<br>
+							
+						KRAMER: Yeah, and they're fresh! Right out of the ocean.<br>
+							<br>
+							
+						GEORGE: This is fantastic. Man, what a weekend. Swimming, lobster for dinner...<br>
+							<br>
+							
+						KRAMER: I know, it's great. And I saw Jane topless. (Jerry shows that 'damn' expression behind George)<br>
+							<br>
+							
+						GEORGE: You saw who, what?<br>
+							<br>
+							
+						KRAMER: Yeah, I saw Jane topless. Well, we all saw her.<br>
+							<br>
+							
+						JERRY: (Jerry realizes the situation is hopeless) All right.<br>
+							<br>
+							
+						GEORGE: You saw Jane topless?<br>
+							<br>
+							
+						JERRY: Well, when you went for the tomatoes she lied out topless.<br>
+							<br>
+							
+						GEORGE: Oh you mean face down on her chest.<br>
+							<br>
+							
+						JERRY: No.<br>
+							<br>
+							
+						GEORGE: Face up on her back?<br>
+							<br>
+							
+						JERRY: Yeah.<br>
+							<br>
+							
+						GEORGE: Well why'd she do that?<br>
+							<br>
+							
+						KRAMER: I guess she was hot.<br>
+							<br>
+							
+						GEORGE: You mean she just laid there topless?<br>
+							<br>
+							
+						KRAMER: No, no, she got up, she walked around...<br>
+							<br>
+							
+						GEORGE: Walked around? And you looked?<br>
+							<br>
+							
+						KRAMER: Of course. She's got a great body, buddy. All right, I'm gonna go upstairs, I'll be right back.<br>
+							<br>
+							
+						GEORGE: I can't believe that you saw her before me.<br>
+							<br>
+							
+						JERRY: Think of me as a doctor. (They go outside again)<br>
+							<br>
+							
+						GEORGE: Well, how good a look did you get?<br>
+							<br>
+							
+						JERRY: Well what'd you mean?<br>
+							<br>
+							
+						GEORGE: Well, if she was a criminal and you had to describe her to a police sketch artist...<br>
+							<br>
+							
+						JERRY: They'd pick her up in about ten minutes.<br>
+							<br>
+							
+						GEORGE: Great, great. So anytime you want you can just visualize her naked.<br>
+							<br>
+							
+						JERRY: (looking of into the distance) I guess that's true...<br>
+							<br>
+							
+						GEORGE: Stop it, stop it! It's not fair. It's not fair. I don't like this situation, Jerry. I don't like it one bit.<br>
+							<br>
+							
+						JERRY: What do you want me to do? You wanna see Rachel naked?<br>
+							<br>
+							
+						GEORGE: Yes, yes! The punishment should fit the crime.<br>
+							<br>
+							
+						JERRY: You can see me naked. I can offer you that.<br>
+							<br>
+							
+						GEORGE: It's like I'm Neil Armstrong. I turn around for a sip of Tang and you jump out first.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Jerry and Rachel in their room, with Elaine there as well]<br>
+							<br>
+							
+						ELAINE: Nobody ever called me breathtaking before.<br>
+							<br>
+							
+						JERRY: I've never been called breathtaking either.<br>
+							<br>
+							
+						ELAINE: I mean, if he thinks that that baby's breathtaking, then who's not breathtaking?<br>
+							<br>
+							
+						JERRY: Maybe he just said it because the mother was in the room.<br>
+							<br>
+							
+						ELAINE: Yeah, right, that's a possibility. I have to find out.<br>
+							<br>
+							
+						JERRY: How are you gonna do that?<br>
+							<br>
+							
+						ELAINE: I can be very clever.<br>
+							<br>
+							
+						RACHEL: I'm gonna take a swim.<br>
+							<br>
+							
+						ELAINE: Oh, me too. I'll meet you down. (She goes in the hall and sees George) Oh, don't go in, Rachel's getting undressed.<br>
+							<br>
+							
+						GEORGE: Oh, okay. (Starts to walk other way and then walks to their room and goes in)<br>
+							<br>
+							
+						RACHEL: Hey!<br>
+							<br>
+							
+						GEORGE: Oh, sorry.<br>
+							<br>
+							
+						RACHEL: Don't you knock?<br>
+							<br>
+							
+						GEORGE: I'm sorry, uh, it's not like I'm gonna see something I've never seen before.<br>
+							<br>
+							
+						JERRY: You might have.<br>
+							<br>
+							
+						GEORGE: I didn't.<br>
+							<br>
+							
+						JERRY: You won't.<br>
+							<br>
+							
+						RACHEL: What'd you want anyway, George?<br>
+							<br>
+							
+						JERRY: Yes, George. I'm kind of wondering myself. What is it what you want?<br>
+							<br>
+							
+						GEORGE: No, I was just wondering... if you guys, uh, had any gum.<br>
+							<br>
+							
+						JERRY: Oh! So you were swimming in the pool, and you wanted some gum.<br>
+							<br>
+							
+						GEORGE: Yes, because the water was cold... and the chewing warms me up.<br>
+							<br>
+							
+						RACHEL: We don't have any gum.<br>
+							<br>
+							
+						GEORGE: Okay. (Chewing) Thanks anyway. (Continues to chew as he exits)<br>
+							<br>
+							
+						RACHEL: Strange man.<br>
+							<br>
+							
+						JERRY: Wait'll you get to know him.<br>
+							<br>
+							
+						RACHEL: So where is this baby, anyway?<br>
+							<br>
+							
+						JERRY: Oh, check it out. I guarantee you've never seen anything quite so objectionable. It's down the hall, third door on your left. (Rachel walks down hall, walks in on George changing out of his swimsuit)<br>
+							<br>
+							
+						RACHEL: (She screams) Oh my God! I'm sorry, I thought this was the baby's room. I'm really sorry. (She exits)<br>
+							<br>
+							
+						GEORGE: (realizing he was short changed) I was in the pool! I was in the pool!<br>
+							<br>
+							<br>
+							<br>
+							
+						[Jerry and George talking in Jerry's room]<br>
+							<br>
+							
+						GEORGE: Did she do it on purpose?<br>
+							<br>
+							
+						JERRY: It was my fault, I told her the wrong door.<br>
+							<br>
+							
+						GEORGE: I was supposed to see her. She wasn't supposed to see me.<br>
+							<br>
+							
+						JERRY: So what?<br>
+							<br>
+							
+						GEORGE: Well ordinarily I wouldn't mind. But...<br>
+							<br>
+							
+						JERRY: But...<br>
+							<br>
+							
+						GEORGE: Well I just got back from swimming in the pool. And the water was cold...<br>
+							<br>
+							
+						JERRY: Oh... You mean... shrinkage.<br>
+							<br>
+							
+						GEORGE: Yes. Significant shrinkage.<br>
+							<br>
+							
+						JERRY: So you feel you were short changed.<br>
+							<br>
+							
+						GEORGE: Yes! I mean, if she thinks that's me she's under a complete misapprehension. That was not me, Jerry. That was not me.<br>
+							<br>
+							
+						JERRY: Well, so what's the difference?<br>
+							<br>
+							
+						GEORGE: What if she discusses it with Jane?<br>
+							<br>
+							
+						JERRY: Oh, she's not gonna tell Jane.<br>
+							<br>
+							
+						GEORGE: How do you know?<br>
+							<br>
+							
+						JERRY: Women aren't like us.<br>
+							<br>
+							
+						GEORGE: They're worse! They're much worse than us, they talk about everything! Couldn't you at least tell her about the shrinkage factor?<br>
+							<br>
+							
+						JERRY: No, I'm not gonna tell her about your shrinkage. Besides, I think women know about shrinkage.<br>
+							<br>
+							
+						GEORGE: How do women know about shrinkage?<br>
+							<br>
+							
+						JERRY: Isn't it common knowledge?<br>
+							<br>
+							
+						GEORGE &amp; JERRY: (Elaine walking down the hall they notice her and wave her into the room) Elaine! Get! (She enters)<br>
+							<br>
+							
+						GEORGE: Do women know about shrinkage?<br>
+							<br>
+							
+						ELAINE: What do you mean, like laundry?<br>
+							<br>
+							
+						GEORGE: No.<br>
+							<br>
+							
+						JERRY: Like when a man goes swimming... afterwards...<br>
+							<br>
+							
+						ELAINE: It shrinks?<br>
+							<br>
+							
+						JERRY: Like a frightened turtle!<br>
+							<br>
+							
+						ELAINE: Why does it shrink?<br>
+							<br>
+							
+						GEORGE: It just does.<br>
+							<br>
+							
+						ELAINE: I don't know how you guys walk around with those things.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Everyone at the dinner table eating Kramer's lobster.]<br>
+							<br>
+							
+						MICHAEL: Thanks for the lobster, Kramer.<br>
+							<br>
+							
+						KRAMER: Rachel, aren't you gonna have any?<br>
+							<br>
+							
+						RACHEL: Oh, no, I can't. I'm kosher, we don't eat shellfish.<br>
+							<br>
+							
+						KRAMER: You mean you've never tasted lobster?<br>
+							<br>
+							
+						RACHEL: No.<br>
+							<br>
+							
+						KRAMER: Wow. You're so pious. I really respect that. You know when you die, you're gonna get some special attention.<br>
+							<br>
+							
+						(Baby is heard crying)<br>
+							<br>
+							
+						CAROL: Oh, the baby's crying. I'll go get him. He can sit with us.<br>
+							<br>
+							
+						ELAINE &amp; JERRY: No!<br>
+							<br>
+							
+						JERRY: No, you don't wanna do that. You'll be uncomfortable.<br>
+							<br>
+							
+						ELAINE: Yeah, finish eating. The baby's not gonna have any fun over here. We're-We're not fun for a baby.<br>
+							<br>
+							
+						JERRY: Yeah, the lobster'll scare him.<br>
+							<br>
+							
+						CAROL: I'm gonna get him.<br>
+							<br>
+							
+						GEORGE: See, look at this. (wearing a very tight shirt) Rachel, my T-shirt shrunk. It used to be much bigger, and now it shrunk. You see, that's what water does. It shrinks things.<br>
+							<br>
+							
+						ELAINE: Really? Tell us more, Mr. Science. (Rachel whispers in Jane's ear, which prompts Jane to laugh)<br>
+							<br>
+							
+						GEORGE: What're you doing? What're you, telling secrets? What're you laughing at?<br>
+							<br>
+							
+						JANE: It's nothing, George.<br>
+							<br>
+							
+						GEORGE: You know, it's very impolite to tell secrets. Are you talking about me?<br>
+							<br>
+							
+						JANE: What is it with you?<br>
+							<br>
+							
+						JERRY: (To George) Easy big fella.<br>
+							<br>
+							
+						MICHAEL: So Kramer, where'd you get all these lobster, at the Fleesher's Market?<br>
+							<br>
+							
+						KRAMER: No, I got 'em in the ocean.<br>
+							<br>
+							
+						MICHAEL: The ocean? What'd you mean?<br>
+							<br>
+							
+						KRAMER: Well, I found this rope and I kept tugging on it, and all these lobsters came up.<br>
+							<br>
+							
+						MICHAEL: Those are commercial lobster traps. You can't take those lobsters from there. That's against the law.<br>
+							<br>
+							
+						KRAMER: Take it easy. There's plenty of lobsters in the ocean for everyone.<br>
+							<br>
+							
+						MICHAEL: My father was a lobsterman. He got up every morning at four and came home every night stinking of brine! He sent me through law school with the lobsters he caught! (Kramer stands up from table)<br>
+							<br>
+							
+						CAROL: (Entering with baby) Here he is.<br>
+							<br>
+							
+						KRAMER: Ahhh! (Shocked after seeing the baby)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Out on the porch, Ben and Elaine]<br>
+							<br>
+							
+						ELAINE: Some night, huh?<br>
+							<br>
+							
+						BEN: Yeah, I wish I had my telescope.<br>
+							<br>
+							
+						ELAINE: Some dinner, huh?<br>
+							<br>
+							
+						BEN: Nothing like fresh caught lobster.<br>
+							<br>
+							
+						ELAINE: Some house, huh?<br>
+							<br>
+							
+						BEN: It was built by Mark Fargman. He build a lot of these homes here.<br>
+							<br>
+							
+						ELAINE: Some ugly baby, huh?<br>
+							<br>
+							
+						BEN: What did you say?<br>
+							<br>
+							
+						ELAINE: (improvising) I said, uh, some snuggly baby.<br>
+							<br>
+							
+						BEN: He is something.<br>
+							<br>
+							
+						ELAINE: Well, to tell you the truth, Dr. Feffa, I , I was surprised to hear you use a word like breathtaking to describe a baby, I mean, because you also used it referring to me.<br>
+							<br>
+							
+						BEN: Well, you know Elaine, sometimes you say things just to be nice. (Elaine relieved, then confused, not knowing if he was being nice to her or to the baby)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Rachel and Jerry in their room]<br>
+							<br>
+							
+						JERRY: You told her?<br>
+							<br>
+							
+						RACHEL: Yeah, what's the big deal?<br>
+							<br>
+							
+						JERRY: You don't understand. This organ, it's very... schizophrenic.<br>
+							<br>
+							
+						RACHEL: Jerry, what the difference? You know, you're the ones obsessed with this stuff, not us. I'm sure it wouldn't matter to Jane.<br>
+							<br>
+							<br>
+							<br>
+							
+						[In Jane &amp; George's room, Jane is packing her things]<br>
+							<br>
+							
+						GEORGE: You're going back to New York now?<br>
+							<br>
+							
+						JANE: Yeah, I have some things to do.<br>
+							<br>
+							
+						GEORGE: Uh huh. Uh huh! I think you spoke to your little friend Rachel, that's what I think.<br>
+							<br>
+							
+						JANE: So what if I did?<br>
+							<br>
+							
+						GEORGE: And she didn't say something to you about a certain something?<br>
+							<br>
+							
+						JANE: I don't know what you're talking about.<br>
+							<br>
+							
+						GEORGE: *I* think that *you* think that a certain *something* is not all that it could be, when in fact it is is all that it *should* be, and *more*!<br>
+							<br>
+							
+						JANE: (patronizing George) I'm sure it is.<br>
+							<br>
+							
+						GEORGE: Look, you don't understand. There was shrinkage.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Rachel enters the kitchen with Kramer sitting at table. Rachel opens fridge and Kramer lights up a cigar]<br>
+							<br>
+							
+						KRAMER: You looking for this? (Holding up lobster)<br>
+							<br>
+							
+						RACHEL: Oh, Kramer! You startled me.<br>
+							<br>
+							
+						KRAMER: Well, I thought you might wind up around here.<br>
+							<br>
+							
+						RACHEL: Yeah, well, I couldn't stop thinking about how everyone was enjoying the lobster so much an' well I thought I little taste wouldn't hurt, huh?<br>
+							<br>
+							
+						KRAMER: No I'm afraid I couldn't do that.<br>
+							<br>
+							
+						RACHEL: Why not?<br>
+							<br>
+							
+						KRAMER: Well, that wouldn't be kosher.<br>
+							<br>
+							
+						RACHEL: C'mon, Kramer. I really want to try it.<br>
+							<br>
+							
+						KRAMER: Nah, I'm sorry, honey. Not on my watch.<br>
+							<br>
+							
+						RACHEL: Come on, Kramer.<br>
+							<br>
+							
+						KRAMER: Heyahhh!<br>
+							<br>
+							<br>
+							<br>
+							
+						[Rachel walks back into Jerry's bedroom.]<br>
+							<br>
+							
+						RACHEL: I just heard a car drive out. What was that?<br>
+							<br>
+							
+						JERRY: Oh, that's just Jane driving home to New York in the middle of the night. (Rachel shocked)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Breakfast table the next morning, George cooking]<br>
+							<br>
+							
+						CAROL: George, thanks so much for making breakfast.<br>
+							<br>
+							
+						ELAINE: George, these are the best scrambled eggs I've ever tasted.<br>
+							<br>
+							
+						KRAMER: Ya I didn't know you could cook.<br>
+							<br>
+							
+						GEORGE: Well, I'm just expressing my gratitude to our gracious host.<br>
+							<br>
+							
+						BEN: Yes, George, the whole breakfast is breathtaking. (hearing this Elaine looks at him extremely annoyed)<br>
+							<br>
+							
+						(Rachel and Jerry enter)<br>
+							<br>
+							
+						RACHEL: Good morning.<br>
+							<br>
+							
+						ALL: Hey, hey. Morning<br>
+							<br>
+							
+						RACHEL: Kramer, I just want to thank you again for last night, you really saved me.<br>
+							<br>
+							
+						MICHAEL: What happened?<br>
+							<br>
+							
+						RACHEL: Well, I almost tried the lobster, but Kramer stopped me.<br>
+							<br>
+							
+						KRAMER: Well I knew you'd regret it for the rest of your life.<br>
+							<br>
+							
+						RACHEL: You're right, I would have.<br>
+							<br>
+							
+						JERRY: (Referring to George) Hey, look at this guy.<br>
+							<br>
+							
+						GEORGE: A little breakfast.<br>
+							<br>
+							
+						JERRY: Yeah.<br>
+							<br>
+							
+						GEORGE: (To Rachel) And, uh, you eat eggs, right?<br>
+							<br>
+							
+						RACHEL: Yes, I do. Thank you.<br>
+							<br>
+							
+						JERRY: Geez, these are delicious. Where did you learn to make eggs like this?<br>
+							<br>
+							
+						RACHEL: Umm... This is so good.<br>
+							<br>
+							
+						GEORGE: Ah, enjoying them?<br>
+							<br>
+							
+						RACHEL: Mm-hmm.<br>
+							<br>
+							
+						GEORGE: Uh, good. You know, you might wanna try eating it with one of these. (Holds up lobster bib)<br>
+							<br>
+							
+						RACHEL: There's lobster in these eggs?<br>
+							<br>
+							
+						GEORGE: Not that much. You know, they tend to shrink in the water.<br>
+							<br>
+							
+						(Rachel storms out of room)<br>
+							<br>
+							
+						JERRY: Well, I guess I gotta go, too.<br>
+							<br>
+							
+						ELAINE: Well, this has turned out to be one *helluva* weekend. (Policeman knocks on door, Michael answers)<br>
+							<br>
+							
+						MICHAEL: Excuse me?<br>
+							<br>
+							
+						POLICE: I'm sorry to bother you, but we're trying to track down a lobster poacher that uh cleaned out on of the traps.<br>
+							<br>
+							
+						KRAMER: Wonder what's goin' on.<br>
+							<br>
+							
+						GEORGE: Ah, I guess I should go up and apologize.<br>
+							<br>
+							
+						MICHAEL: There he is, officer. (Michael points to Kramer, Kramer waves to policeman)<br>
+							<br>
+							<br>
+							<br>
+							
+						[George walks into Jerry and Rachel's room]<br>
+							<br>
+							
+						RACHEL: Ahh! Don't you ever knock?<br>
+							<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						[Jerry, Elaine, and George in the car.]<br>
+							<br>
+							
+						GEORGE: I don't know why Rachel had to drive back with Michael and Carol.<br>
+							<br>
+							
+						ELAINE: Hey, if you saw me naked, I wouldn't want to ride back in the same car with you either.<br>
+							<br>
+							
+						JERRY: I still can't believe Michael finked on Kramer.<br>
+							<br>
+							
+						ELAINE: How is he gonna pay off a thousand dollar fine?<br>
+							<br>
+							
+						JERRY: They got some sort of program.<br>
+							<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						[Cut to Kramer picks up trash on the side of the road, watched by a police officer.]<br>
+							<br>
+							<br>
+							<br>
+							
+						[Back to the car with Jerry, Elaine and George]<br>
+							<br>
+							
+						GEORGE: Hey, there's a tomato stand, let's stop, I can get some more.<br>
+							<br>
+							
+						JERRY: Hey, isn't that Michael's car?<br>
+							<br>
+							
+						ELAINE: There's Rachel.<br>
+							<br>
+							
+						GEORGE: Where? (He looks out window and gets hit by a tomato)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Closing Monologue]<br>
+							<br>
+							
+						Look at the work that people will do to get to the ocean. They'll fight the traffic and the heat and the parking and the hot sand. Trying to get through the waves, and the ironic thing is the ocean doesn't even really want us in there. That's what surfing is. Surfing is the ocean throwing us out of itself, you see? We keep trying to paddle in, the ocean's saying, &quot;No you don't.&quot; The ocean is like a nightclub and the waves are bouncers tossin' us out. The undertow's like a really mean bouncer. Instead of throwin' you out, they take you in back and rough you up a little bit. &quot;Oh, you wanna come in? How 'bout comin' in like 25 miles?&quot;<br>
+							<br>
+							<br>
+							
+						The End </td>
+						</tr>
+						<tr height="6">
+							<td class="bottom2" width="645" height="6"></td>
+						</tr>
+						<tr>
+							<td width="645">
+								<div align="center">
+									<font size="-1">Copyright 2006 seinology.com | All Rights Reserved | Designed by 13erla</font></div>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+		<p></p>
+	</body>
+
+</html>

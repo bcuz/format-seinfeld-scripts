@@ -1,0 +1,1003 @@
+<tdOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+<html>
+
+	<head>
+		<meta http-equiv="content-type" content="text/html;charset=ISO-8859-1">
+		<meta name="description" content="Top Source for Seinfeld">
+		<meta name="keywords" content="seinfeld, sienfeld, Jerry Seinfeld, Julia Louis Dreyfus, Jason Alexander, Michael Richards, Kramer, George, Costanza, Elaine Benes, morty, Larry David">
+		<title>Seinology.com :: Scripts :: 16-The Chinese Restaurant</title>
+	<link rel='stylesheet' href='/stylesheet.css' type='text/css'>
+	</head>
+
+	<body>
+			<table align="center" width="787" border="0" cellspacing="0" cellpadding="0">
+				<tr>
+					<td><font size="-2" color="red">Seinology.com - </font><font size="-3" color="black">Where Seinfeld Content and Accuracy Matter Most. Seinfeld scripts in pdf form, Seinfeld episode video clips, Seinfeld episode audio clips, Jerry Seinfeld appearances, Julia Louis-Dreyfus appearances, Michael Richards appearances, Jason Alexander appearances, Seinfeld discussion Forum, Seinfeld Where are they Now? Seinlanguage Newsletter, Popular Seinfeld Lists, Seinfeld episode standup, Seinfeld episode guide, Seinfeld fan fiction. Seinfeld content all on one domain. Seinology.com enjoy your stay.</font></td>
+				</tr>
+			</table>
+		
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr height="100">
+				<td class="logo"></td>
+			</tr>
+			<tr><td class="ads" align="center" background=#8694fa>
+				<script type="text/javascript"><!--
+google_ad_client = "pub-1924026976931416";
+google_ad_width = 728;
+google_ad_height = 90;
+google_ad_format = "728x90_as";
+google_ad_type = "text";
+google_ad_channel = "";
+google_color_border = "FFFFFF";
+google_color_bg = "8694fa";
+google_color_link = "0000FF";
+google_color_text = "000000";
+google_color_url = "002E3F";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></td></tr>
+		</table>
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr>
+				<td valign="top" width="136">
+					<table width="136" border="0" cellspacing="0" cellpadding="0">
+						<tr height="24">
+							<td class="navigation">
+								<div align="center">
+									
+									<b>Navigation</b></div>
+							</td>
+						</tr>
+						<tr height="199">
+							<td class="spacer1" valign="top" width="136" height="199">
+								<div align="center">
+									<font size="-1"><a href="http://www.seinology.com">Home</a><br>
+										<a href="http://board.seinology.com">Forum</a><br>
+										<a href="http://www.seinology.com/av.shtml">Audio/Video</a><br>
+										<a href="http://www.seinology.com/scripts.shtml">Scripts</a><br>
+										<a href="http://www.seinology.com/survivor.shtml">Survivor</a><br>
+										<a href="http://www.seinology.com/fanfics.shtml">Fan Fiction</a><br>
+										<a href="http://www.seinology.com/gallery/">Gallery</a><br>
+										<a href="http://www.seinology.com/newsletter.shtml">Newsletter</a><br>
+										<a href="http://www.seinology.com/lists.shtml">Lists</a><br>
+										<a href="http://www.seinology.com/epguide.shtml">Episode Guide</a><br>
+										<a href="http://www.seinology.com/links.shtml">Links</a><br>
+										<a href="http://www.seinology.com/faqother.shtml">Faq + others</a><br>
+										<a href="http://www.seinology.com/legal.shtml">Legal</a></font></div>
+							</td>
+						</tr>
+						
+						<tr>
+							<td class="nav2" width="136">
+							<div align="center"><b>Search</b></div></td>
+						</tr>
+						<tr>
+							<td class="spacer1" width="136" valign="top"><div align="center"><form method="get" action="http://www.seinology.com/search/search.cgi">
+<p><label for="fdse_Match">Match</label><br>
+<select name="Match" id="fdse_Match" size="1">
+<option value="1">All</option>
+<option value="0">Any</option>
+<option value="2">Phrase</option>
+</select></p>
+<p><label for="fdse_Realm">Where?</label><br>
+<select name="Realm" id="fdse_Realm" size="1">
+<option selected="selected" value="All">EntireSite</option>
+<option value="Ep Guide">Ep Guide</option>
+<option value="Images">Images</option>
+<option value="Lists">Lists</option>
+<option value="Newsletters">Newsletters</option>
+<option value="Scripts">Scripts</option>
+<option value="Notes..Nothing">Notes..Nothing</option>
+</select></p>
+<p><input type="text" name="Terms" size="14" id="fdse_Terms"><br>
+<input type="submit" class="submit" name="submitButtonName" value="Search"></p>
+</div></form></td>
+						</tr>
+						<tr><td class="bottom" width="136" height="10" valign="top">
+						</td>
+						</tr>
+					</table>
+				</td>
+				<td width="4"></td>
+				<td valign="top" width="645">
+					<table width="645" border="0" cellspacing="0" cellpadding="0">
+						<tr height="18">
+							<td width="645" height="35" class="bar">
+								<div align="center">
+									<b><font size="+2" color="black">Script</font></b></div>
+							</td>
+						</tr>
+						<tr height="362">
+							<td class="spacer2" valign="top" width="645" height="362">
+
+						<p><font size="-2">Episode 16 - The Chinese Restaurant<br>
+							
+						pc: 206, season 2, episode 11<br>
+							
+						Broadcast date: May 23, 1991<br>
+							<br>
+							
+						Written By Larry David &amp; Jerry Seinfeld<br>
+							
+						Directed By Tom Cherones<br>
+							<br>
+							
+						-------------------------------------------------------------------------------<br>
+							<br>
+							
+						The Cast<br>
+							
+						Regulars:<br>
+							
+						Jerry Seinfeld ....................... Jerry Seinfeld<br>
+							
+						Jason Alexander .................. George Costanza<br>
+							
+						Julia Louis-Dreyfus .............. Elaine Benes<br>
+							<br>
+							
+						Guest Stars:<br>
+							<br>
+							
+						James Hong ........................ Bruce<br>
+							
+						David Tress ........................ Mr. Cohen<br>
+							
+						Judy Kain ........................... Lorraine<br>
+							
+						Kate Benton ....................... Woman on Phone<br>
+							
+						Michael Mitz ....................... Phone Guy<br>
+							
+						Kendall McCarthy .............. Man<br>
+							<br>
+							
+						==================================================================<br>
+							<br>
+							<br>
+							
+						[opening monologue; first sentence kinda blurry]<br>
+							<br>
+							
+						JERRY: (A couple of days ago I used a public phone), go over time on the call, hang up the phone, walk away. You've had this happen? Phone rings. It's the phone company... they want more money. Don't you love this? And you got them right where you want them for the first time in your life. You're on the street, there's nothing they can do. I like to let it ring a few times, you know, let her sweat a little over there, then I just pick it up, &quot;Yeah, operator... oh, I got the money... I got the money right here... D'you hear that? (taps on microphone) That's a quarter. Yeah, you want that don't you?&quot;<br>
+							<br>
+							<br>
+							<br>
+							
+						[Jerry, Elaine &amp; George enter the Chinese restaurant]<br>
+							<br>
+							
+						ELAINE: No, they've just got to get more cops on the force, it's as simple as that.<br>
+							<br>
+							
+						GEORGE: Cops. I don't even care about cops. I wanna see more garbage men. It's much more important. All I wanna see are garbage trucks, garbage cans and garbage men. You're never gonna stop crime, we should at least be clean.<br>
+							<br>
+							
+						JERRY: I tell you what they should do, they should combine the two jobs, make it one job, 'cop\garbage man'. I always see cops walking around with nothing to do. Grab a broom! Start sweeping. You sweep sweep sweep... catch a criminal, get right back to sweeping.<br>
+							<br>
+							
+						ELAINE: You should run for mayor.<br>
+							<br>
+							
+						JERRY: Ehh, nobody listens.<br>
+							<br>
+							
+						ELAINE: Where is someone? I'm starving.<br>
+							<br>
+							
+						GEORGE: I think this is him right here.<br>
+							<br>
+							
+						ELAINE: Is there a table ready?<br>
+							<br>
+							
+						RESTAURANT MANAGER (BRUCE): How many?<br>
+							<br>
+							
+						ELAINE (to Jerry): How many?<br>
+							<br>
+							
+						JERRY (to George): Is Tatiana coming?<br>
+							<br>
+							
+						GEORGE: I don't know, I have to call her, tell her where we are. I'm very lucky she's even considering seeing me at all.<br>
+							<br>
+							
+						JERRY: Really? I thought things were going OK.<br>
+							<br>
+							
+						GEORGE: They were, it's kinda complicated.<br>
+							<br>
+							
+						JERRY: Well what is it?<br>
+							<br>
+							
+						ELAINE: How many?<br>
+							<br>
+							
+						JERRY: Ah, alright, four. Seinfeld.<br>
+							<br>
+							
+						BRUCE: Four. It'll be five, ten minutes.<br>
+							<br>
+							
+						GEORGE: What do you wanna do?<br>
+							<br>
+							
+						ELAINE: Let's go someplace else, I am too hungry.<br>
+							<br>
+							
+						JERRY: We might as well just stay here, we haven't got that much time if we wanna make it to the movie.<br>
+							<br>
+							
+						GEORGE: I gotta call Tatiana. where's the phone?<br>
+							<br>
+							
+						JERRY (to Elaine): Tatiana...<br>
+							<br>
+							
+						(George goes over to the public phone. There's a guy using it)<br>
+							<br>
+							
+						GEORGE: Excuse me, are you gonna be very long?<br>
+							<br>
+							
+						(guy on phone just turns the other way without answering)<br>
+							<br>
+							
+						BRUCE: Lashbrook, 4!<br>
+							<br>
+							
+						JERRY: So did I do a terrible thing?<br>
+							<br>
+							
+						ELAINE: You mean lying to your uncle?<br>
+							<br>
+							
+						JERRY: I couldn't have dinner with him. 'Plan 9 from Outer Space', one night only, the big screen. My hands are tied!<br>
+							<br>
+							
+						GEORGE (to Jerry): You know it's a public phone, you're not supposed to just chit-chat.<br>
+							<br>
+							
+						ELAINE: Jerry, get menus so when we sit down we can order right away.<br>
+							<br>
+							
+						JERRY: Can't look at a menu now, I gotta be at the table.<br>
+							<br>
+							
+						GEORGE: He knows I'm waiting. He sees me. He just doesn't wanna look.<br>
+							<br>
+							
+						ELAINE: Everything's gotta be just so with you, doesn't it?<br>
+							<br>
+							
+						JERRY: Hey, I offered you those cookies in my house.<br>
+							<br>
+							
+						ELAINE: Health cookies. I hate those little dustboard fructose things.<br>
+							<br>
+							
+						GEORGE: I just can't believe at the way people are. What is it with humanity? What kind of a world do we live in?<br>
+							<br>
+							
+						(Jerry stares at someone)<br>
+							<br>
+							
+						ELAINE: What?<br>
+							<br>
+							
+						JERRY: There's a woman over there that looks really familiar. Dark hair, striped shirt?<br>
+							<br>
+							
+						ELAINE: I've never seen her before.<br>
+							<br>
+							
+						JERRY: I know this woman. This is gonna drive me crazy.<br>
+							<br>
+							
+						(a group of people comes in, one of them bumps into Elaine)<br>
+							<br>
+							
+						MAN: Oh, Excuse me.<br>
+							<br>
+							
+						ELAINE: I'm sorry.<br>
+							<br>
+							
+						(the group just walks right into the dining room)<br>
+							<br>
+							
+						ELAINE: Didja see that? Those people, look, they're getting a table.<br>
+							<br>
+							
+						JERRY: Well maybe they were here from before.<br>
+							<br>
+							
+						ELAINE: No no no, they weren't here before.<br>
+							<br>
+							
+						GEORGE (to guy): Excuse me, are you going to be much longer? I have to make a very important call.<br>
+							<br>
+							
+						(guy on phone turns away again)<br>
+							<br>
+							
+						ELAINE: Find out what's going on!<br>
+							<br>
+							
+						JERRY: Excuse me, didn't those people just come in? I believe we were ahead of them.<br>
+							<br>
+							
+						ELAINE: Yeah.<br>
+							<br>
+							
+						BRUCE: What's your name?<br>
+							<br>
+							
+						JERRY: Seinfeld.<br>
+							<br>
+							
+						(Bruce starts talking to a Chinese woman in Chinese)<br>
+							<br>
+							
+						BRUCE: No, no, they were here before. Keckitch(sp?), 2!<br>
+							<br>
+							
+						ELAINE: Did you ever notice how happy people are when they finally get a table? They think they're so special because they've been chosen. It's enough to make you sick.<br>
+							<br>
+							
+						JERRY: Boy, you are really hungry.<br>
+							<br>
+							
+						GEORGE (whistles to guy on phone): Hey!<br>
+							<br>
+							
+						(guy on phone smiles at him and turns back. George, annoyed, goes over to Jerry)<br>
+							<br>
+							
+						GEORGE: If anything happens here, can I count on you?<br>
+							<br>
+							
+						JERRY: What?<br>
+							<br>
+							
+						GEORGE: If we decide to go at it.<br>
+							<br>
+							
+						JERRY: Yeah, I wanna get into a rumble...<br>
+							<br>
+							
+						GEORGE: I have to get in touch with Tatiana! And look at his little outfit. It's all so coordinated, the way his socks matching to his shirt. I really hate this guy.<br>
+							<br>
+							
+						ELAINE: I'm gonna faint...<br>
+							<br>
+							
+						JERRY: George, who is that woman in the stripes?<br>
+							<br>
+							
+						GEORGE: I don't know her.<br>
+							<br>
+							
+						JERRY: She looks so familiar.<br>
+							<br>
+							
+						ELAINE: Ya know, its not fair people are seated First Come First Served, It should be based on who's hungriest. I feel like just going over there and taking some food off somebody's plate.<br>
+							<br>
+							
+						JERRY: I'll tell you what, there's 50 bucks in it for you if you do it.<br>
+							<br>
+							
+						ELAINE: What do you mean?<br>
+							<br>
+							
+						JERRY: You walk over that table, you pick up an eggroll, you don't say anything, you eat it, say 'thank you very much', wipe your mouth, walk away- I give you 50 bucks.<br>
+							<br>
+							
+						GEORGE: What are they gonna do?<br>
+							<br>
+							
+						JERRY: They won't do anything; in fact, you'll be giving them a story to tell for the rest of their lives.<br>
+							<br>
+							
+						ELAINE: 50 bucks, you'll give me 50 bucks?<br>
+							<br>
+							
+						JERRY: 50 bucks. That table over there, the three couples.<br>
+							<br>
+							
+						ELAINE: OK, I don't wanna go over there and do it, and then come back here and find out there was some little loophole, like I didn't put mustard on it or something...<br>
+							<br>
+							
+						JERRY: No, no tricks.<br>
+							<br>
+							
+						ELAINE: Should I do it, George?<br>
+							<br>
+							
+						GEORGE: For 50 bucks? I'd put my face in the soup and blow.<br>
+							<br>
+							
+						ELAINE: Alright, alright. Here, hold this. I'm doin' it.<br>
+							<br>
+							
+						(Elaine goes over to the table, smiling)<br>
+							<br>
+							
+						ELAINE (through her teeth): I know this sounds crazy, but the two men who are standing behind me are going to give me 50 bucks if I stand here and eat one of your eggrolls.<br>
+							<br>
+							
+						(the people at the table are confused)<br>
+							<br>
+							
+						ELAINE (through teeth): I'll give you 25 if you let me do it.<br>
+							<br>
+							
+						PEOPLE AT TABLE: What? What is she talking about? What did she say?<br>
+							<br>
+							
+						(Elaine runs from the table, laughing)<br>
+							<br>
+							
+						JERRY: What happened?<br>
+							<br>
+							
+						ELAINE: Did you see that?<br>
+							<br>
+							
+						GEORGE: What were you doing?<br>
+							<br>
+							
+						ELAINE (laughing): I offered them 25, they had no idea...<br>
+							<br>
+							
+						JERRY: George, the phone's free.<br>
+							<br>
+							
+						GEORGE: Alleluia.<br>
+							<br>
+							
+						(as George reaches for the phone, a woman snatches it and starts dialing)<br>
+							<br>
+							
+						GEORGE: Excuse me, I was waiting here.<br>
+							<br>
+							
+						WOMAN AT PHONE: Where? I didn't see you.<br>
+							<br>
+							
+						GEORGE: I've been standing here for the last ten minutes!<br>
+							<br>
+							
+						WOMAN: Well I won't be long.<br>
+							<br>
+							
+						GEORGE: That's not the point. The point is I was here first.<br>
+							<br>
+							
+						WOMAN: Well if you were here first, you'd be holding the phone.<br>
+							<br>
+							
+						GEORGE (yelling at her): You know, we're living in a society! We're supposed to act in a civilized way.<br>
+							<br>
+							
+						(he goes over to Jerry and Elaine)<br>
+							<br>
+							
+						GEORGE: Does she care? No. Does anyone ever display the slightest sensitivity over the problems of a fellow individual? No. No. A resounding no!<br>
+							<br>
+							
+						(guy on phone approaches George)<br>
+							<br>
+							
+						GUY: Hey, sorry I took so long.<br>
+							<br>
+							
+						GEORGE: Oh that's OK, really, don't worry about it.<br>
+							<br>
+							
+						ELAINE: How do people fast? Did Ghandi get this crazy? I'm gonna walk around, see what dishes look good.<br>
+							<br>
+							
+						JERRY: I told my uncle I had a stomach ache tonight. You think he bought that?<br>
+							<br>
+							
+						GEORGE: Yeah, well, he probably bought it.<br>
+							<br>
+							
+						JERRY: So what happened with Tatiana?<br>
+							<br>
+							
+						GEORGE: I shouldn't even tell you this.<br>
+							<br>
+							
+						JERRY: Come on...<br>
+							<br>
+							
+						GEORGE: Well, after dinner last week, she invites me back to her apartment.<br>
+							<br>
+							
+						JERRY: I'm with you.<br>
+							<br>
+							
+						GEORGE: Well, it's this little place with this little bathroom. It's like right there, you know, it's not even down a little hall or off in an alcove. You understand? There's no... buffer zone. So, we start to fool around, and it's the first time, and it's early in the going. And I begin to perceive this impending... intestinal requirement, whose needs are going to surpass by great lengths anything in the sexual realm. So I know I'm gonna have to stop. And as this is happening I'm thinking, even if I can somehow manage to momentarily... extricate myself from the proceedings and relieve this unstoppable force, I know that that bathroom is not gonna provide me with the privacy that I know I'm going to need...<br>
+							<br>
+							
+						JERRY: This could only happen to you.<br>
+							<br>
+							
+						GEORGE: So I finally stop and say, &quot;Tatiana, I hope you don't take this the wrong way, but I think it would be best if I left&quot;.<br>
+							<br>
+							
+						JERRY: You said this to her after.<br>
+							<br>
+							
+						GEORGE: No. During.<br>
+							<br>
+							
+						JERRY: Oh, boy.<br>
+							<br>
+							
+						GEORGE: Yeah.<br>
+							<br>
+							
+						JERRY: Wow! So...?<br>
+							<br>
+							
+						GEORGE: So I'm dressing and she's staring up at me, struggling to compute this unprecedented turn of events. I don't know what to say to reassure this woman, and worst of all, I don't have the time to say it. The only excuse she might possibly have accepted is if I told her I am in reality Batman, and I'm very sorry, I just saw the Bat-Signal. It took me 3 days of phone calls to get her to agree to see me again. Now she's waiting for me to call her, and she's<br>
+							<br>
+							
+						(gestures towards woman on phone) still on the phone.<br>
+							<br>
+							
+						(Elaine comes over)<br>
+							<br>
+							
+						ELAINE: I hate this place. I don't know why we came here, I'm never coming back here again.<br>
+							<br>
+							
+						JERRY (still trying to remember): Who is that woman?!<br>
+							<br>
+							
+						ELAINE: Remember when you first went out to eat with your parents? Remember, it was such a treat to go and they serve you this different food that you never saw before, and they put it in front of you, and it is such a delicious and exciting adventure? And now I just feel like a big sweaty hog waiting for them to fill up the trough.<br>
+							<br>
+							
+						GEORGE: She's off. (goes over to the now available public phone)<br>
+							<br>
+							
+						ELAINE: Jerry, talk to that guy again.<br>
+							<br>
+							
+						JERRY: What am I gonna say?<br>
+							<br>
+							
+						ELAINE: Tell him we wanna catch a movie and that we're late.<br>
+							<br>
+							
+						(as Jerry approaches Bruce, a man walks in)<br>
+							<br>
+							
+						MR. COHEN: Hey, what stinks in here?<br>
+							<br>
+							
+						Bruce (laughing): Mr. Cohen! Haven't seen you for a couple of weeks.<br>
+							<br>
+							
+						MR. COHEN: Well, I've been looking for a better place.<br>
+							<br>
+							
+						(Bruce laughs)<br>
+							<br>
+							
+						BRUCE: Better place... Want a table?<br>
+							<br>
+							
+						MR. COHEN: No, just bring me a plate and I'll eat here.<br>
+							<br>
+							
+						BRUCE (laughing): Give him a plate and you eat here... Come on, I give you a table.<br>
+							<br>
+							
+						JERRY: Excuse me... we've been waiting here. Now, I KNOW we were ahead of that guy, he just came in.<br>
+							<br>
+							
+						BRUCE: Oh no, Mr. Cohen always here.<br>
+							<br>
+							
+						ELAINE: He's always here? What does that mean? What does that mean?<br>
+							<br>
+							
+						BRUCE: Oh, Mr. Cohen, very nice man. He live on Park Avenue.<br>
+							<br>
+							
+						ELAINE: Where am I? Is this a dream? What in God's name is going on here?!<br>
+							<br>
+							
+						GEORGE: She's not there. She left. She must've waited and left because those people wouldn't get off the phone.<br>
+							<br>
+							
+						JERRY: Didja leave a message?<br>
+							<br>
+							
+						GEORGE: Yeah, I told her to call me here and to tell anyone who answers the phone to ask for a balding, stocky man with glasses. I better tell him I'm expecting a call.<br>
+							<br>
+							
+						ELAINE: Oh, Jerry, here comes that woman...<br>
+							<br>
+							
+						JERRY: Where do I know her?<br>
+							<br>
+							
+						(woman in stripes approaches Jerry)<br>
+							<br>
+							
+						LORRAINE: Hello, Jerry!<br>
+							<br>
+							
+						JERRY: Heeeeyyyy... How you doin'?<br>
+							<br>
+							
+						LORRAINE: How is everything?<br>
+							<br>
+							
+						JERRY: Good, good, good... What's goin' on?<br>
+							<br>
+							
+						LORRAINE: Oh, working hard. And you?<br>
+							<br>
+							
+						JERRY: Oh, you know, working around, same stuff, doing... whatever.<br>
+							<br>
+							
+						LORRAINE: You haven't been around in a while.<br>
+							<br>
+							
+						JERRY: I know, I know... Well, you know.<br>
+							<br>
+							
+						LORRAINE: You should come by.<br>
+							<br>
+							
+						JERRY: Definitely. I plan to, I'm not just saying that.<br>
+							<br>
+							
+						ELAINE: Hi, I'm Elaine.<br>
+							<br>
+							
+						LORRAINE (shaking her hand): Lorraine. Catalano.<br>
+							<br>
+							
+						JERRY: I'm sorry, Lorraine, this is Elaine...<br>
+							<br>
+							
+						(They all laugh, then silent)<br>
+							<br>
+							
+						LORRAINE: Well it was nice seeing you, Jerry. And nice meeting you. (she leaves)<br>
+							<br>
+							
+						ELAINE (smug): Oh, nice to meet you too, Lorraine!<br>
+							<br>
+							
+						JERRY: Oh my god, Lorraine... that's Lorraine from my uncle's office. I'm in big, big trouble.<br>
+							<br>
+							
+						ELAINE: The one you broke the plans with tonight?<br>
+							<br>
+							
+						JERRY: Yeah, she works in his office. Now she's gonna see him tomorrow and tell him she saw me here tonight. He's gonna tell his wife, his wife's gonna call my mother. Oh, this is bad, you don't know, the chain reaction of calls this is gonna set off. New York, Long Island, Florida, it's like the Bermuda Triangle. Unfortunately, nobody ever disappears. My uncle to my aunt, my aunt to my mother, my mother to my uncle...<br>
+							<br>
+							
+						JERRY: ...My uncle to my cousin, my cousin to my sister, my sister to me.<br>
+							<br>
+							
+						ELAINE: You should've just had dinner with your uncle tonight and gotten in over with. It's just a movie.<br>
+							<br>
+							
+						JERRY: Just a movie?! You don't understand. This isn't 'Plans 1 through 8 from Outer Space', this is 'Plan 9', this is the one that worked. The worst movie ever made!<br>
+							<br>
+							
+						(Elaine nods)<br>
+							<br>
+							
+						JERRY: Hey, I got news for you, if we're making this movie, we gotta get a table immediately.<br>
+							<br>
+							
+						ELAINE: Alright, OK. Let's stop fooling around. Let's just slip him some money.<br>
+							<br>
+							
+						JERRY: In a Chinese restaurant? Do they take money?<br>
+							<br>
+							
+						ELAINE: Do they take money? Everyone takes money. I used to go out with a guy who did it all the time, you just slip him 20 bucks.<br>
+							<br>
+							
+						GEORGE: 20 bucks? Isn't that excessive?<br>
+							<br>
+							
+						ELAINE: Well what do you want to give him, change?<br>
+							<br>
+							
+						GEORGE: It's more than the meal!<br>
+							<br>
+							
+						JERRY: Oh, come on, We'll divide it up three ways.<br>
+							<br>
+							
+						GEORGE: Alright. 7,7, (points at himself) 6. I'm not gonna eat that much!<br>
+							<br>
+							
+						JERRY: I'm counting your shrimps. OK, Who's gonna do it?<br>
+							<br>
+							
+						GEORGE: Oh no, I can't do it. I-I'm not good at these things, I get flustered. Once I tried to bribe an usher at the roller derby, I almost got arrested.<br>
+							<br>
+							
+						ELAINE: I guess it's you, Jer.<br>
+							<br>
+							
+						JERRY: Me? What about you?<br>
+							<br>
+							
+						ELAINE: Oh, I can't do that, it's a guy thing.<br>
+							<br>
+							
+						JERRY: The woman's movement just can't seem to make any progress in the world of bribery, can they?<br>
+							<br>
+							
+						ELAINE: Give me the money.<br>
+							<br>
+							
+						(Elaine stands close to Bruce, trying to get his attention)<br>
+							<br>
+							
+						ELAINE: How's it going'?<br>
+							<br>
+							
+						BRUCE: Very busy.<br>
+							<br>
+							
+						(Elaine holds the money in front of Bruce)<br>
+							<br>
+							
+						ELAINE: Boy, we are REALLY anxious to sit down.<br>
+							<br>
+							
+						BRUCE: Very good specials tonight.<br>
+							<br>
+							
+						(Elaine puts the bill on the open reservations book)<br>
+							<br>
+							
+						ELAINE: If there's anything you can do to get us a table we'd really appreciate it.<br>
+							<br>
+							
+						BRUCE: What is your name? (he turns the page over the money)<br>
+							<br>
+							
+						ELAINE: No no, I want to eat now! (she gets the money from under the page)<br>
+							<br>
+							
+						BRUCE: Yes, we have sea-bass dinner tonight, very fresh.<br>
+							<br>
+							
+						ELAINE (Gives him the money): Here, take this. I'm starving. Take it! Take it!<br>
+							<br>
+							
+						(Bruce shrugs and takes it)<br>
+							<br>
+							
+						BRUCE: Dennison, 4! (goes over to 4 ladies) Your table is ready.<br>
+							<br>
+							
+						ELAINE: No no, no, I want that table. I want that table! Oh, come on, did you see that? What was that? He took the money, he didn't give us a table.<br>
+							<br>
+							
+						JERRY: You lost the 20.<br>
+							<br>
+							
+						ELAINE: Well, how could he do that?<br>
+							<br>
+							
+						GEORGE: You didn't make it clear.<br>
+							<br>
+							
+						ELAINE: Make it clear?<br>
+							<br>
+							
+						JERRY: What a sorry exhibition that was. Alright, let me get the money back.<br>
+							<br>
+							
+						(goes over to Bruce) Excuse me. I realize, this is extremely embarrassing, my friend here apparently made a mistake.<br>
+							<br>
+							
+						BRUCE: Your name?<br>
+							<br>
+							
+						JERRY: Seinfeld.<br>
+							<br>
+							
+						BRUCE: Yeah, Seinfeld 4!<br>
+							<br>
+							
+						JERRY: No no no, you see the girl there, with the long hair?<br>
+							<br>
+							
+						(Elaine waves at him, smiling)<br>
+							<br>
+							
+						BRUCE: Oh yes, yes. Very beautiful girl, very beautiful. Is your girlfriend?<br>
+							<br>
+							
+						JERRY: Well, actually, we did date for a while, but... it's really not relevant here.<br>
+							<br>
+							
+						BRUCE: Relationships are difficult. It's very hard to stay together-<br>
+							<br>
+							
+						JERRY: Alright, listen, alright. How much longer is it gonna be?<br>
+							<br>
+							
+						BRUCE: Oh. In about five, ten minutes.<br>
+							<br>
+							
+						(Jerry goes over to Elaine and George)<br>
+							<br>
+							
+						GEORGE: So?<br>
+							<br>
+							
+						JERRY: There seems to be a bit of a discrepancy.<br>
+							<br>
+							
+						ELAINE: So when are we gonna eat?<br>
+							<br>
+							
+						JERRY: Five, ten minutes.<br>
+							<br>
+							
+						GEORGE: We should have left earlier. I told you.<br>
+							<br>
+							
+						JERRY: I don't see any way we can eat and make this movie.<br>
+							<br>
+							
+						ELAINE: Oh, well I have to eat.<br>
+							<br>
+							
+						JERRY: Well let's just order to go, we'll eat it in the cab.<br>
+							<br>
+							
+						ELAINE: Eat it in the cab? Chinese food in a cab?<br>
+							<br>
+							
+						JERRY: We'll eat it in the movie.<br>
+							<br>
+							
+						ELAINE: Oh, who do you think you're going? Do you think that they have big picnic tables there?<br>
+							<br>
+							
+						JERRY: Well what do you suggest?<br>
+							<br>
+							
+						ELAINE: I say we leave now, we go to 'Skyburger' and we scarf 'em down.<br>
+							<br>
+							
+						JERRY: I'm not going to 'Skyburger'. Besides, it's in the opposite direction, let's just eat popcorn or something.<br>
+							<br>
+							
+						BRUCE (holding a phone): Cartwright?<br>
+							<br>
+							
+						ELAINE: I can't have popcorn for dinner!<br>
+							<br>
+							
+						BRUCE: Cartwright?<br>
+							<br>
+							
+						ELAINE (tries to snatch food off a waiter's tray): I have to eat!<br>
+							<br>
+							
+						JERRY: So they have hotdogs there.<br>
+							<br>
+							
+						ELAINE: Oh, movie hotdogs! I rather lick the food off the floor.<br>
+							<br>
+							
+						GEORGE: I can't go anywhere, I have to wait here for Tatiana's call. Let me just check.<br>
+							<br>
+							
+						(goes over to Bruce)<br>
+							<br>
+							
+						GEORGE: Excuse me, I'm expecting a call. Costanza?<br>
+							<br>
+							
+						BRUCE: Yeah, I just got a call. I yell 'Cartwright! Cartwright!', just like that. Nobody came up, I hang up.<br>
+							<br>
+							
+						GEORGE: Well, was it for Costanza or...<br>
+							<br>
+							
+						BRUCE: Yes, yes, that's it. Nobody answered.<br>
+							<br>
+							
+						GEORGE: Well was it a woman?<br>
+							<br>
+							
+						BRUCE: Yeah, yeah. I tell her you not here, she said curse word, I hang up.<br>
+							<br>
+							
+						(George comes over to Jerry and Elaine, stunned)<br>
+							<br>
+							
+						GEORGE: She called. He yelled Cartwright. I missed her.<br>
+							<br>
+							
+						JERRY: Who's Cartwright?<br>
+							<br>
+							
+						GEORGE: I'm Cartwright!<br>
+							<br>
+							
+						JERRY: You're not Cartwri-<br>
+							<br>
+							
+						GEORGE: Of course I'm not Cartwright! Look, why don't you two just go to the movies all by yourselves, I'm not in the mood.<br>
+							<br>
+							
+						ELAINE: Well me neither, I'm goin' to 'Skyburger'.<br>
+							<br>
+							
+						JERRY: So You're not going?<br>
+							<br>
+							
+						ELAINE: You don't need us.<br>
+							<br>
+							
+						JERRY: Well I can't go to a bad movie by myself. Who am I gonna make sarcastic remarks to, strangers? Eh, I guess I'll just go to my uncle's.<br>
+							<br>
+							
+						GEORGE: Should we tell him we're leaving?<br>
+							<br>
+							
+						ELAINE: What for? Let's just get out of here.<br>
+							<br>
+							
+						(they all leave)<br>
+							<br>
+							
+						BRUCE: Seinfeld, 4?<br>
+							<br>
+							<br>
+							<br>
+							
+						[closing monologue]<br>
+							<br>
+							
+						JERRY: Hunger will make people do amazing things. I mean, the proof of that is cannibalism. Cannibalism, what do they say, I mean, they're eating and, you know, &quot;This is good, who is this? I like this person&quot;. You know, I mean, I would think the hardest thing about being a cannibal is trying to get some very deep sleep, you know what I mean? I would think, you'd be like, (pretending to wake up) &quot;Who is that? Who's there? Who's there? Is somebody there? What do you want? What do you want? You look hungry, are you hungry? Get out of here!&quot;<br>
+							<br>
+							<br>
+							
+						THE END </td>
+						</tr>
+						<tr height="6">
+							<td class="bottom2" width="645" height="6"></td>
+						</tr>
+						<tr>
+							<td width="645">
+								<div align="center">
+									<font size="-1">Copyright 2006 seinology.com | All Rights Reserved | Designed by 13erla</font></div>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+		<p></p>
+	</body>
+
+</html>

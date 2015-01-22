@@ -1,0 +1,1422 @@
+<tdOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+<html>
+
+	<head>
+		<meta http-equiv="content-type" content="text/html;charset=ISO-8859-1">
+		<meta name="description" content="Top Source for Seinfeld">
+		<meta name="keywords" content="seinfeld, sienfeld, Jerry Seinfeld, Julia Louis Dreyfus, Jason Alexander, Michael Richards, Kramer, George, Costanza, Elaine Benes, morty, Larry David">
+		<title>Seinology.com :: Scripts :: 170-The Strongbox</title>
+	<link rel='stylesheet' href='/stylesheet.css' type='text/css'>
+	</head>
+
+	<body>
+			<table align="center" width="787" border="0" cellspacing="0" cellpadding="0">
+				<tr>
+					<td><font size="-2" color="red">Seinology.com - </font><font size="-3" color="black">Where Seinfeld Content and Accuracy Matter Most. Seinfeld scripts in pdf form, Seinfeld episode video clips, Seinfeld episode audio clips, Jerry Seinfeld appearances, Julia Louis-Dreyfus appearances, Michael Richards appearances, Jason Alexander appearances, Seinfeld discussion Forum, Seinfeld Where are they Now? Seinlanguage Newsletter, Popular Seinfeld Lists, Seinfeld episode standup, Seinfeld episode guide, Seinfeld fan fiction. Seinfeld content all on one domain. Seinology.com enjoy your stay.</font></td>
+				</tr>
+			</table>
+		
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr height="100">
+				<td class="logo"></td>
+			</tr>
+			<tr><td class="ads" align="center" background=#8694fa>
+				<script type="text/javascript"><!--
+google_ad_client = "pub-1924026976931416";
+google_ad_width = 728;
+google_ad_height = 90;
+google_ad_format = "728x90_as";
+google_ad_type = "text";
+google_ad_channel = "";
+google_color_border = "FFFFFF";
+google_color_bg = "8694fa";
+google_color_link = "0000FF";
+google_color_text = "000000";
+google_color_url = "002E3F";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></td></tr>
+		</table>
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr>
+				<td valign="top" width="136">
+					<table width="136" border="0" cellspacing="0" cellpadding="0">
+						<tr height="24">
+							<td class="navigation">
+								<div align="center">
+									
+									<b>Navigation</b></div>
+							</td>
+						</tr>
+						<tr height="199">
+							<td class="spacer1" valign="top" width="136" height="199">
+								<div align="center">
+									<font size="-1"><a href="http://www.seinology.com">Home</a><br>
+										<a href="http://board.seinology.com">Forum</a><br>
+										<a href="http://www.seinology.com/av.shtml">Audio/Video</a><br>
+										<a href="http://www.seinology.com/scripts.shtml">Scripts</a><br>
+										<a href="http://www.seinology.com/survivor.shtml">Survivor</a><br>
+										<a href="http://www.seinology.com/fanfics.shtml">Fan Fiction</a><br>
+										<a href="http://www.seinology.com/gallery/">Gallery</a><br>
+										<a href="http://www.seinology.com/newsletter.shtml">Newsletter</a><br>
+										<a href="http://www.seinology.com/lists.shtml">Lists</a><br>
+										<a href="http://www.seinology.com/epguide.shtml">Episode Guide</a><br>
+										<a href="http://www.seinology.com/links.shtml">Links</a><br>
+										<a href="http://www.seinology.com/faqother.shtml">Faq + others</a><br>
+										<a href="http://www.seinology.com/legal.shtml">Legal</a></font></div>
+							</td>
+						</tr>
+						
+						<tr>
+							<td class="nav2" width="136">
+							<div align="center"><b>Search</b></div></td>
+						</tr>
+						<tr>
+							<td class="spacer1" width="136" valign="top"><div align="center"><form method="get" action="http://www.seinology.com/search/search.cgi">
+<p><label for="fdse_Match">Match</label><br>
+<select name="Match" id="fdse_Match" size="1">
+<option value="1">All</option>
+<option value="0">Any</option>
+<option value="2">Phrase</option>
+</select></p>
+<p><label for="fdse_Realm">Where?</label><br>
+<select name="Realm" id="fdse_Realm" size="1">
+<option selected="selected" value="All">EntireSite</option>
+<option value="Ep Guide">Ep Guide</option>
+<option value="Images">Images</option>
+<option value="Lists">Lists</option>
+<option value="Newsletters">Newsletters</option>
+<option value="Scripts">Scripts</option>
+<option value="Notes..Nothing">Notes..Nothing</option>
+</select></p>
+<p><input type="text" name="Terms" size="14" id="fdse_Terms"><br>
+<input type="submit" class="submit" name="submitButtonName" value="Search"></p>
+</div></form></td>
+						</tr>
+						<tr><td class="bottom" width="136" height="10" valign="top">
+						</td>
+						</tr>
+					</table>
+				</td>
+				<td width="4"></td>
+				<td valign="top" width="645">
+					<table width="645" border="0" cellspacing="0" cellpadding="0">
+						<tr height="18">
+							<td width="645" height="35" class="bar">
+								<div align="center">
+									<b><font size="+2" color="black">Script</font></b></div>
+							</td>
+						</tr>
+						<tr height="362">
+							<td class="spacer2" valign="top" width="645" height="362">
+
+						<p><font size="-2">Episode 170 - The Strongbox<br>
+							
+						pc: 914 season 9, episode 14<br>
+							
+						Broadcast date: February 5, 1998<br>
+							<br>
+							
+						Written by Dan O'Keefe<br>
+							
+						Story by Dan O'Keefe and Billy Kimball<br>
+							
+						Directed by Andy Ackerman<br>
+							<br>
+							
+						-------------------------------------------------------------------------------<br>
+							<br>
+							
+						The Cast<br>
+							
+						Regulars:<br>
+							
+						Jerry Seinfeld ......................&nbsp; Jerry Seinfeld<br>
+							
+						Jason Alexander .................. George Costanza<br>
+							
+						Julia Louis-Dreyfus .............. Elaine Benes<br>
+							
+						Michael Richards .................. Cosmo Kramer<br>
+							<br>
+							
+						Guest Stars:<br>
+							<br>
+							
+						Illeana Douglas .................... Loretta<br>
+							
+						Alex Kapp ........................... Maura<br>
+							
+						Louis Mustillo ...................... Phil<br>
+							
+						Nicholas Paul Walker .......... Glenn<br>
+							
+						Mary Scheer ....................... Ms. Smoth<br>
+							
+						Bonnie McNeil .................... Alison<br>
+							
+						Rosie Malek-Yonan ............. Wife<br>
+							<br>
+							
+						==================================================================<br>
+							<br>
+							
+						[George's apartment - Maura brings two cups over and sits down next to George]<br>
+							<br>
+							
+						GEORGE: (clears throat) Maura, I, uh- I want you to know... I-I've given this a lot of thought. I'm sorry, but... we, uh, we have to break up.<br>
+							<br>
+							
+						MAURA: No. (sips her drink)<br>
+							<br>
+							
+						GEORGE: (double takes) What's that?<br>
+							<br>
+							
+						MAURA: We're not breaking up. (takes another sip)<br>
+							<br>
+							
+						GEORGE: (puzzled) W-we're not?<br>
+							<br>
+							
+						MAURA: No. (hands George his cup)<br>
+							<br>
+							
+						(George is rendered speechless. He considers this for a while. Finally...)<br>
+							<br>
+							
+						GEORGE: All right (he smiles weakly at Maura)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Monk's - Jerry and George]<br>
+							<br>
+							
+						JERRY: She said no?<br>
+							<br>
+							
+						GEORGE: She said no.<br>
+							<br>
+							
+						JERRY: What did you do?<br>
+							<br>
+							
+						GEORGE: What could I do?! We fooled around and went to a movie!<br>
+							<br>
+							
+						JERRY: George, both parties don't have to consent to a break-up. It's not like you're launching missiles from a submarine and you both have to turn your keys. Obviously, you didn't make a convincing case. Let me hear your arguments.<br>
+							<br>
+							
+						GEORGE: Well, I don't really like her.<br>
+							<br>
+							
+						JERRY: That's good.<br>
+							<br>
+							
+						GEORGE: I don't find her attractive.<br>
+							<br>
+							
+						JERRY: Solid.<br>
+							<br>
+							
+						GEORGE: I'd like to sleep with a LOT of other women.<br>
+							<br>
+							
+						JERRY: Always popular.<br>
+							<br>
+							
+						GEORGE: Sometimes at restaurants she talks to her food: 'Ooh, Mr. Mashed Potatoes, you are sooo goood.'<br>
+							<br>
+							
+						JERRY: You have an airtight case!<br>
+							<br>
+							
+						GEORGE: And in bed--<br>
+							<br>
+							
+						JERRY: I'm afraid we're out of time.<br>
+							<br>
+							
+						(George pulls an annoyed face. Jerry takes a sip from his cup then, remembering something, pulls out a jewellery case)<br>
+							<br>
+							
+						JERRY: Hey.<br>
+							<br>
+							
+						GEORGE: What?<br>
+							<br>
+							
+						JERRY: Check these out. These are Jerry Lewis' old cufflinks that he actually wore in the movie &quot;Cinderfella&quot;. I got 'em at an auction.<br>
+							<br>
+							
+						GEORGE: I got some cufflinks I could've loaned you.<br>
+							<br>
+							
+						JERRY: No, Jerry Lewis is gonna be at this Friar's Club roast I'm goin' to next week. Now I have an in to strike up a conversation with him.<br>
+							<br>
+							
+						GEORGE: You already have an in. You have the same first name!... (no reaction) 'Jerry'!<br>
+							<br>
+							
+						JERRY: Oh, that'll intrigue him.<br>
+							<br>
+							
+						GEORGE: Well, it worked when I met George Peppard last week.<br>
+							<br>
+							
+						JERRY: George Peppard has been dead for years.<br>
+							<br>
+							
+						GEORGE: Well, whoever he was, he knew a lot about The A-Team!<br>
+							<br>
+							<br>
+							<br>
+							
+						[Day. Street - Elaine is sat outside a cafe with a man, Glenn]<br>
+							<br>
+							
+						GLENN: So you would choose your last meal based on the method of execution?<br>
+							<br>
+							
+						ELAINE: Right, right. I mean, if I was getting the chair, I'd go for something... hot and spicy, you know... Thai, maybe Mexican. Lethal injection, feels like pasta... you know, painless, don't want anything too heavy...<br>
+							<br>
+							
+						GLENN: So, um, why don't we get together some time?<br>
+							<br>
+							
+						ELAINE: Oh, sure! Why don't you give me your number?<br>
+							<br>
+							
+						GLENN: I think it'd be better if I called you.<br>
+							<br>
+							
+						ELAINE: Oh. OK. Maybe we could grab some lunch sometime. D-do you work around here or-?<br>
+							<br>
+							
+						GLENN: Mm mm... no, not really.<br>
+							<br>
+							
+						ELAINE: So, is there anything you can tell me about yourself?<br>
+							<br>
+							
+						GLENN: (seductive tone) I think you're very beautiful.<br>
+							<br>
+							
+						ELAINE: (flattered) Oh (laughs) That'll do! (laughs some more)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Jerry's apartment - Jerry and Elaine]<br>
+							<br>
+							
+						JERRY: What about Puddy?<br>
+							<br>
+							
+						ELAINE: I haven't talked to him in, like, three weeks... I THINK it might be over...<br>
+							<br>
+							
+						JERRY: (unimpressed) So, what's this guy about?<br>
+							<br>
+							
+						ELAINE: I don't know. He wouldn't tell me his phone number, where he worked... I'll bet he's in a relationship.<br>
+							<br>
+							
+						JERRY: Or he's a crime fighter safeguarding his secret identity! Elaine, you could be dating the Green Lantern!<br>
+							<br>
+							
+						ELAINE: Which one is he?<br>
+							<br>
+							
+						JERRY: Green suit, power ring.<br>
+							<br>
+							
+						ELAINE: I don't care for jewellery on men (wags her finger disapprovingly)<br>
+							<br>
+							
+						(Kramer enters carrying a box)<br>
+							<br>
+							
+						KRAMER: Hey. It happened again. (puts box on counter) Another robbery in the building.<br>
+							<br>
+							
+						JERRY: So you bought a cooler?<br>
+							<br>
+							
+						KRAMER: No, it's a strongbox to protect my irreplaceables.<br>
+							<br>
+							
+						ELAINE: And... what would those be?<br>
+							<br>
+							
+						KRAMER: Some taxidermy that's been in my family for generations, my Tony, my... military discharge.<br>
+							<br>
+							
+						JERRY: (doubtful) You were in the Army?<br>
+							<br>
+							
+						KRAMER: Y- B-briefly. Now, I gotta find a good place to hide this key. Because if somebody finds this, they hold the key to all my possessions. (makes a clicking sound)<br>
+							<br>
+							
+						ELAINE: Literally.<br>
+							<br>
+							
+						KRAMER: (offended) 'Literally'? What's THAT supposed to mean? (then to Jerry, before Elaine can answer) You mind if I hide this somewhere?<br>
+							<br>
+							
+						JERRY: No, go ahead.<br>
+							<br>
+							
+						KRAMER: (stuttering gibberish, gestures that they should leave) A little... privacy, uh?<br>
+							<br>
+							
+						JERRY: Oh, come on!<br>
+							<br>
+							
+						ELAINE: Oh!<br>
+							<br>
+							
+						KRAMER: Come on, Jerry, this is a security issue! (Elaine laughs) Boy, you wouldn't last a DAY in the Army.<br>
+							<br>
+							
+						JERRY: (walking towards door with Elaine) How long did you last? (opens door)<br>
+							<br>
+							
+						KRAMER: Well, that's classified.<br>
+							<br>
+							
+						(Kramer slams the door behind Jerry and Elaine as they enter the hallway)<br>
+							<br>
+							
+						ELAINE: Hey, what if he's married?<br>
+							<br>
+							
+						JERRY: Kramer?!<br>
+							<br>
+							
+						ELAINE: No, the Green Lantern.<br>
+							<br>
+							
+						KRAMER: (from inside) OK!<br>
+							<br>
+							
+						(Jerry and Elaine re-enter the apartment. Kramer is now sat on the couch with his strongbox, flicking through a magazine)<br>
+							<br>
+							
+						JERRY: So, you would date a married guy? That's so hacky.<br>
+							<br>
+							
+						ELAINE: Well, I don't know. I may never marry. It might be the closest I get.<br>
+							<br>
+							
+						(Jerry, getting a spoon out of his silverware drawer, accidentally finds the key, and holds it up for Kramer to see)<br>
+							<br>
+							
+						KRAMER: (bangs arm of couch in frustration) You peeked!<br>
+							<br>
+							
+						JERRY: THIS is your hiding place?! (Elaine laughs)<br>
+							<br>
+							
+						KRAMER: It was under a spoon!<br>
+							<br>
+							
+						(Jerry discards the key, unimpressed)<br>
+							<br>
+							<br>
+							<br>
+							
+						[George's apartment - George is standing, holding a notebook. Maura sits there, listening]<br>
+							<br>
+							
+						GEORGE: And so, for all these reasons, we are officially broken up. (shuts book and reaches for door) Thank you, (opens door) and good night.<br>
+							<br>
+							
+						(George stands there holding the door open)<br>
+							<br>
+							
+						MAURA: No, George, we're not.<br>
+							<br>
+							
+						GEORGE: (gestures towards book) But I proved it!<br>
+							<br>
+							
+						MAURA: I refuse to give up on this relationship. It's like... launching missiles from a submarine. Both of us have to turn our keys.<br>
+							<br>
+							
+						GEORGE: Well, then, I am gonna have to ask you to turn your key.<br>
+							<br>
+							
+						MAURA: (assertive) I'm sorry, George, I can't do that.<br>
+							<br>
+							
+						GEORGE: (shouting) Turn your key, Maura. Turn your key!<br>
+							<br>
+							<br>
+							<br>
+							
+						[Day. Elaine &amp; Glenn walking on the street]<br>
+							<br>
+							
+						ELAINE: So, how is a guy like you not involved?<br>
+							<br>
+							
+						GLENN: I might ask you the same thing.<br>
+							<br>
+							
+						ELAINE: (in her mind) That's true, maybe he's not married.<br>
+							<br>
+							
+						(Glenn gives her a flower he's just taken from outside a store)<br>
+							<br>
+							
+						ELAINE: Oh, that is so sweet.<br>
+							<br>
+							
+						ELAINE: (in her mind, cynical) How long do I have to hold this?<br>
+							<br>
+							
+						GLENN: (seeing a woman on the street) Oh, no.<br>
+							<br>
+							
+						ELAINE: Who is it?<br>
+							<br>
+							
+						GLENN: Um, uh, no one, no one. (running with Elaine into an alley) Here, uh, let me show you a short cut. Come on. Come on.<br>
+							<br>
+							
+						ELAINE: (in her mind) Married. That's it, I'm chucking the flower. (she does)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Day. On street outside Jerry's apartment]<br>
+							<br>
+							
+						ELAINE: (shouting up) Jerry! Jerry!<br>
+							<br>
+							
+						(Jerry opens his window and looks down)<br>
+							<br>
+							
+						JERRY: Elaine, what are you doin' down there?<br>
+							<br>
+							
+						ELAINE: You didn't hear me buzzing?<br>
+							<br>
+							
+						JERRY: Oh, I guess it's broken!<br>
+							<br>
+							
+						ELAINE: Throw down your key.<br>
+							<br>
+							
+						JERRY: It's liable to bounce and go into a sewer.<br>
+							<br>
+							
+						ELAINE: I'll catch it!<br>
+							<br>
+							
+						JERRY: You'll chicken out at the last second.<br>
+							<br>
+							
+						ELAINE: ...Yeah, you're right. Well, will you at least keep me company until somebody comes out?<br>
+							<br>
+							
+						JERRY: (annoyed) All right. (after a pause) Hey, you know what's weird?<br>
+							<br>
+							
+						ELAINE: Huh?<br>
+							<br>
+							
+						JERRY: I used to be able to have a huge meal and go right to sleep. But I can't anymore.<br>
+							<br>
+							
+						ELAINE: Nodding off!... Well, I was right. He's an adulterer. And he's cheating on his wife with me!<br>
+							<br>
+							
+						(to a passer-by who gives her a disapproving look) We haven't done anything yet. (sighs) I'm hungry. Can you throw something down?<br>
+							<br>
+							
+						JERRY: All right.<br>
+							<br>
+							
+						(cut to inside of Jerry's apartment)<br>
+							<br>
+							
+						JERRY: Here! I'm gonna try and fix the buzzer.<br>
+							<br>
+							
+						(Jerry throws down a granola bar and walks away from the window)<br>
+							<br>
+							
+						ELAINE: (from the street) It went in the sewer! (Jerry reacts)<br>
+							<br>
+							
+						(Jerry opens up his buzzer and finds the problem. Kramer bursts in)<br>
+							<br>
+							
+						JERRY: Hey...<br>
+							<br>
+							
+						KRAMER: (re buzzer box) What are you doin'?<br>
+							<br>
+							
+						JERRY: (waving the key) You jammed your key in here? You shorted out my intercom!<br>
+							<br>
+							
+						KRAMER: (grabbing the key) You just had to go lookin' for it, didn't you? See, you hate it that I have a little secret. Anything I do -- oooh, oooh! -- you gotta know all about it. You're so OBSESSED with me.<br>
+							<br>
+							
+						JERRY: I'm gonna go let Elaine in. (Kramer reaches out to stop him leaving)<br>
+							<br>
+							
+						KRAMER: Oo, y- what are you doing with her? (Jerry ignores him and exits)<br>
+							<br>
+							
+						JERRY: (in the hallway, hearing the door lock behind him, turns back) Kramer!<br>
+							<br>
+							
+						KRAMER: (from inside) Security issue!<br>
+							<br>
+							
+						(Elaine arrives)<br>
+							<br>
+							
+						JERRY: Oh, hey. You got in.<br>
+							<br>
+							
+						ELAINE: Yeah, flirted with the menu guy. Here. (hands him a large stack of papers)<br>
+							<br>
+							
+						JERRY: (taking the menus) Oh, thanks.<br>
+							<br>
+							
+						KRAMER: (clattering inside) That wasn't me!<br>
+							<br>
+							
+						JERRY: So, he's definitely married, huh?<br>
+							<br>
+							
+						ELAINE: Uh...<br>
+							<br>
+							
+						JERRY: Boy, I would love to have been there when you told him off.<br>
+							<br>
+							
+						(Elaine splutters guiltily)<br>
+							<br>
+							
+						JERRY: Oh, come on!<br>
+							<br>
+							
+						ELAINE: Well, he could be a superhero! You should've seen him run.<br>
+							<br>
+							
+						KRAMER: (from inside Jerry's apartment) OK! (door opens)<br>
+							<br>
+							
+						(Elaine and Jerry re-enter the apartment, while Kramer holds the door)<br>
+							<br>
+							
+						KRAMER: All right, Jerry. Let's see if you can get it in your head that this is not an Easter egg hunt for your childish amusement. (shuts door)<br>
+							<br>
+							
+						GEORGE: (from the street below Jerry's window) Jerry!<br>
+							<br>
+							
+						(George puts his fingers in mouth and tries unsuccessfully to whistle)<br>
+							<br>
+							
+						JERRY: (out of window) George, the buzzer's broken! I'll come down!<br>
+							<br>
+							
+						JERRY: (putting on his coat to go downstairs, he finds the key in his coat pocket) I believe this belongs to you.<br>
+							<br>
+							
+						KRAMER: Heyyyy! (bangs the table in frustration and grabs the key)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Lobby of Jerry's building - Jerry emerges from the elevator and walks towards the door. George is behind the glass eating a granola bar. Jerry stares in disgust at it]<br>
+							<br>
+							
+						JERRY: (opens the door for George) Where did you get that?<br>
+							<br>
+							
+						GEORGE: (puzzled) I bought it. (enters lobby)<br>
+							<br>
+							
+						Phil: (walking up to get inside after George) Thanks.<br>
+							<br>
+							
+						JERRY: (barring the way) I'm sorry. I-I don't know you.<br>
+							<br>
+							
+						PHIL: What?<br>
+							<br>
+							
+						JERRY: There's been some robberies in the building. I-I can't let you in.<br>
+							<br>
+							
+						PHIL: But, I live here! I ran out to buy some birdseed, and-and I forgot my key.<br>
+							<br>
+							
+						GEORGE: Sounds like a scam. (takes a bite from the granola bar)<br>
+							<br>
+							
+						JERRY: (shakes his head) I'm very sorry. (closing the door on Phil. Jerry smiles and shrugs apologetically as Phil stares at them through the glass)<br>
+							<br>
+							
+						(George and Jerry head towards the elevator)<br>
+							<br>
+							
+						GEORGE: So, I broke up with Maura. It's done. I'm out.<br>
+							<br>
+							
+						JERRY: Great, you're lonely and miserable again. (presses button to call elevator)<br>
+							<br>
+							
+						GEORGE: Feels right. (cheerfully takes another bite)<br>
+							<br>
+							
+						JERRY: Is that guy still there? (They are side-on to Phil who is in the background, still pressed against the glass, aghast)<br>
+							<br>
+							
+						GEORGE: (looking at the door) He's starin' at us.<br>
+							<br>
+							
+						JERRY: Don't look at him. (Phil starts to knock on the door)<br>
+							<br>
+							
+						JERRY: We don't hear that. (They enter the elevator)<br>
+							<br>
+							
+						GEORGE: Want a bite?<br>
+							<br>
+							
+						JERRY: Nooo, I don't. (the elevator doors shut)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Night. George's apartment - George is lazing on the couch, with a magazine, rubbing an apple on his sweater]<br>
+							<br>
+							
+						GEORGE: (in his mind) I think that ginger ale at the coffee shop is just Coke and Sprite mixed together. How can I prove it? Ah! Can't, dammit. (knock at door. George goes to open it)<br>
+							<br>
+							
+						MAURA: (cheerily) Hey, Honey. (she sweeps in, shuts the door behind her, and sits down)<br>
+							<br>
+							
+						GEORGE: (still by the door) What? M-Maura, what are you doin' here? I ended this relationship... twice!<br>
+							<br>
+							
+						MAURA: George, you didn't mean that. That was just a fight.<br>
+							<br>
+							
+						GEORGE: Why does it always seem like I'm the only one working at this break-up?<br>
+							<br>
+							
+						MAURA: George, I listened to your arguments, and they were rambling and flimsy. I'm not convinced. Come on, get dressed and let's get some dinner.<br>
+							<br>
+							
+						GEORGE: (pauses to consider this then gives in) All right. (starts heading towards bedroom)<br>
+							<br>
+							
+						MAURA: (picking up the apple) Eww, Mr. Apple. You have a brown spot. (George freezes, shakes his head, and continues walking)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Glenn's apartment - squalid, with barely any furniture]<br>
+							<br>
+							
+						ELAINE: So, this is your little... love nest? (laughs)<br>
+							<br>
+							
+						GLENN: It's nothing special, just a little place I keep.<br>
+							<br>
+							
+						ELAINE: Oh.<br>
+							<br>
+							
+						GLENN: Ah, should I light a fire?<br>
+							<br>
+							
+						ELAINE: Oh, that sounds... romantic.<br>
+							<br>
+							
+						GLENN: I'm having a little problem with the heat. Um, I got some cardboard out here. (climbing through the window)<br>
+							<br>
+							
+						ELAINE: (in her mind, anguished) This is wrong. I should go. (There's a knock at the door)<br>
+							<br>
+							
+						GLENN: (leaning in) Can you get that, please?<br>
+							<br>
+							
+						ELAINE: Oh, sure.<br>
+							<br>
+							
+						(Elaine opens the door to see the woman from the street that Glenn avoided earlier. Elaine gasps)<br>
+							<br>
+							
+						WOMAN: Where's Glenn?<br>
+							<br>
+							
+						ELAINE: (guiltily) Ah... You're the woman from the street, and I am so sorry. You know, I'm not really a home-wrecker. I-I-I-I-I thought he was a superhero. I swear.<br>
+							<br>
+							
+						WOMAN: Lady, I'm not his wife, I'm his welfare caseworker. Is he home?<br>
+							<br>
+							
+						ELAINE: This is his home?<br>
+							<br>
+							
+						WOMAN: Yes.<br>
+							<br>
+							
+						ELAINE: So, he's...<br>
+							<br>
+							
+						WOMAN: (nodding) Poor. (Elaine mouths 'oo')<br>
+							<br>
+							
+						GLENN: (coming back through the window carrying an old chair) I think this will burn!<br>
+							<br>
+							<br>
+							<br>
+							
+						[Jerry's building lobby - Jerry gets into the elevator and is about to press the button when Phil walks in. Jerry's jaw drops. Both men carry a bag of groceries]<br>
+							<br>
+							
+						JERRY: So you do live here.<br>
+							<br>
+							
+						PHIL: (sulkily) Yeah. (Jerry has an anguished expression as the elevator doors shut)<br>
+							<br>
+							
+						(Going up in the elevator, both men stand awkwardly in the silence, facing forward. Jerry looks troubled. Phil peeks up to check the progress of the elevator. Finally, it arrives, the doors open and Jerry exits, and starts to wave goodbye to Phil but sees him also exiting)<br>
+							<br>
+							
+						JERRY: You live on this floor?<br>
+							<br>
+							
+						PHIL: Yeah.<br>
+							<br>
+							
+						JERRY: (arriving at apartment, sees Phil start to open his apartment door, only one door down from Kramer's) So you live right... there.<br>
+							<br>
+							
+						PHIL: Yeah. (enters his apartment)<br>
+							<br>
+							
+						JERRY: So I guess I'll s--<br>
+							<br>
+							
+						(Phil slams the door behind him. Jerry nods and enters his own apartment)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Day. Monk's - Elaine sits opposite Jerry at a booth]<br>
+							<br>
+							
+						ELAINE: He wouldn't give me his number because he doesn't have a phone. (unwrapping a lollipop) He's not married. He's poor. (puts lollipop in her mouth)<br>
+							<br>
+							
+						JERRY: Is he wretchedly poor? Does he wear one of those barrels with the straps?<br>
+							<br>
+							
+						ELAINE: He probably busted it up and burned it for heat.<br>
+							<br>
+							
+						JERRY: So, when are you giving Boxcar Willie his walking papers?<br>
+							<br>
+							
+						ELAINE: How can I end it over money? I feel bad.<br>
+							<br>
+							
+						JERRY: Well, let's think. Have you ever dealt with the poor in any other situation?<br>
+							<br>
+							
+						ELAINE: Yes. There was this homeless guy who used to urinate on our garbage cans.<br>
+							<br>
+							
+						JERRY: Good. How did you handle that?<br>
+							<br>
+							
+						ELAINE: Well, we gave him a few bucks, and... now he goes in the alley across the street.<br>
+							<br>
+							
+						JERRY: Same situation. Pay him off, and you're clean.<br>
+							<br>
+							
+						ELAINE: Well, I am NOT paying Glenn off to get out of this relationship. Wh-what am I supposed to do, just walk into his hovel, and hand him... well, how much do you think it would be?<br>
+							<br>
+							
+						GEORGE: (entering Monk's) Hey.<br>
+							<br>
+							
+						JERRY: Hey, where have you been?<br>
+							<br>
+							
+						GEORGE: (sitting down next to Jerry) Seeing Maura. Apparently, I was unable to break up beyond a reasonable doubt.<br>
+							<br>
+							
+						ELAINE: If only he could have been cheating on his wife, you know, things would have been so much simpler.<br>
+							<br>
+							
+						GEORGE: Who's this, Blue Arrow?<br>
+							<br>
+							
+						ELAINE: Green Lantern.<br>
+							<br>
+							
+						JERRY: We found out his super power was lack of money.<br>
+							<br>
+							
+						ELAINE: (not amused) All right.<br>
+							<br>
+							
+						JERRY: He's invulnerable to creditors.<br>
+							<br>
+							
+						ELAINE: (annoyed) We get it. (George is laughing)<br>
+							<br>
+							
+						JERRY: He's the Got-no-Green Lantern.<br>
+							<br>
+							
+						ELAINE: Thank you. (gets up from her seat)<br>
+							<br>
+							
+						GEORGE: Hey, Elaine. Maybe his girlfriend is Lois Loan.<br>
+							<br>
+							
+						ELAINE: (leaning over to George) Ooh, (fake laugh) well crafted. (exits)<br>
+							<br>
+							
+						GEORGE: Hey, maybe this cheating thing is what I could use to ditch Maura.<br>
+							<br>
+							
+						JERRY: Sure, just tell Maura you're having an affair.<br>
+							<br>
+							
+						GEORGE: She's like a district attorney. If it's not the truth, I'll break under the cross. I actually have to do it.<br>
+							<br>
+							
+						JERRY: (fidgets like he has no room with George next to him)... Could you move over there?!<br>
+							<br>
+							
+						(George makes a face and reluctantly switches sides, to the seat Elaine was in)<br>
+							<br>
+							
+						GEORGE: Hey, you know, there's this secretary at work that always had a crush on me.<br>
+							<br>
+							
+						JERRY: Really? How come you never pursued her before?<br>
+							<br>
+							
+						GEORGE: She's too tanned. It's the middle of the winter, she's like a carrot.<br>
+							<br>
+							
+						ELAINE: (coming back into Monk's) Did I leave my glasses here?<br>
+							<br>
+							
+						JERRY: (to Elaine, still joking) He can wipe out his checking account in a single bounce!<br>
+							<br>
+							
+						ELAINE: (leaving again) Keep 'em! (George and Jerry savour the joke)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Day. Jerry's apartment &#151;&nbsp;Jerry enters to find Kramer there. A squawking can be heard in the hallway)<br>
+							<br>
+							
+						KRAMER: Heh.<br>
+							<br>
+							
+						JERRY: There's a giant parrot in the hallway.<br>
+							<br>
+							
+						KRAMER: It's Phil's.<br>
+							<br>
+							
+						JERRY: Who?<br>
+							<br>
+							
+						KRAMER: Our neighbor that you... turned against. (Jerry reacts) Anyway, I told him it'd be fine with us if he wanted to let it stretch its wings out in the hallway.<br>
+							<br>
+							
+						JERRY: What'd ya tell him that for?<br>
+							<br>
+							
+						KRAMER: Because since you've been playing God with the front door, I've been tryin' to smooth things out, Jerry. In fact, I was just hanging out at his place.<br>
+							<br>
+							
+						JERRY: Really? What's it like? Is it nicer than mine? Where does he have the couch?<br>
+							<br>
+							
+						KRAMER: Well, I don't know, but the key problem is solved. I hid it at Phil's...<br>
+							<br>
+							
+						JERRY: He let you?<br>
+							<br>
+							
+						KRAMER: No, he doesn't know. See, I hid it without tellin' him. So, uh, (starts walking towards door) Phil won't be compulsively looking for it like some people... You! (points at Jerry)<br>
+							<br>
+							
+						(Kramer leaves. We hear squawking and screaming and a banging against the door as Kramer's presumably attacked by the bird. Then he bursts back in, shaken and checking his face for blood. He shuts the door with his foot and peers through the peephole)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Night. George's apartment - he enters with a too-tanned Loretta, who is carrying flowers]<br>
+							<br>
+							
+						GEORGE: So, you... you say you've been in the city all winter?<br>
+							<br>
+							
+						LORETTA: I was in Maine for a couple days. (George looks puzzled at how she's so tanned)<br>
+							<br>
+							
+						GEORGE: Well... (shuts door) heeere we are (puts down his coat and chuckles)<br>
+							<br>
+							
+						LORETTA: George, I've always fantasized about jumping into bed with you.<br>
+							<br>
+							
+						GEORGE: (excited) Ho ho! (gestures and steps towards bedroom but Loretta walks the other way to the couch)<br>
+							<br>
+							
+						LORETTA: But... I don't want to spoil things by sleeping with you too soon.<br>
+							<br>
+							
+						GEORGE: (walking back) Are you sure? 'Cause it could really help me out of a jam.<br>
+							<br>
+							
+						LORETTA: I want to build something with you, George.<br>
+							<br>
+							
+						GEORGE: Oh, not more building.<br>
+							<br>
+							
+						LORETTA: (sighs) And I won't take no for an answer. (she sits down)<br>
+							<br>
+							
+						GEORGE: No?<br>
+							<br>
+							
+						LORETTA: No.<br>
+							<br>
+							
+						GEORGE: (after hesitating, resignedly) All right. (He sits down and smiles unconvincingly at her)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Day. Alley]<br>
+							<br>
+							
+						ELAINE: So, uh, what are we doing in this alley, anyway?<br>
+							<br>
+							
+						GLENN: It's a surprise.<br>
+							<br>
+							
+						ELAINE: (giggling) Oh.<br>
+							<br>
+							
+						(A nearby door opens, and a cook throws a garbage bag out into a trash can. As soon as the cook is gone, Glenn makes a grab for the bag and starts looking inside it)<br>
+							<br>
+							
+						ELAINE: What are you doing? What is that?<br>
+							<br>
+							
+						GLENN: It's a bag of donuts.<br>
+							<br>
+							
+						ELAINE: It's garbage.<br>
+							<br>
+							
+						GLENN: No, no, no, no. When they make the new ones, the old ones come out... right here.<br>
+							<br>
+							
+						ELAINE: (has had enough) All right, that's it. (rummaging in purse, pulls out her chequebook) How do you spell your last name?<br>
+							<br>
+							
+						GLENN: (still looking through the garbage bag) It's a bear claw! You have no idea how rare this is.<br>
+							<br>
+							
+						ELAINE: (writing out cheque) I'll make it out to cash. How 'bout two hundred bucks? Two-fifty?<br>
+							<br>
+							
+						GLENN: (eating the bear claw) Oooh!<br>
+							<br>
+							
+						ELAINE: Make it three hundred.<br>
+							<br>
+							
+						GLENN: (re the bear claw) You know, Elaine, you're the bear claw in the garbage bag of my life. (breaks bear claw in half and offers her a piece)<br>
+							<br>
+							
+						ELAINE: (touched, she takes it) Aw, Glenn.<br>
+							<br>
+							
+						(the cook comes out again, dumping a bucket of water out in the alley, and splashing Elaine and Glenn as they share the bear claw, but they're too wrapped up with each other to take much notice. Elaine wipes the side of her face. They smile)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Phil's apartment. A woman wearing cleaning gloves and a headscarf and carrying a wastebasket goes to open the door. Jerry is standing there)<br>
+							<br>
+							
+						JERRY: Hi. Is Phil here?<br>
+							<br>
+							
+						Phil: (from inside the apartment) Yeah, I'm here. (comes to the door. The caged parrot is visible in the background)<br>
+							<br>
+							
+						JERRY: Phil... hi. I-I know we got off to kind of a bad start. But your bird, which is lovely... by the way, made a mess on my door.<br>
+							<br>
+							
+						PHIL: And?<br>
+							<br>
+							
+						JERRY: I thought maybe you'd clean it up, or your maid, there.<br>
+							<br>
+							
+						PHIL: That's my wife.<br>
+							<br>
+							
+						JERRY: (nodding awkwardly for a moment) All right, I think we're done here. (Jerry leaves and Phil shuts the door darkly)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Day. Jerry's apartment - Jerry and George]<br>
+							<br>
+							
+						JERRY: (in a tuxedo) So, you're in a relationship with a woman you don't like, and you're having an affair with a woman that won't have sex with you.<br>
+							<br>
+							
+						GEORGE: This isn't going well.<br>
+							<br>
+							
+						JERRY: I cannot find my Jerry Lewis cufflinks. Without 'em, I have no in!<br>
+							<br>
+							
+						GEORGE: You don't need the cufflinks! You have the same name! (no reaction) 'Jerry'! (heads for door, grabbing his coat)<br>
+							<br>
+							
+						JERRY: Where are you goin'? Help me look!<br>
+							<br>
+							
+						GEORGE: (opening door) It's a big night. I'm, uh, ice skating with one, and going to a staged reading of &quot;Godspell&quot; with the other.<br>
+							<br>
+							
+						JERRY: Which is with who?<br>
+							<br>
+							
+						GEORGE: (shaking his head, weary) It doesn't matter. (he leaves)<br>
+							<br>
+							
+						KRAMER: (entering Jerry's apartment, in his own tuxedo) Whoo! Boy. Yeah, you clean up nice.<br>
+							<br>
+							
+						JERRY: I can't go until I find my cufflinks.<br>
+							<br>
+							
+						KRAMER: Yeah, see? I knew you would lose 'em. That's why I took 'em out of your dresser drawer and put 'em in my strongbox.<br>
+							<br>
+							
+						JERRY: You're a lifesaver. Would you get them, please?<br>
+							<br>
+							
+						KRAMER: Yeah, we'll stop by Phil's, we'll pick up the key, uh?<br>
+							<br>
+							
+						(entering the hall, Jerry and Kramer see Phil and his wife, both crying, arriving at their apartment. Jerry and Kramer approach them)<br>
+							<br>
+							
+						KRAMER: Hey, what's going on?<br>
+							<br>
+							
+						PHIL: Fredo is dead. (his wife sobs)<br>
+							<br>
+							
+						JERRY: That strange Portuguese guy that lives next-door to the incinerator?<br>
+							<br>
+							
+						PHIL: No! My bird. We just got back from the pet cemetery. (starts opening door)<br>
+							<br>
+							
+						JERRY: Oh, Phil... Mrs. Phil. I'm so sorry.<br>
+							<br>
+							
+						PHIL: Oh, I'll bet you are! They told us he was poisoned! Something in his food.<br>
+							<br>
+							
+						JERRY: But I, I didn't, I--<br>
+							<br>
+							
+						(Phil slams the door on Jerry. Kramer pats Jerry reassuringly on the shoulder)<br>
+							<br>
+							
+						JERRY: Kramer, they think I killed Fredo! (Kramer gestures sympathetically) And who buries a bird?<br>
+							<br>
+							
+						KRAMER: Yeah. Just give it to the Portuguese guy, and he... puts it in the incinerator.<br>
+							<br>
+							
+						JERRY: Just get the key and let's get out of here.<br>
+							<br>
+							
+						KRAMER: Yeah, yeah. (goes to Phil's door) You know, it's a... it's a funny thing about that bird dying. I hid the key in Fredo's food dish. Whoo! That's a weeeird coincidence.<br>
+							<br>
+							
+						JERRY: Kramer!? (grabbing Kramer's arm roughly, pulling him back as he's about to knock)<br>
+							<br>
+							
+						KRAMER: What?<br>
+							<br>
+							
+						JERRY: You killed Fredo!<br>
+							<br>
+							
+						KRAMER: (high-pitched) Well, Fredo was weak and stupid! He shouldn't have eaten that key!<br>
+							<br>
+							
+						JERRY: Kramer, I need those cufflinks, but now they're in the box, and the key is in the bird... What are we gonna do?<br>
+							<br>
+							
+						(Kramer clicks his fingers and points at Jerry)<br>
+							<br>
+							
+						KRAMER: You just answered your own question.<br>
+							<br>
+							
+						JERRY: (frowning in realization) Oh, no!<br>
+							<br>
+							
+						KRAMER: (nodding) I'll get the shovel. (walks towards his apartment, as Jerry grimaces at the prospect)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Day. Monk's - George and Loretta]<br>
+							<br>
+							
+						GEORGE: The, uh, actor that played Jesus made some odd choices.<br>
+							<br>
+							
+						LORETTA: (shaking head, confused) What?<br>
+							<br>
+							
+						GEORGE: I mean, uh... I had fun ice skating.<br>
+							<br>
+							
+						LORETTA: Oh. (she smiles, reassured, and nods)<br>
+							<br>
+							
+						(Maura enters)<br>
+							<br>
+							
+						MAURA: George?<br>
+							<br>
+							
+						GEORGE: Maura. (starts acting dramatically, looking from Maura to Loretta and back again) Oh, my God! What are you doing here?!<br>
+							<br>
+							
+						MAURA: You told me to meet you here for lunch.<br>
+							<br>
+							
+						GEORGE: (standing up, still acting) Uhh! I'm caught in my own web of lies! (holds his hands up in surrender)<br>
+							<br>
+							
+						MAURA: (calmly ignoring George) I'm Maura. (shaking Loretta's hand and smiling)<br>
+							<br>
+							
+						LORETTA: (to Maura, also friendly) I'm Loretta. You want to join us? (Maura nods and sits down next to her)<br>
+							<br>
+							
+						GEORGE: (laughs hysterically, gesticulating wildly) This is all blowing up in my face! My serious girlfriend, and my torrid love affair have accidentally crossed paths. I have ruined three lives... (grabbing coat) Well, I understand if you never want to see me again, so... (points towards door)<br>
+							<br>
+							
+						MAURA: George, what we have is too important. We can work through this.<br>
+							<br>
+							
+						LORETTA: So can we.<br>
+							<br>
+							
+						GEORGE: (astounded) What? So, this is still not over?<br>
+							<br>
+							
+						MAURA: No.<br>
+							<br>
+							
+						GEORGE: You?<br>
+							<br>
+							
+						LORETTA: No.<br>
+							<br>
+							
+						(George stands there pondering this, then resignedly...)<br>
+							<br>
+							
+						GEORGE: All right. (throws his coat back down on the seat and sits down opposite them)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Glenn's apartment - Elaine and Glenn]<br>
+							<br>
+							
+						GLENN: Elaine, wow, a TV, a stereo?<br>
+							<br>
+							
+						ELAINE: Yeah, and I got you a cord of wood, so you won't have to burn 'em.<br>
+							<br>
+							
+						(A woman walks in)<br>
+							<br>
+							
+						GLENN: Oh, my God, Alison. You're home early.<br>
+							<br>
+							
+						ELAINE: Who is this?<br>
+							<br>
+							
+						ALISON: (arms crossed, angry) His wife.<br>
+							<br>
+							
+						ELAINE: You're... poor AND married?<br>
+							<br>
+							
+						GLENN: Looks like it.<br>
+							<br>
+							
+						ALISON: Who the hell are you?<br>
+							<br>
+							
+						ELAINE: I guess I'm... Lois Loan.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Night. Pet Cemetery - Jerry and Kramer enter, dressed in their tuxedos. Jerry is carrying a shovel]<br>
+							<br>
+							
+						JERRY: Kramer, I can't believe we're grave robbers.<br>
+							<br>
+							
+						KRAMER: (reading a tombstone) 'Man's best friend'. Jerry, I want something like that on my tombstone.<br>
+							<br>
+							
+						JERRY: (seeing Fredo's tombstone) Oh, my God. Here he is. I don't want to dig him up! (hands the shovel to Kramer)<br>
+							<br>
+							
+						KRAMER: (sighs) All right, then you're the one getting the key out of him.<br>
+							<br>
+							
+						JERRY: (grimaces and takes the shovel back) I'll dig.<br>
+							<br>
+							
+						KRAMER: Listen, I heard that Lassie #3 is buried around here. I'm gonna go check it out.<br>
+							<br>
+							
+						(Kramer walks off, trips over a tombstone, straightens his bow-tie, trying to appear dignified again, and exits. Jerry, watching, shakes his head and starts digging)<br>
+							<br>
+							
+						JERRY: (hitting metal with the first strike of the shovel) Well, that was easy.<br>
+							<br>
+							
+						(cut to another part of the cemetery, where Phil is walking with his wife. She is carrying flowers)<br>
+							<br>
+							
+						PHIL: All right, Honey, one last look, then you have to let Fredo rest in peace.<br>
+							<br>
+							
+						(back to Jerry, levering the metal box out of the ground. Kramer is not back)<br>
+							<br>
+							
+						JERRY: (with a wild expression) Hey, Kramer! I dug Fredo up, now let's cut him open!<br>
+							<br>
+							
+						(just at that moment, Phil and his wife arrive)<br>
+							<br>
+							
+						PHIL: (horrified) Oh, my God!<br>
+							<br>
+							
+						(Phil's wife screams and puts her hand to her mouth in shock)<br>
+							<br>
+							
+						JERRY: (after a very awkward pause, cheerily) Hey, neighbor.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Jerry's apartment - George, Elaine, Jerry, and Kramer in the background. George is counting bank notes into two piles]<br>
+							<br>
+							
+						GEORGE: All right. I'm gonna try givin' them fifty-five dollars each... (to Elaine) What do you think?<br>
+							<br>
+							
+						ELAINE: Give me forty, you'll never see me again.<br>
+							<br>
+							
+						(Elaine makes a face at George as though picking something from her teeth with her tongue. George rolls his eyes away, returning to the money)<br>
+							<br>
+							
+						ELAINE: (to Jerry) So, what are you gonna do? Are you gonna live here, or are you gonna move out, or what?<br>
+							<br>
+							
+						JERRY: (still in tuxedo, tie undone) Ah, I'll just take the fire escape to get in and out of the building.<br>
+							<br>
+							
+						(Kramer enters from the bathroom, also still in his tuxedo, without the tie. George gets up and walks over to the strongbox)<br>
+							<br>
+							
+						GEORGE: So, what's in the cooler? (flips open the lid)<br>
+							<br>
+							
+						(Kramer gasps. He and Jerry look on in amazement)<br>
+							<br>
+							
+						KRAMER: Oh. Well, would you look at that. (puts a gun-shaped hand to his head and goes 'Pop') I guess I forgot to lock it.<br>
+							<br>
+							
+						JERRY: You mean it was open? We desecrated a pet cemetery for nothing?<br>
+							<br>
+							
+						KRAMER: Well, this is one for the books, huh, Jerry?... Reeeally one for the books!<br>
+							<br>
+							<br>
+							
+						The End</td>
+						</tr>
+						<tr height="6">
+							<td class="bottom2" width="645" height="6"></td>
+						</tr>
+						<tr>
+							<td width="645">
+								<div align="center">
+									<font size="-1">Copyright 2006 seinology.com | All Rights Reserved | Designed by 13erla</font></div>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+		<p></p>
+	</body>
+
+</html>

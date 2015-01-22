@@ -1,0 +1,1042 @@
+<tdOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+<html>
+
+	<head>
+		<meta http-equiv="content-type" content="text/html;charset=ISO-8859-1">
+		<meta name="description" content="Top Source for Seinfeld">
+		<meta name="keywords" content="seinfeld, sienfeld, Jerry Seinfeld, Julia Louis Dreyfus, Jason Alexander, Michael Richards, Kramer, George, Costanza, Elaine Benes, morty, Larry David">
+		<title>Seinology.com :: Scripts :: 58-The Old Man</title>
+	<link rel='stylesheet' href='/stylesheet.css' type='text/css'>
+	</head>
+
+	<body>
+			<table align="center" width="787" border="0" cellspacing="0" cellpadding="0">
+				<tr>
+					<td><font size="-2" color="red">Seinology.com - </font><font size="-3" color="black">Where Seinfeld Content and Accuracy Matter Most. Seinfeld scripts in pdf form, Seinfeld episode video clips, Seinfeld episode audio clips, Jerry Seinfeld appearances, Julia Louis-Dreyfus appearances, Michael Richards appearances, Jason Alexander appearances, Seinfeld discussion Forum, Seinfeld Where are they Now? Seinlanguage Newsletter, Popular Seinfeld Lists, Seinfeld episode standup, Seinfeld episode guide, Seinfeld fan fiction. Seinfeld content all on one domain. Seinology.com enjoy your stay.</font></td>
+				</tr>
+			</table>
+		
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr height="100">
+				<td class="logo"></td>
+			</tr>
+			<tr><td class="ads" align="center" background=#8694fa>
+				<script type="text/javascript"><!--
+google_ad_client = "pub-1924026976931416";
+google_ad_width = 728;
+google_ad_height = 90;
+google_ad_format = "728x90_as";
+google_ad_type = "text";
+google_ad_channel = "";
+google_color_border = "FFFFFF";
+google_color_bg = "8694fa";
+google_color_link = "0000FF";
+google_color_text = "000000";
+google_color_url = "002E3F";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></td></tr>
+		</table>
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr>
+				<td valign="top" width="136">
+					<table width="136" border="0" cellspacing="0" cellpadding="0">
+						<tr height="24">
+							<td class="navigation">
+								<div align="center">
+									
+									<b>Navigation</b></div>
+							</td>
+						</tr>
+						<tr height="199">
+							<td class="spacer1" valign="top" width="136" height="199">
+								<div align="center">
+									<font size="-1"><a href="http://www.seinology.com">Home</a><br>
+										<a href="http://board.seinology.com">Forum</a><br>
+										<a href="http://www.seinology.com/av.shtml">Audio/Video</a><br>
+										<a href="http://www.seinology.com/scripts.shtml">Scripts</a><br>
+										<a href="http://www.seinology.com/survivor.shtml">Survivor</a><br>
+										<a href="http://www.seinology.com/fanfics.shtml">Fan Fiction</a><br>
+										<a href="http://www.seinology.com/gallery/">Gallery</a><br>
+										<a href="http://www.seinology.com/newsletter.shtml">Newsletter</a><br>
+										<a href="http://www.seinology.com/lists.shtml">Lists</a><br>
+										<a href="http://www.seinology.com/epguide.shtml">Episode Guide</a><br>
+										<a href="http://www.seinology.com/links.shtml">Links</a><br>
+										<a href="http://www.seinology.com/faqother.shtml">Faq + others</a><br>
+										<a href="http://www.seinology.com/legal.shtml">Legal</a></font></div>
+							</td>
+						</tr>
+						
+						<tr>
+							<td class="nav2" width="136">
+							<div align="center"><b>Search</b></div></td>
+						</tr>
+						<tr>
+							<td class="spacer1" width="136" valign="top"><div align="center"><form method="get" action="http://www.seinology.com/search/search.cgi">
+<p><label for="fdse_Match">Match</label><br>
+<select name="Match" id="fdse_Match" size="1">
+<option value="1">All</option>
+<option value="0">Any</option>
+<option value="2">Phrase</option>
+</select></p>
+<p><label for="fdse_Realm">Where?</label><br>
+<select name="Realm" id="fdse_Realm" size="1">
+<option selected="selected" value="All">EntireSite</option>
+<option value="Ep Guide">Ep Guide</option>
+<option value="Images">Images</option>
+<option value="Lists">Lists</option>
+<option value="Newsletters">Newsletters</option>
+<option value="Scripts">Scripts</option>
+<option value="Notes..Nothing">Notes..Nothing</option>
+</select></p>
+<p><input type="text" name="Terms" size="14" id="fdse_Terms"><br>
+<input type="submit" class="submit" name="submitButtonName" value="Search"></p>
+</div></form></td>
+						</tr>
+						<tr><td class="bottom" width="136" height="10" valign="top">
+						</td>
+						</tr>
+					</table>
+				</td>
+				<td width="4"></td>
+				<td valign="top" width="645">
+					<table width="645" border="0" cellspacing="0" cellpadding="0">
+						<tr height="18">
+							<td width="645" height="35" class="bar">
+								<div align="center">
+									<b><font size="+2" color="black">Script</font></b></div>
+							</td>
+						</tr>
+						<tr height="362">
+							<td class="spacer2" valign="top" width="645" height="362">
+
+						<p><font size="-2">Episode 58 - The Old Man<br>
+							
+						pc: 418, season 4, episode 18<br>
+							
+						Broadcast date: February 18, 1993<br>
+							<br>
+							
+						Written by Bruce Kirschbaum<br>
+							
+						Story by Larry Charles<br>
+							
+						Directed by Tom Cherones<br>
+							<br>
+							
+						-------------------------------------------------------------------------------<br>
+							<br>
+							
+						The Cast<br>
+							
+						Regulars:<br>
+							
+						Jerry Seinfeld ....................... Jerry Seinfeld<br>
+							
+						Jason Alexander .................. George Costanza<br>
+							
+						Julia Louis-Dreyfus ............. Elaine Benes<br>
+							
+						Michael Richards ................. Kramer<br>
+							<br>
+							
+						Guest Stars:<br>
+							<br>
+							
+						Bill Erwin ............................. Sid<br>
+							
+						Tobin Bell ............................ Ron<br>
+							
+						Robert Donley .................... Ben<br>
+							
+						Lanei Chapman ................... Housekeeper<br>
+							
+						Victoria Dillard .................... Agency Rep<br>
+							
+						Jerry Hauck ........................ Tim<br>
+							
+						rc: Wayne Knight ............... Newman<br>
+							<br>
+							
+						==================================================================<br>
+							<br>
+							
+						[Open at Monk's, with Jerry &amp; George just sittin' around. Jerry is reading the paper while George reflects on things]<br>
+							<br>
+							
+						GEORGE: Oh, what's the point? When I like them, they don't like me, when they like me, I don't like them. Why can't I act with the ones I like the same way I do with the ones I don't like?<br>
+							<br>
+							
+						JERRY: Well, you've only got another fifty years or so to go before it'll *all* be over...<br>
+							<br>
+							
+						GEORGE: Maybe I need someone who doesn't speak English.<br>
+							<br>
+							
+						JERRY: Yeah, how about a mute?<br>
+							<br>
+							
+						GEORGE: A mute would be good.<br>
+							<br>
+							
+						JERRY: Ah, where you gonna meet a mute?<br>
+							<br>
+							
+						GEORGE: This is what my life has come to... Tryin to meet a mute.<br>
+							<br>
+							
+						(George quickly shifts into deep philosophical mode. Jerry remains pedestrian on the issue, still reading the paper.)<br>
+							<br>
+							
+						GEORGE: I dunno, Jerry somethin's missing. There's a void, Jerry, there's a void...<br>
+							<br>
+							
+						JERRY: A deep, yawning chasm...<br>
+							<br>
+							
+						GEORGE: There's gotta be more to life than this. What gives you pleasure?<br>
+							<br>
+							
+						JERRY: Listening to you. I listen to this for fifteen minutes and I'm on top of the world. Your misery is my pleasure.<br>
+							<br>
+							
+						(Elaine enters and greets George &amp; Jerry cheerfully.)<br>
+							<br>
+							
+						ELAINE: Hey boys!<br>
+							<br>
+							
+						JERRY: Hey! How you doin'?<br>
+							<br>
+							
+						ELAINE: Good. Okay, well, it's all set. I start tomorrow.<br>
+							<br>
+							
+						GEORGE: Start what?<br>
+							<br>
+							
+						ELAINE: I signed up to do volunteer work with senior citizens.<br>
+							<br>
+							
+						GEORGE: *Really*.<br>
+							<br>
+							
+						ELAINE: Yeah. God, I can't tell you how I feel! I mean, I feel *so* *good*! I *really* feel good. The strange thing is, I mean, I haven't even met the woman yet.<br>
+							<br>
+							
+						GEORGE: Volunteer work, huh?<br>
+							<br>
+							
+						JERRY: What're you gonna do down there?<br>
+							<br>
+							
+						ELAINE: Well, they say all it is is that you go over to their apartment and, I dunno, you take them for a walk and you get a cup of coffee and it's supposed to make them feel good.<br>
+							<br>
+							
+						JERRY: That's what I do with him [points at George]<br>
+							<br>
+							
+						(George gives Jerry that &quot;Oh, ha-ha... it is to laugh&quot; look and probes Elaine further (no, that's not a euphemism for those who are wondering.)<br>
+							<br>
+							
+						GEORGE: When did you get this idea?<br>
+							<br>
+							
+						ELAINE: Last time I had lunch with you here. You were going *on* and *on* and *on* about how you wanted to meet somebody who didn't speak English.<br>
+							<br>
+							
+						JERRY: What, do you break it in with her, then you try it out on me?<br>
+							<br>
+							
+						GEORGE: And... and anybody can do this?<br>
+							<br>
+							
+						ELAINE: Yup.<br>
+							<br>
+							
+						GEORGE: Helping people... Of course. Of course! It makes perfect sense! How could I *not* be doing this!? I am gonna help somebody, Dammit!<br>
+							<br>
+							
+						ELAINE: [To Jerry] What about you?<br>
+							<br>
+							
+						JERRY: Nah, it's not for me.<br>
+							<br>
+							
+						ELAINE: Jerry, if anybody should be doing this, it's you.<br>
+							<br>
+							
+						GEORGE: What *kind* of a person are you?<br>
+							<br>
+							
+						JERRY: I think I'm pretty much like you-- only successful.<br>
+							<br>
+							<br>
+							
+						[We skip forward to the apartment where a representative from the senior citizens office is giving George &amp; Jerry their information sheets on their volunteer cases.]<br>
+							<br>
+							
+						AGENCY REP: This is a wonderful thing you're doing. They're so grateful just to have someone to talk to. And I can tell you that everyone who participates finds the experience extremely rewarding.<br>
+							<br>
+							
+						GEORGE: Well, I feel better already. I'm feelin' like a good person.<br>
+							<br>
+							
+						AGENCY REP: Good luck.<br>
+							<br>
+							
+						JERRY: Thank you.<br>
+							<br>
+							
+						(The rep leaves and George &amp; Jerry compare information sheets)<br>
+							<br>
+							
+						GEORGE: Hey, what's your guy's name again?<br>
+							<br>
+							
+						JERRY: Fields. Sidney Fields. *87* years old. *87*. How about your guy?<br>
+							<br>
+							
+						GEORGE: Ben Cantwell. 85. Huh... You think we'll make it to that age?<br>
+							<br>
+							
+						JERRY: *We*? No.<br>
+							<br>
+							
+						(Enter Kramer)<br>
+							<br>
+							
+						KRAMER: So what's up, Diggity Dog?<br>
+							<br>
+							
+						JERRY: George and I just signed up with the Senior Citizen's Volunteer Agency. Same thing Elaine's doing.<br>
+							<br>
+							
+						KRAMER: Oh, that's too bad. Now don't say I didn't try to warn you.<br>
+							<br>
+							
+						JERRY: What're you talkin' about?<br>
+							<br>
+							
+						KRAMER: Oh, Jerry, I'm *surprised* at you!<br>
+							<br>
+							
+						JERRY: What?<br>
+							<br>
+							
+						KRAMER: It's a *con*. These agencies are usually a front for some money laundering scheme. Or they're bunko artists; bilkin' people out of their life savings, oh *yeah*.<br>
+							<br>
+							
+						JERRY: Where do you *get* this?<br>
+							<br>
+							
+						KRAMER: The alternative media, Jerry. That's where you hear the truth.<br>
+							<br>
+							
+						(Before Kramer can get too far into his tale, a commotion is going on outside the door at Kramer's apartment. Someone's knockin' on his door.)<br>
+							<br>
+							
+						NEWMAN: Kramer?! Kramer!? Where are you? Kramer!?! Kramer!!?<br>
+							<br>
+							
+						KRAMER: I'm in here. C'mon...<br>
+							<br>
+							
+						JERRY: Hello, *Newman*...<br>
+							<br>
+							
+						NEWMAN: Jerry, George. [To Kramer] So, did you ask him about the records?<br>
+							<br>
+							
+						KRAMER: Well--<br>
+							<br>
+							
+						JERRY: What records?<br>
+							<br>
+							
+						KRAMER: Well, Newman and I are going partners selling used records.<br>
+							<br>
+							
+						(Kramer and Newman do what I can only assume is some sort of Secret Hand Shake (like the Moose lodge).)<br>
+							<br>
+							
+						NEWMAN: You know Ron's Records down on Bleeker? They pay big cash for used records!<br>
+							<br>
+							
+						KRAMER: Yeah, so we thought if you had any of those big, y'know, old-fashioned useless records, y'know, just... lyin' around--<br>
+							<br>
+							
+						KRAMER: Y'know, we'd take them off your hands, free of charge.<br>
+							<br>
+							
+						(Before Jerry issues a response, George needs his curiousity satisfied.)<br>
+							<br>
+							
+						GEORGE: Let me ask you something. What do you do for a living, Newman?<br>
+							<br>
+							
+						NEWMAN: I'm a United States postal worker.<br>
+							<br>
+							
+						GEORGE: Aren't those the guys that always go crazy and come back with a gun and shoot everybody?<br>
+							<br>
+							
+						NEWMAN: Sometimes...<br>
+							<br>
+							
+						JERRY: Why *is* that?<br>
+							<br>
+							
+						NEWMAN: Because the mail never stops. It just keeps coming and coming and coming, there's never a let-up. It's relentless. Every day it piles up more and more and more! And you gotta get it out but the more you get it out the more it keeps coming in. And then the bar code reader breaks and it's *Publisher's Clearing House* day!!!<br>
+							<br>
+							
+						(Newman is restrained by the boys, but on the bright side, Jerry has allowed Kramer &amp; Newman to take whatever records they want from his bedroom. We shift to the record shop, but the sign says &quot;Bleeker Bob's Records&quot; (Continuity alert! Continuity alert!) The clerk (presumably Ron) files through Kramer &amp; Newman's stash carefully and somehow comes to his total without a calculator)<br>
+							<br>
+							
+						RON: I'll give you five bucks.<br>
+							<br>
+							
+						KRAMER: Five bucks???<br>
+							<br>
+							
+						NEWMAN: Well, you know how much those records are worth!?<br>
+							<br>
+							
+						RON: Yeah, I do... Fi' dollars.<br>
+							<br>
+							
+						NEWMAN: Those records are worth more than five dollars!<br>
+							<br>
+							
+						KRAMER: [In Newman's ear] He's gyppin' us...<br>
+							<br>
+							
+						NEWMAN: You're gyppin' us!<br>
+							<br>
+							
+						RON: Well, whattya got here, y'know, you got &quot;Don Ho: Live At Honolulu&quot;, you got &quot;Jerry Vale Sings Italian Love Songs&quot; you got Sergio Mendes, now come on...<br>
+							<br>
+							
+						KRAMER: Wait, wait, wait... Sergio Mendes has a cult following.<br>
+							<br>
+							
+						NEWMAN: They follow him like a cult.<br>
+							<br>
+							
+						KRAMER: He can't even walk down the street in South America...<br>
+							<br>
+							
+						RON: Look, that's his problem, alright? Now you don't like it, too bad.<br>
+							<br>
+							
+						KRAMER: [In Newman's ear] I don't like it...<br>
+							<br>
+							
+						NEWMAN: I don't like it.<br>
+							<br>
+							
+						RON: Well, then get the Hell out of my store, alright? You bring me something decent, I'll give you some money.<br>
+							<br>
+							
+						KRAMER: [In Newman's ear] Alright, well be back, jack.<br>
+							<br>
+							
+						NEWMAN: Alright, well be back... *jack*!<br>
+							<br>
+							<br>
+							
+						[At the home of Sid Field, Sid sits in an armchair while his housekeeper answers the door. Sid is not the jolly fellow one might associate with someone of his mellowing years]<br>
+							<br>
+							
+						JERRY: Hi, I'm Jerry Seinfeld, the agency sent me.<br>
+							<br>
+							
+						HOUSEKEEPER: Agency?<br>
+							<br>
+							
+						JERRY: Yeah, is this Sid Field's residence?<br>
+							<br>
+							
+						HOUSEKEEPER: Sid Fields.<br>
+							<br>
+							
+						(The Housekeeper points over to the E-Z Chair where Sid is sitting. He welcomes Jerry into his home.)<br>
+							<br>
+							
+						SID: What the *Hell* is it?<br>
+							<br>
+							
+						JERRY: Mr. Fields?<br>
+							<br>
+							
+						SID: What!?!<br>
+							<br>
+							
+						JERRY: Hi, I'm Jerry Seinfeld, the agency sent me.<br>
+							<br>
+							
+						SID: Agency? What agency? The *CIA*?<br>
+							<br>
+							
+						JERRY: No, no, the--<br>
+							<br>
+							
+						SID: Who let you in here?<br>
+							<br>
+							
+						JERRY: The woman, she--<br>
+							<br>
+							
+						SID: Oh *her*. She *steals* from me. Steals my money. She says she doesn't speak English. My *ass* she doesn't speak English. Plays that freakin' &quot;voo-doo&quot; music, tries to hypnotize me. She thinks she's gonna turn me into a zombie and then rob me blind. Well, I wasn't born yesterday. I may drop dead today, but I sure as Hell wasn't born yesterday. Now get the Hell out of my house...<br>
+							<br>
+							
+						JERRY: Mr. Fields, I'm here to spend some time with you.<br>
+							<br>
+							
+						SID: Oh, really. Are you the boyfriend? I know she's got a boyfriend. Are you going to *kill* me? I'm an old man for crying out loud, you gonna kill an old man, you coward?!? [Jerry gets out card]<br>
+							<br>
+							
+						JERRY: No, Mr. Field, look, really I'm--<br>
+							<br>
+							
+						SID: I can't read that you fool...<br>
+							<br>
+							
+						(Jerry is in the pocket and he's in trouble. Attempting to avoid the sack he scrambles and picks another topic to switch to. There are a couple of piles of records on top of the TV. Jerry asks about them.)<br>
+							<br>
+							
+						JERRY: What's all this stuff?<br>
+							<br>
+							
+						SID: Trash. Garbage.<br>
+							<br>
+							
+						JERRY: You're throwin' this out??<br>
+							<br>
+							
+						SID: I believe that's what you do with garbage, you idiot.<br>
+							<br>
+							
+						(You can make out the albums pretty clearly. One is an apparent K-Tel &quot;classic&quot;: &quot;22 Explosive Hits&quot;, I don't know the other one. Anyone? I believe &quot;The Beatles&quot; (The White Album) is there also.)<br>
+							<br>
+							
+						JERRY: You don't want any of this?<br>
+							<br>
+							
+						SID: Well if I wanted it I wouldn't be throwing it away, *Ein-stein*.<br>
+							<br>
+							
+						JERRY: You know I have some friends who would really like to have these.<br>
+							<br>
+							
+						SID: Well, take it. I'm sure as Hell not going to give it to my family.<br>
+							<br>
+							
+						(They've bonded. Just like in all those buddy-cop movies. This seemingly non-compatible couple have found common ground. They've reached each other)<br>
+							<br>
+							
+						JERRY: Well, do you want to go out for a walk, get a cup of coffee...<br>
+							<br>
+							
+						SID: With you? I'd rather be dead.<br>
+							<br>
+							
+						JERRY: Well, maybe I'll get goin' then. I just remembered I got an appointment to get my, um, tonsils out.<br>
+							<br>
+							
+						SID: Good. Thank God. Good riddance. [pause] Oh listen, before you go, would you mind changing my diaper? HAA!!<br>
+							<br>
+							<br>
+							
+						[At Monk's, George and his charge enjoy a bowl of soup over some, er, light conversation.]<br>
+							<br>
+							
+						BEN: No, I feel great for 85.<br>
+							<br>
+							
+						GEORGE: Y'know the average life span for an American male is like, 72. You're really... kinda pushin' the envelope there.<br>
+							<br>
+							
+						BEN: I'm not afraid of dyin'. I never think about it.<br>
+							<br>
+							
+						GEORGE: You don't? Boy, I think about it a lot. I think about it at my age. Imagine how much I'll be thinkin' about it at your age. All I'll do is keep thinkin' about it until it drives me insane...<br>
+							<br>
+							
+						BEN: I'm grateful for every moment I have.<br>
+							<br>
+							
+						GEORGE: Grateful? How can you be grateful when you're *so* close to the end? When you know that any second-- Poof! Bamm-O! It can all be over. I mean you're not stupid, you can read the handwriting on the wall. It's a matter of simple arithmetic, for Gods sake...<br>
+							<br>
+							
+						BEN: I guess I just don't care.<br>
+							<br>
+							
+						GEORGE: What are you talking about? How can you sit there and look me in the eye and tell that me you're not worried?! Don't you have any *sense*?!! Don't you have a brain!? Are you so completely senile that you don't know what you're talkin about Anymore!!?!<br>
+							<br>
+							
+						(Ben gets up to leave)<br>
+							<br>
+							
+						GEORGE: Wait a second, where are you going?<br>
+							<br>
+							
+						BEN: Life's too short to waste on you.<br>
+							<br>
+							
+						GEORGE: Wait a minute, please--<br>
+							<br>
+							
+						BEN: Get out of my way...<br>
+							<br>
+							
+						(As Ben shoves George out of the way, all of a sudden you just *have* to feel a tinge of pain in your heart as you realize George realizes he won't be able to talk to Ben anymore)<br>
+							<br>
+							
+						GEORGE: But Mr. Cantwell, you... you owe me for the soup...<br>
+							<br>
+							<br>
+							
+						[The apartment of Elaine's senior citizen. It's very dark in the apartment.]<br>
+							<br>
+							
+						ELAINE: Mrs. Oliver?<br>
+							<br>
+							
+						MRS. O: Yes my dear.<br>
+							<br>
+							
+						(Elaine looks around the room, trying to find Mrs. Oliver. She pans around and wham-o!! She sees that Mrs. Oliver has a rather, er, um, unsightly physical problem (to put it mildly)<br>
+							<br>
+							
+						ELAINE: Ooh!<br>
+							<br>
+							
+						MRS. O: What's the trouble? Are you alright?<br>
+							<br>
+							
+						ELAINE: Yeah. Yeah. Yes. Yeah.<br>
+							<br>
+							
+						MRS. O: It's my goiter, isn't it?<br>
+							<br>
+							
+						ELAINE: Did you say goiter? What goiter?<br>
+							<br>
+							
+						MRS. O: This football-shaped lump jutting out the side of my neck.<br>
+							<br>
+							
+						ELAINE: Oh, *that* goiter. Hey... Heh heh heh... Whaddya know...<br>
+							<br>
+							
+						MRS. O: Does it bother you?<br>
+							<br>
+							
+						ELAINE: Bother me? Oh, phhbt... Why would a little goiter like that bother me? No, not a bit. It's nothing. It's nothin', it's um, in fact, it's um, it's very distinctive, y'know? Um, I mean you want to know something? I, I wish I had one. [pause] Really.<br>
+							<br>
+							<br>
+							
+						[At Jerry's apartment, the kids compare notes on their visits.]<br>
+							<br>
+							
+						JERRY: C'mon Elaine, it's just a goiter...<br>
+							<br>
+							
+						ELAINE: I don't know what I'm going to do. I can't look the woman in the face. I mean I keep thinkin' that that goiter's gonna start talkin' to me... You'd think they'd mention that before they send you over there: &quot;Oh, by the way, this woman *almost* has a second head&quot;. But no, no, I didn't get any goiter information.<br>
+							<br>
+							
+						JERRY: They really should mention that in the breakdown: height, weight, goiter.<br>
+							<br>
+							
+						ELAINE: Y'know you try to do some good. You want to be a good person but this is too much to ask.<br>
+							<br>
+							
+						JERRY: Yeah, well, I'll tell ya, I'd rather talk to a goiter with a nice disposition than the nut they sent me to.<br>
+							<br>
+							
+						ELAINE: Hey Georgie, what happened with your guy?<br>
+							<br>
+							
+						GEORGE: I don't think it's gonna work out...<br>
+							<br>
+							
+						JERRY: Whattya mean?<br>
+							<br>
+							
+						GEORGE: He fired me.<br>
+							<br>
+							
+						JERRY: He fired you?!?<br>
+							<br>
+							
+						ELAINE: *How* do you get fired from a volunteer job?<br>
+							<br>
+							
+						GEORGE: I dunno. I was just talking to the man and he walked out on me!<br>
+							<br>
+							
+						JERRY: Well, I dunno about you two, but I'm quitting. I hate my guy. He's a mean, mean guy.<br>
+							<br>
+							
+						ELAINE: I wish I could quit...<br>
+							<br>
+							
+						JERRY: So quit!<br>
+							<br>
+							
+						GEORGE: Yeah, I'm a great quitter. It's one of the few things I do well. I come form a long line of quitters. My father was a quitter, my grandfather was a quitter... I was raised to give up.<br>
+							<br>
+							
+						(Kramer and Newman come in, albums in hand)<br>
+							<br>
+							
+						KRAMER: Well, here's your *albums* [Journey &quot;Escape&quot; is on top, BTW...]<br>
+							<br>
+							
+						JERRY: What happened?<br>
+							<br>
+							
+						NEWMAN: Five dollars. He offered us *five* dollars.<br>
+							<br>
+							
+						KRAMER: Hey, what kind of stuff are you listening to? You *embarrassed* me at that store.<br>
+							<br>
+							
+						NEWMAN: That guy thought we were a couple of total squares.<br>
+							<br>
+							
+						JERRY: Oh yeah, you and your *Sergio Mendes*...<br>
+							<br>
+							
+						KRAMER: Hey, hey, hey, hey, that guy can't even go to the bathroom in South America!<br>
+							<br>
+							
+						(Elaine relieves herself of the conversation by going to the bathroom)<br>
+							<br>
+							
+						JERRY: Well you shoulda seen the pile of albums this old guy I was visiting today was throwing away: Sinatra, Duke Ellington, Al Jolson, Benny Goodman...<br>
+							<br>
+							
+						KRAMER: Wait, wait, wait, now... He's throwin them out??<br>
+							<br>
+							
+						JERRY: Yeah, and then I asked him if my friend could have them and he said yeah.<br>
+							<br>
+							
+						KRAMER: Okay...<br>
+							<br>
+							
+						NEWMAN: [In Kramer's ear] The old coot's sittin' on a mountain of gold!<br>
+							<br>
+							
+						KRAMER: Yeah...<br>
+							<br>
+							
+						JERRY: But you're going to have to go get em. I'm not carryin' them all.<br>
+							<br>
+							
+						KRAMER: Yeah, but you've gotta come with us.<br>
+							<br>
+							
+						JERRY: Yeah, I'm goin' there today. In fact you should see this house keeper he's got. She's from Senegal [and, ala Carson] Wild, Wild, Stuff...<br>
+							<br>
+							
+						(George peeks up from the magazine he's reading on the couch)<br>
+							<br>
+							
+						GEORGE: Senegal?<br>
+							<br>
+							<br>
+							
+						[At Mr. Fields' apartment, George is helping the housekeeper put away some groceries. He takes this time to get to know her better]<br>
+							<br>
+							
+						GEORGE: So you don't speak *any* English at all?<br>
+							<br>
+							
+						HOUSEKEEPER: English? No.<br>
+							<br>
+							
+						SID: Hey, what are those bums doin' back there?<br>
+							<br>
+							
+						JERRY: Well you said they could come and take the records.<br>
+							<br>
+							
+						SID: It's like watchin' a couple of hyenas goin' through the garbage.<br>
+							<br>
+							
+						GEORGE: You don't speak *any* English?<br>
+							<br>
+							
+						HOUSEKEEPER: No English.<br>
+							<br>
+							
+						GEORGE: I would like to dip my bald head in oil and rub it all over your body. [No reaction] You don't understand! It's a miracle! You don't understand because you don't speak English!<br>
+							<br>
+							
+						JERRY: So Mr. Fields I just don't know if this arrangement is--<br>
+							<br>
+							
+						SID: Hey, I don't like what's goin' on around here. I want all you bums outta here.<br>
+							<br>
+							
+						KRAMER: Now calm down, Mr. Fields...<br>
+							<br>
+							
+						SID: Now don't tell me to calm down... Get your hands off of me! Why you little...<br>
+							<br>
+							
+						KRAMER: Oooow! He's biting me!<br>
+							<br>
+							
+						(Kramer's defense mechanism kicks in and when he rips his arm away from Sid's jaws of death, something flies away from the scrum)<br>
+							<br>
+							
+						SID: My teeth! My teeth!<br>
+							<br>
+							
+						JERRY: Where's his teeth! Where's his teeth!<br>
+							<br>
+							
+						GEORGE: I thought I saw something fly over here...<br>
+							<br>
+							
+						JERRY: Well turn the light on...<br>
+							<br>
+							
+						(George flicks the light switch by the kitchen sink)<br>
+							<br>
+							
+						JERRY: That's the garbage disposal!<br>
+							<br>
+							
+						SID: My teeth! You idiots!!!<br>
+							<br>
+							
+						(The boys decide to take Sid to the dentist to get new teeth, or something but on the way to the cab, somebody forgot to stay with Mr. Fields. They go back to find him, but they can't, apparently.)<br>
+							<br>
+							<br>
+							
+						[Cut to Mrs. Oliver's place where Elaine is sitting, bored out of her skull through a very pedestrian conversation. She keeps mumbling to herself throughout Mrs. Oliver's story]<br>
+							<br>
+							
+						MRS. O: And we would take long automobile trips--<br>
+							<br>
+							
+						ELAINE: Oh, well, that sounds like a lot of fun...<br>
+							<br>
+							
+						MRS. O: Staring out the window--<br>
+							<br>
+							
+						ELAINE: Uh huh...<br>
+							<br>
+							
+						MRS. O: You'd see a long view of rolling pastures and--<br>
+							<br>
+							
+						ELAINE: Well, that'll get you goin' right there...<br>
+							<br>
+							
+						MRS. O: Big, roaming cows--<br>
+							<br>
+							
+						ELAINE: Cows, well that's fascinating...<br>
+							<br>
+							
+						MRS. O: That's when I began my affair with Mohandas.<br>
+							<br>
+							
+						ELAINE: What?<br>
+							<br>
+							
+						MRS. O: Mohandas.<br>
+							<br>
+							
+						ELAINE: Ghandhi?<br>
+							<br>
+							
+						MRS. O: Oh, the *passion*. The *forbidden pleasure*--<br>
+							<br>
+							
+						ELAINE: You had an affair with Ghandhi? MRS. O: He used to dip his bald head in oil and rub it all over my body. Here, look... [shows Elaine a picture of the two together]<br>
+							<br>
+							
+						ELAINE: Oh, my God... The Mohatma?<br>
+							<br>
+							<br>
+							
+						[Meanwhile, back at Bleeker Bob's, er, I mean, Ron's on Bleeker, Kramer and Newman have brought Ron the clerk &quot;something decent&quot;.]<br>
+							<br>
+							
+						RON: Twenty bucks.<br>
+							<br>
+							
+						NEWMAN: Twenty bucks?!? Are you out of your mind?<br>
+							<br>
+							
+						RON: Well, take it or leave it.<br>
+							<br>
+							
+						NEWMAN: Take it or leave it!? We got *Al Jolson* here, *Al Jolson*!!<br>
+							<br>
+							
+						RON: Now what the Hell do I care about Al Jolson. I'd just assume her you sing &quot;Mammy&quot;. Heh heh heh...<br>
+							<br>
+							
+						KRAMER: [In Newman's ear] This guy's nothin' but a piece of crap...<br>
+							<br>
+							
+						NEWMAN: You are nothing but a piece of crap.<br>
+							<br>
+							
+						RON: Pardon me?<br>
+							<br>
+							
+						KRAMER: [In Newman's ear] A piece of crap...<br>
+							<br>
+							
+						NEWMAN: A piece of crap.<br>
+							<br>
+							
+						KRAMER: [In Newman's ear] I find you extremely ugly...<br>
+							<br>
+							
+						NEWMAN: I find you extremely ugly.<br>
+							<br>
+							
+						RON: *Do* you?<br>
+							<br>
+							
+						KRAMER: [In Newman's ear] You emit a foul and unpleasant odour...<br>
+							<br>
+							
+						NEWMAN: You emit a foul and unpleasant odour.<br>
+							<br>
+							
+						RON: Oh, is that right?<br>
+							<br>
+							
+						KRAMER: [In Newman's ear] I *loathe* you...<br>
+							<br>
+							
+						NEWMAN: I *loathe* you.<br>
+							<br>
+							
+						RON: That's it. Get out of my store!<br>
+							<br>
+							
+						KRAMER: [In Newman's ear] Make us.<br>
+							<br>
+							
+						NEWMAN: Make us!<br>
+							<br>
+							
+						RON: Oh, I'll make you!<br>
+							<br>
+							
+						(As Ron jumps the counter to get at the boys, we cut to Jerry's apartment where it seems he is being lectured)<br>
+							<br>
+							
+						AGENCY REP: Do you realize how irresponsible this is? Our agency's sole purpose is to care for senior citizens. And in one fell swoop you've single- handedly destroyed our reputation.<br>
+							<br>
+							
+						JERRY: Yes, but--<br>
+							<br>
+							
+						(buzzer)<br>
+							<br>
+							
+						JERRY: [Into intercom] Yes?<br>
+							<br>
+							
+						TIM: It's Tim Fields, Mr. Fields' son.<br>
+							<br>
+							
+						JERRY: Alright, c'mon up.<br>
+							<br>
+							
+						JERRY: [To Rep] I dunno what happened, we were just trying to take him to the dentist.<br>
+							<br>
+							
+						AGENCY REP: Why were you taking him to the dentist?<br>
+							<br>
+							
+						JERRY: Um, well, his false teeth got mangled up in the garbage disposal--<br>
+							<br>
+							
+						AGENCY REP: What were his false teeth doing in the garbage disposal?<br>
+							<br>
+							
+						JERRY: Well, after he bit my friend--<br>
+							<br>
+							
+						AGENCY REP: Bit your friend?!<br>
+							<br>
+												% Tim comes into the apartment to temporarily get Jerry off the hook.<br>
+							<br>
+							
+						TIM: What the *Hell* is going on here? How do you *lose* a human being?!<br>
+							<br>
+							
+						JERRY: I, I'm sorry.<br>
+							<br>
+							
+						TIM: And who were these other people. What were they doing in the apartment!?<br>
+							<br>
+							
+						JERRY: Well, I brought them up there to take his records--<br>
+							<br>
+							
+						TIM: Take his *records*? Do you realize how valuable that record collection is?<br>
+							<br>
+							<br>
+							
+						[Kramer and Newman come into the apartment.]<br>
+							<br>
+							
+						KRAMER: Hey.<br>
+							<br>
+							
+						JERRY: There you are. Did you find him?<br>
+							<br>
+							
+						KRAMER: No, y'know we took the old man's records over to Ron's and he tried to *screw* us so we got in a fight.<br>
+							<br>
+							
+						NEWMAN: It was a real melee.<br>
+							<br>
+							
+						KRAMER: Yeah, a real brouhaha...<br>
+							<br>
+							
+						(They inform all that the records are broken, but before Tim can get *really* out of control, they try to call Mr. Fields at home, but the line is busy, so they go to his apartment figuring he must be home. As they all get there, they come upon a rather)<br>
+							<br>
+							
+						(Scene of George on couch with the maid rubbing oil on his head.)<br>
+							<br>
+							<br>
+							
+						The End</td>
+						</tr>
+						<tr height="6">
+							<td class="bottom2" width="645" height="6"></td>
+						</tr>
+						<tr>
+							<td width="645">
+								<div align="center">
+									<font size="-1">Copyright 2006 seinology.com | All Rights Reserved | Designed by 13erla</font></div>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+		<p></p>
+	</body>
+
+</html>

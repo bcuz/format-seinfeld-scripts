@@ -1,0 +1,1359 @@
+<tdOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+<html>
+
+	<head>
+		<meta http-equiv="content-type" content="text/html;charset=ISO-8859-1">
+		<meta name="description" content="Top Source for Seinfeld">
+		<meta name="keywords" content="seinfeld, sienfeld, Jerry Seinfeld, Julia Louis Dreyfus, Jason Alexander, Michael Richards, Kramer, George, Costanza, Elaine Benes, morty, Larry David">
+		<title>Seinology.com :: Scripts :: 62-The Handicap Spot</title>
+	<link rel='stylesheet' href='/stylesheet.css' type='text/css'>
+	</head>
+
+	<body>
+			<table align="center" width="787" border="0" cellspacing="0" cellpadding="0">
+				<tr>
+					<td><font size="-2" color="red">Seinology.com - </font><font size="-3" color="black">Where Seinfeld Content and Accuracy Matter Most. Seinfeld scripts in pdf form, Seinfeld episode video clips, Seinfeld episode audio clips, Jerry Seinfeld appearances, Julia Louis-Dreyfus appearances, Michael Richards appearances, Jason Alexander appearances, Seinfeld discussion Forum, Seinfeld Where are they Now? Seinlanguage Newsletter, Popular Seinfeld Lists, Seinfeld episode standup, Seinfeld episode guide, Seinfeld fan fiction. Seinfeld content all on one domain. Seinology.com enjoy your stay.</font></td>
+				</tr>
+			</table>
+		
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr height="100">
+				<td class="logo"></td>
+			</tr>
+			<tr><td class="ads" align="center" background=#8694fa>
+				<script type="text/javascript"><!--
+google_ad_client = "pub-1924026976931416";
+google_ad_width = 728;
+google_ad_height = 90;
+google_ad_format = "728x90_as";
+google_ad_type = "text";
+google_ad_channel = "";
+google_color_border = "FFFFFF";
+google_color_bg = "8694fa";
+google_color_link = "0000FF";
+google_color_text = "000000";
+google_color_url = "002E3F";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></td></tr>
+		</table>
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr>
+				<td valign="top" width="136">
+					<table width="136" border="0" cellspacing="0" cellpadding="0">
+						<tr height="24">
+							<td class="navigation">
+								<div align="center">
+									
+									<b>Navigation</b></div>
+							</td>
+						</tr>
+						<tr height="199">
+							<td class="spacer1" valign="top" width="136" height="199">
+								<div align="center">
+									<font size="-1"><a href="http://www.seinology.com">Home</a><br>
+										<a href="http://board.seinology.com">Forum</a><br>
+										<a href="http://www.seinology.com/av.shtml">Audio/Video</a><br>
+										<a href="http://www.seinology.com/scripts.shtml">Scripts</a><br>
+										<a href="http://www.seinology.com/survivor.shtml">Survivor</a><br>
+										<a href="http://www.seinology.com/fanfics.shtml">Fan Fiction</a><br>
+										<a href="http://www.seinology.com/gallery/">Gallery</a><br>
+										<a href="http://www.seinology.com/newsletter.shtml">Newsletter</a><br>
+										<a href="http://www.seinology.com/lists.shtml">Lists</a><br>
+										<a href="http://www.seinology.com/epguide.shtml">Episode Guide</a><br>
+										<a href="http://www.seinology.com/links.shtml">Links</a><br>
+										<a href="http://www.seinology.com/faqother.shtml">Faq + others</a><br>
+										<a href="http://www.seinology.com/legal.shtml">Legal</a></font></div>
+							</td>
+						</tr>
+						
+						<tr>
+							<td class="nav2" width="136">
+							<div align="center"><b>Search</b></div></td>
+						</tr>
+						<tr>
+							<td class="spacer1" width="136" valign="top"><div align="center"><form method="get" action="http://www.seinology.com/search/search.cgi">
+<p><label for="fdse_Match">Match</label><br>
+<select name="Match" id="fdse_Match" size="1">
+<option value="1">All</option>
+<option value="0">Any</option>
+<option value="2">Phrase</option>
+</select></p>
+<p><label for="fdse_Realm">Where?</label><br>
+<select name="Realm" id="fdse_Realm" size="1">
+<option selected="selected" value="All">EntireSite</option>
+<option value="Ep Guide">Ep Guide</option>
+<option value="Images">Images</option>
+<option value="Lists">Lists</option>
+<option value="Newsletters">Newsletters</option>
+<option value="Scripts">Scripts</option>
+<option value="Notes..Nothing">Notes..Nothing</option>
+</select></p>
+<p><input type="text" name="Terms" size="14" id="fdse_Terms"><br>
+<input type="submit" class="submit" name="submitButtonName" value="Search"></p>
+</div></form></td>
+						</tr>
+						<tr><td class="bottom" width="136" height="10" valign="top">
+						</td>
+						</tr>
+					</table>
+				</td>
+				<td width="4"></td>
+				<td valign="top" width="645">
+					<table width="645" border="0" cellspacing="0" cellpadding="0">
+						<tr height="18">
+							<td width="645" height="35" class="bar">
+								<div align="center">
+									<b><font size="+2" color="black">Script</font></b></div>
+							</td>
+						</tr>
+						<tr height="362">
+							<td class="spacer2" valign="top" width="645" height="362">
+
+						<p><font size="-2">Episode 62 - The Handicap Spot<br>
+							
+						pc: 420, season 4, episode 22<br>
+							
+						Broadcast date: May 13, 1993<br>
+							<br>
+							
+						Written by&nbsp; Larry David<br>
+							
+						Directed by Tom Cherones<br>
+							<br>
+							
+						-------------------------------------------------------------------------------<br>
+							<br>
+							
+						The Cast<br>
+							
+						Regulars:<br>
+							
+						Jerry Seinfeld ....................... Jerry Seinfeld<br>
+							
+						Jason Alexander .................. George Costanza<br>
+							Julia Louis-Dreyfus ............. Elaine Benes<br>
+							
+						Michael Richards ................. Kramer<br>
+							<br>
+							
+						Guest Stars:<br>
+							<br>
+							
+						John Randolph .................... Frank Costanza (see NOTE)<br>
+							
+						Richard Portnow ................ Ray<br>
+							
+						Rick Overton ...................... The Drake<br>
+							
+						Nancy Lenehan .................. Volunteer<br>
+							
+						Elizabeth Dennehy ............. Allison<br>
+							
+						Kathy Kinney ..................... Bystander<br>
+							
+						Fritzi Burr .......................... Maj-Jongg Lady #1<br>
+							
+						Norma Janis ....................... Maj-Jongg Lady #2<br>
+							
+						Ina Parker .......................... Maj-Jongg Lady #3<br>
+							
+						Marvin Braverman ............. Cop<br>
+							
+						David Blackwood .............. Security Guard<br>
+							
+						Eric Fleeks ......................... Kicker<br>
+							
+						Donna Evans ..................... Lula<br>
+							
+						rc: Jerry Stiller ................... Frank Costanza<br>
+							
+						rc: Estelle Harris ................ Estelle Costanza<br>
+							<br>
+							
+						NOTE: The U.S. syndicated version of this episode features Jerry Stiller in the role of Frank Costanza. The sequences were re-shot in the spring of 1995. A role he didn't formally start until the next season in episode 66 &quot;The Puffy Shirt&quot;.<br>
+							<br>
+							
+						==================================================================<br>
+							<br>
+							
+						[Opening Monologue]<br>
+							<br>
+							
+						JERRY: I have a friend who is about to get married, they're having the bachelor party and the bridal shower on the same day... So it's conceivable that while she's getting the lingerie, he'd be at a nude bar watching a table dancer wearing the same outfit. That is possible. But to me, the difference between being single and being married, is the form of government. You see, when you're single, you are the dictator of your own life. I have complete power. I can give the order to fall asleep on the sofa with the TV on in the middle of the day, no-one can overrule me! When you're married, you're part of a vast decision-making body. Before anything gets done there are meetings. Committees have to study the situation. And this is if the marriage works. That's what's so painful about divorce: you get impeached and you're not even the president!<br>
+							<br>
+							<br>
+							
+						[Jerry's apartment]<br>
+							<br>
+							
+						GEORGE: Hey, is it my imagination, or do really good looking women walk a lot faster than everybody else?<br>
+							<br>
+							
+						ELAINE: We don't walk that fast...<br>
+							<br>
+							
+						GEORGE: No seriously...<br>
+							<br>
+							
+						ELAINE: Seriously, we don't.<br>
+							<br>
+							
+						GEORGE: The better looking they are, the faster they go! I mean, I see they out there on the street, they're zooming around, like a blur. Like they have a motor on their ass.<br>
+							<br>
+							
+						ELAINE: (Yelling to Jerry in the bedroom) Hey Jerry, come on, let's go. We're gonna miss the previews!<br>
+							<br>
+							
+						JERRY (coming out of the bathroom) What's the big hurry?<br>
+							<br>
+							
+						ELAINE: Hey, how are we gettin' to Scott Drake's party on Saturday night?<br>
+							<br>
+							
+						JERRY: Oh, Drake's party, I forgot to buy a present.<br>
+							<br>
+							
+						GEORGE: I gotta buy a present now?<br>
+							<br>
+							
+						ELAINE: Of course you do, it's an engagement party.<br>
+							<br>
+							
+						GEORGE: It never ends, this present stuff! Engagement present! Then they get married, you gonna have to get them something for that! Then the baby, there's another present. Then the baby starts getting their presents. I don't even like Drake.<br>
+							<br>
+							
+						JERRY: You don't like the Drake?<br>
+							<br>
+							
+						GEORGE: Hate the Drake.<br>
+							<br>
+							
+						ELAINE: I *love* the Drake.<br>
+							<br>
+							
+						JERRY: How could you not like the Drake?<br>
+							<br>
+							
+						GEORGE: Who's the Drake?<br>
+							<br>
+							
+						ELAINE: &quot;Who's the Drake&quot;?<br>
+							<br>
+							
+						JERRY: The Drake is good!<br>
+							<br>
+							
+						ELAINE: So listen, what are you gonna get him?<br>
+							<br>
+							
+						GEORGE: I haven't even met the fiancee! Whatever! (Leaves for washroom)<br>
+							<br>
+							
+						JERRY: Elaine, look. I drew this triangle free-hand. It's a doodle. It's perfect!<br>
+							<br>
+							
+						ELAINE: So what? That's easy.<br>
+							<br>
+							
+						JERRY: Easy?<br>
+							<br>
+							
+						(Kramer enters in his usual way)<br>
+							<br>
+							
+						ELAINE: Hi! Hey, have you gotten your present yet for the Drake?<br>
+							<br>
+							
+						KRAMER: Uh, no, no, not yet.<br>
+							<br>
+							
+						JERRY: Do you like the Drake?<br>
+							<br>
+							
+						KRAMER: I *love* the Drake! I'm looking forward to meeting the Drakette!<br>
+							<br>
+							
+						ELAINE: I'm lukewarm about the Drakette.<br>
+							<br>
+							
+						KRAMER: (Looking at Jerry's doodle) That's a nice triangle...<br>
+							<br>
+							
+						JERRY: It's Isosceles<br>
+							<br>
+							
+						KRAMER: Ooh, Isosceles. I love the name Isosceles. If I had a kid, I would name him Isosceles. Isosceles Kramer.<br>
+							<br>
+							
+						ELAINE: Hey, you know what, maybe we should all chip in for the gift.<br>
+							<br>
+							
+						JERRY: The chip-in!<br>
+							<br>
+							
+						ELAINE: Hey, a pretty good idea, huh?<br>
+							<br>
+							
+						JERRY: Yeah!<br>
+							<br>
+							
+						KRAMER: Yeah, the chip-in, defenitely!<br>
+							<br>
+							
+						JERRY: You know what, let's go to that mall in Liberal(sp?) before we go to the party. We'll have to take your car, it's got the most room.<br>
+							<br>
+							
+						KRAMER: No, no! My car's not running.<br>
+							<br>
+							
+						(George enters the room from the washroom)<br>
+							<br>
+							
+						JERRY: What about your father's car?<br>
+							<br>
+							
+						GEORGE: No, no, no. Out of the question. I was over there today. He's got the good spot in front of the good building in the good neighbourhood. I know he's not gonna wanna move.<br>
+							<br>
+							
+						JERRY: Are you serious?<br>
+							<br>
+							
+						GEORGE: You don't know what that spot means to him. Once he gets it, he doesn't go out for weeks.<br>
+							<br>
+							
+						JERRY: How about this, you put your car in the good spot, that'll hold the good spot in front of the good building, and we can get the good car!<br>
+							<br>
+							
+						GEORGE: Good thinking!<br>
+							<br>
+							
+						JERRY: Good to meet you!<br>
+							<br>
+							<br>
+							
+						[George's father's car]<br>
+							<br>
+							
+						ELAINE: So what are we gonna get him?<br>
+							<br>
+							
+						JERRY: We could get him anything we wanted, we're chippin' in.<br>
+							<br>
+							
+						GEORGE: I like this area. I could live out here.<br>
+							<br>
+							
+						KRAMER: Yeah, we ought to all get a house and live together.<br>
+							<br>
+							
+						JERRY: Yeah, that's a good idea. I'll tell you what chuckles, I give you permission to sublet my room right now.<br>
+							<br>
+							
+						GEORGE: Look at this. There's no spaces here. (to another car) Excuse me, are you gettin' out?<br>
+							<br>
+							
+						MAN IN CAR: No!<br>
+							<br>
+							
+						KRAMER: Why don't you take a handicap spot...<br>
+							<br>
+							
+						GEORGE: You think?<br>
+							<br>
+							
+						ELAINE: No, no! We'll find a space. There's spaces in the other lot.<br>
+							<br>
+							
+						GEORGE: I don't want to walk that far.<br>
+							<br>
+							
+						ELAINE: What if a handicapped person needs it?<br>
+							<br>
+							
+						KRAMER: Oh, come on, they don't drive!<br>
+							<br>
+							
+						JERRY: Yes, they do!<br>
+							<br>
+							
+						KRAMER: Have you ever seen a handicapped person pull into a space and park?<br>
+							<br>
+							
+						JERRY: Well there's spaces there, they must drive!<br>
+							<br>
+							
+						KRAMER: Well they don't. If they could drive, they wouldn't be handicapped.<br>
+							<br>
+							
+						ELAINE: So if you can drive, you're not handicapped?<br>
+							<br>
+							
+						GEORGE: Look, we're not gonna be that long anyway... we have to get to the &quot;party&quot;!<br>
+							<br>
+							
+						KRAMER: I got news for you: handicapped people, they don't even want to park there! They wanna be treated just like anybody else! That's why, those spaces are always empty.<br>
+							<br>
+							
+						GEORGE: He's right! It's the same thing with the femenists. You know, they want everything to be equal, everything! But when the check comes, where are they?<br>
+							<br>
+							
+						ELAINE: What does that mean?<br>
+							<br>
+							
+						GEORGE: Yeah! Alright, I'm pulling in.<br>
+							<br>
+							
+						KRAMER: Yeah, go ahead.<br>
+							<br>
+							
+						ELAINE: George!<br>
+							<br>
+							
+						GEORGE: Oh, come on, it's five minutes.<br>
+							<br>
+							
+						(pulls into handicap spot)<br>
+							<br>
+							
+						KRAMER: Make sure we don't forget where the car's parked.<br>
+							<br>
+							
+						JERRY, GEORGE, ELAINE: Don't worry. We won't forget!<br>
+							<br>
+							<br>
+							
+						[walking in the parking garage]<br>
+							<br>
+							
+						JERRY: Do you believe the deal we got on this? A big screen TV? At that price?<br>
+							<br>
+							
+						ELAINE: What a sale, huh? And how about that store, delivering it tonight? We're gonna be swimming in 'thank you's...<br>
+							<br>
+							
+						GEORGE: What did I get the veggie burger for? You got a veggie burger, so I had to get the veggie burger, I'm allover crums...<br>
+							<br>
+							
+						JERRY: No-one's gonna have a better gift than this big screen TV! Good for them, love the Drake!<br>
+							<br>
+							
+						ELAINE: Got to *love* the Drake!<br>
+							<br>
+							
+						(sound of police cars)<br>
+							<br>
+							
+						JERRY: Hey, what's going on over here?<br>
+							<br>
+							
+						ELAINE: Must have been an accident...<br>
+							<br>
+							
+						(they turn the corner so they can see their car, surrounded by a lot of people)<br>
+							<br>
+							
+						JERRY: (to a woman) Hey, what's going on?<br>
+							<br>
+							
+						WOMAN: Some jerk parked in a handicap spot, so this woman in a wheelchair had to wheel up this incline, and half way up her batteries gave up, and she rolled backwards into the wall. Taken her to St. Elizabeth's...<br>
+							<br>
+							
+						JERRY: Is she OK?<br>
+							<br>
+							
+						WOMAN: I don't know. We're just waiting here for the owner of this car to show up. May not get out alive! Thug! Taking up a handicap spot? He's gonna pay!<br>
+							<br>
+							
+						JERRY: Son's of bitches! Good luck finding them... him... whatever. I'd like to stick around and get my hands on him myself, but I gotta take off.<br>
+							<br>
+							
+						(man hits George's car in rage)<br>
+							<br>
+							
+						GEORGE: How are we gonna get out of here? They'll kill us!<br>
+							<br>
+							
+						ELAINE: (to George) Are you happy now?<br>
+							<br>
+							
+						KRAMER: Who would think these people we're gonna be here?<br>
+							<br>
+							
+						JERRY: I don't know...<br>
+							<br>
+							
+						ELAINE: What about the party? What about the Drake?<br>
+							<br>
+							
+						GEORGE: Screw the Drake!<br>
+							<br>
+							
+						JERRY: I love the Drake!<br>
+							<br>
+							
+						KRAMER: Let's just take a bus back to the city.<br>
+							<br>
+							
+						GEORGE: Can't leave the car here!<br>
+							<br>
+							
+						KRAMER: Why not?<br>
+							<br>
+							
+						GEORGE: It's my father's car!<br>
+							<br>
+							
+						MAN: Let's smash it!<br>
+							<br>
+							
+						EVERYBODY: Yeah! Yeah!<br>
+							<br>
+							
+						JERRY: Let's get out of here.<br>
+							<br>
+							<br>
+							
+						[coffee shop]<br>
+							<br>
+							
+						GEORGE: What are we gonna do? How are we gonna get out of here?<br>
+							<br>
+							
+						JERRY: The thing is, even if we go back by the car, and there's nobody there, how do we know they're not all hiding, waiting for us?<br>
+							<br>
+							
+						ELAINE: Well, they have to give up some time, they can't stay out there all night?<br>
+							<br>
+							
+						JERRY: What are we, John Dillinger? How did this get to be the crime of the century? It's not like we stuck a broomstick in her spokes and she went flying...<br>
+							<br>
+							
+						GEORGE: What I don't get is, just because the battery is dead, you think she'd be able to roll up the hill with her hands!<br>
+							<br>
+							
+						KRAMER: You'd think...<br>
+							<br>
+							
+						GEORGE: I mean, batteries have gone dead before, aren't they prepared for that?<br>
+							<br>
+							
+						KRAMER: Most of them don't even have batteries.<br>
+							<br>
+							
+						GEORGE: Must be one of those rich, spoiled handicapped people, who didn't want to do any work, and just wanted to sit in her wheelchair and take it easy.<br>
+							<br>
+							
+						KRAMER: Yeah...<br>
+							<br>
+							
+						GEORGE: Well, I'm sorry!<br>
+							<br>
+							
+						ELAINE: Our big screen TV is probably arriving right now...<br>
+							<br>
+							
+						GEORGE: How are we gonna get out of here? We need a plan!<br>
+							<br>
+							
+						JERRY: I got it! (snaps his fingers) We give the keys to Elaine.<br>
+							<br>
+							
+						ELAINE: Me?<br>
+							<br>
+							
+						JERRY: Yeah! You're a woman! Men don't hit a woman!<br>
+							<br>
+							
+						ELAINE: Oh, they won't?<br>
+							<br>
+							
+						JERRY: Not if they don't know you...<br>
+							<br>
+							
+						ELAINE: I'm not going for this, Kramer should go! It was all his idea!<br>
+							<br>
+							
+						KRAMER: No chance in hell!<br>
+							<br>
+							
+						JERRY: What if we created some sort of diversion? What if we all went by the car and started screaming: &quot;There he is, there's the guy that took the handicap spot!&quot; And then, when they all run into the other direction, we'll jump in the car!<br>
+							<br>
+							
+						GEORGE: That's good, we'll give it a try...<br>
+							<br>
+							
+						ELAINE: That's good...<br>
+							<br>
+							
+						JERRY: That doesn't work, we'll give 'em Kramer!<br>
+							<br>
+							
+						KRAMER: Huh?<br>
+							<br>
+							<br>
+							
+						[parking garage]<br>
+							<br>
+							
+						(the four of them approach George's car, which is smashed to pieces)<br>
+							<br>
+							
+						JERRY: (as George picks up a broken piece of his car) You know, a lot of these scratches will buff right out...<br>
+							<br>
+							<br>
+							
+						[George's parents' house]<br>
+							<br>
+							
+						FRANK: Eight years have I had this car. Not a scratch on it! Eight years!<br>
+							<br>
+							
+						(Estelle is playing Mahjongh with the ladies)<br>
+							<br>
+							
+						FRANK: A beautiful Mercury! I special-ordered that bench seat!<br>
+							<br>
+							
+						GEORGE: Dad, that other car cut us off! They had swastikas all over it... They were hurling racial epiphates at us... I could have been killed!<br>
+							<br>
+							
+						ESTELLE: (to Frank) I told you not to give it to him!<br>
+							<br>
+							
+						FRANK: (to George) You know, my insurance doesn't cover this? The whole thing is a total loss!<br>
+							<br>
+							
+						MAHJONG LADY: Frank, the important thing is, he didn't get hurt!<br>
+							<br>
+							
+						FRANK: No it isn't!<br>
+							<br>
+							
+						MAHJONG LADY: So what are you doing now, Georgie?<br>
+							<br>
+							
+						GEORGE: I'm uh... writing a pilot for NBC...<br>
+							<br>
+							
+						FRANK: Where the hell is my paper?<br>
+							<br>
+							
+						MAHJONG LADY: You're writing a pilot?<br>
+							<br>
+							
+						ESTELLE: With his friend, Jerry Seinfeld... the comedian...<br>
+							<br>
+							
+						MAHJONG LADY: So what's it about?<br>
+							<br>
+							
+						GEORGE: Well, Jerry's car gets hit and the other driver doesn't have any insurance, so the judge<br>
+							
+						sentences him to be Jerry's butler.<br>
+							<br>
+							
+						MAHJONG LADY: This is the same situation! Frank, maybe you ought to make him your butler!<br>
+							
+						(giggling)<br>
+							<br>
+							
+						ESTELLE: Every time you're with that Kramer, something happens... He's a real trouble maker!<br>
+							<br>
+							
+						GEORGE: Nah, he didn't have anything to do with it...<br>
+							<br>
+							
+						ESTELLE: He's all together crazy, that one! Jerry? I used to think was nice... I don't know what happened to him...<br>
+							<br>
+							
+						(Estelle wins at Mahjongh)<br>
+							<br>
+							<br>
+							
+						[Jerry's apartment]<br>
+							<br>
+							
+						(Jerry's on the phone with the Drake, Elaine is eating an Oreo cookie)<br>
+							<br>
+							
+						JERRY: (to the Drake) So it was a good party, huh? Oh... you're welcome, you're welcome... (to Elaine) They loved the TV, *loved* it!<br>
+							<br>
+							
+						ELAINE: Oh, yeah...<br>
+							<br>
+							
+						JERRY: (to the Drake) Oh, wait a second, I'll ask her.. that's a great idea. (To Elaine) Drake wants to know if we want to come out to Minneolis this afternoon, since we missed the partly last night, to maybe get something to eat?<br>
+							<br>
+							
+						ELAINE: Sure!<br>
+							<br>
+							
+						JERRY: (to the Drake) Sure! ... Okay... Don't worry, I'm taking MY car! ... okay... okay, see you later... bye...<br>
+							<br>
+							
+						JERRY: The Drake is great!<br>
+							<br>
+							
+						ELAINE: Hmm.. he's so nice! I'm really happy for them.<br>
+							<br>
+							
+						JERRY: Yeah. Well, I don't know if I'm happy for them, I mean I'm glad they're happy, but, frankly, that doesn't do anything for me.<br>
+							<br>
+							
+						(buzzer rings)<br>
+							<br>
+							
+						JERRY: Yes?<br>
+							<br>
+							
+						GEORGE: It's me.<br>
+							<br>
+							
+						JERRY: Come on up.<br>
+							<br>
+							
+						(Door opens, Kramer enters)<br>
+							<br>
+							
+						KRAMER: Hey. I just came from St. Elizabeth's.<br>
+							<br>
+							
+						JERRY: St. Elizabeth's Hospital? Why?<br>
+							<br>
+							
+						KRAMER: Well, the handicapped woman? I went to see her.<br>
+							<br>
+							
+						ELAINE: You went to see her?<br>
+							<br>
+							
+						KRAMER: Yeah.<br>
+							<br>
+							
+						JERRY: Wow, what happened?<br>
+							<br>
+							
+						KRAMER: I'm in love.<br>
+							<br>
+							
+						JERRY: What?<br>
+							<br>
+							
+						KRAMER: Yeah, she is the most beautiful woman I have ever seen. I love her Jerry, I really love her. I'm gonna ask her to marry me. She's got everything I've always wanted in another human being. Except for the walking.<br>
+							<br>
+							
+						JERRY: Oh, what's the difference, you don't go out that much.<br>
+							<br>
+							
+						(George enters)<br>
+							<br>
+							
+						KRAMER: Ah, I'm glad you're here.<br>
+							<br>
+							
+						GEORGE: What?<br>
+							<br>
+							
+						KRAMER: Alright, now, we gotta go out. We gotta buy a wheelchair.<br>
+							<br>
+							
+						GEORGE: A wheelchair? What for?<br>
+							<br>
+							
+						KRAMER: Well, you know I went to the hospital today, and I saw the woman, you know, and the wheelchair is totalled, we gotta get her another one!<br>
+							<br>
+							
+						GEORGE: Doesn't she have collision?<br>
+							<br>
+							
+						KRAMER: George, I'm in love with her!<br>
+							<br>
+							
+						GEORGE: Well, my father works for the United Volunteers, maybe he can get her one.<br>
+							<br>
+							
+						KRAMER: No! She needs it now!<br>
+							<br>
+							
+						GEORGE: What about these two? Aren't they gonna chip in?<br>
+							<br>
+							
+						KRAMER: Well...<br>
+							<br>
+							
+						ELAINE: Hey, we told you not to park there!<br>
+							<br>
+							
+						GEORGE: Can't we just fix the old one?<br>
+							<br>
+							
+						KRAMER: Alright, alright. Fine George! Don't chip in! But some day, we're gonna be driving along, we're gonna look out the window, and see her crawling along 5th avenue! Is that what you want?<br>
+							<br>
+							
+						GEORGE: Alright, alright! We'll buy her a wheelchair! Wheelchairs, engagement presents.. IT NEVER ENDS!<br>
+							<br>
+							<br>
+							
+						[at Surgical Appliances]<br>
+							<br>
+							
+						SALESMAN: This is out best model. The Cougar 9000. It's the Rolls Royce of wheelchairs. This is like... you're almost glad to be handicapped.<br>
+							<br>
+							
+						KRAMER: So now, what's this got?<br>
+							<br>
+							
+						SALESMAN: Inductive joystick, dynamic braking, flip-up arms, it's fully loaded. I put Stephen Hawking in one of these two months ago, he's lovin' it! It's rated number one by Hospital Supply and Prosthetic Magazine.<br>
+							<br>
+							
+						GEORGE: How much?<br>
+							<br>
+							
+						SALESMAN: 6200.<br>
+							<br>
+							
+						GEORGE: Do you have something a little more... less expensive?<br>
+							<br>
+							<br>
+							
+						[At the Drake's]<br>
+							<br>
+							
+						(The Drake opens the door, the Drakette is sitting on the couch)<br>
+							<br>
+							
+						JERRY and ELAINE: Hey Drake! Hi Drake!<br>
+							<br>
+							
+						JERRY:Hey Alison! Hey, there's the TV, Elaine, look at that!<br>
+							<br>
+							
+						ELAINE: My God this is fantastic! Tell me, were you guys just blown away or what?<br>
+							<br>
+							
+						THE DRAKE: Oh yeah, yeah... it's fantastic...<br>
+							<br>
+							
+						(Jerry sits down next to Alison)<br>
+							<br>
+							
+						JERRY: I am gonna make good use of this! I'm watching every superbowl here, every big fight....<br>
+							<br>
+							
+						ELAINE: Oh man, there is nothing like a really big TV, huh?<br>
+							<br>
+							
+						JERRY: So where're we eatin'?<br>
+							<br>
+							
+						THE DRAKE: Well, actually... Jerry...<br>
+							<br>
+							
+						ELAINE: I'm *really* hungry!<br>
+							<br>
+							
+						THE DRAKE: ... we just broke up...<br>
+							<br>
+							
+						JERRY: When did this happen?<br>
+							<br>
+							
+						THE DRAKE: About 20 minutes ago... Hey, I am really sorry about this guys... whew!<br>
+							<br>
+							
+						JERRY: (looking at the TV) Look at the picture on this thing...<br>
+							<br>
+							
+						ELAINE: Oh, cristal clear!<br>
+							<br>
+							
+						JERRY: They know how to make 'em...<br>
+							<br>
+							
+						(The Drake starts sobbing)<br>
+							<br>
+							
+						ELAINE: Are there any good Italian restaurants around here?<br>
+							<br>
+							
+						THE DRAKE: (through his sobbing) Gagliano's... that's pretty good...<br>
+							<br>
+							
+						JERRY: Well... we should...<br>
+							<br>
+							
+						ELAINE: Get movin'...<br>
+							<br>
+							
+						JERRY: Yeah... Hey, Drake, what ever happens, I am sure it'll be for the best.<br>
+							<br>
+							
+						ELAINE: Take it easy. Bye-Bye Alison!<br>
+							<br>
+							
+						(The Drake is sobbing again, Elaine takes the remote control out the door then returns)<br>
+							<br>
+							
+						ELAINE: Oh, the remote! Okay, I'm just gonna put it on top of the television...<br>
+							<br>
+							<br>
+							
+						[at Surgical Appliances]<br>
+							<br>
+							
+						SALESMAN: Alright, this one is about 8 years old. Not a scratch on it, it was owned by some lady who only used it to go from the bathroom to the kitchen and to feed her cat.<br>
+							<br>
+							
+						KRAMER: But this'll get you around?<br>
+							<br>
+							
+						SALESMAN: Oh sure, it just doesn't have any of the thrills of the Cougar.<br>
+							<br>
+							
+						GEORGE: Like what?<br>
+							<br>
+							
+						SALESMAN: For example, your tremor-damping.<br>
+							<br>
+							
+						KRAMER: Now what's that?<br>
+							<br>
+							
+						SALESMAN: It helps to control the direction regardless of the operator's tremors or spasticity.<br>
+							<br>
+							
+						KRAMER: Well, is it alright if I try it?<br>
+							<br>
+							
+						SALESMAN: Hop in!<br>
+							<br>
+							
+						(Kramer sits down, and likes it)<br>
+							<br>
+							
+						KRAMER: Oh yeah!<br>
+							<br>
+							
+						(Salesman is laughing)<br>
+							<br>
+							
+						SALESMAN: I tell ya...<br>
+							<br>
+							
+						(Kramer crashes into wheelchairs while trying to control his)<br>
+							<br>
+							
+						SALESMAN: When I see someone enjoying themselves like that, it reminds me why I got into this business in the first place.<br>
+							<br>
+							
+						GEORGE: How much?<br>
+							<br>
+							
+						(Kramer crashes into some more wheelchairs)<br>
+							<br>
+							
+						SALESMAN: How about $240?<br>
+							<br>
+							
+						GEORGE &amp; KRAMER: We'll take it!<br>
+							<br>
+							<br>
+							
+						[Jerry's appartment]<br>
+							<br>
+							
+						ELAINE: Drake gave her the TV?<br>
+							<br>
+							
+						JERRY: He gave her all the gifts; he felt guilty.<br>
+							<br>
+							
+						ELAINE: Well, she can't keep it, it's not fair, that's *our* TV!<br>
+							<br>
+							
+						JERRY: I know it is!<br>
+							<br>
+							
+						ELAINE: Boy, I am really starting to dislike the Drake!<br>
+							<br>
+							
+						JERRY: I hate the Drake! Maybe the whole thing was a scam. Anybody can just get engaged and get presents and just keep them all. Maybe they're on their way to Chicago tomorrow and do the whole thing all over again.<br>
+							<br>
+							
+						ELAINE: They don't know anybody in Chicago.<br>
+							<br>
+							
+						JERRY: Don't worry, they'll make friends fast with that nice TV.<br>
+							<br>
+							
+						(George enters)<br>
+							<br>
+							
+						GEORGE: Hey.<br>
+							<br>
+							
+						JERRY: Hey, guess what? The Drake broke up.<br>
+							<br>
+							
+						GEORGE (excited) The Drake broke up?! That's fantastic! Now we get the TV back! It'll help defray some of the cost of the wheelchair.<br>
+							<br>
+							
+						JERRY: I don't know about defraying.<br>
+							<br>
+							
+						GEORGE: Why?<br>
+							<br>
+							
+						JERRY: We're not gettin' that TV.<br>
+							<br>
+							
+						GEORGE: What do you mean? The engagement is off, we get the TV back. That's business.<br>
+							<br>
+							
+						ELAINE: The Drakette took it.<br>
+							<br>
+							
+						GEORGE: She can't take it. It's not hers, it's theirs. Once there's no theirs there's no hers, it should be ours.<br>
+							<br>
+							
+						ELAINE: Well, she has it!<br>
+							<br>
+							
+						GEORGE: (upset) I *told* you the Drake was bad! I hate the Drake!<br>
+							<br>
+							
+						GEORGE: Maybe we should call her.<br>
+							<br>
+							
+						ELAINE: Well, who's gonna call?<br>
+							<br>
+							
+						JERRY: You are.<br>
+							<br>
+							
+						ELAINE: What? Why is it me who always has to do these things?<br>
+							<br>
+							
+						JERRY: Because that's your thing!<br>
+							<br>
+							
+						ELAINE: What? Calling people I hardly know, and demanding they return expensive gifts, that's my &quot;thing&quot;?<br>
+							<br>
+							
+						JERRY: Yeah, that's your thing.<br>
+							<br>
+							
+						ELAINE: Alright, gimme the phone... it's my &quot;thing&quot;...<br>
+							<br>
+							
+						(Elaine starts dialling)<br>
+							<br>
+							
+						JERRY: (to George) You know, I'm thinking about getting a yo-yo.<br>
+							<br>
+							
+						GEORGE: Really?<br>
+							<br>
+							
+						JERRY: Yeah.<br>
+							<br>
+							
+						GEORGE: I could see that...<br>
+							<br>
+							
+						(Alison through phone): Hello?<br>
+							<br>
+							
+						ELAINE: Alison! Hi, this is Elaine...<br>
+							<br>
+							
+						(Alison through phone): I gave all the gifts to charity.<br>
+							<br>
+							
+						ELAINE: Oh, Okay... well thanks a lot... sorry again about you and the Drake...<br>
+							<br>
+							
+						(Alison though phone): I hate the Drake.<br>
+							<br>
+							
+						ELAINE: Everybody does. Bye-bye....<br>
+							<br>
+							
+						(Elaine hangs up the phone)<br>
+							<br>
+							
+						ELAINE: She gave it to charity.<br>
+							<br>
+							
+						JERRY: Charity?!? That's apalling.<br>
+							<br>
+							
+						GEORGE: How could anybody be so selfish and inconsiderate!<br>
+							<br>
+							
+						(Kramer enters)<br>
+							<br>
+							
+						KRAMER: Well, I gave her the wheelchair! You should have seen the look on her face. And then she told me, that the old wheelchair, that wasn't any good anyway! So you see George, the whole incident was a God blessing! Yeah!<br>
+							<br>
+							
+						GEORGE: You mean a blessing in disguise?<br>
+							<br>
+							
+						KRAMER: Yeah....<br>
+							<br>
+							<br>
+							
+						[At George's parents' place]<br>
+							<br>
+							
+						LADY: And I would also like to personally thank our gracious host Frank Costanza, who has earned the silver circle award and is our unanimous choice for the United Volunteer Representative of the Month!<br>
+							<br>
+							
+						(applause)<br>
+							<br>
+							
+						LADY: Due to his tireless effort, he personally raised over $22,000. That's a lot of wheelchairs!<br>
+							<br>
+							
+						(applause, door bel rings)<br>
+							<br>
+							
+						LADY: On behalf of the United Volunteers of Greater New York, we thank you!<br>
+							<br>
+							
+						(Estelle opens the front door, two men walk in)<br>
+							<br>
+							
+						FRANK: Well... thank you very much!<br>
+							<br>
+							
+						COP: Mr. Costanza?<br>
+							<br>
+							
+						FRANK: Yes?<br>
+							<br>
+							
+						COP: You're under arrest.<br>
+							<br>
+							
+						FRANK: Under arrest? What for?<br>
+							<br>
+							
+						COP: Reckless endangerment of public safety, and violation of traffic code 342-A.<br>
+							<br>
+							
+						FRANK: What's that?<br>
+							<br>
+							
+						COP: Parking in a handicap spot. Let's go...<br>
+							<br>
+							
+						FRANK: George! George!<br>
+							<br>
+							<br>
+							
+						[Jerry's appartment]<br>
+							<br>
+							
+						JERRY: Your father got arrested? For what?<br>
+							<br>
+							
+						GEORGE: Parking in a handicap spot. Right in the middle of his United Volunteers meeting. When he got back, he chased after me with a baseball bat.<br>
+							<br>
+							
+						JERRY: Ho-ly!<br>
+							<br>
+							
+						GEORGE: Between the car getting totalled, the towing charge and the fine, there's no way I can ever pay him back...<br>
+							<br>
+							
+						JERRY: So what are you gonna do?<br>
+							<br>
+							
+						GEORGE: I agreed to become his butler.<br>
+							<br>
+							
+						JERRY: What?<br>
+							<br>
+							
+						(Kramer enters)<br>
+							<br>
+							
+						JERRY: What's the matter?<br>
+							<br>
+							
+						KRAMER: It's over!<br>
+							<br>
+							
+						JERRY: What's over?<br>
+							<br>
+							
+						KRAMER: Me and Lola....<br>
+							<br>
+							
+						GEORGE: The woman we bought the wheelchair for?<br>
+							<br>
+							
+						KRAMER: Yeah, she dumped me!<br>
+							<br>
+							
+						JERRY: She dumped you?<br>
+							<br>
+							
+						KRAMER: She dumped me! She rolled right over me! Said I was a hipster dufus. Am I a hipster dufus?<br>
+							<br>
+							
+						JERRY &amp; GEORGE: (hesitatingly) ... no...<br>
+							<br>
+							
+						KRAMER: Said I'm not good looking enough for her. Not good looking! Jerry, look at me, look at my face, huh, am I beautiful? George, am I beautiful?<br>
+							<br>
+							
+						GEORGE: ...you're very attractive...<br>
+							<br>
+							
+						KRAMER: yeah... she says she doesn't wanna see me again. Told me to drop dead!<br>
+							<br>
+							
+						JERRY: Drop dead?<br>
+							<br>
+							
+						GEORGE: Boy, even I never heard that one...<br>
+							<br>
+							
+						JERRY: She's pretty rough!<br>
+							<br>
+							
+						KRAMER: Yeesh-jip!<br>
+							<br>
+							
+						GEORGE: Well, we just blew 240 bucks on a wheelchair.<br>
+							<br>
+							
+						JERRY: 240 bucks?<br>
+							<br>
+							
+						GEORGE: Well, it was slightly used...<br>
+							<br>
+							
+						JERRY: Used?<br>
+							<br>
+							<br>
+							
+						[cut to Lola rolling down a hill trying to use her brakes that don't work, screaming]<br>
+							<br>
+							<br>
+							
+						[George's parents' place]<br>
+							<br>
+							
+						(George's vaccuuming)<br>
+							<br>
+							
+						Frank (picking up his shoes): I don't think you did such a good job on these...<br>
+							<br>
+							
+						(George turns off the vaccuum)<br>
+							<br>
+							
+						GEORGE: What!?<br>
+							<br>
+							
+						FRANK: You're supposed to your face there! Do you see your face in there?<br>
+							<br>
+							
+						(Phone rings)<br>
+							<br>
+							
+						FRANK: Yeah? ...oh really?...oh... how about that?... Right down a hill huh? Okay! Alight! Bye!<br>
+							<br>
+							
+						(hangs up the phone)<br>
+							<br>
+							
+						FRANK: George, forget about the shoes. Want you to do something for me (scribbles something on a piece of paper). This handicapped woman had an accident. Somebody gave her a used wheelchair with defective brakes.<br>
+							<br>
+							
+						GEORGE: Sons of bitches!<br>
+							<br>
+							
+						FRANK: Anyway, I want you to pick up this big screen TV, and deliver it to her.<br>
+							<br>
+							
+						GEORGE: Big screen TV?<br>
+							<br>
+							
+						FRANK: Do you think you can handle it?<br>
+							<br>
+							<br>
+							
+						[At the Drakette's]<br>
+							<br>
+							
+						(knock on door, the Drakette opens)<br>
+							<br>
+							
+						ALLISON: Yes?<br>
+							<br>
+							
+						GEORGE: Hi, we're from the United Volunteers, we've come to pick up the TV.<br>
+							<br>
+							
+						ALLISON: Oh great, it's right over there.<br>
+							<br>
+							
+						KRAMER: Ooh, it's a big one!<br>
+							<br>
+							<br>
+							
+						[All four inside a delivery van outside the mall]<br>
+							<br>
+							
+						GEORGE: Who's got the receipt?<br>
+							<br>
+							
+						ELAINE: I do.<br>
+							<br>
+							
+						GEORGE: Will they give us cash?<br>
+							<br>
+							
+						JERRY: That's their policy.<br>
+							<br>
+							
+						GEORGE: I hate this mall, there are never any spaces here...<br>
+							<br>
+							
+						KRAMER: Why don't you park in front of the hydrant?<br>
+							<br>
+							
+						GEORGE: What if there is a fire?<br>
+							<br>
+							
+						KRAMER: What are the chances of that?<br>
+							<br>
+							<br>
+							
+						The End</td>
+						</tr>
+						<tr height="6">
+							<td class="bottom2" width="645" height="6"></td>
+						</tr>
+						<tr>
+							<td width="645">
+								<div align="center">
+									<font size="-1">Copyright 2006 seinology.com | All Rights Reserved | Designed by 13erla</font></div>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+		<p></p>
+	</body>
+
+</html>

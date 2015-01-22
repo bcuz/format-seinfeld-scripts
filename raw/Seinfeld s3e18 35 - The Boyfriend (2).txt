@@ -1,0 +1,989 @@
+<tdOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+<html>
+
+	<head>
+		<meta http-equiv="content-type" content="text/html;charset=ISO-8859-1">
+		<meta name="description" content="Top Source for Seinfeld">
+		<meta name="keywords" content="seinfeld, sienfeld, Jerry Seinfeld, Julia Louis Dreyfus, Jason Alexander, Michael Richards, Kramer, George, Costanza, Elaine Benes, morty, Larry David">
+		<title>Seinology.com :: Scripts :: 35-The Boyfriend(2)</title>
+	<link rel='stylesheet' href='/stylesheet.css' type='text/css'>
+	</head>
+
+	<body>
+			<table align="center" width="787" border="0" cellspacing="0" cellpadding="0">
+				<tr>
+					<td><font size="-2" color="red">Seinology.com - </font><font size="-3" color="black">Where Seinfeld Content and Accuracy Matter Most. Seinfeld scripts in pdf form, Seinfeld episode video clips, Seinfeld episode audio clips, Jerry Seinfeld appearances, Julia Louis-Dreyfus appearances, Michael Richards appearances, Jason Alexander appearances, Seinfeld discussion Forum, Seinfeld Where are they Now? Seinlanguage Newsletter, Popular Seinfeld Lists, Seinfeld episode standup, Seinfeld episode guide, Seinfeld fan fiction. Seinfeld content all on one domain. Seinology.com enjoy your stay.</font></td>
+				</tr>
+			</table>
+		
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr height="100">
+				<td class="logo"></td>
+			</tr>
+			<tr><td class="ads" align="center" background=#8694fa>
+				<script type="text/javascript"><!--
+google_ad_client = "pub-1924026976931416";
+google_ad_width = 728;
+google_ad_height = 90;
+google_ad_format = "728x90_as";
+google_ad_type = "text";
+google_ad_channel = "";
+google_color_border = "FFFFFF";
+google_color_bg = "8694fa";
+google_color_link = "0000FF";
+google_color_text = "000000";
+google_color_url = "002E3F";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></td></tr>
+		</table>
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr>
+				<td valign="top" width="136">
+					<table width="136" border="0" cellspacing="0" cellpadding="0">
+						<tr height="24">
+							<td class="navigation">
+								<div align="center">
+									
+									<b>Navigation</b></div>
+							</td>
+						</tr>
+						<tr height="199">
+							<td class="spacer1" valign="top" width="136" height="199">
+								<div align="center">
+									<font size="-1"><a href="http://www.seinology.com">Home</a><br>
+										<a href="http://board.seinology.com">Forum</a><br>
+										<a href="http://www.seinology.com/av.shtml">Audio/Video</a><br>
+										<a href="http://www.seinology.com/scripts.shtml">Scripts</a><br>
+										<a href="http://www.seinology.com/survivor.shtml">Survivor</a><br>
+										<a href="http://www.seinology.com/fanfics.shtml">Fan Fiction</a><br>
+										<a href="http://www.seinology.com/gallery/">Gallery</a><br>
+										<a href="http://www.seinology.com/newsletter.shtml">Newsletter</a><br>
+										<a href="http://www.seinology.com/lists.shtml">Lists</a><br>
+										<a href="http://www.seinology.com/epguide.shtml">Episode Guide</a><br>
+										<a href="http://www.seinology.com/links.shtml">Links</a><br>
+										<a href="http://www.seinology.com/faqother.shtml">Faq + others</a><br>
+										<a href="http://www.seinology.com/legal.shtml">Legal</a></font></div>
+							</td>
+						</tr>
+						
+						<tr>
+							<td class="nav2" width="136">
+							<div align="center"><b>Search</b></div></td>
+						</tr>
+						<tr>
+							<td class="spacer1" width="136" valign="top"><div align="center"><form method="get" action="http://www.seinology.com/search/search.cgi">
+<p><label for="fdse_Match">Match</label><br>
+<select name="Match" id="fdse_Match" size="1">
+<option value="1">All</option>
+<option value="0">Any</option>
+<option value="2">Phrase</option>
+</select></p>
+<p><label for="fdse_Realm">Where?</label><br>
+<select name="Realm" id="fdse_Realm" size="1">
+<option selected="selected" value="All">EntireSite</option>
+<option value="Ep Guide">Ep Guide</option>
+<option value="Images">Images</option>
+<option value="Lists">Lists</option>
+<option value="Newsletters">Newsletters</option>
+<option value="Scripts">Scripts</option>
+<option value="Notes..Nothing">Notes..Nothing</option>
+</select></p>
+<p><input type="text" name="Terms" size="14" id="fdse_Terms"><br>
+<input type="submit" class="submit" name="submitButtonName" value="Search"></p>
+</div></form></td>
+						</tr>
+						<tr><td class="bottom" width="136" height="10" valign="top">
+						</td>
+						</tr>
+					</table>
+				</td>
+				<td width="4"></td>
+				<td valign="top" width="645">
+					<table width="645" border="0" cellspacing="0" cellpadding="0">
+						<tr height="18">
+							<td width="645" height="35" class="bar">
+								<div align="center">
+									<b><font size="+2" color="black">Script</font></b></div>
+							</td>
+						</tr>
+						<tr height="362">
+							<td class="spacer2" valign="top" width="645" height="362">
+
+						<p><font size="-2">Episode 35 - The Boyfriend (2)<br>
+							
+						pc: 316, season 3, episode 18<br>
+							
+						Broadcast date: February 12, 1992<br>
+							<br>
+							
+						Written By Larry David and Larry Levin<br>
+							
+						Directed By Tom Cherones<br>
+							<br>
+							
+						-------------------------------------------------------------------------------<br>
+							<br>
+							
+						The Cast<br>
+							
+						Regulars:<br>
+							
+						Jerry Seinfeld ....................... Jerry Seinfeld<br>
+							
+						Jason Alexander .................. George Costanza<br>
+							
+						Julia Louis-Dreyfus ............. Elaine Benes<br>
+							
+						Michael Richards ................. Kramer<br>
+							<br>
+							
+						Guest Stars:<br>
+							<br>
+							
+						Keith Hernandez ................ Himself<br>
+							
+						Rae Allen .............................. Mrs. (Lenore) Sokol<br>
+							
+						Carol Ann Susi .................... Carrie<br>
+							
+						Lisa Mende .......................... Carol<br>
+							
+						Roger McDowell ................ Himself<br>
+							
+						Stephen Prutting ................ Michael<br>
+							
+						Richard Assad .................... Cabbie<br>
+							
+						Melanie Good ..................... Woman<br>
+							
+						rc: Wayne Knight .............. Newman<br>
+							
+						&nbsp;<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						==================================================================<br>
+							<br>
+							
+						[New York State department of Labor]<br>
+							<br>
+							
+						MRS. SOKOL: Just sign here please.<br>
+							<br>
+							
+						GEORGE: I know who it was too. It was the guy who interviewed me. He was very threatened by me. Why else wouldn't he hire me? I could sell latex like that (snaps fingers).<br>
+							<br>
+							
+						MRS. SOKOL: Sign that.<br>
+							<br>
+							
+						GEORGE: Who is this? (sees photo)<br>
+							<br>
+							
+						MRS. SOKOL: It's my daughta'<br>
+							<br>
+							
+						GEORGE: THIS is your daughter? My God! My God! I I hope you don't mind my saying. She is breathtaking.<br>
+							<br>
+							
+						MRS. SOKOL: Ya' think so?<br>
+							<br>
+							
+						GEORGE: Ah, would you take this picture away from me. Take it away and get it outta here. Let me just sign this and go.<br>
+							<br>
+							
+						MRS. SOKOL: You know she doesn't even have a boyfriend.<br>
+							<br>
+							
+						GEORGE: Okay, Okay. Who do you think you're talking to? What are ya'&#133; you trying to make a joke, because it's not funny. I can tell you that.<br>
+							<br>
+							
+						MRS. SOKOL: I'm serious.<br>
+							<br>
+							
+						GEORGE: It's one think to not give me the extension But to tease and to torture me like this. There's no call for that.<br>
+							<br>
+							
+						MRS. SOKOL: Would you like her phone numba'?<br>
+							<br>
+							
+						MRS. SOKOL: Mrs. Sokol I, I don't know what to say. I, uh, where should I sign this thing?<br>
+							<br>
+							
+						MRS. SOKOL: No no no, Don't worry about it.<br>
+							<br>
+							<br>
+							
+						[Fitzpatrick's Bar]<br>
+							<br>
+							
+						ELAINE: So tell me more about this game SIX.<br>
+							<br>
+							
+						KEITH: Well, there was two outs, bottom of the tenth, we're one out away from losing the series.<br>
+							<br>
+							
+						ELAINE: ooooh ahhh<br>
+							<br>
+							<br>
+							
+						[Mike and Carol's Apartment]<br>
+							<br>
+							
+						KRAMER: (to baby) Koochie koochie koochie koo<br>
+							<br>
+							
+						JERRY: (to baby) Hello. How are you/<br>
+							<br>
+							
+						CAROL: So, wadda ya' think? Do you love her?<br>
+							<br>
+							
+						JERRY: Yes. I do love her. (to baby) You have a very nice place here.<br>
+							<br>
+							
+						CAROL: So how do you think she looks like?<br>
+							<br>
+							
+						KRAMER: Lyndon Johnson.<br>
+							<br>
+							
+						CAROL: What? Lyndon Johnson?<br>
+							<br>
+							
+						JERRY: He's joking.<br>
+							<br>
+							
+						KRAMER: I'm not joking. She looks like Lyndon Johnson.<br>
+							<br>
+							
+						CAROL: Jerry, I can't believe it took you so long to come see the baby. I kept saying to Michael, &quot;When is Jerry going to see the baby?&quot;<br>
+							<br>
+							
+						JERRY: I was saying the same thing.<br>
+							<br>
+							
+						CAROL: Let's take a picture. Michael, get the camera.<br>
+							<br>
+							
+						JERRY: Uh, you don't have to take a picture.<br>
+							<br>
+							
+						MIKE: I don't know where it is.<br>
+							<br>
+							
+						CAROL: It's in the bottom draw' of are dressa'. Hurry up! &#133; He's such an idiot.<br>
+							<br>
+							
+						JERRY: Jerry, You want to pick her up?<br>
+							<br>
+							
+						JERRY: I better not.<br>
+							<br>
+							
+						KRAMER: I'll pick her up.<br>
+							<br>
+							
+						(The Baby cries)<br>
+							<br>
+							<br>
+							
+						[George's car]<br>
+							<br>
+							
+						CARRIE:Thank you for a wonderful time George.<br>
+							<br>
+							
+						GEORGE: Glad you enjoyed it.<br>
+							<br>
+							
+						CARRIE:I haven't had a Big Mac in a long time.<br>
+							<br>
+							
+						GEORGE: &#133; millions and millions &#133;<br>
+							<br>
+							
+						CARRIE:Would you like to come up?<br>
+							<br>
+							
+						GEORGE: [pause] Would I like to come up? I would love to come up. I, I'm fighting not to. Fighting! Unfortunately I uh have to get an early start tomorrow. Gotta' get up and hit that pavement<br>
+							<br>
+							
+						CARRIE:But it's Saturday. all the offices are closed.<br>
+							<br>
+							
+						GEORGE: I got me an appointment with a hardware store. I'm not saying I want to do it for the rest of my life, but, uh, hardware fascinates me. Don't you love to make a key?<br>
+							<br>
+							
+						CARRIE:Will you call me as soon as you get home?<br>
+							<br>
+							
+						GEORGE: [pause] Tonight?<br>
+							<br>
+							
+						CARRIE:Yes.<br>
+							<br>
+							
+						GEORGE: Will I call you when I get home? ha ha What do you think? ee, you kill me kill me<br>
+							<br>
+							
+						CARRIE:Well. good night.[puckers up]<br>
+							<br>
+							<br>
+							
+						[Mike and Carol's Apartment]<br>
+							<br>
+							
+						KRAMER: Well it was an accident. Right Jerry it was an accident. Ah, she's going to be all right. .. baby, baby, ah, baby.<br>
+							<br>
+							<br>
+							
+						[Keith's car]<br>
+							<br>
+							
+						ELAINE: Well, thanks for a nice evening. It was really fun.<br>
+							<br>
+							
+						KEITH: Yeah, it was. [mind] Gosh, should I kiss her good night?<br>
+							<br>
+							
+						ELAINE: [mind] Is he going to try to kiss me?<br>
+							<br>
+							
+						ELAINE: I love Cajun cooking.<br>
+							<br>
+							
+						KEITH: Really, you know my mom's one quarter Cajun.<br>
+							<br>
+							
+						ELAINE: Uh, my father's half drunk. ha ha ha ha<br>
+							<br>
+							
+						KEITH: Maybe they should get together. [mind] Go ahead. Kiss her. I'm a baseball player dammit.<br>
+							<br>
+							
+						ELAINE: [mind] What's he waiting for? I thought he was a cool guy.<br>
+							<br>
+							
+						KEITH: [mind] Come on I won the MVP in 79. I can do whatever I want to.<br>
+							<br>
+							
+						ELAINE: [mind] This is getting awkward.<br>
+							<br>
+							
+						KEITH: Well, goodnight<br>
+							<br>
+							
+						ELAINE: Good night<br>
+							<br>
+							
+						(they kiss - REALLY KISS)<br>
+							<br>
+							
+						ELAINE: [mind] Who does this guy think he is?<br>
+							<br>
+							
+						KEITH: [mind] I'm Keith Hernandez.<br>
+							<br>
+							<br>
+							
+						[Jerry's Apartment]<br>
+							<br>
+							
+						ELAINE: Uh, who else? &#133; Mookie. Mookie was there. Do you know him?<br>
+							<br>
+							
+						JERRY: I don't know him. I know who he is.<br>
+							<br>
+							
+						ELAINE: Hum, he's such a great guy. You should meet him. You know he's the one who got that hit &#133;<br>
+							<br>
+							
+						JERRY: I know. He got the hit in game SIX. So, so then what happened?<br>
+							<br>
+							
+						ELAINE: Nuthin'. Then he took me home.<br>
+							<br>
+							
+						JERRY: So, did you two, uh, &#133; have uh, &#133;<br>
+							<br>
+							
+						ELAINE: What?!<br>
+							<br>
+							
+						JERRY: &#133; You know<br>
+							<br>
+							
+						ELAINE: Milk?<br>
+							<br>
+							
+						JERRY: No!<br>
+							<br>
+							
+						ELAINE: Cookies?<br>
+							<br>
+							
+						JERRY: Did he kiss you good night?<br>
+							<br>
+							
+						ELAINE: I dunno.<br>
+							<br>
+							
+						JERRY: What do you mean you don't know?<br>
+							<br>
+							
+						ELAINE: All right. He kissed me. Okay?<br>
+							<br>
+							
+						JERRY: Well, what kind of a kiss? Was it a peck? Was it a kiss? Was it a long make out thing?<br>
+							<br>
+							
+						ELAINE: Between a peck and a make out.<br>
+							<br>
+							
+						JERRY: So, you like him.<br>
+							<br>
+							
+						ELAINE: I don't understand. Before you were jealous of me. Now you're jealous of him?<br>
+							<br>
+							
+						JERRY: Ah, I'm jealous of everybody.<br>
+							<br>
+							
+						(phone rings)<br>
+							<br>
+							
+						JERRY: hello. Oh, hi. What's happening? &#133; what? oh um, sure, &#133; um, yeah, okay, uh. I'll see you then. Yeah, yeah, Bye.<br>
+							<br>
+							
+						ELAINE: Who was that?<br>
+							<br>
+							
+						JERRY: That was Keith.<br>
+							<br>
+							
+						ELAINE: What's going on?<br>
+							<br>
+							
+						JERRY: He wants me to help him move.<br>
+							<br>
+							
+						ELAINE: Help him move? Move what?<br>
+							<br>
+							
+						JERRY: You know, furniture.<br>
+							<br>
+							
+						ELAINE: So, what did you say?<br>
+							<br>
+							
+						JERRY: I said yes, but I don't feel right about it. I mean I hardly know the guy. That's a big step oin a relationship. The biggest. That's like going all the way.<br>
+							<br>
+							
+						ELAINE: And you feel you're not really ready for,&#133;<br>
+							<br>
+							
+						JERRY: Well we went out one time. Don't you think that's coming on a little too strong?<br>
+							<br>
+							<br>
+							
+						[Kramer enters]<br>
+							<br>
+							
+						KRAMER: What's going on?<br>
+							<br>
+							
+						JERRY: Keith Hernandez just asked me to help him move.<br>
+							<br>
+							
+						KRAMER: What? Well, you hardly know the guy&#133;. What a nerve. You see wasn't I right about this guy? Didn't I tell you? Now, you're not going to do it are you?<br>
+							<br>
+							
+						JERRY: &#133; I said yes.<br>
+							<br>
+							
+						KRAMER: YOU SAID YES!? Don't you have any pride or self respect? I mean, how can you prostitute yourself like this? I mean what are you going to do? You're going to start driving him to the airport?<br>
+							<br>
+							
+						JERRY: I'm NOT DRIVING HIM TO THE AIRPORT! ..<br>
+							<br>
+							
+						KRAMER: yeah yeah<br>
+							<br>
+							
+						JERRY: hey Kramer do me a favour .<br>
+							<br>
+							
+						KRAMER: What?<br>
+							<br>
+							
+						JERRY: Don't mention it to anybody.<br>
+							<br>
+							
+						KRAMER: I wish you never mentioned it to ME. [exits]<br>
+							<br>
+							<br>
+							
+						[George's car]<br>
+							<br>
+							
+						GEORGE: I had a great time tonight Carrie. And I am going to call you as soon as I get home.<br>
+							<br>
+							
+						CARRIE: Don't bottha<br>
+							<br>
+							
+						GEORGE: Bother, wa', what kind of bother?<br>
+							<br>
+							
+						CARRIE: I would prefa' it if ya' didn'.<br>
+							<br>
+							
+						GEORGE: Why? Is there anything wrong?<br>
+							<br>
+							
+						CARRIE: It's over buddy. Done. Finished. So long. Good bye. Adios. Sayanara.<br>
+							<br>
+							
+						GEORGE: Why?<br>
+							<br>
+							
+						CARRIE: I bin thinkin about it. You got no job. You got no prospects. You're like Biff Loman.<br>
+							<br>
+							
+						GEORGE: I went to the hardware store interview.<br>
+							<br>
+							
+						CARRIE: You think I'm going to spend my life with somebody because he can get me a deal on a box of nails?<br>
+							<br>
+							
+						GEORGE: I thought were a team.<br>
+							<br>
+							
+						CARRIE: If I ever need a drill bit I'll call you. (exits car)<br>
+							<br>
+							
+						GEORGE: Carrie, could you do me a favour? Could you not mention this to your mother?<br>
+							<br>
+							<br>
+							
+						[Fitzpatrick's Bar]<br>
+							<br>
+							
+						KRAMER: Ya know I hate to brag but, uh, I did win eleven straight golden gloves.<br>
+							<br>
+							
+						ELAINE: (chuckles)<br>
+							<br>
+							
+						KRAMER: I wouldn't have brought it up but since you mentioned it.<br>
+							<br>
+							
+						ELAINE: Ha, I didn't mention it.<br>
+							<br>
+							
+						KRAMER: Well I won them anyway.<br>
+							<br>
+							
+						ELAINE: Well so what. I mean you played first base. I mean they always put the worst player on first base. That's were they put me and I stunk.<br>
+							<br>
+							
+						KRAMER: Elaine. you don't know the first thing about first base.<br>
+							<br>
+							
+						ELAINE: ha ha well I know something about getting to first base. And I know you'll never be there.<br>
+							<br>
+							
+						KRAMER: The way I figure it I've already been there and I plan on rounding second tonight at around eleven o'clock.<br>
+							<br>
+							
+						ELAINE: Well, uh, I'd watch the third base coach if I were you 'cause I don't think he's waving you in. You know I hate to say this but I think we're really hitting it off. Get it? Get it?<br>
+							<br>
+							
+						KRAMER: Funny.<br>
+							<br>
+							<br>
+							
+						[Keith takes out a cigarette]<br>
+							<br>
+							
+						ELAINE: What are you doing?<br>
+							<br>
+							
+						KRAMER: What's that?<br>
+							<br>
+							
+						ELAINE: You smoke?<br>
+							<br>
+							
+						KRAMER: Yeah.<br>
+							<br>
+							
+						ELAINE: I didn't know you SMOKED.<br>
+							<br>
+							
+						KRAMER: Is that a problem?<br>
+							<br>
+							
+						ELAINE: Uh, &#133;<br>
+							<br>
+							<br>
+							
+						[Monks]<br>
+							<br>
+							
+						JERRY: She likes him I mean she really likes him.<br>
+							<br>
+							
+						GEORGE: How do you kn ow?<br>
+							<br>
+							
+						JERRY: Who wouldn't like him? I like him. And I'm a guy.<br>
+							<br>
+							
+						GEORGE: I suppose he's an attractive man, I , &#133;<br>
+							<br>
+							
+						JERRY: Forget that. He's a ball player. MVP&lt; 1979. I'm making wise cracks in some night club. This guy was in game six. They're a perfect match. They like go together. They're like one of these brother and sister couples that look alike.<br>
+							<br>
+							
+						GEORGE: Hate those couples. I could never bee one of those couples. There are no bald woman around. You know?<br>
+							<br>
+							
+						JERRY: You know I know this sounds a little arrogant but I never thought she would find anyone she would like better than me. Ya know, I guess I had my chance and that's that.<br>
+							<br>
+							
+						GEORGE: You know what I would like to do? I would really like to have sex with a tall woman. I mean really tall. Like a like a giant Like six five.<br>
+							<br>
+							
+						JERRY: Really?<br>
+							<br>
+							
+						GEORGE: What was the tallest woman you ever slept with?<br>
+							<br>
+							
+						JERRY: I don't know &#133; six three.<br>
+							<br>
+							
+						GEORGE: Wow, &#133; god! You see this is all I think about. Sleeping with a giant. It's my life's ambition.<br>
+							<br>
+							
+						JERRY: So I guess it's fair to say you've set different goals for yourself than say, Thomas Edison, Magellan, these types of people.<br>
+							<br>
+							
+						GEORGE: Magellan? You like Magellan?<br>
+							<br>
+							
+						JERRY: Oh, yeah,. My favourite explorer. Around the world. Come on.<br>
+							<br>
+							
+						GEORGE: Who do you like?<br>
+							<br>
+							
+						GEORGE: I like DeSoto.<br>
+							<br>
+							
+						JERRY: DeSoto? What did he do?<br>
+							<br>
+							
+						GEORGE: Discovered the Mississippi.<br>
+							<br>
+							
+						JERRY: Oh. like they wouldn't have found that anyway.<br>
+							<br>
+							
+						GEORGE: All right, I've got to go down to the unemployment office. Wanna take a walk?<br>
+							<br>
+							
+						JERRY: No I can't I've got some stuff to do then I've got to meet Keith at my apartment at three. I'm helping him move.<br>
+							<br>
+							
+						GEORGE: What? The guy asked you to HELP HIM MOVE? Wow.<br>
+							<br>
+							
+						JERRY: I know isn't that something?<br>
+							<br>
+							
+						KRAMER: He's got money. Why doesn't he just pay a mover?<br>
+							<br>
+							
+						JERRY: I don't know &#133; he's got some valuable antiques, He's worried they'll break something.<br>
+							<br>
+							
+						GEORGE: The next thing you know, he'll have you driving him to the airport..<br>
+							<br>
+							
+						JERRY: I'M NOT DRIVING HIM TO THE AIRPORT!!<br>
+							<br>
+							<br>
+							
+						[New York State Department of lab or]<br>
+							<br>
+							
+						GEORGE: I gave. I gave everything I could Mrs. Sokol. but nothing was good enough for her.<br>
+							<br>
+							
+						MRS. SOKOL: Sign here please.<br>
+							<br>
+							
+						GEORGE: Ha, I don't know who she's looking for. I don't know. I'll tell you something. She's very particular, your daughter. Very particular. What is she looking for some big hot shot businessman? Well I've got my pride too. I'm not going to beg her.<br>
+							<br>
+							
+						MRS. SOKOL: All right just sign it. People are waiting.<br>
+							<br>
+							
+						GEORGE: You, uh, you like baseball? [picks up baseball from desk]<br>
+							<br>
+							
+						MRS. SOKOL: That was autographed by the '86 Mets. I saw every inning that year.<br>
+							<br>
+							
+						GEORGE: Funny, cause I happen to be very good friends with Keith Hernandez.<br>
+							<br>
+							
+						MRS. SOKOL: You know Keith Hernandez.<br>
+							<br>
+							
+						GEORGE: Know him? Would you, uh, like to meet him?<br>
+							<br>
+							
+						MRS. SOKOL: Oh, come on. Come on.<br>
+							<br>
+							
+						GEORGE: I can produce Keith Hernandez right here within the hour.<br>
+							<br>
+							
+						MRS. SOKOL: All right. You got ONE hour.<br>
+							<br>
+							
+						GEORGE: All right Mrs. S. I and my good pal Keith Hernandez will be right back.<br>
+							<br>
+							
+						(George slowly leave the office then takes off down the hallway)<br>
+							<br>
+							<br>
+							
+						[Same phone booth as part one]<br>
+							<br>
+							
+						(George sees large construction worker in booth and leaves. he hops into a cab)<br>
+							<br>
+							
+						GEORGE: 129 west 81st street and hurry.<br>
+							<br>
+							
+						(same cabby as part one; stares at him)<br>
+							<br>
+							
+						GEORGE: Goodbye (exits cab)<br>
+							<br>
+							<br>
+							
+						[Jerry's Apartment]<br>
+							<br>
+							
+						KEITH: Better bring your gloves, it's freezing out there. It shouldn't take too long. I'd say maybe, oh, four hours. Really though, Jerry, there's not that much. First we got the bedroom, we got two dressers and the bed.<br>
+							<br>
+							
+						JERRY: Is there a box spring?<br>
+							<br>
+							
+						KEITH: What's that?<br>
+							<br>
+							
+						JERRY: Is there a box spring?<br>
+							<br>
+							
+						KEITH: Yeah there's a box spring but it's attached to the headboard and we'll have to take that apart. Then we got the couch.<br>
+							<br>
+							
+						JERRY: Is that a sectional?<br>
+							<br>
+							
+						KEITH: Yeah. Twelve pieces. &lt;not clear&gt; &#133;coffee table.<br>
+							<br>
+							
+						JERRY: Is that a thick marble?<br>
+							<br>
+							<br>
+							
+						[&#133; Jerry and Keith start to laugh and Jerry walks behind Keith so they don't make eye<br>
+							
+						contact and break up]<br>
+							<br>
+							
+						KEITH: Three inches thick. Got it in Italy. But the BIG problem is going to be the convertible sofa. You see when you move it it tends to open up so it's going to be real difficult getting it down the stairs.<br>
+							<br>
+							
+						JERRY: STAIRS??? There's no elevator?<br>
+							<br>
+							
+						KEITH: Nah, it's a brownstone. Three floors.<br>
+							<br>
+							
+						JERRY: I'm sorry I can't do this. I can't do it. I can't. It, it's too soon. I don't know you. I can't help you move. I'm sorry. I can't. I just can't.<br>
+							<br>
+							
+						(Kramer enters, sees Keith and does a double take)<br>
+							<br>
+							
+						KRAMER: Hello.<br>
+							<br>
+							
+						KEITH: Hello.<br>
+							<br>
+							
+						KRAMER: Oh, you don't remember me.<br>
+							<br>
+							
+						KEITH: No should I [continuity error: in fact he SHOULD from the basketball game]<br>
+							<br>
+							
+						KRAMER: Yeah, you should. I certainly remember you. Let me refresh your memory.<br>
+							<br>
+							
+						(Newman enters)<br>
+							<br>
+							
+						NEWMAN: June 14th, 1987. Mets Phillies. You made a big error. Cost the Mets the game. Then you're coming up the parking lot ramp.<br>
+							<br>
+							
+						KEITH: YOU said, &quot;Nice game, pretty boy.&quot;<br>
+							<br>
+							
+						KRAMER: Ah, you remember.<br>
+							<br>
+							
+						NEWMAN: And then you spit on us.<br>
+							<br>
+							
+						KEITH: Hey, I didn't spit at you.<br>
+							<br>
+							
+						NEWMAN: Oh, yeah, right.<br>
+							<br>
+							
+						KRAMER: No no no, well, then who was it?<br>
+							<br>
+							
+						KEITH: Well lookit, the way I remember it (back to the grainy 8mm film parody) I was walking up the ramp. I was upset about the game. That's when you called me pretty boy. It ticked me off. I started to turn around to say something and as I turned around I saw Roger McDowell behind the bushes over by that gravely road. &#133; Anyway he was talking to someone and they were talking to you. I tried to scream out but it was too late. It was already on its way.<br>
+							<br>
+							
+						JERRY: I told you!<br>
+							<br>
+							
+						NEWMAN: Wow, it was McDowell.<br>
+							<br>
+							
+						JERRY: But why? Why McDowell?<br>
+							<br>
+							
+						KRAMER: Well, maybe because we were sitting in the right field stands cursing at him in the bullpen all game.<br>
+							<br>
+							
+						NEWMAN: He must have caught a glimpse of us when I poured that beer on his head.<br>
+							<br>
+							
+						NEWMAN: It was McDowell.<br>
+							<br>
+							
+						KRAMER: Oh boy. Uh, look uh, Keith, uh, we're sorry.<br>
+							<br>
+							
+						NEWMAN: Yeah, I couldn't be sorrier. I uh.<br>
+							<br>
+							
+						KEITH: look guys, don't worry about it, I uh, Well I guess I better get going.<br>
+							<br>
+							
+						KRAMER: Wait, uh what are ya' doing?<br>
+							<br>
+							
+						KEITH: I gotta move.<br>
+							<br>
+							
+						KRAMER: Want any help?<br>
+							<br>
+							
+						KEITH: I'd love some.<br>
+							<br>
+							
+						KRAMER: I'd love to help you move.<br>
+							<br>
+							
+						NEWMAN: Me too.<br>
+							<br>
+							
+						KEITH: Ok guys, we gotta be careful of one thing. Some of the stuff's very fragile We're going to have to handle it like a baby.<br>
+							<br>
+							
+						KRAMER: No sweat.<br>
+							<br>
+							
+						(Kramer and Newman exit)<br>
+							<br>
+							
+						(phone rings)<br>
+							<br>
+							
+						JERRY: Hello, &#133; oh hi Elaine .. what's going on &#133; no he just left &#133; you broke up with him? &#133; ME TOO .. what happened? &#133; oh smoking you know you're like going out with C. Everet Coope &#133; me &#133; nah &#133; I couldn't go through with it &#133; I just didn't feel ready &#133; so what are you doing now? &#133; Oh, great idea, I'll meet you there in like thirty minutes. Okay bye.<br>
+							<br>
+							
+						(George frantically enters)<br>
+							<br>
+							
+						GEORGE: Keith, Keith Wa What happened? Where's Keith?<br>
+							<br>
+							
+						JERRY: You just missed him. he just left. What do you need him for?<br>
+							<br>
+							
+						GEORGE: (out the window) Keith, Keith, up here. Can you do me a favor? I need you to go to the unemployment office with me. I, I'm Jerry's friend &#133; the guy from the locker room, &#133; I'm the chucker. It'll take five minutes. Wait. Wait.<br>
+							<br>
+							
+						(sits down)<br>
+							<br>
+							
+						JERRY: Well Biff/ What's next?<br>
+							<br>
+							
+						GEORGE: I don't know.<br>
+							<br>
+							
+						(Tall girl enters)<br>
+							<br>
+							
+						TALL GIRL: Excuse me. I was walking behind you and you dropped your wallet.<br>
+							<br>
+							<br>
+							
+						[Ending Monologue]<br>
+							<br>
+							
+						When You're moving your whole world becomes boxes. That's all you think about is boxes. Boxes, where are there boxes? You just wander down the street going in and out of stores. Are there boxes here? Have you seen any boxes? I mean it's all you think about. You can't even talk to people because you can't concentrate. Shut up I'm looking for boxes. Just after a while you become like really into it you can smell them. You walk into a store. There's boxes here. Don't tell me you don't have boxes. Dammit, I can SMELL them. I'm like I'm obsessed. I love the smell of cardboard in the morning. You could be at a funeral. Everyone's mourning crying around, and your looking at the casket. That's a nice box Does anyone know where that guy got that box? When he's done with it do you think I could get that? it's got some nice handles on it. And that's what death is really. It's the last big move of your life. The hearse is like the van. The pale bearers are your close friends the only ones you could ask to help you with a big move like that. and the casket is that great perfect box you've been waiting for your whole life The only problem is, once you find it you're in it.<br>
+							<br>
+							<br>
+							
+						The End</td>
+						</tr>
+						<tr height="6">
+							<td class="bottom2" width="645" height="6"></td>
+						</tr>
+						<tr>
+							<td width="645">
+								<div align="center">
+									<font size="-1">Copyright 2006 seinology.com | All Rights Reserved | Designed by 13erla</font></div>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+		<p></p>
+	</body>
+
+</html>

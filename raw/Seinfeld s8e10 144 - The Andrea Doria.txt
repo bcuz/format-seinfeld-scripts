@@ -1,0 +1,1309 @@
+<tdOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+<html>
+
+	<head>
+		<meta http-equiv="content-type" content="text/html;charset=ISO-8859-1">
+		<meta name="description" content="Top Source for Seinfeld">
+		<meta name="keywords" content="seinfeld, sienfeld, Jerry Seinfeld, Julia Louis Dreyfus, Jason Alexander, Michael Richards, Kramer, George, Costanza, Elaine Benes, morty, Larry David">
+		<title>Seinology.com :: Scripts :: 144-The Andrea Doria</title>
+	<link rel='stylesheet' href='/stylesheet.css' type='text/css'>
+	</head>
+
+	<body>
+			<table align="center" width="787" border="0" cellspacing="0" cellpadding="0">
+				<tr>
+					<td><font size="-2" color="red">Seinology.com - </font><font size="-3" color="black">Where Seinfeld Content and Accuracy Matter Most. Seinfeld scripts in pdf form, Seinfeld episode video clips, Seinfeld episode audio clips, Jerry Seinfeld appearances, Julia Louis-Dreyfus appearances, Michael Richards appearances, Jason Alexander appearances, Seinfeld discussion Forum, Seinfeld Where are they Now? Seinlanguage Newsletter, Popular Seinfeld Lists, Seinfeld episode standup, Seinfeld episode guide, Seinfeld fan fiction. Seinfeld content all on one domain. Seinology.com enjoy your stay.</font></td>
+				</tr>
+			</table>
+		
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr height="100">
+				<td class="logo"></td>
+			</tr>
+			<tr><td class="ads" align="center" background=#8694fa>
+				<script type="text/javascript"><!--
+google_ad_client = "pub-1924026976931416";
+google_ad_width = 728;
+google_ad_height = 90;
+google_ad_format = "728x90_as";
+google_ad_type = "text";
+google_ad_channel = "";
+google_color_border = "FFFFFF";
+google_color_bg = "8694fa";
+google_color_link = "0000FF";
+google_color_text = "000000";
+google_color_url = "002E3F";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></td></tr>
+		</table>
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr>
+				<td valign="top" width="136">
+					<table width="136" border="0" cellspacing="0" cellpadding="0">
+						<tr height="24">
+							<td class="navigation">
+								<div align="center">
+									
+									<b>Navigation</b></div>
+							</td>
+						</tr>
+						<tr height="199">
+							<td class="spacer1" valign="top" width="136" height="199">
+								<div align="center">
+									<font size="-1"><a href="http://www.seinology.com">Home</a><br>
+										<a href="http://board.seinology.com">Forum</a><br>
+										<a href="http://www.seinology.com/av.shtml">Audio/Video</a><br>
+										<a href="http://www.seinology.com/scripts.shtml">Scripts</a><br>
+										<a href="http://www.seinology.com/survivor.shtml">Survivor</a><br>
+										<a href="http://www.seinology.com/fanfics.shtml">Fan Fiction</a><br>
+										<a href="http://www.seinology.com/gallery/">Gallery</a><br>
+										<a href="http://www.seinology.com/newsletter.shtml">Newsletter</a><br>
+										<a href="http://www.seinology.com/lists.shtml">Lists</a><br>
+										<a href="http://www.seinology.com/epguide.shtml">Episode Guide</a><br>
+										<a href="http://www.seinology.com/links.shtml">Links</a><br>
+										<a href="http://www.seinology.com/faqother.shtml">Faq + others</a><br>
+										<a href="http://www.seinology.com/legal.shtml">Legal</a></font></div>
+							</td>
+						</tr>
+						
+						<tr>
+							<td class="nav2" width="136">
+							<div align="center"><b>Search</b></div></td>
+						</tr>
+						<tr>
+							<td class="spacer1" width="136" valign="top"><div align="center"><form method="get" action="http://www.seinology.com/search/search.cgi">
+<p><label for="fdse_Match">Match</label><br>
+<select name="Match" id="fdse_Match" size="1">
+<option value="1">All</option>
+<option value="0">Any</option>
+<option value="2">Phrase</option>
+</select></p>
+<p><label for="fdse_Realm">Where?</label><br>
+<select name="Realm" id="fdse_Realm" size="1">
+<option selected="selected" value="All">EntireSite</option>
+<option value="Ep Guide">Ep Guide</option>
+<option value="Images">Images</option>
+<option value="Lists">Lists</option>
+<option value="Newsletters">Newsletters</option>
+<option value="Scripts">Scripts</option>
+<option value="Notes..Nothing">Notes..Nothing</option>
+</select></p>
+<p><input type="text" name="Terms" size="14" id="fdse_Terms"><br>
+<input type="submit" class="submit" name="submitButtonName" value="Search"></p>
+</div></form></td>
+						</tr>
+						<tr><td class="bottom" width="136" height="10" valign="top">
+						</td>
+						</tr>
+					</table>
+				</td>
+				<td width="4"></td>
+				<td valign="top" width="645">
+					<table width="645" border="0" cellspacing="0" cellpadding="0">
+						<tr height="18">
+							<td width="645" height="35" class="bar">
+								<div align="center">
+									<b><font size="+2" color="black">Script</font></b></div>
+							</td>
+						</tr>
+						<tr height="362">
+							<td class="spacer2" valign="top" width="645" height="362">
+
+						<p><font size="-2">Episode 144 - The Andrea Doria<br>
+							
+						pc: 810, season 8, episode 10<br>
+							
+						Broadcast date: December 19, 1996<br>
+							<br>
+							
+						Written by Spike Feresten<br>
+							
+						Directed by Andy Ackerman<br>
+							<br>
+							
+						-------------------------------------------------------------------------------<br>
+							<br>
+							
+						The Cast<br>
+							
+						Regulars:<br>
+							
+						Jerry Seinfeld ........................&nbsp; Jerry Seinfeld<br>
+							
+						Jason Alexander .................... George Costanza<br>
+							
+						Julia Louis-Dreyfus ................ Elaine Benes<br>
+							
+						Michael Richards .................... Cosmo Kramer<br>
+							<br>
+							
+						Guest Stars:<br>
+							<br>
+							
+						Tom Gallop ............................. Alan<br>
+							
+						Ray Stricklyn .......................... Clarence<br>
+							
+						Diana Bellamy ......................... Mrs. Ricardi<br>
+							
+						Rick Hall ................................. Vet<br>
+							
+						Carl Banks ............................. Policeman #1<br>
+							
+						Barry Cutler .......................... Policeman #2<br>
+							
+						Kev O'Neil ............................. Waiter<br>
+							
+						Ossie Mair ............................. Driver<br>
+							
+						Fred Pinkard ......................... Old Man<br>
+							
+						Rene Weisser ........................ Ex-Girlfriend<br>
+							
+						Brian Blondell ........................ Dog Guy<br>
+							
+						Theresa Mulligan .................. Woman<br>
+							
+						Florinel Fatulescu .................. Stand Owner<br>
+							
+						rc: Wayne Knight .................. Newman<br>
+							
+						rc: Estelle Harris .................... Estelle Costanza<br>
+							
+						rc: Jerry Stiller ........................ Frank Costanza<br>
+							<br>
+							
+						==================================================================&nbsp;<br>
+							<br>
+							
+						[Setting: Jerry's apartment]<br>
+							<br>
+							
+						(Jerry's sitting at the table, reading the paper. George bursts into the room)<br>
+							<br>
+							
+						GEORGE: Jerry! (Slams the door) Georgie's moving out!<br>
+							<br>
+							
+						JERRY: (Gets up) Get out!<br>
+							<br>
+							
+						GEORGE: I'm out! Fantastic apartment right across from mine, huh. I can't wait for you to see it.<br>
+							<br>
+							
+						JERRY: (Looks around his apartment) Is it better than mine?<br>
+							<br>
+							
+						GEORGE: (Definite) Oh yeah.<br>
+							<br>
+							
+						JERRY: So, it's a two-bedroom-one-bath-make-your-friends-hate-ya?<br>
+							<br>
+							
+						GEORGE: You know what? it's better than Elaine's, too. I gotta give her a call. (Moves tward the phone)<br>
+							<br>
+							
+						JERRY: She's out.<br>
+							<br>
+							
+						GEORGE: (Stops) Oh right, the blind date.<br>
+							<br>
+							
+						JERRY: Yeah, well, they like to call it a set-up now. I guess the blind people don't like being associated with all those losers.<br>
+							<br>
+							
+						GEORGE: Come on. Come check out my new place. It'll take you two minutes.<br>
+							<br>
+							
+						JERRY: I can't. I'm meeting Kramer down at my mini-storage.<br>
+							<br>
+							
+						GEORGE: (Gloating) Hey, you got any extra furniture down there? I need some more stuff to fill that extra bedroom with the walk-in closet. (Smiles)<br>
+							<br>
+							
+						JERRY: (Grabs his coat) Oh, this is really annoying.<br>
+							<br>
+							
+						GEORGE: (Laughs as they leave) It's working already! (Both exit)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Setting: Manhattan Mini-storage]<br>
+							<br>
+							
+						(Jerry and Kramer both go up to a unit door. Kramer's pulling a wagon full of junk. He starts to cough uncontrollably)<br>
+							<br>
+							
+						JERRY: (Disgusted) What is with that?!<br>
+							<br>
+							
+						KRAMER: Well, it's coughing, Jerry. It expells the diseased germs out of the body, into the air. (Makes a guesture of germs being in the air)<br>
+							<br>
+							
+						JERRY: (Takes out his key to unlock the unit door) Where is your key?<br>
+							<br>
+							
+						KRAMER: Yeah, well, uh, Newman. He's - he's got it.<br>
+							<br>
+							
+						JERRY: You know, Kramer, I rented out half of my space to you.<br>
+							<br>
+							
+						KRAMER: Yeah, and I rented out half that space to Newman. (Starts coughing again)<br>
+							<br>
+							
+						(Jerry opens the door, mail bags start spilling out of the unit)<br>
+							<br>
+							
+						JERRY: (Picks one up) Mail bags? He's storing mail in here?<br>
+							<br>
+							
+						KRAMER: (Looks at the bags on the floor) Evidently.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Setting: George's new apartment]<br>
+							<br>
+							
+						(George is moving in. The place is bare. A woman walks in while he's attempting to hang a lamp near the fire place)<br>
+							<br>
+							
+						RICARDI: Excuse me, George? (H1)<br>
+							<br>
+							
+						GEORGE: (Looks at her) Yeah, uh, no menus. (Waves her off)<br>
+							<br>
+							
+						RICARDI: (Moves into the apartment, hand out) No, I'm Mrs. Ricardi - president of the tenant's association.<br>
+							<br>
+							
+						GEORGE: Oh, right! (Shakes her hand) Right! Hey, hey.. I love the floors in here. It's like a gymnasium in here! Try and guard me! (Dribbles an imaginary ball<br>
+							<br>
+							
+						tward Mrs. Ricadi. She backs off defensively) Come on! (Stops and laughs right before running into her)<br>
+							<br>
+							
+						RICARDI: No, no.. (Laughs nervously) Uh, George, unfortunately, Clarance Eldridge in 8C has decided that he wants the apartment.<br>
+							<br>
+							
+						GEORGE: (Let down) Yeah, but you - you promised it to me.<br>
+							<br>
+							
+						RICARDI: Yes, but, you see - Mister Eldridge is an Andrea Doria survivor. And, in light of the terrible suffering that he's already been through, we've decided to give it to him.<br>
+							<br>
+							
+						GEORGE: (Depressed) Well,.. the Andrea Doria.. that was quite a fire. (Moves to the door, leaving)<br>
+							<br>
+							
+						RICARDI: (Correcting) Shipwreck.<br>
+							<br>
+							
+						GEORGE: I remember.. (Leaves)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Setting: Restaurant]<br>
+							<br>
+							
+						(Elaine is sitting alone, waiting for her date - Alan. She's thinking to herself)<br>
+							<br>
+							
+						ELAINE: Where is this guy?! (Checks her watch) I hate this! (Sighs) I shoulda brought something to read.. (Picks up a sugar packet) &quot;Cancer in labratory animals&quot;.. huh.<br>
+							<br>
+							
+						(A waiter approaches)<br>
+							<br>
+							
+						WAITER: Excuse me, Elaine Benes?<br>
+							<br>
+							
+						ELAINE: Yeah?<br>
+							<br>
+							
+						WAITER: An Alan Mercer called for you. He said he's sorry, but he won't be able to make it tonight. (Pause) He's been stabbed.<br>
+							<br>
+							
+						ELAINE: (Shocked) Stabbed?!<br>
+							<br>
+							
+						WAITER: More bread?<br>
+							<br>
+							<br>
+							<br>
+							
+						[Setting: Jerry's apartment]<br>
+							<br>
+							
+						JERRY: (Talking to Elaine) You ate more bread?<br>
+							<br>
+							
+						ELAINE: That is not the point! The guy was stabbed!<br>
+							<br>
+							
+						JERRY: Did you find out who stabbed him?<br>
+							<br>
+							
+						ELAINE: Yeah, (Nodding) It turns out it was his ex-girlfriend.<br>
+							<br>
+							
+						JERRY: (Like a father) Well, you're not going near this hooligan anymore.<br>
+							<br>
+							
+						ELAINE: Well, I don't know.. I mean, think about it, Jerry. There must be something exciting about this guy if he can arouse that kind of passion. (Obviously turned on by the stabbing) I mean, to be stab-worthy.. You know, it's.. kind of a compliment.<br>
+							<br>
+							
+						JERRY: (Sarcastic) Yeah, too bad he didn't get shot. He could have been the one.<br>
+							<br>
+							
+						(Kramer enters)<br>
+							<br>
+							
+						KRAMER: (Coughs) Hey. How's everybody? (Moves to the kitchen)<br>
+							<br>
+							
+						JERRY AND ELAINE: Hey.<br>
+							<br>
+							
+						KRAMER: Ehh.. (Picks up a carton of food) No expiration date on this.. (Opens it, then starts coughing directly onto the food)<br>
+							<br>
+							
+						JERRY: There is now. Kramer, you should really get that cough checked out by a doctor.<br>
+							<br>
+							
+						KRAMER: (Shrugging it off) Nah, no, no, no. No doctors for me. A bunch of lackeys and yes-men all towing the company line.. (Looks at Jerry, then leans in so Elaine can't hear) Plus, the botched my vasectimy.<br>
+							<br>
+							
+						JERRY: (In awe. Whispering) The botched it?<br>
+							<br>
+							
+						KRAMER: (Complaining) I'm even more potent now!<br>
+							<br>
+							
+						(Jerry gives his &quot;That's a shame&quot; face. George enters)<br>
+							<br>
+							
+						GEORGE: Hey.<br>
+							<br>
+							
+						JERRY: Hey. How's the new place?!<br>
+							<br>
+							
+						GEORGE: Gone. (Moves over to a chair in the living room. Kramer takes the carton of food to the table, and begins eating) The tenant association made me give it to this guy because he was an Andrea Doria survivor..<br>
+							<br>
+							
+						ELAINE: Andrea Doria? Isn't that the one they did the song about?<br>
+							<br>
+							
+						JERRY: (Correcting her) Edmund Fitzgerald.<br>
+							<br>
+							
+						ELANE: I love Edmund Fitzgerald's voice.<br>
+							<br>
+							
+						JERRY: (Gives Elaine a look) No, Gordon Lightfoot was the singer. Edmund Fitzgerald was the ship.<br>
+							<br>
+							
+						GEORGE: (Talking about his would-be apartment) You could fit 15 people in that bathroom..<br>
+							<br>
+							
+						ELAINE: I think Gordon Lightfoot was the boat.<br>
+							<br>
+							
+						JERRY: (Sarcastic) Yeah, and it was rammed by the Cat Stevens.<br>
+							<br>
+							
+						KRAMER: (Like a teacher) The Andrea Doria collided with the Stockholm in dense fog 21 miles off the coast of Nantucket. (Makes a clicking sound with his tongue)<br>
+							<br>
+							
+						(Everyone's taken back by Kramer's knowledge)<br>
+							<br>
+							
+						GEORGE: How do you know?<br>
+							<br>
+							
+						KRAMER: it's in my book - &quot;Astonishing Tales of the Sea&quot; 51 people died.<br>
+							<br>
+							
+						GEORGE: 51 people?! That's it?! I thought it was, like, a thousand!<br>
+							<br>
+							
+						KRAMER: There were 1,650 survivors.<br>
+							<br>
+							
+						GEORGE: That's no tragedy! How many people do you lose on a normal cruse? 30? 40?! Kramer, can I take a look at that book? (Starts walking tward the door. Kramer grabs his food, and follows)<br>
+							<br>
+							
+						KRAMER: Oh yeah. I also got &quot;Astounding Bear Attacks&quot;<br>
+							<br>
+							
+						(George opens the door, and enters Kramer's apartment. Jerry stops Kramer before he can do the same)<br>
+							<br>
+							
+						JERRY: Hey, uh, before you go, did you talk to Newman about getting that mail outta there?<br>
+							<br>
+							
+						KRAMER: Yeah, oh, yeah. Yeah, he's not gonna do it. (Leaves)<br>
+							<br>
+							
+						(Jerry nods his head - like it was expected)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Setting: Newman's apartment]<br>
+							<br>
+							
+						(Jerry knocks on the door as it opens slowly. Newman's sitting on the couch, watching TV in a state of depression)<br>
+							<br>
+							
+						JERRY: Newman?<br>
+							<br>
+							
+						NEWMAN: (Eyes glued to the TV) I guess.<br>
+							<br>
+							
+						JERRY: Listen, I want you to get the mail outta my storage unit.<br>
+							<br>
+							
+						NEWMAN: Sometimes we don't get what we want.<br>
+							<br>
+							
+						JERRY: (Confused) What are you talking about?<br>
+							<br>
+							
+						NEWMAN: I didn't get my transfer.<br>
+							<br>
+							
+						JERRY: &quot;Transfer&quot;?<br>
+							<br>
+							
+						NEWMAN: To Hawaii. The most sought-after postal route of them all. The air is so dewy-sweet you don't even have to like the stamps.. But it's not to be - So, I'm hanging it up.<br>
+							<br>
+							
+						JERRY: You quit the post office?<br>
+							<br>
+							
+						NEWMAN: Kind of. I'm still collecting checks, I'm just not delivering mail.<br>
+							<br>
+							
+						JERRY: Well, get it out of my storage. It's illegal.<br>
+							<br>
+							
+						NEWMAN: And yet, it's perfectly legal to take a man's soul and crush it out like a stale Pall Mall.<br>
+							<br>
+							
+						JERRY: (Cheerfully) Well, a law's a law. (Leaves)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Setting: Central Park]<br>
+							<br>
+							
+						(Kramer's sitting on a bench coughing. A man walking some dogs passes. A coughing other than Kramer's can be heard. Kramer stops the man)<br>
+							<br>
+							
+						KRAMER: Ok, hold on there.. That's a nasty cough you got there, huh?<br>
+							<br>
+							
+						MAN: What cough?<br>
+							<br>
+							
+						(One of his dogs, Smuckers, coughs. Kramer reacts while pointing to the dog)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Setting: Restaurant]<br>
+							<br>
+							
+						(Elaine's on a date with Alan)<br>
+							<br>
+							
+						ELAINE: I love shrimp! (Waves her knife around as she's talking) I'm a shrimp eater. You put shrimp infront of me, (Waves her knife along with her hand gestures. Alan is getting edgy about it, and even more so with every wave) and I will eat it until my stomach pops! (Notices Alan's unsettled) Oh.. (Puts the knife down)<br>
+							<br>
+							
+						ALAN: No, it's okay. I'm.. still just a little bit jumpy.<br>
+							<br>
+							
+						ELAINE: (Leans in close) Between you and me, what happened there with the stabbing?<br>
+							<br>
+							
+						ALAN: Just.. one of those things, you know.<br>
+							<br>
+							
+						ELAINE: What? Was she just so crazy in love with you that she just couldn't take it anymore? Or..?<br>
+							<br>
+							
+						ALAN: I don't know. Could be.<br>
+							<br>
+							
+						(A woman, Carol, passes. She stops infront of Elaine and Alan's table)<br>
+							<br>
+							
+						CAROL: Alan?!<br>
+							<br>
+							
+						ALAN: Carol?<br>
+							<br>
+							
+						(Carol grabs his hot coffee, and throws it in his face, then storms off. Alan screams from the pain)<br>
+							<br>
+							
+						ELAINE: (Gets up, pointing after Carol) Was that the one?! Was that the one who stabbed you?!<br>
+							<br>
+							
+						ALAN: (Between screams) No, that was a different girl.<br>
+							<br>
+							
+						(Elaine looks confused. Scene ends)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Setting: Coffee shop]<br>
+							<br>
+							
+						JERRY: There was another crazed ex-girlfriend?<br>
+							<br>
+							
+						ELAINE: Right, so, I called my friend, you know - the one who set us up - I found out, he's a bad-breaker-upper.<br>
+							<br>
+							
+						JERRY: Mmm.. Bad how?<br>
+							<br>
+							
+						ELAINE: (Fast) Well, you know when you break up, how you say things you don't mean? Well, he says the mean things you don't mean, but he means them.<br>
+							<br>
+							
+						JERRY: (Nods) I follow. So what are you gonna do?<br>
+							<br>
+							
+						ELAINE: Dump him. I can't be with someone who doesn't break up nicely. I mean, to me, that's one of the most important parts of a relationship.<br>
+							<br>
+							
+						JERRY: (Agreeing) What's more important?<br>
+							<br>
+							
+						(Elaine shrugs, then Jerry shrugs, then Elaine, then they both get into sort of a shrug-off)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Setting: NYC Street]<br>
+							<br>
+							
+						(While Kramer's walking with his new found dog, Smuckers, he meets up with George. Kramer and the dog both start coughing)<br>
+							<br>
+							
+						KRAMER: (Between coughs) Hey.<br>
+							<br>
+							
+						GEORGE: What's with the dog?<br>
+							<br>
+							
+						KRAMER: (Petting Smuckers) Yeah, this is Smuckers. I borrowed him. (Starts coughing)<br>
+							<br>
+							
+						GEORGE: Oh..<br>
+							<br>
+							
+						(Smuckers coughs)<br>
+							<br>
+							
+						KRAMER: (Pointing at the dog) Yeah, we share the same affliction, so I'm gonna have a vet check us out.<br>
+							<br>
+							
+						GEORGE: A vet?<br>
+							<br>
+							
+						KRAMER: Oh, I'll take a vet over an M.D. any day. They gotta be able to cure a (Snaps his fingers in rhythm with his words) lizard, a chicken, a pig, a frog (Stops snapping) - all on the same day.<br>
+							<br>
+							
+						GEORGE: So, if I may jump ahead - you're gonna take dog medicine?<br>
+							<br>
+							
+						KRAMER: (Smiling) You bet we are! Huh, Smuckers? (Smuckers coughs. They turn to leave) I'll see ya.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Setting: George's apartment building]<br>
+							<br>
+							
+						(George approaches Mr. Eldridge as he's entering his new apartment. George is carrying Kramer's sea tales book)<br>
+							<br>
+							
+						GEORGE: Ahoy! Mr. Eldridge. I understand you were on the Andrea Doria.<br>
+							<br>
+							
+						ELDRIDGE: Yes, it was a terrifying ordeal.<br>
+							<br>
+							
+						GEORGE: I tell ya, I hear people really stuff themselves on those cruise ships. (Laughs) The buffet, that's the real ordeal, huh, Clarence? (Laughs)<br>
+							<br>
+							
+						ELDRIDGE: (Defensively) We had to abandon ship.<br>
+							<br>
+							
+						GEORGE: Well, all vacations have to end eventually.<br>
+							<br>
+							
+						ELDRIDGE: The boat sank.<br>
+							<br>
+							
+						GEORGE: (Holding up Kramer's book) According to this, it took.. 10 hours. It eased into the water like an old man into a nice warm bath - no offence. (Pause) So, uh, Clarence, how about abandoning this apartment, and letting me shove off in this beauty?<br>
+							<br>
+							
+						ELDRIDGE: Is that what this is all about?! I don't think I like you. (Enters his apartment, and slams the door behind him)<br>
+							<br>
+							
+						GEORGE: (Yelling out) It's my apartment, Eldridge! The Stalkholm may not have sunk ya, but I will! Ha, ha, ha!<br>
+							<br>
+							<br>
+							<br>
+							
+						[Setting: Vet's office]<br>
+							<br>
+							
+						(Smuckers is getting examined by a vet)<br>
+							<br>
+							
+						VET: What are the symptoms?<br>
+							<br>
+							
+						KRAMER: Well, uh.. it hurts when he swallows. Expecially when he drinks orange juice. (Vet gives him a look) I mean, uh.. dog food.. juice. (Adding) What's worse - he has a nagging cough. (Smucker's coughs) Yeah, that's it. That's it.<br>
+							<br>
+							
+						VET: Yeah, well, uh - we've been seeing a lot of this lately. Been drinking from the toilet?<br>
+							<br>
+							
+						KRAMER: (Offended) What? No. That's disgusting..<br>
+							<br>
+							<br>
+							<br>
+							
+						[Setting: Coffee shop]<br>
+							<br>
+							
+						ALAN: So that's it? We're, uh, we're breakin' up?<br>
+							<br>
+							
+						ELAINE: (Confused by his sudden change-of-heart) What? Break-up? We went out on one date.<br>
+							<br>
+							
+						ALAN: (Fast) Ok, yeah, sure, fine, right. Whatever you say.<br>
+							<br>
+							
+						ELAINE: (Shows no sign that she cares) Alright, good. Good.<br>
+							<br>
+							
+						ALAN: Ok, then, well, So.. see ya around.. big head. (Gets up to leave)<br>
+							<br>
+							
+						ELAINE: Pardon?<br>
+							<br>
+							
+						ALAN: You got a big head. It's too big for your body. (Walks for the door)<br>
+							<br>
+							
+						ELAINE: (Laughing out loud) That's it?! (Laughs again) That's the best you got?! (Laughs loudly as Alan exits)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Setting: Jerry's apartment]<br>
+							<br>
+							
+						GEORGE: So, he's keeping the apartment. He doesn't deserve it, though! Even if he did suffer, that was, like, 40 years ago! What has he been doing lately?! I've been suffering for the past 30 years up to and including yesterday!<br>
+							<br>
+							
+						JERRY: You know, if this tenant board is so impressed with suffering, maybe you should tell them the &quot;Astonishing Tales of Costanza&quot;.<br>
+							<br>
+							
+						GEORGE: (Interested) I should!<br>
+							<br>
+							
+						JERRY: I mean, your body of work in this field is unparalleled.<br>
+							<br>
+							
+						GEORGE: I could go bumper to bumper with any one else on this planet!<br>
+							<br>
+							
+						JERRY: You're the man!<br>
+							<br>
+							
+						(There's an urgent knocking at the door. Jerry answer it. Newman's standing in the doorway)<br>
+							<br>
+							
+						NEWMAN: Jerry!<br>
+							<br>
+							
+						JERRY: I'm with people, I'll be with you in a moment. (Slams the door on Newman's face. Then tries to delay talking to Newman by keeping the conversation with George going) So, you want a protein shake, or something?<br>
+							<br>
+							
+						GEORGE: Nah, I guess I should really get moving on this, huh? I'm gonna go. (Opens the door, letting Newman in. Leaves)<br>
+							<br>
+							
+						JERRY: (Angered) Hello.. Newman.<br>
+							<br>
+							
+						NEWMAN: (Urgent) I need that mail, where is it?!<br>
+							<br>
+							
+						JERRY: What's the difference?<br>
+							<br>
+							
+						NEWMAN: The guy who had the Hawaii transfer got busted for hoarding Victoria Secret catalogues. I gotta deliver that mail!<br>
+							<br>
+							
+						JERRY: Well, go ahead. There's 8 bags of it.<br>
+							<br>
+							
+						NEWMAN: Blast! There's no way I can handle 8 in addition to my ususal load of one! I'll never get to Hawaii! (Moves over to Jerry's couch, depressed) I'll be stuck in this apartment building forever! (Lays down on Jerry's couch) The dream is dead.<br>
+							<br>
+							
+						JERRY: You're giving up that easy?<br>
+							<br>
+							
+						NEWMAN: I usually do. (Gets up to leave) See ya.<br>
+							<br>
+							
+						JERRY: (Stopping him) No, wait a minute, Newman! You can't let this dream die. You moving away is my dream too!<br>
+							<br>
+							
+						NEWMAN: (Intrigued) What are you proposing?<br>
+							<br>
+							
+						JERRY: (Fast) Whatever it takes, for as long as it takes me, where ever it takes me as long as it takes you away from me!<br>
+							<br>
+							
+						NEWMAN: An alliance?<br>
+							<br>
+							
+						JERRY: (Confirming) An alliance. (They both shake hands and laugh evily) Now get the hell outta here. (Newman leaves)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Setting: Jerry's apartment]<br>
+							<br>
+							
+						(Jerry's sorting mail out on his table)<br>
+							<br>
+							
+						ELAINE: Hawaii? That's why you're helping Newman with the mail?<br>
+							<br>
+							
+						JERRY: (Like an Army general) Elaine, Newman is my sworn enemy. And he lives down the hall from my home - my home, Elaine! Where I sleep, where I come to play with my toys.<br>
+							<br>
+							
+						ELAINE: Well, anyway, get this: I spoke to Alan. You know, I told him I didn't want to see him anymore.. He called me &quot;big head&quot;.<br>
+							<br>
+							
+						JERRY: &quot;Big head&quot; (Scoffs) That's almost a compliment.<br>
+							<br>
+							
+						ELAINE: (Agreeing) It's one of the nicest things anyone's ever said to me.<br>
+							<br>
+							
+						(The phone rings. Jerry answers it)<br>
+							<br>
+							
+						JERRY: Hello?<br>
+							<br>
+							
+						GEORGE: (On the other line) Hey.<br>
+							<br>
+							
+						JERRY: Hey, George.<br>
+							<br>
+							
+						GEORGE: Yeah, listen, I can't make it later.<br>
+							<br>
+							
+						JERRY: You can't make it?<br>
+							<br>
+							
+						GEORGE: Yeah, the tenant association has decided to hear my side of the story. So, uh, I gotta kinda get ready. I'll see ya.<br>
+							<br>
+							
+						JERRY: Alright. (Hangs up)<br>
+							<br>
+							
+						ELAINE: Is he not gonna go to the coffee shop?<br>
+							<br>
+							
+						JERRY: (Saddened) Doesn't look like it's gonna happen.<br>
+							<br>
+							
+						ELAINE: (Gives a &quot;That's a shame&quot; face) Alright, well, I'll see ya. (Opens the door to exit. Kramer enters coughing. Elaine does her best to dodge out of the way of Kramer's coughs, then walks off)<br>
+							<br>
+							
+						JERRY: Kramer, aren't you taking any medication for that?<br>
+							<br>
+							
+						KRAMER: Yeah, yeah. (Pulls a bottle out of his pocket) I got some pilss. They taste terrible.<br>
+							<br>
+							
+						JERRY: (Takes the bottle from him) Just swallow 'em.<br>
+							<br>
+							
+						KRAMER: (Gestures to his throat) No, my throat's too tender.<br>
+							<br>
+							
+						JERRY: Alright, sit down, sit down. (Grabs a pill from the bottle, and starts advancing tward Kramer - like an owner with his dog)<br>
+							<br>
+							
+						KRAMER: I don't want to!<br>
+							<br>
+							
+						(Jerry forces Kramer onto the couch. Kramer resists violently - much like a dog would)<br>
+							<br>
+							
+						JERRY: C'mon. Just sit down!<br>
+							<br>
+							
+						KRAMER: (Squirming) Jerry! What?!<br>
+							<br>
+							
+						JERRY: Sit down! Sit down!<br>
+							<br>
+							
+						KRAMER: (Struggling) Hey!<br>
+							<br>
+							
+						JERRY: Lean your head back. Open your mouth! (Grabs Kramer's head) Open your mouth! Open it! Open it!<br>
+							<br>
+							
+						(Jerry forces the pill into Kramer's mouth, then holds Kramer's mouth shut for a few moments. Thinking Kramer's already swallowed it, he lets go. Instantly, Kramer spits the pill out into the air. Jerry sighs, giving up)<br>
+							<br>
+							
+						JERRY: (Reads the pill bottle) What kind of pills are these, anyways?! &quot;For Smuckers&quot;? &quot;May cause panting and loss of fur&quot;? (Turns to Kramer) These are dog pills!<br>
+							<br>
+							
+						KRAMER: Whe have the same symptoms.<br>
+							<br>
+							
+						JERRY: But, he's a dog! You need to see a real doctor.<br>
+							<br>
+							
+						KRAMER: No, no. No doctors.<br>
+							<br>
+							
+						JERRY: Alright.. (Heads for the door, grabbing his coat)<br>
+							<br>
+							
+						KRAMER: Where are you going?<br>
+							<br>
+							
+						JERRY: I'm taking the car. I gotta run some errands. You want to go?<br>
+							<br>
+							
+						KRAMER: I don't know..<br>
+							<br>
+							
+						JERRY: (Opens the door) C'mon, you wanna go for a ride? (Starts jiggling his keys - as if he's calling out for a dog) Huh? C'mon! C'mon!<br>
+							<br>
+							
+						(Kramer eagerly gets up and runs out the door. Jerry follows Kramer out)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Setting: Taxi cab]<br>
+							<br>
+							
+						(Elaine's riding in the back seat of a taxi)<br>
+							<br>
+							
+						DRIVER: Lady, could you move your head a little bit?<br>
+							<br>
+							
+						ELAINE: What?<br>
+							<br>
+							
+						DRIVER: Your head. I can't see out the back. (Elaine slumps down in her seat) Little more.. (Elaine slumps lower) ..Little more. (Slides down until just her eyes and forehead can be seen) Thank you.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Setting: Jerry's car]<br>
+							<br>
+							
+						(Jerry is driving to an unknown destination. Kramer is restless in the back. He's scrambling around, looking out the windows - just as a dog would)<br>
+							<br>
+							
+						KRAMER: I don't see any tissues back her.. (Looks out the windows) Wait a minute!.. (Jerry looks like he's trying to keep something from Kramer) This isn't the way to the park! (Starts getting even more energetic) Where are we going?.. I recognize this block! (Looks at Jerry, scared) You're taking me to the doctor!<br>
+							<br>
+							<br>
+							<br>
+							
+						[Setting: Coffee shop]<br>
+							<br>
+							
+						(George is at the coffee shop with his parents)<br>
+							<br>
+							
+						GEORGE: So, uh, Mom, Dad, I was hoping that you could help me to remember my childhood a little clearly..<br>
+							<br>
+							
+						ESTELLE: I feel a draft. (Grabs the bread basket and her drink) Let's change tables.<br>
+							<br>
+							
+						FRANK: Get outta here! We have a booth.<br>
+							<br>
+							
+						ESTELLE: Frank, I'm cold!<br>
+							<br>
+							
+						FRANK: Order a hot dish.<br>
+							<br>
+							
+						ESTELLE: Why can't we sit over there? (Points to a table)<br>
+							<br>
+							
+						FRANK: (Yelling) That's not a booth!<br>
+							<br>
+							
+						ESTELLE: (Trying to match Frank's loudness) So, who says we have to sit in a booth?!<br>
+							<br>
+							
+						FRANK: (Loud shouting) I didn't take the subway all the way to New York to sit at a table like that! (Gestures to the table)<br>
+							<br>
+							
+						ESTELLE: (Nagging yell) Well, I didn't take the subway to be in a drafty restaurant!<br>
+							<br>
+							
+						(A moment passes)<br>
+							<br>
+							
+						GEORGE: (Pleading for them to stop) Mom.. dad.<br>
+							<br>
+							
+						FRANK: Now, George, what do you want to know about your childhood?<br>
+							<br>
+							
+						GEORGE: (Fed up with his parents) Actually, I think I'm pretty clear on it.<br>
+							<br>
+							
+						FRANK: (Looks up) Where's that breeze coming from?<br>
+							<br>
+							<br>
+							<br>
+							
+						[Setting: NYC Street]<br>
+							<br>
+							
+						(Jerry's car is parked outside of the doctor's office. Kramer refuses to get out of the car)<br>
+							<br>
+							
+						JERRY: Kramer, outta the car. Out, now!<br>
+							<br>
+							
+						KRAMER: No, Jerry!<br>
+							<br>
+							
+						JERRY: Alright, that's it.. (Grabs Kramer, trying to pull him out of the car)<br>
+							<br>
+							
+						KRAMER: No! Don't!<br>
+							<br>
+							
+						(Jerry pulls Kramer out onto the sidewalk. Kramer quickly gets up and takes off - running down the street)<br>
+							<br>
+							
+						JERRY: Hey, hey! Get back over here! Kramer! Get over here! You are bad! Bad neighbor! Kramer!<br>
+							<br>
+							<br>
+							<br>
+							
+						[Setting: Tenant board room]<br>
+							<br>
+							
+						(Mr. Eldridge is telling his story to the board members. Each one looked touched by the tale. George, on the other hand, is bored to death. He's leaning back in his chair in the corner of the room, knocking on the wall - to display how bored he is)<br>
+							<br>
+							
+						ELDRIDGE: Just then, a rescue ship emerged from the fog and saved us. It was.. (Stops, then gives George a look. George stops knocking on the walls) It was the sweetest sight my eyes ever saw.<br>
+							<br>
+							
+						RICARDI: (Touched) Thank you Mr. Eldridge. The tenant board will now hear Mr. Costanza's testimony.<br>
+							<br>
+							
+						(George gets up, walks over to Mr. Eldridge, then gestures for him to give up his chair. Eldridge reluctantly gets up and takes George's seat in the corner)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Setting: Newman's apartment]<br>
+							<br>
+							
+						(Jerry enters. Newman has an ice pac on his ankle)<br>
+							<br>
+							
+						JERRY: Newman, how'd it go? Did you get it all delivered? (Sees the pac) What happened?<br>
+							<br>
+							
+						NEWMAN: Kramer bit me!<br>
+							<br>
+							
+						JERRY: Bit you?!<br>
+							<br>
+							
+						NEWMAN: We had an arguement about me going to Hawaii, and he locked onto my ankle like it was a soup bone. I'm hubbled! I don't think I can do my route - and they're awarding the transfer in two days!<br>
+							<br>
+							
+						JERRY: (Bravely) Well, what if I deliver it?<br>
+							<br>
+							
+						NEWMAN: You?! (Laughs hysterically) You can't deliver mail!<br>
+							<br>
+							
+						JERRY: Well, why not?<br>
+							<br>
+							
+						NEWMAN: (Thinks for a moment) I guess you're right. It's just walking around putting it into boxes..<br>
+							<br>
+							
+						JERRY: What am I gonna wear?<br>
+							<br>
+							
+						NEWMAN: I could give you my uniform from my rookie year.<br>
+							<br>
+							
+						JERRY: (Excited) I can't believe I'm gonna be a mailman!<br>
+							<br>
+							
+						(Scene cuts to Jerry on Newman's route. He's walking along a city street with a mail cart. He stops infront of a store owner brooming the sidewalk)<br>
+							<br>
+							
+						JERRY: (Hands him some mail) There you go. Merry Chirstmas!<br>
+							<br>
+							
+						OWNER: Mail on Sunday?<br>
+							<br>
+							
+						JERRY: (Shrugs) Oops. (Continues walking along the route, whistling. Hands a newspaper to a homeless bum on the street, then keeps walking)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Setting: Tenant board room]<br>
+							<br>
+							
+						(George is telling the board his astonishing life stories. Every board member seems to be deeply moved by them)<br>
+							<br>
+							
+						GEORGE: I was handcuffed to the bed.. In my underwear, (Sighs) where I remained.. (Scene cuts to another story) She was attractive.. She was, also, infact, a Nazi.. (Cuts to another story) The water.. that I had been swiming in was.. very cold. And, when I dropped the towel, there was.. significant shrinkage.. (Scene cuts to, yet, another story) Her parents were looking at me.. So, there I was, with a marble rye hanging from the end of a fishing pole.. (Scene cuts to his closing statements) In closing, these stories have not been embellished, because - they need no embellishment. They are simply, horrifyingly, the story of my life as a short, stocky, slow witted bald man. (Gets up) Thank you. (Every memeber of the board shows some sign that George's story is most deserving of the apartment. Ricardi is crying. George turns to leave, then remembers one more thing..) Oh, also.. my fiance died from licking toxic envelopes that I picked out. (Sobs and loud crying erupts from the board members) Thanks again. (Leaves. Eldridge looks defeated)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Setting: Newman's apartment]<br>
+							<br>
+							
+						(Jerry returns to get another bag of mail)<br>
+							<br>
+							
+						JERRY: Hey, I've been trying to jam stuff in the box, like you told me, but sometimes it says, like, &quot;Photographs - Do not bend&quot;.<br>
+							<br>
+							
+						NEWMAN: &quot;Do not bend&quot;. (Laughs evilly) Just crease, crumple, cram.. you'll do fine. (Phone rings. Newman answers it) Hello?.. This is he. I don't understand.. very well. (Hangs up in disappointment)<br>
+							<br>
+							
+						JERRY: What?<br>
+							<br>
+							
+						NEWMAN: That was the Vice President of the post office. I didn't get the transfer.. They knew it wasn't me doing my route!<br>
+							<br>
+							
+						JERRY: How did they know?!<br>
+							<br>
+							
+						NEWMAN: (Stands up) Too many people go their mail! Close to 80%. No body from the post office has ever cracked the 50% barrier! It's like the 3-minute mile!<br>
+							<br>
+							
+						JERRY: (Pleading) I tried my best!<br>
+							<br>
+							
+						NEWMAN: Exactly. You're a disgrace to the uniform. (Newman takes off Jerry's mailman hat. Jerry turns his head in shame. Newman then tears the post office badge from Jerry's coat)<br>
+							<br>
+							
+						JERRY: You know, this is your coat.<br>
+							<br>
+							
+						NEWMAN: (Realizing) Damn!<br>
+							<br>
+							<br>
+							<br>
+							
+						[Setting: Central park]<br>
+							<br>
+							
+						(Elaine passes a man on a bench. All the sudden, a bird flies right into Elaine's head, and falls to the ground. The bird regains it's balance, and flies off. The man on the bench is staring in awe)<br>
+							<br>
+							
+						MAN 2: He flew right into your head. Like he couldn't avoid it.<br>
+							<br>
+							
+						ELAINE: (Rubbing her head to relieve the pain) Really?<br>
+							<br>
+							
+						MAN 2: Never seen that before. Bird into a woman's head..<br>
+							<br>
+							
+						(Elaine covers her head with her hands, and runs off)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Setting: Coffee shop]<br>
+							<br>
+							
+						GEORGE: It's not contest. The guy had nothing! The ship went down, he got into a life boat, I mean, come on.<br>
+							<br>
+							
+						JERRY: Boy, he didn't know what he was up against. (George laughs) So, when do you move into the apartment?<br>
+							<br>
+							
+						GEORGE: They're making their decision today.<br>
+							<br>
+							
+						(Elaine enters. She has a scarf over her head - trying to tie her hair down. She looks angered at something)<br>
+							<br>
+							
+						JERRY: What's the matter with you?<br>
+							<br>
+							
+						ELAINE: Nothing.. Except that a bird ran into my giant freak-head. (Sits down)<br>
+							<br>
+							
+						JERRY: What giant freak-head?<br>
+							<br>
+							
+						ELAINE: (Annoyed, near tears) The one that sits atop my disproportunately puny body.. I'm a walking candy apple!<br>
+							<br>
+							
+						JERRY: So, it's actually gotten to you? You're playing right into his hands!<br>
+							<br>
+							
+						ELAINE: (Realizing) What? Yeah.. you're right!.. All I have to do is call him up, and sit with him, and show him that it doesn't bother me. You know, laugh it off.. or jam a fork into his forehead.<br>
+							<br>
+							
+						JERRY: (Casually, sarcastic) Either way.<br>
+							<br>
+							
+						ELAINE: (Getting up to leave) Alright.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Setting: Restaurant]<br>
+							<br>
+							
+						ALAN: I want to apologize for..<br>
+							<br>
+							
+						ELAINE: (Shrugging it off) Oh, please.<br>
+							<br>
+							
+						ALAN: So you have a big head.<br>
+							<br>
+							
+						ELAINE: (Casually playing along) So what?<br>
+							<br>
+							
+						ALAN: It goes well with that bump in your nose.<br>
+							<br>
+							
+						ELAINE: (Suddenly angry) What?!<br>
+							<br>
+							
+						(Scene cuts to the outside of the restaurant. A woman runs out of the restaurant and stops a passing Kramer)<br>
+							<br>
+							
+						WOMAN: Please! Get help! There's a crazy big-headed woman beating up some guy! Tell the police &quot;The Old Mill Restaurant&quot;. Hurry!<br>
+							<br>
+							
+						(Kramer takes off running down the street, looking for a cop. He meets up with two officers exiting an ice cream shop. Before he can tell them the urgent message, he starts coughing uncontrollably)<br>
+							<br>
+							
+						COP: Boy, that's some cough you got there.<br>
+							<br>
+							
+						(Kramer keeps coughing while making gestures)<br>
+							<br>
+							
+						COP 2: No, I think he's trying to tell us something. What is it? (Between coughs, Kramer manages to say the word &quot;trouble&quot;) Trouble?! Trouble? Where? Where's trouble? (Kramer coughs out the words &quot;Old Mill&quot;) Trouble at the Old Mill?! Oh my god! Good boy, good boy! Lead the way! Come on.<br>
+							<br>
+							
+						(Kramer starts running back to the restaurant, the cops following him)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Setting: George's apartment building]<br>
+							<br>
+							
+						(George enters the hallway only to find that a bandaged-up Alan is moving boxes into George's would-be-apartment)<br>
+							<br>
+							
+						GEORGE: Excuse me, uh, what are you doing in there?<br>
+							<br>
+							
+						ALAN: I'm moving in. Alan Mercer. New neighbor. (They shake hands)<br>
+							<br>
+							
+						GEORGE: What? Elaine's big-head guy? They have you the apartment?!<br>
+							<br>
+							
+						ALAN: Yeah.<br>
+							<br>
+							
+						GEORGE: Why?! Because you were stabbed, and.. got coffee thrown in your face, and.. uh.. (Points to Alan's bandaged forehead)<br>
+							<br>
+							
+						ALAN: Oh, fork in the forehead.<br>
+							<br>
+							
+						GEORGE: That's why they gave you the apartment?<br>
+							<br>
+							
+						ALAN: No, I just gave the super 50 bucks.<br>
+							<br>
+							
+						GEORGE: Wait a minute, that is my apartment. I earned it with 34 years of misery!<br>
+							<br>
+							
+						ALAN: Tough luck, chinless. (Goes into his new apartment, and slams the door on George)<br>
+							<br>
+							
+						(George starts acting self-conscious about his chin - much like Elaine and her head)<br>
+							<br>
+							<br>
+							
+						The End</td>
+						</tr>
+						<tr height="6">
+							<td class="bottom2" width="645" height="6"></td>
+						</tr>
+						<tr>
+							<td width="645">
+								<div align="center">
+									<font size="-1">Copyright 2006 seinology.com | All Rights Reserved | Designed by 13erla</font></div>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+		<p></p>
+	</body>
+
+</html>

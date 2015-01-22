@@ -1,0 +1,1222 @@
+<tdOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+<html>
+
+	<head>
+		<meta http-equiv="content-type" content="text/html;charset=ISO-8859-1">
+		<meta name="description" content="Top Source for Seinfeld">
+		<meta name="keywords" content="seinfeld, sienfeld, Jerry Seinfeld, Julia Louis Dreyfus, Jason Alexander, Michael Richards, Kramer, George, Costanza, Elaine Benes, morty, Larry David">
+		<title>Seinology.com :: Scripts :: 152-The Nap</title>
+	<link rel='stylesheet' href='/stylesheet.css' type='text/css'>
+	</head>
+
+	<body>
+			<table align="center" width="787" border="0" cellspacing="0" cellpadding="0">
+				<tr>
+					<td><font size="-2" color="red">Seinology.com - </font><font size="-3" color="black">Where Seinfeld Content and Accuracy Matter Most. Seinfeld scripts in pdf form, Seinfeld episode video clips, Seinfeld episode audio clips, Jerry Seinfeld appearances, Julia Louis-Dreyfus appearances, Michael Richards appearances, Jason Alexander appearances, Seinfeld discussion Forum, Seinfeld Where are they Now? Seinlanguage Newsletter, Popular Seinfeld Lists, Seinfeld episode standup, Seinfeld episode guide, Seinfeld fan fiction. Seinfeld content all on one domain. Seinology.com enjoy your stay.</font></td>
+				</tr>
+			</table>
+		
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr height="100">
+				<td class="logo"></td>
+			</tr>
+			<tr><td class="ads" align="center" background=#8694fa>
+				<script type="text/javascript"><!--
+google_ad_client = "pub-1924026976931416";
+google_ad_width = 728;
+google_ad_height = 90;
+google_ad_format = "728x90_as";
+google_ad_type = "text";
+google_ad_channel = "";
+google_color_border = "FFFFFF";
+google_color_bg = "8694fa";
+google_color_link = "0000FF";
+google_color_text = "000000";
+google_color_url = "002E3F";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></td></tr>
+		</table>
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr>
+				<td valign="top" width="136">
+					<table width="136" border="0" cellspacing="0" cellpadding="0">
+						<tr height="24">
+							<td class="navigation">
+								<div align="center">
+									
+									<b>Navigation</b></div>
+							</td>
+						</tr>
+						<tr height="199">
+							<td class="spacer1" valign="top" width="136" height="199">
+								<div align="center">
+									<font size="-1"><a href="http://www.seinology.com">Home</a><br>
+										<a href="http://board.seinology.com">Forum</a><br>
+										<a href="http://www.seinology.com/av.shtml">Audio/Video</a><br>
+										<a href="http://www.seinology.com/scripts.shtml">Scripts</a><br>
+										<a href="http://www.seinology.com/survivor.shtml">Survivor</a><br>
+										<a href="http://www.seinology.com/fanfics.shtml">Fan Fiction</a><br>
+										<a href="http://www.seinology.com/gallery/">Gallery</a><br>
+										<a href="http://www.seinology.com/newsletter.shtml">Newsletter</a><br>
+										<a href="http://www.seinology.com/lists.shtml">Lists</a><br>
+										<a href="http://www.seinology.com/epguide.shtml">Episode Guide</a><br>
+										<a href="http://www.seinology.com/links.shtml">Links</a><br>
+										<a href="http://www.seinology.com/faqother.shtml">Faq + others</a><br>
+										<a href="http://www.seinology.com/legal.shtml">Legal</a></font></div>
+							</td>
+						</tr>
+						
+						<tr>
+							<td class="nav2" width="136">
+							<div align="center"><b>Search</b></div></td>
+						</tr>
+						<tr>
+							<td class="spacer1" width="136" valign="top"><div align="center"><form method="get" action="http://www.seinology.com/search/search.cgi">
+<p><label for="fdse_Match">Match</label><br>
+<select name="Match" id="fdse_Match" size="1">
+<option value="1">All</option>
+<option value="0">Any</option>
+<option value="2">Phrase</option>
+</select></p>
+<p><label for="fdse_Realm">Where?</label><br>
+<select name="Realm" id="fdse_Realm" size="1">
+<option selected="selected" value="All">EntireSite</option>
+<option value="Ep Guide">Ep Guide</option>
+<option value="Images">Images</option>
+<option value="Lists">Lists</option>
+<option value="Newsletters">Newsletters</option>
+<option value="Scripts">Scripts</option>
+<option value="Notes..Nothing">Notes..Nothing</option>
+</select></p>
+<p><input type="text" name="Terms" size="14" id="fdse_Terms"><br>
+<input type="submit" class="submit" name="submitButtonName" value="Search"></p>
+</div></form></td>
+						</tr>
+						<tr><td class="bottom" width="136" height="10" valign="top">
+						</td>
+						</tr>
+					</table>
+				</td>
+				<td width="4"></td>
+				<td valign="top" width="645">
+					<table width="645" border="0" cellspacing="0" cellpadding="0">
+						<tr height="18">
+							<td width="645" height="35" class="bar">
+								<div align="center">
+									<b><font size="+2" color="black">Script</font></b></div>
+							</td>
+						</tr>
+						<tr height="362">
+							<td class="spacer2" valign="top" width="645" height="362">
+
+						<p><font size="-2">Episode 152 - The Nap<br>
+							
+						pc: 818 season 8, episode 18<br>
+							
+						Broadcast date: April 10, 1997<br>
+							<br>
+							
+						Written by Gregg Kavet &amp; Andy Robin<br>
+							
+						Directed by Andy Ackerman<br>
+							<br>
+							
+						-------------------------------------------------------------------------------<br>
+							<br>
+							
+						The Cast<br>
+							
+						Regulars:<br>
+							
+						Jerry Seinfeld ......................&nbsp; Jerry Seinfeld<br>
+							
+						Jason Alexander .................. George Costanza<br>
+							
+						Julia Louis-Dreyfus .............. Elaine Benes<br>
+							
+						Michael Richards .................. Cosmo Kramer<br>
+							<br>
+							
+						Guest Stars:<br>
+							<br>
+							
+						Stephen Lee ........................ Conrad<br>
+							
+						Vince Grant ......................... Hal<br>
+							
+						Angelo Tiffe ........................ Delivery Man<br>
+							
+						Jonell Kennedy ................... Secretary<br>
+							
+						Mik Scriba ........................... Bomb Squad Guy<br>
+							
+						Terry Rhoads ..................... Father<br>
+							
+						Sid Newman ....................... Old Man<br>
+							
+						Kevin Keckeisen ................. Brian<br>
+							
+						Kyle Sullivan ...................... Son<br>
+							
+						rc: Richard Herd ............... Wilhelm<br>
+							<br>
+							
+						==================================================================<br>
+							<br>
+							
+						[Monks]<br>
+							<br>
+							
+						GEORGE: Oh, boy I was up to four in the morning watching the Omen trilogy.<br>
+							<br>
+							
+						JERRY: That's good stuff.<br>
+							<br>
+							
+						GEORGE: I can't to myself. I'm exhausted.<br>
+							<br>
+							
+						JERRY: Can you grab a nap at work.<br>
+							<br>
+							
+						GEORGE: Not with that big glass window looking out into the hall. I'd love a good nap. That's the only thing getting me out of bed in the morning. I'll see ya'.<br>
+							<br>
+							
+						ELAINE: Bye.<br>
+							<br>
+							
+						JERRY: So what are you doing now?<br>
+							<br>
+							
+						ELAINE: I'm going to take a little stroll through the park.<br>
+							<br>
+							
+						JERRY: With a gentleman caller?<br>
+							<br>
+							
+						ELAINE: Yes, his name is Hal.<br>
+							<br>
+							
+						JERRY: The walking date is a good date. You don't have to look right at the other -person.<br>
+							<br>
+							
+						ELAINE: It's the next best thing to being alone.<br>
+							<br>
+							
+						(Kramer enters - wet head)<br>
+							<br>
+							
+						JERRY: Shower?<br>
+							<br>
+							
+						KRAMER: No, pool. I just swam 200 laps.<br>
+							<br>
+							
+						ELAINE: You are kidding.<br>
+							<br>
+							
+						KRAMER: Look at hose babies [hands]. They're prunes. I saw Conrad going up to oyur place.<br>
+							<br>
+							
+						ELAINE: Oh, yeah, that's right. Those new kitchen cabinets. How is that coming?<br>
+							<br>
+							
+						JERRY: A little slow. I've got to hold this guy's hand on every little decision.<br>
+							<br>
+							
+						ELAINE: Hey, Kramer, listen, you've seen the Omen right?<br>
+							<br>
+							
+						ELAINE: What exactly was that kid?<br>
+							<br>
+							
+						KRAMER: Who, Damien? Nothing, just a mischievous, rambunctious kid.<br>
+							<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						[Yankee Stadium]<br>
+							<br>
+							
+						WILHELM: Oh, George, have you seen the American league directory? It is a big green book. Oh, thanks kiddo.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Central park]<br>
+							<br>
+							
+						HAL:<br>
+							<br>
+							
+						ELAINE: Well I don't care. It was delicious.<br>
+							<br>
+							
+						ELAINE: Wanna sit down?<br>
+							<br>
+							
+						HAL: Oh, I don't sit on park benches. They're very bad for the back.<br>
+							<br>
+							
+						ELAINE: Really?<br>
+							<br>
+							
+						HAL: I threw my back out about 15 years ago. Ever since I have been very careful. I only buy furniture in the ergonomics store.<br>
+							<br>
+							
+						ELAINE: Oh those places have the stupidest names. Like, uh, &quot;Back in &quot;, or &quot;Good Vertibrations&quot;.<br>
+							<br>
+							
+						HAL: Not this one. It's called the &quot;Lumbar Yard&quot;.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Jerry's Apartment]<br>
+							<br>
+							
+						CONRAD: Oh, Jerry are you okay with this hinge?<br>
+							<br>
+							
+						JERRY: Yeah.<br>
+							<br>
+							
+						CONRAD: I can get you any kind you want, you know. Four holes, three holes, two holes, bronze, no hinge at all.<br>
+							<br>
+							
+						JERRY: You know, why don't we just go with the one in your hand?<br>
+							<br>
+							
+						CONRAD: Oh, these are different.<br>
+							<br>
+							
+						JERRY: Drop one. . . . left!<br>
+							<br>
+							
+						(George enters)<br>
+							<br>
+							
+						GEORGE: Jerry, look at my eyes.<br>
+							<br>
+							
+						JERRY: A little less beady today.<br>
+							<br>
+							
+						GEORGE: Because I'm REFRESHED. I finally found a way to sleep in my office. Under the desk. I lie on my back. I tuck in the chair. I'm invisible.<br>
+							<br>
+							
+						JERRY: Sounds like a really cool fort.<br>
+							<br>
+							
+						CONRAD: Jerry, do you want a flat edge on this molding or do you want me to bevel it?<br>
+							<br>
+							
+						JERRY: I'll tell you what I would like you to do with it.<br>
+							<br>
+							
+						GEORGE: Conrad, is it?<br>
+							<br>
+							
+						CONRAD: Conrad, Connie, or Con, whatever you prefer.<br>
+							<br>
+							
+						GEORGE: Uh, let me ask you a question. Could you, uh, expand the space underneath a desk to give it a little more headroom?<br>
+							<br>
+							
+						JERRY: He's kind of tied up here.<br>
+							<br>
+							
+						GEORGE: It'll have to be a night job anyway. You don't normally work after dinner, do you?<br>
+							<br>
+							
+						CONRAD: There is no normal, whatever jerry wants. He wants me here late, I'm here late, he wants me here early, I'm here early, he . . .<br>
+							<br>
+							
+						JERRY: Why don't you just work on George's project for a while?<br>
+							<br>
+							
+						CONRAD: Whatever you want.<br>
+							<br>
+							
+						(Next day - on the telephone)<br>
+							<br>
+							
+						JERRY: So how was Wednesday's walk in the park with Hal.<br>
+							<br>
+							
+						ELAINE: Uh, it was okay,. He's coming over later to watch a movie. Hey listen, what's better for your back? Couch cushions or a folding chair?<br>
+							<br>
+							
+						JERRY: I don't know.<br>
+							<br>
+							
+						ELAINE: Uh, maybe we'll just stand and watch the tv. [knock knock]. I gotta go someone's at my door. Yeah!<br>
+							<br>
+							
+						DELIVERY GUY: Delivery. Elaine Benes?<br>
+							<br>
+							
+						ELAINE: Yeah.<br>
+							<br>
+							
+						DELIVERY GUY: We're from the Lumbar Yard, we got your mattress.<br>
+							<br>
+							
+						ELAINE: Mattress, I didn't order a mattress. Who sent this? Hal Kitzmiller?<br>
+							<br>
+							<br>
+							<br>
+							
+						[Yankee Stadium]<br>
+							<br>
+							
+						GEORGE: Do you think it might be possible to add a little shelf like, uh, for an alarm clock?<br>
+							<br>
+							
+						CONRAD: You mean like that big?<br>
+							<br>
+							
+						GEORGE: Like this.<br>
+							<br>
+							
+						CONRAD: Yeah, I can do that.<br>
+							<br>
+							
+						GEORGE: Thanks. You know this could sound crazy but, what do you think about adding a drawer for - like a blanket?<br>
+							<br>
+							
+						CONRAD: Blanket or quilt?<br>
+							<br>
+							
+						GEORGE: Blanket.<br>
+							<br>
+							
+						CONRAD: That thick?<br>
+							<br>
+							
+						GEORGE: Maybe like this.<br>
+							<br>
+							
+						CONRAD: Like that?<br>
+							<br>
+							
+						GEORGE: Yeah, like that.<br>
+							<br>
+							
+						CONRAD: If that is what you want.<br>
+							<br>
+							
+						GEORGE: That is what I want.<br>
+							<br>
+							
+						(Later)<br>
+							<br>
+							
+						CONRAD: Hey George, you want this cup holder mounted on the left, or the right, or the middle, . . .<br>
+							<br>
+							
+						GEORGE: Whatever!!. . . . Oh oh oh this is unbelievable. This is better than my bed at home.<br>
+							<br>
+							
+						GEORGE: Its been a long night. You go home and get some sleep.<br>
+							<br>
+							
+						CONRAD: If that's what you want.<br>
+							<br>
+							
+						GEORGE: That's what I want.<br>
+							<br>
+							
+						WILHELM: Morning George.<br>
+							<br>
+							
+						GEORGE: Good morning Mr. Wilhelm.<br>
+							<br>
+							
+						(George escapes under his desk)<br>
+							<br>
+							
+						KRAMER: got problems Jerry.<br>
+							<br>
+							
+						JERRY: What happened?<br>
+							<br>
+							
+						KRAMER: Well I had been swimming for three hours and I was in a real grove so I decided to keep going. But at ten they start the aquasonics Thirty-five geriatrics throwing elbows. It was like I was swimming through a flabby armed spanking machine.<br>
+							<br>
+							
+						JERRY: How long did that last?<br>
+							<br>
+							
+						KRAMER: A half hour then diving class started. Well&#133; that got a little messy. I gotta find a new place to swim 'cause that pooll can't hold me, Jerry.<br>
+							<br>
+							
+						(Elaine enters)<br>
+							<br>
+							
+						JERRY: How was the movie?<br>
+							<br>
+							
+						ELAINE: I cancelled. Hal sent a mattress to my apartment. The nerve of that guy.<br>
+							<br>
+							
+						JERRY: Why?<br>
+							<br>
+							
+						ELAINE: He's got a back problem.<br>
+							<br>
+							
+						JERRY: So you think he was expecting a roll in the supportive hay.<br>
+							<br>
+							
+						ELAINE: After one date!<br>
+							<br>
+							
+						KRAMER: What's that guy's last name again?<br>
+							<br>
+							
+						ELAINE: Kitzmiller.<br>
+							<br>
+							
+						KRAMER: Oh, that's right.<br>
+							<br>
+							
+						JERRY: So what are you going to do with the mattress?<br>
+							<br>
+							
+						ELAINE: I don't know. Chuck it?<br>
+							<br>
+							
+						KRAMER: Oh, no no no no I'll take it. Why don't you come over. Let's see if it will fit in my bedroom.<br>
+							<br>
+							
+						ELAINE: Oh, all right.<br>
+							<br>
+							
+						KRAMER: My old one sprung a leak.<br>
+							<br>
+							
+						ELAINE: You have a water bed?<br>
+							<br>
+							
+						KRAMER: Sand! It's like sleeping on the beach.<br>
+							<br>
+							
+						(Conrad enters)<br>
+							<br>
+							
+						CONRAD: Hi, Jerry I'm sorry I'm late. George and I have been up working all night long. I can make up the time in any number of ways.<br>
+							<br>
+							
+						JERRY: How about this? . . . Finish this thing up today!<br>
+							<br>
+							
+						CONRAD: Couple of questions for you.<br>
+							<br>
+							
+						JERRY: No. No more questions. Just figure it out for yourself and get it done.<br>
+							<br>
+							
+						CONRAD: All right Jerry. But I can figure it out myself any way you want.<br>
+							<br>
+							
+						JERRY: Just . . . do it.<br>
+							<br>
+							
+						(Jerry exits)<br>
+							<br>
+							<br>
+							<br>
+							
+						[George's office]<br>
+							<br>
+							
+						STEINBRENNER: Costanza? Where's Costanza? . . . Excus&eacute; mois? Have you seen Costanza?<br>
+							<br>
+							
+						SECRETARY: I've seen him around.<br>
+							<br>
+							
+						STEINBRENNER: Um, I'm stuck on this song yesterday. I can't seem to get it out of my head. I don't know the name of that. &quot;She's a heart breaker, love taker . . ..Oh. Oh&quot; . . .very catchy. You know what? I can't stay awake for that guy. What is this? People? Um, the most beautiful people people. Ally Selica, Nothing wrong with that uh?<br>
+							<br>
+							<br>
+							<br>
+							
+						[Monks]<br>
+							<br>
+							
+						HAL: Elaine, your taking this totally the wrong way. That's not what Ii intended.<br>
+							<br>
+							
+						ELAINE: Well, what did you intend, Hal?<br>
+							<br>
+							
+						HAL: I just wanted you to have the comfort and report you deserve. That's why I had the mattress custom designed for you.<br>
+							<br>
+							
+						ELAINE: Custom designed?<br>
+							<br>
+							
+						HAL: They adjust the foam density and spring tension to your body type. I estimated your height and weight. Five eight, about 110 pounds?<br>
+							<br>
+							
+						ELAINE: Uh, that is the nicest thing anyone has ever done for me.<br>
+							<br>
+							
+						HAL: So you do like the mattress?<br>
+							<br>
+							
+						ELAINE: Oh, I love it. I'm glad . . . I kept it.<br>
+							<br>
+							<br>
+							<br>
+							
+						[East River]<br>
+							<br>
+							
+						FATHER: Over there, that's Brooklyn . That's where Spike Lee lives.<br>
+							<br>
+							
+						SON: Hey, there's a man swimming in the water.<br>
+							<br>
+							
+						FATHER: Naw, that's probably just a dead body son. You see when the mob kills someone they through the body in the river.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Jerry's hall]<br>
+							<br>
+							
+						KRAMER: Jer.<br>
+							<br>
+							
+						JERRY: Hi.<br>
+							<br>
+							
+						KRAMER: Well my swimming pool problems are solved. I just found myself miles and miles of open lanes.<br>
+							<br>
+							
+						JERRY: What is that smell?<br>
+							<br>
+							
+						KRAMER: That's East River.<br>
+							<br>
+							
+						JERRY: You're swimming in the East River? The most heavily trafficked overly contaminated waterway on the eastern seaboard?<br>
+							<br>
+							
+						KRAMER: Technically Norfok has more gross tonnage.<br>
+							<br>
+							
+						JERRY: How could you swim in that water?<br>
+							<br>
+							
+						KRAMER: I saw a couple of other guys out there.<br>
+							<br>
+							
+						JERRY: Swimming?<br>
+							<br>
+							
+						KRAMER: Floating, they weren't moving much. But they were out there.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Jerry's apartment]<br>
+							<br>
+							
+						(Jerry looks around the new renovation.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Elaine's]<br>
+							<br>
+							
+						ELAINE: (on phone) Hey, Kramer, it's Elaine, thanks for bringing my mattress back. And I guess I'll just get my spare key from you - whenever. All right, bye.<br>
+							<br>
+							
+						ELAINE: Oh, this is a good mattress. Sniff, sniff, Ugh!<br>
+							<br>
+							<br>
+							<br>
+							
+						[George's Office]<br>
+							<br>
+							
+						STEINBRENNER: What is with this guy? I've been waiting three and a half hours. Should I go? No way Jack! ??? at the registrar again, I'll tell you that.<br>
+							<br>
+							
+						SeConrad: Mr. Steinbrenner?<br>
+							<br>
+							
+						STEINBRENNER: That's what they call me.<br>
+							<br>
+							
+						SeConrad: Your grandchildren are here to see you.<br>
+							<br>
+							
+						STEINBRENNER: Oh, well, send them in. Send the little tykes in. &#133; little people .. pony express &#133; wow,<br>
+							<br>
+							<br>
+							<br>
+							
+						[Jerry's]<br>
+							<br>
+							
+						JERRY: (on phone) hello.<br>
+							<br>
+							
+						GEORGE: Jerry, I'm trapped under my desk. Steinbrenner is in the room. You got to help[ me.<br>
+							<br>
+							
+						JERRY: Who is this?<br>
+							<br>
+							
+						GEORGE: Jerry, . . .<br>
+							<br>
+							
+						BRADY: Hi,<br>
+							<br>
+							
+						GEORGE: Sh, sh, goodbye, sh, get away.<br>
+							<br>
+							
+						BRADY: Hi, I'm Brady.<br>
+							<br>
+							
+						GEORGE: ?? get away??<br>
+							<br>
+							
+						JERRY: Why don't you just have him paged?<br>
+							<br>
+							
+						GEORGE: Can't you think of something. Call in a bomb threat.<br>
+							<br>
+							
+						JERRY: A bomb threat? Why would I call in a bomb threat?<br>
+							<br>
+							
+						GEORGE: Just CALL!<br>
+							<br>
+							
+						JERRY: I should have some reason.<br>
+							<br>
+							
+						STEINBRENNER: Hey you kids know tunes; see if this song rinSTEINBRENNER a bell, &quot;Heartbreaker , . . . &quot;<br>
+							<br>
+							
+						SeConrad: Mr. Steinbrenner we just received a call. There's a bomb in the building.<br>
+							<br>
+							
+						STEINBRENNER: A bomb in the building, oh, m'god. Quick, everyone under the desk.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Steinbrenner's office]<br>
+							<br>
+							
+						STEINBRENNER: Boy can you think of what went through my mind when I saw there wasn't going to be enough room under that desk for me and my babies.<br>
+							<br>
+							
+						GEORGE: I'm sorry sir.<br>
+							<br>
+							
+						STEINBRENNER: You know what I think? I think you knew about that bomb ahead of time.<br>
+							<br>
+							
+						GEORGE: What?<br>
+							<br>
+							
+						STEINBRENNER: ???? about that bomb. You climbed under that desk because you have ESP. George, what's on my mind? . . . Meatballs! Huh? Unbelievable. Anyway this terrorist had a specific demand. Not more cheap adjustable hats on hat day. He wants fitted hats just like the players wear.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Jerry's new renovated apartment]<br>
+							<br>
+							
+						ELAINE: Jerry, Jerry.<br>
+							<br>
+							
+						JERRY: Yeah.<br>
+							<br>
+							
+						ELAINE: What the hell is this? Where are you?<br>
+							<br>
+							
+						JERRY: Over here. You can see right through here.<br>
+							<br>
+							
+						ELAINE: What is this. It's like you're selling movie tickets back here.<br>
+							<br>
+							
+						JERRY: It's kind of cozy.<br>
+							<br>
+							
+						ELAINE: Hey, you're not going to believe what Kramer did to my mattress. . . . I can't talk to you like this. So Kramer completely funked up my mattress.<br>
+							<br>
+							
+						JERRY: Does it smell like the East River?<br>
+							<br>
+							
+						ELAINE: How did you know?<br>
+							<br>
+							
+						JERRY: Because Kramer has been swimming laps between the Queensborough bridge and the Brooklyn bridge.<br>
+							<br>
+							
+						ELAINE: Oh, GREAT!<br>
+							<br>
+							
+						(Kramer enters)<br>
+							<br>
+							
+						KRAMER: Oh man, I'm on the wrong floor again.<br>
+							<br>
+							
+						ELAINE: Hey, thanks for ruining my mattress. It reeks.<br>
+							<br>
+							
+						KRAMER: Hey, you know what I think it is? I think it's that East River. I think it might be polluted.<br>
+							<br>
+							
+						(George enters)<br>
+							<br>
+							
+						GEORGE: Well, you really did it to me this time, Seinfeld. . . . What the hell happened here?<br>
+							<br>
+							
+						ELAINE: Hi.<br>
+							<br>
+							
+						GEORGE: Hi. Look at how obtrusive this is.<br>
+							<br>
+							
+						ELAINE: It is obtrusive, isn't it?<br>
+							<br>
+							
+						KRAMER: It is very obtrusive.<br>
+							<br>
+							
+						JERRY: I don't think it's that bad.<br>
+							<br>
+							
+						KRAMER: You can't get a stool in here.<br>
+							<br>
+							
+						JERRY: No the stools go over there.<br>
+							<br>
+							
+						KRAMER: No, that's no good. I'm leaving.<br>
+							<br>
+							
+						ELAINE: I'm with you. I'm going back to my place.<br>
+							<br>
+							
+						GEORGE: Fitted Hat Day! That's what you asked Steinbrenner for?<br>
+							<br>
+							
+						JERRY: You mean they're actually doing the fitted hats? Cool.<br>
+							<br>
+							
+						GEORGE: Guess who he put in charge of Fitted Hat Day? Me.<br>
+							<br>
+							
+						JERRY: Hey look at you.<br>
+							<br>
+							
+						GEORGE: Yeah, look at me. Now I GOTTA FIGURE OUT THE HAT SIZES OF 59,000 DIFFERENT PEOPLE!! WHAT IF A PINHEAD SHOWS UP. I GOTTA BE ON TOP OF THAT.<br>
+							<br>
+							
+						JERRY: No knock offs. I want the ones like the real players wear.<br>
+							<br>
+							
+						GEORGE: ??? KNOCK OFFS. I NOT GOING TO DO IT! AND YOU'RE GOING TO CALL STEINBRENNER BACK AND CANCEL THE WHOLE THING.<br>
+							<br>
+							
+						JERRY: Could you at least get a hat for me?<br>
+							<br>
+							
+						GEORGE: FINE? WHAT SIZE?<br>
+							<br>
+							
+						JERRY: Seven and five eighths<br>
+							<br>
+							
+						GEORGE: SEVEN AND FIVE EIGHTHS!!<br>
+							<br>
+							
+						JERRY: Why are you shouting?<br>
+							<br>
+							
+						GEORGE: I DON'T KNOW. It's this place. I'm very uncomfortable here.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Elaine's]<br>
+							<br>
+							
+						HAL: So are you liking the mattress?<br>
+							<br>
+							
+						ELAINE: I am totally loving it. Uh, you know &#133; we should um &#133; get going.<br>
+							<br>
+							
+						HAL: What is that smell?<br>
+							<br>
+							
+						ELAINE: What smell?<br>
+							<br>
+							
+						HAL: I think it's the mattress. Did something happen to it.<br>
+							<br>
+							
+						ELAINE: No no, oh, you know what that is? I um, went claming the other day and I forgot to hose off my boots.<br>
+							<br>
+							
+						HAL: Claming?<br>
+							<br>
+							
+						ELAINE: Yeah, clam and scallop. I clam and scallop.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Steinbrenner's office]<br>
+							<br>
+							
+						STEINBRENNER: Yes, yes, come in.<br>
+							<br>
+							
+						GEORGE: Sir, I just got a call from the terrorist. I told him to call back here.<br>
+							<br>
+							
+						STEINBRENNER: Just let me ask you something. Is it &quot;February&quot; or &quot; February&quot;? Because I prefer &quot;Febuary&quot; and what is this &quot;ru&quot;?<br>
+							<br>
+							
+						(phone ring)<br>
+							<br>
+							
+						GEORGE: Let me put that on speaker phone.<br>
+							<br>
+							
+						STEINBRENNER: Hello are you the bomber?<br>
+							<br>
+							
+						JERRY: Yes this is the terrorist bomber.<br>
+							<br>
+							
+						STEINBRENNER: Costanza here is busting his ass on those hats.<br>
+							<br>
+							
+						JERRY: think I've changed my mind.<br>
+							<br>
+							
+						STEINBRENNER: You don't want them, then goodbye.<br>
+							<br>
+							
+						GEORGE: ??? sir.<br>
+							<br>
+							
+						STEINBRENNER: Well what do you want instead?<br>
+							<br>
+							
+						JERRY: What?<br>
+							<br>
+							
+						STEINBRENNER: Well, you're the terrorist. You're going to want something.<br>
+							<br>
+							
+						JERRY: I guess it would be nice if you called all the ticket holders if the game was going to be rained out.<br>
+							<br>
+							
+						STEINBRENNER: All right George, you can handle that.<br>
+							<br>
+							
+						(George hangs up phone)<br>
+							<br>
+							
+						STEINBRENNER: Costanza what the hell are you doing?<br>
+							<br>
+							
+						GEORGE: You have to stand tough sir. That's why I had to hang up the phone.<br>
+							<br>
+							
+						STEINBRENNER: You know what I'm going to do? I'm going to run around the stadium and close all the windows. That's where I'm going, pal. And I'll tell you something else. I'm very nervous.<br>
+							<br>
+							<br>
+							<br>
+							
+						[On the street]<br>
+							<br>
+							
+						ELAINE: Gotta get some of that stuffed crust pizza. cheese crust pizza.<br>
+							<br>
+							
+						HAL: It's just more cheese.<br>
+							<br>
+							
+						ELAINE: I'll tell you something. It'll be years before they find places to hide more cheese on a pizza. Kramer!<br>
+							<br>
+							
+						KRAMER: Oh, hey,<br>
+							<br>
+							
+						ELAINE: Oh, hi. This is Hal. Hal, this is Kramer. Kramer, Hal.<br>
+							<br>
+							
+						KRAMER: Hal, .. uh Langerhans.<br>
+							<br>
+							
+						HAL: Kitzmiller.<br>
+							<br>
+							
+						KRAMER: Oh, Kitzmiller. That's right<br>
+							<br>
+							
+						ELAINE: You feeling jiff?<br>
+							<br>
+							
+						KRAMER: Oh, I'm jiff.<br>
+							<br>
+							
+						HAL: That smell&#133;<br>
+							<br>
+							
+						KRAMER: Oh, listen I gotta get to the pier. The ferry traffic is really bad around four thirty. Look, I still got the key to your apartment and I'll get it back to you as soon as I can.<br>
+							<br>
+							
+						ELAINE: Oh, baby.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Under George's desk]<br>
+							<br>
+							
+						(alarm clock)<br>
+							<br>
+							
+						GEORGE: Finished.<br>
+							<br>
+							<br>
+							<br>
+							
+						[At the river]<br>
+							<br>
+							
+						HAL: Kramer? Can I talk to you a minute?<br>
+							<br>
+							
+						KRAMER: Yeah, sure, um, oh boy, . . .<br>
+							<br>
+							
+						HAL: Kitzmiller.<br>
+							<br>
+							
+						KRAMER: That's it.<br>
+							<br>
+							
+						HAL: You and Elaine are pretty close.<br>
+							<br>
+							
+						KRAMER: Oh, we go back a ways.<br>
+							<br>
+							
+						HAL: And you've, . . . how do I put this? You've been in her bed?<br>
+							<br>
+							
+						KRAMER: That's right.<br>
+							<br>
+							
+						HAL: But this isn't still going on.<br>
+							<br>
+							
+						KRAMER: No, no. She put a stop to that.<br>
+							<br>
+							
+						HAL: That's all I needed to know. So you actually swim in this thing?<br>
+							<br>
+							
+						KRAMER: Oh yeah. Exercises every muscle in the body. It's great for the back.<br>
+							<br>
+							
+						HAL: Great for the back. Right.<br>
+							<br>
+							
+						KRAMER: Four hours in this chop and I'm a full inch taller. . . . Giddyup.<br>
+							<br>
+							<br>
+							<br>
+							
+						[George's office]<br>
+							<br>
+							
+						STEINBRENNER: &quot;Heatbreaker, Brewbaker, &#133;&quot; Hey George, I remember that tune. George? George? Um, what's that ticking. Oh oh. Oh, oooh,&#133;wo wo wo wo . [runs out] fire in the hole!<br>
+							<br>
+							<br>
+							<br>
+							
+						[Elaine's]<br>
+							<br>
+							
+						ELAINE: I wouldn't believe the Lumbar Yard wouldn't pick this up. Ug, oh, okay, . . .<br>
+							<br>
+							<br>
+							<br>
+							
+						[Jerry's]<br>
+							<br>
+							
+						CONRAD: You want it back the way it was?<br>
+							<br>
+							
+						JERRY: Yeah, that's right.<br>
+							<br>
+							
+						CONRAD: You know I don't get you Seinfeld. You want something one day. The next day you don't like it. Come on man, make a decision.<br>
+							<br>
+							
+						(phone rings)<br>
+							<br>
+							
+						JERRY: One second. Hello.<br>
+							<br>
+							
+						ELAINE: Jerry you gotta help me. I threw my back out.<br>
+							<br>
+							
+						JERRY: Just lie down.<br>
+							<br>
+							
+						ELAINE: I am lying down. I am trapped under a funky mattress. I gotta go get a doctor or at least come over and roll this thing off of me.<br>
+							<br>
+							
+						JERRY: All right. I'll be right there., Conrad I gotta go.<br>
+							<br>
+							
+						CONRAD: Stay, go whatever.<br>
+							<br>
+							<br>
+							<br>
+							
+						[At the river, Hall and more people]<br>
+							<br>
+							
+						HAL: Hey, Kramer.<br>
+							<br>
+							
+						KRAMER: What's going on?<br>
+							<br>
+							
+						HAL: I told my Chiropractor how swimming in the river made my back heal. He recommended it to all his patients.<br>
+							<br>
+							
+						OLD MAN: Step aside.<br>
+							<br>
+							
+						KRAMER: He just sunk like a stone.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Steinbrenner's office]<br>
+							<br>
+							
+						GEORGE: Sir, I'm sure it's not a police matter.<br>
+							<br>
+							
+						STEINBRENNER: Don't be so sure George. Mess with them and they're messing with you. All right boys send it in<br>
+							<br>
+							
+						(bomb disposal robot enters George's office)<br>
+							<br>
+							
+						STEINBRENNER: What's that figure ahead? Is that anything? Okay, let's check the desk. That's where I heard the ticking. Search each one of those drawers starting with the top one. So, empty calories and male curiosity, eh, Georgie?<br>
+							<br>
+							
+						BOMB COP: Looks like there's more compartments underneath.<br>
+							<br>
+							
+						STEINBRENNER: Compartments underneath, that's probably where it is. Okay boys, let 'er rip. I'll tell you what George. Starting tomorrow no more desks. Just Lucite tables and four leSTEINBRENNER.<br>
+							<br>
+							<br>
+							<br>
+							
+						[East River]<br>
+							<br>
+							
+						KRAMER: Hey, watch where you're kicking!<br>
+							<br>
+							
+						ELAINE: Kramer.<br>
+							<br>
+							
+						KRAMER: Elaine<br>
+							<br>
+							
+						ELAINE: I can't believe it. Hey, I'll meet you at the coffee shop.<br>
+							<br>
+							
+						KRAMER: Yeah.<br>
+							<br>
+							
+						ELAINE: Yeah.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Jerry's]<br>
+							<br>
+							
+						GEORGE: Hi Connie, Jerry around?<br>
+							<br>
+							
+						CONRAD: No, and I prefer &quot;Conrad&quot;. So I heard what happened to the desk.<br>
+							<br>
+							
+						GEORGE: There was something so reassuring about that cozy little space.<br>
+							<br>
+							
+						CONRAD: Yeah, well, whatever. See ya'<br>
+							<br>
+							<br>
+							<br>
+							
+						[Later at Jerry's]<br>
+							<br>
+							
+						(Jerry enters)<br>
+							<br>
+							
+						JERRY: Ah, back to normal. Not bad for four thousand bucks. . . . I can't believe I got the Low Fat!<br>
+							<br>
+							<br>
+							
+						The End</td>
+						</tr>
+						<tr height="6">
+							<td class="bottom2" width="645" height="6"></td>
+						</tr>
+						<tr>
+							<td width="645">
+								<div align="center">
+									<font size="-1">Copyright 2006 seinology.com | All Rights Reserved | Designed by 13erla</font></div>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+		<p></p>
+	</body>
+
+</html>

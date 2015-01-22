@@ -1,0 +1,1342 @@
+<tdOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+<html>
+
+	<head>
+		<meta http-equiv="content-type" content="text/html;charset=ISO-8859-1">
+		<meta name="description" content="Top Source for Seinfeld">
+		<meta name="keywords" content="seinfeld, sienfeld, Jerry Seinfeld, Julia Louis Dreyfus, Jason Alexander, Michael Richards, Kramer, George, Costanza, Elaine Benes, morty, Larry David">
+		<title>Seinology.com :: Scripts :: 126-The Shower Head</title>
+	<link rel='stylesheet' href='/stylesheet.css' type='text/css'>
+	</head>
+
+	<body>
+			<table align="center" width="787" border="0" cellspacing="0" cellpadding="0">
+				<tr>
+					<td><font size="-2" color="red">Seinology.com - </font><font size="-3" color="black">Where Seinfeld Content and Accuracy Matter Most. Seinfeld scripts in pdf form, Seinfeld episode video clips, Seinfeld episode audio clips, Jerry Seinfeld appearances, Julia Louis-Dreyfus appearances, Michael Richards appearances, Jason Alexander appearances, Seinfeld discussion Forum, Seinfeld Where are they Now? Seinlanguage Newsletter, Popular Seinfeld Lists, Seinfeld episode standup, Seinfeld episode guide, Seinfeld fan fiction. Seinfeld content all on one domain. Seinology.com enjoy your stay.</font></td>
+				</tr>
+			</table>
+		
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr height="100">
+				<td class="logo"></td>
+			</tr>
+			<tr><td class="ads" align="center" background=#8694fa>
+				<script type="text/javascript"><!--
+google_ad_client = "pub-1924026976931416";
+google_ad_width = 728;
+google_ad_height = 90;
+google_ad_format = "728x90_as";
+google_ad_type = "text";
+google_ad_channel = "";
+google_color_border = "FFFFFF";
+google_color_bg = "8694fa";
+google_color_link = "0000FF";
+google_color_text = "000000";
+google_color_url = "002E3F";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></td></tr>
+		</table>
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr>
+				<td valign="top" width="136">
+					<table width="136" border="0" cellspacing="0" cellpadding="0">
+						<tr height="24">
+							<td class="navigation">
+								<div align="center">
+									
+									<b>Navigation</b></div>
+							</td>
+						</tr>
+						<tr height="199">
+							<td class="spacer1" valign="top" width="136" height="199">
+								<div align="center">
+									<font size="-1"><a href="http://www.seinology.com">Home</a><br>
+										<a href="http://board.seinology.com">Forum</a><br>
+										<a href="http://www.seinology.com/av.shtml">Audio/Video</a><br>
+										<a href="http://www.seinology.com/scripts.shtml">Scripts</a><br>
+										<a href="http://www.seinology.com/survivor.shtml">Survivor</a><br>
+										<a href="http://www.seinology.com/fanfics.shtml">Fan Fiction</a><br>
+										<a href="http://www.seinology.com/gallery/">Gallery</a><br>
+										<a href="http://www.seinology.com/newsletter.shtml">Newsletter</a><br>
+										<a href="http://www.seinology.com/lists.shtml">Lists</a><br>
+										<a href="http://www.seinology.com/epguide.shtml">Episode Guide</a><br>
+										<a href="http://www.seinology.com/links.shtml">Links</a><br>
+										<a href="http://www.seinology.com/faqother.shtml">Faq + others</a><br>
+										<a href="http://www.seinology.com/legal.shtml">Legal</a></font></div>
+							</td>
+						</tr>
+						
+						<tr>
+							<td class="nav2" width="136">
+							<div align="center"><b>Search</b></div></td>
+						</tr>
+						<tr>
+							<td class="spacer1" width="136" valign="top"><div align="center"><form method="get" action="http://www.seinology.com/search/search.cgi">
+<p><label for="fdse_Match">Match</label><br>
+<select name="Match" id="fdse_Match" size="1">
+<option value="1">All</option>
+<option value="0">Any</option>
+<option value="2">Phrase</option>
+</select></p>
+<p><label for="fdse_Realm">Where?</label><br>
+<select name="Realm" id="fdse_Realm" size="1">
+<option selected="selected" value="All">EntireSite</option>
+<option value="Ep Guide">Ep Guide</option>
+<option value="Images">Images</option>
+<option value="Lists">Lists</option>
+<option value="Newsletters">Newsletters</option>
+<option value="Scripts">Scripts</option>
+<option value="Notes..Nothing">Notes..Nothing</option>
+</select></p>
+<p><input type="text" name="Terms" size="14" id="fdse_Terms"><br>
+<input type="submit" class="submit" name="submitButtonName" value="Search"></p>
+</div></form></td>
+						</tr>
+						<tr><td class="bottom" width="136" height="10" valign="top">
+						</td>
+						</tr>
+					</table>
+				</td>
+				<td width="4"></td>
+				<td valign="top" width="645">
+					<table width="645" border="0" cellspacing="0" cellpadding="0">
+						<tr height="18">
+							<td width="645" height="35" class="bar">
+								<div align="center">
+									<b><font size="+2" color="black">Script</font></b></div>
+							</td>
+						</tr>
+						<tr height="362">
+							<td class="spacer2" valign="top" width="645" height="362">
+
+						<p><font size="-2">Episode 126 - The Shower Head<br>
+							
+						pc: 715, season 7, episode 16<br>
+							
+						Broadcast date: February 15, 1996<br>
+							<br>
+							
+						Written by Peter Mehlman &amp; Marjorie Gross<br>
+							
+						Directed by Andy Ackerman<br>
+							<br>
+							
+						-------------------------------------------------------------------------------<br>
+							<br>
+							
+						The Cast<br>
+							
+						Regulars:<br>
+							
+						Jerry Seinfeld .......................&nbsp; Jerry Seinfeld<br>
+							
+						Jason Alexander ..................&nbsp; George Costanza<br>
+							
+						Julia Louis-Dreyfus .............&nbsp; Elaine Benes<br>
+							
+						Michael Richards .................&nbsp; Cosmo Kramer<br>
+							<br>
+							
+						Guest Stars:<br>
+							
+						&nbsp;<br>
+							
+						Jay Leno ................................ Himself<br>
+							
+						Ron West .............................. Dr. Strugatz<br>
+							
+						Tim deZarn ........................... Salesman<br>
+							
+						Michelle Bonilla ...................... Waitress<br>
+							
+						Angelo Di Mascio Jr. ............. Man<br>
+							
+						rc: Wayne Knight .................. Newman<br>
+							
+						rc: Estelle Harris .................... Estelle Costanza<br>
+							
+						rc: Jerry Stiller ....................... Frank Costanza<br>
+							
+						rc: Liz Sheridan ..................... Helen Seinfeld<br>
+							
+						rc: Barney Martin .................. Morty Seinfeld<br>
+							
+						rc: Len Lesser ........................ Uncle Leo<br>
+							
+						rc: John O'Hurley ................... J. Peterman<br>
+							<br>
+							
+						==================================================================<br>
+							<br>
+							
+						[Elaine in a doctor's office.]<br>
+							<br>
+							
+						ELAINE: Mr. Peterman sent me over here for a physical because as you may or may not know, he and I are going on a trip to Kenya. Africa. My first such mission for the company. The Massai bushmen wear these great sandals and we're gonna knock them off. Not the Massai, the sandals.<br>
+							<br>
+							
+						DOCTOR: I'll need a urine sample.<br>
+							<br>
+							
+						ELAINE: Right.<br>
+							<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						[George, Jerry and Elaine in Jerry's apartment.]<br>
+							<br>
+							
+						GEORGE: You know how hot it gets there? Like 150 degrees. Your skin is gonna be simmering with boils.<br>
+							<br>
+							
+						ELAINE: Oh, Come on.<br>
+							<br>
+							
+						JERRY: Hey George, you coming to the Tonight Show on Thursday?<br>
+							<br>
+							
+						GEORGE: Hey, yeah. My parents want to come too, is that ok?<br>
+							<br>
+							
+						JERRY: Yeah, sure. My parents will be there.<br>
+							<br>
+							
+						ELAINE: The Tonight Show?<br>
+							<br>
+							
+						JERRY: Yeah, they're in town this week, you wanna go?<br>
+							<br>
+							
+						ELAINE: Are you doing new material?<br>
+							<br>
+							
+						JERRY: No.<br>
+							<br>
+							
+						ELAINE: I don't think so.<br>
+							<br>
+							
+						(Kramer enters.)<br>
+							<br>
+							
+						KRAMER: Hey. Super's in my bathroom changing my shower head. Have they changed your shower head?<br>
+							<br>
+							
+						JERRY: No, he's doing mine next. They're low flow you know.<br>
+							<br>
+							
+						KRAMER: Low flow? Well I don't like the sound of that.<br>
+							<br>
+							
+						(Kramer exits.)<br>
+							<br>
+							
+						ELAINE: So what are your parents doing here in new York?<br>
+							<br>
+							
+						JERRY: Well, they were humiliated. I mean after the impeachment, my father left office in disgrace.<br>
+							<br>
+							
+						ELAINE: So what are their plans?<br>
+							<br>
+							
+						JERRY: Well, this is the problem. They're moving into this new development. Here's the pamphlet. Del Boca Vista. But they're not quite ready to go back so they're in seclusion here for a while at Uncle Leo's.<br>
+							<br>
+							
+						ELAINE: You mean the three of them in that tiny apartment?<br>
+							<br>
+							
+						JERRY: No, Leo's not there. He's got a girlfriend, Lydia. In fact, he moved in with her.<br>
+							<br>
+							
+						GEORGE: Uncle Leo's having regular sex?<br>
+							<br>
+							
+						JERRY: Yeah, I know. It devalues the whole thing.<br>
+							<br>
+							
+						JERRY: (answering phone) Hello?<br>
+							<br>
+							
+						MORTY: Jerry, what time do we have to be at the the Tonight Show on Thursday.<br>
+							<br>
+							
+						JERRY: You gotta be there at 4:30.<br>
+							<br>
+							
+						MORTY: But it comes on 11:30.<br>
+							<br>
+							
+						JERRY: Yeah, well they tape it in the afternoon and then they air it at 11:30.<br>
+							<br>
+							
+						MORTY: How long they been doing this?<br>
+							<br>
+							
+						JERRY: 30 years.<br>
+							<br>
+							
+						MORTY: Helen, did you know that they tape this thing in the afternoon?<br>
+							<br>
+							
+						JERRY: All right, I'll see you later.<br>
+							<br>
+							
+						ELAINE: Georgie, how come your parents never moved to Florida?<br>
+							<br>
+							
+						GEORGE: Yeah, that is odd, isn't it?<br>
+							<br>
+							
+						JERRY: Yeah, it is.<br>
+							<br>
+							
+						GEORGE: I mean, they're retired.<br>
+							<br>
+							
+						JERRY: No economic reason for them to be here.<br>
+							<br>
+							
+						GEORGE: They have no friends.<br>
+							<br>
+							
+						JERRY: No social reason for them to be here.<br>
+							<br>
+							
+						ELAINE: You're all grown up.<br>
+							<br>
+							
+						GEORGE: Yeah, they're all through ruining my life. What the hell are they still doing here? Lemme see this pamphlet. Hm. All right, so I'll, uh, get back to you.<br>
+							<br>
+							
+						(George exits with the Del Boca Vista pamphlet.)<br>
+							<br>
+							
+						JERRY (answering phone again) Hello?<br>
+							<br>
+							
+						HELEN: Where can I buy some ice? Your father likes a lot of ice.<br>
+							<br>
+							
+						JERRY: I don't know, maybe get an ice tray?<br>
+							<br>
+							
+						HELEN: I can do that.<br>
+							<br>
+							
+						JERRY: You know Dad just called me.<br>
+							<br>
+							
+						HELEN: Yeah, I know. His phlebitis is acting up.<br>
+							<br>
+							
+						JERRY: Yeah, all right, well I got some people here.<br>
+							<br>
+							
+						HELEN: Ok.<br>
+							<br>
+							
+						JERRY: All right, bye. (to Elaine): You see this? Any thought pops into their head they're calling me because it's a local call now.<br>
+							<br>
+							
+						ELAINE: Ahh.<br>
+							<br>
+							
+						JERRY: I'm used to a 1200 mile buffer zone. I can't handle this. Plus I got the dinners, I got the pop ins. They pop in! It's brutal!<br>
+							<br>
+							
+						ELAINE: They have no idea when they're going back to Florida?<br>
+							<br>
+							
+						JERRY: The only way out of this is if Leo breaks up with his girlfriend and has to move back into the apartment and then they would have to go back to Florida.<br>
+							<br>
+							
+						ELAINE: How's that gonna happen?<br>
+							<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						[Jerry and Uncle Leo at Monk's coffee shop.]<br>
+							<br>
+							
+						UNCLE LEO: It's about time you called your uncle. We've got to do this once a week.<br>
+							<br>
+							
+						JERRY: (to himself) Once a week? (to Uncle Leo) So how's Lydia?<br>
+							<br>
+							
+						UNCLE LEO: Ah, she's a real tiger.<br>
+							<br>
+							
+						JERRY: I don't know how you do it.<br>
+							<br>
+							
+						UNCLE LEO: What?<br>
+							<br>
+							
+						JERRY: A man like you, limiting yourself to one woman, I don't know. But it's none of my business.<br>
+							<br>
+							
+						UNCLE LEO: What are you talking about?<br>
+							<br>
+							
+						JERRY: Well...<br>
+							<br>
+							
+						UNCLE LEO: Look at this, I told them medium rare, it's medium.<br>
+							<br>
+							
+						JERRY: Hey, it happens.<br>
+							<br>
+							
+						UNCLE LEO: I bet that cook is an anti-Semite.<br>
+							<br>
+							
+						JERRY: He has no idea who you are.<br>
+							<br>
+							
+						UNCLE LEO: They don't just overcook a hamburger, Jerry.<br>
+							<br>
+							
+						JERRY: All right. Anyway, the point I was making before Goerbbles made your hamburger is a man like you could be dating women twenty years younger. C'mon Uncle Leo, I've seen the way women look at you. When's the last time you looked in a mirror? You're an Adonis! You've got beautiful features, lovely skin, you're in the prime of your life here, you should be swinging. If I were you I'd tell this Lydia character, &quot;It's been real,&quot; move back into that bachelor pad and put out a sign; Open for business.<br>
+							<br>
+							
+						UNCLE LEO: Believe me, I thought about it. But she is so perfect in every way, I can't see a flaw.<br>
+							<br>
+							
+						JERRY: Well, keep looking.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Elaine and Mr. Peterman at work.]<br>
+							<br>
+							
+						PETERMAN: I'm afraid I have some bad news, Elaine. It appears you will not be accompanying me to Africa.<br>
+							<br>
+							
+						ELAINE: What? Why not?<br>
+							<br>
+							
+						PETERMAN: I'm afraid it's your urine, Elaine. You tested positive for opium.<br>
+							<br>
+							
+						ELAINE: Opium?<br>
+							<br>
+							
+						PETERMAN: That's right, Elaine. White lotus. Yam-yam. Shanghai Sally.<br>
+							<br>
+							
+						ELAINE: Ihat's impossible, I've never done a drug in my life. Dr. Strugatz must have made a mistake.<br>
+							<br>
+							
+						PETERMAN: Not a chance. I'm afraid I'll just have to find someone else to accompany me on my journey. The dark continent is no place for an addict, Elaine.<br>
+							<br>
+							
+						ELAINE: Obviously, Mr. Peterman, there's something wrong with this test. I don't take opium. Let me take another one, please? I'll call the doctor right now, I'll take a pop urine test.<br>
+							<br>
+							
+						PETERMAN: All right, Elaine.<br>
+							<br>
+							
+						ELAINE: Oh, thank you Mr. Peterman. (Drinks a glass of water) I'll be ready in three minutes.<br>
+							<br>
+							<br>
+							<br>
+							
+						[George and his parents at their home in Queens.]<br>
+							<br>
+							
+						GEORGE: Whew! Boy, it's cold outside, huh? Oh, these New York winters, huh. Bitter cold, bitter.<br>
+							<br>
+							
+						FRANK: I was out for five minutes before, I couldn't feel my extremities.<br>
+							<br>
+							
+						ESTELLE: What extremities?<br>
+							<br>
+							
+						GEORGE: You know what the temperature in Florida is today? Eh? Seventy-nine. That's almost eighty. Yeah, I read someplace the life expectancy in Florida is eighty-one and in Queens, seventy-three.<br>
+							<br>
+							
+						ESTELLE: So George, why are you here?<br>
+							<br>
+							
+						GEORGE: What, I can't stop by and visit my parents? (Drops pamphlet on coffee table)<br>
+							<br>
+							
+						ESTELLE: What's this.<br>
+							<br>
+							
+						GEORGE: That's where the Seinfeld's are moving. They got a great deal. Yep. You know what they got in Florida? Jai-Alai! You bet on the games, you clean up.<br>
+							<br>
+							
+						ESTELLE: I don't bet.<br>
+							<br>
+							
+						GEORGE: What about the dolphins? You could swim with the dolphins down there.<br>
+							<br>
+							
+						ESTELLE: I don't swim.<br>
+							<br>
+							
+						GEORGE: You could pet them. They come right out of the water onto the sidewalks.<br>
+							<br>
+							
+						ESTELLE: Are you trying to get rid of us?<br>
+							<br>
+							
+						GEORGE: Rid? Nah, c'mon, the word is 'care'. Care. I care about your comfort, be it here in Queens or twelve-hundred miles away.<br>
+							<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						[Elaine, back in the doctor's office. The doctor is consulting a chart and shaking his head no.]<br>
+							<br>
+							
+						ELAINE: No?<br>
+							<br>
+							
+						(The doctor hands Elaine the chart, she looks at it in astonishment.)<br>
+							<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						[Jerry's apartment. Kramer walks in, his trademark 'high hair' is flat.]<br>
+							<br>
+							
+						KRAMER: Jerry? Jerry!<br>
+							<br>
+							
+						(Jerry walks in from the back room, his hair is also flat.)<br>
+							<br>
+							
+						KRAMER: Wha, you too?<br>
+							<br>
+							
+						JERRY: Yeah!<br>
+							<br>
+							
+						KRAMER: These showers are horrible. There's no pressure, I can't get the shampoo out of my hair.<br>
+							<br>
+							
+						JERRY: Me either.<br>
+							<br>
+							
+						KRAMER: If I don't have a good shower I am not myself. I feel weak and ineffectual. I'm not Kramer.<br>
+							<br>
+							
+						JERRY: You? What about me? I got the Tonight Show tonight. I'm gonna have to shower in the dressing room.<br>
+							<br>
+							
+						KRAMER: (leaving) Aw.<br>
+							<br>
+							
+						JERRY: Where are you going?<br>
+							<br>
+							
+						KRAMER: I gotta find another shower.<br>
+							<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						[Hallway outside Newman's apartment. Kramer knocks on Newman's door. Newman answers, with flat hair.]<br>
+							<br>
+							
+						KRAMER: They got you too?<br>
+							<br>
+							
+						NEWMAN: This stuff is awful! I'm not Newman!<br>
+							<br>
+							
+						(Kramer backs away then runs down the hall.)<br>
+							<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						[Elaine's office, Kramer rushes in.]<br>
+							<br>
+							
+						KRAMER: Oh, Elaine. Yeah.<br>
+							<br>
+							
+						ELAINE: Kramer, you look terrible.<br>
+							<br>
+							
+						KRAMER: Look, I need the keys to your apartment, I gotta take a shower.<br>
+							<br>
+							
+						ELAINE: What's wrong with your shower?<br>
+							<br>
+							
+						KRAMER: There's no water pressure.<br>
+							<br>
+							
+						ELAINE: Why don't you just go see Jerry?<br>
+							<br>
+							
+						(Just as Kramer is about to answer, Mr. Peterman walks past Elaine's open office door and pauses.)<br>
+							<br>
+							
+						KRAMER: Jerry's got nothing. Newman's got nothing. You're the only one I know who's got the good stuff, and I need it bad, baby, cause I feel like I got bugs crawling up my skin. Now you gotta help me out.<br>
+							<br>
+							
+						PETERMAN: (busting in) Not on my watch! (Grabs Kramer by the collar) I won't have you turning my office into a den of iniquity! Get your fix somewhere else!<br>
+							<br>
+							
+						(Throws Kramer out and slams the door closed)<br>
+							<br>
+							
+						ELAINE: Mr Peterman! What are you doing?<br>
+							<br>
+							
+						PETERMAN: Elaine, you're out of control. You need help.<br>
+							<br>
+							
+						ELAINE: Huh?<br>
+							<br>
+							
+						PETERMAN: I know what you're going through. I too once fell under the spell of opium. It was 1979. I was travelling the Yangtzee in search of a Mongolian horsehair vest. I had got to the market after sundown, all of the clothing traders had gone, but a different sort of trader still lurked about. &quot;Just a taste,&quot; he said. That was all it took.<br>
+							<br>
+							
+						ELAINE: Mr. Peterman, I don't know what's going on here. I am not addicted to anything.<br>
+							<br>
+							
+						PETERMAN: Oh, Elaine. The toll road of denial is a long and dangerous one. The price? Your soul. Oh, and by the way, you have til' 5:00 to clear out your desk. You're fired.<br>
+							<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						[Jerry's dressing room at NBC. Jerry and his parents are there.]<br>
+							<br>
+							
+						HELEN: All they serve is chicken?<br>
+							<br>
+							
+						JERRY: There's more food down the hall.<br>
+							<br>
+							
+						MORTY: Wrap it up, we'll take it home.<br>
+							<br>
+							
+						(George walks in with his parents.)<br>
+							<br>
+							
+						JERRY: Oh, hi.<br>
+							<br>
+							
+						ESTELLE: Hello Seinfelds.<br>
+							<br>
+							
+						MORTY: Hello.<br>
+							<br>
+							
+						HELEN: Hi.<br>
+							<br>
+							
+						FRANK: This is your dressing room? They treat you like Toscanini.<br>
+							<br>
+							
+						ESTELLE: Oh, Jerry. I don't know how you could do this. I'm so nervous for you.<br>
+							<br>
+							
+						JERRY: Actually, I'm drunk.<br>
+							<br>
+							
+						GEORGE: Hey, hey, how was Florida?<br>
+							<br>
+							
+						MORTY: Well, we just bought a new place down there.<br>
+							<br>
+							
+						ESTELLE: I know, we were looking at the brochure.<br>
+							<br>
+							
+						MORTY: What?<br>
+							<br>
+							
+						HELEN: Why, you thinking of moving?<br>
+							<br>
+							
+						FRANK: Not really.<br>
+							<br>
+							
+						MORTY: Because if you are, you shouldn't. There's nothing available in that development.<br>
+							<br>
+							
+						FRANK: Are you telling me there's not one condo available in all of Del Boca Vista?<br>
+							<br>
+							
+						MORTY: That's right. They went like hotcakes.<br>
+							<br>
+							
+						FRANK: How'd you get yours?<br>
+							<br>
+							
+						MORTY: Got lucky.<br>
+							<br>
+							
+						FRANK: Are you trying to keep us out of Del Boca Vista?!<br>
+							<br>
+							
+						JERRY: I know this doesn't seem like work to any of you, if you could perhaps conduct your psychopath convention down the hall, I could just get a little personal space.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Monk's coffee shop, Elaine is at the counter eating a muffin and talking with a waitress.]<br>
+							<br>
+							
+						ELAINE: How could I have tested positive twice? Once I could understand, that's a mistake. But twice?<br>
+							<br>
+							
+						WAITRESS: Yeah, it's hard to figure.<br>
+							<br>
+							
+						ELAINE: I mean I lost my job, I can't go to Africa. I was gonna meet the bush-men of the Kalahari.<br>
+							<br>
+							
+						WAITRESS: Ah, the bush-men?<br>
+							<br>
+							
+						ELAINE: And the bush-women.<br>
+							<br>
+							
+						MAN: (also seated at the counter) Excuse me. I couldn't help overhearing. I notice you're eating a poppy seed muffin.<br>
+							<br>
+							
+						ELAINE: Yeah, I eat these muffins all the time.<br>
+							<br>
+							
+						MAN: Well, you know what opium is made from...<br>
+							<br>
+							
+						ELAINE: (as though receiving a revelation) Poppies!<br>
+							<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						[Jerry is on the Tonight Show with Jay Leno.]<br>
+							<br>
+							
+						JAY LENO: Welcome back. Talking with Jerry Seinfeld. Jerry, lemme ask you, I saw some people back there, they look like.. family? Is that family?<br>
+							<br>
+							
+						JERRY: Yeah, I got some family backstage. Course my family's nuts; they're crazy. Yep. My uncle Leo, (quick take of Uncle Leo in bet with Lydia, watching Jerry on TV. Lydia is laughing, Leo is not) I had lunch with him the other day, he's one of these guys that anything goes wrong in life, he blames it on anti-Semitism. You know what I mean, the spaghetti's not al dente? Cook's an anti-Semite. Loses a bet on a horse. Secretariat? Anti-Semitic. Doesn't get a good seat at the temple. Rabbi? Anti-Semite.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Jerry's apartment. Jerry is on the phone.]<br>
+							<br>
+							
+						JERRY: Hey, listen to this, Uncle Leo broke up with his girlfriend because of the bit I did. She thought it was funny, so he accused *her* of being an anti-Semite. They had a huge fight and now he's moving back into his apartment. You know what this means, my parents are gonna go back to Florida... What? What number is this? Oh, I'm terribly sorry.<br>
+							<br>
+							
+						(Kramer walks in wearing a bathrobe, his hair is still flat.)<br>
+							<br>
+							
+						JERRY: Hey Kramer, my parents are gonna have to move back to Florida, isn't that great?<br>
+							<br>
+							
+						KRAMER: (halfheartedly) Yeah, well I'm really happy for ya.<br>
+							<br>
+							
+						JERRY: Hey, you're not giving it to me, man. What's wrong?<br>
+							<br>
+							
+						KRAMER: I just took a bath, Jerry. A bath?<br>
+							<br>
+							
+						JERRY: No good?<br>
+							<br>
+							
+						KRAMER: It's disgusting. I'm sitting there in a tepid pool of my own filth. All kinds of microscopic parasites and organisms having sex all around me.<br>
+							<br>
+							
+						JERRY: Well, you used to sit in that hot tub?<br>
+							<br>
+							
+						KRAMER: Jerry, that was superheated water, nothing could live in that.<br>
+							<br>
+							
+						JERRY: (offering a plate) Chicken?<br>
+							<br>
+							
+						KRAMER: Oh, yeah.<br>
+							<br>
+							
+						(Elaine enters.)<br>
+							<br>
+							
+						ELAINE: Well, this you're not gonna believe. I found out why I was testing positive for opium. Poppy seeds!<br>
+							<br>
+							
+						JERRY: Poppy seeds!<br>
+							<br>
+							
+						KRAMER: Well, that makes sense. (Offers plate to Elaine) Want some chicken?<br>
+							<br>
+							
+						ELAINE: Yeah. Thanks. So, I'm gonna get tested again later, hopefully I'll get my job back and I will be on my way to Africa.<br>
+							<br>
+							
+						(There's a knock at the door, Jerry answers it, it's Newman.)<br>
+							<br>
+							
+						JERRY: Hello Newman.<br>
+							<br>
+							
+						NEWMAN: Hello Jerry. Well, I may have a solution to our little problem. Elaine, would you excuse us?<br>
+							<br>
+							
+						ELAINE: Oh c'mon, Newman.<br>
+							<br>
+							
+						NEWMAN: I have a private matter to discuss with my fellow tenants. (Opens door) If you don't mind?<br>
+							<br>
+							
+						ELAINE: Jerry?<br>
+							<br>
+							
+						NEWMAN: Look, sister, go get yourself a cup of coffee, all right? Beat it! (Pushes Elaine out the door and closes it) All right, now here's the lowdown. From a certain connection, I've been able to locate some black market shower heads. They're all made in the former Yugoslavia, and from what I hear the Serbs are fanatic about their showers.<br>
+							<br>
+							
+						JERRY: Not from the footage I've seen.<br>
+							<br>
+							
+						NEWMAN: Nevertheless, sometime this afternoon, behind the Market Diner, an unmarked van will be waiting. I'm expecting the call at any time. Are you in?<br>
+							<br>
+							
+						KRAMER: I'm down.<br>
+							<br>
+							
+						NEWMAN: Jerry?<br>
+							<br>
+							
+						(Jerry nods reluctantly.)<br>
+							<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						[Frank and Estelle's house.]<br>
+							<br>
+							
+						ESTELLE: So, Georgie, we have some big news for you.<br>
+							<br>
+							
+						GEORGE: Big news?<br>
+							<br>
+							
+						ESTELLE: We're moving to Florida.<br>
+							<br>
+							
+						GEORGE: (ecstatic) What? You're moving to Florida!?! That's wonderful! I'm so happy! (pause) For you! I'm so happy for you! Oh, what do you need this cold weather for?<br>
+							<br>
+							
+						FRANK: Has nothing to do with the weather, it's because of the Seinfelds.<br>
+							<br>
+							
+						GEORGE: What do you mean?<br>
+							<br>
+							
+						FRANK: They don't want us there, so we're going. We're moving right into Del Boca Vista!<br>
+							<br>
+							
+						GEORGE: So you're moving there for spite!<br>
+							<br>
+							
+						FRANK: Absolutely. No one tells Frank Costanza what to do!<br>
+							<br>
+							
+						GEORGE: That's right, who the hell are they? How dare they?!<br>
+							<br>
+							
+						ESTELLE: So, Georgie, are you gonna come to visit us?<br>
+							<br>
+							
+						GEORGE: Oh, every chance I get.<br>
+							<br>
+							
+						ESTELLE: (warmly) Ohhh.<br>
+							<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						[George busts into Jerry's apartment.]<br>
+							<br>
+							
+						GEORGE: Jerry? Jerry! I'm busting! I'm busting!<br>
+							<br>
+							
+						JERRY: What's going on?<br>
+							<br>
+							
+						GEORGE: My parents are moving to Florida!<br>
+							<br>
+							
+						JERRY: Are you kidding?<br>
+							<br>
+							
+						GEORGE: Can you believe it? It's happening! It's finally happening! I'm free!!<br>
+							<br>
+							
+						JERRY: Where are they moving to?<br>
+							<br>
+							
+						GEORGE: Del Boca Vista!<br>
+							<br>
+							
+						JERRY: Del Boca Vista, that's where my parents are gonna live!<br>
+							<br>
+							
+						GEORGE: I know!<br>
+							<br>
+							
+						JERRY: We could visit together!<br>
+							<br>
+							
+						GEORGE: Every five years!<br>
+							<br>
+							
+						(They 'high five' each other.)<br>
+							<br>
+							
+						JERRY: That's incredible!<br>
+							<br>
+							
+						GEORGE: I know, I know and you know *why* they're moving there?<br>
+							<br>
+							
+						JERRY: Why?<br>
+							<br>
+							
+						GEORGE: To spite your parents!<br>
+							<br>
+							
+						JERRY: To spite my parents?<br>
+							<br>
+							
+						GEORGE: Yeah!<br>
+							<br>
+							
+						JERRY: Your parents are crazy!<br>
+							<br>
+							
+						GEORGE: I know, they're out of their minds! It's fantastic!<br>
+							<br>
+							
+						JERRY: My parents are moving back too!<br>
+							<br>
+							
+						GEORGE: Beautiful!<br>
+							<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						[Helen and Morty, packing up in Uncle Leo's apartment.]<br>
+							<br>
+							
+						MORTY: I'm sorry Leo's moving back here. I'm not ready to go back to Florida.<br>
+							<br>
+							
+						HELEN: He was getting along so well with that woman, what happened?<br>
+							<br>
+							
+						(Morty shrugs, the phone rings, Morty answers.)<br>
+							<br>
+							
+						MORTY: Hello?<br>
+							<br>
+							
+						VOICE: This is Frank Costanza.<br>
+							<br>
+							
+						MORTY: What do you want?<br>
+							<br>
+							
+						FRANK: You think you could keep us out of Florida? We're moving in lock, stock and barrel. We're gonna be in the pool. We're gonna be in the clubhouse. We're gonna be all over that shuffleboard court! And I dare you to keep me out!<br>
+							<br>
+							
+						(Frank hangs up, Morty hangs up.)<br>
+							<br>
+							
+						MORTY: I'm sorry, we can't go back to Florida.<br>
+							<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						[Jerry's apartment, Jerry and George are toasting their good fortune.]<br>
+							<br>
+							
+						GEORGE: I can't believe I didn't push for this sooner.<br>
+							<br>
+							
+						JERRY: You have no idea how your life is gonna improve as a result of this. Food tastes better. The air seems fresher. You'll have more energy and self confidence than you ever dreamed of.<br>
+							<br>
+							
+						(The phone rings, Jerry answers.)<br>
+							<br>
+							
+						JERRY: Hello.<br>
+							<br>
+							
+						MORTY: Hello, Jerry? It's your father.<br>
+							<br>
+							
+						JERRY: Oh, hi dad.<br>
+							<br>
+							
+						MORTY: Listen, is it all right if we move in with you for a little while? Sounds of breaking glass, Jerry dropped his bottle.<br>
+							<br>
+							
+						MORTY: What was that?<br>
+							<br>
+							
+						JERRY: Nothing. A bottle broke. That's all. What do you mean, you're gonna move in here?<br>
+							<br>
+							
+						MORTY: Because the Costanzas are moving into Del Boca Vista.<br>
+							<br>
+							
+						JERRY: But it's a big complex.<br>
+							<br>
+							
+						MORTY: You don't understand, you gotta have a buffer zone.<br>
+							<br>
+							
+						JERRY: All right, fine. Come over here. (Hangs up phone)<br>
+							<br>
+							
+						GEORGE: What?<br>
+							<br>
+							
+						JERRY: They're not going back to Florida. They're moving here.<br>
+							<br>
+							
+						GEORGE: What? Why?<br>
+							<br>
+							
+						JERRY: Because your parents are going down there. My buffer zone just went from twelve hundred miles down to two feet! You gotta do something.<br>
+							<br>
+							
+						GEORGE: Hey, I'm sorry, you had your buffer zone for many years. It's my turn to live, baby.<br>
+							<br>
+							
+						JERRY: You know what you're doing, don't you? You're killing Independent Jerry! I gotta go see my Uncle Leo. I think he may have made a big mistake.<br>
+							<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						[Monk's coffee shop, Jerry and Uncle Leo are sharing a booth.]<br>
+							<br>
+							
+						UNCLE LEO: Move back with Lydia?<br>
+							<br>
+							
+						JERRY: C'mon, you're lucky to have anybody.<br>
+							<br>
+							
+						UNCLE LEO: Last week you told me I was in my prime, I should be swinging.<br>
+							<br>
+							
+						JERRY: Swinging? What are you, out of your mind? Look at you, you're disgusting. You're bald, you're paunchy, all kinds of sounds are emanating from your body twenty-four hours a day. If there's a woman that can take your presence for more than ten consecutive seconds, you should hang on to her like grim death. Which is not far off, by the way.<br>
+							<br>
+							
+						UNCLE LEO: But she's an anti-Semite.<br>
+							<br>
+							
+						JERRY: Can you blame her?<br>
+							<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						[Helen and Morty are unpacking in Jerry's apartment.]<br>
+							<br>
+							
+						HELEN: You don't think he minds us staying here, do you?<br>
+							<br>
+							
+						MORTY: Why would he mind? We're his parents.<br>
+							<br>
+							
+						(Elaine walks in picking her teeth, she didn't expect to see Jerry's parents.)<br>
+							<br>
+							
+						ELAINE: Oh.<br>
+							<br>
+							
+						HELEN: Hi Elaine.<br>
+							<br>
+							
+						ELAINE: Hello. Jerry's not here?<br>
+							<br>
+							
+						HELEN: No.<br>
+							<br>
+							
+						ELAINE: Huh. (pause) Oh my god.<br>
+							<br>
+							
+						HELEN: What?<br>
+							<br>
+							
+						ELAINE: A poppy seed! It must have been in the chicken. Oh, I'm dead. I'm going to the doctor's in a half an hour.<br>
+							<br>
+							
+						HELEN: Why?<br>
+							<br>
+							
+						ELAINE: It's a long story.<br>
+							<br>
+							
+						HELEN: Just a second, I have to go to the bathroom.<br>
+							<br>
+							
+						ELAINE: What are you gonna do in there?<br>
+							<br>
+							
+						HELEN: What am I gonna do in the bathroom?<br>
+							<br>
+							
+						ELAINE: You gotta do me a favor.<br>
+							<br>
+							
+						HELEN: Elaine, I really--<br>
+							<br>
+							
+						ELAINE: Hold on a second. Mrs. Seinfeld, I need your sample.<br>
+							<br>
+							
+						HELEN: You want my urine?<br>
+							<br>
+							
+						ELAINE: I need a clean urine sample from a woman.<br>
+							<br>
+							
+						HELEN: I don't know.<br>
+							<br>
+							
+						ELAINE: Oh please, Mrs. Seinfeld, please?<br>
+							<br>
+							
+						HELEN: Well, what am I gonna do it in?<br>
+							<br>
+							
+						ELAINE: Well, one of those glasses.<br>
+							<br>
+							
+						HELEN: Jerry's glasses?<br>
+							<br>
+							
+						ELAINE: Yeah, he won't mind. C'mon, you're his mom.<br>
+							<br>
+							
+						HELEN: Oh, I could uh-- Should I use a coffee cup?<br>
+							<br>
+							
+						ELAINE: Yeah, a coffee cup's fine.<br>
+							<br>
+							
+						HELEN: Or maybe a juice glass.<br>
+							<br>
+							
+						ELAINE: Yes, fine, fine, a juice glass is perfect.<br>
+							<br>
+							
+						HELEN: This one is kind of scratched.<br>
+							<br>
+							
+						ELAINE: It doesn't matter.<br>
+							<br>
+							
+						HELEN: Howbout A milk glass.<br>
+							<br>
+							
+						ELAINE: A milk glass, a juice glass, any glass, just pick a glass.<br>
+							<br>
+							
+						HELEN: Jerry doesn't wash these very well.<br>
+							<br>
+							
+						ELAINE: Mrs. Seinfeld, pick a glass! Pick a glass, Mrs. Seinfeld!<br>
+							<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						[Kramer, Newman and a 'salesman' are at the back of a van in an alley.]<br>
+							<br>
+							
+						SALESMAN: All right, I got everything here. I got the Cyclone F series, Hydra Jet Flow, Stockholm Superstream, you name it.<br>
+							<br>
+							
+						JERRY: What do you recommend?<br>
+							<br>
+							
+						SALESMAN: What are you looking for?<br>
+							<br>
+							
+						KRAMER: Power, man. Power.<br>
+							<br>
+							
+						NEWMAN: Like Silkwood.<br>
+							<br>
+							
+						KRAMER: That's for radiation.<br>
+							<br>
+							
+						NEWMAN: That's right.<br>
+							<br>
+							
+						KRAMER: (pointing to the largest one) Now, what is this?<br>
+							<br>
+							
+						SALESMAN: That's the Commando 450, I don't sell that one. What about thi-<br>
+							<br>
+							
+						KRAMER: Well that's what we want, the Commando 450.<br>
+							<br>
+							
+						SALESMAN: Nah, believe me. It's only used in the circus. For elephants.<br>
+							<br>
+							
+						NEWMAN: We'll pay anything. We've got the (hands a wad of money to Kramer) What about Jerry?<br>
+							<br>
+							
+						KRAMER: He couldn't handle that, he's delicate.<br>
+							<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						[Helen and Morty are unpacking in Uncle Leo's apartment.]<br>
+							<br>
+							
+						HELEN: It's nice being back at Leo's Jerry's place was too small.<br>
+							<br>
+							
+						MORTY: First Leo breaks up, then he goes back. What the hell's going on?<br>
+							<br>
+							
+						(There's a knock at the door.)<br>
+							<br>
+							
+						MORTY: Who is it?<br>
+							<br>
+							
+						SUPER: It's the super. We're installing new low-flow showerheads in all the bathrooms.<br>
+							<br>
+							
+						MORTY: Low flow? I don't like the sound of that.<br>
+							<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						[Mr. Peterman, in his office, on the telephone.]<br>
+							<br>
+							
+						PETERMAN: So as a result of your test being free of opium, I am reinstating you.<br>
+							<br>
+							
+						ELAINE: Oh! Yes! What a load off. So when are we going to Africa?<br>
+							<br>
+							
+						PETERMAN: I'm afraid I can't take you.<br>
+							<br>
+							
+						ELAINE: What? Why not?<br>
+							<br>
+							
+						PETERMAN: Elaine, according to your urine analysis, you're menopausal. you have the metabolism of a sixty-eight year old woman.<br>
+							<br>
+							
+						ELAINE: But I wanted to see the bushmen.<br>
+							<br>
+							
+						PETERMAN: Oh, and one more thing. You may have osteoporosis.<br>
+							<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						[Jerry is seeing his parents off as the cab driver loads their bags. They have flat hair.]<br>
+							<br>
+							
+						JERRY: Well, it's been a great visit.<br>
+							<br>
+							
+						MORTY: Jerry, I'll tell ya. The first thing I'm gonna do when I get back to Florida is take a shower.<br>
+							<br>
+							
+						JERRY: Well, at least the Costanzas changed their mind and decided not to move. They couldn't bear being away from George.<br>
+							<br>
+							
+						HELEN: George must be happy about that.<br>
+							<br>
+							
+						JERRY: You have no idea.<br>
+							<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						[George's parents' house, George is sitting on the couch between Frank and Estelle, he's obviously disappointed.]<br>
+							<br>
+							
+						FRANK: Take my swim trunks. I won't need them.<br>
+							<br>
+							
+						ESTELLE: What does he want with your swim trunks?<br>
+							<br>
+							
+						FRANK: Why should they go to waste?!?<br>
+							<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						[Kramer, in the shower]<br>
+							<br>
+							
+						(He's got the Commando 450 shower head hooked up. He turns it on, the water shoots out full blast and knocks him backwards. He grabs the shower curtain for support and tries to reach forward to turn the faucet off, but the force of the water is too great, he only succeeds in knocking over a few shampoo bottles. Kramer is eventually pushed back enough by the water to become entangled in the shower curtain until he eventually falls out of the shower, and out of camera range.)<br>
+							<br>
+							<br>
+							
+						The End</td>
+						</tr>
+						<tr height="6">
+							<td class="bottom2" width="645" height="6"></td>
+						</tr>
+						<tr>
+							<td width="645">
+								<div align="center">
+									<font size="-1">Copyright 2006 seinology.com | All Rights Reserved | Designed by 13erla</font></div>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+		<p></p>
+	</body>
+
+</html>

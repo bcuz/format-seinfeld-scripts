@@ -1,0 +1,1489 @@
+<tdOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+<html>
+
+	<head>
+		<meta http-equiv="content-type" content="text/html;charset=ISO-8859-1">
+		<meta name="description" content="Top Source for Seinfeld">
+		<meta name="keywords" content="seinfeld, sienfeld, Jerry Seinfeld, Julia Louis Dreyfus, Jason Alexander, Michael Richards, Kramer, George, Costanza, Elaine Benes, morty, Larry David">
+		<title>Seinology.com :: Scripts :: 77-The Dinner Party</title>
+	<link rel='stylesheet' href='/stylesheet.css' type='text/css'>
+	</head>
+
+	<body>
+			<table align="center" width="787" border="0" cellspacing="0" cellpadding="0">
+				<tr>
+					<td><font size="-2" color="red">Seinology.com - </font><font size="-3" color="black">Where Seinfeld Content and Accuracy Matter Most. Seinfeld scripts in pdf form, Seinfeld episode video clips, Seinfeld episode audio clips, Jerry Seinfeld appearances, Julia Louis-Dreyfus appearances, Michael Richards appearances, Jason Alexander appearances, Seinfeld discussion Forum, Seinfeld Where are they Now? Seinlanguage Newsletter, Popular Seinfeld Lists, Seinfeld episode standup, Seinfeld episode guide, Seinfeld fan fiction. Seinfeld content all on one domain. Seinology.com enjoy your stay.</font></td>
+				</tr>
+			</table>
+		
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr height="100">
+				<td class="logo"></td>
+			</tr>
+			<tr><td class="ads" align="center" background=#8694fa>
+				<script type="text/javascript"><!--
+google_ad_client = "pub-1924026976931416";
+google_ad_width = 728;
+google_ad_height = 90;
+google_ad_format = "728x90_as";
+google_ad_type = "text";
+google_ad_channel = "";
+google_color_border = "FFFFFF";
+google_color_bg = "8694fa";
+google_color_link = "0000FF";
+google_color_text = "000000";
+google_color_url = "002E3F";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></td></tr>
+		</table>
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr>
+				<td valign="top" width="136">
+					<table width="136" border="0" cellspacing="0" cellpadding="0">
+						<tr height="24">
+							<td class="navigation">
+								<div align="center">
+									
+									<b>Navigation</b></div>
+							</td>
+						</tr>
+						<tr height="199">
+							<td class="spacer1" valign="top" width="136" height="199">
+								<div align="center">
+									<font size="-1"><a href="http://www.seinology.com">Home</a><br>
+										<a href="http://board.seinology.com">Forum</a><br>
+										<a href="http://www.seinology.com/av.shtml">Audio/Video</a><br>
+										<a href="http://www.seinology.com/scripts.shtml">Scripts</a><br>
+										<a href="http://www.seinology.com/survivor.shtml">Survivor</a><br>
+										<a href="http://www.seinology.com/fanfics.shtml">Fan Fiction</a><br>
+										<a href="http://www.seinology.com/gallery/">Gallery</a><br>
+										<a href="http://www.seinology.com/newsletter.shtml">Newsletter</a><br>
+										<a href="http://www.seinology.com/lists.shtml">Lists</a><br>
+										<a href="http://www.seinology.com/epguide.shtml">Episode Guide</a><br>
+										<a href="http://www.seinology.com/links.shtml">Links</a><br>
+										<a href="http://www.seinology.com/faqother.shtml">Faq + others</a><br>
+										<a href="http://www.seinology.com/legal.shtml">Legal</a></font></div>
+							</td>
+						</tr>
+						
+						<tr>
+							<td class="nav2" width="136">
+							<div align="center"><b>Search</b></div></td>
+						</tr>
+						<tr>
+							<td class="spacer1" width="136" valign="top"><div align="center"><form method="get" action="http://www.seinology.com/search/search.cgi">
+<p><label for="fdse_Match">Match</label><br>
+<select name="Match" id="fdse_Match" size="1">
+<option value="1">All</option>
+<option value="0">Any</option>
+<option value="2">Phrase</option>
+</select></p>
+<p><label for="fdse_Realm">Where?</label><br>
+<select name="Realm" id="fdse_Realm" size="1">
+<option selected="selected" value="All">EntireSite</option>
+<option value="Ep Guide">Ep Guide</option>
+<option value="Images">Images</option>
+<option value="Lists">Lists</option>
+<option value="Newsletters">Newsletters</option>
+<option value="Scripts">Scripts</option>
+<option value="Notes..Nothing">Notes..Nothing</option>
+</select></p>
+<p><input type="text" name="Terms" size="14" id="fdse_Terms"><br>
+<input type="submit" class="submit" name="submitButtonName" value="Search"></p>
+</div></form></td>
+						</tr>
+						<tr><td class="bottom" width="136" height="10" valign="top">
+						</td>
+						</tr>
+					</table>
+				</td>
+				<td width="4"></td>
+				<td valign="top" width="645">
+					<table width="645" border="0" cellspacing="0" cellpadding="0">
+						<tr height="18">
+							<td width="645" height="35" class="bar">
+								<div align="center">
+									<b><font size="+2" color="black">Script</font></b></div>
+							</td>
+						</tr>
+						<tr height="362">
+							<td class="spacer2" valign="top" width="645" height="362">
+
+						<p><font size="-2">Episode 77 - The Dinner Party<br>
+							
+						pc: 514, season 5, episode 13<br>
+							
+						Broadcast date: February 3, 1994<br>
+							<br>
+							
+						Written by Larry David<br>
+							
+						Directed by Tom Cherones<br>
+							<br>
+							
+						-------------------------------------------------------------------------------<br>
+							<br>
+							
+						The Cast<br>
+							
+						Regulars:<br>
+							
+						Jerry Seinfeld ....................... Jerry Seinfeld<br>
+							
+						Jason Alexander .................. George Costanza<br>
+							
+						Julia Louis-Dreyfus ............. Elaine Benes<br>
+							
+						Michael Richards ................. Kramer<br>
+							<br>
+							
+						Guest Stars:<br>
+							<br>
+							
+						Fred Pinkard ...................... Newsstand Guy<br>
+							
+						Frank Novak ....................... Clerk<br>
+							
+						Mark Holton ...................... David<br>
+							
+						Suzy Soro ............................ Barbara<br>
+							
+						Kathryn Kates .................... Counterwoman<br>
+							
+						S. Marc Jordan .................... Man in Bakery<br>
+							
+						Langdon Bensing ................ Man on Street<br>
+							
+						Sayed Badreya ................... Foreign Man<br>
+							
+						Amjad J. Oaisen ................. Hussein<br>
+							
+						Roger Eschbacher .............. Man with Cane<br>
+							<br>
+							
+						==================================================================<br>
+							<br>
+							
+						[Opening Monologue]<br>
+							<br>
+							
+						It is my opinion that we never should have landed a man on the moon. It's a mistake. Now everything is compared to that one accomplishment. Now every body goes &#147;I can't believe they could land a man on the moon . . . and taste my coffee!&#148; I think we all would have been a lot happier if we hadn't landed a man on the moon. Then we'd go, They can't make a prescription bottle top that's easy to open? I'm not surprised they couldn't land a man on the moon. Things make perfect sense to me now. Neil Armstrong should have said, &quot;That's one small step for man, one giant leap for every whining, complaining, SOB on the face of the earth.&quot;<br>
+							<br>
+							<br>
+							<br>
+							
+						[Jerry's Apartment]<br>
+							<br>
+							
+						(Elaine is touching up her make-up at the table)<br>
+							<br>
+							
+						ELAINE: Hey, do you believe I got Happy New Yeared today? It's February.<br>
+							<br>
+							
+						JERRY: I once got Happy New Yeared in March.<br>
+							<br>
+							
+						ELAINE: It's disgusting.<br>
+							<br>
+							
+						JERRY: It's pathetic. . . . hey, is it cold out?<br>
+							<br>
+							
+						ELAINE: Really cold.<br>
+							<br>
+							
+						JERRY: Scary cold.<br>
+							<br>
+							
+						ELAINE: I don't know. What's your definition of scary cold?<br>
+							<br>
+							
+						(George enters in Gore-Tex jacket -- it&#146;s huge/all puffed out)<br>
+							<br>
+							
+						JERRY: That. (pointing at George)<br>
+							<br>
+							
+						ELAINE: (Laughing as she says it) What is that, ha?<br>
+							<br>
+							
+						GEORGE: What?<br>
+							<br>
+							
+						JERRY: When did you get that?<br>
+							<br>
+							
+						GEORGE: This week. My father got a deal from a friend of his. It's Gore-Tex. You know about Gore-Tex?<br>
+							<br>
+							
+						JERRY: You like saying Gore-Tex, don't you?<br>
+							<br>
+							
+						(George turns and closes the apartment door)<br>
+							<br>
+							
+						ELAINE: Hey, you can't even turn around in that thing.<br>
+							<br>
+							
+						JERRY: Look at this<br>
+							<br>
+							
+						(They both start hitting George&#146;s jacket a lot)<br>
+							<br>
+							
+						ELAINE: Hey George, can you feel this? Can you ...<br>
+							<br>
+							
+						(George stands there, looking at them as they continue hitting his jacket)<br>
+							<br>
+							
+						GEORGE: All right, all right. KNOCK IT OFF. Come on, let's go.<br>
+							<br>
+							
+						ELAINE: Oh listen we should stop off on the way and get a bottle of wine or something.<br>
+							<br>
+							
+						JERRY: Yeah. (pointing at Elaine as he goes into the bedroom)<br>
+							<br>
+							
+						GEORGE: What for?<br>
+							<br>
+							
+						ELAINE: These people invited us for dinner. We have to bring something.<br>
+							<br>
+							
+						GEORGE: Why?<br>
+							<br>
+							
+						ELAINE: Because it's rude, otherwise.<br>
+							<br>
+							
+						GEORGE: You mean just going there because I'm invited, that's rude?<br>
+							<br>
+							
+						ELAINE: Yes.<br>
+							<br>
+							
+						GEORGE: So you're telling me instead of them being happy to see me, they're going to be upset because I didn't bring anything. Ttst --You see what I'm saying?<br>
+							<br>
+							
+						JERRY: The fabric of society is very complex George.<br>
+							<br>
+							
+						GEORGE: I don't even drink wine. I drink Pepsi.<br>
+							<br>
+							
+						ELAINE: Ya can't bring Pepsi. (Elaine starts putting on her coat and gloves)<br>
+							<br>
+							
+						GEORGE: Why not?<br>
+							<br>
+							
+						ELAINE: Because we're adults?<br>
+							<br>
+							
+						GEORGE: You telling me that wine is better than Pepsi? Huh (snort), no way wine is better than Pepsi.<br>
+							<br>
+							
+						JERRY: I tell you George, I don't think we want to walk in there and put a big plastic jug of Pepsi in the middle of the table.<br>
+							<br>
+							
+						GEORGE: I just don't like the idea that any time there&#146;s a dinner invitation there's this annoying little chore that goes along with it.<br>
+							<br>
+							
+						JERRY: You know, you're getting to be an annoying little chore yourself.<br>
+							<br>
+							
+						(Kramer enters)<br>
+							<br>
+							
+						KRAMER: All right, let's go. Who's driving? (claps his hands and rubs them together)<br>
+							<br>
+							
+						JERRY: You are. I can't get that thing in my car. (referring to George)<br>
+							<br>
+							
+						KRAMER: Uh huh.<br>
+							<br>
+							<br>
+							<br>
+							
+						[In Kramer's car]<br>
+							<br>
+							
+						JERRY: Where's the heat in this car? Come on Elaine warm me up, oh! I'm cold. Just give me a little squeeze.<br>
+							<br>
+							
+						ELAINE: Jerry get off of me. Get off of ME! Get off, Get off of Me!<br>
+							<br>
+							
+						KRAMER hehehehehe (low tone chuckle)<br>
+							<br>
+							
+						GEORGE: Hehehehehe (higher tone laugh, though still quietly )<br>
+							<br>
+							
+						JERRY: You're pretty comfortable up there eh, Bubble boy?<br>
+							<br>
+							
+						GEORGE: Oh, yeah. You wish you had this coat.<br>
+							<br>
+							
+						ELAINE: You know, I was just thinking. The four of us can't show up with just one bottle of wine.<br>
+							<br>
+							
+						GEORGE: Oh, here we go...<br>
+							<br>
+							
+						ELAINE: What?<br>
+							<br>
+							
+						GEORGE: Why don't we get them a couch? (Kramer laughs) We&#146;ll rent a U-haul -- we&#146;ll bring &#145;em a nice sectional.<br>
+							<br>
+							
+						KRAMER: (low tone)Yeahhehehehe<br>
+							<br>
+							
+						ELAINE: We should bring some cake. Will you stop off at the bakery?<br>
+							<br>
+							
+						KRAMER: (low tone) All right, yeah.<br>
+							<br>
+							
+						GEORGE: Why don't you just get some Ring Dings from the liquor store?<br>
+							<br>
+							
+						ELAINE: Ring Dings?<br>
+							<br>
+							
+						GEORGE: Hey, Ring Dings are better than anything you're gonna get at a bakery.<br>
+							<br>
+							
+						KRAMER: Ooooh I like Ring Dings.<br>
+							<br>
+							
+						ELAINE: George, we can't show up at someone's house with Ring Dings and Pepsi.<br>
+							<br>
+							
+						KRAMER: HEY YOUR LIGHTS ARE ON! (shouting out the window)<br>
+							<br>
+							
+						GEORGE: (to Kramer) It's a funeral procession. . . . (to Elaine) And I got news for you. I show up with Ring Dings and Pepsi, I become the biggest hit of the party. People be coming up to me, &quot;just between you and me I'm really excited about the Ring Dings and the Pepsi. What are we, Europeans with the Beaujolais and Chardonnay . . .<br>
+							<br>
+							
+						ELAINE: Oh, Kramer, that&#146;s the bakery. Stop here. Stop here.<br>
+							<br>
+							
+						KRAMER: (low tone) All right.<br>
+							<br>
+							
+						ELAINE: Okay, let me out. You, eh, whatever your name is&#133;<br>
+							<br>
+							
+						JERRY: Jerry.<br>
+							<br>
+							
+						ELAINE: Yeah, Jerry, Jerry -- come with me.<br>
+							<br>
+							
+						KRAMER: Okay, so we're going to get the wine and we'll pick you up here in ten minutes.<br>
+							<br>
+							
+						ELAINE: Yeah.<br>
+							<br>
+							
+						KRAMER: All right<br>
+							<br>
+							<br>
+							<br>
+							
+						[The Royal Bakery]<br>
+							<br>
+							
+						ELAINE: Ummm, I love the smell of bakeries.<br>
+							<br>
+							
+						JERRY: Mmm. Oh look Elaine, the black and white cookie.<br>
+							<br>
+							
+						ELAINE: Mmm.<br>
+							<br>
+							
+						JERRY: I love the black and white. Two races of flavor living side by side in harmony. It's a wonderful thing isn't it?<br>
+							<br>
+							
+						ELAINE: You know I often wonder what you'll be like when you're senile.<br>
+							<br>
+							
+						JERRY: I'm looking forward to it.<br>
+							<br>
+							
+						ELAINE: Yeah. I think it will be a very smooth transition for you.<br>
+							<br>
+							
+						JERRY: Thank you. All right, look at all this stuff. What are we getting'?<br>
+							<br>
+							
+						ELAINE: CHOCOLATE BABKA! That's their specialty.<br>
+							<br>
+							
+						JERRY: Love that babka.<br>
+							<br>
+							
+						ELAINE: Yeah, yeah!<br>
+							<br>
+							
+						JERRY: So listen Elaine, when we get up to the door, you , you hold the cake box.<br>
+							<br>
+							
+						ELAINE: Why?<br>
+							<br>
+							
+						JERRY: I don't know, just standing there with a box, holding it by the little string.<br>
+							<br>
+							
+						(holding an imaginary box by the string - pinky finger extended)<br>
+							<br>
+							
+						ELAINE: You think it's effeminate?<br>
+							<br>
+							
+						JERRY: It's a tad dainty.<br>
+							<br>
+							
+						ELAINE: Oh, we forgot to pick a number.<br>
+							<br>
+							
+						JERRY: Oh, see that's not fair. We-We were here ahead of all these people.<br>
+							<br>
+							
+						ELAINE: I-cu-di-ge--You think I should go and ask her for hers?<br>
+							<br>
+							
+						JERRY: Ah, no, forget it.<br>
+							<br>
+							
+						ELAINE: No, no no no, no it's not fair. Just because they have a ticket doesn't mean they were here first. We were here, and we were ahead of them, and them, and her. Come on let's just go ask &#145;em. Come on. . . . Excuse me.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Kramer's car]<br>
+							<br>
+							
+						KRAMER: (exhales) Well, I'm not finding a spot here. What do you want to do?<br>
+							<br>
+							
+						GEORGE: Ah, Just double park.<br>
+							<br>
+							
+						KRAMER: No, no.<br>
+							<br>
+							
+						GEORGE: Why not?<br>
+							<br>
+							
+						KRAMER: I'll get a ticket! Besides, what if somebody wants to get out of here?<br>
+							<br>
+							
+						GEORGE: Are you kidding? People get spaces this good, they never give &#145;em up.<br>
+							<br>
+							
+						KRAMER: That's a fallacy.<br>
+							<br>
+							
+						GEORGE: All right, I'll tell you what... why don't you go into the store and I'll wait in the car?<br>
+							<br>
+							
+						KRAMER: Why don't YOU go into the store and I'LL wait in the car?<br>
+							<br>
+							
+						GEORGE: Because, I've got the coat. I can sit in the car and not get cold.<br>
+							<br>
+							
+						KRAMER: So what I'm going to leave the car running and the heat 'll be on.<br>
+							<br>
+							
+						GEORGE: Does the heater even work in this car?<br>
+							<br>
+							
+						KRAMER: No.<br>
+							<br>
+							
+						GEORGE: Oh, Hey, eh, there's a spot right in front of the liquor store. You see<br>
+							<br>
+							
+						KRAMER: I see.<br>
+							<br>
+							
+						GEORGE: You see, hu, ho ho.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Royal Bakery]<br>
+							<br>
+							
+						ELAINE: But we were here ahead of you.<br>
+							<br>
+							
+						BARBARA: How do I know that?<br>
+							<br>
+							
+						JERRY: Well we saw you come in.<br>
+							<br>
+							
+						DAVID: Well, that's easy for you to say.<br>
+							<br>
+							
+						ELAINE: Oh, yeah, right, that's something I do all the time, right. I make up stories to get ahead in lines at bakeries.<br>
+							<br>
+							
+						CLERK: 46?<br>
+							<br>
+							
+						ELAINE: Wait, wait a second are, are you Barbara Benedict?<br>
+							<br>
+							
+						BARBARA: Yes.<br>
+							<br>
+							
+						ELAINE: Oh my god. I, I know you. I-I&#146;m, I'm Elaine Benes. Do you remember we met at Linda van Grak's baby shower.<br>
+							<br>
+							
+						BARBARA: I'm on my way over there right now.<br>
+							<br>
+							
+						ELAINE: Yeah me too.<br>
+							<br>
+							
+						DAVID: You're Jerry right?<br>
+							<br>
+							
+						JERRY: David!<br>
+							<br>
+							
+						(Jerry and David put their hands to their respective chins, thinking about the situation)<br>
+							<br>
+							
+						ELAINE: Well, this is a little awkward, isn't it?<br>
+							<br>
+							
+						BARBARA: Yes it is.<br>
+							<br>
+							
+						ELAINE: You know we were here, ahead of you.<br>
+							<br>
+							
+						BARBARA: You're NOT getting my number.<br>
+							<br>
+							
+						JERRY: Oh so you still don't believe us.<br>
+							<br>
+							
+						CLERK: 47!<br>
+							<br>
+							
+						BARBARA: That&#146;s Us.<br>
+							<br>
+							
+						ELAINE: Ohhh, OK, fine, fine, go ahead. But listen let me tell you something as soon as I get there I'm going to tell everyone what a jerk you are.<br>
+							<br>
+							
+						BARBARA: Well, I'll be there ahead of you and I'LL be telling them what a jerk YOU are. . . . (turns to the counter) I'll have the chocolate babka.<br>
+							<br>
+							
+						CLERK: You're lucky Mrs. Benedict it's our last one.<br>
+							<br>
+							
+						(Elaine and Jerry&#146;s knees buckle and both have an anguished look when they hear about the last chocolate babka)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Liquor Store]<br>
+							<br>
+							
+						GEORGE: Alright, what are we getting? It's hot in here!<br>
+							<br>
+							
+						(Kramer looking around the store at the wines, he smacks his hands together and rubs)<br>
+							<br>
+							
+						KRAMER: Ooo, What do you say we get a Mouton Cadet?<br>
+							<br>
+							
+						GEORGE: What's that?<br>
+							<br>
+							
+						KRAMER: Well its a Bordeaux. Robust, bold, very dry. As opposed to a Beaujolais -- which is richer and fruitier. Ahh, here's one. Twelve dollars.<br>
+							<br>
+							
+						GEORGE: Twelve dollars? I knew we should have gone to the bakery. I guarantee you they&#146;re not getting no twelve dollar cake.<br>
+							<br>
+							
+						KRAMER: All right look, I am going to have to pay you back later. I don't have my wallet.<br>
+							<br>
+							
+						(George swaggers over to Kramer)<br>
+							<br>
+							
+						GEORGE: . . . Why not?<br>
+							<br>
+							
+						KRAMER: Because I don't like to carry my wallet. My Osteopath says that it's bad for my spine. It throws my hips off kilter. (makes a motion with his hips)<br>
+							<br>
+							
+						GEORGE: &quot;throws your hips off kilter&quot; So where's your money? (pulls out his wallet)<br>
+							<br>
+							
+						KRAMER: I never take it.<br>
+							<br>
+							
+						GEORGE: So what do you do?<br>
+							<br>
+							
+						KRAMER: Oh, I get by.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Royal Bakery]<br>
+							<br>
+							
+						BARBARA: See you later (exits with the babka)<br>
+							<br>
+							
+						ELAINE &amp; JERRY: See you later.<br>
+							<br>
+							
+						JERRY: That's the last babka. They got the last babka.<br>
+							<br>
+							
+						ELAINE: I know. They're going in first with the last babka.<br>
+							<br>
+							
+						JERRY: That was our babka.<br>
+							<br>
+							
+						ELAINE: You can't beat a babka.<br>
+							<br>
+							
+						JERRY: We had that babka.<br>
+							<br>
+							
+						ELAINE: (exhales) They're going to be heroes.<br>
+							<br>
+							
+						JERRY: Well what are we going to do now. If we can't get the babka the whole thing's useless.<br>
+							<br>
+							
+						ELAINE: Well how about a carrot cake?<br>
+							<br>
+							
+						JERRY: Carrot cake? Now w-why is that a cake? You don't make carrots into a cake. I'm sorry.<br>
+							<br>
+							
+						ELAINE: Black Forrest?<br>
+							<br>
+							
+						JERRY: Black Forrest? Too scary. You're in the Forrest, oohh.<br>
+							<br>
+							
+						JERRY: How about a Napoleon?<br>
+							<br>
+							
+						ELAINE: Napoleon? Who's he to have a cake? He was a ruthless war monger. Might as well get Mengele.<br>
+							<br>
+							
+						JERRY: That was our babka. We had that babka!<br>
+							<br>
+							
+						ELAINE: What's this one?<br>
+							<br>
+							
+						CLERK: That, Cinnamon Babka.<br>
+							<br>
+							
+						ELAINE: (gasp)<br>
+							<br>
+							
+						JERRY: Another babka?<br>
+							<br>
+							
+						CLERK: There's chocolate and there's cinnamon.<br>
+							<br>
+							
+						JERRY: Well-well we got to get the cinnamon.<br>
+							<br>
+							
+						ELAINE: No, but they got the chocolate. We'll be going in with lesser babka.<br>
+							<br>
+							
+						JERRY: I beg your pardon? Cinnamon takes a back seat to no babka. People love cinnamon. It should be on tables in restaurants along with salt and pepper. Anytime anyone says, &quot;Oh This is so good. What's in it?&quot; The answer invariably comes back, Cinnamon. Cinnamon. Again and again. Lesser babka - I think not.<br>
+							<br>
+							
+						CLERK: 49?<br>
+							<br>
+							
+						ELAINE: I'll have a cinnamon babka.<br>
+							<br>
+							
+						JERRY: &#133; and a black and white cookie, for me. Peace!<br>
+							<br>
+							
+						(Jerry puts up the 2 finger peace sign and smiles)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Liquor store]<br>
+							<br>
+							
+						(The clerk puts the wine bottle in a brown paper bag and sets it on the counter)<br>
+							<br>
+							
+						CLERK: That&#146;ll be 13.05<br>
+							<br>
+							
+						GEORGE: All right here you go.<br>
+							<br>
+							
+						KRAMER: Yeuu.<br>
+							<br>
+							
+						CLERK: A hundred? I can't change that.<br>
+							<br>
+							
+						GEORGE: You can't - huhu, All right let's go.<br>
+							<br>
+							
+						KRAMER: Wait a second. I can get change.<br>
+							<br>
+							
+						(Kramer and George walk out to the sidewalk.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Out on the street]<br>
+							<br>
+							
+						KRAMER: Hey, anybody got change for a hundred?<br>
+							<br>
+							
+						GEORGE: Are you crazy?! What are you doing?! You'll get us killed!<br>
+							<br>
+							
+						KRAMER: What?<br>
+							<br>
+							
+						GEORGE: Don't go shouting we got a hundred dollar bill. People will be jumping out of windows on top of us.<br>
+							<br>
+							
+						KRAMER: Alright, Let's go but something. Then we'll get some change.<br>
+							<br>
+							
+						GEORGE: I am not buying something just to get change.<br>
+							<br>
+							
+						KRAMER: George, there's a news stand right over there. Now come on.<br>
+							<br>
+							
+						(Kramer buttons his jacket up and goes over to the news stand, George stands there for a second then goes over.)<br>
+							<br>
+							
+						(At the News stand)<br>
+							<br>
+							
+						GEORGE: All right, what are we doing?<br>
+							<br>
+							
+						KRAMER: Just get some gum or something.<br>
+							<br>
+							
+						(George pick up the gum)<br>
+							<br>
+							
+						GEORGE: Pack of gum. Here you go. (hands the clerk a $100 bill)<br>
+							<br>
+							
+						CLERK: What is it a hundred? I can't change a hundred.<br>
+							<br>
+							
+						GEORGE: Why not?<br>
+							<br>
+							
+						CLERK: You got to buy more than that.<br>
+							<br>
+							
+						KRAMER: Here, get a newspaper. (Kramer hands George a Newspaper)<br>
+							<br>
+							
+						GEORGE: Newspaper.<br>
+							<br>
+							
+						CLERK: Not enough.<br>
+							<br>
+							
+						KRAMER: Clark Bar. (Kramer starts tearing the candy wrapper open with his teeth.)<br>
+							<br>
+							
+						GEORGE: Clark Bar.<br>
+							<br>
+							
+						CLERK: Keep going.<br>
+							<br>
+							
+						GEORGE: We&#146;re up to two dollars here.<br>
+							<br>
+							
+						KRAMER: Here, George, get a Penthouse Forum.<br>
+							<br>
+							
+						GEORGE: I'm not getting a Penthouse Forum.<br>
+							<br>
+							
+						(George grabs the Forum and walks a few steps over by the magazines -- Kramer follows him )<br>
+							<br>
+							
+						KRAMER: Why? No, that&#146;ll make great dinner party conversation. We'll read the letters at the dinner table.<br>
+							<br>
+							
+						GEORGE: Oh, that's nice.<br>
+							<br>
+							
+						(Kramer takes a bite of the Clark Bar)<br>
+							<br>
+							
+						KRAMER: Come on, did you ever read one of these?<br>
+							<br>
+							
+						(Kramer take the forum from George and starts to leaf through it)<br>
+							<br>
+							
+						GEORGE: It's not real. They're all made up.<br>
+							<br>
+							
+						KRAMER: Ohh, it's real.<br>
+							<br>
+							
+						GEORGE: Well you know there is an unusual number of people in this country having sex with AMPUTEES! (grabs the forum from Kramer and walks over to the clerk) . . . Penthouse forum, newspaper, gum, Clark Bar.<br>
+							<br>
+							
+						(Kramer takes the forum back and starts reading, he takes a bite of the Clark bar.)<br>
+							<br>
+							
+						CLERK: 6.75.<br>
+							<br>
+							
+						GEORGE: Ah, great. All right, with the wine I'm in over twenty dollars now.<br>
+							<br>
+							
+						KRAMER: All right, all right.<br>
+							<br>
+							
+						(A man bumps ito George)<br>
+							<br>
+							
+						MAN1: (gibberish Arabic yelling) ...Big Coat! Big Coat!<br>
+							<br>
+							
+						GEORGE: Yes, I&#146;m Sorry, it's a new coat. It-it's Gore-Tex.<br>
+							<br>
+							
+						KRAMER: You better be careful with that thing... You'll start a war.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Royal Bakery]<br>
+							<br>
+							
+						(Jerry and Elaine are waiting in line, Jerry takes a bite of his cookie and then speaks)<br>
+							<br>
+							
+						JERRY: Uhm, see the key to eating a Black and White cookie, Elaine, is you want to get some black and some white in each bite. Nothing mixes better than, vanilla and chocolate. And yet still somehow racial harmony eludes us. If people would only *Look to the Cookie* -- all our problems would be solved.<br>
+							<br>
+							
+						ELAINE: Well your views on race relations are just, fascinating. You really should do an Op-Ed piece for the Times. (Op-Ed stands for Opinions and Editorials)<br>
+							<br>
+							
+						JERRY: Hmm. Look to the cookie Elaine... Look to the cookie.<br>
+							<br>
+							
+						(Jerry sees a black man on the other side of the bakery eating the same cookie -- Jerry raises his cookie up and so does the man -- in a moment of racial harmony &amp; unity to which he just spoke of.)<br>
+							<br>
+							
+						ELAINE: (looking in the box) Well what is this?<br>
+							<br>
+							
+						JERRY: What?<br>
+							<br>
+							
+						ELAINE: It's a hair.<br>
+							<br>
+							
+						JERRY: Oh, oh take it back. Let's get another one.<br>
+							<br>
+							
+						ELAINE: No, we're late as it is. I'll just take it off.<br>
+							<br>
+							
+						JERRY: No no come on really, get another one. It&#146;ll take a second.<br>
+							<br>
+							
+						ELAINE: Alright, alright.<br>
+							<br>
+							
+						(they walk back up to the counter)<br>
+							<br>
+							
+						ELAINE: Excuse me.<br>
+							<br>
+							
+						Man: Hey hey, I'm on line here.<br>
+							<br>
+							
+						ELAINE: No noo no, we just bought this. . . . Um, you sold us a cake with a (quietly) hair on it.<br>
+							<br>
+							
+						CLERK: You have to take a number.<br>
+							<br>
+							
+						ELAINE: We waited fifteen minutes for this. Tst - YOU SELL ME A CAKE WITH A HAIR ON IT. Then you want me to wait? . . . What are you doing (to Jerry taking a number) you&#146;re gonna wait now?<br>
+							<br>
+							
+						JERRY: Well, I'm not going to eat a cake with a hair on it.<br>
+							<br>
+							
+						ELAINE: Well it was a little hair. I took it off.<br>
+							<br>
+							
+						JERRY: A little hair? Do you think that makes it better?<br>
+							<br>
+							
+						ELAINE: What if it's your hair?<br>
+							<br>
+							
+						JERRY: What if it's your hair?<br>
+							<br>
+							
+						ELAINE: (Wh-wh) What is wrong with my hair? Nobody takes better care of their hair than me. You can serve dinner on my head.<br>
+							<br>
+							
+						JERRY: Who needs that misty herbal rain water crap they sell in the health food store. I use Prell, the hard stuff. Hundred proof - takes your roots out. (pretends to pull hair out)<br>
+							<br>
+							
+						ELAINE: Okay, fine, we'll just wait until she calls the number.<br>
+							<br>
+							
+						JERRY: Well, maybe we should just forget about the cake?<br>
+							<br>
+							
+						ELAINE: No I'm bringing cake! (looking worried and apprehensive)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Liquor store]<br>
+							<br>
+							
+						GEORGE: All right we got the wine. Aren't we lucky? We got wine. Whoopee Whoa! Imagine if we didn't bring the wine. We'd be shunned by society. Outcasts! WHERE'S YOUR WINE? GET OUT!<br>
+							<br>
+							
+						(George picks up the bottle of wine from the counter. George and Kramer start walking to the door)<br>
+							<br>
+							
+						KRAMER: (reading from the Penthouse Forum) &quot;I know this is going to sound like a crazy fantasy but every word of this story is true&#133;&quot; (exits to street) &quot; A few weeks ago my girlfriend happened to mention to me how attractive she thought our new neighbor Linda was&#133;&quot;<br>
+							<br>
+							
+						GEORGE: L-Look at this?<br>
+							<br>
+							
+						KRAMER: Ahh.<br>
+							<br>
+							
+						GEORGE: Somebody double parked and blocked us in. D-DOES ANYBODY KNOW WHOSE CAR THAT IS? Maybe there's a note on it. Ohh-oh brother. No, no note. Can you believe this?<br>
+							<br>
+							
+						KRAMER: &quot;&#133;well of course I noticed it too with those cannibal breasts and pouty lips. I don't have to tell you she was a knock out&#133;.&quot; (turns the page)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Still on street but much later -- it&#146;s night]<br>
+							<br>
+							
+						GEORGE: I really can not comprehend how stupid people could be sometimes. Can you comprehend it?<br>
+							<br>
+							
+						KRAMER: No, no I can't comprehend it?<br>
+							<br>
+							
+						GEORGE: I mean we can put a man on the moon but we're still basically very stupid. The guy who's car this is? He could be one of the guys that built the rocket. You see what I'm saying?<br>
+							<br>
+							
+						KRAMER: Well yeah, yeah. He could build the rocket, but-but he's still stupid for double-parking and blocking somebody in.<br>
+							<br>
+							
+						GEORGE: So you really understand my point about building a rocket and double-parking.<br>
+							<br>
+							
+						KRAMER: Yeah, on one hand he's smart with rockets and on the other hand he's dumb with parking. . . . It's cold out here huh?<br>
+							<br>
+							
+						GEORGE: Maybe it's not even stupidity. Maybe it's just a blatant disregard for basic human decency. Yeah this how dictator's start. Do you think Mussolini would circle the block six times looking for a spot?<br>
+							<br>
+							
+						KRAMER: How about Idi Amin, huh?<br>
+							<br>
+							
+						GEORGE: I&#146;ll tell you, if I was running for office I would ask for the death penalty for double-parkers. If this is allowed to go on this is not a society. THIS IS ANARCHY!<br>
+							<br>
+							
+						KRAMER: Are those shoes comfortable?<br>
+							<br>
+							
+						GEORGE: No not really.<br>
+							<br>
+							
+						KRAMER: Cause they look comfortable.<br>
+							<br>
+							
+						GEORGE: I know that's why I bought `em but they're not comfortable.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Royal Bakery]<br>
+							<br>
+							
+						ELAINE: Why couldn't we just take the hair off and go?<br>
+							<br>
+							
+						JERRY: No. That&#146;s out of the question.<br>
+							<br>
+							
+						ELAINE: Whhhy?<br>
+							<br>
+							
+						JERRY: Because I had a bad experience with a hair when I was younger.<br>
+							<br>
+							
+						ELAINE: What happened?<br>
+							<br>
+							
+						JERRY: I'd rather not talk about it.<br>
+							<br>
+							
+						ELAINE: You can't tell me?<br>
+							<br>
+							
+						JERRY: All right . . . . I once found a hair in my Farina and I freaked out.<br>
+							<br>
+							
+						(*Farina: A meal or flour obtained chiefly from cereals, nuts, potatoes or Indian Corn, and used as a breakfast food.)<br>
+							<br>
+							
+						ELAINE: You found a hair in your Farina?<br>
+							<br>
+							
+						JERRY: Yeah.<br>
+							<br>
+							
+						CLERK&#146;S VOICE (off camera): 56<br>
+							<br>
+							
+						ELAINE: What happened?<br>
+							<br>
+							
+						JERRY: Well I started screaming, &quot;There's a hair in my farina. There's a hair in my farina.&quot; Then I ran out of the house and I was running and running. And like I was little but I could run very fast. And I-I just kept running (In the background -- CLERK&#146;S VOICE: 57) and they found me like three hours later collapsed at a construction site.<br>
+							<br>
+							
+						ELAINE: (quietly) Wow. Who's hair was it?<br>
+							<br>
+							
+						(In the background -- the Clerk is coughing)<br>
+							<br>
+							
+						JERRY: My mother's.<br>
+							<br>
+							
+						ELAINE: (quietly) Ahhhhh<br>
+							<br>
+							
+						CLERK: 58!<br>
+							<br>
+							
+						ELAINE: Ooo, That's us. (hits Jerry in the arm)<br>
+							<br>
+							
+						JERRY: Oh, good.<br>
+							<br>
+							
+						(Elaine and Jerry walk up to the counter. She sets the box on the counter with a thud)<br>
+							<br>
+							
+						ELAINE: You sold us a hair with a cake around it. We'd like another one.<br>
+							<br>
+							
+						CLERK: (coughing and coughing, getting really bad)<br>
+							<br>
+							
+						JERRY: Oh, that's lovely.<br>
+							<br>
+							
+						ELAINE: Ah,<br>
+							<br>
+							
+						JERRY: That&#146;s what you want to see, yeah. . . . Yeah, you want to trade your hair for some phlegm.<br>
+							<br>
+							
+						(coughing and coughing)<br>
+							<br>
+							
+						JERRY: Yeah that&#146;s a good deal -- you win the Pennant with that trade, hair for phlegm.<br>
+							<br>
+							
+						CLERK: Here you are. (hands Elaine the cake box)<br>
+							<br>
+							
+						ELAINE: Okay. Alright we got the cake now. Where is George and Kramer?<br>
+							<br>
+							<br>
+							<br>
+							
+						[on street outside Liquor Store]<br>
+							<br>
+							
+						(honking -- honk, honk honk honk, honk)<br>
+							<br>
+							
+						KRAMER: HEY DOUBLE-PARKER! (honk, honk) SHOW YOURSELF. (honk, honk) COME ON OUT, I&#146;M FREEZING! (honk, honk)<br>
+							<br>
+							
+						GEORGE: We are really late now. We're in big trouble. Big trouble.<br>
+							<br>
+							
+						KRAMER: Why?<br>
+							<br>
+							
+						GEORGE: You know -- Elaine.<br>
+							<br>
+							
+						KRAMER: What about her?<br>
+							<br>
+							
+						GEORGE: . . . I'm a little scared of her.<br>
+							<br>
+							
+						KRAMER: You're scared of Elaine?<br>
+							<br>
+							
+						GEORGE: Yes!<br>
+							<br>
+							
+						KRAMER: Why?<br>
+							<br>
+							
+						GEORGE: Did you ever see her lose her temper. I was once late cause I bought a Panama hat -- she grabbed it by the brim, pulled it down so hard my head came right through the top of it.<br>
+							<br>
+							
+						KRAMER: Hey, let's go inside the liquor store. I&#146;m freezin in here.<br>
+							<br>
+							
+						GEORGE: Why didn't you just wear a heavier coat?<br>
+							<br>
+							
+						KRAMER: Because I wanted to look good for the party.<br>
+							<br>
+							
+						(they get out of the car and see a man and woman walking towards the double parked car . George goes right up to the man.)<br>
+							<br>
+							
+						GEORGE: Oh, Hey, hey, hey! That's great! That's very nice. You know we've been waiting twenty minutes for you people?! What do you think, you're Mussolini?!<br>
+							<br>
+							
+						MAN2: Back off *Puff Ball* it's not my car! (shoving George&#146;s shoulder, he turns and walks away)<br>
+							<br>
+							
+						GEORGE: I wasn't talking to you.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Royal Bakery]<br>
+							<br>
+							
+						(Jerry and Elaine sit inside waiting for George and Kramer to show up)<br>
+							<br>
+							
+						ELAINE: Wait `til I get my hands on that George. I am gonna *pull* that big hood over his little head... tie the strings, and suffocate. You remember that Panama hat? That was nothing.<br>
+							<br>
+							
+						JERRY: Huh, wa?<br>
+							<br>
+							
+						ELAINE: What's the matter with you?<br>
+							<br>
+							
+						JERRY: I don&#146;t know, I don't feel so good.<br>
+							<br>
+							
+						ELAINE: What's wrong?<br>
+							<br>
+							
+						JERRY: My stomach, I , think it was that cookie.<br>
+							<br>
+							
+						ELAINE: The black and white?<br>
+							<br>
+							
+						JERRY: Yeah.<br>
+							<br>
+							
+						ELAINE: Not getting&#146; along?<br>
+							<br>
+							
+						JERRY: I think I got David Duke and Farrakhan down there.<br>
+							<br>
+							
+						ELAINE: (mocking - in a dopey voice) &#147;Well if we can't look to the cookie where can we look?&#148;<br>
+							<br>
+							
+						JERRY: Oh my stomach. I feel like I'm going to throw up.<br>
+							<br>
+							
+						ELAINE: Wait, what about your vomit streak?<br>
+							<br>
+							
+						JERRY: I know, I haven't thrown up since June 29th, 1980.<br>
+							<br>
+							
+						(A man with cane turns from the counter and puts the cane on Elaine's foot)<br>
+							<br>
+							
+						ELAINE: Oh, oh! Ooh my god. Oh!<br>
+							<br>
+							
+						MAN3: Sooory.<br>
+							<br>
+							
+						ELAINE: Sorry? You almost took my toe off. Why don't you watch what you're doing you, LUNATIC!&#133; (the man turns and walks away)<br>
+							<br>
+							
+						ELAINE: (con&#146;t) ...uh, Jerry, I think he broke my toe. (Jerry gets up) W-Where're you going?<br>
+							<br>
+							
+						JERRY: Fourteen years down the drain. (points and walks off -- to the bathroom)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Liquor Store]<br>
+							<br>
+							
+						GEORGE: Do you think chickens have individual personalities?<br>
+							<br>
+							
+						KRAMER: (shivering) I don't know.<br>
+							<br>
+							
+						GEORGE: If you had like five chickens could you tell them apart by just the way they acted? Or would they all just be walking around? Bak, bak, baak, bak? Cause if they have individual personalities I&#146;m not sure we should be eaten `em. What's the matter with you?<br>
+							<br>
+							
+						KRAMER: (shivering gibberish) Waj cha jia ja<br>
+							<br>
+							
+						CLERK: Can I help you guys with anything?<br>
+							<br>
+							
+						GEORGE: Oh, no no no -- We bought the wine here before, but now, you know we're bl-blocked in by some car double parked and we're just waiting for the guy to pull out.<br>
+							<br>
+							
+						CLERK: Well wait outside. This isn't a hangout.<br>
+							<br>
+							
+						GEORGE: But my friend here has hypothermia.<br>
+							<br>
+							
+						KRAMER: (shivering) Hypothermia.<br>
+							<br>
+							
+						CLERK: All right guys, take it outside.<br>
+							<br>
+							
+						(George turns and knocks into a wine display -- breaking several bottles)<br>
+							<br>
+							
+						CLERK: You're paying for these.<br>
+							<br>
+							
+						(Krames slips on the wine and falls)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Royal bakery]<br>
+							<br>
+							
+						(Elaine tending to her foot, Jerry emerges)<br>
+							<br>
+							
+						ELAINE: How was it?<br>
+							<br>
+							
+						JERRY: As good as it gets.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Outside Liquor Store]<br>
+							<br>
+							
+						(Kramer and George standing outside freezing)<br>
+							<br>
+							
+						GEORGE: You know that coat was Gore-Tex. It&#146;s worth a hell of a lot more than that, cheap Chardonnay.<br>
+							<br>
+							
+						KRAMER: (shivering) You know I'm freezin. I&#146;m definitely freezin. I can't stop shaking.<br>
+							<br>
+							
+						GEORGE: I'm cold too. At least you've got a coat. Let's get in the car.<br>
+							<br>
+							
+						(Kramer grabs George's arm and motions towards a man headed for the double parked car. He has a large mustache and is wearing a long overcoat and a beret)<br>
+							<br>
+							
+						KRAMER: (quietly) L-l (look)<br>
+							<br>
+							
+						GEORGE: Oh, my god that's Saddam Hussein. The dictator.<br>
+							<br>
+							
+						MAN4: I wouldn't walk around without a coat in this weather; you'll catch your death of cold. So long. (waves to George and Kramer as they wave back at him.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Royal bakery]<br>
+							<br>
+							
+						(Jerry sitting next to Elaine, who is tending to her injured foot)<br>
+							<br>
+							
+						CLERK: Can I get&#146;ca anything else?<br>
+							<br>
+							
+						JERRY: Oh, no thanks.<br>
+							<br>
+							
+						CLERK: How about a nice box of &quot;scram&quot;.<br>
+							<br>
+							
+						(George enters - Jerry nudges Elaine with his elbow and points at George)<br>
+							<br>
+							
+						GEORGE: S-s-somebody double parked, we couldn't help it. It might have been Saddam Hussein, we're not really sure. He eh, had a British accent though.<br>
+							<br>
+							
+						(Elaine and Jerry stand up slowly)<br>
+							<br>
+							
+						GEORGE: What, what happened to you?<br>
+							<br>
+							
+						ELAINE: Somebody put a cane on my foot. Just like the one I'm going to put up your...<br>
+							<br>
+							
+						JERRY: Hey, what happened to your coat? And what is the smell? Is-ya, What are you drunk?<br>
+							<br>
+							
+						GEORGE: I had to give it to the liquor store guy.<br>
+							<br>
+							
+						JERRY: What for?<br>
+							<br>
+							
+						GEORGE: I spilled some Chardonnay. So, what did you get?<br>
+							<br>
+							
+						(they start walking to the door, Elaine is limping and in some pain)<br>
+							<br>
+							
+						ELAINE: Cinnamon babka.<br>
+							<br>
+							
+						GEORGE: Cinnamon? Why didn't &#145;cha get chocolate?<br>
+							<br>
+							
+						(Elaine shoots a quick look at George)<br>
+							<br>
+							
+						JERRY: George!<br>
+							<br>
+							<br>
+							<br>
+							
+						[In the car]<br>
+							<br>
+							
+						(All four riding in silence, Kramer is still shivering)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Apartment #7]<br>
+							<br>
+							
+						(Elaine knocks 3 times on the door. The door opens)<br>
+							<br>
+							
+						ELAINE: Here, here's your cake. (just about tosses it at the woman)<br>
+							<br>
+							
+						GEORGE: And your wine.<br>
+							<br>
+							
+						ELAINE: See ya'.<br>
+							<br>
+							
+						JERRY: See ya'.<br>
+							<br>
+							
+						(all four turn and walk off. The woman stands there looking confused, holding the wine and cake box.)<br>
+							<br>
+							<br>
+							
+						[Closing Monologue]<br>
+							<br>
+							
+						I heard a weather man say, that, 75% of your body heat is actually lost, through the top of the top of the head. Which sounds like you could go skiing naked if you got a good hat. But there's no hat that makes a statement quite like the hat with the flaps. The hat with the flaps (grabs the hat and holds it up), makes a statement that no, that no other, hat makes. This hat says to the world &quot;I would rather have the heat in my skull than anything society could possibly offer.&quot; In fact I would say if you're on trial for serious crime and you lawyer recommends the insanity defense, this is the hat to wear. I mean your lawyer should really insist on it. He should just go &#147;Your honor, (puts on the hat) The defense rests.&quot;<br>
+							<br>
+							<br>
+							
+						The End</td>
+						</tr>
+						<tr height="6">
+							<td class="bottom2" width="645" height="6"></td>
+						</tr>
+						<tr>
+							<td width="645">
+								<div align="center">
+									<font size="-1">Copyright 2006 seinology.com | All Rights Reserved | Designed by 13erla</font></div>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+		<p></p>
+	</body>
+
+</html>

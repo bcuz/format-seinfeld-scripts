@@ -1,0 +1,1222 @@
+<tdOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+<html>
+
+	<head>
+		<meta http-equiv="content-type" content="text/html;charset=ISO-8859-1">
+		<meta name="description" content="Top Source for Seinfeld">
+		<meta name="keywords" content="seinfeld, sienfeld, Jerry Seinfeld, Julia Louis Dreyfus, Jason Alexander, Michael Richards, Kramer, George, Costanza, Elaine Benes, morty, Larry David">
+		<title>Seinology.com :: Scripts :: 70-The Lip Reader</title>
+	<link rel='stylesheet' href='/stylesheet.css' type='text/css'>
+	</head>
+
+	<body>
+			<table align="center" width="787" border="0" cellspacing="0" cellpadding="0">
+				<tr>
+					<td><font size="-2" color="red">Seinology.com - </font><font size="-3" color="black">Where Seinfeld Content and Accuracy Matter Most. Seinfeld scripts in pdf form, Seinfeld episode video clips, Seinfeld episode audio clips, Jerry Seinfeld appearances, Julia Louis-Dreyfus appearances, Michael Richards appearances, Jason Alexander appearances, Seinfeld discussion Forum, Seinfeld Where are they Now? Seinlanguage Newsletter, Popular Seinfeld Lists, Seinfeld episode standup, Seinfeld episode guide, Seinfeld fan fiction. Seinfeld content all on one domain. Seinology.com enjoy your stay.</font></td>
+				</tr>
+			</table>
+		
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr height="100">
+				<td class="logo"></td>
+			</tr>
+			<tr><td class="ads" align="center" background=#8694fa>
+				<script type="text/javascript"><!--
+google_ad_client = "pub-1924026976931416";
+google_ad_width = 728;
+google_ad_height = 90;
+google_ad_format = "728x90_as";
+google_ad_type = "text";
+google_ad_channel = "";
+google_color_border = "FFFFFF";
+google_color_bg = "8694fa";
+google_color_link = "0000FF";
+google_color_text = "000000";
+google_color_url = "002E3F";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></td></tr>
+		</table>
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr>
+				<td valign="top" width="136">
+					<table width="136" border="0" cellspacing="0" cellpadding="0">
+						<tr height="24">
+							<td class="navigation">
+								<div align="center">
+									
+									<b>Navigation</b></div>
+							</td>
+						</tr>
+						<tr height="199">
+							<td class="spacer1" valign="top" width="136" height="199">
+								<div align="center">
+									<font size="-1"><a href="http://www.seinology.com">Home</a><br>
+										<a href="http://board.seinology.com">Forum</a><br>
+										<a href="http://www.seinology.com/av.shtml">Audio/Video</a><br>
+										<a href="http://www.seinology.com/scripts.shtml">Scripts</a><br>
+										<a href="http://www.seinology.com/survivor.shtml">Survivor</a><br>
+										<a href="http://www.seinology.com/fanfics.shtml">Fan Fiction</a><br>
+										<a href="http://www.seinology.com/gallery/">Gallery</a><br>
+										<a href="http://www.seinology.com/newsletter.shtml">Newsletter</a><br>
+										<a href="http://www.seinology.com/lists.shtml">Lists</a><br>
+										<a href="http://www.seinology.com/epguide.shtml">Episode Guide</a><br>
+										<a href="http://www.seinology.com/links.shtml">Links</a><br>
+										<a href="http://www.seinology.com/faqother.shtml">Faq + others</a><br>
+										<a href="http://www.seinology.com/legal.shtml">Legal</a></font></div>
+							</td>
+						</tr>
+						
+						<tr>
+							<td class="nav2" width="136">
+							<div align="center"><b>Search</b></div></td>
+						</tr>
+						<tr>
+							<td class="spacer1" width="136" valign="top"><div align="center"><form method="get" action="http://www.seinology.com/search/search.cgi">
+<p><label for="fdse_Match">Match</label><br>
+<select name="Match" id="fdse_Match" size="1">
+<option value="1">All</option>
+<option value="0">Any</option>
+<option value="2">Phrase</option>
+</select></p>
+<p><label for="fdse_Realm">Where?</label><br>
+<select name="Realm" id="fdse_Realm" size="1">
+<option selected="selected" value="All">EntireSite</option>
+<option value="Ep Guide">Ep Guide</option>
+<option value="Images">Images</option>
+<option value="Lists">Lists</option>
+<option value="Newsletters">Newsletters</option>
+<option value="Scripts">Scripts</option>
+<option value="Notes..Nothing">Notes..Nothing</option>
+</select></p>
+<p><input type="text" name="Terms" size="14" id="fdse_Terms"><br>
+<input type="submit" class="submit" name="submitButtonName" value="Search"></p>
+</div></form></td>
+						</tr>
+						<tr><td class="bottom" width="136" height="10" valign="top">
+						</td>
+						</tr>
+					</table>
+				</td>
+				<td width="4"></td>
+				<td valign="top" width="645">
+					<table width="645" border="0" cellspacing="0" cellpadding="0">
+						<tr height="18">
+							<td width="645" height="35" class="bar">
+								<div align="center">
+									<b><font size="+2" color="black">Script</font></b></div>
+							</td>
+						</tr>
+						<tr height="362">
+							<td class="spacer2" valign="top" width="645" height="362">
+
+						<p><font size="-2">Episode 70 - The Lip Reader<br>
+							
+						pc: 506, season 5, episode 6<br>
+							
+						Broadcast date: October 28, 1993<br>
+							<br>
+							
+						Written by Carol Leifer<br>
+							
+						Directed by Tom Cherones<br>
+							<br>
+							
+						-------------------------------------------------------------------------------<br>
+							<br>
+							
+						The Cast<br>
+							
+						Regulars:<br>
+							
+						Jerry Seinfeld ....................... Jerry Seinfeld<br>
+							
+						Jason Alexander .................. George Costanza<br>
+							
+						Julia Louis-Dreyfus ............. Elaine Benes<br>
+							
+						Michael Richards ................. Kramer<br>
+							<br>
+							
+						Guest Stars:<br>
+							<br>
+							
+						Christopher Darga .............. Driver<br>
+							
+						Linda Kash .......................... Gwen<br>
+							
+						Jerry Sroka ......................... Todd<br>
+							
+						Marlee Matlin ...................... Laura<br>
+							
+						Veralyn Jones ...................... Renee<br>
+							
+						Dylan Haggerty .................. Young Man<br>
+							
+						Bret Anthony ..................... Teen<br>
+							
+						rc: Wayne Knight ............... Newman<br>
+							<br>
+							
+						==================================================================<br>
+							<br>
+							
+						[Opening Monologue] <br>
+							<br>
+							
+						JERRY: Professional tennis. To me I don't understand all the shushing. Why are they always shushing. Shh, shh. Don't the players know that we're there? Should we duck down behind the seats so they don't see us watching them? To me tennis is basically just ping-pong and the players are standing on the table. That's all it is. And that goofy scoring, you win one point and all the sudden you're up by 15. Two points, 30-love. 30-love. Sounds like an English call girl. &quot;That'll be 30, love... And could you be a little quieter next time, please, shh.&quot; <br>
+							<br>
+							<br>
+							
+						[In the bleachers at the tennis court. Two players are hitting the ball back and forth.]<br>
+							<br>
+							
+						JERRY: Are these seats unbelievable or what? <br>
+							<br>
+							
+						GEORGE: Where's the sunblock? <br>
+							<br>
+							
+						JERRY: Here. <br>
+							<br>
+							
+						GEORGE: 25? You don't have anything higher? <br>
+							<br>
+							
+						JERRY: What, are you on Mercury? <br>
+							<br>
+							
+						GEORGE: I need higher. This has paba in it, I need paba-free. <br>
+							<br>
+							
+						JERRY: You got a problem with paba? <br>
+							<br>
+							
+						GEORGE: Yes, I have a problem with paba. <br>
+							<br>
+							
+						JERRY: You don't even know what paba is. <br>
+							<br>
+							
+						GEORGE: I know enough to stay away from it. <br>
+							<br>
+							
+						ANNOUNCER: 30-Love<br>
+							<br>
+							
+						GEORGE: So are you going to Todd's party this weekend? <br>
+							<br>
+							
+						JERRY: I'll go if someone else drives. You going? <br>
+							<br>
+							
+						GEORGE: Gwen really wants to go. <br>
+							<br>
+							
+						JERRY: You're bringing a date to a party? <br>
+							<br>
+							
+						GEORGE: No good? <br>
+							<br>
+							
+						JERRY: A party is a bad date situation. It doesn't matter who you're with. You could be with J. Edgar Hoover. You don't want to sit and talk with Hoover all night. You want to circulate. (Makes hand motions) Ho, ho, ho. <br>
+							<br>
+							
+						GEORGE: Why'd you pick Hoover? Was he that interesting to talk to? <br>
+							<br>
+							
+						JERRY: Well I would think, with the law enforcement and the cross dressing. Seems like an interesting guy. <br>
+							<br>
+							
+						GEORGE: Yeah I guess. What can I do? I gotta take her with me. Todd introduced us, I'm obligated. <br>
+							<br>
+							
+						JERRY: That woman is absolutely stunning. <br>
+							<br>
+							
+						GEORGE: Who, the Croat? [the tennis player] <br>
+							<br>
+							
+						JERRY: Not the Croat, the lineswoman. That is the most beautiful lineswoman I've ever seen. <br>
+							<br>
+							
+						GEORGE: Yeah, she's a B.L. <br>
+							<br>
+							
+						JERRY: B.L.? <br>
+							<br>
+							
+						GEORGE: Beautiful lineswoman. Alright listen uh I'm going to go to the concession stand and get some real sunblock. You want anything? Jerry? (Jerry is staring at the lineswoman) Jerry? <br>
+							<br>
+							<br>
+							
+						[At Elaine's office.] <br>
+							<br>
+							
+						COWORKER: You know, I just heard the Lexington line is out. <br>
+							<br>
+							
+						ELAINE: (annoyed) Uh, you are kidding me. How am I supposed to get to this meeting? <br>
+							<br>
+							
+						COWORKER: Take a car service. We have an account. <br>
+							<br>
+							
+						ELAINE: Oh forget it, I hate those. Everytime I take one, the driver will *not* stop talking to me. No matter how disinterested I seem he just keeps yakking away. Blah, blah, blah, blah, blah. Why does everything always have to have a social componant? Now a stage coach, that would have been a good situation for me. Cause I'm in the coach, and the driver is way up there on the stage. <br>
+							<br>
+							
+						COWORKER: Well you're not going to get a cab now. Four thirty in the afternoon? Read a magazine, keep your head down. <br>
+							<br>
+							
+						ELAINE: Yea, I guess that could work. <br>
+							<br>
+							<br>
+							
+						[At the tennis court concession stand. George is eating a sundae. ]<br>
+							<br>
+							<br>
+							
+						[At Jerry's apartment. Kramer is watching TV.] <br>
+							<br>
+							
+						ANNOUNCER: And that is it. The match to Ms. Natalia Valdoni. Coming up next, mens single, but for now let's stop a minute and take a look at our beautiful tennis center backdrop. <br>
+							<br>
+							
+						KRAMER: Hey, hey, it's George. <br>
+							<br>
+							
+						(George is on TV eating a sundae. His face is covered in ice cream and fudge. He is taking a bite of ice cream and dripping it around his mouth.) <br>
+							<br>
+							
+						ANNOUNCER: Holy cow it's a scorcher. Boy I bet you that guy can cover a lot of court. <br>
+							<br>
+							
+						ANNOUNCER #2: Hey buddy, they got a new invention. It's called a napkin. We'll take a station break and continue with more action... <br>
+							<br>
+							<br>
+							
+						[Elaine in the Service Car] <br>
+							<br>
+							
+						DRIVER: Dag Gavershole Plaza huh? (Elaine ignores him) Pendant Publishing, that's books right? (Elaine is annoyed and still ignoring him) Miss? <br>
+							<br>
+							
+						ELAINE: Pardon me? <br>
+							<br>
+							
+						DRIVER: Books, that's what you do? <br>
+							<br>
+							
+						ELAINE: Yeah. <br>
+							<br>
+							
+						DRIVER: Yeah, I don't read much myself, (Elaine is annoyed) well you know besides the paper. Yeah a lot of people read to relax, not me. You know what I do? <br>
+							<br>
+							
+						ELAINE: You know I-I'm having a lot of trouble, um, hearing you back here. So... <br>
+							<br>
+							
+						DRIVER: (Yelling) I said you know what I do (Elaine is very annoyed) when I want to relax? The Jumble. Hey uh do you make a book of Jumbles? <br>
+							<br>
+							
+						ELAINE: I'm going to have to be honest with you. I'm going deaf. <br>
+							<br>
+							
+						DRIVER: Going deaf? <br>
+							<br>
+							
+						ELAINE: What? <br>
+							<br>
+							
+						DRIVER: Oh I-I-I'm sorry. <br>
+							<br>
+							
+						ELAINE: It can be very frustrating. <br>
+							<br>
+							
+						DRIVER: Hey what about a hearing aid? <br>
+							<br>
+							
+						ELAINE: Am I fearing AIDS? Oh, yeah sure, who isn't. But you know you gotta live your life. <br>
+							<br>
+							
+						DRIVER: No, no I said. Ehhh, forget it. (Elaine looks pleased) <br>
+							<br>
+							<br>
+							
+						[At the tennis court.] <br>
+							<br>
+							
+						(George returns to his seat next to Jerry)<br>
+							<br>
+							
+						JERRY: I can't take my eyes off that lineswoman. The woman is absolutely mesmerizing. <br>
+							<br>
+							
+						GEORGE: Boy you are really smitten. <br>
+							<br>
+							
+						JERRY: I gotta talk to her. What do you think? <br>
+							<br>
+							
+						GEORGE: Cold? How are you going to do that? You're not one of those guys. <br>
+							<br>
+							
+						JERRY: I'm going to psyche myself into it like those people that just walk across the hot coals. <br>
+							<br>
+							
+						GEORGE: They're not mocked and humiliated when they get to the other side. <br>
+							<br>
+							
+						JERRY: I have to. I won't be able to live with myself. <br>
+							<br>
+							
+						GEORGE: Wait a minute Jerry, there's a bigger issue here. If you go through that wall and become one of those guys I'll be left here on this side. Take me with you. <br>
+							<br>
+							
+						JERRY: I can't. <br>
+							<br>
+							
+						GEORGE: What are you going to say? <br>
+							<br>
+							
+						JERRY: I don't know, &quot;Hi&quot;. <br>
+							<br>
+							
+						GEORGE: (laughing) You think you're going to the other side with &quot;Hi&quot;? You're not going to make it. <br>
+							<br>
+							<br>
+							
+						[Elaine in the car service car.] <br>
+							<br>
+							
+						RADIO: Base to 92 come in <br>
+							<br>
+							
+						DRIVER: Yes this is 92 <br>
+							<br>
+							
+						RADIO: After this go back to city for a 6:00 pickup <br>
+							<br>
+							
+						DRIVER: Righteo <br>
+							<br>
+							
+						RADIO: 794 Bleeker the party's Hanks. Tom Hanks. <br>
+							<br>
+							
+						ELAINE: Tom Hanks? After me you're picking up Tom Hanks? I love him. <br>
+							<br>
+							
+						DRIVER: So I guess your hearing goes in and out huh? <br>
+							<br>
+							
+						ELAINE: (realizing he caught her) Yeah. Yes it does... <br>
+							<br>
+							
+						DRIVER: Yeah. You know what I think? I think you made that whole thing up. <br>
+							<br>
+							
+						ELAINE: No no, no no. <br>
+							<br>
+							
+						DRIVER: Yeah yeah, I know your type. You're too good to make conversation with someone like me. Oh god forbid you could discuss the Jumbles. But to go so far as to pretend you're almost deaf, I mean that is truly disgusting. And Mr. Tom Hanks, may I say he too would be disgusted by your behavior. <br>
+							<br>
+							<br>
+							
+						[At the tennis court. Jerry is standing behind the lineswoman]<br>
+							<br>
+							
+						JERRY: Excuse me. (Woman ignores him) Excuse me? (Still ignores him) Oh that's nice. That's right ignore me. That's real polite. Yea nobody's even talking to you. All you big lineswoman. Oh you've got some kind of a cool job. I know your type thinking your too good for everyone, but it's women like you (woman turns around and notices him) oh well, what are you deaf? <br>
+							<br>
+							
+						LAURA: Bingo. <br>
+							<br>
+							<br>
+							
+						[At Jerry's apartment.] <br>
+							<br>
+							
+						KRAMER: And you're saying she's deaf. <br>
+							<br>
+							
+						JERRY: I'm not *saying* she's deaf, she's deaf. <br>
+							<br>
+							
+						KRAMER: Can't hear a thing. <br>
+							<br>
+							
+						JERRY: Can't hear a thing. <br>
+							<br>
+							
+						KRAMER: And you're going to go out with her. <br>
+							<br>
+							
+						JERRY: Yeah, isn't that something? <br>
+							<br>
+							
+						(Elaine enters.) <br>
+							<br>
+							
+						ELAINE: Hey. <br>
+							<br>
+							
+						JERRY &amp; KRAMER: Hey. <br>
+							<br>
+							
+						KRAMER: Hey I know how to sign. <br>
+							<br>
+							
+						JERRY: Really? <br>
+							<br>
+							
+						KRAMER: Yeah when I was 8, I had a deaf cousin who lived with us for about a year. (signing as he speaks) So I haven't been able to do it in a while. <br>
+							<br>
+							
+						ELAINE: What is this about? <br>
+							<br>
+							
+						JERRY: I met this deaf lineswoman at the tennis match. <br>
+							<br>
+							
+						ELAINE: You are kidding. That is amazing. (She pushes Jerry, Jerry falls back into Kramer.) I just took a car service from work and to get the driver to not talk to me, I pretended I was going deaf. <br>
+							<br>
+							
+						JERRY: Wow good plan. <br>
+							<br>
+							
+						ELAINE: Oh didn't work. He caught me hearing. Alright it's terrible, but I'm not a terrible person. <br>
+							<br>
+							
+						JERRY &amp; KRAMER: No. <br>
+							<br>
+							
+						ELAINE: No. When I shoo squirrels away, I always say &quot;get out of here&quot;. I never ever throw things at them and try to injure them like other people. <br>
+							<br>
+							
+						JERRY: That's nice. <br>
+							<br>
+							
+						ELAINE: Yeah, and when I see freaks in the street I never, ever stare at them. Yet, I'm careful not to look away, see, because I want to make the freaks feel comfortable. <br>
+							<br>
+							
+						JERRY: (turning to Kramer) That's nice for the freaks. <br>
+							<br>
+							
+						(Kramer gives Elaine a thumbs up)<br>
+							<br>
+							
+						ELAINE: Yeah, and I don't poof up my hair when I got to a movie so people behind me can see. I've got to make it up to this guy or I won't be able to live with myself. What can I do? <br>
+							<br>
+							
+						JERRY: Why don't you get him some tickets or something, how about that friend of yours that works at the ticket agency. <br>
+							<br>
+							
+						KRAMER: Yeah yeah Pete, he can get you great tickets to something. <br>
+							<br>
+							
+						ELAINE: Really?<br>
+							<br>
+							
+						KRAMER: Like a rock concert. Whatever you like. <br>
+							<br>
+							
+						ELAINE: Oh great, thanks Kramer. <br>
+							<br>
+							
+						KRAMER: You got it. Hey Jerry, do me a favor. The next time you see that lineswoman ask her how those ball boys get those jobs. I would love to be able to do that. <br>
+							<br>
+							
+						JERRY: Kramer, I think perhaps you've overlooked one of the key aspects of this activity. It's ball *boys*, not ball men. There are no ball men. <br>
+							<br>
+							
+						ELAINE: Yeah I think he's right. I've never seen a ball man. <br>
+							<br>
+							
+						KRAMER: Well there ought to be ball men. <br>
+							<br>
+							
+						JERRY: All right I'll talk to her. If you want to be a ball man go ahead, break the ball barrier. (Elaine drinks straight out of the orange juice container) Hey.<br>
+							<br>
+							
+						ELAINE: Hey you know a friend of mine from work said that she saw George at the tennis match on TV yesterday. <br>
+							<br>
+							
+						KRAMER: Yeah, yeah me too. Yeah he was at the snack bar eating a hot fudge sundae. He had it all over his face. He was wearing that chocolate on his face like a beard and they got in there real nice and tight. And he's... (Imitates scooping up ice cream. Elaine and Jerry laugh) <br>
+							<br>
+							<br>
+							
+						[At Monk's.]<br>
+							<br>
+							
+						GWEN: I'm sorry George. <br>
+							<br>
+							
+						GEORGE: I don't understand things were going so great. What happened? Something must have happened. <br>
+							<br>
+							
+						GWEN: It's not you, it's me. <br>
+							<br>
+							
+						GEORGE: You're giving me the &quot;it's not you, it's me&quot; routine? I invented &quot;it's not you, it's me&quot;. Nobody tells me it's them not me, if it's anybody it's me. <br>
+							<br>
+							
+						GWEN: All right, George, it's you. <br>
+							<br>
+							
+						GEORGE: You're *damn* right it's me. <br>
+							<br>
+							
+						GWEN: I was just trying to... <br>
+							<br>
+							
+						GEORGE: I know what you were trying to do. Nobody does it better than me. <br>
+							<br>
+							
+						GWEN: I'm sure you do it very well. <br>
+							<br>
+							
+						GEORGE: Yes well unfortunately you'll never get the chance to find out. <br>
+							<br>
+							
+						(George then looks confused like what he said just didn't sound right.) <br>
+							<br>
+							<br>
+							
+						[At Jerry's apartment.] <br>
+							<br>
+							
+						JERRY: But I thought things were going great. <br>
+							<br>
+							
+						GEORGE: Yeah so did I. <br>
+							<br>
+							
+						JERRY: Did she say why? <br>
+							<br>
+							
+						GEORGE: No. She tried to give me the &quot;it's not you, it's me&quot; routine. <br>
+							<br>
+							
+						JERRY: But that's your routine. <br>
+							<br>
+							
+						GEORGE: Yeah. Well aparently word's out. <br>
+							<br>
+							
+						(Kramer enters.) <br>
+							<br>
+							
+						KRAMER: Hey, Georgie, I saw you on TV yesterday. <br>
+							<br>
+							
+						GEORGE: Really? At the tennis match? <br>
+							<br>
+							
+						KRAMER: Yeah you were at the snack bar eating a hot fudge sundae. <br>
+							<br>
+							
+						GEORGE: Get out of here. I didn't see any cameras there. <br>
+							<br>
+							
+						KRAMER: Oh, the cameras was, vrooom, there. The announcers, they made a couple of cracks about you. <br>
+							<br>
+							
+						GEORGE: Cracks? What were they saying? <br>
+							<br>
+							
+						KRAMER: That you had ice cream all over your face. They were talking about how funny you looked. <br>
+							<br>
+							
+						GEORGE: Oh my god, maybe Gwen saw it. Maybe that's what did it. <br>
+							<br>
+							
+						KRAMER: Well I'll tell you it wasn't a pretty sight. <br>
+							<br>
+							
+						GEORGE: She must have seen me eating it on TV. <br>
+							<br>
+							
+						JERRY: So she sees you with hot fudge on your face and she ends it? You really think she would be that superficial? <br>
+							<br>
+							
+						GEORGE: Why not. I would be. <br>
+							<br>
+							
+						(The phone rings.) <br>
+							<br>
+							
+						JERRY: Hello... Oh hi dad... You saw him?... Really with the ice cream?... All right I'll talk to you later, bye. <br>
+							<br>
+							
+						GEORGE: You're parents saw me on TV? <br>
+							<br>
+							
+						JERRY: Yeah. <br>
+							<br>
+							
+						GEORGE: This is nighmare. Kramer how long was I on? <br>
+							<br>
+							
+						KRAMER: It felt like 8 seconds. <br>
+							<br>
+							
+						GEORGE: One-one-thousand, two-one-thousand, three-one-thousand. <br>
+							<br>
+							
+						(Elaine enters.)<br>
+							<br>
+							
+						ELAINE: I heard you *really* inhaled that thing. Did anyone tape it? <br>
+							<br>
+							
+						GEORGE: Can we move on? <br>
+							<br>
+							
+						JERRY: He thinks Gwen broke up with him because she saw him eating the ice cream on TV. <br>
+							<br>
+							
+						ELAINE: Oh come on. If she's that superficial you don't want her. <br>
+							<br>
+							
+						GEORGE: Yes I do. <br>
+							<br>
+							
+						ELAINE: So I guess you're not going to Todd's party on Friday. <br>
+							<br>
+							
+						GEORGE: Well I can't now, Gwen's going to be there. <br>
+							<br>
+							
+						KRAMER: Well she should be the one that shouldn't go. <br>
+							<br>
+							
+						JERRY: Well if a couple breaks up and have plans to go to a neutral place, who withdraws? What's the etiquette? <br>
+							<br>
+							
+						KRAMER: Excellent question. <br>
+							<br>
+							
+						JERRY: I think she should withdraw. She's the breaker, he's the breakee. He needs to get on with his life. <br>
+							<br>
+							
+						ELAINE: I beg to differ. <br>
+							<br>
+							
+						JERRY: Really. <br>
+							<br>
+							
+						ELAINE: He's the *loser*. She's the victor. To the victor belong the spoils. <br>
+							<br>
+							
+						JERRY: Well I don't care, I don't want to go anyway. I don't want to fight that traffic on Friday night. <br>
+							<br>
+							
+						ELAINE: Well we can take the car service from my office. <br>
+							<br>
+							
+						JERRY: Really? <br>
+							<br>
+							
+						ELAINE: Yeah, they don't know. <br>
+							<br>
+							
+						KRAMER: All right, I'll see you later. <br>
+							<br>
+							
+						JERRY: Okay. <br>
+							<br>
+							
+						(Elaine heads to the bathroom)<br>
+							<br>
+							
+						KRAMER: (while eating a banana) Hey Georgie.<br>
+							<br>
+							
+						(Kramer exits)<br>
+							<br>
+							
+						GEORGE: &quot;To the victor goes the spoils.&quot; What are you going to do tonight? <br>
+							<br>
+							
+						JERRY: Oh I got a date with Laura the lineswoman. <br>
+							<br>
+							
+						GEORGE: Oh. (he stands there) <br>
+							<br>
+							
+						JERRY: Why? (George fiddles with the lock on the door.) Well what are you doing? <br>
+							<br>
+							
+						GEORGE: Well I was just going to wander the streets. Don't wanna tag along with you or anything. <br>
+							<br>
+							
+						JERRY: Oh, uh, do you want to come with us? <br>
+							<br>
+							
+						GEORGE: Jerry please, that's very nice, but, uh, (closes the door) where would we be going? <br>
+							<br>
+							<br>
+							
+						[At a Chinese restaurant.] <br>
+							<br>
+							
+						GEORGE: So, I've got ice cream all over my face. There were no napkins there. Whoever it was that's responsible for stocking that concession stand cost me a relationship. <br>
+							<br>
+							
+						LAURA: They never have napkins there. <br>
+							<br>
+							
+						JERRY: Let's get the check. (Waves in the air) Is this uh considered signing? Do you do this when you want the check? <br>
+							<br>
+							
+						LAURA: (does the same thing Jerry is doing) Yea.<br>
+							<br>
+							
+						JERRY: Really. I know a sign, that's my first sign. <br>
+							<br>
+							
+						LAURA: Uh, oh. That couple is breaking up. <br>
+							<br>
+							
+						GEORGE: They're breaking up? How do you know? <br>
+							<br>
+							
+						JERRY: She reads lips. <br>
+							<br>
+							
+						GEORGE: What are they saying now? <br>
+							<br>
+							
+						LAURA: &quot;It's not you, it's me.&quot; <br>
+							<br>
+							
+						GEORGE: (Holding his drink up to his mouth) Oh my gosh, I just had a great idea. She could come to the party tomorrow and read Gwen's lips for me. <br>
+							<br>
+							
+						JERRY: (Puts his hand over his mouth) What? <br>
+							<br>
+							
+						GEORGE: (Puts nuts into his mouth, and in the process covers his mouth) We bring her to the party, and she can tell me what Gwen is saying about me. <br>
+							<br>
+							
+						JERRY: (Holds his drink up to his mouth) She's not a novelty act, George. Where you hire her out for weddings and bar mitzvas. <br>
+							<br>
+							
+						GEORGE: (Puts his hands on his face, rubbing his eyes) Look. It's a skill, just like juggling. She probably enjoys showing it off. <br>
+							<br>
+							
+						JERRY: (Puts his napkin over his mouth) I don't know George. I'm not sure about this. <br>
+							<br>
+							
+						GEORGE: (Puts his arms in the air, stretching, and covers his mouth with an arm) Could you ask her, just ask her. If she says no, case closed. <br>
+							<br>
+							
+						JERRY: (Puts his hand on his chin over his mouth) All right. <br>
+							<br>
+							
+						JERRY: Uh Laura, George was wondering if... <br>
+							<br>
+							
+						LAURA: Sure. I'll do it. <br>
+							<br>
+							<br>
+							
+						[After the restaurant. Jerry and Laura in Jerry's car outside Laura's place.] <br>
+							<br>
+							
+						JERRY: So I really had a good time. <br>
+							<br>
+							
+						LAURA: Yeah, me too. <br>
+							<br>
+							
+						JERRY: So you want to go to the party on Friday night? <br>
+							<br>
+							
+						LAURA: Yeah. <br>
+							<br>
+							
+						JERRY: All right, we're taking a car service. So we'll swing by and pick you up. How about six? (Laura looks offended). Six is good. (Laura looks offended and angry). You got a problem with six? (Laura opens the door and gets out). What? What? <br>
+							<br>
+							<br>
+							
+						[At the tennis court.] <br>
+							<br>
+							
+						MAN: Okay listen up people. There are plenty of you here, but we've only got two spots to fill. Good luck. <br>
+							<br>
+							
+						BOY: (to Kramer) Hey pops, isn't there a better way to spend your twilight years? <br>
+							<br>
+							
+						KRAMER: I may be old, but I'm spry. <br>
+							<br>
+							
+						BOY: The tryout lasts three and a half to four hours. Are you up for it? <br>
+							<br>
+							
+						KRAMER: Oh I'll be up for it punk. <br>
+							<br>
+							
+						(Kramer fetches some balls, and he is doing some pretty fancy footwork.) <br>
+							<br>
+							<br>
+							
+						[At Jerry's apartment.]<br>
+							<br>
+							
+						JERRY: See I was saying &quot;six&quot; but she thought I was saying &quot;sex&quot;. We straightened the whole thing out though. <br>
+							<br>
+							
+						GEORGE: She confused &quot;six&quot; with &quot;sex&quot;? <br>
+							<br>
+							
+						JERRY: Yeah. <br>
+							<br>
+							
+						GEORGE: Well if she can't tell &quot;six&quot; from &quot;sex&quot; then how is she going to lip read from across the room? <br>
+							<br>
+							
+						JERRY: Well &quot;six&quot; and &quot;sex&quot; are close. <br>
+							<br>
+							
+						GEORGE: It's two completely different sounds. &quot;ih&quot; and &quot;eh&quot;. <br>
+							<br>
+							
+						JERRY: Eh. <br>
+							<br>
+							
+						GEORGE: It seems like a problem. <br>
+							<br>
+							
+						JERRY: Well I'm not dating any other deaf women. <br>
+							<br>
+							
+						(Kramer enters.) <br>
+							<br>
+							
+						KRAMER: Hey guess who's going to be the new ball man for the finals. <br>
+							<br>
+							
+						JERRY: You're kidding. <br>
+							<br>
+							
+						KRAMER: Yeah. They said they haven't seen anybody go after balls with such gusto. <br>
+							<br>
+							
+						GEORGE: Oh, when is that car service coming? <br>
+							<br>
+							
+						JERRY: In five minutes. He's then going to pick us up, then we're going to pick up Elaine, and Laura is going to meet us there. <br>
+							<br>
+							
+						GEORGE: If this lip reading thing works tonight do you know how incredible this is going to be? It's like having Superman for your friend. <br>
+							<br>
+							
+						JERRY: I know. It's like X-ray vision. <br>
+							<br>
+							
+						GEORGE: If we could just harness this power and use it for our own personal gain, there'd be no stopping us. <br>
+							<br>
+							
+						(Newman enters.) <br>
+							<br>
+							
+						NEWMAN: Hey, hey, hey. (to Jerry) I hear you've got some lip reader working for you. You gotta let me use her for one day. Just one day. <br>
+							<br>
+							
+						JERRY: Can't do it Newman. <br>
+							<br>
+							
+						NEWMAN: But Jerry, we've got this new supervisor down at the post office. He's working behind this glass. I know they're talking about me. They're going to transfer me, I know it. Two hours, give me two hours. <br>
+							<br>
+							
+						JERRY: It's not going to happen. <br>
+							<br>
+							
+						NEWMAN: (Sinister) All right, all right. All right you go ahead. You go ahead and keep it secret. But you remember this. When you control the mail, you control... information. <br>
+							<br>
+							<br>
+							
+						[In the car service car.] <br>
+							<br>
+							
+						JERRY: Uh just pull over right there by the stop sign. <br>
+							<br>
+							
+						DRIVER: (The same driver as before) Pardon me sir? <br>
+							<br>
+							
+						JERRY: I said pull over by the stop sign. <br>
+							<br>
+							
+						DRIVER: I'm so sorry, you'll have to forgive me. I can't hear a damn thing. I went to that rock concert last night at the garden. My seats were right up agains the speaker. It's a heavy metal group. Metalla-something. <br>
+							<br>
+							
+						KRAMER: -ca. <br>
+							<br>
+							
+						DRIVER: Huh? <br>
+							<br>
+							
+						GEORGE: What? <br>
+							<br>
+							
+						JERRY: ca. <br>
+							<br>
+							
+						GEORGE: ah. <br>
+							<br>
+							
+						DRIVER: My ears are still ringing. Some woman's idea of a joke. <br>
+							<br>
+							
+						(Elaine gets in. The driver looks up and notices her. He gets angry. A moment later, the group gets out of the car.) <br>
+							<br>
+							
+						DRIVER: Get out. Get out. Go on. Hey. Shut the door. <br>
+							<br>
+							
+						(Kramer shuts the door and the car takes off, squeeling the tires.) <br>
+							<br>
+							<br>
+							
+						[At the party.]<br>
+							<br>
+							
+						JERRY: You know the whole idea of taking the car service was so I wouldn't have to fight the traffic on Friday night. <br>
+							<br>
+							
+						(Laura sees the group and gets up. She points to her watch.) <br>
+							<br>
+							
+						JERRY: I know. I'm late. Hey now I know two signs, (puts his hand in the air) check, and (points to his watch) late. Hey this is the guy you helped become the first ball man. <br>
+							<br>
+							
+						LAURA: Congratulations.<br>
+							<br>
+							
+						(Kramer and Laura start signing to each other. We see confusion from them as they are signing. George puts his forhead on his hand.) <br>
+							<br>
+							
+						KRAMER: She doesn't know what she's talking about. <br>
+							<br>
+							
+						TODD: Guys you made it. <br>
+							<br>
+							
+						GEORGE: Hey hey.<br>
+							<br>
+							
+						TODD: (to George) Hey buddy.<br>
+							<br>
+							
+						JERRY: Hey Todd.<br>
+							<br>
+							
+						TODD: Sorry to hear about Gwen. <br>
+							<br>
+							
+						GEORGE: Why? Did she say something to you about why she broke up with me? <br>
+							<br>
+							
+						TODD: Oh no. Tonight will be the first chance I've had to talk to her. <br>
+							<br>
+							
+						GEORGE: Really?<br>
+							<br>
+							
+						TODD: Look George, I'm friends with both of you. But I can't betray her confidence by telling you anything. <br>
+							<br>
+							
+						GEORGE: I wouldn't hear of it, Todd. It's none of my business. But you should try to find out everything you possibly can. In fact, I'll even stay all the way on the other side of the room just so there's no chance of me overhearing anything. <br>
+							<br>
+							
+						TODD: You are so centered. <br>
+							<br>
+							
+						GEORGE: Hey, grown-up. (they both chuckle, George notices Gwen enter the room) Oh my god, there she is. Go ahead, go ahead. (to the others) Let's go, let's go. All right what are they saying? <br>
+							<br>
+							
+						(Gwen and Todd talk. Laura makes hand signs and Kramer translates.) <br>
+							<br>
+							
+						KRAMER: &quot;Hi Gwen, hi tide.&quot; <br>
+							<br>
+							
+						JERRY: Hi tide? <br>
+							<br>
+							
+						KRAMER: Hi Todd. <br>
+							<br>
+							
+						KRAMER: &quot;You've got something between your teeth&quot; <br>
+							<br>
+							
+						GEORGE: Wheret? <br>
+							<br>
+							
+						KRAMER: No that's what he said. &quot;That's interesting. I love carrots, but I hate carrot soup. And I hate peas, but I love pea soup.&quot; So do I. <br>
+							<br>
+							
+						ELAINE: She's so wild. Can I borrow her for a few hours tomorrow afternoon? <br>
+							<br>
+							
+						JERRY: No. If I lend her to you I'll have to lend her to everybody. <br>
+							<br>
+							
+						GWEN: I don't envy you Todd. The place is going to be a mess. <br>
+							<br>
+							
+						TODD: Well maybe you can stick around after everybody leaves and we can sweep together. <br>
+							<br>
+							
+						KRAMER: &quot;Why don't you stick around and we can sleep together.&quot; <br>
+							<br>
+							
+						GEORGE: What? <br>
+							<br>
+							
+						KRAMER: &quot;You want me to sleep with you?&quot; <br>
+							<br>
+							
+						TODD: I don't want to sweep alone. <br>
+							<br>
+							
+						KRAMER: He says &quot;I don't want to sleep alone.&quot; She says, oh boy, &quot;love to.&quot; <br>
+							<br>
+							
+						GEORGE: Alright that's it. (George walks across the room over to them.) So you get rid of me and now the two of you are going to sleep together? <br>
+							<br>
+							
+						GWEN: What? You're crazy. <br>
+							<br>
+							
+						KRAMER: &quot;What? You're crazy.&quot; <br>
+							<br>
+							
+						GEORGE: I heard your whole conversation. <br>
+							<br>
+							
+						GWEN: How? <br>
+							<br>
+							
+						KRAMER: &quot;How?&quot; <br>
+							<br>
+							
+						GEORGE: (looks back to the group) I can read lips. You said let's sleep together. <br>
+							<br>
+							
+						GWEN: No I didn't. I said &quot;sweep&quot;. Let's sweep together, you know with a broom. Cleaning up. <br>
+							<br>
+							
+						KRAMER: &quot;... with a broom, cleaning up.&quot; <br>
+							<br>
+							
+						GEORGE: Sweep? <br>
+							<br>
+							
+						GWEN: Yes sweep. <br>
+							<br>
+							
+						KRAMER: &quot;Yes sweep.&quot; <br>
+							<br>
+							
+						GEORGE: Cut it. <br>
+							<br>
+							
+						KRAMER: George says &quot;Cut it.&quot; <br>
+							<br>
+							
+						GEORGE: Cut it. <br>
+							<br>
+							
+						KRAMER: George is saying &quot;Cut it.&quot; <br>
+							<br>
+							
+						GEORGE: Cut it. (goes back to the group) (Yelling) Would you stop signing? <br>
+							<br>
+							
+						KRAMER: What?<br>
+							<br>
+							
+						GEORGE: She said &quot;sweep together&quot; you idiots, not &quot;sleep together.&quot; <br>
+							<br>
+							
+						(Laura's mouth is wide open. She looks at Kramer and points to George. She is mad at Kramer. Aparently she did say sweep and Kramer mis-translated. She signs to Kramer.)<br>
+							<br>
+							
+						KRAMER: I know how to sign. <br>
+							<br>
+							
+						(Kramer and Laura are arguing back and forth with sign language. They are gesturing signs fiercely. One of Laura's signs causes her hand to swing backwards and hit George in the face.) <br>
+							<br>
+							
+						GEORGE: Ow. My eye, my eye. <br>
+							<br>
+							<br>
+							
+						[At the tennis court.] <br>
+							<br>
+							
+						ELAINE: It's so amazing getting to see Monica Seles playing in the finals. <br>
+							<br>
+							
+						JERRY: I know and on the first tournament of her comeback. <br>
+							<br>
+							
+						(Kramer is sitting poised on the sideline. He waves back to the group. George and Elaine gives him a thumbs up. The two players hit the ball back and forth. The ball lands in the net. Kramer springs into action running toward the ball and runs into Monica Sellas. Monica falls to the ground in pain.) <br>
+							<br>
+							
+						JERRY: Thus ends the great ball man experiment. <br>
+							<br>
+							<br>
+							
+						[Laura gets into the car service car.]<br>
+							<br>
+							
+						DRIVER: (The same driver as before) You with the tennis center? <br>
+							<br>
+							
+						LAURA: Yep. <br>
+							<br>
+							
+						DRIVER: Hey how about that ball man injuring Monica Seles. Wasn't that something. <br>
+							<br>
+							
+						LAURA: I'm deaf. <br>
+							<br>
+							
+						DRIVER: Oh. (Very suspicious look on his face.) <br>
+							<br>
+							<br>
+							
+						[Closing Monologue]<br>
+							<br>
+							
+						JERRY: I've always been a big fan of the little check move. You know (does the motion for the check) Check, Check. Unless the waiter isn't too shape then you gotta total it up. Sometimes they come over, &quot;Do you want the check?&quot; No I wanna be pen pals, can't you see what I'm doing here? I'm trying to be cool and impress people. <br>
+							<br>
+							<br>
+							
+						The End</td>
+						</tr>
+						<tr height="6">
+							<td class="bottom2" width="645" height="6"></td>
+						</tr>
+						<tr>
+							<td width="645">
+								<div align="center">
+									<font size="-1">Copyright 2006 seinology.com | All Rights Reserved | Designed by 13erla</font></div>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+		<p></p>
+	</body>
+
+</html>

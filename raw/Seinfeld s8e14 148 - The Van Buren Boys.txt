@@ -1,0 +1,1203 @@
+<tdOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+<html>
+
+	<head>
+		<meta http-equiv="content-type" content="text/html;charset=ISO-8859-1">
+		<meta name="description" content="Top Source for Seinfeld">
+		<meta name="keywords" content="seinfeld, sienfeld, Jerry Seinfeld, Julia Louis Dreyfus, Jason Alexander, Michael Richards, Kramer, George, Costanza, Elaine Benes, morty, Larry David">
+		<title>Seinology.com :: Scripts :: 148-The Van Buren Boys</title>
+	<link rel='stylesheet' href='/stylesheet.css' type='text/css'>
+	</head>
+
+	<body>
+			<table align="center" width="787" border="0" cellspacing="0" cellpadding="0">
+				<tr>
+					<td><font size="-2" color="red">Seinology.com - </font><font size="-3" color="black">Where Seinfeld Content and Accuracy Matter Most. Seinfeld scripts in pdf form, Seinfeld episode video clips, Seinfeld episode audio clips, Jerry Seinfeld appearances, Julia Louis-Dreyfus appearances, Michael Richards appearances, Jason Alexander appearances, Seinfeld discussion Forum, Seinfeld Where are they Now? Seinlanguage Newsletter, Popular Seinfeld Lists, Seinfeld episode standup, Seinfeld episode guide, Seinfeld fan fiction. Seinfeld content all on one domain. Seinology.com enjoy your stay.</font></td>
+				</tr>
+			</table>
+		
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr height="100">
+				<td class="logo"></td>
+			</tr>
+			<tr><td class="ads" align="center" background=#8694fa>
+				<script type="text/javascript"><!--
+google_ad_client = "pub-1924026976931416";
+google_ad_width = 728;
+google_ad_height = 90;
+google_ad_format = "728x90_as";
+google_ad_type = "text";
+google_ad_channel = "";
+google_color_border = "FFFFFF";
+google_color_bg = "8694fa";
+google_color_link = "0000FF";
+google_color_text = "000000";
+google_color_url = "002E3F";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></td></tr>
+		</table>
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr>
+				<td valign="top" width="136">
+					<table width="136" border="0" cellspacing="0" cellpadding="0">
+						<tr height="24">
+							<td class="navigation">
+								<div align="center">
+									
+									<b>Navigation</b></div>
+							</td>
+						</tr>
+						<tr height="199">
+							<td class="spacer1" valign="top" width="136" height="199">
+								<div align="center">
+									<font size="-1"><a href="http://www.seinology.com">Home</a><br>
+										<a href="http://board.seinology.com">Forum</a><br>
+										<a href="http://www.seinology.com/av.shtml">Audio/Video</a><br>
+										<a href="http://www.seinology.com/scripts.shtml">Scripts</a><br>
+										<a href="http://www.seinology.com/survivor.shtml">Survivor</a><br>
+										<a href="http://www.seinology.com/fanfics.shtml">Fan Fiction</a><br>
+										<a href="http://www.seinology.com/gallery/">Gallery</a><br>
+										<a href="http://www.seinology.com/newsletter.shtml">Newsletter</a><br>
+										<a href="http://www.seinology.com/lists.shtml">Lists</a><br>
+										<a href="http://www.seinology.com/epguide.shtml">Episode Guide</a><br>
+										<a href="http://www.seinology.com/links.shtml">Links</a><br>
+										<a href="http://www.seinology.com/faqother.shtml">Faq + others</a><br>
+										<a href="http://www.seinology.com/legal.shtml">Legal</a></font></div>
+							</td>
+						</tr>
+						
+						<tr>
+							<td class="nav2" width="136">
+							<div align="center"><b>Search</b></div></td>
+						</tr>
+						<tr>
+							<td class="spacer1" width="136" valign="top"><div align="center"><form method="get" action="http://www.seinology.com/search/search.cgi">
+<p><label for="fdse_Match">Match</label><br>
+<select name="Match" id="fdse_Match" size="1">
+<option value="1">All</option>
+<option value="0">Any</option>
+<option value="2">Phrase</option>
+</select></p>
+<p><label for="fdse_Realm">Where?</label><br>
+<select name="Realm" id="fdse_Realm" size="1">
+<option selected="selected" value="All">EntireSite</option>
+<option value="Ep Guide">Ep Guide</option>
+<option value="Images">Images</option>
+<option value="Lists">Lists</option>
+<option value="Newsletters">Newsletters</option>
+<option value="Scripts">Scripts</option>
+<option value="Notes..Nothing">Notes..Nothing</option>
+</select></p>
+<p><input type="text" name="Terms" size="14" id="fdse_Terms"><br>
+<input type="submit" class="submit" name="submitButtonName" value="Search"></p>
+</div></form></td>
+						</tr>
+						<tr><td class="bottom" width="136" height="10" valign="top">
+						</td>
+						</tr>
+					</table>
+				</td>
+				<td width="4"></td>
+				<td valign="top" width="645">
+					<table width="645" border="0" cellspacing="0" cellpadding="0">
+						<tr height="18">
+							<td width="645" height="35" class="bar">
+								<div align="center">
+									<b><font size="+2" color="black">Script</font></b></div>
+							</td>
+						</tr>
+						<tr height="362">
+							<td class="spacer2" valign="top" width="645" height="362">
+
+						<p><font size="-2">Episode 148 - The Van Buren Boys<br>
+							
+						pc: 814, season 8, episode 14<br>
+							
+						Broadcast date: February 6, 1997<br>
+							<br>
+							
+						Written by Darin Henry<br>
+							
+						Directed by Andy Ackerman<br>
+							<br>
+							
+						-------------------------------------------------------------------------------<br>
+							<br>
+							
+						The Cast<br>
+							
+						Regulars:<br>
+							
+						Jerry Seinfeld ......................&nbsp; Jerry Seinfeld<br>
+							
+						Jason Alexander .................. George Costanza<br>
+							
+						Julia Louis-Dreyfus .............. Elaine Benes<br>
+							
+						Michael Richards .................. Cosmo Kramer<br>
+							<br>
+							
+						Guest Stars:<br>
+							<br>
+							
+						Bruce Davison ..................... Wyck<br>
+							
+						Christine Taylor ................... Ellen<br>
+							
+						Jed Rhein ............................. Steven Koren<br>
+							
+						Tony Colitti ......................... Leader<br>
+							
+						David Moscow .................... Lomez Jr.<br>
+							
+						Yunoka Doyle ..................... Lydia<br>
+							
+						Dublin James ....................... Maurice<br>
+							
+						Justine Slater ....................... Melissa<br>
+							
+						Michelle Maika .................... Kim<br>
+							
+						Steve Hofvendahl ............... Man<br>
+							
+						rc: Barney Martin ............... Morty Seinfeld<br>
+							
+						rc: Liz Sheridan ................... Helen Seinfeld<br>
+							
+						rc: John O'Hurley ................ J. Peterman<br>
+							<br>
+							
+						==================================================================<br>
+							<br>
+							
+						[Setting: A Restaurant]<br>
+							<br>
+							
+						ELLEN: So, they have this clock now, where you punch in your age, and all your risk factors. It actually counts down how much time you have left to live.<br>
+							<br>
+							
+						JERRY: So what's the great moment? You're on your death bed, they're pounding on your chest - and you're going 10, 9, 8,.. I told you this thing was good!<br>
+							<br>
+							
+						ELLEN: (Laughs) I can't believe this is our first date.<br>
+							<br>
+							
+						JERRY: I know.. How about dessert?<br>
+							<br>
+							
+						ELLEN: I suppose I have to get a piece of cake..<br>
+							<br>
+							
+						JERRY: Why?<br>
+							<br>
+							
+						ELLEN: Today's my birthday.<br>
+							<br>
+							
+						JERRY: What? Today? Really?<br>
+							<br>
+							
+						ELLEN: Yeah.<br>
+							<br>
+							
+						(Waiters come out with a cake, singing &quot;Happy Birthday&quot; to a woman named &quot;Lisa&quot; at another table. Jerry ponders why Ellen isn't celebrating with her friends)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Setting: Jerry's apartment]<br>
+							<br>
+							
+						GEORGE: So, she went out with you on a first date.. and it was her birthday?<br>
+							<br>
+							
+						JERRY: Yeah. And she picked the day!<br>
+							<br>
+							
+						GEORGE: Is she socially awkward?<br>
+							<br>
+							
+						JERRY: No, she's great! She's.. attractive, she's fun..<br>
+							<br>
+							
+						GEORGE: Well, maybe she decided to celebrate her birthday on the Monday after the weekend.<br>
+							<br>
+							
+						JERRY: She's not Lincoln.<br>
+							<br>
+							
+						(Enter Kramer)<br>
+							<br>
+							
+						KRAMER: Hey! Anybody up for Lorenzo's pizza?<br>
+							<br>
+							
+						JERRY: I'll pass.<br>
+							<br>
+							
+						KRAMER: Oh, yeah? Huh. (Turns to George) Hey, George! Pizza? Yum, yum!<br>
+							<br>
+							
+						GEORGE: Eh, I can't. I gotta go down to the foundation. I'm interviewing high schoolers for the Susan Ross.. scholarship.<br>
+							<br>
+							
+						JERRY: Does it ever bother you that this organization-<br>
+							<br>
+							
+						GEORGE: Nope!<br>
+							<br>
+							
+						JERRY: is beating the bushes-<br>
+							<br>
+							
+						GEORGE: Nope! (Starts heading for the door)<br>
+							<br>
+							
+						JERRY: to basically give this money away-<br>
+							<br>
+							
+						GEORGE: Noo!<br>
+							<br>
+							
+						JERRY: to virtually anyone, as long as they're not you?<br>
+							<br>
+							
+						GEORGE: (Standing in the doorway) I'm fine with it! Fi-hi-hi-hine I say! (Leaves)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Setting: Susan Ross Foundation conference room]<br>
+							<br>
+							
+						STUDENT 1: And then I received a 740 on the English achievement test. (George looks bored)<br>
+							<br>
+							
+						GEORGE: Quick, what's your favorite animal?<br>
+							<br>
+							
+						STUDENT 1: I.. I don't know.. frog?<br>
+							<br>
+							
+						GEORGE: (Disappointed) A frog?<br>
+							<br>
+							
+						STUDENT 1: Well, I.. I..<br>
+							<br>
+							
+						GEORGE: (Annoyed) Frog is wrong.<br>
+							<br>
+							
+						(Cut to another student's interview)<br>
+							<br>
+							
+						GEORGE: (Reading) I see here that you play the harp.. tell me, why do you have to tilt it? Can't you just build it on an angle? It'd save you a lot of trouble.<br>
+							<br>
+							
+						STUDENT 2: Well, the modern-day harp has been refined over thousands of years-<br>
+							<br>
+							
+						GEORGE: (Annoyed) Yeah, yeah. We'll, uh, let you know.<br>
+							<br>
+							
+						(Cut to another student interview)<br>
+							<br>
+							
+						GEORGE: (Reading) I see your G.P.A's a 4.0.<br>
+							<br>
+							
+						STUDENT 3: (Smiling gloatingly) You like that, don't you?<br>
+							<br>
+							
+						(Cut to another student interview)<br>
+							<br>
+							
+						GEORGE: so, uh, Steven.. I see you're president of the chess club.<br>
+							<br>
+							
+						STEVEN: State champs.<br>
+							<br>
+							
+						GEORGE: Who's your favorite chess player?<br>
+							<br>
+							
+						STEVEN: (Hesitating, he mumbles) Nastercoff?<br>
+							<br>
+							
+						GEORGE: Right. (Mumbles) Nastercoff.. What country is he from, again?<br>
+							<br>
+							
+						STEVEN: (Sighs) I don't know.. I made it up. (Gets up to leave) I'm never gonna get this thing.<br>
+							<br>
+							
+						GEORGE: (Gets up, stopping him) Woah, woah, woah! What are you telling me for? You really had me going, there! C'mon, sit down. (They both sit back down) What do you want to do when you grow up?<br>
+							<br>
+							
+						STEVEN: I've been telling people that I'd like to be an architect..<br>
+							<br>
+							
+						(George is suddenly interested)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Setting: Jerry's apartment]<br>
+							<br>
+							
+						ELAINE: So, get this: Mister Peterman is finally letting me do some real writing. He's got this book deal, for his autobiography. He's gonna let me ghost write it.<br>
+							<br>
+							
+						JERRY: Wow. That's great! When it comes out, I'll have to get someone to ghost read it.<br>
+							<br>
+							
+						(Elaine mockingly laughs at Jerry's joke. Kramer enters)<br>
+							<br>
+							
+						KRAMER: Hey.<br>
+							<br>
+							
+						JERRY: Hey.<br>
+							<br>
+							
+						ELAINE: Hey!<br>
+							<br>
+							
+						KRAMER: Alright, so there I am at Lorenzo's - loading up my slice of the fixin's bar.. garlic, (imitates the shaking of garlic onto a pizza) and what-not.. mmm, mmm.. and I see this guy over at the pizza boxes giving me the stink-eye. (Imitates the 'stink-eye') So I give hime the crook-eye back, (Imitates the 'crook-eye') you know.. Then, I notice that he's not alone! I'm taking on the entire Van Buren Boys!<br>
+							<br>
+							
+						JERRY: The Van Buren Boys? There's a street gang named after President Martin Van Buren?<br>
+							<br>
+							
+						KRAMER: Oh yeah, and they're just as mean as he was! So, I make a move to the door, you know, (makes a noise) they block it! So, I lunged for the bathroom. (demonstrates) I grab the knob - Occupado! Then they back me up agains the cartoon map of Italy, and all of the sudden, they just stop.<br>
+							<br>
+							
+						ELAINE: What? What happened?<br>
+							<br>
+							
+						KRAMER: Because I'm still holding the garlic shaker.. Yeah.. like this (grabs Jerry's peper shaker, and demonstrates) I'm only showing eight fingers.<br>
+							<br>
+							
+						JERRY: Well, what does that mean?<br>
+							<br>
+							
+						KRAMER: That's their secret sign! See, Van Buren, he was teh eighth President.. (Holds up 8 fingers) They thought I was a former Van B. Boy!<br>
+							<br>
+							<br>
+							<br>
+							
+						[Setting: Outside a coffee shop]<br>
+							<br>
+							
+						ELLEN: (Sees a pay phone) Oh, Jerry, can you hold on a sec? I just want to check my messages.. (She meets up with two of her friends on the way to the phone) Oh, Melissa! Kim!<br>
+							<br>
+							
+						MELISSA: Ellen.<br>
+							<br>
+							
+						ELLEN: Hey! You guys, I want you to meet Jerry. (Gestures tward Jerry, then goes back to the phone)<br>
+							<br>
+							
+						MELISSA: Ohh, we've heard a lot about you! (Confidentially) It is so sweet of you to take her out.<br>
+							<br>
+							
+						KIM: Yeah, you don't even know how much she needs this.<br>
+							<br>
+							
+						JERRY: (Sympathetically) She coming of a bad break-up?<br>
+							<br>
+							
+						KIM: (Casually) No.<br>
+							<br>
+							
+						MELISSA: See ya!<br>
+							<br>
+							
+						(They walk off. Ellen hangs up, then walks over to Jerry)<br>
+							<br>
+							
+						JERRY: Any messages?<br>
+							<br>
+							
+						ELLEN: Yeah, no one called.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Setting: Coffee shop]<br>
+							<br>
+							
+						JERRY: They act like it was some act of charity. Just going out with her.<br>
+							<br>
+							
+						GEORGE: So, she's the loser of the group. Every group has someone that they all make fun of.. Like us with Elaine. (Jerry thinks about this, then shakes it off)<br>
+							<br>
+							
+						JERRY: There is no way Ellen is the loser of that group.<br>
+							<br>
+							
+						GEORGE: Are you looking deep down at the real person underneath?<br>
+							<br>
+							
+						JERRY: No, I'm being as superficial as I possibly can!<br>
+							<br>
+							
+						GEORGE: (Changing subject) Hey, I htink I may have found someone for the scholarship.<br>
+							<br>
+							
+						JERRY: Yeah?<br>
+							<br>
+							
+						GEORGE: I'm interviewing all these annoying little overachievers.. finally, this kid walks in - Steven Koren - a regular guy.. likes sports.. watches T.V..<br>
+							<br>
+							
+						JERRY: Is he smart?<br>
+							<br>
+							
+						GEORGE: (Defensively) He knows how to read. And he also knows finishing an entire book doesn't prove anything. And get this: he's into architecture.<br>
+							<br>
+							
+						JERRY: Hey! Just like you pretend to be.<br>
+							<br>
+							
+						GEORGE: Yes. With a little guidance, Steven Koren is going to be everything I claim to be, only for real. That's my dream, Jerry.<br>
+							<br>
+							
+						JERRY: I had a dream last night that a hamburger was eating me!<br>
+							<br>
+							<br>
+							<br>
+							
+						[Setting: J. Peterman's apartment]<br>
+							<br>
+							
+						ELAINE: Mister Peterman, thanks for having me over. Your place isn't quite what I imagined.. (It's plain, with no sign of Peterman's personality)<br>
+							<br>
+							
+						PETERMAN: Ohhh.. It's just a place to flop. (Sits in his recliner)<br>
+							<br>
+							
+						ELAINE: Well, (Clears throat) what part of your life (hits the record button on a mini-recorder, and sets it down on the table) do you want to start with? Foreign intrigue? Exotic romances?<br>
+							<br>
+							
+						PETERMAN: Oh, Elaine, we've covered all of that in the catalogue ad nauseum. No, I would like this book to be about my day-to-day life.<br>
+							<br>
+							
+						ELAINE: Oh.<br>
+							<br>
+							
+						PETERMAN: (Turns on the T.V, and starts flipping through the channels) Oh damn. They changed the cable stations again.. just when I finally memorized them.<br>
+							<br>
+							
+						ELAINE: Well, Mister Peterman, do you want to, um..<br>
+							<br>
+							
+						PETERMAN: (Still flipping through the channels) 2.. CBS..<br>
+							<br>
+							
+						ELAINE: get, um, started..<br>
+							<br>
+							
+						PETERMAN: 3.. I don't know what that is.. where's my damn preview channel?<br>
+							<br>
+							
+						ELAINE: (After observing Peterman's home life) Well, I - I got ta tell you, Mister Peterman.. I don't think I see a whole book here.<br>
+							<br>
+							
+						PETERMAN: well, I'm sure we'll come up with something. What do you say you and I order ourselves a pie? Do you like Lorenzo's?<br>
+							<br>
+							
+						ELAINE: You know, a friend of mine almost got beat up at that place by the Van Buren Boys?<br>
+							<br>
+							
+						PETERMAN: (Interested) You don't say.<br>
+							<br>
+							
+						ELAINE: Yeah. The only think that saved him is that he accidentally flashed their secret gang sign.<br>
+							<br>
+							
+						PETERMAN: Well, that's pretty exciting. (Pause) Let's put that in the book.<br>
+							<br>
+							
+						ELAINE: But, that didn't happen to you.<br>
+							<br>
+							
+						PETERMAN: So, we pay off your friend, and it becomes a Peterman.<br>
+							<br>
+							
+						ELAINE: No, I - I really don't think you can do that.<br>
+							<br>
+							
+						PETERMAN: (Looking at his dying plant) Ohh, damn. I forgot to buy plant food again.. I'll bet I got a coupon for it. (Starts looking through a small coupon box)<br>
+							<br>
+							
+						ELAINE: You know what? Maybe I better talk to my friend.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Setting: Coffee shop]<br>
+							<br>
+							
+						(Jerry's on a date with Ellen, he's desperately trying to find out what is wrong with her)<br>
+							<br>
+							
+						JERRY: Is that the same outfit you were wearing yesterday?<br>
+							<br>
+							
+						ELLEN: No, this is brand new. Do you like it?<br>
+							<br>
+							
+						JERRY: Actually, yeah. (Pause) Wait a second! Is that the fork that fell on the floor?! (Dramatically) Are you using the fork that fell on the floor?!<br>
+							<br>
+							
+						ELLEN: (Laughs) No, Jerry, the waitress game be another one.<br>
+							<br>
+							
+						JERRY: I guess that's all right.<br>
+							<br>
+							
+						ELLEN: Is something wrong, Jerry?<br>
+							<br>
+							
+						JERRY: No, absolutely nothing. (They get up to leave) You're fantastic! (They meet up with Kramer and George on the way out) Hey guys!<br>
+							<br>
+							
+						GEORGE: Hey.<br>
+							<br>
+							
+						JERRY: (Gesturing to Ellen) Kramer, George, this is Ellen.<br>
+							<br>
+							
+						(Kramer gives a look)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Setting: Susan Ross Foundation conference room]<br>
+							<br>
+							
+						GEORGE: Ladies and gentlemen, this (Opens the door, Steven is standing there) is Steven Koren. His G.P.A. is a solid 2.0! Right in that meaty part of the curve - not showing off, not falling behind.<br>
+							<br>
+							
+						WYCK: George, the quailifications for this scholarship were suppose to be.. largely academic.<br>
+							<br>
+							
+						GEORGE: I'm sure we're all aware of the flaws and biases of standardized tests..<br>
+							<br>
+							
+						WYCK: These aren't standardized tests - these are his grades.<br>
+							<br>
+							
+						GEORGE: Besides, Steven Koren has the highest of aspirations. He wants to be (pauses for effect) an architect.<br>
+							<br>
+							
+						WYCK: Is that right?<br>
+							<br>
+							
+						STEVEN: Actually, maybe I could set my sights a little bit higher.<br>
+							<br>
+							
+						GEORGE: (Laughs) Steven, nothing is higher than an architect.<br>
+							<br>
+							
+						STEVEN: I think I'd really like to be a city planner. (Sits down, addressing the entire foundation board) Why limit myself to just one building, when I can design a whole city?<br>
+							<br>
+							
+						WYCK: Well, that's a good point.<br>
+							<br>
+							
+						GEORGE: (Mutters) No, it's not.<br>
+							<br>
+							
+						STEVEN: Well, isn't an architect just an art school drop-out with a tilty desk, and a big ruler? (Laughs - so do the board members)<br>
+							<br>
+							
+						GEORGE: (Irritated) It's called a T-square.<br>
+							<br>
+							
+						WYCK: You know, the stupidest guy in my fraternity became an architect - after he flunked out of dental school! (Everyone but George laughs) Contratulations, young man. (Shakes Steven's hand)<br>
+							<br>
+							
+						STEVEN: Thank you.<br>
+							<br>
+							
+						WYCK: Susan would be proud of what you're doing.<br>
+							<br>
+							
+						STEVEN: Thank you.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Setting: Peterman's office]<br>
+							<br>
+							
+						(Kramer is selling his Van Buren Boys story to Peterman)<br>
+							<br>
+							
+						KRAMER: And they made it their sign, because, Van Buren, our 8th President, was the man they most admired.<br>
+							<br>
+							
+						PETERMAN: (Laughs) Kramer, my friend, that is one ripping good yarn.. (Hands Kramer a check)<br>
+							<br>
+							
+						KRAMER: You know, if you like that one, I got more.. what are you looking for? Romance? Comedy? Adventue? .. Erotica? (Clicks his tongue)<br>
+							<br>
+							
+						ELAINE: No, uh, Kramer. I don't think -<br>
+							<br>
+							
+						PETERMAN: (Interrupting) How much would you take for the whole lot?<br>
+							<br>
+							
+						KRAMER: My whole lot?<br>
+							<br>
+							
+						PETERMAN: Name your price, man!<br>
+							<br>
+							
+						KRAMER: (Thinks) 1500 dollars.<br>
+							<br>
+							
+						PETERMAN: I'll give you half that.<br>
+							<br>
+							
+						KRAMER: (Excited) Done!<br>
+							<br>
+							
+						PETERMAN: Kramer, my friend, (Gestures to Elaine) consider Elaine at your disposal.<br>
+							<br>
+							
+						KRAMER: Okay.. (To Elaine) Well, I, Uh.. I like to work in the evenings.. (Elaine slumps back, and covers her head in misfortune)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Setting: Elaine's office]<br>
+							<br>
+							
+						(Elaine is growing weary of Kramer's childish antics. Kramer's practicing putting golf balls on her office floor)<br>
+							<br>
+							
+						ELAINE: Would you please just get on with the stupid Bob Saccamano story?!<br>
+							<br>
+							
+						KRAMER: Well, I'm on the phone with Bob, and I realize right then and there that I need to return this pair of pants. So, I'm off to the store.<br>
+							<br>
+							
+						ELAINE: What happened to Bob Saccamano?<br>
+							<br>
+							
+						KRAMER: Well, nothing. His part of the story is done. (Elaine covers her face with her hands - showing her difficulty coping with Kramer) So I'm waiting for the subway, It's not coming, so I decided to hoof it through the tunnel.<br>
+							<br>
+							
+						ELAINE: Alright, well, now that's something..<br>
+							<br>
+							
+						KRAMER: Well, I don't know if I lost track of time - or what, but the next think I knew..<br>
+							<br>
+							
+						ELAINE: (Adding) A train is bearing down on you?!<br>
+							<br>
+							
+						KRAMER: No, I slipped - and fell in the mud. Ruining the very pants I was about to return.<br>
+							<br>
+							
+						ELAINE: (Reflects on the story) I don't understand.. you were wearing the pants you were returning?<br>
+							<br>
+							
+						KRAMER: Well, I guess I was..<br>
+							<br>
+							
+						ELAINE: (Still confused) What were you gonna wear on the way back?<br>
+							<br>
+							
+						KRAMER: Elaine, are you listening?! I didn't even get there! (Pauses) All right, next story..<br>
+							<br>
+							
+						ELAINE: Alright, I think I got enough for one day.<br>
+							<br>
+							
+						KRAMER: Yeah, yeah, chew on that.<br>
+							<br>
+							
+						ELAINE: (Mocking) Yeah, I'll chew on that.<br>
+							<br>
+							
+						KRAMER: Oh, hey, listen, by the way - I'm hosting a little get-together tonight in honor of my little financial upturn..<br>
+							<br>
+							
+						ELAINE: Oh, thanks. I've got plans.<br>
+							<br>
+							
+						KRAMER: Elaine, you should be there to document it.<br>
+							<br>
+							
+						ELAINE: (Putting on her coat) Oh, you're getting together with some of your jackass friends, and you want me to take notes?<br>
+							<br>
+							
+						KRAMER: Yeah, but get there after nine. You know, give the poeple a chance to loosen up.<br>
+							<br>
+							
+						(Kramer turns to go, but slips on a golf ball. He falls to the ground. Elaine looks at him as if to say 'What a doofus.')<br>
+							<br>
+							<br>
+							<br>
+							
+						[Setting: Jerry's apartment]<br>
+							<br>
+							
+						JERRY: So you're denying him the scholarship just because he wants to be a city planner?<br>
+							<br>
+							
+						GEORGE: I was betrayed! That kid was like a son to me. And if there's one person you should be able to hold down, it's your own flesh and blood. Like my father.. my father's father before him.<br>
+							<br>
+							
+						JERRY: You know, maybe philanthropy is not your field. (Phone rings, he answers it) Hello. Oh, Hi, Ellen. Yeah, I called the hotel.. we're all set for the weekend.<br>
+							<br>
+							
+						GEORGE: You're spending the weekend with Ellen?<br>
+							<br>
+							
+						JERRY: (To George, in a 'cha-ching!' motion) Vermont! (To Ellen) With any luck, they said we could stay an extra couple of days if we want to! (George is disturbed. He gets up, goes go Kramer's door, and knocks. They talk) Four days at a beautiful bed-and-breakfast! I can't wait.. buy-bye. (Hangs up. George and Kramer come into Jerry's apartment, confronting him) What? (George takes the phone off the hook) What is this?<br>
+							<br>
+							
+						GEORGE: (To Kramer) You want to start?<br>
+							<br>
+							
+						KRAMER: (To George) Uh, No, no, no.. you go ahead. I gotta get my thoughts together.<br>
+							<br>
+							
+						GEORGE: Jerry, this whole Ellen situation.. has gone far enough.<br>
+							<br>
+							
+						JERRY: What?!<br>
+							<br>
+							
+						KRAMER: (Adding) Jerry, she's a loser. (George points to Kramer - gesturing that he's right on target)<br>
+							<br>
+							
+						JERRY: Where is this coming from? She's great!<br>
+							<br>
+							
+						GEORGE: (Concerned) Why're you doing this, Jerry? Is it your career? Things will pick up.<br>
+							<br>
+							
+						JERRY: There's nothing wrong with my career!<br>
+							<br>
+							
+						KRAMER: (Like a parent) Well, I still like the Bloomingdale's executive training program for him.<br>
+							<br>
+							
+						GEORGE: I though we said we weren't going to discuss that now!<br>
+							<br>
+							
+						KRAMER: Well, you know, I think it's something he should consider.<br>
+							<br>
+							
+						GEORGE: Of course he should consider it, but now is not the time!<br>
+							<br>
+							
+						KRAMER: Listen, George, all these issues are interrelated.<br>
+							<br>
+							
+						JERRY: (Fed up) Alright! Excuse me! (Gets up) I'm not buying any of this!<br>
+							<br>
+							
+						KRAMER: All right, so what're you saying? That we're wrong? Oh, everybody's wrong but you!<br>
+							<br>
+							
+						JERRY: You know, this is liek that Twilight Zone where the guy wakes up, and he's the same - but everyone else is different!<br>
+							<br>
+							
+						KRAMER: Which one?<br>
+							<br>
+							
+						JERRY: They were all like that!<br>
+							<br>
+							<br>
+							<br>
+							
+						[Setting: NYC Street]<br>
+							<br>
+							
+						(George comes out of a store, he meets up with Steven Koren)<br>
+							<br>
+							
+						STEVEN: Why'd you take away my scholarship, Mister Costanza?<br>
+							<br>
+							
+						GEORGE: Well, Steven, I, uh.. (All the sudden, a small gang steps out of nowhere, surrounding George)<br>
+							<br>
+							
+						STEVEN: These are my new friends - The Van Buren Boys.<br>
+							<br>
+							
+						MEMBER 1: He became so disillusioned, he had to join us.<br>
+							<br>
+							
+						GEORGE: Oh.. nice.<br>
+							<br>
+							
+						STEVEN: I want my scholarship back, so I can be a city planner.<br>
+							<br>
+							
+						GEORGE: What about architect, Steven?<br>
+							<br>
+							
+						MEMBER 1: (Moves threateningly close to George) City planner.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Setting: Cafe]<br>
+							<br>
+							
+						(Kramer is having his party, Elaine is painfully sitting through it)<br>
+							<br>
+							
+						FRIEND 1: Great party, K-man!<br>
+							<br>
+							
+						KRAMER: Yeah, well, you got that straight! (Turns to Elaine) Hey, Elaine, try the beef - because that's realy au jus sauce, huh. (Dramatically) Real au jus sauce!<br>
+							<br>
+							
+						ELAINE: (Sourly) I'll make a note of it.<br>
+							<br>
+							
+						FRIEND 1: Hey, Kramer,<br>
+							<br>
+							
+						KRAMER: Yeah?<br>
+							<br>
+							
+						FRIEND 1: Ramirez has never heard your pants story.<br>
+							<br>
+							
+						KRAMER: Ohh kay! Well, you know, I had Bob Saccamano on the phone, and I suddenly realized that I- (Elaine stops him)<br>
+							<br>
+							
+						ELAINE: You can't tell that story now. It belongs to Peterman.<br>
+							<br>
+							
+						KRAMER: What do ya mean?<br>
+							<br>
+							
+						ELAINE: You signed the release.<br>
+							<br>
+							
+						KRAMER: Yeah.<br>
+							<br>
+							
+						ELAINE: He sat in mud. Not you.<br>
+							<br>
+							
+						KRAMER: But I did sit in mud.<br>
+							<br>
+							
+						ELAINE: (Stern) Ya didn't! You never sat in mud!<br>
+							<br>
+							
+						KRAMER: (Pleading) I was all dirty!<br>
+							<br>
+							
+						ELAINE: It ever happened! Understand?<br>
+							<br>
+							
+						(Kramer's friends get restless, and beg for the rest of the story)<br>
+							<br>
+							
+						KRAMER: (To crowd) Hey, hey, hey! All right! Yeah, uh, yeah.. well.. Uh, the pants. they, uh, they fit, uh, well - and so I, uh, decided I wasn't gonna return them! (Laughs) Wooh-hoo-hoo-hoo!<br>
+							<br>
+							
+						(The crowd is disappointed)<br>
+							<br>
+							
+						FRIEND 1: It's getting late. Maybe we better get going. (They all get up to leave)<br>
+							<br>
+							
+						KRAMER: What? You're gonna go now? Hey, woah! I don't.. (watches his friends leave)<br>
+							<br>
+							
+						(Enter George)<br>
+							<br>
+							
+						KRAMER: (Frantic) Kramer, Kramer! I got big trouble with the - with the Van Buren Boys.<br>
+							<br>
+							
+						KRAMER: Hey, now, they're tough cookies.<br>
+							<br>
+							
+						GEORGE: Yeah, and I - I heard you got on their good side. Now, what'd you do?<br>
+							<br>
+							
+						KRAMER: Uh.. ah, (Looks over at Elaine, and realizes he can't tell the Van Buren Boys story) Oh, nothing - nothing.. No, I certainly don't have any stories, if that's what you're implying. (Laughs heartily)<br>
+							<br>
+							
+						GEORGE: (Frantic) Kramer, do you know what those guys are gonna do to me?!<br>
+							<br>
+							
+						KRAMER: Yeah, well, uh.. you know uh, you didn't hear from me, but, uh, the Van Buren Boys - they never hassle their own kind.<br>
+							<br>
+							
+						GEORGE: You mean, like, a former member?<br>
+							<br>
+							
+						(Kramer nods his head while drinking from a mug of beer)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Setting: Jerry's apartment]<br>
+							<br>
+							
+						ELAINE: These Kramer stories are unusable! (Thumbs through them) I mean, some of them aren't even stories! (Holds one out) Look, this is a list of things in his apartment!<br>
+							<br>
+							
+						JERRY: Is my toaster oven on there?<br>
+							<br>
+							
+						ELAINE: How am I ever gonna turn this into a book?<br>
+							<br>
+							
+						JERRY: Well, just shape them - change them. You're a writer.<br>
+							<br>
+							
+						ELAINE: Yes! I'm a writer.<br>
+							<br>
+							
+						JERRY: Make them interesting.<br>
+							<br>
+							
+						ELAINE: Interesting! Of course! People love interesting writing!<br>
+							<br>
+							
+						(Jerry reacts oddly, as if to say 'That's enough of that!')<br>
+							<br>
+							
+						JERRY: Well, I gotta go to the airport. I'm picking up my parents.<br>
+							<br>
+							
+						ELAINE: What? Wheren't they just here?<br>
+							<br>
+							
+						JERRY: Yeah. I'm flying them in to meet Ellen. I don't know where to turn! I gotta see what they think of her.<br>
+							<br>
+							
+						ELAINE: Maybe we could all have dinner later?<br>
+							<br>
+							
+						JERRY: I don't think so. I'm gonna try to get them to fly right back tonight.<br>
+							<br>
+							
+						(Enter Kramer)<br>
+							<br>
+							
+						KRAMER: Oh, hey! Hey, have I told you about my bunions? Oh, you're gonna love this story! (Rubs his hands together) So, I line up my cold cuts on the couch next to me, but as I'm stacking them up, they keep falling into my foot bath! (Jerry and Elaine look disgusted)<br>
+							<br>
+							
+						JERRY: Kramer, this is awful! We don't want to hear about this!<br>
+							<br>
+							
+						KRAMER: Damn!<br>
+							<br>
+							
+						JERRY: What?<br>
+							<br>
+							
+						KRAMER: Oh, I bought a bunch of bunion stories from Newman - but they all stink!<br>
+							<br>
+							
+						ELAINE: How much did you pay for them?<br>
+							<br>
+							
+						KRAMER: Eight bucks! I think I got ripped off! (Leaves, yelling out &quot;Newman!&quot;)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Setting: Peterman's office]<br>
+							<br>
+							
+						ELAINE: Oh, what didn't you like about the first chapter?<br>
+							<br>
+							
+						PETERMAN: Well, it started out nicely: &quot;I'm returning some pants.&quot; A very identifiable problem.. (turns page) &quot;I set of down a train tunnel.&quot;.. (turns page) But that's where the story takes a most unappealing turn.<br>
+							<br>
+							
+						ELAINE: Oh, no, no! That's where it gets interesting! Don't you see? The - the train is bearing down on you, you - you dive into a side tunnel - and you run into a whole band of underground tunnel dwellers!<br>
+							<br>
+							
+						PETERMAN: It just seems so cliched, and obvious. It's not interesting writing.<br>
+							<br>
+							
+						ELAINE: Yeah.. yeah. I know. Um.. how about if, instead of.. diving from the train, you.. uh, you, I don't know, you slip and, and fall in some mud, and.. ruin your pants?<br>
+							<br>
+							
+						PETERMAN: (Intrigued) The very pants I was returning. That's perfect irony! Elaine, that is interesting writing! (The intercom beeps)<br>
+							<br>
+							
+						SECRETARY: I have a Cosmo Kramer on line 4.<br>
+							<br>
+							
+						PETERMAN: (Picks up the phone) Peterman, here.<br>
+							<br>
+							
+						KRAMER: Mister Peterson, you gotta sell me my stories back!<br>
+							<br>
+							
+						PETERMAN: You want to know something? I no longer need them!<br>
+							<br>
+							
+						ELAINE: No, no. Mister Peterman, why don't we keep them - as a, as a reference?<br>
+							<br>
+							
+						PETERMAN: Nonsense! (To Kramer) I have Benes' woderfully imaginative mind to spin my stories. You take back your tales, you vagabond!<br>
+							<br>
+							
+						KRAMER: Yippie-yi-yay!<br>
+							<br>
+							
+						PETERMAN: (Hangs up) There you are, Elaine. Go forth, and create. (Elaine gets up to leave) And, by the way, when you get to that chapter about my romantic escapades - feel free to toss yourself in the mix.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Setting: NYC Street]<br>
+							<br>
+							
+						(George meets up with the Van Buren Boys again)<br>
+							<br>
+							
+						GEORGE: Hey, Van B. Boys.<br>
+							<br>
+							
+						STEVEN: So, Mister Costanza, did you get my scholarship back?<br>
+							<br>
+							
+						GEORGE: Now, fellas, fellas.. easy. You wouldn't want to beat up on one of your own.<br>
+							<br>
+							
+						MEMBER 2: Is that right? Then why don't you flash us the sign?<br>
+							<br>
+							
+						GEORGE: Right.. the sign. (Hesitates, then makes a series of stupid gestures)<br>
+							<br>
+							
+						STEVEN: That's not the sign.<br>
+							<br>
+							
+						GEORGE: (Defensively loud) It was when I was banging!<br>
+							<br>
+							
+						MEMBER 2: All right, if you really are one of us.. let's see you take the wallet off the next guy who walks by.<br>
+							<br>
+							
+						GEORGE: Love to! (Cracks his knuckles, then winces under the pain)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Setting: Coffee shop]<br>
+							<br>
+							
+						ELLEN: And after college, I got my masters at the Sorbonne.<br>
+							<br>
+							
+						MORTY: Sorbonne? Oh, hey. (To Helen) That's in Paris.<br>
+							<br>
+							
+						ELLEN: (Looks at her watch) Oh, Jerry, you're parking meter's about to expire. Don't get up, I've got change. (Leaves with her purse)<br>
+							<br>
+							
+						JERRY: (To his parents) So? What do you think?<br>
+							<br>
+							
+						HELEN: Jerry, she's fantastic.<br>
+							<br>
+							
+						JERRY: I knew it! I'm not crazy.<br>
+							<br>
+							
+						HELEN: She's so sweet, and she's got some body on her!<br>
+							<br>
+							
+						MORTY: And smart! Like a computer!<br>
+							<br>
+							
+						HELEN: And so much personality! But, it doesn't matter what we think. Do you like her?<br>
+							<br>
+							
+						JERRY: (After seeing how much his parents like her) Now, I'm not so sure.<br>
+							<br>
+							
+						HELEN: Well, she's 10 times better than that awful Amber girl that you were with.<br>
+							<br>
+							
+						JERRY: yeah, Amber.. I wonder if she's back from Vegas..<br>
+							<br>
+							<br>
+							<br>
+							
+						[Setting: NYC Alley]<br>
+							<br>
+							
+						MEMBER 2: The next one, or you're meat!<br>
+							<br>
+							
+						GEORGE: Alright, alright! (Goes out onto the sidewalk. The Seinfelds walk by) Seinfelds!<br>
+							<br>
+							
+						MORTY: Hey, George!<br>
+							<br>
+							
+						GEORGE: Shhh! Listen, you gotta do me a favor. Give me your wallet. I'll give it back to you later.<br>
+							<br>
+							
+						MORTY: How're your folks?<br>
+							<br>
+							
+						GEORGE: Eh, they're trying to pick out a new couch - you don't want to know. (Remembering the watching Van Buren Boys) Give me your wallet, or I'll spill your guts right here on the street!<br>
+							<br>
+							
+						MORTY: What did you say?<br>
+							<br>
+							
+						GEORGE: Come on, hurry up, old man! I'm an animal!<br>
+							<br>
+							
+						HELEN: You're being very rude. Come on, Morty.<br>
+							<br>
+							
+						GEORGE: (Pleading) Please, please, they're gonna hit me! (Attempts to grab Helen's purse, she starts hitting George defensively, he backs off)<br>
+							<br>
+							
+						MORTY: Tell your parents we said 'Hi!' (They leave)<br>
+							<br>
+							
+						(The Van Buren Boys come out of the alley, George holds up his hand in a &quot;stop&quot; gesture - then takes off running down the street, screaming. The Van Buren Boys chase him)<br>
+							<br>
+							<br>
+							
+						The End</td>
+						</tr>
+						<tr height="6">
+							<td class="bottom2" width="645" height="6"></td>
+						</tr>
+						<tr>
+							<td width="645">
+								<div align="center">
+									<font size="-1">Copyright 2006 seinology.com | All Rights Reserved | Designed by 13erla</font></div>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+		<p></p>
+	</body>
+
+</html>

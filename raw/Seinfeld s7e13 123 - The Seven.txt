@@ -1,0 +1,1698 @@
+<tdOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+<html>
+
+	<head>
+		<meta http-equiv="content-type" content="text/html;charset=ISO-8859-1">
+		<meta name="description" content="Top Source for Seinfeld">
+		<meta name="keywords" content="seinfeld, sienfeld, Jerry Seinfeld, Julia Louis Dreyfus, Jason Alexander, Michael Richards, Kramer, George, Costanza, Elaine Benes, morty, Larry David">
+		<title>Seinology.com :: Scripts :: 123-The Seven</title>
+	<link rel='stylesheet' href='/stylesheet.css' type='text/css'>
+	</head>
+
+	<body>
+			<table align="center" width="787" border="0" cellspacing="0" cellpadding="0">
+				<tr>
+					<td><font size="-2" color="red">Seinology.com - </font><font size="-3" color="black">Where Seinfeld Content and Accuracy Matter Most. Seinfeld scripts in pdf form, Seinfeld episode video clips, Seinfeld episode audio clips, Jerry Seinfeld appearances, Julia Louis-Dreyfus appearances, Michael Richards appearances, Jason Alexander appearances, Seinfeld discussion Forum, Seinfeld Where are they Now? Seinlanguage Newsletter, Popular Seinfeld Lists, Seinfeld episode standup, Seinfeld episode guide, Seinfeld fan fiction. Seinfeld content all on one domain. Seinology.com enjoy your stay.</font></td>
+				</tr>
+			</table>
+		
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr height="100">
+				<td class="logo"></td>
+			</tr>
+			<tr><td class="ads" align="center" background=#8694fa>
+				<script type="text/javascript"><!--
+google_ad_client = "pub-1924026976931416";
+google_ad_width = 728;
+google_ad_height = 90;
+google_ad_format = "728x90_as";
+google_ad_type = "text";
+google_ad_channel = "";
+google_color_border = "FFFFFF";
+google_color_bg = "8694fa";
+google_color_link = "0000FF";
+google_color_text = "000000";
+google_color_url = "002E3F";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></td></tr>
+		</table>
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr>
+				<td valign="top" width="136">
+					<table width="136" border="0" cellspacing="0" cellpadding="0">
+						<tr height="24">
+							<td class="navigation">
+								<div align="center">
+									
+									<b>Navigation</b></div>
+							</td>
+						</tr>
+						<tr height="199">
+							<td class="spacer1" valign="top" width="136" height="199">
+								<div align="center">
+									<font size="-1"><a href="http://www.seinology.com">Home</a><br>
+										<a href="http://board.seinology.com">Forum</a><br>
+										<a href="http://www.seinology.com/av.shtml">Audio/Video</a><br>
+										<a href="http://www.seinology.com/scripts.shtml">Scripts</a><br>
+										<a href="http://www.seinology.com/survivor.shtml">Survivor</a><br>
+										<a href="http://www.seinology.com/fanfics.shtml">Fan Fiction</a><br>
+										<a href="http://www.seinology.com/gallery/">Gallery</a><br>
+										<a href="http://www.seinology.com/newsletter.shtml">Newsletter</a><br>
+										<a href="http://www.seinology.com/lists.shtml">Lists</a><br>
+										<a href="http://www.seinology.com/epguide.shtml">Episode Guide</a><br>
+										<a href="http://www.seinology.com/links.shtml">Links</a><br>
+										<a href="http://www.seinology.com/faqother.shtml">Faq + others</a><br>
+										<a href="http://www.seinology.com/legal.shtml">Legal</a></font></div>
+							</td>
+						</tr>
+						
+						<tr>
+							<td class="nav2" width="136">
+							<div align="center"><b>Search</b></div></td>
+						</tr>
+						<tr>
+							<td class="spacer1" width="136" valign="top"><div align="center"><form method="get" action="http://www.seinology.com/search/search.cgi">
+<p><label for="fdse_Match">Match</label><br>
+<select name="Match" id="fdse_Match" size="1">
+<option value="1">All</option>
+<option value="0">Any</option>
+<option value="2">Phrase</option>
+</select></p>
+<p><label for="fdse_Realm">Where?</label><br>
+<select name="Realm" id="fdse_Realm" size="1">
+<option selected="selected" value="All">EntireSite</option>
+<option value="Ep Guide">Ep Guide</option>
+<option value="Images">Images</option>
+<option value="Lists">Lists</option>
+<option value="Newsletters">Newsletters</option>
+<option value="Scripts">Scripts</option>
+<option value="Notes..Nothing">Notes..Nothing</option>
+</select></p>
+<p><input type="text" name="Terms" size="14" id="fdse_Terms"><br>
+<input type="submit" class="submit" name="submitButtonName" value="Search"></p>
+</div></form></td>
+						</tr>
+						<tr><td class="bottom" width="136" height="10" valign="top">
+						</td>
+						</tr>
+					</table>
+				</td>
+				<td width="4"></td>
+				<td valign="top" width="645">
+					<table width="645" border="0" cellspacing="0" cellpadding="0">
+						<tr height="18">
+							<td width="645" height="35" class="bar">
+								<div align="center">
+									<b><font size="+2" color="black">Script</font></b></div>
+							</td>
+						</tr>
+						<tr height="362">
+							<td class="spacer2" valign="top" width="645" height="362">
+
+						<p><font size="-2">Episode 123 - The Seven<br>
+							
+						pc: 713, season 7, episode 13<br>
+							
+						Broadcast date: February 1, 1996<br>
+							<br>
+							
+						Written by Alec Berg &amp; Jeff Schaffer<br>
+							
+						Directed by Andy Ackerman<br>
+							<br>
+							
+						-------------------------------------------------------------------------------<br>
+							<br>
+							
+						The Cast<br>
+							
+						Regulars:<br>
+							
+						Jerry Seinfeld .......................&nbsp; Jerry Seinfeld<br>
+							
+						Jason Alexander ..................&nbsp; George Costanza<br>
+							
+						Julia Louis-Dreyfus .............&nbsp; Elaine Benes<br>
+							
+						Michael Richards .................&nbsp; Cosmo Kramer<br>
+							<br>
+							
+						Guest Stars:<br>
+							
+						&nbsp;<br>
+							
+						Ken Hudson Campbell ........ Ken<br>
+							
+						Shannon Holt ..................... Carrie<br>
+							
+						Lisa Deanne ....................... Christie<br>
+							
+						Charles Emmett .................. Orderly<br>
+							
+						David Richards ................... Maitre d'<br>
+							
+						Matthew McCurley ............. Kid<br>
+							
+						Josh Abramson ................... Man #1<br>
+							
+						rc: Wayne Knight ................ Newman<br>
+							
+						rc: Heidi Swedberg ............. Susan Biddle Ross<br>
+							<br>
+							
+						==================================================================<br>
+							<br>
+							
+						[Nightclub]<br>
+							<br>
+							
+						Jerry's standup piece.<br>
+							<br>
+							
+						I love it when people are complimented on something they're wearing and they accept the compliment as if it was about them. &quot;Nice tie.&quot; &quot;Well, thank you. Thank you very much.&quot; The compliment is for the tie, it's not for you, but we take it. That's kind of the job of clothes; to get compliments for us, because it's very hard to get compliments based on your human qualities. Right? Let's face it, no matter how nice a person you are, nobody's gonna come Say &quot;Hey, nice person.&quot; It's much easier to be a bastard and just try and match the colours up.<br>
+							<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						[Antique Toy Store]<br>
+							<br>
+							
+						(Elaine and Jerry enter a store stocked with the toys of yesteryear. They look around at the array of classic teddy bears, toy boats, puppets, etc.)<br>
+							<br>
+							
+						ELAINE: (awed) Oh, look at this!<br>
+							<br>
+							
+						JERRY: Boy, I miss the days they made toys that could kill a kid.<br>
+							<br>
+							
+						(Something on the wall catches Elaine's eye. It's an old-fashioned girl's bicycle, with high handlebars, a pink frame and a basket on the front.)<br>
+							<br>
+							
+						ELAINE: (excited) Oh, cool! Look at that!<br>
+							<br>
+							
+						(Jerry looks over, but his eye is drawn more towards an attractive woman, Christie, who stands looking at the toys. She's wearing a dress of mid-thigh length, black from the bottom of the ribs down, and white on the chest and arms.)<br>
+							<br>
+							
+						JERRY: (admiring Christie) Yeah, I'm right there with ya.<br>
+							<br>
+							
+						ELAINE: (excited) That is a Schwinn Stingray! And it's the girl's model! Oh, I always wanted one of these when I was little.<br>
+							<br>
+							
+						(Christie leaves her examination of the toys on that side of the store, and walks over to some other items. Jerry watches her as she goes, she notices and smiles and flirtatious looks are exchanged. Jerry is oblivious to Elaine's voice.)<br>
+							<br>
+							
+						ELAINE: What d'you think Jerry? Jerry?<br>
+							<br>
+							
+						JERRY: (tearing himself away from Christie) Huh?<br>
+							<br>
+							
+						ELAINE: What d'you think?<br>
+							<br>
+							
+						JERRY: Oh yeah, be great for your paper route.<br>
+							<br>
+							
+						ELAINE: (laughs) I love it. I'm getting it.<br>
+							<br>
+							
+						(Elaine reaches for the bike, as Jerry turns back to Christie.)<br>
+							<br>
+							
+						ELAINE: Can you help me get it down, Jer? Jerry.<br>
+							<br>
+							
+						CHRISTIE: I think your friend needs some help over there.<br>
+							<br>
+							
+						JERRY: You know, the only way to really help her is to just let her be.<br>
+							<br>
+							
+						(Elaine gives up on Jerry assisting her and tries to lift the bike off the wall on her own. But as she raises it, the weight proves too much and she falls backwards, ending up on her back on the floor with the bike pinning her down. She struggles to lift it, but can't make much impression, so she rings the bell on the bike. Jerry finally has his attention drawn away from Christie.)<br>
+							<br>
+							
+						ELAINE: Hey!<br>
+							<br>
+							
+						(Elaine makes 'So, are you gonna help me?' gestures.)<br>
+							<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						[Restaurant]<br>
+							<br>
+							
+						(George and Susan are having dinner with Ken and Carrie. Carrie is heavily pregnant. George is eating spaghetti with his usual decorum.)<br>
+							<br>
+							
+						SUSAN: A little baby girl?<br>
+							<br>
+							
+						KEN: Doctor says it could be any day now.<br>
+							<br>
+							
+						GEORGE: (through mouthful of food) So, Carrie, you and Susan are cousins. So your baby daughter is gonna be Susan's second cousin, right? So what does that make me?<br>
+							<br>
+							
+						CARRIE: Doesn't make you anything.<br>
+							<br>
+							
+						GEORGE: (jokingly) Well, so, legally, I could marry your daughter.<br>
+							<br>
+							
+						(George laughs and shovels another load of pasta into his mouth. Ken and Carrie look perturbed.)<br>
+							<br>
+							
+						SUSAN: So, have you picked out a name yet?<br>
+							<br>
+							
+						CARRIE: Well, we've narrowed it down to a few. We like Kimberley.<br>
+							<br>
+							
+						SUSAN: Aww.<br>
+							<br>
+							
+						GEORGE: (negative) Hu-ho, boy.<br>
+							<br>
+							
+						KEN: You don't like Kimberley?<br>
+							<br>
+							
+						GEORGE: Ech. What else you got?<br>
+							<br>
+							
+						KEN: How about Joan?<br>
+							<br>
+							
+						GEORGE: Aw c'mon, I'm eating here.<br>
+							<br>
+							
+						SUSAN: (warning) George!<br>
+							<br>
+							
+						CARRIE: Pamela?<br>
+							<br>
+							
+						GEORGE: Pamela?! Awright, I tell you what. You look like nice people, I'm gonna help you out. You want a beautiful name? Soda.<br>
+							<br>
+							
+						KEN: What?<br>
+							<br>
+							
+						GEORGE: Soda. S-O-D-A. Soda.<br>
+							<br>
+							
+						CARRIE: I don't know, it sounds a little strange.<br>
+							<br>
+							
+						GEORGE: All names sound strange the first time you hear 'em. What, you telling me people loved the name Blanche the first time they heard it?<br>
+							<br>
+							
+						KEN: Yeah, but uh... Soda?<br>
+							<br>
+							
+						GEORGE: Yeah, that's right. It's working.<br>
+							<br>
+							
+						CARRIE: We'll put it on the list.<br>
+							<br>
+							
+						GEORGE: I solve problems. That's just what I do.<br>
+							<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						[Jerry's Apartment]<br>
+							<br>
+							
+						(Jerry sits in front of the TV, while in the kitchen Kramer is building a sandwich of epic proportions. He hums to himself as he piles sliced meat onto bread. Jerry looks over at him, looking somewhat irritated by the way Kramer's demolishing his food stocks.)<br>
+							<br>
+							
+						KRAMER: (sniffing a slice of meat) Yeah, oh boy. Mmm, that's good.<br>
+							<br>
+							
+						JERRY: You're really going to town with that turkey there.<br>
+							<br>
+							
+						KRAMER: Oh yeah, I got a big appetite.<br>
+							<br>
+							
+						(Kramer goes to the fridge and looks inside.)<br>
+							<br>
+							
+						KRAMER: Uhh, Jerry, you got no mustard, huh.<br>
+							<br>
+							
+						JERRY: It's on the door.<br>
+							<br>
+							
+						KRAMER: (examining a yellow squeeze bottle) What, this yellow stuff? No, I said mustard, Jerry. Dijon.<br>
+							<br>
+							
+						(Kramer waves away the squeezy option and shuts the fridge.)<br>
+							<br>
+							
+						KRAMER: Ah, 's no good.<br>
+							<br>
+							
+						(Kramer goes back to his sandwich, puts the second slice of bread on, and takes a bite. It doesn't meet with his approval. He spits out the mouthful he's taken onto the plate, and dumps the rest of the sandwich next to it.)<br>
+							<br>
+							
+						KRAMER: No. That's bush league.<br>
+							<br>
+							
+						(Kramer heads toward the door.)<br>
+							<br>
+							
+						JERRY: Hey, hey. Wha... wait... what, you're gonna leave it there? That's like half a pound of turkey!<br>
+							<br>
+							
+						KRAMER: No, no, I can't eat that. You can't eat a sandwich without Dijon.<br>
+							<br>
+							
+						JERRY: (sarcasm) Yeah, you're right. I really should keep more of your favourites on hand.<br>
+							<br>
+							
+						KRAMER: Hey, hey, hey. I'm getting a vibe here. What, are you unhappy with our arrangement?<br>
+							<br>
+							
+						JERRY: What arrangement?<br>
+							<br>
+							
+						KRAMER: Well, I was under the impression that I could take anything I wanted from your fridge, and you could take whatever you want from mine.<br>
+							<br>
+							
+						JERRY: (sarcasm) Yeah, well, lemme know when you get something in there and I will.<br>
+							<br>
+							
+						(Elaine enters. She has her head leaning over to the left, and she's moving carefully, like it's giving her pain.)<br>
+							<br>
+							
+						KRAMER: Oh, hey.<br>
+							<br>
+							
+						ELAINE: Hey.<br>
+							<br>
+							
+						JERRY: Hey. What's with your neck?<br>
+							<br>
+							
+						ELAINE: Still killing me from having to get that bike off the wall. (pointedly) By myself.<br>
+							<br>
+							
+						JERRY: Well, if it's any consolation, I did get her number.<br>
+							<br>
+							
+						ELAINE: (sitting) Ah, I think I really strained it. Ow.<br>
+							<br>
+							
+						JERRY: Aw, I doubt you strained it. Maybe you pulled it.<br>
+							<br>
+							
+						ELAINE: Ach, maybe.<br>
+							<br>
+							
+						JERRY: Did you twist it? You coulda twisted it.<br>
+							<br>
+							
+						ELAINE: I don't know.<br>
+							<br>
+							
+						JERRY: Did you wrench it? Did you jam it? Maybe you squeezed it. Turned it...<br>
+							
+						&lt;IMG SRC=http://tinyurl.com/2b9c width=200 &gt;<br>
+							
+						ELAINE: (patience exhausted) You know what, why don't you just shut the hell up?<br>
+							<br>
+							
+						JERRY: Awright.<br>
+							<br>
+							
+						ELAINE: God. Man, this is killing me. Right now, I would give that bike to the first person who could make this pain go away.<br>
+							<br>
+							
+						KRAMER: Aw, you really hurting, huh?<br>
+							<br>
+							
+						ELAINE: Oh, Kramer, it's just awful.<br>
+							<br>
+							
+						KRAMER: Uh hmm. Well, your arterioles have constricted.<br>
+							<br>
+							
+						(Kramer walks around behind the seated Elaine, and reaches for her neck.)<br>
+							<br>
+							
+						KRAMER: Alright, lean forward, relax.<br>
+							<br>
+							
+						ELAINE: (worried) What? What?<br>
+							<br>
+							
+						KRAMER: Encounter shiatsu.<br>
+							<br>
+							
+						(Kramer begins to work at Elaine's neck with his thumbs.)<br>
+							<br>
+							
+						ELAINE: Wait a minute. Kramer, you know what you're doing here?<br>
+							<br>
+							
+						KRAMER: (continuing to work) Ohh yeah. A wise man once taught me the Healing power of the body's natural pressure points.<br>
+							<br>
+							
+						ELAINE: Ah hah.<br>
+							<br>
+							
+						KRAMER: (to Jerry) He sells tee-shirts outside the World Trade Centre.<br>
+							<br>
+							
+						ELAINE: (seriously worried) Wha...?<br>
+							<br>
+							
+						KRAMER: He's a genius. Here we go...<br>
+							<br>
+							
+						(Kramer takes a firm grip of each side of Elaine's head. Elaine looks really worried now. She grabs a hold of Jerry's shirt and the arm of the couch, and her feet stamp on the floor.)<br>
+							<br>
+							
+						KRAMER: From pain, will come pleasure.<br>
+							<br>
+							
+						Kramer violently twists Elaine's head to the left. There's a loud crunching sound, and Elaine cries out in shock. Kramer lets go of her head and steps away, job done.)<br>
+							<br>
+							
+						KRAMER: Uh? Voila.<br>
+							<br>
+							
+						ELAINE: (pleasantly surprised) Oh my god!<br>
+							<br>
+							
+						KRAMER: Yeah.<br>
+							<br>
+							
+						(Elaine rolls her head around, completely comfortable.)<br>
+							<br>
+							
+						ELAINE: Wow! That is unbelievable. The pain is totally gone!<br>
+							<br>
+							
+						JERRY: What's even more amazing is his formal training is in pediatrics.<br>
+							<br>
+							
+						KRAMER: Awright, my work is done here.<br>
+							<br>
+							
+						(Kramer heads for the door.)<br>
+							<br>
+							
+						ELAINE: (big smile) Oh man! Kramer, thank you!<br>
+							<br>
+							
+						KRAMER: (closing the door) Yeah, you can send that bike over any time.<br>
+							<br>
+							
+						ELAINE: (after Kramer) What? (to Jerry) What, what is he talking about?<br>
+							<br>
+							
+						JERRY: I dunno. (realising) Oh, 'cos you said you'd give the bike to anyone who fixes your neck.<br>
+							<br>
+							
+						ELAINE: You really think he wants the bike?<br>
+							<br>
+							
+						JERRY: Oh yeah.<br>
+							<br>
+							
+						ELAINE: It took him like ten seconds!<br>
+							<br>
+							
+						JERRY: Well, that's the most he's worked in the last four months.<br>
+							<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						[George's Car]<br>
+							<br>
+							
+						(George and Susan, heading home from the restaurant. George is happy, smiling and whistling.)<br>
+							<br>
+							
+						GEORGE: I think they really went for that Soda.<br>
+							<br>
+							
+						SUSAN: What, are you crazy? They hated it. They were just humouring you.<br>
+							<br>
+							
+						GEORGE: Ah, alright. Believe me, that kid's gonna be called Soda.<br>
+							<br>
+							
+						SUSAN: I can tell you, I would never name my child Soda.<br>
+							<br>
+							
+						GEORGE: Oh, no no no. Course not. I got a great name for our kids. A real original. You wanna hear what it is? Huh, you ready?<br>
+							<br>
+							
+						SUSAN: Yeah.<br>
+							<br>
+							
+						(George uses his finger to draw a number 7 in the air, accompanying the strokes of his digit with a two-tone whistle.)<br>
+							<br>
+							
+						SUSAN: What is that? Sign language?<br>
+							<br>
+							
+						GEORGE: No, Seven.<br>
+							<br>
+							
+						SUSAN: Seven Costanza? You're serious?<br>
+							<br>
+							
+						GEORGE: Yeah. It's a beautiful name for a boy or a girl...<br>
+							<br>
+							
+						(Susan scoffs.)<br>
+							<br>
+							
+						GEORGE: ...especially a girl. Or a boy.<br>
+							<br>
+							
+						SUSAN: I don't think so.<br>
+							<br>
+							
+						GEORGE: What, you don't like the name?<br>
+							<br>
+							
+						SUSAN: It's not a name. It's a number.<br>
+							<br>
+							
+						GEORGE: I know. It's Mickey Mantle's number. So not only is it an all around beautiful name, it is also a living tribute.<br>
+							<br>
+							
+						SUSAN: It's awful. I hate it!<br>
+							<br>
+							
+						GEORGE: (angry) Well, that's the name!<br>
+							<br>
+							
+						SUSAN: (also angry) Oh no it is not! No child of mine is ever going to be named Seven!<br>
+							<br>
+							
+						GEORGE: (yelling) Awright, let's just stay calm here! Don't get all crazy on me!<br>
+							<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						[Jerry's Apartment]<br>
+							<br>
+							
+						(Jerry walks from the bathroom, talking to George, who's just told him about his contretemps with Susan.)<br>
+							<br>
+							
+						JERRY: Seven? Yeah, I guess I could see it. Seven. Seven periods of school, seven beatings a day. Roughly seven stitches a beating, and eventually seven years to life. Yeah, you're doing that child quite a service.<br>
+							<br>
+							
+						GEORGE: (adamant) Yes I am. I defy you to come up with a better name than Seven.<br>
+							<br>
+							
+						(Jerry walks toward the kitchen. He sees an item on the counter.)<br>
+							<br>
+							
+						JERRY: Awright, let's see. How about Mug? (picks up the mug) Mug Costanza, that's original. (he turns and sees another item) Or uh, Ketchup? Pretty name for a girl.<br>
+							<br>
+							
+						GEORGE: Alright, you having a good time there?<br>
+							<br>
+							
+						(Jerry is in the kitchen, and opens a cupboard. His eyes run over the array of good within.)<br>
+							<br>
+							
+						JERRY: I got fifty right here in the cupboard. How about Bisquik? Pimento. Gherkin. Sauce. Maxwell House.<br>
+							<br>
+							
+						GEORGE: (shouts) Awright already!! This is a very key issue with me, Jerry. I had this name for a long time.<br>
+							<br>
+							
+						(Jerry comes back into the living room. A thought occurs.)<br>
+							<br>
+							
+						JERRY: Oh, I forgot to call Christie.<br>
+							<br>
+							
+						GEORGE: Christie? That's the one you met in the antique store?<br>
+							<br>
+							
+						JERRY: Yeah, she had this great black and white dress, with a scoop neck. She looked like some kinda superhero.<br>
+							<br>
+							
+						GEORGE: And you met her in an antique store! I don't know how you do it!<br>
+							<br>
+							
+						JERRY: (smug) I'm not engaged.<br>
+							<br>
+							
+						(George gives Jerry a look. Kramer enters. He's carrying a small goldfish bowl, a pad and a pencil tied to the bowl by string.)<br>
+							<br>
+							
+						KRAMER: Ah, I got it.<br>
+							<br>
+							
+						JERRY: Got what?<br>
+							<br>
+							
+						KRAMER: (putting the items on the counter) Got the answer, Jerry. Refrigerator problem, is solved.<br>
+							<br>
+							
+						JERRY: Oh, it's no problem. You can take whatever you want.<br>
+							<br>
+							
+						KRAMER: Oh, I will. But now, I'm accountable. Alright, I take what I want.<br>
+							<br>
+							
+						(Kramer takes a cupcake from a box on the counter.)<br>
+							<br>
+							
+						KRAMER: Here. I write it down. (he writes) &quot;One cupcake.&quot; And then I put it in the bowl. (he tears off the sheet, crumples it and drops it into the bowl) There. Very simple.<br>
+							<br>
+							
+						JERRY: Sort of a mooching inventory.<br>
+							<br>
+							
+						KRAMER: No, no. Not mooching. 'Cos at the end of the week, you add 'em all up, and you give me the bill.<br>
+							<br>
+							
+						JERRY: Alright.<br>
+							<br>
+							
+						KRAMER: Alright, now look I gotta run some errands, so look. When Elaine comes by with that bike, you hang onto it for me, alright?<br>
+							<br>
+							
+						(George passes by as he goes to the fridge.)<br>
+							<br>
+							
+						JERRY: Kramer, I don't know if you're getting that bike.<br>
+							<br>
+							
+						KRAMER: Yes I am. We had a verbal contract. If we can't take each other at our word, all is lost.<br>
+							<br>
+							
+						(George has fetched a Diet Coke from the fridge. He opens it. Kramer hears the hiss, and notices George.)<br>
+							<br>
+							
+						KRAMER: (waving at the bowl) Oh yeah, yeah. Put that on my tab.<br>
+							<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						[Restaurant]<br>
+							<br>
+							
+						(Jerry and Christie have just arrived. They're both wearing long coats, fastened to the collar.)<br>
+							<br>
+							
+						JERRY: Well this is it. The food is atrocious, but the busboys are the best in the city.<br>
+							<br>
+							
+						(A member of staff approaches.)<br>
+							<br>
+							
+						MAITRE D': May I take your coat, miss?<br>
+							<br>
+							
+						CHRISTIE: Yes, thank you.<br>
+							<br>
+							
+						(The Maitre d' helps Christie to slip out of her coat, revealing that she has on the exact same dress as she was wearing in the antique store. Jerry looks bemused, but plasters on a fixed smile as Christie looks at him.)<br>
+							<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						[Monks']<br>
+							<br>
+							
+						(Jerry and George sit in a booth, discussing the previous night. George fingers his chin thoughtfully.)<br>
+							<br>
+							
+						GEORGE: The same outfit?<br>
+							<br>
+							
+						JERRY: The exact same outfit.<br>
+							<br>
+							
+						GEORGE: How many days was it between encounters.<br>
+							<br>
+							
+						JERRY: Three.<br>
+							<br>
+							
+						GEORGE: Three days. Well, maybe you caught her on the cusp of a new wash cycle. You know, she did laundry the day after she met you, everything got clean and she started all over again.<br>
+							<br>
+							
+						JERRY: Possibly, but then shouldn't the outfit only reappear again at the end of the cycle?<br>
+							<br>
+							
+						GEORGE: Maybe she moved it up in the rotation.<br>
+							<br>
+							
+						JERRY: Why? It's our first date, she's already in reruns?<br>
+							<br>
+							
+						GEORGE: Very curious.<br>
+							<br>
+							
+						JERRY: Indeed.<br>
+							<br>
+							
+						GEORGE: You know, Einstein wore the exact same outfit every day.<br>
+							<br>
+							
+						JERRY: Well, if she splits the atom, I'll let it slide.<br>
+							<br>
+							
+						GEORGE: (picking up his coat) Awright, I'm heading home.<br>
+							<br>
+							
+						JERRY: Hey, did Susan change her mind about the name?<br>
+							<br>
+							
+						GEORGE: (standing) Not yet, but she's weakening.<br>
+							<br>
+							
+						JERRY: You know, George, just because your life is destroyed, don't destroy someone else's.<br>
+							<br>
+							
+						GEORGE: It's Mickey Mantle, Jerry. My idol.<br>
+							<br>
+							
+						JERRY: How about 'Mickey'?<br>
+							<br>
+							
+						GEORGE: 'Mickey'? (incredulous) 'Mickey'!<br>
+							<br>
+							
+						(George walks away, half-laughing at Jerry's ludicrous suggestion.)<br>
+							<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						[Jerry's Apartment]<br>
+							<br>
+							
+						(Jerry is in the fridge. Kramer enters with a slide of the feet, and a cigar in his mouth.)<br>
+							<br>
+							
+						KRAMER: Hey buddy.<br>
+							<br>
+							
+						JERRY: (holding up a can) Hey, is this your half a can of soda in the fridge?<br>
+							<br>
+							
+						KRAMER: No, that's yours. My half is gone.<br>
+							<br>
+							
+						JERRY: What?<br>
+							<br>
+							
+						KRAMER: Yeah, I put my half a can here on the tab. Why, what's your beef?<br>
+							<br>
+							
+						JERRY: You cannot buy half a can of soda.<br>
+							<br>
+							
+						KRAMER: Well, why not.<br>
+							<br>
+							
+						JERRY: Well, I don't wanna get into the whole physics of carbonation with you here, but you know the sound a can makes when you open it?<br>
+							<br>
+							
+						KRAMER: Yeah.<br>
+							<br>
+							
+						JERRY: That is the sound of you buying a whole can. And the same goes for this, okay...<br>
+							<br>
+							
+						(Jerry holds up an apple, from which has been taken one large bite.)<br>
+							<br>
+							
+						JERRY: ...When you pierce the skin of a piece of fruit, you've bought the whole fruit. Not a third of an apple, not a half of a banana...<br>
+							<br>
+							
+						(Jerry hold up a half banana.)<br>
+							<br>
+							
+						KRAMER: Alright.<br>
+							<br>
+							
+						JERRY: ...You bite it, you bought it.<br>
+							<br>
+							
+						KRAMER: Alright, alright. I'll make the necessary adjustments, alright.<br>
+							<br>
+							
+						JERRY: Thank you.<br>
+							<br>
+							
+						KRAMER: Yeah.<br>
+							<br>
+							
+						(Elaine enters.)<br>
+							<br>
+							
+						ELAINE: Hey.<br>
+							<br>
+							
+						KRAMER: Oh. (pointedly) So, how's the neck? Nice and loose?<br>
+							<br>
+							
+						ELAINE: Lookit, Kramer, you are not getting this bike. I don't even know why you ant it. (laughingly) I mean, it's a girl's bike.<br>
+							<br>
+							
+						KRAMER: (deadly serious) It's a verbal contract. We had a deal.<br>
+							<br>
+							
+						ELAINE: No we didn't. You take these things too literally. It's like saying, you're hungry enough to eat a horse.<br>
+							<br>
+							
+						KRAMER: Well, my friend Jay Reimenschneider eats horse all the time. He gets it from his butcher.<br>
+							<br>
+							
+						ELAINE: This is not the point. (emphatic) The point is, you just can't have the bike.<br>
+							<br>
+							
+						KRAMER: Boy, I am really surprised at you. (opening the door) You are the last person I figured would do something like this. I mean, George, yeah, I can see that. Even Jerry. But not you, Elaine...<br>
+							<br>
+							
+						(Kramer holds one hand up above his head.)<br>
+							<br>
+							
+						KRAMER: I always put you up here...<br>
+							<br>
+							
+						(Kramer holds his other hand at about knee height.)<br>
+							<br>
+							
+						KRAMER: ...They're over here. Now you're... aww-whawww.<br>
+							<br>
+							
+						(Kramer brings his first hand down to the level of the second. He leaves, closing the door with a bang. Elaine sits, fighting with her conscience. There is a brief pause, then the door opens again and Kramer pokes in his head, expectantly.)<br>
+							<br>
+							
+						ELAINE: (grudging) Alright.<br>
+							<br>
+							
+						KRAMER: (points) Digidi.<br>
+							<br>
+							
+						(Kramer leaves and closes the door again.)<br>
+							<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						[Restaurant]<br>
+							<br>
+							
+						(George and Susan are having dinner.)<br>
+							<br>
+							
+						GEORGE: Aw c'mon. It's a fantastic name. It's a real original, nobody else is gonna have it and I absolutely love it.<br>
+							<br>
+							
+						SUSAN: Well, I dunno how original it's gonna be any more.<br>
+							<br>
+							
+						GEORGE: Why not?<br>
+							<br>
+							
+						SUSAN: Well I was telling Carrie about our argument, and when I told them the name, they just loved it.<br>
+							<br>
+							
+						GEORGE: So, what're you saying?<br>
+							<br>
+							
+						SUSAN: They're gonna name their baby Seven.<br>
+							<br>
+							
+						GEORGE: (disbelief) What?! They're stealing the name?! That's my name, I made it up!<br>
+							<br>
+							
+						SUSAN: I can't believe that they're using it.<br>
+							<br>
+							
+						GEORGE: (anger) Well now it's not gonna be original! It's gonna lose all its cachet!<br>
+							<br>
+							
+						SUSAN: I dunno how much cachet it had to begin with.<br>
+							<br>
+							
+						GEORGE: (rage) Oh, it's got cachet, baby! It's got cachet up the yin-yang!<br>
+							<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						[Elaine's Apartment]<br>
+							<br>
+							
+						(Elaine is in bed. She begins to move to get up. As she raises herself from the mattress, there is a loud crunching sound. A look of agony crosses her face.)<br>
+							<br>
+							
+						ELAINE: (in pain) Oh god! Oh, god. (bitter) Kramer!<br>
+							<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						[Street]<br>
+							<br>
+							
+						(Elaine walks along the street. Her neck problem means she has her head tipped back so far she can't see directly in front of her. A guy coming the other way gives her a warning.)<br>
+							<br>
+							
+						MAN: Watch your step.<br>
+							<br>
+							
+						(Elaine collides with a litter bin which is outside her field of vision.)<br>
+							<br>
+							
+						ELAINE: (pain) Oh, ah. (bitter) Stupid Kramer.<br>
+							<br>
+							
+						(Christie is looking in a shop window, then she spots Elaine.)<br>
+							<br>
+							
+						CHRISTIE: Excuse me. Elaine?<br>
+							<br>
+							
+						(Elaine, handicapped by her neck, cannot see who's speaking.)<br>
+							<br>
+							
+						ELAINE: Huh?<br>
+							<br>
+							
+						(Christie comes over to Elaine. All Elaine can see of her is her head and neck.)<br>
+							<br>
+							
+						CHRISTIE: Over here. I thought that was you. You're Jerry's friend, right?<br>
+							<br>
+							
+						ELAINE: Yeah, yeah. Uh, Christie?<br>
+							<br>
+							
+						CHRISTIE: Yes. How y'doing?<br>
+							<br>
+							
+						ELAINE: (bearing up) I'm fine.<br>
+							<br>
+							
+						CHRISTIE: Well, I gotta run. It was good to see you.<br>
+							<br>
+							
+						(Christie walks away.)<br>
+							<br>
+							
+						ELAINE: (after Christie) Okay, oh, it was good to, good to see you.<br>
+							<br>
+							
+						(Kramer comes along the street, riding the Schwinn Stingray and ringing the bell. He attracts comments from folk on the street.)<br>
+							<br>
+							
+						VOICE 1 (O.C.): Lookin' good.<br>
+							<br>
+							
+						VOICE 2 (O.C.): Hey Cosmo, nice wheels.<br>
+							<br>
+							
+						KRAMER: You got that right!<br>
+							<br>
+							
+						(A kid leans out the window of a parked Volvo.)<br>
+							<br>
+							
+						KID: (scorn) Hey, you're riding a girl's bike.<br>
+							<br>
+							
+						(Kramer thumbs his nose and continues pedalling.)<br>
+							<br>
+							
+						ELAINE: (shouting) Kramer! Kramer!<br>
+							<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						[Outside Apartment Building]<br>
+							<br>
+							
+						(George walks up to the door. He pushes the buzzer for a particular apartment.)<br>
+							<br>
+							
+						KEN (O.C.): Hello.<br>
+							<br>
+							
+						GEORGE: Hello, Ken. It's George Costanza. I think we need to talk.<br>
+							<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						[Jerry's Apartment]<br>
+							<br>
+							
+						(Jerry hears a loud knocking from the hallway.)<br>
+							<br>
+							
+						ELAINE (O.C.): (angry shout) Kramer!<br>
+							<br>
+							
+						(Jerry opens the door to reveal Elaine hammering insistently at Kramer's door.)<br>
+							<br>
+							
+						ELAINE: Kramer!!<br>
+							<br>
+							
+						JERRY: Hey<br>
+							<br>
+							
+						(Elaine turns to Jerry and gets a twinge from her neck.)<br>
+							<br>
+							
+						ELAINE: Ow! God! Is Kramer back from his little joyride yet?<br>
+							<br>
+							
+						(Elaine enters Jerry's apartment.)<br>
+							<br>
+							
+						JERRY: Haven't seen him. How's the neck?<br>
+							<br>
+							
+						ELAINE: His chiropractic job was a crock. It's even worse than it was before.<br>
+							<br>
+							
+						(Elaine removes her bag from her back, wincing from the pain as she moves.)<br>
+							<br>
+							
+						JERRY: Boy, I'm surprised. (sarcasm) I would think Kramer would have a knack for moving pieces of a person's spine around.<br>
+							<br>
+							
+						ELAINE: Hey, you know what, I think I ran into that girl from the antique store. What's her name, Christie?<br>
+							<br>
+							
+						JERRY: You saw her? What was she wearing?<br>
+							<br>
+							
+						ELAINE: I don't know. I couldn't see. I couldn't look down because of my neck.<br>
+							<br>
+							
+						JERRY: Didn't you get a glimpse? An impression?<br>
+							<br>
+							
+						ELAINE: What d'you care?<br>
+							<br>
+							
+						JERRY: Both times I've seen her she's worn the same dress.<br>
+							<br>
+							
+						(There's a ringing from the Schwinn's bell, and Kramer rides it into Jerry's apartment. He rides all around the apartment, round the couch, past the TV and is heading for the door.)<br>
+							<br>
+							
+						ELAINE: Did you have a nice ride?<br>
+							<br>
+							
+						KRAMER: Oh, great ride.<br>
+							<br>
+							
+						ELAINE: Oh, that's good. 'Cos it was your last!<br>
+							<br>
+							
+						(Elaine slams the door shut before Kramer can leave. Kramer rides straight into the door with a clatter. He falls to the ground, then makes his stumbling way upright again.)<br>
+							<br>
+							
+						KRAMER: What're you talking about?! We had a deal!<br>
+							<br>
+							
+						ELAINE: (anger) You better give me back that bike! (indicating neck) Look at this! Look! Ow. I couldn't even crawl out of bed this morning.<br>
+							<br>
+							
+						KRAMER: Bed? You should be sleeping on a wooden board for at least a week.<br>
+							<br>
+							
+						ELAINE: What? You never told me that.<br>
+							<br>
+							
+						KRAMER: Well, it's common sense.<br>
+							<br>
+							
+						ELAINE: Jerry, what is he talking about? He's being ridiculous.<br>
+							<br>
+							
+						KRAMER: Alright, look. Jerry, you know the whole story, you should settle this.<br>
+							<br>
+							
+						ELAINE: Yeah Jerry.<br>
+							<br>
+							
+						JERRY: Well, I'm flattered that you would both appeal to my wisdom, but unfortunately, my friendship to each of you precludes my getting involved. What you need is an impartial mediator.<br>
+							<br>
+							
+						ELAINE: Yeah, I'd go for that. Would you go for that?<br>
+							<br>
+							
+						KRAMER: Alright, I'm down.<br>
+							<br>
+							
+						JERRY: Course, it would have to be someone who hasn't heard the story before. Someone who is unencumbered by any emotional attachment. Someone whose heart is so dark, it cannot be swayed by pity, compassion, or human emotion of any kind.<br>
+							<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						[Newman's Apartment]<br>
+							<br>
+							
+						(Elaine and Kramer sit on Newman's couch. Elaine with her head tilted back. Newman sits in his chair, his fingertips together, trying to give an impression of limitless wisdom.)<br>
+							<br>
+							
+						ELAINE: So, that's the situation.<br>
+							<br>
+							
+						NEWMAN: Mmm. You present an interesting dilemma. Each of you seemingly has a legitimate claim to the bicycle, and yet the bicycle can have only one rightful owner. Quite the conundrum. As a federal employee, I believe the law is all we have. (getting worked up) It's all that separates us from the savages who don't deserve even the privilege of the daily mail. (angry) Stuffing parcels into mailboxes where they don't belong!!...<br>
+							<br>
+							
+						KRAMER: Newman!<br>
+							<br>
+							
+						(Newman catches himself, and comes back to normality.)<br>
+							<br>
+							
+						NEWMAN: ...But, you must promise That you will abide by my decision, no matter how unjust it may seem to either of you. Do I have your word?<br>
+							<br>
+							
+						KRAMER: Uh, yeah.<br>
+							<br>
+							
+						ELAINE: Yeah.<br>
+							<br>
+							
+						NEWMAN: Alright, let's begin.<br>
+							<br>
+							
+						(Newman sits back, to begin his contemplation. There is the single 'ting' of a microwave.)<br>
+							<br>
+							
+						NEWMAN: (excited) Ooh, my cocoa!<br>
+							<br>
+							
+						(Newman leaps to his feet and heads for his kitchen.)<br>
+							<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						[Ken and Carrie's Apartment]<br>
+							<br>
+							
+						(Carrie is on the couch, with Ken sitting on the arm. George is explaining about Seven.)<br>
+							<br>
+							
+						KEN: Why can't we use Seven?<br>
+							<br>
+							
+						GEORGE: It's my name. I made it up. You can't just steal it.<br>
+							<br>
+							
+						CARRIE: Well, it's not as if Susan's pregnant. You've already postponed The wedding. Who knows if you'll ever get married.<br>
+							<br>
+							
+						GEORGE: Hey, hey hey. Don't worry about me. I'm not a waffler. I don't waffle!<br>
+							<br>
+							
+						KEN: Right, we're both big Mickey Mantle fans, and we love the name. It's very unusual.<br>
+							<br>
+							
+						GEORGE: (shouting) What happened to Soda?! I thought we all agreed on Soda.<br>
+							<br>
+							
+						KEN: (emphatic) Well, we don't care for Soda.<br>
+							<br>
+							
+						GEORGE: You don't care for Soda?!<br>
+							<br>
+							
+						CARRIE: (worked up) No, no. We don't like Soda at all!<br>
+							<br>
+							
+						GEORGE: (shouting) How d'you not like Soda?! It's bubbly, it's refreshing!<br>
+							<br>
+							
+						(Carrie jumps and gives a cry.)<br>
+							<br>
+							
+						CARRIE: Oh!<br>
+							<br>
+							
+						KEN: What is it?<br>
+							<br>
+							
+						CARRIE: I felt something.<br>
+							<br>
+							
+						KEN: Are you okay, honey?<br>
+							<br>
+							
+						CARRIE: I think I'm going into labour.<br>
+							<br>
+							
+						(George flashes a panicked expression.)<br>
+							<br>
+							
+						KEN: Oh god, oh god. Okay, let's not panic. Let's just get to the hospital...<br>
+							<br>
+							
+						(Ken and Carrie rise and head toward the door.)<br>
+							<br>
+							
+						CARRIE: Okay.<br>
+							<br>
+							
+						KEN: ...Alright? I got the suitcase packed, right here.<br>
+							<br>
+							
+						(Ken grabs the suitcase from by the door and they exit, hurriedly. George trails along behind them, making suggestions.)<br>
+							<br>
+							
+						GEORGE: What about Six?<br>
+							<br>
+							
+						(Ken gives him a look over his shoulder.)<br>
+							<br>
+							
+						GEORGE: Nine. Thirt... thirteen's no good.<br>
+							<br>
+							
+						(Ken has left, George follows out the door.)<br>
+							<br>
+							
+						GEORGE: Fourteen. (shouting after Ken) Fourteen!<br>
+							<br>
+							
+						(George closes the door behind him.)<br>
+							<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						[Restaurant]<br>
+							<br>
+							
+						(Jerry and Christie are having dinner. Christie is eating, while Jerry leans back picking at his meal, looking suspicious at the fact that Christie is wearing the same black and white dress as at their two previous meetings.)<br>
+							<br>
+							
+						CHRISTIE: Are you okay, Jerry? You seem quiet.<br>
+							<br>
+							
+						JERRY: No, I'm just a little uh, worn out.<br>
+							<br>
+							
+						CHRISTIE: I know exactly what you mean.<br>
+							<br>
+							
+						JERRY: Oh, I'm sure you do.<br>
+							<br>
+							
+						(Christie begins to season her food, with salt. Jerry chews thoughtfully.)<br>
+							<br>
+							
+						JERRY (V.O.): What in god's name is going on here? Is she wearing the same thing over and over again? Or does she have a closet full of these, like Superman? I've got to unlock this mystery.<br>
+							<br>
+							
+						(Christie adds a little pepper to her dish. But after replacing the shaker, she knocks her glass of red wine over her dress.)<br>
+							<br>
+							
+						CHRISTIE: (horrified) Oh my god!<br>
+							<br>
+							
+						JERRY: Oh.<br>
+							<br>
+							
+						(Christie mops at the spill with her napkin, but there's only so much you can do.)<br>
+							<br>
+							
+						CHRISTIE: Ahh. I can't go to the movies like this. Do you mind if we go back to my apartment, so I can change?<br>
+							<br>
+							
+						JERRY: Change? (thoughtful) Yes, I think that's a super idea.<br>
+							<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						[Ken and Carrie's Car]<br>
+							<br>
+							
+						(Ken is driving Carrie to the hospital. Carrie is as worked up as you'd expect a woman in labor to be. In the back seat, George is making one last attempt to save his name.)<br>
+							<br>
+							
+						CARRIE: Are we almost there?<br>
+							<br>
+							
+						KEN: Just keep breathing, okay.<br>
+							<br>
+							
+						CARRIE: (deep breaths) Okay, okay.<br>
+							<br>
+							
+						KEN: Okay.<br>
+							<br>
+							
+						GEORGE: (to Carrie) You know, the thing is, I kinda promised the widow Mantle that I would name my baby Seven.<br>
+							<br>
+							
+						(As George speaks, Ken is looking impatient and angry.)<br>
+							<br>
+							
+						KEN: Now's not the best time, George!<br>
+							<br>
+							
+						GEORGE: (to Carrie) It's just that, I know her, and boy...<br>
+							<br>
+							
+						KEN: (firm) George! She's in labour!<br>
+							<br>
+							
+						GEORGE: (angry shout) So am I!<br>
+							<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						[Newman's Apartment]<br>
+							<br>
+							
+						(Elaine and Kramer still sit on the couch, awaiting Newman's arbitration.)<br>
+							<br>
+							
+						NEWMAN: Well, you've both presented very convincing arguments. On the one hand, Elaine, your promise was given in haste. But was it not still a promise? Hmm?<br>
+							<br>
+							
+						(Kramer looks at Elaine, thinking his arguments have put him one up.)<br>
+							<br>
+							
+						NEWMAN: And, Kramer, you did provide a service in exchange for compensation. But, does the fee, once paid, not entitle the buyer to some assurance Of reliability? Hmm? Huh? Ahh. These were not easy questions to answer. Not for any man...<br>
+							<br>
+							
+						(Kramer leans forward to receive the result. Elaine looks as attentive as she can while only being able to look upwards.)<br>
+							<br>
+							
+						NEWMAN: ...But I have made a decision. (revelatory) We will cut the bike down the middle, and give half to each of you.<br>
+							<br>
+							
+						ELAINE: (shout) What?! This is your solution?! To ruin the bike?!<br>
+							<br>
+							
+						(Newman's face drops at her negative reaction. Kramer looks across at the bike, looking worried.)<br>
+							<br>
+							
+						ELAINE: Alright, fine. Fine. Go ahead. (standing) Cut the stupid thing in half.<br>
+							<br>
+							
+						KRAMER: No, no, no. Give it to her. I'd rather it belonged to another than see it destroyed. Newman, give it to her, I beg you.<br>
+							<br>
+							
+						ELAINE: Yeah, yeah, y-yeah.<br>
+							<br>
+							
+						NEWMAN: Not so fast, Elaine! Only the bike's true owner would rather give it away than see it come to harm. Kramer, the bike is yours!<br>
+							<br>
+							
+						ELAINE: What?!<br>
+							<br>
+							
+						KRAMER: Sweet justice. Newman, you are wise.<br>
+							<br>
+							
+						(Kramer picks up the bike and climbs aboard.)<br>
+							<br>
+							
+						ELAINE: (frustration) But this isn't fair! Lookit, my neck is still hurting me, and now you have the bike?!<br>
+							<br>
+							
+						KRAMER: Well, tell it to the judge, honey. I'm going for a ride.<br>
+							<br>
+							
+						(Kramer opens the door and rides clumsily out, ringing the bell as he goes.)<br>
+							<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						[Christie's Apartment]<br>
+							<br>
+							
+						(Christie leads Jerry into her home.)<br>
+							<br>
+							
+						CHRISTIE: Here we are.<br>
+							<br>
+							
+						JERRY: (looking around) Ah, so this is the Fortress of Solitude.<br>
+							<br>
+							
+						(Christie puts down her bag, and removes her coat.)<br>
+							<br>
+							
+						CHRISTIE: Well, I guess I'll go change.<br>
+							<br>
+							
+						JERRY: Yes, change. By all means, change.<br>
+							<br>
+							
+						(Christie walks away down a hallway. Jerry removes his coat and sits down. He looks around himself. On the coffee table he notices a small framed picture of Christie and some guy. In the picture, she's wearing the same black and White dress. Jerry picks it up and examines it more closely, reading a date written on the photo.)<br>
+							<br>
+							
+						JERRY (V.O.): August seventeen, nineteen-ninety-two. The same dress! She never changes! Oh my god. (looking around) She's gotta have hundreds of these dresses.<br>
+							<br>
+							
+						(Jerry gets up from his seat.)<br>
+							<br>
+							
+						JERRY (V.O.): There must be a secret stash around here somewhere.<br>
+							<br>
+							
+						(Jerry opens a closet and begins to look inside. While he's rooting about in there, Christie reenters the room, wearing a robe and looking indignant at discovering Jerry invading her privacy.)<br>
+							<br>
+							
+						CHRISTIE: Ahem! Are you looking for something?<br>
+							<br>
+							
+						JERRY: What're you doing? I thought you were changing.<br>
+							<br>
+							
+						CHRISTIE: No, I, I'm thinking we should just call it a night.<br>
+							<br>
+							
+						JERRY: No, no. C'mon, put something else on. It's early, let's go out.<br>
+							<br>
+							
+						CHRISTIE: If it's all the same to you, I think I'm just gonna go to bed.<br>
+							<br>
+							
+						(Jerry moves to the couch, where he half lays down.)<br>
+							<br>
+							
+						JERRY: You know, I'm kinda tired myself. Maybe I'll just sleep here on The couch. Then in the morning, you'll get dressed, we'll walk out together. Both dressed, different clothes. Well, I'll be in the same clothes. You'll of course be in different clothes, because it's your apartment. But we'll go downstairs, me in my same clothes, you in your different clothes.<br>
+							<br>
+							
+						CHRISTIE: (unequivocal) Jerry. I don't think so.<br>
+							<br>
+							
+						(Jerry picks up his coat and moves toward the door.)<br>
+							<br>
+							
+						JERRY: You wanna throw something on and walk me to a cab?<br>
+							<br>
+							
+						CHRISTIE: (gesturing) Get out.<br>
+							<br>
+							
+						(Jerry walks though the door. He's still talking as Christie closes it on him.)<br>
+							<br>
+							
+						JERRY: (pleading) Tell me what you're wearing tomorrow. I'll help you lay it out on the bed.<br>
+							<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						[Hospital]<br>
+							<br>
+							
+						(Carrie is in a wheelchair, being wheeled by an orderly. She's doing her breathing. Ken hurries alongside, comforting his wife. George also hustles along the corridor with the group.)<br>
+							<br>
+							
+						KEN: Okay, breathe, honey. Breathe.<br>
+							<br>
+							
+						GEORGE: (to Carrie) You know, you're really being very selfish. It would be nice if you would think of someone other than yourself every now and then!<br>
+							<br>
+							
+						CARRIE: (shouts) I'm having a baby!!<br>
+							<br>
+							
+						(The orderly pushes the wheelchair on through the door of the delivery room. Ken turns to face George.)<br>
+							<br>
+							
+						KEN: George, you're not getting Seven! Now get outta here!!<br>
+							<br>
+							
+						(Ken strides into the delivery room.)<br>
+							<br>
+							
+						GEORGE: (desperate) Please! I have so little!<br>
+							<br>
+							
+						(George tries to follow, but an orderly blocks his path.)<br>
+							<br>
+							
+						ORDERLY: Sorry sir, it's family only.<br>
+							<br>
+							
+						(The orderly closes the door on George, whose face can be seen through The window.)<br>
+							<br>
+							
+						GEORGE: I'm family. I'm having sex with the cousin!<br>
+							<br>
+							
+						(George thumps his fists against the door in frustration. He's crying as He screams.)<br>
+							<br>
+							
+						GEORGE: Seven!!<br>
+							<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						[Jerry's Apartment]<br>
+							<br>
+							
+						(Jerry is on the phone, while Kramer examines a box of cereal in the kitchen.)<br>
+							<br>
+							
+						JERRY: Hello, Christie? I was wondering if we could get together again? (listens) Oh really? Well you can't break up with me over the phone. C'mon, you gotta do this in person. It doesn't even have to be one on one, you can bring a group of friends. I just wanna see you. Wait, don't hang up on me. (hurriedly) Why d'you wear the same dress all the time? Hello.<br>
+							<br>
+							
+						(Defeated, Jerry hangs up the phone.)<br>
+							<br>
+							
+						KRAMER: (indicating the cereal) Hey, Jerry, if you're gonna be snacking on these, you can't expect me to pay for the whole box.<br>
+							<br>
+							
+						JERRY: Alright, hobo Joe. I didn't wanna put a damper on your little Smorgasbord here, but it's the end of the week, so I added up your tab.<br>
+							<br>
+							
+						(Jerry tears a sheet off a writing pad, and presents it to Kramer. Kramer takes a look.)<br>
+							<br>
+							
+						KRAMER: (does a double take) Yikes.<br>
+							<br>
+							
+						JERRY: I know. Pretty steep.<br>
+							<br>
+							
+						KRAMER: Well, I don't have this kind of cash.<br>
+							<br>
+							
+						JERRY: Few do.<br>
+							<br>
+							
+						KRAMER: I'm good for it.<br>
+							<br>
+							
+						JERRY: Yeah, well, until this bill is paid...<br>
+							<br>
+							
+						(Jerry takes back the tab, then takes the cereal out of Kramer's hands.)<br>
+							<br>
+							
+						JERRY: ...the food court is closed.<br>
+							<br>
+							
+						KRAMER: (opening the door) Alright. I'll get that money for you in five minutes. And, don't eat any more.<br>
+							<br>
+							
+						(Kramer leaves at a run.)<br>
+							<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						[Street]<br>
+							<br>
+							
+						(Elaine is walking along, when she spots something ahead of her.)<br>
+							<br>
+							
+						ELAINE: Hey, that's my bike! Along the sidewalk comes a happy-looking Newman, pedalling the Schwinn for all he's worth. He rings the bell.<br>
+							<br>
+							
+						NEWMAN: Gangway!<br>
+							<br>
+							
+						ELAINE: This is my bike!<br>
+							<br>
+							
+						(Newman brakes to a halt in front of Elaine.)<br>
+							<br>
+							
+						NEWMAN: Oh no. No no no no. I bought it from Kramer. He was hard up for cash. Fifty bucks! (he laughs) Can you believe it? Of course, I had to make some minor modifications, you know. Solid tires, reinforced seatpost, heavy duty shocks. But, baby, this is one sweet ride.<br>
+							<br>
+							
+						(Newman begins to ride away.)<br>
+							<br>
+							
+						ELAINE: (chasing Newman) No, you better gimme back that bike. Newman, gimme...<br>
+							<br>
+							
+						(Elaine grabs hold of the trailing end of Newman's scarf.)<br>
+							<br>
+							
+						NEWMAN: Hey!! Help me!<br>
+							<br>
+							
+						(The show ends with a freeze frame of Newman on the bike, and a determined Elaine grasping the scarf. There are sounds of a struggle.)<br>
+							<br>
+							<br>
+							
+						The End </td>
+						</tr>
+						<tr height="6">
+							<td class="bottom2" width="645" height="6"></td>
+						</tr>
+						<tr>
+							<td width="645">
+								<div align="center">
+									<font size="-1">Copyright 2006 seinology.com | All Rights Reserved | Designed by 13erla</font></div>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+		<p></p>
+	</body>
+
+</html>

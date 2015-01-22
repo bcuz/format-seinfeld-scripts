@@ -1,0 +1,1066 @@
+<tdOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+<html>
+
+	<head>
+		<meta http-equiv="content-type" content="text/html;charset=ISO-8859-1">
+		<meta name="description" content="Top Source for Seinfeld">
+		<meta name="keywords" content="seinfeld, sienfeld, Jerry Seinfeld, Julia Louis Dreyfus, Jason Alexander, Michael Richards, Kramer, George, Costanza, Elaine Benes, morty, Larry David">
+		<title>Seinology.com :: Scripts :: 06-The Ex-Girlfriend</title>
+	<link rel='stylesheet' href='/stylesheet.css' type='text/css'>
+	</head>
+
+	<body>
+			<table align="center" width="787" border="0" cellspacing="0" cellpadding="0">
+				<tr>
+					<td><font size="-2" color="red">Seinology.com - </font><font size="-3" color="black">Where Seinfeld Content and Accuracy Matter Most. Seinfeld scripts in pdf form, Seinfeld episode video clips, Seinfeld episode audio clips, Jerry Seinfeld appearances, Julia Louis-Dreyfus appearances, Michael Richards appearances, Jason Alexander appearances, Seinfeld discussion Forum, Seinfeld Where are they Now? Seinlanguage Newsletter, Popular Seinfeld Lists, Seinfeld episode standup, Seinfeld episode guide, Seinfeld fan fiction. Seinfeld content all on one domain. Seinology.com enjoy your stay.</font></td>
+				</tr>
+			</table>
+		
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr height="100">
+				<td class="logo"></td>
+			</tr>
+			<tr><td class="ads" align="center" background=#8694fa>
+				<script type="text/javascript"><!--
+google_ad_client = "pub-1924026976931416";
+google_ad_width = 728;
+google_ad_height = 90;
+google_ad_format = "728x90_as";
+google_ad_type = "text";
+google_ad_channel = "";
+google_color_border = "FFFFFF";
+google_color_bg = "8694fa";
+google_color_link = "0000FF";
+google_color_text = "000000";
+google_color_url = "002E3F";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></td></tr>
+		</table>
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr>
+				<td valign="top" width="136">
+					<table width="136" border="0" cellspacing="0" cellpadding="0">
+						<tr height="24">
+							<td class="navigation">
+								<div align="center">
+									
+									<b>Navigation</b></div>
+							</td>
+						</tr>
+						<tr height="199">
+							<td class="spacer1" valign="top" width="136" height="199">
+								<div align="center">
+									<font size="-1"><a href="http://www.seinology.com">Home</a><br>
+										<a href="http://board.seinology.com">Forum</a><br>
+										<a href="http://www.seinology.com/av.shtml">Audio/Video</a><br>
+										<a href="http://www.seinology.com/scripts.shtml">Scripts</a><br>
+										<a href="http://www.seinology.com/survivor.shtml">Survivor</a><br>
+										<a href="http://www.seinology.com/fanfics.shtml">Fan Fiction</a><br>
+										<a href="http://www.seinology.com/gallery/">Gallery</a><br>
+										<a href="http://www.seinology.com/newsletter.shtml">Newsletter</a><br>
+										<a href="http://www.seinology.com/lists.shtml">Lists</a><br>
+										<a href="http://www.seinology.com/epguide.shtml">Episode Guide</a><br>
+										<a href="http://www.seinology.com/links.shtml">Links</a><br>
+										<a href="http://www.seinology.com/faqother.shtml">Faq + others</a><br>
+										<a href="http://www.seinology.com/legal.shtml">Legal</a></font></div>
+							</td>
+						</tr>
+						
+						<tr>
+							<td class="nav2" width="136">
+							<div align="center"><b>Search</b></div></td>
+						</tr>
+						<tr>
+							<td class="spacer1" width="136" valign="top"><div align="center"><form method="get" action="http://www.seinology.com/search/search.cgi">
+<p><label for="fdse_Match">Match</label><br>
+<select name="Match" id="fdse_Match" size="1">
+<option value="1">All</option>
+<option value="0">Any</option>
+<option value="2">Phrase</option>
+</select></p>
+<p><label for="fdse_Realm">Where?</label><br>
+<select name="Realm" id="fdse_Realm" size="1">
+<option selected="selected" value="All">EntireSite</option>
+<option value="Ep Guide">Ep Guide</option>
+<option value="Images">Images</option>
+<option value="Lists">Lists</option>
+<option value="Newsletters">Newsletters</option>
+<option value="Scripts">Scripts</option>
+<option value="Notes..Nothing">Notes..Nothing</option>
+</select></p>
+<p><input type="text" name="Terms" size="14" id="fdse_Terms"><br>
+<input type="submit" class="submit" name="submitButtonName" value="Search"></p>
+</div></form></td>
+						</tr>
+						<tr><td class="bottom" width="136" height="10" valign="top">
+						</td>
+						</tr>
+					</table>
+				</td>
+				<td width="4"></td>
+				<td valign="top" width="645">
+					<table width="645" border="0" cellspacing="0" cellpadding="0">
+						<tr height="18">
+							<td width="645" height="35" class="bar">
+								<div align="center">
+									<b><font size="+2" color="black">Script</font></b></div>
+							</td>
+						</tr>
+						<tr height="362">
+							<td class="spacer2" valign="top" width="645" height="362">
+
+						<p><font size="-2">Episode 6 - The Ex-Girlfriend<br>
+							
+						pc: 201, season 2, episode 1<br>
+							
+						Broadcast date: January 16, 1991<br>
+							<br>
+							
+						Written By Larry David &amp; Jerry Seinfeld<br>
+							
+						Directed By Tom Cherones<br>
+							<br>
+							
+						-------------------------------------------------------------------------------<br>
+							<br>
+							
+						The Cast<br>
+							
+						Regulars:<br>
+							
+						Jerry Seinfeld ....................... Jerry Seinfeld<br>
+							
+						Jason Alexander .................. George Costanza<br>
+							
+						Julia Louis-Dreyfus ............. Elaine Benes<br>
+							
+						Michael Richards ................. Kramer<br>
+							<br>
+							
+						Guest Stars:<br>
+							<br>
+							
+						Tracy Kolis .......................... Marlene<br>
+							
+						Karen Barcus ....................... Receptionist<br>
+							<br>
+							
+						==================================================================<br>
+							<br>
+							<br>
+							
+						INT. COMEDY CLUB &#150; NIGHT<br>
+							<br>
+							
+						(Jerry is on stage, performing.)<br>
+							<br>
+							
+						JERRY: I&#146;m always in traffic with the lane expert. You know this type of person? Constantly reevaluating their lane choice. Never quite sure, &#147;Is this the best lane for me? For my life?&#148; They&#146;re always a little bit ahead of you, &#147;Can I get in over there? Could I get in over here? Could I get in there?&#148; &#147;Yeah, come on over here, pal. We&#146;re zoomin&#146; over here. This is the secret lane, nobody knows about it.&#148; The ultimate, I think the ultimate psychological test of traffic is the total dead stop. Not even rolling. And you look out the window, you can see gum clearly. So we know that in the future traffic will get even worse than that. I mean, what will happen? Will it start moving backwords, I wonder? I mean, is that possible? That someday we&#146;ll be going, (Jerry pretends he&#146;s driving in reverse.) &#147;Boy, this is some really bad traffic now, boy. This, is really bad. I&#146;m gonna try to get off and get back on going the other way.&#148;<br>
+							<br>
+							<br>
+							<br>
+							
+						INT. JERRY&#146;S CAR<br>
+							<br>
+							
+						(Jerry is in the driver&#146;s seat, and George is in the passenger seat.)<br>
+							<br>
+							
+						GEORGE: She can&#146;t kill me right?<br>
+							<br>
+							
+						JERRY: No, of course not.<br>
+							<br>
+							
+						GEORGE: People break up all the time.<br>
+							<br>
+							
+						JERRY: Everyday.<br>
+							<br>
+							
+						GEORGE: It just didn&#146;t work out. What can I do? I wanted to love her. I tried to love her. I couldn&#146;t.<br>
+							<br>
+							
+						JERRY: You tried.<br>
+							<br>
+							
+						GEORGE: I kept looking at her face. I&#146;d go, &#147;C&#146;mon, love her. Love her!&#148;<br>
+							<br>
+							
+						JERRY: Did you tell her you loved her?<br>
+							<br>
+							
+						GEORGE: Oh, I had no choice. She squeezed it out of me! She&#146;d tell me she loved me. All right, at first, I just look at her. I&#146;d go, &#147;Oh, really? Or uh, Boy, that&#146;s, that&#146;s something.&#148; But, eventually you have to come back with, &#147;Well, I love you.&#148; You know, you can only hold out for so long.&#148;<br>
+							<br>
+							
+						JERRY: You&#146;re a human being.<br>
+							<br>
+							
+						GEORGE: And I didn&#146;t even ask her out. She asked me out first. She called me up. What was I supposed to do? Say no? (laughs) I can&#146;t do that to someone.<br>
+							<br>
+							
+						JERRY: You&#146;re too nice a guy.<br>
+							<br>
+							
+						GEORGE: I am. I&#146;m a nice guy. And she seduced me! We were in my apartment, I&#146;m sitting on the couch, she&#146;s on the chair. I get up to go to the bathroom, I come back, she&#146;s on the couch. What am I supposed to do? Not do anything? I couldn&#146;t do that. I would&#146;ve insulted her.<br>
+							<br>
+							
+						JERRY: You&#146;re flesh and blood.<br>
+							<br>
+							
+						GEORGE: I had nothing to do wtih any of this! I met all her friends, I didn&#146;t want to meet them. I kept trying to avoid it. I knew it would only get me in deeper. But they were everywhere! They kept popping up all over the place. &#147;This is Nancy, this is Susan, this is Amy, this is my cousin, this is my brother, this is my father...&#148; It&#146;s like I&#146;m in quicksand.<br>
+							<br>
+							
+						JERRY: I told you when I met her.<br>
+							<br>
+							
+						GEORGE: My back is killing me.<br>
+							<br>
+							
+						JERRY: You gotta go to my chiropractor, he&#146;s the best.<br>
+							<br>
+							
+						GEORGE: Oh yeah, everybody&#146;s guy is the best.<br>
+							<br>
+							
+						JERRY: I&#146;m gonna make an appointment for you. We&#146;ll go together.<br>
+							<br>
+							
+						GEORGE: Please. They don&#146;t do anything. Look, do I have to break up with her in person? Can&#146;t I do it over the phone? I-I have no stomach for these things.<br>
+							<br>
+							
+						JERRY: You should just do it like a Band-Aid. One motion! Right off!<br>
+							<br>
+							
+						(Car door opens. It&#146;s Elaine.)<br>
+							<br>
+							
+						ELAINE: Hi.<br>
+							<br>
+							
+						JERRY: Hi.<br>
+							<br>
+							
+						(George pulls his seat forward to allow Elaine into the back.)<br>
+							<br>
+							
+						ELAINE: Hey, what are you doing?<br>
+							<br>
+							
+						GEORGE: I&#146;m letting you in.<br>
+							<br>
+							
+						ELAINE: Oh no. No. I don&#146;t want to sit in the back. I&#146;ll be left out of the conversation.<br>
+							<br>
+							
+						GEORGE: No, you won&#146;t.<br>
+							<br>
+							
+						ELAINE: Yes, I will, George. I&#146;ll have to stick my chin on top of the seat.<br>
+							<br>
+							
+						GEORGE: Okay.<br>
+							<br>
+							
+						(George gets out, and gestures for Elaine to sit in the middle.)<br>
+							<br>
+							
+						ELAINE: Why can&#146;t you sit in the middle?<br>
+							<br>
+							
+						GEORGE: Please, it doesn&#146;t look good. Boy, boy, girl.<br>
+							<br>
+							
+						ELAINE: You&#146;re afraid to sit next to a man. You&#146;re a little homophobic, aren&#146;t ya?<br>
+							<br>
+							
+						GEORGE: Is it that obvious?<br>
+							<br>
+							
+						(Elaine sits in the middle.)<br>
+							<br>
+							
+						ELAINE: Hello, Jerry.<br>
+							<br>
+							
+						JERRY: Hello.<br>
+							<br>
+							
+						ELAINE: Did you get a haircut?<br>
+							<br>
+							
+						JERRY: No, shower. So, where are we eating?<br>
+							<br>
+							
+						ELAINE: Tell me if you think this is strange. There&#146;s this guy who lives in my building, who I was introduced to a couple of years ago by a friend. He&#146;s a uh teacher, or something. Anyway, after we met, whenever we&#146;d run into each other on the street, or in the lobby, or whatever, we would stop and we would chat a little. Nothing much. Little pleasantries. He&#146;s a nice guy, he&#146;s got a family. Then after a while, I noticed there was not more stopping. Just saying hello and continuing on our way. And then the verbal hellos stopped, and we just went into these little sort of nods of recognition. So, fine. I figure, that&#146;s where this relationship is finally gonna settle: polite nodding. Then one day, he doesn&#146;t nod. Like I don&#146;t exist?! He went from nods to nothing.<br>
+							<br>
+							
+						GEORGE: (singing; imitating Tony Bennett) &#147;You know, I&#146;d go from nods to nothing...&#148;<br>
+							<br>
+							
+						ELAINE: And now, there&#146;s this intense animosity whenever we pass. I mean, it&#146;s like we really hate each other. It&#146;s based on nothing.<br>
+							<br>
+							
+						JERRY: A relationship is an organism. You created this thing and then you starved it so it turned against you. Same thing happened in &#147;The Blob&#148;.<br>
+							<br>
+							
+						GEORGE: I think you absolutely have to say something to this guy. Confront him.<br>
+							<br>
+							
+						ELAINE: Really?<br>
+							<br>
+							
+						GEORGE: Yes.<br>
+							<br>
+							
+						ELAINE: You would do that?<br>
+							<br>
+							
+						GEORGE: If I was a different person.<br>
+							<br>
+							<br>
+							<br>
+							
+						INT. JERRY&#146;S APARTMENT<br>
+							<br>
+							
+						(Jerry is on the phone.)<br>
+							<br>
+							
+						JERRY: Hello... Hello. Is Glen there?... I&#146;m sorry. Is this 805-555-3234?... Yes, I know I have the wrong number, but I just want to know if I dialed wrong or if...<br>
+							<br>
+							
+						(The other guy hangs up on Jerry; he redials. Kramer enters. The intercom buzzes; Kramer answers it.)<br>
+							<br>
+							
+						KRAMER: (to the intercom) Come on up.<br>
+							<br>
+							
+						JERRY: (to the phone) Oh, it&#146;s you again. See, now if you had answered me, I wouldn&#146;t have had to do this. Now that&#146;s two long distance calls I made to you why can&#146;t you... (The guy hangs up on Jerry again; to nobody) Why? Why do they just hang up like that? Thank you very much.<br>
+							<br>
+							
+						(Kramer holds up some cantaloupe.)<br>
+							<br>
+							
+						KRAMER: Taste this.<br>
+							<br>
+							
+						JERRY: No, I just had a sandwich.<br>
+							<br>
+							
+						KRAMER: No, taste it. Taste it.<br>
+							<br>
+							
+						JERRY: I don&#146;t want cantaloupe now.<br>
+							<br>
+							
+						KRAMER: You&#146;ve never had cantaloupe like this before...<br>
+							<br>
+							
+						JERRY: I only eat cantaloupe at certain times...<br>
+							<br>
+							
+						KRAMER: ...Jerry. This is great cantaloupe.<br>
+							<br>
+							
+						JERRY: ...all right!<br>
+							<br>
+							
+						(Jerry tastes it.)<br>
+							<br>
+							
+						KRAMER: Uh-huh. It&#146;s good?<br>
+							<br>
+							
+						JERRY: It&#146;s very good.<br>
+							<br>
+							
+						KRAMER: Good, huh?<br>
+							<br>
+							
+						JERRY: Good.<br>
+							<br>
+							
+						KRAMER: I got it at Joe&#146;s.<br>
+							<br>
+							
+						JERRY: Uh-huh.<br>
+							<br>
+							
+						KRAMER: Forty-nine cents a pound. That&#146;s practically half than what you&#146;re paying at the supermarket. I don&#146;t know why you don&#146;t go to Joe&#146;s.<br>
+							<br>
+							
+						JERRY: It&#146;s too far.<br>
+							<br>
+							
+						KRAMER: It&#146;s three blocks further. You can use my shopping cart..<br>
+							<br>
+							
+						JERRY: I&#146;m not pulling a shopping cart. What, am I suppose to wear a kerchief? Put stockings on and roll &#145;em down below my knee?<br>
+							<br>
+							
+						KRAMER: See, the other thing is, if you don&#146;t like anything, he takes it right back.<br>
+							<br>
+							
+						JERRY: I don&#146;t return fruit. Fruit is a gamble. I know that going in.<br>
+							<br>
+							
+						(Enter George. He dances around the room, singing the Zorba theme.)<br>
+							<br>
+							
+						GEORGE: I&#146;m outta there. I did it! It&#146;s over.<br>
+							<br>
+							
+						JERRY: You did it? What happened?<br>
+							<br>
+							
+						GEORGE: I told her. In the kitchen &#150; which was risky &#145;cause it&#146;s near all the knives. I started with the word &#147;Listen.&#148;<br>
+							<br>
+							
+						JERRY: Uh-huh...<br>
+							<br>
+							
+						GEORGE: I said, &#147;Listen Marlene,&#148; and then the next thing I know, I&#146;m in the middle of it. And there&#146;s this voice inside of me going, &#147;You&#146;re doing it! You&#146;re doing it!&#148; And then she started to cry, and I weakened a bit. I almost relented, but the voice, Jerry, the voice said, &#147;Keep going, keep going. You&#146;re almost out!&#148; It&#146;s like I was making a prison break, you know, and I&#146;m heading for the wall, and I trip and I twist my ankle, and they throw the light on you, you know. So, somehow I get though the crying and I keep running. Then the cursing started. She&#146;s firing at me from the guard tower. &#147;Son of a bang! Son of a boom!&#148; I get to the top of the wall &#150; the front door. I opened it up, I&#146;m one foot away, I took one last look around the penitentiary, and I jumped!<br>
+							<br>
+							
+						JERRY: See, it&#146;s never as bad as you imagine.<br>
+							<br>
+							
+						KRAMER: I liked Marlene. What&#146;s her number?<br>
+							<br>
+							
+						GEORGE: Uh, no, I, I don&#146;t think so.<br>
+							<br>
+							
+						(Kramer is eating cantaloupe.)<br>
+							<br>
+							
+						JERRY: (to Kramer) Could you stop that smacking?<br>
+							<br>
+							
+						KRAMER: George, I want you to taste this cantaloupe.<br>
+							<br>
+							
+						GEORGE: Oh no, thank you.<br>
+							<br>
+							
+						KRAMER: It&#146;s the best cantaloupe I ever had.<br>
+							<br>
+							
+						GEORGE: No, really. No, no, thanks.<br>
+							<br>
+							
+						KRAMER: Jerry, tell him how good this cantaloupe is.<br>
+							<br>
+							
+						JERRY: It&#146;s very good cantaloupe. (Kramer leaves; to George) So that&#146;s it? You&#146;re out?<br>
+							<br>
+							
+						GEORGE: Except for one small problem. Hah, I left some books in her apartment.<br>
+							<br>
+							
+						JERRY: So, go get them.<br>
+							<br>
+							
+						GEORGE: Oh, no no, I can&#146;t go back there. Jerry, it&#146;s so awkward and, you know, it could be dangerous sexually. Something could happen, I&#146;d be right back where I started from.<br>
+							<br>
+							
+						JERRY: So forget about the books. Did you read them?<br>
+							<br>
+							
+						GEORGE: Well, yeah.<br>
+							<br>
+							
+						JERRY: What do you need them for?<br>
+							<br>
+							
+						GEORGE: I don&#146;t know. They&#146;re books.<br>
+							<br>
+							
+						JERRY: What is this obsession people have with books? They put them in their houses like they&#146;re trophies. What do you need it for after you read it?<br>
+							<br>
+							
+						GEORGE: They&#146;re my books.<br>
+							<br>
+							
+						JERRY: So you want me to get the books? Is that it?<br>
+							<br>
+							<br>
+							<br>
+							
+						INT. MONK&#146;S DINER &#150; NIGHT<br>
+							<br>
+							
+						(Jerry and Marlene are sitting at a booth. Marlene has a milkshake. A pile of books are on the table.)<br>
+							<br>
+							
+						MARLENE: ...so, it must&#146;ve been ninety-five degrees that night, and everyone&#146;s just standing around the pool with little drinks in their hands. I was wearing my old jeans and t-shirt. And I don&#146;t know, I was just in one of those moods. So I said to myself, &#147;Marlene, just do it.&#148; And I jumped in. And as I&#146;m getting out, I feel all these eyes on me, and I look up and everyone is just staring at me.<br>
+							<br>
+							
+						JERRY: So what&#146;d you do?<br>
+							<br>
+							
+						MARLENE: Well, nothing. It&#146;s no skin off my hide if people like to look. I just didn&#146;t see what the big attraction was.<br>
+							<br>
+							
+						JERRY: Well, I have a general idea what it was. I could take a guess.<br>
+							<br>
+							
+						MARLENE: Hey, you know, Jerry, just because George and I don&#146;t see each other anymore, it doesn&#146;t mean we shouldn&#146;t stay friends.<br>
+							<br>
+							
+						JERRY: No.<br>
+							<br>
+							
+						MARLENE: Good enough. I&#146;m really glad we got that settled.<br>
+							<br>
+							<br>
+							<br>
+							
+						INT. CHIROPRACTOR&#146;S WAITING ROOM &#150; DAY<br>
+							<br>
+							
+						(Jerry and George are reading magazines.)<br>
+							<br>
+							
+						JERRY: I don&#146;t know how this happened.<br>
+							<br>
+							
+						GEORGE: Jerry, it&#146;s not my fault.<br>
+							<br>
+							
+						JERRY: No, no. It&#146;s not your fault. &#147;Books, books, I need my books.&#148; Have you re-read those books yet, by the way? You know the great thing? When you read Moby Dick the second time, Ahab and the whale become good friends. You know, it&#146;s not like Marlene&#146;s a bad person or anything, but, my God! I mean, we&#146;ve had like three lunches and a movie, and she never stops calling. (George nods.) And it&#146;s these meaningless, purposeless, blather calls. She never asks if I&#146;m busy or anything. I just pick up the phone, and she&#146;s in the middle of a sentence!<br>
+							<br>
+							
+						GEORGE: It's standard. Has she left you one of those messages where she uses up the whole machine?<br>
+							<br>
+							
+						JERRY: (disgusted) Ohh! You know, and sometimes she&#146;ll go, (imitates Marlene) &#147;Hello, Jerry?&#148; And I&#146;ll go, &#147;Oh, hi Marlene.&#148; And then it&#146;s &#147;Jerry...&#148;<br>
+							<br>
+							
+						JERRY &amp; GEORGE: &#147;I dunno sometimes...&#148;<br>
+							<br>
+							
+						GEORGE: What trying to get off the phone?<br>
+							<br>
+							
+						JERRY: (more disgusted) Ohhhh! You can&#146;t! It&#146;s impossible! There&#146;s no break in the conversation where you can go, &#147;All right then...&#148; You know, it just goes on and on and on without a break in the wall. I mean, I gotta put a stop to this.<br>
+							<br>
+							
+						GEORGE: Just do it like a Band-Aid. One motion. Right off! (beat) She is sexy though. Don&#146;t you think?<br>
+							<br>
+							
+						JERRY: Yeah. Yes, she is.<br>
+							<br>
+							
+						(The RECEPTIONIST enters.)<br>
+							<br>
+							
+						RECEPTIONIST: Mr. Costanza?<br>
+							<br>
+							
+						GEORGE: Yeah.<br>
+							<br>
+							
+						RECEPTIONIST: The doctor will see you now.<br>
+							<br>
+							
+						GEORGE: (to Jerry, sarcastically) Yeah, doctor. I&#146;m going to have to wait in that little room all by myself, aren&#146;t I? (He picks up a crossword puzzle.) I better take this. I hate the little room. (George walks into the hallway that leads to the doctor&#146;s office.) &#147;Oh, hello, Doctor.&#148;<br>
+							<br>
+							<br>
+							<br>
+							
+						INT. COMEDY CLUB<br>
+							<br>
+							
+						(Jerry is on stage, performing.)<br>
+							<br>
+							
+						JERRY: The waiting room. I hate when they make you wait in the room. &#145;Cause it says &#147;Waiting Room.&#148; There&#146;s no chance of not waiting. &#145;Cause they call it the waiting room, they&#146;re gonna use it. They&#146;ve got it. It&#146;s all set up for you to wait. And you sit there, you know, and you&#146;ve got your little magazine. You pretend you&#146;re reading it, but you&#146;re really looking at the other people. You know, you&#146;re thinking about about them. Things like, &#147;I wonder what he&#146;s got. As soon as she goes, I&#146;m getting her magazine.&#148; And then, they finally call you and it&#146;s a very exciting moment. They finally call you, and you stand up and you kinda look around at the other people in the room. &#147;Well, I guess I&#146;ve been chosen. I&#146;ll see you all later.&#148; You know, so you think you&#146;re going to see the doctor, but you&#146;re not, are you? No. You&#146;re going into the next waiting room &#150; the littler waiting room. But if they are, you know, doing some sort of medical thing to you, you want to be in the smallest room that they have, I think. You don&#146;t wnat to be in the largest room that they have. You know what I mean? You ever see these operating theaters, that they have, with like, stadium seating? You don&#146;t want them doing anything to you that makes other doctors go, &#147;I have to see this! Are you kidding? Are they really gonna do that to him? Are there seats? Can we get in?&#148; Do they scalp tickets to these things? &#147;I got two for the Winslow tumor, I got two...&#148;<br>
+							<br>
+							<br>
+							<br>
+							
+						INT. CHIROPRACTOR&#146;S WAITING ROOM &#150; DAY<br>
+							<br>
+							
+						(George returns from his appointment to meet Jerry.)<br>
+							<br>
+							
+						JERRY: So, how was it?<br>
+							<br>
+							
+						GEORGE: I was in there for two minutes. He didn&#146;t do anything. Touch this, feel that &#150; seventy-five bucks!<br>
+							<br>
+							
+						JERRY: Well, it&#146;s a first visit.<br>
+							<br>
+							
+						GEORGE: What&#146;s seventy-five bucks?! What, am I seeing Sinatra in there?! Am I being entertained? I don&#146;t understand this. I&#146;m only paying half.<br>
+							<br>
+							
+						JERRY: You can&#146;t do that.<br>
+							<br>
+							
+						GEORGE: Why not?<br>
+							<br>
+							
+						JERRY: He&#146;s a doctor. You gotta pay what he says.<br>
+							<br>
+							
+						GEORGE: Oh, no no no. I pay what I say.<br>
+							<br>
+							<br>
+							<br>
+							
+						INT. JERRY&#146;S CAR &#150; NIGHT<br>
+							<br>
+							
+						(Jerry is dropping off Marlene.)<br>
+							<br>
+							
+						MARLENE: Are you feeling weird?<br>
+							<br>
+							
+						JERRY: No, I&#146;m fine.<br>
+							<br>
+							
+						MARLENE: Nothing really happened.<br>
+							<br>
+							
+						JERRY: Yeah, I know.<br>
+							<br>
+							
+						MARLENE: We just kissed a little. People kiss.<br>
+							<br>
+							
+						JERRY: Yeah.<br>
+							<br>
+							
+						MARLENE: Well... night.<br>
+							<br>
+							
+						(She leans over and kisses Jerry on the cheek. She exits the car. Jerry is stunned.)<br>
+							<br>
+							
+						JERRY: (belated) Good night.<br>
+							<br>
+							<br>
+							<br>
+							
+						INT. JERRY&#146;S APARTMENT &#150; DAY<br>
+							<br>
+							
+						(Kramer enters with a golf club.)<br>
+							<br>
+							
+						KRAMER: Hey.<br>
+							<br>
+							
+						JERRY: Hey.<br>
+							<br>
+							
+						KRAMER: I got it! This time, I got it!<br>
+							<br>
+							
+						JERRY : All right.<br>
+							<br>
+							
+						(Kramer sets up to show his golf swing.)<br>
+							<br>
+							
+						KRAMER: Hips! See, it&#146;s all hips.<br>
+							<br>
+							
+						JERRY: Uh-huh.<br>
+							<br>
+							
+						KRAMER: You gotta come through with the hips first.<br>
+							<br>
+							
+						(He swings at an imaginary golf ball. Jerry looks off into the distance, at the ball.)<br>
+							<br>
+							
+						JERRY: That is out there.<br>
+							<br>
+							
+						(Kramer notices Jerry is eating cantaloupe; his eyes light up.)<br>
+							<br>
+							
+						KRAMER: Joe&#146;s?<br>
+							<br>
+							
+						JERRY: No, supermarket.<br>
+							<br>
+							
+						KRAMER: Well, is it good?<br>
+							<br>
+							
+						JERRY: It&#146;s uh okay.<br>
+							<br>
+							
+						KRAMER: Let me taste it.<br>
+							<br>
+							
+						(He takes a bite and immediately spits it out.)<br>
+							<br>
+							
+						KRAMER: See, that stinks. You can&#146;t eat that. You should take that back.<br>
+							<br>
+							
+						JERRY: I&#146;m not taking it back.<br>
+							<br>
+							
+						KRAMER: All right, I&#146;ll take it back. I&#146;m going by there.<br>
+							<br>
+							
+						JERRY: I don&#146;t care about it.<br>
+							<br>
+							
+						KRAMER: Jerry, you should care. Cantaloupe like this should be taken out of circulation.<br>
+							<br>
+							
+						JERRY: All right. Take it back.<br>
+							<br>
+							
+						(Jerry&#146;s phone rings. He is reluctant to answer it. The machine picks up.)<br>
+							<br>
+							
+						JERRY&#146;S MESSAGE: &#147;Leave a message, I&#146;ll call you back.&#148;<br>
+							<br>
+							
+						MARLENE: (from the phone) Jerry, have you ever taken a bath in the dark? If I&#146;m not talking into the soap right now, call me back.<br>
+							<br>
+							
+						KRAMER: Well?<br>
+							<br>
+							
+						JERRY: Marlene.<br>
+							<br>
+							
+						KRAMER: (smiles) Oh. Oh, Marlene...<br>
+							<br>
+							
+						JERRY: Yeah, I took her home one night &#150; we kinda started up a little bit in the car.<br>
+							<br>
+							
+						KRAMER: I thought you were trying to get rid of her?<br>
+							<br>
+							
+						JERRY: I was. But, she&#146;s got me, like, hypnotized.<br>
+							<br>
+							
+						KRAMER: Does George know?<br>
+							<br>
+							
+						JERRY: No, he&#146;d go nuts.<br>
+							<br>
+							
+						KRAMER: Yeah, no kidding.<br>
+							<br>
+							
+						JERRY: I feel terrible. (Kramer smiling) I mean, I&#146;ve seen her a couple of times since then, and I know I can&#146;t go any further, but... She&#146;s just got this like, psychosexual hold over me. I just want her, I can&#146;t breathe. It&#146;s like a drug.<br>
+							<br>
+							
+						KRAMER: Whoa, psychosexual.<br>
+							<br>
+							
+						JERRY: I don&#146;t know how I&#146;m going to tell him.<br>
+							<br>
+							
+						KRAMER: Man, I don&#146;t understand people. I mean, why would George want to deprive you of pleasure? Is it just me?<br>
+							<br>
+							
+						JERRY: It&#146;s partially you, yeah.<br>
+							<br>
+							
+						KRAMER: You&#146;re his friend. Better that she should sleep with someone else? Some jerk that he doesn&#146;t even know?<br>
+							<br>
+							
+						JERRY: Well, he can&#146;t kill me, right?<br>
+							<br>
+							
+						KRAMER: You&#146;re a human being.<br>
+							<br>
+							
+						JERRY: I mean, she called me. I haven&#146;t called her. She started it.<br>
+							<br>
+							
+						KRAMER: You&#146;re flesh and blood.<br>
+							<br>
+							
+						JERRY: I&#146;m a nice guy.<br>
+							<br>
+							
+						(Elaine enters, holding a desk lamp in the shape of an airplane.)<br>
+							<br>
+							
+						ELAINE: Hi.<br>
+							<br>
+							
+						(She hands Jerry the lamp.)<br>
+							<br>
+							
+						JERRY: (excited) Oh, my little airplane lamp.<br>
+							<br>
+							
+						ELAINE: You know, you have the slowest elevator in the entire city. That&#146;s hard to get used to when you&#146;re in so many other fast ones.<br>
+							<br>
+							
+						JERRY: Well, the apartment elevators are always slower than the offices, because you don&#146;t have to be home on time.<br>
+							<br>
+							
+						ELAINE: Unless you&#146;re married to a dictator.<br>
+							<br>
+							
+						JERRY: Yeah... Because they would be very demanding people.<br>
+							<br>
+							
+						ELAINE: Right. Exactly. So I imagine at some point somebody&#146;s going to offer me some cantaloupe?<br>
+							<br>
+							
+						KRAMER: Nope. No good.<br>
+							<br>
+							
+						JERRY: Well, you know what they say. Lucky in love, Unlucky with fruit.<br>
+							<br>
+							
+						KRAMER: Well, I&#146;m taking this back.<br>
+							<br>
+							
+						(Kramer exits.)<br>
+							<br>
+							
+						ELAINE: So, I had what you might call a little encounter this morning.<br>
+							<br>
+							
+						JERRY: Really? That guy who stopped saying hello?<br>
+							<br>
+							
+						ELAINE: Yes.<br>
+							<br>
+							
+						JERRY: You talked to him?<br>
+							<br>
+							
+						ELAINE: Yes. I spotted him getting his mail. And at first, I was just going to walk on by, but then I thought, &#147;No no no. No. Do not be afraid of this man.&#148;<br>
+							<br>
+							
+						JERRY: Right.<br>
+							<br>
+							
+						ELAINE: So, I walked up behind him and I tapped him on the shoulder. And I said, &#147;Hi, remember me?&#148; And he furrows his brow, as if he&#146;s really trying to figure it out. So I said to him, I said, &#147;You little phony. You know exactly who I am.&#148;<br>
+							<br>
+							
+						JERRY: You said &quot;you little phony&quot;?<br>
+							<br>
+							
+						ELAINE: I did. I most certainly did. And he said, he goes, &#147;Oh, yeah. You&#146;re Jeanette&#146;s friend. We did meet once.&#148; And I said, &#147;Well, how do you go from that to totally ignoring a person when they walk by?&#148;<br>
+							<br>
+							
+						JERRY: This is amazing.<br>
+							<br>
+							
+						ELAINE: And he says, he says, &#147;Look, I just didn&#146;t want to say hello anymore, All right?&#148; And I said, &#147;Fine. Fine. I didn&#146;t want to say hello anymore either, but just I wanted you to know that I&#146;m aware of it!&#148;<br>
+							<br>
+							
+						(Elaine tastes some cantaloupe.)<br>
+							<br>
+							
+						JERRY: You are the Queen of Confrontation. You&#146;re my new hero. In fact, you&#146;ve inspired me. I&#146;m gonna call George about something right now.<br>
+							<br>
+							
+						ELAINE: This cantaloupe stinks.<br>
+							<br>
+							
+						(She spits it out in a napkin.)<br>
+							<br>
+							<br>
+							<br>
+							
+						INT. MONK&#146;S DINER &#150; DAY<br>
+							<br>
+							
+						(Jerry and George sit at a table for two.)<br>
+							<br>
+							
+						GEORGE: (considers for a second) I don&#146;t care.<br>
+							<br>
+							
+						JERRY: You&#146;re kidding.<br>
+							<br>
+							
+						GEORGE: No, I don&#146;t care.<br>
+							<br>
+							
+						JERRY: You mean that?<br>
+							<br>
+							
+						GEORGE: Absolutely.<br>
+							<br>
+							
+						JERRY: You don&#146;t care?<br>
+							<br>
+							
+						GEORGE: No.<br>
+							<br>
+							
+						JERRY: How could you not care?<br>
+							<br>
+							
+						GEORGE: I don&#146;t know. But I don&#146;t. I&#146;m actually almost happy to hear it.<br>
+							<br>
+							
+						JERRY: I thought you&#146;d be upset.<br>
+							<br>
+							
+						GEORGE: I guess I should be, but I&#146;m not.<br>
+							<br>
+							
+						JERRY: Am I a bad person? Did I do something terrible?<br>
+							<br>
+							
+						GEORGE: You&#146;re a fine person. You&#146;re a humanitarian. She&#146;s very sexy.<br>
+							<br>
+							
+						JERRY: That voice. That voice. She&#146;s driving me crazy.<br>
+							<br>
+							
+						GEORGE: I know. I know.<br>
+							<br>
+							
+						JERRY: So I can see her tonight, and you don&#146;t care?<br>
+							<br>
+							
+						GEORGE: See her tonight. See her tomorrow. Go. Knock yourself out. She&#146;s too crazy for me.<br>
+							<br>
+							
+						JERRY: All right. As long as you&#146;re okay. Because I can&#146;t stop thinking about her.<br>
+							<br>
+							
+						GEORGE: I&#146;m okay. I&#146;m fine. I&#146;m wonderful. I never felt better in my whole life.<br>
+							<br>
+							
+						JERRY: Good. And I&#146;ll tell you what... You don&#146;t have to pay me back the thirty-five I gave to the chiropractor for the rest of your bill.<br>
+							<br>
+							
+						GEORGE: (shocked and angry) You paid that crook?!<br>
+							<br>
+							
+						JERRY: I had to.<br>
+							<br>
+							
+						GEORGE: He didn&#146;t do anything, Jerry. It&#146;s a scam! Who told you to do that?<br>
+							<br>
+							
+						JERRY: It was embarrassing to me.<br>
+							<br>
+							
+						GEORGE: Oh, I was trying to make a point.<br>
+							<br>
+							
+						JERRY: Why don&#146;t you make a point with your own doctor? (George gulps.) What&#146;s wrong?<br>
+							<br>
+							
+						GEORGE: (gasping) I think I swallowed a fly! I swallowed a fly! What do I do? (He turns to a coffee shop patron at the counter.) What can happen?!<br>
+							<br>
+							<br>
+							<br>
+							
+						INT. JERRY&#146;S CAR &#150; NIGHT<br>
+							<br>
+							
+						(Jerry and Marlene are parked outside Jerry&#146;s building.)<br>
+							<br>
+							
+						JERRY: So, you wanna come up for a few minutes?<br>
+							<br>
+							
+						MARLENE: I&#146;m sorry, Jerry. I just don&#146;t think this is gonna work.<br>
+							<br>
+							
+						JERRY: Really? I thought...<br>
+							<br>
+							
+						MARLENE: I know, I&#146;m sorry.<br>
+							<br>
+							
+						JERRY: Gee, I just didn&#146;t expect it from the way you&#146;ve been acting.<br>
+							<br>
+							
+						MARLENE: You sure you want to talk about this? &#145;Cause I sure don&#146;t.<br>
+							<br>
+							
+						JERRY: Of course I want to talk about it.<br>
+							<br>
+							
+						MARLENE: Well, okay. I guess things changed for me on Tuesday night.<br>
+							<br>
+							
+						JERRY: Tuesday night? What happened Tuesday night?<br>
+							<br>
+							
+						MARLENE: I saw your act.<br>
+							<br>
+							
+						JERRY: My act? Wha-What does that have to do with anything?<br>
+							<br>
+							
+						MARLENE: Well, to be honest, it just didn&#146;t make it for me. It&#146;s just so much fluff.<br>
+							<br>
+							
+						JERRY: I can&#146;t believe this. So what are you saying? You didn&#146;t like my act, so that&#146;s it?<br>
+							<br>
+							
+						MARLENE: I can&#146;t be with someone if I don&#146;t respect what they do.<br>
+							<br>
+							
+						JERRY: You&#146;re a cashier!<br>
+							<br>
+							
+						MARLENE: Look, Jerry, it&#146;s just wasn't my kind of humor.<br>
+							<br>
+							
+						JERRY: You can&#146;t go by the audience that night. It was late. They were terrible.<br>
+							<br>
+							
+						MARLENE: I heard the material.<br>
+							<br>
+							
+						JERRY: I have other stuff. Y-You should come see me on the weekend.<br>
+							<br>
+							<br>
+							<br>
+							
+						INT. COMEDY CLUB &#150; NIGHT<br>
+							<br>
+							
+						(Jerry is on stage, performing.)<br>
+							<br>
+							
+						JERRY: Women need to like the job of the guy they&#146;re with. If they don&#146;t like the job, they don&#146;t like the guy. Men know this. Which is why we make up the phony, bogus names for the jobs that we have. &#147;Well, right now, I&#146;m the regional management supervisor. I&#146;m in development, research, consulting...&#148; Men on the other hand &#150; if they are physically attracted to a woman &#150; are not that concerned with her job. Are we? Men don&#146;t really care. Men&#146;ll just go, &#147;Really? Slaughterhouse? Is that where you work? That sounds interesting. So whaddaya got a big cleaver there? You&#146;re just lopping their heads off? That sounds great! Listen, why don&#146;t you shower up, and we&#146;ll get some burgers and catch a movie.&#148;<br>
+							<br>
+							<br>
+							
+						The End</td>
+						</tr>
+						<tr height="6">
+							<td class="bottom2" width="645" height="6"></td>
+						</tr>
+						<tr>
+							<td width="645">
+								<div align="center">
+									<font size="-1">Copyright 2006 seinology.com | All Rights Reserved | Designed by 13erla</font></div>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+		<p></p>
+	</body>
+
+</html>

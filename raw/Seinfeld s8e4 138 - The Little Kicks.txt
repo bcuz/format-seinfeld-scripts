@@ -1,0 +1,1308 @@
+<tdOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+<html>
+
+	<head>
+		<meta http-equiv="content-type" content="text/html;charset=ISO-8859-1">
+		<meta name="description" content="Top Source for Seinfeld">
+		<meta name="keywords" content="seinfeld, sienfeld, Jerry Seinfeld, Julia Louis Dreyfus, Jason Alexander, Michael Richards, Kramer, George, Costanza, Elaine Benes, morty, Larry David">
+		<title>Seinology.com :: Scripts :: 138-The Little Kicks</title>
+	<link rel='stylesheet' href='/stylesheet.css' type='text/css'>
+	</head>
+
+	<body>
+			<table align="center" width="787" border="0" cellspacing="0" cellpadding="0">
+				<tr>
+					<td><font size="-2" color="red">Seinology.com - </font><font size="-3" color="black">Where Seinfeld Content and Accuracy Matter Most. Seinfeld scripts in pdf form, Seinfeld episode video clips, Seinfeld episode audio clips, Jerry Seinfeld appearances, Julia Louis-Dreyfus appearances, Michael Richards appearances, Jason Alexander appearances, Seinfeld discussion Forum, Seinfeld Where are they Now? Seinlanguage Newsletter, Popular Seinfeld Lists, Seinfeld episode standup, Seinfeld episode guide, Seinfeld fan fiction. Seinfeld content all on one domain. Seinology.com enjoy your stay.</font></td>
+				</tr>
+			</table>
+		
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr height="100">
+				<td class="logo"></td>
+			</tr>
+			<tr><td class="ads" align="center" background=#8694fa>
+				<script type="text/javascript"><!--
+google_ad_client = "pub-1924026976931416";
+google_ad_width = 728;
+google_ad_height = 90;
+google_ad_format = "728x90_as";
+google_ad_type = "text";
+google_ad_channel = "";
+google_color_border = "FFFFFF";
+google_color_bg = "8694fa";
+google_color_link = "0000FF";
+google_color_text = "000000";
+google_color_url = "002E3F";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></td></tr>
+		</table>
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr>
+				<td valign="top" width="136">
+					<table width="136" border="0" cellspacing="0" cellpadding="0">
+						<tr height="24">
+							<td class="navigation">
+								<div align="center">
+									
+									<b>Navigation</b></div>
+							</td>
+						</tr>
+						<tr height="199">
+							<td class="spacer1" valign="top" width="136" height="199">
+								<div align="center">
+									<font size="-1"><a href="http://www.seinology.com">Home</a><br>
+										<a href="http://board.seinology.com">Forum</a><br>
+										<a href="http://www.seinology.com/av.shtml">Audio/Video</a><br>
+										<a href="http://www.seinology.com/scripts.shtml">Scripts</a><br>
+										<a href="http://www.seinology.com/survivor.shtml">Survivor</a><br>
+										<a href="http://www.seinology.com/fanfics.shtml">Fan Fiction</a><br>
+										<a href="http://www.seinology.com/gallery/">Gallery</a><br>
+										<a href="http://www.seinology.com/newsletter.shtml">Newsletter</a><br>
+										<a href="http://www.seinology.com/lists.shtml">Lists</a><br>
+										<a href="http://www.seinology.com/epguide.shtml">Episode Guide</a><br>
+										<a href="http://www.seinology.com/links.shtml">Links</a><br>
+										<a href="http://www.seinology.com/faqother.shtml">Faq + others</a><br>
+										<a href="http://www.seinology.com/legal.shtml">Legal</a></font></div>
+							</td>
+						</tr>
+						
+						<tr>
+							<td class="nav2" width="136">
+							<div align="center"><b>Search</b></div></td>
+						</tr>
+						<tr>
+							<td class="spacer1" width="136" valign="top"><div align="center"><form method="get" action="http://www.seinology.com/search/search.cgi">
+<p><label for="fdse_Match">Match</label><br>
+<select name="Match" id="fdse_Match" size="1">
+<option value="1">All</option>
+<option value="0">Any</option>
+<option value="2">Phrase</option>
+</select></p>
+<p><label for="fdse_Realm">Where?</label><br>
+<select name="Realm" id="fdse_Realm" size="1">
+<option selected="selected" value="All">EntireSite</option>
+<option value="Ep Guide">Ep Guide</option>
+<option value="Images">Images</option>
+<option value="Lists">Lists</option>
+<option value="Newsletters">Newsletters</option>
+<option value="Scripts">Scripts</option>
+<option value="Notes..Nothing">Notes..Nothing</option>
+</select></p>
+<p><input type="text" name="Terms" size="14" id="fdse_Terms"><br>
+<input type="submit" class="submit" name="submitButtonName" value="Search"></p>
+</div></form></td>
+						</tr>
+						<tr><td class="bottom" width="136" height="10" valign="top">
+						</td>
+						</tr>
+					</table>
+				</td>
+				<td width="4"></td>
+				<td valign="top" width="645">
+					<table width="645" border="0" cellspacing="0" cellpadding="0">
+						<tr height="18">
+							<td width="645" height="35" class="bar">
+								<div align="center">
+									<b><font size="+2" color="black">Script</font></b></div>
+							</td>
+						</tr>
+						<tr height="362">
+							<td class="spacer2" valign="top" width="645" height="362">
+
+						<p><font size="-2">Episode 138 - The Little Kicks<br>
+							
+						pc: 804, season 8, episode 4<br>
+							
+						Broadcast date: October 10, 1996<br>
+							<br>
+							
+						Written by Spike Feresten<br>
+							
+						Directed by Andy Ackerman<br>
+							<br>
+							
+						-------------------------------------------------------------------------------<br>
+							<br>
+							
+						The Cast<br>
+							
+						Regulars:<br>
+							
+						Jerry Seinfeld ........................&nbsp; Jerry Seinfeld<br>
+							
+						Jason Alexander .................... George Costanza<br>
+							
+						Julia Louis-Dreyfus ................ Elaine Benes<br>
+							
+						Michael Richards .................... Cosmo Kramer<br>
+							<br>
+							
+						Guest Stars:<br>
+							<br>
+							
+						Neil Giuntoli ........................... Brody<br>
+							
+						Rebecca McFarland ................ Anna<br>
+							
+						Joseph Urla ............................ Dugan<br>
+							
+						Tim O'Hare ............................ Vendor<br>
+							
+						rc: Jerry Stiller ........................ Frank Costanza<br>
+							<br>
+							
+						==================================================================<br>
+							<br>
+							
+						[Jerry and Kramer walking down the street. Jerry is closest to the street.]<br>
+							<br>
+							
+						KRAMER: I wouldn't walk over there.<br>
+							<br>
+							
+						JERRY: Why not?<br>
+							<br>
+							
+						KRAMER: It's the most dangerous part of the sidewalk. Cab hops a curb, wap! You've had your last egg sandwich.<br>
+							<br>
+							
+						JERRY: What about over there? You know air conditioners fall out all the time.<br>
+							<br>
+							
+						KRAMER: I'd much rather get hit by an 80 pound air conditioner than a two ton cab.<br>
+							<br>
+							
+						JERRY: No, cab's comin' in right here (Hand at waist) Set of plastic hips, prosthetic legs, and a monkey to answer the door, I'm back in business.<br>
+							<br>
+							
+						KRAMER: Much rather take it to the head, Like I did in '79.<br>
+							<br>
+							
+						JERRY: You were livin' in the village then, right?<br>
+							<br>
+							
+						KRAMER: Don't really remember.<br>
+							
+						&nbsp;<br>
+							<br>
+							<br>
+							
+						[Coffee shop, Jerry and Elaine]<br>
+							<br>
+							
+						ELAINE: (Showing fingernails) Toxic waste green.<br>
+							<br>
+							
+						JERRY: That is disgusting.<br>
+							<br>
+							
+						ELAINE: You know, revulsion has now become a valid form of attraction.<br>
+							<br>
+							
+						JERRY: Well, then you're drivin' me wild.<br>
+							<br>
+							
+						ELAINE: I had 'em done for the big Peterman bash I'm throwin'.<br>
+							<br>
+							
+						JERRY: (George enters) Oh, why you havin' a party? &nbsp;<br>
+							<br>
+							
+						ELAINE: I drive my people hard, and then I reward them.<br>
+							<br>
+							
+						JERRY: Like with dogs.<br>
+							<br>
+							
+						ELAINE: Exactly.<br>
+							<br>
+							
+						GEORGE: Party?<br>
+							<br>
+							
+						ELAINE: Yeah.<br>
+							<br>
+							
+						GEORGE: Food?<br>
+							<br>
+							
+						ELAINE: Uh huh.<br>
+							<br>
+							
+						GEORGE: Bar?<br>
+							<br>
+							
+						ELAINE: Yeah.<br>
+							<br>
+							
+						GEORGE: George?<br>
+							<br>
+							
+						JERRY: He's gonna show up anyway.<br>
+							<br>
+							
+						ELAINE: George, I just don't want you interfering.<br>
+							<br>
+							
+						GEORGE: How could I possibly interfere?<br>
+							<br>
+							
+						JERRY: Isn't that what Jack Ruby said?<br>
+							<br>
+							<br>
+							
+						[At Elaine's party]<br>
+							<br>
+							
+						GEORGE: (Eating) Oh yeah. These are fantastic, fantastic. (To server) You know, I'd love to get a jump on the next batch, where do you come out? (Server leaves) (To Anna) She's been ignoring this section all night. Quesadilla?<br>
+							<br>
+							
+						ANNA: No thanks.<br>
+							<br>
+							
+						GEORGE: Hi ah, My name is George.<br>
+							<br>
+							
+						ANNA: Anna. I don't recall seeing you around the office. Do you work in the mail room?<br>
+							<br>
+							
+						GEORGE: No, I'm a friend of Elaine Benes.<br>
+							<br>
+							
+						ANNA: Oh. Excuse me. (She leaves)<br>
+							<br>
+							
+						GEORGE: So...<br>
+							<br>
+							
+						MAN: How 'bout leading us in a toast?<br>
+							<br>
+							
+						ELAINE: Oh sure. Hey guys, I wanna make a toast. Um... Here's to us who wish us well, and those who don't can go to hell... All right, who's dancin'? C'mon, who's dancin'? You want me, You want me to get it started? I'll get it started. Whew! (She dances)<br>
+							<br>
+							
+						GEORGE: Sweet Fancy Moses!<br>
+							<br>
+							<br>
+							<br>
+							
+						[Jerry's apartment, Kramer enters]<br>
+							<br>
+							
+						KRAMER: You get the tickets?<br>
+							<br>
+							
+						JERRY: Who wants two? Special sneak preview of Death Blow.<br>
+							<br>
+							
+						KRAMER: Death Blow: When someone tries to blow you up, not because of who you are, but for different reasons altogether. (Jerry buzzes up George) Jerry, do you think you can get an extra ticket for my friend Brody?<br>
+							<br>
+							
+						JERRY: Kramer, do you know what I had to go through to get these?<br>
+							<br>
+							
+						KRAMER: Yeah, I know, but he's a big fan of the genre. You know I'd consider it a personal favor to me.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Kramer is eating ice cream right out of the container.]<br>
+							<br>
+							
+						JERRY: Yeah I guess I do owe you.<br>
+							<br>
+							
+						KRAMER: Uh, listen, do you want me to stay here until George gets up?<br>
+							<br>
+							
+						JERRY: No, I'm okay.<br>
+							<br>
+							
+						KRAMER: There's no problem, really.<br>
+							<br>
+							
+						JERRY: I'm fine. (George enters, Kramer exits) How was the party?<br>
+							<br>
+							
+						GEORGE: Food was good.<br>
+							<br>
+							
+						JERRY: Yeah, so I didn't miss anything?<br>
+							<br>
+							
+						GEORGE: Well, actually you did miss one nugget of entertainment. (Pause) Have you ever seen Elaine dance?<br>
+							<br>
+							
+						JERRY: Elaine danced?<br>
+							<br>
+							
+						GEORGE: It was more like a full bodied dry heave set to music.<br>
+							<br>
+							
+						JERRY: Did she do the little kicks and the thumbs?<br>
+							<br>
+							
+						GEORGE: What, you mean you know about this?<br>
+							<br>
+							
+						JERRY: For some time... (video of Elaine dancing on the street with Jerry and the street musicians watching her awful dance) It was about five years ago. I never knew what to say to her about it. It was one of those problems I hoped would just go away.<br>
+							<br>
+							
+						GEORGE: Well, sometimes you can't help these people 'til they hit rock bottom.<br>
+							<br>
+							
+						JERRY: And by then you've lost interest.<br>
+							<br>
+							
+						GEORGE: Hey, you gotta take a ride with me later. I borrowed my father's car. '68 GTO.<br>
+							<br>
+							
+						JERRY: What made him get that thing?<br>
+							<br>
+							
+						GEORGE: During that period when my folks were separated he went a little crazy.<br>
+							<br>
+							
+						JERRY: Not a very long trip. (Enter Kramer)<br>
+							<br>
+							
+						KRAMER: Brody's in.<br>
+							<br>
+							
+						JERRY: I don't even have the extra ticket yet.<br>
+							<br>
+							
+						KRAMER: Well, you better get on the horn.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Elaine's office, Elaine on the phone]<br>
+							<br>
+							
+						ELAINE: I'm tellin' you Jerry I'm gettin' a vibe. If I didn't know better, I'd say the staff completely lost respect for me. (Staff mocks her dancing in the background)<br>
+							<br>
+							
+						JERRY: How could that be?<br>
+							<br>
+							
+						ELAINE: Jerry, it's like the feeling is palpable. You think it could have something to do with the party?<br>
+							<br>
+							
+						JERRY: No, George was there, he said he had a great time.<br>
+							<br>
+							
+						ELAINE: Ah, it's George. I bet you this is somehow George related.<br>
+							<br>
+							
+						JERRY: Oh, what are you talkin' about?<br>
+							<br>
+							
+						ELAINE: He's like a virus. He attaches himself to a healthy host company, and the next thing you know, the entire staff's infected.<br>
+							<br>
+							
+						JERRY: Now you're talkin' crazy!<br>
+							<br>
+							
+						ELAINE: All right, Jerry, if that's not what it is, you tell me. What is it?<br>
+							<br>
+							
+						JERRY: (Makes sound) Oh there's my call waiting, I gotta get goin'.<br>
+							
+						&nbsp;<br>
+							<br>
+							<br>
+							
+						[Elaine's office, Anna enters]<br>
+							<br>
+							
+						ANNA: You have a minute to approve some copy?<br>
+							<br>
+							
+						ELAINE: Oh yeah, sure, sure. So ah, did ya have a good time at the party last night?<br>
+							<br>
+							
+						ANNA: It was a real... kick.<br>
+							<br>
+							
+						ELAINE: Hey, did you happen to speak to my friend George?<br>
+							<br>
+							
+						ANNA: As a matter of fact I did.<br>
+							<br>
+							
+						ELAINE: Ah hah. Well, listen. You would be wise to keep your distance from him.<br>
+							<br>
+							
+						ANNA: Why? He seems harmless.<br>
+							<br>
+							
+						ELAINE: Oh he's not. He's very harmful.<br>
+							<br>
+							
+						ANNA: Really?<br>
+							<br>
+							
+						ELAINE: Oh trust me. He's a bad seed. He's a horrible seed. He's one of the worst seeds I've ever seen.<br>
+							<br>
+							
+						ANNA: And you two are friends?<br>
+							<br>
+							
+						ELAINE: Yeah, we're good friends.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Coffee shop]<br>
+							<br>
+							
+						GEORGE: So this Anna called me from out of the blue.<br>
+							<br>
+							
+						JERRY: Really? I thought you were rebuffed.<br>
+							<br>
+							
+						GEORGE: With extreme prejudice.<br>
+							<br>
+							
+						JERRY: Maybe Elaine put in a good word for you.<br>
+							<br>
+							
+						GEORGE: No, no. That's just the thing. Anna told me that Elaine said I was one of the worst seeds she'd ever seen.<br>
+							<br>
+							
+						JERRY: Interesting. She doesn't care for you, then a stern warning, suddenly a phone call. Seems Elaine's made you the bad boy. And Anna digs the bad boy.<br>
+							<br>
+							
+						GEORGE: I'm the bad boy. I've never been the bad boy.<br>
+							<br>
+							
+						JERRY: You've been the bad employee, the bad son, the bad friend...<br>
+							<br>
+							
+						GEORGE: Yes ... yes, yes<br>
+							<br>
+							
+						JERRY: The bad fianc&eacute;&Mac226;, the bad dinner guest, the bad credit risk...<br>
+							<br>
+							
+						GEORGE: Okay, the point is made.<br>
+							<br>
+							
+						JERRY: The bad date, the bad sport, the bad citizen... (looks at table as George exits) The bad tipper!<br>
+							<br>
+							<br>
+							<br>
+							
+						[At the movies...]<br>
+							<br>
+							
+						JERRY: Half of show business is here.<br>
+							<br>
+							
+						KRAMER: There's Brody. Brody! Over here.<br>
+							<br>
+							
+						BRODY: Hey Kramer. And you must be Jerry. Thanks for the ticket.<br>
+							<br>
+							
+						JERRY: That's quite a feed bag you're workin' on there.<br>
+							<br>
+							
+						BRODY: It's for all of us. Is there a problem?<br>
+							<br>
+							
+						KRAMER: Brody, c'mon. He's just kidding. He's a joke maker. Tell him, Jerry.<br>
+							<br>
+							
+						JERRY: I'm a joke maker.<br>
+							<br>
+							
+						KRAMER: All right, here we go, Death Blow. (Brody takes out video camera)<br>
+							<br>
+							
+						JERRY: (To Kramer) Hey, hey, what the hell is he doing?<br>
+							<br>
+							
+						KRAMER: Relax, he does that all the time.<br>
+							
+						&nbsp;<br>
+							
+						JERRY: Does what?<br>
+							<br>
+							
+						KRAMER: He's making a copy of the movie for sale on the street, hum?<br>
+							<br>
+							
+						JERRY: May I see you outside for a moment please?<br>
+							<br>
+							
+						KRAMER: But I want to--<br>
+							<br>
+							
+						JERRY: Outside!<br>
+							<br>
+							<br>
+							<br>
+							
+						[Elaine's office]<br>
+							<br>
+							
+						ELAINE: Hey, have you seen Anna?<br>
+							<br>
+							
+						WORKER: Uh, she just went to meet your friend George.<br>
+							<br>
+							
+						ELAINE: To meet George? I knew it. Where did they go?<br>
+							<br>
+							
+						WORKER: The park, why?<br>
+							<br>
+							
+						ELAINE: Don't you see? George is in the bloodstream! You stay away from him, too!<br>
+							<br>
+							<br>
+							<br>
+							
+						[Outside the theater at the movies.]<br>
+							<br>
+							
+						JERRY: What do you mean he's bootlegging the movie?<br>
+							<br>
+							
+						KRAMER: Well, it's a perfectly legitimate business.<br>
+							<br>
+							
+						JERRY: It's not legitimate.<br>
+							<br>
+							
+						KRAMER: It's a business.<br>
+							<br>
+							
+						JERRY: Where did you meet this guy?<br>
+							<br>
+							
+						KRAMER: He's a friend of a friend. You know Corky Ramarez up on 94th Street? One day he and I are playing Pachinco--<br>
+							<br>
+							
+						JERRY: Kramer. (boom sound)<br>
+							<br>
+							
+						KRAMER: Man, we're missin' the Death Blow!<br>
+							<br>
+							
+						JERRY: I don't believe this. (They run into theater)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Anna and George in the park.]<br>
+							<br>
+							
+						ANNA: You know I'm not supposed to be talking to you.<br>
+							<br>
+							
+						GEORGE: No one's putting a gun to your head. Do I, uh, scare you?<br>
+							<br>
+							
+						ANNA: No... a little. Nice car.<br>
+							<br>
+							
+						GEORGE: Yeah, she's a sweet ride.<br>
+							<br>
+							
+						ANNA: Is that your orthopedic back pillow?<br>
+							<br>
+							
+						GEORGE: Maybe.<br>
+							<br>
+							
+						ANNA: Well is it or isn't it?<br>
+							<br>
+							
+						GEORGE: Guess not.<br>
+							<br>
+							
+						(Elaine arrives.)<br>
+							<br>
+							
+						ELAINE: (To George) Stay away from her.<br>
+							<br>
+							
+						GEORGE: I didn't do nothin'.<br>
+							<br>
+							
+						ELAINE: (To Anna) Get in the car.<br>
+							<br>
+							
+						ANNA: But...<br>
+							<br>
+							
+						ELAINE: You heard me young lady, get in the car. (To George) And you, you should know better. I don't want you infecting my staff.<br>
+							<br>
+							
+						GEORGE: Lighten up.<br>
+							<br>
+							
+						(As they leave George points and winks at Anna.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Death Blow...]<br>
+							<br>
+							
+						KRAMER: Go get 'em, Death Blow! (To Brody) You okay?<br>
+							<br>
+							
+						(Movie Voice: So Death Blow, we meet again ...)<br>
+							<br>
+							
+						BRODY: Uh, I got a cramp.<br>
+							<br>
+							
+						KRAMER: Well, it's no wonder. You ate that entire bag of candy.<br>
+							<br>
+							
+						BRODY: Uh, there it goes again. Kramer, you gotta drive me home.<br>
+							<br>
+							
+						JERRY: Hey, what is going on over there?<br>
+							<br>
+							
+						BRODY: Jerry, finish shooting the movie for me.<br>
+							<br>
+							
+						JERRY: Are you nuts? There's no way I'm holding that thing.<br>
+							<br>
+							
+						KRAMER: Jerry, if the man is in pain...<br>
+							<br>
+							
+						JERRY: Yeah well, maybe if he didn't lick his fingers before he reached in the bag we would've eaten some. Serves him right.<br>
+							<br>
+							
+						BRODY: (pulls out a gun) What are you some kind of tough guy?<br>
+							<br>
+							
+						KRAMER: Okay. Let's everybody just relax. Jerry, take the camera.<br>
+							<br>
+							
+						JERRY: All right, I'm, i,m takin' the camera.<br>
+							<br>
+							
+						KRAMER: (To Brody) C'mon, let's go.<br>
+							<br>
+							
+						JERRY: Oh man...<br>
+							<br>
+							<br>
+							<br>
+							
+						[Jerry's apartment, Kramer enters.]<br>
+							<br>
+							
+						KRAMER: Hey man, so how was the rest of Death Blow?<br>
+							<br>
+							
+						JERRY: How was the rest of Death Blow?<br>
+							<br>
+							
+						KRAMER: Yeah, who got the final Death Blow, 'cause I thought that Hawaiian guy, he had it comin' to him!<br>
+							<br>
+							
+						JERRY: Kramer, you make me get a ticket for this friend of yours and then the guy forces me to bootleg the movie at gun point!<br>
+							<br>
+							
+						KRAMER: He's quite a character, isn't he?<br>
+							<br>
+							
+						JERRY: You know, he came by here at 3 o'clock in the morning to pick up the tape. I was scared out of my mind!<br>
+							<br>
+							
+						(buzzer)<br>
+							<br>
+							
+						KRAMER: I got it. Yep.<br>
+							<br>
+							
+						BRODY: Brody.<br>
+							<br>
+							
+						KRAMER: Come on up. It's Brody.<br>
+							<br>
+							
+						JERRY: What are you, crazy? I don't want to see this guy again.<br>
+							<br>
+							
+						KRAMER: Jerry, you did him a favor. He probably wants to come up and thank you.<br>
+							<br>
+							
+						JERRY: What if I didn't do it right?<br>
+							<br>
+							
+						KRAMER: It's your first time. He'll understand.<br>
+							<br>
+							
+						JERRY: People with guns don't understand. That's why they get guns. Too many misunderstandings.<br>
+							<br>
+							
+						(Brody enters)<br>
+							<br>
+							
+						KRAMER: Hey, Brody!<br>
+							<br>
+							
+						JERRY: Hi.<br>
+							<br>
+							
+						BRODY: Jerry, I have to talk to you about the tape.<br>
+							<br>
+							
+						JERRY: Yeah.<br>
+							<br>
+							
+						BRODY: I've never seen such beautiful work.<br>
+							<br>
+							
+						JERRY: What?<br>
+							<br>
+							
+						BRODY: (con,t) You're a genius. The zoom-ins, the framing. I was enchanted.<br>
+							<br>
+							
+						JERRY: Well, I did the best I could.<br>
+							<br>
+							
+						BRODY: I got another project for you. It's a movie called Cry Cry Again. I was gonna give it to one of my other guys, but it's an arty movie and quite frankly, they don't have the sensibility.<br>
+							
+						&nbsp;<br>
+							
+						(Brody's beeper sounds)<br>
+							<br>
+							
+						BRODY: May I use your phone?<br>
+							<br>
+							
+						KRAMER: Uh yeah. It's under the couch.<br>
+							<br>
+							
+						(Brody exits to Kramer's apartment.)<br>
+							<br>
+							
+						KRAMER: Look at you! You've got another gig! Uhh.<br>
+							<br>
+							
+						JERRY: I don't want another gig! I'm not doin' this.<br>
+							<br>
+							
+						KRAMER: But you have a gift. Jerry, this is not your little comedy act. We're talkin' feature films.<br>
+							<br>
+							
+						JERRY: We're talkin' federal crime here.<br>
+							<br>
+							
+						(Brody enters.)<br>
+							<br>
+							
+						BRODY: (To Jerry) I'll expect that tape by three o'clock tomorrow. (To Kramer) May I borrow this? (Holding baseball bat)<br>
+							<br>
+							
+						KRAMER: Sure, do you need a glove?<br>
+							<br>
+							
+						BRODY: Nah.<br>
+							<br>
+							<br>
+							<br>
+							
+						[A meeting at Elaine's office]<br>
+							<br>
+							
+						WORKER: I pressed through the rushes and there, the native dancers whirled before me: limbs flailing, arms akimbo, feet kicking up dust... (All workers laugh)<br>
+							<br>
+							
+						ELAINE: What? What is so funny?<br>
+							<br>
+							
+						(Anna enters with Yankee jacket on.)<br>
+							<br>
+							
+						ANNA: Sorry, I got hung up.<br>
+							<br>
+							
+						ELAINE: At Yankee Stadium?<br>
+							<br>
+							
+						ANNA: This? It's mine.<br>
+							<br>
+							
+						ELAINE: Oh really? 'Cause it looks a little big for you. It looks like something a short, stocky, slow-witted, bald man might wear.<br>
+							<br>
+							
+						ANNA: He's not stocky.<br>
+							<br>
+							
+						(Elaine turns around. A paper airplane is thrown at her.)<br>
+							<br>
+							
+						ELAINE: Who did that? Who did that?!?<br>
+							<br>
+							<br>
+							<br>
+							
+						[Cry, Cry Again, Kramer is bootlegging.]<br>
+							<br>
+							
+						KRAMER: (laughing) The French guy fell off his bike. Oh man, that's precious. (eats popcorn)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Jerry's apartment watching the tape.]<br>
+							<br>
+							
+						JERRY: No, no, no, no, no, no, no! What were you thinking when you shot this?<br>
+							<br>
+							
+						KRAMER: That's fine.<br>
+							<br>
+							
+						JERRY: Do you even know what this scene is about?<br>
+							<br>
+							
+						KRAMER: It's about a guy buying a loaf of bread.<br>
+							<br>
+							
+						JERRY: No, bread is his soul. He's trying to buy back a loaf of his soul.<br>
+							<br>
+							
+						(Gesturing taking a loaf of bread.)<br>
+							<br>
+							
+						KRAMER: Wha? Where?<br>
+							<br>
+							
+						JERRY: Kramer there is no way you're giving this tape to Brody and telling him I shot it.<br>
+							<br>
+							
+						KRAMER: Nah, nah, he's not going to know the difference.<br>
+							<br>
+							
+						JERRY: I don't care about Brody. I was up on 96th Street today, there was a kid couldn't have been more than ten years old. He was asking a street vendor if he had any other bootlegs as good as Death Blow. That's who I care about. The little kid who needs bootlegs, because his parent or guardian won't let him see the excessive violence and strong sexual content you and I take for granted.<br>
+							<br>
+							
+						KRAMER: So you'll do the movie? (Jerry watches the movie Kramer shot - we hear Kramer, on the tape say 'Ah man, I sat in gum')<br>
+							<br>
+							
+						JERRY: I have to. But I'm gonna need to storyboard this whole thing. Where are my magic markers?<br>
+							<br>
+							
+						KRAMER: Right here. (Elaine enters)<br>
+							<br>
+							
+						ELAINE: Well, I have lost complete control of my staff. Why did I let George go to that party? I mean, we were having so much fun. We were wining, we were dining, we were dancing. (She starts dancing, Kramer flips out) What?<br>
+							<br>
+							
+						KRAMER: (He shows her) This umpf thing.<br>
+							<br>
+							
+						ELAINE: It's dancing.<br>
+							<br>
+							
+						KRAMER: No, no. That ain't dancing, Sally.<br>
+							<br>
+							
+						ELAINE: I dance fine.<br>
+							
+						&nbsp;<br>
+							
+						KRAMER: You stink. (He exits)<br>
+							<br>
+							
+						ELAINE: He doesn't know what he's talkin' about. (Jerry fake laughs) Jer? Jerry, I'm a good dancer, right?<br>
+							<br>
+							
+						JERRY: I forgot to make my bed. (He tries to get away)<br>
+							<br>
+							
+						ELAINE: Jerry, do I stink?<br>
+							<br>
+							
+						JERRY: All right, you're beyond stink.<br>
+							<br>
+							
+						ELAINE: But I really enjoy dancing.<br>
+							<br>
+							
+						JERRY: And that's not helpin' either. That's why you're havin' trouble with your staff, not because of George.<br>
+							<br>
+							
+						ELAINE: It's that bad?<br>
+							<br>
+							
+						JERRY: Have you ever seen yourself? (She starts dancing) Ah, ah, please, please. Not in my home. I gotta go throw this stuff in the laundry. I'll be right back.<br>
+							<br>
+							
+						(Elaine sees video camera)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Elaine and Anna sitting in Elaine's office.]<br>
+							<br>
+							
+						VOICE: I have George Costanza still holding.<br>
+							<br>
+							
+						ELAINE: George, hi. I have Anna here. There's something I wanna say to both of you.<br>
+							<br>
+							
+						GEORGE: Yo, Anna.<br>
+							<br>
+							
+						ANNA: Hi, George. What're you up to?<br>
+							<br>
+							
+						GEORGE: (Ironing) You don't wanna know.<br>
+							<br>
+							
+						ELAINE: Uh, well, listen. I feel really horrible about trying to keep you two apart and I just wanted to apologize.<br>
+							<br>
+							
+						GEORGE: What, wha, what're you talkin' about?<br>
+							<br>
+							
+						ELAINE: Well, George, I just want you to hear me say to Anna that you're a good and decent person.<br>
+							<br>
+							
+						GEORGE: Pick up the phone, Elaine. Pick it up!<br>
+							<br>
+							
+						ELAINE: I never should have given Anna the impression--<br>
+							<br>
+							
+						GEORGE: Pick it up, pick it up!<br>
+							<br>
+							
+						ELAINE: --that you're a bad seed, I mean, you're a fine seed.<br>
+							<br>
+							
+						GEORGE: Elaine, get off the speaker! (Elaine picks up phone)<br>
+							<br>
+							
+						ELAINE: What?<br>
+							<br>
+							
+						GEORGE: You are ruinin' everything.<br>
+							<br>
+							
+						ELAINE: I'm trying to help. Why are you being so difficult?<br>
+							<br>
+							
+						GEORGE: Yeah, yeah, yeah, yeah. That's it. More of that, difficult. I'm a difficult seed.<br>
+							<br>
+							
+						ELAINE: George, I don't have time for this. Uh, Anna, do you wanna talk to George?<br>
+							<br>
+							
+						ANNA: Um, no, I don't think so.<br>
+							<br>
+							
+						ELAINE: No, she doesn't want to. Okay, bye, George. We'll see ya.<br>
+							<br>
+							
+						GEORGE: I'm a bad man!<br>
+							<br>
+							<br>
+							<br>
+							
+						[Jerry and Kramer exit the theater and see Brody.]<br>
+							<br>
+							
+						BRODY: So where's the tape?<br>
+							<br>
+							
+						JERRY: No, I didn't shoot this one. I'm just scouting the location.<br>
+							<br>
+							
+						BRODY: I need the tape.<br>
+							<br>
+							
+						JERRY: You'll get your tape. But here's what I'm gonna need. I'm gonna need three cameras, two on the floor, one in the balcony. And I want headsets for the guys runnin' 'em. I wanna be able to talk to 'em.<br>
+							<br>
+							
+						BRODY: Are you out of your mind?<br>
+							<br>
+							
+						JERRY: Kramer...<br>
+							<br>
+							
+						KRAMER: I know, Jerry. It's okay. (Jerry steps aside) Yeah, look, Brody. Uh, Jerry wants to do the bootleg. He's dyin' to do it. But if you don't make him happy, the work suffers. And then, nobody's happy.<br>
+							<br>
+							
+						BRODY: Just shoot the damn thing so I can get it out on the street!<br>
+							<br>
+							
+						JERRY: All right. That's it, I can't work like this.<br>
+							<br>
+							
+						KRAMER: Jerry...<br>
+							<br>
+							
+						JERRY: I'm off the project. (He exits)<br>
+							<br>
+							
+						KRAMER: Jerry!<br>
+							<br>
+							
+						BRODY: I want the tape.<br>
+							<br>
+							
+						KRAMER: Yeah.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Jerry and George at Monk's.]<br>
+							<br>
+							
+						GEORGE: Well, I'm the good boy again. Can you believe that?<br>
+							<br>
+							
+						JERRY: They think they can get anyone to shoot these bootlegs.<br>
+							<br>
+							
+						GEORGE: Anna actually has respect for me now. (laughs/snorts) It's all over.<br>
+							<br>
+							
+						JERRY: Eh, the whole business has changed. It's all about money now. The sad thing is it's the kids that suffer. (Kramer enters)<br>
+							<br>
+							
+						KRAMER: Listen, man. You gotta shoot this movie for me. Brody, he's a reasonable man, but he's insane!<br>
+							<br>
+							
+						JERRY: Kramer, I'm not doin' this anymore. I don't know what I was thinking. It's illegal, it's dangerous...<br>
+							<br>
+							
+						GEORGE: Did you say dangerous?<br>
+							<br>
+							<br>
+							<br>
+							
+						[Anna and George in George's car.]<br>
+							<br>
+							
+						GEORGE: I'm a bootlegger.<br>
+							<br>
+							
+						ANNA: You're a what?<br>
+							<br>
+							
+						GEORGE: I'm bootleggin' a movie, baby!<br>
+							<br>
+							
+						ANNA: Isn't that illegal?<br>
+							<br>
+							
+						GEORGE: I can do hard time for this one. And community service!<br>
+							<br>
+							
+						ANNA: Is this your FiberCon?<br>
+							<br>
+							
+						GEORGE: (Takes it and throws it out window) Get outta my way!<br>
+							<br>
+							<br>
+							<br>
+							
+						[Jerry's apartment, Kramer enters.]<br>
+							<br>
+							
+						KRAMER: Jerry, George got arrested.<br>
+							<br>
+							
+						JERRY: What?<br>
+							<br>
+							
+						KRAMER: Yeah. He went down at the Beackman, he tried to lam, but they cheesed him.<br>
+							<br>
+							
+						JERRY: Oh now I see. (Buzzer) Yeah.<br>
+							<br>
+							
+						BRODY: Brody, I'm comin' up.<br>
+							<br>
+							
+						JERRY: What're we gonna do?<br>
+							<br>
+							
+						KRAMER: Well, I ah, gotta give him something. Come on, where's that tape I shot?<br>
+							<br>
+							
+						JERRY: I think that's it. (They play it and see Elaine dancing) Sweet fancy Moses!<br>
+							
+						&nbsp;<br>
+							
+						KRAMER: Jerry, she taped over the whole ending! (Brody enters)<br>
+							<br>
+							
+						BRODY: Where's the tape?<br>
+							<br>
+							
+						JERRY: Uh, well. It, uh...<br>
+							<br>
+							
+						BRODY: Is that it?<br>
+							<br>
+							
+						KRAMER: Uh, yeah, yeah. Here it is, Brody. One copy of Cry Cry Again.<br>
+							<br>
+							
+						BRODY: How'd it turn out?<br>
+							<br>
+							
+						KRAMER + JERRY: Uh... great.<br>
+							<br>
+							
+						KRAMER: Although the whole story kinda comes apart at the end there.<br>
+							
+						&nbsp;<br>
+							
+						JERRY: Yeah, out of nowhere there's this lone dancer who appears to be injured.<br>
+							<br>
+							
+						KRAMER: Yeah, it's a disturbing image.<br>
+							<br>
+							
+						JERRY: Yeah, so you cry... and when you see the dancing, you cry again.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Police station, Anna and George sitting down.]<br>
+							<br>
+							
+						ANNA: (George is crying) It's all right, George. You'll just pay a fine and that'll be it.<br>
+							<br>
+							
+						GEORGE: Why did the policeman have to yell at me like that? (Elaine enters)<br>
+							<br>
+							
+						ELAINE: Anna...<br>
+							<br>
+							
+						ANNA: Oh, Elaine, thanks for picking me up. I can explain everything.<br>
+							<br>
+							
+						ELAINE: All right. Well, we'll talk about it tomorrow at the office. (Mr. Costanza enters)<br>
+							<br>
+							
+						FRANK: Okay, where's my boy?<br>
+							<br>
+							
+						GEORGE: Oh my God.<br>
+							<br>
+							
+						FRANK: I'm sitting at home, reading a periodical, and this is the call I get? My son is a bootlegger? (He hits George in the head)<br>
+							<br>
+							
+						GEORGE: Ow! Dad...<br>
+							<br>
+							
+						FRANK: Who put you up to this, was it her?<br>
+							<br>
+							
+						ELAINE: All right. Wait a minute. I think you've got it backwards.<br>
+							<br>
+							
+						FRANK: My George isn't clever enough to hatch a scheme like this.<br>
+							<br>
+							
+						ELAINE: You got that right.<br>
+							<br>
+							
+						FRANK: What the hell does that mean?<br>
+							<br>
+							
+						ELAINE: That means whatever the hell you want it to mean.<br>
+							<br>
+							
+						FRANK: You sayin' you want a piece of me?<br>
+							<br>
+							
+						ELAINE: I could drop you like a bag of dirt.<br>
+							<br>
+							
+						FRANK: You wanna piece of me? You got it! (They begin to fight)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Jerry and Elaine walking down the street.]<br>
+							<br>
+							
+						JERRY: But he's an old man, Elaine.<br>
+							<br>
+							
+						ELAINE: Well, he wrote the check, and I cashed it.<br>
+							<br>
+							
+						JERRY: (Seeing a street vendor) Hey, it's the bootlegged Death Blow that I shot.<br>
+							<br>
+							
+						ELAINE: Oh, Cry Cry Again, I wanna see that.<br>
+							<br>
+							
+						JERRY: No you don't.<br>
+							<br>
+							
+						MAN: You shot Death Blow?<br>
+							<br>
+							
+						JERRY: Yeah.<br>
+							<br>
+							
+						MAN: That was brilliant.<br>
+							<br>
+							
+						JERRY: Thank you. (They continue walking)<br>
+							<br>
+							
+						ELAINE: You were big.<br>
+							<br>
+							
+						JERRY: I'm still big. It's the bootlegs that got small. So how are things at the office? Back to normal?<br>
+							<br>
+							
+						ELAINE: Yeah, pretty much. Although I still get the vibe every once in a while.<br>
+							<br>
+							
+						JERRY: I wouldn't worry about it. (People on sidewalk behind them are doing her dance as they go)<br>
+							<br>
+							<br>
+							
+						The End</td>
+						</tr>
+						<tr height="6">
+							<td class="bottom2" width="645" height="6"></td>
+						</tr>
+						<tr>
+							<td width="645">
+								<div align="center">
+									<font size="-1">Copyright 2006 seinology.com | All Rights Reserved | Designed by 13erla</font></div>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+		<p></p>
+	</body>
+
+</html>

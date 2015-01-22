@@ -1,0 +1,1361 @@
+<tdOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+<html>
+
+	<head>
+		<meta http-equiv="content-type" content="text/html;charset=ISO-8859-1">
+		<meta name="description" content="Top Source for Seinfeld">
+		<meta name="keywords" content="seinfeld, sienfeld, Jerry Seinfeld, Julia Louis Dreyfus, Jason Alexander, Michael Richards, Kramer, George, Costanza, Elaine Benes, morty, Larry David">
+		<title>Seinology.com :: Scripts :: 89-The Pledge Drive</title>
+	<link rel='stylesheet' href='/stylesheet.css' type='text/css'>
+	</head>
+
+	<body>
+			<table align="center" width="787" border="0" cellspacing="0" cellpadding="0">
+				<tr>
+					<td><font size="-2" color="red">Seinology.com - </font><font size="-3" color="black">Where Seinfeld Content and Accuracy Matter Most. Seinfeld scripts in pdf form, Seinfeld episode video clips, Seinfeld episode audio clips, Jerry Seinfeld appearances, Julia Louis-Dreyfus appearances, Michael Richards appearances, Jason Alexander appearances, Seinfeld discussion Forum, Seinfeld Where are they Now? Seinlanguage Newsletter, Popular Seinfeld Lists, Seinfeld episode standup, Seinfeld episode guide, Seinfeld fan fiction. Seinfeld content all on one domain. Seinology.com enjoy your stay.</font></td>
+				</tr>
+			</table>
+		
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr height="100">
+				<td class="logo"></td>
+			</tr>
+			<tr><td class="ads" align="center" background=#8694fa>
+				<script type="text/javascript"><!--
+google_ad_client = "pub-1924026976931416";
+google_ad_width = 728;
+google_ad_height = 90;
+google_ad_format = "728x90_as";
+google_ad_type = "text";
+google_ad_channel = "";
+google_color_border = "FFFFFF";
+google_color_bg = "8694fa";
+google_color_link = "0000FF";
+google_color_text = "000000";
+google_color_url = "002E3F";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></td></tr>
+		</table>
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr>
+				<td valign="top" width="136">
+					<table width="136" border="0" cellspacing="0" cellpadding="0">
+						<tr height="24">
+							<td class="navigation">
+								<div align="center">
+									
+									<b>Navigation</b></div>
+							</td>
+						</tr>
+						<tr height="199">
+							<td class="spacer1" valign="top" width="136" height="199">
+								<div align="center">
+									<font size="-1"><a href="http://www.seinology.com">Home</a><br>
+										<a href="http://board.seinology.com">Forum</a><br>
+										<a href="http://www.seinology.com/av.shtml">Audio/Video</a><br>
+										<a href="http://www.seinology.com/scripts.shtml">Scripts</a><br>
+										<a href="http://www.seinology.com/survivor.shtml">Survivor</a><br>
+										<a href="http://www.seinology.com/fanfics.shtml">Fan Fiction</a><br>
+										<a href="http://www.seinology.com/gallery/">Gallery</a><br>
+										<a href="http://www.seinology.com/newsletter.shtml">Newsletter</a><br>
+										<a href="http://www.seinology.com/lists.shtml">Lists</a><br>
+										<a href="http://www.seinology.com/epguide.shtml">Episode Guide</a><br>
+										<a href="http://www.seinology.com/links.shtml">Links</a><br>
+										<a href="http://www.seinology.com/faqother.shtml">Faq + others</a><br>
+										<a href="http://www.seinology.com/legal.shtml">Legal</a></font></div>
+							</td>
+						</tr>
+						
+						<tr>
+							<td class="nav2" width="136">
+							<div align="center"><b>Search</b></div></td>
+						</tr>
+						<tr>
+							<td class="spacer1" width="136" valign="top"><div align="center"><form method="get" action="http://www.seinology.com/search/search.cgi">
+<p><label for="fdse_Match">Match</label><br>
+<select name="Match" id="fdse_Match" size="1">
+<option value="1">All</option>
+<option value="0">Any</option>
+<option value="2">Phrase</option>
+</select></p>
+<p><label for="fdse_Realm">Where?</label><br>
+<select name="Realm" id="fdse_Realm" size="1">
+<option selected="selected" value="All">EntireSite</option>
+<option value="Ep Guide">Ep Guide</option>
+<option value="Images">Images</option>
+<option value="Lists">Lists</option>
+<option value="Newsletters">Newsletters</option>
+<option value="Scripts">Scripts</option>
+<option value="Notes..Nothing">Notes..Nothing</option>
+</select></p>
+<p><input type="text" name="Terms" size="14" id="fdse_Terms"><br>
+<input type="submit" class="submit" name="submitButtonName" value="Search"></p>
+</div></form></td>
+						</tr>
+						<tr><td class="bottom" width="136" height="10" valign="top">
+						</td>
+						</tr>
+					</table>
+				</td>
+				<td width="4"></td>
+				<td valign="top" width="645">
+					<table width="645" border="0" cellspacing="0" cellpadding="0">
+						<tr height="18">
+							<td width="645" height="35" class="bar">
+								<div align="center">
+									<b><font size="+2" color="black">Script</font></b></div>
+							</td>
+						</tr>
+						<tr height="362">
+							<td class="spacer2" valign="top" width="645" height="362">
+
+						<p><font size="-2">Episode 89 - The Pledge Drive<br>
+							
+						pc: 603, season 6, episode 3<br>
+							
+						Broadcast date: October 6, 1994<br>
+							<br>
+							
+						Written by Tom Gammill &amp; Max Pross<br>
+							
+						Directed by Andy Ackerman<br>
+							<br>
+							
+						-------------------------------------------------------------------------------<br>
+							<br>
+							
+						The Cast<br>
+							
+						Regulars:<br>
+							Jerry Seinfeld ....................... Jerry Seinfeld<br>
+							
+						Jason Alexander .................. George Costanza<br>
+							
+						Julia Louis-Dreyfus ............. Elaine Benes<br>
+							
+						Michael Richards ................. Kramer<br>
+							<br>
+							
+						Guest Stars:<br>
+							<br>
+							
+						Kelly Coffield&nbsp; ..................... Noreen<br>
+							
+						Billye Ree Wallace ............... Nana<br>
+							
+						Brian Reddy ....................... Dan<br>
+							
+						Rebecca Staab&nbsp;&nbsp; ................... Kristin<br>
+							
+						Danny Tartabull ................. Himself<br>
+							
+						Tom Wright ........................ Executive (Mr. Morgan)<br>
+							
+						James Reynolds&nbsp;&nbsp; ................ Banker<br>
+							
+						Lauren Bowles&nbsp;&nbsp; ................. Waitress<br>
+							
+						F.J. Rio ................................ Street Tough<br>
+							
+						Thom Vernon ..................... Driver<br>
+							
+						rc: Len Lesser .................... Uncle Leo<br>
+							
+						rc:&nbsp; Ian Abercrombie ........... Mr. Pitt<br>
+							<br>
+							
+						==================================================================<br>
+							<br>
+							
+						[Opening monologue.]<br>
+							<br>
+							
+						There's something very insincere about these greeting cards we send back and forth to each other all the time. They're like these little one-dollar folded paper emotional prostitutes, isn't it? &quot;I don't know what my feelings are, so I'll just pay some total stranger a buck to make up this little Hallmark hooker to do the job for me. So I can go, 'Yeah, I didn't write this, but whatever they wrote, I think the same thing.'&quot; Wouldn't it be better if we just had one card that covered every occasion for everybody in one shot? Just &quot;Happy birthday, merry Christmas, happy anniversary, congratulations, it's a Boy and our deepest sympathies. Signed, the whole office&quot;<br>
+							<br>
+							<br>
+							<br>
+							
+						[Elaine and Jerry and in Jerry's apartment.]<br>
+							<br>
+							
+						ELAINE: She was hitting on you? My friend Noreen?<br>
+							<br>
+							
+						JERRY: Your friend, Noreen.<br>
+							<br>
+							
+						ELAINE: Are you sure you're not just flattering yourself?<br>
+							<br>
+							
+						JERRY: If I was flattering myself, I think I'd come up with someone a little less annoying than Noreen.<br>
+							<br>
+							
+						ELAINE: I cannot believe that she was hitting on you.<br>
+							<br>
+							
+						JERRY: If you don't believe me, ask her.<br>
+							<br>
+							
+						ELAINE: I will. Besides, she's got a boyfriend, Jerry, you know him. Dan. Remember, we went to that party at his house?<br>
+							<br>
+							
+						JERRY: Oh, right. The guy who talks with a really high voice.<br>
+							<br>
+							
+						ELAINE: Yeah.<br>
+							<br>
+							
+						(Kramer enters.)<br>
+							<br>
+							
+						KRAMER: Jerry, did you get my Fortune magazine in your mail?<br>
+							<br>
+							
+						JERRY: Check the pile.<br>
+							<br>
+							
+						KRAMER: (leafing through Jerry's mail) Oh, who sent you a card?<br>
+							<br>
+							
+						JERRY: I don't know.<br>
+							<br>
+							
+						KRAMER: Open it, it's from Hallmark.<br>
+							<br>
+							
+						JERRY: Oh.<br>
+							<br>
+							
+						KRAMER (To Elaine) Hello, my love.<br>
+							<br>
+							
+						ELAINE: Hello, darling.<br>
+							<br>
+							
+						JERRY: Isn't that cute, a 'thank you' card from Kristin.<br>
+							<br>
+							
+						KRAMER: Let me see.<br>
+							<br>
+							
+						ELAINE: Who's Kristin?<br>
+							<br>
+							
+						JERRY: She works for PBS, I met her when I agreed to do that pledge drive.<br>
+							<br>
+							
+						KRAMER: Did you ask her about me?<br>
+							<br>
+							
+						JERRY: Yeah, in fact she said that you could be one of those people that sits in the back and answers the phone.<br>
+							<br>
+							
+						KRAMER: Giddy-up! Alright! So now, how does that work? Now, what, I get a percentage of every pledge I bring in, right?<br>
+							<br>
+							
+						JERRY: No, it's not aluminum siding, it's volunteer work. All the money goes to the station.<br>
+							<br>
+							
+						KRAMER: Okay, yeah, alright, that sounds good, but I still get a tote bag though, right?<br>
+							<br>
+							
+						JERRY: Yeah, and one of those foam beer can holders.<br>
+							<br>
+							
+						(Kramer leaves, satisfied.)<br>
+							<br>
+							
+						ELAINE: (dialing the phone) You know what I'm doing? I'm calling Noreen.<br>
+							<br>
+							
+						JERRY: Oh, go ahead.<br>
+							<br>
+							
+						ELAINE: You sure you don't mind?<br>
+							<br>
+							
+						JERRY: Like she's really going to admit she was flirting with me.<br>
+							<br>
+							
+						(Elaine finishes dialing, the phone rings and a high pitched voice answers.)<br>
+							<br>
+							
+						HIGH PITCHED VOICE: Hello?<br>
+							<br>
+							
+						ELAINE: Hi, it's Elaine. Listen, I was just talking to Jerry.<br>
+							<br>
+							
+						HIGH PITCHED VOICE: Jerry?<br>
+							<br>
+							
+						ELAINE: Jerry Seinfeld.<br>
+							<br>
+							
+						HIGH PITCHED VOICE: Oh, I like Jerry a lot.<br>
+							<br>
+							
+						ELAINE: You mean like like?<br>
+							<br>
+							
+						HIGH PITCHED VOICE: What are you talking about?<br>
+							<br>
+							
+						ELAINE: Noreen, were you hitting on him?<br>
+							<br>
+							
+						(Cut to the other end of the conversation, there's a bald man on the telephone.)<br>
+							<br>
+							
+						HIGH PITCHED VOICE: Noreen's not here, this is Dan.<br>
+							<br>
+							
+						ELAINE: Ooh.<br>
+							<br>
+							
+						DAN: You say that Noreen was hitting on Jerry Seinfeld?<br>
+							<br>
+							
+						ELAINE (hanging up) Uh, I'll call you back later.<br>
+							<br>
+							
+						ELAINE: Uh oh.<br>
+							<br>
+							
+						JERRY: So was I right? She likes me, right?<br>
+							<br>
+							<br>
+							<br>
+							
+						[Elaine is sharpening pencils for Mr. Pitt. The phone is ringing.]<br>
+							<br>
+							
+						MR. PITT (answering) Hello? (to Elaine) It's for you. Must you keep giving my number out?<br>
+							<br>
+							
+						ELAINE: Oh, I'm sorry Mr. Pitt. Hello?<br>
+							<br>
+							
+						HIGH PITCHED VOICE: Elaine? What is going on? Why did you tell Dan I was hitting on Jerry Seinfeld?<br>
+							<br>
+							
+						ELAINE: Is this Noreen?<br>
+							<br>
+							
+						HIGH PITCHED VOICE: (Noreen) What would ever possess you to make up a story like that.<br>
+							<br>
+							
+						ELAINE: Well, listen, Jerry mentioned it, and, I don't know--<br>
+							<br>
+							
+						DAN (taking the phone from Noreen) I think I deserve an explanation.<br>
+							<br>
+							
+						ELAINE: Noreen, are you crying?<br>
+							<br>
+							
+						DAN: No, this is Dan!<br>
+							<br>
+							
+						ELAINE: Oh, hi Dan.<br>
+							<br>
+							
+						MR. PITT: Elaine? Work?<br>
+							<br>
+							
+						ELAINE: Tell Noreen I'll just call her back later.<br>
+							<br>
+							
+						MR. PITT: Who was crying?<br>
+							<br>
+							
+						ELAINE: No one. I'm sorry Mr. Pitt, that won't happen again.<br>
+							<br>
+							
+						MR. PITT: (unwrapping a candy bar, placing it on a plate and cutting it with knife and fork) I'm sure it won't, but someone was crying and I want to know who it was.<br>
+							<br>
+							
+						ELAINE: Well, it's a long story, okay? But my stupid friend Jerry told my other friend Noreen that she was-- (noticing Mr. Pitt eating the candy bar with knife and fork and becoming distracted) You know, hitting on him and so I called her to see what was, uh, going on and I accidentally got her boyfriend, who is this, you know--<br>
+							<br>
+							<br>
+							<br>
+							
+						[Jerry and Kristin, the PBS rep, are in Jerry's apartment. Jerry is reading from a sheet of paper.]<br>
+							<br>
+							
+						JERRY: I'm Jerry Seinfeld, I tell jokes for a living, but there's no joking about the financial crisis at PBS. Show us you care. Call in your pledge now.<br>
+							<br>
+							
+						KRISTIN: Jerry, I am so grateful that you're doing this.<br>
+							<br>
+							
+						JERRY: Oh, I know you are.<br>
+							<br>
+							
+						KRISTIN: You got the card I sent?<br>
+							<br>
+							
+						JERRY: I did.<br>
+							<br>
+							
+						KRISTIN: So where is it?<br>
+							<br>
+							
+						JERRY: What?<br>
+							<br>
+							
+						KRISTIN: The card. Is this it in the trash?<br>
+							<br>
+							
+						JERRY: No?<br>
+							<br>
+							
+						KRISTIN: This is my card, you threw it away.<br>
+							<br>
+							
+						JERRY: Well--<br>
+							<br>
+							
+						KRISTIN: I put a lot of thought into this card.<br>
+							<br>
+							
+						JERRY: You signed your name and you addressed the envelope, it's not like you painted the picture and wrote the poem.<br>
+							<br>
+							
+						KRISTIN: Fine. I gotta get back to the office.<br>
+							<br>
+							
+						JERRY: Why, because I threw the card out? How long was I supposed to save it?<br>
+							<br>
+							
+						KRISTIN: You have no sentimentality.<br>
+							<br>
+							
+						JERRY: I have sentimentality, really, I'm sentimental. Here, look. Here's some cards I've saved, these are birthday cards from my grandmother, see, I'm not a bad guy.<br>
+							<br>
+							
+						KRISTIN: Oh, so you save her cards but not mine! Oh great!<br>
+							<br>
+							
+						JERRY: (as Kristin is storming out) Well, but, you see, I saved something! See? I can save. I'll see you at the pledge drive, ok?<br>
+							<br>
+							
+						(Kramer enters as Kristin leaves.)<br>
+							<br>
+							
+						KRAMER: New cards, huh?<br>
+							<br>
+							
+						JERRY: No, they're old cards from my grandmother.<br>
+							<br>
+							
+						KRAMER: Oh. Well, I'll tell you, a nice greeting card can really lift a person's spirits.<br>
+							<br>
+							
+						JERRY: Yeah.<br>
+							<br>
+							
+						KRAMER: (opening a card) Oh, a check.<br>
+							<br>
+							
+						JERRY: Yeah, she puts ten dollars in every card for my birthday, that's why I save them.<br>
+							<br>
+							
+						KRAMER: There's a check in all these? Why don't you cash them?<br>
+							<br>
+							
+						JERRY: I don't know, it's ten dollars.<br>
+							<br>
+							
+						KRAMER: But you got a whole pile here. 1987?<br>
+							<br>
+							
+						JERRY: Oh so what.<br>
+							<br>
+							
+						KRAMER: Jerry, your grandmother gave you this gift. She wants you to spend the money, to have the fun that she can't have. Oh, this is tantamount to a slap in the face.<br>
+							<br>
+							
+						JERRY: Oh, get out of here.<br>
+							<br>
+							
+						KRAMER: Jerry, a gift not enjoyed is like a flower that doesn't blossom.<br>
+							<br>
+							
+						JERRY: Alright, alright, I'll cash the checks.<br>
+							<br>
+							
+						KRAMER: Yeah.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Jerry and George are at the coffee shop.]<br>
+							<br>
+							
+						JERRY: It was a 'thank you' card from Kristin because I'm doing the PBS drive. I mean, how long am I supposed to keep it?<br>
+							<br>
+							
+						GEORGE: The rule is a minimum of two days.<br>
+							<br>
+							
+						JERRY: You making that up or do you know what you're talking about?<br>
+							<br>
+							
+						GEORGE: I'm making it up.<br>
+							<br>
+							
+						JERRY: I mean really, what's the point of saving it? I could see if I had a mantel.<br>
+							<br>
+							
+						GEORGE: Oh, well, a mantel's a whole different story.<br>
+							<br>
+							
+						JERRY: Absolutely.<br>
+							<br>
+							
+						GEORGE: If my parents had a mantel, I might be a completely different person.<br>
+							<br>
+							
+						JERRY: So anyway, she's kind of upset about it so I need you to do me a favor.<br>
+							<br>
+							
+						GEORGE: Let's have it.<br>
+							<br>
+							
+						JERRY: Well, I'm doing the PBS show, so during the show they're gonna be running the Ken Burns baseball thing. So I thought if I could get a baseball player to come on the show with me...<br>
+							<br>
+							
+						GEORGE: You want me to ask one of the Yankees.<br>
+							<br>
+							
+						JERRY: Could you?<br>
+							<br>
+							
+						GEORGE: Alright. I'll run it by a few people.<br>
+							<br>
+							
+						JERRY: Alright, Do your thing, where you lie to everyone.<br>
+							<br>
+							
+						ELAINE: (entering and sitting down) I should never have made that phone call.<br>
+							<br>
+							
+						JERRY: Hey, did you ever get to talk to Noreen?<br>
+							<br>
+							
+						ELAINE: Yes, she's very upset.<br>
+							<br>
+							
+						JERRY: So was I right about the flirting? Was it true?<br>
+							<br>
+							
+						ELAINE: I don't know, I never asked. She was yelling--<br>
+							<br>
+							
+						GEORGE: Who was flirting with you?<br>
+							<br>
+							
+						JERRY: Remember when we were in the bookstore, that woman came up to us?<br>
+							<br>
+							
+						GEORGE: She wasn't flirting with you.<br>
+							<br>
+							
+						JERRY: Oh, sure she was; Asked me where the 'humor' section was? Humor? Come on.<br>
+							<br>
+							
+						ELAINE: Jerry, her brother just had a book of political cartoons published.<br>
+							<br>
+							
+						(Elaine and George laugh derisively.)<br>
+							<br>
+							
+						JERRY: Alright, so maybe she wasn't flirting with me. So what?<br>
+							<br>
+							
+						ELAINE: So, yeah, that's funny. Hey, you wanna hear something weird? Mr. Pitt eats his Snickers bars with a knife and fork.<br>
+							<br>
+							
+						GEORGE: Really?<br>
+							<br>
+							
+						ELAINE: Yeah.<br>
+							<br>
+							
+						JERRY: Why does he do that?<br>
+							<br>
+							
+						GEORGE: He probably doesn't want to get chocolate on his fingers. That's the way these society types eat their candy bars.<br>
+							<br>
+							
+						JERRY: Oh, you know.<br>
+							<br>
+							
+						GEORGE: What, you think I eat all my meals with you? (To waitress) Excuse me, sweetheart? I think you may have overcharged us. What is this?<br>
+							<br>
+							
+						WAITRESS: That's the extra toast. Get it?<br>
+							<br>
+							
+						GEORGE: Got it. (the waitress walks away) Did you just see what happened here?<br>
+							<br>
+							
+						ELAINE: What?<br>
+							<br>
+							
+						GEORGE: Did you see the way she pointed at the check? She gave me the finger.<br>
+							<br>
+							
+						JERRY: That's how waitress types express derision. They don't want to get their mouths dirty.<br>
+							<br>
+							<br>
+							<br>
+							
+						[George is in a meeting at work.]<br>
+							<br>
+							
+						GEORGE: So, what do you think?<br>
+							<br>
+							
+						MR. MORGAN: A PBS fundraiser? I'm not gonna waste any of the players' time with that, besides the team already does so much promotion for channel eleven.<br>
+							<br>
+							
+						GEORGE: Channel eleven? Forgive me for trying to class up this place, for trying to have the Yankees reach another strata of society that might not watch channel eleven.<br>
+							<br>
+							
+						(George begins eating a candy bar with knife and fork.)<br>
+							<br>
+							
+						MR. MORGAN: Uh, what the hell are you doing?<br>
+							<br>
+							
+						GEORGE: I am eating my dessert. How do you eat it, with your hands?<br>
+							<br>
+							
+						MR. MORGAN: You know, maybe George has something here about PBS.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Jerry and Kramer are at an ATM.]<br>
+							<br>
+							
+						JERRY: Okay, sixty bucks from Nana.<br>
+							<br>
+							
+						KRAMER: Huh? Yeah.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Nana is home knitting, the phone rings.]<br>
+							<br>
+							
+						NANA: Hello?<br>
+							<br>
+							
+						VOICE: Hello, this is Chemical Bank. Just wanted you to know that your checking account is overdrawn.<br>
+							<br>
+							
+						NANA: Chemical Bank? I haven't used that account in months.<br>
+							<br>
+							
+						VOICE: Well, someone's been cashing the checks and you're overdrawn.<br>
+							<br>
+							
+						NANA: Oh dear. I'll be down there first thing in the morning.<br>
+							<br>
+							
+						VOICE: (unheard by Nana as she hangs up the phone) Wait, we can do this over the phone.<br>
+							<br>
+							
+						(Fade to the next morning, the alarm clock goes off, it's 5:30, Nana turns off the alarm, fully dressed, gathers her coat and purse, sighs, and heads for the door.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[George, Jerry and Kramer are at the coffee shop.]<br>
+							<br>
+							
+						JERRY: You got Danny Tartabull?!<br>
+							<br>
+							
+						GEORGE: You wanted a Yankee, I got you a Yankee.<br>
+							<br>
+							
+						JERRY: Boy, you really came through. Kristin's gonna be thrilled.<br>
+							<br>
+							
+						GEORGE: Hey, the Bull owes me one, I helped him with his swing.<br>
+							<br>
+							
+						KRAMER: So you're bringing Danny Tartabull to the fundraiser tonight.<br>
+							<br>
+							
+						GEORGE: Absolutely. Pending approval of the script.<br>
+							<br>
+							
+						JERRY: Excuse me?<br>
+							<br>
+							
+						GEORGE: Jerry, I'm Yankee management.<br>
+							<br>
+							
+						KRAMER: Yeah, I'd like to see the script too.<br>
+							<br>
+							
+						JERRY: You're just answering phones!<br>
+							<br>
+							
+						KRAMER: It would put me at ease.<br>
+							<br>
+							
+						GEORGE: Hey, when you order from the waitress, get her to point to the menu. I want to see what finger she uses.<br>
+							<br>
+							
+						JERRY: Uh, say, I wanted a side order of fruit but I didn't see it on the men<br>
+							<br>
+							
+						WAITRESS: Oh, you're getting it (pointing to menu with index finger), it comes with your breakfast special.<br>
+							<br>
+							
+						JERRY: Right you are.<br>
+							<br>
+							
+						GEORGE: I didn't get the special, but I'd also like the fresh fruit too.<br>
+							<br>
+							
+						WAITRESS: (scratching cheek with middle finger) I'll check.<br>
+							<br>
+							
+						GEORGE: (after waitress walks away) I don't believe it, she did it again!<br>
+							<br>
+							
+						JERRY: Oh, she had an itch.<br>
+							<br>
+							
+						GEORGE: She had an itch. She could have used any one of those fingers. That finger was meant for me.<br>
+							<br>
+							
+						KRAMER (laughing) Yeah, she knew what she was doing.<br>
+							<br>
+							
+						JERRY: By the way, lunch is on me. I just cashed my Nana's birthday checks.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Nana is standing on a deserted street in front of an abandoned building, checking for an address. A street tough approaches from behind.]<br>
+							<br>
+							
+						STREET TOUGH: Looking for something, lady?<br>
+							<br>
+							
+						NANA: Isn't the Chemical Bank on this block?<br>
+							<br>
+							
+						STREET TOUGH: The bank? It burned. It's gone!<br>
+							<br>
+							
+						NANA: Oh dear.<br>
+							<br>
+							
+						STREET TOUGH Now what you wanna do is go down to forty-ninth street, that's the main customer service branch. Ask for Mr. Fleming. He'll help you.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Jerry is in his apartment, the phone rings.]<br>
+							<br>
+							
+						JERRY: (answering) Hello?<br>
+							<br>
+							
+						UNCLE LEO: Jerry? Hello.<br>
+							<br>
+							
+						JERRY: Uncle Leo!<br>
+							<br>
+							
+						UNCLE LEO: Listen, I don't want to alarm you, but your nana is missing.<br>
+							<br>
+							
+						(Kramer enters.)<br>
+							<br>
+							
+						JERRY: Nana's missing?<br>
+							<br>
+							
+						UNCLE LEO: I came to pick her up for a doctor's appointment, she wasn't here. I called the doctor, nobody knows where she is. She hasn't left the apartment in twenty-five years!<br>
+							<br>
+							
+						JERRY: I've been thinking about her, I just cashed some of her checks.<br>
+							<br>
+							
+						KRAMER: Yeah, that's right. You did.<br>
+							<br>
+							
+						UNCLE LEO: What kind of checks?<br>
+							<br>
+							
+						JERRY: I think Chemical Bank.<br>
+							<br>
+							
+						KRAMER: Oh, they were Chemical.<br>
+							<br>
+							
+						UNCLE LEO: Chemical?! She hasn't used that account since her branch closed. What are you doing cashing her checks anyway?<br>
+							<br>
+							
+						JERRY: Well, Kramer thought it would make her happy. (To Kramer) I never should have cashed those checks!<br>
+							<br>
+							
+						KRAMER: Hey, I didn't twist your arm.<br>
+							<br>
+							
+						UNCLE LEO: Your grandmother's on a very fixed income. What, are you broke?<br>
+							<br>
+							
+						JERRY: Just call me if you hear anything. (hangs up and faces Kramer) Well? I cashed the checks, the checks bounced and now my Nana's missing!<br>
+							<br>
+							
+						KRAMER: Well, don't look at me.<br>
+							<br>
+							
+						JERRY: It's your fault!<br>
+							<br>
+							
+						KRAMER: My fault? Your Nana is missing because she's been passing those bum checks all over town and she finally pissed off the wrong people.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Mr. Morgan is sitting at an outdoor cafe, eating a candy bar with a knife and fork. Noreen walks by and takes notice. Cut to Noreen and Elaine seated at the counter at Monk's.]<br>
+							<br>
+							
+						NOREEN: So anyway, it's caused a lot of problems. Dan thinks I'm interested in Jerry, he won't let up.<br>
+							<br>
+							
+						ELAINE: I'm really sorry, but you can see why I'd make a mistake like that.<br>
+							<br>
+							
+						NOREEN: No, why?<br>
+							<br>
+							
+						ELAINE: Well, you know, because he's a high talker.<br>
+							<br>
+							
+						NOREEN: He does raise his voice occasionally, but that's normal.<br>
+							<br>
+							
+						ELAINE: No. No, no, no, not a loud talker, a high talker.<br>
+							<br>
+							
+						NOREEN: Really?<br>
+							<br>
+							
+						ELAINE: You don't think his voice sounds a lot like yours?<br>
+							<br>
+							
+						NOREEN: I never noticed that.<br>
+							<br>
+							
+						ELAINE: Well, it's no big deal, you know, it's just that he can sound like a woman, you know?<br>
+							<br>
+							
+						NOREEN: Great. I'm going out with a man who sounds like a woman.<br>
+							<br>
+							
+						ELAINE: Well, he looks like a man.<br>
+							<br>
+							
+						NOREEN: Yeah.<br>
+							<br>
+							
+						ELAINE: He's bald. I know that's a guy thing.<br>
+							<br>
+							
+						NOREEN: I guess.<br>
+							<br>
+							
+						ELAINE: I know he belches a lot.<br>
+							<br>
+							
+						NOREEN: Well, that's something. So, Jerry thought I was flirting with him.<br>
+							<br>
+							
+						ELAINE: Yeah.<br>
+							<br>
+							
+						NOREEN: (cutting into a cookie with a knife and fork) Hm. He's kind of a baritone, isn't he?<br>
+							<br>
+							
+						ELAINE: What are you doing?<br>
+							<br>
+							
+						NOREEN: I'm eating this cookie.<br>
+							<br>
+							
+						ELAINE: No, no, no, but why are you using a knife and a fork? Did you just<br>
+							
+						think of that?<br>
+							<br>
+							
+						NOREEN: No, I've seen people do it. I like it.<br>
+							<br>
+							<br>
+							<br>
+							
+						[George is driving Danny Tartabull to the pledge drive.]<br>
+							<br>
+							
+						DANNY TARTABULL: This isn't gonna take long, is it?<br>
+							<br>
+							
+						GEORGE: Oh no, in and out, I made sure of that. And you'll be happy to know I perused the script and it's met with my approval.<br>
+							<br>
+							
+						DANNY TARTABULL: I'm sure it's fine.<br>
+							<br>
+							
+						GEORGE: (swerving) Hey! Watch it! Did you see that guy? He just gave me the finger!<br>
+							<br>
+							
+						DANNY TARTABULL: You sure?<br>
+							<br>
+							
+						GEORGE: Oh yeah! Middle finger, straight up, at me! At us!<br>
+							<br>
+							
+						DANNY TARTABULL: What are you doing?<br>
+							<br>
+							
+						GEORGE: I'm following him.<br>
+							<br>
+							<br>
+							
+						New scene.<br>
+							
+						Nana is at the bank.<br>
+							<br>
+							
+						Banker: I'm sorry, the account had insufficient funds. We had to return the<br>
+							
+						checks made out to a Mr. Jerry Seinfeld.<br>
+							<br>
+							
+						Nana: Oh dear, that's my grandson. May I call him now and explain?<br>
+							<br>
+							
+						Banker: Oh, certainly.<br>
+							<br>
+							<br>
+							
+						New scene.<br>
+							
+						Elaine and Jerry are at Jerry's apartment.<br>
+							<br>
+							
+						ELAINE: And now I think she might really be interested in you. And Dan is<br>
+							
+						obsessed, he keeps leaving these annoying messages on my machine.<br>
+							<br>
+							
+						The phone rings.<br>
+							<br>
+							
+						JERRY: Would you?<br>
+							<br>
+							
+						Elaine (answering): Hello?<br>
+							<br>
+							
+						Nana: Hello, I need to speak to Jerry.<br>
+							<br>
+							
+						Elaine (thinking it's Dan): Oh, it's you. We were just talking about you.<br>
+							
+						Listen, Jerry doesn't want to talk to you. Nobody wants to talk to you, so why<br>
+							
+						don't you just drop dead?<br>
+							<br>
+							
+						Elaine (hanging up): Heh?<br>
+							<br>
+							
+						Kramer enters.<br>
+							<br>
+							
+						KRAMER: Any word from Nana?<br>
+							<br>
+							
+						JERRY: No.<br>
+							<br>
+							
+						ELAINE: Nana?<br>
+							<br>
+							
+						JERRY: Yeah, my grandma's missing.<br>
+							<br>
+							
+						ELAINE: Missing?<br>
+							<br>
+							
+						JERRY: Yeah. I think it might have something to do with those checks.<br>
+							<br>
+							
+						ELAINE: Um, what does Nana sound like?<br>
+							<br>
+							
+						JERRY: Like a grandmother, why?<br>
+							<br>
+							
+						ELAINE: Well...<br>
+							<br>
+							
+						JERRY: Oh, you hung up on my Nana?!<br>
+							<br>
+							
+						ELAINE: I don't know, maybe.<br>
+							<br>
+							
+						JERRY: You told Nana to drop dead?!<br>
+							<br>
+							
+						ELAINE: It's possible.<br>
+							<br>
+							
+						JERRY: Yes, it is!<br>
+							<br>
+							
+						KRAMER: Alright, alright. Look, Jerry, we gotta get down to PBS, PDQ.<br>
+							<br>
+							
+						JERRY: Alright.<br>
+							<br>
+							<br>
+							
+						New scene.<br>
+							
+						George is still driving, he's all worked up.<br>
+							<br>
+							
+						GEORGE: No one gives us the finger! We're Yankees!<br>
+							<br>
+							
+						DANNY TARTABULL: Want this last donut?<br>
+							<br>
+							
+						GEORGE: No, you can have it.<br>
+							<br>
+							
+						(Danny Tartabull begins eating the donut with a knife and fork. George takes notice.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Jerry and Kramer are at PBS.]<br>
+							<br>
+							
+						KRAMER: Jerry, where are all the tote bags?<br>
+							<br>
+							
+						JERRY: I don't know.<br>
+							<br>
+							
+						KRAMER: Well, I'm not leaving the premises without tote bags. I was promised tote bags and tote bags I shall have.<br>
+							<br>
+							
+						KRISTIN: Jerry, this man wants to see you.<br>
+							<br>
+							
+						JERRY: Leo?<br>
+							<br>
+							
+						UNCLE LEO: Hello.<br>
+							<br>
+							
+						JERRY: Uncle Leo! What are you doing here?<br>
+							<br>
+							
+						UNCLE LEO: I wanted to tell you that your grandmother is fine.<br>
+							<br>
+							
+						JERRY: Oh.<br>
+							<br>
+							
+						UNCLE LEO: She's had quite a day but she's gonna watch you tonight on the TV.<br>
+							<br>
+							
+						KRISTIN: Jerry, I'm dying to meet Danny Tartabull. Where is he?<br>
+							<br>
+							
+						JERRY: He'll be here any second.<br>
+							<br>
+							
+						KRISTIN: You know you guys are both on in five minutes.<br>
+							<br>
+							
+						JERRY: Yeah, yeah.<br>
+							<br>
+							
+						KRISTIN: (leaving) Okay.<br>
+							<br>
+							
+						UNCLE LEO: Why didn't you tell me you were a little short? Here. If anybody asks you where you got it, you don't know.<br>
+							<br>
+							
+						JERRY: No, that's ok, I really don't need any money.<br>
+							<br>
+							
+						UNCLE LEO: What are you talking about?<br>
+							<br>
+							
+						JERRY: Please-<br>
+							<br>
+							
+						UNCLE LEO: I want-<br>
+							<br>
+							
+						JERRY: It's not necessary.<br>
+							<br>
+							
+						UNCLE LEO: Jerry, would you please take it.<br>
+							<br>
+							
+						JERRY: I can't, I can't take it.<br>
+							<br>
+							
+						UNCLE LEO: I want you to have it!<br>
+							<br>
+							
+						JERRY: Uncle Leo, I don't want to have it!<br>
+							<br>
+							
+						UNCLE LEO: Jerry, take the money!<br>
+							<br>
+							
+						JERRY: I don't want it!!<br>
+							<br>
+							
+						(There's a knock at the door.)<br>
+							<br>
+							
+						HIGH PITCHED VOICE: Jerry, open up. We need to talk.<br>
+							<br>
+							
+						KRAMER: Who's that?<br>
+							<br>
+							
+						JERRY: You know what? It sounds like the friend of Elaine's that was hitting on me in the book store.<br>
+							<br>
+							
+						KRAMER: Jerry, I'll take care of it.<br>
+							<br>
+							
+						(Kramer walks out and sees Dan.)<br>
+							<br>
+							
+						DAN: Is Jerry in there?<br>
+							<br>
+							
+						KRAMER: Well, he can't be disturbed now.<br>
+							<br>
+							
+						DAN: Well this situation is driving me crazy. He's all I think about. I can't get him out of my mind.<br>
+							<br>
+							
+						KRAMER: I'm sorry. I mean, I know what it's like to be in love. Ties you up in knots. And Jerry is a very sexy man.<br>
+							<br>
+							
+						DAN: What?<br>
+							<br>
+							
+						KRAMER: Look, I'm not judging you. In fact, we here at PBS, we have many programs celebrating your lifestyle. Armistead Maupin's Tales of the City, Gender Bending and Swinging in San Francisco. Before Stonewall about those dark ages when you couldn't come out of the closet, lest you be persecuted because of your, you know.<br>
+							<br>
+							
+						DAN: No, I don't.<br>
+							<br>
+							
+						KRISTIN: (running up) Are you Danny Tartabull?<br>
+							<br>
+							
+						DAN: No, I'm not.<br>
+							<br>
+							<br>
+							<br>
+							
+						[George is parked at a gas station, he steps out of the car and slams the door.]<br>
+							<br>
+							
+						GEORGE: I'll take care of this, Danny.<br>
+							<br>
+							
+						(George approaches the man he's been following, who's now pumping gas.)<br>
+							<br>
+							
+						GEORGE: Excuse me.<br>
+							<br>
+							
+						MAN: What's the problem?<br>
+							<br>
+							
+						GEORGE: I believe you cut me off, and then made an obscene gesture.<br>
+							<br>
+							
+						MAN: I did? Where?<br>
+							<br>
+							
+						GEORGE: Outside of Manhattan, about an hour ago.<br>
+							<br>
+							
+						MAN: Wow! Is that Danny Tartabull?<br>
+							<br>
+							
+						GEORGE: That's right, of the New York Yankees.<br>
+							<br>
+							
+						MAN: I'd like to shake his hand but I can't.<br>
+							<br>
+							
+						(The man holds up his arm, it's in a cast with his middle finger sticking straight up.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Jerry is doing his bit for PBS.]<br>
+							<br>
+							
+						JERRY: I'm Jerry Seinfeld, I tell jokes for a living, but there's no joking about the financial crisis here at PBS. Our lines are open, so please call the number you see on your screen.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Cut to Nana, watching the pledge drive. She picks up the phone and dials.]<br>
+							<br>
+							<br>
+							<br>
+							
+						[Cut back to Jerry,]<br>
+							<br>
+							
+						JERRY: This is the only time this year we'll be asking for donations. You've been enjoying Ken Burns' Baseball-<br>
+							<br>
+							<br>
+							<br>
+							
+						[Cut to Kramer sitting at the phone bank, his phone rings.]<br>
+							<br>
+							
+						KRAMER: (answering) PBS pledge drive.<br>
+							<br>
+							
+						NANA: Hello, I'd like to speak with Jerry.<br>
+							<br>
+							
+						KRAMER: Oh, you again. Buddy, look, forget about Jerry. It's not gonna happen.<br>
+							<br>
+							
+						NANA: This is his grandmother.<br>
+							<br>
+							
+						KRAMER: Oh, uh, Nana. Hello.<br>
+							<br>
+							
+						NANA: Tell Jerry I'm sorry, I'm going to have to write him some new checks.<br>
+							<br>
+							
+						KRAMER: As long as you've got your checkbook out, how about forking a little over to PBS? You watch the station, don't you? You don't want to be a freeloader.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Cut back to Jerry.]<br>
+							<br>
+							
+						JERRY: -programs like Ken Burns' Baseball. And if Danny Tartabull were here, I'm sure he'd say, 'That's correct, Jerry.'<br>
+							<br>
+							
+						(Kramer rises in the background.)<br>
+							<br>
+							
+						KRAMER: Jerry? I have an announcement. Your grandmother is on the line.<br>
+							<br>
+							
+						JERRY: My Nana?<br>
+							<br>
+							
+						KRAMER: And as we speak, she's generously writing PBS a check for fifteen hundred dollars!<br>
+							<br>
+							
+						(Everybody applauds as Uncle Leo comes out from sidestage.)<br>
+							<br>
+							
+						UNCLE LEO: She can't do that, she's on a very fixed income! Stop the show!!<br>
+							<br>
+							<br>
+							<br>
+							
+						[Jerry and Elaine are at the coffee shop.]<br>
+							<br>
+							
+						JERRY: I got another card from Kristin. Not quite as chipper as the first one.<br>
+							<br>
+							
+						ELAINE: Wow. Isn't this little bunny giving you the-<br>
+							<br>
+							
+						JERRY: Yes, he is.<br>
+							<br>
+							
+						ELAINE: You should show this to Georgie.<br>
+							<br>
+							
+						JERRY: Yeah.<br>
+							<br>
+							
+						WAITRESS: (at the next table) Here's your knife and fork.<br>
+							<br>
+							
+						JERRY: Look, she's cutting up an Almond Joy.<br>
+							<br>
+							
+						ELAINE: I just don't get it.<br>
+							<br>
+							
+						JERRY: You know, I saw someone on the street eating M&amp;Ms with a spoon.<br>
+							<br>
+							
+						ELAINE: What is wrong with everybody?<br>
+							<br>
+							
+						JERRY: (surveying the restaurant) Look, they're doing it. They're all doing it!<br>
+							<br>
+							
+						ELAINE: (standing up) What is wrong with all you people?! Have you all gone mad?!!<br>
+							<br>
+							<br>
+							
+						The End</td>
+						</tr>
+						<tr height="6">
+							<td class="bottom2" width="645" height="6"></td>
+						</tr>
+						<tr>
+							<td width="645">
+								<div align="center">
+									<font size="-1">Copyright 2006 seinology.com | All Rights Reserved | Designed by 13erla</font></div>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+		<p></p>
+	</body>
+
+</html>

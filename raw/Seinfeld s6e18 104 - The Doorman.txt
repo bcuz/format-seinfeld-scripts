@@ -1,0 +1,1693 @@
+<tdOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+<html>
+
+	<head>
+		<meta http-equiv="content-type" content="text/html;charset=ISO-8859-1">
+		<meta name="description" content="Top Source for Seinfeld">
+		<meta name="keywords" content="seinfeld, sienfeld, Jerry Seinfeld, Julia Louis Dreyfus, Jason Alexander, Michael Richards, Kramer, George, Costanza, Elaine Benes, morty, Larry David">
+		<title>Seinology.com :: Scripts :: 104-The Doorman</title>
+	<link rel='stylesheet' href='/stylesheet.css' type='text/css'>
+	</head>
+
+	<body>
+			<table align="center" width="787" border="0" cellspacing="0" cellpadding="0">
+				<tr>
+					<td><font size="-2" color="red">Seinology.com - </font><font size="-3" color="black">Where Seinfeld Content and Accuracy Matter Most. Seinfeld scripts in pdf form, Seinfeld episode video clips, Seinfeld episode audio clips, Jerry Seinfeld appearances, Julia Louis-Dreyfus appearances, Michael Richards appearances, Jason Alexander appearances, Seinfeld discussion Forum, Seinfeld Where are they Now? Seinlanguage Newsletter, Popular Seinfeld Lists, Seinfeld episode standup, Seinfeld episode guide, Seinfeld fan fiction. Seinfeld content all on one domain. Seinology.com enjoy your stay.</font></td>
+				</tr>
+			</table>
+		
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr height="100">
+				<td class="logo"></td>
+			</tr>
+			<tr><td class="ads" align="center" background=#8694fa>
+				<script type="text/javascript"><!--
+google_ad_client = "pub-1924026976931416";
+google_ad_width = 728;
+google_ad_height = 90;
+google_ad_format = "728x90_as";
+google_ad_type = "text";
+google_ad_channel = "";
+google_color_border = "FFFFFF";
+google_color_bg = "8694fa";
+google_color_link = "0000FF";
+google_color_text = "000000";
+google_color_url = "002E3F";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></td></tr>
+		</table>
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr>
+				<td valign="top" width="136">
+					<table width="136" border="0" cellspacing="0" cellpadding="0">
+						<tr height="24">
+							<td class="navigation">
+								<div align="center">
+									
+									<b>Navigation</b></div>
+							</td>
+						</tr>
+						<tr height="199">
+							<td class="spacer1" valign="top" width="136" height="199">
+								<div align="center">
+									<font size="-1"><a href="http://www.seinology.com">Home</a><br>
+										<a href="http://board.seinology.com">Forum</a><br>
+										<a href="http://www.seinology.com/av.shtml">Audio/Video</a><br>
+										<a href="http://www.seinology.com/scripts.shtml">Scripts</a><br>
+										<a href="http://www.seinology.com/survivor.shtml">Survivor</a><br>
+										<a href="http://www.seinology.com/fanfics.shtml">Fan Fiction</a><br>
+										<a href="http://www.seinology.com/gallery/">Gallery</a><br>
+										<a href="http://www.seinology.com/newsletter.shtml">Newsletter</a><br>
+										<a href="http://www.seinology.com/lists.shtml">Lists</a><br>
+										<a href="http://www.seinology.com/epguide.shtml">Episode Guide</a><br>
+										<a href="http://www.seinology.com/links.shtml">Links</a><br>
+										<a href="http://www.seinology.com/faqother.shtml">Faq + others</a><br>
+										<a href="http://www.seinology.com/legal.shtml">Legal</a></font></div>
+							</td>
+						</tr>
+						
+						<tr>
+							<td class="nav2" width="136">
+							<div align="center"><b>Search</b></div></td>
+						</tr>
+						<tr>
+							<td class="spacer1" width="136" valign="top"><div align="center"><form method="get" action="http://www.seinology.com/search/search.cgi">
+<p><label for="fdse_Match">Match</label><br>
+<select name="Match" id="fdse_Match" size="1">
+<option value="1">All</option>
+<option value="0">Any</option>
+<option value="2">Phrase</option>
+</select></p>
+<p><label for="fdse_Realm">Where?</label><br>
+<select name="Realm" id="fdse_Realm" size="1">
+<option selected="selected" value="All">EntireSite</option>
+<option value="Ep Guide">Ep Guide</option>
+<option value="Images">Images</option>
+<option value="Lists">Lists</option>
+<option value="Newsletters">Newsletters</option>
+<option value="Scripts">Scripts</option>
+<option value="Notes..Nothing">Notes..Nothing</option>
+</select></p>
+<p><input type="text" name="Terms" size="14" id="fdse_Terms"><br>
+<input type="submit" class="submit" name="submitButtonName" value="Search"></p>
+</div></form></td>
+						</tr>
+						<tr><td class="bottom" width="136" height="10" valign="top">
+						</td>
+						</tr>
+					</table>
+				</td>
+				<td width="4"></td>
+				<td valign="top" width="645">
+					<table width="645" border="0" cellspacing="0" cellpadding="0">
+						<tr height="18">
+							<td width="645" height="35" class="bar">
+								<div align="center">
+									<b><font size="+2" color="black">Script</font></b></div>
+							</td>
+						</tr>
+						<tr height="362">
+							<td class="spacer2" valign="top" width="645" height="362">
+
+						<p><font size="-2">Episode 104 - The Doorman<br>
+							
+						pc: 616, season 6, episode 18<br>
+							
+						Broadcast date: February 23, 1995<br>
+							<br>
+							
+						Written by Tom Gammill &amp; Max Pross<br>
+							
+						Directed by Andy Ackerman<br>
+							<br>
+							
+						-------------------------------------------------------------------------------<br>
+							<br>
+							
+						The Cast<br>
+							
+						Regulars:<br>
+							
+						Jerry Seinfeld ....................... Jerry Seinfeld<br>
+							
+						Jason Alexander .................. George Costanza<br>
+							
+						Julia Louis-Dreyfus ............. Elaine Benes<br>
+							
+						Michael Richards ................. Cosmo Kramer<br>
+							<br>
+							
+						Guest Stars:<br>
+							<br>
+							
+						Larry Miller .......................... Doorman<br>
+							
+						Patrick Cronin ...................... Farkus<br>
+							
+						Reni Santoni ......................... Poppie<br>
+							
+						Edith Fields .......................... Mrs. Payton<br>
+							
+						Nick Jameson ....................... Horst<br>
+							
+						Jack Betts ............................. Mr. Green<br>
+							
+						Barbara Pilavin ..................... German Woman<br>
+							
+						Toni Sawyer ......................... Tenant #1<br>
+							
+						Nigel Gibbs ........................... Tenant #2<br>
+							
+						Deck McKenzie ..................... Delivery Man<br>
+							
+						Trudi Forristal ...................... Buxom Woman<br>
+							
+						rc: Jerry Stiller ...................... Frank Costanza<br>
+							
+						rc: Estelle Harris .................. Estelle Costanza<br>
+							
+						rc:&nbsp; Ian Abercrombie ............ Mr. Pitt<br>
+							<br>
+							
+						==================================================================<br>
+							<br>
+							
+						[Opening Monologue]<br>
+							<br>
+							
+						You remember a few years ago in New York, we had the doorman strike? They have a union, in the fancy buildings, and they went out on strike. Now you would think, if any group of people would not wanna demonstrate what life would be like without them, it would be doormen. (as belligerent doorman) &quot;Let's see how they do without us!&quot; There's no doorman, people open the door, they walk in, it's... you know. Who's gonna walk out next? The guys who clean your windshield at the traffic light, with the dirty rag? (as window washer) &quot;We demand shorter yellows, and longer reds!&quot;<br>
+							<br>
+							<br>
+							<br>
+							
+						[Lobby, Mr. Pitt's Building]<br>
+							<br>
+							
+						(Jerry comes in from the street and walks toward the elevators. A doorman, stood reading a newspaper on a counter, objects. There's an undertone to the doorman's voice - unfriendly, contemptuous, even an edge of menace.)<br>
+							<br>
+							
+						DOORMAN: Whoah, whoah, whoah. (rises and turns to Jerry) May I help you?<br>
+							<br>
+							
+						JERRY: (indicates with his thumb) Yeah, I'm just going up to see Elaine Benes.<br>
+							<br>
+							
+						DOORMAN: (unfriendly smile) Benes? (moves toward Jerry) No-one here by that name.<br>
+							<br>
+							
+						JERRY: Oh, she's uh, she's house-sitting for Mr. Pitt.<br>
+							<br>
+							
+						DOORMAN: Oh. House-sitting, mmm.<br>
+							<br>
+							
+						JERRY: Yeah.<br>
+							<br>
+							
+						DOORMAN: What're you, the boyfriend? Here for a... quickie?<br>
+							<br>
+							
+						JERRY: Can I just go up?<br>
+							<br>
+							
+						DOORMAN: Oh, I get it. Why waste time making small talk with the doorman? I should just shut up and do my job, opening the door for you.<br>
+							<br>
+							
+						(The doorman wanders back to his newspaper. Jerry shrugs and pushes the button for one of the elevators. There's a pause as he waits for it to arrive. The doorman stands holding his paper, staring at Jerry, with the unfriendly smile on his face. Jerry throws a smile of his own back. The elevator is still not moving. Jerry tries to break the uncomfortable silence.)<br>
+							<br>
+							
+						JERRY: How 'bout those Knicks?<br>
+							<br>
+							
+						DOORMAN: Oh, I see. On the sports page...<br>
+							<br>
+							
+						JERRY: Yeah.<br>
+							<br>
+							
+						DOORMAN: ...What makes you think I wasn't reading the Wall Street page? Oh, I know, because I'm the uneducated doorman.<br>
+							<br>
+							
+						(Jerry turns away and looks at the indicator, hoping that the elevator will come and rescue him.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Street]<br>
+							<br>
+							
+						(George and Kramer walk along together.)<br>
+							<br>
+							
+						KRAMER: So, you think your parents'll get back together?<br>
+							<br>
+							
+						GEORGE: I hope so. I can't take him living with me much longer. He makes this kasha, it stinks up the whole house.<br>
+							<br>
+							
+						(Kramer has noticed a 'Sightseeing Tour' bus on the street, with a German flag painted on the door. It gives him an idea. Kramer steps in front of George and brings them to a halt.)<br>
+							<br>
+							
+						KRAMER: Hey, George, stick 'em up.<br>
+							<br>
+							
+						GEORGE: What?<br>
+							<br>
+							
+						KRAMER: For these German tourists. Pretend that I'm robbing you.<br>
+							<br>
+							
+						GEORGE: Why?<br>
+							<br>
+							
+						KRAMER: So these people can go back home and tell their friends they saw a real New York mugging. It'll give them a thrill.<br>
+							<br>
+							
+						(Kramer pushes his hand deep into a pocket and raises his arm, giving the impression that he has a gun concealed beneath his coat.)<br>
+							<br>
+							
+						KRAMER: Awright, hands up, porky!<br>
+							<br>
+							
+						(On the tourist bus, the occupants attention is attracted. They look out the window at the 'mugging'. George has his hands up, and Kramer is feeling through George's pockets with his free hand.)<br>
+							<br>
+							
+						KRAMER: That's it. Now, gimme your wallet. Got it in here, huh, fat boy!<br>
+							<br>
+							
+						(The tourist are looking out of the bus. Shocked, they knock on the glass. Kramer grabs George by the collar of his jacket and is shaking him violently.)<br>
+							<br>
+							
+						KRAMER: (aggressive) Is that all you got?! Hah? Is that all you got?!<br>
+							<br>
+							
+						GEORGE: Alright, that's enough.<br>
+							<br>
+							
+						KRAMER: I'll tell you when it's enough! (he releases George) Alright, now you better not say anything, or I'll stalk you!<br>
+							<br>
+							
+						Kramer walks away. The tourists stare, horrified at what they've witnessed.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Mr. Pitt's Apartment]<br>
+							<br>
+							
+						(Elaine admits Jerry to the apartment.)<br>
+							<br>
+							
+						ELAINE: Where've you been? We're gonna miss the movie, let's go.<br>
+							<br>
+							
+						(Elaine collects her bag, in readiness to leave.)<br>
+							<br>
+							
+						JERRY: I am not going back down there. I can't face that guy again.<br>
+							<br>
+							
+						ELAINE: What guy?<br>
+							<br>
+							
+						JERRY: The doorman. I don't wanna play anymore of his mindgames. What time does he get off?<br>
+							<br>
+							
+						ELAINE: Six. But then the night doorman comes on. He's much scarier. (scary noise) Whugh! (laughs) Ha-ha.<br>
+							<br>
+							
+						JERRY: Well, it's almost six now. Can't we just wait til he goes home?<br>
+							<br>
+							
+						ELAINE: (unhappy) I...<br>
+							<br>
+							
+						JERRY: We'll still make the movie.<br>
+							<br>
+							
+						ELAINE: (accepting) Okay, okay.<br>
+							<br>
+							
+						(Jerry and Elaine sit on the couch to wait. They simultaneously look at their watches.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[George's Apartment]<br>
+							<br>
+							
+						(George and Kramer wear their jackets, ready to leave. Frank is in a shirt, mixing a bowl (of kasha?) as they talk.)<br>
+							<br>
+							
+						GEORGE: What'd you do today, dad?<br>
+							<br>
+							
+						FRANK: Today, I went record shopping in Greenwich Village. I bought this record, but I can't seem to find the hi-fi.<br>
+							<br>
+							
+						GEORGE: I don't have a hi-fi.<br>
+							<br>
+							
+						FRANK: Didn't I give you my old record player?<br>
+							<br>
+							
+						GEORGE: (leaving to the bedroom) I gave it to Cosmo.<br>
+							<br>
+							
+						FRANK: Cosmo? Who's Cosmo?<br>
+							<br>
+							
+						KRAMER: I'm Cosmo.<br>
+							<br>
+							
+						FRANK: Well, I want it back. I wanna listen to that cha-cha record.<br>
+							<br>
+							
+						KRAMER: (little dance) One-two, cha-cha-cha.<br>
+							<br>
+							
+						GEORGE: (coming back in) Alright, alright. Can we go out and eat?<br>
+							<br>
+							
+						FRANK: (putting down the bowl) Lemme change my shirt.<br>
+							<br>
+							
+						(George and Kramer stand together, by George's computer. Frank unfastens his shirt and opens it. Kramer and George turn and see Frank's torso exposed as the shirt comes off. Kramer's eyebrows go up in surprise. George looks horrified, and puts his hand to his mouth like he's going to vomit.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Mr. Pitt's Apartment]<br>
+							<br>
+							
+						(Elaine still sits on the couch. Jerry is standing at the window, holding the curtain open and looking down at the street.)<br>
+							<br>
+							
+						ELAINE: Jerry, it's six. (claps her hands) Let's go.<br>
+							<br>
+							
+						JERRY: Uh, that doorman's still milling around outside. He's very peculiar.<br>
+							<br>
+							
+						(The phone on Mr. Pitt's desk rings. Jerry is nearer, so he moves to answer it.)<br>
+							<br>
+							
+						ELAINE: No, don't...<br>
+							<br>
+							
+						JERRY: (picks up phone) Hello? (listens) Oh, hi Mr. Pitt.<br>
+							<br>
+							
+						(Elaine looks exasperated.)<br>
+							<br>
+							
+						ELAINE: (quietly) Give that to me.<br>
+							<br>
+							
+						ELAINE: (taking the phone) Hello Mr. Pitt. How's Scotland?<br>
+							<br>
+							
+						(Mr. Pitt sits in a comfortable chair in Scotland.)<br>
+							<br>
+							
+						MR. PITT: (concerned) Elaine, are you having a party?<br>
+							<br>
+							
+						ELAINE: A party. Oh no, that was just my stupid friend Jerry.<br>
+							<br>
+							
+						(Jerry is peering out of the window again.)<br>
+							<br>
+							
+						JERRY: Alright, he just left. We can go.<br>
+							<br>
+							
+						MR. PITT: (stern) Because there's to be no entertaining while I'm gone.<br>
+							<br>
+							
+						ELAINE: Believe me, we're not entertained. We were just leaving. (to Jerry) Oh, can you grab those empty bottles for me.<br>
+							<br>
+							
+						(Jerry picks up a paper sack of empty bottles from the floor by the desk.)<br>
+							<br>
+							
+						MR. PITT: I need to know what's in the mail.<br>
+							<br>
+							
+						ELAINE: Oh, well, Mr. Pitt, there's really nothing that can't wait. We're trying to catch a movie.<br>
+							<br>
+							
+						MR. PITT: (resolute) Well, you better catch the later show, because I need to know what's in the mail.<br>
+							<br>
+							
+						ELAINE: Alright. (to Jerry, upset) I can't go.<br>
+							<br>
+							
+						(Jerry gives an irritated glance upwards and goes to leave.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Lobby, Mr. Pitt's Building]<br>
+							<br>
+							
+						(Jerry emerges from the elevator (without the bottles). There is a new doorman on duty, who gives Jerry a friendly nod and smile and holds the door open for him. Jerry nods and smiles back, and leaves.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Mr. Pitt's Apartment]<br>
+							<br>
+							
+						(Elaine is kneeling with the phone. She has Mr. Pitt's mail spread out on the floor in front of her and is going through it for Mr. Pitt's benefit.)<br>
+							<br>
+							
+						ELAINE: ...Uhm, the new Time magazine. The new People...<br>
+							<br>
+							
+						MR. PITT (O.C.): (piqued interest) Oh, who's on the cover?<br>
+							<br>
+							<br>
+							<br>
+							
+						[Street]<br>
+							<br>
+							
+						(Jerry walks down the street. He passes a doorway, where stands a familiar figure. The doorman still has the attitude problem.)<br>
+							<br>
+							
+						DOORMAN: Hey, buddy.<br>
+							<br>
+							
+						JERRY: (surprise) You? Wh...what're you doing here? You work at this building too?<br>
+							<br>
+							
+						DOORMAN: Ah, sure. Poor doorman has to work two jobs to put food on the table for mother and baby. (supercilious) No, I live here. That's okay, isn't it?<br>
+							<br>
+							
+						JERRY: So you work all day as a doorman at one building. Then you come home and stand outside your own building?<br>
+							<br>
+							
+						DOORMAN: You got a problem with that?<br>
+							<br>
+							
+						JERRY: Look, I'm not going in your building. I really don't have to talk to you. Goodbye.<br>
+							<br>
+							
+						(Jerry walks away.)<br>
+							<br>
+							
+						DOORMAN: (calling after Jerry) You really think you're better than me, don't you?!<br>
+							<br>
+							<br>
+							<br>
+							
+						[Monk's]<br>
+							<br>
+							
+						(George and Kramer sit one side of a booth, facing Jerry. George is wearing a purple shirt. Kramer's eating a sandwich heartily. George looks as if he might never want to eat again.)<br>
+							<br>
+							
+						GEORGE: My father opened his shirt...<br>
+							<br>
+							
+						JERRY: Yeah, and?<br>
+							<br>
+							
+						GEORGE: (nods to Kramer) Tell him, Kramer.<br>
+							<br>
+							
+						KRAMER: (matter of fact) He had breasts.<br>
+							<br>
+							
+						(George nods, Jerry has a confused expression. Kramer keeps on eating. Jerry thinks for a moment, George can't even look anyone in the eye.)<br>
+							<br>
+							
+						JERRY: What d'you mean, breasts?<br>
+							<br>
+							
+						GEORGE: (waves his hands) Big breasts!<br>
+							<br>
+							
+						JERRY: So what? A lot of older men have that.<br>
+							<br>
+							
+						KRAMER: No, not these. These were real hooters.<br>
+							<br>
+							
+						(Jerry pulls a face at the thought.)<br>
+							<br>
+							
+						GEORGE: I was throwing up all night. It was like my own personal Crying Game.<br>
+							<br>
+							
+						KRAMER: Well, maybe you're gonna get 'em too, George.<br>
+							<br>
+							
+						GEORGE: (worried) Yeah, that's right. What if it's a genetic thing, like father like son?<br>
+							<br>
+							
+						JERRY: But, your father's not bald.<br>
+							<br>
+							
+						GEORGE: No, no no. That skips a generation. The baldness gene comes from your grandfather.<br>
+							<br>
+							
+						JERRY: Then I suppose the bosom gene comes from your grandmother.<br>
+							<br>
+							
+						(George snaps his finger and points, in agreement with Jerry. He continues to look deeply worried.)<br>
+							<br>
+							
+						KRAMER: You know, Frank can't be too comfortable with those things clanging around. He should wear something for support.<br>
+							<br>
+							
+						GEORGE: You mean like a bra?<br>
+							<br>
+							
+						KRAMER: A bra is for ladies. I'm talking about a support undergarment specifically designed for men.<br>
+							<br>
+							
+						JERRY: Boy, that brain never stops working, does it?<br>
+							<br>
+							
+						KRAMER: I tell you, I'm gonna go noodle with this.<br>
+							<br>
+							
+						(Kramer leaves. A buxom blonde woman in a purple shirt is making her way to the door, as she passes the booth she notices George.)<br>
+							<br>
+							
+						BUXOM WOMAN: (indicating her shirt with her finger) Hey, we're twins.<br>
+							<br>
+							
+						GEORGE: (thinking she means the breasts) What!!<br>
+							<br>
+							
+						BUXOM WOMAN: Our shirts. They're the same.<br>
+							<br>
+							
+						GEORGE: Oh, Huh, imagine that.<br>
+							<br>
+							
+						(The woman smiles and leaves. Elaine enters Monk's and comes over to Jerry. She's not happy about something.)<br>
+							<br>
+							
+						ELAINE: (to Jerry) What? What'd you say to the doorman?<br>
+							<br>
+							
+						JERRY: What? Nothing.<br>
+							<br>
+							
+						ELAINE: (sitting beside Jerry) He claims that you followed him home, and started harassing him.<br>
+							<br>
+							
+						JERRY: What has this guy got a personal vendetta with me?! What'd I do to him? 'Cos I asked him about the Knicks?<br>
+							<br>
+							
+						ELAINE: Hey, did you make the movie?<br>
+							<br>
+							
+						JERRY: No.<br>
+							<br>
+							
+						ELAINE: You wanna go tonight? You can pick me up.<br>
+							<br>
+							
+						JERRY: Alright. Can we go to a later show, so he's off his shift when I come by?<br>
+							<br>
+							
+						ELAINE: Ugh. So now we have to rearrange our lives to avoid the doorman?<br>
+							<br>
+							
+						JERRY: Yes, we do.<br>
+							<br>
+							
+						(Elaine looks over at George, wondering what he's doing. George is holding the neck of his shirt open, and is peering down the inside of the garment at his chest. As Elaine and Jerry watch, George jiggles his upper body, to see if there's any movement.)<br>
+							<br>
+							
+						ELAINE: What is wrong with George?<br>
+							<br>
+							
+						JERRY: He's... trying to get something off his chest.<br>
+							<br>
+							
+						(George ends his experiment, and rises to leave. He digs in his wallet to pay the cheque.)<br>
+							<br>
+							
+						GEORGE: (agitated) Alright, I gotta try and talk my mother into taking him off my hands.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Lobby, Mr. Pitt's Building]<br>
+							<br>
+							
+						(Jerry enters from the street, only to find the unpleasant doorman standing inside the lobby. The doorman's demeanour hasn't improved.)<br>
+							<br>
+							
+						DOORMAN: Help you?<br>
+							<br>
+							
+						JERRY: (jumps in surprise) Hoh! What're you doing here? You're supposed to be gone.<br>
+							<br>
+							
+						DOORMAN: I traded shifts with the night doorman. He had some personal affairs to attend to. You see, my fellow doorman and I watch out for each other. We don't stab each other in the back, like people in your world.<br>
+							<br>
+							
+						JERRY: (trying to ease the tension) Look, I don't want any trouble. I don't have a doorman in my building. I guess I'm just not used to talking to them. I'd really just like to be friends.<br>
+							<br>
+							
+						DOORMAN: You wanna be friends?<br>
+							<br>
+							
+						JERRY: I'd like to be.<br>
+							<br>
+							
+						DOORMAN: Then watch the door for a minute, would you?<br>
+							<br>
+							
+						(The doorman swaps places with Jerry, putting Jerry beside the counter.)<br>
+							<br>
+							
+						JERRY: What?<br>
+							<br>
+							
+						DOORMAN: Yeah, I just wanna run and get a beer. I'll be back in a minute.<br>
+							<br>
+							
+						JERRY: Wha...? Wai... wait a second. What do I do?<br>
+							<br>
+							
+						DOORMAN: It's not brain surgery. You open the door for people who live here. And, if they don't live here, don't let them in. (takes off his hat) Here. (putting it on Jerry's head) Wear that.<br>
+							<br>
+							
+						JERRY: Oh.<br>
+							<br>
+							
+						(The doorman goes out the door. Jerry takes off the hat, which he's not thrilled about wearing, and leans on the counter. The doors of an elevator open, and a young woman pushing a baby buggy emerges and heads for the exit. After a second, Jerry realises his job. He puts on the hat and opens the door to allow the woman to leave. AS he opens the door, a man enters and strolls past Jerry into the elevator vacated by the woman.)<br>
+							<br>
+							
+						JERRY: (to the man in the elevator) Hey, hey. Wait a second. Hey! Hello!<br>
+							<br>
+							
+						(The man takes no notice of Jerry, the doors close. The street door opens and another, older guy, enters. Jerry moves and challenges him.)<br>
+							<br>
+							
+						JERRY: Hey, hey, wait a second. You live here?<br>
+							<br>
+							
+						MR. GREEN: (indignant) Of course I live here. I've lived here for twenty years. Now, if you don't let me in, I'm going to call the police and have you arrested.<br>
+							<br>
+							
+						(Jerry steps aside and motions for the guy to carry on into the building, but he looks resentful about it.)<br>
+							<br>
+							
+						JERRY: (after the guy) You think you're better than me?<br>
+							<br>
+							<br>
+							<br>
+							
+						[Bus]<br>
+							<br>
+							
+						(George is riding the bus. As the vehicle travels along the street, it rattles, shakes and shudders like all poorly maintained public transport. George is strap-hanging, and he gets a worried look as he feels there might be some movement on his chest. He puts his hands on his chest, then notices another guy on the buss looking at him. Self-consciously, George pulls his coat tight shut, and crosses his arms firmly.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Lobby, Mr. Pitt's Building]<br>
+							<br>
+							
+						(Jerry is standing behind the counter, reading the doorman's newspaper. A FedEx delivery guy enters with a package, lays it on the counter and scans a barcode on it with a little device he takes from his pocket. Jerry watches, disinterested. There is a brief pause, as the FedEx guy waits for something.)<br>
+							<br>
+							
+						DELIVERY GUY: (indicating) You have to sign for it.<br>
+							<br>
+							
+						JERRY: Oh, right.<br>
+							<br>
+							
+						(Jerry takes the FedEx guy's pen and signs for the package, then goes back to the newspaper.)<br>
+							<br>
+							
+						DELIVERY GUY: (with a smile) Hey, how 'bout those Knicks, huh?<br>
+							<br>
+							
+						(Jerry gives the guy a hostile look, much as the doorman might.)<br>
+							<br>
+							
+						JERRY: (dismissive) Yeah, yeah, yeah.<br>
+							<br>
+							
+						(The FedEx guy leaves, looking a touch unhappy at Jerry's attitude. Jerry puts the paper down, and goes to have a look through the door. There's no sign of the doorman, so Jerry tosses the hat onto the counter, dismissing it with a wave of the hand as he moves to the elevator.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[George's Apartment]<br>
+							<br>
+							
+						(Frank opens the door, to reveal Kramer, carrying a large portable record player.)<br>
+							<br>
+							
+						KRAMER: Hey. I uh, brought back your record player, huh.<br>
+							<br>
+							
+						FRANK: Thank you, Kramer.<br>
+							<br>
+							
+						KRAMER: Yeah.<br>
+							<br>
+							
+						FRANK: (indicating a chair) Put it over there.<br>
+							<br>
+							
+						(Kramer dumps the record player on the chair. Frank goes to the couch, not moving very easily.)<br>
+							<br>
+							
+						KRAMER: So, how you feeling?<br>
+							<br>
+							
+						FRANK: Tired.<br>
+							<br>
+							
+						KRAMER: Uh huh. Your back hurt?<br>
+							<br>
+							
+						FRANK: How did you know?<br>
+							<br>
+							
+						KRAMER: Well, it's obvious, you know. You're carrying a lot of extra baggage up there.<br>
+							<br>
+							
+						FRANK: (looks down, and indicates his chest) Up here?<br>
+							<br>
+							
+						KRAMER: Oh, yeah. Top floor. (sits beside Frank) Listen, Frank, have you ever considered wearing something for support? Now, look at this. (reaches into his pocket) Mind you, this is just a prototype.<br>
+							<br>
+							
+						(Kramer brings out a garment constructed of canvas and elasticated fabric.)<br>
+							<br>
+							
+						FRANK: You want me to wear a bra?!<br>
+							<br>
+							
+						KRAMER: No, no. A bra is for ladies.<br>
+							<br>
+							
+						(Kramer holds the garment up to his own chest.)<br>
+							<br>
+							
+						KRAMER: Meet, the bro.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Estelle's Car]<br>
+							<br>
+							
+						(Estelle is driving a preoccupied-looking George.)<br>
+							<br>
+							
+						ESTELLE: So, is your father excited about coming home?<br>
+							<br>
+							
+						(George is miles away.)<br>
+							<br>
+							
+						ESTELLE: George?<br>
+							<br>
+							
+						GEORGE: (broaching a subject) Hey mom. What kind of woman was grandma?<br>
+							<br>
+							
+						ESTELLE: All of a sudden you're interested in your grandmother?<br>
+							<br>
+							
+						GEORGE: Well, you know. You get to a certain point, you wanna know about your roots.<br>
+							<br>
+							
+						ESTELLE: She was a lovely woman.<br>
+							<br>
+							
+						GEORGE: Yuh. What about physically?<br>
+							<br>
+							
+						ESTELLE: Physically?<br>
+							<br>
+							
+						GEORGE: Yeah, you know, what'd she uh, look like?<br>
+							<br>
+							
+						ESTELLE: Well, you've seen pictures.<br>
+							<br>
+							
+						GEORGE: (to himself) You can't tell much from those pictures.<br>
+							<br>
+							
+						ESTELLE: So what?<br>
+							<br>
+							
+						GEORGE: Was she uh, was she a big, uh woman?<br>
+							<br>
+							
+						ESTELLE: Big? No, just my height.<br>
+							<br>
+							
+						GEORGE: Bosomy?<br>
+							<br>
+							
+						ESTELLE: Bosomy? You wanna know if your grandmother was bosomy?!<br>
+							<br>
+							
+						GEORGE: (trying to laugh it off) No, I was just wondering. The information could be relevant.<br>
+							<br>
+							
+						ESTELLE: Where do you get your genes from?!<br>
+							<br>
+							
+						GEORGE: (to himself) That's what I'd like to know.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Elevator, Mr. Pitt's Building]<br>
+							<br>
+							
+						(Elaine and Jerry ride down.)<br>
+							<br>
+							
+						ELAINE: I can't believe you left your post.<br>
+							<br>
+							
+						JERRY: He left me there. You see the mind games?<br>
+							<br>
+							
+						(The bell rings as they reach the lobby, and the doors open.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Lobby, Mr. Pitt's Building]<br>
+							<br>
+							
+						(Elaine and Jerry emerge into the lobby to find four or five tenants standing around, and a uniformed cop taking notes.)<br>
+							<br>
+							
+						ELAINE: (to one of the tenants) Hey, what's up? What's going on here?<br>
+							<br>
+							
+						TENANT 1: Somebody stole the couch out of the lobby.<br>
+							<br>
+							
+						(Jerry and Elaine look shocked.)<br>
+							<br>
+							
+						TENANT 2: Where's the doorman? How come someone wasn't watching the door?<br>
+							<br>
+							
+						ELAINE: (quietly to Jerry) Jerry, let's get out of here.<br>
+							<br>
+							
+						JERRY: Yeah.<br>
+							<br>
+							
+						(Elaine and Jerry depart the scene of the crime in some haste.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[George's Apartment]<br>
+							<br>
+							
+						(Frank's cha-cha record is playing loudly on the record player. Frank and Kramer are half-dancing to the music, as Frank tries on the bro. Kramer stands behind Frank, making adjustments to the garment. The door opens and George and Estelle enter. They see the dancing twosome, and the undergarment, and look stunned.)<br>
+							<br>
+							
+						ESTELLE: (shocked) Oh, my god!<br>
+							<br>
+							
+						(George is frozen, staring. Kramer carries on dancing, behind a relatively unfazed Frank.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Jerry's Apartment]<br>
+							<br>
+							
+						(The lighting, with moonlight coming through the blinds, and Elaine's red dress, give a very noirish look to the scene.)<br>
+							<br>
+							
+						ELAINE: What were you doing watching the door anyway?<br>
+							<br>
+							
+						JERRY: He asked me to. We were getting along.<br>
+							<br>
+							
+						ELAINE: (thinking) You know, my fingerprints are all over this. That doorman knows you're a friend of mine. He'll tell that co-op lady, she'll tell Mr. Pitt... Jerry, I'm in this too deep.<br>
+							<br>
+							
+						JERRY: Don't you find it odd that as soon as he leaves, the couch gets stolen? Maybe he's setting me up!<br>
+							<br>
+							
+						ELAINE: (taking command) Alright, shut up. Shut up. Just let me think. I gotta think. We gotta get our story straight.<br>
+							<br>
+							
+						JERRY: Alright, well what if we say...<br>
+							<br>
+							
+						ELAINE: Alright, (claps hands) here it is. This is what we'll tell 'em. You came to pick me up...<br>
+							<br>
+							
+						JERRY: I came to pick you up.<br>
+							<br>
+							
+						ELAINE: Yeah. That's what I just said.<br>
+							<br>
+							
+						JERRY: I know. I was just...<br>
+							<br>
+							
+						ELAINE: Yeah, I know what you were just. It's not helping.<br>
+							<br>
+							
+						JERRY: Alright, well. Just, start again, then.<br>
+							<br>
+							
+						ELAINE: Okay, you came to pick me up at...<br>
+							<br>
+							
+						JERRY: Right.<br>
+							<br>
+							
+						ELAINE: You see? Again.<br>
+							<br>
+							
+						JERRY: What? I said right.<br>
+							<br>
+							
+						(Elaine give Jerry a look like he's an idiot.)<br>
+							<br>
+							
+						ELAINE: Alright, you came right upstairs, without talking to the doorman.<br>
+							<br>
+							
+						JERRY: But the doorman's gonna say that I was there.<br>
+							<br>
+							
+						ELAINE: (intense) So what? No-one's gonna believe a doorman!<br>
+							<br>
+							
+						JERRY: But I don't know if this is gonna work.<br>
+							<br>
+							
+						ELAINE: (aggressive, with finger pointing) Just stick with the story. We'll be fine. Let me do the talking!<br>
+							<br>
+							
+						JERRY: Okay.<br>
+							<br>
+							
+						ELAINE: Good. Now fix me a drink.<br>
+							<br>
+							<br>
+							<br>
+							
+						[George's Apartment]<br>
+							<br>
+							
+						(Frank has his shirt back on, over the bro.)<br>
+							<br>
+							
+						KRAMER: How's that feel?<br>
+							<br>
+							
+						FRANK: This feels very comfortable.<br>
+							<br>
+							
+						KRAMER: You see?<br>
+							<br>
+							
+						FRANK: I feel ten years younger.<br>
+							<br>
+							
+						KRAMER: Yeah, and your posture's a lot better. Look at you.<br>
+							<br>
+							
+						(Frank walks a few paces.)<br>
+							<br>
+							
+						FRANK: And I can breathe easier, too.<br>
+							<br>
+							
+						KRAMER: I told you! Now, Frank, listen. Here's what I'm thinking. Now, you have a friend in the bra business, right?<br>
+							<br>
+							
+						FRANK: Of course. Sid Farkus. He's the best in the business.<br>
+							<br>
+							
+						KRAMER: (claps his hands) Here's our chance. What d'you say? It'll be me, you and the bro, bro.<br>
+							<br>
+							
+						FRANK: Let's do it!<br>
+							<br>
+							
+						(Kramer and Frank share an elaborate and forceful handshake.)<br>
+							<br>
+							
+						FRANK: Except, we gotta do something about the name.<br>
+							<br>
+							
+						KRAMER: Why, what's wrong with bro?<br>
+							<br>
+							
+						FRANK: No, bro's no good. Too ethnic.<br>
+							<br>
+							
+						KRAMER: Alright, you got something better?<br>
+							<br>
+							
+						FRANK: How 'bout uh... the mansiere?<br>
+							<br>
+							
+						KRAMER: Mansiere?<br>
+							<br>
+							
+						FRANK: That's right. A brassiere for a man. The mansiere, get it?<br>
+							<br>
+							
+						(George enters, unhappy. He tosses his keys aside.)<br>
+							<br>
+							
+						GEORGE: (upset) Well, you've scared her off. We may never see mom again.<br>
+							<br>
+							
+						FRANK: Hey George, what d'you like better? The bro, or the mansiere?<br>
+							<br>
+							
+						(George looks down at the floor for a few seconds.)<br>
+							<br>
+							
+						GEORGE: Dad. We need to talk.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Lobby, Mr. Pitt's Building]<br>
+							<br>
+							
+						(The unpleasant doorman is being grilled by a severe looking Mrs. Payton.)<br>
+							<br>
+							
+						DOORMAN: I had to use the bathroom, so I asked this guy to watch the door for a few minutes.<br>
+							<br>
+							
+						(Behind Mrs. Payton, Elaine enters from the street and strolls to the elevator.)<br>
+							<br>
+							
+						MRS. PAYTON: Why should I believe you?<br>
+							<br>
+							
+						DOORMAN: (indicating Elaine) Actually, it was her friend.<br>
+							<br>
+							
+						(Elaine turns as she hears this, and Mrs. Payton goes to talk to her. Elaine looks a tad worried at first but, of course, she has a plan.)<br>
+							<br>
+							
+						MRS. PAYTON: I was just speaking to the doorman here, about the couch robbery.<br>
+							<br>
+							
+						(The doorman peers over at the conversing)<br>
+							<br>
+							
+						ELAINE: Oh really? (skeptical) The doorman. And, pray tell, what did the doorman say?<br>
+							<br>
+							
+						MRS. PAYTON: He said he asked a friend of yours to watch the door.<br>
+							<br>
+							
+						ELAINE: (dismissive) Oh, my. Well, the doorman certainly has a wild imagination, doesn't he?<br>
+							<br>
+							
+						(Meanwhile, the doorman has discovered something behind the counter. He brings out the FedEx package Jerry signed for and carried it toward Mrs. Payton.)<br>
+							<br>
+							
+						DOORMAN: Well... what do we have here? Perhaps Miss Benes could explain why a Jerry Seinfeld signed for this package (handing the package to Mrs. Payton) at the exact same time the couch was stolen.<br>
+							<br>
+							
+						(Mrs. Payton and the doorman both look at Elaine. Elaine looks sick, as she's caught out.)<br>
+							<br>
+							
+						ELAINE: (in a rush) He never watched a door before, Mrs Payton, he didn't know how to do it. (pleading) You know, he's a comedian, Mrs Payton, they don't know how to do anything.<br>
+							<br>
+							
+						(The doorman walks silently away with the package and a quiet smile of triumph.)<br>
+							<br>
+							
+						ELAINE: (desperate) Don't you see what's going on here? He set us up. He's playing all these mindgames.<br>
+							<br>
+							
+						(The doorman stands behind his counter, smiling at Elaine's discomfiture.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Monk's]<br>
+							<br>
+							
+						(Jerry and a downcast George sit one side of a booth, with an animated Elaine facing them.)<br>
+							<br>
+							
+						JERRY: You're saying I'm responsible for the couch?<br>
+							<br>
+							
+						ELAINE: (worked up) There was nothing I could do. He said he had a Federal Express slip with your signature on it.<br>
+							<br>
+							
+						JERRY: (livid) Diabolical. He thought of everything. He was setting me up from day one!<br>
+							<br>
+							
+						ELAINE: Is it possible we were victims of a sting?<br>
+							<br>
+							
+						JERRY: I'm sure he's having a good laugh over this with his doorman buddies.<br>
+							<br>
+							
+						(Jerry stares off, as he imagines...)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Jerry's Imagination]<br>
+							<br>
+							
+						(In the lobby of Mr. Pitt's building, a bunch of doormen stand around the unpleasant doorman, laughing at his tale.)<br>
+							<br>
+							
+						DOORMAN 2: So, you didn't even (indistinct) watch the couch?<br>
+							<br>
+							
+						DOORMAN: No. I was just messing with his head.<br>
+							<br>
+							
+						DOORMAN 2: And they think they're better than us?<br>
+							<br>
+							
+						(The doormen whoop it up again)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Monk's]<br>
+							<br>
+							
+						(Jerry has an expression of pure hatred for all doormen.)<br>
+							<br>
+							
+						ELAINE: Anyway, Jerry... Jerry?<br>
+							<br>
+							
+						(Jerry snaps back to the here and now.)<br>
+							<br>
+							
+						ELAINE: We have to replace the couch.<br>
+							<br>
+							
+						JERRY: Now we have to buy a new couch?!<br>
+							<br>
+							
+						(A thought occurs to George.)<br>
+							<br>
+							
+						GEORGE: (crafty) Not necessarily. Why don't you take back the couch you gave me?<br>
+							<br>
+							
+						JERRY: The one with the Poppie stain?!<br>
+							<br>
+							
+						GEORGE: Yeah, sure. (big smile) Then my father will have no place to sleep. (snaps fingers) He's gotta move out.<br>
+							<br>
+							
+						ELAINE: But it's got a pee-stain on it.<br>
+							<br>
+							
+						GEORGE: No, the cushion's turned over.<br>
+							<br>
+							
+						ELAINE: (not sure) I guess.<br>
+							<br>
+							
+						GEORGE: (enthusiastic) Yeah. You get a couch. I get rid of my father. It couldn't be more perfect!<br>
+							<br>
+							<br>
+							<br>
+							
+						[Sid Farkus' Office]<br>
+							<br>
+							
+						(Sid Farkus sits behind his desk, in front of which sit Kramer and Frank. Kramer is holding his invention as they pitch it to Farkus.)<br>
+							<br>
+							
+						KRAMER: Now, it's called the bro.<br>
+							<br>
+							
+						FRANK: Or, the mansiere.<br>
+							<br>
+							
+						KRAMER: Yeah, but I prefer the bro.<br>
+							<br>
+							
+						FRANK: I like mansiere.<br>
+							<br>
+							
+						(Kramer puts the bro on the desk.)<br>
+							<br>
+							
+						FARKUS: Well, I have to tell you, it's a very interesting idea.<br>
+							<br>
+							
+						KRAMER: Yeah.<br>
+							<br>
+							
+						FARKUS: You know, selling bras exclusively to women, we're really only utilising fifty percent of the market.<br>
+							<br>
+							
+						FRANK: (to Kramer) That's what we figured, huh?<br>
+							<br>
+							
+						KRAMER: (to Frank) I told you.<br>
+							<br>
+							
+						FARKUS: And, to be perfectly frank, I've always felt I could use some support. I know, when I'm wearing Banlon, there appears to be some jiggling.<br>
+							<br>
+							
+						FRANK: (vehement) I wouldn't be caught dead in Banlon.<br>
+							<br>
+							
+						(Kramer shakes his head at the very thought of Banlon.)<br>
+							<br>
+							
+						FARKUS: (indicating the bro) So uh, what d'you see in the back? Hooks? Velcro? What?<br>
+							<br>
+							
+						KRAMER: Uh.<br>
+							<br>
+							
+						FRANK: Definitely velcro.<br>
+							<br>
+							
+						(Farkus gives a questioning look to Kramer.)<br>
+							<br>
+							
+						KRAMER: Say you're getting intimate with a woman uh, you don't want her fumbling and struggling back there.<br>
+							<br>
+							
+						(The three of them chuckle at the thought.)<br>
+							<br>
+							
+						KRAMER: I think we've all experienced that.<br>
+							<br>
+							
+						(They share a manly laugh.)<br>
+							<br>
+							
+						FARKUS: Summer nights.<br>
+							<br>
+							
+						(The laughter continues for a moment.)<br>
+							<br>
+							
+						KRAMER: (pointing at Farkus) Very funny.<br>
+							<br>
+							
+						FARKUS: Well, I still have to talk about this to Mr. Degrunmont...<br>
+							<br>
+							
+						KRAMER: Of course, yes.<br>
+							<br>
+							
+						FARKUS: ...But, barring any unforeseen developments, gentlemen, I think we're sitting on a winner.<br>
+							<br>
+							
+						(Farkus offers his hand. Kramer shakes, and then takes his prototype and moves toward the door. Frank then shakes Farkus' hand.)<br>
+							<br>
+							
+						FARKUS: (sympathy) Frank, I wanna tell you how sorry I am to hear about you and Estelle separating.<br>
+							<br>
+							
+						(Kramer hovers behind Frank, waiting to leave.)<br>
+							<br>
+							
+						FRANK: Oh, thank you, Sid, but that's all in the past. I'm ready to move on.<br>
+							<br>
+							
+						FARKUS: (thoughtful) I've always been very fond of Estelle. Beautiful woman. I uh, I hope you don't think uh, this is out of line, but would it be okay with you, if I were to ask her out?<br>
+							<br>
+							
+						FRANK: (anger) You wanna go out with my wife?! (rage) Where do you get the nerve to ask me something like that?!<br>
+							<br>
+							
+						FARKUS: Oh, no, Frank, I was just saying...<br>
+							<br>
+							
+						(Kramer tries to calm Frank down.)<br>
+							<br>
+							
+						FRANK: I know what you're saying, and I know what you're thinking!!<br>
+							<br>
+							
+						FARKUS: No, Frank...<br>
+							<br>
+							
+						FRANK: C'mon, Cosmo, I'm not doing business with this guy.<br>
+							<br>
+							
+						(Frank storms out in a rage. Kramer gives Farkus an 'I'll calm him down' look and follows Frank out the door.)<br>
+							<br>
+							
+						KRAMER (O.C.): Frank!<br>
+							<br>
+							<br>
+							<br>
+							
+						[George's Apartment]<br>
+							<br>
+							
+						(Frank and Kramer have just arrived, to find George packing a suitcase.)<br>
+							<br>
+							
+						GEORGE: Jerry took the couch back.<br>
+							<br>
+							
+						FRANK: He took it back? Didn't you tell him I was using it?<br>
+							<br>
+							
+						GEORGE: Oh, I pleaded with him.<br>
+							<br>
+							
+						FRANK: Where am I supposed to sleep?<br>
+							<br>
+							
+						GEORGE: Well, I took the liberty of packing your things. (gleeful) Mom's coming to get you.<br>
+							<br>
+							
+						KRAMER: I thought Jerry didn't want that couch, because of the stain?<br>
+							<br>
+							
+						(George waves at Kramer to shut the hell up.)<br>
+							<br>
+							
+						FRANK: What stain?<br>
+							<br>
+							
+						KRAMER: Oh, you didn't notice? It has a pee-stain.<br>
+							<br>
+							
+						(George bites his lip and shakes his head.)<br>
+							<br>
+							
+						FRANK: (disbelief) You had me sleeping on a pee-stained couch?<br>
+							<br>
+							
+						GEORGE: (light) No. No, no, no. The cushion was turned over.<br>
+							<br>
+							
+						FRANK: (anger) But, the very idea. you had me lying in urine!!<br>
+							<br>
+							
+						(George flashes Kramer an aggrieved look. There is a knock at the door.)<br>
+							<br>
+							
+						GEORGE: Ah! There's mom, there's mom.<br>
+							<br>
+							
+						(George races over and opens the door.)<br>
+							<br>
+							
+						ESTELLE: Is it safe to come in?<br>
+							<br>
+							
+						GEORGE: Oh, of course. (motioning Estelle to enter) Of course.<br>
+							<br>
+							
+						ESTELLE: You're not having any of your transvestite parties?<br>
+							<br>
+							
+						FRANK: Will you stop it?<br>
+							<br>
+							
+						ESTELLE: (to Kramer) I lived with him for forty years, I never saw him trying on my underwear. As soon as he leaves the house, he turns into J. Edgar Hoover!<br>
+							<br>
+							
+						(As Estelle speaks, Frank goes into the bedroom and brings out the record player.)<br>
+							<br>
+							
+						FRANK: Here, Cosmo...<br>
+							<br>
+							
+						KRAMER: Oh, hey.<br>
+							<br>
+							
+						FRANK: ...You can have the hi-fi. (hands it over) I don't need it now...<br>
+							<br>
+							
+						KRAMER: Awright, I got it.<br>
+							<br>
+							
+						FRANK: ...I got one at home.<br>
+							<br>
+							
+						(George is helping Frank on with his coat, a happy smile beaming from his face.)<br>
+							<br>
+							
+						ESTELLE: Alright, let's go.<br>
+							<br>
+							
+						(Kramer opens the door.)<br>
+							<br>
+							
+						FRANK: We'll go out for dinner tonight.<br>
+							<br>
+							
+						ESTELLE: I can't tonight, I'm busy.<br>
+							<br>
+							
+						FRANK: What d'you mean, busy?<br>
+							<br>
+							
+						ESTELLE: I'm having dinner with someone.<br>
+							<br>
+							
+						FRANK: With whom?<br>
+							<br>
+							
+						(George drapes the coat across Frank's shoulders.)<br>
+							<br>
+							
+						ESTELLE: Sid Farkus.<br>
+							<br>
+							
+						FRANK: (anger) Sid Farkus?! You're not having dinner with a bra salesman.<br>
+							<br>
+							
+						(George has picked up Frank's three suitcases, and is all ready to help carry them out to the car.)<br>
+							<br>
+							
+						ESTELLE: Hey, he only sells them. He doesn't wear 'em.<br>
+							<br>
+							
+						FRANK: Okay, that's it! I'm not coming home!<br>
+							<br>
+							
+						(Frank sits down in a chair. George's face drops.)<br>
+							<br>
+							
+						GEORGE: (upset) But you can't stay here. There's no place to sleep!<br>
+							<br>
+							
+						FRANK: We'll work something out.<br>
+							<br>
+							
+						(George drops the cases in disappointment.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Street]<br>
+							<br>
+							
+						(The German sightseeing bus comes to a halt at the kerb. Kramer comes around the corner, carrying the record player in his arms. An elderly woman, one of the witnesses to the 'mugging' of George, recognises Kramer as he passes. She climbs out of the bus and points after Kramer.)<br>
+							<br>
+							
+						GERMAN WOMAN: Stop him! Ja, ja, ja, it's him!<br>
+							<br>
+							
+						(Kramer looks back at the sound and sees the woman coming after him. He turns back and continues walking. The other German tourists get off the bus and join the woman as she follows Kramer.)<br>
+							<br>
+							
+						GERMAN WOMAN: Stop that man! It's him.<br>
+							<br>
+							
+						(Kramer looks worried and continues to carry his record player, pushing past bystanders as the tourists close on him.)<br>
+							<br>
+							
+						GERMAN WOMAN: Somebody, stop him! Please, quick. Stop, it's him. I know, I know. Help. Stop him.<br>
+							<br>
+							
+						(Kramer dives into a doorway, but the doors are locked, so he's trapped by the tourists, who block his escape.)<br>
+							<br>
+							
+						HORST: Hey, hey. (pointing) That record player is not yours.<br>
+							<br>
+							
+						KRAMER: Now, look. Somebody gave it to me.<br>
+							<br>
+							
+						HORST: You're a thief. We have proof.<br>
+							<br>
+							
+						(Horst spots the straps of the bro hanging from Kramer's pocket.)<br>
+							<br>
+							
+						HORST: What is that?<br>
+							<br>
+							
+						(Kramer puts down the record player and brings out the bro. He holds it up against his body, to illustrate his words.)<br>
+							<br>
+							
+						KRAMER: The first upper-body support undergarment, specifically designed for men.<br>
+							<br>
+							
+						(One of the tourists nudges another, portlier, tourist on the shoulder at Kramer's explanation.)<br>
+							<br>
+							
+						HORST: How does it connect in the back? With a hook?<br>
+							<br>
+							
+						KRAMER: Oh, no, no. (demonstrates) Here, velcro.<br>
+							<br>
+							
+						(The portlier German reaches for Kramer's bro. The tourists are all looking much more jovial.)<br>
+							<br>
+							
+						HORST: (to the portly German) Ooh, (indistinct German) ...keine problem, ah?<br>
+							<br>
+							
+						(The tourists laugh uproariously, with Kramer joining in, and the portly German holding the bro up to himself.)<br>
+							<br>
+							
+						HORST: Is gut, ja?<br>
+							<br>
+							<br>
+							<br>
+							
+						[Lobby, Mr. Pitt's Building]<br>
+							<br>
+							
+						(Jerry and Elaine have just dropped off the couch into the lobby. Mrs. Payton regards it critically. The doorman stands in the background as the delivery men leave.)<br>
+							<br>
+							
+						MRS. PAYTON: Well, I suppose it'll have to do.<br>
+							<br>
+							
+						ELAINE: It's a beautiful couch.<br>
+							<br>
+							
+						JERRY: It's hardly been used.<br>
+							<br>
+							
+						(Elaine and Mrs. Payton walk away together. An elevator arrives, and a familiar character steps out and is noticed by Jerry.)<br>
+							<br>
+							
+						JERRY: Poppie!<br>
+							<br>
+							
+						POPPIE: Oh, hello, Jerry.<br>
+							<br>
+							
+						JERRY: What're you doing here?<br>
+							<br>
+							
+						POPPIE: Visiting my friend.<br>
+							<br>
+							
+						JERRY: Ohh. Hey, how you feeling?<br>
+							<br>
+							
+						POPPIE: Oh, much better, much better. The doctors say I cannot have no aggravation.<br>
+							<br>
+							
+						JERRY: Hmm.<br>
+							<br>
+							
+						POPPIE: So, I sell the restaurant, uh? I just take it easy. See, if I get excited, 'ats aggravated my condition. The last time I got aggravated, was in the restaurant. With your friend.<br>
+							<br>
+							
+						(Poppie holds his hands out, indicating someone of Elaine's height. Jerry nods, remembering and in sympathy.)<br>
+							<br>
+							
+						POPPIE: She start the big fight, about abortion.<br>
+							<br>
+							
+						(Elaine comes back over to Jerry and the couch. Poppie spots her approach, and is not happy.)<br>
+							<br>
+							
+						POPPIE: It's you! It's you!<br>
+							<br>
+							
+						ELAINE: Wha...?<br>
+							<br>
+							
+						POPPIE: You! I... I gotta sit down!<br>
+							<br>
+							
+						(Poppie, aggravated, moves toward the couch.)<br>
+							<br>
+							
+						JERRY: No, Poppie! No!!<br>
+							<br>
+							
+						(Poppie sinks onto the couch, despite the pleas, and horrified expressions, of Jerry and Elaine.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[George's Apartment]<br>
+							<br>
+							
+						(George sits up in bed reading a magazine. Frank enters, carrying a small bowl. George puts his magazine to one side, as Frank carefully climbs into bed whilst keeping hold of the bowl. George takes off his glasses, as Frank settles back. Picking up a spoon from the bowl Frank is about to eat, when a thought occurs. Carefully, Frank reaches over with the spoon, to offer George a taste.)<br>
+							<br>
+							
+						FRANK: Kasha?<br>
+							<br>
+							
+						(George looks disdainfully at the spoonful. A few morsels have fallen onto the bedclothes, George picks them up and puts them back into Frank's bowl.)<br>
+							<br>
+							
+						GEORGE: No. Thanks, dad.<br>
+							<br>
+							
+						(Wearily, George puts his glasses on the bedside table, and switches off his bedside lamp, bringing darkness to the room. George shuffles down beneath the bedclothes, to get comfortable, just as Frank switches on his bedside lamp. Exasperated, George lifts his pillow and places it over his own face, as Frank continues to eat his kasha.)<br>
+							<br>
+							<br>
+							
+						The End</td>
+						</tr>
+						<tr height="6">
+							<td class="bottom2" width="645" height="6"></td>
+						</tr>
+						<tr>
+							<td width="645">
+								<div align="center">
+									<font size="-1">Copyright 2006 seinology.com | All Rights Reserved | Designed by 13erla</font></div>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+		<p></p>
+	</body>
+
+</html>

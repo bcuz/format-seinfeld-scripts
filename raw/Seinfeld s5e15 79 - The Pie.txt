@@ -1,0 +1,1370 @@
+<tdOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+<html>
+
+	<head>
+		<meta http-equiv="content-type" content="text/html;charset=ISO-8859-1">
+		<meta name="description" content="Top Source for Seinfeld">
+		<meta name="keywords" content="seinfeld, sienfeld, Jerry Seinfeld, Julia Louis Dreyfus, Jason Alexander, Michael Richards, Kramer, George, Costanza, Elaine Benes, morty, Larry David">
+		<title>Seinology.com :: Scripts :: 79-The Pie</title>
+	<link rel='stylesheet' href='/stylesheet.css' type='text/css'>
+	</head>
+
+	<body>
+			<table align="center" width="787" border="0" cellspacing="0" cellpadding="0">
+				<tr>
+					<td><font size="-2" color="red">Seinology.com - </font><font size="-3" color="black">Where Seinfeld Content and Accuracy Matter Most. Seinfeld scripts in pdf form, Seinfeld episode video clips, Seinfeld episode audio clips, Jerry Seinfeld appearances, Julia Louis-Dreyfus appearances, Michael Richards appearances, Jason Alexander appearances, Seinfeld discussion Forum, Seinfeld Where are they Now? Seinlanguage Newsletter, Popular Seinfeld Lists, Seinfeld episode standup, Seinfeld episode guide, Seinfeld fan fiction. Seinfeld content all on one domain. Seinology.com enjoy your stay.</font></td>
+				</tr>
+			</table>
+		
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr height="100">
+				<td class="logo"></td>
+			</tr>
+			<tr><td class="ads" align="center" background=#8694fa>
+				<script type="text/javascript"><!--
+google_ad_client = "pub-1924026976931416";
+google_ad_width = 728;
+google_ad_height = 90;
+google_ad_format = "728x90_as";
+google_ad_type = "text";
+google_ad_channel = "";
+google_color_border = "FFFFFF";
+google_color_bg = "8694fa";
+google_color_link = "0000FF";
+google_color_text = "000000";
+google_color_url = "002E3F";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></td></tr>
+		</table>
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr>
+				<td valign="top" width="136">
+					<table width="136" border="0" cellspacing="0" cellpadding="0">
+						<tr height="24">
+							<td class="navigation">
+								<div align="center">
+									
+									<b>Navigation</b></div>
+							</td>
+						</tr>
+						<tr height="199">
+							<td class="spacer1" valign="top" width="136" height="199">
+								<div align="center">
+									<font size="-1"><a href="http://www.seinology.com">Home</a><br>
+										<a href="http://board.seinology.com">Forum</a><br>
+										<a href="http://www.seinology.com/av.shtml">Audio/Video</a><br>
+										<a href="http://www.seinology.com/scripts.shtml">Scripts</a><br>
+										<a href="http://www.seinology.com/survivor.shtml">Survivor</a><br>
+										<a href="http://www.seinology.com/fanfics.shtml">Fan Fiction</a><br>
+										<a href="http://www.seinology.com/gallery/">Gallery</a><br>
+										<a href="http://www.seinology.com/newsletter.shtml">Newsletter</a><br>
+										<a href="http://www.seinology.com/lists.shtml">Lists</a><br>
+										<a href="http://www.seinology.com/epguide.shtml">Episode Guide</a><br>
+										<a href="http://www.seinology.com/links.shtml">Links</a><br>
+										<a href="http://www.seinology.com/faqother.shtml">Faq + others</a><br>
+										<a href="http://www.seinology.com/legal.shtml">Legal</a></font></div>
+							</td>
+						</tr>
+						
+						<tr>
+							<td class="nav2" width="136">
+							<div align="center"><b>Search</b></div></td>
+						</tr>
+						<tr>
+							<td class="spacer1" width="136" valign="top"><div align="center"><form method="get" action="http://www.seinology.com/search/search.cgi">
+<p><label for="fdse_Match">Match</label><br>
+<select name="Match" id="fdse_Match" size="1">
+<option value="1">All</option>
+<option value="0">Any</option>
+<option value="2">Phrase</option>
+</select></p>
+<p><label for="fdse_Realm">Where?</label><br>
+<select name="Realm" id="fdse_Realm" size="1">
+<option selected="selected" value="All">EntireSite</option>
+<option value="Ep Guide">Ep Guide</option>
+<option value="Images">Images</option>
+<option value="Lists">Lists</option>
+<option value="Newsletters">Newsletters</option>
+<option value="Scripts">Scripts</option>
+<option value="Notes..Nothing">Notes..Nothing</option>
+</select></p>
+<p><input type="text" name="Terms" size="14" id="fdse_Terms"><br>
+<input type="submit" class="submit" name="submitButtonName" value="Search"></p>
+</div></form></td>
+						</tr>
+						<tr><td class="bottom" width="136" height="10" valign="top">
+						</td>
+						</tr>
+					</table>
+				</td>
+				<td width="4"></td>
+				<td valign="top" width="645">
+					<table width="645" border="0" cellspacing="0" cellpadding="0">
+						<tr height="18">
+							<td width="645" height="35" class="bar">
+								<div align="center">
+									<b><font size="+2" color="black">Script</font></b></div>
+							</td>
+						</tr>
+						<tr height="362">
+							<td class="spacer2" valign="top" width="645" height="362">
+
+						<p><font size="-2">Episode 79 - The Pie<br>
+							
+						pc: 515, season 5, episode 15<br>
+							
+						Broadcast date: February 17, 1994<br>
+							<br>
+							
+						Written by Tom Gammill &amp; Max Pross<br>
+							
+						Directed by Tom Cherones<br>
+							<br>
+							
+						-------------------------------------------------------------------------------<br>
+							<br>
+							
+						The Cast<br>
+							
+						Regulars:<br>
+							
+						Jerry Seinfeld ....................... Jerry Seinfeld<br>
+							
+						Jason Alexander .................. George Costanza<br>
+							
+						Julia Louis-Dreyfus ............. Elaine Benes<br>
+							
+						Michael Richards ................. Kramer<br>
+							<br>
+							
+						Guest Stars:<br>
+							<br>
+							
+						Suzanne Snyder&nbsp; ................. Audrey<br>
+							
+						Christine Dunford .............. Saleswoman<br>
+							
+						Reni Santoni&nbsp;&nbsp; ..................... Poppie<br>
+							
+						Lane Davies&nbsp; ...................... MacKenzie<br>
+							
+						Mark Beltzman&nbsp; ................. Bob<br>
+							
+						Sunday Theodore ............. Olive<br>
+							
+						Sam Lloyd&nbsp;&nbsp; ....................... Ricky<br>
+							
+						Paul Mantee&nbsp;&nbsp; .................... Health Inspector<br>
+							
+						Patricia Belcher&nbsp; ................. Woman #1<br>
+							
+						Pamela Mant&nbsp;&nbsp; .................... Woman #2<br>
+							
+						Bernard Hocke&nbsp; ................. Guy in Diner<br>
+							
+						Eamonn Roche&nbsp; .................. Waiter<br>
+							
+						Robert Kino&nbsp; ...................... Ricky's Boss<br>
+							
+						Tony Edwards&nbsp; .................. Businessman<br>
+							
+						&nbsp;<br>
+							
+						==================================================================<br>
+							<br>
+							
+						[Opening Monologue]<br>
+							<br>
+							
+						JERRY: Aren't mannequins an insult to your imagination? You couldn't possibly visualize a sweater so we'll show you on this life size snotty puppet. I guess when they finish with them they become crash test dummies. That's the end of the line for a mannequin. &quot;What ever happened to Bob?&quot; &quot;Have you seen that new Volvo commercial? He's got a bulls eye right in his face.&quot; Mannequins are only used for car accidents and fashion, I guess these are the two situations that it's impossible for us to imagine ourselves. Well dressed or getting killed. I'm sure there is some pro-mannequin organization that doesn't even like you to use the term mannequin. &quot;Hey they're not mannequins, they're the life deprived.&quot;<br>
+							<br>
+							<br>
+							
+						[Monk's coffee shop, evening] <br>
+							<br>
+							
+						(Jerry and his date, Audrey, are sitting at a booth having dinner) <br>
+							<br>
+							
+						AUDREY: Hum! That was really good! <br>
+							<br>
+							
+						JERRY: Yeah. are you full? <br>
+							<br>
+							
+						AUDREY: Oh no, I've had just enough. <br>
+							<br>
+							
+						(Waitress brings dessert) <br>
+							<br>
+							
+						JERRY: Ah, here we go... apple pie! Best apple pie in the city. (Jerry starts eating) Mmm, delicious. I'm not waiting for you. Take some. <br>
+							<br>
+							
+						AUDREY: No thanks. <br>
+							<br>
+							
+						JERRY: You're not gonna have any? <br>
+							<br>
+							
+						AUDREY: No (with a disgusted face) <br>
+							<br>
+							
+						JERRY: Do you not like apple pie? <br>
+							<br>
+							
+						AUDREY: No, it's not that. <br>
+							<br>
+							
+						JERRY: Well, at least taste it. <br>
+							<br>
+							
+						AUDREY: No (a resolute &quot;no&quot;) <br>
+							<br>
+							
+						JERRY: You won't even taste it? <br>
+							<br>
+							
+						AUDREY: No. <br>
+							<br>
+							
+						JERRY: Come on, try it! (Audrey shakes her head doing &quot;no&quot;) A little taste! (still shaking) Come on. (still shaking) <br>
+							<br>
+							
+						(scene ends) <br>
+							<br>
+							<br>
+							
+						[Jerry's appartment, the next day] <br>
+							<br>
+							
+						(Jerry and George) <br>
+							<br>
+							
+						JERRY: She wouldn't so much as taste it.<br>
+							<br>
+							
+						GEORGE: Did she say why? <br>
+							<br>
+							
+						JERRY: No. She wouldn't say anything. She just kept shaking her head like this (Imitating Audrey) <br>
+							<br>
+							
+						GEORGE: Maybe she's diabetic. <br>
+							<br>
+							
+						JERRY: No. She carries Entemanns doughnuts in her purse. <br>
+							<br>
+							
+						GEORGE: Maybe you said something that offended her. <br>
+							<br>
+							
+						JERRY: The only thing I can think of is I told her we should have those moving walkways all over the city. <br>
+							<br>
+							
+						GEORGE: Like at the airport? (getting excited) <br>
+							<br>
+							
+						JERRY: Yeah. <br>
+							<br>
+							
+						GEORGE: That's a great idea!!! <br>
+							<br>
+							
+						JERRY: Tell me about it! <br>
+							<br>
+							
+						GEORGE: We could be zipping all over the place. <br>
+							<br>
+							
+						JERRY: They could at least try it. <br>
+							<br>
+							
+						GEORGE: They never try anything. <br>
+							<br>
+							
+						JERRY: What's the harm? <br>
+							<br>
+							
+						GEORGE: No harm! <br>
+							<br>
+							
+						(Elaine enters) <br>
+							<br>
+							
+						JERRY: (still talking to George) I'm sorry. There's no reason for her not to taste that pie. <br>
+							<br>
+							
+						ELAINE: Who wouldn't taste a pie? <br>
+							<br>
+							
+						JERRY: Audrey. <br>
+							<br>
+							
+						ELAINE: Dump her. <br>
+							<br>
+							
+						JERRY: Boy, I never broke up with anyone for not tasting pie??? <br>
+							<br>
+							
+						ELAINE: (piffling) I once broke up with someone for not offering me pie. <br>
+							<br>
+							
+						JERRY: You did? <br>
+							<br>
+							
+						ELAINE: He could be eating a gyro, he wouldn't offer me anything. It's a sickness. <br>
+							<br>
+							
+						GEORGE: Well, I can't walk anywhere now. I'm just gonna be wishing there were walkways. (seeing Elaine removing her shoe) What are you doing? <br>
+							<br>
+							
+						ELAINE: I got a pebble. <br>
+							<br>
+							
+						JERRY: Boy, I never heard of that happening to a woman? <br>
+							<br>
+							
+						ELAINE: What the hell does that mean? <br>
+							<br>
+							
+						(Kramer enters) <br>
+							<br>
+							
+						KRAMER: Hey! Elaine. Go Like this. (imitating a mannequin posture) <br>
+							<br>
+							
+						ELAINE: What? Why? <br>
+							<br>
+							
+						KRAMER: Do it. Do it. This. <br>
+							<br>
+							
+						ELAINE: Like... (doing it) Like this? <br>
+							<br>
+							
+						KRAMER: Oh yeah! It's you! <br>
+							<br>
+							
+						ELAINE: What's me? <br>
+							<br>
+							
+						KRAMER: (to the gang) There's a clothing store downtown. They got a mannequin in there that looks exactly like Elaine. <br>
+							<br>
+							
+						ELAINE: Get out! <br>
+							<br>
+							
+						KRAMER: It's uncanny! It's like they chopped off your arms and legs, dipped you in plastic, and screwed you back all together again, and stuck you on a pedestal. It's really quite exquisite. <br>
+							<br>
+							
+						GEORGE: Kramer, what's the name of the store with the mannequin? <br>
+							<br>
+							
+						KRAMER: Rinitze. (he takes Jerry's spatula and starts rubbing his back with it) Oh yeah... <br>
+							<br>
+							
+						JERRY: (to Kramer) Uh... may I help you? (wondering what the hell's Kramer doing) <br>
+							<br>
+							
+						KRAMER: It's this itch. I was watching TV without my shirt on, and one my couch cushions didn't have any fabric on it. <br>
+							<br>
+							
+						GEORGE: Wait a minute, Rinitze? Don't they have somme really cool suits in there? <br>
+							<br>
+							
+						KRAMER: Real Boss! <br>
+							<br>
+							
+						ELAINE: I'm going down there. <br>
+							<br>
+							
+						GEORGE: I'm gonna go with you. I gotta get a new suit. I got a second interview with MacKenzie, and I think I'm really close. They're all taking me out to lunch on Friday. <br>
+							<br>
+							
+						ELAINE: (grabbing George by the arm, hurried to leave) Let's go. <br>
+							<br>
+							
+						GEORGE: All right. All right. (They both leave) <br>
+							<br>
+							
+						KRAMER: (leaving too, with the spatula) Are you gonna need this? <br>
+							<br>
+							
+						JERRY: Keep it. (implied: please) <br>
+							<br>
+							
+						(scene ends) <br>
+							<br>
+							<br>
+							
+						[Rinitze] <br>
+							<br>
+							
+						(George and Elaine stares at the mannequin) <br>
+							<br>
+							
+						ELAINE: It looks exactly like me. <br>
+							<br>
+							
+						GEORGE: It's like some pod landed from another planet and took your body. Don't fall asleep Elaine. <br>
+							<br>
+							
+						ELAINE: What's going on here? How do you think this happened? <br>
+							<br>
+							
+						GEORGE: Whoa, look at this. This is a beautiful suit. Huh? <br>
+							<br>
+							
+						ELAINE: You think that could be a coincidence George? Is that possible? <br>
+							<br>
+							
+						(the saleswoman approaches George as he's trying the suit) <br>
+							<br>
+							
+						SALESWOMAN: (european accent) You are perfect for that suit. <br>
+							<br>
+							
+						GEORGE: You think so? <br>
+							<br>
+							
+						ELAINE: (to the saleswoman) Excuse me. Where did this come from? <br>
+							<br>
+							
+						SALESWOMAN: I don't know. <br>
+							<br>
+							
+						GEORGE: You really think this looks O.K. on me? <br>
+							<br>
+							
+						SALESWOMAN: Fabulous. Perfect fit. And it's the last one we have. <br>
+							<br>
+							
+						ELAINE: I'm sorry. You can't tell me where the mannequin came from? <br>
+							<br>
+							
+						SALESWOMAN: I told you, I don't know. <br>
+							<br>
+							
+						ELAINE: (irritated, but still polite) Well, is there somebody around here I could talk to who would know? <br>
+							<br>
+							
+						SALESWOMAN: Why? <br>
+							<br>
+							
+						ELAINE: Isn't it obvious? This mannequin looks exactly like me. <br>
+							<br>
+							
+						(saleswoman rolls her eyes at George about Elaine) <br>
+							<br>
+							
+						ELAINE: (upset) Did you just roll your eyes at him? Because let me tell you something, if anobody should be rolling their eyes, it is me at him about you. <br>
+							<br>
+							
+						SALESWOMAN: I think maybe you're flattering yourself. That mannquein is wearing a twelve hundred dollar Gaultier dress. <br>
+							<br>
+							
+						(George is looking at himself in the mirror and doesn't care about their dispute) <br>
+							<br>
+							
+						ELAINE: What are you saying, that I'm not good enough for this hideous dress? (looking at her name tag) Listen Natasha... I wouldn't be caught dead wearing your crummy little euro-trash rags. (to George) I'll meet you outside. <br>
+							<br>
+							
+						(Elaine leaves and waits outside) <br>
+							<br>
+							
+						SALESWOMAN: What is her problem? <br>
+							<br>
+							
+						GEORGE: Ah, Pfft! What can you do? (looking at a tag on the suit) Is this the price tag? <br>
+							<br>
+							
+						SALESWOMAN: Yes. <br>
+							<br>
+							
+						GEORGE: Yes, hello. Party's over. (taking off the suit) <br>
+							<br>
+							
+						SALESWOMAN: I'll tell you a little secret. We're having an unadvertised sale starting Friday, that suit will be half-price. <br>
+							<br>
+							
+						GEORGE: So you think you can put the suit aside and hold it for me? <br>
+							<br>
+							
+						SALESWOMAN: Oh, I'm afraid I could't do that. It wouldn't be fair to the other customers. <br>
+							<br>
+							
+						GEORGE: Oh yes, of course, and we have to be fair. (placing the suit further away in the rack) <br>
+							<br>
+							
+						(scene ends) <br>
+							<br>
+							<br>
+							
+						[Monk's] <br>
+							<br>
+							
+						(Jerry, Elaine and Kramer at a booth) <br>
+							<br>
+							
+						ELAINE: So, I found out who supplies the mannequins and I called 'em up. <br>
+							<br>
+							
+						KRAMER: Well, how did they get your face? <br>
+							<br>
+							
+						ELAINE: I don't know. They wouldn't tell me. (Jerry is not listening, he's looking at two women sitting in the other booth) Jerry? Je... Hello? <br>
+							<br>
+							
+						JERRY: (Jerry gets up and walk to these persons) Uh... Excuse me. I couldn't help but notice you offered her a piece of your pie. <br>
+							<br>
+							
+						WOMAN 1: That's right. <br>
+							<br>
+							
+						JERRY: And you waved it away. <br>
+							<br>
+							
+						WOMAN 2: Right. <br>
+							<br>
+							
+						JERRY: Did you give her a reason? <br>
+							<br>
+							
+						WOMAN 2: Yes, I was full. <br>
+							<br>
+							
+						JERRY: You were full. So you gave a reason. You didn't just shake your head. <br>
+							<br>
+							
+						WOMAN 2: No, I'm not a psycho. <br>
+							<br>
+							
+						JERRY: Exactly. You're not a psycho. You've been very helpful. Thank you very much. Allow me to leave the tip. (sits back with Elaine and Kramer) Well, I think we proven who the psycho is. <br>
+							<br>
+							
+						ELAINE: We certainly have. <br>
+							<br>
+							
+						KRAMER: Hey, Elaine scratch my back. <br>
+							<br>
+							
+						ELAINE: No way! <br>
+							<br>
+							
+						KRAMER: Come on, one lap around. <br>
+							<br>
+							
+						ELAINE: No. <br>
+							<br>
+							
+						KRAMER: It will be a funky adventure. <br>
+							<br>
+							
+						ELAINE: Kramer, forget it. <br>
+							<br>
+							
+						KRAMER: Jerry, how about you? <br>
+							<br>
+							
+						JERRY: I think you know my policy. <br>
+							<br>
+							
+						KRAMER: I'm going home to spatula. (picks up the check and walks to the cashier) <br>
+							<br>
+							
+						ELAINE: I thought George was meeting us here? <br>
+							<br>
+							
+						JERRY: No he's going downtown to guard the suit. <br>
+							<br>
+							
+						ELAINE: He's guarding a suit? <br>
+							<br>
+							
+						OLIVE: (the cashier; to Kramer) Do you need some help with that itch? <br>
+							<br>
+							
+						KRAMER: Madam, I pray you're not toying with me. (Olive shows her long finger nails) Whoa. <br>
+							<br>
+							
+						OLIVE: Turn around. <br>
+							<br>
+							
+						KRAMER: Oh, all right. (Olive scratches, Kramer enjoys, Elaine and Jerry watch.) <br>
+							<br>
+							
+						(scene ends) <br>
+							<br>
+							<br>
+							
+						[Rinitze] <br>
+							<br>
+							
+						SALESWOMAN: (makes a guy trying the suit) It fits you perfectly. <br>
+							<br>
+							
+						BOB: You think so? (she nods and walks away) <br>
+							<br>
+							
+						GEORGE: (outside, looking the guy trying the suit through the window, and thinking out loud) What's this? Can't I leave this place for a second? (goes in, take off his jacket, walks to the guy and talks to him with an european accent) Can I help you? <br>
+							<br>
+							
+						BOB: I'm buying the suit. <br>
+							<br>
+							
+						GEORGE: No, no, no, this suit is not for sale. (tries to take off the suit from the guy) <br>
+							<br>
+							
+						BOB: Excuse me, do you work here? <br>
+							<br>
+							
+						GEORGE: (leaving the european accent) No. (laughs)<br>
+							<br>
+							
+						BOB: Then what the hell business is it of yours? <br>
+							<br>
+							
+						GEORGE: Look, I'm doing you a favor. They're having an unadvertised sale. This suit is gonna be half-priced starting ... Monday. <br>
+							<br>
+							
+						BOB: Really? <br>
+							<br>
+							
+						GEORGE: Yea Yea Yea<br>
+							<br>
+							
+						BOB: This Monday? <br>
+							<br>
+							
+						GEORGE: Yes. Now take off those pants. <br>
+							<br>
+							
+						SALESWOMAN: Actually, the unadvertised sale starts on Friday. <br>
+							<br>
+							
+						BOB: Friday? Thanks. (Gives a dirty look at George and leaves) <br>
+							<br>
+							
+						GEORGE: (to the saleswoman) You know honey for an unadvertised sale, you're doing a lot of yapping about it. <br>
+							<br>
+							
+						(she starts undressing mannequin Elaine, and George acts like he's really seeing Elaine naked) <br>
+							<br>
+							
+						(scene ends) <br>
+							<br>
+							<br>
+							
+						[Poppie's restaurant] <br>
+							<br>
+							
+						(Jerry and Audrey are sitting at a table, and Jerry looks at the menu) <br>
+							<br>
+							
+						JERRY: I can't beleive your father owns this place. So how are the desserts here? <br>
+							<br>
+							
+						AUDREY: Everything is delicious. <br>
+							<br>
+							
+						JERRY: You've tasted them? <br>
+							<br>
+							
+						AUDREY: Um-hmm, I think almost all of them. <br>
+							<br>
+							
+						JERRY: Oh I see they have apple pie. <br>
+							<br>
+							
+						AUDREY: Mmm-hmm. <br>
+							<br>
+							
+						JERRY: You've had the apple pie? <br>
+							<br>
+							
+						AUDREY: Many times. <br>
+							<br>
+							
+						JERRY: Audrey, I got to be honest with you. I'm a very curious guy. It's my nature. I need to know things. Not tasting the apple pie the other day, I can't get past it. You obviously like pies. You carry doughnuts in your bag, you're not averse to pastry. Surely you could see how such a thing would prey on my mind. <br>
+							<br>
+							
+						AUDREY: Can we drop this? <br>
+							<br>
+							
+						JERRY: (like a frustrated child) Why can't I know? <br>
+							<br>
+							
+						(Poppie comes to the table) <br>
+							<br>
+							
+						AUDREY: Ah! Poppie. <br>
+							<br>
+							
+						POPPIE: Sweetheart, hello. <br>
+							<br>
+							
+						AUDREY: Poppie, this is Jerry. <br>
+							<br>
+							
+						POPPIE: Welcome (shakes Jerry's hand) <br>
+							<br>
+							
+						JERRY: Hello Poppie. <br>
+							<br>
+							
+						POPPIE: Don't fill up on the bread. I'm making you a very special dinner. Very special. (he leaves) <br>
+							<br>
+							
+						JERRY: The pies. I'm going to the bathroom. You know. (he leaves) <br>
+							<br>
+							<br>
+							
+						[Poppie's Restaurant: Bathroom]<br>
+							<br>
+							
+						(Jerry and Poppie in the bathroom. Jerry washes his hands while Poppie flushes and gets out of the stall) <br>
+							<br>
+							
+						POPPIE: Ah, Jerry! Tonight you in for a real treat. I'm personnaly going to prepare the dinner for you and my Audrey. <br>
+							<br>
+							
+						(He zips up and leaves without washing his hands. Jerry notices it very shocked) <br>
+							<br>
+							<br>
+							
+						(Poppie's Restaurant]<br>
+							<br>
+							
+						(back at the table with Audrey, Jerry can see Poppie in the kitchen with his hands in the dough, making dinner) <br>
+							<br>
+							
+						AUDREY: Jerry are you OK? <br>
+							<br>
+							
+						JERRY: Huh? <br>
+							<br>
+							
+						AUDREY: Is anything wrong? <br>
+							<br>
+							
+						JERRY: No, Nothing. <br>
+							<br>
+							
+						AUDREY: You look like you've seen a ghost. <br>
+							<br>
+							
+						(Jerry can't talk and he's staring at Poppie's hands. Poppie smiles and winks at him) <br>
+							<br>
+							
+						(scene ends) <br>
+							<br>
+							<br>
+							
+						[Monk's] <br>
+							<br>
+							
+						OLIVE: (to another cashier) I'll see you tomorrow. <br>
+							<br>
+							
+						(Kramer enters with flowers) <br>
+							<br>
+							
+						KRAMER: Hey. These are for you Olive. <br>
+							<br>
+							
+						OLIVE: Thank you. <br>
+							<br>
+							
+						(They leave and she starts scratching Kramer's back) <br>
+							<br>
+							
+						KRAMER: Ohh! <br>
+							<br>
+							
+						(scene ends) <br>
+							<br>
+							<br>
+							
+						[Poppie's] <br>
+							<br>
+							
+						(Poppie serves dinner) <br>
+							<br>
+							
+						POPPIE: Here it is. <br>
+							<br>
+							
+						AUDREY: Wait till you taste this. (she eats) Poppie, this is perfect. <br>
+							<br>
+							
+						POPPIE: (to Jerry) Well? <br>
+							<br>
+							
+						AUDREY: Jerry have some. (Jerry shakes his head doing &quot;no&quot;) You're not gonna taste it? (still shaking) Jerry. (still shaking) <br>
+							<br>
+							
+						(scene ends) <br>
+							<br>
+							<br>
+							
+						[Jerry's appartment] <br>
+							<br>
+							
+						(Jerry and George eating cereal sitting on the couch) <br>
+							<br>
+							
+						JERRY: So she tought I did it to get back at her <br>
+							<br>
+							
+						GEORGE: Why didn't you just tell her? <br>
+							<br>
+							
+						JERRY: I don't think that's the kind of thing you wanna hear about your father. But I'll tell you when he came out of that bathroom and he was kneading that dough, it was a wild scene. <br>
+							<br>
+							
+						GEORGE: How could he not have washed? <br>
+							<br>
+							
+						JERRY: Even if you're not gonna soap up, at least pretend for my benefit. Turn the water on, do something. <br>
+							<br>
+							
+						GEORGE: Yeah, just like I do. <br>
+							<br>
+							
+						JERRY: You know a chef who doesn't wash is like a cop who steals. It's a cry for help, he wants to get caught. <br>
+							<br>
+							
+						GEORGE: Well, I think Poppie's got some problems. There's a whole other thing going on with Poppie. So how did you leave it? <br>
+							<br>
+							
+						JERRY: We haven't spoken. <br>
+							<br>
+							
+						(Kramer enters holding the spatula) <br>
+							<br>
+							
+						KRAMER: Well, I'm not gonna need this anymore. I got Olive. (Jerry throws out the spatula) <br>
+							<br>
+							
+						GEORGE: Olive? <br>
+							<br>
+							
+						KRAMER: Yeah. My lady friend down at Monks. <br>
+							<br>
+							
+						GEORGE: Oh.<br>
+							<br>
+							
+						KRAMER: You guys ought to see the way she works her nails across my back. Ohh! She's a maestro. The crisscross. The figure eight, strummin' the ol' banjo, and this wild, savage free-for-all where anything can happen. <br>
+							<br>
+							
+						GEORGE: I got to get downtown and buy that suit. The store opens in twenty minutes. <br>
+							<br>
+							
+						KRAMER: Is that Elaine mannequin still there? <br>
+							<br>
+							
+						GEORGE: Yeah. <br>
+							<br>
+							
+						KRAMER: Yeah.<br>
+							<br>
+							
+						GEORGE: The last time I saw her, she was naked. <br>
+							<br>
+							
+						JERRY: Yeah, and Poppie's got problems... <br>
+							<br>
+							
+						(scene ends) <br>
+							<br>
+							<br>
+							
+						[Rinitze] <br>
+							<br>
+							
+						(The saleswoman unlock the door's entrance where Bob is waiting. He rushes inside and George enters after him slowly and confident. Bob can't find the suit on the rack. George walks to a different rack.) <br>
+							<br>
+							
+						BOB: Where is it? Where is it? <br>
+							<br>
+							
+						GEORGE: (George takes out the suit from the other rack) Well, look at this. (innocently) This doesn't belong here! Someone has made a terrible mistake. <br>
+							<br>
+							
+						BOB: You bastard! You hid the suit. <br>
+							<br>
+							
+						GEORGE: Hid? I have no idea how this suit got misplaced. Nevertheless, I do believe I shall purchase it. <br>
+							<br>
+							
+						BOB: I hope you rot in that suit. Look I'm gonna get you for this. I don't know how, but I'm gonna get you. You are going to pay! <br>
+							<br>
+							
+						GEORGE: Oh, I'll pay. Half-price. Arrivederci my fellow 40-short. <br>
+							<br>
+							
+						(scene ends) <br>
+							<br>
+							<br>
+							
+						[Monks] <br>
+							<br>
+							
+						(Jerry and Elaine at a booth) <br>
+							<br>
+							
+						ELAINE: So I made a little list of people who might've made the mannequin. You know, possible suspects. <br>
+							<br>
+							
+						JERRY: Yeah, all right. Go ahead. (not very interested) <br>
+							<br>
+							
+						ELAINE: There's this blind guy at a party I was at, and he felt my face for a really long time. You know, to see what I looked like. He almost put his finger up my nose. <br>
+							<br>
+							
+						JERRY: (very disinterested) Hum... ok, what else you got? <br>
+							<br>
+							
+						ELAINE: OK, I'm not gonna tell you the rest of the list. <br>
+							<br>
+							
+						JERRY: Oh, because I didn't think the blind guy did it? <br>
+							<br>
+							
+						ELAINE: Because you have an attitude. <br>
+							<br>
+							
+						(George enters wearing his new suit, parading and snapping his fingers) <br>
+							<br>
+							
+						JERRY and ELAINE: Oh! <br>
+							<br>
+							
+						JERRY: Georgio! Nice duds! <br>
+							<br>
+							
+						GEORGE: You're telling me. (he walks around and the suit makes a swooshing sound) So, what do you think? <br>
+							<br>
+							
+						JERRY: Did you hear something? <br>
+							<br>
+							
+						ELAINE: Yeah, like a swoosh. <br>
+							<br>
+							
+						JERRY: Yeah. <br>
+							<br>
+							
+						ELAINE: (feels the fabric) It must be the fabric. It's rubbing between you thighs when you walk. That's what's making that swooshy sound. <br>
+							<br>
+							
+						(George walks back and forth to verify and it swooshes again) <br>
+							<br>
+							
+						GEORGE: I probably didn't hear it on the way over because of the street noise. (he panics) This is no good! I got to meet these guys from MacKenzie for lunch in half an hour! <br>
+							<br>
+							
+						JERRY: So what? What would they care? <br>
+							<br>
+							
+						GEORGE: This MacKenzie, he's a bit of a nut. Someone told me he fired the last guy because his nose whistled when he breathed. <br>
+							<br>
+							
+						JERRY: So you think you're not gonna get the job because your pants make a noise? <br>
+							<br>
+							
+						GEORGE: Let's say it comes down to me and one other guy. He's got a nice quiet suit, and I'm whooshing all over the place! Who do you think he's gonna hire? <br>
+							<br>
+							
+						JERRY: You know, I think all these interviews are making you nuts. <br>
+							<br>
+							
+						(Kramer comes back from the bathroom) <br>
+							<br>
+							
+						KRAMER: Hey Jerry, I saw your girlfriend was in here before. <br>
+							<br>
+							
+						JERRY: Audrey? <br>
+							<br>
+							
+						KRAMER: Yep. Sat down, had herself a piece of pie. <br>
+							<br>
+							
+						JERRY: Was it apple? <br>
+							<br>
+							
+						KRAMER: What else? <br>
+							<br>
+							
+						JERRY: This woman is bending my mind into a pretzel! <br>
+							<br>
+							
+						(a stranger stops and looks at Elaine) <br>
+							<br>
+							
+						STRANGER: Do I know you? <br>
+							<br>
+							
+						ELAINE: Hmm... No you don't. <br>
+							<br>
+							
+						STRANGER: Yeah! You were wearing a G-string and one of those bras with points. <br>
+							<br>
+							
+						ELAINE: The mannequin! <br>
+							<br>
+							
+						JERRY: Oh, I got to see this thing. <br>
+							<br>
+							
+						(scene ends) <br>
+							<br>
+							<br>
+							
+						[Rinitze] <br>
+							<br>
+							
+						(Jerry and Elaine enter and see the mannequin getting spanked by another mannequin) <br>
+							<br>
+							
+						JERRY: Boy, the resemblance is uncanny. <br>
+							<br>
+							
+						(Elaine goes to the saleswoman) <br>
+							<br>
+							
+						ELAINE: You think you can pose me however you want? That's my ass in your window! <br>
+							<br>
+							
+						SALESWOMAN: It's our store and our mannequin, we can do whatever we want with it. <br>
+							<br>
+							
+						ELAINE: No! You take that mannequin down right now, or I'm pressing charges. (Jerry goes along) Yes, this is my attorney. <br>
+							<br>
+							
+						SALESWOMAN: (to Jerry) Yeah? What law am I breaking? <br>
+							<br>
+							
+						JERRY: Well, I believe there's some legal precedent - Winchell vs. Mahoney, <br>
+							<br>
+							
+						ELAINE: Uh-huh <br>
+							<br>
+							
+						JERRY: The Charlie Macarthy hearings. <br>
+							<br>
+							
+						ELAINE: Uh-huh. Are you taking this down? <br>
+							<br>
+							
+						SALESWOMAN: I'm getting the manager. (she leaves) <br>
+							<br>
+							
+						ELAINE: Jerry get the car. (she's getting the mannequin) <br>
+							<br>
+							
+						JERRY: What are you doing? <br>
+							<br>
+							
+						ELAINE: Just get the car! <br>
+							<br>
+							
+						JERRY: Elaine, as your legal counsel I must advise against this. <br>
+							<br>
+							
+						(They get out with the mannequin) <br>
+							<br>
+							
+						(scene ends) <br>
+							<br>
+							<br>
+							
+						[Jerry's car] <br>
+							<br>
+							
+						(Jerry and Elaine are sitting in the car with the mannequin between them. Jerry looks at the two Elaines beside him.) <br>
+							<br>
+							
+						JERRY: I don't know about you, but I'm getting a hankering for some doublemint gum. Alright, I'm dropping you off at work, right? <br>
+							<br>
+							
+						ELAINE: Where are you going? <br>
+							<br>
+							
+						JERRY: Poppie's <br>
+							<br>
+							
+						(scene ends) <br>
+							<br>
+							<br>
+							
+						[a restaurant] <br>
+							<br>
+							
+						(George with MacKenzie and two other businessmen are walking to a table) <br>
+							<br>
+							
+						MACKENZIE: Thanks for meeting me down here George. My office is out of control, (George's pants are making noise) phones ringing, people running in and out. (MacKenzie stops talking and walking, George too) Did you hear something? <br>
+							<br>
+							
+						GEORGE: No, I didn't hear anything. <br>
+							<br>
+							
+						MACKENZIE: Huh, that's strange. (they start walking again) It's quieter here. We can concentrate without people wooshing around... (he stops again, George too) That sound again. Sure you didn't hear anything? <br>
+							<br>
+							
+						GEORGE: No, can't say as I did. <br>
+							<br>
+							
+						MACKENZIE: Kind of like a... rustling. <br>
+							<br>
+							
+						GEORGE: Could be the leaves... <br>
+							<br>
+							
+						(scene ends) <br>
+							<br>
+							<br>
+							
+						[Poppie's] <br>
+							<br>
+							
+						(Audrey talks to a client on the phone) <br>
+							<br>
+							
+						AUDREY: That's right. Poppie's on 77th. Ok we'll see you at 8:00. Bye-bye. <br>
+							<br>
+							
+						JERRY: Hello. <br>
+							<br>
+							
+						AUDREY: What are you doing here? <br>
+							<br>
+							
+						JERRY: So how was the pie? <br>
+							<br>
+							
+						AUDREY: What pie? <br>
+							<br>
+							
+						JERRY: The apple pie you had today at Monks <br>
+							<br>
+							
+						AUDREY: I'm very busy here. <br>
+							<br>
+							
+						JERRY: Pretty good, wasn'it? I told you you should've tasted it. <br>
+							<br>
+							
+						AUDREY: You better not let Poppie see you here. <br>
+							<br>
+							
+						(a man in a coat, a Health Inspector, comes to Audrey) <br>
+							<br>
+							
+						HEALTH INSPECTOR: All right, I'm looking for someone named Poppie. <br>
+							<br>
+							
+						AUDREY: Uh, who are you? <br>
+							<br>
+							
+						HEALTH INSPECTOR: Board of health, we've had several complaints. <br>
+							<br>
+							
+						JERRY: Oh, about the... uh (Jerry pretend to wash his hands) <br>
+							<br>
+							
+						HEALTH INSPECTOR: Are you Poppie? <br>
+							<br>
+							
+						POPPIE: I'm Poppie. <br>
+							<br>
+							
+						HEALTH INSPECTOR: I think you'd better come with me. <br>
+							<br>
+							
+						POPPIE: What's the problem? <br>
+							<br>
+							
+						(Poppie leaves with the Health Inspector) <br>
+							<br>
+							
+						AUDREY: What do they want from Poppie? <br>
+							<br>
+							
+						JERRY: Well, Poppie's a little sloppy. <br>
+							<br>
+							
+						(scene ends) <br>
+							<br>
+							<br>
+							
+						[at the restaurant with MacKenzie] <br>
+							<br>
+							
+						(everybody's laughing at the table) <br>
+							<br>
+							
+						MACKENZIE: You taught I'd care about your pants wooshing? <br>
+							<br>
+							
+						GEORGE: I heard the last guy got fired because his nose whislted. <br>
+							<br>
+							
+						MACKENZIE: No, no, no. He got fired because he wasn't a team player. That's something we don't joke about at MacKenzie. You'll find we're team here George. We don't tolerate dissent. If you want to go your own way, you're in the wrong place. <br>
+							<br>
+							
+						GEORGE: No problem there. Conformity is an obsession with me. <br>
+							<br>
+							
+						(The waiter brings dessert) <br>
+							<br>
+							
+						WAITER: Chocolate cream pie. Compliments of the house. <br>
+							<br>
+							
+						MACKENZIE: Oh! Hope you saved room for dessert. <br>
+							<br>
+							
+						WAITER: (to George) The chef said that he made it special for you. <br>
+							<br>
+							
+						GEORGE: Oh... (George looks around and sees the chef hiding behind a plant: it's Bob!) <br>
+							<br>
+							
+						MACKENZIE: Mmm.. Best pie I've ever tasted. Take a bite George. (George shakes his head doing &quot;no&quot;) Well, take a bite. It's delicious. (still shaking) I insist. (still shaking) <br>
+							<br>
+							
+						BUSINESSMAN: If you're one of us, you'll take a bite. <br>
+							<br>
+							
+						(still shaking) <br>
+							<br>
+							
+						(scene ends) <br>
+							<br>
+							<br>
+							
+						[Monk's] <br>
+							<br>
+							
+						(evening, George, Jerry and Kramer at a booth, Olive at the cash) <br>
+							<br>
+							
+						JERRY: So you didn't get the job. <br>
+							<br>
+							
+						GEORGE: No. But I was the only one at the table that didn't get violently ill. <br>
+							<br>
+							
+						JERRY: Kramer, you can't keep avoiding her like this, you're gonna have to say something. <br>
+							<br>
+							
+						KRAMER: What am I supposed to say? <br>
+							<br>
+							
+						JERRY: Tell her you lost your itch. <br>
+							<br>
+							
+						GEORGE: What happened to your itch? <br>
+							<br>
+							
+						KRAMER: I lost it two days ago. I've been faking it so I wouldn't hurt her feelings. <br>
+							<br>
+							
+						JERRY: Well you should tell her. <br>
+							<br>
+							
+						KRAMER: I'll let her down easy. All right. (he gets up and walks to Olive) Well, hi Olive. (she reaches for Kramer's back) No, no. No more of that. There's something I have to tell you. <br>
+							<br>
+							
+						OLIVE: What? <br>
+							<br>
+							
+						KRAMER: Uh, well, there's someone else. <br>
+							<br>
+							
+						OLIVE: Someone else? <br>
+							<br>
+							
+						KRAMER: Yeah, yeah, yeah... <br>
+							<br>
+							
+						OLIVE: Who is she? <br>
+							<br>
+							
+						KRAMER: Her. (he points to the Elaine mannequin in Jerry's car) <br>
+							<br>
+							
+						OLIVE: her? <br>
+							<br>
+							
+						KRAMER: Yeah, there she is. That's my gal. <br>
+							<br>
+							
+						OLIVE: You're a liar. I've seen her in here before. She's not your girlfriend. <br>
+							<br>
+							
+						KRAMER: Now Olive, look, I'm sorry. <br>
+							<br>
+							
+						OLIVE: Why is she wearing her underwear? <br>
+							<br>
+							
+						KRAMER: Well, it's the style. (turns back to Jerry) Jerry give me the keys. (Jerry throws his keys to Kramer) Well, I guess we're gonna go for a drive now. She really loves that. <br>
+							<br>
+							
+						(Kramer gets into Jerry's car and starts making out with the mannequin while Olive is looking through the window. But it doesn't work quite as good as Kramer was hoping cause the mannequin's hand falls out from the arm) <br>
+							<br>
+							
+						GEORGE: Did you ever solve the riddle of the pie? <br>
+							<br>
+							
+						JERRY: No. That's one for the ages. But I think they're gonna put Poppie away for a long long time. <br>
+							<br>
+							
+						(Elaine enters and sit with Jerry and George. Olive is looking at her, confused.) <br>
+							<br>
+							
+						ELAINE: You guys are not gonna believe this. I just got a letter from a friend of mine in Chicago who was shopping, and she said she saw a mannequin that looked just like me. What if there're more. Where are they coming from? <br>
+							<br>
+							
+						(scene ends) <br>
+							<br>
+							<br>
+							
+						[The building where Ricky works. Ricky's the guy in &quot;The Cigar Store Indian&quot; who made a bouquet for Elaine from Frank's TV guide.] <br>
+							<br>
+							
+						RICKY'S BOSS: Ricky, we've been getting a tremendous response to your TR-6 mannequin. <br>
+							<br>
+							
+						RICKY: TR-6? I prefer to think of her as... Elaine. <br>
+							<br>
+							<br>
+							
+						The End</td>
+						</tr>
+						<tr height="6">
+							<td class="bottom2" width="645" height="6"></td>
+						</tr>
+						<tr>
+							<td width="645">
+								<div align="center">
+									<font size="-1">Copyright 2006 seinology.com | All Rights Reserved | Designed by 13erla</font></div>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+		<p></p>
+	</body>
+
+</html>

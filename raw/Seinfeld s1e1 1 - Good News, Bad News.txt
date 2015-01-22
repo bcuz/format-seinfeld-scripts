@@ -1,0 +1,1535 @@
+<tdOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+<html>
+
+	<head>
+		<meta http-equiv="content-type" content="text/html;charset=ISO-8859-1">
+		<meta name="description" content="Top Source for Seinfeld">
+		<meta name="keywords" content="seinfeld, sienfeld, Jerry Seinfeld, Julia Louis Dreyfus, Jason Alexander, Michael Richards, Kramer, George, Costanza, Elaine Benes, morty, Larry David">
+		<title>Seinology.com :: Scripts :: 01-Good News, Bad News</title>
+	<link rel='stylesheet' href='/stylesheet.css' type='text/css'>
+	</head>
+
+	<body>
+			<table align="center" width="787" border="0" cellspacing="0" cellpadding="0">
+				<tr>
+					<td><font size="-2" color="red">Seinology.com - </font><font size="-3" color="black">Where Seinfeld Content and Accuracy Matter Most. Seinfeld scripts in pdf form, Seinfeld episode video clips, Seinfeld episode audio clips, Jerry Seinfeld appearances, Julia Louis-Dreyfus appearances, Michael Richards appearances, Jason Alexander appearances, Seinfeld discussion Forum, Seinfeld Where are they Now? Seinlanguage Newsletter, Popular Seinfeld Lists, Seinfeld episode standup, Seinfeld episode guide, Seinfeld fan fiction. Seinfeld content all on one domain. Seinology.com enjoy your stay.</font></td>
+				</tr>
+			</table>
+		
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr height="100">
+				<td class="logo"></td>
+			</tr>
+			<tr><td class="ads" align="center" background=#8694fa>
+				<script type="text/javascript"><!--
+google_ad_client = "pub-1924026976931416";
+google_ad_width = 728;
+google_ad_height = 90;
+google_ad_format = "728x90_as";
+google_ad_type = "text";
+google_ad_channel = "";
+google_color_border = "FFFFFF";
+google_color_bg = "8694fa";
+google_color_link = "0000FF";
+google_color_text = "000000";
+google_color_url = "002E3F";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></td></tr>
+		</table>
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr>
+				<td valign="top" width="136">
+					<table width="136" border="0" cellspacing="0" cellpadding="0">
+						<tr height="24">
+							<td class="navigation">
+								<div align="center">
+									
+									<b>Navigation</b></div>
+							</td>
+						</tr>
+						<tr height="199">
+							<td class="spacer1" valign="top" width="136" height="199">
+								<div align="center">
+									<font size="-1"><a href="http://www.seinology.com">Home</a><br>
+										<a href="http://board.seinology.com">Forum</a><br>
+										<a href="http://www.seinology.com/av.shtml">Audio/Video</a><br>
+										<a href="http://www.seinology.com/scripts.shtml">Scripts</a><br>
+										<a href="http://www.seinology.com/survivor.shtml">Survivor</a><br>
+										<a href="http://www.seinology.com/fanfics.shtml">Fan Fiction</a><br>
+										<a href="http://www.seinology.com/gallery/">Gallery</a><br>
+										<a href="http://www.seinology.com/newsletter.shtml">Newsletter</a><br>
+										<a href="http://www.seinology.com/lists.shtml">Lists</a><br>
+										<a href="http://www.seinology.com/epguide.shtml">Episode Guide</a><br>
+										<a href="http://www.seinology.com/links.shtml">Links</a><br>
+										<a href="http://www.seinology.com/faqother.shtml">Faq + others</a><br>
+										<a href="http://www.seinology.com/legal.shtml">Legal</a></font></div>
+							</td>
+						</tr>
+						
+						<tr>
+							<td class="nav2" width="136">
+							<div align="center"><b>Search</b></div></td>
+						</tr>
+						<tr>
+							<td class="spacer1" width="136" valign="top"><div align="center"><form method="get" action="http://www.seinology.com/search/search.cgi">
+<p><label for="fdse_Match">Match</label><br>
+<select name="Match" id="fdse_Match" size="1">
+<option value="1">All</option>
+<option value="0">Any</option>
+<option value="2">Phrase</option>
+</select></p>
+<p><label for="fdse_Realm">Where?</label><br>
+<select name="Realm" id="fdse_Realm" size="1">
+<option selected="selected" value="All">EntireSite</option>
+<option value="Ep Guide">Ep Guide</option>
+<option value="Images">Images</option>
+<option value="Lists">Lists</option>
+<option value="Newsletters">Newsletters</option>
+<option value="Scripts">Scripts</option>
+<option value="Notes..Nothing">Notes..Nothing</option>
+</select></p>
+<p><input type="text" name="Terms" size="14" id="fdse_Terms"><br>
+<input type="submit" class="submit" name="submitButtonName" value="Search"></p>
+</div></form></td>
+						</tr>
+						<tr><td class="bottom" width="136" height="10" valign="top">
+						</td>
+						</tr>
+					</table>
+				</td>
+				<td width="4"></td>
+				<td valign="top" width="645">
+					<table width="645" border="0" cellspacing="0" cellpadding="0">
+						<tr height="18">
+							<td width="645" height="35" class="bar">
+								<div align="center">
+									<b><font size="+2" color="black">Script</font></b></div>
+							</td>
+						</tr>
+						<tr height="362">
+							<td class="spacer2" valign="top" width="645" height="362">
+
+						<p><font size="-2">Episode 1 - Good News, Bad News<br>
+										
+										pc: 101, season 1, episode 1 (Pilot)<br>
+										
+										Broadcast date: July 5, 1989<br>
+										
+										(The series is titled The Seinfeld Chronicles, then re-titled Seinfeld for the rest of the series)<br>
+										<br>
+										
+										Written By Larry David &amp; Jerry Seinfeld<br>
+										
+										Directed By Art Wolff<br>
+										<br>
+										
+										-------------------------------------------------------------------------------<br>
+										<br>
+										
+										The Cast<br>
+										
+										Regulars:<br>
+										
+										Jerry Seinfeld ....................... Jerry Seinfeld<br>
+										
+										Jason Alexander .................. George Costanza<br>
+										
+										Michael Richards ................. Kessler<br>
+										<br>
+										
+										Guest Stars:<br>
+										<br>
+										
+										Lee Garlington ................ Claire<br>
+										
+										Pamela Brull ..................... Laura<br>
+										<br>
+										<br>
+										
+										==================================================================<br>
+										<br>
+										
+										INT. COMEDY CLUB &#150; NIGHT<br>
+										<br>
+										
+										(Jerry is on stage, performing.)<br>
+										<br>
+										
+										JERRY: Do you know what this is all about? Do you know, why we&#146;re here? To be out, this is out...and out is one of the single most enjoyable experiences of life. People...did you ever hear people talking about &#147;We should go out&#148;? This is what they&#146;re talking about...this whole thing, we&#146;re all out now, no one is home. Not one person here is home, we&#146;re all out! There are people tryin&#146; to find us, they don&#146;t know where we are. (on an imaginary phone) &#147;Did you ring?, I can&#146;t find him.&#148; &#147;Where did he go?&#148; &#147;He didn&#146;t tell me where he was going&#148;. He must have gone out. You wanna go out: you get ready, you pick out the clothes, right? You take the shower, you get all ready, get the cash, get your friends, the car, the spot, the reservation...Then you&#146;re standing around, whatta you do? You go: &#147;We gotta be getting back&#148;. Once you&#146;re out, you wanna get back! You wanna go to sleep, you wanna get up, you wanna go out again tomorrow, right? Where ever you are in life, it&#146;s my feeling, you&#146;ve gotta go.<br>
+										<br>
+										<br>
+										<br>
+										
+										INT. PETE&#146;S LUNCHEONETTE &#150; DAY<br>
+										<br>
+										
+										(Jerry and George sit at a table, having coffee.)<br>
+										<br>
+										
+										JERRY: (pointing at George&#146;s shirt) See, to me, that button is in the worst possible spot. The second button literally makes or breaks the shirt, look at it. It&#146;s too high! It&#146;s in no-man&#146;s-land. You look like you live with your mother.<br>
+										<br>
+										
+										GEORGE: Are you through? <br>
+										<br>
+										
+										JERRY: You do of course try on, when you buy?<br>
+										<br>
+										
+										GEORGE: Yes, it was purple, I liked it, I don&#146;t actually recall considering the buttons.<br>
+										<br>
+										
+										JERRY: Oh, you don&#146;t recall?<br>
+										<br>
+										
+										GEORGE: (on an imaginary microphone) Uh, no, not at this time.<br>
+										<br>
+										
+										JERRY: Well, senator, I&#146;d just like to know, what you knew and when you knew it.<br>
+										<br>
+										
+										(A waitress, Claire, approaches the table. She pours refills Jerry&#146;s coffee.)<br>
+										<br>
+										
+										CLAIRE: Mr. Seinfeld. Mr. Costanza. <br>
+										<br>
+										
+										(Claire tries to refill George&#146;s coffee, but George blocks her.)<br>
+										<br>
+										
+										GEORGE: Are, are you sure this is decaf? Where&#146;s the orange indicator?<br>
+										<br>
+										
+										CLAIRE: It&#146;s missing, I have to do it in my head: decaf left, regular right, decaf left, regular right...it&#146;s very challenging work.<br>
+										<br>
+										
+										JERRY: Can you relax, it&#146;s a cup of coffee. Claire is a professional waitress.<br>
+										<br>
+										
+										CLAIRE: Trust me George. No one has any interest in seeing you on caffeine.<br>
+										<br>
+										
+										(Claire exits.)<br>
+										<br>
+										
+										GEORGE: How come you&#146;re not doin&#146; the second show tomorrow?<br>
+										<br>
+										
+										JERRY: Well, there&#146;s this uh, woman might be comin&#146; in.<br>
+										<br>
+										
+										GEORGE: Wait a second, wait a second, what coming in, what woman is coming in?<br>
+										<br>
+										
+										JERRY: I told you about Laura, the girl I met in Michigan?<br>
+										<br>
+										
+										GEORGE: No, you didn&#146;t!<br>
+										<br>
+										
+										JERRY: I thought I told you about it, yes, she teaches political science? I met her the night I did the show in Lansing... <br>
+										<br>
+										
+										GEORGE: Ha.<br>
+										<br>
+										
+										JERRY: (looks in the creamer) There&#146;s no milk in here, what...<br>
+										<br>
+										
+										GEORGE: Wait wait wait, what is she... (takes the milk can from Jerry and puts it on the table) What is she like?<br>
+										<br>
+										
+										JERRY: Oh, she&#146;s really great. I mean, she&#146;s got like a real warmth about her and she&#146;s really bright and really pretty and uh... the conversation though, I mean, it was... talking with her is like talking with you, but, you know, obviously much better.<br>
+										<br>
+										
+										GEORGE: (smiling) So, you know, what, what happened?<br>
+										<br>
+										
+										JERRY: Oh, nothing happened, you know, but is was great.<br>
+										<br>
+										
+										GEORGE: Oh, nothing happened, but it was...<br>
+										<br>
+										
+										JERRY: Yeah.<br>
+										<br>
+										
+										GEORGE: This is great!<br>
+										<br>
+										
+										JERRY: Yeah.<br>
+										<br>
+										
+										GEORGE: So, you know, she calls and says she wants to go out with you tomorrow night? God bless! Devil you!<br>
+										<br>
+										
+										JERRY: Yeah, well...not exactly. I mean, she said, you know, she called this morning and said she had to come in for a seminar and maybe we&#146;ll get together. <br>
+										<br>
+										
+										GEORGE: (whistles disapprovingly) Ho ho ho, &#145;Had to&#146;? &#145;Had to&#146; come in?<br>
+										<br>
+										
+										JERRY: Yeah, but...<br>
+										<br>
+										
+										GEORGE: &#145;Had to come in&#146; and &#145;maybe we&#146;ll get together&#146;? &#145;Had to&#146; and &#145;maybe&#146;?<br>
+										<br>
+										
+										JERRY: Yeah!<br>
+										<br>
+										
+										GEORGE: No...no...no, I hate to tell you this. You&#146;re not gonna see this woman.<br>
+										<br>
+										
+										JERRY: What, are you serious...why, why did she call?<br>
+										<br>
+										
+										GEORGE: How do I know, maybe, you know, maybe she wanted to be polite. <br>
+										<br>
+										
+										JERRY: To be polite? You are insane!<br>
+										<br>
+										
+										GEORGE: All right, all right, I didn&#146;t want to tell you this. You wanna know why she called you?<br>
+										<br>
+										
+										JERRY: Yes!<br>
+										<br>
+										
+										GEORGE: You&#146;re a back-up, you&#146;re a second-line, a just-in-case, a B-plan, a contingency!<br>
+										<br>
+										
+										JERRY: Oh, I get it, this is about the button.<br>
+										<br>
+										
+										(Claire passes the table; George stops her and writes something on his notepad.)<br>
+										<br>
+										
+										GEORGE: Claire, Claire, you&#146;re a woman, right?<br>
+										<br>
+										
+										CLAIRE: What gave it away, George?<br>
+										<br>
+										
+										GEORGE: Uhm...I&#146;d like to ask you...ask you to analyze a hypothetical phone call, you know, from a female point of view.<br>
+										<br>
+										
+										JERRY (to George) Oh, come on now, what are you asking her? Now, how is she gonna know?<br>
+										<br>
+										
+										GEORGE: (to Claire) Now, a woman calls me, all right? <br>
+										<br>
+										
+										CLAIE: Uh huh.<br>
+										<br>
+										
+										GEORGE: She says she &#145;has to&#146; come to New York on business...<br>
+										<br>
+										
+										JERRY: Oh you are beautiful!<br>
+										<br>
+										
+										GEORGE: ...and, and &#145;maybe&#146; she&#146;ll see me when she gets there, does this woman intend to spend time with me?<br>
+										<br>
+										
+										CLAIRE: I&#146;d have to say, uuhh, no. <br>
+										<br>
+										
+										(George shows his note-block to Jerry; it says very largely: NO.)<br>
+										<br>
+										
+										GEORGE (to Claire) So why did she call?<br>
+										<br>
+										
+										CLAIRE: To be polite.<br>
+										<br>
+										
+										GEORGE: To be polite. I rest my case.<br>
+										<br>
+										
+										JERRY: Good. Did you have fun? You have no idea, what you&#146;re talking about, now, come on, come with me. (stands up) I gotta go get my stuff out of the dryer anyway.<br>
+										<br>
+										
+										GEORGE: I&#146;m not gonna watch you do laundry.<br>
+										<br>
+										
+										JERRY: Oh, come on, be a come-with guy.<br>
+										<br>
+										
+										GEORGE: Come on, I&#146;m tired.<br>
+										<br>
+										
+										CLAIRE: (to Jerry) Don&#146;t worry, I gave him a little caffeine. He&#146;ll perk up.<br>
+										<br>
+										
+										GEORGE: (panicking) Right, I knew I felt something!<br>
+										<br>
+										
+										(Claire exits, smiling.)<br>
+										<br>
+										<br>
+										<br>
+										
+										INT. LAUNDRAMAT - DAY<br>
+										<br>
+										
+										(Jerry and George are there; George is staring at one of the dryers.)<br>
+										<br>
+										
+										GEORGE: Jerry? I have to tell you something. This is the dullest moment I&#146;ve ever experienced. <br>
+										<br>
+										
+										(George walks away from the dryer. A man passes by.)<br>
+										<br>
+										
+										JERRY: Well, look at this guy. Look, he&#146;s got everything, he&#146;s got detergents, sprays, fabric softeners.  This is not his first load.<br>
+										<br>
+										
+										GEORGE: I need a break, Jerry, you know. I gotta get out of the city. I feel so cramped...<br>
+										<br>
+										
+										JERRY: And you didn&#146;t even hear how she sounded.<br>
+										<br>
+										
+										GEORGE: What?!<br>
+										<br>
+										
+										JERRY: Laura.<br>
+										<br>
+										
+										GEORGE: I can&#146;t believe- (falls on his knees) WE ALREADY DISCUSSED THIS!<br>
+										<br>
+										
+										JERRY: Yeah, but how could you be so sure?<br>
+										<br>
+										
+										GEORGE: &#145;Cause it&#146;s signals, Jerry, it&#146;s signals! (snapping his fingers) Don&#146;t you- all right. Did she even ask you, what you were doin&#146; tomorrow night, if you were busy?<br>
+										<br>
+										
+										JERRY: No.<br>
+										<br>
+										
+										GEORGE: She calls you today and she doesn&#146;t make a plan for tomorrow? What is that? It&#146;s Saturday night!<br>
+										<br>
+										
+										JERRY: Yeah.<br>
+										<br>
+										
+										GEORGE: What is that? It&#146;s ridiculous! You don&#146;t even know what hotel she&#146;s staying at, you can&#146;t call her. That&#146;s a signal, Jerry, that&#146;s a signal! (snaps his fingers) Signal!<br>
+										<br>
+										
+										JERRY: Maybe you&#146;re right.<br>
+										<br>
+										
+										GEORGE: Maybe I&#146;m right? Of course I&#146;m right.<br>
+										<br>
+										
+										JERRY: This is insane. You know, I don&#146;t even know where she&#146;s staying! She, she&#146;s not gonna call me, this is unbelievable.<br>
+										<br>
+										
+										(George puts his arm around Jerry.)<br>
+										<br>
+										
+										GEORGE: I know, I know. Listen, your stuff has to be done by now, why don&#146;t you just see if it&#146;s dry?<br>
+										<br>
+										
+										JERRY: No no no, don&#146;t interrupt the cycle. The machine is working, it, it knows what it&#146;s doing. Just let it finish.<br>
+										<br>
+										
+										GEORGE: You&#146;re gonna overdry it.<br>
+										<br>
+										
+										JERRY: You, you can&#146;t overdry.<br>
+										<br>
+										
+										GEORGE: Why not?<br>
+										<br>
+										
+										JERRY: Same as you can&#146;t overwet. You see, once something is wet, it&#146;s wet. Same thing with death. Like once you die you&#146;re dead, right? Let&#146;s say you drop dead and I shoot you. You&#146;re not gonna die again, you&#146;re already dead. You can&#146;t overdie, you can&#146;t overdry.<br>
+										<br>
+										
+										GEORGE: (to the other laundry patrons) Any questions?<br>
+										<br>
+										
+										JERRY: How could she not tell me where she was staying? <br>
+										<br>
+										
+										(George stands by the dryer again and secretly opens it. The dryer stops working and he closes the lid.)<br>
+										<br>
+										
+										GEORGE: Look at that. They&#146;re done! <br>
+										<br>
+										<br>
+										<br>
+										
+										INT. COMEDY CLUB &#150; NIGHT<br>
+										<br>
+										
+										(Jerry is on stage, peforming.)<br>
+										<br>
+										
+										JERRY: Laundry day is the only exciting day in the life of clothes. It is...y&#146;know, think about it. The washing machine is the nightclub of clothes. You know, it&#146;s dark, there&#146;s bubbles happening, they&#146;re all kinda dancing around in there- shirt grabs the underwear, &#147;C&#146;mon babe, let&#146;s go&#148;. You come by, you open up the lid and they&#146;ll- (stiffens up, as the clothes) Socks are the most amazing article of clothing. They hate their lives, they&#146;re in the shoes with stinky feet, the boring drawers. The dryer is their only chance to escape and they all know it. They knew a escape from the dryer. They plan it in the hamper the night before, &#147;Tomorrow, the dryer, I&#146;m goin&#146;. You wait here!&#148; The dryer door swings open and the sock is waiting up against the side wall. He hopes you don&#146;t see him and then he goes down the road. They get buttons sewn on their faces, join a puppet show. So they&#146;re showing me on television the detergent for getting out bloodstains. Is this a violent image to anybody? Bloodstains? I mean, come on, you got a T-shirt with bloodstains all over it, maybe laundry isn&#146;t your biggest problem right now. You gotta get the harpoon out your chest first. <br>
+										<br>
+										<br>
+										<br>
+										
+										INT. JERRY&#146;S APARTMENT<br>
+										<br>
+										
+										(Jerry is on the couch, watching TV. The phone rings. He picks up the reciever.)<br>
+										<br>
+										
+										JERRY: (answering, quickly) If you know what happened in the Met game, don&#146;t say anything, I taped it, hello. Yeah, no, I&#146;m sorry, you have the wrong number. Yeah, no <br>
+										<br>
+										
+										(There&#146;s a knock at the door.)<br>
+										<br>
+										
+										JERRY: (to the door) Yeah?<br>
+										<br>
+										
+										(Kessler enters.)<br>
+										<br>
+										
+										KESSLER: Are you up?<br>
+										<br>
+										
+										JERRY: (to Kessler) Yeah. (to the phone) Yeah, people do move. Have you ever seen the big trucks out on the street? Yeah, no problem.<br>
+										<br>
+										
+										(Jerry hangs up.)<br>
+										<br>
+										
+										KESSLER: Boy, the Mets blew it tonight, huh? <br>
+										<br>
+										
+										JERRY: (upset) Ohhhh, what are you doing? Kessler, it&#146;s a tape! I taped the game, it&#146;s one o&#146;clock in the morning! I avoided human contact all night to watch this.<br>
+										<br>
+										
+										KESSLER: Hey, I&#146;m sorry, I- you know, I, I thought you knew. (takes two loaves of bread out of his pockets, and holds them out to Jerry.) You got any meat?<br>
+										<br>
+										
+										JERRY: Meat? I don&#146;t, I don&#146;t know, go... hunt! (Kessler opens the refrigerator and sticks his head in.) Well what happened in the game anyway?<br>
+										<br>
+										
+										KESSLER: (from the refrigerator) What happened? Well, they STUNK, that&#146;s what happened!<br>
+										<br>
+										
+										(He takes some meat from the refrigerator and closes it.)<br>
+										<br>
+										
+										KESSLER: You know, I almost wound up going to that game.<br>
+										<br>
+										
+										JERRY: (cynical) Yeah you almost went to the game. You haven&#146;t been out of the building in ten years!<br>
+										<br>
+										
+										KESSLER: Yeah. (Jerry sits down on the couch. Kessler walks over with his sandwich and looks at Jerry and uses expressions to ask Jerry to move the newspapers on the other side of the couch so he could site down. Kessler sits down next to him and starts turning over the pages of a magazine. Suddenly he spots an article he likes and tears it out. Jerry gives him a look as if to say, &#147;Do you mind?&#148;) Are you done with this?<br>
+										<br>
+										
+										JERRY: No.<br>
+										<br>
+										
+										(Kessler glues the article back with his own saliva and puts the magazine back on the table.)<br>
+										<br>
+										
+										KESSLER: When you&#146;re done, let me know.<br>
+										<br>
+										
+										JERRY: Yeah, yeah...you can have it tomorrow.<br>
+										<br>
+										
+										KESSLER: I thought I wasn&#146;t allowed to be in here this weekend.<br>
+										<br>
+										
+										JERRY: No, it&#146;s okay now, that, that girl is not comin&#146;. Uh, I misread the whole thing.<br>
+										<br>
+										
+										KESSLER: You want me to talk to her?<br>
+										<br>
+										
+										JERRY: I don&#146;t think so.<br>
+										<br>
+										
+										KESSLER: Oh, I can be very persuasive. Do you know that I was almost... a lawyer.<br>
+										<br>
+										
+										(Kessler shows with his fingers how close he was.)<br>
+										<br>
+										
+										JERRY: That close, huh?<br>
+										<br>
+										
+										KESSLER: You better believe it.<br>
+										<br>
+										
+										(The phone rings. Jerry picks it up.)<br>
+										<br>
+										
+										JERRY: Hello...Oh, hi, Laura.<br>
+										<br>
+										
+										KESSLER: Oh, give me it...let me talk to her.<br>
+										<br>
+										
+										JERRY: (to the phone) No believe me, I&#146;m always up at this hour. How are you?... Great... Sure... What time does the plane get in?... I got my friend George to take me...<br>
+										<br>
+										
+										KESSLER: (to the TV) SLIDE! Wow!<br>
+										<br>
+										
+										JERRY: No, it&#146;s, it&#146;s just my neighbour... Um... Yeah, I got it. (Jerry takes a pencil and a cereal box to write on.) Ten-fifteen... No, don&#146;t be silly, go ahead and ask... Yeah, sure... Okay, great, no no, it&#146;s no trouble at all... I&#146;ll see you tomorrow... Great, bye. (He hangs up the phone; to Kessler) I don&#146;t believe it. That was her. She wants to stay here! <br>
+										<br>
+										<br>
+										<br>
+										
+										INT. JERRY&#146;S APARTMENT &#150; NIGHT<br>
+										<br>
+										
+										(Jerry and George enter, carrying a heavy mattress.)<br>
+										<br>
+										
+										JERRY: If my father was moving this he&#146;d had to have a cigarette in his mouth the whole way. (as his father) 'Have you got your end?...Your end&#146;s got to come down first, easy now, drop it down...drop it down, your end&#146;s got to come down.'<br>
+										<br>
+										
+										GEORGE: You know, I can&#146;t believe you&#146;re bringin&#146; in an extra bed for woman that wants to sleep with you. Why don&#146;t you bring in an extra guy too?<br>
+										<br>
+										
+										(George takes a seat. Jerry hands him a beer.)<br>
+										<br>
+										
+										JERRY: Look, it&#146;s a very awkward situation. I don&#146;t wanna be presumptuous.<br>
+										<br>
+										
+										GEORGE: All right, all right, one more time, one more time! What was the exact phrasing of the request?<br>
+										<br>
+										
+										JERRY: All right, she said she couldn&#146;t find a decent hotel room...<br>
+										<br>
+										
+										GEORGE: A decent hotel-room...<br>
+										<br>
+										
+										JERRY: Yeah, a decent hotel-room, would it be terribly inconvenient if she stayed at my place.<br>
+										<br>
+										
+										GEORGE: You can&#146;t be serious. This is New York city. There must be eleven million decent hotel rooms! Whatta you need? A flag? (waving his handkerchief) This is the signal, Jerry, this is the signal! <br>
+										<br>
+										
+										JERRY: (cynical) This is the signal? Thank you, Mr. Signal. Where were you yesterday?<br>
+										<br>
+										
+										GEORGE: I think I was affected by the caffeine. <br>
+										<br>
+										
+										(Suddenly a dog enters the apartment and jumps George on the couch.)<br>
+										<br>
+										
+										GEORGE: Ho, ho, ho, good dog, good dog...<br>
+										<br>
+										
+										(Kessler enters and closes the door.)<br>
+										<br>
+										
+										KESSLER: Hey, he really likes you, George.<br>
+										<br>
+										
+										GEORGE: Well, that&#146;s flattering. <br>
+										<br>
+										
+										(The dog heads for the bathroom and starts drinking from the toilet.)<br>
+										<br>
+										
+										KESSLER: Oh, he&#146;s gettin&#146; a drink of water. (pointing to the mattress) Is this for that girl?<br>
+										<br>
+										
+										JERRY: Yeah.<br>
+										<br>
+										
+										KESSLER: Why even give her an option?<br>
+										<br>
+										
+										JERRY: This is a person I like, it&#146;s not &#147;How to score on spring break&#148;.<br>
+										<br>
+										
+										GEORGE: Right, can we go? &#145;Cause I&#146;m double-parked, I&#146;m gonna get a ticket.<br>
+										<br>
+										
+										JERRY: Yeah, okay. Oh, wait a second. Oh, I forgot to clean the bathroom.<br>
+										<br>
+										
+										GEORGE: So what? That&#146;s good.<br>
+										<br>
+										
+										JERRY: Now, how could that be good?<br>
+										<br>
+										
+										GEORGE: Because filth is good. Whaddaya think, rock stars have sponges and ammonia lyin&#146; around the bathroom? They, have a woman comin&#146; over, &#147;I&#146;ve gotta tidy up?&#148; Yeah right, in these matters you never do what your instincts tell you. Always, ALWAYS do the opposite.<br>
+										<br>
+										
+										JERRY: This is how you operate?<br>
+										<br>
+										
+										GEORGE: Yeah, I wish.<br>
+										<br>
+										
+										JERRY: Let me just wipe the sink.<br>
+										<br>
+										
+										KESSLER: Why even give her an option for? <br>
+										<br>
+										
+										(Jerry walks to the bathroom and closes the door.)<br>
+										<br>
+										
+										KESSLER: (to George, pointing at the mattress) It&#146;s unbelievable.<br>
+										<br>
+										
+										GEORGE: Yeah.<br>
+										<br>
+										
+										KESSLER: How&#146;s the real estate-business?<br>
+										<br>
+										
+										GEORGE: (feeling awkward) It&#146;s uh, not bad, it&#146;s comin&#146; along. Why? Did you need something.<br>
+										<br>
+										
+										KRAMER: Do you handle any of that commercial...real estate?<br>
+										<br>
+										
+										GEORGE: Well, I might be getting into that.<br>
+										<br>
+										
+										KESSLER: (slaps George on the arm) You keep me posted!<br>
+										<br>
+										
+										GEORGE: I&#146;m aware of you. (to Jerry) All right, let&#146;s go (opens the bathroom door) Let&#146;s go!<br>
+										<br>
+										
+										(Jerry and the dog come out.)<br>
+										<br>
+										<br>
+										<br>
+										
+										INT. COMEDY CLUB - NIGHT<br>
+										<br>
+										
+										(Jerry on stage; performing)<br>
+										<br>
+										
+										JERRY: The dating world is not a fun world...it&#146;s a pressure world, it&#146;s a world of tension, it&#146;s a world of pain...and you know, if a woman comes over to my house, I gotta get that bathroom ready, &#145;cause she needs things. Women need equipment. I don&#146;t know what they need. I know I don&#146;t have it, I know that- You know what they need, women seem to need a lot of cotton-balls. This is the one I&#146;m- always has been one of the amazing things to me...I have no cotton-balls, we&#146;re all human beings, what is the story? I&#146;ve never had one...I never bought one, I never needed one, I&#146;ve never been in a situation, when I thought to myself: &#147;I could use a cotton-ball right now.&#148; I can certainly get out of this mess. Women need them and they don&#146;t need one or two, they need thousands of them, they need bags, they&#146;re like peat moss bags, have you ever seen these giant bags? They&#146;re huge and two days later, they&#146;re out, they&#146;re gone, the, the bag is empty, where are the cotton-balls, ladies? What are you doin&#146; with them? The only time I ever see &#145;em is in the bottom of your little waste basket, there&#146;s two or three, that look like they&#146;ve been through some horrible experience... tortured, interrogated, I don&#146;t know what happened to them. I once went out with a girl who&#146;s left a little zip-lock-baggy of cotton-balls over at my house. I don&#146;t know what to do with them, I took them out, I put them on my kitchen floor like little tumbleweeds. I thought maybe the cockroaches would see it, figure this is a dead town. &#147;Let&#146;s move on.&#148; The dating world is a world of pressure. Let&#146;s face it: a date is a job interview that lasts all night. The only difference between a date and a job interview is not many job interviews is there a chance you&#146;ll end up naked at the end of it. You know? &#147;Well, Bill, the boss thinks you&#146;re the man for the position, why don&#146;t you strip down and meet some of the people you&#146;ll be workin&#146; with?&#148; <br>
+										<br>
+										<br>
+										<br>
+										
+										INT. AIRPORT &#150; NIGHT<br>
+										<br>
+										
+										(Jerry and George are waiting for Laura.)<br>
+										<br>
+										
+										JERRY: Wouldn&#146;t it be great if you could ask a woman what she&#146;s thinking?<br>
+										<br>
+										
+										GEORGE: What a world that would be, if you just could ask a woman what she&#146;s thinkin&#146;.<br>
+										<br>
+										
+										JERRY: You know, instead, I&#146;m like a detective. I gotta pick up clues, the whole thing is a murder investigation.<br>
+										<br>
+										
+										GEORGE: Listen, listen, don&#146;t get worked up, &#145;cause you&#146;re gonna know the whole story the minute she steps off the plane.<br>
+										<br>
+										
+										JERRY: Really? How?<br>
+										<br>
+										
+										GEORGE: &#145;Cause it&#146;s all in the greeting. <br>
+										<br>
+										
+										JERRY: Uh-huh.<br>
+										<br>
+										
+										GEORGE: All right, if she puts the bags down before she greets you, that&#146;s a good sign.<br>
+										<br>
+										
+										JERRY: Right.<br>
+										<br>
+										
+										GEORGE: You know, anything in the, in the lip area is good.<br>
+										<br>
+										
+										JERRY: Lip area.<br>
+										<br>
+										
+										GEORGE: You know a hug: definitely good.<br>
+										<br>
+										
+										JERRY: Hug is definitely good.<br>
+										<br>
+										
+										GEORGE: Sure.<br>
+										<br>
+										
+										JERRY: Although what if it&#146;s one of those hugs where the shoulders are touching, the hips are eight feet apart?<br>
+										<br>
+										
+										GEORGE: That&#146;s so brutal, I hate that.<br>
+										<br>
+										
+										JERRY: You know how they do that?<br>
+										<br>
+										
+										GEORGE: That&#146;s why, you know, a shake is bad.<br>
+										<br>
+										
+										JERRY: Shake is bad, but what if it&#146;s the two-hander? The hand on the bottom, the hand on the top, the warm look in the eyes?<br>
+										<br>
+										
+										GEORGE: Hand sandwich.<br>
+										<br>
+										
+										JERRY: Right.<br>
+										<br>
+										
+										GEORGE: I see, well, that&#146;s open to interpretation. Because so much depends on the layering and the quality of the wetness in the eyes. <br>
+										<br>
+										
+										(A woman approaches Jerry from behind and puts her hands over Jerry&#146;s eyes.)<br>
+										<br>
+										
+										LAURA: Guess who?<br>
+										<br>
+										
+										JERRY: Hey, hey.<br>
+										<br>
+										
+										LAURA &amp; JERRY: Heeeey!<br>
+										<br>
+										
+										(They take each others hands and shake them around. George is looking puzzled.)<br>
+										<br>
+										
+										JERRY: It&#146;s good to see you.<br>
+										<br>
+										
+										LAURA: Hi.<br>
+										<br>
+										
+										JERRY: This is my friend George.<br>
+										<br>
+										
+										LAURA: Hi, how nice to meet you.<br>
+										<br>
+										
+										GEORGE: Hi, how are you?<br>
+										<br>
+										
+										JERRY: This is Laura.<br>
+										<br>
+										
+										GEORGE: Laura, sure.<br>
+										<br>
+										
+										JERRY: (to Laura) I can&#146;t believe you&#146;re here.<br>
+										<br>
+										
+										GEORGE &amp; JERRY: Ooh yeah, the bags, sure. <br>
+										<br>
+										
+										(They pick up the bags.)<br>
+										<br>
+										
+										LAURA: Oh, thank you.<br>
+										<br>
+										
+										JERRY: (aside, to George) Now that was an interesting greeting, did you notice that, George?<br>
+										<br>
+										
+										GEORGE: Yes, the surprise blindfold greeting. That wasn&#146;t in the manual, I don&#146;t know.<br>
+										<br>
+										<br>
+										<br>
+										
+										INT. JERRY&#146;S APARTMENT &#150; NIGHT<br>
+										<br>
+										
+										(Jerry is in the midst of showing Laura the apartment.)<br>
+										<br>
+										
+										JERRY: So uh, what do you think?<br>
+										<br>
+										
+										LAURA: Ooohhh, wow! This place isn&#146;t so bad.<br>
+										<br>
+										
+										JERRY: Yeah, it kind a motivates me to work on the road. So uh, make yourself at home. (Laura sits down on the couch, takes off her shoes and opens some buttons of her shirt.) So uh, can I get you anything? Uuhhh, bread, water...salad-dressing?<br>
+										<br>
+										
+										LAURA: (laughs) Actually, um, do you have any wine?<br>
+										<br>
+										
+										JERRY: Uh, yeah, I think I do.<br>
+										<br>
+										
+										LAURA: (referring to a lamp) Oh, do you mind if I turn this down?<br>
+										<br>
+										
+										JERRY: Uh, no, yeah, go right ahead.<br>
+										<br>
+										
+										(She turns down the lamp.)<br>
+										<br>
+										
+										LAURA: Uh, Jerry, uh, I was wandering, would it be possible &#150; and if it&#146;s not, fine &#150; for me to stay here tomorrow night too?<br>
+										<br>
+										
+										(Jerry takes off his shoes to make himself comfortable)<br>
+										<br>
+										
+										JERRY: Uh, yeah, yeah, sure, why don&#146;t you stay? Yeah, uhm...What is your, what is your schedule for tomorrow? Are you, are you doin&#146; anything?<br>
+										<br>
+										
+										LAURA: No, I&#146;d love to do something. Uh, I have my seminar in the morning, then after that I&#146;m right open.<br>
+										<br>
+										
+										JERRY: Really? What would you like to do?<br>
+										<br>
+										
+										LAURA: Well... now I know this sounds touristy, but I&#146;d just love to go on one of those five-hour boat rides around Manhattan.<br>
+										<br>
+										
+										JERRY: (unenthusiastic) Yeah, we could do that...why not, why not. (pouring the wine) I&#146;m just, I&#146;m really glad you&#146;re here.<br>
+										<br>
+										
+										(The phone rings; he picks it up.)<br>
+										<br>
+										
+										JERRY: (answering) Yeah, hello...yes...yes, she is, hold on. (to Laura) Um, it&#146;s for you.<br>
+										<br>
+										
+										LAURA: (to the phone) Hello?... Hi!... No no it was great, right on time... No, I, I&#146;m gonna stay here tomorrow...yes, yes it&#146;s fine... No, we&#146;re goin&#146; on a boat ride... Don&#146;t be silly... I&#146;m not gonna have this conversation... Look, I&#146;ll call you tomorrow... Okay, bye. (She hangs up the phone.) Never get engaged.<br>
+										<br>
+										
+										JERRY: (not excited) You&#146;re engaged?<br>
+										<br>
+										
+										LAURA: You, you really have no idea what it&#146;s like until you actually do it. And I&#146;m on this emotional roller coaster.<br>
+										<br>
+										
+										JERRY: You&#146;re engaged? <br>
+										<br>
+										
+										LAURA: You know, I can&#146;t believe it myself sometimes. You have to start thinking in terms of &#147;we&#148;. Ugh, it&#146;s a very stressful situation.<br>
+										<br>
+										
+										JERRY: (matter-of-factly) You&#146;re engaged. <br>
+										<br>
+										
+										LAURA: Yeah, yeah, he&#146;s a great guy...<br>
+										<br>
+										
+										JERRY: Yeah.<br>
+										<br>
+										
+										LAURA: You&#146;d really like him, you know, I can&#146;t wait to get on that boat.<br>
+										<br>
+										
+										JERRY: Me too!<br>
+										<br>
+										<br>
+										<br>
+										
+										INT. COMEDY CLUB &#150; NIGHT<br>
+										<br>
+										
+										(Jerry is on stage, performing.)<br>
+										<br>
+										
+										JERRY: I swear, I have absolutely no idea what women are thinking. I don&#146;t get it, okay? I, I, I admit, I, I&#146;m not getting the signals. I am not getting it! Women, they&#146;re so subtle, their little...everything they do is subtle. Men are not subtle, we are obvious. Women know what men want, men know what men want, what do we want? We want women, that&#146;s it! It&#146;s the only thing we know for sure, it really is. We want women. How do we get them? Oh, we don&#146;t know &#145;bout that, we don&#146;t know. The next step after that we have no idea. This is why you see men honking car-horns, yelling from construction sites. These are the best ideas we&#146;ve had so far. The car-horn honk, is that a beauty? Have you seen men doing this? What is this? The man is in the car, the woman walks by the front of the car, he honks. E-eeehh, eehhh, eehhh! This man is out of ideas. How does it...? E-e-e-eeeehhhh! &#147;I don&#146;t think she likes me.&#148; The amazing thing is, that we still get women, don&#146;t we? Men, I mean, men are with women. You see men with women. How are men getting women, many people wonder. Let me tell you a little bit about our organization. Wherever women are, we have a man working on the situation right now. Now, he may not be our best man, okay, we have a lot of areas to cover, but someone from our staff is on the scene. That&#146;s why, I think, men get frustrated, when we see women reading articles, like: &#147;Where to meet men?&#148; We&#146;re here, we are everywhere. We&#146;re honking our horns to serve you better.<br>
+										<br>
+										<br>
+										
+										The End</font>
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								</td>
+						</tr>
+						<tr height="6">
+							<td class="bottom2" width="645" height="6"></td>
+						</tr>
+						<tr>
+							<td width="645">
+								<div align="center">
+									<font size="-1">Copyright 2006 seinology.com | All Rights Reserved | Designed by 13erla</font></div>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+		<p></p>
+	</body>
+
+</html>

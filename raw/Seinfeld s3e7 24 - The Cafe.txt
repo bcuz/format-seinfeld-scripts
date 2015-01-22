@@ -1,0 +1,1436 @@
+<tdOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+<html>
+
+	<head>
+		<meta http-equiv="content-type" content="text/html;charset=ISO-8859-1">
+		<meta name="description" content="Top Source for Seinfeld">
+		<meta name="keywords" content="seinfeld, sienfeld, Jerry Seinfeld, Julia Louis Dreyfus, Jason Alexander, Michael Richards, Kramer, George, Costanza, Elaine Benes, morty, Larry David">
+		<title>Seinology.com :: Scripts :: 24-The Cafe</title>
+	<link rel='stylesheet' href='/stylesheet.css' type='text/css'>
+	</head>
+
+	<body>
+			<table align="center" width="787" border="0" cellspacing="0" cellpadding="0">
+				<tr>
+					<td><font size="-2" color="red">Seinology.com - </font><font size="-3" color="black">Where Seinfeld Content and Accuracy Matter Most. Seinfeld scripts in pdf form, Seinfeld episode video clips, Seinfeld episode audio clips, Jerry Seinfeld appearances, Julia Louis-Dreyfus appearances, Michael Richards appearances, Jason Alexander appearances, Seinfeld discussion Forum, Seinfeld Where are they Now? Seinlanguage Newsletter, Popular Seinfeld Lists, Seinfeld episode standup, Seinfeld episode guide, Seinfeld fan fiction. Seinfeld content all on one domain. Seinology.com enjoy your stay.</font></td>
+				</tr>
+			</table>
+		
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr height="100">
+				<td class="logo"></td>
+			</tr>
+			<tr><td class="ads" align="center" background=#8694fa>
+				<script type="text/javascript"><!--
+google_ad_client = "pub-1924026976931416";
+google_ad_width = 728;
+google_ad_height = 90;
+google_ad_format = "728x90_as";
+google_ad_type = "text";
+google_ad_channel = "";
+google_color_border = "FFFFFF";
+google_color_bg = "8694fa";
+google_color_link = "0000FF";
+google_color_text = "000000";
+google_color_url = "002E3F";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></td></tr>
+		</table>
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr>
+				<td valign="top" width="136">
+					<table width="136" border="0" cellspacing="0" cellpadding="0">
+						<tr height="24">
+							<td class="navigation">
+								<div align="center">
+									
+									<b>Navigation</b></div>
+							</td>
+						</tr>
+						<tr height="199">
+							<td class="spacer1" valign="top" width="136" height="199">
+								<div align="center">
+									<font size="-1"><a href="http://www.seinology.com">Home</a><br>
+										<a href="http://board.seinology.com">Forum</a><br>
+										<a href="http://www.seinology.com/av.shtml">Audio/Video</a><br>
+										<a href="http://www.seinology.com/scripts.shtml">Scripts</a><br>
+										<a href="http://www.seinology.com/survivor.shtml">Survivor</a><br>
+										<a href="http://www.seinology.com/fanfics.shtml">Fan Fiction</a><br>
+										<a href="http://www.seinology.com/gallery/">Gallery</a><br>
+										<a href="http://www.seinology.com/newsletter.shtml">Newsletter</a><br>
+										<a href="http://www.seinology.com/lists.shtml">Lists</a><br>
+										<a href="http://www.seinology.com/epguide.shtml">Episode Guide</a><br>
+										<a href="http://www.seinology.com/links.shtml">Links</a><br>
+										<a href="http://www.seinology.com/faqother.shtml">Faq + others</a><br>
+										<a href="http://www.seinology.com/legal.shtml">Legal</a></font></div>
+							</td>
+						</tr>
+						
+						<tr>
+							<td class="nav2" width="136">
+							<div align="center"><b>Search</b></div></td>
+						</tr>
+						<tr>
+							<td class="spacer1" width="136" valign="top"><div align="center"><form method="get" action="http://www.seinology.com/search/search.cgi">
+<p><label for="fdse_Match">Match</label><br>
+<select name="Match" id="fdse_Match" size="1">
+<option value="1">All</option>
+<option value="0">Any</option>
+<option value="2">Phrase</option>
+</select></p>
+<p><label for="fdse_Realm">Where?</label><br>
+<select name="Realm" id="fdse_Realm" size="1">
+<option selected="selected" value="All">EntireSite</option>
+<option value="Ep Guide">Ep Guide</option>
+<option value="Images">Images</option>
+<option value="Lists">Lists</option>
+<option value="Newsletters">Newsletters</option>
+<option value="Scripts">Scripts</option>
+<option value="Notes..Nothing">Notes..Nothing</option>
+</select></p>
+<p><input type="text" name="Terms" size="14" id="fdse_Terms"><br>
+<input type="submit" class="submit" name="submitButtonName" value="Search"></p>
+</div></form></td>
+						</tr>
+						<tr><td class="bottom" width="136" height="10" valign="top">
+						</td>
+						</tr>
+					</table>
+				</td>
+				<td width="4"></td>
+				<td valign="top" width="645">
+					<table width="645" border="0" cellspacing="0" cellpadding="0">
+						<tr height="18">
+							<td width="645" height="35" class="bar">
+								<div align="center">
+									<b><font size="+2" color="black">Script</font></b></div>
+							</td>
+						</tr>
+						<tr height="362">
+							<td class="spacer2" valign="top" width="645" height="362">
+
+						<p><font size="-2">Episode 24 - The Cafe<br>
+							
+						pc: 307, season 3, episode 7<br>
+							
+						Broadcast date: November 6, 1991<br>
+							<br>
+							
+						Written By Tom Leopold<br>
+							
+						Directed By Tom Cherones<br>
+							<br>
+							
+						-------------------------------------------------------------------------------<br>
+							<br>
+							
+						The Cast<br>
+							
+						Regulars:<br>
+							
+						Jerry Seinfeld ....................... Jerry Seinfeld<br>
+							
+						Jason Alexander .................. George Costanza<br>
+							
+						Julia Louis-Dreyfus .............. Elaine Benes<br>
+							
+						Michael Richards ................. Kramer<br>
+							<br>
+							
+						Guest Stars:<br>
+							<br>
+							
+						Brian George ...................... Babu Bhatt<br>
+							
+						Dawn Arnemann ................ Monica<br>
+							<br>
+							
+						==================================================================<br>
+							<br>
+							
+						[Opening monologue.]<br>
+							<br>
+							
+						You know there's like always one, location in your neighborhood, one store location that's constantly, changing hands. Everybody has this in their neighborhood, it's a leather store, then it's a yogurt shop, then it's a pet supply. It's like constantly changing and nobody can do business there. It's like some sort of Bermuda triangle of retail, you know? Stores open up and then they just disappear without a trace. Nobody knows what happened to 'em. I guess eventually when like aliens land in the mother ship from Close Encounters, the bottom will slowly open and all these store owners will come wondering out, in a daze going ?I thought there would be more walk-in traffic didn't you??<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						[George and Jerry are standing outside in the street. Across the street there is a restaurant called Dream Cafe. Sign says Grand opening.]<br>
+							<br>
+							
+						GEORGE: She thinks I'm a nice guy. Women always think I'm nice, but women don't&nbsp;nice.<br>
+							<br>
+							
+						JERRY: This is amazing, I haven't seen one person go in to that restaurant since it opened. Poor guy.<br>
+							<br>
+							
+						GEORGE: Why is nice bad? What kind a of sick society we are living in, when nice is bad?<br>
+							<br>
+							
+						JERRY: What's that smell? What are you wearing?<br>
+							<br>
+							
+						GEORGE: What, a 'little' cologne.<br>
+							<br>
+							
+						JERRY: Manly.<br>
+							<br>
+							
+						GEORGE: Monica wants me to wear it.<br>
+							<br>
+							
+						JERRY: So why didn't you say no?<br>
+							<br>
+							
+						GEORGE: I'm too nice.<br>
+							<br>
+							
+						JERRY: Look at this poor guy. His family is probably in Pakistan -- they're waiting him to send back money. This is horrible.<br>
+							<br>
+							
+						GEORGE: She wants me to take an IQ test.<br>
+							<br>
+							
+						JERRY: That's because you're stupid enough to wear the cologne.<br>
+							<br>
+							
+						GEORGE: No, she's taking this course in education for her masters. It's part of her research project, so I have to be a guinea pig.<br>
+							<br>
+							
+						JERRY: I've never been a guinea pig. I've been a sheep, a tody.<br>
+							<br>
+							
+						GEORGE: You know, I can't talk to you anymore.<br>
+							<br>
+							
+						JERRY: All right, I'm sorry. Go ahead, you're taking the IQ test.<br>
+							<br>
+							
+						GEORGE: Yeah, and she's going to find I'm a moron. You know, people think I'm smart, but I'm not smart.<br>
+							<br>
+							
+						JERRY: Who thinks you're smart?<br>
+							<br>
+							
+						GEORGE: I'm not going to break a hundred on this thing.<br>
+							<br>
+							
+						JERRY: What thing?<br>
+							<br>
+							
+						GEORGE: You don't listen when people talk to you anymore!<br>
+							<br>
+							
+						JERRY: Oh, Oh, the IQ thing...yeah.<br>
+							<br>
+							
+						GEORGE: I'm sure I have a low IQ. I've been lying about my SAT scores for 15 years.<br>
+							<br>
+							
+						JERRY: What'd ya get?<br>
+							<br>
+							
+						GEORGE: What did I get or what do I say I got?<br>
+							<br>
+							
+						JERRY: What do you say?<br>
+							<br>
+							
+						GEORGE: I say fourteen o nine (1409).<br>
+							<br>
+							
+						JERRY: 1409, that's a good score.<br>
+							<br>
+							
+						GEORGE: Psst, You're telling me.<br>
+							<br>
+							
+						JERRY: What did you really get?<br>
+							<br>
+							
+						GEORGE: You are my friend.<br>
+							<br>
+							
+						JERRY: Of course.<br>
+							<br>
+							
+						GEORGE: I tell you everything, right?<br>
+							<br>
+							
+						JERRY: I hope so.<br>
+							<br>
+							
+						GEORGE: Well, this I take to the grave.<br>
+							
+						&nbsp;<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						[Jerry's apartment. Jerry is watching Dream Cafe with binoculars and Elaine is reading a newspaper.]<br>
+							<br>
+							
+						JERRY: He's serving Mexican, Italian, Chinese. He's all over the place. That's why no one's going in.<br>
+							<br>
+							
+						ELAINE: Why do you keep watching?<br>
+							<br>
+							
+						JERRY: I don't know, I'm obsessed with it. It's like a spider in the toilet struggling for&nbsp; survival. And even though ya know he's not going to make it, y-y-you kind of root for&nbsp; him for a second.<br>
+							<br>
+							
+						ELAINE: And then you flush.<br>
+							<br>
+							
+						JERRY: Well, it's a spider.<br>
+							<br>
+							
+						ELAINE: You know, sometimes people won't go in a place, if they don't see anyone else in there.<br>
+							<br>
+							
+						(Jerry pulls his sweater over his nose.)<br>
+							<br>
+							
+						ELAINE: Do you have to do that? Jerry, don't do that, that is so annoying.<br>
+							<br>
+							
+						JERRY: Bazooka Joe.<br>
+							<br>
+							
+						(Buzzer rings and Jerry looks at and motions with his arm to Elaine who is closer to the door.)<br>
+							<br>
+							
+						JERRY: The buzzer.<br>
+							<br>
+							
+						ELAINE: It's your house.<br>
+							<br>
+							
+						JERRY: My house? You gotta be on the lease to press to buzzer. Yeah? (to the intercom)<br>
+							<br>
+							
+						INTERCOM: It's George.<br>
+							<br>
+							
+						JERRY: Come on up.<br>
+							<br>
+							
+						ELAINE: Casus belli.<br>
+							<br>
+							
+						JERRY: What's that?<br>
+							<br>
+							
+						ELAINE: It's Latin. I read it in some book. I don't know, I just wanted to say it out loud.<br>
+							<br>
+							
+						JERRY: Come on, Go in, go in!&nbsp; [watching Dream Cafe with binoculars again]<br>
+							<br>
+							
+						ELAINE: Have you gone in there?<br>
+							<br>
+							
+						JERRY: No, I'm afraid we'll start talking, and I'll gonna wind up going partners with him.<br>
+							<br>
+							
+						(George enters. He's got some bagels and big SAT book.)<br>
+							<br>
+							
+						GEORGE: Hey.<br>
+							<br>
+							
+						JERRY: You know, I could probably shoot him from here. I'd be doing us both a favor.<br>
+							<br>
+							
+						(Elaine sniffs around George.)<br>
+							<br>
+							
+						GEORGE: I'm wearing some cologne, all right?<br>
+							<br>
+							
+						ELAINE: Sure, fine.<br>
+							<br>
+							
+						JERRY: Casus belli.<br>
+							<br>
+							
+						ELAINE: Casus belli.<br>
+							<br>
+							
+						GEORGE: What's that?<br>
+							<br>
+							
+						ELAINE: Since when do you wear cologne?<br>
+							<br>
+							
+						GEORGE: Why is what I do is so important? Why must I be always the focal point of attention? Let me just be, let me live.<br>
+							<br>
+							
+						JERRY: Hey, how'd you do on that IQ test?<br>
+							<br>
+							
+						GEORGE: I didn't take it, yet.<br>
+							<br>
+							
+						(Elaine opens up the newspaper and starts leafing through it, reading some articles while still maintaining her part of the conversation)<br>
+							<br>
+							
+						ELAINE: What IQ test?<br>
+							<br>
+							
+						GEORGE: What's casus belli.<br>
+							<br>
+							
+						JERRY: Oh, it's nothing...<br>
+							<br>
+							
+						GEORGE: Is it about me?<br>
+							<br>
+							
+						JERRY: Why must you always be the focal point of attention? Why can't you just be? (Elaine laughs - hu) Why can't you live?<br>
+							<br>
+							
+						ELAINE: It's just a Latin phrase George, it does not mean anything. Now, what is this test?<br>
+							<br>
+							
+						JERRY: This woman he's dating is making him take this IQ test for this course.<br>
+							<br>
+							
+						ELAINE: Oh, that sounds like fun.<br>
+							<br>
+							
+						GEORGE: Yeah, fun. IQ tests are totally bogus. They prove nothing.<br>
+							<br>
+							
+						ELAINE: You'll do well, you're smart.<br>
+							<br>
+							
+						JERRY: No see, he's not smart. People think he's smart, but he's not.<br>
+							<br>
+							
+						ELAINE: Wha'd you get on your SAT's?<br>
+							<br>
+							
+						GEORGE: It varies.<br>
+							<br>
+							
+						JERRY: You know, I don't even know my IQ.<br>
+							<br>
+							
+						ELAINE: huh, Mine's 145.<br>
+							<br>
+							
+						GEORGE: 145!<br>
+							<br>
+							
+						JERRY: Get out of here!<br>
+							<br>
+							
+						ELAINE: You get out of here!<br>
+							<br>
+							
+						JERRY: You get out of here!<br>
+							<br>
+							
+						ELAINE: Huhuhuhuhuhuhu (laughing)<br>
+							<br>
+							
+						GEORGE: Shst, You should take the test for me.<br>
+							<br>
+							
+						ELAINE: Huh.<br>
+							<br>
+							
+						JERRY: Boy that'd be something, cheating on a IQ test.<br>
+							<br>
+							
+						GEORGE: Haha (laughs)<br>
+							<br>
+							
+						JERRY: Hey, remember in college when you passed Lettick the test out the window? You became a legend after that.&nbsp; (stepping over Elaine then George's legs to get to the large blue chair and sits down.)<br>
+							<br>
+							
+						GEORGE: Yeah, yeah I really had some guts back then. Why don't we do it again?<br>
+							<br>
+							
+						(Jerry tosses something to Elaine and she catches it)<br>
+							<br>
+							
+						ELAINE: What?<br>
+							<br>
+							
+						GEORGE: You could take the IQ test for me. I could pass it to you out a window. We could do it, she lives in the first floor.<br>
+							<br>
+							
+						ELAINE: Are you serious?<br>
+							<br>
+							
+						GEORGE: Why not?<br>
+							<br>
+							
+						ELAINE: Where would I take the test?<br>
+							<br>
+							
+						GEORGE: I don't know, she lives right around the corner. You could take it here or go to the coffee shop.<br>
+							<br>
+							
+						ELAINE: No, that'd be too noisy.<br>
+							<br>
+							
+						JERRY: Take it to Dream Cafe, you won't hear a peep.<br>
+							<br>
+							
+						ELAINE: Hey, what do you think?<br>
+							<br>
+							
+						JERRY: Hey, I love a good caper.<br>
+							<br>
+							
+						ELAINE: Yeah, that's what is, isn't it? A caper. Huh.<br>
+							<br>
+							
+						GEORGE: You'll do it?<br>
+							<br>
+							
+						ELAINE: What the hey.<br>
+							<br>
+							
+						GEORGE: Yeaah, beautiful... (They try to hit a high five, but George hits Elaine in the forehead.) Sorry...<br>
+							
+						&nbsp;<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						[Dream Cafe. Babu anxiously looking out the window. Jerry comes in.]<br>
+							<br>
+							
+						Babu Bhatt: Welcome to the Dream Cafe.<br>
+							<br>
+							
+						JERRY: Well, ah, I've been looking forward to it.<br>
+							<br>
+							
+						BABU: Oh, ah how did you hear about us?<br>
+							<br>
+							
+						JERRY: Eh, people, people are talking.<br>
+							<br>
+							
+						BABU: Smoking or non-smoking? We are proud to offer both.<br>
+							<br>
+							
+						JERRY: Ah, non-smoking would be great.<br>
+							<br>
+							
+						BABU: Very good. My name is Babu Bhatt, I will be your waiter. A steaming hot folded face cloth for your pleasure.<br>
+							<br>
+							
+						JERRY: Thank you. [Throws the towel around like a hot potato.]<br>
+							<br>
+							
+						BABU: Our specials are tacos, moussaka and franks and beans.<br>
+							<br>
+							
+						JERRY: Well, ah w-what do you recommend my good fellow?<br>
+							<br>
+							
+						BABU: Oh, the turkey.<br>
+							<br>
+							
+						JERRY: Well then the turkey it'll be. And may I say you have a splendid establishment here, my friend. I'm sure you flourish at this location for many, many years.<br>
+							<br>
+							
+						BABU: You're very kind man. Very kind, thank you. Very kind...<br>
+							<br>
+							
+						JERRY: (thinks) Very kind. I am a kind man. Who else would do something like this? Nobody. Nobody thinks about people the way I do. All right, snap out of it you stupid jerk. You're eating a turkey sandwich. What do want, a Nobel Prize?<br>
+							
+						&nbsp;<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						[George is taking a test in Monica's bedroom.]<br>
+							<br>
+							
+						GEORGE: You go in the living room. I'll take the test in here.<br>
+							<br>
+							
+						MONICA: But why?<br>
+							<br>
+							
+						GEORGE: I won't be able to, concentrate in front of you.<br>
+							<br>
+							
+						MONICA: Oh, I think you're making too much of this. IQ tests don't mean anything.<br>
+							<br>
+							
+						GEORGE: Are you kidding me? [Elaine walks past the window glancing in] This is the best tool we have today of measuring a persons' intelligence.<br>
+							<br>
+							
+						MONICA: Well, I certainly don't place any importance on it.<br>
+							<br>
+							
+						GEORGE: Well, I think you're wrong about that.&nbsp; [Elaine walks past the window again, glancing in] And ah now if you'll excuse me, I'd really like to get started, please.<br>
+							<br>
+							
+						MONICA: Good luck.<br>
+							<br>
+							
+						GEORGE: Don't need it. N'huhuhu (laughs)<br>
+							<br>
+							
+						(Monica leaves and George runs to the window where Elaine is waiting outside.)<br>
+							<br>
+							
+						ELAINE: What's been going on out there? I've been standing here 20 minutes.<br>
+							<br>
+							
+						GEORGE: I'm sorry I'm sorry, here's the test. Thanks again for doing this - hhe.<br>
+							<br>
+							
+						ELAINE: All right, what time do you want me back here.<br>
+							<br>
+							
+						GEORGE: Ah, ah, twenty to three.<br>
+							<br>
+							
+						ELAINE: Ok.<br>
+							<br>
+							
+						GEORGE: Thanks again.<br>
+							<br>
+							
+						ELAINE: All right.<br>
+							<br>
+							
+						GEORGE: A-and don't settle for 145, you can do better, you're a genius. Heheheh (laughs)<br>
+							<br>
+							
+						(George gives Elaine the thumbs up, closes the window and then gives her the OK sign.)<br>
+							
+						&nbsp;<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						[Jerry is eating at the Dream Cafe. Babu fills the water for Jerry.]<br>
+							<br>
+							
+						JERRY: Thank you Babu. You have quite a flair. You are quite the restaurateur I must say.<br>
+							<br>
+							
+						BABU: It is in deed my pleasure.<br>
+							<br>
+							
+						JERRY: Oh, please...<br>
+							<br>
+							
+						(Elaine comes in carrying the envelope with the IQ test and a pencil in her mouth.)<br>
+							<br>
+							
+						BABU: Oh, welcome to the Dream Cafe. (runs to get a menu.) Our specials today...<br>
+							<br>
+							
+						ELAINE: Oh, no no no. I'll just have a tea and toast. (sits down across the table from Jerry)<br>
+							<br>
+							
+						BABU: Tea and toast.<br>
+							<br>
+							
+						JERRY: Eat something! Babu...<br>
+							<br>
+							
+						ELAINE: Um, ok, ah well I'll have the, th-ri-rigatoni.<br>
+							<br>
+							
+						BABU: Oh, oh very good choice. Very good.<br>
+							<br>
+							
+						(Elaine is opening an envelope and is very excited.)<br>
+							<br>
+							
+						JERRY: Oh wow, so you got the test. You're cheating.<br>
+							<br>
+							
+						ELAINE: I know.<br>
+							<br>
+							
+						(Kramer comes in.)<br>
+							<br>
+							
+						KRAMER: Hey.<br>
+							<br>
+							
+						JERRY: Hey.<br>
+							<br>
+							
+						KRAMER: Oh boy. Woop...<br>
+							<br>
+							
+						(Kramer sitting down at the table next to Elaine - he sits a bit too hard and shakes the table -- silverware and plates rattle ... mustard bottle teetering - thus startling Elaine, who stops the test for a moment, but gets right back to it.)<br>
+							<br>
+							
+						KRAMER: Jerry let me ask you something, hi Elaine...&nbsp; (pats her on the shoulder twice.)<br>
+							<br>
+							
+						ELAINE: Hey.<br>
+							<br>
+							
+						KRAMER: This guy leaves this jacket at my mother's house two years ago. Now, she hasn't spoken to him since and now he says he wants the jacket back.<br>
+							<br>
+							
+						JERRY: So?<br>
+							<br>
+							
+						KRAMER: Well, I'm not giving it back.<br>
+							<br>
+							
+						JERRY: Why not?<br>
+							<br>
+							
+						KRAMER: Well because I meet a lot of women in this jacket, you know they're attracted to it. I mean why do you think my mother went out with him?<br>
+							<br>
+							
+						(Kramer takes some nachos and spills some of them on the IQ test.)<br>
+							<br>
+							
+						KRAMER: Oh, gees...<br>
+							<br>
+							
+						ELAINE: Ok,<br>
+							<br>
+							
+						KRAMER: You're all right<br>
+							<br>
+							
+						ELAINE: Yeah, ok... (takes the test and moves to another table.)<br>
+							<br>
+							
+						KRAMER: (eating some nachos) Anyway, it's been two years. I mean isn't there like statue of limitations on that?<br>
+							<br>
+							
+						JERRY: Statute.<br>
+							<br>
+							
+						KRAMER: What?<br>
+							<br>
+							
+						JERRY: Statute of limitations. It's not a statue.<br>
+							<br>
+							
+						KRAMER: No, it's statue.<br>
+							<br>
+							
+						JERRY: Fine, it's a sculpture of limitations.<br>
+							<br>
+							
+						KRAMER: Wait a minute, Just wait a minute...Elaine, Elaine! Now you're smart, is it statue or statute of limitations?<br>
+							<br>
+							
+						ELAINE: Statute.<br>
+							<br>
+							
+						KRAMER: Oh, I really think you're wrong.<br>
+							<br>
+							
+						ELAINE: Look, Kramer, I have to take this test ok, I don't have a lot of time.<br>
+							<br>
+							
+						KRAMER: What test?<br>
+							<br>
+							
+						ELAINE: An IQ test.<br>
+							<br>
+							
+						KRAMER: Hmm. Why you takin' an IQ test?<br>
+							<br>
+							
+						ELAINE: It's for George.<br>
+							<br>
+							
+						KRAMER: George?<br>
+							<br>
+							
+						ELAINE: Yeah, can-look ... can I explain it to you later?<br>
+							<br>
+							
+						KRAMER: Yeah, but why are you taking an IQ test for George?<br>
+							<br>
+							
+						ELAINE: Would you please?!<br>
+							<br>
+							
+						KRAMER: What, is it for a job or something?<br>
+							<br>
+							
+						ELAINE: Later!<br>
+							<br>
+							
+						KRAMER: You're positive it's statute?<br>
+							<br>
+							
+						ELAINE: Yes, yes! (Jerry shaking his head, like he can't believe what he's seeing)<br>
+							<br>
+							
+						BABU: Welcome, welcome. A steaming hot face towel for your... (gives Kramer a hot towel and Kramer screams, Elaine screams and Kramer falls from his chair.&nbsp; He gets up and is dazed)<br>
+							
+						&nbsp;<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						[Monica's. George is reading a New Yorker on the bed and Monica is trying to get in. The door is locked.]<br>
+							<br>
+							
+						MONICA: George?<br>
+							<br>
+							
+						GEORGE: Yeah?<br>
+							<br>
+							
+						MONICA: The door is locked.<br>
+							<br>
+							
+						GEORGE: Oh, it's locked?<br>
+							<br>
+							
+						MONICA: I need to get something.<br>
+							<br>
+							
+						GEORGE: Monica, I'm really focused here, this stuff's a killer. (turns to the next page)<br>
+							<br>
+							
+						MONICA: George!<br>
+							<br>
+							
+						GEORGE: Wish I could. (raises the magazine up in front of his face and continues reading.)<br>
+							
+						&nbsp;<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						[Dream Cafe. Babu is cleaning and singing -- Jerry is seemingly enjoying Babu's singing as Elaine gets distracted from the IQ test.]<br>
+							<br>
+							
+						BABU: Nananeena, Ladadeeda, laadadeeda, saadina.... Laadadeeda sa saadina (singing too loud)<br>
+							<br>
+							
+						ELAINE: Babu! Ba-If-if ya don't mind?<br>
+							<br>
+							
+						BABU: Set. ok<br>
+							<br>
+							
+						ELAINE: Set.<br>
+							<br>
+							
+						BABU: I'll get it ...<br>
+							<br>
+							
+						(Babu comes to collect dishes from Elaine's table and knocks down a cup of coffee.)<br>
+							<br>
+							
+						ELAINE: Oh my God! It's all over the test!<br>
+							<br>
+							
+						BABU: Oh, I did sc-I'm terribly sorry.<br>
+							<br>
+							
+						JERRY: Oh my God.<br>
+							<br>
+							
+						ELAINE: Oh man! Look at this... I'm out of time anyway.<br>
+							<br>
+							
+						BABU: Please, forgive me, please...<br>
+							<br>
+							
+						JERRY: Go ahead, I'll take care of it.<br>
+							<br>
+							
+						ELAINE: Uhh.<br>
+							<br>
+							
+						BABU: (opens the door for Elaine) Please, I'm very sorry. Tell your friends!<br>
+							<br>
+							
+						(Babu sits down at the table and Jerry sits down across from him)<br>
+							<br>
+							
+						JERRY: It's all right, she was cheating anyway.<br>
+							<br>
+							
+						BABU: You're a very kind man.<br>
+							<br>
+							
+						JERRY: Babu, you're Pakistani, right?<br>
+							<br>
+							
+						BABU: Yes, Pakistani, yes.<br>
+							<br>
+							
+						JERRY: Babu, may I say something?<br>
+							<br>
+							
+						BABU: Of course, you're very smart man, I listen.<br>
+							<br>
+							
+						JERRY: I am not a restaurateur by any means, but it occurred to me that perhaps you might serve some dishes from your native Pakistan? As opposed to say t-the franks and beans for example.<br>
+							<br>
+							
+						BABU: But there are no Pakistani people here.<br>
+							<br>
+							
+						JERRY: Doesn't matter. You would have the only authentic Pakistani restaurant in the whole neighborhood.<br>
+							<br>
+							
+						BABU: Yes, you see everything, don't you?<br>
+							<br>
+							
+						JERRY: Well, you know; not everything. I do what I can.<br>
+							<br>
+							
+						BABU: I close down today and when I open again it'll be all Pakistani restaurant. Thank you, thank you so much, you're very special person, very special.<br>
+							<br>
+							
+						(Babu leaves)<br>
+							<br>
+							
+						JERRY (thinking) I am such a great guy. Who else would've gone through the trouble of helping this poor immigrant? I am special. My mother was right. Of course I've never had Pakistani food. How bad it could be?<br>
+							
+						&nbsp;<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						[Elaine is giving the test back to George.]<br>
+							<br>
+							
+						ELAINE: It was an accident.<br>
+							<br>
+							
+						GEORGE: What did you go on a picnic?<br>
+							<br>
+							
+						ELAINE: Babu Bhatt did it.<br>
+							<br>
+							
+						GEORGE: Babu Bhatt? How I'm going to explain this?<br>
+							<br>
+							
+						MONICA: Time's up George.<br>
+							<br>
+							
+						GEORGE: U-ok. (George closes the window and shoos Elaine off. He opens the door to Monica.) Here you go.<br>
+							<br>
+							
+						MONICA: How did you do?<br>
+							<br>
+							
+						GEORGE: Piece of cake; hu.<br>
+							<br>
+							
+						MONICA: What happened to the test?<br>
+							<br>
+							
+						GEORGE: What? Oh I spilled some food on it.<br>
+							<br>
+							
+						MONICA: Food? What food?<br>
+							<br>
+							
+						GEORGE: What are you talking about?<br>
+							<br>
+							
+						MONICA: Where did you get food?<br>
+							<br>
+							
+						GEORGE: From my pocket.<br>
+							<br>
+							
+						MONICA: Your pocket?<br>
+							<br>
+							
+						GEORGE: I eh, I had a sandwich in my pocket.<br>
+							<br>
+							
+						MONICA: And coffee?<br>
+							<br>
+							
+						GEORGE: Yeah, had some coffee, yeah.<br>
+							<br>
+							
+						MONICA: Where did you get the coffee?<br>
+							<br>
+							
+						GEORGE: Where did I get the coffee? Where do think I got the coffee, at the grocery store. (small laugh)<br>
+							<br>
+							
+						MONICA: How did you get there?<br>
+							<br>
+							
+						GEORGE: I walked.<br>
+							<br>
+							
+						MONICA: How did you get out of the apartment? I didn't see you leave.<br>
+							<br>
+							
+						GEORGE: I climbed out the window.<br>
+							<br>
+							
+						MONICA: You climbed out the window?<br>
+							<br>
+							
+						GEORGE: Of course.<br>
+							<br>
+							
+						MONICA: Why didn't you go out the door?<br>
+							<br>
+							
+						GEORGE: The door? Why would I go out the door? The window's right here.<br>
+							<br>
+							
+						MONICA: You're a fascinating man, George Costanza.<br>
+							<br>
+							
+						(George spreads his arms wide, elbows slightly bent -- his head bobbles a little bit.)<br>
+							
+						&nbsp;<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						[Jerry's apartment, Jerry and Elaine. Jerry is looking Dream cafe with binoculars. There's a sign on the window: Closed for renovation.]<br>
+							<br>
+							
+						JERRY: The average person in a situation like this, they walk right by it. Not me.<br>
+							<br>
+							
+						ELAINE: You're very special.<br>
+							<br>
+							
+						(Kramer enters.)<br>
+							<br>
+							
+						KRAMER: Hey, do me a favor... Some guy comes in looking for me, tell him you don't know where I am.<br>
+							<br>
+							
+						JERRY: Of course, I always do.<br>
+							<br>
+							
+						KRAMER: No, no it's that guy. He's really been bugging me about the jacket.<br>
+							<br>
+							
+						ELAINE: Just give it back to him.<br>
+							<br>
+							
+						KRAMER: Oh, he'll have to kill me. (leaves.)<br>
+							<br>
+							
+						(Jerry sees George from the window.)<br>
+							<br>
+							
+						JERRY: Hey Georgie!<br>
+							<br>
+							
+						GEORGE: Coming up.<br>
+							<br>
+							
+						JERRY: How'd you do on the IQ test?!<br>
+							<br>
+							
+						GEORGE: 85!<br>
+							<br>
+							
+						JERRY: What?!!<br>
+							<br>
+							
+						GEORGE: 85, Jerry! 85 IQ !<br>
+							<br>
+							
+						(Jerry laughs, pounding the window sill 3 times with his open palm.)<br>
+							<br>
+							
+						ELAINE: 85?<br>
+							<br>
+							
+						JERRY: Well, well, well...<br>
+							<br>
+							
+						ELAINE: He's coming up?<br>
+							<br>
+							
+						JERRY: Well, I'm no genius but, according to my calculations he should be here in a few seconds.<br>
+							<br>
+							
+						ELAINE: Yeah, but an 85, Jerry, that's ridiculous.<br>
+							<br>
+							
+						JERRY: Well, maybe the test was gender bias, you know a lot of questions on hunting and testicles...<br>
+							<br>
+							
+						(George comes in looking angry.)<br>
+							<br>
+							
+						GEORGE: Oh, hello Professor.<br>
+							<br>
+							
+						ELAINE: George, I cannot believe...<br>
+							<br>
+							
+						GEORGE: Please...<br>
+							<br>
+							
+						ELAINE: No there has got be a mistake.<br>
+							<br>
+							
+						GEORGE: You should've seen her face. It was the exact same look my father gave me when I told him I wanted to be a ventriloquist.<br>
+							<br>
+							
+						JERRY: But an 85?<br>
+							<br>
+							
+						ELAINE: Listen, there were too many distractions there. Babu...what ever he's name was and Kramer...I couldn't concentrate.<br>
+							<br>
+							
+						JERRY (mocking) It was a madhouse.<br>
+							<br>
+							
+						ELAINE: Jerry! It was! Let me take it again.<br>
+							<br>
+							
+						GEORGE: Ooh ho hoo, forget it.<br>
+							<br>
+							
+						ELAINE: Oh, come on, come on. I?ll guarantee 140. What do you have to lose?<br>
+							<br>
+							
+						GEORGE: You could do worse!<br>
+							<br>
+							
+						ELAINE: No, no, come on. I guarantee it.<br>
+							<br>
+							
+						GEORGE: All right, I'll ask her.<br>
+							<br>
+							
+						ELAINE: Ok, now where I'm going to take it.<br>
+							<br>
+							
+						JERRY: Take it here, I'll leave, there'll be no distractions.<br>
+							
+						&nbsp;<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						[Dream Cafe. Babu is at the window looking gloomy. Jerry comes in.]<br>
+							<br>
+							
+						JERRY: Well, congratulations my friend. You know, I'm sorry I missed the grand re-opening. I was out of town for about a week.<br>
+							<br>
+							
+						BABU: You see how I listen. I work very hard, borrow more money.<br>
+							<br>
+							
+						JERRY: I think it's fantastic. Has a certain indefinable charm.<br>
+							<br>
+							
+						BABU: You wish to eat?<br>
+							<br>
+							
+						JERRY: Let me tell you something Babu. You go back in that kitchen -- tell your chef I want the works.<br>
+							<br>
+							
+						BABU: Very good.<br>
+							<br>
+							
+						JERRY (thinking) Very good? No, not very good, very great. I am very, very great.<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						[Jerry's apartment. Elaine is finishing the test.]<br>
+							<br>
+							<br>
+							<br>
+							
+						[Monica's bedroom. George is pacing the room.]<br>
+							
+						&nbsp;<br>
+							<br>
+							<br>
+							
+						[Jerry's monologue.]<br>
+							<br>
+							
+						You know the IQ test, an they always have that sample question at the beginning where they show you how to fill in the circle. This should be the first elimination point right there. Anybody goes outside that circle,... ?Yeah, you wanna come with us please.&nbsp;&nbsp; Yeah, yeah you're done, your test is over, you went outside the circle ok??<br>
+							
+						&nbsp;<br>
+							<br>
+							<br>
+							
+						[Jerry's apartment. Elaine finishes the test, slaps down the pencil and stuffs the test back in the envelope.&nbsp; She checks her watch for the time, stretches her arms above her head.]<br>
+							<br>
+							
+						ELAINE: (stretching) Oh Man... Uunh.<br>
+							<br>
+							
+						(Kramer charges in and locks the door behind him.)<br>
+							<br>
+							
+						ELAINE: What are you doing?<br>
+							<br>
+							
+						KRAMER: Quiet. Shh, don't say anything.<br>
+							<br>
+							
+						ELAINE: What's going on?<br>
+							<br>
+							
+						MAN BEHIND THE DOOR: Hey, Kramer! I saw you go there! I'm not leaving until you gimme that jacket. (Bangs on the door) Open up Kramer!<br>
+							<br>
+							
+						ELAINE: Wha'd you come in here for?<br>
+							<br>
+							
+						KRAMER: Ah, well I thought I'd throw him off. See, he knows where I live.<br>
+							<br>
+							
+						(3 more Bangs on the door)<br>
+							<br>
+							
+						ELAINE: Well Kramer, I have to return this test. I've got to get out of here.<br>
+							<br>
+							
+						KRAMER: I thought you took the test.<br>
+							<br>
+							
+						ELAINE: I had to take it again.<br>
+							<br>
+							
+						KRAMER: How come?<br>
+							<br>
+							
+						ELAINE: What's the difference?!!<br>
+							<br>
+							
+						(3 more Bangs on the door)<br>
+							<br>
+							
+						KRAMER: Well, you can't leave now.<br>
+							<br>
+							
+						ELAINE: What?<br>
+							<br>
+							
+						MAN BEHIND THE DOOR: Come on, Kramer! I want that jacket back!<br>
+							<br>
+							
+						KRAMER: Never!<br>
+							<br>
+							
+						(4 more Bangs on the door)<br>
+							
+						&nbsp;<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						[Monica's apartment. George is looking out the window.&nbsp; 3 light knocks on the bedroom door]<br>
+							<br>
+							
+						MONICA: Come on George, open up.<br>
+							<br>
+							
+						(George anxious and quietly frustrated -- he reluctantly opens the door.)<br>
+							<br>
+							
+						MONICA: Well?<br>
+							<br>
+							
+						(George shakes her hand and clasping his left hand over hers -- creating a hand sandwich.)<br>
+							<br>
+							
+						GEORGE: How' you doing?<br>
+							<br>
+							
+						MONICA: Where's the test?<br>
+							<br>
+							
+						GEORGE: Hunh, You know, it's the damnedest thing. I went out the window again to, to get a cup of coffee...<br>
+							
+						&nbsp;<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						[Dream Cafe. Babu is looking at Jerry as he eats.]<br>
+							<br>
+							
+						JERRY: Babu? Babu...[waves Babu to come to table] Babu...you know, I got to tell you, I never do this, but the shrimp, it's just, it's a little stringy. You have any chicken?<br>
+							<br>
+							
+						BABU: The shrimp is stringy?<br>
+							<br>
+							
+						JERRY: Well, maybe your refrigerator...<br>
+							<br>
+							
+						BABU: Quiet!!<br>
+							<br>
+							
+						JERRY: No I...<br>
+							<br>
+							
+						BABU: You shut up!<br>
+							<br>
+							
+						JERRY: Well I...<br>
+							<br>
+							
+						BABU: You make me change restaurant, but nobody come! You say make Pakistani, Babu Bhatt have only Pakistani restaurant. But where are people? You see people? Show me people. There are no people!<br>
+							<br>
+							
+						JERRY: You know, I think I'll just take the check.<br>
+							<br>
+							
+						BABU: You bad man! You very very bad man! [leaves]<br>
+							<br>
+							
+						JERRY: (thinking) Bad man? Could've my mother been wrong?<br>
+							
+						&nbsp;<br>
+							<br>
+							<br>
+							
+						[Monica's. Elaine is gently tapping on the bedroom window. Monica comes to open it.]<br>
+							<br>
+							
+						MONICA: Are you looking for George?<br>
+							<br>
+							
+						ELAINE: Well eh, kind of....<br>
+							<br>
+							
+						MONICA: George left.<br>
+							<br>
+							
+						ELAINE: Oh.<br>
+							<br>
+							
+						MONICA: Is, that the test?<br>
+							<br>
+							
+						ELAINE: Oh, this...emm...yeah...here you go.<br>
+							<br>
+							
+						MONICA: Thanks. I hope you do a lot better this time.<br>
+							<br>
+							
+						ELAINE: Actually, you know I think I did. The first time I couldn't really cons...[Monica closes the window]...entrate.<br>
+							
+						&nbsp;<br>
+							<br>
+							<br>
+							
+						[At the street. Dream Cafe has a Closed sign on the window and men are carrying furniture out.]<br>
+							<br>
+							<br>
+							<br>
+							
+						[George, Jerry and Kramer are standing across the street. Kramer has no jacket on.]<br>
+							<br>
+							
+						JERRY: You know what it was, bad location.<br>
+							<br>
+							
+						GEORGE: Come on, lets not stand here too long, we might run in to her.<br>
+							<br>
+							
+						JERRY: Aren't you cold? Where's your jacket?<br>
+							<br>
+							
+						KRAMER: h-Yeah...<br>
+							<br>
+							
+						JERRY: Oh, sorry.<br>
+							<br>
+							
+						KRAMER: I'm going upstairs.<br>
+							<br>
+							
+						(Elaine enters.)<br>
+							<br>
+							
+						ELAINE: Hey guys...<br>
+							<br>
+							
+						JERRY: Hey.<br>
+							<br>
+							
+						ELAINE: I just ran in to Monica. You know what my IQ is? 151.<br>
+							<br>
+							
+						JERRY: 151?<br>
+							<br>
+							
+						ELAINE: Yeah..heheah (laughing a bit)<br>
+							<br>
+							
+						GEORGE: That's a good score.<br>
+							<br>
+							
+						JERRY: So, what are you up for? How about Mexican?<br>
+							<br>
+							
+						GEORGE: Italian.<br>
+							<br>
+							
+						ELAINE: No, Chinese.<br>
+							<br>
+							
+						JERRY: You know, what would be great?<br>
+							<br>
+							
+						(George and Elaine give Jerry a long look.)<br>
+							
+						&nbsp;<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						[Closing monologue.]<br>
+							<br>
+							
+						It's tough to do a good deed. Let's look at your professional good deed doers. Your Lone Rangers, your Superman, your Batman, your Spiderman, your Elasticman. They're all wearing disguises, masks over their faces. Secret identities. Don't want people to know who they are. It's too much aggravation. &quot;Superman, yeah, thanks for saving my life, but did you have to come through my wall? I'm rentin' here, They got a security deposit. What am I supposed to do?&quot;<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						The End</td>
+						</tr>
+						<tr height="6">
+							<td class="bottom2" width="645" height="6"></td>
+						</tr>
+						<tr>
+							<td width="645">
+								<div align="center">
+									<font size="-1">Copyright 2006 seinology.com | All Rights Reserved | Designed by 13erla</font></div>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+		<p></p>
+	</body>
+
+</html>

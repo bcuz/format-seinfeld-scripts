@@ -1,0 +1,1489 @@
+<tdOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+<html>
+
+	<head>
+		<meta http-equiv="content-type" content="text/html;charset=ISO-8859-1">
+		<meta name="description" content="Top Source for Seinfeld">
+		<meta name="keywords" content="seinfeld, sienfeld, Jerry Seinfeld, Julia Louis Dreyfus, Jason Alexander, Michael Richards, Kramer, George, Costanza, Elaine Benes, morty, Larry David">
+		<title>Seinology.com :: Scripts :: 78-The Marine Biologist</title>
+	<link rel='stylesheet' href='/stylesheet.css' type='text/css'>
+	</head>
+
+	<body>
+			<table align="center" width="787" border="0" cellspacing="0" cellpadding="0">
+				<tr>
+					<td><font size="-2" color="red">Seinology.com - </font><font size="-3" color="black">Where Seinfeld Content and Accuracy Matter Most. Seinfeld scripts in pdf form, Seinfeld episode video clips, Seinfeld episode audio clips, Jerry Seinfeld appearances, Julia Louis-Dreyfus appearances, Michael Richards appearances, Jason Alexander appearances, Seinfeld discussion Forum, Seinfeld Where are they Now? Seinlanguage Newsletter, Popular Seinfeld Lists, Seinfeld episode standup, Seinfeld episode guide, Seinfeld fan fiction. Seinfeld content all on one domain. Seinology.com enjoy your stay.</font></td>
+				</tr>
+			</table>
+		
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr height="100">
+				<td class="logo"></td>
+			</tr>
+			<tr><td class="ads" align="center" background=#8694fa>
+				<script type="text/javascript"><!--
+google_ad_client = "pub-1924026976931416";
+google_ad_width = 728;
+google_ad_height = 90;
+google_ad_format = "728x90_as";
+google_ad_type = "text";
+google_ad_channel = "";
+google_color_border = "FFFFFF";
+google_color_bg = "8694fa";
+google_color_link = "0000FF";
+google_color_text = "000000";
+google_color_url = "002E3F";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></td></tr>
+		</table>
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr>
+				<td valign="top" width="136">
+					<table width="136" border="0" cellspacing="0" cellpadding="0">
+						<tr height="24">
+							<td class="navigation">
+								<div align="center">
+									
+									<b>Navigation</b></div>
+							</td>
+						</tr>
+						<tr height="199">
+							<td class="spacer1" valign="top" width="136" height="199">
+								<div align="center">
+									<font size="-1"><a href="http://www.seinology.com">Home</a><br>
+										<a href="http://board.seinology.com">Forum</a><br>
+										<a href="http://www.seinology.com/av.shtml">Audio/Video</a><br>
+										<a href="http://www.seinology.com/scripts.shtml">Scripts</a><br>
+										<a href="http://www.seinology.com/survivor.shtml">Survivor</a><br>
+										<a href="http://www.seinology.com/fanfics.shtml">Fan Fiction</a><br>
+										<a href="http://www.seinology.com/gallery/">Gallery</a><br>
+										<a href="http://www.seinology.com/newsletter.shtml">Newsletter</a><br>
+										<a href="http://www.seinology.com/lists.shtml">Lists</a><br>
+										<a href="http://www.seinology.com/epguide.shtml">Episode Guide</a><br>
+										<a href="http://www.seinology.com/links.shtml">Links</a><br>
+										<a href="http://www.seinology.com/faqother.shtml">Faq + others</a><br>
+										<a href="http://www.seinology.com/legal.shtml">Legal</a></font></div>
+							</td>
+						</tr>
+						
+						<tr>
+							<td class="nav2" width="136">
+							<div align="center"><b>Search</b></div></td>
+						</tr>
+						<tr>
+							<td class="spacer1" width="136" valign="top"><div align="center"><form method="get" action="http://www.seinology.com/search/search.cgi">
+<p><label for="fdse_Match">Match</label><br>
+<select name="Match" id="fdse_Match" size="1">
+<option value="1">All</option>
+<option value="0">Any</option>
+<option value="2">Phrase</option>
+</select></p>
+<p><label for="fdse_Realm">Where?</label><br>
+<select name="Realm" id="fdse_Realm" size="1">
+<option selected="selected" value="All">EntireSite</option>
+<option value="Ep Guide">Ep Guide</option>
+<option value="Images">Images</option>
+<option value="Lists">Lists</option>
+<option value="Newsletters">Newsletters</option>
+<option value="Scripts">Scripts</option>
+<option value="Notes..Nothing">Notes..Nothing</option>
+</select></p>
+<p><input type="text" name="Terms" size="14" id="fdse_Terms"><br>
+<input type="submit" class="submit" name="submitButtonName" value="Search"></p>
+</div></form></td>
+						</tr>
+						<tr><td class="bottom" width="136" height="10" valign="top">
+						</td>
+						</tr>
+					</table>
+				</td>
+				<td width="4"></td>
+				<td valign="top" width="645">
+					<table width="645" border="0" cellspacing="0" cellpadding="0">
+						<tr height="18">
+							<td width="645" height="35" class="bar">
+								<div align="center">
+									<b><font size="+2" color="black">Script</font></b></div>
+							</td>
+						</tr>
+						<tr height="362">
+							<td class="spacer2" valign="top" width="645" height="362">
+
+						<p><font size="-2">Episode 78 - The Marine Biologist<br>
+							
+						pc: 513, season 5, episode 14<br>
+							
+						Broadcast date: February 10, 1994<br>
+							<br>
+							
+						Written by Ron Hague &amp; Charlie Rubin<br>
+							
+						Directed by Tom Cherones<br>
+							<br>
+							
+						-------------------------------------------------------------------------------<br>
+							<br>
+							
+						The Cast<br>
+							
+						Regulars:<br>
+							
+						Jerry Seinfeld ....................... Jerry Seinfeld<br>
+							
+						Jason Alexander .................. George Costanza<br>
+							
+						Julia Louis-Dreyfus ............. Elaine Benes<br>
+							
+						Michael Richards ................. Kramer<br>
+							<br>
+							
+						Guest Stars:<br>
+							<br>
+							
+						Carol Kane ........................... Corinne<br>
+							
+						George Murdock .................. Testikov<br>
+							
+						Rosalind Allen ....................... Diane<br>
+							
+						David Blackwood .................. Hotel Clerk<br>
+							
+						Heather Morgan ................... Woman on Beach<br>
+							
+						Larry David ............................ Man on Beach (uncredited)<br>
+							
+						rc: Wayne Knight ................. Newman<br>
+							
+						rc: Richard Fancy .................. Lippman<br>
+							<br>
+							<br>
+							
+						==================================================================<br>
+							<br>
+							
+						[Opening Monologue]<br>
+							<br>
+							
+						JERRY: I love these nature shows, I&#146;ll watch and kind of nature show, and it&#146;s amazing how you can always relate, to whatever they&#146;re talking about. You know like you&#146;re watching the African Dung Beetle and you&#146;re going &#147;Boy, his life is a lot like mine.&#148; And you always root for whichever animal is the star of the show that week -- like if it&#146;s the antelope, and there&#146;s a lion chasing the antelope you go, &#147;Run antelope Run! Use your Speed, Get away!&#148; But the next week it&#146;s the lion, and then you go &#147;Get the antelope, eat him, bite his head! -- Trap him, don&#146;t let him use his speed!&#148;<br>
+							<br>
+							<br>
+							<br>
+							
+						[Jerry's apartment]<br>
+							<br>
+							
+						(Jerry is at the table and Elaine is on the phone)<br>
+							<br>
+							
+						ELAINE: (to the phone) Well did he bring it up in the meeting?<br>
+							<br>
+							
+						(Jerry picks up a yellow shirt and walks to Elaine)<br>
+							<br>
+							
+						JERRY: Elaine, see this T-shirt, six years I've had this T-shirt. It's my best one, I call him&#133; Golden Boy.<br>
+							<br>
+							
+						(Jerry unfurls the shirt and holds it up for Elaine to see)<br>
+							<br>
+							
+						ELAINE: Yeah, I'm on the phone here.<br>
+							<br>
+							
+						JERRY: Golden Boy&#146;s always the first shirt I wear out of the laundry. Here... touch Golden Boy!<br>
+							<br>
+							
+						ELAINE: No thanks. (to the phone) Yeah, Yeah I'll hold.<br>
+							<br>
+							
+						JERRY: But see look at the collar, it's fraying. Golden Boy is slowly dying. Each wash brings him one step closer, that's what makes the T-shirt such a tragic figure.<br>
+							<br>
+							
+						ELAINE: Why don't you just let Golden Boy soak in the sink with some Woolight?<br>
+							<br>
+							
+						JERRY: No!!! The reason he's the iron man is because he goes out there and plays every game. Wash!!! Spin!!! Rinse!!! Spin!!! You take that away from him, you break his spirit!<br>
+							<br>
+							
+						(Elaine is suddenly excited)<br>
+							<br>
+							
+						ELAINE: (to the phone)Yeah. Oh! What? He is! Oh! that&#146;s fantastic! I'm so excited! Yes I'm excited, OK, OK I'll be in soon! yeah, yeah, I'm coming, I'm coming! OK bye. (Elaine jumps up and dances around) Yuri Testikov, the Russian writer!<br>
+							<br>
+							
+						JERRY: The guy who&#146;s in the gulag?!<br>
+							<br>
+							
+						ELAINE: Yeah! Pendant's publishing his new book, and I'm working on it! Lippman and I are gonna go to the airport on Thursday and pick him up in a limousine!<br>
+							<br>
+							
+						JERRY: You wanna barrow Golden Boy!<br>
+							<br>
+							
+						ELAINE: Oh! (pushing Jerry) Do you know what this means, it's like working with Tolstoy!<br>
+							<br>
+							
+						JERRY: Hey ya know I read an unbelievable thing about Tolstoy the other day, did you know the original title for &quot;War and Peace&quot; was &quot;War--What Is It Good For?&quot;!<br>
+							<br>
+							
+						ELAINE: ... (looking at Jerry for a second then, mockingly nods her head back and forth) ....Ha ha ha ha.<br>
+							<br>
+							
+						JERRY: No, no&#133; I'm not kidding Elaine it's true, his mistress didn't like the title and insisted that he change it to &quot;War and Peace&quot;!<br>
+							<br>
+							
+						ELAINE: But it's a line from that song!<br>
+							<br>
+							
+						JERRY: That's were they got it from!<br>
+							<br>
+							
+						ELAINE: Really?<br>
+							<br>
+							
+						JERRY: I'm not joking!<br>
+							<br>
+							
+						(George enters with a handful of mail, pauses, and takes a wide stance in a semi-dramatic fashion)<br>
+							<br>
+							
+						GEORGE: &#133; You can't handle the truth! (he salutes) (imitating Jack Nicholson [a.k.a. Col. Nathan R. Jessep], from the 1992 movie A Few Good Men)<br>
+							<br>
+							
+						JERRY: What?<br>
+							<br>
+							
+						GEORGE: (still in Jack&#146;s voice) I'm working on my Jack Nicholson, You can't handle the truth! (he salutes)<br>
+							<br>
+							
+						ELAINE: What is this your mail? (She takes a magazine and starts flipping through it)<br>
+							<br>
+							
+						GEORGE: Yeah, I grabbed it on the way out, I don't want my mother reading it.<br>
+							<br>
+							
+						ELAINE: Oh! Your Alumni Magazine.<br>
+							<br>
+							
+						JERRY: Your mother reads your mail?<br>
+							<br>
+							
+						GEORGE: Yeah.<br>
+							<br>
+							
+						JERRY: What do you mean like post-cards an...?<br>
+							<br>
+							
+						GEORGE: No, anything.<br>
+							<br>
+							
+						JERRY: She doesn't open...?<br>
+							<br>
+							
+						GEORGE: She'll open!<br>
+							<br>
+							
+						JERRY: You've caught your mother opening envelopes!<br>
+							<br>
+							
+						GEORGE: Yes.<br>
+							<br>
+							
+						JERRY: What did she say?<br>
+							<br>
+							
+						GEORGE: I was curious! (imitating his mom&#146;s voice)<br>
+							<br>
+							
+						JERRY: Isn't that against the law?<br>
+							<br>
+							
+						GEORGE: Maybe I can get her locked up.<br>
+							<br>
+							
+						ELAINE: (gasp) Hey Jerry, you're in the Alumni magazine! Listen to this: Jerry Seinfeld has appeared on &quot;David Letterman&quot; and the &quot;Tonight Show&quot; and he did a pilot for NBC called &quot;Jerry&quot; ...that was not picked up. Georgie, how come there&#146;s not anything about you in here?<br>
+							<br>
+							
+						JERRY: He can't handle the truth!<br>
+							<br>
+							
+						ELAINE: All right&#133; (slaps the magazine down on the counter) this is too much fun, I gotta get back to work. (heads for the door)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Shot of Kramer from behind, walking in the hallway to his apartment door, he is getting his keys out and carrying a golf bag full of clubs over his shoulder]<br>
+							<br>
+							
+						KRAMER: (singing) Johnny Yuma was a rebel, Yeah! ...<br>
+							<br>
+							
+						(Kramer makes a wide turn towards his door to put the key in, and in the process, the golf bag knocks into Elaine as she leaves Jerry&#146;s apartment.)<br>
+							<br>
+							
+						KRAMER: Are you all right?<br>
+							<br>
+							
+						ELAINE: Yeah. (startled)<br>
+							<br>
+							
+						KRAMER: Unh.... Sorry.<br>
+							<br>
+							
+						ELAINE: It&#146;s OK. (starts walking down the hallway)<br>
+							<br>
+							
+						KRAMER: Yeah. Oh, here, wait wait (walks a few steps to catch up to her as she stops) Ah, maybe you could ah, use this (he searches through his jacket) Ah, here, it's a electronic organizer...<br>
+							<br>
+							
+						ELAINE: What?<br>
+							<br>
+							
+						KRAMER: Ah, Yeah. uh...<br>
+							<br>
+							
+						ELAINE: Wh..?<br>
+							<br>
+							
+						KRAMER: Yeah, here it is... yeah.<br>
+							<br>
+							
+						(Elaine Gasps)<br>
+							<br>
+							
+						KRAMER: You know, for phone numbers, addresses, keep appointments, everything.<br>
+							<br>
+							
+						ELAINE: Wow!<br>
+							<br>
+							
+						KRAMER: It's got an alarm that beeps!<br>
+							<br>
+							
+						ELAINE: Oh! I can't believe this, Kramer!<br>
+							<br>
+							
+						KRAMER: Yeah.<br>
+							<br>
+							
+						ELAINE: I've been wanting to get one of these things! Are you sure that...<br>
+							<br>
+							
+						(Kramer drops a piece of paper. He bends over to pick it up -- clubs slide down and golf balls drops everywhere)<br>
+							<br>
+							
+						ELAINE: ...Are you sure you can't use this thing?<br>
+							<br>
+							
+						KRAMER: No no no. I got all my appointments up here. (he points to his head)<br>
+							<br>
+							
+						ELAINE: Where'd you get this?<br>
+							<br>
+							
+						KRAMER: Well, the bank, I opened up a new account.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Back inside Jerry's apartment - George comes out of the bathroom as Jerry, standing at the table, reads the paper]<br>
+							<br>
+							
+						GEORGE: Hey, did you see that whale thing on TV last night?<br>
+							<br>
+							
+						JERRY: No.<br>
+							<br>
+							
+						GEORGE: I am such a Huge whale fan. These marine biologists were showin' how they communicate with each other with these squeaks and squeals, what a fish!<br>
+							<br>
+							
+						JERRY: It's a mammal.<br>
+							<br>
+							
+						GEORGE: Whatever. (George looks to the table) Hey new tape recorder?<br>
+							<br>
+							
+						JERRY: Yeah, got it from the bank.<br>
+							<br>
+							
+						(Kramer enters without his golf bag)<br>
+							<br>
+							
+						KRAMER: (overly excited) Hey (Claps hands one time)<br>
+							<br>
+							
+						JERRY: Hey.<br>
+							<br>
+							
+						GEORGE: Hey.<br>
+							<br>
+							
+						KRAMER: (still overly excited) Who wants to have some fun!<br>
+							<br>
+							
+						JERRY: I do.<br>
+							<br>
+							
+						GEORGE: I do.<br>
+							<br>
+							
+						KRAMER: (once again, overly excited) Now are you just sayin' you want to have fun or do you reallllly want to have fun?!<br>
+							<br>
+							
+						JERRY: I really wanna have fun.<br>
+							<br>
+							
+						GEORGE: I'm just sayin' I wanna have some fun.<br>
+							<br>
+							
+						KRAMER: Right now there six-hundred Titleists that I got from the driving range in the trunk of my car. Why don't we drive out to Rock-a-Way&#133; and hit `em-----------(very over excited) into the ocean! Now picture this.... we find a nice sweet spot between the dunes, we take out our drivers, we tee up and (he makes a golf stroke), that ball goes sailing up into the sky holds there for a moment and then....... ..... gulp!<br>
+							<br>
+							
+						GEORGE: Come on. Ya wanna go get some lunch?<br>
+							<br>
+							
+						JERRY: Yeah, let me just stop by the cash machine and I'll meet you over at the coffee shop.<br>
+							<br>
+							
+						GEORGE: Yeah, I'm gonna get a paper.<br>
+							<br>
+							
+						(Kramer gets ready to make another imaginary swing)<br>
+							<br>
+							
+						GEORGE: Keep your head down.<br>
+							<br>
+							
+						KRAMER: Yeah! (Kramer takes a huge imaginary swing)<br>
+							<br>
+							<br>
+							<br>
+							
+						[At the ATM Jerry is getting some money -- there is a woman at the ATM to his right]<br>
+							<br>
+							
+						JERRY: (he hits a few keys and looks over at her) Cash advance... yes (hits a key) &#133; no (he looks over again) balance inquiry... no (he looks again) receipt.... no (he looks again) processing... processing... (He opens the box, pulls out his money and then looks at the woman and says) I won!<br>
+							<br>
+							
+						(Jerry starts to walk away)<br>
+							<br>
+							
+						DIANE: Jerry?<br>
+							<br>
+							
+						JERRY: Yeah.<br>
+							<br>
+							
+						DIANE: It&#146;s Diane, Diane DeConn, from Queens college.<br>
+							<br>
+							
+						JERRY: Oh Diane.<br>
+							<br>
+							
+						DIANE: (laughing a little) How are you?<br>
+							<br>
+							
+						JERRY: Good, good.<br>
+							<br>
+							
+						DIANE: (sighs) How long has it been?<br>
+							<br>
+							
+						JERRY: Since college.<br>
+							<br>
+							
+						DIANE: Huh. I've been seeing you on TV you're doin' great.<br>
+							<br>
+							
+						JERRY: Yeah pluggin' along.<br>
+							<br>
+							
+						DIANE: You know I got the Alumni magazine. What ever happened to your friend George? I notice I never see his name in there.<br>
+							<br>
+							
+						JERRY: Well he's kind of modest.<br>
+							<br>
+							
+						DIANE: He was always such a goof-off. I mean did he ever get anywhere?<br>
+							<br>
+							
+						JERRY: Sure.<br>
+							<br>
+							
+						DIANE: Yeah? What field?<br>
+							<br>
+							
+						JERRY: Marine biology.<br>
+							<br>
+							
+						DIANE: George is a marine biologist?!<br>
+							<br>
+							
+						JERRY: Yeah, pretty damn good one, too!<br>
+							<br>
+							
+						DIANE: I can't believe it. I-I would never had thought&#133;<br>
+							<br>
+							
+						JERRY: Yeah... he&#146;s specializing in whales. He's working on lowering the cholesterol level, in whales&#133; all that blubber -- quite unhealthy. You know it&#146;s the largest mammal on earth but as George says &quot;they don't have to be.&quot;<br>
+							<br>
+							<br>
+							<br>
+							
+						[In the coffee shop Jerry and George are sitting in the booth and talking]<br>
+							<br>
+							
+						GEORGE: Diane DeConn? You saw Diane DeConn!<br>
+							<br>
+							
+						JERRY: Something huh?<br>
+							<br>
+							
+						GEORGE: Ahh! How'd she look?<br>
+							<br>
+							
+						JERRY: She looked great.<br>
+							<br>
+							
+						GEORGE: Ahh! (closes his eyes and rolling his head back) Umh!<br>
+							<br>
+							
+						JERRY: She asked about you.<br>
+							<br>
+							
+						GEORGE: She asked about me? What did- What did she say?<br>
+							<br>
+							
+						JERRY: &quot;How's George?&quot;<br>
+							<br>
+							
+						GEORGE: George! She said George? She remembered my name. (loudly -- to a passing waitress and the rest of the restaurant) Diane DeConn remembered my name. She was the &quot;it&quot; girl!<br>
+							<br>
+							
+						JERRY: Yeah she asked for your number, I think she's gonna get in touch with you.<br>
+							<br>
+							
+						GEORGE: (pauses for a few seconds) &#133;OK, I'm tellin' you right now - if your kiddin' around I'm not gonna be able to be your friend anymore. I'm serious about that. You got that.<br>
+							<br>
+							
+						JERRY: I got no problem with that.<br>
+							<br>
+							
+						GEORGE: Good. Cause if this is a lie, if this is a joke, if this is your idea of some cute little game&#133; we're finished!<br>
+							<br>
+							
+						JERRY: Expect a call.<br>
+							<br>
+							
+						GEORGE: Oh my god he's not kidding. (exhale gasp)<br>
+							<br>
+							
+						JERRY: Now, I should tell you&#133; that, at this point, she's under the impression that you&#146;re - a - ah&#133;<br>
+							<br>
+							
+						GEORGE: A what?<br>
+							<br>
+							
+						JERRY: A marine biologist.<br>
+							<br>
+							
+						GEORGE: (pauses) A marine biologist?<br>
+							<br>
+							
+						JERRY: Yes.<br>
+							<br>
+							
+						GEORGE: Why am I a marine biologist?<br>
+							<br>
+							
+						JERRY: I may have mentioned it.<br>
+							<br>
+							
+						GEORGE: But I'm not a marine biologist!<br>
+							<br>
+							
+						JERRY: Yes I know that.<br>
+							<br>
+							
+						GEORGE: So?<br>
+							<br>
+							
+						JERRY: Why, you don't think it's a good job?<br>
+							<br>
+							
+						GEORGE: I didn't even know it was a job.<br>
+							<br>
+							
+						JERRY: Oh it's a fascinating field!<br>
+							<br>
+							
+						GEORGE: Well what if she calls me? What am I supposed to say?! (hand hits the table)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Dusk -- In George's parent's house... George is sitting in a chair. He is talking to Diane on the phone]<br>
+							<br>
+							
+						GEORGE: Algae,&#133; obviously plankton, hmhm. I don't know what else I could tell ya, ah, Oh I-I just got back from a trip to the Galapagos Islands, I was living with the turtles.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Limo driving on the street -- then inside the limo: Elaine, Lippman, and Testikov are talkin']<br>
+							<br>
+							
+						LIPPMAN: We have got you in a very nice hotel, I-I don't know how you like to work, but ah, I can arrange for an office if you like.<br>
+							<br>
+							
+						TESTIKOV: (Russian accent) I work in hotel.<br>
+							<br>
+							
+						LIPPMAN: Oh.<br>
+							<br>
+							
+						TESTIKOV: &#133; is better.<br>
+							<br>
+							
+						(Elaine gestures towards Testikov, she nods in agreement -- trying to tell Lippman, she quietly says he&#146;ll work at the hotel -- of course he just heard it directly from Testikov)<br>
+							<br>
+							
+						TESTIKOV: Away from all your little petty bickerings and interference.<br>
+							<br>
+							
+						LIPPMAN: You know, Tolstoy use to write in the village square. The faces inspired him.<br>
+							<br>
+							
+						TESTIKOV: (proudly) He did not need inspiration&#133; God spoke through his pen. Hu Hu Hu (pounds his fist lightly on his heart)<br>
+							<br>
+							
+						ELAINE: Ohh, That is so true! (clutches her hands to her chest)<br>
+							<br>
+							
+						LIPPMAN: Yes.<br>
+							<br>
+							
+						ELAINE: Although one wonders if &quot;War and Peace&quot; would has been as highly acclaimed as it was, had it was published under it's original title &quot;War---What Is It Good For?&quot;<br>
+							<br>
+							
+						LIPPMAN: What?<br>
+							<br>
+							
+						ELAINE: Yeah. Mr. Lippman. It was *his mistress* who insisted that he call it&#133;<br>
+							<br>
+							
+						LIPPMAN: Elaine&#133;<br>
+							<br>
+							
+						[Background cars: Honk Honk]<br>
+							<br>
+							
+						ELAINE: &quot;War and Peace.&quot;<br>
+							<br>
+							
+						LIPPMAN: Elaine&#133;<br>
+							<br>
+							
+						ELAINE: &quot;War--What Is It Good For.&quot; (sings) Absolutely nothin' HUH! Say it Again! ahehehehe<br>
+							<br>
+							
+						TESTIKOV: (quietly) Ahhuuh<br>
+							<br>
+							
+						ELAINE: (spoken to Testikov) that's a song &#133;<br>
+							<br>
+							
+						LIPPMAN: It&#133; (frustrated and trying to keep her from saying more)<br>
+							<br>
+							
+						ELAINE: &#133;they-they took it from Tolstoy.<br>
+							<br>
+							
+						LIPPMAN: No. e-Elaine.<br>
+							<br>
+							
+						(Elaine's organizer starts beeping)<br>
+							<br>
+							
+						TESTIKOV: War--What Is It Good For?<br>
+							<br>
+							
+						LIPPMAN: It-no- it's just her sense of humor.<br>
+							<br>
+							
+						ELAINE: No it&#146;s not. That really is true.<br>
+							<br>
+							
+						TESTIKOV: What is that noise!<br>
+							<br>
+							
+						LIPPMAN: It&#146;s Not&#133;<br>
+							<br>
+							
+						ELAINE: Yes it is&#133;<br>
+							<br>
+							
+						LIPPMAN: No It&#146;s Not!!<br>
+							<br>
+							
+						TESTIKOV: That noise! &#133;<br>
+							<br>
+							
+						LIPPMAN: it-it-it&#146;s her purse.<br>
+							<br>
+							
+						TESTIKOV: Where is that noise? It&#146;s traveling up my spine! Into my Brain!<br>
+							<br>
+							
+						ELAINE: Oh, I&#133;<br>
+							<br>
+							
+						LIPPMAN: It's coming from your purse.<br>
+							<br>
+							
+						ELAINE: Oh&#133; It must be my new organizer.<br>
+							<br>
+							
+						TESTIKOV: That noise! &#133;<br>
+							<br>
+							
+						LIPPMAN: Yes&#133;Turn it off.<br>
+							<br>
+							
+						ELAINE: Right, I think it&#146;s this&#133;<br>
+							<br>
+							
+						LIPPMAN: No it&#146;s the Button. Elaine&#133;<br>
+							<br>
+							
+						TESTIKOV: I can not stand it!<br>
+							<br>
+							
+						LIPPMAN: It's the button at the top, the top.<br>
+							<br>
+							
+						ELAINE: OK. I don&#146;t quite know&#133;<br>
+							<br>
+							
+						TESTIKOV: Will you Turn it off!<br>
+							<br>
+							
+						LIPPMAN: The one at the top.<br>
+							<br>
+							
+						ELAINE: Yeah, I&#146;m gonna work on that&#133;<br>
+							<br>
+							
+						TESTIKOV: Aaach!<br>
+							<br>
+							
+						(Testikov grabs the organizer and throws it out the window of the limo)<br>
+							<br>
+							
+						LIPPMAN: Yeah&#133; Ohoo.<br>
+							<br>
+							<br>
+							<br>
+							
+						[On the beach Kramer is getting ready to hit a ball. He takes a big swing and misses. He looks for the ball in the air and the realizes that it&#146;s still on the ground.]<br>
+							<br>
+							<br>
+							<br>
+							
+						[Jerry's apartment]<br>
+							<br>
+							
+						JERRY: I did it for you.<br>
+							<br>
+							
+						GEORGE: I don&#146;t know what&#146;cha had to tell her that for. You put me in a very difficult position, Marine Biologist! I'm very uncomfortable with this whole thing.<br>
+							<br>
+							
+						JERRY: You know with all do respect I would think it's right up your alley.<br>
+							<br>
+							
+						GEORGE: Well it's not up my alley! It's one thing if I make it up. I know what I'm doin, I know my alleys! You got me in the Galapagos Islands livin' with the turtles, I don't know where the hell I am.<br>
+							<br>
+							
+						JERRY: Well you came in the other day with all that whale stuff, the squeaking and the squealing and&#133;<br>
+							<br>
+							
+						GEORGE: Look, why couldn't you make me an architect? You know I always wanted to pretend that I was an architect. Well I-I'm supposed to see her tomorrow, I-I-I'm gonna tell her what's goin on. I mean maybe she just likes me for me.<br>
+							<br>
+							
+						(Kramer bangs into the room with his golf clubs)<br>
+							<br>
+							
+						KRAMER: Hey.<br>
+							<br>
+							
+						JERRY: Hey.<br>
+							<br>
+							
+						KRAMER: Hey ya want these (He throws down the golf clubs -- kicks the bag hard) I don't want em!<br>
+							<br>
+							
+						JERRY: What?<br>
+							<br>
+							
+						KRAMER: I stink! I can't play! The ball is just sitting there, Jerry, and I can't hit it! I only hit one really good ball that went way out there!<br>
+							<br>
+							
+						JERRY: Well what happened?<br>
+							<br>
+							
+						KRAMER: I have no concentration!<br>
+							<br>
+							
+						(Kramer starts to brush his hands at the back of his neck and scratch his body)<br>
+							<br>
+							
+						JERRY: What, what, what's wrong with you?<br>
+							<br>
+							
+						KRAMER: Sand, I can get rid of the sand. (he sits at the table, looking down his shirt) Look there&#146;s still some in here, it won't go away! Look I even got sand in the pockets!<br>
+							<br>
+							
+						(He empties his pocket and a bunch of sand falls out)<br>
+							<br>
+							
+						JERRY: Hey come on, you're getting it all over the floor!<br>
+							<br>
+							
+						(Kramer gets sand in his eye, as he puts his hands to his eyes he falls over on to the floor. Then the phone rings -- George picks up the receiver and, without even looking, tosses it to Jerry)<br>
+							<br>
+							
+						JERRY: (to the phone) Hello&#133; yeah&#133; yes it is&#133; really&#133; ah, ah&#133; Could you hold on a second? (to George and Kramer) Hey listen to this, some woman found an electronic organizer, my name was in it, she wants me to help her track down the owner.<br>
+							<br>
+							
+						GEORGE: How'd she find it?<br>
+							<br>
+							
+						JERRY: She&#146;s waking down the street and it hit her in the head!<br>
+							<br>
+							<br>
+							<br>
+							
+						[Monk's where Jerry and Corinne (the woman he was talking with on the phone) are sitting in the booth ]<br>
+							<br>
+							
+						CORINNE: So I am walkin' along, minding my own business when all off the sudden this thing comes flying out of nowhere and clonks me right on the head.<br>
+							<br>
+							
+						JERRY: Wow.<br>
+							<br>
+							
+						CORINNE: Yeah, So they took me to the hospital&#133;<br>
+							<br>
+							
+						JERRY: Yeah&#133;<br>
+							<br>
+							
+						CORINNE: &#133;and they put me in this thing, that feels like a coffin, for forty-five minutes. Have you ever been in one of those things? You could go berserk in there!<br>
+							<br>
+							
+						JERRY: Well you have insurance...<br>
+							<br>
+							
+						CORINNE: I wish!<br>
+							<br>
+							
+						JERRY: Unbelievable!<br>
+							<br>
+							
+						CORINNE: Yeah.<br>
+							<br>
+							
+						(Organizer beeps)<br>
+							<br>
+							
+						JERRY: What is with this thing.<br>
+							<br>
+							
+						CORINNE: (hits the organizer) I don't know, it never shuts up. So anyway, you could see why I would be interested in finding this person.<br>
+							<br>
+							
+						JERRY: Absolutely. You should not have to pay for that.<br>
+							<br>
+							
+						(Organizer beeps again)<br>
+							<br>
+							
+						CORINNE: (hits the organizer, picks it up and hits it on to the table -- shouting) Stop it! Stop it!<br>
+							<br>
+							
+						JERRY: Let me have a look at this thing.<br>
+							<br>
+							
+						CORINNE: Ya know it was somebody told me they thought they saw that thing come out of a limousine.<br>
+							<br>
+							
+						JERRY: Typical rich people, using the world for their personal garbage can.<br>
+							<br>
+							
+						CORINNE: Boy am I lucky your name came up. I just pushed a button.<br>
+							<br>
+							
+						JERRY: I would like to know what my name&#146;s doin in this creep's organizer to begin with.<br>
+							<br>
+							
+						CORINNE: Yeah.<br>
+							<br>
+							
+						JERRY: Who do I know who would have even been in a limousine yesterday anyway. Uhh-O h-owow!<br>
+							<br>
+							<br>
+							<br>
+							
+						[Exterior of Jerry and Kramer&#146;s building, then in the hallway -- Elaine knocks on Kramer's door, he answers -- his right elbow is way up above his head and his arm is down his back as he is still itching cause of the sand]<br>
+							<br>
+							
+						KRAMER: Wha-- Oh, hey.<br>
+							<br>
+							
+						ELAINE: Hey, &quot;great&quot; organizer you gave me.<br>
+							<br>
+							
+						KRAMER: Oh, you liked it huh.<br>
+							<br>
+							
+						ELAINE: It wouldn't stop beeping, in the car so Testikov, through it out the window.<br>
+							<br>
+							
+						KRAMER: Oh. (continuing to itch and scratch from the sand)<br>
+							<br>
+							
+						ELAINE: I transferred everything in there. I threw out my old book. I'm lost now, Kramer.<br>
+							<br>
+							
+						(flapping his shirt vigorusly to get the sand out)<br>
+							<br>
+							
+						ELAINE: What, what is it?<br>
+							<br>
+							
+						KRAMER: The sand, it's everywhere! (blows on his arm)<br>
+							<br>
+							
+						ELAINE: OK I'll see you later.<br>
+							<br>
+							
+						KRAMER: Yei-<br>
+							<br>
+							
+						(Kramer closes the door and Jerry walks up to his door)<br>
+							<br>
+							
+						JERRY: Oh, there you are!<br>
+							<br>
+							
+						ELAINE: There you are!<br>
+							<br>
+							
+						JERRY: So?<br>
+							<br>
+							
+						ELAINE: So?<br>
+							<br>
+							
+						JERRY: So what do you have to say for yourself?<br>
+							<br>
+							
+						ELAINE: So what do you have to say for yourself?<br>
+							<br>
+							
+						(Jerry unlocks the door and they both walk in and close the door)<br>
+							<br>
+							
+						JERRY: Why should I have anything for say for myself?<br>
+							<br>
+							
+						ELAINE: &quot;War-- What is it good for?&quot;!<br>
+							<br>
+							
+						JERRY: A-Ahahahahah. Who told you?<br>
+							<br>
+							
+						ELAINE: A-hu hu hu hu. Yuri Testikov, the Russian writer! Hellooo!<br>
+							<br>
+							
+						JERRY: You told Testikov, (Elaine nods) that Tolstoy wanted to name his book &quot;War-- What Is IT Good For?&quot;?<br>
+							<br>
+							
+						ELAINE: Uh-hu. And do you know what happened?<br>
+							<br>
+							
+						JERRY: Can I take a guess?<br>
+							<br>
+							
+						ELAINE: Oh, Please.<br>
+							<br>
+							
+						JERRY: Oh I don't know, he threw your organizer out the window?<br>
+							<br>
+							
+						(Elaine pushes Jerry)<br>
+							<br>
+							
+						ELAINE: What, how did you know that?<br>
+							<br>
+							
+						JERRY: Because I know who has it.<br>
+							<br>
+							
+						ELAINE: (gasps) How did you find it?<br>
+							<br>
+							
+						JERRY: Because the woman who got hit in the head with it found my name, called me up, and we met!<br>
+							<br>
+							
+						ELAINE: (gasps) Where is it, give it to me!<br>
+							<br>
+							
+						JERRY: I don't have it!<br>
+							<br>
+							
+						ELAINE: Why not.<br>
+							<br>
+							
+						JERRY: Because she's not returning it until she gets the money back for the hospital bill.<br>
+							<br>
+							
+						ELAINE: But I didn't do it. Testikov did it, he should pay for it!<br>
+							<br>
+							
+						JERRY: How much is Testikov getting from Pendant for this book?<br>
+							<br>
+							
+						ELAINE: One million.<br>
+							<br>
+							
+						JERRY: Well that's a start.<br>
+							<br>
+							<br>
+							<br>
+							
+						[George and Diane are walking on the beach]<br>
+							<br>
+							
+						GEORGE: Then of course with evolution, the octopus lost the nostrils and took on the more familiar look that we know today.<br>
+							<br>
+							
+						DIANE: Uh-Really?<br>
+							<br>
+							
+						GEORGE: Yeah, but if you still look closely you can see ah, a little bump where the nose use to be. huhuhuhu.<br>
+							<br>
+							
+						DIANE: Wow.<br>
+							<br>
+							
+						GEORGE: But enough about fish, huhuhu. I can discuss other things you know, ah&#133; architecture. Huhu. (makes a wide gesture with his arms)<br>
+							<br>
+							<br>
+							<br>
+							
+						[At the hotel that Testikov is staying at]<br>
+							<br>
+							
+						JERRY: You know what room Testikov's in?<br>
+							<br>
+							
+						ELAINE: Yeah, 308. Oh, I'm crazy for doing this!<br>
+							<br>
+							
+						JERRY: Well, you want your organizer back don't you?<br>
+							<br>
+							
+						ELAINE: Why are you so interested -- you want to take her out?<br>
+							<br>
+							
+						JERRY: Hey you know when Superman saves someone no one asks if he's trying to hit on her!<br>
+							<br>
+							
+						ELAINE: Well, you're not Superman.<br>
+							<br>
+							
+						JERRY: Well you're not Lois Lane.<br>
+							<br>
+							
+						ELAINE: Oh. Listen, you got the tape-recorder.<br>
+							<br>
+							
+						JERRY: Yeah I got it. You sure you want to do this? (hands Elaine the tape recorder.)<br>
+							<br>
+							
+						ELAINE: Yeah I gotta get Testikov on tape. If this woman ends up in the &quot;New England Journal Of Medicine&quot; I'm not gonna pay for it.<br>
+							<br>
+							
+						JERRY: Oh, here she comes.<br>
+							<br>
+							
+						(Corinne enters through the hotel&#146;s revolving door)<br>
+							<br>
+							
+						JERRY: Hi.<br>
+							<br>
+							
+						CORINNE: Hi.<br>
+							<br>
+							
+						JERRY: Elaine, this is Corinne.<br>
+							<br>
+							
+						CORINNE: Hello.<br>
+							<br>
+							
+						ELAINE: Hi, (sighs) you got the organizer?<br>
+							<br>
+							
+						(The organizer starts to beep as Corinne opens her coat to show the organizer in her inside coat pocket)<br>
+							<br>
+							
+						JERRY: All right lets go. We'll meet you back down here in ten minutes, hopefully with the money.<br>
+							<br>
+							<br>
+							<br>
+							
+						[At the beach George and Diane are still walking]<br>
+							<br>
+							
+						DIANE: Your parents must be so proud of you, George.<br>
+							<br>
+							
+						GEORGE: Oh, they're busting!<br>
+							<br>
+							
+						DIANE: Hmhm.<br>
+							<br>
+							
+						(There is a large crowd of men and women looking and pointing into the ocean)<br>
+							<br>
+							
+						DIANE: What are those people doing over there?<br>
+							<br>
+							<br>
+							<br>
+							
+						[Exterior shot of the hotel, then In Testikov's hotel room there are five quick knocks at the door. He holds the manuscript in his left arm. Leaning over a bit, and with his right hand, opens the door slightly to see who is waiting -- it is Jerry and Elaine. Then he opens the door wide]<br>
+							<br>
+							
+						TESTIKOV: (In a loud and cranky voice) What, Come in - come in - Come in Miss Benes! That is if you can spare a minute from your busy schedule! And you bring guest for my entertainment?<br>
+							<br>
+							
+						(Testikov goes to get a drink while Elaine is talking -- his back to them as he downs the full drink)<br>
+							<br>
+							
+						ELAINE: Um, yes this is my friend Jerry. Um, he accompanied me, ya know (clears throat), single women in a big city can be dangerous, so&#133;<br>
+							<br>
+							
+						JERRY: Yeah. Th-That's why I where these sneakers, in case of any trouble -- Zip, I'm gone. (makes a running motion with both arms and his right foot)<br>
+							<br>
+							
+						TESTIKOV: Yeah, Yeah. The sneakers. All the Americans with the sneakers. Always running from something. Ya ya, well Sit, stop running, Ehh. two minutes, I give you latest manuscript!<br>
+							<br>
+							
+						(They both sit down and Jerry picks out a very large book from the coffee table)<br>
+							<br>
+							
+						JERRY: Oh! Rimsky -- great great book if I may say so sir. I almost read the whole thing.<br>
+							<br>
+							
+						ELAINE: Hmm. (she nods in agreement)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Corinne is standing in the hotel lobby smoking while the organizer is still beeping]<br>
+							<br>
+							
+						CORINNE: What!<br>
+							<br>
+							
+						HOTEL CLERK: If you can't thing off, I'll have to ask you to leave.<br>
+							<br>
+							
+						CORINNE: I'm waitin for two people! (takes a drag on the cigarette)<br>
+							<br>
+							
+						HOTEL CLERK: Well you can wait for them outside.<br>
+							<br>
+							
+						CORINNE: Yeah, (she blows smoke out as she speaks -- it rises as in front of her) I guess I'd better. I wouldn't want to take any attention away from the hookers!<br>
+							<br>
+							
+						HOTEL CLERK: All right, All right. Out, Out.<br>
+							<br>
+							
+						CORINNE: Whatever you say, Cro..w-well!<br>
+							<br>
+							
+						(she exits through the hotel&#146;s revolving door, the organizer continues to beep)<br>
+							<br>
+							<br>
+							<br>
+							
+						[On the beach George and Diane are standing with the crowd]<br>
+							<br>
+							
+						DIANE: What's going on over here?<br>
+							<br>
+							
+						WOMAN AT BEACH: There is a beached whale, she's dying.<br>
+							<br>
+							
+						VOICE: Is anyone here a marine biologist?<br>
+							<br>
+							
+						(Diane looks at George as he turns slowly towards her realizing the irony of the situation he is in.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Upwards view of the exterior of the hotel, then in Testikov's room]<br>
+							<br>
+							
+						TESTIKOV: Here is latest draft. I see you next week. Same time, same day. (smacks the manuscript into Elaine&#146;s hand) On time please.<br>
+							<br>
+							
+						ELAINE: (quietly) OK.<br>
+							<br>
+							
+						JERRY: It was nice meeting you&#133;<br>
+							<br>
+							
+						TESTIKOV: Aah.<br>
+							<br>
+							
+						JERRY: &#133; you&#146;re a real pleasure. (Jerry is being sarcastic)<br>
+							<br>
+							
+						TESTIKOV: Ya ya. (wipes his nose with a handkerchief)<br>
+							<br>
+							
+						(Elaine and Jerry take a few steps towards the door, as Jerry turns to her and motions with his hand to ask Testikov about the organizer incident. They stop and turn back.)<br>
+							<br>
+							
+						ELAINE: Uh-Oh-ah, by the way Mr. Testikov um, do you remember the other day when we were in the limo and ah, my organizer started making noise and you threw it out the window?<br>
+							<br>
+							
+						TESTIKOV: (quietly) yes. How could I forget? heehe.<br>
+							<br>
+							
+						ELAINE: ( laughs) Well um, would you believe that it actually, hit somebody in the head.<br>
+							<br>
+							
+						JERRY: Right in the head! (leans in and points at Testikov)<br>
+							<br>
+							
+						(The tape-recorder in Elaine's purse starts to squeak)<br>
+							<br>
+							
+						ELAINE: Boing! Hehe hehe. (makes a hand gesture to her forehead and away)<br>
+							<br>
+							
+						(The tape-recorder is squeaking much louder as it rewinds)<br>
+							<br>
+							
+						TESTIKOV: (Shouting) What is that noise!<br>
+							<br>
+							
+						ELAINE: Oh that&#146;s nothing. Um and anyway um&#133;<br>
+							<br>
+							
+						TESTIKOV: What&#146;s going on Huh! (he grabs Elaine&#146;s purse) That Noise!&#133;<br>
+							<br>
+							
+						ELAINE: No, No that's my purse!<br>
+							<br>
+							
+						TESTIKOV: That Noise!<br>
+							<br>
+							
+						(Jerry watches the action as he rubs his hand on the top of his head)<br>
+							<br>
+							
+						ELAINE: No, get-get off my purse!<br>
+							<br>
+							
+						TESTIKOV: Agh, it&#146;s recorder!<br>
+							<br>
+							
+						(He pulls out the recorder)<br>
+							<br>
+							
+						ELAINE: No that's&#133; Radio!<br>
+							<br>
+							
+						TESTIKOV: Ha! (he clicks the player off) You are spying on me!<br>
+							<br>
+							
+						(Elaine bites her finger as Testikov throws the recorder out of the hotel window -- from below, we see the recorder falling -- with blue sky above it. The sound of the tape playing in fast motion as it falls (odd, because Testikov had turned the player off. --<br>
+							<br>
+							<br>
+							<br>
+							
+						[Corinne is standing outside of the hotel and looks up to see the tape-recorder falling towards her. A sound indicates that it hits her in the head]<br>
+							<br>
+							<br>
+							<br>
+							
+						[Newman is strolling down the street whistling. Kramer is standing at his open window, knocking his boot on the window sill trying to get the sand out but he drops it. A high pitched sound and a shot of the falling boot as Newman stops and looks up -- and he yells as the boot is obviously about to hit him in the head]<br>
+							<br>
+							<br>
+							<br>
+							
+						[At the beach everyone is yelling at George]<br>
+							<br>
+							
+						CROWD: Come on! Save the whale! You gotta do it!<br>
+							<br>
+							
+						DIANE: Save the whale George... for me.<br>
+							<br>
+							
+						(George turns and slowly walks towards the ocean with a determined look. He takes off his hat and throws it down. He walks into the ocean -- his pant legs are rolled up)<br>
+							<br>
+							<br>
+							<br>
+							
+						[At the coffee shop Jerry and Kramer are awaiting the story]<br>
+							<br>
+							
+						GEORGE: So I started to walk into the water. I won't lie to you boys, I was terrified! But I pressed on -- and as I made my way passed the breakers a strange calm came over me. I-I don't know if it was divine intervention or the kinship of all living things but I tell you Jerry at that moment &#133; I was a Marine Biologist!<br>
+							<br>
+							
+						(Elaine enters and sits down)<br>
+							<br>
+							
+						ELAINE: George I&#146;ve just reading this thing in the paper, it's unbelievable!<br>
+							<br>
+							
+						GEORGE: I know I was just telling them the story.<br>
+							<br>
+							
+						KRAMER: Well come on George, finish the story.<br>
+							<br>
+							
+						GEORGE: The sea was angry that day my friends&#133; like an old man trying to send back soup in a deli!<br>
+							<br>
+							
+						(Jerry gives Kramer a &quot;What the --&quot; glance)<br>
+							<br>
+							
+						GEORGE: I got about fifty-feet out and suddenly, the great beast appeared before me. I tell ya he was ten stories high if he was a foot. As if sensing my presence he let out a great bellow. I said, &quot;Easy big fella!&quot; And then, as I watched him struggling I realized, that something was obstructing its&#146; breathing. From where I was standing I could see directly into the eye of the great fish!<br>
+							<br>
+							
+						JERRY: Mammal.<br>
+							<br>
+							
+						GEORGE: Whatever.<br>
+							<br>
+							
+						KRAMER: Well then, what did you do next?<br>
+							<br>
+							
+						GEORGE: Well then, from out of nowhere, a huge tidal wave lifted me, tossed like a cork and I found myself right on top of him, (ELAINE: gasps quietly Ahhhh) face to face with the blow-hole. I-I, I could barely see from the waves crashing down upon me but, I knew something was there&#133; so I reached my hand in, felt around and pulled out the obstruction!<br>
+							<br>
+							
+						(George reaches into his inside jacket pocket and dramatically pulls something out in his clenched fist -- holding it up in the air for a second, then displays a golf ball holding it in mid air for the remaining 28 seconds of the scene)<br>
+							<br>
+							
+						(Elaine looks on, mouth wide open in amazement. Jerry turns and looks at Kramer also in amazement and George, while staring at Kramer, holds out the ball in the air&#133; Kramer sits quietly, squirming -- and it&#146;s 21 seconds until Kramer speaks)<br>
+							<br>
+							
+						KRAMER: What is that a Titleist?<br>
+							<br>
+							
+						GEORGE: (Silently squinches his mouth and nods at Kramer)<br>
+							<br>
+							
+						KRAMER: A hole in one eh.<br>
+							<br>
+							<br>
+							<br>
+							
+						[still in the coffee shop]<br>
+							<br>
+							
+						JERRY: Well the-the crowd must have gone wild!<br>
+							<br>
+							
+						GEORGE: Ohh yes, yes. Yes Jerry they were all over me. It was like Rocky 1, Hm. Diane came up to me, threw her arms around me&#133;<br>
+							<br>
+							
+						KRAMER: (quietly) Um-hm.<br>
+							<br>
+							
+						GEORGE: &#133;kissed me. We both had tears streaming down our faces. I never saw anyone so beautiful. It was at that moment that I decided to tell her that, I was not a marine biologist.<br>
+							<br>
+							
+						JERRY: Wow! What'd she say?<br>
+							<br>
+							
+						GEORGE: Told me to &quot;Go to hell!&quot; and I took the bus home.<br>
+							<br>
+							
+						(George stuffs the golf ball in his shirt pocket)<br>
+							<br>
+							
+						JERRY: All right lets go.<br>
+							<br>
+							
+						(Jerry, Elaine and George all get up from the booth -- Kramer takes the last four spoonfuls of food from his bowl and wipes his mouth with a napkin before getting up.)<br>
+							<br>
+							
+						ELAINE: What, are you in a bad mood?<br>
+							<br>
+							
+						JERRY: Ahhh&#133; got my laundry back.<br>
+							<br>
+							
+						ELAINE: Ohhh! Golden Boy?<br>
+							<br>
+							
+						JERRY: He didn't make it.<br>
+							<br>
+							
+						ELAINE: I'm sorry. (pats him on the arm)<br>
+							<br>
+							
+						JERRY: Yea. (pulls at the t-shirt) This is Golden Boy's son&#133; Baby Blue.<br>
+							<br>
+							
+						(Elaine cocks her head a bit -- then she and Jerry turn and exit.)<br>
+							<br>
+							
+						KRAMER: (to George) What's with you?<br>
+							<br>
+							
+						GEORGE: Sand. It's everywhere<br>
+							<br>
+							
+						KRAMER: Yep.<br>
+							<br>
+							<br>
+							
+						The End</td>
+						</tr>
+						<tr height="6">
+							<td class="bottom2" width="645" height="6"></td>
+						</tr>
+						<tr>
+							<td width="645">
+								<div align="center">
+									<font size="-1">Copyright 2006 seinology.com | All Rights Reserved | Designed by 13erla</font></div>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+		<p></p>
+	</body>
+
+</html>

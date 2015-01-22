@@ -1,0 +1,1448 @@
+<tdOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+<html>
+
+	<head>
+		<meta http-equiv="content-type" content="text/html;charset=ISO-8859-1">
+		<meta name="description" content="Top Source for Seinfeld">
+		<meta name="keywords" content="seinfeld, sienfeld, Jerry Seinfeld, Julia Louis Dreyfus, Jason Alexander, Michael Richards, Kramer, George, Costanza, Elaine Benes, morty, Larry David">
+		<title>Seinology.com :: Scripts :: 80-The Stand-In</title>
+	<link rel='stylesheet' href='/stylesheet.css' type='text/css'>
+	</head>
+
+	<body>
+			<table align="center" width="787" border="0" cellspacing="0" cellpadding="0">
+				<tr>
+					<td><font size="-2" color="red">Seinology.com - </font><font size="-3" color="black">Where Seinfeld Content and Accuracy Matter Most. Seinfeld scripts in pdf form, Seinfeld episode video clips, Seinfeld episode audio clips, Jerry Seinfeld appearances, Julia Louis-Dreyfus appearances, Michael Richards appearances, Jason Alexander appearances, Seinfeld discussion Forum, Seinfeld Where are they Now? Seinlanguage Newsletter, Popular Seinfeld Lists, Seinfeld episode standup, Seinfeld episode guide, Seinfeld fan fiction. Seinfeld content all on one domain. Seinology.com enjoy your stay.</font></td>
+				</tr>
+			</table>
+		
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr height="100">
+				<td class="logo"></td>
+			</tr>
+			<tr><td class="ads" align="center" background=#8694fa>
+				<script type="text/javascript"><!--
+google_ad_client = "pub-1924026976931416";
+google_ad_width = 728;
+google_ad_height = 90;
+google_ad_format = "728x90_as";
+google_ad_type = "text";
+google_ad_channel = "";
+google_color_border = "FFFFFF";
+google_color_bg = "8694fa";
+google_color_link = "0000FF";
+google_color_text = "000000";
+google_color_url = "002E3F";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></td></tr>
+		</table>
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr>
+				<td valign="top" width="136">
+					<table width="136" border="0" cellspacing="0" cellpadding="0">
+						<tr height="24">
+							<td class="navigation">
+								<div align="center">
+									
+									<b>Navigation</b></div>
+							</td>
+						</tr>
+						<tr height="199">
+							<td class="spacer1" valign="top" width="136" height="199">
+								<div align="center">
+									<font size="-1"><a href="http://www.seinology.com">Home</a><br>
+										<a href="http://board.seinology.com">Forum</a><br>
+										<a href="http://www.seinology.com/av.shtml">Audio/Video</a><br>
+										<a href="http://www.seinology.com/scripts.shtml">Scripts</a><br>
+										<a href="http://www.seinology.com/survivor.shtml">Survivor</a><br>
+										<a href="http://www.seinology.com/fanfics.shtml">Fan Fiction</a><br>
+										<a href="http://www.seinology.com/gallery/">Gallery</a><br>
+										<a href="http://www.seinology.com/newsletter.shtml">Newsletter</a><br>
+										<a href="http://www.seinology.com/lists.shtml">Lists</a><br>
+										<a href="http://www.seinology.com/epguide.shtml">Episode Guide</a><br>
+										<a href="http://www.seinology.com/links.shtml">Links</a><br>
+										<a href="http://www.seinology.com/faqother.shtml">Faq + others</a><br>
+										<a href="http://www.seinology.com/legal.shtml">Legal</a></font></div>
+							</td>
+						</tr>
+						
+						<tr>
+							<td class="nav2" width="136">
+							<div align="center"><b>Search</b></div></td>
+						</tr>
+						<tr>
+							<td class="spacer1" width="136" valign="top"><div align="center"><form method="get" action="http://www.seinology.com/search/search.cgi">
+<p><label for="fdse_Match">Match</label><br>
+<select name="Match" id="fdse_Match" size="1">
+<option value="1">All</option>
+<option value="0">Any</option>
+<option value="2">Phrase</option>
+</select></p>
+<p><label for="fdse_Realm">Where?</label><br>
+<select name="Realm" id="fdse_Realm" size="1">
+<option selected="selected" value="All">EntireSite</option>
+<option value="Ep Guide">Ep Guide</option>
+<option value="Images">Images</option>
+<option value="Lists">Lists</option>
+<option value="Newsletters">Newsletters</option>
+<option value="Scripts">Scripts</option>
+<option value="Notes..Nothing">Notes..Nothing</option>
+</select></p>
+<p><input type="text" name="Terms" size="14" id="fdse_Terms"><br>
+<input type="submit" class="submit" name="submitButtonName" value="Search"></p>
+</div></form></td>
+						</tr>
+						<tr><td class="bottom" width="136" height="10" valign="top">
+						</td>
+						</tr>
+					</table>
+				</td>
+				<td width="4"></td>
+				<td valign="top" width="645">
+					<table width="645" border="0" cellspacing="0" cellpadding="0">
+						<tr height="18">
+							<td width="645" height="35" class="bar">
+								<div align="center">
+									<b><font size="+2" color="black">Script</font></b></div>
+							</td>
+						</tr>
+						<tr height="362">
+							<td class="spacer2" valign="top" width="645" height="362">
+
+						<p><font size="-2">Episode 80 - The Stand-In<br>
+							
+						pc: 516, season 5, episode 16<br>
+							
+						Broadcast date: February 24, 1994<br>
+							<br>
+							
+						Written by Larry David<br>
+							
+						Directed by Tom Cherones<br>
+							<br>
+							
+						-------------------------------------------------------------------------------<br>
+							<br>
+							<br>
+							
+						The Cast<br>
+							
+						Regulars:<br>
+							
+						Jerry Seinfeld ....................... Jerry Seinfeld<br>
+							
+						Jason Alexander .................. George Costanza<br>
+							
+						Julia Louis-Dreyfus ............. Elaine Benes<br>
+							
+						Michael Richards ................. Kramer<br>
+							<br>
+							
+						Guest Stars:<br>
+							<br>
+							
+						Mark Tymchyshyn ............Phil<br>
+							
+						Karla Tamburrelli ...............Daphne<br>
+							
+						Debbie Lee Carrington .....Tammy<br>
+							
+						W. Earl Brown ....................Al<br>
+							
+						Michael Rivkin ...................Fulton<br>
+							
+						Joe Gieb ...............................Johnny<br>
+							
+						Layne Beamer .....................Father<br>
+							
+						Thomas Dekker ..................Son<br>
+							
+						Jerome Betler ......................Director<br>
+							
+						rc: Danny Woodburn ........Mickey Abbott<br>
+							<br>
+							
+						==============================================<br>
+							<br>
+							
+						[Setting: Comedy Club]<br>
+							<br>
+							
+						Opening Monolog: The bus is the single stupidest, fattest, slowest, most despised vehicle on the road. Isn't it? You ever notice when you get behind the bus, people in your car go 'what are you doing? get away, come on.' The back of the bus is like an eclipse isn't it? people are just like 'the sun, where's the sun?' It's like this huge metal ass taking up the whole wind shield of your car. When it pulls out it even sounds like a fat uncle trying to get out of a sofa. (acts like he is trying to get out of a car and makes the sound of a bus/guy starting to get going)<br>
+							<br>
+							
+						(scene ends)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Setting: Jerry and George on a Bus]<br>
+							<br>
+							
+						GEORGE: It's just not good, it's not good.<br>
+							<br>
+							
+						JERRY: It's not good.<br>
+							<br>
+							
+						GEORGE: I'm bored. She's boring, I'm boring, we're both boring. We got out to eat, we both read newspapers.<br>
+							<br>
+							
+						JERRY: Well at breakfast everybody reads.<br>
+							<br>
+							
+						GEORGE: No. Lunch we read, dinner we read.<br>
+							<br>
+							
+						JERRY: You read during lunch?<br>
+							<br>
+							
+						GEORGE: Ya<br>
+							<br>
+							
+						JERRY: Oh, well.<br>
+							<br>
+							
+						GEORGE: There's nothing to talk about.<br>
+							<br>
+							
+						JERRY: Ya, what's there to talk about.<br>
+							<br>
+							
+						GEORGE: Well at least you and I are talking about how there's nothing to talk about.<br>
+							<br>
+							
+						JERRY: Why don't you talk to her about how there's nothing to talk about?<br>
+							<br>
+							
+						GEORGE: She knows there is nothing to talk about.<br>
+							<br>
+							
+						JERRY: At least you'll be talking.<br>
+							<br>
+							
+						GEORGE: Oh shut up.<br>
+							<br>
+							
+						(Al comes onto the bus)<br>
+							<br>
+							
+						AL: Hey, look who's here.<br>
+							<br>
+							
+						JERRY: Hey, Al.<br>
+							<br>
+							
+						GEORGE: Hey, Al. How's it going?<br>
+							<br>
+							
+						AL: (extremely happy) Deeply in love. We have soo many things to talk about. Sometimes we'll talk all night, till the sun comes up (pauses in his happiness; to George) so how about you?<br>
+							<br>
+							
+						GEORGE: Oh I'm seeing someone, yes. You know her, Daphne Bower.<br>
+							<br>
+							
+						AL: Great girl.<br>
+							<br>
+							
+						GEORGE: We have no need to speak. We communicate with deep soulful looks.<br>
+							<br>
+							
+						JERRY: Like Dwight and Mamie Eisenhower.<br>
+							<br>
+							
+						AL: (to Jerry) Oh did you hear about Fulton?<br>
+							<br>
+							
+						JERRY: Ya.<br>
+							<br>
+							
+						AL: I went by the hospital to see him a few days ago (looking at Jerry) think he'd really like you to come visit.<br>
+							<br>
+							
+						JERRY: Me?<br>
+							<br>
+							
+						AL: Ya, he said he could use a good laugh.<br>
+							<br>
+							
+						GEORGE: What about me?<br>
+							<br>
+							
+						AL: (to George) He didn't mention you. (Looks toward the front of the bus) This is my stop. Uh see ya.<br>
+							<br>
+							
+						GEORGE: Ya<br>
+							<br>
+							
+						JERRY: Ya, see ya.<br>
+							<br>
+							
+						(Al leaves)<br>
+							<br>
+							
+						GEORGE: Deeply in love. If you can't say anything bad about a relationship, you shouldn't say anything at all.<br>
+							<br>
+							
+						JERRY: (points to George) Ya.<br>
+							<br>
+							
+						(Scene Ends)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Setting: Jerry's apartment]<br>
+							<br>
+							
+						(Jerry and George enter the apartment)<br>
+							<br>
+							
+						GEORGE: I didn't even know Fulton was in the hospital.<br>
+							<br>
+							
+						JERRY: Could use a good laugh. You know what kind of pressure that is? Come on, come with me.<br>
+							<br>
+							
+						GEORGE: Na no, I'm not good in these situations. I can't hide my pity. I..I make em feel worse.<br>
+							<br>
+							
+						JERRY: Oh, stop it.<br>
+							<br>
+							
+						GEORGE: Ya and also I'm afraid that people in that state are finally going to tell me what they really think of me. You know they got nothing to lose what do they care?<br>
+							<br>
+							
+						JERRY: So you're not gonna come?<br>
+							<br>
+							
+						GEORGE: No but say hello for me.<br>
+							<br>
+							
+						(Kramer and Mickey enter)<br>
+							<br>
+							
+						KRAMER: Hey!<br>
+							<br>
+							
+						JERRY: Hey! Hey Mick.<br>
+							<br>
+							
+						MICKEY: Hey Jerry.<br>
+							<br>
+							
+						KRAMER: What's doing?<br>
+							<br>
+							
+						JERRY: Nothing, what's doing with you?<br>
+							<br>
+							
+						KRAMER: Same old, same old.<br>
+							<br>
+							
+						JERRY: George this is Mickey.<br>
+							<br>
+							
+						GEORGE: Hi, nice to meet you.<br>
+							<br>
+							
+						(George and Mickey shake hands)<br>
+							<br>
+							
+						MICKEY: Pleasure.<br>
+							<br>
+							
+						JERRY: How's work going you guys?<br>
+							<br>
+							
+						MICKEY: Lets not even talk about it.<br>
+							<br>
+							
+						GEORGE: (to Kramer) You got a job?<br>
+							<br>
+							
+						KRAMER: Ya, Mickey. He hooked me up. We're stand-ins for the actors on 'All My Children.' Mickey, he's a stand-in for an eight year old kid and I stand in for the kids father.<br>
+							<br>
+							
+						MICKEY: (to Jerry then both Jerry and George) But I got a big problem. The kid I stand in for, he's growing. He was four feet last month, now he's like four-two and a half. He shot up two and a half inches. I can do four-two, four-three is a stretch, any higher than that and I'm gonna be out on my ass doing that para-legal crap.<br>
+							<br>
+							
+						JERRY: How do you stop a kid from growing?<br>
+							<br>
+							
+						KRAMER: (to Mickey) I told you, you should offer him some cigarettes.<br>
+							<br>
+							
+						MICKEY: I offered him cigarettes, (to Jerry and George) but his stupid mother is hanging around. She won't let him have any.<br>
+							<br>
+							
+						KRAMER: (to Mickey) What about lifts?<br>
+							<br>
+							
+						MICKEY: (to Kramer) Out of the question.<br>
+							<br>
+							
+						GEORGE: (to Mickey) Can't you just switch with another Midget?<br>
+							<br>
+							
+						(Mickey grabs the counter with rage on his face, Jerry does a form of gulp)<br>
+							<br>
+							
+						MICKEY: (turns and moves up to George, points his finger at him) It's little people, you got that?<br>
+							<br>
+							
+						KRAMER: Easy Mickey, easy.<br>
+							<br>
+							
+						GEORGE: Yap..<br>
+							<br>
+							
+						KRAMER: Alright we gotta get back to the show. What are you guys doing?<br>
+							<br>
+							
+						JERRY: I'm going to the hospital, to visit Fulton.<br>
+							<br>
+							
+						KRAMER: (on his way to the door) Oh, oh well say hello for me.<br>
+							<br>
+							
+						(Kramer and Mickey leave Jerry's apartment and enter the hallway)<br>
+							<br>
+							
+						KRAMER: Now look, we're going to stop at the shoe maker right now. You gotta get some lifts for your shoes.<br>
+							<br>
+							
+						MICKEY: Lifts?! Look Kramer you don't understand, this kind of thing is just not done.<br>
+							<br>
+							
+						KRAMER: You wanna keep your job don't you?<br>
+							<br>
+							
+						MICKEY: Ya but..<br>
+							<br>
+							
+						(Kramer interrupts him)<br>
+							<br>
+							
+						KRAMER: YAH! No Buts<br>
+							<br>
+							
+						MICKEY: Kramer<br>
+							<br>
+							
+						(Kramer interrupts again)<br>
+							<br>
+							
+						KRAMER: (with his hand in Mickey's face) YAAAAAH!<br>
+							<br>
+							
+						(Scene Ends)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Fulton's Hospital Room]<br>
+							<br>
+							
+						(Fulton lying in the Hospital Bed, Jerry Enters)<br>
+							<br>
+							
+						JERRY: Hey, woahoh Fulton. It's me.<br>
+							<br>
+							
+						FULTON: Hey Jerry, good to see ya. I could really use a good laugh.<br>
+							<br>
+							
+						JERRY: Who couldn't.<br>
+							<br>
+							
+						FULTON: I haven't cracked a smile in months.<br>
+							<br>
+							
+						JERRY: Oh don't worry, you'll crack. Cracking's inevitable, first you crack then you chuckle. That was the motto with the Russians at the Caesar Leningrad... first you crack then you chuckle. (Fulton looks at him not amused) You know because Leningrad when the Nazis attacked, it wasn't a very happy time... because of the war, famine, plus it was cold, very cold... they were eating each other. (Nervous under the pressure; Fulton not finding anything Jerry is saying funny) Maybe this isn't a good time for a visit.<br>
+							<br>
+							
+						FULTON: It's a fine time.<br>
+							<br>
+							
+						JERRY: Oh, alright ah well... There's a priest, a minister and a rabbi, and they're all staring at him....<br>
+							<br>
+							
+						(Scene Ends)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Monk's]<br>
+							<br>
+							
+						(George and Daphne sitting in a booth reading the paper)<br>
+							<br>
+							
+						GEORGE: (sets down his paper) So how were the eggs?<br>
+							<br>
+							
+						DAPHNE: Eggs are eggs.<br>
+							<br>
+							
+						GEORGE: (Not amused with her answer) Eggs are eggs. That is very profound. (laughs; Daphne goes back to reading her paper) By the same token you could say fish is fish. Ha ha ha, I don't think so. (pauses) Listen Dophne<br>
+							<br>
+							
+						DAPHNE: (correcting George) Daphne.<br>
+							<br>
+							
+						GEORGE: Daphne. I have to tell you something, this is very difficult...<br>
+							<br>
+							
+						DAPHNE: (interrupts and hurriedly puts down her paper) Oh, I forgot to tell you. Al Netchie called me today.<br>
+							<br>
+							
+						GEORGE: Ya, ya. I bumped into him on the bus. What did he have to say?<br>
+							<br>
+							
+						DAPHNE: He told me not to get involved with you.<br>
+							<br>
+							
+						GEORGE: What?<br>
+							<br>
+							
+						DAPHNE: Ya, he said you could never make a commitment to any one and you'd just wind up (reaches out and lightly slaps George's hand) hurting me.<br>
+							<br>
+							
+						GEORGE: He said that? (Daphne shacks her head) What a nerve. How dare he say something like that.<br>
+							<br>
+							
+						DAPHNE: Is it true?<br>
+							<br>
+							
+						GEORGE: Of course not. I mean sure, there may have been one or two occasions in the past, when I may have reacted in uh impulsive or somewhat immature manner, but those days are well behind me.<br>
+							<br>
+							
+						(Scene Ends)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Setting: ABC Studios]<br>
+							<br>
+							
+						(All My Children Set)<br>
+							<br>
+							
+						SON: How long are you going to be away for Daddy?<br>
+							<br>
+							
+						FATHER: I'm not really going away, I told you, I'll be back every other weekend.<br>
+							<br>
+							
+						SON: Don't go Daddy, don't go.<br>
+							<br>
+							
+						FATHER: Now Porter, you know your mother and I love you very much, but sometimes people fall out of love. Now give me a big hug.<br>
+							<br>
+							
+						DIRECTOR: (walks into the scene) ...and there's your scene. Stand-ins<br>
+							<br>
+							
+						KRAMER: Yo<br>
+							<br>
+							
+						STAGE HAND (Larry David's voice): Alright you guys get on their spots so we can fix the lights.<br>
+							<br>
+							
+						(Mickey and Kramer walk onto the set and get into positions)<br>
+							<br>
+							
+						KRAMER: (taps the Father on the shoulder) That's good work.<br>
+							<br>
+							
+						MICKEY: (quickly with no acting) How long you going to be away for Daddy?<br>
+							<br>
+							
+						KRAMER: (trying to act like the guy playing the Father) I'm not really going away, I told you I'd be back every other weekend.<br>
+							<br>
+							
+						MICKEY: (tugs on Kramer's coat) Don't go Daddy, don't...go.<br>
+							<br>
+							
+						KRAMER: Now listen Porter, you know your mother and I love you very much. But sometimes people fall out of love. Now give me a big hug.<br>
+							<br>
+							
+						(Kramer and Mickey go to hug and Kramer's pipe hits Mickey in the face)<br>
+							<br>
+							
+						MICKEY: Ah! (pauses for the hug) Alright (Kramer still holding on) Alright! Kramer! (pushes Kramer off him)<br>
+							<br>
+							
+						DIRECTOR: Ok everybody that's lunch... one hour.<br>
+							<br>
+							
+						(The director pauses and looks at Mickey as if something is different)<br>
+							<br>
+							
+						KRAMER: How do those lifts feel?<br>
+							<br>
+							
+						MICKEY: Quiet.<br>
+							<br>
+							
+						TAMMY: Hi guys.<br>
+							<br>
+							
+						MICKEY: Hey Tammy.<br>
+							<br>
+							
+						TAMMY: Hey, you look different. Have you been working out?<br>
+							<br>
+							
+						MICKEY: (looks at Kramer) Not that I know of.<br>
+							<br>
+							
+						TAMMY: Well whatever it is you're doing, keep doing it you look great.<br>
+							<br>
+							
+						MICKEY: How about lunch?<br>
+							<br>
+							
+						TAMMY: OH I can't today, but um I see it our future. (starts to leave) See ya Kramer.<br>
+							<br>
+							
+						KRAMER: Ya.<br>
+							<br>
+							
+						TAMMY: Bye Mickey<br>
+							<br>
+							
+						KRAMER: Ooo she likes you buddy (they to a high five hand shake)<br>
+							<br>
+							
+						KRAMER &amp; MICKEY: Ya!<br>
+							<br>
+							
+						MICKEY: All of a sudden.<br>
+							<br>
+							
+						KRAMER: What?<br>
+							<br>
+							
+						JOHNNY: Hey Mick.<br>
+							<br>
+							
+						MICKEY: How you doin' Johnny?<br>
+							<br>
+							
+						JOHNNY: What gives...what's going on? Goin' out with Tammy?<br>
+							<br>
+							
+						MICKEY: Maybe. What's it to you?<br>
+							<br>
+							
+						JOHNNY: Somethin different about you.<br>
+							<br>
+							
+						MICKEY: I got my hair cut that's all (turns to look at Kramer)<br>
+							<br>
+							
+						JOHNNY: Nah, that's not it. Something else... Ya you look different.<br>
+							<br>
+							
+						(Kramer starts eating a sandwich)<br>
+							<br>
+							
+						MICKEY: You don't, you got the same ugly mug since the day I met ya.<br>
+							<br>
+							
+						JOHNNY: I don't know what it is, but I'll find out. (walking away) I'll find out.<br>
+							<br>
+							
+						(Kramer and Mickey look at each other, Mickey makes a pointing motion as if to reference the conversation with Johnny, Kramer shakes his head no.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Back to Jerry with Fulton]<br>
+							<br>
+							
+						JERRY: ..so uh she's just sitting there and a uh Packyderm, you remember the derm. He says uh, I'm gonna go up to her. So we uh he uh picks up the two pieces of (wipes his brow) pizza and uh the uh and then they're steaming hot and they're burning his hands see so he... he's juggling em (does juggling motions) he's jugglin em, jus throwing them up in the air and just as he gets up to her down they go. (Swallows and takes a breath) Well we all just lost it. (Fulton not laughing, stone faced) It was really really funny.<br>
+							<br>
+							
+						(Phil Enters)<br>
+							<br>
+							
+						PHIL: Hey Jerry.<br>
+							<br>
+							
+						JERRY: Hey Phil how you doing?<br>
+							<br>
+							
+						PHIL: You look terrific.<br>
+							<br>
+							
+						JERRY: I got my health.<br>
+							<br>
+							
+						PHIL: Well, that's the most important thing. (to Fulton) Hey how ya doing Fulton! Octane, Butane, Nitrane! (Fulton looks at him still stone faced and not amused. To Jerry) How's he doing?<br>
+							<br>
+							
+						JERRY: (wiping his brow) He could use a couple laughs.<br>
+							<br>
+							
+						(Scene Ends)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Setting: Jerry's Apartment]<br>
+							<br>
+							
+						(Jerry and Elaine)<br>
+							<br>
+							
+						ELAINE: You should have told that story about Packyderm dropping the pizza.<br>
+							<br>
+							
+						(Buzzer)<br>
+							<br>
+							
+						JERRY: I told it. (Answers the buzzer) Ya?<br>
+							<br>
+							
+						GEORGE: (on the speaker) Ya<br>
+							<br>
+							
+						JERRY: Ya. (hits the button, opens the door. To Elaine) Hey you know what as I was leaving I bumped into Phil Titola. He is one of the greatest guys.<br>
+							<br>
+							
+						ELAINE: Do I know him?<br>
+							<br>
+							
+						JERRY: No, but I'll tell you something. Of all the guys I know, I could envision you going out with him.<br>
+							<br>
+							
+						ELAINE: If you were a woman would you go out with him?<br>
+							<br>
+							
+						JERRY: If I was a woman I'd be down at the dock waiting for the fleet to come in.<br>
+							<br>
+							
+						ELAINE: (laughs) Ya, I bet you would. Alright, give him my number.<br>
+							<br>
+							
+						JERRY: Alright.<br>
+							<br>
+							
+						(George Enters)<br>
+							<br>
+							
+						GEORGE: This you are not going to believe. Al Netchie, that pimple. Tells Daphne, not get this 'Not to get involved with me.'<br>
+							<br>
+							
+						JERRY: What?<br>
+							<br>
+							
+						GEORGE: Ya. That's what she told me.<br>
+							<br>
+							
+						ELAINE: Why?<br>
+							<br>
+							
+						GEORGE: Because he's afraid she's gonna get hurt.<br>
+							<br>
+							
+						ELAINE: Is she?<br>
+							<br>
+							
+						GEORGE: Of course.<br>
+							<br>
+							
+						ELAINE: So?<br>
+							<br>
+							
+						GEORGE: Wa.. He doesn't have to tell her.<br>
+							<br>
+							
+						ELAINE: Maybe he likes her.<br>
+							<br>
+							
+						GEORGE: Oh no no no. He's deeply in love, and I was just about to break up with her when she told me.<br>
+							<br>
+							
+						JERRY: So what are you gonna do?<br>
+							<br>
+							
+						GEORGE: Well I can't break up with her now.<br>
+							<br>
+							
+						JERRY: Why?<br>
+							<br>
+							
+						GEORGE: Because he said I was going to.<br>
+							<br>
+							
+						ELAINE: So now you're going to keep going out with her, for spite?<br>
+							<br>
+							
+						GEORGE: Yes, I am.<br>
+							<br>
+							
+						JERRY: Ya, I could see that.<br>
+							<br>
+							
+						GEORGE: I don't see any way around it.<br>
+							<br>
+							
+						JERRY: No, me either.<br>
+							<br>
+							
+						GEORGE: What choice do I have?<br>
+							<br>
+							
+						JERRY: None.<br>
+							<br>
+							
+						(Scene Ends)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Setting: ABC Studio Locker Room]<br>
+							<br>
+							
+						(Mickey walks in to discover his Locker is open and that his lifts where in there)<br>
+							<br>
+							
+						(Scene Ends)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Setting: Jerry's Apartment]<br>
+							<br>
+							
+						(Jerry and Kramer)<br>
+							<br>
+							
+						JERRY: Fulton's wife told me it's all my fault. She said since my visit he's taken a turn for the worse.<br>
+							<br>
+							
+						KRAMER: Did you tell him the Packyderm story?<br>
+							<br>
+							
+						JERRY: (yelling) Yes I told him the Packyderm story!<br>
+							<br>
+							
+						KRAMER: Maybe I outta go over there.<br>
+							<br>
+							
+						JERRY: Towards what end?<br>
+							<br>
+							
+						KRAMER: I'm very good with sick people. They love me. When my friend Len Nicodemo had the gout, I moved into his hospital room for three days, the doctors were amazed at his recovery.<br>
+							<br>
+							
+						(Knocking on the Door)<br>
+							<br>
+							
+						(Jerry and Kramer walk over to it, Kramer opens it to reveal Mickey)<br>
+							<br>
+							
+						KRAMER: Hey.<br>
+							<br>
+							
+						JERRY: Hey Mick.<br>
+							<br>
+							
+						MICKEY: (to Kramer) Johnny Vigiano went through my locker.<br>
+							<br>
+							
+						KRAMER: YAOH!<br>
+							<br>
+							
+						MICKEY: (slamming the door) That little Bastard! He saw the lifts in my shoes. He knows I'm heightening. (to Kramer) This never would have happened if you hadn't pushed me to get those things. I told you.<br>
+							<br>
+							
+						KRAMER: Hey, nobody put a gun to your head.<br>
+							<br>
+							
+						MICKEY: Ya well just keep out of my business you big ape. (pushes Kramer)<br>
+							<br>
+							
+						KRAMER: Who you calling big ape? (pushes Mickey back)<br>
+							<br>
+							
+						MICKEY: You (grabs Kramer)<br>
+							<br>
+							
+						(Mickey and Kramer begin a struggle)<br>
+							<br>
+							
+						JERRY: (starts pulling them apart) Alright break it up, break it up. Come on, just cut it out now (Kramer yells)<br>
+							<br>
+							
+						KRAMER: (pacing back and forth) Ya.<br>
+							<br>
+							
+						JERRY; Behave yourselves.<br>
+							<br>
+							
+						MICKEY: I'm sorry Kramer.<br>
+							<br>
+							
+						KRAMER: No no it's alright, it's alright. You're stressed Oout!<br>
+							<br>
+							
+						JERRY: (to Mickey) Why does this guy Johnny have it in for you?<br>
+							<br>
+							
+						MICKEY: Oh, he's always been jealous of me. I always get to stand in for the bigger stars; The Cosby Kids, Ricky Schroder, Macaulay Culkin.<br>
+							<br>
+							
+						KRAMER: (whistles) What's he like huh?<br>
+							<br>
+							
+						MICKEY: He's a good kid.<br>
+							<br>
+							
+						KRAMER: Ya?<br>
+							<br>
+							
+						JERRY: So what does he care if you put lifts in?<br>
+							<br>
+							
+						MICKEY: You don't understand. There's an unwritten code about this kind of thing. I could be ostracized. I remember when I was a kid, some guy tried to heighten. He lost his job, lost his friends, Everything. Oh, I knew I was crazy to try this kind of thing, but I was so desperate. (pauses laying on the couch; jumps up) What is this kid taking anyway? Hormones? Steroids? Would you tell me!?<br>
+							<br>
+							
+						(Scene Ends)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Setting: George's car outside Daphne's place]<br>
+							<br>
+							
+						DAPHNE: George, tomorrow's Sunday. We could sleep late, and get the paper and half breakfast and spend the morning together, go for a long walk, maybe do a little shopping, have lunch...<br>
+							<br>
+							
+						GEORGE: (interrupts her) You know what. I don't think I'm going to be able to stay over tonight.<br>
+							<br>
+							
+						DAPHNE: Why not?<br>
+							<br>
+							
+						GEORGE: I, I really should go home. Ya.. actually I'm planning on spending the day with my father tomorrow (short laugh) we're uh we're going to a father-son picnic, just the two of us.<br>
+							<br>
+							
+						DAPHNE: I thought we were going to spend the day together.<br>
+							<br>
+							
+						GEORGE: Well Dad's been planning this for such a long time, he bought a new blanket, and he got tha...that game with foam paddles and the velcro ball. (laughs)<br>
+							<br>
+							
+						DAPHNE: Have you given any more thought to what we talked about? You know, moving in?<br>
+							<br>
+							
+						GEORGE: Yes, oh yes very much.<br>
+							<br>
+							
+						DAPHNE: Maybe you don't want to move in.<br>
+							<br>
+							
+						GEORGE: No, no I do. You know it's just...<br>
+							<br>
+							
+						DAPHNE: (interrupting him) Maybe Al Netchie was right, maybe I shouldn't have gotten involved with you.<br>
+							<br>
+							
+						GEORGE: (angry that she believes Al was right) No he's not right. Al Netchie is not right! Alright I'm canceling the father-son picnic. I don't know what he's gonna do with all that potato salad.<br>
+							<br>
+							
+						(Scene Ends)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Setting: Elaine and Phil in Phil's car outside Elaine's Apartment]<br>
+							<br>
+							
+						ELAINE: (Phil cracking up) So then Packyderm picks up the pieces of pizza, and mind you know they are burning hot.. he can bearly hold 'em. I mean he's like trying to juggle (does a juggling motion and begins laughing) the pizza, you know ah. And then they go flying out of...<br>
+							<br>
+							
+						PHIL: (dying of laughter) I'm peeing in my pants.<br>
+							<br>
+							
+						ELAINE: (cont.) they go flying out of his hands, and one lands on her face and the other lands on his face. (pause as they both continue to laugh really hard) and the whole place went crazy.<br>
+							<br>
+							
+						PHIL: Oh, I'm sorry, Oh. What a story.<br>
+							<br>
+							
+						ELAINE: I know, I know, I was unbelievable<br>
+							<br>
+							
+						(laughter dying)<br>
+							<br>
+							
+						PHIL: Oh that is one of the funniest stories I've ever heard.<br>
+							<br>
+							
+						ELAINE: (wipes her eyes because she laughed so hard she cried) I know.<br>
+							<br>
+							
+						PHIL: Well this has been one hell of a night.<br>
+							<br>
+							
+						ELAINE: Oh, I'm sorry Jerry didn't suggest this sooner.<br>
+							<br>
+							
+						PHIL: You know, you really are beautiful Elaine.<br>
+							<br>
+							
+						ELAINE: Oh, well, (pauses) Good night.<br>
+							<br>
+							
+						PHIL: Good night?<br>
+							<br>
+							
+						ELAINE: Well (leans in to kiss Phil, then looks down at his pants with a awkward look on her face)<br>
+							<br>
+							
+						(Scene Ends)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Setting: Jerry's Apartment]<br>
+							<br>
+							
+						(Jerry sitting on a stool on the phone)<br>
+							<br>
+							
+						JERRY: (on phone) Come on Adrian give me another chance, I know I could cheer Fulton up. I'll tell you what, I'll do my act (pauses for response from Adrian) No new material (Elaine enters) He's never heard it. He'll love it, I just did it at the Concord last week, it killed. (waves hello to Elaine; pauses for response from Adrian) Thank you, thanks fo.. you will not regret this. Ok, Bye. (hangs up phone; to Elaine) Hey.<br>
+							<br>
+							
+						ELAINE: Hello.<br>
+							<br>
+							
+						JERRY: So?<br>
+							<br>
+							
+						ELAINE: What?<br>
+							<br>
+							
+						JERRY: Come on. How was your date?<br>
+							<br>
+							
+						ELAINE: Oh, the date. The date.<br>
+							<br>
+							
+						JERRY: Ya how was it?<br>
+							<br>
+							
+						ELAINE: Interesting.<br>
+							<br>
+							
+						JERRY: Really.<br>
+							<br>
+							
+						ELAINE: Oh ya.<br>
+							<br>
+							
+						JERRY: Why what happened?<br>
+							<br>
+							
+						ELAINE: Let's see, (thinking) how shall I put this.<br>
+							<br>
+							
+						JERRY: Just put it.<br>
+							<br>
+							
+						ELAINE: He took it out.<br>
+							<br>
+							
+						JERRY: (confused) He what?<br>
+							<br>
+							
+						ELAINE: He took (blows on her glasses twice to clean them) it out.<br>
+							<br>
+							
+						JERRY: He took what out?<br>
+							<br>
+							
+						ELAINE: It.<br>
+							<br>
+							
+						JERRY: He took It, Out?<br>
+							<br>
+							
+						ELAINE: Yessiree Bob.<br>
+							<br>
+							
+						JERRY: He couldn't.<br>
+							<br>
+							
+						ELAINE: He did.<br>
+							<br>
+							
+						JERRY: (motions of making out) Well you were involved in some sort of amorous...<br>
+							<br>
+							
+						ELAINE: Noooo.<br>
+							<br>
+							
+						JERRY: You mean he just<br>
+							<br>
+							
+						ELAINE: Yes.<br>
+							<br>
+							
+						JERRY: Are you sure?<br>
+							<br>
+							
+						ELAINE: Oh quite.<br>
+							<br>
+							
+						JERRY: There was no mistaking it?<br>
+							<br>
+							
+						ELAINE: (looks straight into his eyes) Jerry.<br>
+							<br>
+							
+						JERRY: So you were talking, (Elaine makes an agreement sound &quot;mmm&quot;) you're having pleasant conversation, (Elaine makes an agreement sound &quot;mmm&quot;) then all of sudden...<br>
+							<br>
+							
+						ELAINE: Yea.<br>
+							<br>
+							
+						JERRY: It.<br>
+							<br>
+							
+						ELAINE: It.<br>
+							<br>
+							
+						JERRY: Out.<br>
+							<br>
+							
+						ELAINE: Out.<br>
+							<br>
+							
+						JERRY: Well I, I can't believe this. I know Phil, he, he's a good friend of mine. We play softball together. How could this be?<br>
+							<br>
+							
+						ELAINE: Oh it be. (sarcastically) You got any other friends you want to set me up with?<br>
+							<br>
+							
+						(Kramer enters)<br>
+							<br>
+							
+						KRAMER: Hey. (to Elaine) Hey how was your date with Phil Titola?<br>
+							<br>
+							
+						ELAINE: (to Kramer) He took it out.<br>
+							<br>
+							
+						(Shocked, Kramer acts like he just got a cold shiver down his back)<br>
+							<br>
+							
+						KRAMER: Maybe uh, it needed some air. You know sometimes they need air, they can't breathe in there. It's in human.<br>
+							<br>
+							
+						(Scene Ends)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Setting: Monk's]<br>
+							<br>
+							
+						(Jerry and George sitting at the booth nearest to the door)<br>
+							<br>
+							
+						GEORGE: So she's just sitting there, she's having a pleasant conversation... and all of a sudden.<br>
+							<br>
+							
+						JERRY: It.<br>
+							<br>
+							
+						GEORGE: It.<br>
+							<br>
+							
+						JERRY: Out.<br>
+							<br>
+							
+						GEORGE: Out. (Jerry shakes his head in agreement) Wow. I spend so much time trying to get their clothes off, I never thought of taking mine off. (Jerry nods; George looks at his watch) Alright, Hey come on, get out of here, Dophne gonna be here any minute.<br>
+							<br>
+							
+						JERRY: Alright I'm going.<br>
+							<br>
+							
+						GEORGE: You know what I've come to realize? I'm not just bored. I genuinely dislike her.<br>
+							<br>
+							
+						JERRY: Well how long you are going to keep this up?<br>
+							<br>
+							
+						GEORGE: Hey I'll get married if I have to. Al Netchie will think twice before he opens his mouth about me again.<br>
+							<br>
+							
+						JERRY: You know George they are doing wonderful things at mental institutions these days. I'd be happy to set-up a meet and greet.<br>
+							<br>
+							
+						GEORGE: I'm very disappointed to here you talk like that. You still don't know what makes me tick.<br>
+							<br>
+							
+						JERRY: Yes I do.<br>
+							<br>
+							
+						GEORGE: What are you doing?<br>
+							<br>
+							
+						JERRY: I'm going to the hospital to see Fulton. I'm not even saying hello, I'm going right into material.<br>
+							<br>
+							
+						(Scene Ends)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Setting: Fulton's Hospital Room]<br>
+							<br>
+							
+						(Phil and Jerry in the hall outside Fulton's Room)<br>
+							<br>
+							
+						PHIL: Ah hey Jer.<br>
+							<br>
+							
+						JERRY: Oh hey Phil.<br>
+							<br>
+							
+						PHIL: You know I'm sorry things didn't work out with Elaine. I don't know what I did wrong.<br>
+							<br>
+							
+						JERRY: Well, y..you showed her who you are.<br>
+							<br>
+							
+						(Phil turns to see a woman breast feeding her baby down the hallway)<br>
+							<br>
+							
+						PHIL: Oh, look at this, what she's got to breast feed in public.<br>
+							<br>
+							
+						JERRY: Ya, that's the.. last thing you want to see. Well, next to last.<br>
+							<br>
+							
+						PHIL: I'll see ya.<br>
+							<br>
+							
+						JERRY: Ya take it easy.<br>
+							<br>
+							
+						(Phil leaves)<br>
+							<br>
+							
+						(Jerry enters Fulton's Room)<br>
+							<br>
+							
+						JERRY: (acting like he was walking on stage) Hey how ya doing? Good to be here.<br>
+							<br>
+							
+						(Scene Ends)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Setting: ABC Studios set]<br>
+							<br>
+							
+						KRAMER &amp; MICKEY: Rock, paper, scissors match.<br>
+							<br>
+							
+						MICKEY: Alright, rock beats paper.<br>
+							<br>
+							
+						(Mickey smacks Kramer on the hand for losing)<br>
+							<br>
+							
+						KRAMER: I thought paper covered rock?<br>
+							<br>
+							
+						MICKEY: Nah, rock flies right through paper.<br>
+							<br>
+							
+						KRAMER: What beats rock?<br>
+							<br>
+							
+						MICKEY: (looks at his hand) Nothing beats rock.<br>
+							<br>
+							
+						KRAMER: Alright come on.<br>
+							<br>
+							
+						KRAMER &amp; MICKEY: Rock, paper, scissors match.<br>
+							<br>
+							
+						KRAMER: Rock.<br>
+							<br>
+							
+						MICKEY: Rock<br>
+							<br>
+							
+						KRAMER &amp; MICKEY: Rock, paper, scissors match.<br>
+							<br>
+							
+						KRAMER: Rock.<br>
+							<br>
+							
+						MICKEY: Rock.<br>
+							<br>
+							
+						(Bob walks by)<br>
+							<br>
+							
+						MICKEY: Hey Bob. What's with you? You gotta problem? (to Kramer) You see that look he gave me? (starts to get up to go after him)<br>
+							<br>
+							
+						KRAMER: (stops Mickey) Alright, come on.<br>
+							<br>
+							
+						KRAMER &amp; MICKEY: Rock, paper, scissors match.<br>
+							<br>
+							
+						KRAMER: Rock.<br>
+							<br>
+							
+						MICKEY: Rock.<br>
+							<br>
+							
+						(Tammy walks up)<br>
+							<br>
+							
+						MICKEY: Hey Tammy.<br>
+							<br>
+							
+						TAMMY: Hello.<br>
+							<br>
+							
+						MICKEY: So Tammy, finally, today's our big lunch.<br>
+							<br>
+							
+						TAMMY: I don't think so.<br>
+							<br>
+							
+						MICKEY: Why not? What the hell are you talking about?<br>
+							<br>
+							
+						TAMMY: Look Mickey, everybody knows that you're heightening. It's all over the set.<br>
+							<br>
+							
+						MICKEY: Wait, wait (goes to grab her arm)<br>
+							<br>
+							
+						TAMMY: (recoils) Don't touch me. You ought to be ashamed of yourself. All the progress we made over the years and you go and blow it by pulling a stupid stunt like this.<br>
+							<br>
+							
+						MICKEY: Wait a second, wait a second, you got me all wrong. It was all because of the kid. (numerous little people begin to crowd around them) (to Tammy) The kid was growing. He shot up two and a half inches in a month. (to all the little people) I woulda lost my job. Any one of you would have done the same. You got no right! I'm Mickey Abbott! I stood in for Punky Bruster when all of you was nothing. (seeing the crowd still doesn't agree with what he did, he points at Kramer) It's all his fault. (Kramer acts like he doesn't know what Mickey is talking about) It was his idea.<br>
+							<br>
+							
+						TAMMY: Come on Johnny, let's go get something to eat.<br>
+							<br>
+							
+						(all the little people leave including Tammy along with Johnny)<br>
+							<br>
+							
+						MICKEY: (in complete disgust as seeing Tammy leave with Johnny) AH! (turns and looks at Kramer) AH!<br>
+							<br>
+							
+						KRAMER: What?<br>
+							<br>
+							
+						(Mickey runs and tackles Kramer)<br>
+							<br>
+							
+						MICKEY: AH!<br>
+							<br>
+							
+						KRAMER: Mickey!<br>
+							<br>
+							
+						(Scene Ends)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Setting: Back in Fulton's Hospital Room]<br>
+							<br>
+							
+						(Jerry is doing material)<br>
+							<br>
+							
+						JERRY: This guy's belching out vitamins..<br>
+							<br>
+							
+						FULTON: (dying of laughter and coughing) Stop.<br>
+							<br>
+							
+						JERRY: (cont) and this whole justice league, Batman, Green Lantern, Wonder Woman. You mean to tell me Superman can't cover everything?<br>
+							<br>
+							
+						FULTON: (still laughing and coughing) Stop.<br>
+							<br>
+							
+						JERRY: For crying out loud, He's Superman. (Fulton stops laughing, Jerry's face is stunned) Fulton? (looks at him) Fulton?<br>
+							<br>
+							
+						(Scene Ends)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Setting: Back at Monk's]<br>
+							<br>
+							
+						(George and Daphne at the booth nearest to the door)<br>
+							<br>
+							
+						DAPHNE: George, first let me just say I've never been with a guy who was so committed to commit. I mean it's so rare in men these days an, that's what makes this all the more difficult.<br>
+							<br>
+							
+						GEORGE: (happily) Difficult?<br>
+							<br>
+							
+						DAPHNE: The other day after work some girlfriends and I went to a bar for some drinks and there was this crazy mishap and I wound up meeting someone as a result. George...<br>
+							<br>
+							
+						GEORGE: (acting disappointed) Oh, please don't.<br>
+							<br>
+							
+						DAPHNE: Uh, I'm sorry. I'm afraid the worst of it is it's someone you know. Jerry Persheck.<br>
+							<br>
+							
+						GEORGE: Packyderm?<br>
+							<br>
+							
+						DAPHNE: Heh, he was carrying these two pieces of pizza...<br>
+							<br>
+							<br>
+							
+						The End</td>
+						</tr>
+						<tr height="6">
+							<td class="bottom2" width="645" height="6"></td>
+						</tr>
+						<tr>
+							<td width="645">
+								<div align="center">
+									<font size="-1">Copyright 2006 seinology.com | All Rights Reserved | Designed by 13erla</font></div>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+		<p></p>
+	</body>
+
+</html>

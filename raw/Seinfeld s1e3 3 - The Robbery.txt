@@ -1,0 +1,1225 @@
+<tdOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+<html>
+
+	<head>
+		<meta http-equiv="content-type" content="text/html;charset=ISO-8859-1">
+		<meta name="description" content="Top Source for Seinfeld">
+		<meta name="keywords" content="seinfeld, sienfeld, Jerry Seinfeld, Julia Louis Dreyfus, Jason Alexander, Michael Richards, Kramer, George, Costanza, Elaine Benes, morty, Larry David">
+		<title>Seinology.com :: Scripts :: 03-The Robbery</title>
+	<link rel='stylesheet' href='/stylesheet.css' type='text/css'>
+	</head>
+
+	<body>
+			<table align="center" width="787" border="0" cellspacing="0" cellpadding="0">
+				<tr>
+					<td><font size="-2" color="red">Seinology.com - </font><font size="-3" color="black">Where Seinfeld Content and Accuracy Matter Most. Seinfeld scripts in pdf form, Seinfeld episode video clips, Seinfeld episode audio clips, Jerry Seinfeld appearances, Julia Louis-Dreyfus appearances, Michael Richards appearances, Jason Alexander appearances, Seinfeld discussion Forum, Seinfeld Where are they Now? Seinlanguage Newsletter, Popular Seinfeld Lists, Seinfeld episode standup, Seinfeld episode guide, Seinfeld fan fiction. Seinfeld content all on one domain. Seinology.com enjoy your stay.</font></td>
+				</tr>
+			</table>
+		
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr height="100">
+				<td class="logo"></td>
+			</tr>
+			<tr><td class="ads" align="center" background=#8694fa>
+				<script type="text/javascript"><!--
+google_ad_client = "pub-1924026976931416";
+google_ad_width = 728;
+google_ad_height = 90;
+google_ad_format = "728x90_as";
+google_ad_type = "text";
+google_ad_channel = "";
+google_color_border = "FFFFFF";
+google_color_bg = "8694fa";
+google_color_link = "0000FF";
+google_color_text = "000000";
+google_color_url = "002E3F";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></td></tr>
+		</table>
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr>
+				<td valign="top" width="136">
+					<table width="136" border="0" cellspacing="0" cellpadding="0">
+						<tr height="24">
+							<td class="navigation">
+								<div align="center">
+									
+									<b>Navigation</b></div>
+							</td>
+						</tr>
+						<tr height="199">
+							<td class="spacer1" valign="top" width="136" height="199">
+								<div align="center">
+									<font size="-1"><a href="http://www.seinology.com">Home</a><br>
+										<a href="http://board.seinology.com">Forum</a><br>
+										<a href="http://www.seinology.com/av.shtml">Audio/Video</a><br>
+										<a href="http://www.seinology.com/scripts.shtml">Scripts</a><br>
+										<a href="http://www.seinology.com/survivor.shtml">Survivor</a><br>
+										<a href="http://www.seinology.com/fanfics.shtml">Fan Fiction</a><br>
+										<a href="http://www.seinology.com/gallery/">Gallery</a><br>
+										<a href="http://www.seinology.com/newsletter.shtml">Newsletter</a><br>
+										<a href="http://www.seinology.com/lists.shtml">Lists</a><br>
+										<a href="http://www.seinology.com/epguide.shtml">Episode Guide</a><br>
+										<a href="http://www.seinology.com/links.shtml">Links</a><br>
+										<a href="http://www.seinology.com/faqother.shtml">Faq + others</a><br>
+										<a href="http://www.seinology.com/legal.shtml">Legal</a></font></div>
+							</td>
+						</tr>
+						
+						<tr>
+							<td class="nav2" width="136">
+							<div align="center"><b>Search</b></div></td>
+						</tr>
+						<tr>
+							<td class="spacer1" width="136" valign="top"><div align="center"><form method="get" action="http://www.seinology.com/search/search.cgi">
+<p><label for="fdse_Match">Match</label><br>
+<select name="Match" id="fdse_Match" size="1">
+<option value="1">All</option>
+<option value="0">Any</option>
+<option value="2">Phrase</option>
+</select></p>
+<p><label for="fdse_Realm">Where?</label><br>
+<select name="Realm" id="fdse_Realm" size="1">
+<option selected="selected" value="All">EntireSite</option>
+<option value="Ep Guide">Ep Guide</option>
+<option value="Images">Images</option>
+<option value="Lists">Lists</option>
+<option value="Newsletters">Newsletters</option>
+<option value="Scripts">Scripts</option>
+<option value="Notes..Nothing">Notes..Nothing</option>
+</select></p>
+<p><input type="text" name="Terms" size="14" id="fdse_Terms"><br>
+<input type="submit" class="submit" name="submitButtonName" value="Search"></p>
+</div></form></td>
+						</tr>
+						<tr><td class="bottom" width="136" height="10" valign="top">
+						</td>
+						</tr>
+					</table>
+				</td>
+				<td width="4"></td>
+				<td valign="top" width="645">
+					<table width="645" border="0" cellspacing="0" cellpadding="0">
+						<tr height="18">
+							<td width="645" height="35" class="bar">
+								<div align="center">
+									<b><font size="+2" color="black">Script</font></b></div>
+							</td>
+						</tr>
+						<tr height="362">
+							<td class="spacer2" valign="top" width="645" height="362">
+
+						<p><font size="-2">Episode 3 - The Robbery<br>
+							
+						pc: 104, season 1, episode 2<br>
+							
+						Broadcast date: June 7, 1990<br>
+							<br>
+							
+						Written By Matt Goldman<br>
+							
+						Directed By Tom Cherones<br>
+							<br>
+							
+						-------------------------------------------------------------------------------<br>
+							<br>
+							
+						The Cast<br>
+							
+						Regulars:<br>
+							
+						Jerry Seinfeld ....................... Jerry Seinfeld<br>
+							
+						Jason Alexander .................. George Costanza<br>
+							
+						Julia Louis-Dreyfus ............. Elaine Benes<br>
+							
+						Michael Richards ................. Kramer<br>
+							<br>
+							
+						Guest Stars:<br>
+							<br>
+							
+						Anita Wise ............................ Waitress<br>
+							
+						James F. Dean ...................... Larry<br>
+							
+						Kimberley Kates ................. Diane<br>
+							
+						Bradford English ................. Cop<br>
+							
+						David Blackwood ............... Man #1<br>
+							
+						George Simms..................... Man #2<br>
+							<br>
+							
+						==================================================================<br>
+							<br>
+							
+						INT. COMEDY CLUB<br>
+							<br>
+							
+						(Jerry is on stage, performing.)<br>
+							<br>
+							
+						JERRY: So I move into the centre lane, now I get ahead of this women, who felt for some reason I guess, that she thought that I cut her off. So, she pulls up along side of me, gives me the finger. It seems like such an arbitrary, ridiculous thing to just pick a finger and you show it to the person. It&#146;s a finger, what does it mean? Someone shows me one of their fingers and I&#146;m supposed to feel bad. Is that the way it&#146;s supposed to work? I mean, you could just give someone the toe, really, couldn&#146;t you? I would feel worse if I got the toe, than if I got the finger. &#145;Cause it&#146;s not easy to give someone the toe, you&#146;ve gotta get the shoe off, the sock off and drive, get it up and... (Jerry pretends to drive with one foot in the air, giving the toe.) &#147;Look at that toe, buddy.&#148; (He puts his foot down.) I mean, that&#146;s really insulting to get the toe, isn&#146;t it?<br>
+							<br>
+							<br>
+							<br>
+							
+						INT. JERRY&#146;S APARTMENT&nbsp;<br>
+							<br>
+							
+						(Jerry is packing a suitcase. Elaine is sitting at the table, watching him.)<br>
+							<br>
+							
+						JERRY: Is that it? Got the cue tips, got the mini-umbrella, something boring to read on the plane. (Jerry zips his bag ceremoniously.) That&#146;s it. Done!<br>
+							<br>
+							
+						ELAINE: (claps her hands) That is the single greatest packing performance I have ever seen.<br>
+							<br>
+							
+						JERRY: (proudly) I am...the master packer.<br>
+							<br>
+							
+						ELAINE: (laughs) Yeah, right, you&#146;re the master packer.<br>
+							<br>
+							
+						JERRY: What you must understand, Elaine, (picking up the umbrella) packing is no different than leading men into battle. (Jerry hits his bag rhythmically with his umbrella.) You&#146;ve gotta know the strengths and weaknesses of every soldier in that platoon. From a collapsible toothbrush to a pair of ordinary black socks.<br>
+							<br>
+							
+						ELAINE: (raising her hand) &#145;Scuse me, master packer...<br>
+							<br>
+							
+						JERRY: Yes.<br>
+							<br>
+							
+						ELAINE: Just gimme your keys.<br>
+							<br>
+							
+						JERRY: All right, sir. (He tosses Elaine his keys. The apartment buzzer goes off; Jerry presses the first button; to the intercom) George?<br>
+							<br>
+							
+						GEORGE: (from the intercom) Yeah.<br>
+							<br>
+							
+						(Jerry presses the second button, and opens the apartment door.)<br>
+							<br>
+							
+						ELAINE: Okay, so, now, is there anything else I need to know about this place?<br>
+							<br>
+							
+						JERRY: Uh, yeah, the, uh, hot water takes a little while to come on. So, the best thing to do is to turn it on, do all your shopping, you come back and take a shower.<br>
+							<br>
+							
+						ELAINE: Okay, this is quite a place.<br>
+							<br>
+							
+						JERRY: There&#146;s more. The refrigerator.<br>
+							<br>
+							
+						(Jerry opens the fridge.)<br>
+							<br>
+							
+						JERRY: Deduct a minimum of two days off all expiration dates. (He uses the umbrella to point to certain compartments in the fridge.) No meat, no leftovers, no butter. (He closes the fridge.) And I cannot overstate this: No soft cheeses of any kind. Is that clear?<br>
+							<br>
+							
+						ELAINE: I&#146;ll eat out.<br>
+							<br>
+							
+						JERRY: One more thing, Benes, regarding sexual activity: Strictly prohibited, but if you absolutely must, do us all a big favour. Do it in the tub.<br>
+							<br>
+							
+						(George enters.)<br>
+							<br>
+							
+						GEORGE: (to Jerry) Ready?<br>
+							<br>
+							
+						JERRY: Yeah, one sec.<br>
+							<br>
+							
+						(George closes the door.)<br>
+							<br>
+							
+						GEORGE: Hey, Elaine.<br>
+							<br>
+							
+						ELAINE: Hi.<br>
+							<br>
+							
+						GEORGE: Coming to the airport with us?<br>
+							<br>
+							
+						ELAINE: No, I&#146;m staying here for the weekend. I&#146;m getting a break from my roommate.<br>
+							<br>
+							
+						GEORGE: Oh, the actress-waitress?<br>
+							<br>
+							
+						ELAINE: No, the waitress-actress. She just got some part in some dinner theater production of &#147;A Chorus Line&#148;. So, now all day long she&#146;s walking around the apartment singing, &#147;God, I hope I get it, I hope I get it!&#148; She&#146;s gonna get it right in her...<br>
+							<br>
+							
+						GEORGE: So just kick her out.<br>
+							<br>
+							
+						ELAINE: She&#146;s on the lease! George you have got to find another place for me.<br>
+							<br>
+							
+						GEORGE: Yeah, well...a little rough finding something good in your price-range. (to Jerry) But you, my friend, may be in luck.<br>
+							<br>
+							
+						JERRY: I&#146;m not looking.<br>
+							<br>
+							
+						GEORGE: No no no, this one&#146;s different. This one&#146;s a beauty!<br>
+							<br>
+							
+						JERRY: Yeah, what&#146;s it like?<br>
+							<br>
+							
+						GEORGE: I haven&#146;t seen it yet, but it&#146;s a two-bedroom, it&#146;s on the uh, west 83rd, &#145;bout a half block from the park?<br>
+							<br>
+							
+						JERRY: How much?<br>
+							<br>
+							
+						GEORGE: Uh, twice what you&#146;re payin&#146; here, but it&#146;s a great building. It&#146;s two bedrooms!<br>
+							<br>
+							
+						JERRY: Two bedrooms? Why do I need two bedrooms? I got enough trouble maintaining activity in one. (George gives Elaine a look while Jerry&#146;s back is turned. Jerry turns around.) I saw that.<br>
+							<br>
+							
+						ELAINE: You oughta at least take a look at it.<br>
+							<br>
+							
+						JERRY: Really? Why?<br>
+							<br>
+							
+						ELAINE: &#145;Cause then I could move in here.<br>
+							<br>
+							
+						JERRY: Ohhhh...<br>
+							<br>
+							
+						ELAINE: It&#146;s time you got outta here anyway.<br>
+							<br>
+							
+						GEORGE: Yeah, tell &#145;im. But quickly, I&#146;m double parked here.<br>
+							<br>
+							
+						ELAINE: Listen, Jerry, this place is falling apart. You have no hot water, you can&#146;t have soft cheese...<br>
+							<br>
+							
+						GEORGE: Let&#146;s not forget the radiator. The steam has been on here for ten years. No human can turn this off.<br>
+							<br>
+							
+						ELAINE: Jerry, come on, you&#146;re doin&#146; okay now. You should at least take a look at this place. You shouldn&#146;t have to live like this.<br>
+							<br>
+							
+						JERRY: Like this? You just said you wanted to live here.<br>
+							<br>
+							
+						ELAINE: Well, for me it&#146;s a step up. It&#146;s like moving from Iceland to Finland.<br>
+							<br>
+							
+						GEORGE: Jerry, what do you, you wanna, you wanna see the place or not?<br>
+							<br>
+							
+						JERRY: I can&#146;t think about it now. Come on, I&#146;m going to Minneapolis. I got four shows this weekend.<br>
+							
+						&nbsp;<br>
+							<br>
+							<br>
+							
+						INT. JERRY&#146;S APARTMENT &#150; DAY<br>
+							<br>
+							
+						(Jerry enters his apartment with his bags.)<br>
+							<br>
+							
+						JERRY: Elaine. (Jerry puts his bags down, sits down on the couch, picks up the remote control and points it at the spot the TV usually occupies. The TV is not there. He continues to point the remote at random things around the room, searching for the TV.) ELAINE!<br>
+							<br>
+							
+						ELAINE: (from the bathroom) JERRY! (Elaine enters the living-room.) Jerry, oh, hi, welcome back. How were the shows?<br>
+							<br>
+							
+						JERRY: Great, I had fun. Where&#146;s the TV, where&#146;s the VCR?<br>
+							<br>
+							
+						(Elaine has a guilty look on her face.)<br>
+							<br>
+							
+						JERRY: What?<br>
+							<br>
+							
+						ELAINE: They were stolen.<br>
+							<br>
+							
+						JERRY: Stolen? When?<br>
+							<br>
+							
+						ELAINE: A couple a hours ago. The police are coming right over.<br>
+							<br>
+							
+						JERRY: Stolen?<br>
+							<br>
+							
+						(Kramer enters the apartment.)<br>
+							<br>
+							
+						ELAINE: (looking at Kramer) Someone left the door open.<br>
+							<br>
+							
+						(Elaine enters the bathroom.)<br>
+							<br>
+							
+						JERRY: (to Kramer) You left the door open?!<br>
+							<br>
+							
+						KRAMER: Uh, Jer, well you know, I was cookin&#146; and I, I uh, I came in to get this spatula...and I left the door open, &#145;cause I was gonna bring the spatula right back!<br>
+							<br>
+							
+						JERRY: Wait, you left the lock open or the door open?<br>
+							<br>
+							
+						KRAMER: (guiltily) The door.<br>
+							<br>
+							
+						JERRY: The door? You left the door open?<br>
+							<br>
+							
+						KRAMER: Yeah, well, I was gonna bring the spatula right back.<br>
+							<br>
+							
+						JERRY: Yeah, and?<br>
+							<br>
+							
+						KRAMER: Well, I got caught up... watching a soap opera. &#147;The Bold And The Beautiful&#148;.<br>
+							<br>
+							
+						JERRY: So the door was wide open?<br>
+							<br>
+							
+						KRAMER: Wide open!<br>
+							<br>
+							
+						(Elaine enters the living room.)<br>
+							<br>
+							
+						JERRY: (to Elaine) And where were you?<br>
+							<br>
+							
+						ELAINE: I was at Bloomingdale&#146;s... waiting for the shower to heat up.<br>
+							<br>
+							
+						KRAMER: Look, Jerry, I&#146;m sorry, I&#146;m uh- you have insurance, right buddy?<br>
+							<br>
+							
+						JERRY: No.<br>
+							<br>
+							
+						KRAMER: (shocked) How can you not have insurance?<br>
+							<br>
+							
+						JERRY: Because I spent my money on the Clapgo D-29. It&#146;s the most impenetrable lock on the market today. It has only one design flaw. The door... (Jerry pushes the door shut.) ...MUST BE CLOSED!!<br>
+							<br>
+							
+						KRAMER: Jerry! I&#146;m gonna find your stuff. I&#146;m gonna solve it, I&#146;m on the case, buddy, I&#146;m on the case.<br>
+							<br>
+							
+						JERRY: Yeah, don&#146;t investigate, don&#146;t pay me back, it was an accident.<br>
+							<br>
+							
+						KRAMER: (theatrical) I made a mistake.<br>
+							<br>
+							
+						ELAINE: These things happen.<br>
+							<br>
+							
+						KRAMER: I&#146;m human.<br>
+							<br>
+							
+						JERRY: In your way.<br>
+							<br>
+							<br>
+							<br>
+							
+						INT. JERRY&#146;S APARTMENT &#150; DAY<br>
+							<br>
+							
+						(A policeman is filling out a report. Jerry and Elaine are there.)<br>
+							<br>
+							
+						POLICEMAN: Let&#146;s see, that&#146;s, one TV, a stereo, one leather jacket, a VCR and a computer...is that &#145;bout it?<br>
+							<br>
+							
+						ELAINE: Answering machine.<br>
+							<br>
+							
+						JERRY: (disappointed) Answering machine. (jovially) Oh, I hate the idea of somebody out there returning my calls.<br>
+							<br>
+							
+						POLICEMAN: What do you mean?<br>
+							<br>
+							
+						JERRY: It&#146;s a joke.<br>
+							<br>
+							
+						POLICEMAN: I see. Well, mister Seinfeld uh, we&#146;ll look into it and uh, we&#146;ll let you know if we uh, you know, if we find anything.<br>
+							<br>
+							
+						JERRY: You ever find anything?<br>
+							<br>
+							
+						POLICEMAN: No.<br>
+							<br>
+							
+						(Policeman hands Jerry his copy of the report.)<br>
+							<br>
+							
+						JERRY: Well, thanks anyway.<br>
+							<br>
+							
+						POLICEMAN: You bet.<br>
+							<br>
+							
+						(Policeman leaves the apartment, while George enters.)<br>
+							<br>
+							
+						ELAINE: I didn&#146;t get that joke either.<br>
+							<br>
+							
+						JERRY: The crook has the machine. The messages aren&#146;t for him. He&#146;s the crook. Why would he answer- (Jerry gives up on the explanation and turns around to see George standing behind him.) How did you get in here?<br>
+							<br>
+							
+						(George slaps his right hand on his left elbow, and vice versa, acting like a genie.)<br>
+							<br>
+							
+						GEORGE : I walked in, your lobby door is broken again.<br>
+							<br>
+							
+						JERRY: Again?<br>
+							<br>
+							
+						GEORGE: I don&#146;t know how you put up with this.<br>
+							<br>
+							
+						ELAINE: Yeah, tell &#145;im George.<br>
+							<br>
+							
+						JERRY: (to Elaine) You would still wanna move in here?<br>
+							<br>
+							
+						ELAINE: Yes! You don&#146;t understand. I&#146;m living with Ethel Merman without the talent.<br>
+							<br>
+							
+						JERRY: (to George) Is that uh, other apartment still available?<br>
+							<br>
+							
+						(George shows him the keys.)<br>
+							<br>
+							<br>
+							<br>
+							
+						INT. COMEDY CLUB &#150; NIGHT<br>
+							<br>
+							
+						(Jerry is on stage, performing.)<br>
+							<br>
+							
+						JERRY: I got ripped off for about the...18th time? And now, the first couple a times you go through it, it&#146;s very upsetting and your first reaction or one of your friends will say, &#147;Call the police. You really should call the police.&#148; So you think to yourself, you know, you watch TV, you think, &#147;Yeah, I&#146;m calling the police. Stakeouts, manhunts... I&#146;m gonna see some real action.&#148; Right, you think that. So, the police come over to your house, they fill out: The Report. They give you: Your Copy. Now, unless they give the crook his copy, I don&#146;t really think we&#146;re gonna crack this case, do you? It&#146;s not like Batman, where there&#146;s three crooks in the city and everybody pretty much knows, who they are. Very few crooks even go to the trouble to come up with a theme for their careers anymore. It makes them a lot tougher to spot. &#147;Did you lose a sony? It could be the Penguin. I think we can round him up, he&#146;s dressed like a PENGUIN! We can find him, he&#146;s a PENGUIN!<br>
+							<br>
+							<br>
+							<br>
+							
+						INT. THE APARTMENT ON 83RD STREET &#150; DAY<br>
+							<br>
+							
+						(George, Elaine and Jerry are entering the apartment.)<br>
+							<br>
+							
+						ELAINE: Oh, well, come on. This is an apartment, this is a home! This is a place to live. Oooh, a fireplace, are you kidding me! Does this work?<br>
+							<br>
+							
+						(Elaine takes a closer look at the fireplace.)<br>
+							<br>
+							
+						GEORGE: I didn&#146;t know there was a fireplace. A fireplace, that's incredible.<br>
+							<br>
+							
+						JERRY: How do you get all that wood in here?<br>
+							<br>
+							
+						ELAINE: They deliver it.<br>
+							<br>
+							
+						JERRY: They deliver wood?<br>
+							<br>
+							
+						ELAINE: Yeah.<br>
+							<br>
+							
+						JERRY: What do you tip a wood guy?<br>
+							<br>
+							
+						(George looks intensively at the apartment description.)<br>
+							<br>
+							
+						GEORGE: I didn&#146;t know there was a fireplace.<br>
+							<br>
+							
+						ELAINE: Look! Look at- look at this! There&#146;s a garden.<br>
+							<br>
+							
+						GEORGE: A garden! I can&#146;t believe there&#146;s a garden!<br>
+							<br>
+							
+						JERRY: Would I have to get a gardener?<br>
+							<br>
+							
+						ELAINE: Yeah, you can get a gardener.<br>
+							<br>
+							
+						JERRY: You tip him?<br>
+							<br>
+							
+						ELAINE: You can.<br>
+							<br>
+							
+						GEORGE: (to Elaine) You don&#146;t tip a gardener!<br>
+							<br>
+							
+						ELAINE: You can tip a gardener.<br>
+							<br>
+							
+						GEORGE: You don&#146;t need a gardener.<br>
+							<br>
+							
+						ELAINE: Jerry, you can barbecue back here.<br>
+							<br>
+							
+						JERRY: They deliver the coal?<br>
+							<br>
+							
+						ELAINE: Sure, it&#146;s...probably the same guy, who delivers the wood.<br>
+							<br>
+							
+						JERRY: Oh, then I gotta tip him.<br>
+							<br>
+							
+						ELAINE: Oh, damn, this place is incredible, look at all this great light!<br>
+							<br>
+							
+						JERRY: I don&#146;t have any plants.<br>
+							<br>
+							
+						GEORGE: I have plants. (snorts)<br>
+							<br>
+							
+						ELAINE: Jerry, look at this closet! Look at this! I&#146;m walking in it! (Elaine walks into the closet.) It&#146;s a walk-in. Can you believe it? I&#146;m nuts about this, what do you think?<br>
+							<br>
+							
+						(Jerry closes the door, with Elaine still in it.)<br>
+							<br>
+							
+						JERRY: I like that. (He opens the closet. Elaine walks out with an angry look.) What do you think, George?<br>
+							<br>
+							
+						GEORGE: It&#146;s your decision.<br>
+							<br>
+							
+						(Jerry walks around with Elaine walking next to him, copying his every move. Suddenly Jerry stops walking. Elaine is not able to copy this move; they look at each other, laughing.)<br>
+							<br>
+							
+						JERRY: I&#146;m takin&#146; it, I&#146;m takin&#146; the place. I&#146;m gonna take it, this is gonna be my new place. I&#146;m livin&#146; here...I&#146;m movin&#146;.<br>
+							<br>
+							
+						ELAINE: (laughing with joy) Your movin&#146;? That means I&#146;m movin&#146;. (She hugs Jerry.) Geeeeee (to George) isn&#146;t that incredible!<br>
+							<br>
+							
+						GEORGE: (unenthusiastic) Congratulations.<br>
+							
+						&nbsp;<br>
+							<br>
+							<br>
+							
+						INT. JERRY&#146;S APARTMENT &#150; DAY<br>
+							<br>
+							
+						(Jerry and Elaine are there.)<br>
+							<br>
+							
+						ELAINE: What about the couch?<br>
+							<br>
+							
+						JERRY: You like the couch? I&#146;ll tell you what I&#146;m gonna do.<br>
+							<br>
+							
+						ELAINE: What?<br>
+							<br>
+							
+						JERRY: You&#146;re movin&#146; in, you&#146;re a good friend, I wanna start you off on the right foot. Give me...a hundred and fifty dollars. (Elaine is shocked, Jerry opens the door to the hall.) Get it outta here right now, take it out the door, I don&#146;t even wanna see it, go, get it out.<br>
+							<br>
+							
+						ELAINE: A hundred and fifty dollars? A hundred and fifty dollars for what? For this couch?<br>
+							<br>
+							
+						JERRY: Yeah!<br>
+							<br>
+							
+						ELAINE: For this couch?!<br>
+							<br>
+							
+						(Jerry shuts the apartment door.)<br>
+							<br>
+							
+						JERRY: Okay, you tell me. What is it worth?<br>
+							<br>
+							
+						ELAINE: Okay, uh, I&#146;ll tell you what. I could go as high as uh... (She takes a closer look at couch.) I don&#146;t know, maybe...twenty dollars?<br>
+							<br>
+							
+						(Jerry looks at her as if to say, &#147;You can&#146;t be serious.&#148; The apartment buzzer goes off. Jerry speaks over the intercom.)<br>
+							<br>
+							
+						JERRY: Yeah?<br>
+							<br>
+							
+						GEORGE: (from the intercom) Yeah, it&#146;s George.<br>
+							<br>
+							
+						JERRY: Come on up. (Jerry presses the second button and opens the apartment door. He walks back to the couch.) Oh, all right, forget it, I&#146;m gonna take it with me now... (He picks up the cushions.) I&#146;m just gonna pack up the cushions right now...<br>
+							<br>
+							
+						ELAINE: Okay okay okay okay, you win. Forty dollars.<br>
+							<br>
+							
+						JERRY: (continuing unphased) You wanna get the other end, &#145;cause I wanna get it in the hall.<br>
+							<br>
+							
+						(He is about to lift up the couch.)<br>
+							<br>
+							
+						ELAINE: Fifty dollars, okay? Fifty dollars, is that all right?<br>
+							<br>
+							
+						JERRY: Fifty dollars?<br>
+							<br>
+							
+						ELAINE: Uh-huh.<br>
+							<br>
+							
+						JERRY: Thank you very much.<br>
+							<br>
+							
+						ELAINE: Thank you very much.<br>
+							<br>
+							
+						(George enters and closes the door.)<br>
+							<br>
+							
+						GEORGE: Hey, what&#146;s goin&#146; on?<br>
+							<br>
+							
+						ELAINE: I just bought Jerry&#146;s couch for fifty dollars.<br>
+							<br>
+							
+						JERRY: (to George) So did you bring the lease? (George takes the lease from his inside pocket and hands it to Jerry.) All right, gee, three years, that kinda seems like a long time.<br>
+							<br>
+							
+						GEORGE: (frantic) Oh, Jerry Jerry Jerry Jerry Jerry, listen, if, if you are feeling uncomfortable about this at all, at all. Do not feel like you have to take it.<br>
+							<br>
+							
+						JERRY: Why?<br>
+							<br>
+							
+						GEORGE: If you&#146;re having second thoughts, if you didn&#146;t want it, don&#146;t worry about it because uh, you know, I, I...I could take it, you know.<br>
+							<br>
+							
+						JERRY: You could take it? You want it?<br>
+							<br>
+							
+						GEORGE: No, I don&#146;t want it. I want it, if you don&#146;t want it.<br>
+							<br>
+							
+						JERRY: So you do want it.<br>
+							<br>
+							
+						GEORGE: No I, I want it if you don&#146;t want it.<br>
+							<br>
+							
+						JERRY: You just said you wanted it!<br>
+							<br>
+							
+						GEORGE: No, I&#146;m saying, if a situation arose in which you didn&#146;t want it, I might take it.<br>
+							<br>
+							
+						(Jerry picks up the lease and hands it to George.)<br>
+							<br>
+							
+						JERRY: So take it.<br>
+							<br>
+							
+						GEORGE: How can I take it?<br>
+							<br>
+							
+						JERRY: How can I take it?<br>
+							<br>
+							
+						GEORGE: It&#146;s your apartment!<br>
+							<br>
+							
+						JERRY: How can I want it now, if you want it?<br>
+							<br>
+							
+						ELAINE: Excuse me, uh, I don&#146;t mean to cause any trouble here, but George, if you take it, can I take your place?<br>
+							<br>
+							
+						GEORGE: Yes, but I am not taking it.<br>
+							<br>
+							
+						JERRY: I...am not taking it.<br>
+							<br>
+							
+						(He drops the lease demonstratively on his line.)<br>
+							<br>
+							
+						ELAINE: Well, one of you better damn well take it!<br>
+							<br>
+							
+						JERRY: Well, whaddaya wanna do here?<br>
+							<br>
+							
+						GEORGE: I, I don&#146;t know.<br>
+							<br>
+							
+						JERRY: Do you wanna flip a coin?<br>
+							<br>
+							
+						GEORGE: Who flips? You&#146;ll flip, I&#146;ll call.<br>
+							<br>
+							
+						JERRY: Okay, fine. (Jerry takes a coin from his pocket.) This is the official flip. No crying, no guilt, winner takes all and that&#146;s it. Agreed?<br>
+							<br>
+							
+						GEORGE: I&#146;m good.<br>
+							<br>
+							
+						ELAINE: I don&#146;t know, who to root for, George&#146;s place has carpeting.<br>
+							<br>
+							
+						(George &quot;shushes&quot; Elaine)<br>
+							<br>
+							
+						JERRY: All right, now you call it in the air.<br>
+							<br>
+							
+						GEORGE: No catchin&#146;.<br>
+							<br>
+							
+						JERRY: No no.<br>
+							<br>
+							
+						GEORGE: Flip it.<br>
+							<br>
+							
+						(Jerry flips the coin.)<br>
+							<br>
+							
+						GEORGE: Heads!<br>
+							<br>
+							
+						(The coin hits the table. It falls on the floor. They all look intently at the coin.)<br>
+							<br>
+							
+						JERRY: Tails!<br>
+							<br>
+							
+						GEORGE: No, it hit the table, it hit the table.<br>
+							<br>
+							
+						JERRY: So what?<br>
+							<br>
+							
+						GEORGE: Interference! You can&#146;t count that! Come on, are you crazy?! The coin cannot touch anything, it affects it.<br>
+							<br>
+							
+						JERRY: You didn&#146;t call no interference!<br>
+							<br>
+							
+						GEORGE: You don&#146;t have to call that! That&#146;s a rule!<br>
+							<br>
+							
+						JERRY: I don&#146;t believe this.<br>
+							<br>
+							
+						GEORGE: Oh oh oh, all right, fine, Jerry, you win. Take it, just take it!<br>
+							<br>
+							
+						JERRY: I don&#146;t wanna win it like this! Elaine, what do you think?<br>
+							<br>
+							
+						ELAINE: I&#146;d better not.<br>
+							<br>
+							
+						JERRY: Well, I&#146;ll tell you what. I&#146;ll choose you for it. Straight choose, three takes it, no disputes...that&#146;s it, you gotta win three.<br>
+							<br>
+							
+						GEORGE: Okay. (They walk around each other.) OK. I&#146;ll choose you. Whaddaya want?<br>
+							<br>
+							
+						JERRY: Odds.<br>
+							<br>
+							
+						GEORGE: I want evens.<br>
+							<br>
+							
+						JERRY: Good.<br>
+							<br>
+							
+						GEORGE: You got odds.<br>
+							<br>
+							
+						JERRY: You got evens.<br>
+							<br>
+							
+						GEORGE: Right, ready?<br>
+							<br>
+							
+						JERRY: For the apartment.<br>
+							<br>
+							
+						(They take their choose positions.)<br>
+							<br>
+							
+						BOTH: Once, twice, three, shoot!<br>
+							<br>
+							
+						JERRY: Mine!<br>
+							<br>
+							
+						BOTH: Once, twice, three, shoot!<br>
+							<br>
+							
+						JERRY: Mine!<br>
+							<br>
+							
+						(George walks to the table to take a break. They resume their positions.)<br>
+							<br>
+							
+						BOTH: Once, twice, three, shoot!<br>
+							<br>
+							
+						GEORGE: Mine!<br>
+							<br>
+							
+						BOTH: Once, twice, three, shoot!<br>
+							<br>
+							
+						(Jerry wins. Elaine starts measuring up Jerry&#146;s couch.)<br>
+							<br>
+							
+						GEORGE: Congratulations...congratulations.<br>
+							<br>
+							
+						JERRY: Thanks.<br>
+							<br>
+							
+						GEORGE: I'm just gonna...wash. (George walks to the bathroom; screaming) WHY DID I PUT UP TWO? WHY DID I PUT UP TWO?<br>
+							<br>
+							
+						(Kramer slides into the apartment.)<br>
+							<br>
+							
+						KRAMER: Jerry, I think I&#146;m on to something. I think I found your stuff. You know the Englishman who lives down the hall?<br>
+							<br>
+							
+						JERRY: Yeah.<br>
+							<br>
+							
+						KRAMER: The last couple a days he&#146;s been acting very strange. I think he&#146;s avoiding me.<br>
+							<br>
+							
+						JERRY: Hard to imagine.<br>
+							<br>
+							
+						KRAMER: Yeah! And get this: I just got off the elevator with him and I tested him, I tested him, like I...this is what I said to him, like I, I was like this, I went, &#147;Oh, by the way, I know about the stuff.&#148;<br>
+							<br>
+							
+						KRAMER: ..you know, very casually,<br>
+							<br>
+							
+						JERRY: Right.<br>
+							<br>
+							
+						KRAMER: (cont'd) so that he was gonna take me into his confidence.<br>
+							<br>
+							
+						ELAINE: So what did he say?<br>
+							<br>
+							
+						KRAMER: &#147;What stuff?&#148;<br>
+							<br>
+							
+						JERRY: Ooh, (to Elaine) case closed!<br>
+							<br>
+							
+						KRAMER: No, you don&#146;t understand, you see, he swallowed. See, the guy, he swallowed. Oh, he was nervous about something! Now, I&#146;m gonna go over there, I&#146;m gonna borrow some tea. If I don&#146;t get back in five minutes, maybe you&#146;d better call the police.<br>
+							<br>
+							
+						JERRY: Okay, starting...NOW!<br>
+							<br>
+							
+						(Jerry looks at his watch.)<br>
+							<br>
+							
+						KRAMER: Yeah!<br>
+							<br>
+							
+						(Kramer darts off.)<br>
+							<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						INT. COMEDY CLUB &#150; NIGHT<br>
+							<br>
+							
+						(Jerry is on stage, performing.)<br>
+							<br>
+							
+						JERRY: One of the problems in life is that when you&#146;re a kid, you have a certain way of working out disagreements. And those laws do not work in the adult world. One of the main ways that kids resolve any dispute is by calling it. One of them says, &#147;I got the front seat&#148; &#147;I wanted the front seat!&#148; &#147;I called it&#148;. And the other kid knows he&#146;s got nothing to say: &#147;He called it. What can I do?&#148; If there was a Kid Court Of Law, it holds up. &#147;Your Honour, my client did ask for the front seat&#148; And the judge would go, &#147;Did he call it?&#148; &#147;Well no, he didn&#146;t call-&#148; BANG! (Jerry imitates a judge banging his gavel.) &#147;He has to call it, case closed. Objection overruled.&#148;<br>
+							<br>
+							<br>
+							<br>
+							
+						INT. MONK&#146;S DINER &#150; DAY<br>
+							<br>
+							
+						(Jerry is sitting at a table, George returns from the bathroom.)<br>
+							<br>
+							
+						GEORGE: I love the mirror in that bathroom! I don&#146;t know what in the hell it is. I look terrific in that mirror. (George sits.) I don&#146;t know if it&#146;s the tile or the lighting... I feel like Robert Wagner.<br>
+							<br>
+							
+						JERRY: It&#146;s a good mirror. (They look at their menus.) So, what are you gettin&#146;?<br>
+							<br>
+							
+						GEORGE: I don&#146;t know, I can&#146;t eat. You, you can&#146;t have anything anymore. Look at this, look at this. Eggs: out. Coffee: out. French fries: out. BLT: out! I go to visit my grandparents: three big brisket sandwiches, I&#146;m sittin&#146; here with a carrot! They&#146;re closing in on a hundred, I&#146;m sayin&#146; to them, &#147;How can you eat that stuff?&#148; (They look at their menus again.) I&#146;m so sick about losin&#146; that choose, you don&#146;t know.<br>
+							<br>
+							
+						JERRY: All right, forget it, forget it. I&#146;m not taking the place!<br>
+							<br>
+							
+						GEORGE: What?!<br>
+							<br>
+							
+						JERRY: How can I live there?<br>
+							<br>
+							
+						GEORGE: Why not?!<br>
+							<br>
+							
+						JERRY: Look at you, you&#146;re still thinking about it. I&#146;ll never feel comfortable.<br>
+							<br>
+							
+						GEORGE: Oh, get outta here.<br>
+							<br>
+							
+						JERRY: How can I ever have you over? You&#146;ll sit there moping.<br>
+							<br>
+							
+						GEORGE: I won&#146;t mope.<br>
+							<br>
+							
+						JERRY: You&#146;re already moping! Would you take the place?<br>
+							<br>
+							
+						GEORGE: No, impossible! It&#146;s your apartment.<br>
+							<br>
+							
+						JERRY: You found the place.<br>
+							<br>
+							
+						GEORGE: You won the choose.<br>
+							<br>
+							
+						JERRY: All right, forget it, it&#146;s over, I&#146;m not moving.<br>
+							<br>
+							
+						GEORGE: Well, me neither.<br>
+							<br>
+							
+						JERRY: Definitely?<br>
+							<br>
+							
+						GEORGE: Definitely.<br>
+							<br>
+							
+						JERRY: Alright, then just get rid of it. You won&#146;t have any problem.<br>
+							<br>
+							
+						GEORGE: No, it&#146;s not a problem, I can get rid of the apartment this afternoon.<br>
+							<br>
+							
+						(A waitress, Carol, approaches.)<br>
+							<br>
+							
+						CAROL: What apartment?<br>
+							<br>
+							
+						GEORGE: Oh, it&#146;s a great place, it&#146;s uh two-bedroom uh, west 83rd &#145;bout half block from the park.<br>
+							<br>
+							
+						CAROL: What&#146;s the rent?<br>
+							<br>
+							<br>
+							<br>
+							
+						INT. THE APARTMENT ON 83RD STREET &#150; DAY<br>
+							<br>
+							
+						(The housewarming party for Carol, the waitress. Jerry, Elaine and George are invited to the house, they&#146;re sitting on a couch, all three moping.)<br>
+							<br>
+							
+						GEORGE: I don&#146;t know, what we&#146;re doin&#146; here, this is ridiculous.<br>
+							<br>
+							
+						JERRY: She wanted to thank us for the apartment.<br>
+							<br>
+							
+						ELAINE: I can&#146;t believe I lost the deposit on that U-Haul. And I threw out my couch.<br>
+							<br>
+							
+						(She slaps Jerry on the leg.)<br>
+							<br>
+							
+						JERRY: If only the coin hadn&#146;t hit the table.<br>
+							<br>
+							
+						GEORGE: The table is interference, you know it!<br>
+							<br>
+							
+						JERRY: It is not!<br>
+							<br>
+							
+						GEORGE: It is too!<br>
+							<br>
+							
+						ELAINE: My roommate starts rehearsal tonight on &#147;Carousel&#148;.<br>
+							<br>
+							
+						(Carol approaches them.)<br>
+							<br>
+							
+						CAROL: Hi.<br>
+							<br>
+							
+						GEORGE: Hi, Carol.<br>
+							<br>
+							
+						CAROL: I just wanted to introduce you to my husband, this is Larry.<br>
+							<br>
+							
+						(Jerry, Elaine and George get up. )<br>
+							<br>
+							
+						CAROL: This is George, Elaine and Jerry. These are the guys who got us the apartment.<br>
+							<br>
+							
+						LARRY: Oh, you don&#146;t know how grateful I am, if there&#146;s anything I can ever do to repay you, I, I mean, we&#146;re just so thrilled with this place.<br>
+							<br>
+							
+						CAROL: It&#146;s a dream.<br>
+							<br>
+							
+						LARRY: I&#146;m running in the park now, I&#146;ve lost weight, we&#146;re barbecuing every night and the rent is unbelievable.<br>
+							<br>
+							
+						GEORGE: We&#146;re really glad for you.<br>
+							<br>
+							
+						ELAINE: Couldn&#146;t be happier.<br>
+							<br>
+							
+						JERRY: It&#146;s wonderful.<br>
+							<br>
+							
+						(They sit down again.)<br>
+							<br>
+							
+						CAROL: Diane, Diane, come here.<br>
+							<br>
+							
+						(Diane comes to the couch. She is very attractive.)<br>
+							<br>
+							
+						CAROL: This is my new next door neighbour, Diane.<br>
+							<br>
+							
+						(Jerry, Elaine and George get up.)<br>
+							<br>
+							
+						CAROL: (to Diane) These are the guys, who turned this place down, can you believe it? (to Jerry, George and Elaine) Diane gave me the greatest backrub today. She&#146;s a masseuse!<br>
+							<br>
+							
+						DIANE: How, how could you guys have turned this place down, it&#146;s such a great location and it&#146;s...so close to the park.<br>
+							<br>
+							
+						GEORGE: We&#146;re aware of the proximity to the park, yes.<br>
+							<br>
+							
+						DIANE: Well, it was nice to meet you.<br>
+							<br>
+							
+						(Diane walks away.)<br>
+							<br>
+							
+						GEORGE: Nice meeting you.<br>
+							<br>
+							
+						(George shakes Carol&#146;s hand. The three sit down again. Carol walks away.)<br>
+							<br>
+							
+						JERRY: How late are the stores open? I&#146;m thinking of maybe uh, buying a new TV and smash it over my head.<br>
+							<br>
+							
+						(Two men are standing behind the couch, talking.)<br>
+							<br>
+							
+						MAN #1: I get a call from Gilmour this morning, and get this: they&#146;re restructuring the organization in Atlanta and I gotta be there on the first of the month.<br>
+							<br>
+							
+						MAN #2: Really? What are you gonna &#145;bout the apartment?<br>
+							<br>
+							
+						MAN #1: Well, what can I do? Give it up.<br>
+							<br>
+							
+						JERRY, GEORGE &amp; ELAINE: What&#146;s the rent?<br>
+							<br>
+							<br>
+							
+						The End</td>
+						</tr>
+						<tr height="6">
+							<td class="bottom2" width="645" height="6"></td>
+						</tr>
+						<tr>
+							<td width="645">
+								<div align="center">
+									<font size="-1">Copyright 2006 seinology.com | All Rights Reserved | Designed by 13erla</font></div>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+		<p></p>
+	</body>
+
+</html>

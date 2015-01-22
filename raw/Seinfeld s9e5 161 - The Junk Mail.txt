@@ -1,0 +1,1321 @@
+<tdOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+<html>
+
+	<head>
+		<meta http-equiv="content-type" content="text/html;charset=ISO-8859-1">
+		<meta name="description" content="Top Source for Seinfeld">
+		<meta name="keywords" content="seinfeld, sienfeld, Jerry Seinfeld, Julia Louis Dreyfus, Jason Alexander, Michael Richards, Kramer, George, Costanza, Elaine Benes, morty, Larry David">
+		<title>Seinology.com :: Scripts :: 161-The Junk Mail</title>
+	<link rel='stylesheet' href='/stylesheet.css' type='text/css'>
+	</head>
+
+	<body>
+			<table align="center" width="787" border="0" cellspacing="0" cellpadding="0">
+				<tr>
+					<td><font size="-2" color="red">Seinology.com - </font><font size="-3" color="black">Where Seinfeld Content and Accuracy Matter Most. Seinfeld scripts in pdf form, Seinfeld episode video clips, Seinfeld episode audio clips, Jerry Seinfeld appearances, Julia Louis-Dreyfus appearances, Michael Richards appearances, Jason Alexander appearances, Seinfeld discussion Forum, Seinfeld Where are they Now? Seinlanguage Newsletter, Popular Seinfeld Lists, Seinfeld episode standup, Seinfeld episode guide, Seinfeld fan fiction. Seinfeld content all on one domain. Seinology.com enjoy your stay.</font></td>
+				</tr>
+			</table>
+		
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr height="100">
+				<td class="logo"></td>
+			</tr>
+			<tr><td class="ads" align="center" background=#8694fa>
+				<script type="text/javascript"><!--
+google_ad_client = "pub-1924026976931416";
+google_ad_width = 728;
+google_ad_height = 90;
+google_ad_format = "728x90_as";
+google_ad_type = "text";
+google_ad_channel = "";
+google_color_border = "FFFFFF";
+google_color_bg = "8694fa";
+google_color_link = "0000FF";
+google_color_text = "000000";
+google_color_url = "002E3F";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></td></tr>
+		</table>
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr>
+				<td valign="top" width="136">
+					<table width="136" border="0" cellspacing="0" cellpadding="0">
+						<tr height="24">
+							<td class="navigation">
+								<div align="center">
+									
+									<b>Navigation</b></div>
+							</td>
+						</tr>
+						<tr height="199">
+							<td class="spacer1" valign="top" width="136" height="199">
+								<div align="center">
+									<font size="-1"><a href="http://www.seinology.com">Home</a><br>
+										<a href="http://board.seinology.com">Forum</a><br>
+										<a href="http://www.seinology.com/av.shtml">Audio/Video</a><br>
+										<a href="http://www.seinology.com/scripts.shtml">Scripts</a><br>
+										<a href="http://www.seinology.com/survivor.shtml">Survivor</a><br>
+										<a href="http://www.seinology.com/fanfics.shtml">Fan Fiction</a><br>
+										<a href="http://www.seinology.com/gallery/">Gallery</a><br>
+										<a href="http://www.seinology.com/newsletter.shtml">Newsletter</a><br>
+										<a href="http://www.seinology.com/lists.shtml">Lists</a><br>
+										<a href="http://www.seinology.com/epguide.shtml">Episode Guide</a><br>
+										<a href="http://www.seinology.com/links.shtml">Links</a><br>
+										<a href="http://www.seinology.com/faqother.shtml">Faq + others</a><br>
+										<a href="http://www.seinology.com/legal.shtml">Legal</a></font></div>
+							</td>
+						</tr>
+						
+						<tr>
+							<td class="nav2" width="136">
+							<div align="center"><b>Search</b></div></td>
+						</tr>
+						<tr>
+							<td class="spacer1" width="136" valign="top"><div align="center"><form method="get" action="http://www.seinology.com/search/search.cgi">
+<p><label for="fdse_Match">Match</label><br>
+<select name="Match" id="fdse_Match" size="1">
+<option value="1">All</option>
+<option value="0">Any</option>
+<option value="2">Phrase</option>
+</select></p>
+<p><label for="fdse_Realm">Where?</label><br>
+<select name="Realm" id="fdse_Realm" size="1">
+<option selected="selected" value="All">EntireSite</option>
+<option value="Ep Guide">Ep Guide</option>
+<option value="Images">Images</option>
+<option value="Lists">Lists</option>
+<option value="Newsletters">Newsletters</option>
+<option value="Scripts">Scripts</option>
+<option value="Notes..Nothing">Notes..Nothing</option>
+</select></p>
+<p><input type="text" name="Terms" size="14" id="fdse_Terms"><br>
+<input type="submit" class="submit" name="submitButtonName" value="Search"></p>
+</div></form></td>
+						</tr>
+						<tr><td class="bottom" width="136" height="10" valign="top">
+						</td>
+						</tr>
+					</table>
+				</td>
+				<td width="4"></td>
+				<td valign="top" width="645">
+					<table width="645" border="0" cellspacing="0" cellpadding="0">
+						<tr height="18">
+							<td width="645" height="35" class="bar">
+								<div align="center">
+									<b><font size="+2" color="black">Script</font></b></div>
+							</td>
+						</tr>
+						<tr height="362">
+							<td class="spacer2" valign="top" width="645" height="362">
+
+						<p><font size="-2">Episode 161 - The Junk Mail<br>
+							
+						pc: 905 season 9, episode 5<br>
+							
+						Broadcast date: October 30, 1997<br>
+							<br>
+							
+						Written by Spike Feresten<br>
+							
+						Directed by Andy Ackerman<br>
+							<br>
+							
+						-------------------------------------------------------------------------------<br>
+							<br>
+							
+						The Cast<br>
+							
+						Regulars:<br>
+							
+						Jerry Seinfeld ......................&nbsp; Jerry Seinfeld<br>
+							
+						Jason Alexander .................. George Costanza<br>
+							
+						Julia Louis-Dreyfus .............. Elaine Benes<br>
+							
+						Michael Richards .................. Cosmo Kramer<br>
+							<br>
+							
+						Guest Stars:<br>
+							<br>
+							
+						Laurie Taylor-Williams ........ Rhisa<br>
+							
+						Toby Huss .......................... Jack<br>
+							
+						Dana Gould ........................ Frankie<br>
+							
+						Richard Kuhlman ................ Man<br>
+							
+						Montrose Hagins ................ Old Woman (Betty)<br>
+							
+						Peggy Blow ......................... Mail Clerk<br>
+							
+						Clement E. Blake ................. Dirt Person #1<br>
+							
+						D.A. Johnson ...................... Dirt Person #2<br>
+							
+						Wilford Brimley ................... Postmaster General Henry Atkins<br>
+							
+						rc: Wayne Knight ................ Newman<br>
+							
+						rc: Jerry Stiller ..................... Frank Costanza<br>
+							
+						rc: Estelle Harris .................. Estelle Costanza<br>
+							
+						rc:&nbsp; Patrick Warburton ........ David Puddy<br>
+							<br>
+							
+						==================================================================<br>
+							<br>
+							
+						[Jerry's Apartment]<br>
+							<br>
+							
+						JERRY: (on the phone) Yeah. Yeah. All right. Uh-huh.<br>
+							<br>
+							
+						GEORGE: (knocking on the counter and feigning a muffled, Chinese voice) Chinese food!<br>
+							<br>
+							
+						JERRY: (hanging up the phone) Oh! There's my Chinese food, I gotta run. All you.<br>
+							<br>
+							
+						GEORGE: Who was it?<br>
+							<br>
+							
+						JERRY: I did a show for a car dealership and they're getting me a new SAAB.<br>
+							<br>
+							
+						GEORGE: What about your old car? They couldn't get Kramer's blood out of it?<br>
+							<br>
+							
+						JERRY: No, the engine clotted. You know who set this whole thing up for me? Frank Merman.<br>
+							<br>
+							
+						GEORGE: Fragile Frankie Merman? I never liked that guy.<br>
+							<br>
+							
+						JERRY: Why? He's harmless.<br>
+							<br>
+							
+						GEORGE: Every summer you guys went to camp together. I was jealous. Felt like he was the summer me.<br>
+							<br>
+							
+						JERRY: He was not the summer you. Besides, you had a summer me. Whitey Fisk, the guy who snuck you into Last Tango in Paris.<br>
+							<br>
+							
+						GEORGE: I made him up.<br>
+							<br>
+							
+						JERRY: So you never saw Last Tango in Paris?<br>
+							<br>
+							
+						GEORGE: No.<br>
+							<br>
+							
+						JERRY: Too bad. It was erotic.<br>
+							<br>
+							
+						KRAMER: (enters) Well... I've had it with these jackbooted thugs!<br>
+							<br>
+							
+						JERRY: 'Pottery Barn'?<br>
+							<br>
+							
+						KRAMER: I got three 'Pottery Barn' catalogs in one day. That makes eight this month.<br>
+							<br>
+							
+						GEORGE: (holding a magazine cover) Mira Sorvino. Think she'd go out with me?<br>
+							<br>
+							
+						JERRY: Why don't you just throw 'em out?<br>
+							<br>
+							
+						KRAMER: Oh, no. I've been saving them up here in your apartment. And now, it's payback time. 'Pottery Barn' is in for a world of hurt.<br>
+							<br>
+							
+						JERRY: (taking a catalog) Can I have one? I need one of those old-looking phones. So you wanna grab a bite?<br>
+							<br>
+							
+						GEORGE: I can't. I gotta make the weekly call to the folks.<br>
+							<br>
+							
+						JERRY: So call now.<br>
+							<br>
+							
+						GEORGE: I gotta prep. I need a couple of anecdotes, a few you-were-right-abouts. It's a whole procedure. Wasn't Fragile Frankie the one that used to run into the woods every time he got upset?<br>
+							<br>
+							
+						JERRY: That's him.<br>
+							<br>
+							
+						GEORGE: Is he still nuts?<br>
+							<br>
+							
+						JERRY: What do you think? They gave me a new car for thirty minutes of 'So, who's from out of town?'<br>
+							<br>
+							<br>
+							<br>
+							
+						[Monk's]<br>
+							<br>
+							
+						PUDDY: (finishing eating) Seriously, is this the best okra you've ever had, or what?<br>
+							<br>
+							
+						ELAINE: Mmm. De-lish.<br>
+							<br>
+							
+						PUDDY: Delish?<br>
+							<br>
+							
+						ELAINE: Delish. You know, short for delicious.<br>
+							<br>
+							
+						PUDDY: Oh, like scrump.<br>
+							<br>
+							
+						ELAINE: Yeah.<br>
+							<br>
+							
+						PUDDY: (leaving) I'm gonna be late. See ya later.<br>
+							<br>
+							
+						JACK: Excuse me, can I borrow your ketchup?<br>
+							<br>
+							
+						ELAINE: (passing him the ketchup) Oh, sure.<br>
+							<br>
+							
+						JACK: Thank you.<br>
+							<br>
+							
+						(Heraldic harp sounds as Elaine looks at Jack's face)<br>
+							<br>
+							<br>
+							<br>
+							
+						[George at his Apartment calling his folks]<br>
+							<br>
+							
+						ESTELLE: (answering the phone) Hello?<br>
+							<br>
+							
+						GEORGE: Hey, it's Georgie.<br>
+							<br>
+							
+						ESTELLE: Let me put your father on the phone.<br>
+							<br>
+							
+						GEORGE: Ma!<br>
+							<br>
+							
+						FRANK: Who is this?<br>
+							<br>
+							
+						GEORGE: Dad, it's me. Hey, listen, I was at Fortunoff's the other day, and, you know what, you were right.<br>
+							<br>
+							
+						ESTELLE: (feigning a Chinese, muffled voice) Chinese food.<br>
+							<br>
+							
+						FRANK: (hanging up) Sorry, George, our Chinese food just came. Talk to you later.<br>
+							<br>
+							
+						GEORGE: Chinese food?<br>
+							<br>
+							<br>
+							<br>
+							
+						[Outside The Pottery Barn]<br>
+							<br>
+							
+						KRAMER: (throwing his catalogs in the Pottery Barn store) Hey, you like sending out catalogs!? How do you like gettin' 'em back!?<br>
+							<br>
+							<br>
+							<br>
+							
+						[Jerry's Apartment]<br>
+							<br>
+							
+						JERRY: So, maybe they had Chinese food?<br>
+							<br>
+							
+						GEORGE: After dark? Please. At their age, that's like swallowing stun grenades.<br>
+							<br>
+							
+						JERRY: Well, there's one way to check. Where there's Chinese food, there's leftovers.<br>
+							<br>
+							
+						ELAINE: (enters) Well, gentlemen. Lainie is... in love.<br>
+							<br>
+							
+						GEORGE: That's dynamite. Yeah, I'll look for the Chinese food leftovers.<br>
+							<br>
+							
+						ELAINE: Hey, hey, hey! I met this guy! And it was like this, totally unreal, fairy tale moment.<br>
+							<br>
+							
+						JERRY: It wasn't Whitey Fisk, was it?<br>
+							<br>
+							
+						ELAINE: Oh, George's friend. Whatever happened to him?<br>
+							<br>
+							
+						GEORGE: Nothing. Uh, I don't know. I gotta go.<br>
+							<br>
+							
+						JERRY: So, this is beautiful. You, and Puddy, and this new guy, in a big pot of love stew.<br>
+							<br>
+							
+						ELAINE: Oh, yeah... Puddy. Well, I won't fire him until I see if this new guy can... handle the workload.<br>
+							<br>
+							
+						KRAMER: (entering Jerry's apartment) Will you look at this? More catalogs! 'Omaha Steaks', 'Mac Warehouse', 'Newsweek'?! I can't stop all these companies, so, I'm gonna attack this problem at the choke point.<br>
+							<br>
+							
+						JERRY: Stop the mail?<br>
+							<br>
+							
+						KRAMER: That's... even better!<br>
+							<br>
+							<br>
+							<br>
+							
+						[The Street]<br>
+							<br>
+							
+						FRANKIE: Jerry!<br>
+							<br>
+							
+						JERRY: Hey, Frankie! So, where's the car?<br>
+							<br>
+							
+						FRANKIE: This is it.<br>
+							<br>
+							
+						JERRY: Inside the van?<br>
+							<br>
+							
+						FRANKIE: It is the van! Don't you remember, we always talked about how cool it would be to have a van and just drive?<br>
+							<br>
+							
+						JERRY: We were ten.<br>
+							<br>
+							
+						FRANKIE: Come on. Let's take it for a spin.<br>
+							<br>
+							
+						JERRY: I don't want a van.<br>
+							<br>
+							
+						ELAINE: Well, just tell him you want the SAAB.<br>
+							<br>
+							
+						JERRY: You don't understand. This is Fragile Frankie Merman. When we were in camp, if you upset him, he'd run out to the woods, dig a hole, and sit in it.<br>
+							<br>
+							
+						ELAINE: Well, I have an idea. Keep the van, and get a bumper sticker that says, 'If this vans a-rockin', don't come a-knockin'.'<br>
+							<br>
+							
+						JERRY: Always helpful.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Costanza House]<br>
+							<br>
+							
+						ESTELLE: Oh, Georgie, what are you doing here?<br>
+							<br>
+							
+						GEORGE: Just dropped in for a visit. You, uh, you never called me back.<br>
+							<br>
+							
+						ESTELLE: Uh... the phone broke.<br>
+							<br>
+							
+						FRANK: Well, we got to get moving.<br>
+							<br>
+							
+						GEORGE: What? Where are you going?<br>
+							<br>
+							
+						FRANK: We have a catered affair.<br>
+							<br>
+							
+						GEORGE: You're going like that?<br>
+							<br>
+							
+						FRANK: (leaving the kitchen) It's creative black tie. Move, woman.<br>
+							<br>
+							
+						GEORGE: (checking the fridge) No Chinese leftovers. George is gettin' suspicious.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Monk's]<br>
+							<br>
+							
+						JACK: Elaine, I'm sorry I'm late.<br>
+							<br>
+							
+						(Heraldic harp sounds as Elaine looks at Jack's face)<br>
+							<br>
+							
+						JACK: I'm gonna be in the can.<br>
+							<br>
+							
+						ELAINE: Okay, Jack. (to the cashier) Can I use your phone?<br>
+							<br>
+							
+						CASHIER (Ruthie Cohen): Sure.<br>
+							<br>
+							
+						Elaine: (over the phone) Puddy? It's Elaine. We're through. Yeah, that's right. Again.<br>
+							<br>
+							<br>
+							<br>
+							
+						[In Jerry's Van]<br>
+							<br>
+							
+						FRANKIE: (in the van with Jerry) Nice captain's chairs, huh?<br>
+							<br>
+							
+						JERRY: Aye, aye.<br>
+							<br>
+							
+						FRANKIE: Oh, there's a spot. Just back up.<br>
+							<br>
+							
+						(Large-vehicle reverse beeping starts)<br>
+							<br>
+							
+						JERRY: Hold on. There must be a truck backing up.<br>
+							<br>
+							
+						FRANKIE: No, that's us.<br>
+							<br>
+							
+						JERRY: Great. You know, Frankie, I was wondering. What if I decided that it's silly to drive a van, because, you know, I live in New York City. Is there maybe some way I could exchange it?<br>
+							<br>
+							
+						FRANKIE: You don't like the van?<br>
+							<br>
+							
+						JERRY: No, no, no. Just hypothetically.<br>
+							<br>
+							
+						FRANKIE: I gotta go to the park.<br>
+							<br>
+							
+						JERRY: No! No, you don't! No woods. I love the van. I'm a van guy.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Jerry &amp; Kramer's Building Lobby]<br>
+							<br>
+							
+						KRAMER: (showing Jerry his mailbox) Check it out. Rain and sleet may not stop them, but let's see them get by... these bricks.<br>
+							<br>
+							
+						JERRY: Where'd you get the bricks?<br>
+							<br>
+							
+						KRAMER: Jerry, the whole building is brick.<br>
+							<br>
+							
+						JERRY: So you want to take a ride with me out to Jersey? I'm gonna try to sell the van to a lot.<br>
+							<br>
+							
+						KRAMER: A dealer? Are you insane? No, take out an ad. Sell it privately.<br>
+							<br>
+							
+						JERRY: I don't think I want to meet the people that are in the market for a used van.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Back to Jerry's Apartment]<br>
+							<br>
+							
+						KRAMER: Come on, Jerry, just let me help you.<br>
+							<br>
+							
+						JERRY: OK.<br>
+							<br>
+							
+						KRAMER: All right! OK! Right, here we go. Yeah. OK, so... 'For sale. A big, juicy van.' And, ooh, you gotta put down, 'interesting trades considered.'<br>
+							<br>
+							
+						JERRY: I don't want to trade.<br>
+							<br>
+							
+						KRAMER: No, you don't have to. It's all about tickling their buying bone.<br>
+							<br>
+							
+						JERRY: Hey, you know what? This is all your mail. They're puttin' it in my box now.<br>
+							<br>
+							
+						KRAMER: Oh, that's it. They have gone too far. They keep pushing me, and pushing me. Now I got no choice but to go down there... and talk to them.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Jerry's Apartment]<br>
+							<br>
+							
+						ELAINE: Hey, Jerry. I'd like you to meet someone. This is Jack. (Heraldic harp sounds as Jerry looks at Jack's face)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Post Office]<br>
+							<br>
+							
+						POSTAL EMPLOYEE: May I help you?<br>
+							<br>
+							
+						KRAMER: Yeah, I'd like to cancel my mail.<br>
+							<br>
+							
+						POSTAL EMPLOYEE: Certainly. How long would you like us to hold it?<br>
+							<br>
+							
+						KRAMER: Oh, no, no. I don't think you get me. I want out, permanently.<br>
+							<br>
+							
+						NEWMAN: I'll handle this, Violet. Why don't you take your three hour break? Oh, calm down, everyone. No one's cancelling any mail.<br>
+							<br>
+							
+						KRAMER: Oh, yes, I am.<br>
+							<br>
+							
+						NEWMAN: What about your bills?<br>
+							<br>
+							
+						KRAMER: The bank can pay 'em.<br>
+							<br>
+							
+						NEWMAN: The bank. What about your cards and letters?<br>
+							<br>
+							
+						KRAMER: E-mail, telephones, fax machines. Fedex, telex, telegrams, holograms.<br>
+							<br>
+							
+						NEWMAN: All right, it's true! Of course nobody needs mail. What do you think, you're so clever for figuring that out? But you don't know the half of what goes on here. So just walk away, Kramer. I beg of you.<br>
+							<br>
+							
+						SUPERVISOR: Is everything all right here, Postal Employee Newman?<br>
+							<br>
+							
+						NEWMAN: Yes, sir, I believe everything is all squared away. Isn't it, Mr. Kramer?<br>
+							<br>
+							
+						KRAMER: Oh, yeah. As long as I stop getting mail!<br>
+							<br>
+							<br>
+							<br>
+							
+						[Costanza House]<br>
+							<br>
+							
+						GEORGE: (surprising his parents in the kitchen) Welcome back.<br>
+							<br>
+							
+						ESTELLE: Oh!<br>
+							<br>
+							
+						GEORGE: Quick for a... catered affair.<br>
+							<br>
+							
+						FRANK: I don't know what you mean.<br>
+							<br>
+							
+						GEORGE: You ditched me. That's twice. Now I demand to know what's going on!<br>
+							<br>
+							
+						FRANK: George, we've had it with you. Understand? We love you like a son, but even parents have limits.<br>
+							<br>
+							
+						ESTELLE: The breakups, the firings. And every Sunday with the calls.<br>
+							<br>
+							
+						FRANK: What my wife is trying to say is that this is supposed to be our time.<br>
+							<br>
+							
+						GEORGE: I'm not following.<br>
+							<br>
+							
+						FRANK: We're cuttin' you lose.<br>
+							<br>
+							
+						GEORGE: You're cuttin' me loose?<br>
+							<br>
+							
+						FRANK: Now, if you'll excuse me, I'm going to make love to your mother.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Jerry's Apartment]<br>
+							<br>
+							
+						GEORGE: They don't want to see me anymore!<br>
+							<br>
+							
+						JERRY: But this is what you've always wanted.<br>
+							<br>
+							
+						GEORGE: It is. I'm just not ready yet.<br>
+							<br>
+							
+						JERRY: Aw, that's kind of sweet.<br>
+							<br>
+							
+						GEORGE: Ah, shut up, Jerry. My parents think they can ignore me. Heh heh. Well, they better think again.<br>
+							<br>
+							
+						JERRY: Oh, no. George, please. What are you going to do?<br>
+							<br>
+							
+						GEORGE: You remember my cousin Rhisa? I'm gonna date her.<br>
+							<br>
+							
+						JERRY: Mother of God.<br>
+							<br>
+							
+						GEORGE: One little wink. She'll freak out, tell my parents. They'll be all over me. Who is this guy?<br>
+							<br>
+							
+						JERRY: That guy Elaine's dating seems really familiar to me. I think he may have been a comedian I worked with one time. Wait a minute, what is this?<br>
+							<br>
+							
+						(On the TV, Jack is The Wiz, the spokesman for Nobody Beats the Wiz, chanting Nobody beats me, because I'm the Wiz! I'm the Wiz!)<br>
+							<br>
+							
+						JERRY: That is the guy!<br>
+							<br>
+							
+						GEORGE: Elaine's in love with the Wiz guy?<br>
+							<br>
+							
+						JERRY: No, she thinks she's in love with him. But she's just remembering this old commercial.<br>
+							<br>
+							
+						GEORGE: That's pretty pathetic.<br>
+							<br>
+							
+						JERRY: I know. They're not even related.<br>
+							<br>
+							
+						ELAINE: (enters) Hey.<br>
+							<br>
+							
+						GEORGE: Uh... hey. I'm gonna get going.<br>
+							<br>
+							
+						JERRY: Hey, have fun at the... family reunion. (George exits) So, what do you know about this Jack fellow?<br>
+							<br>
+							
+						ELAINE: Isn't he the best?<br>
+							<br>
+							
+						JERRY: Yeah, nobody beats him. What kind of work does he do?<br>
+							<br>
+							
+						ELAINE: Oh, right now he's a fact checker for New York Magazine. It's not much, but it has a certain type of quiet dignity.<br>
+							<br>
+							
+						JERRY: (turning on the commercial) Right, quiet dignity. As opposed to, say, this?<br>
+							<br>
+							
+						(On the TV, Jack is The Wiz, the spokesman for Nobody Beats the Wiz, chanting Nobody beats me, because I'm the Wiz! I'm the Wiz!)<br>
+							<br>
+							
+						ELAINE: Oh, no.<br>
+							<br>
+							
+						JERRY: Oh, yes.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Jerry's Apartment later that day]<br>
+							<br>
+							
+						JERRY: (answering the phone) Hello? Yeah, the van is still for sale. Sure, come on buy.<br>
+							<br>
+							
+						KRAMER: (rushing into Jerry's apartment) Yeah, I called about the van.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Restaurant]<br>
+							<br>
+							
+						GEORGE: (at dinner with his cousin) Some more merlot?<br>
+							<br>
+							
+						RHISA: Yeah, thanks.<br>
+							<br>
+							
+						GEORGE: Sure. You know, Rhisa. I've always found you... very attractive.<br>
+							<br>
+							
+						RHISA: What?<br>
+							<br>
+							
+						GEORGE: I know it may sound shocking. But, I just can't stop myself from... wanting you.<br>
+							<br>
+							
+						RHISA: You want to borrow money, right?<br>
+							<br>
+							
+						GEORGE: No, no. I-I just want us to be... together.<br>
+							<br>
+							
+						RHISA: All right.<br>
+							<br>
+							
+						GEORGE: All right?<br>
+							<br>
+							
+						RHISA: Let's go for it.<br>
+							<br>
+							
+						GEORGE: Well... we could dance around it a little first.<br>
+							<br>
+							
+						RHISA: (playing footsie) Nah. Let's be bad, George. Let's be really... bad.<br>
+							<br>
+							
+						GEORGE: Whoa! Whoa! Geez!<br>
+							<br>
+							<br>
+							<br>
+							
+						[On the Street]<br>
+							<br>
+							
+						KRAMER: (inspecting Jerry's van) So, how come you're selling it?<br>
+							<br>
+							
+						JERRY: You know why I'm selling it. I hate it.<br>
+							<br>
+							
+						KRAMER: How many miles?<br>
+							<br>
+							
+						JERRY: Two.<br>
+							<br>
+							
+						KRAMER: City or highway?<br>
+							<br>
+							
+						JERRY: Look, do you really want to buy this thing, or what?<br>
+							<br>
+							
+						KRAMER: (breaking the antenna) Hey, hey. Take it easy. I'm not gonna be pressured. I'll walk away right now. Is this thing bent? I'm not paying for that.<br>
+							<br>
+							
+						JERRY: All right, just get out of here.<br>
+							<br>
+							
+						KRAMER: All right, look. I'm going to be honest. I'm very interested in the van.<br>
+							<br>
+							
+						JERRY: OK, fine. 'What do I have to do to put you in this van today?'<br>
+							<br>
+							
+						KRAMER: (pointing to the newspaper ad) Well, I don't really have any money. But it says right here, 'interesting trades considered'.<br>
+							<br>
+							
+						JERRY: You put that in!<br>
+							<br>
+							
+						KRAMER: (pulling out an undershirt) And I'm glad I did. Here.<br>
+							<br>
+							
+						JERRY: You want to trade me an undershirt?<br>
+							<br>
+							
+						KRAMER: No, I want to trade you screen legend Anthony Quinn's undershirt. He took this off to do sit-ups in the park and I nabbed it.<br>
+							<br>
+							
+						JERRY: That's disgusting.<br>
+							<br>
+							
+						KRAMER: Well, it's my final offer.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Monk's]<br>
+							<br>
+							
+						PUDDY: You dumped me for some idiotic TV pitchman.<br>
+							<br>
+							
+						ELAINE: Look, I'm sorry, Puddy. It-it was a mistake. So, let's just put it behind us, and we can continue like this never happened.<br>
+							<br>
+							
+						PUDDY: Gee, I don't know. What if we're out somewhere and you see the Maytag repairman.<br>
+							<br>
+							
+						ELAINE: You're not taking me back?<br>
+							<br>
+							
+						PUDDY: (leaving) That's right.<br>
+							<br>
+							
+						ELAINE: He's not idiotic. He's the Wiz. And nobody beats him. Nobody...<br>
+							<br>
+							<br>
+							<br>
+							
+						[On the Street]<br>
+							<br>
+							
+						KRAMER: (handing out anti-mail pamphlets) Here you go. Mail is evil. Pass it on. Hey, mail blows. Fax it to a friend.<br>
+							<br>
+							
+						WOMAN: Why does this dummy have a bucket on its head?<br>
+							<br>
+							
+						KRAMER: Because we're blind to their tyranny.<br>
+							<br>
+							
+						WOMAN: Then shouldn't you be wearing the bucket?<br>
+							<br>
+							
+						KRAMER: Yeah. Move along, Betty.<br>
+							<br>
+							
+						FRANKIE: Is this, uh, Jerry Seinfeld's van?<br>
+							<br>
+							
+						KRAMER: Well, not anymore. He traded it to me for some Hollywood memorabilia.<br>
+							<br>
+							
+						FRANKIE: I'm, uh, I'm so stupid.<br>
+							<br>
+							
+						KRAMER: What?<br>
+							<br>
+							
+						FRANKIE: (running away) I'm so stupid. Uh, excuse me. I'm sorry.<br>
+							<br>
+							
+						KRAMER: Yeah, nice to meet you.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Monks]<br>
+							<br>
+							
+						JERRY: She's into it?<br>
+							<br>
+							
+						GEORGE: She's leaving me dirty messages on my answering machine.<br>
+							<br>
+							
+						JERRY: So have your parents found out about it?<br>
+							<br>
+							
+						GEORGE: She wants to keep it quiet. She... thinks we have a real future together.<br>
+							<br>
+							
+						JERRY: Brave new world, alright.<br>
+							<br>
+							
+						KRAMER: (entering Monk's) Hey, you guys.<br>
+							<br>
+							
+						JERRY: Hey, how's the anti-mail campaign going?<br>
+							<br>
+							
+						KRAMER: Oh, it's fantastic. We were out in front of the post office today, and not one person went in.<br>
+							<br>
+							
+						JERRY: It's Sunday.<br>
+							<br>
+							
+						GEORGE: Why is the mailman wearing a bucket?<br>
+							<br>
+							
+						KRAMER: Huh? Well, it symbolizes our persecution.<br>
+							<br>
+							
+						GEORGE: Then... shouldn't you be wearing the bucket.<br>
+							<br>
+							
+						JERRY: Hey, I want my van keys back.<br>
+							<br>
+							
+						KRAMER: Oh, well. I, uh, thought we made a deal for Quinn's t-shirt.<br>
+							<br>
+							
+						JERRY: Are you insane? Give 'em to me.<br>
+							<br>
+							
+						KRAMER: No, I can't, I can't. See, I told Frank he could borrow it. Yeah, he wants to move some of George's stuff into storage.<br>
+							<br>
+							
+						GEORGE: Wait a minute? He's picking up the van tonight? This is perfect. I'll drive Rhisa to someplace romantic. Then when my father slides the door open, I'm in the van kissing his brother's daughter.<br>
+							<br>
+							
+						KRAMER: Oh, listen, Jerry. One of your friends came by and he was very upset that I had your wheels.<br>
+							<br>
+							
+						JERRY: Oh, no, not Frankie.<br>
+							<br>
+							
+						KRAMER: Well, I didn't catch his name, but then he went running into the park.<br>
+							<br>
+							
+						JERRY: Oh, no, the woods! The hole!<br>
+							<br>
+							<br>
+							<br>
+							
+						[Street]<br>
+							<br>
+							
+						KRAMER: (seeing Newman pull up along side him in his truck) Hey.<br>
+							<br>
+							
+						NEWMAN: Kramer, what the hell are you doing?<br>
+							<br>
+							
+						KRAMER: I know, I'm gonna switch the bucket to something else.<br>
+							<br>
+							
+						NEWMAN: Not that!<br>
+							<br>
+							
+						KRAMER: What?<br>
+							<br>
+							
+						NEWMAN: You're in trouble, Kramer. I shouldn't even be talking to you, but I'm telling you as a friend. Here's how it's going to happen: you may be walking. Maybe on a crisp, autumn day just like today. When a mail truck will slow beside you, and a door will open, and a mailman you know, maybe even trust, will offer to give you a lift.<br>
+							<br>
+							
+						KRAMER: Are you through?<br>
+							<br>
+							
+						NEWMAN: No! And no one will ever see you again!<br>
+							<br>
+							
+						KRAMER: Are you through?<br>
+							<br>
+							
+						NEWMAN: Yes. No, wait! OK, yes.<br>
+							<br>
+							
+						NEWMAN: (seeing postal security officials walking towards Kramer) Quick! Get in!<br>
+							<br>
+							
+						KRAMER: Oh, no, no, no. That's exactly how you said it was going down.<br>
+							<br>
+							
+						NEWMAN: There's another way it can go down, and it's going down right now!<br>
+							<br>
+							
+						KRAMER: No. You said a mailman I know, and you're a mailman I know!<br>
+							<br>
+							
+						NEWMAN: I know you know, but you don't know what I know.<br>
+							<br>
+							
+						KRAMER: (being grabbed by the security officials) Hey!<br>
+							<br>
+							<br>
+							<br>
+							
+						[The Woods]<br>
+							<br>
+							
+						JERRY: Frankie! Frankie! Frankie! Frankie, is that you?<br>
+							<br>
+							
+						HOLE DIGGER: My name is Edgar.<br>
+							<br>
+							
+						JERRY: Have a nice night.<br>
+							<br>
+							
+						HOLE DIGGER: Thank you.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Another part of the Woods]<br>
+							<br>
+							
+						FRANKIE: (digging a hole, talking to himself, and seeing Jerry's van pull up near him) Stupid... so stupid! Jerry?<br>
+							<br>
+							
+						RHISA: All right, George. I'm ready.<br>
+							<br>
+							
+						GEORGE: Yeah, hold on. I'm, uh, I'm just trying to get a reading on my dashboard compass. Where are my parents?<br>
+							<br>
+							
+						RHISA: Geor-gie...<br>
+							<br>
+							
+						FRANKIE: (running up to the van and yelling through the window) Is this Seinfeld's van? Seinfeld's van? Seinfeld's van?!<br>
+							<br>
+							
+						RHISA: (hearing Frankie as George runs to the back of the van) Wait. What's he saying?<br>
+							<br>
+							
+						GEORGE: I think he's saying 'Son of Sam'! Oh, my God!<br>
+							<br>
+							
+						RHISA: No, they caught him.<br>
+							<br>
+							
+						GEORGE: (running out and away from the van) I knew it wasn't Berkowitz!<br>
+							<br>
+							
+						FRANKIE: (seeing George running away) Ohh...<br>
+							<br>
+							<br>
+							<br>
+							
+						[Monk's]<br>
+							<br>
+							
+						ELAINE: So I told him, 'Hit the road. I'm going back with Jack.'<br>
+							<br>
+							
+						JACK: Elaine, that's the second piece of good news today.<br>
+							<br>
+							
+						ELAINE: Really, what was the first?<br>
+							<br>
+							
+						JACK: (pulling out his Wiz hat) They're bringing me back. Yeah. I'm the Wiz again.<br>
+							<br>
+							
+						ELAINE: What?<br>
+							<br>
+							
+						JACK: (dancing around) I'm the Wiz! I'm the Wiz!<br>
+							<br>
+							
+						ELAINE: Well what, what about your fact-checking job?<br>
+							<br>
+							
+						JACK: (dancing around) Oh... here's a fact. Uh, I'm... the Wiz! I'm the Wiz and noooobody beats me!<br>
+							<br>
+							<br>
+							<br>
+							
+						[The Woods]<br>
+							<br>
+							
+						JERRY: (finding Frankie, in his hole) Frankie... come on out of there.<br>
+							<br>
+							
+						FRANKIE: You hate the van.<br>
+							<br>
+							
+						JERRY: But I'm keeping it. As much as I hate the idea of being a van guy, it's much better than hanging out here with the nocturnal dirt people.<br>
+							<br>
+							
+						FRANKIE: So, can we go for a ride?<br>
+							<br>
+							
+						JERRY: Yeah, let's just get out of here.<br>
+							<br>
+							
+						HOLE DIGGER #2: (eyeing the empty hole, and getting into it) Are you done with that?<br>
+							<br>
+							<br>
+							<br>
+							
+						[Another Part of The Woods]<br>
+							<br>
+							
+						FRANK: (coming upon the van) Good. He left the door unlocked.<br>
+							<br>
+							
+						ESTELLE: Why did Kramer have to park the van in the woods?<br>
+							<br>
+							
+						FRANK: Isn't it obvious? There are no parking meters out here.<br>
+							<br>
+							
+						ESTELLE: (looking inside of the van) Wow!<br>
+							<br>
+							
+						FRANK: (reclining the seats in the van to a bed) Hey, look at this. Hoochie mama!<br>
+							<br>
+							<br>
+							<br>
+							
+						[Post Office]<br>
+							<br>
+							
+						POSTMASTER GENERAL: Oh, my goodness. What have they done to you here?<br>
+							<br>
+							
+						KRAMER: Huh? Who are you?<br>
+							<br>
+							
+						POSTMASTER GENERAL: Well, you can just call me Henry.<br>
+							<br>
+							
+						KRAMER: Henry Atkins? The postmaster general?<br>
+							<br>
+							
+						POSTMASTER GENERAL: Last time I checked.<br>
+							<br>
+							
+						KRAMER: Henry... can I get out of here now?<br>
+							<br>
+							
+						POSTMASTER GENERAL: Oh, oh. Sit a bit. Sit a bit. I mean, after all, I drove all the way up here from D.C. just to talk to you.<br>
+							<br>
+							
+						KRAMER: Oh?<br>
+							<br>
+							
+						POSTMASTER GENERAL: I even had to cancel a round of golf with the secretary of state. Do you like golf, Mr. Kramer?<br>
+							<br>
+							
+						KRAMER: Yeah.<br>
+							<br>
+							
+						POSTMASTER GENERAL: Kramer, I've been, uh, reading some of your material here. I gotta be honest with you: you make a pretty strong case. I mean, just imagine. An army of men in wool pants running through the neighborhood handing out pottery catalogs, door to door.<br>
+							<br>
+							
+						KRAMER: Yeah! Ha ha.<br>
+							<br>
+							
+						POSTMASTER GENERAL: Well, it's my job. And I'm pretty damn serious about it. In addition to being a postmaster, I'm a general. And we both know, it's the job of a general to, by God, get things done. So maybe you can understand why I get a little irritated when someone calls me away from my golf.<br>
+							<br>
+							
+						KRAMER: I'm very, very sorry.<br>
+							<br>
+							
+						POSTMASTER GENERAL: Sure, you're sorry. I think we got a stack of mail out at the desk that belongs to you. Now, you want that mail, don't you Mr. Kramer?<br>
+							<br>
+							
+						KRAMER: Sure do!<br>
+							<br>
+							
+						POSTMASTER GENERAL: (receiving a salute from Kramer) Now, that's better.<br>
+							<br>
+							
+						KRAMER: (seeing Newman walk into the office with a bucket on his head, escorted by a security man) Geez. Newman?<br>
+							<br>
+							
+						NEWMAN: (whimpering) Tell the world my story.<br>
+							<br>
+							<br>
+							<br>
+							
+						[The Woods]<br>
+							<br>
+							
+						JERRY: Hey, George!<br>
+							<br>
+							
+						GEORGE: Jerry! Hey, that's the guy!<br>
+							<br>
+							
+						JERRY: What? George Costanza, Frankie Merman.<br>
+							<br>
+							
+						GEORGE: Oh. The summer me.<br>
+							<br>
+							
+						FRANKIE: The winter me.<br>
+							<br>
+							
+						JERRY: You must be George's cousin.<br>
+							<br>
+							
+						RHISA: Girlfriend.<br>
+							<br>
+							
+						JERRY: All right.<br>
+							<br>
+							
+						GEORGE: (seeing Jerry's van shaking) What is that? That van's a-rockin'.<br>
+							<br>
+							
+						JERRY: Don't go a-knockin'.<br>
+							<br>
+							
+						ESTELLE: (after George opens the van door) Oh, my god!<br>
+							<br>
+							
+						GEORGE: (seeing his parents being intimate) Oh, my god!<br>
+							<br>
+							
+						FRANKIE: Now you gotta sell this van.<br>
+							<br>
+							
+						JERRY: Oh, yeah.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Costanza House]<br>
+							<br>
+							
+						FRANK: What you saw in that van was a natural expression of a man's love for his lady.<br>
+							<br>
+							
+						GEORGE: Ohhhh...<br>
+							<br>
+							
+						ESTELLE: Your father's right. It's beautiful.<br>
+							<br>
+							
+						FRANK: And it was safe.<br>
+							<br>
+							
+						GEORGE: Oh, God...<br>
+							<br>
+							
+						FRANK: Now if you'll excuse me. Once again, your mother and I...<br>
+							<br>
+							
+						GEORGE: Oh... make it stop.<br>
+							<br>
+							<br>
+							
+						The End</td>
+						</tr>
+						<tr height="6">
+							<td class="bottom2" width="645" height="6"></td>
+						</tr>
+						<tr>
+							<td width="645">
+								<div align="center">
+									<font size="-1">Copyright 2006 seinology.com | All Rights Reserved | Designed by 13erla</font></div>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+		<p></p>
+	</body>
+
+</html>

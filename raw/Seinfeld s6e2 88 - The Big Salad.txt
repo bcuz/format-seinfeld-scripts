@@ -1,0 +1,1187 @@
+<tdOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+<html>
+
+	<head>
+		<meta http-equiv="content-type" content="text/html;charset=ISO-8859-1">
+		<meta name="description" content="Top Source for Seinfeld">
+		<meta name="keywords" content="seinfeld, sienfeld, Jerry Seinfeld, Julia Louis Dreyfus, Jason Alexander, Michael Richards, Kramer, George, Costanza, Elaine Benes, morty, Larry David">
+		<title>Seinology.com :: Scripts :: 88-The Big Salad</title>
+	<link rel='stylesheet' href='/stylesheet.css' type='text/css'>
+	</head>
+
+	<body>
+			<table align="center" width="787" border="0" cellspacing="0" cellpadding="0">
+				<tr>
+					<td><font size="-2" color="red">Seinology.com - </font><font size="-3" color="black">Where Seinfeld Content and Accuracy Matter Most. Seinfeld scripts in pdf form, Seinfeld episode video clips, Seinfeld episode audio clips, Jerry Seinfeld appearances, Julia Louis-Dreyfus appearances, Michael Richards appearances, Jason Alexander appearances, Seinfeld discussion Forum, Seinfeld Where are they Now? Seinlanguage Newsletter, Popular Seinfeld Lists, Seinfeld episode standup, Seinfeld episode guide, Seinfeld fan fiction. Seinfeld content all on one domain. Seinology.com enjoy your stay.</font></td>
+				</tr>
+			</table>
+		
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr height="100">
+				<td class="logo"></td>
+			</tr>
+			<tr><td class="ads" align="center" background=#8694fa>
+				<script type="text/javascript"><!--
+google_ad_client = "pub-1924026976931416";
+google_ad_width = 728;
+google_ad_height = 90;
+google_ad_format = "728x90_as";
+google_ad_type = "text";
+google_ad_channel = "";
+google_color_border = "FFFFFF";
+google_color_bg = "8694fa";
+google_color_link = "0000FF";
+google_color_text = "000000";
+google_color_url = "002E3F";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></td></tr>
+		</table>
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr>
+				<td valign="top" width="136">
+					<table width="136" border="0" cellspacing="0" cellpadding="0">
+						<tr height="24">
+							<td class="navigation">
+								<div align="center">
+									
+									<b>Navigation</b></div>
+							</td>
+						</tr>
+						<tr height="199">
+							<td class="spacer1" valign="top" width="136" height="199">
+								<div align="center">
+									<font size="-1"><a href="http://www.seinology.com">Home</a><br>
+										<a href="http://board.seinology.com">Forum</a><br>
+										<a href="http://www.seinology.com/av.shtml">Audio/Video</a><br>
+										<a href="http://www.seinology.com/scripts.shtml">Scripts</a><br>
+										<a href="http://www.seinology.com/survivor.shtml">Survivor</a><br>
+										<a href="http://www.seinology.com/fanfics.shtml">Fan Fiction</a><br>
+										<a href="http://www.seinology.com/gallery/">Gallery</a><br>
+										<a href="http://www.seinology.com/newsletter.shtml">Newsletter</a><br>
+										<a href="http://www.seinology.com/lists.shtml">Lists</a><br>
+										<a href="http://www.seinology.com/epguide.shtml">Episode Guide</a><br>
+										<a href="http://www.seinology.com/links.shtml">Links</a><br>
+										<a href="http://www.seinology.com/faqother.shtml">Faq + others</a><br>
+										<a href="http://www.seinology.com/legal.shtml">Legal</a></font></div>
+							</td>
+						</tr>
+						
+						<tr>
+							<td class="nav2" width="136">
+							<div align="center"><b>Search</b></div></td>
+						</tr>
+						<tr>
+							<td class="spacer1" width="136" valign="top"><div align="center"><form method="get" action="http://www.seinology.com/search/search.cgi">
+<p><label for="fdse_Match">Match</label><br>
+<select name="Match" id="fdse_Match" size="1">
+<option value="1">All</option>
+<option value="0">Any</option>
+<option value="2">Phrase</option>
+</select></p>
+<p><label for="fdse_Realm">Where?</label><br>
+<select name="Realm" id="fdse_Realm" size="1">
+<option selected="selected" value="All">EntireSite</option>
+<option value="Ep Guide">Ep Guide</option>
+<option value="Images">Images</option>
+<option value="Lists">Lists</option>
+<option value="Newsletters">Newsletters</option>
+<option value="Scripts">Scripts</option>
+<option value="Notes..Nothing">Notes..Nothing</option>
+</select></p>
+<p><input type="text" name="Terms" size="14" id="fdse_Terms"><br>
+<input type="submit" class="submit" name="submitButtonName" value="Search"></p>
+</div></form></td>
+						</tr>
+						<tr><td class="bottom" width="136" height="10" valign="top">
+						</td>
+						</tr>
+					</table>
+				</td>
+				<td width="4"></td>
+				<td valign="top" width="645">
+					<table width="645" border="0" cellspacing="0" cellpadding="0">
+						<tr height="18">
+							<td width="645" height="35" class="bar">
+								<div align="center">
+									<b><font size="+2" color="black">Script</font></b></div>
+							</td>
+						</tr>
+						<tr height="362">
+							<td class="spacer2" valign="top" width="645" height="362">
+
+						<p><font size="-2">Episode 88 - The Big Salad<br>
+							
+						pc: 602, season 6, episode 2<br>
+							
+						Broadcast date: September 29, 1994<br>
+							<br>
+							
+						Written by Larry David<br>
+							
+						Directed by Andy Ackerman<br>
+							<br>
+							
+						-------------------------------------------------------------------------------<br>
+							<br>
+							
+						The Cast<br>
+							
+						Regulars:<br>
+							
+						Jerry Seinfeld ....................... Jerry Seinfeld<br>
+							
+						Jason Alexander .................. George Costanza<br>
+							
+						Julia Louis-Dreyfus ............. Elaine Benes<br>
+							
+						Michael Richards ................. Kramer<br>
+							<br>
+							
+						Guest Stars:<br>
+							<br>
+							
+						Michelle Forbes&nbsp; .................. Julie<br>
+							
+						Jerry Levine ........................ Stationer<br>
+							
+						Marita Geraghty&nbsp; ................ Margaret<br>
+							
+						Barry Nolan&nbsp;&nbsp; ...................... Reporter<br>
+							
+						Dean Hallo&nbsp;&nbsp; ........................ Gendason<br>
+							
+						Lauren Bowles&nbsp;&nbsp; .................&nbsp; Waitress<br>
+							
+						rc: Wayne Knight ................ Newman<br>
+							<br>
+							
+						==================================================================<br>
+							<br>
+							
+						[Opening Monologue]<br>
+							<br>
+							
+						Its fascinating. When you go into a stationery store that they&#146;re manufacturing millions of pens; constantly we&#146;re all buying them. I must have bought six thousand Bics in my life. I&#146;ve used up maybe two of them. Where are the rest of them? When you move the refrigerator there&#146;s a couple back there but it doesn&#146;t account for it. Where are all the pens? That&#146;s why it&#146;s so embarrassing if you don&#146;t have one. You got a pen? Can I borrow a pen? We always have to whisper because it&#146;s so humiliating. I don&#146;t have a pen. They&#146;re making millions of them every week!&nbsp;&nbsp; I know; where are they?<br>
+							<br>
+							<br>
+							<br>
+							
+						[Stationery store]<br>
+							<br>
+							
+						STATIONER: May I help you?<br>
+							<br>
+							
+						ELAINE: Yeah, uh, I'm looking for a Rollamech 1000 mechanical pencil.<br>
+							<br>
+							
+						STATIONER: Oh, I know the Rollamech 1000.<br>
+							<br>
+							
+						ELAINE: No, I'm sure you do.<br>
+							<br>
+							
+						STATIONER: They're pretty expensive.<br>
+							<br>
+							
+						ELAINE: Well, it's for my boss.<br>
+							<br>
+							
+						STATIONER: What do you do?<br>
+							<br>
+							
+						Ex: Whatever.<br>
+							<br>
+							
+						STATIONER: Well, we don't have any in stock right now but I would be happy to order it for you. Just give me your phone number and when it comes in I'll give you a call. You're name is?<br>
+							<br>
+							
+						ELAINE: Elaine.<br>
+							<br>
+							
+						STATIONER: Elaine, . . . and your last name?<br>
+							<br>
+							
+						ELAINE: It's just Elaine, like Cher. Ha ha ha<br>
+							<br>
+							
+						STATIONER: And your number?<br>
+							<br>
+							
+						ELAINE: Uh, aw, KL5-239O.<br>
+							<br>
+							
+						STATIONER: Okay. Thanks a lot. You'll be hearing from me.<br>
+							<br>
+							
+						ELAINE: Okay, (to Jerry)&nbsp; Move&nbsp; along. . .<br>
+							<br>
+							
+						JERRY: Why did you give him MY number?<br>
+							<br>
+							<br>
+							<br>
+							
+						[On the street]<br>
+							<br>
+							
+						ELAINE: I think he's got ideas.<br>
+							<br>
+							
+						JERRY: I wonder if any woman ever said that about Einstein?<br>
+							<br>
+							
+						JERRY: Call me when the pencil comes in Okay?<br>
+							<br>
+							
+						(On the street)<br>
+							<br>
+							
+						ELAINE: Just call me when the new pen comes in, okay?<br>
+							<br>
+							
+						JERRY: Why does Mr. Pitt prefer a pencil to a pen anyway? Hey. Look who's here.<br>
+							<br>
+							
+						GEORGE: Hey, hey.<br>
+							<br>
+							
+						ELAINE: Hey hey<br>
+							<br>
+							
+						JULIE: Hi Jerry.<br>
+							<br>
+							
+						JERRY: Hi Julie.<br>
+							<br>
+							
+						GEORGE: Elaine, Julie.<br>
+							<br>
+							
+						ELAINE: Hi.<br>
+							<br>
+							
+						JULIE: Hi.<br>
+							<br>
+							
+						JULIE: Oh, hi.&nbsp; Elaine's my middle name.<br>
+							<br>
+							
+						ELAINE: Oh, mine's &quot;Ike&quot;.<br>
+							<br>
+							
+						GEORGE: Hey, wanna get some lunch?<br>
+							<br>
+							
+						JERRY: Just had a big bowl of Kix.<br>
+							<br>
+							
+						GEORGE: Ah, well, that's very mature. What about you?<br>
+							<br>
+							
+						ELAINE: Ah, no.<br>
+							<br>
+							
+						JULIE: Please come, Elaine.<br>
+							<br>
+							
+						ELAINE: No, no. How about if you bring me back something?<br>
+							<br>
+							
+						GEORGE: Sure, all right, what do you want?<br>
+							<br>
+							
+						ELAINE: Um, hum, I don't know.. . . A big salad?<br>
+							<br>
+							
+						GEORGE: What big salad? I'm going to the coffee shop.<br>
+							<br>
+							
+						ELAINE: They have big salads.<br>
+							<br>
+							
+						GEORGE: I've never seen a big salad.<br>
+							<br>
+							
+						ELAINE: They have a big salad.<br>
+							<br>
+							
+						GEORGE: Is that what I ask for? The BIG salad?<br>
+							<br>
+							
+						ELAINE: It's okay, you don't&#133;<br>
+							<br>
+							
+						GEORGE: No, no, Hey I'll get it. What's in the BIG salad?<br>
+							<br>
+							
+						JERRY: Big lettuce, big carrots, tomatoes like volleyballs.<br>
+							<br>
+							
+						GEORGE: (???), we'll see you in a little while.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Jerry's]<br>
+							<br>
+							
+						ELAINE: Maybe I should just get married.<br>
+							<br>
+							
+						JERRY: Dating is really starting to get embarrassing isn't it?<br>
+							<br>
+							
+						ELAINE: I know. You know, whenever I'm on a date I feel people can tell.<br>
+							<br>
+							
+						JERRY: People on dates shouldn't even be allowed out in public.<br>
+							<br>
+							
+						ELAINE: You can say that again.<br>
+							<br>
+							
+						JERRY: It's embarrassing for them. It's painful for us to watch. I'm going out with someone later, I'm not even taking her out of the house.<br>
+							<br>
+							
+						ELAINE: Good for you.<br>
+							<br>
+							
+						JERRY: I don't need a bunch of people staring at us.<br>
+							<br>
+							
+						ELAINE: Right on baby. (???)<br>
+							<br>
+							
+						(noise from hall)<br>
+							<br>
+							
+						JERRY: What was that?<br>
+							<br>
+							
+						(Kramer enters with his golf clubs)<br>
+							<br>
+							
+						KRAMER: That Gendason, what a jerk. I'm never playing golf with him again.<br>
+							<br>
+							
+						ELAINE: Who Gendason?<br>
+							<br>
+							
+						KRAMER: Steve Gendason.<br>
+							<br>
+							
+						ELAINE: Why is that name familiar?<br>
+							<br>
+							
+						Hx: He used to be a baseball player.<br>
+							<br>
+							
+						ELAINE: Oh, how did you end up playing golf with him?<br>
+							<br>
+							
+						KRAMER: Well, I met him on the course a couple of years ago. Yeah. Played with him a lot. But today was it! We're on the fifteenth hole, ya, he's beating me by a couple of strokes. Then, he's about to hit his second shot, when, he picks up the ball and CLEANS it.<br>
+							<br>
+							
+						ELAINE: So what?<br>
+							<br>
+							
+						KRAMER: Umph, sorry! But the rules clearly state that you cannot clean the ball unless it's on the green. The rules are very clear about that.<br>
+							<br>
+							
+						JERRY: Certainly are.<br>
+							<br>
+							
+						KRAMER: Ya, so I penalized him a stroke.<br>
+							<br>
+							
+						Jx; Ah, so what happened?<br>
+							<br>
+							
+						KRAMER: He LOST IT! We almost came to blows. We were face to face like a manager and an umpire like this . . kara a pukka ba ya ka ba . . .<br>
+							<br>
+							
+						JERRY: All right. You're in MY face.<br>
+							<br>
+							
+						ELAINE: I still don't see what the big deal is.<br>
+							<br>
+							
+						KRAMER: A rule is a rule. And let's face it. Without rules there's chaos.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Monks]<br>
+							<br>
+							
+						JULIE: I like Anna Quindlen's column and Safire. Don't you like Safire?<br>
+							<br>
+							
+						GEORGE: Oh, Safire. Uh ha<br>
+							<br>
+							
+						JULIE: Although at times can be rather pedantic.<br>
+							<br>
+							
+						GEORGE: He can be pedantic. He can be pedantic.<br>
+							<br>
+							
+						JULIE: And Bob Herbert's great. He's the Daily News.<br>
+							<br>
+							
+						GEORGE: Yes. Yes. You know what's interesting. The quarterback for the Atlanta Falcons is Bobby Hebert. No &quot;r&quot; which I find fascinating. You know it's Herbert h-e-r-b-e-r-t, Hebert h-e-b-e-r-t. &quot;Hebert&quot; it's a fun name to pronounce. Try and say it Hebert. Take a shot. All right. (check arrives) All right. I<br>
+							<br>
+							
+						got it.<br>
+							<br>
+							
+						JULIE: No, no. I'd like to take you out.<br>
+							<br>
+							
+						GEORGE: No, Julie, Julie, don't insult me. You know, what difference does it make who pays for lunch. It's totally meaningless.<br>
+							<br>
+							
+						JULIE: Okay, thanks, George.<br>
+							<br>
+							
+						Wx: Here's your big salad to go.<br>
+							<br>
+							
+						JULIE: Oh, thank you.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Jerry's]<br>
+							<br>
+							
+						JERRY: (on phone) Hello. No she's not here. Okay, fine, whatever. I'll tell her. Okay. Goodbye. The stationery store guy called to say he ORDERED your pencil.<br>
+							<br>
+							
+						ELAINE: I told ya'. He has ideas.<br>
+							<br>
+							
+						JERRY: He doesn't even care if a man answers.<br>
+							<br>
+							
+						ELAINE: Or you.<br>
+							<br>
+							
+						(George and Julie enter)<br>
+							<br>
+							
+						GEORGE: Hey, hey.<br>
+							<br>
+							
+						ELAINE: Hey.<br>
+							<br>
+							
+						JULIE: Sorry e're late.<br>
+							<br>
+							
+						ELAINE: No problem.<br>
+							<br>
+							
+						JULIE: Here's your big salad.<br>
+							<br>
+							
+						ELAINE: Thank you, Julie.<br>
+							<br>
+							
+						JULIE: Oh, you're very welcome. So, I guess I better get going. Gotta meet mother a t the Guggenheim. Sure you don't want to go?<br>
+							<br>
+							
+						GEORGE: No, you go Guggenheim. I'm not much of a Guggenheim.<br>
+							<br>
+							
+						JULIE: Sure, George.<br>
+							<br>
+							
+						GEORGE: Ya, you go.<br>
+							<br>
+							
+						JULIE: Okay, I'll see you later. Goodbye.<br>
+							<br>
+							
+						JERRY: Bye bye<br>
+							<br>
+							
+						(Julie exits)<br>
+							<br>
+							
+						GEORGE: Did you see what just happened?<br>
+							<br>
+							
+						JERRY: Well, that all depends. . .<br>
+							<br>
+							
+						GEORGE: Did you happen to notice that Julie handed the big salad to Elaine?<br>
+							<br>
+							
+						JERRY: Yeah, so?<br>
+							<br>
+							
+						GEORGE: Well, she didn't BUY the big salad. I bought the big salad.<br>
+							<br>
+							
+						JERRY: Is that a fact?<br>
+							<br>
+							
+						GEORGE: Yes it is. She just took credit for my salad. That's not right.<br>
+							<br>
+							
+						JERRY: No it isn't.<br>
+							<br>
+							
+						GEORGE: I mean I'm the one who bought it.<br>
+							<br>
+							
+						JERRY: Yes you did.<br>
+							<br>
+							
+						GEORGE: You think she should have said something?<br>
+							<br>
+							
+						JERRY: She could have.<br>
+							<br>
+							
+						GEORGE: Oh, I know.<br>
+							<br>
+							
+						JERRY: Imagine, her taking credit for your big salad.<br>
+							<br>
+							
+						GEORGE: You know you buy a big salad for somebody it would be nice if they knew it.<br>
+							<br>
+							
+						JERRY: Obviously.<br>
+							<br>
+							
+						(Kramer rushes in)<br>
+							<br>
+							
+						KRAMER: Turn on the TV.<br>
+							<br>
+							
+						JERRY: What?<br>
+							<br>
+							
+						KRAMER: I'm puttin it on&#133;<br>
+							<br>
+							
+						TV: . . . the district attorney's office and the police department have not answered any questions as yet. To repeat in case you're just joining us. Former baseball start Steve Genderson, has been taken to Police headquarters for questioning the murder of Bobby Pinkus the owner of Royal Dry Cleaners at 2759 Amsterdam Avenue. According to Pinkus' wife, Gendeson had been involved in a dispute with the cleaner about a stain on a pair of gray Sans-A-Belt slacks. We also have a report that earlier in the day a groundskeeper at Vancourtland's Golf Course saw an irate Gendeson leaving the clubhouse in a huff. Whether there is a possible connection between the two is something we'll just have to wait.<br>
+							<br>
+							
+						KRAMER: Jerry . . .<br>
+							<br>
+							
+						JERRY: Well, it has nothing to do with you.<br>
+							<br>
+							
+						KRAMER: Yeah, but maybe he was so mad from the penalty stroke that he murdered the dry cleaner.<br>
+							<br>
+							
+						JERRY: Well, generally speaking you don't need any extra incentive to murder a dry cleaner. I wouldn't worry about that.<br>
+							<br>
+							<br>
+							<br>
+							
+						[In a cab]<br>
+							<br>
+							
+						ELAINE: I like Julie. She's very personable.<br>
+							<br>
+							
+						GEORGE: Yeah, she's very lovely.<br>
+							<br>
+							
+						ELAINE: That's great George.<br>
+							<br>
+							
+						GEORGE: So did you enjoy your lunch?<br>
+							<br>
+							
+						ELAINE: Yeah, A big salad. Very good. Actually it was too big. Ha ha ha Wht?<br>
+							<br>
+							
+						GEORGE: oh, . . .because she handed you the bag. I could have handed you the bag. She happened to pick it up at the restaurant even though, . . .<br>
+							<br>
+							
+						ELAINE: Even though what?<br>
+							<br>
+							
+						GEORGE: . . . naw, it's just you thanked HER, and and oh, . . . what's the difference?<br>
+							<br>
+							
+						ELAINE: What? What are you trying to say, George?<br>
+							<br>
+							
+						GEORGE: It's just that I was the one who actually paid for the big salad. She just happened to hand it to you. But it's no big deal.<br>
+							<br>
+							
+						ELAINE: You want the money for the big salad, George?<br>
+							<br>
+							
+						GEORGE: No, no,<br>
+							<br>
+							
+						ELAINE: What is the problem?<br>
+							<br>
+							
+						GEORGE: There is no problem. . . just a small miscommunication. Whereby you thanked her instead of the person actually responsible for purchasing the big salad.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Jerry's]<br>
+							<br>
+							
+						JERRY: And Kramer thinks a penalty stroke may have driven him to it.<br>
+							<br>
+							
+						MARGARET: Well, they haven't even arrested him yet. Come on, let's go out.<br>
+							<br>
+							
+						JERRY: Ah, no , I don't think so.<br>
+							<br>
+							
+						MARGARET: Why not?<br>
+							<br>
+							
+						JERRY: We don't need a bunch of people staring at us.<br>
+							<br>
+							
+						MARGARET: Who is staring?<br>
+							
+						JERRY: Oh, they're staring. They know we're on a date. They're making fun. Come on. It's embarrassing.<br>
+							<br>
+							
+						(Phone rings)<br>
+							<br>
+							
+						JERRY: Hello. No she's not here. Yes I will tell her. No I don't know what time she might be coming back. Look I gotta' go. Goodbye. . . . That, that's a long story.<br>
+							<br>
+							
+						(Newman enters)<br>
+							<br>
+							
+						JERRY: Hello Newman.<br>
+							<br>
+							
+						MARGARET: Hello Jerry, I was wondering if you knew where Kramer was.<br>
+							<br>
+							
+						JERRY: No, no I don't. Why?<br>
+							<br>
+							
+						MARGARET: You know, Genderson. This is something big.<br>
+							<br>
+							
+						JERRY: I suppose.<br>
+							<br>
+							
+						MARGARET: What did Kramer say?<br>
+							<br>
+							
+						JERRY: I don't know. Nothing.?<br>
+							<br>
+							
+						MARGARET: Come on Jerry. You know something TELL ME! TELL ME!, Oh, chocolates . . . Margaret?<br>
+							<br>
+							
+						MARGARET: Hello.<br>
+							<br>
+							
+						JERRY: You two know each other?<br>
+							<br>
+							
+						NEWMAN: You might say that.<br>
+							<br>
+							
+						MARGARET: We used to go out.<br>
+							<br>
+							
+						NEWMAN: Well, tootle loo. And nice seeing you again Margaret, goodbye Jerry. Have fun. Hehe<br>
+							<br>
+							
+						JERRY: . . . YOU went out with . . . Newman?<br>
+							<br>
+							
+						MARGARET: Just a few times.<br>
+							<br>
+							
+						JERRY: Why?<br>
+							<br>
+							
+						MARGARET: I liked him.<br>
+							<br>
+							
+						JERRY: You liked, Newman?<br>
+							<br>
+							
+						MARGARET: Look I'm a little uncomfortable talking about this okay?<br>
+							<br>
+							
+						JERRY: No, I'm sorry. I'm just a little curious. I mean why did you stop seeing him.<br>
+							<br>
+							
+						MARGARET: He ended it.<br>
+							<br>
+							
+						JERRY: . . . HE ended it?<br>
+							<br>
+							
+						MARGARET: YES!! Yes! It was a couple of years ago. Why does it matter?<br>
+							<br>
+							
+						JERRY: No, no of course not.<br>
+							<br>
+							
+						(Kramer enters)<br>
+							<br>
+							
+						KRAMER: Jerry, Jerry they found a tee.<br>
+							<br>
+							
+						JERRY: What tee?<br>
+							<br>
+							
+						KRAMER: A golf tee. In the dry cleaner.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Monk's]<br>
+							<br>
+							
+						JERRY: Newman! She went out with Newman!<br>
+							<br>
+							
+						ELAINE: It must be a mistake.<br>
+							<br>
+							
+						JERRY: No. It isn't and the most distressing part of it is, not that she went out with him but that HE stopped seeing her. Do you understand? He, Newman; Newman stopped seeing her. Newman never stopped seeing anybody. Newman will see whoever is willing to see him. Not so much why she did see him as disturbing as that is. But why, did HE, Newman, stop seeing her?<br>
+							<br>
+							
+						ELAINE: Perhaps there's more to him than meets the eye.<br>
+							<br>
+							
+						JERRY: No, there's less.<br>
+							<br>
+							
+						ELAINE: It's possible.<br>
+							<br>
+							
+						JERRY: No it isn't. I've looked into his eyes. He's pure evil.<br>
+							<br>
+							
+						ELAINE: He's an enigma, a mystery wrapped in a riddle.<br>
+							<br>
+							
+						JERRY: Yeah, he's a mystery wrapped in a Twinkie.<br>
+							<br>
+							
+						Wx: Would you like some more coffee?<br>
+							<br>
+							
+						JERRY: No,, but thank you.<br>
+							<br>
+							
+						JERRY: Oh, by the way, your stationery store guy called and he's got your pencil.<br>
+							<br>
+							
+						ELAINE: Ugh! You are kidding me.<br>
+							<br>
+							
+						JERRY: No, he left the store early, made a special trip to the distributor and got it.<br>
+							<br>
+							
+						ELAINE: I bought mine yesterday on 14th Street.<br>
+							<br>
+							
+						JERRY: Well, what did you do that for? You ordered it.<br>
+							<br>
+							
+						ELAINE: To please Mr. Pitt.<br>
+							<br>
+							
+						JERRY: Well, you better go down there and tell this guy. He's very excited.<br>
+							<br>
+							
+						ELAINE: Uh, great!<br>
+							<br>
+							
+						JERRY: Hi Julie.<br>
+							<br>
+							
+						JERRY: Hi.<br>
+							<br>
+							
+						ELAINE: Hi Julie.<br>
+							<br>
+							
+						JERRY: Hi, how are you, Elaine? I'm meeting George here.<br>
+							<br>
+							
+						ELAINE: Oh, well then I better get going otherwise George will make me buy him lunch to make up for that big salad he bought me yesterday.<br>
+							<br>
+							
+						JERRY: How do you know THAT?<br>
+							<br>
+							<br>
+							<br>
+							
+						[Newman's apartment]<br>
+							<br>
+							
+						(knock knock)<br>
+							<br>
+							
+						NEWMAN: Who is it.<br>
+							<br>
+							
+						JERRY: It's Jerry.<br>
+							<br>
+							
+						NEWMAN: You've come at a bad time now. Could you come back later?<br>
+							<br>
+							
+						JERRY: Come on Newman. OPEN THE DOOR!<br>
+							<br>
+							
+						NEWMAN: Hellooo Jerry. What a rare treat. What brings you down to the east wing?<br>
+							<br>
+							
+						JERRY: Okay, pudgy, lets stop playing games. What happened with margaret?<br>
+							<br>
+							
+						NEWMAN: There's no need to get excited. Can't we discuss this like gentlemen?<br>
+							<br>
+							
+						JERRY: No, we can't. My skin is crawling just being inside your little rat's nest. Now, what happened?<br>
+							<br>
+							
+						NEWMAN: Do you really want to know what happened? I'll tell you what Happened. She wasn't my type.<br>
+							<br>
+							
+						JERRY: Noit your type?<br>
+							<br>
+							
+						NEWMAN: Not really.<br>
+							<br>
+							
+						JERRY: Well, how come?<br>
+							<br>
+							
+						NEWMAN: Ah, she just didn't do it for me.<br>
+							<br>
+							
+						JERRY: What, what is wrong with her?<br>
+							<br>
+							
+						NEWMAN: Well, h ha ha- if you're happy with her, that's all that matters.<br>
+							<br>
+							
+						JERRY: You don't think she's attractive?<br>
+							<br>
+							
+						NEWMAN: No. I need a really pretty face. But, Hey, that's me.<br>
+							<br>
+							
+						JERRY: Okay, Newman, thanks a lot.<br>
+							<br>
+							
+						NEWMAN: Care for some lemonade?<br>
+							<br>
+							
+						JERRY: No, thank you.<br>
+							<br>
+							
+						NEWMAN: Drop bye anytime, jerry. Hah, ha ha<br>
+							<br>
+							<br>
+							<br>
+							
+						[Jerry's apartment]<br>
+							<br>
+							
+						KRAMER: Listen to this, &quot;If a player cleans his ball during the play of a hole accept on the putting green he shall incur a penalty of one stroke. &quot; That's a rule, Jerry.<br>
+							<br>
+							
+						JERRY: But it's just a friendly game. Why do you have to be such a stickler?<br>
+							<br>
+							
+						KRAMER: Because that's the way I weas raised. You know when I was growing up I had to be in bed every night by nine o'clock. And if I wasn't, well I don't have to tell you what happened.<br>
+							<br>
+							
+						JERRY: What are you so worried about this for?<br>
+							<br>
+							
+						KRAMER: You know he talked about Pinkus on the course?<br>
+							<br>
+							
+						JERRY: He did?<br>
+							<br>
+							
+						KRAMER: Oh yeah, he said he brought a pair of pants into Pinkus' and they came back stained with some kind of dry cleaning fluid. And Pinkus denied responsibility. You see he was very upset with Pinkus.<br>
+							<br>
+							
+						JERRY: So it had nothing to do with you.<br>
+							<br>
+							
+						KRAMER: Yeah, but maybe I pushed him over the edge.<br>
+							<br>
+							
+						JERRY: No, I don't think so.<br>
+							<br>
+							
+						KRAMER: Poor Pinkus, poor little Pinkus.<br>
+							<br>
+							
+						JERRY: Hey, let me ask you a question. You met margaret. Doo you think Margaret's good looking? Um, she's a natural beauty. Oh, no makeup. I like that.<br>
+							<br>
+							
+						JERRY: Yeah, and the curls. You like the curls?<br>
+							<br>
+							
+						KRAMER: Oh, I love curls.<br>
+							<br>
+							
+						JERRY: Yeah,, me too.<br>
+							<br>
+							
+						KRAMER: All right, I'll see you later.<br>
+							<br>
+							
+						JERRY: Where you going?<br>
+							<br>
+							
+						KRAMER: Genderson's.<br>
+							<br>
+							
+						JERRY: You're going to see Genderson?<br>
+							<br>
+							
+						KRAMER: It's weighing on my conscience.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Monk's]<br>
+							<br>
+							
+						GEORGE: You know, I think I could have played with dolls if their were dolls in the house. It seems like fun to me. It doesn't seem like a gender thing. I think I would like to play with dolls. What's so terrible?<br>
+							<br>
+							
+						JULIE: Ha. So, George, I was talking to Elaine before.<br>
+							<br>
+							
+						GEORGE: A ha! We're just friends.<br>
+							<br>
+							
+						JULIE: Yes, well anyway, she said something that was kind of intriguing.<br>
+							<br>
+							
+						GEORGE: Oh, share.<br>
+							<br>
+							
+						JULIE: Well, when I came over to the table she mentioned something about how she better hurry up and leave or you'd make her buy lunch to make up for the one you bought yesterday.<br>
+							<br>
+							
+						GEORGE: Ha, ha ha uh, I'm not following that.<br>
+							<br>
+							
+						JULIE: Well, my question is, How could Elaine be under the impression that you bought the big salad, when I was the one who handed it to her?<br>
+							<br>
+							
+						GEORGE: Well, she probably just assumed.<br>
+							<br>
+							
+						JULIE: Um, did she?<br>
+							<br>
+							
+						GEORGE: . . .uh, . . . wait a second. Are you suggesting that I went out of my way to tell Elaine that even though you handed her the big salad, that it came from me?<br>
+							<br>
+							
+						JULIE: That's what I'm suggesting.<br>
+							<br>
+							
+						GEORGE: . . . WELL IT WAS A BIG SALAD. AND WHAT I WOULD LIKE TO KNOW IS, HOW DOES A PERSON WHO HAS NOTHING TO DO WITH THE BIG SALAD CLAIM RESPONSIBILITY FOR THAT SALAD AND ACCEPT THE THANK YOU UNDER FALSE PRETENSES - AH - AH?<br>
+							<br>
+							
+						JULIE: George, all I did was hand someone a bag.<br>
+							<br>
+							
+						(Julie leaves)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Stationery store]<br>
+							<br>
+							
+						ELAINE: It's just that my boss is very demanding and he needed the pencil right away.<br>
+							<br>
+							
+						STATIONER: Well,, why did you tell me to order it if you knew you were going to get one someplace else?<br>
+							<br>
+							
+						ELAINE: No, no no I didn't know. I, I'm sorry.<br>
+							<br>
+							
+						STATIONER: I went all the way down to the warehouse. It took me three hours. I had a big fight with the foreman.<br>
+							<br>
+							
+						ELAINE: Really? A fight with the foreman?<br>
+							<br>
+							
+						STATIONER: Yes.<br>
+							<br>
+							
+						ELAINE: Well, again, I'm just awfully sorry.<br>
+							<br>
+							
+						STATIONER: Yeah? Well, then how about going out with me tonight?<br>
+							<br>
+							
+						ELAINE: Okay.<br>
+							<br>
+							<br>
+							<br>
+							
+						(In Margaret's car)<br>
+							<br>
+							
+						MARGARET: I mean they found a tee and he played golf that day. Nobody walks into a dry cleaner's with a tee. The circumstantial evidence is overwhelming.<br>
+							<br>
+							
+						JERRY: You had how many dates with him? Three?<br>
+							<br>
+							
+						MARGARET: Around three. I don't know.<br>
+							<br>
+							
+						JERRY: And . .<br>
+							<br>
+							
+						MARGARET: I told you. He stopped calling me. I moved on. I'm not hung up on him. What are you looking at?<br>
+							<br>
+							
+						JERRY: What? I'm not looking. Nothing.<br>
+							<br>
+							
+						JERRY: Why are you looking at my face?<br>
+							<br>
+							
+						JERRY: Where am I going to look?<br>
+							<br>
+							
+						MARGARET: Kiss me.<br>
+							<br>
+							
+						JERRY: . . . I can't.<br>
+							<br>
+							
+						(Throws Jerry out onto sidewalk and drives off)<br>
+							<br>
+							
+						JERRY: Newman!<br>
+							<br>
+							<br>
+							<br>
+							
+						[Jerry's apartment]<br>
+							<br>
+							
+						JERRY: All I could think of was when I was looking at her face was; Newman found this unacceptable.<br>
+							<br>
+							
+						ELAINE: Well, ,I'm going out with the stationery store guy.<br>
+							<br>
+							
+						JERRY: You're going out with the stationery store guy?<br>
+							<br>
+							
+						ELAINE: I felt so guilty about the pencil I couldn't say no.<br>
+							<br>
+							
+						(George enters, upset)<br>
+							<br>
+							
+						ELAINE: Well, well, well, I'm not treating you to lunch ANYMORE! You had to tell Julie that I made a special point of telling you that I bought you the big salad. Didn't ya'.<br>
+							<br>
+							
+						ELAINE: Uh, uh.<br>
+							<br>
+							
+						GEORGE: You know, if it was a regular salad I wouldn't have said anything. But you had to have the BIG SALAD.<br>
+							<br>
+							
+						(phone rings)<br>
+							<br>
+							
+						JERRY: Hello, what? You're kidding. I'm turning it on. Oh, my god. Get out of here. (hangs up) Hey listen to this. They issued a warrant for Genderson's arrest. He escaped and the police spotted him on the New Jersey Turnpike.<br>
+							<br>
+							
+						TV: As you can see white Bronco. The police have cleared the highway traffic in front of him but they are keeping their distance and don't want the situation to escalate. And we have gotten an identification on the driver of the vehicle. His name is; Kramer, one of Genderson's golfing buddies.<br>
+							<br>
+							
+						POLICE: 9-1-1 What are you reporting<br>
+							<br>
+							
+						KRAMER: Yeah, this is Kramer. I got Genderson in the car. He wants to see his fish. I'm taking him to see his fish. So tell the police to back off.<br>
+							<br>
+							
+						POLICE: Okay, sir, and what's your name?<br>
+							<br>
+							
+						KRAMER: My name is Kramer. You know who I am dammit!<br>
+							<br>
+							
+						Genderson: I told you not to take the turnpike.<br>
+							<br>
+							
+						KRAMER: I thought we would blend in.<br>
+							<br>
+							
+						Genderson: If we took the palisades this never have happened.<br>
+							<br>
+							
+						KRAMER: we would have had all that bridge traffic.<br>
+							<br>
+							
+						Genderson: Ah, just drive.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Closing Monologue]<br>
+							<br>
+							
+						(Jail?) doesn't really seem like that great of revenge. Wouldn't years of subtle psychological mind games be a lot more satisfying? Constantly calling him, hanging up when he answers the phone. Sending pizzas and taxis to their house all night long. After a while he would go, &quot;I wish that guy would kill me already, I can't take it anymore.&quot; And how come when the police catch some really bad criminal or something they put him in the handcuffs, they hit him with the baton, they put the choke hold on him, then they're always careful they don't want him to hurt his head when they're putting him in the back of the patrol car. &quot;Watch your head, watch your head. Don't hit that metal edge there. . . . That REALLY hurts&quot;<br>
+							<br>
+							<br>
+							
+						The End</td>
+						</tr>
+						<tr height="6">
+							<td class="bottom2" width="645" height="6"></td>
+						</tr>
+						<tr>
+							<td width="645">
+								<div align="center">
+									<font size="-1">Copyright 2006 seinology.com | All Rights Reserved | Designed by 13erla</font></div>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+		<p></p>
+	</body>
+
+</html>

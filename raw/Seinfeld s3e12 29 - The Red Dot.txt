@@ -1,0 +1,1109 @@
+<tdOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+<html>
+
+	<head>
+		<meta http-equiv="content-type" content="text/html;charset=ISO-8859-1">
+		<meta name="description" content="Top Source for Seinfeld">
+		<meta name="keywords" content="seinfeld, sienfeld, Jerry Seinfeld, Julia Louis Dreyfus, Jason Alexander, Michael Richards, Kramer, George, Costanza, Elaine Benes, morty, Larry David">
+		<title>Seinology.com :: Scripts :: 29-The Red Dot</title>
+	<link rel='stylesheet' href='/stylesheet.css' type='text/css'>
+	</head>
+
+	<body>
+			<table align="center" width="787" border="0" cellspacing="0" cellpadding="0">
+				<tr>
+					<td><font size="-2" color="red">Seinology.com - </font><font size="-3" color="black">Where Seinfeld Content and Accuracy Matter Most. Seinfeld scripts in pdf form, Seinfeld episode video clips, Seinfeld episode audio clips, Jerry Seinfeld appearances, Julia Louis-Dreyfus appearances, Michael Richards appearances, Jason Alexander appearances, Seinfeld discussion Forum, Seinfeld Where are they Now? Seinlanguage Newsletter, Popular Seinfeld Lists, Seinfeld episode standup, Seinfeld episode guide, Seinfeld fan fiction. Seinfeld content all on one domain. Seinology.com enjoy your stay.</font></td>
+				</tr>
+			</table>
+		
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr height="100">
+				<td class="logo"></td>
+			</tr>
+			<tr><td class="ads" align="center" background=#8694fa>
+				<script type="text/javascript"><!--
+google_ad_client = "pub-1924026976931416";
+google_ad_width = 728;
+google_ad_height = 90;
+google_ad_format = "728x90_as";
+google_ad_type = "text";
+google_ad_channel = "";
+google_color_border = "FFFFFF";
+google_color_bg = "8694fa";
+google_color_link = "0000FF";
+google_color_text = "000000";
+google_color_url = "002E3F";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></td></tr>
+		</table>
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr>
+				<td valign="top" width="136">
+					<table width="136" border="0" cellspacing="0" cellpadding="0">
+						<tr height="24">
+							<td class="navigation">
+								<div align="center">
+									
+									<b>Navigation</b></div>
+							</td>
+						</tr>
+						<tr height="199">
+							<td class="spacer1" valign="top" width="136" height="199">
+								<div align="center">
+									<font size="-1"><a href="http://www.seinology.com">Home</a><br>
+										<a href="http://board.seinology.com">Forum</a><br>
+										<a href="http://www.seinology.com/av.shtml">Audio/Video</a><br>
+										<a href="http://www.seinology.com/scripts.shtml">Scripts</a><br>
+										<a href="http://www.seinology.com/survivor.shtml">Survivor</a><br>
+										<a href="http://www.seinology.com/fanfics.shtml">Fan Fiction</a><br>
+										<a href="http://www.seinology.com/gallery/">Gallery</a><br>
+										<a href="http://www.seinology.com/newsletter.shtml">Newsletter</a><br>
+										<a href="http://www.seinology.com/lists.shtml">Lists</a><br>
+										<a href="http://www.seinology.com/epguide.shtml">Episode Guide</a><br>
+										<a href="http://www.seinology.com/links.shtml">Links</a><br>
+										<a href="http://www.seinology.com/faqother.shtml">Faq + others</a><br>
+										<a href="http://www.seinology.com/legal.shtml">Legal</a></font></div>
+							</td>
+						</tr>
+						
+						<tr>
+							<td class="nav2" width="136">
+							<div align="center"><b>Search</b></div></td>
+						</tr>
+						<tr>
+							<td class="spacer1" width="136" valign="top"><div align="center"><form method="get" action="http://www.seinology.com/search/search.cgi">
+<p><label for="fdse_Match">Match</label><br>
+<select name="Match" id="fdse_Match" size="1">
+<option value="1">All</option>
+<option value="0">Any</option>
+<option value="2">Phrase</option>
+</select></p>
+<p><label for="fdse_Realm">Where?</label><br>
+<select name="Realm" id="fdse_Realm" size="1">
+<option selected="selected" value="All">EntireSite</option>
+<option value="Ep Guide">Ep Guide</option>
+<option value="Images">Images</option>
+<option value="Lists">Lists</option>
+<option value="Newsletters">Newsletters</option>
+<option value="Scripts">Scripts</option>
+<option value="Notes..Nothing">Notes..Nothing</option>
+</select></p>
+<p><input type="text" name="Terms" size="14" id="fdse_Terms"><br>
+<input type="submit" class="submit" name="submitButtonName" value="Search"></p>
+</div></form></td>
+						</tr>
+						<tr><td class="bottom" width="136" height="10" valign="top">
+						</td>
+						</tr>
+					</table>
+				</td>
+				<td width="4"></td>
+				<td valign="top" width="645">
+					<table width="645" border="0" cellspacing="0" cellpadding="0">
+						<tr height="18">
+							<td width="645" height="35" class="bar">
+								<div align="center">
+									<b><font size="+2" color="black">Script</font></b></div>
+							</td>
+						</tr>
+						<tr height="362">
+							<td class="spacer2" valign="top" width="645" height="362">
+
+						<p><font size="-2">Episode 29 - The Red Dot<br>
+							
+						pc: 311, season 3, episode 12<br>
+							
+						Broadcast date: December 11, 1991<br>
+							<br>
+							
+						Written By Larry David<br>
+							
+						Directed By Tom Cherones<br>
+							<br>
+							
+						-------------------------------------------------------------------------------<br>
+							<br>
+							
+						The Cast<br>
+							
+						Regulars:<br>
+							
+						Jerry Seinfeld ....................... Jerry Seinfeld<br>
+							
+						Jason Alexander .................. George Costanza<br>
+							
+						Julia Louis-Dreyfus ............. Elaine Benes<br>
+							
+						Michael Richards ................. Kramer<br>
+							<br>
+							
+						Guest Stars:<br>
+							<br>
+							
+						David Naughton ................. Dick<br>
+							
+						Bridget Sienna ..................... Evie (Cleaning Woman)<br>
+							
+						Rachel Davies ...................... Saleswoman<br>
+							
+						rc: Richard Fancy ................ Mr. Lippman<br>
+							<br>
+							
+						==================================================================<br>
+							<br>
+							
+						[At the comedy club]<br>
+							<br>
+							
+						JERRY: I'm sorry it's gotta be a little bit of a scary place to work. I don't know how you feel about it. You want to be standing there having people comming in all day going &quot;I need knives. I need more knives. Do you have any bigger knives? I'd like a bigger knife, a big, long, sharp knife, that's what I'm in the market for. I like them really sharp. Do you have one with hooks and gouges like blades and kind of serrated? That's the kind of knife I'm looking for. I need one I can throw. I need another one I can just hack away with. Do you have anything like that?<br>
+							<br>
+							<br>
+							
+						[At a party]<br>
+							<br>
+							
+						JERRY: Oh yeah, like you know what you're talking about.<br>
+							<br>
+							
+						GEORGE: Like you do.<br>
+							<br>
+							
+						JERRY: Well what do you think? They put the statue on a giant raft and a tugboat pulled it all the way from France?<br>
+							<br>
+							
+						GEORGE: What do you think? The brought it over in pieces and screwed it together like a coffee table?<br>
+							<br>
+							
+						JERRY: I don't know. It's too early for a Christmas party isn't it?<br>
+							<br>
+							
+						GEORGE: Why did France give that to us anyway?<br>
+							<br>
+							
+						JERRY: It was a gift.<br>
+							<br>
+							
+						GEORGE: So countries just exchange gifts like that?<br>
+							<br>
+							
+						JERRY: If they like each other.<br>
+							<br>
+							
+						GEORGE: There's Elaine.<br>
+							<br>
+							
+						JERRY: See that guy he's talking with? That's her new boyfriend.<br>
+							<br>
+							
+						GEORGE: Really? They work here in the office?<br>
+							<br>
+							
+						JERRY: Yeah. They're having a little fling so don't say anything.<br>
+							<br>
+							
+						GEORGE: Who am I going to tell? My mother? Like I've got nothing better to talk about.<br>
+							<br>
+							
+						JERRY: You don't. He's a recovering alcoholic.<br>
+							<br>
+							
+						GEORGE: Really?<br>
+							<br>
+							
+						JERRY: Yeah. He's been off the wagon for two years.<br>
+							<br>
+							
+						GEORGE: &quot;Off the wagon&quot;?<br>
+							<br>
+							
+						JERRY: I think it's off the wagon.<br>
+							<br>
+							
+						GEORGE: I think it's &quot;on the wagon&quot;.<br>
+							<br>
+							
+						ELAINE: Jerry, George, what are you doing here?<br>
+							<br>
+							
+						JERRY: What am I doing here? Ba-boom (holding out a present)<br>
+							<br>
+							
+						ELAINE: *gasp* My god! My watch! You found my watch! (pushing Jerry)<br>
+							<br>
+							
+						JERRY: Hey keep your hands to yourself if you know what's good for you.<br>
+							<br>
+							
+						ELAINE: Where did you find it?<br>
+							<br>
+							
+						JERRY: Under the sofa cushion.<br>
+							<br>
+							
+						ELAINE: And you stopped by just to give it to me?<br>
+							<br>
+							
+						JERRY: It's your Christmas present.<br>
+							<br>
+							
+						ELAINE: I though I'd never find it.<br>
+							<br>
+							
+						GEORGE: Well today's your lucky day.<br>
+							<br>
+							
+						ELAINE: No. Today's *your* lucky day.<br>
+							<br>
+							
+						GEORGE: It will be my first one.<br>
+							<br>
+							
+						ELAINE: You want to work here?<br>
+							<br>
+							
+						GEORGE: Huh?<br>
+							<br>
+							
+						ELAINE: Yeah one of the readers left and there's a job opening. Dick, this is Jerry and this is George.<br>
+							<br>
+							
+						DICK: Hi nice to meet you. Is this the guy?<br>
+							<br>
+							
+						JERRY: &quot;The guy?&quot;<br>
+							<br>
+							
+						ELAINE: (softly to Dick) Dick.<br>
+							<br>
+							
+						GEORGE: How can you just get it?<br>
+							<br>
+							
+						ELAINE: My boss told me to find someone. I'm in charge of it. All you have to do is meet him. Come on. Come on, come on, here hold my drink.<br>
+							<br>
+							
+						JERRY: Cranberry juice?<br>
+							<br>
+							
+						ELAINE: And vodka.<br>
+							<br>
+							
+						DICK: I got the cranberry juice.<br>
+							<br>
+							
+						DICK: So... you're Jerry.<br>
+							<br>
+							
+						JERRY: So... I'm Jerry. (he puts down the drink)<br>
+							<br>
+							
+						MR. LIPPMAN: (What is his name?) So have you ever done this kind of work before?<br>
+							<br>
+							
+						GEORGE: Well, you know, book reports. That kind of stuff.<br>
+							<br>
+							
+						MR. LIPPMAN: How do you read?<br>
+							<br>
+							
+						GEORGE: I like Mike Lubika.<br>
+							<br>
+							
+						MR. LIPPMAN: Mike Lubika?<br>
+							<br>
+							
+						GEORGE: He's a sports writer for the daily news. I find him very insightful...<br>
+							<br>
+							
+						MR. LIPPMAN: No, no, no. I mean authors.<br>
+							<br>
+							
+						GEORGE: Lot of good ones. I don't even want to mention anyone because I'm afraid I'm going to leave somebody out.<br>
+							<br>
+							
+						MR. LIPPMAN: Name a couple.<br>
+							<br>
+							
+						GEORGE: Who do I like? I, like, uh, Art, Vandelay.<br>
+							<br>
+							
+						MR. LIPPMAN: Art Vandelay?<br>
+							<br>
+							
+						GEORGE: He's an obscure writer. Betnik, on the village.<br>
+							<br>
+							
+						MR. LIPPMAN: What has he written?<br>
+							<br>
+							
+						GEORGE: Venetian Blinds.<br>
+							<br>
+							
+						DICK: (picking up the drink) I've got new for you. I'm funnier than you are.<br>
+							<br>
+							
+						JERRY: Why don't get we together New Years day and watch some football.<br>
+							<br>
+							
+						ELAINE: Where's my drink?<br>
+							<br>
+							
+						JERRY: There. (turns to George) So, how did it go?<br>
+							<br>
+							
+						GEORGE: I think he was impressed.<br>
+							<br>
+							
+						ELAINE: No, no, no, this is just cranberry juice.<br>
+							<br>
+							
+						JERRY: Oh, uh, I think maybe Dick picked up yours.<br>
+							<br>
+							
+						ELAINE: Dick? He can't drink. He's an alcoholic. I told you to hold it.<br>
+							<br>
+							
+						JERRY: I didn't know you meant *hold* it, I thought you meant hold it.<br>
+							<br>
+							
+						ELAINE: One drink like that and he could fall right off the wagon.<br>
+							<br>
+							
+						GEORGE: Told you.<br>
+							<br>
+							<br>
+							
+						[At a clothing store]<br>
+							<br>
+							
+						JERRY: I never feel comfortable in the women's department. I feel like I'm just a *little* too close to trying on a dress.<br>
+							<br>
+							
+						GEORGE: Do I really have to buy her something?<br>
+							<br>
+							
+						JERRY: Hey the woman got you a job. The least you could do is buy her a gift. How about this?<br>
+							<br>
+							
+						GEORGE: What is that? Is that cashmere?<br>
+							<br>
+							
+						JERRY: Yeah. She would love cashmere.<br>
+							<br>
+							
+						GEORGE: Who doesn't like cashmere? Find me one person in the world that doesn't like cashmere. It's too expensive.<br>
+							<br>
+							
+						JERRY: Look at this. It's 85 dollars marked down from 600.<br>
+							<br>
+							
+						GEORGE: Wow. Excuse me, Miss?<br>
+							<br>
+							
+						SALES WOMAN: Yes?<br>
+							<br>
+							
+						GEORGE: How come this sweater is only 85 dollars?<br>
+							<br>
+							
+						SALES WOMAN: (showing the dot) Oh, here. This is why.<br>
+							<br>
+							
+						GEORGE: What? I don't see anything.<br>
+							<br>
+							
+						SALES WOMAN: See this red dot?<br>
+							<br>
+							
+						GEORGE: Oh yeah.<br>
+							<br>
+							
+						JERRY: Oh it's damaged. (grabbing the sweater)<br>
+							<br>
+							
+						GEORGE: (grabbing the sweater back) Well it's not really damaged. 85 dollars huh?<br>
+							<br>
+							
+						SALES WOMAN: There's no exchanges on this.<br>
+							<br>
+							
+						GEORGE: You think she would care about the red dot?<br>
+							<br>
+							
+						JERRY: It's hard to say.<br>
+							<br>
+							
+						GEORGE: I don't even think she'd notice it. Can you see it?<br>
+							<br>
+							
+						JERRY: Well I can see it.<br>
+							<br>
+							
+						GEORGE: Yeah, but you know where it is.<br>
+							<br>
+							
+						JERRY: Well what do you want me to do? Not look at it?<br>
+							<br>
+							
+						GEORGE: Pretend you didn't know it was there. Can you see it?<br>
+							<br>
+							
+						JERRY: It's hard to pretend because I know where it is.<br>
+							<br>
+							
+						GEORGE: Well just take an overview. Can't you just take an overview?<br>
+							<br>
+							
+						JERRY: You want me to take an overview?<br>
+							<br>
+							
+						GEORGE: Please.<br>
+							<br>
+							
+						JERRY: I see a very cheap man holding a sweater trying to get away with something. That's my overview.<br>
+							<br>
+							<br>
+							
+						[At Jerry's apartment]<br>
+							<br>
+							
+						JERRY: Yeah so?<br>
+							<br>
+							
+						ELAINE: He's acting very strangely. I think he started drinking again.<br>
+							<br>
+							
+						JERRY: Oh boy, can you smell it?<br>
+							<br>
+							
+						ELAINE: No. I can't smell it.<br>
+							<br>
+							
+						JERRY: Well if you can't smell it then he hasn't been drinking.<br>
+							<br>
+							
+						ELAINE: You don't always smell someone from a drink.<br>
+							<br>
+							
+						JERRY: Yes you do.<br>
+							<br>
+							
+						ELAINE: What about one drink? Would you smell it from one drink?<br>
+							<br>
+							
+						JERRY: Yes you would.<br>
+							<br>
+							
+						(Kramer enters)<br>
+							<br>
+							
+						JERRY: I'll prove it. Would you do me a favor?<br>
+							<br>
+							
+						KRAMER: Okay.<br>
+							<br>
+							
+						JERRY: Would you take a drink and let us smell you?<br>
+							<br>
+							
+						KRAMER: You can smell me without the drink.<br>
+							<br>
+							
+						ELAINE: I suspect that this guy I'm seeing might be drinking but I can't smell it.<br>
+							<br>
+							
+						KRAMER: Okay, well what am I drinking? What do you got?<br>
+							<br>
+							
+						JERRY: I got a bottle of scotch my uncle gave me. It's Hennigans. It's been here for two years. I've been using it as a paint thinner.<br>
+							<br>
+							
+						(Kramer drinks.)<br>
+							<br>
+							
+						KRAMER: All right.<br>
+							<br>
+							
+						(Elaine and Jerry lean up really close to him.)<br>
+							<br>
+							
+						JERRY: I don't smell anything.<br>
+							<br>
+							
+						ELAINE: Maybe we're too close to the bottle.<br>
+							<br>
+							
+						(Jerry's buzzer buzzes.)<br>
+							<br>
+							
+						JERRY: Yeah.<br>
+							<br>
+							
+						GEORGE: (over the speaker) It's George.<br>
+							<br>
+							
+						JERRY: Come on up.<br>
+							<br>
+							
+						KRAMER: That is *damn* good scotch. I could do a commercial for this stuff. Mmmmm, boy that Hennigans goes down smooth. And afterwords you don't even smell. That's right folks. I just had three shots of Hennigans and I don't smell. Imagine, you can walk around drunk all day. That's Hennigans, the no-smell, no-tell scotch.<br>
+							<br>
+							
+						GEORGE: Hello everybody.<br>
+							<br>
+							
+						KRAMER: Hey. (snuggling really close to George) I'm going to tell you what I think. I know you don't care what I think, but I'm going to tell you. I think that you are terrific.<br>
+							<br>
+							
+						GEORGE: (uncomfortablly) Thank you.<br>
+							<br>
+							
+						ELAINE: Hey what's that?<br>
+							<br>
+							
+						GEORGE: It's an early Christmas present.<br>
+							<br>
+							
+						ELAINE: Christmas present? For who?<br>
+							<br>
+							
+						GEORGE: For you.<br>
+							<br>
+							
+						ELAINE: *gasp* (pushing George) Get out of here.<br>
+							<br>
+							
+						KRAMER: Say you got a big job interview, and you're a little nervous. Well throw back a couple shots of Hennigans and you'll be as loose as a goose and ready to roll in no time. And because it's odorless, why, it will be our little secret. (singing) h-e-double n...<br>
+							<br>
+							
+						JERRY: Kramer. Yeah that'll do.<br>
+							<br>
+							
+						ELAINE: (opening the present) Oh George, this is beautiful. Is this cashmere?<br>
+							<br>
+							
+						GEORGE: Of course it's cashmere.<br>
+							<br>
+							
+						ELAINE: Oh, I love cashmere.<br>
+							<br>
+							
+						GEORGE: Well who doesn't.<br>
+							<br>
+							
+						ELAINE: My, George this must have cost a fortune.<br>
+							<br>
+							
+						GEORGE: Ahh, money.<br>
+							<br>
+							
+						ELAINE: Jerry, how could you let him spend so much money?<br>
+							<br>
+							
+						JERRY: I tried to stop him. I couldn't. He just wants to make people happy.<br>
+							<br>
+							
+						ELAINE: George, this is one of the nicest things anyone has ever given me.<br>
+							<br>
+							
+						GEORGE: Well good, good. Take it off you're going to wear it out already. It's for special occasions this thing.<br>
+							<br>
+							
+						KRAMER: What's that red dot on your sweater?<br>
+							<br>
+							
+						ELAINE: What?<br>
+							<br>
+							
+						GEORGE: Just take it off. I'm getting hot just looking at it.<br>
+							<br>
+							
+						ELAINE: Uhh. This. It's like a red dot.<br>
+							<br>
+							
+						GEORGE: What red dot? What are you talking about? Jerry come here for a second. Do you see anything here?<br>
+							<br>
+							
+						JERRY: (uncomfortable) Uh, I don't know. Uh, I don't know.<br>
+							<br>
+							
+						ELAINE: What don't you know?<br>
+							<br>
+							
+						JERRY: I don't know.<br>
+							<br>
+							
+						ELAINE: Well do you see it or don't you?<br>
+							<br>
+							
+						JERRY: Ahem. Say that again?<br>
+							<br>
+							
+						ELAINE: Do you see it or don't you?<br>
+							<br>
+							
+						JERRY: Do I see it... or don't I? That's the question.<br>
+							<br>
+							
+						(Jerry goes to the counter and pours some scotch. He drinks it. He comes back groggy.)<br>
+							<br>
+							
+						JERRY: Now what did you ask me again.<br>
+							<br>
+							
+						(Kramer is snoring.)<br>
+							<br>
+							<br>
+							
+						[At the office. Elaine is walking by]<br>
+							<br>
+							
+						ELAINE: You're still here. You're a dynamo.<br>
+							<br>
+							
+						GEORGE: I can't believe I get paid for this.<br>
+							<br>
+							
+						ELAINE: I'll see you tomorrow.<br>
+							<br>
+							
+						(Elaine walks out. George gets back to work. The cleaning lady comes by.)<br>
+							<br>
+							
+						GEORGE: How you doing?<br>
+							<br>
+							
+						CLEANING WOMAN: Hello.<br>
+							<br>
+							
+						(The lady starts cleaning. George has a thought. He watches the lady as she is cleaning.)<br>
+							<br>
+							<br>
+							
+						[At Monk's]<br>
+							<br>
+							
+						JERRY: You had sex with the cleaning woman on your desk? Who are you, how did you do that?<br>
+							<br>
+							
+						GEORGE: Hennigans. I was there sitting in the office and the cleaning woman comes in. I've always been attracted to cleaning women. Cleaning women, chambermaids.<br>
+							<br>
+							
+						JERRY: Yeah chambermaids, I'm attracted to them too.<br>
+							<br>
+							
+						GEORGE: Why is that?<br>
+							<br>
+							
+						JERRY: It's a woman in your room. So go ahead.<br>
+							<br>
+							
+						GEORGE: So she starts vaccuming, back and forth, back and forth, her hips swivelling, her breasts, uh... (trying to think of a word)<br>
+							<br>
+							
+						JERRY: Convulsing?<br>
+							<br>
+							
+						GEORGE: Convulsing?<br>
+							<br>
+							
+						JERRY: I don't know, I'm trying to help you.<br>
+							<br>
+							
+						GEORGE: Then I asked her if she wanted a drink.<br>
+							<br>
+							
+						JERRY: You don't drink.<br>
+							<br>
+							
+						GEORGE: I know but I couldn't think of anything else to say to her.<br>
+							<br>
+							
+						JERRY: So you started drinking.<br>
+							<br>
+							
+						GEORGE: So we started drinking, and I'll tell you I don't know if it was the alcohol or the ammonia, but the next think I knew she was mopping the floor with me.<br>
+							<br>
+							
+						JERRY: So how was it?<br>
+							<br>
+							
+						GEORGE: Well the sex was okay, but I threw up from the Hennigans.<br>
+							<br>
+							
+						JERRY: Good thing the cleaning lady was there.<br>
+							<br>
+							<br>
+							
+						[At Jerry's apartment]<br>
+							<br>
+							
+						ELAINE: Dick was fired.<br>
+							<br>
+							
+						JERRY: You mean to tell me if I had put that drink six inches over to the right, and none of this would have happened.<br>
+							<br>
+							
+						ELAINE: You knew he was an alcoholic. Why'd you put the drink down at all?<br>
+							<br>
+							
+						JERRY: What are you saying?<br>
+							<br>
+							
+						ELAINE: I'm not saying anything.<br>
+							<br>
+							
+						JERRY: You're saying something.<br>
+							<br>
+							
+						ELAINE: What could I be saying?<br>
+							<br>
+							
+						JERRY: Well you're not saying nothing you must be saying something.<br>
+							<br>
+							
+						ELAINE: If I was saying something I would have said it.<br>
+							<br>
+							
+						JERRY: Well why don't you say it?<br>
+							<br>
+							
+						ELAINE: I said it.<br>
+							<br>
+							
+						JERRY: What did you say?<br>
+							<br>
+							
+						ELAINE: Nothing. It's exhausting being with you.<br>
+							<br>
+							
+						(Jerry's buzzer buzzes.)<br>
+							<br>
+							
+						JERRY: Yeah?<br>
+							<br>
+							
+						GEORGE: (over the speaker) It's George.<br>
+							<br>
+							
+						JERRY: Come on up.<br>
+							<br>
+							
+						ELAINE: Hey, let me ask you something something. Did George buy that sweater knowing the red dot was on it because it was cheaper? (Jerry is unconfortable) Ooookay, you just gave me the answer.<br>
+							<br>
+							
+						JERRY: No I didn't.<br>
+							<br>
+							
+						ELAINE: Yes you did, yes you did. I saw your expression.<br>
+							<br>
+							
+						JERRY: I didn't have an expression. I have a deviated septum. I have to open my mouth sometimes to breathe.<br>
+							<br>
+							
+						ELAINE: How much did he save?<br>
+							<br>
+							
+						JERRY: Frankly I am shocked that you would ask such a question (Elaine sticking out her tongue like she isn't buying a word of it) of me, that you would think - the only surprise is how you could even think of that. That's what you were seeing.<br>
+							<br>
+							
+						(Elaine gets up and goes into the bathroom.)<br>
+							<br>
+							
+						GEORGE: I have to talk to Elaine. This cleaing lady is turning the screws on me. She's pushing for this whole relationship thing. She keeps calling me, threatening to go to the boss with this thing, I could lose my job, I gotta do something to keep her quiet.<br>
+							<br>
+							
+						JERRY: Elaine is in the bathroom. She's wise to whole red dot thing. She's asking me all kinds of questions.<br>
+							<br>
+							
+						GEORGE: Did you tell her anything?<br>
+							<br>
+							
+						JERRY: No.<br>
+							<br>
+							
+						GEORGE: Do you swear?<br>
+							<br>
+							
+						JERRY: I'm not swearing. I don't want to swear.<br>
+							<br>
+							
+						GEORGE: Oh you told her didn't you.<br>
+							<br>
+							
+						JERRY: No.<br>
+							<br>
+							
+						ELAINE: Hey George, did you buy that sweater knowing that red dot was on it because you could get it at a discount?<br>
+							<br>
+							
+						GEORGE: What? Did I what?<br>
+							<br>
+							
+						ELAINE: You did didn't you.<br>
+							<br>
+							
+						GEORGE: Elaine, I'm, I'm shocked. I'm shocked. Here I go out in the spirit of the season (Elaine looking like she's not buying a word of it) and spend all my savings to buy you the most beautiful Christmas sweater I have ever seen to show my appreciation to you at Christmas and this is the thanks that I get at Christmas.<br>
+							<br>
+							
+						ELAINE: Well Jerry told me that you did.<br>
+							<br>
+							
+						GEORGE: You told her? How could you tell her? I told you not to say anything.<br>
+							<br>
+							
+						JERRY: I didn't tell her you stupid idiot. She tricked you.<br>
+							<br>
+							
+						GEORGE: Elaine you don't understand. I had 103 temperature when I bought that sweater. I was so dizzy I was seeing red dots everywhere. I thought everything in the store had a red dot on it. I couldn't distinguish one red dot from another. I couldn't afford anything. I have nothing. I haven't worked for a really long time. (Jerry is standing right behind George. Jerry takes out a hankerchief and starts fake-crying in it.) I mean look, I have no clothes, look at what I'm wearing. It's just a little red dot.<br>
+							<br>
+							<br>
+							
+						[At the office.]<br>
+							<br>
+							
+						GEORGE: This is for you.<br>
+							<br>
+							
+						CLEANING WOMAN: Oh, Georgie, you bought this for me? Oh I knew you cared for me.<br>
+							<br>
+							
+						GEORGE: As you care for me. Which is why it is very important that you never breathe a word of this to anyone about the... you know. What, with Clarence Thomas and everything.<br>
+							<br>
+							
+						CLEANING WOMAN: Okay, okay, can I open it now?<br>
+							<br>
+							
+						GEORGE: Yes of course go ahead. My guess is you're going to like this very much.<br>
+							<br>
+							
+						CLEANING WOMAN: Oh! Is that cashmere?<br>
+							<br>
+							
+						GEORGE: Of course it's cashemere.<br>
+							<br>
+							
+						CLEANING WOMAN: A cashmere sweater. Oh Georgie Porgie!<br>
+							<br>
+							
+						GEORGE: Just a little something for Christmas.<br>
+							<br>
+							
+						CLEANING WOMAN: When I was a little girl in Panama, a rich American came to our town and he was wearing the softest most beautiful sweater. I said to him, &quot;what do you call this most beautiful fabric?&quot;, and he said &quot;they call it cashmere&quot;. I repeated the words &quot;cashmere, cashmere&quot;. I asked if I could have it, and he said &quot;No. Get away from me.&quot; Then he started walk away. But I grabbed onto his leg screaming for him to give me the sweater and he dragged me through the street. And then he kicked at me with the other foot and threw some change at me. Oh, but I didn't want the change Georgie. I wanted the cashmere.<br>
+							<br>
+							
+						GEORGE: I had a feeling you would like it. No, don't try it on now, try it on later.<br>
+							<br>
+							
+						CLEANING WOMAN: Wow, look at this. It feels so beautiful.<br>
+							<br>
+							
+						GEORGE: Take it off. You're going to ruin it.<br>
+							<br>
+							
+						CLEANING WOMAN: (noticing the dot) What's this?<br>
+							<br>
+							<br>
+							
+						[At the comedy club]<br>
+							<br>
+							
+						JERRY: I was in the men's room the other day and they had the hand blower, instead of the paper towels, you know this thing. I like the hand blower I have to say. It takes a little bit longer, but I feel when you're in a room with a revolting stench you want to spend as much time as you can.<br>
+							<br>
+							
+						DICK: The only stench is comming from you.<br>
+							<br>
+							
+						AUDIENCE: Oooooh.<br>
+							<br>
+							
+						JERRY: Oh, wait a second, I believe we have a heckler ladies and gentlemen. Hey Dick I don't know what your problem is. It's not my fault you're back on the wagon.<br>
+							<br>
+							
+						DICK: It's off the wagon.<br>
+							<br>
+							
+						JERRY: In the old days how do you think they got the alcohol from town to town?<br>
+							<br>
+							
+						DICK: I don't know.<br>
+							<br>
+							
+						JERRY: On the wagon. Don't you think they broke into a couple of those bottles along the way?<br>
+							<br>
+							
+						DICK: You can't drink on a wagon it would be too bumpy.<br>
+							<br>
+							
+						JERRY: They had smooth trails. What about the Cumberland Gap?<br>
+							<br>
+							
+						DICK: What the hell do you know about wagons?<br>
+							<br>
+							
+						JERRY: I know enough not to get on them.<br>
+							<br>
+							<br>
+							
+						[In the Lippman's office.]<br>
+							<br>
+							
+						MR. LIPPMAN: I'm going to get right to the point. It has come to my attention that you and the cleaning woman have engaged in sexual intercourse on the desk in your office. Is that correct?<br>
+							<br>
+							
+						GEORGE: Who said that?<br>
+							<br>
+							
+						MR. LIPPMAN: She did.<br>
+							<br>
+							
+						GEORGE: Was that wrong? Should I have not done that? I tell you I gotta plead ignorance on this thing because if anyone had said anything to me at all when I first started here that that sort of thing was frouned upon, you know, cause I've worked in a lot of offices and I tell you peope do that all the time.<br>
+							<br>
+							
+						MR. LIPPMAN: You're fired.<br>
+							<br>
+							
+						GEORGE: Well you didn't have to say it like that.<br>
+							<br>
+							
+						MR. LIPPMAN: I want you out of here by the end of the day.<br>
+							<br>
+							
+						GEORGE: What about the whole Christmas spirit thing? Any flexability there?<br>
+							<br>
+							
+						MR. LIPPMAN: Nah. Wait, wait, she wanted me to give you this.<br>
+							<br>
+							
+						(He tosses the sweater and it lands right on top of George's face. George walks out of the office &quot;wearing&quot; it. )<br>
+							<br>
+							<br>
+							
+						[In the hall of the office]<br>
+							<br>
+							
+						ELAINE: You had sex on your desk with the cleaning woman.<br>
+							<br>
+							
+						GEORGE: You never had sex in the office before?<br>
+							<br>
+							
+						ELAINE: No. I once made out with someone but that was it.<br>
+							<br>
+							
+						GEORGE: Alright so you made out with someone.<br>
+							<br>
+							
+						ELAINE: Well that's not sex.<br>
+							<br>
+							
+						GEORGE: Kissing is sex.<br>
+							<br>
+							
+						ELAINE: Kissing is not sex.<br>
+							<br>
+							
+						JERRY: George?<br>
+							<br>
+							
+						GEORGE: Jerry.<br>
+							<br>
+							
+						ELAINE: Hey, did Jerry leave that drink next to Dick's on purpose?<br>
+							<br>
+							
+						GEORGE: No.<br>
+							<br>
+							
+						JERRY: George?<br>
+							<br>
+							
+						GEORGE: Over here.<br>
+							<br>
+							
+						ELAINE: What are you doing here?<br>
+							<br>
+							
+						JERRY: I'm taking the kid out to dinner to chear him up.<br>
+							<br>
+							
+						ELAINE: Hey Jerry when do you consider that sex has taken place?<br>
+							<br>
+							
+						JERRY: I would say when the nipple makes its first appearance.<br>
+							<br>
+							
+						ELAINE: So, George told me that you left the drink next to Dick's on purpose.<br>
+							<br>
+							
+						JERRY: Nice try. So guess who heckled me at the club last night.<br>
+							<br>
+							
+						*crash*<br>
+							<br>
+							
+						DICK: Merry Christmas.<br>
+							<br>
+							
+						ELAINE: Oh my god that's Dick. It's Cape Fear.<br>
+							<br>
+							
+						GEORGE: Hide, hide under the desk.<br>
+							<br>
+							
+						ELAINE: Ow, ow move over.<br>
+							<br>
+							
+						JERRY: Get off of me.<br>
+							<br>
+							
+						ELAINE: I've got no room.<br>
+							<br>
+							
+						(Dick walks over dragging behind him a Christmas tree. He looks down and notices them under the table. George holds out the sweater, his hand shaking.)<br>
+							<br>
+							
+						DICK: Is that cashmere?<br>
+							<br>
+							
+						GEORGE: Of course it's cashmere.<br>
+							<br>
+							
+						DICK: (noticing the dot) What's this?<br>
+							<br>
+							<br>
+							
+						[At the comedy club]<br>
+							<br>
+							
+						JERRY: But in a way, I think I inadvertantly turned this guy into an alcoholic. I hate being around alcoholics because they're either telling you how much they love you or how much they hate you. And those are the two statements that scare me the most. But I think he's okay now because I have no idea how he feels about me. He's finally off the wagon.<br>
+							<br>
+							
+						DICK: You mean on the wagon.<br>
+							<br>
+							
+						JERRY: Don't get smart.<br>
+							<br>
+							<br>
+							
+						The End</td>
+						</tr>
+						<tr height="6">
+							<td class="bottom2" width="645" height="6"></td>
+						</tr>
+						<tr>
+							<td width="645">
+								<div align="center">
+									<font size="-1">Copyright 2006 seinology.com | All Rights Reserved | Designed by 13erla</font></div>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+		<p></p>
+	</body>
+
+</html>

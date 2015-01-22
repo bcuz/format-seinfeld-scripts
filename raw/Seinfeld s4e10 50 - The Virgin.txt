@@ -1,0 +1,1185 @@
+<tdOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+<html>
+
+	<head>
+		<meta http-equiv="content-type" content="text/html;charset=ISO-8859-1">
+		<meta name="description" content="Top Source for Seinfeld">
+		<meta name="keywords" content="seinfeld, sienfeld, Jerry Seinfeld, Julia Louis Dreyfus, Jason Alexander, Michael Richards, Kramer, George, Costanza, Elaine Benes, morty, Larry David">
+		<title>Seinology.com :: Scripts :: 50-The Virgin</title>
+	<link rel='stylesheet' href='/stylesheet.css' type='text/css'>
+	</head>
+
+	<body>
+			<table align="center" width="787" border="0" cellspacing="0" cellpadding="0">
+				<tr>
+					<td><font size="-2" color="red">Seinology.com - </font><font size="-3" color="black">Where Seinfeld Content and Accuracy Matter Most. Seinfeld scripts in pdf form, Seinfeld episode video clips, Seinfeld episode audio clips, Jerry Seinfeld appearances, Julia Louis-Dreyfus appearances, Michael Richards appearances, Jason Alexander appearances, Seinfeld discussion Forum, Seinfeld Where are they Now? Seinlanguage Newsletter, Popular Seinfeld Lists, Seinfeld episode standup, Seinfeld episode guide, Seinfeld fan fiction. Seinfeld content all on one domain. Seinology.com enjoy your stay.</font></td>
+				</tr>
+			</table>
+		
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr height="100">
+				<td class="logo"></td>
+			</tr>
+			<tr><td class="ads" align="center" background=#8694fa>
+				<script type="text/javascript"><!--
+google_ad_client = "pub-1924026976931416";
+google_ad_width = 728;
+google_ad_height = 90;
+google_ad_format = "728x90_as";
+google_ad_type = "text";
+google_ad_channel = "";
+google_color_border = "FFFFFF";
+google_color_bg = "8694fa";
+google_color_link = "0000FF";
+google_color_text = "000000";
+google_color_url = "002E3F";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></td></tr>
+		</table>
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr>
+				<td valign="top" width="136">
+					<table width="136" border="0" cellspacing="0" cellpadding="0">
+						<tr height="24">
+							<td class="navigation">
+								<div align="center">
+									
+									<b>Navigation</b></div>
+							</td>
+						</tr>
+						<tr height="199">
+							<td class="spacer1" valign="top" width="136" height="199">
+								<div align="center">
+									<font size="-1"><a href="http://www.seinology.com">Home</a><br>
+										<a href="http://board.seinology.com">Forum</a><br>
+										<a href="http://www.seinology.com/av.shtml">Audio/Video</a><br>
+										<a href="http://www.seinology.com/scripts.shtml">Scripts</a><br>
+										<a href="http://www.seinology.com/survivor.shtml">Survivor</a><br>
+										<a href="http://www.seinology.com/fanfics.shtml">Fan Fiction</a><br>
+										<a href="http://www.seinology.com/gallery/">Gallery</a><br>
+										<a href="http://www.seinology.com/newsletter.shtml">Newsletter</a><br>
+										<a href="http://www.seinology.com/lists.shtml">Lists</a><br>
+										<a href="http://www.seinology.com/epguide.shtml">Episode Guide</a><br>
+										<a href="http://www.seinology.com/links.shtml">Links</a><br>
+										<a href="http://www.seinology.com/faqother.shtml">Faq + others</a><br>
+										<a href="http://www.seinology.com/legal.shtml">Legal</a></font></div>
+							</td>
+						</tr>
+						
+						<tr>
+							<td class="nav2" width="136">
+							<div align="center"><b>Search</b></div></td>
+						</tr>
+						<tr>
+							<td class="spacer1" width="136" valign="top"><div align="center"><form method="get" action="http://www.seinology.com/search/search.cgi">
+<p><label for="fdse_Match">Match</label><br>
+<select name="Match" id="fdse_Match" size="1">
+<option value="1">All</option>
+<option value="0">Any</option>
+<option value="2">Phrase</option>
+</select></p>
+<p><label for="fdse_Realm">Where?</label><br>
+<select name="Realm" id="fdse_Realm" size="1">
+<option selected="selected" value="All">EntireSite</option>
+<option value="Ep Guide">Ep Guide</option>
+<option value="Images">Images</option>
+<option value="Lists">Lists</option>
+<option value="Newsletters">Newsletters</option>
+<option value="Scripts">Scripts</option>
+<option value="Notes..Nothing">Notes..Nothing</option>
+</select></p>
+<p><input type="text" name="Terms" size="14" id="fdse_Terms"><br>
+<input type="submit" class="submit" name="submitButtonName" value="Search"></p>
+</div></form></td>
+						</tr>
+						<tr><td class="bottom" width="136" height="10" valign="top">
+						</td>
+						</tr>
+					</table>
+				</td>
+				<td width="4"></td>
+				<td valign="top" width="645">
+					<table width="645" border="0" cellspacing="0" cellpadding="0">
+						<tr height="18">
+							<td width="645" height="35" class="bar">
+								<div align="center">
+									<b><font size="+2" color="black">Script</font></b></div>
+							</td>
+						</tr>
+						<tr height="362">
+							<td class="spacer2" valign="top" width="645" height="362">
+
+						<p><font size="-2">Episode 50 - The Virgin<br>
+							
+						pc: 410, season 4, episode 10<br>
+							
+						Broadcast date: November 11, 1992<br>
+							<br>
+							
+						Written by Peter Mehlman<br>
+							
+						Story by Peter Mehlman, Peter Farrelly &amp; Bob Farrelly<br>
+							
+						Directed by Tom Cherones<br>
+							<br>
+							
+						-------------------------------------------------------------------------------<br>
+							<br>
+							
+						The Cast<br>
+							
+						Regulars:<br>
+							
+						Jerry Seinfeld ....................... Jerry Seinfeld<br>
+							
+						Jason Alexander .................. George Costanza<br>
+							
+						Julia Louis-Dreyfus ............. Elaine Benes<br>
+							
+						Michael Richards ................. Kramer<br>
+							<br>
+							
+						Guest Stars:<br>
+							<br>
+							
+						Anne Twomey ................... Rita<br>
+							
+						Jane Leeves ........................ Marla (The Virgin)<br>
+							
+						Kevin Page ......................... Stu<br>
+							
+						Ping Wu .............................. Ping<br>
+							
+						Leah Lail ............................. Stacy<br>
+							
+						Peter Blood ........................ Jay<br>
+							
+						Derya Ruggles ................... Woman in Bar<br>
+							
+						Dayna Winston .................. Carol<br>
+							
+						Julie Blum ........................... Receptionist<br>
+							
+						rc: Heidi Swedberg ............ Susan Biddle Ross<br>
+							<br>
+							
+						==================================================================<br>
+							<br>
+							
+						[Jerry and George talking near a bar.]<br>
+							<br>
+							
+						JERRY: We're dead.<br>
+							<br>
+							
+						GEORGE: We're not dead.<br>
+							<br>
+							
+						JERRY: We are dead.<br>
+							<br>
+							
+						GEORGE: Come on. We got all day tomorrow to come up with a story.<br>
+							<br>
+							
+						JERRY: All day tomorrow? We had a month and a half to come up with something and we didn't do anything.<br>
+							<br>
+							
+						GEORGE: So we'll do it tomorrow.<br>
+							<br>
+							
+						JERRY: Let me ask you something. When's the last time you went skiing?<br>
+							<br>
+							
+						GEORGE: About six years ago.<br>
+							<br>
+							
+						JERRY: I think you can take the lift ticket off your jacket now.<br>
+							<br>
+							
+						GEORGE: Women like skiers.<br>
+							<br>
+							
+						JERRY: So what? You can't meet anybody. You're going on with Susan.<br>
+							<br>
+							
+						GEORGE: Yeah. Right.<br>
+							<br>
+							
+						JERRY: Hey, see those two women over there? I almost dated the one on the right. She's in the closet business.<br>
+							<br>
+							
+						GEORGE: The closet business? What's the closet business?<br>
+							<br>
+							
+						JERRY: What is it your business?<br>
+							<br>
+							
+						GEORGE: I'm interested.<br>
+							<br>
+							
+						JERRY: She reorganizes your closet and shows you how to maximize your closet space. She looked into my closet.<br>
+							<br>
+							
+						GEORGE: So you thought she was good looking and figured this would be a good way to meet her.<br>
+							<br>
+							
+						JERRY: Yeah.<br>
+							<br>
+							
+						GEORGE: Yeah. So what happened?<br>
+							<br>
+							
+						JERRY: So, she mentioned she had a boyfriend and then it hit me. What do I need more closet space for? (Across the room) Hi, Marla.<br>
+							<br>
+							
+						MARLA: (Walks over to Jerry and George) Jerry.<br>
+							<br>
+							
+						JERRY: George, Marla.<br>
+							<br>
+							
+						GEORGE: Marla.<br>
+							<br>
+							
+						MARLA: George. Jerry, Stacey.<br>
+							<br>
+							
+						JERRY: Stacey.<br>
+							<br>
+							
+						STACEY: Jerry.<br>
+							<br>
+							
+						JERRY: George, Stacey.<br>
+							<br>
+							
+						GEORGE: Stacey.<br>
+							<br>
+							
+						STACEY: George.<br>
+							<br>
+							
+						JERRY: George.<br>
+							<br>
+							
+						GEORGE: Jerry. Marla. (Realizing Jerry's cue) Stacey! (Walks over to Stacey)<br>
+							<br>
+							
+						MARLA: So, how was your trip to Berlin?<br>
+							<br>
+							
+						JERRY: Trip to Berlin?<br>
+							<br>
+							
+						MARLA: Remember? That's why you put off doing the closets. You said you were going to Berlin for a while.<br>
+							<br>
+							
+						JERRY: Oh, right, right.<br>
+							<br>
+							
+						MARLA: The wall had just come down, and you told me you wanted to be part of the celebration.<br>
+							<br>
+							
+						JERRY: Yes, yes, I did. But, you know, I was watching it on CNN, and they covered it so well I thought, &quot;Why knock my brains out?&quot;<br>
+							<br>
+							
+						MARLA: You, know my boyfriend went.<br>
+							<br>
+							
+						JERRY: Really?<br>
+							<br>
+							
+						MARLA: Yes, I told him all about you going and he got all excited and decided to go.<br>
+							<br>
+							
+						JERRY: Oh, did he like it?<br>
+							<br>
+							
+						MARLA: I don't know. He never came back. (Over to the other side of the bar)<br>
+							<br>
+							
+						GEORGE: Anyway, we met with NBC about a month ago and they gave us the green light to go ahead and write a pilot. In fact, we got a big meeting with them tomorrow. They gotta approve of the story before we can write.<br>
+							<br>
+							
+						STACEY: Wow, what a great job. A writer.<br>
+							<br>
+							
+						GEORGE: Not a bad way to make a buck.<br>
+							<br>
+							
+						STACEY: Sounds great.<br>
+							<br>
+							
+						GEORGE: Well, I'll tell you, Stacey. It's a lot of hard work. But, it comes fairly easy to me. Some people write symphonies. This is my gift. (Raises ski lift ticket while Stacey looks away)<br>
+							<br>
+							<br>
+							
+						[Jerry and George at Monk's]<br>
+							<br>
+							
+						JERRY: So, are you gonna go out with her?<br>
+							<br>
+							
+						GEORGE: I might.<br>
+							<br>
+							
+						JERRY: What about Susan?<br>
+							<br>
+							
+						GEORGE: What? I'm not married. I'm not allowed to go out with somebody else?<br>
+							<br>
+							
+						JERRY: Depends.<br>
+							<br>
+							
+						GEORGE: Depends on what?<br>
+							<br>
+							
+						JERRY: On many factors.<br>
+							<br>
+							
+						GEORGE: Like what?<br>
+							<br>
+							
+						JERRY: Well, how long you've been seeing her. What's your phone call frequency? Are you on a daily?<br>
+							<br>
+							
+						GEORGE: No. Semi-daily. Four or five times a week.<br>
+							<br>
+							
+						JERRY: What about Saturday nights? Do you have to ask her out, or is a date implied?<br>
+							<br>
+							
+						GEORGE: Implied.<br>
+							<br>
+							
+						JERRY: She got anything in your medicine cabinet?<br>
+							<br>
+							
+						GEORGE: There might be some moisturizer.<br>
+							<br>
+							
+						JERRY: Ah hah. Let me ask you this. Is there any tampax in your house?<br>
+							<br>
+							
+						GEORGE: (Pause) Yeah.<br>
+							<br>
+							
+						JERRY: Well, I'll tell you what you've got here.<br>
+							<br>
+							
+						GEORGE: What?<br>
+							<br>
+							
+						JERRY: You got yourself a girlfriend.<br>
+							<br>
+							
+						GEORGE: Ah, no, no. Are you sure? A girlfriend?<br>
+							<br>
+							
+						JERRY: I'm looking at a guy in a semi-daily with tampax in his house and an implied date on Saturday night. I would like to help you out, but...<br>
+							<br>
+							
+						GEORGE: Would you believe my luck? The first time in my life I have a good answer to the question, &quot;What do you do?&quot; and I have a girlfriend. I mean, you don't need a girlfriend when you can answer that question. That's what you say in order to get girlfriends. Once you can get a girlfriend, you don't want a girlfriend, you just want more girlfriends.<br>
+							<br>
+							
+						JERRY: You're going to make a good father someday.<br>
+							<br>
+							
+						GEORGE: Well it's not fair, Jerry. It's just not fair. All right, all right. That's it. I'm getting out of this thing.<br>
+							<br>
+							
+						JERRY: Fine. Break up with her. But you know what this means?<br>
+							<br>
+							
+						GEORGE: No, what?<br>
+							<br>
+							
+						JERRY: The script, the pilot, the TV show. That's all over.<br>
+							<br>
+							
+						GEORGE: Why? What do you mean?<br>
+							<br>
+							
+						JERRY: Figure it out. She's one of the executives at NBC that's gonna make the decision whether or not they pick up the show. She's one of our biggest fans. You drop her off, you think they're gonna pick us up?<br>
+							<br>
+							
+						GEORGE: Oh, right. Oh no, man.<br>
+							<br>
+							
+						JERRY: you know, it's a very interesting situation. Here you have a job that can get you girls. But, you also have a relationship. But if you try and get rid of the relationship so you can get the girls, you lose the job. You see the irony?<br>
+							<br>
+							
+						GEORGE: Yeah, yeah. I see the irony. All right. What about this? What if I can find some way to break up with her so that she'll still like me and it doesn't affect the deal.<br>
+							<br>
+							
+						JERRY: (sarcastically) Oh, yeah.<br>
+							<br>
+							
+						GEORGE: Wait, wait. Here me out. Don't dismiss this. You're very quick to dismiss. Don't dismiss. She's got a big crush on David Letterman, I mean, a big crush. She talks about him all the time. Suppose I go up to David Letterman. He works at NBC; I work at NBC. I explain my situation. He agrees to meet her. They go out, they fall madly in love. And she dumps me for David Letterman.<br>
+							<br>
+							
+						JERRY: This is your plan?<br>
+							<br>
+							
+						GEORGE: No, no. I'm just thinking.<br>
+							<br>
+							
+						JERRY: I don't think you are.<br>
+							<br>
+							<br>
+							
+						[Jerry with Marla, who is measuring his closet space.]<br>
+							<br>
+							
+						MARLA: Let me tell you what I think.<br>
+							<br>
+							
+						JERRY: Please, and be brutal. I have no closet sensitivity.<br>
+							<br>
+							
+						MARLA: Are you very fussy about your pants?<br>
+							<br>
+							
+						JERRY: I don't think I am.<br>
+							<br>
+							
+						MARLA: Because I have a very radical idea. Can you handle it?<br>
+							<br>
+							
+						JERRY: Try me.<br>
+							<br>
+							
+						MARLA: Here's what I'm proposing. We eliminate all this. The hangers, the bar, the shelves. And in its place install a series of hooks. We'll put everything on hooks.<br>
+							<br>
+							
+						JERRY: Everything?<br>
+							<br>
+							
+						MARLA: Everything. The shirts, pants, sport jackets, pajamas. We could get eighty hooks on here.<br>
+							<br>
+							
+						JERRY: You're quite mad, you know. (Kramer enters) Oh, I don't believe this. (Goes into other room) Hey?<br>
+							<br>
+							
+						KRAMER: Hey.<br>
+							<br>
+							
+						JERRY: What are you doing?<br>
+							<br>
+							
+						KRAMER: I'm watching The Bold and the Beautiful.<br>
+							<br>
+							
+						JERRY: No.<br>
+							<br>
+							
+						KRAMER: What?<br>
+							<br>
+							
+						JERRY: This is not a good time.<br>
+							<br>
+							
+						KRAMER: Five minutes. What?<br>
+							<br>
+							
+						JERRY: What did you have to give your TV away to George for?<br>
+							<br>
+							
+						KRAMER: Because I've been watching too much. It was an addiction. I couldn't stop. It was, it was destroying my brain cells.<br>
+							<br>
+							
+						JERRY: Yeah, but now you're in here all the time. (Marla enters from other room)<br>
+							<br>
+							
+						KRAMER: Well, wow.<br>
+							<br>
+							
+						JERRY: Marla, Kramer.<br>
+							<br>
+							
+						KRAMER: Hey.<br>
+							<br>
+							
+						JERRY: Why don't you go out? It's nice out.<br>
+							<br>
+							
+						KRAMER: Oh, no. There's nothing out there for me.<br>
+							<br>
+							
+						JERRY: There's weather.<br>
+							<br>
+							
+						KRAMER: Weather? I don't need weather. Weather doesn't do it for me.<br>
+							<br>
+							
+						JERRY: I'm tellin' George to give you your TV back.<br>
+							<br>
+							
+						KRAMER: No, no, I don't want it back. (Pause) Are you gonna watch the Knick game tonight?<br>
+							<br>
+							
+						JERRY: I don't know.<br>
+							<br>
+							
+						KRAMER: Will you tape it?<br>
+							<br>
+							
+						JERRY: Kramer... (points to Marla)<br>
+							<br>
+							
+						KRAMER: Yeah. (He exits)<br>
+							<br>
+							
+						JERRY: So your boyfriend never came back from Berlin.<br>
+							<br>
+							
+						MARLA: Never came back.<br>
+							<br>
+							
+						JERRY: Oh, you must have been devastated being left for a wall.<br>
+							<br>
+							
+						MARLA: It was about to end anyway. There was this... problem.<br>
+							<br>
+							
+						JERRY: Ah hah. (Buzzer) Excuse me one second. Yeah?<br>
+							<br>
+							
+						ELAINE: It's me.<br>
+							<br>
+							
+						JERRY: Come on up. Oh, it's Elaine, she's just a friend of mine. I don't know what she's doing here now. (Buzzer) I'm sorry. What?<br>
+							<br>
+							
+						ELAINE: I didn't get it.<br>
+							<br>
+							
+						JERRY: Ugh. So you were saying there was this problem.<br>
+							<br>
+							
+						MARLA: Well, he wanted me to move in with him.<br>
+							<br>
+							
+						JERRY: Snapple?<br>
+							<br>
+							
+						MARLA: No thanks.<br>
+							<br>
+							
+						JERRY: Go on.<br>
+							<br>
+							
+						MARLA: Well I wouldn't move in because...<br>
+							<br>
+							
+						JERRY: Yes.<br>
+							<br>
+							
+						MARLA: Well because...<br>
+							<br>
+							
+						JERRY: Yeah.<br>
+							<br>
+							
+						MARLA: Well because I'm a virgin. (Elaine enters)<br>
+							<br>
+							
+						ELAINE: Hello!<br>
+							<br>
+							
+						JERRY: Hi, um. Marla, Elaine.<br>
+							<br>
+							
+						ELAINE: I'm sorry, I didn't know you had company. I just wanted to return your tape.<br>
+							<br>
+							
+						JERRY: Oh, thanks a lot, two weeks late. Now that costs me thirty-five dollars to see Havana.<br>
+							<br>
+							
+						ELAINE: I'm sorry, I really am. I just kept forgetting.<br>
+							<br>
+							
+						MARLA: I should be going.<br>
+							<br>
+							
+						ELAINE: No, no, I'm leaving.<br>
+							<br>
+							
+						JERRY: I like that thing in your hair there.<br>
+							<br>
+							
+						ELAINE: Oh yeah? This woman was selling them at this crazy party I was at last night. You'll appreciate this. Snapple?<br>
+							<br>
+							
+						MARLA: No thanks.<br>
+							<br>
+							
+						ELAINE: I was talking to this guy, you know, and I just happened to throw my purse on the sofa. And my diaphragm goes flying out. So I just froze, you know, ahh! Staring at my diaphragm. You know, it's just lying there. So then, this woman, the one who sold me this hair thing, she grabbed it before the guy noticed, so. I mean, big deal, right? So I carry around my diaphragm, who doesn't? Yeah, like it's a big, big secret that women carry around their diaphragms. You never know when you're gonna need it, right? (Sips the Snapple) Ahh.<br>
+							<br>
+							
+						MARLA: I should be going.<br>
+							<br>
+							
+						JERRY: So we'll talk about the hooks then?<br>
+							<br>
+							
+						MARLA: Yes. (She exits)<br>
+							<br>
+							
+						ELAINE: What? Was it something I said?<br>
+							<br>
+							
+						JERRY: She's a virgin, she just told me.<br>
+							<br>
+							
+						ELAINE: Well I didn't know.<br>
+							<br>
+							
+						JERRY: Well it's not like spotting a toupee.<br>
+							<br>
+							
+						ELAINE: Well you think I should say something? Should I say something? Should I apologize? Was I being anti-virgin?<br>
+							<br>
+							
+						JERRY: No, no, I mean...<br>
+							<br>
+							
+						ELAINE: 'Cause I'm not anti-virgin. I'll be right back. (She leaves)<br>
+							<br>
+							
+						JERRY: Elaine, Elaine... (Buzzer) Yeah?<br>
+							<br>
+							
+						GEORGE: It's George.<br>
+							<br>
+							<br>
+							
+						[Cut to George looking out Jerry's apartment at Marla.]<br>
+							<br>
+							
+						GEORGE: She's a virgin?<br>
+							<br>
+							
+						JERRY: A virgin.<br>
+							<br>
+							
+						GEORGE: Wow. So what're you gonna do?<br>
+							<br>
+							
+						JERRY: I don't know. I'm very attracted to her. That accent, it's so sexy.<br>
+							<br>
+							
+						GEORGE: I don't think I could do it. You know, they always remember the first time. I don't want to be remembered. I wanna be forgotten.<br>
+							<br>
+							
+						JERRY: You need a little pioneer spirit. You know, you don't have any of that Lewis and Clark in you.<br>
+							<br>
+							
+						GEORGE: You know, sometimes those guys don't make it back. (Looks in fridge) I'm really hungry.<br>
+							<br>
+							
+						JERRY: Yeah, me too.<br>
+							<br>
+							
+						GEORGE: We gotta get something. I don't want to go to that meeting on an empty stomach. Let's get some Chinese. You wanna order it?<br>
+							<br>
+							
+						JERRY: All right, but then we gotta get some work done. Let me just call Kramer, see if want anything. (Calls) Hey, we ordering Chinese food. If you want anything-- (Kramer enters quickly) let me know what it is and I'll order for you.<br>
+							<br>
+							
+						KRAMER: I'm in. Let's go for it.<br>
+							<br>
+							
+						GEORGE: What do you want?<br>
+							<br>
+							
+						KRAMER: I don't care, whatever.<br>
+							<br>
+							
+						GEORGE: I'll tell you what. Why don't we just get a couple of dishes and we'll just share 'em.<br>
+							<br>
+							
+						KRAMER: Okay. What are you getting?<br>
+							<br>
+							
+						GEORGE: I'm gonna get a Chow Fung.<br>
+							<br>
+							
+						KRAMER: What's a Chow Fung?<br>
+							<br>
+							
+						GEORGE: It's a broad noodle.<br>
+							<br>
+							
+						KRAMER: What do you mean, a broad noodle?<br>
+							<br>
+							
+						GEORGE: It's a big flat noodle.<br>
+							<br>
+							
+						KRAMER: Well I don't want a big flat noodle.<br>
+							<br>
+							
+						GEORGE: What kind of noodle do you want?<br>
+							<br>
+							
+						KRAMER: Who says I want a noodle?<br>
+							<br>
+							
+						GEORGE: All right, look. I'm getting the Chow Fung. You don't have to have any.<br>
+							<br>
+							
+						KRAMER: All right. I'll get pea pods and you can't have any of my pea pods.<br>
+							<br>
+							
+						GEORGE: Fine.<br>
+							<br>
+							
+						KRAMER: Get extra MSG.<br>
+							<br>
+							<br>
+							
+						[Elaine and Marla at Monk's Cafe.]<br>
+							<br>
+							
+						ELAINE: Look, Marla. This whole sex thing is totally overrated. Now, here's the one thing you've gotta be ready for is how the man changes into a completely different person five seconds after it's over. I mean, something happens to their personality it's really quite astounding. It's like they committed a crime and they want to flee the scene before the police get there.<br>
+							<br>
+							
+						MARLA: So they just leave?<br>
+							<br>
+							
+						ELAINE: Yeah, pretty much, yeah. Well, the smart ones start working on their getaway stories during dinner. How, you know, they gotta get up early tomorrow. What is about being up early? They all turn into farmers suddenly.<br>
+							<br>
+							
+						MARLA: Wow. It must be pretty good to put up with all that.<br>
+							<br>
+							
+						ELAINE: Eh.<br>
+							<br>
+							<br>
+							
+						[Jerry's place, George and Jerry are sitting.]<br>
+							<br>
+							
+						JERRY: All right, let's go. We don't have much time before the meeting.<br>
+							<br>
+							
+						GEORGE: Where's the food? What happened to Ping?<br>
+							<br>
+							
+						JERRY: Don't worry, he'll be here. Look, we only got about two hours. We just need to come up with one good story so we can get through this meeting. (Buzzer) There's your food.<br>
+							<br>
+							
+						GEORGE: Hey, what about this? I'm in a car accident. The motorist is uninsured, you with me?<br>
+							<br>
+							
+						JERRY: Yeah.<br>
+							<br>
+							
+						GEORGE: My car's totaled. It's all his fault and now, he has absolutely no money. There is no way that he can pay me. So the judge decrees that he becomes my butler.<br>
+							<br>
+							
+						JERRY: Your butler?<br>
+							<br>
+							
+						GEORGE: Right. He cooks my food, he cleans my house, he does all my shopping for me. And there you go, that's your program.<br>
+							<br>
+							
+						JERRY: What about me?<br>
+							<br>
+							
+						GEORGE: Don't worry, we'll find something for you. (Knock of Jerry's door)<br>
+							<br>
+							
+						JERRY: (Getting the door) That's the stupidest idea I ever heard. Sentenced to be a butler. (Elaine, Marla, and an injured Ping are at the door) Ping, what happened?<br>
+							<br>
+							
+						ELAINE: There was a bit of an accident.<br>
+							<br>
+							
+						PING: Head hurts. Head really hurts.<br>
+							<br>
+							
+						JERRY: What happened?<br>
+							<br>
+							
+						ELAINE: Marla and I went out for coffee and afterwards I was crossing the street and he was biking right towards me. So I got out of the way just in time, but then he ran into a parked car. He hit his head and everything went flying.<br>
+							<br>
+							
+						GEORGE: Something happened to the food?<br>
+							<br>
+							
+						PING: I only saved one bag.<br>
+							<br>
+							
+						JERRY: Should I call an ambulance? Do you wanna see a doctor?<br>
+							<br>
+							
+						MARLA: I'll get some ice.<br>
+							<br>
+							
+						GEORGE: (After looking in the bag) The pea pods? All you saved was the pea pods? (Kramer enters)<br>
+							<br>
+							
+						KRAMER: Hey, you got the food?<br>
+							<br>
+							
+						JERRY: Yeah, here.<br>
+							<br>
+							
+						KRAMER: What took you so long? Hey, Ping!<br>
+							<br>
+							
+						PING: Kramer. (Kramer and George sit on the couch)<br>
+							<br>
+							
+						KRAMER: Yeah. Where's yours?<br>
+							<br>
+							
+						GEORGE: He dropped it.<br>
+							<br>
+							
+						KRAMER: Oh, that's too bad.<br>
+							<br>
+							
+						ELAINE: You should slow down, you know that? It's dangerous to go that fast.<br>
+							<br>
+							
+						PING: No, no. I have green light. You jaywalked.<br>
+							<br>
+							
+						KRAMER: (To Jerry) Hey, you watchin' Oprah?<br>
+							<br>
+							
+						ELAINE: (To Ping) I did not jaywalk.<br>
+							<br>
+							
+						JERRY: (To George) You're givin' him back that TV.<br>
+							<br>
+							
+						PING: (To Elaine) Yes, you jaywalked.<br>
+							<br>
+							
+						KRAMER: (To Jerry) No, I don't want it back.<br>
+							<br>
+							
+						PING: (To Elaine) Jaywalker. I could slap suit on you.<br>
+							<br>
+							
+						GEORGE: (To Jerry) We got work to do. What about the meeting?<br>
+							<br>
+							
+						KRAMER: (To himself) Hey, look. An hour with Patrick Swayze.<br>
+							<br>
+							<br>
+							
+						[George and Jerry in the NBC lobby.]<br>
+							<br>
+							
+						JERRY: A month and a half we had. We did nothing. I can't believe we put it off until today and then we couldn't do anything because Elaine runs out to apologize to a virgin, crosses against a light, and knocks over a Chinese delivery boy. Now we're gonna make fools of ourselves, we got nothing. You're not even in show business. I gotta reputation. You drag me into the sewer with you. I've been on TV buddy boy. You know how fast word spreads in show business? It's like that (Snaps in George's face) , like that! One bad impression, you're outta the business!<br>
+							<br>
+							
+						GEORGE: All right, let's postpone it. Let's get out of here.<br>
+							<br>
+							
+						JERRY: What do you mean? They know we're here.<br>
+							<br>
+							
+						GEORGE: I'll fake an illness. (Acts it out) My back! My back! I can't believe, my back.<br>
+							<br>
+							
+						JERRY: No, no, would you get up?<br>
+							<br>
+							
+						GEORGE: I can do this, Jerry.<br>
+							<br>
+							
+						JERRY: No.<br>
+							<br>
+							
+						GEORGE: All right, I'll tell them my sister died. (Starts fake crying) My poor sister died. She was standing and then she was laughing and then they SHOT her! That's the kind of sick city that we're livin' in. They shoot you for laughing. I must go and comfort my poor family. Jerry, take me home so I can comfort my... my poor family.<br>
+							<br>
+							
+						JERRY: What?<br>
+							<br>
+							
+						GEORGE: That's David Letterman. I just saw David Letterman walk by. I'll be right back. (He exits)<br>
+							<br>
+							
+						(Woman enters.)<br>
+							<br>
+							
+						WOMAN: Mr. Seinfeld, they're ready for you. (She exits)<br>
+							<br>
+							
+						JERRY: Yes, I was very wise to hitch my wagon to his star. (Jerry enters meeting)<br>
+							<br>
+							
+						MAN #1: Hey, Jerry.<br>
+							<br>
+							
+						JERRY: Hi, how are you doing? Nice to see you all here. Hello.<br>
+							<br>
+							
+						RITA: Hello, Jerry. I'm Rita Kearson.<br>
+							<br>
+							
+						JERRY: Oh, uh, nice to meet you. Where's Russell?<br>
+							<br>
+							
+						RITA: He, uh, had to go to LA. There's a problem on the set of Blossom.<br>
+							<br>
+							
+						JERRY: Oh, poor Blossom. (He sits)<br>
+							<br>
+							
+						RITA: Anyway, he asked me to sit in for him.<br>
+							<br>
+							
+						MAN #2: Where's George?<br>
+							<br>
+							
+						JERRY: Oh, he ran to say something to David Letterman.<br>
+							<br>
+							
+						SUSAN: David Letterman's on the floor?<br>
+							<br>
+							
+						JERRY: Yeah, he just walked by.<br>
+							<br>
+							
+						RITA: Well, I think we should get started anyway.<br>
+							<br>
+							
+						JERRY: Yeah, good idea.<br>
+							<br>
+							
+						RITA: So how are you guys comin' along?<br>
+							<br>
+							
+						JERRY: Good, good, we've got a lot of ideas.<br>
+							<br>
+							
+						RITA: Good. (Pause)<br>
+							<br>
+							
+						JERRY: Have you ever been to a Chinese restaurant and they tell you it'll be, like, five minutes for a table and you wind up waitin' there for, like, thirty minutes? Well, we thought it would be very funny to do an entire show where all you're doin' is waitin' for the table. (They don't seem to like it) Because we've all been in that situation. You know, you're waiting... and you're hungry... and you bump into somebody you know... When is Russell coming back?<br>
+							<br>
+							
+						RITA: So that's the idea?<br>
+							<br>
+							
+						JERRY: Well no, that's one. We have many others. We have an idea where, uh, I get into an accident with a guy who has no insurance and the judge sentences him to be my butler. (Everyone laughs) You know he cooks for me, he has to cook for me... He cleans my house, he's doin' my shopping, you know? I'm walkin' around with one of those big neck collars.<br>
+							<br>
+							
+						MAN #2: Those collars are funny!<br>
+							<br>
+							
+						MAN #1: Once you see someone in those collars you start laughing immediately. (George enters)<br>
+							<br>
+							
+						GEORGE: You tellin' 'em about the butler story? Is that beautiful or what? Hey, sorry I'm late. (Looks at Rita) Russell?<br>
+							<br>
+							
+						RITA: I'm Rita Kearson.<br>
+							<br>
+							
+						GEORGE: Oh, Rita. Hey, Mr. Shermack, how're you doing, good to see you. Jay, always a pleasure. (To Susan) Sweetie. (Kisses her and then sits down next to Jerry) Yeah, yeah, that butler idea, that's beautiful. Isn't that killer? (Aside to Jerry) I thought I was getting the butler.<br>
+							<br>
+							
+						JERRY: Don't worry, uh, we'll find something for you.<br>
+							<br>
+							<br>
+							
+						[Jerry and George enter Jerry's place to see Kramer watching (and playing) Jeopardy.]<br>
+							<br>
+							
+						JERRY: So Letterman didn't spark to your idea, huh?<br>
+							<br>
+							
+						GEORGE: No, he said there was nothing he could do, and next time I should probably break the Prozacs in half.<br>
+							<br>
+							
+						KRAMER: You, you guys wanna hold it down? I'm watchin' Jeopardy.<br>
+							<br>
+							
+						JERRY: Would you give him the TV back?<br>
+							<br>
+							
+						KRAMER: Oh, by the way, George. Susan called for you a minute ago.<br>
+							<br>
+							
+						GEORGE: I bet they're probably doing summersaults about us over there. You think they get butler stories like that everyday? (He calls Susan)<br>
+							<br>
+							
+						KRAMER: (To the TV) Who is Joseph Cotton? Giddee up!<br>
+							<br>
+							
+						SUSAN: Hello?<br>
+							<br>
+							
+						GEORGE: Hi, it's me. It's Georgie Boy. What's going on?<br>
+							<br>
+							
+						SUSAN: What's going on? What's going on? I'll tell you what's going on. I'm fired!<br>
+							<br>
+							
+						GEORGE: Fired? Why?<br>
+							<br>
+							
+						SUSAN: Because you kissed me. You kissed me, you stupid idiot! Rita called Russell and he fired me over the phone.<br>
+							<br>
+							
+						KRAMER: (To the TV) What is pi? Ooh! Giddee up again.<br>
+							<br>
+							
+						GEORGE: But I had no... I didn't realize.<br>
+							<br>
+							
+						SUSAN: You didn't realize? How could you not realize? You're stupid! You're a stupid, stupid man!<br>
+							<br>
+							
+						GEORGE: I just feel terrible This is just terrible.<br>
+							<br>
+							
+						KRAMER: (To the TV once again) What is the cha-cha? Ooh, yes indeed.<br>
+							<br>
+							
+						SUSAN: I'll speak to you later.<br>
+							<br>
+							
+						GEORGE: (Hangs up phone and pauses) this is great! He fired her! This is incredible, he fired her. I'm out, baby! I'm out!<br>
+							<br>
+							
+						JERRY: Why did he fire her?<br>
+							<br>
+							
+						GEORGE: Because I kissed her in the meeting. Russell found out, he fired her over the phone. Finally, my stupidity pays off!<br>
+							<br>
+							
+						KRAMER: What is here comes the judge, here comes the judge!<br>
+							<br>
+							
+						JERRY: You can't break up with her now. Her life is shattered. You got her fired. You gotta be there for her.<br>
+							<br>
+							
+						GEORGE: What?<br>
+							<br>
+							
+						JERRY: You gotta at least wait until she gets another job.<br>
+							<br>
+							
+						GEORGE: Another job?<br>
+							<br>
+							
+						JERRY: Couple of interviews.<br>
+							<br>
+							
+						GEORGE: Oh, this is unbelievable. I'm stuck. Every time I think I'm out, they pull me back in.<br>
+							<br>
+							<br>
+							
+						[Jerry and Marla are making out in his closet.]<br>
+							<br>
+							
+						MARLA: Are you gonna leave after its over? You know, if we have sex.<br>
+							<br>
+							
+						JERRY: What? Leave? Where? Why?<br>
+							<br>
+							
+						MARLA: You know, the apartment.<br>
+							<br>
+							
+						JERRY: Why would I leave? This is my apartment.<br>
+							<br>
+							
+						MARLA: Well what if it was my apartment?<br>
+							<br>
+							
+						JERRY: Who gave you this idea I would wanna leave?<br>
+							<br>
+							
+						MARLA: Well Elaine said men like to leave after it's over.<br>
+							<br>
+							
+						JERRY: Listen, I wouldn't put too much stock into what Elaine has to say about relationships. She comes from a broken home, and I mean that literally. A tree fell on her roof and cracked the whole structure. Her parents got along beautifully, but her house was in bad shape.<br>
+							<br>
+							
+						MARLA: Maybe I should get going.<br>
+							<br>
+							<br>
+							
+						[Jerry and Elaine at a bar.]<br>
+							<br>
+							
+						JERRY: What else did you say to her?<br>
+							<br>
+							
+						ELAINE: Nothin'. I was just givin' her the straight dope.<br>
+							<br>
+							
+						JERRY: More like a dope was giving it to her straight. Another cup of coffee with you, she'll wind up in a convent.<br>
+							<br>
+							
+						ELAINE: Listen, there was a lot more I could've told her, believe me.<br>
+							<br>
+							
+						JERRY: What is that about leaving after sex? Did I ever leave with you?<br>
+							<br>
+							
+						ELAINE: You might've if I'd stayed. So you know what? I got served with papers today. Ping is suing me. I need your virgin as a witness. You better be nice to her.<br>
+							<br>
+							
+						JERRY: I was trying to be.<br>
+							<br>
+							
+						ELAINE: Look at George. (On the other side of the restaurant) He lucked out, huh?<br>
+							<br>
+							
+						JERRY: Oh, you're not kiddin'. Who'd 've figured Susan would break up with him? They had a good thing going.<br>
+							<br>
+							
+						ELAINE: Yeah, since she met him she's been vomited on, her family cabin's been burned down, she learned her father's a homosexual, and she got fired from a high paying network job. Yeah, they had a real good thing going.<br>
+							<br>
+							<br>
+							
+						[Cut over to George and a woman]<br>
+							<br>
+							
+						GEORGE: What do I do? Well actually, I'm a writer. In fact, I'm writing a comedy pilot for NBC right now.<br>
+							<br>
+							
+						WOMAN: A sitcom? How can you write that crap? Carol, this guy's writing a sitcom.<br>
+							<br>
+							
+						CAROL: A sitcom? Come on, let's go. (They leave)<br>
+							<br>
+							
+						WOMAN: A sitcom. Can you imagine? And he actually tried to use it to hit on me!<br>
+							<br>
+							<br>
+							
+						The End</td>
+						</tr>
+						<tr height="6">
+							<td class="bottom2" width="645" height="6"></td>
+						</tr>
+						<tr>
+							<td width="645">
+								<div align="center">
+									<font size="-1">Copyright 2006 seinology.com | All Rights Reserved | Designed by 13erla</font></div>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+		<p></p>
+	</body>
+
+</html>

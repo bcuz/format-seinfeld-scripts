@@ -1,0 +1,1896 @@
+<tdOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+<html>
+
+	<head>
+		<meta http-equiv="content-type" content="text/html;charset=ISO-8859-1">
+		<meta name="description" content="Top Source for Seinfeld">
+		<meta name="keywords" content="seinfeld, sienfeld, Jerry Seinfeld, Julia Louis Dreyfus, Jason Alexander, Michael Richards, Kramer, George, Costanza, Elaine Benes, morty, Larry David">
+		<title>Seinology.com :: Scripts :: 151-The English Patient</title>
+	<link rel='stylesheet' href='/stylesheet.css' type='text/css'>
+	</head>
+
+	<body>
+			<table align="center" width="787" border="0" cellspacing="0" cellpadding="0">
+				<tr>
+					<td><font size="-2" color="red">Seinology.com - </font><font size="-3" color="black">Where Seinfeld Content and Accuracy Matter Most. Seinfeld scripts in pdf form, Seinfeld episode video clips, Seinfeld episode audio clips, Jerry Seinfeld appearances, Julia Louis-Dreyfus appearances, Michael Richards appearances, Jason Alexander appearances, Seinfeld discussion Forum, Seinfeld Where are they Now? Seinlanguage Newsletter, Popular Seinfeld Lists, Seinfeld episode standup, Seinfeld episode guide, Seinfeld fan fiction. Seinfeld content all on one domain. Seinology.com enjoy your stay.</font></td>
+				</tr>
+			</table>
+		
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr height="100">
+				<td class="logo"></td>
+			</tr>
+			<tr><td class="ads" align="center" background=#8694fa>
+				<script type="text/javascript"><!--
+google_ad_client = "pub-1924026976931416";
+google_ad_width = 728;
+google_ad_height = 90;
+google_ad_format = "728x90_as";
+google_ad_type = "text";
+google_ad_channel = "";
+google_color_border = "FFFFFF";
+google_color_bg = "8694fa";
+google_color_link = "0000FF";
+google_color_text = "000000";
+google_color_url = "002E3F";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></td></tr>
+		</table>
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr>
+				<td valign="top" width="136">
+					<table width="136" border="0" cellspacing="0" cellpadding="0">
+						<tr height="24">
+							<td class="navigation">
+								<div align="center">
+									
+									<b>Navigation</b></div>
+							</td>
+						</tr>
+						<tr height="199">
+							<td class="spacer1" valign="top" width="136" height="199">
+								<div align="center">
+									<font size="-1"><a href="http://www.seinology.com">Home</a><br>
+										<a href="http://board.seinology.com">Forum</a><br>
+										<a href="http://www.seinology.com/av.shtml">Audio/Video</a><br>
+										<a href="http://www.seinology.com/scripts.shtml">Scripts</a><br>
+										<a href="http://www.seinology.com/survivor.shtml">Survivor</a><br>
+										<a href="http://www.seinology.com/fanfics.shtml">Fan Fiction</a><br>
+										<a href="http://www.seinology.com/gallery/">Gallery</a><br>
+										<a href="http://www.seinology.com/newsletter.shtml">Newsletter</a><br>
+										<a href="http://www.seinology.com/lists.shtml">Lists</a><br>
+										<a href="http://www.seinology.com/epguide.shtml">Episode Guide</a><br>
+										<a href="http://www.seinology.com/links.shtml">Links</a><br>
+										<a href="http://www.seinology.com/faqother.shtml">Faq + others</a><br>
+										<a href="http://www.seinology.com/legal.shtml">Legal</a></font></div>
+							</td>
+						</tr>
+						
+						<tr>
+							<td class="nav2" width="136">
+							<div align="center"><b>Search</b></div></td>
+						</tr>
+						<tr>
+							<td class="spacer1" width="136" valign="top"><div align="center"><form method="get" action="http://www.seinology.com/search/search.cgi">
+<p><label for="fdse_Match">Match</label><br>
+<select name="Match" id="fdse_Match" size="1">
+<option value="1">All</option>
+<option value="0">Any</option>
+<option value="2">Phrase</option>
+</select></p>
+<p><label for="fdse_Realm">Where?</label><br>
+<select name="Realm" id="fdse_Realm" size="1">
+<option selected="selected" value="All">EntireSite</option>
+<option value="Ep Guide">Ep Guide</option>
+<option value="Images">Images</option>
+<option value="Lists">Lists</option>
+<option value="Newsletters">Newsletters</option>
+<option value="Scripts">Scripts</option>
+<option value="Notes..Nothing">Notes..Nothing</option>
+</select></p>
+<p><input type="text" name="Terms" size="14" id="fdse_Terms"><br>
+<input type="submit" class="submit" name="submitButtonName" value="Search"></p>
+</div></form></td>
+						</tr>
+						<tr><td class="bottom" width="136" height="10" valign="top">
+						</td>
+						</tr>
+					</table>
+				</td>
+				<td width="4"></td>
+				<td valign="top" width="645">
+					<table width="645" border="0" cellspacing="0" cellpadding="0">
+						<tr height="18">
+							<td width="645" height="35" class="bar">
+								<div align="center">
+									<b><font size="+2" color="black">Script</font></b></div>
+							</td>
+						</tr>
+						<tr height="362">
+							<td class="spacer2" valign="top" width="645" height="362">
+
+						<p><font size="-2">Episode 151 - The English Patient<br>
+							
+						pc: 817 season 8, episode 17<br>
+							
+						Broadcast date: March 13, 1997<br>
+							<br>
+							
+						Written by Steve Koren<br>
+							
+						Directed by Andy Ackerman<br>
+							<br>
+							
+						-------------------------------------------------------------------------------<br>
+							<br>
+							
+						The Cast<br>
+							
+						Regulars:<br>
+							
+						Jerry Seinfeld ......................&nbsp; Jerry Seinfeld<br>
+							
+						Jason Alexander .................. George Costanza<br>
+							
+						Julia Louis-Dreyfus .............. Elaine Benes<br>
+							
+						Michael Richards .................. Cosmo Kramer<br>
+							<br>
+							
+						Guest Stars:<br>
+							<br>
+							
+						Lloyd Bridges ...................... Izzy Mandelbaum<br>
+							
+						Chelsea Noble ...................... Danielle<br>
+							
+						O'Neal Compton .................. Earl Haffler<br>
+							
+						Lisa Mende .......................... Carol<br>
+							
+						Gene Dynarski ..................... Izzy Mandelbaum Jr.<br>
+							
+						Marco Rodriguez ................. Guillermo<br>
+							
+						Joseph Urla .......................... Dugan<br>
+							
+						Jill Talley ............................... Gail<br>
+							
+						Jill Holden ............................ Lisa<br>
+							
+						Todd Jeffries ........................ Blaine<br>
+							
+						Earl Schuman ........................ Izzy Mandelbaum Sr.<br>
+							
+						Edgar Small .......................... Sid Luckman<br>
+							
+						Lauren Bowles ..................... Waitress<br>
+							
+						Juan Garcia ........................... Jaime<br>
+							
+						Jeff Miller .............................. Neil<br>
+							
+						rc: Liz Sheridan .................... Helen Seinfeld<br>
+							
+						rc: Barney Martin ................. Morty Seinfeld<br>
+							
+						rc: John O'Hurley ................. J. Peterman<br>
+							<br>
+							
+						==================================================================<br>
+							<br>
+							
+						[Subway Train]<br>
+							<br>
+							
+						(Jerry and Elaine sit side by side on a subway train. They're both reading newspapers, when something occurs to Jerry.)<br>
+							<br>
+							
+						JERRY: You know at the movies, they show that little ad for the concession stand?<br>
+							<br>
+							
+						ELAINE: Where the cartoon candy's dancing and the Milk Dud's playing the banjo?<br>
+							<br>
+							
+						JERRY: He's wailing on that banjo.<br>
+							<br>
+							
+						ELAINE: Yeah.<br>
+							<br>
+							
+						JERRY: I just don't understand the raisinettes.<br>
+							<br>
+							
+						ELAINE: The sax player?<br>
+							<br>
+							
+						JERRY: Yeah.<br>
+							<br>
+							
+						ELAINE: Yeah.<br>
+							<br>
+							
+						JERRY: The box of raisinettes runs up to the concession stand, buys another box of raisinettes.<br>
+							<br>
+							
+						ELAINE: So?<br>
+							<br>
+							
+						JERRY: Box of raisinettes eating another box of raisinettes? It's perverse.<br>
+							<br>
+							
+						ELAINE: HE's not gonna eat them. He's buying 'em for his Pepsi girlfriend.<br>
+							<br>
+							
+						JERRY: Why's he dating a Pepsi? They're not having children.<br>
+							<br>
+							
+						ELAINE: He's a musician.<br>
+							<br>
+							
+						JERRY: Musicians. Get a real job.<br>
+							<br>
+							
+						(They shrug and return to their reading.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Monk's]<br>
+							<br>
+							
+						(George is sitting at the counter perusing a magazine. The waitress comes over to take his order.)<br>
+							<br>
+							
+						WAITRESS: What d'you want?<br>
+							<br>
+							
+						GEORGE: Ah, I've had everything on the menu. Uh, surprise me.<br>
+							<br>
+							
+						(The waitress disappears out back. George goes back to reading. Behind him, a beautiful woman enters, and approaches him.)<br>
+							<br>
+							
+						DANIELLE: (to George) Neil.<br>
+							<br>
+							
+						(The woman touches George on his shoulder, to get his attention.)<br>
+							<br>
+							
+						DANIELLE: Neil.<br>
+							<br>
+							
+						(George turns to face the woman.)<br>
+							<br>
+							
+						DANIELLE: (apologetic) Oh, I am sorry. (smiling broadly) I'm supposed to meet my boyfriend here. He looks just like you.<br>
+							<br>
+							
+						GEORGE: (bemused) Really?<br>
+							<br>
+							
+						DANIELLE: (smiling) Yeah.<br>
+							<br>
+							
+						GEORGE: (pointing to himself) Like me?<br>
+							<br>
+							
+						DANIELLE: Uh-huh. Sorry.<br>
+							<br>
+							
+						(Danielle walks away with a wave. George sits there, looking stunned.)<br>
+							<br>
+							
+						GEORGE: (confused, to himself) Like me? But how?<br>
+							<br>
+							
+						(The waitress returns from the back and puts a plate down on the counter before George.)<br>
+							<br>
+							
+						WAITRESS: Here's your halibut omelette. Surprised?<br>
+							<br>
+							
+						GEORGE: Yes, yes, I am.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Jerry's Apartment]<br>
+							<br>
+							
+						(Jerry has a suitcase on the table, packing for a trip. Kramer has brought in a large paper bag, from which he pulls a blue t-shirt.)<br>
+							<br>
+							
+						KRAMER: Look what I got for you, for your Florida trip. Crazy Shirts was closing 'em out. I got a dozen for a buck.<br>
+							<br>
+							
+						Kramer holds the shirt up against Jerry and admires it. On the front of the shirt is the legend '#1 DAD'.<br>
+							<br>
+							
+						KRAMER: Saved a fortune. Look at that. Heyy.<br>
+							<br>
+							
+						JERRY: (reading, unimpressed) Ohh, 'Number 1 Dad'.<br>
+							<br>
+							
+						KRAMER: Yeah.<br>
+							<br>
+							
+						JERRY: (examining the label) Ooh, and it's in medium. Perfect.<br>
+							<br>
+							
+						(George enters.)<br>
+							<br>
+							
+						KRAMER: Hey.<br>
+							<br>
+							
+						GEORGE: Hey.<br>
+							<br>
+							
+						JERRY: Hey.<br>
+							<br>
+							
+						GEORGE: Hey. You ready?<br>
+							<br>
+							
+						JERRY: Almost.<br>
+							<br>
+							
+						KRAMER: Okay, look, uh, when you're in Florida, can my cigar guy drop off some Cubans for me at your parents' house?<br>
+							<br>
+							
+						JERRY: (reluctant) Kramer, I'm helping my parents move into their new condo. I'm gonna be busy.<br>
+							<br>
+							
+						KRAMER: Aw, c'mon man. Help a brother out.<br>
+							<br>
+							
+						JERRY: (grudging) Alright.<br>
+							<br>
+							
+						KRAMER: Yeahh. I owe you one.<br>
+							<br>
+							
+						JERRY: (holding up the '# DAD' shirt) We're even.<br>
+							<br>
+							
+						(Kramer leaves. George has got himself a bottle of water from the fridge and wanders into the living room, talking.)<br>
+							<br>
+							
+						GEORGE: Jerry, figure this out. I'm in the coffee shop, and this beautiful girl I could never even talk to, mistakes me for her boyfriend.<br>
+							<br>
+							
+						JERRY: (continuing to pack) That's a nice four seconds.<br>
+							<br>
+							
+						GEORGE: (incredulous) I look just like him. I. Me. (flings his arms out) This! This is what her boyfriend looks like. How is that possible?<br>
+							<br>
+							
+						JERRY: Maybe he has money.<br>
+							<br>
+							
+						GEORGE: (wondering) Maybe he doesn't. Maybe he and I are exactly the same, except for one minor, yet crucial, detail. You never know.<br>
+							<br>
+							
+						JERRY: (zipping up his bag) Sometimes you do.<br>
+							<br>
+							
+						GEORGE: Maybe it's some small thing I could change. Like a moustache. Or wearing a top hat, or a monocle, or a..or a cane.<br>
+							<br>
+							
+						JERRY: (picking up his bag and coat) Who's she dating? Mr Peanut?<br>
+							<br>
+							
+						(Jerry opens the door as George looks at him.)<br>
+							<br>
+							
+						GEORGE: (pointedly) She could do a lot worse than Mr Peanut, my friend.<br>
+							<br>
+							
+						(George leaves, followed by Jerry.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Outside Movie Theatre]<br>
+							<br>
+							
+						(Elaine and her latest boyfriend are standing in line.)<br>
+							<br>
+							
+						BLAINE: So, what d'you wanna see?<br>
+							<br>
+							
+						ELAINE: (indicating a movie poster) What about Sack Lunch?<br>
+							<br>
+							
+						BLAINE: (indicating another poster) How about The English Patient? It's up for all those Oscars.<br>
+							<br>
+							
+						(Elaine pulls a face, like she's really not interested in seeing Blaine's choice.)<br>
+							<br>
+							
+						ELAINE: Oh, c'mon Blaine. I mean, look at the poster for Sack Lunch.<br>
+							<br>
+							
+						BLAINE: It's a family in a brown paper bag.<br>
+							<br>
+							
+						ELAINE: (laughing) Don't you wanna know how they got in there?<br>
+							<br>
+							
+						BLAINE: No.<br>
+							<br>
+							
+						(Elaine and Blaine reach the front of the queue, just as the guy in the ticket booth puts a sign up on the window saying 'Sack Lunch Sold Out'.)<br>
+							<br>
+							
+						ELAINE: (disappointment) Aww. Sold out.<br>
+							<br>
+							
+						BLAINE: (to the booth guy) Oh, two for The English Patient.<br>
+							<br>
+							
+						(Elaine continues to study the Sack Lunch poster, while Blaine buys tickets.)<br>
+							<br>
+							
+						ELAINE: So d'you think they got shrunk down, or is it just a giant sack?<br>
+							<br>
+							<br>
+							<br>
+							
+						[Monk's]<br>
+							<br>
+							
+						(Danielle, the beautiful woman, is paying at the register. George enters and sees her.)<br>
+							<br>
+							
+						GEORGE: (smiling) Uh, hi. Uhm, remember me? I..I'm the guy who looks like Neil?<br>
+							<br>
+							
+						DANIELLE: (smiling back) Hi.<br>
+							<br>
+							
+						GEORGE: Huh-Hi. (looks around a little) Uhm, is Neil here?<br>
+							<br>
+							
+						DANIELLE: Oh, no. He got held up at work.<br>
+							<br>
+							
+						GEORGE: Oh, that's too bad. I kinda wanted to meet him, seeing as how we look so similar.<br>
+							<br>
+							
+						DANIELLE: Well, you know, you don't look that much like him.<br>
+							<br>
+							
+						GEORGE: (disappointment) Oh. Course not.<br>
+							<br>
+							
+						DANIELLE: No, you're a little taller.<br>
+							<br>
+							
+						(George looks ever more bewildered.)<br>
+							<br>
+							
+						DANIELLE: You look like you're in better shape than Neil. Do you work out?<br>
+							<br>
+							
+						GEORGE: (smiling) Listen, I..I..I don't mean to seem forward...<br>
+							<br>
+							
+						(Danielle looks like she thinks George is hitting on her, and she's not against the idea.)<br>
+							<br>
+							
+						GEORGE: ...but is there any way that I could possibly have Neil's phone number?<br>
+							<br>
+							
+						(Now it's Danielle's time to look surprised and bewildered.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Outside Movie Theatre]<br>
+							<br>
+							
+						(Elaine and Blaine emerge from the exit, having seen The English Patient.)<br>
+							<br>
+							
+						ELAINE: (very dissatisfied) Why is everyone talking about &quot;The English Patient, it's so romantic&quot;. (vehement) God, that movie stunk!<br>
+							<br>
+							
+						BLAINE: I kinda liked it.<br>
+							<br>
+							
+						ELAINE: (firm) No you didn't.<br>
+							<br>
+							
+						(From the exit emerge several of Elaine's friends, who hurry over to see her. They're all holding tissues.)<br>
+							<br>
+							
+						CAROL: Elaine. Elaine, did you just see The English Patient?<br>
+							<br>
+							
+						GAIL: (tearful) Didn't you love it?<br>
+							<br>
+							
+						LISA: How could you not love that movie?<br>
+							<br>
+							
+						ELAINE: How about, it sucked?<br>
+							<br>
+							
+						CAROL: That Ralph Fiennes, I would give up my firstborn for him.<br>
+							<br>
+							
+						ELAINE: (aside) Huhh, getting the short end of that stick.<br>
+							<br>
+							
+						(Blaine gives Elaine a strange look.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Recreation Center, Del Boca Vista]<br>
+							<br>
+							
+						(Jerry and Morty walk into a room which contains some fitness equipment - exercise bike, weights, etc.)<br>
+							<br>
+							
+						MORTY: Jerry, this is Del Boca Vista's new physical fitness room. They got medicine balls, you can bike ride, anything you want.<br>
+							<br>
+							
+						JERRY: Stairmaster?<br>
+							<br>
+							
+						MORTY: What?<br>
+							<br>
+							
+						JERRY: Nothin'.<br>
+							<br>
+							
+						MORTY: (opening his tracksuit top) See what I'm wearing?<br>
+							<br>
+							
+						(Morty has on the '#1 DAD' shirt.)<br>
+							<br>
+							
+						JERRY: Oh, did you get that outta my bag?<br>
+							<br>
+							
+						MORTY: No, your mother found it. Son, this is the most wonderful and thoughtful thing you've ever done for me.<br>
+							<br>
+							
+						JERRY: You know, I bought you a Cadillac. Twice.<br>
+							<br>
+							
+						(In through the door comes a really old guy. He jogs slowly in, and begins doing physical jerks as Morty talks to Jerry.)<br>
+							<br>
+							
+						MORTY: Hoh, here he is. This is the man I wanted you to see. Izzy Mandelbaum. He's eighty years old, but strong as an ox. (pointing) Watch this.<br>
+							<br>
+							
+						(Izzy picks up a set of weights and lifts them chest high.)<br>
+							<br>
+							
+						MORTY: See that? You couldn't do that.<br>
+							<br>
+							
+						JERRY: I could, but I choose not to.<br>
+							<br>
+							
+						(Another guy enters behind the Seinfelds. He walks over to an exercise bike and climbs aboard.)<br>
+							<br>
+							
+						SID: Hey Morty. (nodding toward Jerry) Who's this?<br>
+							<br>
+							
+						MORTY: This is my son Jerry, from New York. (leaning toward Sid) He thinks he can lift more than Izzy.<br>
+							<br>
+							
+						JERRY: (protesting) I..I didn't say that.<br>
+							<br>
+							
+						SID: (calling over) Hey, Izzy, this kid says he can lift more than you can.<br>
+							<br>
+							
+						(Izzy looks over. He releases his grip on the weights and they drop to the floor with a clunk.)<br>
+							<br>
+							
+						IZZY: Your kid's pretty funny, Morty. Should be a comedian.<br>
+							<br>
+							
+						JERRY: (smiles) Actually, I am a comedian.<br>
+							<br>
+							
+						SID: That's not so funny.<br>
+							<br>
+							
+						IZZY: (challenging) Think you're better than me, huh?<br>
+							<br>
+							
+						MORTY: Izzy used to work out with Charles Atlas in the fifties.<br>
+							<br>
+							
+						JERRY: (jocular) Eighteen-fifties?<br>
+							<br>
+							
+						IZZY: Yeah, that's it. It's go time. (points to the weights he put down) Let's see you lift that.<br>
+							<br>
+							
+						JERRY: (reluctant) Mr Mandelbaum, I...<br>
+							<br>
+							
+						IZZY: C'mon, c'mon. Pump it!<br>
+							<br>
+							
+						JERRY: (consenting) Alright.<br>
+							<br>
+							
+						IZZY: Yeah, wrong attitude. you're not bringing that trash into my house.<br>
+							<br>
+							
+						(Jerry walks over and picks the weights up easily.)<br>
+							<br>
+							
+						JERRY: There. Alright?<br>
+							<br>
+							
+						IZZY: Step aside, stringbean.<br>
+							<br>
+							
+						(Jerry puts down the weights, and rolls them out of the way. Izzy steps in front of a much, much, more substantial set of weights.)<br>
+							<br>
+							
+						IZZY: I'll show you. We're gonna take it up a notch.<br>
+							<br>
+							
+						(Izzy bends and takes hold of the bar. The second he puts any effort into the lift, there is a loud crunching noise and a pained look of horror comes to his face.)<br>
+							<br>
+							
+						IZZY: (agonised) Ah! My back. Ugh.<br>
+							<br>
+							
+						(Izzy keeps hold of the bar as he slowly keels over forwards. The circular weights roll in front of him and Izzy gently falls forward until he's face down on the floor.)<br>
+							<br>
+							
+						IZZY: (drawn out) Aaaahh.<br>
+							<br>
+							
+						(Jerry, Morty and Sid, look on, concerned.)<br>
+							<br>
+							
+						SID: Somebody, call an ambulance.<br>
+							<br>
+							
+						MORTY: (unpanicked) There's already an ambulance here for Mrs Glickman. There's room for one more.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Outside Movie Theatre]<br>
+							<br>
+							
+						(Elaine is at the same movie theatre as before,but alone this time. She's buying her ticket from the booth.<br>
+							<br>
+							
+						ELAINE: (handing over her money) Okay, one for Sack Lunch. (taking the ticket) It's good, right? (smiling) Yeah, good.<br>
+							<br>
+							
+						(Elaine turns to enter the theatre, and meets Gail, Carol and Lisa coming out.)<br>
+							<br>
+							
+						ELAINE: (surprise) Hey, what're you guys doing here?<br>
+							<br>
+							
+						LISA: We just saw The English Patient again.<br>
+							<br>
+							
+						GAIL: It's even better the second time.<br>
+							<br>
+							
+						ELAINE: They make it longer?<br>
+							<br>
+							
+						(Out of the theatre comes Blaine, carrying an umbrella.)<br>
+							<br>
+							
+						BLAINE: (to the girls) Got my umbrella.<br>
+							<br>
+							
+						ELAINE: (shocked) Blaine!?<br>
+							<br>
+							
+						BLAINE: Elaine.<br>
+							<br>
+							
+						ELAINE: I thought you were busy tonight.<br>
+							<br>
+							
+						BLAINE: (cold) Well, to tell you the truth Elaine. I don't know if I can be with someone who doesn't like The English Patient.<br>
+							<br>
+							
+						ELAINE: It's just a stupid movie.<br>
+							<br>
+							
+						BLAINE: (to Carol) That's what I'm talking about.<br>
+							<br>
+							
+						CAROL: (taking Blaine's arm) Come on, Blaine. Let's go.<br>
+							<br>
+							
+						BLAINE: (bitter) Enjoy Sack Lunch!<br>
+							<br>
+							
+						(Blaine walks away with the girls.)<br>
+							<br>
+							
+						ELAINE: (fierce) I will!<br>
+							<br>
+							<br>
+							<br>
+							
+						[Seinfeld Residence, Del Boca Vista]<br>
+							<br>
+							
+						(Helen is talking to Jerry, with Morty on the couch. Helen and Morty are in their nightclothes. Morty has on the '#1 DAD' shirt.)<br>
+							<br>
+							
+						HELEN: (accusing) How could you do that to Mr Mandelbaum? You should be ashamed of yourself.<br>
+							<br>
+							
+						JERRY: (defensive) He egged me on.<br>
+							<br>
+							
+						HELEN: You should be more mature.<br>
+							<br>
+							
+						JERRY: He's eighty!<br>
+							<br>
+							
+						MORTY: (standing) Okay. Tomorrow, Jerry and I will visit Izzy and apologise. Now, goodnight.<br>
+							<br>
+							
+						(Morty begins to head to the bedroom.)<br>
+							<br>
+							
+						HELEN: (walking after Morty) You're not sleeping in that shirt. It's too tight.<br>
+							<br>
+							
+						MORTY: This shirt will never leave my body.<br>
+							<br>
+							
+						(Helen follows Morty down the short hallway.)<br>
+							<br>
+							
+						HELEN: (to Jerry) Goodnight.<br>
+							<br>
+							
+						JERRY: (smiling) Alright. Seven-thirty, got the place to myself.<br>
+							<br>
+							
+						(There is a knock at the door. Jerry answers it. Outside are three Hispanic-looking guys.)<br>
+							<br>
+							
+						GUILLERMO: Jerry Seinfeld please.<br>
+							<br>
+							
+						JERRY: Ah, you must be Kramer's guys. (indicating) Come on in. You got the cigars?<br>
+							<br>
+							
+						(The guys enter.)<br>
+							<br>
+							
+						GUILLERMO: What cigars?<br>
+							<br>
+							
+						JERRY: Kramer said I was supposed to bring him back some Cubans.<br>
+							<br>
+							
+						GUILLERMO: (indicating the threesome) We are the Cubans.<br>
+							<br>
+							
+						(Jerry stares, stunned.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Jerry's Apartment/Del Boca Vista]<br>
+							<br>
+							
+						(Kramer stands, shirtless, in Jerry's kitchen. There's a pot on the stove, and Kramer's chopping vegetables on a board. The phone rings and Kramer answers.)<br>
+							<br>
+							
+						KRAMER: Yeah, hello, Jerry's place.<br>
+							<br>
+							
+						(In the Seinfelds' condo, the three guys are asleep on the fold-out couch and a chair, while an upset Jerry rants into the phone.)<br>
+							<br>
+							
+						JERRY: (animated) They're real Cubans?! They're human beings, from Cuba?!<br>
+							<br>
+							
+						KRAMER: I said Cubans. What'd you think I meant?<br>
+							<br>
+							
+						JERRY: Cigars!<br>
+							<br>
+							
+						KRAMER: Jerry, Cuban cigars are illegal in this country. That's why I got these guys.<br>
+							<br>
+							
+						JERRY: (incredulous) You're making your own cigars now?<br>
+							<br>
+							
+						KRAMER: Yeah, yeah. I got investors all lined up.<br>
+							<br>
+							
+						(Behind Jerry, Morty wanders over to the kitchen counter.)<br>
+							<br>
+							
+						JERRY: (to Kramer) Hold on a second. (to Morty) Hiya dad.<br>
+							<br>
+							
+						(Morty sorts through some pill bottles, before picking one out.)<br>
+							<br>
+							
+						MORTY: (without looking up) Who are they?<br>
+							<br>
+							
+						JERRY: They're Cuban cigar rollers.<br>
+							<br>
+							
+						MORTY: (walking back out of the room) Don't tell your mother.<br>
+							<br>
+							
+						(Something catches Jerry's ear on the phone.)<br>
+							<br>
+							
+						JERRY: What is that bubbling sound? Are you making your tomato sauce?<br>
+							<br>
+							
+						KRAMER: Hot and spicy.<br>
+							<br>
+							
+						JERRY: (accusing) You're not wearing a shirt, are you?<br>
+							<br>
+							
+						KRAMER: Yes I am.<br>
+							<br>
+							
+						JERRY: What colour is it?<br>
+							<br>
+							
+						(Kramer looks down at his bare torso, and can't think.)<br>
+							<br>
+							
+						KRAMER: Damn!<br>
+							<br>
+							
+						(Kramer hangs up the phone.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[New York Hallway]<br>
+							<br>
+							
+						(George and Danielle walk up to her door in her building. George has a napkin in his hand on which is some scribbled numbers. Danielle is looking at George, very much as if she's interested.)<br>
+							<br>
+							
+						GEORGE: You know, you could've just given me Neil's number. You..you didn't have to take me out to dinner.<br>
+							<br>
+							
+						DANIELLE: I wanted to give it to you in person.<br>
+							<br>
+							
+						(George shrugs his understanding.)<br>
+							<br>
+							
+						DANIELLE: (flirtatious) You know, I don't have to be up in the morning, and I know a great breakfast place, right around the corner.<br>
+							<br>
+							
+						(Danielle gives George a big smile. George smiles, but thoughtfully.)<br>
+							<br>
+							
+						GEORGE: Does Neil like to eat a big breakfast?<br>
+							<br>
+							
+						DANIELLE: (inviting) Why don't you come in? We'll take about it.<br>
+							<br>
+							
+						GEORGE: (looking at his watch) I really should get going. Y'know, I..I wanna be home in case Neil calls.<br>
+							<br>
+							
+						DANIELLE: Well, goodnight.<br>
+							<br>
+							
+						(Danielle leans toward George, for a kiss. But George walks away completely oblivious to Danielle. )<br>
+							<br>
+							
+						GEORGE: (hurried) I'll see you.<br>
+							<br>
+							
+						(Danielle looks down the hall after George, looking perplexed.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Monk's]<br>
+							<br>
+							
+						(An unhappy Elaine sits at the counter as the waitress pours her coffee.)<br>
+							<br>
+							
+						WAITRESS: Rough night?<br>
+							<br>
+							
+						ELAINE: Ugh. You wouldn't believe it. My boyfriend dumped me. My friends, who I don't even like, they won't talk to me. (face-pulling) All because I don't like that stupid English Patient movie.<br>
+							<br>
+							
+						WAITRESS: Really? I thought it was pretty good.<br>
+							<br>
+							
+						ELAINE: Oh, come on. Good? What was good about it? (scoffs) Those sex scenes! I mean, please! Gimme something I can use!<br>
+							<br>
+							
+						WAITRESS: (sour) Well, I liked it.<br>
+							<br>
+							
+						(The waitress takes the coffee pot and walks away into the back.)<br>
+							<br>
+							
+						ELAINE: (calling after) Hey. You forgot about my piece of pie. Hello? (irritated) You know, sex in a tub. That doesn't work!<br>
+							<br>
+							<br>
+							<br>
+							
+						[Mandelbaum Residence, Del Boca Vista]<br>
+							<br>
+							
+						(Jerry and Morty stroll into the bedroom of the hugely impressive Mandelbaum condo. Morty is still wearing the '#1 DAD' shirt under his tracksuit. Izzy is asleep in the bed.)<br>
+							<br>
+							
+						JERRY: This is quite a condo.<br>
+							<br>
+							
+						MORTY: The Mandelbaums own the Magic Pan restaurants.<br>
+							<br>
+							
+						JERRY: The crepe place?<br>
+							<br>
+							
+						MORTY: Yeah. This is all big crepe money.<br>
+							<br>
+							
+						JERRY: (doubtful) There's crepe money?<br>
+							<br>
+							
+						(Izzy wakes up and sees the Seinfelds at the foot of his bed.)<br>
+							<br>
+							
+						IZZY: What are you doing here?<br>
+							<br>
+							
+						JERRY: (apologetic) Aw, Mr Mandelbaum, I just wanted to come by and tell you how sorry I was that you hurt yourself.<br>
+							<br>
+							
+						(Izzy stares at Morty as Jerry speaks.)<br>
+							<br>
+							
+						IZZY: What the hell is that?<br>
+							<br>
+							
+						JERRY: What?<br>
+							<br>
+							
+						IZZY: That shirt. You think that you are the number one dad?<br>
+							<br>
+							
+						MORTY: This was a gift from my son.<br>
+							<br>
+							
+						(Morty displays the shirt proudly. Jerry smiles.)<br>
+							<br>
+							
+						IZZY: Oh, I see how it works now. (indicates Jerry) He knocks me outta commission, so (indicates Morty) you can strut around in your fancy number one shirt. (moves the bedcovers) Well, I'll show you who's number one.<br>
+							<br>
+							
+						(Izzy starts to move to get out of bed.)<br>
+							<br>
+							
+						JERRY: Mr Mandelbaum, please.<br>
+							<br>
+							
+						IZZY: It's go time.<br>
+							<br>
+							
+						(Izzy stands up and there is a familiar crunching noise. Izzy freezes in his stance, arms raised.)<br>
+							<br>
+							
+						IZZY: (pained) Ahh. My back. I can't move.<br>
+							<br>
+							
+						(Jerry and Morty look on with horrified concern.)<br>
+							<br>
+							
+						MORTY: Call an ambulance.<br>
+							<br>
+							
+						JERRY: I think I saw one a coupla doors down.<br>
+							<br>
+							
+						(Jerry darts out of the door, followed moments later by Morty.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Jerry's Apartment/Del Boca Vista]<br>
+							<br>
+							
+						(Jerry has just returned from Florida, and is putting away his bag. A worried George sits at the table.)<br>
+							<br>
+							
+						JERRY: (disbelief) So she wanted you to come up, but you left because you thought some guy might be calling you?!<br>
+							<br>
+							
+						(Jerry puts his bag in the bedroom and returns as George paces the floor.)<br>
+							<br>
+							
+						GEORGE: (animated) Some guy. Some guy? Neil! I have got to find out how he could get a girl like Danielle.<br>
+							<br>
+							
+						JERRY: (pointing out the obvious) George, you've got Danielle. Forget about Neil. You've out-Neiled him.<br>
+							<br>
+							
+						GEORGE: (surprised) So, I'm Neil? How did I do that?<br>
+							<br>
+							
+						JERRY: I don't know, but you better keep it up.<br>
+							<br>
+							
+						GEORGE: I'm gonna go meet Danielle. (grabs his coat) There's a new Neil in town! (triumphant laughter) Hahaha!<br>
+							<br>
+							
+						(George exits, cheerfully. The phone rings as the door closes.)<br>
+							<br>
+							
+						JERRY: (to himself) I try to take a vacation, I come back, the whole operation's a shambles. (answers phone) Hello.<br>
+							<br>
+							
+						(In Florida, Helen and Morty each have a handset. Morty is still wearing the '#1 DAD' shirt.)<br>
+							<br>
+							
+						MORTY: Hey Jerry. Number One here. Did you go see Izzy at the back specialist?<br>
+							<br>
+							
+						JERRY: I will, I just walked in the door.<br>
+							<br>
+							
+						HELEN: You have to go see him.<br>
+							<br>
+							
+						JERRY: Ma.<br>
+							<br>
+							
+						MORTY: Helen, will you stop bothering him.<br>
+							<br>
+							
+						HELEN: Jerry, that shirt is gone right to his head.<br>
+							<br>
+							
+						MORTY: Number One, signing off.<br>
+							<br>
+							
+						(The Seinfelds hang up. Jerry's door opens and Kramer bursts in, agitated.)<br>
+							<br>
+							
+						KRAMER: Jerry, I just picked up the Cubans at the bus station. (shrill) What's going on!?<br>
+							<br>
+							
+						JERRY: What?<br>
+							<br>
+							
+						KRAMER: (animated) They're not real Cubans. They're Dominicans.<br>
+							<br>
+							
+						JERRY: So?<br>
+							<br>
+							
+						KRAMER: So, Jerry, if my investors don't get Cubans, the whole deal's off.<br>
+							<br>
+							
+						JERRY: What's the difference?<br>
+							<br>
+							
+						KRAMER: Jerry, once you've had real Cubans, there's just nothing else like it.<br>
+							<br>
+							
+						JERRY: (confused) We're talking about people, right?<br>
+							<br>
+							
+						KRAMER: Yes, yes. The quality, the texture, the intoxicating aroma. These guys don't have it.<br>
+							<br>
+							
+						JERRY: I thought they smelled pretty nice.<br>
+							<br>
+							
+						KRAMER: Jerry, your palate's unrefined.<br>
+							<br>
+							
+						JERRY: Is not.<br>
+							<br>
+							
+						KRAMER: Is too.<br>
+							<br>
+							
+						JERRY: Is not.<br>
+							<br>
+							
+						KRAMER: Is too.<br>
+							<br>
+							
+						JERRY: I'm not having this conversation.<br>
+							<br>
+							
+						KRAMER: Are too.<br>
+							<br>
+							
+						JERRY: Am not.<br>
+							<br>
+							
+						KRAMER: Are too.<br>
+							<br>
+							
+						JERRY: Am not.<br>
+							<br>
+							
+						KRAMER: Are too.<br>
+							<br>
+							<br>
+							<br>
+							
+						[J Peterman's Office]<br>
+							<br>
+							
+						(Peterman lounges behind his desk, as Elaine and another employee pick up notes, photographs, etc.)<br>
+							<br>
+							
+						PETERMAN: Another productive meeting. By the way, I saw that English Patient film last night. It was extraordinary.<br>
+							<br>
+							
+						DUGAN: (enthusiastic) Oh yes. It was so romantic. It ravished me.<br>
+							<br>
+							
+						(Dugan walks away.)<br>
+							<br>
+							
+						PETERMAN: Elaine, what'd you think?<br>
+							<br>
+							
+						ELAINE: (hesitant) Well, uh, act..actually, I haven't seen it. So, I couldn't tell you whether I liked it, or whether it really sucked.<br>
+							<br>
+							
+						PETERMAN: (aghast) You haven't seen it?<br>
+							<br>
+							
+						ELAINE: (shakes head) No.<br>
+							<br>
+							
+						PETERMAN: That's it! Drop everything. We're going right now.<br>
+							<br>
+							
+						(Peterman stuffs some paperwork into a desk drawer.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[The New York Hospital]<br>
+							<br>
+							
+						(Izzy is in a hospital bed, as Jerry stands beside it.)<br>
+							<br>
+							
+						JERRY: Again, Mr Mandelbaum, this back specialist is supposed to be the best. So if there's anything else I can do, please don't hesitate to, uh, try and find my number.<br>
+							<br>
+							
+						(Jerry turns to walk out.)<br>
+							<br>
+							
+						IZZY: Uh, oh, wait.<br>
+							<br>
+							
+						(Izzy rummages on his bedside table and picks up a t-shirt. He holds it up to his chest so Jerry can read what's written on it. 'World's Greatest DAD!')<br>
+							<br>
+							
+						IZZY: How 'bout that, huh? The World's Greatest Dad. My son made it for me.<br>
+							<br>
+							
+						JERRY: (humouring him) That's very nice.<br>
+							<br>
+							
+						IZZY: The best in the world. (pointing to himself) Which means I'm better than just number one.<br>
+							<br>
+							
+						JERRY: Well, I don't know how official any of these rankings really are.<br>
+							<br>
+							
+						(Behind Jerry, an elderly bald guy leans round the doorframe and raps on the door, attracting Izzy's attention.)<br>
+							<br>
+							
+						IZZY: Hi, son.<br>
+							<br>
+							
+						IZZY JR.: Hi daddy.<br>
+							<br>
+							
+						JERRY: (surprise) This is your son?<br>
+							<br>
+							
+						IZZY: I got married in high school.<br>
+							<br>
+							
+						IZZY JR.: (to Jerry) Hey, who are you?<br>
+							<br>
+							
+						IZZY: This is Seinfeld's kid.<br>
+							<br>
+							
+						IZZY JR.: Oh, you think you're tough, picking on an old man? (squaring up to Jerry) Maybe you'd like to try taking on somebody your own age.<br>
+							<br>
+							
+						JERRY: (jocular) You got any kids?<br>
+							<br>
+							
+						IZZY JR.: Oh, you think you're better than me? (challenging) Go ahead, pick out anything in the room here. I'll lift it up over my head.<br>
+							<br>
+							
+						JERRY: (trying to defuse the situation) Look, no-one is lifting anything.<br>
+							<br>
+							
+						IZZY: (pointing) The television.<br>
+							<br>
+							
+						JERRY: (under his breath) Oh no.<br>
+							<br>
+							
+						(Izzy Jr walks over to the TV, which sits on top of a cabinet.)<br>
+							<br>
+							
+						IZZY JR.: This one's for you, Pop. It's go time.<br>
+							<br>
+							
+						(Izzy Jr takes a grip on the TV, but there's another crunching sound as he tries to lift, and an agonised expression comes to his face. Jerry cringes in the background.)<br>
+							<br>
+							
+						IZZY JR.: (pained) Ohh! My back!<br>
+							<br>
+							
+						IZZY: (urgent) Call an ambulance.<br>
+							<br>
+							
+						JERRY: (laconic) We're already in a hospital.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Earl Haffler's Office]<br>
+							<br>
+							
+						(A suit-wearing Kramer is in the office of Earl Haffler - cigar-smoking, stetson-wearing, Texan businessman.)<br>
+							<br>
+							
+						HAFFLER: Awright, partner. Let's get down to business.<br>
+							<br>
+							
+						KRAMER: (nervous) Okay, well, uh, I'll uh, I'll get the Cubans.<br>
+							<br>
+							
+						(Kramer walks over to the door trying to smile confidently.)<br>
+							<br>
+							
+						KRAMER: They're right out here.<br>
+							<br>
+							
+						(Kramer calls a few words of nonsense Spanish out of the door, and the three guys stroll in. They are dressed in Castro-style green fatigues and caps.)<br>
+							<br>
+							
+						KRAMER: Hey, here they are. The Cubans. Real Cubans.<br>
+							<br>
+							
+						(Earl Haffler regards the three for a second or two.)<br>
+							<br>
+							
+						HAFFLER: You wouldn't be trying to sell old Earl Haffler Dominicans in a Cuban wrapper now, would you?<br>
+							<br>
+							
+						KRAMER: (fidgety) Oh, now, come on. Look at these boys. If they were any more Cuban, Castro would've smoked them himself. Huh.<br>
+							<br>
+							
+						HAFFLER: (confusion) We're talking about people, right?<br>
+							<br>
+							
+						KRAMER: (puzzled) I think so.<br>
+							<br>
+							
+						HAFFLER: I thought he quit smoking cigars.<br>
+							<br>
+							
+						KRAMER: Well, yeah, yeah. But they also rolled for his brother... (thinks for a second) ...Dennis.<br>
+							<br>
+							
+						HAFFLER: (dubious) Dennis Castro?<br>
+							<br>
+							
+						KRAMER: Uh, Dwayne.<br>
+							<br>
+							
+						HAFFLER: Get the hell outta my office.<br>
+							<br>
+							
+						KRAMER: (shrill) What!?<br>
+							<br>
+							<br>
+							<br>
+							
+						[Monk's]<br>
+							<br>
+							
+						(Danielle and George walk over to, and sit in, a booth.)<br>
+							<br>
+							
+						DANIELLE: You know, Neil called me today.<br>
+							<br>
+							
+						GEORGE: (interested) Really?<br>
+							<br>
+							
+						DANIELLE: Yeah. He's pretty upset that I broke up with him to go out with you.<br>
+							<br>
+							
+						GEORGE: (smug) Ah, I guess I showed Neil who's Neil.<br>
+							<br>
+							
+						DANIELLE: He wants to get together tomorrow night and have coffee.<br>
+							<br>
+							
+						GEORGE: (little worried) Coffee? (thinks) I can beat that. Move in with me.<br>
+							<br>
+							
+						DANIELLE: (surprised) What?<br>
+							<br>
+							
+						GEORGE: (smiles) Beats the hell out of coffee.<br>
+							<br>
+							
+						(Danielle smiles at George, still a touch confused.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Movie Theatre]<br>
+							<br>
+							
+						(Peterman and Elaine sit in the auditorium. The English Patient is playing and many of the crowd are tearfully dabbing their eyes. Peterman is particularly emotional. Elaine looks completely bored, and is tossing pieces of popcorn up in the air to try and catch them in her mouth.)<br>
+							<br>
+							
+						PETERMAN: (emotional) And I thought I knew what love was.<br>
+							<br>
+							
+						(One of Elaine's bits of popcorn misses her mouth and falls behind her seat. Elaine twists round and reaches over to retrieve it, before slumping in her seat wearily.)<br>
+							<br>
+							
+						ELAINE: (indifferent) Yuh.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Monk's]<br>
+							<br>
+							
+						(Jerry and George sit in a booth. George looks ragged and is swigging from a bottle of some anti-acid medication.)<br>
+							<br>
+							
+						JERRY: (incredulous) You asked her to move in with you?<br>
+							<br>
+							
+						GEORGE: I gotta stay one step ahead of Neil.<br>
+							<br>
+							
+						JERRY: (musing) What if it's Neil Armstrong?<br>
+							<br>
+							
+						(George thinks for a moment, his eyes twitching.)<br>
+							<br>
+							
+						GEORGE: (animated) Then I'm going to Mars!<br>
+							<br>
+							
+						JERRY: What if it's Neil Diamond?<br>
+							<br>
+							
+						GEORGE: (tormented) Aw, shut up Jerry! Just shut up!<br>
+							<br>
+							
+						JERRY: Alright, I gotta go back to the hospital.<br>
+							<br>
+							
+						GEORGE: What, to see the old guy?<br>
+							<br>
+							
+						JERRY: No, I got into a thing with the son, and now he's laid up too.<br>
+							<br>
+							
+						GEORGE: How old's the son?<br>
+							<br>
+							
+						JERRY: I think he's the same age as the father.<br>
+							<br>
+							
+						GEORGE: What is with this family?<br>
+							<br>
+							
+						JERRY: I dunno. It's like, if one of 'em dies, the other one wants to bench press the casket.<br>
+							<br>
+							
+						(Kramer sidles into the coffee shop. He peers past the register, to where the three guys are sitting in the far corner, talking together. Then he moves over to join Jerry and George.)<br>
+							<br>
+							
+						KRAMER: (quietly) Hey, Jerry.<br>
+							<br>
+							
+						(Kramer indicates the three guys with his thumb.)<br>
+							<br>
+							
+						KRAMER: (noise - like shivery) Datiditadit.<br>
+							<br>
+							
+						JERRY: You're cold?<br>
+							<br>
+							
+						KRAMER: No. (indicates with his head) (noise again) Ditadidatidat.<br>
+							<br>
+							
+						JERRY: Something wrong with your chest?<br>
+							<br>
+							
+						KRAMER: (indicating with his thumb) Dijadidatjd. There.<br>
+							<br>
+							
+						JERRY: (leaning round Kramer) Where?<br>
+							<br>
+							
+						KRAMER: (urgent) No, no. Don't look. Don't look.<br>
+							<br>
+							
+						(Jerry and George look as if they're infected by Kramer's nervousness, as they try and look surreptitiously at the Dominicans.)<br>
+							<br>
+							
+						KRAMER: Over there. The Dominicans.<br>
+							<br>
+							
+						JERRY: Aren't they supposed to be rolling cigars?<br>
+							<br>
+							
+						KRAMER: Well, it didn't quite work out, and now I've got nothing for them to do.<br>
+							<br>
+							
+						GEORGE: So?<br>
+							<br>
+							
+						KRAMER: So, I taught 'em all about Cuba, and they really took to it. You know, Marxism, the Worker's Revolution, the clothing.<br>
+							<br>
+							
+						(In the corner, one of the Dominicans thumps the table, as if to underscore a point in his argument.)<br>
+							<br>
+							
+						JERRY: Boy, they seem pretty angry about something.<br>
+							<br>
+							
+						KRAMER: (nervous) Yeah. I'm a little worried. When there's no work, and the people get restless, who do you think they come after? (pointing to himself, shrill) El Presidente!<br>
+							<br>
+							
+						(Again, one of the Dominicans thumps the table. Kramer jumps at the sound.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[The New York Hospital]<br>
+							<br>
+							
+						(Izzy and Izzy Jr are laid up in beds placed side-by-side.)<br>
+							<br>
+							
+						JERRY: I swear to you, I didn't know they TV was bolted to the table.<br>
+							<br>
+							
+						IZZY JR.: I bet you pulled that trick on my daddy, in Florida.<br>
+							<br>
+							
+						JERRY: He couldn't handle the weight.<br>
+							<br>
+							
+						IZZY: (hostile) Oh, so now you think you're better than me?<br>
+							<br>
+							
+						IZZY JR.: (indicating Izzy) You think you're better than him?!<br>
+							<br>
+							
+						JERRY: (placatory) Look, let me just state for the record, I think you're both better than me.<br>
+							<br>
+							
+						IZZY: Okay.<br>
+							<br>
+							
+						(An even more elderly guy than Izzy enters the room behind Jerry. He spreads his arms in greeting to the Mandelbaums.)<br>
+							<br>
+							
+						IZZY SR.: My boys.<br>
+							<br>
+							
+						IZZY: My dad.<br>
+							<br>
+							
+						IZZY JR.: My grandpa.<br>
+							<br>
+							
+						JERRY: (incredulous) Oh, come on!<br>
+							<br>
+							
+						IZZY SR.: (indicating Izzy Jr) What happened to him?<br>
+							<br>
+							
+						JERRY: He was trying to lift the TV.<br>
+							<br>
+							
+						IZZY SR.: (pointing) That TV?<br>
+							<br>
+							
+						(Izzy Sr. strides purposefully toward the TV.)<br>
+							<br>
+							
+						JERRY: (consternation) Oh no. (to the bedridden two) It's go time.<br>
+							<br>
+							
+						(Off-screen there is a familiar crunching sound.)<br>
+							<br>
+							
+						IZZY IZZY SR.. (O.C.): (pained) Oohh!<br>
+							<br>
+							<br>
+							<br>
+							
+						[The New York Hospital]<br>
+							<br>
+							
+						(All three of the Mandelbaums are in a row of beds in the same room.)<br>
+							<br>
+							
+						IZZY SR.: Why didn't anybody tell me? It was bolted down!<br>
+							<br>
+							
+						IZZY: I still thought you could do it.<br>
+							<br>
+							
+						IZZY JR.: Me too.<br>
+							<br>
+							
+						IZZY/IZZY JR/IZZY IZZY SR.: (chanting and punching the air) Mandelbaum, Mandelbaum, Mandelbaum...<br>
+							<br>
+							
+						JERRY: Fellas, fellas, look, I gotta go.<br>
+							<br>
+							
+						IZZY: Oh yeah, that's right. Go. Put us all in the hospital. And you've ruined our business with all your macho head games.<br>
+							<br>
+							
+						JERRY: (defensive) I didn't ruin your business.<br>
+							<br>
+							
+						IZZY: Yes, you did. There's nobody there now at the Magic Pan to roll the crepes. We gotta close it up.<br>
+							<br>
+							
+						JERRY: (uncertain) Don't you hire people to do that?<br>
+							<br>
+							
+						IZZY: Each crepe has to be hand-rolled by a Mandelbaum. That's what puts the magic in Magic Pan!<br>
+							<br>
+							
+						JERRY: (thinking) So, you just need some guys that could roll 'em?<br>
+							<br>
+							
+						IZZY: Yeah.<br>
+							<br>
+							
+						JERRY: (having an idea) I think I can help you out. I'll see you later.<br>
+							<br>
+							
+						(Jerry turns and starts to leave, but is called back.)<br>
+							<br>
+							
+						IZZY SR.: (calls) Hey, I can't see the TV.<br>
+							<br>
+							
+						(Jerry walks to the TV and picks it,and the attached cabinet up. HE carries it across the room to the foot of Izzy Sr.'s bed,where he places it.)<br>
+							<br>
+							
+						JERRY: Here.<br>
+							<br>
+							
+						(Jerry walks out of the room followed by the angry cries of Izzy.)<br>
+							<br>
+							
+						IZZY: You think you're better than us, don't you?! Huh!?<br>
+							<br>
+							<br>
+							<br>
+							
+						[Movie Theatre]<br>
+							<br>
+							
+						(Peterman and Elaine are still in front of The English Patient. Peterman stares, enraptured, at the screen. Elaine is totally frantic with boredom.)<br>
+							<br>
+							
+						PETERMAN: Elaine, I hope you're watching the clothes, because I can't take my eyes off the passion.<br>
+							<br>
+							
+						ELAINE: (quiet vehemence) Oh. No. I can't do this any more. I can't. It's too long. (to the screen) Quit telling your stupid story, about the stupid desert, and just die already! (louder) Die!!<br>
+							<br>
+							
+						(The other movie patrons turn and shush Elaine, who sits back in her seat.)<br>
+							<br>
+							
+						PETERMAN: (surprised) Elaine. You don't like the movie?<br>
+							<br>
+							
+						ELAINE: (shouts) I hate it!!<br>
+							<br>
+							
+						CROWD: Shh!<br>
+							<br>
+							
+						ELAINE: (shouts) Oh, go to hell!!<br>
+							<br>
+							
+						PETERMAN: (quietly) Well, why didn't you say so in the first place? You're fired.<br>
+							<br>
+							
+						ELAINE: (grabbing her bag and coat) Great. I'll wait for you outside.<br>
+							<br>
+							
+						(Elaine hurriedly gets out of her seat and leaves.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Magic Pan Restaurant]<br>
+							<br>
+							
+						(Jerry and Elaine sit in a booth, talking over coffee.)<br>
+							<br>
+							
+						JERRY: He was gonna fire you?<br>
+							<br>
+							
+						ELAINE: The only way I could talk him out of it was that I agreed to go and visit the Tunisian desert.<br>
+							<br>
+							
+						JERRY: Tunisia?<br>
+							<br>
+							
+						ELAINE: That's where they filmed the movie. It's supposed to inspire me.<br>
+							<br>
+							
+						JERRY: Well, that doesn't sound so bad.<br>
+							<br>
+							
+						ELAINE: I have to live in a cave.<br>
+							<br>
+							
+						JERRY: (sardonic) Oh. (smiles)<br>
+							<br>
+							
+						(Kramer comes over to the booth.)<br>
+							<br>
+							
+						KRAMER: These Dominicans really know their way round a crepe. Look at that. It's like they're rolling a double corona.<br>
+							<br>
+							
+						(The three Dominican guys are making crepes, and then rolling them around fillings.)<br>
+							<br>
+							
+						KRAMER: (to one of the guys) Just a cigar made outta bisquik, huh, Guillermo?<br>
+							<br>
+							
+						(The Dominican smiles back.)<br>
+							<br>
+							
+						(Over in another part of the restaurant, Danielle sits in a booth with Neil. Neil is clearly bald, but has his back to the camera.)<br>
+							<br>
+							
+						DANIELLE: I'm very happy with George. I'm sorry Neil, it's over.<br>
+							<br>
+							
+						(Neil's head drops at this news.)<br>
+							<br>
+							
+						DANIELLE: Come on, let's just eat our crepes.<br>
+							<br>
+							
+						(The Dominicans are handing out plates of rolled crepes to various tables.)<br>
+							<br>
+							
+						(At one table a customer prods a rolled crepe with his fork and a jet of scalding hot filling squirts out into his face.)<br>
+							<br>
+							
+						CUSTOMER: (pained scream) Aaghh!! My face!<br>
+							<br>
+							
+						(At another table, another customer digs his fork in, and is rewarded with a faceful of blistering filling.)<br>
+							<br>
+							
+						(Neil sticks his fork into his crepe and recoils as hot liquid jets into his face.)<br>
+							<br>
+							
+						DANIELLE: (concerned cry) Neil!<br>
+							<br>
+							
+						(The restaurant is in chaos as yells of pain come from all sides. Elaine, Jerry and Kramer look round at the commotion.)<br>
+							<br>
+							
+						JERRY: Why are the crepes spraying?<br>
+							<br>
+							
+						KRAMER: (looks over at the three guys) The Dominicans are rolling them too tight. (regretful) Uhm, well, that's why you gotta get real Cubans.<br>
+							<br>
+							
+						(Another scream rents the air.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Metropolitan Hospital Center]<br>
+							<br>
+							
+						(In a hospital room, Neil lies in a bed, his face obscured with bandages and an IV line connected to him. Danielle is there fussing with the remains of a hospital meal on a tray. George enters.)<br>
+							<br>
+							
+						GEORGE: Danielle. Where's Neil? (indicating the bed) Is this him?<br>
+							<br>
+							
+						DANIELLE: Yeah, that blueberry crepe burned him pretty badly.<br>
+							<br>
+							
+						(George picks up a walking stick which was propped against the bed.)<br>
+							<br>
+							
+						GEORGE: (to Danielle) Whose cane is this?<br>
+							<br>
+							
+						DANIELLE: It's Neil's.<br>
+							<br>
+							
+						(Danielle walks away with a water jug from Neil's table. She goes to a sink in the corner as George speaks.)<br>
+							<br>
+							
+						GEORGE: (to himself) A cane. I knew it. (to Neil) So, we meet at last. I admire your skills, Mr Peanut.<br>
+							<br>
+							
+						(Danielle brings back the jug.)<br>
+							<br>
+							
+						GEORGE: Well, Danielle, (digs in his pocket) we should get going. I got a key made for you.<br>
+							<br>
+							
+						(George flourishes a doorkey before Danielle.)<br>
+							<br>
+							
+						DANIELLE: George, I can't move in with you.<br>
+							<br>
+							
+						GEORGE: (shocked) What?<br>
+							<br>
+							
+						DANIELLE: I'm sorry, but I'm taking Neil to a clinic in England.<br>
+							<br>
+							
+						GEORGE: (animated) N..no, no. You can't leave me. (frantic) Marry me! I'll burn myself. I'll burn my parents!<br>
+							<br>
+							
+						DANIELLE: Sorry George.<br>
+							<br>
+							
+						(Danielle takes the jug and leaves the room. Dejectedly, George wanders toward the door. As he moves, Neil whispers to him.)<br>
+							<br>
+							
+						NEIL: (beckoning) George.<br>
+							<br>
+							
+						(George leans over to Neil, so he can hear him speak.)<br>
+							<br>
+							
+						NEIL: (quiet triumph) I win.<br>
+							<br>
+							
+						(George purses his lips and nods ruefully. He stands up and leaves, closing the door behind him. There is a brief pause, then the door opens a few inches and George's hand reaches back inside the room, takes hold of the IV line and tugs it sharply, breaking it free of the IV bag,and drops it. Then the hand is withdrawn and the door closes again.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Plane]<br>
+							<br>
+							
+						(Elaine sits in an aisle seat in a 747, reading a Let's Go Tunisia book. She listens as a voice comes over the tannoy.)<br>
+							<br>
+							
+						TAN: Ladies and gentlemen. In just one moment, we'll be showing our feature presentation...<br>
+							<br>
+							
+						ELAINE: (dread) No, no, no, no, no.<br>
+							<br>
+							
+						TAN: ...the comedy hit, Sack Lunch, starring Dabney Coleman.<br>
+							<br>
+							
+						ELAINE: (cheering up) Ah, right! Aw, this is shaping up.<br>
+							<br>
+							
+						(Smiling, Elaine puts down her book to watch the movie. Someone from a seat beside her wants to get out.)<br>
+							<br>
+							
+						GUY: Excuse me, please.<br>
+							<br>
+							
+						ELAINE: Oh, sure.<br>
+							<br>
+							
+						(The guy pushes past her. He's holding a rolled-up magazine closely to his body, as if concealing something and, strangely, is wearing a '#1 DAD' t-shirt. There's a little awkwardness as he squeezes by.)<br>
+							<br>
+							
+						ELAINE: (uncomfortable) Ooh.<br>
+							<br>
+							
+						(The guy walks down the aisle and turns to face the passengers. Two other guys in '#1 DAD' t-shirts flank him. They are the three Dominican guys.)<br>
+							<br>
+							
+						GUILLERMO: Ladies and gentlemen. Because we have been exploited by your Magic Pan crepe restaurants...<br>
+							<br>
+							
+						(From inside his magazine, Guillermo produces a revolver. The other two guys also pull out guns, which they point upwards and cock, loudly.)<br>
+							<br>
+							
+						GUILLERMO: ...we are hijacking this plane to Cuba!<br>
+							<br>
+							
+						(There is consternation among the passengers, shocked looks, gasps, etc.)<br>
+							<br>
+							
+						GUILLERMO: Everyone stay in your seats. And shut that movie off!<br>
+							<br>
+							
+						ELAINE: (annoyed) Aww, nuts!<br>
+							<br>
+							<br>
+							
+						The End</td>
+						</tr>
+						<tr height="6">
+							<td class="bottom2" width="645" height="6"></td>
+						</tr>
+						<tr>
+							<td width="645">
+								<div align="center">
+									<font size="-1">Copyright 2006 seinology.com | All Rights Reserved | Designed by 13erla</font></div>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+		<p></p>
+	</body>
+
+</html>

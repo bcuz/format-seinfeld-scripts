@@ -1,0 +1,1691 @@
+<tdOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+<html>
+
+	<head>
+		<meta http-equiv="content-type" content="text/html;charset=ISO-8859-1">
+		<meta name="description" content="Top Source for Seinfeld">
+		<meta name="keywords" content="seinfeld, sienfeld, Jerry Seinfeld, Julia Louis Dreyfus, Jason Alexander, Michael Richards, Kramer, George, Costanza, Elaine Benes, morty, Larry David">
+		<title>Seinology.com :: Scripts :: 120-The Gum</title>
+	<link rel='stylesheet' href='/stylesheet.css' type='text/css'>
+	</head>
+
+	<body>
+			<table align="center" width="787" border="0" cellspacing="0" cellpadding="0">
+				<tr>
+					<td><font size="-2" color="red">Seinology.com - </font><font size="-3" color="black">Where Seinfeld Content and Accuracy Matter Most. Seinfeld scripts in pdf form, Seinfeld episode video clips, Seinfeld episode audio clips, Jerry Seinfeld appearances, Julia Louis-Dreyfus appearances, Michael Richards appearances, Jason Alexander appearances, Seinfeld discussion Forum, Seinfeld Where are they Now? Seinlanguage Newsletter, Popular Seinfeld Lists, Seinfeld episode standup, Seinfeld episode guide, Seinfeld fan fiction. Seinfeld content all on one domain. Seinology.com enjoy your stay.</font></td>
+				</tr>
+			</table>
+		
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr height="100">
+				<td class="logo"></td>
+			</tr>
+			<tr><td class="ads" align="center" background=#8694fa>
+				<script type="text/javascript"><!--
+google_ad_client = "pub-1924026976931416";
+google_ad_width = 728;
+google_ad_height = 90;
+google_ad_format = "728x90_as";
+google_ad_type = "text";
+google_ad_channel = "";
+google_color_border = "FFFFFF";
+google_color_bg = "8694fa";
+google_color_link = "0000FF";
+google_color_text = "000000";
+google_color_url = "002E3F";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></td></tr>
+		</table>
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr>
+				<td valign="top" width="136">
+					<table width="136" border="0" cellspacing="0" cellpadding="0">
+						<tr height="24">
+							<td class="navigation">
+								<div align="center">
+									
+									<b>Navigation</b></div>
+							</td>
+						</tr>
+						<tr height="199">
+							<td class="spacer1" valign="top" width="136" height="199">
+								<div align="center">
+									<font size="-1"><a href="http://www.seinology.com">Home</a><br>
+										<a href="http://board.seinology.com">Forum</a><br>
+										<a href="http://www.seinology.com/av.shtml">Audio/Video</a><br>
+										<a href="http://www.seinology.com/scripts.shtml">Scripts</a><br>
+										<a href="http://www.seinology.com/survivor.shtml">Survivor</a><br>
+										<a href="http://www.seinology.com/fanfics.shtml">Fan Fiction</a><br>
+										<a href="http://www.seinology.com/gallery/">Gallery</a><br>
+										<a href="http://www.seinology.com/newsletter.shtml">Newsletter</a><br>
+										<a href="http://www.seinology.com/lists.shtml">Lists</a><br>
+										<a href="http://www.seinology.com/epguide.shtml">Episode Guide</a><br>
+										<a href="http://www.seinology.com/links.shtml">Links</a><br>
+										<a href="http://www.seinology.com/faqother.shtml">Faq + others</a><br>
+										<a href="http://www.seinology.com/legal.shtml">Legal</a></font></div>
+							</td>
+						</tr>
+						
+						<tr>
+							<td class="nav2" width="136">
+							<div align="center"><b>Search</b></div></td>
+						</tr>
+						<tr>
+							<td class="spacer1" width="136" valign="top"><div align="center"><form method="get" action="http://www.seinology.com/search/search.cgi">
+<p><label for="fdse_Match">Match</label><br>
+<select name="Match" id="fdse_Match" size="1">
+<option value="1">All</option>
+<option value="0">Any</option>
+<option value="2">Phrase</option>
+</select></p>
+<p><label for="fdse_Realm">Where?</label><br>
+<select name="Realm" id="fdse_Realm" size="1">
+<option selected="selected" value="All">EntireSite</option>
+<option value="Ep Guide">Ep Guide</option>
+<option value="Images">Images</option>
+<option value="Lists">Lists</option>
+<option value="Newsletters">Newsletters</option>
+<option value="Scripts">Scripts</option>
+<option value="Notes..Nothing">Notes..Nothing</option>
+</select></p>
+<p><input type="text" name="Terms" size="14" id="fdse_Terms"><br>
+<input type="submit" class="submit" name="submitButtonName" value="Search"></p>
+</div></form></td>
+						</tr>
+						<tr><td class="bottom" width="136" height="10" valign="top">
+						</td>
+						</tr>
+					</table>
+				</td>
+				<td width="4"></td>
+				<td valign="top" width="645">
+					<table width="645" border="0" cellspacing="0" cellpadding="0">
+						<tr height="18">
+							<td width="645" height="35" class="bar">
+								<div align="center">
+									<b><font size="+2" color="black">Script</font></b></div>
+							</td>
+						</tr>
+						<tr height="362">
+							<td class="spacer2" valign="top" width="645" height="362">
+
+						<p><font size="-2">Episode 120 - The Gum<br>
+							
+						pc: 710, season 7, episode 10<br>
+							
+						Broadcast date: December 14, 1995<br>
+							<br>
+							
+						Written by Tom Gammill &amp; Max Pross<br>
+							
+						Directed by Andy Ackerman<br>
+							<br>
+							
+						-------------------------------------------------------------------------------<br>
+							<br>
+							
+						The Cast<br>
+							
+						Regulars:<br>
+							
+						Jerry Seinfeld .......................&nbsp; Jerry Seinfeld<br>
+							
+						Jason Alexander ..................&nbsp; George Costanza<br>
+							
+						Julia Louis-Dreyfus .............&nbsp; Elaine Benes<br>
+							
+						Michael Richards .................&nbsp; Cosmo Kramer<br>
+							<br>
+							
+						Guest Stars:<br>
+							<br>
+							
+						Matt McCoy ......................... Lloyd<br>
+							
+						Mary Jo Keenen .................. Deena<br>
+							
+						Eric Christmas ..................... Haarwood<br>
+							
+						Sandy Ward ........................ Pop Lazzari<br>
+							
+						Ruth Cohen ......................... Cashier<br>
+							
+						Lionel Mark Smith ............... Florist<br>
+							
+						Vito D'Ambrosio ................. Cop<br>
+							
+						Alan Watt ........................... Attendant<br>
+							
+						Larry David ........................ Gum salesman (uncredited cameo)<br>
+							<br>
+							
+						==================================================================<br>
+							<br>
+							
+						[Opening Monologue]<br>
+							<br>
+							
+						(unwrapping a piece of gum) I think gum is, is one of the weirdest human inventions. (pops gum in his mouth) It's not a liquid, 's not a solid, 's not a food. What is it? It isn't really anything, you know. I mean, it's like a stationary bike for your jaw. Like, remember when you were in school, and teachers would get all riled up if they caught you with gum? And when you were a kid, you'd think 'What is the big deal?' But, as an adult, I can understand it, because when you're chewing gum, you don't look like you're too thrilled with anything anyone has to say. (as sarcastic teen) 'Oh, World War Two. That was an important historical event? Yeah, I'm sure.' 'They landed a man on the moon, nineteen sixty-nine? Yeah, right. Yeah, I buy that, teach.'<br>
+							<br>
+							<br>
+							<br>
+							
+						[Monks']<br>
+							<br>
+							
+						(Jerry and George sitting in a booth, much as usual.)<br>
+							<br>
+							
+						GEORGE: You think she's happy?<br>
+							<br>
+							
+						JERRY: Who?<br>
+							<br>
+							
+						GEORGE: (indicates with his head) The cashier.<br>
+							<br>
+							
+						JERRY: Ruthie Cohen?<br>
+							<br>
+							
+						GEORGE: (surprised) You know her name?<br>
+							<br>
+							
+						JERRY: Sure.<br>
+							<br>
+							
+						GEORGE: I don't think I've ever spoken to her.<br>
+							<br>
+							
+						JERRY: Maybe that's why she's happy.<br>
+							<br>
+							
+						(Kramer enters. He has a handful of flyers.)<br>
+							<br>
+							
+						KRAMER: (handing Jerry &amp; George a flyer) Good morning, gentlemen.<br>
+							<br>
+							
+						JERRY: What is this?<br>
+							<br>
+							
+						KRAMER: (removing his coat) Yeah, well, it's the latest offering from the Alex Theatre.<br>
+							<br>
+							
+						JERRY: That stinky old movie-house?<br>
+							<br>
+							
+						KRAMER: (sits beside Jerry) Well, you should smell it now. We fixed up the place.<br>
+							<br>
+							
+						GEORGE: (gesturing with flyer) With Spartacus?<br>
+							<br>
+							
+						KRAMER: (lighting his pipe) Well, it's a rare archival print. (jumps as his burns his fingers) Twelve extra minutes, full wide-screen CinemaScope, and if you come to the one o'clock show, you can hear Geoffrey Har-harwood.<br>
+							<br>
+							
+						JERRY: Geoffrey who?<br>
+							<br>
+							
+						KRAMER: Har-harwood, Jerry. He was the assistant wardrobe man on Spartacus. Some fascinating insights into the production.<br>
+							<br>
+							
+						GEORGE: Why would I spend seven dollars to see a movie that I could watch on TV?<br>
+							<br>
+							
+						KRAMER: Well, why go to a fine restaurant, when you can just stick something in the microwave? Why go to the park and fly a kite, when you can just pop a pill? (looks around Monk's) Listen, you guys haven't seen Lloyd Braun, have you? I'm supposed to meet him here.<br>
+							<br>
+							
+						GEORGE: Lloyd Braun? What d'you have to meet him for?<br>
+							<br>
+							
+						KRAMER: Well, he's using his connections in the Mayor's office, to uh, get the theatre landmark status.<br>
+							<br>
+							
+						JERRY: I thought he screwed up the Dinkins campaign.<br>
+							<br>
+							
+						KRAMER: Well, he did. You know, after that, he had a nervous breakdown? Had to spend a few months in an institution.<br>
+							<br>
+							
+						GEORGE: Really?<br>
+							<br>
+							
+						KRAMER: Yeah, but he's doing a lot better now. I've taken him under my wing.<br>
+							<br>
+							
+						JERRY: Oh, then I'm not worried.<br>
+							<br>
+							
+						(Lloyd Braun enters in the background.)<br>
+							<br>
+							
+						KRAMER: But he still needs all of our support. Now, when he gets here treat him like he's one of the gang, huh.<br>
+							<br>
+							
+						(Lloyd wanders toward the guys at the table.)<br>
+							<br>
+							
+						GEORGE: (thoughtful) Breakdown, huh?<br>
+							<br>
+							
+						LLOYD: Hey Kramer.<br>
+							<br>
+							
+						KRAMER: Oh, hey Lloyd, hey buddy. (gets up and shakes Lloyd's hand)<br>
+							<br>
+							
+						LLOYD: How you doing?<br>
+							<br>
+							
+						KRAMER: (slaps Lloyd on the shoulder) Sit down. (sits himself)<br>
+							<br>
+							
+						LLOYD: Hi Jerry.<br>
+							<br>
+							
+						JERRY: Lloyd.<br>
+							<br>
+							
+						LLOYD: George.<br>
+							<br>
+							
+						(Lloyd sits beside George.)<br>
+							<br>
+							
+						GEORGE: Hello, Lloyd. How you doing?<br>
+							<br>
+							
+						KRAMER: Yeah well, he's doing fine, George.<br>
+							<br>
+							
+						LLOYD: (offering packet) Gum?<br>
+							<br>
+							
+						JERRY: (peering) That's an interesting package.<br>
+							<br>
+							
+						LLOYD: Yeah, it's from China. Go ahead, try a piece. Tell me that's not the most delicious gum you've ever tasted.<br>
+							<br>
+							
+						KRAMER: Yes, yes. We shall all try a piece and tell you how delicious it is. (he takes pieces for himself and Jerry)<br>
+							<br>
+							
+						LLOYD: George?<br>
+							<br>
+							
+						GEORGE: I don't chew gum.<br>
+							<br>
+							
+						JERRY: (chewing) Mmm, different. Where'd you get it?<br>
+							<br>
+							
+						LLOYD: Friend of mine in Chinatown gave it to me. If you want I can ask him where he got it.<br>
+							<br>
+							
+						JERRY: Nah, don't bother.<br>
+							<br>
+							
+						LLOYD: No, it's no problem.<br>
+							<br>
+							
+						JERRY: I don't want it.<br>
+							<br>
+							
+						KRAMER: Jerry, Jerry. Lloyd says it's no problem. He's capable of locating the gum.<br>
+							<br>
+							
+						JERRY: Alright.<br>
+							<br>
+							
+						KRAMER: Mmm, delicious. This is delicious. Mmm.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Jerry's Apartment]<br>
+							<br>
+							
+						(George sits at the table examining the contents of his wallet. Jerry is still chewing, and by his face, he's not enjoying it.)<br>
+							<br>
+							
+						GEORGE: You know what? I think this Ruthie Cohen gave me the wrong change. Didn't I pay with a twenty? I'm sure I paid with a twenty.<br>
+							<br>
+							
+						(Elaine enters.)<br>
+							<br>
+							
+						ELAINE: Hey.<br>
+							<br>
+							
+						GEORGE: Hey.<br>
+							<br>
+							
+						JERRY: I think I finally figured out what the flavor is in this gum. It's a little lo-mein-y. (he spits it into the waste bin)<br>
+							<br>
+							
+						ELAINE: What kind is that?<br>
+							<br>
+							
+						JERRY: It's Chinese gum, Lloyd Braun gave me.<br>
+							<br>
+							
+						ELAINE: Lloyd Braun? How's he doing?<br>
+							<br>
+							
+						GEORGE: (almost gleeful) After Dinkins lost the election, he had a complete nervous breakdown. They had to lock him up.<br>
+							<br>
+							
+						ELAINE: You know, that's around the same time I broke up with Lloyd. Y... you don't think that I had anything to do with his breakdown, do you?<br>
+							<br>
+							
+						JERRY: You know, I remember when we parted company, I was babbling incoherently for months.<br>
+							<br>
+							
+						ELAINE: Yeah? Well, I got news for you.<br>
+							<br>
+							
+						GEORGE: The whole time that I was growing up, all I ever heard from my mother was 'Why can't you be more like that Lloyd Braun?'<br>
+							<br>
+							
+						JERRY: And in the end Lloyd Braun became more like you.<br>
+							<br>
+							
+						(George snaps his fingers and points to Jerry, signaling his agreement. Then he picks up his jacket and heads for the door.)<br>
+							<br>
+							
+						GEORGE: Right, gotta get going.<br>
+							<br>
+							
+						JERRY: Aren't you coming with us to Spartacus?<br>
+							<br>
+							
+						GEORGE: Nah, I gotta deliver some Christmas presents to my parents.<br>
+							<br>
+							
+						JERRY: I thought your parents were outta town?<br>
+							<br>
+							
+						GEORGE: Why d'you think I'm going now?<br>
+							<br>
+							<br>
+							<br>
+							
+						[Street: Queens]<br>
+							<br>
+							
+						(George has parked his car on the street, and gets out. An elderly guy is on the porch of his house and recognises George.)<br>
+							<br>
+							
+						POP: Georgie!<br>
+							<br>
+							
+						GEORGE: Hey, Mr Lazzari.<br>
+							<br>
+							
+						POP: Back in the old neighborhood, ah?<br>
+							<br>
+							
+						GEORGE: Yeah, yeah. Just delivering some presents to my folks.<br>
+							<br>
+							
+						POP: Oh, snazzy car. Le Baron?<br>
+							<br>
+							
+						GEORGE: Yeah, eighty-three. Used to belong to John Voight.<br>
+							<br>
+							
+						POP: The actor, right?<br>
+							<br>
+							
+						GEORGE: Something like that.<br>
+							<br>
+							
+						POP: Mind if I look under the hood?<br>
+							<br>
+							
+						GEORGE: Oh, no no no no. Go ahead, Pop, you always knew your cars.<br>
+							<br>
+							
+						(A young woman has exited from the old guy's house, and approaches.)<br>
+							<br>
+							
+						POP: Oh, Deena! Deena, Deena, l... look who's here.<br>
+							<br>
+							
+						(Pop lifts the hood of the car, and leans into the engine compartment.)<br>
+							<br>
+							
+						DEENA: George Costanza, is that you?<br>
+							<br>
+							
+						GEORGE: Hey Deena, come on, give us a hug. (they hug) Oh my gosh, you look as pretty as you did back in high school.<br>
+							<br>
+							
+						DEENA: Boy, those were some crazy times.<br>
+							<br>
+							
+						GEORGE: Yeah, yeah. Speaking of crazy, did you hear about Lloyd Braun?<br>
+							<br>
+							<br>
+							<br>
+							
+						[Alex Theatre: Lobby]<br>
+							<br>
+							
+						(Kramer is leading Jerry and Elaine on a tour of the Alex. There are a few customers scattered about and a bored attendant behind the counter. Elaine has a big bucket of popcorn.)<br>
+							<br>
+							
+						KRAMER: The Alex was built in nineteen twenty-two, during the golden era of movie palaces. Minor restorations in nineteen forty-one, forty-seven, fifty-two, fifty-eight, sixty-three, and currently to our present period of time.<br>
+							<br>
+							
+						ELAINE: Boy, you're really getting into this aren't you?<br>
+							<br>
+							
+						KRAMER: Yes, yes I am. The icing on the cake would be getting that landmark status from the City. We're hoping Lloyd Braun can pull a few strings.<br>
+							<br>
+							
+						JERRY: Oh, can Lloyd really do that?<br>
+							<br>
+							
+						KRAMER: Lloyd Braun can do anything he puts his mind to. He's fine, Jerry. (to Elaine) And you should say hello to him, Elaine.<br>
+							<br>
+							
+						ELAINE: (concerned) What? Lloyd is here?<br>
+							<br>
+							
+						(Kramer indicates Lloyd approaching.)<br>
+							<br>
+							
+						ELAINE: What? No, no, I'd rather...<br>
+							<br>
+							
+						LLOYD: Hi Elaine.<br>
+							<br>
+							
+						ELAINE: (big fake smile) Lloyd, yes. Hello.<br>
+							<br>
+							
+						LLOYD: Kramer tell you? We reserved some special seats, so we can all sit together.<br>
+							<br>
+							
+						ELAINE: (reluctant) Oh, well... I, uh, actually Lloyd, Jerry and I have to sit in the front row, uhm, (desperately inventing) because uh, because, because he, he forgot his glasses. So uh, thanks for getting us... uhm, we'll see you afterwards.<br>
+							<br>
+							
+						(Elaine grabs Jerry by the arm and leads him toward the auditorium.)<br>
+							<br>
+							
+						LLOYD: That was odd. Am I crazy, or does Jerry not wear glasses?<br>
+							<br>
+							
+						KRAMER: (emphatic) You're not crazy. Jerry does wear glasses. He just forgot 'em, that's all. (puts an arm round Lloyd's shoulder) Not crazy.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Alex Theatre: Auditorium]<br>
+							<br>
+							
+						(Jerry and Elaine sit in the front row of seats. Elaine is eating popcorn.)<br>
+							<br>
+							
+						JERRY: We're all the way in the front row. Why couldn't we sit in the special seats?<br>
+							<br>
+							
+						ELAINE: I'm sorry, but I didn't want Lloyd thinking I was leading him on again. Seeing him made me feel very uncomfortable.<br>
+							<br>
+							
+						(The lights go down, and music is heard as the show begins. Jerry and Elaine lean back in their seats to be able to see the screen.)<br>
+							<br>
+							
+						JERRY: Nah, you don't wanna be uncomfortable.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Street: Queens]<br>
+							<br>
+							
+						(Deena and George are still talking. Pop is under the hood of George's car. Bangs and clanks can be heard as he fiddles with the mechanics.)<br>
+							<br>
+							
+						DEENA: Poor Lloyd.<br>
+							<br>
+							
+						GEORGE: I know. Completely bonkers!<br>
+							<br>
+							
+						DEENA: Sorry I can't be so flip about this kind of thing. You know, after what happened to Pop.<br>
+							<br>
+							
+						GEORGE: Pop? What happened to Pop?<br>
+							<br>
+							
+						DEENA: I thought you heard. He had a nervous breakdown last year. That's why I'm taking care of him.<br>
+							<br>
+							
+						(Pop comes out momentarily.)<br>
+							<br>
+							
+						POP: Oh, I tell you, they don't build 'em like this any more.<br>
+							<br>
+							
+						(He goes back under the hood.)<br>
+							<br>
+							
+						GEORGE: (a little worried) He uh, he doesn't have the auto shop any more?<br>
+							<br>
+							
+						DEENA: Uhn, it was too much for him.<br>
+							<br>
+							
+						(Pop is thumping away at part of the engine with a spanner.)<br>
+							<br>
+							
+						GEORGE: (very worried) Uhm, I, I gotta go.<br>
+							<br>
+							
+						DEENA: What?<br>
+							<br>
+							
+						GEORGE: I just remembered, I gotta be someplace. Yuh-hu-hur, that's enough. Pop. Pop, put down the wrench, Pop.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Alex Theatre: Auditorium]<br>
+							<br>
+							
+						(Kramer and Lloyd sits side by side in the special seats, watching Spartacus. They're smiling happily. Jerry and Elaine lean uncomfortably back in their front-row seats. They're both eating popcorn. Elaine drops a piece onto her blouse, where it rests next to a fancy button. She retrieves the corn, and dislodges the button without noticing. The button falls to the floor where it rests among other detritus.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[George's Car]<br>
+							<br>
+							
+						(George is driving along the road in his Le Baron. Over the usual engine noise can be heard a metallic rasping, grinding noise. George listens for a few moments, wondering where it's coming from. Then he looks concerned, then angry.)<br>
+							<br>
+							
+						GEORGE: Pop! POP!!<br>
+							<br>
+							<br>
+							<br>
+							
+						[Alex Theatre: Lobby]<br>
+							<br>
+							
+						(Kramer and Jerry stand in the lobby. Kramer smoking his pipe, Jerry massaging his neck. Lloyd wanders over to join them.)<br>
+							<br>
+							
+						LLOYD: 's a great movie, huh?<br>
+							<br>
+							
+						KRAMER: Yeah.<br>
+							<br>
+							
+						LLOYD: Sorry you forgot those glasses.<br>
+							<br>
+							
+						JERRY: I don't know what I was thinking.<br>
+							<br>
+							
+						LLOYD: How'd you like that gum?<br>
+							<br>
+							
+						JERRY: (noncommittal) Errh.<br>
+							<br>
+							
+						KRAMER: (slapping Jerry on the back) Ah, he loved it.<br>
+							<br>
+							
+						(Elaine enters. In the absence of the button she lost in the auditorium, her blouse is open to below her breasts, and everything's in the shop window. Not that she knows it.)<br>
+							<br>
+							
+						ELAINE: Hey Kramer, you know what? There, there isn't a light there, in the ladies' room.<br>
+							<br>
+							
+						KRAMER: Yeah, yeah. It's being repaired.<br>
+							<br>
+							
+						(Elaine is suffering with her neck. She rolls her head back and feels the back of her neck with her hand.)<br>
+							<br>
+							
+						ELAINE: Oh. Oh God.<br>
+							<br>
+							
+						LLOYD: You alright?<br>
+							<br>
+							
+						(Elaine stretches her back and neck, at the same time pushing her upperworks into greater prominence.)<br>
+							<br>
+							
+						ELAINE: Ah, I sat too close to the screen. Oh. I just gotta stretch out in a hot bath. It was nice to see you again, Lloyd.<br>
+							<br>
+							
+						(Elaine leaves. Kramer and Lloyd both stare after her.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Street Outside Alex]<br>
+							<br>
+							
+						(Elaine walks down the sidewalk, her blouse still open. A florist is using a hose to wash down the sidewalk in front of his store. Elaine carefully steps by, picking her way past. The florist also stares at Elaine's exposure. A cop stands a little further down the street. Elaine approaches him.)<br>
+							<br>
+							
+						ELAINE: Officer. Officer, is there some reason this man has to always be using a hose? I mean, he's flooding the sidewalk. It's a waste of water. Couldn't he just use a broom?<br>
+							<br>
+							
+						(The cop stares at Elaine's breasts the whole time she's talking.)<br>
+							<br>
+							
+						COP: Lady, you sold me. (strides toward florist) Hey, you with the hose.<br>
+							<br>
+							
+						(Elaine looks confused about his attitude. She glances down, and notices her blouse wide open. She quickly pulls her coat closed, to hide her embarrassment, and hurries away.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Jerry's Apartment]<br>
+							<br>
+							
+						(Kramer is handing Jerry a pair of spectacles.)<br>
+							<br>
+							
+						KRAMER: Yeah, put these glasses on.<br>
+							<br>
+							
+						JERRY: (taking them) Well, what's this for?<br>
+							<br>
+							
+						KRAMER: Yeah, well Lloyd, he's gonna be here any minute now.<br>
+							<br>
+							
+						JERRY: So what?<br>
+							<br>
+							
+						KRAMER: Well, he thinks you wear those.<br>
+							<br>
+							
+						(Jerry looks at the glasses with some distaste.)<br>
+							<br>
+							
+						KRAMER: They're from the lost and found at the Alex.<br>
+							<br>
+							
+						JERRY: Aw, c'mon Kramer, this is ridiculous. I'm not gonna put these on.<br>
+							<br>
+							
+						KRAMER: Oh. Okay. So he'll just think that the two of you didn't sit with him on purpose. Ooh yeah, that's very nice. Very nice.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Monk's]<br>
+							<br>
+							
+						(George leans on the counter by the cash register, behind which sits Ruthie Cohen.)<br>
+							<br>
+							
+						GEORGE: 'scuse me. I uh, I was in here this morning and uh, I believe I paid you with a twenty dollar bill, (smiles) but you only gave me change for a ten.<br>
+							<br>
+							
+						CASHIER: I don't think so.<br>
+							<br>
+							
+						GEORGE: Oh, I think so, and I can prove it. You see, I was doodling on the bill and uh, so if you have a twenty in there with big lips on it... well, (smiles) that's mine. Would you mind opening up the register?<br>
+							<br>
+							
+						CASHIER: Not unless you buy something.<br>
+							<br>
+							
+						GEORGE: Fine, I'll buy a pack of gum.<br>
+							<br>
+							
+						(Lloyd approaches the register to pay for something. The cashier rings up George's purchase.)<br>
+							<br>
+							
+						LLOYD: Hey George. Thought you didn't chew gum?<br>
+							<br>
+							
+						GEORGE: I don't.<br>
+							<br>
+							
+						(Ruthie opens the drawer on the register.)<br>
+							<br>
+							
+						CASHIER: Take a look.<br>
+							<br>
+							
+						(George goes round to the other side of the register and picks up all the twenty-dollar bills. He shuffles through them, examining them for doodles.)<br>
+							<br>
+							
+						GEORGE: I know I gave it to you.<br>
+							<br>
+							
+						LLOYD: George, would you mind. I'm kind of in a hurry.<br>
+							<br>
+							
+						(In addition to Lloyd, another customer is waiting to pay.)<br>
+							<br>
+							
+						GEORGE: (frustrated) Fine. Fine. (to customer) Excuse me. (heading for the door) Think I'm gonna forget about this? I haven't forgotten about this. I don't forget that easily!<br>
+							<br>
+							<br>
+							<br>
+							
+						[Jerry's Apartment]<br>
+							<br>
+							
+						(Jerry is reading a newspaper, and holding it in such a way as to conceal his face.)<br>
+							<br>
+							
+						KRAMER: Hey, Jerry, look who's here.<br>
+							<br>
+							
+						(Jerry folds over the top half of the paper, in order to see his visitor. He also reveals to all that he is wearing the spectacles Kramer gave him earlier.)<br>
+							<br>
+							
+						JERRY: Ah, Lloyd.<br>
+							<br>
+							
+						LLOYD: Hi Jerry. Got some more of that gum.<br>
+							<br>
+							
+						(He proffers the packet to Jerry.)<br>
+							<br>
+							
+						JERRY: (unenthusiastic) Oh, the gum.<br>
+							<br>
+							
+						KRAMER: Yeah, let's all enjoy a chew, huh?<br>
+							<br>
+							
+						JERRY: (still not happy) Uh, alright. (he takes a piece)<br>
+							<br>
+							
+						KRAMER: Oh, boy.<br>
+							<br>
+							
+						(Kramer and Lloyd sit on the couch. All of them start chewing on the gum.)<br>
+							<br>
+							
+						KRAMER: Now see, this is what the holidays are all about. Three buddies, sitting around, chewing gum, huh? Mmm, mmm, yeah. So uh, you know, Lloyd, he thinks he can get more of this.<br>
+							<br>
+							
+						(Jerry makes a show of removing his glasses and cleaning them.)<br>
+							<br>
+							
+						JERRY: Well, Lloyd's a very industrious fellow. I'm sure he can accomplish anything he sets his mind to.<br>
+							<br>
+							
+						(Jerry puts his glasses back on.)<br>
+							<br>
+							
+						LLOYD: Actually, the importer's right in Chinatown. I'll introduce you to him, you can get it whenever you want.<br>
+							<br>
+							
+						JERRY: 's not necessary.<br>
+							<br>
+							
+						KRAMER: Hey, Jerry, you know, Lloyd wants to do you a favour.<br>
+							<br>
+							
+						JERRY: I know that, Kramer.<br>
+							<br>
+							
+						LLOYD: Well, if you don't want to...<br>
+							<br>
+							
+						KRAMER: No, sure sure, he wants to. It's very kind of you. Yeah, Jerry, he appreciates it. Don't you, Jerry?<br>
+							<br>
+							
+						JERRY: Yes I do, Kramer.<br>
+							<br>
+							
+						LLOYD: So...<br>
+							<br>
+							
+						KRAMER: Yeah?<br>
+							<br>
+							
+						LLOYD: How about that Elaine today, huh?<br>
+							<br>
+							
+						KRAMER: Oh, baby, what was that all about, huh?<br>
+							<br>
+							
+						LLOYD: (to Jerry) She was practically undressing in front of me at the theatre.<br>
+							<br>
+							
+						JERRY: I didn't see anything.<br>
+							<br>
+							
+						KRAMER: Yeah, you uh, really missed a show, buddy. Wooh, ba-boom, ba-boom-ba-ba-ba-boom-ba.<br>
+							<br>
+							
+						(They continue to chew on the gum. Lloyd seemingly happily, Jerry clearly not liking it, and Kramer not liking it, but unwilling to show it to Lloyd.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Park]<br>
+							<br>
+							
+						(George and Deena sit on a bench.)<br>
+							<br>
+							
+						DEENA: You're probably wondering why I wanted to see you again.<br>
+							<br>
+							
+						(George clearly thinks he's clicked.)<br>
+							<br>
+							
+						GEORGE: Well, you know. (grins, snorts) It's understandable.<br>
+							<br>
+							
+						(He pats Deena on the knee.)<br>
+							<br>
+							
+						DEENA: I'm glad you feel that way. Because since my father's breakdown I uh, become very sensitive to the warning signs.<br>
+							<br>
+							
+						GEORGE: Warning signs?<br>
+							<br>
+							
+						DEENA: Nervousness, irritability, paranoia.<br>
+							<br>
+							
+						GEORGE: (disbelief) What? (laugh) Wh... what're you talking about? I'm not the one with the problem. (defensive) Lloyd Braun was in the nuthouse, not me.<br>
+							<br>
+							
+						DEENA: Yet again, taking pleasure in the misfortunes of others.<br>
+							<br>
+							
+						GEORGE: All my friends do that.<br>
+							<br>
+							
+						DEENA: George, I'm only trying to help...<br>
+							<br>
+							
+						(George is staring past Deena at something a short distance away.)<br>
+							<br>
+							
+						DEENA: I'm... I'm concerned. George? George, are you listening to me?<br>
+							<br>
+							
+						GEORGE: You see that woman on the horse? (points)<br>
+							<br>
+							
+						(Ruthie Cohen is passing by on horseback.)<br>
+							<br>
+							
+						GEORGE: She stole twenty dollars from me. (getting angry) Yeah, I might've gotten it back, but Lloyd Braun interfered!<br>
+							<br>
+							
+						DEENA: So again it all comes back to Lloyd.<br>
+							<br>
+							
+						GEORGE: (rising to his feet) Hey! Hey, you! (setting off after her) Come back here!! Don't gallop away!!<br>
+							<br>
+							
+						(George runs away, yelling after the retreating Ruthie Cohen.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Monk's]<br>
+							<br>
+							
+						(Jerry and George sit in a booth. There's a different cashier on duty.)<br>
+							<br>
+							
+						JERRY: So you say she was on a horse?<br>
+							<br>
+							
+						GEORGE: I'm telling you, that cashier is riding horses on my money.<br>
+							<br>
+							
+						JERRY: Well, here's what I propose. Go down to the stables, snoop around. See if any high-flying cashier's been throwing twenty dollar bills around with big lips.<br>
+							<br>
+							
+						(Elaine enters.)<br>
+							<br>
+							
+						ELAINE: Hey.<br>
+							<br>
+							
+						JERRY: Well, if it isn't Chesty La Rue.<br>
+							<br>
+							
+						ELAINE: (sits beside Jerry) What?<br>
+							<br>
+							
+						JERRY: I was chewing gum with Lloyd Braun, and he was bragging about the peepshow you gave him at the Alex.<br>
+							<br>
+							
+						ELAINE: (laughing it away) Oh God. I lost a button, so my blouse was wide open. I musta left it at the theatre.<br>
+							<br>
+							
+						JERRY: Maybe it's in the lost and found.<br>
+							<br>
+							
+						ELAINE: Yeah, I know. I have to go check it out. It's a beautiful button too, you know. It's antique ivory. It was my mother's.<br>
+							<br>
+							
+						JERRY: You know, the way you were wolfing down that popcorn, maybe you ate it.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Alex Theatre: Lobby]<br>
+							<br>
+							
+						(Kramer greets a small elderly gent.)<br>
+							<br>
+							
+						KRAMER: Mr Har-harwood. Well, what an unexpected surprise to have you back at the Alex Theatre.<br>
+							<br>
+							
+						HAARWOOD: Well I, I'm in a bit of a quandary. I've misplaced my spectacles.<br>
+							<br>
+							
+						KRAMER: Well, let's look in lost and found, shall we?<br>
+							<br>
+							
+						(Kramer ducks behind the counter to retrieve the lost and found box.)<br>
+							<br>
+							
+						HAARWOOD: They're half-glasses.<br>
+							<br>
+							
+						(Kramer pops his head up, a thought having occurred.)<br>
+							<br>
+							
+						KRAMER: Brown?<br>
+							<br>
+							
+						HAARWOOD: Mmm, yes, yes.<br>
+							<br>
+							
+						(Kramer places the cardboard box marked 'Lost and Found' on the counter.)<br>
+							<br>
+							
+						KRAMER: Uh, yeah. Ah, well if they're not in the box, I'm sure they'll turn up soon. Listen, could you keep an eye on the place? I wanna go out and get some paraffin wax, and bring out the lustre of this vintage countertop.<br>
+							<br>
+							
+						HAARWOOD: Certainly.<br>
+							<br>
+							
+						(Kramer leaves. Haarwood begins to rummage through the contents of the box. After a few seconds, he finds something. He lifts it out for a closer look. It's the button Elaine dropped earlier.)<br>
+							<br>
+							
+						HAARWOOD: Oh my goodness. What a spanking button.<br>
+							<br>
+							<br>
+							<br>
+							
+						[George's Car: Street Outside Alex]<br>
+							<br>
+							
+						(George starts his car. It's still making unhealthy noises. As he sits with the engine running, a car pulls up in the street behind him. The driver sounds the horn at George as he sits in his parking spot.)<br>
+							<br>
+							
+						GEORGE: (glances in mirror) Alright. Alright.<br>
+							<br>
+							
+						(The horn sounds again.)<br>
+							<br>
+							
+						GEORGE: (getting annoyed) Hang on, it's warming up!<br>
+							<br>
+							
+						(The horn sounds several more times, impatiently. George has had enough. He climbs out of his car.)<br>
+							<br>
+							
+						GEORGE: (angrily) Oh you mother...<br>
+							<br>
+							
+						(George stalks round his car and up to the driver's window of the car sounding its horn.)<br>
+							<br>
+							
+						GEORGE: Hey! What is your problem?<br>
+							<br>
+							
+						(The driver rolls down the window, and we see Ruthie Cohen.)<br>
+							<br>
+							
+						GEORGE: Oh, hello, it's you! (angry) Listen lady, I got six minutes left on that meter, and I'm not budging til you admit you stole my twenty dollars. (smug) Huh-hu-hur, you're not so tough when you're not on your horse, are you Ruthie?<br>
+							<br>
+							
+						CASHIER: Your car's on fire.<br>
+							<br>
+							
+						(The reflection of leaping flames can be seen in Ruthie's window. George dashes off back to his car.)<br>
+							<br>
+							
+						GEORGE: Aah! Fire!<br>
+							<br>
+							
+						CASHIER: (after George) Merry Christmas!<br>
+							<br>
+							
+						(Flames are coming from under the hood of the Le Baron.)<br>
+							<br>
+							
+						GEORGE: (shouting) Fire!!<br>
+							<br>
+							
+						(The florist is standing holding a broom. George rushes to him.)<br>
+							<br>
+							
+						GEORGE: Your hose! Where's your hose?!<br>
+							<br>
+							
+						FLORIST: Cop made me disconnect it.<br>
+							<br>
+							
+						(George grabs the broom from the florist, and begins beating at the flames with no effect. After a few seconds, the broom is alight.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Street Outside Alex]<br>
+							<br>
+							
+						(The whole front of George's car is burnt out. The plastic body parts have melted away. The hood is wide open, showing the devastation within. George stands, holding the charred remnants of the broom. He's staring catatonically at the damage. Kramer walks up and does a double-take at the sight.)<br>
+							<br>
+							
+						KRAMER: Jeez! What happened to your car, buddy?<br>
+							<br>
+							
+						GEORGE: The Jon Voight car is no more.<br>
+							<br>
+							
+						KRAMER: Wow. Well, don't you sweat it. You can use my car any time you want to.<br>
+							<br>
+							
+						GEORGE: No kidding?<br>
+							<br>
+							
+						KRAMER: No kidding.<br>
+							<br>
+							
+						GEORGE: Hey, thanks. I owe you a big one.<br>
+							<br>
+							
+						KRAMER: Yeah, merry Christmas.<br>
+							<br>
+							
+						(Kramer walks on.)<br>
+							<br>
+							
+						GEORGE: (staring at the wreck) Whatever.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Alex Theatre: Lobby]<br>
+							<br>
+							
+						(Jerry is waiting. He's wearing the glasses from earlier.)<br>
+							<br>
+							
+						JERRY: Alright, I'm here. Where's Braun?<br>
+							<br>
+							
+						KRAMER: What, he's not here yet?<br>
+							<br>
+							
+						JERRY: Look, I'll go downtown to Chinatown with him, but that is it!<br>
+							<br>
+							
+						KRAMER: Listen, I'm gonna need those glasses.<br>
+							<br>
+							
+						(Kramer reaches across and plucks the glasses from Jerry's face.)<br>
+							<br>
+							
+						JERRY: Why?<br>
+							<br>
+							
+						KRAMER: They're Geoffrey Haarwood's.<br>
+							<br>
+							
+						(Kramer rummages in lost and found, and brings out another pair of spectacles.)<br>
+							<br>
+							
+						KRAMER: (proffering) Here, try this pair.<br>
+							<br>
+							
+						(Jerry puts them on. The lenses are much stronger than the first pair - they're like bottle-bottoms. He stares through them, his eyes magnified hugely. It's obvious he can't see at all clearly.)<br>
+							<br>
+							
+						JERRY: Aw, these are really strong glasses.<br>
+							<br>
+							
+						(He takes a step and almost trips over the counter.)<br>
+							<br>
+							
+						LLOYD: Hey gum-buddy. Nice frames. You ready to go?<br>
+							<br>
+							
+						JERRY: (lacking enthusiasm) Yeah, yeah.<br>
+							<br>
+							
+						KRAMER: (clapping Jerry on the back) Oh yeah, he's all ready to go.<br>
+							<br>
+							
+						LLOYD: Anybody see Elaine today?<br>
+							<br>
+							
+						KRAMER: Oh yeah, she called a little earlier. She's coming over to check out lost and found.<br>
+							<br>
+							
+						LLOYD: Maybe I'll stick around and see what she's wearing today. Or not wearing, if you know what I mean.<br>
+							<br>
+							
+						(They chuckle.)<br>
+							<br>
+							
+						JERRY: Absolutely. Let's just stick around.<br>
+							<br>
+							
+						LLOYD: Ah, tell you what, they're expecting us though. Lemme just grab a hotdog here.<br>
+							<br>
+							
+						KRAMER: Uh, yeah.<br>
+							<br>
+							
+						(Lloyd goes to the counter, and speaks to the attendant.)<br>
+							<br>
+							
+						LLOYD: I'd like a hotdog, please.<br>
+							<br>
+							
+						(The attendant looks to the machine, which contains one hotdog. The appearance of the article is not pleasant. It's wrinkled, shriveled, and generally disgusting.)<br>
+							<br>
+							
+						ATTENDANT: Are you outta your mind?<br>
+							<br>
+							
+						(Hearing this, Kramer dashes over.)<br>
+							<br>
+							
+						KRAMER: Wh...wh...wh... what's the problem here?<br>
+							<br>
+							
+						ATTENDANT: This hotdog's been here since the silent era. You'd have to be insane to eat it.<br>
+							<br>
+							
+						KRAMER: No, no, no, no, no. This man is not insane. Now there's nothing wrong with it or you.<br>
+							<br>
+							
+						LLOYD: Kramer, maybe...<br>
+							<br>
+							
+						KRAMER: No, no, no, no. I'll show you. (slams a bill down on the counter) One hotdog please.<br>
+							<br>
+							
+						ATTENDANT: (on your head be it) Okay.<br>
+							<br>
+							
+						KRAMER: Mmm, doesn't that smell good, huh?<br>
+							<br>
+							
+						(The attendant hands over the hotdog.)<br>
+							<br>
+							
+						KRAMER: Yeah, here we go, yeah. (he takes a big bite) Mmm, oh. That's delicious. Mmm. It's a perfectly sane food to eat. (he takes another bite)<br>
+							<br>
+							
+						(As he chews, it begins to be apparent that all is not as it should be with the hotdog.)<br>
+							<br>
+							
+						KRAMER: Uhm, interesting texture. It's chewy. (he half-coughs, half-retches) I gotta get, some air.<br>
+							<br>
+							
+						(Kramer stumbles toward the exit, bits of half-chewed hotdog falling from his mouth.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Street Outside Alex]<br>
+							<br>
+							
+						(Kramer walks stiffly along the sidewalk. He's breathing heavily, and loosening his collar. He walks by the florist, who is brushing the sidewalk again. As Kramer passes George's car, his struggle with the rancid hotdog ends with the hotdog triumphant, and he leans into the gutter behind the Le Baron and vomits copiously. The florist looks rueful, leans his broom against his door, and fetches his hose, whilst Kramer continues his refunding.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Street Outside Alex: Later]<br>
+							<br>
+							
+						(The florist is hosing away the traces of Kramer's visit. Elaine walks up to him.)<br>
+							<br>
+							
+						ELAINE: Excuse me. 'scuse me, weren't you told to stop using that hose?<br>
+							<br>
+							
+						FLORIST: How would you happen to know that?<br>
+							<br>
+							
+						ELAINE: Well, uhm... I...<br>
+							<br>
+							
+						FLORIST: (accusing) You're that lady that was talking to the cops, aren't you?<br>
+							<br>
+							
+						ELAINE: Uh... I...<br>
+							<br>
+							
+						(A voice calls from across the street.)<br>
+							<br>
+							
+						VOICE (O.C.): Hey, Joe!<br>
+							<br>
+							
+						(The florist turns to see who's shouting. As he does, he raises the nozzle of his hose, so instead of hosing the sidewalk, he sprays Elaine.)<br>
+							<br>
+							
+						ELAINE: No, wait! You're soaking me, you're soaking me!<br>
+							<br>
+							
+						(The florist notices what he's done and turns off the hose.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Alex Theatre: Lobby]<br>
+							<br>
+							
+						(Jerry sits beside Kramer, who still looks unwell. Lloyd stands comforting Kramer. Elaine enters. She has removed her jacket, and is wearing a wringing wet t-shirt.)<br>
+							<br>
+							
+						ELAINE: Hey. Hey everybody.<br>
+							<br>
+							
+						LLOYD: Whoah, Elaine! Once again, you've managed to top yourself. C'mon Jerry, let's go. Car's out front.<br>
+							<br>
+							
+						(Lloyd leaves. Jerry stands and peers about himself through the over-strength glasses. All he can make out are vague blurred shapes.)<br>
+							<br>
+							
+						JERRY: Lloyd?<br>
+							<br>
+							
+						(He moves across the lobby, slowly, holding his hands out to feel for obstacles.)<br>
+							<br>
+							
+						JERRY: Lloyd?<br>
+							<br>
+							
+						(Jerry leaves.)<br>
+							<br>
+							
+						ELAINE: (exasperated) What is Lloyd's problem?<br>
+							<br>
+							
+						KRAMER: Look, honey, I know you're trying to get Lloyd to notice you, but this is too much. Parading around in a wet T-shirt.<br>
+							<br>
+							
+						ELAINE: Uhh, I got sprayed with a hose.<br>
+							<br>
+							
+						KRAMER: Yeah, well, I'm sorry, but the Alex is a family theatre, not one of your swing joints.<br>
+							<br>
+							
+						(Elaine casts her eyes heavenward.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Street Outside Alex]<br>
+							<br>
+							
+						(The remains of George's car are being towed away. On the opposite side of the road, watching, are Deena and George.)<br>
+							<br>
+							
+						DEENA: So, you want my father to pay for this?<br>
+							<br>
+							
+						GEORGE: You saw him. He was fiddling with the engine. God knows what he did there.<br>
+							<br>
+							
+						DEENA: And I suppose Lloyd Braun had something to do with it too.<br>
+							<br>
+							
+						GEORGE: No, not Lloyd Braun. But the cashier.<br>
+							<br>
+							
+						DEENA: What cashier?<br>
+							<br>
+							
+						GEORGE: You remember the woman on the horse? She wanted my spot.<br>
+							<br>
+							
+						DEENA: To park her horse?<br>
+							<br>
+							
+						GEORGE: No, she wasn't on the horse.<br>
+							<br>
+							
+						DEENA: So, your car caught fire because of my father and the woman on the horse?<br>
+							<br>
+							
+						GEORGE: That's right.<br>
+							<br>
+							
+						(Across the street, the florist is outside his store, arranging flowers.)<br>
+							<br>
+							
+						GEORGE: (points) And him!<br>
+							<br>
+							
+						DEENA: The man with the flowers?<br>
+							<br>
+							
+						GEORGE: Yeah, yeah, the flower guy. Listen, I know this all sounds a little crazy, but...<br>
+							<br>
+							
+						(A car pulls up beside George and Deena. George looks in the window.)<br>
+							<br>
+							
+						GEORGE: I can't believe it. Look, that's Jerry Seinfeld.<br>
+							<br>
+							
+						DEENA: Who?<br>
+							<br>
+							
+						GEORGE: Jerry Seinfeld. My best friend. He can explain all of this. (calls to Jerry) Jerry.<br>
+							<br>
+							
+						(Jerry hears his name called and turns his head, but all he can see are blurry colored shapes.)<br>
+							<br>
+							
+						GEORGE: Jerry! Over here Jerry. It's me!<br>
+							<br>
+							
+						(The car pulls away, leaving George calling after it.)<br>
+							<br>
+							
+						GEORGE: Jerry, where y'going? It's... what're...<br>
+							<br>
+							
+						DEENA: (doubtful) That was your best friend?<br>
+							<br>
+							
+						GEORGE: Yeah, yeah, but he doesn't wear glasses.<br>
+							<br>
+							
+						DEENA: That man was wearing glasses.<br>
+							<br>
+							
+						GEORGE: I know. Don't you see. (emphatic) He was doing it to fool Lloyd Braun!<br>
+							<br>
+							<br>
+							<br>
+							
+						[Lloyd Braun's Car]<br>
+							<br>
+							
+						(Jerry and Lloyd have reached Chinatown. Lloyd parks the car.)<br>
+							<br>
+							
+						LLOYD: I'll run in and get the gum.<br>
+							<br>
+							
+						JERRY: Alright.<br>
+							<br>
+							
+						LLOYD: Got any money?<br>
+							<br>
+							
+						(Jerry digs his wallet out of his pocket. He opens it and extracts a bill. He peers at it, trying to work out what denomination it is, but the glasses are still too strong.)<br>
+							<br>
+							
+						JERRY: (handing it over) Here.<br>
+							<br>
+							
+						(Lloyd takes the bill, looks at it, smiles a little with surprise.)<br>
+							<br>
+							
+						LLOYD: (climbing out of the car) I'll be back.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Street]<br>
+							<br>
+							
+						(George and Deena walk along together.)<br>
+							<br>
+							
+						GEORGE: Look, Deena, I know you think I'm crazy, but I'm not. This is just a series of bad coincidences.<br>
+							<br>
+							
+						DEENA: I don't know, George. I don't know what to believe.<br>
+							<br>
+							
+						GEORGE: Believe me, I am not crazy.<br>
+							<br>
+							
+						DEENA: Well, I guess it's possible.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Lloyd Braun's Car]<br>
+							<br>
+							
+						(Jerry sits waiting. Lloyd gets in. He has a stack of six boxes, which he hands to Jerry.)<br>
+							<br>
+							
+						LLOYD: Here y'go.<br>
+							<br>
+							
+						JERRY: (indistinct) Got all this?<br>
+							<br>
+							
+						LLOYD: Yeah. A hundred dollar's worth.<br>
+							<br>
+							
+						JERRY: (incredulous) I gave you a hundred dollars?!<br>
+							<br>
+							
+						LLOYD: You sure did. Am I crazy, or is that a lotta gum?<br>
+							<br>
+							
+						JERRY: It's a lotta gum!<br>
+							<br>
+							<br>
+							<br>
+							
+						[The Institute]<br>
+							<br>
+							
+						(The room is festooned with props and costumes from old movies.)<br>
+							<br>
+							
+						KRAMER: Mr Hararwood. Found your glasses.<br>
+							<br>
+							
+						HAARWOOD: Oh, splendid. Welcome to the Institute for the Preservation of Motion Picture Costumes and Wardrobe.<br>
+							<br>
+							
+						KRAMER: Ah, the I.P.M.P.C.W.<br>
+							<br>
+							
+						HAARWOOD: Well eh, we prefer to call it the Institute.<br>
+							<br>
+							
+						(Kramer notices a particular costume.)<br>
+							<br>
+							
+						KRAMER: Is that from Henry the Eighth?<br>
+							<br>
+							
+						HAARWOOD: Yes, yes, it is.<br>
+							<br>
+							
+						KRAMER: Well, you know, we're screening that tonight at the Alex. Do you think that I could wear that to promote the theatre?<br>
+							<br>
+							
+						HAARWOOD: Well, I... I'd love to lend it to you, but I doubt if it would fit a man of your impressive, Raymond Massey-like, physique. The only person who could really fit into this costume, would have to be a short, stocky, man of somewhat generous proportions.<br>
+							<br>
+							
+						KRAMER: (an idea occurs) You don't say.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Street]<br>
+							<br>
+							
+						(Kramer and George walk together. George is wearing the Henry VIII costume - doublet and hose, cloak, crown, etc.)<br>
+							<br>
+							
+						KRAMER: You're really helping me out with this, buddy. Kids are gonna be so thrilled.<br>
+							<br>
+							
+						GEORGE: Yeah, yeah. You really cashed in on that favor pretty quick.<br>
+							<br>
+							
+						KRAMER: Remember, you're a king, you must project a Royal bearing.<br>
+							<br>
+							
+						GEORGE: (angry undertone) Oh, I'm gonna give you a Royal bearing. Wait a minute, wait a minute. Lemme get a pack of gum here.<br>
+							<br>
+							
+						(He gets his wallet from under the cape, and goes to the window of a kiosk.)<br>
+							<br>
+							
+						GEORGE: (handing over a bill) Can I get a pack of gum, please?<br>
+							<br>
+							
+						GUY: I beg your pardon, your majesty, but we don't accept bills with lipstick on the president.<br>
+							<br>
+							
+						GEORGE: What? Huh, so I had it all along. How d'you like that? (snorts) I guess I owe that cashier an apology.<br>
+							<br>
+							
+						(Deena is walking toward George and Kramer. She sees George in his costume and jumps to the obvious conclusion.)<br>
+							<br>
+							
+						DEENA: Oh my God!<br>
+							<br>
+							
+						GEORGE: No, no. Deena, it's not what you think.<br>
+							<br>
+							
+						(Deena turns and begins to walk away.)<br>
+							<br>
+							
+						GEORGE: Th... this isn't mine.<br>
+							<br>
+							
+						(George begins to walk after Deena, who accelerates to a trot.)<br>
+							<br>
+							
+						GEORGE: I got it from the Institute. The Institute.<br>
+							<br>
+							
+						(Deena breaks into a run, with George chasing her.)<br>
+							<br>
+							
+						GEORGE: (shouting) Dee... Deena!<br>
+							<br>
+							<br>
+							<br>
+							
+						[Alex Theatre: Lobby]<br>
+							<br>
+							
+						(Kramer stands behind the counter, upon which Elaine leans. Mr Haarwood enters.)<br>
+							<br>
+							
+						KRAMER: Ahh, Mr Haarwood. Well, you certainly know how to dress for a premiere.<br>
+							<br>
+							
+						HAARWOOD: Well, thank you. Uh, where is your friend King Henry?<br>
+							<br>
+							
+						KRAMER: Oh, he ran away.<br>
+							<br>
+							
+						(Lloyd enters.)<br>
+							<br>
+							
+						LLOYD: Hey Kramer.<br>
+							<br>
+							
+						KRAMER: I need to talk to you.<br>
+							<br>
+							
+						Lloyd and Kramer go away to the side of the lobby, where they go into a quiet conversation. Elaine is peering over at Mr Haarwood, and in particular at the button he's wearing on his cravat.<br>
+							<br>
+							
+						ELAINE: You know, that button looks very familiar.<br>
+							<br>
+							
+						HAARWOOD: Yes, it, it, it's antique ivory.<br>
+							<br>
+							
+						ELAINE: I, I think that's my button. (wanders over to Haarwood) You know, I've been looking all over for it. Did, did you find it here?<br>
+							<br>
+							
+						HAARWOOD: Yes, it was in the lost and found.<br>
+							<br>
+							
+						ELAINE: Shall I undo it?<br>
+							<br>
+							
+						HAARWOOD: Oh yes, of course you can.<br>
+							<br>
+							
+						ELAINE: Oh, thank you.<br>
+							<br>
+							
+						(Elaine moves very close to Mr Haarwood, and reaches under his chin to remove the button.)<br>
+							<br>
+							
+						HAARWOOD: I'm a little ticklish.<br>
+							<br>
+							
+						ELAINE: Oh. (giggly) Tickle, tickle.<br>
+							<br>
+							
+						(Kramer and Lloyd are both staring over at the sight of Elaine tickling Mr Haarwood under the chin, giggling, apparently flirting.)<br>
+							<br>
+							
+						LLOYD: We've really gotta get that Elaine a boyfriend.<br>
+							<br>
+							
+						KRAMER: Oh, tell me about it.<br>
+							<br>
+							<br>
+							
+						The End</td>
+						</tr>
+						<tr height="6">
+							<td class="bottom2" width="645" height="6"></td>
+						</tr>
+						<tr>
+							<td width="645">
+								<div align="center">
+									<font size="-1">Copyright 2006 seinology.com | All Rights Reserved | Designed by 13erla</font></div>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+		<p></p>
+	</body>
+
+</html>

@@ -1,0 +1,1569 @@
+<tdOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+<html>
+
+	<head>
+		<meta http-equiv="content-type" content="text/html;charset=ISO-8859-1">
+		<meta name="description" content="Top Source for Seinfeld">
+		<meta name="keywords" content="seinfeld, sienfeld, Jerry Seinfeld, Julia Louis Dreyfus, Jason Alexander, Michael Richards, Kramer, George, Costanza, Elaine Benes, morty, Larry David">
+		<title>Seinology.com :: Scripts :: 176-The Puerto Rican Day</title>
+	<link rel='stylesheet' href='/stylesheet.css' type='text/css'>
+	</head>
+
+	<body>
+			<table align="center" width="787" border="0" cellspacing="0" cellpadding="0">
+				<tr>
+					<td><font size="-2" color="red">Seinology.com - </font><font size="-3" color="black">Where Seinfeld Content and Accuracy Matter Most. Seinfeld scripts in pdf form, Seinfeld episode video clips, Seinfeld episode audio clips, Jerry Seinfeld appearances, Julia Louis-Dreyfus appearances, Michael Richards appearances, Jason Alexander appearances, Seinfeld discussion Forum, Seinfeld Where are they Now? Seinlanguage Newsletter, Popular Seinfeld Lists, Seinfeld episode standup, Seinfeld episode guide, Seinfeld fan fiction. Seinfeld content all on one domain. Seinology.com enjoy your stay.</font></td>
+				</tr>
+			</table>
+		
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr height="100">
+				<td class="logo"></td>
+			</tr>
+			<tr><td class="ads" align="center" background=#8694fa>
+				<script type="text/javascript"><!--
+google_ad_client = "pub-1924026976931416";
+google_ad_width = 728;
+google_ad_height = 90;
+google_ad_format = "728x90_as";
+google_ad_type = "text";
+google_ad_channel = "";
+google_color_border = "FFFFFF";
+google_color_bg = "8694fa";
+google_color_link = "0000FF";
+google_color_text = "000000";
+google_color_url = "002E3F";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></td></tr>
+		</table>
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr>
+				<td valign="top" width="136">
+					<table width="136" border="0" cellspacing="0" cellpadding="0">
+						<tr height="24">
+							<td class="navigation">
+								<div align="center">
+									
+									<b>Navigation</b></div>
+							</td>
+						</tr>
+						<tr height="199">
+							<td class="spacer1" valign="top" width="136" height="199">
+								<div align="center">
+									<font size="-1"><a href="http://www.seinology.com">Home</a><br>
+										<a href="http://board.seinology.com">Forum</a><br>
+										<a href="http://www.seinology.com/av.shtml">Audio/Video</a><br>
+										<a href="http://www.seinology.com/scripts.shtml">Scripts</a><br>
+										<a href="http://www.seinology.com/survivor.shtml">Survivor</a><br>
+										<a href="http://www.seinology.com/fanfics.shtml">Fan Fiction</a><br>
+										<a href="http://www.seinology.com/gallery/">Gallery</a><br>
+										<a href="http://www.seinology.com/newsletter.shtml">Newsletter</a><br>
+										<a href="http://www.seinology.com/lists.shtml">Lists</a><br>
+										<a href="http://www.seinology.com/epguide.shtml">Episode Guide</a><br>
+										<a href="http://www.seinology.com/links.shtml">Links</a><br>
+										<a href="http://www.seinology.com/faqother.shtml">Faq + others</a><br>
+										<a href="http://www.seinology.com/legal.shtml">Legal</a></font></div>
+							</td>
+						</tr>
+						
+						<tr>
+							<td class="nav2" width="136">
+							<div align="center"><b>Search</b></div></td>
+						</tr>
+						<tr>
+							<td class="spacer1" width="136" valign="top"><div align="center"><form method="get" action="http://www.seinology.com/search/search.cgi">
+<p><label for="fdse_Match">Match</label><br>
+<select name="Match" id="fdse_Match" size="1">
+<option value="1">All</option>
+<option value="0">Any</option>
+<option value="2">Phrase</option>
+</select></p>
+<p><label for="fdse_Realm">Where?</label><br>
+<select name="Realm" id="fdse_Realm" size="1">
+<option selected="selected" value="All">EntireSite</option>
+<option value="Ep Guide">Ep Guide</option>
+<option value="Images">Images</option>
+<option value="Lists">Lists</option>
+<option value="Newsletters">Newsletters</option>
+<option value="Scripts">Scripts</option>
+<option value="Notes..Nothing">Notes..Nothing</option>
+</select></p>
+<p><input type="text" name="Terms" size="14" id="fdse_Terms"><br>
+<input type="submit" class="submit" name="submitButtonName" value="Search"></p>
+</div></form></td>
+						</tr>
+						<tr><td class="bottom" width="136" height="10" valign="top">
+						</td>
+						</tr>
+					</table>
+				</td>
+				<td width="4"></td>
+				<td valign="top" width="645">
+					<table width="645" border="0" cellspacing="0" cellpadding="0">
+						<tr height="18">
+							<td width="645" height="35" class="bar">
+								<div align="center">
+									<b><font size="+2" color="black">Script</font></b></div>
+							</td>
+						</tr>
+						<tr height="362">
+							<td class="spacer2" valign="top" width="645" height="362">
+
+						<p><font size="-2">Episode 176 - The Puerto Rican Day<br>
+							
+						pc: 920 season 9, episode 20<br>
+							
+						Broadcast date: May 7, 1998<br>
+							<br>
+							
+						Written by Alec Berg, Jennifer Crittenden, Spike Feresten, Bruce Eric Kaplan, Gregg Kavet, Steve Koren, David Mandel, Dan O'Keefe, Andy Robin and Jeff Schaffer.<br>
+							
+						Directed by Andy Ackerman<br>
+							<br>
+							
+						-------------------------------------------------------------------------------<br>
+							<br>
+							
+						The Cast<br>
+							
+						Regulars:<br>
+							
+						Jerry Seinfeld ......................&nbsp; Jerry Seinfeld<br>
+							
+						Jason Alexander .................. George Costanza<br>
+							
+						Julia Louis-Dreyfus .............. Elaine Benes<br>
+							
+						Michael Richards .................. Cosmo Kramer<br>
+							<br>
+							
+						Guest Stars:<br>
+							<br>
+							
+						Mario Joyner ......................... Lamar<br>
+							
+						Dayton Callie ........................ Cabbie<br>
+							
+						James Karen .......................... Mr. Canterman<br>
+							
+						Helen Carey .......................... Mrs. Christine Nyhart<br>
+							
+						Yul Vasquez .......................... Bob<br>
+							
+						John Paragon ........................ Cedric<br>
+							
+						Jenica Bergere ....................... Leslie<br>
+							
+						Monica Allison ...................... Gail<br>
+							
+						Marcelo Tubert ..................... Father<br>
+							
+						Armando Molina .................. Amigo<br>
+							
+						Tom Agna ............................. Gary<br>
+							
+						Tom Dahlgren ...................... Priest<br>
+							
+						Bert Rosario ......................... Man<br>
+							
+						Raoul N. Rizik ...................... Parade Goer<br>
+							
+						Scott Conte .......................... Sketch Guy<br>
+							
+						Mimi Cozzens ....................... Mrs. Canterman<br>
+							
+						Alison Martin ....................... Lucy<br>
+							
+						Marc Hirschfeld ................... Ellis<br>
+							
+						Chip Heller ........................... Policeman<br>
+							<br>
+							
+						==================================================================<br>
+							<br>
+							
+						[INT. JERRY'S CAR - DAY]<br>
+							<br>
+							
+						(The gang drives along in Jerry's car with the top down. Elaine and Kramer sit in the back, George is shotgun, and Jerry behind the wheel.)<br>
+							<br>
+							
+						GEORGE: Man, I'm starving.<br>
+							<br>
+							
+						ELAINE: How can you be hungry after what you ate at that Mets game?<br>
+							<br>
+							
+						GEORGE: Because ballpark food doesn't count as real food.<br>
+							<br>
+							
+						JERRY: Right. It's just an activity. It's like that paddle with the ball and the rubber band.<br>
+							<br>
+							
+						KRAMER: You know, my friend Bob Saccamano made a fortune off of those. See he came up with the idea for the rubber band. Before that, people would just hit the ball, and it would fly away.<br>
+							<br>
+							
+						JERRY: I can't believe you all made me leave before the end of the game.<br>
+							<br>
+							
+						ELAINE: Oh, come on, Jerry. It was 9 to nothing. We were getting shellacked.<br>
+							<br>
+							
+						GEORGE: Those nachos are killing me.<br>
+							<br>
+							
+						ELAINE: I thought you were hungry.<br>
+							<br>
+							
+						GEORGE: It's complicated.<br>
+							<br>
+							
+						KRAMER: Come on, Jerry, you're going to miss the exit.<br>
+							<br>
+							
+						JERRY: Keep your shirt on. I got it.<br>
+							<br>
+							
+						ELAINE: Watch out for that maroon Golf.<br>
+							<br>
+							
+						KRAMER: Oh, boy.<br>
+							<br>
+							
+						JERRY: Look at this guy. He's trying to box me out.<br>
+							<br>
+							
+						KRAMER: I'll tell you when you can go. Wait, wait, wait, Wait-- now, now, now. No, no, no. Go, go! No, no. Wait-- now, now! Now! Jerry! Go--ahh...<br>
+							<br>
+							
+						(Jerry swerves into another lane. Lamar, the driver of the maroon Golf honks the horn.)<br>
+							<br>
+							
+						JERRY: Oh, calm down, maroon Golf. He thinks I cut him off. He accelerated.<br>
+							<br>
+							
+						KRAMER: You want me to moon him? Ooh, let's moon him. Roll up your window. Let's do a pressed ham under glass.<br>
+							<br>
+							
+						ELAINE: Oh, no, I couldn't do that.<br>
+							<br>
+							
+						KRAMER: Look at this, look at this. He's giving us the finger.<br>
+							<br>
+							
+						ELAINE: Oh, all right.<br>
+							<br>
+							
+						KRAMER: Yeah.<br>
+							<br>
+							
+						(Elaine and Kramer get up to moon Lamar.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[INT. JERRY'S CAR - DAY]<br>
+							<br>
+							
+						GEORGE: So I saw that new movie about the Hindenburg.<br>
+							<br>
+							
+						ELAINE: Oh, yeah. What's that called?<br>
+							<br>
+							
+						GEORGE: Blimp: The Hindenburg Story.<br>
+							<br>
+							
+						JERRY: How was it?<br>
+							<br>
+							
+						GEORGE: I found it morose. Why dwell on these negative themes?<br>
+							<br>
+							
+						JERRY: Yeah. They should make a movie about all the Hindenburg flights that made it.<br>
+							<br>
+							
+						GEORGE: Anyway, right in the middle, the ship blows up-- burning debris, bodies falling-- and then just as this eerie silence settles over the airfield, I yelled out, &quot;That's gotta hurt!&quot;<br>
+							<br>
+							
+						JERRY: Heh.<br>
+							<br>
+							
+						GEORGE: The place went nuts.<br>
+							<br>
+							
+						JERRY: Imagine the laugh you could have gotten if you'd yelled that out at the actual disaster.<br>
+							<br>
+							
+						GEORGE: Yeah.<br>
+							<br>
+							
+						KRAMER: Why are we slowing down?<br>
+							<br>
+							
+						(Music plays in the background.)<br>
+							<br>
+							
+						JERRY: What is that music?<br>
+							<br>
+							
+						GEORGE: What's with all these flags?<br>
+							<br>
+							
+						JERRY: Oh, no.<br>
+							<br>
+							
+						ELAINE AND JERRY: It's the Puerto Rican Day parade!<br>
+							<br>
+							
+						ELAINE: Ohh! Oh, the city shuts down Fifth avenue. They never let anyone through. We're never getting home.<br>
+							<br>
+							
+						(Kramer stands up on the back seat.)<br>
+							<br>
+							
+						KRAMER: All right. I'm gonna check it out. Aiee. mucho trafico.<br>
+							<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						[STOCK FOOTAGE: Puerto Rican Day parade.]<br>
+							<br>
+							<br>
+							<br>
+							
+						[EXT. CITY STREET - DAY]<br>
+							<br>
+							
+						(Kramer runs along the sidewalk and hops into the back seat of a black Saab.)<br>
+							<br>
+							
+						KRAMER: Yeah...uhh...well, the streets are all blocked. I think every Puerto Rican in the world is out here.<br>
+							<br>
+							
+						(There is a Puerto Rican family in the car.)<br>
+							<br>
+							
+						PUERTO RICAN MAN: Well, it is our day.<br>
+							<br>
+							
+						KRAMER: Whoo. Wrong car. Sorry.<br>
+							<br>
+							
+						(Kramer hops out.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[INT. JERRY'S CAR - DAY]<br>
+							<br>
+							
+						(Still sitting stopped in traffic are Elaine, Jerry, and George. They are listening to the radio.)<br>
+							<br>
+							
+						RADIO: And the Mets score two in the eighth inning.<br>
+							<br>
+							
+						JERRY: See? If we had stayed, we could have seen those runs.<br>
+							<br>
+							
+						GEORGE: I could have had some ice cream. I think that might have calmed down the nachos.<br>
+							<br>
+							
+						ELAINE: I'm going to miss 60 Minutes. You know, I hate to miss 60 Minutes. It's part of my Sunday weekend wind-down.<br>
+							<br>
+							
+						JERRY: I don't know how you can unwind with that clock ticking. It makes me anxious.<br>
+							<br>
+							
+						KRAMER: All right, gentlemen, I scouted it out. I think we can get out over there.<br>
+							<br>
+							
+						JERRY: But that's a one-way street coming this way. Besides, how am I gonna get all the way over there?<br>
+							<br>
+							
+						GEORGE: Just inch over. You worm your way.<br>
+							<br>
+							
+						ELAINE: Just do it, Jerry. Uhh. This exhaust. I'm gonna throw up.<br>
+							<br>
+							
+						KRAMER: You know, you should make yourself throw up.<br>
+							<br>
+							
+						ELAINE: Huh?<br>
+							<br>
+							
+						KRAMER: You know you're going to.<br>
+							<br>
+							
+						JERRY: All right, I'm worming.<br>
+							<br>
+							
+						KRAMER: Hey, Jerry. You know who the grand marshal is of this thing? None other than Miss Chita Rivera.<br>
+							<br>
+							
+						JERRY: They're not letting me in.<br>
+							<br>
+							
+						GEORGE: My hand is out.<br>
+							<br>
+							
+						JERRY: Well, I think we're gonna need more than a hand. They have to see a human face.<br>
+							<br>
+							
+						ELAINE: You sure you want his face?<br>
+							<br>
+							
+						KRAMER: No, no, no. It was Mar&iacute;a Conchita Alonso.<br>
+							<br>
+							
+						GEORGE: This guy's giving me the stare-ahead.<br>
+							<br>
+							
+						JERRY: The stare-ahead. I hate that. I use it all the time.<br>
+							<br>
+							
+						GEORGE: Look at me! I am man! I am you!<br>
+							<br>
+							
+						(The man in the other car looks over at George. Elaine, sitting behind George, aids in the cause by pleading to the man by mouthing the words, &quot;Hi, can we go in?&quot;)<br>
+							<br>
+							
+						GEORGE: All right, he's letting you in. Thank you! Creep.<br>
+							<br>
+							
+						KRAMER: Oh! I know who it is. Stacy Keach.<br>
+							<br>
+							
+						JERRY: One more lane to go.<br>
+							<br>
+							
+						GEORGE: All right! We're here!<br>
+							<br>
+							
+						(Just as Jerry is about to enter the one-way street, Lamar and his maroon Golf cut him off.)<br>
+							<br>
+							
+						LAMAR: Oh, look who's here. My old buddy, black Saab.<br>
+							<br>
+							
+						JERRY: Maroon Golf.<br>
+							<br>
+							
+						LAMAR: Where you goin', black Saab? You seem to be a tad askew.<br>
+							<br>
+							
+						JERRY: Could you move your car back a little?<br>
+							<br>
+							
+						LAMAR: Oh. Sorry. I seem to have cut you off.<br>
+							<br>
+							
+						ELAINE: All right, I think I know where this is going, and I am going somewhere else.<br>
+							<br>
+							
+						(Elaine pushes George's seat forward slamming his head onto the dashboard. She gets out.)<br>
+							<br>
+							
+						JERRY: You can't do that. You can't just leave the group.<br>
+							<br>
+							
+						ELAINE: I've been trying to leave this group for 10 years. Vaya con dios.<br>
+							<br>
+							
+						KRAMER: Con dios? Well, that's rude.<br>
+							<br>
+							
+						JERRY: Can you believe her?<br>
+							<br>
+							
+						GEORGE: Yeah. I'll see you later.<br>
+							<br>
+							
+						JERRY: Where are you going?<br>
+							<br>
+							
+						GEORGE: The movies. Blimp is playing right there.<br>
+							<br>
+							
+						JERRY: You're going to that again? Why? Just to do that stupid line?<br>
+							<br>
+							
+						GEORGE: It's a performance, Jerry. Like what you do.<br>
+							<br>
+							
+						JERRY: That's not what I do.<br>
+							<br>
+							
+						GEORGE: Isn't it?<br>
+							<br>
+							
+						JERRY: Maybe a little. Ah, hell, I guess it is.<br>
+							<br>
+							
+						(George leaves.)<br>
+							<br>
+							
+						KRAMER: You know, actually, Jerry, you haven't worked a room that big in a while.<br>
+							<br>
+							<br>
+							<br>
+							
+						[STOCK FOOTAGE: Taxis stuck in traffic].<br>
+							<br>
+							<br>
+							<br>
+							
+						[INT. TAXI CAB - DAY]<br>
+							<br>
+							
+						(Elaine sits in the back.)<br>
+							<br>
+							
+						ELAINE: Look at that guy's dog. I hate it when their ears get flipped inside out like that. Why doesn't he fix it?<br>
+							<br>
+							
+						(She moves so she can yell out the driver's open window.<br>
+							<br>
+							
+						ELAINE (yelling): Hey! Fold your dog's ear back!<br>
+							<br>
+							
+						(She leans back.)<br>
+							<br>
+							
+						ELAINE: Ooh! This isn't moving! I could walk faster than this.<br>
+							<br>
+							
+						CAB DRIVER: No, you can't.<br>
+							<br>
+							
+						ELAINE: Yes, I can. Here. I'm outta here.<br>
+							<br>
+							
+						(She pays her fare and gets out.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[EXT. CITY SIDEWALK - CONTINUOUS]<br>
+							<br>
+							
+						(She starts to walk. The cab starts to move.)<br>
+							<br>
+							
+						ELAINE: Oh, now it's moving. Oh, yeah. I knew it. Hey! Hey!<br>
+							<br>
+							
+						(The cab stops and she gets back in.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[INT. TAXI CAB - CONTINUOUS]<br>
+							<br>
+							
+						CAB DRIVER: Where to?<br>
+							<br>
+							
+						ELAINE: That's cute. That's really cute. Oh! Come on! All right. Bye again.<br>
+							<br>
+							
+						(She pays and gets out again.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[EXT. CITY SIDEWALK - CONTINUOUS]<br>
+							<br>
+							
+						(Again, the cab starts moving when she gets out.)<br>
+							<br>
+							
+						ELAINE: Hey. Taxi! Taxi!<br>
+							<br>
+							
+						(She starts to run after the taxi which starts to move faster.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[INT. MOVIE THEATER - DAY]<br>
+							<br>
+							
+						(George sits down next to two attractive women.)<br>
+							<br>
+							
+						GEORGE: Ladies. I, uh, I haven't seen this before.<br>
+							<br>
+							
+						LADY 1: What is that dot?<br>
+							<br>
+							
+						LADY 2: Oh, I think someone has one of those funny laser pointers.<br>
+							<br>
+							
+						(A red laser moves around the movie screen. Everyone laughs as the dot rests on the breasts of the movie actress.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[INT. MOVIE LOBBY - DAY]<br>
+							<br>
+							
+						(The laser pointer guy uses his laser to point at a box of Skittles and RC Cola.)<br>
+							<br>
+							
+						LASER GUY: Gimme a box of those and one of those.<br>
+							<br>
+							
+						GEORGE: Excuse me, are you the guy with that funny laser?<br>
+							<br>
+							
+						LASER GUY: The laser's not funny. I'm funny.<br>
+							<br>
+							
+						GEORGE: Yeah. The thing is, I, uh...I had this little zinger of my own I wanted to try.<br>
+							<br>
+							
+						LASER GUY: Uh-huh.<br>
+							<br>
+							
+						GEORGE: It's right in the explosion scene. So if you could just...leave me a little window. You know, my, uh, my aunt had a thing removed with a laser. All right, I don't want to interrupt your meal, so...<br>
+							<br>
+							<br>
+							<br>
+							
+						[INT. JERRY'S CAR - DAY]<br>
+							<br>
+							
+						(Kramer and Jerry sit listening to the radio.)<br>
+							<br>
+							
+						RADIO What a comeback for the New York Mets-- 6 runs in the bottom of the ninth.<br>
+							<br>
+							
+						JERRY: I've gotta see this game. If it wasn't for this guy, we could get out of here.<br>
+							<br>
+							
+						LAMAR: This traffic's a killer, ain't it?<br>
+							<br>
+							
+						KRAMER: You want to get outta here? Here's what we do. We leave the car here, we take the plates off, we scratch the serial number off the engine block, and we walk away.<br>
+							<br>
+							
+						JERRY: Walk away?<br>
+							<br>
+							
+						KRAMER: You've got insurance. You tell them that the car was stolen, and then you get another one free.<br>
+							<br>
+							
+						JERRY: Isn't there a deductible?<br>
+							<br>
+							
+						KRAMER: All right, what is your deductible?<br>
+							<br>
+							
+						JERRY: I don't know.<br>
+							<br>
+							
+						KRAMER: Yes, because they've already deducted it.<br>
+							<br>
+							
+						JERRY: From what?<br>
+							<br>
+							
+						KRAMER: The car, which we're leaving. So the net is zero. See you pocket the money, if there is any, and you get a new car.<br>
+							<br>
+							
+						JERRY: We're not leaving the car!<br>
+							<br>
+							
+						KRAMER: All right. If you refuse to grow up and scam your insurance company, you'll have to work this out with maroon Golf.<br>
+							<br>
+							
+						JERRY: Absolutely not. He sped up.<br>
+							<br>
+							
+						RADIO: Swung on, line hard toward left center field. That's in the gap, that's a base hit.<br>
+							<br>
+							
+						JERRY: I'm ready to talk.<br>
+							<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						[INT. MOVIE THEATER - DAY]<br>
+							<br>
+							
+						(George and the ladies are sitting in their seats.)<br>
+							<br>
+							
+						LADY 1: Hey! There's that laser guy again.<br>
+							<br>
+							
+						LADY 2: He's funny. I never meet anyone funny.<br>
+							<br>
+							
+						LADY 1: I know. A sense of humor is so much more important to me than looks or hair.<br>
+							<br>
+							
+						LADY 2: Mmm, yeah.<br>
+							<br>
+							
+						(There's an explosion on the screen. The laser moves around the screen and everyone laughs.)<br>
+							<br>
+							
+						GEORGE: That's gotta hurt!<br>
+							<br>
+							
+						(Everyone stops laughing.)<br>
+							<br>
+							
+						GEORGE: It's...gotta hurt! Hurt! Because...Aaarrrrrgh!<br>
+							<br>
+							
+						(George stands up.)<br>
+							<br>
+							
+						GEORGE: Damn you, laser guy! You had to grab it all with your lowbrow laser shtick! You're just a prop comic! Where's the craft?!<br>
+							<br>
+							
+						(The laser guy points the laser at George's head.)<br>
+							<br>
+							
+						LADY 1: Look! It's on the bald guy.<br>
+							<br>
+							
+						LADY 2: I am so glad we came to this showing.<br>
+							<br>
+							<br>
+							<br>
+							
+						[EXT. CITY STREET - DAY]<br>
+							<br>
+							
+						(Kramer is talking to Lamar while Jerry waits in his car. Kramer walks to Jerry.)<br>
+							<br>
+							
+						KRAMER: Ok, here's the deal. He wants you to acknowledge that you cut him off with an &quot;I am sorry&quot; wave.<br>
+							<br>
+							
+						JERRY: What's that?<br>
+							<br>
+							
+						KRAMER: You raise the hand, lower the head-- &quot;I'm sorry, I'm sorry. The buttons are really big on the car. I don't understand it. I haven't read the manual. Ooh!&quot; You get my drift.<br>
+							<br>
+							
+						JERRY: Ok!<br>
+							<br>
+							
+						(Jerry puts both hands up over his head and does the &quot;I'm Sorry&quot; wave.)<br>
+							<br>
+							
+						LAMAR: Hallelujah. Praise the lord. But I'll take it.<br>
+							<br>
+							
+						KRAMER: Yes! All right, Lamar, back it up a little bit so we can get out now.<br>
+							<br>
+							
+						(Kramer gets in the car. George shows up and climbs into the back seat.)<br>
+							<br>
+							
+						GEORGE: All right. At last, we're finally gettin' out of here.<br>
+							<br>
+							
+						JERRY: What's that on your forehead?<br>
+							<br>
+							
+						GEORGE: It's probably chocolate.<br>
+							<br>
+							
+						JERRY: Hey, is that one of those laser pointers?<br>
+							<br>
+							
+						KRAMER: Hey, Jerry, crank up the Floyd. It's a George laserium!<br>
+							<br>
+							
+						GEORGE: All right, stop it! Stay away from my breasts! Chest!<br>
+							<br>
+							
+						JERRY: See ya around maroon Golf. And, by the way, that was an &quot;I'm not sorry&quot; wave.<br>
+							<br>
+							
+						LAMAR: What was that?<br>
+							<br>
+							
+						JERRY: I'm glad I cut you off, because black Saab rules! So long, jackass!<br>
+							<br>
+							
+						(As Jerry pulls into the one way street, a taxi comes down the street and blocks him in. In the taxi is Elaine.)<br>
+							<br>
+							
+						JERRY: Elaine?!<br>
+							<br>
+							
+						ELAINE: Jerry?!<br>
+							<br>
+							
+						LAMAR: Jackass? So I'm a jackass now?<br>
+							<br>
+							<br>
+							<br>
+							
+						[INT. JERRY'S APARTMENT - DAY]<br>
+							<br>
+							
+						(The apartment is empty.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[EXT. CITY STREET - DAY]<br>
+							<br>
+							
+						(Jerry stands in front of the one way street yelling at the cars.)<br>
+							<br>
+							
+						JERRY: So if everyone would just put their cars in reverse at the same time, we can do this. All right, on the count of three. Can everyone hear me? Hey, amigo, are you paying attention?<br>
+							<br>
+							
+						PUERTO RICAN MAN: Buenos dias, my friend.<br>
+							<br>
+							
+						JERRY: Not you! The guy in the Amigo.<br>
+							<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						[INT. TAXI CAB - DAY]<br>
+							<br>
+							
+						(Elaine sits frustrated in the cab.)<br>
+							<br>
+							
+						ELAINE: Uh, well, uh, here--here is good.<br>
+							<br>
+							
+						TAXI DRIVER: Oh, yeah, sure, and now I'm gonna be stuck here. But you knew the way to go! You went to college!<br>
+							<br>
+							
+						ELAINE: Hey, I went to Tufts! That was my safety school! So don't talk to me about hardship.<br>
+							<br>
+							
+						(She pays the driver and gets out.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[EXT. CITY STREET - DAY]<br>
+							<br>
+							
+						(Elaine walks up to Jerry.)<br>
+							<br>
+							
+						ELAINE: Boy, eh, can you believe this mess?<br>
+							<br>
+							
+						JERRY: Elaine, why did you have the cab come down the street?! We were almost out!<br>
+							<br>
+							
+						LAMAR: So that was your girlfriend that blocked you in. That's real good.<br>
+							<br>
+							
+						ELAINE: I'm not his girlfriend. Well, actually, we used to date, but not anymore.<br>
+							<br>
+							
+						JERRY: Elaine, he doesn't need-<br>
+							<br>
+							
+						LAMAR: Used to date? So I guess you found out he's a jackass.<br>
+							<br>
+							
+						JERRY: 'Cause that's what's gonna happen.<br>
+							<br>
+							
+						(Kramer and George walk along eating churros.)<br>
+							<br>
+							
+						KRAMER: Wow. He's givin' you a mustache. Where is this guy?<br>
+							<br>
+							
+						GEORGE: Don't look around. Don't look around. That's what he wants.<br>
+							<br>
+							
+						ELAINE: All right. Well, I'll see ya. Hey, George, I think there's a sniper lookin' to pop ya.<br>
+							<br>
+							
+						(Elaine leaves.)<br>
+							<br>
+							
+						GEORGE: This thing can't hurt me, can it? I mean, it is a laser. What if it hits my eye?<br>
+							<br>
+							
+						JERRY: I don't know.<br>
+							<br>
+							
+						GEORGE: I can't be blind, Jerry The blind are courageous.<br>
+							<br>
+							
+						KRAMER: You'll be fine as long as it doesn't hit you right in the pupil, 'Cause then the whole ball will go up like the Death Star. Tchoo! I gotta go find a bathroom.<br>
+							<br>
+							
+						(Kramer leaves.)<br>
+							<br>
+							
+						JERRY: Hold it, George. Don't move. It's right between your eyes.<br>
+							<br>
+							
+						GEORGE: Oh, my god.<br>
+							<br>
+							
+						JERRY: Hey, there's the soda guy.<br>
+							<br>
+							
+						LAMAR: Hey, jackass! Get me a diet Dr. Pepper!<br>
+							<br>
+							
+						JERRY (exasperated): All right!<br>
+							<br>
+							
+						(George stands petrified.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[EXT. BARRICADE - DAY]<br>
+							<br>
+							
+						(A police barricade set up on the parade route prevents a crowd of people from crossing. Elaine pushes her way through the crowd.)<br>
+							<br>
+							
+						OLDER MAN: Hey, hey, hey!<br>
+							<br>
+							
+						OLDER WOMAN: Wha--ow!<br>
+							<br>
+							
+						ELAINE: Oh, this is nuts! I can't get across anywhere!<br>
+							<br>
+							
+						OLDER MAN: Well, none of us can! We're trapped!<br>
+							<br>
+							
+						OLDER WOMAN: Ow!<br>
+							<br>
+							
+						ELAINE: Hey! Hey, everyone. This way. I think we can get out through here.<br>
+							<br>
+							
+						(Elaine picks up a nylon flap that covers the sides of some bleachers.)<br>
+							<br>
+							
+						OLDER MAN: Oh, I don't know if that's such a good idea.<br>
+							<br>
+							
+						ELAINE: Look! No one knows how long this parade is gonna last! They are a very festive people. All I know is that it's Sunday night, and I have got to unwind! Now who's with me?!<br>
+							<br>
+							
+						OLDER WOMAN: Father?<br>
+							<br>
+							
+						PRIEST: None of us saw the nylon flap. That might mean something.<br>
+							<br>
+							
+						PREGNANT WOMAN: Oh, all right, all right!<br>
+							<br>
+							
+						(People start going under the bleachers.)<br>
+							<br>
+							
+						ELAINE: All right! Come on. Come on. Let's go. Let's go.<br>
+							<br>
+							
+						BUSINESS MAN: But it's dark!<br>
+							<br>
+							
+						ELAINE: Get in there!<br>
+							<br>
+							<br>
+							<br>
+							
+						[EXT. CITY SIDEWALK - DAY]<br>
+							<br>
+							
+						(Kramer looks for a bathroom. He sees a sign that reads, &quot;Rest rooms are for patrons only.&quot; There's another sign that reads apartment for sale.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[INT. APARTMENT - DAY]<br>
+							<br>
+							
+						(There's a knock at the door and the sales woman answers it. It's Kramer.)<br>
+							<br>
+							
+						KRAMER: Yes, uh, I'm interested in the apartment.<br>
+							<br>
+							
+						SALES WOMAN: Yes! Come in, come in.<br>
+							<br>
+							
+						KRAMER: Ok.<br>
+							<br>
+							
+						SALES WOMAN: I'm Christine Nyhart.<br>
+							<br>
+							
+						KRAMER: Oh. Delicious to meet you.<br>
+							<br>
+							
+						SALES WOMAN: Did the broker send you over?<br>
+							<br>
+							
+						KRAMER: Uh, yes, most likely, yes. I'm, uh, H.E. Pennypacker. I'm a wealthy industrialist and philanthropist and, uh, a bicyclist. And, um, yes, I'm looking for a place where I can settle down with my, uh, peculiar habits, and, uh, the women that I frequent with. (sniffing wall) Mmm. Mombassa, hmm?<br>
+							<br>
+							
+						SALES WOMAN: The asking price is $1.5 million.<br>
+							<br>
+							
+						KRAMER: Oh, I spend that much on after shave. Yes, I buy and sell men like myself every day. Now, I assume that there's a waterfall grotto?<br>
+							<br>
+							
+						SALES WOMAN: No.<br>
+							<br>
+							
+						KRAMER: How about a bathroom?<br>
+							<br>
+							
+						SALES WOMAN: It has 4.<br>
+							<br>
+							
+						KRAMER: Yes, and where would the absolute nearest one be?<br>
+							<br>
+							
+						SALES WOMAN: Just down the hall.<br>
+							<br>
+							
+						KRAMER: Oh, thank you.<br>
+							<br>
+							
+						(He saunters to the bathroom.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[INT. BLEACHERS - DAY]<br>
+							<br>
+							
+						(Elaine leads everyone under the bleachers. Food falls from the bleachers landing on them.)<br>
+							<br>
+							
+						ELAINE: Oh, don't worry. We'll get you home to your husband real soon.<br>
+							<br>
+							
+						PREGNANT WOMAN: I'm not married.<br>
+							<br>
+							
+						ELAINE: Well, I, for one, really respect that.<br>
+							<br>
+							
+						PREGNANT WOMAN: Oh, thank you.<br>
+							<br>
+							
+						ELAINE (whispering): Hey! Guess who's not married.<br>
+							<br>
+							
+						OLDER MAN: Is the boyfriend still in the picture?<br>
+							<br>
+							
+						ELAINE: Come on, father, you can make it.<br>
+							<br>
+							
+						PRIEST: No, I can't. I've got a bad hip. Go on without me.<br>
+							<br>
+							
+						ELAINE: No! I won't!<br>
+							<br>
+							
+						PRIEST: Leave me! you must.<br>
+							<br>
+							
+						ELAINE: All right. Take it easy.<br>
+							<br>
+							
+						ELAINE: All right, we can move faster without father o'gimpy.<br>
+							<br>
+							
+						PRIEST: I heard that!<br>
+							<br>
+							<br>
+							<br>
+							
+						[EXT. CITY STREET - DAY]<br>
+							<br>
+							
+						(Jerry stands next to his car with a drink.)<br>
+							<br>
+							
+						LAMAR: You know, I don't think I've ever seen a man driving a Saab convertible. Still haven't.<br>
+							<br>
+							
+						JERRY (sarcastically): Ho ho!<br>
+							<br>
+							
+						(George returns wearing mirrored sunglasses.)<br>
+							<br>
+							
+						JERRY: What seems to be the problem, officer?<br>
+							<br>
+							
+						GEORGE: They're for protection, Jerry. Can you tell where I'm lookin'?<br>
+							<br>
+							
+						JERRY: At me?<br>
+							<br>
+							
+						GEORGE: No.<br>
+							<br>
+							
+						JERRY: Oh. It's back.<br>
+							<br>
+							
+						GEORGE: Bring it on, baby<br>
+							<br>
+							
+						JERRY: What if it gets in the side?<br>
+							<br>
+							
+						GEORGE: The side?<br>
+							<br>
+							
+						JERRY: Yeah. Wouldn't it just bounce back and forth between your cornea and the mirror, faster and faster, getting more and more intense, until finally-<br>
+							<br>
+							
+						(George rips off his glasses.)<br>
+							<br>
+							
+						GEORGE: All right!<br>
+							<br>
+							
+						JERRY: Oh. It's in your eye now.<br>
+							<br>
+							
+						(George runs off screaming. Kramer runs up to Jerry with a Puerto Rican flag draped around him.)<br>
+							<br>
+							
+						KRAMER: Hola, Jerry! I'm into this Puerto Rican day! The sights! The sounds! The hot, spicy flavor of it all! It's caliente, Jerry!<br>
+							<br>
+							
+						JERRY: Kramer, the Mets have got men on base!<br>
+							<br>
+							
+						KRAMER: Yeah, I know! I was watchin' the game.<br>
+							<br>
+							
+						JERRY: You were watchin'? Where?<br>
+							<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						[INT. APARTMENT - DAY]<br>
+							<br>
+							
+						(Jerry sits in the apartment watching TV.)<br>
+							<br>
+							
+						JERRY: Oh, that was a strike! Did you see that?!<br>
+							<br>
+							
+						SALES WOMAN: Would you like to see the rest of the apartment, Mister, um--<br>
+							<br>
+							
+						JERRY: Eh...Varnsen. Kel Varnsen. Actually, this room intrigues me. Why is it called the TV room?<br>
+							<br>
+							
+						SALES WOMAN: Well, it's--<br>
+							<br>
+							
+						JERRY: Balk?! How was that a balk?! You have any snacks?<br>
+							<br>
+							
+						SALES WOMAN: Mr. Varnsen, if you like the apartment, I should tell you I've also had some interest from a wealthy industrialist.<br>
+							<br>
+							
+						JERRY: Not Pennypacker!<br>
+							<br>
+							
+						SALES WOMAN: You know him?<br>
+							<br>
+							
+						JERRY: I wish I didn't. Brace yourself, madam, for an all-out bidding war. But this time, advantage Varnsen!<br>
+							<br>
+							<br>
+							<br>
+							
+						[INT. JERRY'S CAR - DAY]<br>
+							<br>
+							
+						(George and Kramer sit in the car. George looks in the rear view mirror.)<br>
+							<br>
+							
+						GEORGE: Wait a second. I think I see where that laser guy is. No! Don't look! Don't look. Oh, yeah, that's him. Ok. I'm gonna sneak up on him. Now the hunted becomes the hunter.<br>
+							<br>
+							
+						(George exits the car.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[INT. BLEACHERS - DAY]<br>
+							<br>
+							
+						(Elaine and the group reach the end of the bleachers.)<br>
+							<br>
+							
+						ELAINE: We should be able to get across right through here!<br>
+							<br>
+							
+						(She lifts the nylon flap to find a brick wall.)<br>
+							<br>
+							
+						OLDER WOMAN: It's a dead end!<br>
+							<br>
+							
+						ELAINE: Oh, no! I thought--<br>
+							<br>
+							
+						BUSINESS MAN: You thought?! We're gonna die in the dark! I knew it! I knew it! We're gonna die!<br>
+							<br>
+							
+						ELAINE: Get a hold of yourself!<br>
+							<br>
+							
+						(Elaine slaps the man. He shoves her, she shoves back. They grab each other and kiss.)<br>
+							<br>
+							
+						PREGNANT WOMAN: Oh, come on!<br>
+							<br>
+							
+						OLDER WOMAN Oooh!<br>
+							<br>
+							
+						ELAINE: Sorry. Somebody...help us!<br>
+							<br>
+							<br>
+							<br>
+							
+						[EXT. BLEACHERS - DAY]<br>
+							<br>
+							
+						(Lots of people sit on the bleachers. A cop stands guard.)<br>
+							<br>
+							
+						MAN: !Mira! !Mira! Stacy Keach!<br>
+							<br>
+							
+						ELAINE: We're down here! Help!<br>
+							<br>
+							
+						MAN: There's people down there! Hold on!<br>
+							<br>
+							
+						(They lift the floorboards to reveal Elaine and her group.)<br>
+							<br>
+							
+						ELAINE: Let us out. There's an unmarried pregnant woman down here.<br>
+							<br>
+							
+						PREGNANT WOMAN: Don't judge me!<br>
+							<br>
+							
+						ELAINE: Help us up so we can cross the street?<br>
+							<br>
+							
+						POLICE OFFICER: Nah, nah, You can't cross here. There's a parade.<br>
+							<br>
+							
+						ELAINE: But we've come so far. We just want to unwind.<br>
+							<br>
+							
+						POLICE OFFICER: Hey, what can I tell ya?<br>
+							<br>
+							
+						(They close the floor boards.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[INT. BLEACHERS - DAY]<br>
+							<br>
+							
+						BUSINESS MAN: Wanna make out some more?<br>
+							<br>
+							
+						ELAINE: Oh, god! Let us out!<br>
+							<br>
+							<br>
+							<br>
+							
+						[EXT. CITY SIDEWALK - DAY]<br>
+							<br>
+							
+						(George hides behind a van and sees a man with a pen. He sneaks up and grabs the pen and destroys it. He ends up with ink all over his hands.)<br>
+							<br>
+							
+						GEORGE: That wasn't a laser pen.<br>
+							<br>
+							
+						DELIVERY MAN: No. It's just a pen.<br>
+							<br>
+							
+						(The delivery man laughs.)<br>
+							<br>
+							
+						GEORGE: Oh, that's funny<br>
+							<br>
+							
+						DELIVERY MAN: No. You have, like, a dot on your face. Whoever's doing that is very clever.<br>
+							<br>
+							<br>
+							<br>
+							
+						[EXT. CITY STREET - DAY]<br>
+							<br>
+							
+						(Kramer lights a cigar with a sparkler.)<br>
+							<br>
+							
+						KRAMER: Come on, man. You need to lighten up. You know, a feeling like this only happens once a year.<br>
+							<br>
+							
+						(He tosses the sparkler into the back seat of Jerry's car where it lands on the Puerto Rican flag.)<br>
+							<br>
+							
+						KRAMER: Yeah, it's like this every day in Puerto Rico.<br>
+							<br>
+							
+						(Lamar starts to laugh as he sees the smoke rise.)<br>
+							<br>
+							
+						KRAMER: See, now you're getting the spirit of it, huh?<br>
+							<br>
+							
+						(Kramer smells the smoke, turns, and sees the fire.)<br>
+							<br>
+							
+						KRAMER: Ooh! !Dios mio!<br>
+							<br>
+							
+						(He grabs the flag, throws it onto the sidewalk and stops on it.)<br>
+							<br>
+							
+						MAN: Hey! There's a guy burning the Puerto Rican flag!<br>
+							<br>
+							
+						BOB: Who! Who is burning the flag?!<br>
+							<br>
+							
+						KRAMER: Oh, no.<br>
+							<br>
+							
+						BOB: Him?!<br>
+							<br>
+							
+						CEDRIC: That's not very nice.<br>
+							<br>
+							
+						KRAMER: It was an accident.<br>
+							<br>
+							
+						BOB: Do you know what day this is? Because I know what day this is, they know what day this is, so I was wondering if you know what day this is!<br>
+							<br>
+							
+						CEDRIC: Because it's Puerto Rican day.<br>
+							<br>
+							
+						BOB: Maybe we should stomp you like you stomp the flag! What do you think of that?<br>
+							<br>
+							
+						KRAMER: Now look, I just have one thing to say to you boys. Mama!<br>
+							<br>
+							
+						(Kramer runs off screaming. The others give chase.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[INT. APARTMENT - DAY]<br>
+							<br>
+							
+						(The sales woman lets George in.)<br>
+							<br>
+							
+						SALES WOMAN: Right this way, Mr. Vandelay.<br>
+							<br>
+							
+						GEORGE: Well, this is a lovely apartment. Lovely! My kids are gonna go crazy. I, uh, I wonder if I could see the bathrooms. Preferably one with some paint thinner and, uh, some rags?<br>
+							<br>
+							
+						SALES WOMAN: It's down the hall.<br>
+							<br>
+							
+						(George walks to the bathroom, but stops when he sees Jerry.)<br>
+							<br>
+							
+						JERRY: Oh, hello...<br>
+							<br>
+							
+						GEORGE: Art.<br>
+							<br>
+							
+						JERRY: Mr. Vandelay, of course.<br>
+							<br>
+							
+						SALES WOMAN: You two know each other?<br>
+							<br>
+							
+						(Kramer bursts through the door.)<br>
+							<br>
+							
+						SALES WOMAN: Mr. Pennypacker!<br>
+							<br>
+							
+						KRAMER: Uh, yes, uh, I--I wanted to, uh, stop by and make sure that my shark tank fits-- uh, hello.<br>
+							<br>
+							
+						SALES WOMAN: Mr. Pennypacker, this is Mr. Vandelay, And you know Mr. Varnsen<br>
+							<br>
+							
+						KRAMER: Uh, Varnsen.<br>
+							<br>
+							
+						JERRY: Pennypacker.<br>
+							<br>
+							
+						KRAMER: Vandelay.<br>
+							<br>
+							
+						GEORGE: Pennypacker. Varnsen.<br>
+							<br>
+							
+						JERRY: Vandelay. Wait a second. Mr. Pennypacker, if you're here, and Mr. Vandelay is also here, then who's watching the factory?<br>
+							<br>
+							
+						KRAMER: The factory?<br>
+							<br>
+							
+						JERRY: The Saab factory?<br>
+							<br>
+							
+						KRAMER: Jerry, that's in Sweden.<br>
+							<br>
+							
+						(George turns on the TV as Jerry runs to the window just in time to see a mob attacking his car.)<br>
+							<br>
+							
+						JERRY: My car!<br>
+							<br>
+							
+						KRAMER: Well, you know, it's like this every day in Puerto Rico.<br>
+							<br>
+							
+						GEORGE: Jerry, the Mets lost.<br>
+							<br>
+							
+						JERRY: I love a parade!<br>
+							<br>
+							<br>
+							<br>
+							
+						[EXT. CITY SIDEWALK - NIGHT]<br>
+							<br>
+							
+						(Jerry's car is stuck in a stairwell outside a building. Kramer, George, and Jerry admire the mob's handiwork.)<br>
+							<br>
+							
+						GEORGE: How do you suppose they did that?<br>
+							<br>
+							
+						KRAMER: Well...there's no logical explanation. All right. Well, shall we go home?<br>
+							<br>
+							
+						JERRY: Well, what about my car?<br>
+							<br>
+							
+						KRAMER: Well, Jerry, you can't deduct it now.<br>
+							<br>
+							
+						(Elaine approaches the group. She is totally disheveled with popcorn in her hair and her clothing stained.)<br>
+							<br>
+							
+						JERRY: Hey, there's Elaine.<br>
+							<br>
+							
+						ELAINE: Hey.<br>
+							<br>
+							
+						JERRY: Well, you look, uh...relaxed.<br>
+							<br>
+							
+						ELAINE: Well, it is Sunday night, and you know how I like to unwind.<br>
+							<br>
+							
+						(Lamar drives up in his maroon Golf.)<br>
+							<br>
+							
+						LAMAR: Hey, black Saab. Looks like that building cut you off! Ha ha ha! See ya around!<br>
+							<br>
+							
+						(He drives off.)<br>
+							<br>
+							
+						JERRY: Well, at least he didn't-<br>
+							<br>
+							
+						LAMAR: Jackass!<br>
+							<br>
+							
+						(Jerry sets his car alarm.)<br>
+							<br>
+							
+						JERRY: Somebody remember where we parked.<br>
+							<br>
+							
+						KRAMER: This was a fun day. It's nice to get out.<br>
+							<br>
+							
+						(The foursome walk off as a laser lights up George's rear end.)<br>
+							<br>
+							
+						&nbsp;<br>
+							
+						The End</td>
+						</tr>
+						<tr height="6">
+							<td class="bottom2" width="645" height="6"></td>
+						</tr>
+						<tr>
+							<td width="645">
+								<div align="center">
+									<font size="-1">Copyright 2006 seinology.com | All Rights Reserved | Designed by 13erla</font></div>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+		<p></p>
+	</body>
+
+</html>

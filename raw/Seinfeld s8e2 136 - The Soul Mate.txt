@@ -1,0 +1,1238 @@
+<tdOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+<html>
+
+	<head>
+		<meta http-equiv="content-type" content="text/html;charset=ISO-8859-1">
+		<meta name="description" content="Top Source for Seinfeld">
+		<meta name="keywords" content="seinfeld, sienfeld, Jerry Seinfeld, Julia Louis Dreyfus, Jason Alexander, Michael Richards, Kramer, George, Costanza, Elaine Benes, morty, Larry David">
+		<title>Seinology.com :: Scripts :: 136-The Soul Mate</title>
+	<link rel='stylesheet' href='/stylesheet.css' type='text/css'>
+	</head>
+
+	<body>
+			<table align="center" width="787" border="0" cellspacing="0" cellpadding="0">
+				<tr>
+					<td><font size="-2" color="red">Seinology.com - </font><font size="-3" color="black">Where Seinfeld Content and Accuracy Matter Most. Seinfeld scripts in pdf form, Seinfeld episode video clips, Seinfeld episode audio clips, Jerry Seinfeld appearances, Julia Louis-Dreyfus appearances, Michael Richards appearances, Jason Alexander appearances, Seinfeld discussion Forum, Seinfeld Where are they Now? Seinlanguage Newsletter, Popular Seinfeld Lists, Seinfeld episode standup, Seinfeld episode guide, Seinfeld fan fiction. Seinfeld content all on one domain. Seinology.com enjoy your stay.</font></td>
+				</tr>
+			</table>
+		
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr height="100">
+				<td class="logo"></td>
+			</tr>
+			<tr><td class="ads" align="center" background=#8694fa>
+				<script type="text/javascript"><!--
+google_ad_client = "pub-1924026976931416";
+google_ad_width = 728;
+google_ad_height = 90;
+google_ad_format = "728x90_as";
+google_ad_type = "text";
+google_ad_channel = "";
+google_color_border = "FFFFFF";
+google_color_bg = "8694fa";
+google_color_link = "0000FF";
+google_color_text = "000000";
+google_color_url = "002E3F";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></td></tr>
+		</table>
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr>
+				<td valign="top" width="136">
+					<table width="136" border="0" cellspacing="0" cellpadding="0">
+						<tr height="24">
+							<td class="navigation">
+								<div align="center">
+									
+									<b>Navigation</b></div>
+							</td>
+						</tr>
+						<tr height="199">
+							<td class="spacer1" valign="top" width="136" height="199">
+								<div align="center">
+									<font size="-1"><a href="http://www.seinology.com">Home</a><br>
+										<a href="http://board.seinology.com">Forum</a><br>
+										<a href="http://www.seinology.com/av.shtml">Audio/Video</a><br>
+										<a href="http://www.seinology.com/scripts.shtml">Scripts</a><br>
+										<a href="http://www.seinology.com/survivor.shtml">Survivor</a><br>
+										<a href="http://www.seinology.com/fanfics.shtml">Fan Fiction</a><br>
+										<a href="http://www.seinology.com/gallery/">Gallery</a><br>
+										<a href="http://www.seinology.com/newsletter.shtml">Newsletter</a><br>
+										<a href="http://www.seinology.com/lists.shtml">Lists</a><br>
+										<a href="http://www.seinology.com/epguide.shtml">Episode Guide</a><br>
+										<a href="http://www.seinology.com/links.shtml">Links</a><br>
+										<a href="http://www.seinology.com/faqother.shtml">Faq + others</a><br>
+										<a href="http://www.seinology.com/legal.shtml">Legal</a></font></div>
+							</td>
+						</tr>
+						
+						<tr>
+							<td class="nav2" width="136">
+							<div align="center"><b>Search</b></div></td>
+						</tr>
+						<tr>
+							<td class="spacer1" width="136" valign="top"><div align="center"><form method="get" action="http://www.seinology.com/search/search.cgi">
+<p><label for="fdse_Match">Match</label><br>
+<select name="Match" id="fdse_Match" size="1">
+<option value="1">All</option>
+<option value="0">Any</option>
+<option value="2">Phrase</option>
+</select></p>
+<p><label for="fdse_Realm">Where?</label><br>
+<select name="Realm" id="fdse_Realm" size="1">
+<option selected="selected" value="All">EntireSite</option>
+<option value="Ep Guide">Ep Guide</option>
+<option value="Images">Images</option>
+<option value="Lists">Lists</option>
+<option value="Newsletters">Newsletters</option>
+<option value="Scripts">Scripts</option>
+<option value="Notes..Nothing">Notes..Nothing</option>
+</select></p>
+<p><input type="text" name="Terms" size="14" id="fdse_Terms"><br>
+<input type="submit" class="submit" name="submitButtonName" value="Search"></p>
+</div></form></td>
+						</tr>
+						<tr><td class="bottom" width="136" height="10" valign="top">
+						</td>
+						</tr>
+					</table>
+				</td>
+				<td width="4"></td>
+				<td valign="top" width="645">
+					<table width="645" border="0" cellspacing="0" cellpadding="0">
+						<tr height="18">
+							<td width="645" height="35" class="bar">
+								<div align="center">
+									<b><font size="+2" color="black">Script</font></b></div>
+							</td>
+						</tr>
+						<tr height="362">
+							<td class="spacer2" valign="top" width="645" height="362">
+
+						<p><font size="-2">Episode 136 - The Soul Mate<br>
+							
+						pc: 802, season 8, episode 2<br>
+							
+						Broadcast date: September 26, 1996<br>
+							<br>
+							
+						Written by Peter Mehlman<br>
+							
+						Directed by Andy Ackerman<br>
+							<br>
+							
+						-------------------------------------------------------------------------------<br>
+							<br>
+							
+						The Cast<br>
+							
+						Regulars:<br>
+							
+						Jerry Seinfeld ........................&nbsp; Jerry Seinfeld<br>
+							
+						Jason Alexander .................... George Costanza<br>
+							
+						Julia Louis-Dreyfus ................ Elaine Benes<br>
+							
+						Michael Richards .................... Cosmo Kramer<br>
+							<br>
+							
+						Guest Stars:<br>
+							<br>
+							
+						Bruce Davison ...................... Wyck<br>
+							
+						Tim DeKay ............................ Kevin<br>
+							
+						Lisa Mende ........................... Carol<br>
+							
+						Kim Myers ............................ Pam<br>
+							
+						Rende Rae Norman .............. Ms. Baines<br>
+							
+						Tommy Hicks ....................... Mr. Cross<br>
+							
+						Jill Talley ............................... Gail<br>
+							
+						Jill Holden ............................ Lisa<br>
+							
+						rc: Wayne Knight ................. Newman<br>
+							<br>
+							
+						==================================================================<br>
+							<br>
+							
+						[George at a meeting at the Susan Ross Foundation.]<br>
+							<br>
+							
+						GEORGE: You want me to find a poem about Susan? May she rest in peace?!<br>
+							<br>
+							
+						WYCK:&nbsp;Well, we think it would be a nice touch for the Foundation literature. Do you have a favorite poet, George?<br>
+							<br>
+							
+						GEORGE: I like, uh...(mutters something unintelligible under his breath.)<br>
+							<br>
+							
+						WYCK: Pardon?<br>
+							<br>
+							
+						GEORGE: (mutters it again)<br>
+							<br>
+							
+						WYCK: Well, you should choose the poem since you knew Susan best at the time of her unfortunate (clears his throat)...accident.<br>
+							<br>
+							
+						(George looks at Wyck suspiciously.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[George and Jerry at the coffee shop later that day.]<br>
+							<br>
+							
+						JERRY: He cleared his throat?<br>
+							<br>
+							
+						GEORGE: Yes!<br>
+							<br>
+							
+						JERRY: So?<br>
+							<br>
+							
+						GEORGE: He did it right as he said &quot;her unfortunate accident.&quot;<br>
+							<br>
+							
+						JERRY: Not getting it.<br>
+							<br>
+							
+						GEORGE: Jerry, a throat-clear is a non-verbal implication of doubt - he thinks I killed Susan!<br>
+							<br>
+							
+						JERRY: Oh, help me, Rhonda.<br>
+							<br>
+							
+						GEORGE: What time is it?<br>
+							<br>
+							
+						JERRY (looks at his watch): 1:15.<br>
+							<br>
+							
+						GEORGE: Right now?<br>
+							<br>
+							
+						JERRY: I gotta go meet Pam.<br>
+							<br>
+							
+						GEORGE: Oh, the bookstore girl. How's that goin'?<br>
+							<br>
+							
+						JERRY: Okay. I'm just not ga-ga over her. For once I'd like to be ga-ga.<br>
+							<br>
+							
+						GEORGE: Where's Elaine?<br>
+							<br>
+							
+						JERRY: She's having Carol, Gail and Lisa over. You know they all have kids now?<br>
+							<br>
+							
+						GEORGE: What's with all these people having babies?<br>
+							<br>
+							
+						JERRY: Perpetuation of the species.<br>
+							<br>
+							
+						GEORGE: Yeah! Right!<br>
+							<br>
+							
+						JERRY: By the way, just for the record -<br>
+							<br>
+							
+						GEORGE: No, I did not! (They exit the coffee shop.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Elaine at her apartment with Carol, Gail and Lisa.]<br>
+							<br>
+							
+						CAROL: ...but because it comes out of your baby, it smells good!<br>
+							<br>
+							
+						ELAINE: Well, that's...that's sweet.<br>
+							<br>
+							
+						GAIL: Being a mother has made me feel so beautiful.<br>
+							<br>
+							
+						CAROL: Elaine, you gotta have a baby!<br>
+							<br>
+							
+						ELAINE: Oh, hey, you know...I had a piece of whitefish over at Barney Greengrass the other day...<br>
+							<br>
+							
+						LISA: Elaine. Move to Long Island and have a baby already.<br>
+							<br>
+							
+						ELAINE: I really like the city.<br>
+							<br>
+							
+						CAROL: The city's a toilet. When's the last time you saw my little Adam?<br>
+							<br>
+							
+						ELAINE: Uh, it was in the Hamptons.<br>
+							<br>
+							
+						CAROL: Oh! I have pictures!<br>
+							<br>
+							
+						ELAINE: No, no, that's okay, it's uh...<br>
+							<br>
+							
+						CAROL (shows Elaine and the girls pictures of Adam): Look at him! Just look at him!<br>
+							<br>
+							
+						(Elaine is revolted by the sight of &quot;breathtaking&quot; little Adam.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Jerry and George walking down the street after leaving Monk's.]<br>
+							<br>
+							
+						JERRY: So, Elaine was telling me about this piece of whitefish she had the other day...<br>
+							<br>
+							
+						GEORGE: Do you really think I'm wrong about this Wyck guy?<br>
+							<br>
+							
+						JERRY: You know, if you really want to test him out, why don't you try the old Jerry Lewis trick?<br>
+							<br>
+							
+						GEORGE: Jerry Lewis?<br>
+							<br>
+							
+						JERRY: I heard that when Jerry Lewis left a meeting, he'd purposefully leave a briefcase with a tape recorder in it. Then after five minutes, he'd come back for it and listen to what everyone said about him.<br>
+							<br>
+							
+						GEORGE: That's pretty paranoid.<br>
+							<br>
+							
+						JERRY: Yes, it is.<br>
+							<br>
+							
+						GEORGE: I like it!<br>
+							<br>
+							
+						JERRY: I thought you might.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Kramer in Jerry's apartment. Pam enters.]<br>
+							<br>
+							
+						PAM: Oh, hi! I'm Pam. You must be Kramer. (Kramer is smitten with Pam and grins goofily.) Jerry's told me a lot about you. (Kramer continues grinning.) Well, I'm supposed to meet Jerry, it's my day off. I work in a bookstore.<br>
+							<br>
+							
+						KRAMER (mouths the words): Books. (Knocks over a bowl of fruit on the counter.)<br>
+							<br>
+							
+						PAM: Oh, careful! (Jerry enters.)<br>
+							<br>
+							
+						JERRY: Hi, sorry I'm late.<br>
+							<br>
+							
+						PAM: That's okay. Kramer let me in.<br>
+							<br>
+							
+						JERRY: You know, if we rush, we can still make the movie.<br>
+							<br>
+							
+						PAM: Okay. (Touches Kramer's hand) It was really nice meeting you.<br>
+							<br>
+							
+						(Jerry and Pam leave. Kramer sniffs his hand where Pam touched him, and makes a delighted noise.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Kramer and Newman in Newman's apartment.]<br>
+							<br>
+							
+						KRAMER: I'm in trouble, buddy. I just met a woman.<br>
+							<br>
+							
+						NEWMAN: Go on.<br>
+							<br>
+							
+						KRAMER: Well, she's Jerry's girlfriend.<br>
+							<br>
+							
+						NEWMAN: Ah, yes. Forbidden love.<br>
+							<br>
+							
+						KRAMER: She works in a book shop. Her name is Pam.<br>
+							<br>
+							
+						NEWMAN: &quot;Pam.&quot; I don't know the woman, but she sounds quite fetching.<br>
+							<br>
+							
+						KRAMER: I can't even speak in front of her. (Sits down on the couch.)<br>
+							<br>
+							
+						NEWMAN: Jerry! What could she possibly see in Jerry? (Walks in front of Kramer and trips over his feet.)<br>
+							<br>
+							
+						KRAMER: She has delicate beauty.<br>
+							<br>
+							
+						NEWMAN: Jerry wouldn't know delicate beauty if it bludgeoned him over the head.<br>
+							<br>
+							
+						KRAMER: And yet, he's my friend.<br>
+							<br>
+							
+						NEWMAN: And therein lies the tragedy. For I believe, sadly for you, that there is but one woman meant for each of us. One perfect angel for whom we are put on this earth.<br>
+							<br>
+							
+						KRAMER: Aw, that's beautiful, Newman.<br>
+							<br>
+							
+						NEWMAN: One winsome tulip we ceaselessly yearn for throughout our dreary, workaday lives! And you, my friend, have found your angel. I can tell. For my heart has also been captured by a breathless beauty - whom I fear I will never possess.<br>
+							<br>
+							
+						KRAMER: I thought we were talking about me.<br>
+							<br>
+							
+						NEWMAN: Right. Kramer, you have to confront Jerry.<br>
+							<br>
+							
+						KRAMER: Confront Jerry? I can't.<br>
+							<br>
+							
+						NEWMAN: You must!<br>
+							<br>
+							
+						KRAMER: I won't!<br>
+							<br>
+							
+						NEWMAN: You will!<br>
+							<br>
+							<br>
+							<br>
+							
+						[Jerry, Elaine and George at a newsstand.]<br>
+							<br>
+							
+						ELAINE (to Jerry, imitating Carol): &quot;Elaine, ya gotta have a baby.&quot; Ugh.<br>
+							<br>
+							
+						GEORGE: Where are all the poetry magazines?<br>
+							<br>
+							
+						ELAINE: The New Yorker has poetry.<br>
+							<br>
+							
+						GEORGE: Yes. The New Yorker.<br>
+							<br>
+							
+						JERRY: Why do you invite these women over if they annoy you so much?<br>
+							<br>
+							
+						ELAINE: They're my friends, but they act as if having a baby takes some kind of talent.<br>
+							<br>
+							
+						JERRY: C'mon, you want to have a baby.<br>
+							<br>
+							
+						ELAINE: Why? Because I can?<br>
+							<br>
+							
+						JERRY: It's the life force. I saw a show on the mollusk last night. Elaine, the mollusk travels from Alaska to Chile just for a shot at another mollusk. You think you're any better?<br>
+							<br>
+							
+						ELAINE: Yes! I think I am better than the mollusk!<br>
+							<br>
+							
+						KEVIN: I couldn't help overhearing what you were saying.<br>
+							<br>
+							
+						ELAINE: Oh, I'm sorry.<br>
+							<br>
+							
+						KEVIN: No, no, I think I agree with you. I mean, all this talk about having babies.<br>
+							<br>
+							
+						ELAINE: Yeah, like you must procreate.<br>
+							<br>
+							
+						KEVIN: Besides, anyone can do it.<br>
+							<br>
+							
+						ELAINE: Oh, it's been done to death. (smiles)<br>
+							<br>
+							<br>
+							<br>
+							
+						[George in another meeting at the Foundation. He has a briefcase with a tape recorder in it.]<br>
+							<br>
+							
+						GEORGE: I, uh, should have a poem very soon now.<br>
+							<br>
+							
+						WYCK: Are you okay, George?<br>
+							<br>
+							
+						GEORGE: No, no, not really. Ever since Susan passed on, I have good days and bad. (Turns the briefcase towards the woman on his left.) Some days, I'm haunted by one word - why. Why Susan? Why wasn't it me licking those invitations? Why am I still here? Well, I gotta run. (Gets up and leaves the meeting.)<br>
+							<br>
+							
+						(George is shown standing on the street while the tape rolls inside the briefcase.)<br>
+							<br>
+							
+						Cut back to the Foundation meeting.<br>
+							<br>
+							
+						WYCK: ...and the stock options for this year look quite, uh... (George returns and retrieves the briefcase.)<br>
+							<br>
+							
+						GEORGE (apologetic): Briefcase. (Shrugs and exits.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Elaine and Kevin at the coffee shop.]<br>
+							<br>
+							
+						ELAINE: So, Kevin. If I don't want children, does that make me a bad humanitarian?<br>
+							<br>
+							
+						KEVIN: Not at all.<br>
+							<br>
+							
+						ELAINE: 'Cause, I mean, when you get to know me, you'll see that I'm a pretty good humanitarian. (Waitress comes to the table and pours more coffee.) You are doing a wonderful job, by the way. Thanks a lot. (To Kevin) Right? Am I right? (Kramer walks by.) Kramer. Kramer! Come here, look at my new friend Kevin. (Kramer and Kevin shake hands.) Oh, you got a little, uh...<br>
+							<br>
+							
+						KRAMER (wipes chocolate off his face): Oh, I just had two double-fudge sundaes.<br>
+							<br>
+							
+						ELAINE: Oh. Are you alright?<br>
+							<br>
+							
+						KRAMER: Yeah, I'll be okay.<br>
+							<br>
+							
+						ELAINE: You know, Jerry has one of those every time he bombs on stage.<br>
+							<br>
+							
+						KRAMER: Well, I'm sure he'll be sharing his next one with Pam.<br>
+							<br>
+							
+						ELAINE: Oh, no...that won't last.<br>
+							<br>
+							
+						KRAMER: What do you mean?<br>
+							<br>
+							
+						ELAINE: He's not ga-ga.<br>
+							<br>
+							
+						(Kramer suddenly looks elated and runs out.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[George shows up at Jerry's apartment later that night with the briefcase.]<br>
+							<br>
+							
+						GEORGE: Lemme tell you something, that Jerry Lewis? You wonder how some of these people get to the top? It's ideas like this! Brilliant! Hah-hah! (Notices that the briefcase is damaged.) Look at this - what the hell happened? The whole side is damaged here...and the lock is broken.<br>
+							<br>
+							
+						JERRY: How long did you leave it up there?<br>
+							<br>
+							
+						GEORGE: Five minutes. What the hell happened here?<br>
+							<br>
+							
+						JERRY: Play the tape, maybe we'll get a clue.<br>
+							<br>
+							
+						GEORGE: I have to rewind it first. (George presses the rewind button on the tape recorder. He and Jerry stand there, waiting impatiently as it rewinds.) Alright, alright.<br>
+							<br>
+							
+						(George plays back the tape. We hear a voice ask, &quot;Did anyone notice George's fingernails?&quot; Then a female voice answering, &quot;Oh my, yes. They looked like they were eaten away by weavels.&quot; The male voice remarks, &quot;It's warm in here. Open a window.&quot; Then, &quot;Hey! What are you doing?&quot; The female voice exclaims, &quot;Dear God.&quot; There's a clunking sound on the tape, and the recording ends.)<br>
+							<br>
+							
+						JERRY: Is that it?<br>
+							<br>
+							
+						GEORGE: Stopped dead.<br>
+							<br>
+							
+						JERRY: What do you make of it?<br>
+							<br>
+							
+						GEORGE: I don't know. (George sits down at the table. Kramer enters.)<br>
+							<br>
+							
+						KRAMER: Jerry. Uh, can we talk?<br>
+							<br>
+							
+						GEORGE (to Kramer): Kinda busy here.<br>
+							<br>
+							
+						KRAMER: I'd like to talk to Jerry in private.<br>
+							<br>
+							
+						GEORGE: Why can't I stay?<br>
+							<br>
+							
+						KRAMER: Because it doesn't concern you.<br>
+							<br>
+							
+						GEORGE: Well, if it doesn't concern me, then I can stay. (Kramer grabs the back of George's chair, drags him out into the hallway and closes the door.)<br>
+							<br>
+							
+						JERRY: So, what's on your mind?<br>
+							<br>
+							
+						KRAMER: It's Pam.<br>
+							<br>
+							
+						JERRY: Pam? What about Pam?<br>
+							<br>
+							
+						KRAMER: I love her, Jerry!<br>
+							<br>
+							
+						JERRY: You what?<br>
+							<br>
+							
+						KRAMER: I love her!<br>
+							<br>
+							
+						JERRY: Is that right?<br>
+							<br>
+							
+						KRAMER: Oh, she's uh...she's real. She can bring home the bacon and fry it in the pan.<br>
+							<br>
+							
+						JERRY: What does that mean?<br>
+							<br>
+							
+						KRAMER: Oh, and that voice!<br>
+							<br>
+							
+						JERRY: What about her name?<br>
+							<br>
+							
+						KRAMER: Pam? Oh, it's a beautiful name. (Kramer sits on the couch.) Pam. Pam. Pam!<br>
+							<br>
+							
+						JERRY: She's got really nice hair.<br>
+							<br>
+							
+						KRAMER: Oh, it's incredible. Although, I might replace her tortoise clip with one of those velvet scrunchies. I love those.<br>
+							<br>
+							
+						JERRY: You've got really specific tastes.<br>
+							<br>
+							
+						KRAMER: Oh, I know what I want, Jerry.<br>
+							<br>
+							
+						JERRY: She's got nice calves.<br>
+							<br>
+							
+						KRAMER: Oh, she's a dreamboat. But, you don't like her, so...<br>
+							<br>
+							
+						JERRY: Maybe I could, you're making some pretty good points.<br>
+							<br>
+							
+						KRAMER: No you can't, Jerry.<br>
+							<br>
+							
+						JERRY: But I might.<br>
+							<br>
+							
+						KRAMER: Oh, no you don't.<br>
+							<br>
+							
+						JERRY: Why not? The voice? The calves? The bacon?<br>
+							<br>
+							
+						KRAMER: What...?<br>
+							<br>
+							
+						JERRY: I think I can! I even like the name! Pam!<br>
+							<br>
+							
+						KRAMER (frantic): Huh?<br>
+							<br>
+							
+						JERRY: Pam!<br>
+							<br>
+							
+						KRAMER: Huh?<br>
+							<br>
+							
+						JERRY: Pam!<br>
+							<br>
+							
+						KRAMER: Huh-yah! (Kramer loses it and runs out past George, who is still sitting in the hallway on a chair.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Kramer and Newman in Newman's apartment.]<br>
+							<br>
+							
+						KRAMER: So now he wants her more than ever!<br>
+							<br>
+							
+						NEWMAN: Blast!<br>
+							<br>
+							
+						KRAMER: What am I gonna do, huh?<br>
+							<br>
+							
+						NEWMAN: Don't despair, my friend. (Newman walks in front of Kramer and trips over his feet. Again.) I won't allow your love to go unrequited. Not like mine.<br>
+							<br>
+							
+						KRAMER: What, again with you?<br>
+							<br>
+							
+						NEWMAN: Sorry. But love is spice with many tastes. A dizzying array of textures...and moments.<br>
+							<br>
+							
+						KRAMER: If only I could say things like that around her.<br>
+							<br>
+							
+						NEWMAN (getting an idea): Yes...<br>
+							<br>
+							<br>
+							<br>
+							
+						[Elaine and George at the coffee shop listening to the briefcase tape.]<br>
+							<br>
+							
+						ELAINE: Well, I hear three distinct sounds. A low rumple...followed by a metallic 'squink'...<br>
+							<br>
+							
+						GEORGE: Yes! Yes, I heard the 'squink'!<br>
+							<br>
+							
+						ELAINE: ...followed by a mysterious...'glonk.'<br>
+							<br>
+							
+						GEORGE: It's baffling, isn't it?<br>
+							<br>
+							
+						ELAINE: Well, one question does come to mind. Have you considered just...asking them what happened to the briefcase?<br>
+							<br>
+							
+						GEORGE: They would never tell me, Elaine. First of all, they probably think that I killed Susan. Besides, I don't even think they like me. (Jerry comes over to the table.)<br>
+							<br>
+							
+						JERRY: That Pam! I am ga-ga over her!<br>
+							<br>
+							
+						ELAINE: Ga-ga? When did that happen?<br>
+							<br>
+							
+						JERRY: Yesterday. Six-ish.<br>
+							<br>
+							
+						ELAINE: Well, maybe we should double. I'm pretty ga-ga myself.<br>
+							<br>
+							
+						JERRY: You just met the guy yesterday.<br>
+							<br>
+							
+						ELAINE: Yeah, but we have a common goal.<br>
+							<br>
+							
+						JERRY: A barren, sterile existence that ends when you die?<br>
+							<br>
+							
+						ELAINE (happily): Yeah.<br>
+							<br>
+							
+						GEORGE: And you really believe this guy doesn't want to have kids.<br>
+							<br>
+							
+						ELAINE: Yeah, of course.<br>
+							<br>
+							
+						JERRY: Elaine, a guy'll say anything to get a woman.<br>
+							<br>
+							
+						ELAINE: Oh, please. He wouldn't say that.<br>
+							<br>
+							
+						GEORGE: Elaine, I once told a woman that I coined the phrase, &quot;Pardon my French.&quot;<br>
+							<br>
+							
+						JERRY: I once told a woman that I don't eat cake 'cause it goes right to my thighs.<br>
+							<br>
+							
+						GEORGE: I once told a woman that I really enjoy spending time with my family.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Kramer and Newman in an aisle at the bookstore where Pam works.]<br>
+							<br>
+							
+						NEWMAN: With your looks and my words, we'll have built the perfect beast. (Kramer claps him on the shoulder, then goes to the other side of the aisle to talk to Pam.)<br>
+							<br>
+							
+						PAM: Oh, hi! Kramer.<br>
+							<br>
+							
+						NEWMAN (whispers through the bookcase): Hi. How are you?<br>
+							<br>
+							
+						KRAMER: Hi. How are you?<br>
+							<br>
+							
+						PAM: I'm great.<br>
+							<br>
+							
+						NEWMAN: I too am well.<br>
+							<br>
+							
+						KRAMER: I too am well.<br>
+							<br>
+							
+						NEWMAN: Do I smell Pantene?<br>
+							<br>
+							
+						KRAMER: Do I smell?<br>
+							<br>
+							
+						NEWMAN: Pantene!<br>
+							<br>
+							
+						KRAMER: Uh, Pantene.<br>
+							<br>
+							
+						PAM: Oh, my shampoo. Yeah, it is Pantene, I got a free sample in with my junk mail.<br>
+							<br>
+							
+						KRAMER (talks rapidly in an attempt to keep up with Newman): Well, there really is no junk-mail...well, everybody wants to get a check or a birthday card, but...<br>
+							<br>
+							
+						NEWMAN (frantic): ...it takes just as much man-power to deliver it as their precious little greeting cards...<br>
+							<br>
+							
+						KRAMER: Newman! (Elbows him through the books. Newman falls over.)<br>
+							<br>
+							
+						PAM: What?<br>
+							<br>
+							
+						KRAMER: Uh, human. It's...human to be moved by a fragrance.<br>
+							<br>
+							
+						PAM: That's so true.<br>
+							<br>
+							
+						KRAMER: Her bouquet cleaved his hardened...<br>
+							<br>
+							
+						NEWMAN: Shell.<br>
+							<br>
+							
+						KRAMER: ...shell. And fondled his muscled heart. He embibed her glistening spell...just before the other shoe...fell.<br>
+							<br>
+							
+						PAM: Kramer, that is so lovely.<br>
+							<br>
+							
+						KRAMER: It's by an unknown 20th-century poet.<br>
+							<br>
+							
+						PAM: Oh, what's his name?<br>
+							<br>
+							
+						KRAMER: Newman. (On the other side of the bookcase, Newman preens proudly.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Elaine and Kevin in Elaine's apartment.]<br>
+							<br>
+							
+						KEVIN: Elaine, you've changed my life.<br>
+							<br>
+							
+						ELAINE: Oh, Kevin...you can go on and on about how you don't want kids...and it sounds, it sounds really nice, but...the truth is, I don't know if you mean it or not.<br>
+							<br>
+							
+						KEVIN: I got a vasectomy this morning.<br>
+							<br>
+							
+						ELAINE: Although, I have a hunch you mean it.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Jerry talking with Pam at the bookstore. ]<br>
+							<br>
+							
+						JERRY: I just came by to tell you - I'm really, really happy about this relationship. Really happy.<br>
+							<br>
+							
+						PAM: Oh. Well, that's um...(clears her throat)...nice. (Jerry looks suspicious. Pam turns around and Jerry notices her tortoise clip has been replaced with a velvet scrunchie.)<br>
+							<br>
+							
+						JERRY's brain: A velvet scrunchie!<br>
+							<br>
+							
+						JERRY: Kramer!<br>
+							<br>
+							<br>
+							<br>
+							
+						[Jerry approaching his apartment door. He meets Newman coming out of Kramer's place.]<br>
+							
+						&nbsp;&nbsp;<br>
+							
+						JERRY: Hello, Newman.<br>
+							<br>
+							
+						NEWMAN: Hello, Jerry. How's Pam?<br>
+							<br>
+							
+						JERRY: Pam? What do you care? (Newman shrugs. Jerry notices he's carrying a Brentano's bookstore bag.)<br>
+							<br>
+							
+						NEWMAN: Well, ta-ta! (Scampers away.)<br>
+							<br>
+							
+						JERRY: Wait a minute! (A manic chase scene ensues, with Jerry chasing Newman from one end of the building to the other. Jerry finally catches up with him in the hallway on another floor.)<br>
+							<br>
+							
+						JERRY: Alright, Newman! This is it! (Shoves him against the wall.)<br>
+							<br>
+							
+						NEWMAN (sweating): Easy, Jerry. Steady. You wouldn't want to lose your cool at a time like this.<br>
+							<br>
+							
+						JERRY: Why not?<br>
+							<br>
+							
+						NEWMAN: Because right now, I'm the only chance you've got. (Newman giggles nervously. Jerry makes Newman flinch, and his giggling is choked off.)<br>
+							<br>
+							
+						JERRY (rolls his eyes): C'mon. (They exit.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Jerry and Newman in Newman's apartment.]<br>
+							<br>
+							
+						JERRY: I can't believe I'm losing Pam!<br>
+							<br>
+							
+						NEWMAN: I know how you feel. For I, too, have a woman for whom I pine.<br>
+							<br>
+							
+						JERRY: I thought we were talking about me.<br>
+							<br>
+							
+						NEWMAN: Right.<br>
+							<br>
+							
+						JERRY: Anyway, I don't need your help. (Turns to leave.)<br>
+							<br>
+							
+						NEWMAN: Oh, don't you? Joke boy? You really think you can manipulate that beautiful young woman like the half-soused nightclub rabble that lap up your inane &quot;observations&quot;?<br>
+							<br>
+							
+						JERRY: Alright, Newman. What do I have to do to get you to stop pulling the strings for Kramer?<br>
+							<br>
+							
+						NEWMAN: Well, there is a little something you can do for me...<br>
+							<br>
+							
+						JERRY: C'mon, out with it.<br>
+							<br>
+							
+						NEWMAN: It's about...Elaine.<br>
+							<br>
+							
+						JERRY: Elaine? What does she have to - (notices Newman looking up at him longlingly.) Oh no...<br>
+							<br>
+							
+						NEWMAN: You dated her. Give me some inside information. Anything I can use!<br>
+							<br>
+							
+						JERRY (shrugs): Well, I know she doesn't want to have kids. (Newman considers the implications of this.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Cut back to Elaine and Kevin at Elaine's apartment.]<br>
+							<br>
+							
+						KEVIN: I thought you'd be a little more enthusiastic about it.<br>
+							<br>
+							
+						ELAINE: I know, I don't want...(clears her throat)...kids.<br>
+							<br>
+							
+						KEVIN: What was that?<br>
+							<br>
+							
+						ELAINE: Well, Kevin, maybe I have a little doubt. I mean, nothing is a hundred percent.<br>
+							<br>
+							
+						KEVIN: This is! Oh boy, I always do this.<br>
+							<br>
+							
+						ELAINE: What?<br>
+							<br>
+							
+						KEVIN: Oh, I get all jazzed up about something and I go way to far with it.<br>
+							<br>
+							
+						ELAINE: Really?<br>
+							<br>
+							
+						KEVIN: Oh, yeah. Like last summer. I'm watchin' TV and I saw one of those jet-skis. $4000 later and it's sitting in my garage.<br>
+							<br>
+							
+						ELAINE: You know, that's weird, actually, 'cause I'm sort of the same way. I mean once for like, no reason, I flattened my hair and I had all these strands hanging in my face all the time...<br>
+							<br>
+							
+						KEVIN: Sometimes I think I do want kids. Maybe a lot of kids!<br>
+							<br>
+							
+						ELAINE: Sometimes I think about wearing my hair real short.<br>
+							<br>
+							
+						KEVIN: Yeah! I think I like short hair. Really short.<br>
+							<br>
+							
+						ELAINE: Yeah!<br>
+							<br>
+							
+						KEVIN: Yeah!<br>
+							<br>
+							<br>
+							<br>
+							
+						[Jerry and George in Jerry's kitchen. George has brought over a model of the conference room at the Foundation.]<br>
+							<br>
+							
+						GEORGE: This is a crude mock-up of the conference room. 1/14th scale.<br>
+							<br>
+							
+						JERRY: When did you build this thing?<br>
+							<br>
+							
+						GEORGE: Yesterday, took the day off. (Picks up a red Power Ranger action figure from the model and pretends it's him.) Now, from the time I left the room...<br>
+							<br>
+							
+						JERRY (points at the Power Ranger): Wait, that's you?<br>
+							<br>
+							
+						GEORGE: Yeah.<br>
+							<br>
+							
+						JERRY (picks up a yellow M&amp;M toy from the model): I really think the M&amp;M should be you.<br>
+							<br>
+							
+						GEORGE (grabs the M&amp;M away from Jerry): Alright, whatever! Now. Whatever caused the damage...(drops a tiny briefcase onto the table in the model)...was jarring enough to completely stop the tape.<br>
+							<br>
+							
+						JERRY: And?<br>
+							<br>
+							
+						GEORGE: Okay. That's what we know.<br>
+							<br>
+							
+						JERRY: But we already knew that.<br>
+							<br>
+							
+						GEORGE: Well, yeah.<br>
+							<br>
+							
+						JERRY: Just give me some idea of what you think it could be.<br>
+							<br>
+							
+						GEORGE: I don't know if you're ready for it.<br>
+							<br>
+							
+						JERRY: Please.<br>
+							<br>
+							
+						GEORGE: I believe that I am about to become the target of a systematic process of intimidation and manipulation, the likes of which you have never -<br>
+							<br>
+							
+						JERRY: Hold it, hold it! You're right, I'm not ready for this. (The door buzzer sounds, Jerry answers it.) Yeah?<br>
+							<br>
+							
+						VOICE ON SPEAKER: It's Pam.<br>
+							<br>
+							
+						JERRY: C'mon up. (To George) Alright, it's Pam, you gotta get goin.'<br>
+							<br>
+							
+						GEORGE: I'm not through here, Jerry. (Picks up the model of the conference room.) I'm gonna keep on investigating. This thing is like an onion. The more layers you peel, the more it stinks. (Pam enters, George leaves.)<br>
+							<br>
+							
+						PAM: What was that?<br>
+							<br>
+							
+						JERRY: We were just playin.'<br>
+							<br>
+							
+						PAM: Listen, I had a long talk with Kramer today...<br>
+							<br>
+							
+						JERRY: Uh huh...<br>
+							<br>
+							
+						PAM: Well, the thing is, I uh...I think I have a little crush on him. (Kramer slides in the door on his knees.)<br>
+							<br>
+							
+						KRAMER: I'm so happy! My world suddenly has meaning!<br>
+							<br>
+							
+						JERRY (to Pam): This is the man you have a crush on?<br>
+							<br>
+							
+						PAM: Well, I have feelings for both of you.<br>
+							<br>
+							
+						KRAMER: How can you have feelings for him? We're soul mates.<br>
+							<br>
+							
+						JERRY: Why can't I be a soul mate?<br>
+							<br>
+							
+						KRAMER: Jerry, you really think that Pam would want you to be the father of her children?<br>
+							<br>
+							
+						PAM: Children? Who said anything about children? I don't want to have children.<br>
+							<br>
+							
+						(Jerry and Kramer look at each other, puzzled.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[George back at the conference room at the Foundation.]<br>
+							<br>
+							
+						GEORGE: There are some people in this room who would have been very happy to never see this briefcase again. There are people in this room who think they can destroy other people's property and get away with it. Well, let me tell you something about those people. They weren't counting on this brain! And this tape recorder.<br>
+							<br>
+							
+						WYCK: George...<br>
+							<br>
+							
+						GEORGE: You'll have your turn! The truth must be heard. (Plays back the tape.) That's all there was. And yet, it speaks volumes. A low rumple. A metallic 'squink.' A 'glonk.' Someone crying out...&quot;Dear God!&quot; Let's start with, uh...with you, Wyck.<br>
+							<br>
+							
+						WYCK: George, Quinn here was moving a chair...he lost his balance and dropped it...it must have fallen on your briefcase, which, for some reason, contained a running tape recorder?<br>
+							<br>
+							
+						GEORGE: Alright, then. We've gotten to the bottom of that.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Jerry and Newman in the office of Bernard Wendroff, M.D. - urologist. Elaine and Kevin enter. Elaine has cut her hair short.]<br>
+							<br>
+							
+						ELAINE: What are you guys doing here?<br>
+							<br>
+							
+						JERRY: We're getting vasectomies.<br>
+							<br>
+							
+						ELAINE: Why?<br>
+							<br>
+							
+						NEWMAN (to Elaine): I'm doing it for you.<br>
+							<br>
+							
+						ELAINE: What?<br>
+							<br>
+							
+						JERRY (to Elaine): What'd you do to your hair?<br>
+							<br>
+							
+						ELAINE: I cut it.<br>
+							<br>
+							
+						JERRY: It's a little short.<br>
+							<br>
+							
+						KEVIN: Y'think?<br>
+							<br>
+							
+						JERRY (to Kevin): What are you doing here?<br>
+							<br>
+							
+						ELAINE: Kevin's having his vasectomy reversed.<br>
+							<br>
+							
+						JERRY and NEWMAN: Reversed?! (Kramer comes hobbling out of the doctors office in pain, after having a vasectomy of his own, and exits. Jerry and Newman look at each other, and bolt for the door themselves.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[George reading the poem for Susan at the Foundation.]<br>
+							<br>
+							
+						GEORGE: ...he embibed her glistening spell...just before the other shoe...fell.<br>
+							<br>
+							
+						WYCK: Is that a Keats poem?<br>
+							<br>
+							
+						GEORGE: No, it's a Newman. Well, I gotta run. (Smiles, pats his briefcase and exits.)<br>
+							<br>
+							
+						WYCK: Does anyone think George might have murdered Susan?<br>
+							<br>
+							
+						MR. CROSS: Oh, yeah. I just assumed he murdered her.<br>
+							<br>
+							
+						MS. BAINES: Of course he killed her.<br>
+							<br>
+							
+						WYCK: So it's not just me, then. Alright! Back to business.<br>
+							<br>
+							<br>
+							
+						The End</td>
+						</tr>
+						<tr height="6">
+							<td class="bottom2" width="645" height="6"></td>
+						</tr>
+						<tr>
+							<td width="645">
+								<div align="center">
+									<font size="-1">Copyright 2006 seinology.com | All Rights Reserved | Designed by 13erla</font></div>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+		<p></p>
+	</body>
+
+</html>

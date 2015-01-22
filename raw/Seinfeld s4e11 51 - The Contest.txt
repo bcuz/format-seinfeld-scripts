@@ -1,0 +1,1008 @@
+<tdOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+<html>
+
+	<head>
+		<meta http-equiv="content-type" content="text/html;charset=ISO-8859-1">
+		<meta name="description" content="Top Source for Seinfeld">
+		<meta name="keywords" content="seinfeld, sienfeld, Jerry Seinfeld, Julia Louis Dreyfus, Jason Alexander, Michael Richards, Kramer, George, Costanza, Elaine Benes, morty, Larry David">
+		<title>Seinology.com :: Scripts :: 51-The Contest</title>
+	<link rel='stylesheet' href='/stylesheet.css' type='text/css'>
+	</head>
+
+	<body>
+			<table align="center" width="787" border="0" cellspacing="0" cellpadding="0">
+				<tr>
+					<td><font size="-2" color="red">Seinology.com - </font><font size="-3" color="black">Where Seinfeld Content and Accuracy Matter Most. Seinfeld scripts in pdf form, Seinfeld episode video clips, Seinfeld episode audio clips, Jerry Seinfeld appearances, Julia Louis-Dreyfus appearances, Michael Richards appearances, Jason Alexander appearances, Seinfeld discussion Forum, Seinfeld Where are they Now? Seinlanguage Newsletter, Popular Seinfeld Lists, Seinfeld episode standup, Seinfeld episode guide, Seinfeld fan fiction. Seinfeld content all on one domain. Seinology.com enjoy your stay.</font></td>
+				</tr>
+			</table>
+		
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr height="100">
+				<td class="logo"></td>
+			</tr>
+			<tr><td class="ads" align="center" background=#8694fa>
+				<script type="text/javascript"><!--
+google_ad_client = "pub-1924026976931416";
+google_ad_width = 728;
+google_ad_height = 90;
+google_ad_format = "728x90_as";
+google_ad_type = "text";
+google_ad_channel = "";
+google_color_border = "FFFFFF";
+google_color_bg = "8694fa";
+google_color_link = "0000FF";
+google_color_text = "000000";
+google_color_url = "002E3F";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></td></tr>
+		</table>
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr>
+				<td valign="top" width="136">
+					<table width="136" border="0" cellspacing="0" cellpadding="0">
+						<tr height="24">
+							<td class="navigation">
+								<div align="center">
+									
+									<b>Navigation</b></div>
+							</td>
+						</tr>
+						<tr height="199">
+							<td class="spacer1" valign="top" width="136" height="199">
+								<div align="center">
+									<font size="-1"><a href="http://www.seinology.com">Home</a><br>
+										<a href="http://board.seinology.com">Forum</a><br>
+										<a href="http://www.seinology.com/av.shtml">Audio/Video</a><br>
+										<a href="http://www.seinology.com/scripts.shtml">Scripts</a><br>
+										<a href="http://www.seinology.com/survivor.shtml">Survivor</a><br>
+										<a href="http://www.seinology.com/fanfics.shtml">Fan Fiction</a><br>
+										<a href="http://www.seinology.com/gallery/">Gallery</a><br>
+										<a href="http://www.seinology.com/newsletter.shtml">Newsletter</a><br>
+										<a href="http://www.seinology.com/lists.shtml">Lists</a><br>
+										<a href="http://www.seinology.com/epguide.shtml">Episode Guide</a><br>
+										<a href="http://www.seinology.com/links.shtml">Links</a><br>
+										<a href="http://www.seinology.com/faqother.shtml">Faq + others</a><br>
+										<a href="http://www.seinology.com/legal.shtml">Legal</a></font></div>
+							</td>
+						</tr>
+						
+						<tr>
+							<td class="nav2" width="136">
+							<div align="center"><b>Search</b></div></td>
+						</tr>
+						<tr>
+							<td class="spacer1" width="136" valign="top"><div align="center"><form method="get" action="http://www.seinology.com/search/search.cgi">
+<p><label for="fdse_Match">Match</label><br>
+<select name="Match" id="fdse_Match" size="1">
+<option value="1">All</option>
+<option value="0">Any</option>
+<option value="2">Phrase</option>
+</select></p>
+<p><label for="fdse_Realm">Where?</label><br>
+<select name="Realm" id="fdse_Realm" size="1">
+<option selected="selected" value="All">EntireSite</option>
+<option value="Ep Guide">Ep Guide</option>
+<option value="Images">Images</option>
+<option value="Lists">Lists</option>
+<option value="Newsletters">Newsletters</option>
+<option value="Scripts">Scripts</option>
+<option value="Notes..Nothing">Notes..Nothing</option>
+</select></p>
+<p><input type="text" name="Terms" size="14" id="fdse_Terms"><br>
+<input type="submit" class="submit" name="submitButtonName" value="Search"></p>
+</div></form></td>
+						</tr>
+						<tr><td class="bottom" width="136" height="10" valign="top">
+						</td>
+						</tr>
+					</table>
+				</td>
+				<td width="4"></td>
+				<td valign="top" width="645">
+					<table width="645" border="0" cellspacing="0" cellpadding="0">
+						<tr height="18">
+							<td width="645" height="35" class="bar">
+								<div align="center">
+									<b><font size="+2" color="black">Script</font></b></div>
+							</td>
+						</tr>
+						<tr height="362">
+							<td class="spacer2" valign="top" width="645" height="362">
+
+						<p><font size="-2">Episode 51 - The Contest<br>
+							pc: 411, season 4, episode 11<br>
+							Broadcast date: November 18, 1992<br>
+							<br>
+							Written by Larry David<br>
+							Directed by Tom Cherones<br>
+							<br>
+							-------------------------------------------------------------------------------<br>
+							<br>
+							The Cast<br>
+							Regulars:<br>
+							Jerry Seinfeld ....................... Jerry Seinfeld<br>
+							Jason Alexander .................. George Costanza<br>
+							Julia Louis-Dreyfus ............. Elaine Benes<br>
+							Michael Richards ................. Kramer<br>
+							<br>
+							Guest Stars:<br>
+							<br>
+							Jane Leeves .......................... Marla<br>
+							Ilana Levine ......................... Joyce<br>
+							Rachel Sweet ....................... Shelly<br>
+							Andrea Parker .................... Nurse<br>
+							rc: Estelle Harris ................. Estelle Costanza<br>
+							<br>
+							==================================================================<br>
+							<br>
+							[Setting: Monk's Coffee shop] <br>
+							<br>
+							(Jerry and Kramer are sitting opposite Elaine at a booth, eating lunch) <br>
+							<br>
+							JERRY: (To Elaine) Let me ask you a question. <br>
+							<br>
+							ELAINE: Mm-hm. <br>
+							<br>
+							JERRY: You're a hostage, captured by terrorists- <br>
+							<br>
+							ELAINE: (Smiling, chewing) Who, me? <br>
+							<br>
+							JERRY: You, anybody - whatever. You're in the little room, you're chained to the floor, you're there for a long time.. do you think they would ever consider doing the laundry? <br>
+							<br>
+							ELAINE: (Matter-of-factly) They have to, it's in the Geneva Convention. <br>
+							<br>
+							KRAMER: (Imitating a Turkish terrorist) You! Take off your socks, your pants, your underwear. We're doing the wash. C'mon! Take it off, take it off! <br>
+							<br>
+							(Jerry and Elaine both laugh at Kramer's impression as George slowly enters. He's in a melancholy state) <br>
+							<br>
+							KRAMER: Hey, Georgie. <br>
+							<br>
+							JERRY AND ELAINE: Hi. <br>
+							<br>
+							(George sits down next to Elaine - opposite Kramer) <br>
+							<br>
+							JERRY: (To George) What's the matter? <br>
+							<br>
+							GEORGE: (Slowly shakes his head) My mother caught me. <br>
+							<br>
+							JERRY: &quot;Caught&quot; you? Doing what? <br>
+							<br>
+							GEORGE: You know. (All three give him blank stares) I was alone.. <br>
+							<br>
+							ELAINE: (Making a face of surprise) You mean..?! <br>
+							<br>
+							GEORGE: (Nods) Uh-huh. <br>
+							<br>
+							KRAMER: (Laughing) She caught you? <br>
+							<br>
+							(Elaine laughs with Kramer) <br>
+							<br>
+							JERRY: Where? <br>
+							<br>
+							GEORGE: (Not really wanting to embellish) ..I stopped by the house to drop the car off, and I went inside for a few minutes.. Nobody was there - they're supposed to be working. (Jerry and Elaine look at each other - enjoying the story) My mother had a Glamour magazine, I started leafing through it.. <br>
+							<br>
+							JERRY: &quot;Glamour&quot;? <br>
+							<br>
+							(Kramer and Elaine laugh slightly) <br>
+							<br>
+							GEORGE: ..So, one thing lead to another.. <br>
+							<br>
+							JERRY: So, what did she do? <br>
+							<br>
+							GEORGE: First she screams, &quot;George, what are you doing?! My God!&quot; And it looked like she was gonna faint - she started clutching the wall, trying to hang onto it. <br>
+							<br>
+							KRMAER: (Reflecting on the story so far) Man.. <br>
+							<br>
+							GEORGE: I didn't know whether to try and keep her from falling, or zip up. <br>
+							<br>
+							JERRY: What did you do? <br>
+							<br>
+							GEORGE: I zipped up! <br>
+							<br>
+							ELAINE: (Wide-eyed) So, she fell? <br>
+							<br>
+							GEORGE: Yeah. (Noticing this makes him out to be the bad kid, he gets defensive) Well, I couldn't run over there the way I was! <br>
+							<br>
+							ELAINE: No, I guess you couldn't have.. <br>
+							<br>
+							JERRY: (In the middle of Elaine's sentence, smiling) No, I wouldn't think so. <br>
+							<br>
+							ELAINE: (Finishing it off) ..done that. <br>
+							<br>
+							GEORGE: So, she fell, and then she started screaming, &quot;My back! My back!&quot; So, I picked her up and took her to the hospital. <br>
+							<br>
+							ELAINE: (Between chuckles) How is she? <br>
+							<br>
+							GEORGE: (Somewhat angered) She's in traction. <br>
+							<br>
+							ELAINE: (Still laughing) Ok, I'm sorry. <br>
+							<br>
+							GEORGE: It's not funny, Elaine. <br>
+							<br>
+							ELAINE: (Stifling her laughter) I know. I'm sorry. I'm serious. <br>
+							<br>
+							GEORGE: Her back went out. She's gotta be there for a couple of days. All she said on the way over in the car was, &quot;Why, George, why?!&quot;.. I said, &quot;Because it's there!&quot; <br>
+							<br>
+							(Kramer laughs, sipping his drink) <br>
+							<br>
+							JERRY: &quot;Glamour&quot;? <br>
+							<br>
+							(Elaine laughs) <br>
+							<br>
+							GEORGE: (Vowing) Well, I'll tell you this, though - I am never doing.. that , again. <br>
+							<br>
+							ELAINE: What, you mean, in your mother's house, or all together? <br>
+							<br>
+							GEORGE: (Definite) All together. <br>
+							<br>
+							(The next three lines are said at the exact same time) <br>
+							<br>
+							ELAINE: Oh, gimme a break.. <br>
+							<br>
+							JERRY: (Skeptical) Ohhh yeah.. right. <br>
+							<br>
+							KRAMER: Oh, like you're gonna stop? <br>
+							<br>
+							JERRY AND ELAINE: C'mon.. <br>
+							<br>
+							GEORGE: You don't think I can? <br>
+							<br>
+							JERRY: No chance. <br>
+							<br>
+							GEORGE: (Daring) You think you could? <br>
+							<br>
+							JERRY: Well, I know I could hold out longer than you. <br>
+							<br>
+							GEORGE: Care to make it interesting? <br>
+							<br>
+							JERRY: Sure, how much? <br>
+							<br>
+							GEORGE: A hundred dollars. <br>
+							<br>
+							JERRY: (Pointing) You're on. <br>
+							<br>
+							KRAMER: (Butting in) Wait a second, wait a second. Count me in on this. (Clicks his tongue) <br>
+							<br>
+							JERRY: You? <br>
+							<br>
+							KRAMER: Yeah. <br>
+							<br>
+							JERRY: You'll be out before we get the check. <br>
+							<br>
+							ELAINE: (Smiling) I want to be in on this, too. <br>
+							<br>
+							GEORGE AND JERRY: (Rejecting) Ohh, no. No, no, no.. <br>
+							<br>
+							ELAINE: Why? <br>
+							<br>
+							JERRY: (Showing difference) It's apples and oranges.. <br>
+							<br>
+							ELAINE: What? Why? (More 'no, no, no's from Jerry and George. Persistent) Why? <br>
+							<br>
+							JERRY: Because you're a woman! <br>
+							<br>
+							ELAINE: So what? <br>
+							<br>
+							JERRY: It's easier for a woman not to do it than a man. <br>
+							<br>
+							ELAINE: (Sarcastic) Oh. <br>
+							<br>
+							JERRY: We have to do it. It's part of our lifestyle. It's like, uh.. shaving. <br>
+							<br>
+							ELAINE: Oh, that is such bologna. I shave my legs. <br>
+							<br>
+							KRAMER: (Making a point) Not everyday. <br>
+							<br>
+							GEORGE: Alright, look, you want to be in? <br>
+							<br>
+							ELAINE: Yeah! <br>
+							<br>
+							GEORGE: You gotta give us odds. At least two to one - you gotta put up two-hundred dollars. <br>
+							<br>
+							KRAMER: No, a thousand! <br>
+							<br>
+							ELAINE: No, I'll - I'll put up one-fifty. <br>
+							<br>
+							GEORGE: Alright, you're in for one-fifty. <br>
+							<br>
+							JERRY: (Nodding) Okay, one-fifty. <br>
+							<br>
+							GEORGE: Alright, now, how are we gonna monitor this thing? <br>
+							<br>
+							JERRY: Well, obviously, we all know each other very well, (Elaine slightly laughs) I'm sure that we'll all feel comfortable within the confines of the honor system. <br>
+							<br>
+							KRAMER: Alright. (Holds out his pinkie at the center of the table) <br>
+							<br>
+							(Jerry, Elaine, and George all hook their pinkies onto his, in a 'pinkie promise', they all pull their hand away, yelling out &quot;Yeah!&quot;) <br>
+							<br>
+							(Scene ends) <br>
+							<br>
+							<br>
+							[Setting: Jerry's apartment] <br>
+							<br>
+							(Jerry's sitting on the couch, eating cereal while George is on the phone with his mother) <br>
+							<br>
+							GEORGE: (Stern) No, ma, I'm not gonna see a psychiatrist. N- I don't care if you do pay for it! No! Discussion over. Yeah, alright, I'll see you later. Yes, of course I'm gonna come by. Alright. (Hangs up, slamming it down on the coffee table. He sits down next to Jerry) My mother wants me to see a psychiatrist now. Why?! Because she caught me? (Scoffs, shaking his head) You know, if everyone who did that had to go see a psychiatrist.. (Laughing, he snorts) <br>
+							<br>
+							JERRY: (Waits for the rest of the sentence) ..Yeah? <br>
+							<br>
+							GEORGE: (Defensively) Whatever. <br>
+							<br>
+							(Intercom buzzes, Jerry gets up to answer it) <br>
+							<br>
+							JERRY: How is she? <br>
+							<br>
+							GEORGE: (Shrugging it off) She'll be fine. I gotta go to the hospital to see her tonight. <br>
+							<br>
+							JERRY: (Answering to the intercom) Yeah? <br>
+							<br>
+							ELAINE: It's me. <br>
+							<br>
+							JERRY: Come on up. (Lets her in by unlocking the front door) <br>
+							<br>
+							GEORGE: Hey, what are you doing tonight? <br>
+							<br>
+							JERRY: (Opens his door slightly for Elaine) Dating Marla. <br>
+							<br>
+							GEORGE: Oh, the virgin? <br>
+							<br>
+							JERRY: Yeah. <br>
+							<br>
+							GEORGE: Any, uh.. progress, there? What's the latest? <br>
+							<br>
+							JERRY: Well, I got my troops amassed along the border - I'm just waiting for someone to give me the go-ahead. <br>
+							<br>
+							(Kramer enters, heading for Jerry's window) <br>
+							<br>
+							KRAMER: Hey, look at this, c'mere. There's a naked woman across the street. <br>
+							<br>
+							(George and Jerry quickly join him at the window) <br>
+							<br>
+							JERRY: Where? <br>
+							<br>
+							KRAMER: Second floor from the top. (Pointing) See the window on the left? <br>
+							<br>
+							GEORGE: (In awe) Wow! <br>
+							<br>
+							JERRY: (Also amazed) Who walks around the house like that?! <br>
+							<br>
+							(All eyes are glued to the woman) <br>
+							<br>
+							GEORGE: (Suggesting) Maybe she's a nudist. You know, those nudist colony people.. <br>
+							<br>
+							KRAMER: ..Yeah.. (Pause) yeah.. (Slowly stands up, and walks out Jerry's apartment - leaving Jerry and George with the view, he shuts the door behind him) <br>
+							<br>
+							JERRY: Hey, let me ask you a question. In these nudist colonies, do they eat naked in the dining room? <br>
+							<br>
+							GEORGE: I would imagine it's all naked. <br>
+							<br>
+							JERRY: What about the chamber maids? Are they naked, too? <br>
+							<br>
+							GEORGE: (Still focused on the nudist) They're naked, the gardeners naked.. the bellhops. (Jerry makes a noise of astonishment) One big nude-a-rama. <br>
+							<br>
+							(Elaine enters) <br>
+							<br>
+							ELAINE: Hey. <br>
+							<br>
+							JERRY AND GEORGE: (Only turning back for a second) Hey. <br>
+							<br>
+							ELAINE: Well, (Smiling) where's my money? Who caved? <br>
+							<br>
+							JERRY: (Over his shoulder) Not me. <br>
+							<br>
+							GEORGE: (Also, over his shoulder) Not me. <br>
+							<br>
+							ELAINE: What're you looking at? <br>
+							<br>
+							JERRY: There's a naked woman across the street. <br>
+							<br>
+							ELAINE: (Smiling, chuckling) This is gonna be the easiest money I've ever made in my life. (Moving on to a new topic) So, my fried, Joyce, is teaching an aerobics class. I'm gonna go tonight. <br>
+							<br>
+							JERRY: (Commenting) Yeah.. the - the waitress should've taken it back. <br>
+							<br>
+							ELAINE: (Realizes Jerry and George aren't paying attention) So then, I got a call this morning. You know, I was, uh, chosen to go on the space shuttle. We're goin' to Mars. <br>
+							<br>
+							JERRY: (Still staring at the woman) Uh-huh. <br>
+							<br>
+							GEORGE: Have a good time. <br>
+							<br>
+							(Kramer casually enters, takes a few step toward the kitchen, and slaps a wad of bills onto the counter) <br>
+							<br>
+							KRAMER: (Declaring) I'm out! <br>
+							<br>
+							(Kramer now has the attention of everyone in the room. Jerry's mouth is open in shock. A moment passes) <br>
+							<br>
+							ELAINE: What?! <br>
+							<br>
+							KRAMER: Yeah, I'm out - I'm out of the contest. <br>
+							<br>
+							GEORGE: You're out?! <br>
+							<br>
+							KRAMER: Yeah, yeah.. (Notes their reactions) what? <br>
+							<br>
+							ELAINE: Well, that was fast! <br>
+							<br>
+							JERRY: Well, it was that woman across the street. (To Jerry) You know, you better be careful, buddy. She's gonna get you next. (Walks out, shutting the door behind him) <br>
+							<br>
+							(Jerry, Elaine, and George all look at each other, reflecting) <br>
+							<br>
+							ELAINE: ..And then there were three. <br>
+							<br>
+							(Scene ends) <br>
+							<br>
+							<br>
+							[Setting: Hospital room] <br>
+							<br>
+							(Estelle is on a hospital bed. George, sitting back in a chair, is visiting her) <br>
+							<br>
+							ESTELLE: I don't understand you. I really don't. You have nothing better to do at three o' clock in the afternoon? I go out for a quart of milk, I come home, and find my son treating his body like it was an amusement park! <br>
+							<br>
+							GEORGE: (Stern, trying to shut her up) Ma. <br>
+							<br>
+							ESTELLE: Don't give me &quot;Ma&quot;. It's a good thing I didn't hit the table. I could of cracked my head open. <br>
+							<br>
+							GEORGE: Ma, people can hear you. <br>
+							<br>
+							ESTELLE: (Heavy in sarcasm) Too bad you can't do that for a living. You'd be very successful at it. You could sell out Madison Square Garden. Thousands of people could watch you! You could be a big star! <br>
+							<br>
+							GEORGE: (Getting up) Alright, Ma, that's enough! <br>
+							<br>
+							ESTELLE: I want you to go see a psychiatrist. <br>
+							<br>
+							GEORGE: No! I am not going to see a psychiatrist! <br>
+							<br>
+							ESTELLE: Why? Why not?! Why won't you go? <br>
+							<br>
+							GEORGE: (Like a kid) Because I don't want to. <br>
+							<br>
+							ESTELLE: I want you to go see somebody. <br>
+							<br>
+							GEORGE: Well, I am not going. <br>
+							<br>
+							ESTELLE: It's a good thing your father's in Chicago. <br>
+							<br>
+							(George's cousin, Shelly, enters) <br>
+							<br>
+							SHELLY: Hello, Aunt Estelle. Look at you - how did this happen? <br>
+							<br>
+							GEORGE: (Snapping) Is that important, really? What is this, a police investigation? The woman's been through enough. She has to relive the experience now?! <br>
+							<br>
+							(On the other side of a curtain divider, the silhouette of a shapely nurse can be seen entering) <br>
+							<br>
+							NURSE: Hi, Denise. Six-thirty, time for your sponge bath. <br>
+							<br>
+							(The shadow of a patient awakening can be seen) <br>
+							<br>
+							DENISE: Mmm.. is it six-thirty already? I fell asleep. <br>
+							<br>
+							(The two women go about preparing the sponge bath. George is visibly affected - breathing heavily, and staring at them through the curtain) <br>
+							<br>
+							SHELLY: (Seems not to notice what's going on beyond the divider) So, George, what are you doing now? I hear you got some kinda television, writing - thing? <br>
+							<br>
+							GEORGE: (Slowly backing away, he's not at all committed to the conversation) Yeah.. television. <br>
+							<br>
+							(The patient, Denise, is trying to get her gown off) <br>
+							<br>
+							NURSE: Let me help you out with that. Here, just slip it over your head.. <br>
+							<br>
+							DENISE: Oh.. thank you. <br>
+							<br>
+							SHELLY: (Nodding) Well, it's about time. We thought you were gonna wind up on the street. (As the bath is going on, George is now completely mesmerized) What is it you're doing, exactly? <br>
+							<br>
+							(A moment passes. George seems not to have heard his cousin) <br>
+							<br>
+							ESTELLE: George, you're cousin, Shelly, is talking to you! <br>
+							<br>
+							(Scene ends) <br>
+							<br>
+							<br>
+							[Setting: New York Health Club] <br>
+							<br>
+							(Elaine, dressed for a work-out, is signing forms while talking with her friend, Joyce) <br>
+							<br>
+							JOYCE: So, when was the last time you took a class? <br>
+							<br>
+							ELAINE: Oh, it's been a while. <br>
+							<br>
+							JOYCE: (Overly excited) Are you psyched? <br>
+							<br>
+							ELAINE: (Fake excitement) Yeah. yeah, I'm really.. psyched. <br>
+							<br>
+							JOYCE: Well, you're gonna thank me for getting you in here. <br>
+							<br>
+							ELAINE: Why is that? <br>
+							<br>
+							JOYCE: (Pointing, she directs Elaine's attention off-camera) See the guy with the dark hair and the red shorts? <br>
+							<br>
+							(Elaine looks over, and her jaw drops to the floor. Breathless, she turns back to her friend) <br>
+							<br>
+							ELAINE: (Between breaths) Oh, my God. (Joyce nods) John F. Kennedy Junior's here! <br>
+							<br>
+							JOYCE: He's gonna be in your class today. <br>
+							<br>
+							ELAINE: (Still unable to speak right) In my class? John Kennedy's gonna be in my class?! <br>
+							<br>
+							JOYCE: I can get you a spot right behind him. He has got a great butt. <br>
+							<br>
+							ELAINE: Yeah. Butt. Butt. Great butt. John-John's butt. <br>
+							<br>
+							(Scene ends) <br>
+							<br>
+							<br>
+							[Setting: Jerry's car] <br>
+							<br>
+							(Stationary, Jerry's girlfriend, Marla, and him are making out. After some deep kissing, Marla breaks away) <br>
+							<br>
+							MARLA: Let's slow it down a little. <br>
+							<br>
+							JERRY: &quot;Slow it down&quot;? <br>
+							<br>
+							MARLA: Well, (Reminding him of her virginity) You know.. <br>
+							<br>
+							JERRY: Ah, yeah.. I know. <br>
+							<br>
+							MARLA: You're okay with that, right? <br>
+							<br>
+							JERRY: Yeah, yeah.. of course. What, do you think I care about the sex? What kind of person do you think I am? That doesn't mean anything to me. (Faint) I don't care about that. <br>
+							<br>
+							MARLA: So, I'll see you Saturday night, then? <br>
+							<br>
+							JERRY: (Smiling, nodding) Sure, Saturday night. <br>
+							<br>
+							MARLA: Alright, then. Good night. <br>
+							<br>
+							JERRY: Goodnight. (She gets out. Jerry leans forward, adding) Not just a good night - a great night. (She shuts the door, he waves) <br>
+							<br>
+							(Scene ends) <br>
+							<br>
+							<br>
+							[Setting: Jerry's bedroom] <br>
+							<br>
+							(Jerry, in the middle of the night, is moving around - unable to get to sleep, he's restless. Scene cuts to George. He's wide awake, and staring at the ceiling. Cut to <br>
+							<br>
+							Elaine. She's settling into bed, unable to get to sleep. The scene takes a final cut to Kramer. He's sound asleep) <br>
+							<br>
+							(Scene ends) <br>
+							<br>
+							<br>
+							[Setting: Jerry's apartment] <br>
+							<br>
+							(Jerry's in a grouchy mood. Kramer enters) <br>
+							<br>
+							KRAMER: (Singing) Goood Moorrrnninng! <br>
+							<br>
+							JERRY: (Out of it) Yeah, good morning. <br>
+							<br>
+							KRAMER: Ha, ha! Nothing like some good solid sack time. (Turns toward Jerry's window) <br>
+							<br>
+							JERRY: She's not there. She's doin' her wash. <br>
+							<br>
+							KRAMER: (Turning back to Jerry) Oh. So, did you make it through the night? <br>
+							<br>
+							JERRY: (Over the top) Yes, I'm proud to say I did! <br>
+							<br>
+							KRAMER: So, you're still master of your domain. <br>
+							<br>
+							JERRY: (Nodding) Yes. Yes I am. (Kramer chuckles) Master of my domain. But I will tell you this: I am going over to (Gestures to the nudist) her apartment, and I'm tellin' her to put those shades down! <br>
+							<br>
+							KRAMER: Woah, woah, woah. What-what did you just say? <br>
+							<br>
+							JERRY: I can't take it anymore! She's driving me crazy! I can't sleep, I can't leave the house, and I' here, I'm climbin' the walls. Meanwhile, I'm dating a virgin, I'm in this contest - something's gotta give! <br>
+							<br>
+							KRAMER: Do you hear what you're saying?! Can you hear it?! (Jerry puts on his coat) This is a beautiful woman walking around naked, and you want to tell her to stop?! That's the dumbest thing I ever heard! I mean, think comprehens- I'm not gonna let you do it. <br>
+							<br>
+							JERRY: (Persistent) Well, I'm doin' it, get out of my way. <br>
+							<br>
+							KRAMER: (Stopping him) No, no, no, no. You can't! You can't! This is something that comes about once in a lifetime! When we were boys, looking through our bedroom windows, we would think: &quot;Why can't there be a woman out there, taking her clothes off?&quot; And now that wish's come true, and you want to (Makes a noise) throw it away?! <br>
+							<br>
+							JERRY: Look, I'm sorry- <br>
+							<br>
+							KRAMER: No, I'm not gonna let you do it, Jerry. <br>
+							<br>
+							JERRY: Kramer, (Trying to pass him) get outta my way! <br>
+							<br>
+							KRAMER: (Frantic) No, no, no. Don't do it. Don't do it! For my sake! God knows I don't ask you for much! (Pleading) Now, come on. Please, Jerry. Please! I'm beggin' ya! Please! (Claps hands) Come on! Please! <br>
+							<br>
+							(A pause as Jerry thinks it over) <br>
+							<br>
+							JERRY: Alright.. (Takes his coat off) <br>
+							<br>
+							KRAMER: Yes! <br>
+							<br>
+							JERRY: ..Alright. <br>
+							<br>
+							KRAMER: (Moving to the window) Thank you, thank you, thank you. (Sits in Jerry's chair, looking out the window) <br>
+							<br>
+							JERRY: She's not there! <br>
+							<br>
+							KRAMER: Oh, I can wait.. <br>
+							<br>
+							(Scene ends) <br>
+							<br>
+							<br>
+							[Setting: Monk's Coffee shop] <br>
+							<br>
+							(Jerry and George are sitting opposite each other in a booth) <br>
+							<br>
+							JERRY: So the nurse was giving her a sponge bath? <br>
+							<br>
+							GEORGE: Every night at six-thirty. The nurse was gorgeous.. then I got a look at the patient.. (Laughs, then snorts) I was going nuts. <br>
+							<br>
+							JERRY: Oh, man. Well, I guess you'll be going back to that hospital. <br>
+							<br>
+							GEORGE: (Fake sympathy) Well, my mother, Jerry.. <br>
+							<br>
+							(Jerry nods) <br>
+							<br>
+							JERRY: (Pointing) But are you still master of your domain? <br>
+							<br>
+							GEORGE: (Arms out) I am king of the county. You? <br>
+							<br>
+							JERRY: Lord of the manor. <br>
+							<br>
+							(Elaine enters and sits next to Jerry) <br>
+							<br>
+							ELAINE: John F. Kennedy Jun-ya! <br>
+							<br>
+							JERRY: What? <br>
+							<br>
+							ELAINE: (Smiling) He was in my aerobics class. <br>
+							<br>
+							JERRY: Really? Did you talk to him? <br>
+							<br>
+							ELAINE: No, you don't understand - he was working out right in front of me. So, listen, after the class was over, I timed my walk to the door so we'd get there at the exact same moment, and he says to me, (Thinking the world of what he said) &quot;Quite a workout.&quot; <br>
+							<br>
+							GEORGE: &quot;Quite a workout&quot;? What did you say? <br>
+							<br>
+							ELAINE: (Smiling, proud) I said, &quot;yeah.&quot; <br>
+							<br>
+							JERRY: (Adding, fake praise) Good one. <br>
+							<br>
+							ELAINE: So then, listen, listen. So then, I showered and I dressed, and I saw him again, on the way out. (Giddy and nearly out of breath) So we're walkin' and talkin', and he asked me my name - and I think I said Elaine - but, I mean, who the hell knows.. And so then, he says to me: &quot;Do you wanna split a cab uptown?&quot; And I said, &quot;Sure&quot; - even though I was going downtown. So, we get in the cab, and I mean, I have no idea where I'm goin', right? But this is John F. Kennedy Junior we're talkin' about! (Deep breath) So, then, he says to me, &quot;Where do you live?&quot; And I - and I - and I was close to your block, so I said your building. So he dropped me off in front, (Laughs) and I had to take a cab all the way back downtown to my house.. (Picks up a glass of cold water and presses it up to her forehead to cool her off) Oh, God.. <br>
+							<br>
+							JERRY: But the question is, are you still master of your domain? <br>
+							<br>
+							ELAINE: (Sets the glass down) I'm queen of the castle. (Pops a piece of food into her mouth) <br>
+							<br>
+							(Scene ends) <br>
+							<br>
+							<br>
+							[Setting: Estelle's hospital room] <br>
+							<br>
+							(George quickly runs in, turning around - he checks both his watch and the wall clock. He smiles to himself) <br>
+							<br>
+							ESTELLE: You're back. <br>
+							<br>
+							GEORGE: Of course I'm back. Why wouldn't I be back? My mother's in the hospital, I'm going to pay her a visit. <br>
+							<br>
+							ESTELLE: I know, but two days in a row? You didn't have to do this. <br>
+							<br>
+							GEORGE: You're my mother! What wouldn't I do for you? <br>
+							<br>
+							ESTELLE: You know what you could do? I haven't eaten lunch or dinner. I can't eat this hospital food. Maybe you could run down to the deli and get me a sandwich.. <br>
+							<br>
+							GEORGE: (Smiling) You got it, Ma. (She smiles back, nodding) A little later. (George sits back in a nearby chair, looking at the divider in anticipation) <br>
+							<br>
+							ESTELLE: (Let down) Could you go now, George? I'm very hungry. I'm weak. <br>
+							<br>
+							GEORGE: Well, wait a little while, Ma. What's the difference? <br>
+							<br>
+							ESTELLE: I don't understand why you can't do this for me! <br>
+							<br>
+							GEORGE: (Standing up) I just got here, Ma! I'd like to spend a little time with you. <br>
+							<br>
+							ESTELLE: But if you wait, they won't let you back in! Visiting hours are almost over! <br>
+							<br>
+							GEORGE: Ten minutes! Here, here, (Fishes a box of Tic-Tacs out of his coat pocket and tosses them to her) Have some Tic-Tacs. <br>
+							<br>
+							ESTELLE: Get the hell outta here. (Angrily sets them aside) I'm sorry you came. <br>
+							<br>
+							(Nurse enters) <br>
+							<br>
+							NURSE: (To patient) Six-thirty. Time for your sponge bath. <br>
+							<br>
+							(George eagerly takes his seat, looking up at their shadows on the divider) <br>
+							<br>
+							ESTELLE: George.. I'm huuunnnggry! <br>
+							<br>
+							GEORGE: (Muttering, slow) Hang on, Ma.. hang on.. <br>
+							<br>
+							(Scene ends) <br>
+							<br>
+							<br>
+							[Setting: New York Health Club] <br>
+							<br>
+							(Elaine, dressed to impress, walks up to the counter. She's obviously looking around for JFK Jr.) <br>
+							<br>
+							JOYCE: Hi! <br>
+							<br>
+							ELAINE: Hi. <br>
+							<br>
+							JOYCE: Did you get your hair done today? <br>
+							<br>
+							ELAINE: No, I just, uh, fixed it.. a little bit. (Still looking around, she quickly checks her breath) <br>
+							<br>
+							JOYCE: You know who - isn't here. He was in the early class today. (Elaine looses her composure) But I think you made quite an impression on him yesterday. <br>
+							<br>
+							ELAINE: (Regarding herself) What? What? Who? Me-me-me? I made an impression? What impression? <br>
+							<br>
+							JOYCE: Let me just put this back. (Turns to put a stack of shorts away) <br>
+							<br>
+							(Elaine violently grabs her jacket, pulling Joyce back in her direction) <br>
+							<br>
+							ELAINE: No! No! Now! Tell me now! What did he say?! <br>
+							<br>
+							JOYCE: (Uneasy) He asked about you. <br>
+							<br>
+							ELAINE: (Ecstatic) He asked about me? John Kennedy asked about me?! (Hangs off the side of the counter, both feet in the air) What did he say? <br>
+							<br>
+							JOYCE: He wanted to know your situation. <br>
+							<br>
+							ELAINE: (Quick) What situation? I have a situation? <br>
+							<br>
+							JOYCE: I-I told him you were single. <br>
+							<br>
+							ELAINE: That was good. That was very good. <br>
+							<br>
+							JOYCE: He said you were just his type. <br>
+							<br>
+							ELAINE: (Frank) Okay, you tryin' to hurt me? Are you tryin' to hurt - you're tryin' to injure me, right? You're trying to hurt me. <br>
+							<br>
+							JOYCE: He also told me to tell you that he'll be in your neighborhood tomorrow around nine o' clock - so he's gonna stop in front of your building if you want to come down and say hello. <br>
+							<br>
+							(Breathless, Elaine almost collapses) <br>
+							<br>
+							(Scene ends) <br>
+							<br>
+							<br>
+							[Setting: Jerry's apartment] <br>
+							<br>
+							(Kramer's at the window while Jerry's on the phone with his mother, watching TV) <br>
+							<br>
+							JERRY: Alright, Ma, I'll talk to you later.. Nothing, I'm, I'm watching, uh, Tiny Toons here, on Nickelodeon.. It's, I-I like kid shows. They have a very innocent, wholesome quality. Okay, alright, I'll talk to you later. Bye. (Hangs up) <br>
+							<br>
+							KRAMER: (Obviously watching the nudist across the street) Oh, that's good. That's good. That's very, very good. Oh, it's hot in there.. (Jerry looks back at Kramer in envy) It's hot in there. So, just walk around a little bit. Don't be ashamed, don't be ashamed.. that's good, that's good.. yes, yes, yes.. <br>
+							<br>
+							JERRY: (Trying to block out Kramer, he starts to sing along with the TV) The wheels on the bus go round and round, round and round, round and round. The wheels on the bus.. <br>
+							<br>
+							(Kramer joins in with Jerry, only, he has a different version) <br>
+							<br>
+							KRAMER: The woman across the street has nothing on, nothing on, nothing on.. <br>
+							<br>
+							(Both Kramer and Jerry continue to sing the two different versions, trying to over ride the other) <br>
+							<br>
+							(Scene ends) <br>
+							<br>
+							<br>
+							[Setting: George's room] <br>
+							<br>
+							(George is wide awake, staring at the ceiling. Scene cuts to Jerry. Once again, he's restless and flings the covers off him. Scene cuts to Kramer - he's out like a light. The scene takes a final cut to Elaine. Foreshadowing the next scene, she's sound asleep too) <br>
+							<br>
+							(Scene ends) <br>
+							<br>
+							<br>
+							[Setting: Jerry's apartment] <br>
+							<br>
+							(Jerry and George. They're bickering at each other due to the lack of sex) <br>
+							<br>
+							GEORGE: All you got is instant coffee? Why don't you get some real coffee? <br>
+							<br>
+							JERRY: I don't keep real coffee in here, I get my coffee on the outside! (Intercom buzzes. He answers it) Yeah?! <br>
+							<br>
+							ELAINE: (Through intercom) It's Elaine. <br>
+							<br>
+							JERRY: (Shouting) Come on up! (Opens his door for Elaine) <br>
+							<br>
+							GEORGE: Where did you get those socks? <br>
+							<br>
+							JERRY: I don't know. <br>
+							<br>
+							GEORGE: I think those are my socks! <br>
+							<br>
+							JERRY: How are these your socks?! <br>
+							<br>
+							GEORGE: I don't know, but those are my socks! I had a pair just like that with the blue stripe, and now I don't have them anymore! <br>
+							<br>
+							JERRY: (Sarcastic) Oh, yeah, that's right, well, you fell asleep one day on the sofa and I took them off your stinkin' feet. They looked so good to me, I just had to have them! <br>
+							<br>
+							GEORGE: Yeah, well, they're my socks! <br>
+							<br>
+							JERRY: They're my socks! <br>
+							<br>
+							(A brief moment passes as they look at each other) <br>
+							<br>
+							GEORGE: Oh boy.. <br>
+							<br>
+							JERRY: What are we doing here.. <br>
+							<br>
+							GEORGE: ..Oh boy. <br>
+							<br>
+							JERRY: This is ridiculous. <br>
+							<br>
+							GEORGE: Do you believe this? We're fighting. We're fighting. <br>
+							<br>
+							JERRY: I haven't been myself lately. I've been snapping at everybody. <br>
+							<br>
+							GEORGE: Me too. I've been yelling at strangers on the street. <br>
+							<br>
+							(Elaine slowly enters, shutting the door behind her) <br>
+							<br>
+							ELAINE: Hello.. (Pulls a wad of bills out of her purse, and starts to count it up) <br>
+							<br>
+							GEORGE: (Shocked) You caved?! <br>
+							<br>
+							JERRY: It's over? <br>
+							<br>
+							GEORGE: You're out? <br>
+							<br>
+							JERRY: Ohh-my-God. The Queen is dead. <br>
+							<br>
+							(Elaine sets the bills down on the counter) <br>
+							<br>
+							GEORGE: I figured you'd cruise. At least through the Spring. <br>
+							<br>
+							JERRY: What happened? <br>
+							<br>
+							ELAINE: It was..uh.. John-John. <br>
+							<br>
+							JERRY AND GEORGE: Ohhhhh.. John-John. <br>
+							<br>
+							JERRY: But you made it through the day before. <br>
+							<br>
+							ELAINE: Yeah, but yesterday, he told Joyce, the aerobics teacher, that he wants to meet me outside here at nine o' clock tonight. <br>
+							<br>
+							JERRY: Why outside here? <br>
+							<br>
+							ELAINE: Because he think I live here. Remember when we shared a cab, and he dropped me off out in front? He's picking me up. <br>
+							<br>
+							(George picks up the money, counting it) <br>
+							<br>
+							JERRY: Alright, Costanza - it's just you and me. <br>
+							<br>
+							GEORGE: And then, (Smacks the money) there were two. <br>
+							<br>
+							ELAINE: (Slowly) Elaine Benes Kennedy Junior.. <br>
+							<br>
+							(Scene ends) <br>
+							<br>
+							<br>
+							[Setting: Jerry's apartment] <br>
+							<br>
+							(Jerry and Marla are making out on the couch) <br>
+							<br>
+							MARLA: Let's go in the bedroom. <br>
+							<br>
+							JERRY: Really? <br>
+							<br>
+							MARLA: Yes. <br>
+							<br>
+							JERRY: You sure? <br>
+							<br>
+							MARLA: Yes. <br>
+							<br>
+							JERRY: You really want to? <br>
+							<br>
+							MARLA: I do. I'm ready. <br>
+							<br>
+							JERRY: Okay.. <br>
+							<br>
+							MARLA: I know how difficult this must have been for you. <br>
+							<br>
+							JERRY: (Chuckles) You don't know the half of it. <br>
+							<br>
+							(They both laugh slightly) <br>
+							<br>
+							MARLA: What do you mean? <br>
+							<br>
+							JERRY: Well, it's kinda silly, but.. <br>
+							<br>
+							(Scene cuts to Elaine on the sidewalk waiting for JFK Jr. She checks her watch. Scene cuts back to Jerry's apartment. Marla, obviously upset, is putting her coat on) <br>
+							<br>
+							MARLA: Contest?! A contest! This is what you do with your friends? <br>
+							<br>
+							JERRY: No, it was just a bet. I mean, it actually started with George and his mother- <br>
+							<br>
+							MARLA: I don't want to hear another word. And to think how close I came to you being the one! I must have been out of my mind. <br>
+							<br>
+							(She leaves, slamming the door. Jerry hangs his head, then directs his attention to his window. Eagerly walking over, he sits in his chair, staring at the woman) <br>
+							<br>
+							<br>
+							[Scene cuts to Elaine. Marla walks out in front of her, trying to hail a taxi]<br>
+							<br>
+							ELAINE: Marla? Hi, oh, I'm glad I ran into you- <br>
+							<br>
+							MARLA: I don't want to have anything to do with you or your perverted friends. (Confused, Elaine moves closer) Ooohh, get away from me! You're horrible. <br>
+							<br>
+							Horrible! All of you! <br>
+							<br>
+							(Scene ends) <br>
+							<br>
+							<br>
+							[Setting: Jerry's apartment] <br>
+							<br>
+							ELAINE: What happened? <br>
+							<br>
+							JERRY: I told her about the contest. <br>
+							<br>
+							ELAINE: Ohh. Boy, she's a whack-o. <br>
+							<br>
+							(George enters) <br>
+							<br>
+							GEORGE: (To Elaine) Hey, what happened? <br>
+							<br>
+							ELAINE: What? <br>
+							<br>
+							GEORGE: I thought you were meeting Kennedy. <br>
+							<br>
+							ELAINE: (Let down) He didn't show. <br>
+							<br>
+							GEORGE: Yeah, he did. <br>
+							<br>
+							ELAINE: What? He's - He's out there? Oh, my God. I-I gotta go, I gotta go.. <br>
+							<br>
+							GEORGE: No, no, no. He just left. <br>
+							<br>
+							ELAINE: What? <br>
+							<br>
+							GEORGE: Yeah, he was talking to Marla. <br>
+							<br>
+							JERRY: Marla? <br>
+							<br>
+							GEORGE: Yeah, I think, you know, she was, like, crying, and he was consoling her, and then, she, uh, just got into his car, and they just drove away. <br>
+							<br>
+							ELAINE: (Angered) He left with Marla, the virgin? <br>
+							<br>
+							GEORGE: Yeah. <br>
+							<br>
+							ELAINE: They drove away? <br>
+							<br>
+							GEORGE: Yeah, drove away.. You know, I said 'Hello' to him. You know, he's - he's- <br>
+							<br>
+							JERRY: (Moving to the window, shocked) Oh my God in heaven! <br>
+							<br>
+							(All three crowd around the window) <br>
+							<br>
+							ELAINE: (Makes a sound of surprise) Is that..? <br>
+							<br>
+							GEORGE: Kramer?! <br>
+							<br>
+							(A brief pause) <br>
+							<br>
+							ELAINE: He's waving.. <br>
+							<br>
+							(All three wave back) <br>
+							<br>
+							(Scene ends) <br>
+							<br>
+							<br>
+							[Setting: Elaine's bedroom] <br>
+							<br>
+							(Elaine's sound asleep. Scene cuts to George, then Jerry. They too, are sleeping. Scene takes a cut to Kramer and the nudist - both asleep; then a final cut to Marla's bedroom. She's sleeping with JFK Jr) <br>
+							<br>
+							MARLA: Ohh, John. That was wonderful.. <br>
+							<br>
+							(Scene ends) <br>
+							<br>
+							<br>
+							The End</td>
+						</tr>
+						<tr height="6">
+							<td class="bottom2" width="645" height="6"></td>
+						</tr>
+						<tr>
+							<td width="645">
+								<div align="center">
+									<font size="-1">Copyright 2006 seinology.com | All Rights Reserved | Designed by 13erla</font></div>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+		<p></p>
+	</body>
+
+</html>

@@ -1,0 +1,1401 @@
+<tdOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+<html>
+
+	<head>
+		<meta http-equiv="content-type" content="text/html;charset=ISO-8859-1">
+		<meta name="description" content="Top Source for Seinfeld">
+		<meta name="keywords" content="seinfeld, sienfeld, Jerry Seinfeld, Julia Louis Dreyfus, Jason Alexander, Michael Richards, Kramer, George, Costanza, Elaine Benes, morty, Larry David">
+		<title>Seinology.com :: Scripts :: 114-The Wink</title>
+	<link rel='stylesheet' href='/stylesheet.css' type='text/css'>
+	</head>
+
+	<body>
+			<table align="center" width="787" border="0" cellspacing="0" cellpadding="0">
+				<tr>
+					<td><font size="-2" color="red">Seinology.com - </font><font size="-3" color="black">Where Seinfeld Content and Accuracy Matter Most. Seinfeld scripts in pdf form, Seinfeld episode video clips, Seinfeld episode audio clips, Jerry Seinfeld appearances, Julia Louis-Dreyfus appearances, Michael Richards appearances, Jason Alexander appearances, Seinfeld discussion Forum, Seinfeld Where are they Now? Seinlanguage Newsletter, Popular Seinfeld Lists, Seinfeld episode standup, Seinfeld episode guide, Seinfeld fan fiction. Seinfeld content all on one domain. Seinology.com enjoy your stay.</font></td>
+				</tr>
+			</table>
+		
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr height="100">
+				<td class="logo"></td>
+			</tr>
+			<tr><td class="ads" align="center" background=#8694fa>
+				<script type="text/javascript"><!--
+google_ad_client = "pub-1924026976931416";
+google_ad_width = 728;
+google_ad_height = 90;
+google_ad_format = "728x90_as";
+google_ad_type = "text";
+google_ad_channel = "";
+google_color_border = "FFFFFF";
+google_color_bg = "8694fa";
+google_color_link = "0000FF";
+google_color_text = "000000";
+google_color_url = "002E3F";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></td></tr>
+		</table>
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr>
+				<td valign="top" width="136">
+					<table width="136" border="0" cellspacing="0" cellpadding="0">
+						<tr height="24">
+							<td class="navigation">
+								<div align="center">
+									
+									<b>Navigation</b></div>
+							</td>
+						</tr>
+						<tr height="199">
+							<td class="spacer1" valign="top" width="136" height="199">
+								<div align="center">
+									<font size="-1"><a href="http://www.seinology.com">Home</a><br>
+										<a href="http://board.seinology.com">Forum</a><br>
+										<a href="http://www.seinology.com/av.shtml">Audio/Video</a><br>
+										<a href="http://www.seinology.com/scripts.shtml">Scripts</a><br>
+										<a href="http://www.seinology.com/survivor.shtml">Survivor</a><br>
+										<a href="http://www.seinology.com/fanfics.shtml">Fan Fiction</a><br>
+										<a href="http://www.seinology.com/gallery/">Gallery</a><br>
+										<a href="http://www.seinology.com/newsletter.shtml">Newsletter</a><br>
+										<a href="http://www.seinology.com/lists.shtml">Lists</a><br>
+										<a href="http://www.seinology.com/epguide.shtml">Episode Guide</a><br>
+										<a href="http://www.seinology.com/links.shtml">Links</a><br>
+										<a href="http://www.seinology.com/faqother.shtml">Faq + others</a><br>
+										<a href="http://www.seinology.com/legal.shtml">Legal</a></font></div>
+							</td>
+						</tr>
+						
+						<tr>
+							<td class="nav2" width="136">
+							<div align="center"><b>Search</b></div></td>
+						</tr>
+						<tr>
+							<td class="spacer1" width="136" valign="top"><div align="center"><form method="get" action="http://www.seinology.com/search/search.cgi">
+<p><label for="fdse_Match">Match</label><br>
+<select name="Match" id="fdse_Match" size="1">
+<option value="1">All</option>
+<option value="0">Any</option>
+<option value="2">Phrase</option>
+</select></p>
+<p><label for="fdse_Realm">Where?</label><br>
+<select name="Realm" id="fdse_Realm" size="1">
+<option selected="selected" value="All">EntireSite</option>
+<option value="Ep Guide">Ep Guide</option>
+<option value="Images">Images</option>
+<option value="Lists">Lists</option>
+<option value="Newsletters">Newsletters</option>
+<option value="Scripts">Scripts</option>
+<option value="Notes..Nothing">Notes..Nothing</option>
+</select></p>
+<p><input type="text" name="Terms" size="14" id="fdse_Terms"><br>
+<input type="submit" class="submit" name="submitButtonName" value="Search"></p>
+</div></form></td>
+						</tr>
+						<tr><td class="bottom" width="136" height="10" valign="top">
+						</td>
+						</tr>
+					</table>
+				</td>
+				<td width="4"></td>
+				<td valign="top" width="645">
+					<table width="645" border="0" cellspacing="0" cellpadding="0">
+						<tr height="18">
+							<td width="645" height="35" class="bar">
+								<div align="center">
+									<b><font size="+2" color="black">Script</font></b></div>
+							</td>
+						</tr>
+						<tr height="362">
+							<td class="spacer2" valign="top" width="645" height="362">
+
+						<p><font size="-2">Episode 114 - The Wink<br>
+							
+						pc: 704, season 7, episode 4<br>
+							
+						Broadcast date: October 12, 1995<br>
+							<br>
+							
+						Written by Tom Gammill &amp; Max Pross<br>
+							
+						Directed by Andy Ackerman<br>
+							<br>
+							
+						-------------------------------------------------------------------------------<br>
+							<br>
+							
+						The Cast<br>
+							
+						Regulars:<br>
+							
+						Jerry Seinfeld .......................&nbsp; Jerry Seinfeld<br>
+							
+						Jason Alexander ..................&nbsp; George Costanza<br>
+							
+						Julia Louis-Dreyfus ..............&nbsp; Elaine Benes<br>
+							
+						Michael Richards ..................&nbsp; Cosmo Kramer<br>
+							<br>
+							
+						Guest Stars:<br>
+							<br>
+							
+						Tom Wright ......................... Mr. Morgan<br>
+							
+						Stacey Travis ....................... Holly<br>
+							
+						Brian McNamara ................. James<br>
+							
+						Ian Patrick Williams ............. Stubs<br>
+							
+						Paul O'Neill ......................... Himself<br>
+							
+						Thomas Dekker .................. Bobby<br>
+							
+						Clive Rosengren .................. Waiter<br>
+							
+						Larry David..........................Voice of George Steinbrenner<br>
+							
+						rc: Richard Herd ................. Wilhelm<br>
+							<br>
+							
+						==================================================================<br>
+							<br>
+							
+						[Elaine's bedroom - phone rings]<br>
+							<br>
+							
+						ELAINE: Hello<br>
+							<br>
+							
+						JAMES: This is your wake up service. It's 7:15<br>
+							<br>
+							
+						ELAINE: Oh, god. OH, I could use a few more hours sleep.<br>
+							<br>
+							
+						JAMES: Hot date last night?<br>
+							<br>
+							
+						ELAINE: I wish.<br>
+							<br>
+							
+						JAMES: A woman with a sexy voice like yours its hard to believe your waking up alone.<br>
+							<br>
+							
+						ELAINE: Really? Thank you., wake up service . . . person.<br>
+							<br>
+							
+						JAMES: Call me James.<br>
+							<br>
+							
+						ELAINE: Oh, all right, James. He he he<br>
+							<br>
+							<br>
+							<br>
+							
+						[Monks]<br>
+							<br>
+							
+						GEORGE: Your wake up guy asked you out?<br>
+							<br>
+							
+						ELAINE: Yeah, I've never seen him but I feel like we have this weirdly intimate relationship. I mean, I'm lying in bed, I'm wearing my nightie,<br>
+							<br>
+							
+						JERRY: I don't know. Blind date?<br>
+							<br>
+							
+						ELAINE: What? You're going to go out with my cousin Holly. You've never met her.<br>
+							<br>
+							
+						JERRY: Yeah, but I've seen pictures of her.<br>
+							<br>
+							
+						ELAINE: At least I've spoken to my guy. You're going out on a deaf date.<br>
+							<br>
+							
+						JERRY: I think I'd rather go out on a deaf date than a blind date. The question is whether you'd rather date the blind or the deaf.<br>
+							<br>
+							
+						ELAINE: Ah, . . .<br>
+							<br>
+							
+						GEORGE: Now you're off on a topic.<br>
+							<br>
+							
+						JERRY: You know, I think, I would rather date the deaf.<br>
+							<br>
+							
+						ELAINE: Uh hu.<br>
+							<br>
+							
+						JERRY: Because I think the blind would probably be a little messier around the house. And lets face it they're not going to get all the crumbs. I'd possibly be walking around with a sponge.<br>
+							<br>
+							
+						GEORGE: You see I disagree. I'd rather be dating the blind. You know you could let the house go. You could let yourself go. A good looking blind woman doesn't even know you're not good enough for her.<br>
+							<br>
+							
+						ELAINE: I think she'd figure it out.<br>
+							<br>
+							
+						(waitress places plates on the table)<br>
+							<br>
+							
+						ELAINE: What? What is this?<br>
+							<br>
+							
+						JERRY: Veggie sandwich and a grapefruit.<br>
+							<br>
+							
+						ELAINE: Veggie sandwich and a grapefruit? What are you turning into?<br>
+							<br>
+							
+						JERRY: A healthy person.<br>
+							<br>
+							
+						GEORGE: ( rubbing his eye) Ow, Ow you squirted me.<br>
+							<br>
+							
+						JERRY: Oh, sorry<br>
+							<br>
+							
+						GEORGE: Boy, it stings.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Yankee Stadium]<br>
+							<br>
+							
+						WILHELM: George, have you seen Morgan?<br>
+							<br>
+							
+						GEORGE: No.<br>
+							<br>
+							
+						WILHELM: He's been coming in late all week. Is there something wrong?<br>
+							<br>
+							
+						GEORGE: No, not that I know of. (winks)<br>
+							<br>
+							
+						WILHELM: Really? Make sure he signs this. Oh, look George, if there's a problem with Morgan you can tell me.<br>
+							<br>
+							
+						GEORGE: Morgan? No. He's doing a great job. (winks)<br>
+							<br>
+							
+						WILHELM: I understand.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Jerry's apartment]<br>
+							<br>
+							
+						JERRY: I still can't believe, you're going out on a blind date.<br>
+							<br>
+							
+						ELAINE: I'm not worried. It sounds like he's really good looking.<br>
+							<br>
+							
+						JERRY: You're going by sound? What are we? Whales?<br>
+							<br>
+							
+						ELAINE: I think I can tell.<br>
+							<br>
+							
+						JERRY: Elaine, what percentage of people would you say are good looking?<br>
+							<br>
+							
+						ELAINE: Twenty-five percent.<br>
+							<br>
+							
+						JERRY: Twenty-five percent, you say? No way! It's like 4 to 6 percent. It's a twenty to one shot.<br>
+							<br>
+							
+						ELAINE: You're way off.<br>
+							<br>
+							
+						JERRY: Way off? Have you been to the motor vehicle bureau? It's like a leper colony down there.<br>
+							<br>
+							
+						ELAINE: So what you are saying is that 90 to 95 percent of the population is undateable?<br>
+							<br>
+							
+						JERRY: UNDATEABLE!<br>
+							<br>
+							
+						ELAINE: Then how are all these people getting together?<br>
+							<br>
+							
+						JERRY: Alcohol.<br>
+							<br>
+							
+						ELAINE: (to George who is winking) What is your problem?<br>
+							<br>
+							
+						GEORGE: No problem here.<br>
+							<br>
+							
+						ELAINE: You keep winking at me. That's really obnoxious.<br>
+							<br>
+							
+						GEORGE: I had no idea.<br>
+							<br>
+							
+						ELAINE: Right there. Right there. You just did it again.<br>
+							<br>
+							
+						GEORGE: Wait a minute. Wait a minute. It's from that grapefruit that Jerry squirted at me.<br>
+							<br>
+							
+						ELAINE: You're eye still hurts?<br>
+							<br>
+							
+						GEORGE: Yeah, yeah. You must have squirted a piece of pulp in it too.<br>
+							<br>
+							
+						JERRY: Pulp couldn't make it across the table.<br>
+							<br>
+							
+						GEORGE: Pulp can move, Baby! Why didn't you eat a real breakfast?<br>
+							<br>
+							
+						JERRY: Hey, I eat healthy. If I have to take out an eye, that's the breaks.<br>
+							<br>
+							
+						GEORGE: Wait a minute. I must have been winking down at the office. That's why Mr. Wilhelm was acting so mysteriouso.<br>
+							<br>
+							
+						ELAINE: What did he think, you were flirtin' with him?<br>
+							<br>
+							
+						GEORGE: Hu, oh. No he thought I was hiding something from him about Morgan.<br>
+							<br>
+							
+						(Kramer enters)<br>
+							<br>
+							
+						KRAMER: Hi guys.<br>
+							<br>
+							
+						JERRY: Hi,<br>
+							<br>
+							
+						KRAMER: Hello Archie, Veronica, Mr. Weatherbee. . . . Is this Don Matingly's signature?<br>
+							<br>
+							
+						GEORGE: Yeah.<br>
+							<br>
+							
+						KRAMER: And Buck Showalter's?<br>
+							<br>
+							
+						GEORGE: It's an inter-office envelope. It get passed around all over the office.<br>
+							<br>
+							
+						KRAMER: Um, can I show this to my buddy Stubbs . He runs a sports memorabilia store. He pays top dollar for pro autographs.<br>
+							<br>
+							
+						GEORGE: Yeah, like I'm going to risk my job with the New York Yankees to make a few extra bucks. (winks)<br>
+							<br>
+							
+						KRAMER: No, of course not. (winks back)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Sports Memorabilia Shop]<br>
+							<br>
+							
+						KRAMER: You know, you see Don Matingly signed this envelope then he sent it to room 318, where it was received and signed for by manager Buck Showalter.<br>
+							<br>
+							
+						STEINBRENNER: I don't know. An envelope doesn't really cut it.<br>
+							<br>
+							
+						KRAMER: Why?<br>
+							<br>
+							
+						STEINBRENNER: What is this? A birthday card. Ha ha . . . signed by the ENTIRE Yankee organization! . . . This could be worth something.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Yankee Stadium]<br>
+							<br>
+							
+						GEORGE: Is that the lovely Mrs. Morgan?<br>
+							<br>
+							
+						MORGAN: Hello.<br>
+							<br>
+							
+						MORGAN: Oh, by the way, have you got that birthday card?<br>
+							<br>
+							
+						GEORGE: Birthday card?<br>
+							<br>
+							
+						MORGAN: Mr. Steinbrenner's birthday card. Wilhem said you had it for me to sign.<br>
+							<br>
+							
+						GEORGE: Oh ah, I uh, will have that for you by after lunch.<br>
+							<br>
+							
+						MORGAN: Fine. I'll be back after my massage.<br>
+							<br>
+							
+						GEORGE: Of course. Your massage. (winks) Enjoy your massage. (winks)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Monk's - Elaine sitting alone]<br>
+							<br>
+							
+						ELAINE: Hello.<br>
+							<br>
+							
+						James: Elaine?<br>
+							<br>
+							
+						ELAINE: James! Ah, ha, Hello! Phew!<br>
+							<br>
+							<br>
+							<br>
+							
+						[Old Homestead Steak House]<br>
+							<br>
+							
+						HOLLY: I can't believe you've never taken anybody here before.<br>
+							<br>
+							
+						JERRY: Well, I'm not really that much of a meat eater.<br>
+							<br>
+							
+						HOLLY: . . . You don't eat meat? Are you one of those. . .<br>
+							<br>
+							
+						JERRY: Well, no, I'm not one of those.<br>
+							<br>
+							
+						HOLLY: When we were little girls Grandma Memma would take us to a matinee and then dinner here.<br>
+							<br>
+							
+						JERRY: Grandma Memma?<br>
+							<br>
+							
+						HOLLY: Elaine must have mentioned Grandma Memma.<br>
+							<br>
+							
+						JERRY: No, I think I would have remembered Memma.<br>
+							<br>
+							
+						HOLLY: Oh well, that's typical. Elaine never liked Grandma Memma.<br>
+							<br>
+							
+						WAITER: Ready?<br>
+							<br>
+							
+						HOLLY: I'll have the porterhouse medium rare, baked potato with sour cream,<br>
+							<br>
+							
+						JERRY: What do you recommend besides the steak?<br>
+							<br>
+							
+						WAITER: The lamb chops are good.<br>
+							<br>
+							
+						JERRY: Anything lighter? How do you prepare the chicken?<br>
+							<br>
+							
+						WAITER: It's a full bird. Stuffed with ham, topped with gorganzola.<br>
+							<br>
+							
+						JERRY: You know what? I think I'll just have the salad.<br>
+							<br>
+							
+						WAITER: . . . Thank you.<br>
+							<br>
+							
+						JERRY: (mind's voice) Just a salad? Just a salad? Just a salad?<br>
+							<br>
+							<br>
+							<br>
+							
+						[Outside of Monk's - James unties his dogs]<br>
+							<br>
+							
+						JAMES: Hey you, hey you.<br>
+							<br>
+							
+						ELAINE: Oh, uh, ha, you've got dogs?<br>
+							<br>
+							
+						JAMES: Yeah, you know, when you live alone, you're dogs are all you have. Do you like dogs?<br>
+							<br>
+							
+						ELAINE: (mind's voice from - &#133; ) SHUT UP! YOU STUPID LITTLE MUT !<br>
+							<br>
+							
+						ELAINE: Dogs. Oh I love dogs.<br>
+							<br>
+							
+						JAMES: Boys, this is Elaine. . . . Sorry, they're usually very friendly. Hey!<br>
+							<br>
+							<br>
+							<br>
+							
+						[Yankee Stadium]<br>
+							<br>
+							
+						GEORGE: Hey, Mr. Morgan how was your massage?<br>
+							<br>
+							
+						MORGAN: I had to cancel it. For some reason my wife got it into her head that it was more than just a massage.<br>
+							<br>
+							
+						GEORGE: Really?<br>
+							<br>
+							
+						MORGAN: Yeah, we had this big fight at lunch it looks like tonight I will be sleeping on the couch.<br>
+							<br>
+							
+						GEORGE: Hey, listen don't oversleep. You can't afford to be late again.<br>
+							<br>
+							
+						MORGAN: I know. Somebody around here has been giving Wilhelm the impression that I have been slacking off.<br>
+							<br>
+							
+						GEORGE: Geez, Hey you know something, you should try my friend's wake up service. She swears by this thing.<br>
+							<br>
+							
+						MORGAN: Costanza, you may be my only friend around here. By the way, you got that birthday card?<br>
+							<br>
+							
+						GEORGE: Ah, not yet.<br>
+							<br>
+							
+						MORGAN: Just make sure Steinbrenner doesn't get it until I sign it.<br>
+							<br>
+							
+						GEORGE: Yes sir!<br>
+							<br>
+							<br>
+							<br>
+							
+						[Jerry's apartment]<br>
+							<br>
+							
+						ELAINE: I just don't understand it as soon as I met these dogs they started growling at me.<br>
+							<br>
+							
+						JERRY: Maybe his dogs heard about how you tried to kidnap that other dog. These muts like to gossip. So have you talked too Holly?<br>
+							<br>
+							
+						ELAINE: Huh huh.<br>
+							<br>
+							
+						JERRY: Did she mention anything about our lunch?<br>
+							<br>
+							
+						ELAINE: Uh, kind of.<br>
+							<br>
+							
+						JERRY: What do you mean, &quot;kind of.&quot;?<br>
+							<br>
+							
+						ELAINE: I mean, she thought it was kind of strange to just order a salad. . . . You know. . . . For a man.<br>
+							<br>
+							
+						JERRY: What are you saying? . . . Salad! What was I thinking? Women don't respect salad eaters.<br>
+							<br>
+							
+						ELAINE: You got that right.<br>
+							<br>
+							
+						JERRY: But you're going over there for dinner tonight, right?<br>
+							<br>
+							
+						ELAINE: Um uh.<br>
+							<br>
+							
+						JERRY: What is she making?<br>
+							<br>
+							
+						ELAINE: I don't know. But I'm sure it had, . . . parents. Call her up. She won't mind if you come.<br>
+							<br>
+							
+						JERRY: Oh, don't worry. I'll be there and I'll be packing an artery.<br>
+							<br>
+							
+						(Kramer's door - George knocks)<br>
+							<br>
+							
+						KRAMER: Ah, Mr. Weatherbee.<br>
+							<br>
+							
+						GEORGE: You got the Yankee envelope?<br>
+							<br>
+							
+						KRAMER: Sure do.<br>
+							<br>
+							
+						GEORGE: oh,<br>
+							<br>
+							
+						KRAMER: Here you go.<br>
+							<br>
+							
+						GEORGE: Hey, he,<br>
+							<br>
+							
+						KRAMER: You'll be pleased to see what's inside.<br>
+							<br>
+							
+						GEORGE: What is this?<br>
+							<br>
+							
+						KRAMER: You're cut of the loot. Stubs gave me 200 dollars for the autographed birthday card that was inside.<br>
+							<br>
+							
+						GEORGE: Who told you to sell the card?<br>
+							<br>
+							
+						KRAMER: You did.<br>
+							<br>
+							
+						GEORGE: No I didn't!<br>
+							<br>
+							
+						KRAMER: No, not in so many words but I believe we had an understanding. (winks)<br>
+							<br>
+							
+						GEORGE: I was not winking you idiot. That was the grapefruit. It's like acid. I need that card back. It's Mr. Steinbrenner's. I was responsible.<br>
+							<br>
+							
+						KRAMER: Well Stubs has already sold it to some guy who's kid's in the hospital .<br>
+							<br>
+							
+						GEORGE: Well get it back! It's very important. (winks)<br>
+							<br>
+							
+						KRAMER: Look, do you want me to get it back or not?<br>
+							<br>
+							
+						GEORGE: (holds eyes wide open) Get it back!<br>
+							<br>
+							<br>
+							<br>
+							
+						[Holly's apartment]<br>
+							<br>
+							
+						ELAINE: Such a lovely table setting. Oh, wear did you get these napkins?<br>
+							<br>
+							
+						HOLLY: They're grandma Memma's.<br>
+							<br>
+							
+						ELAINE: Oh, I don't remember them.<br>
+							<br>
+							
+						HOLLY: Oh, you wouldn't. She only used them on special occasions.<br>
+							<br>
+							
+						ELAINE: Special occassions? It wasn't special when my family visited?<br>
+							<br>
+							
+						HOLLY: Everybody like mutton?<br>
+							<br>
+							
+						JERRY: Um, mutton! Hope you didn't cut the fat off.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Hospital room]<br>
+							<br>
+							
+						KRAMER: That you Bobby?<br>
+							<br>
+							
+						BOBBY: huh<br>
+							<br>
+							
+						KRAMER: Well, I heard that you have a very uh, special birthday card .with all the Yankee autographs on it.<br>
+							<br>
+							
+						BOBBY: Sure do. Mister.<br>
+							<br>
+							
+						KRAMER: Oh, that's it, yeah. Boy, Stubs sure went to town with this thing huh? Yeah, well, Bobby, uh, what if I told you a very important person at the New York Yankees needed this card back.<br>
+							<br>
+							
+						BOBBY: Oh, no. I'd never part with this card for anything in the world.<br>
+							<br>
+							
+						KRAMER: Well, uh, Bobby, uh, who's your favorite Yankee.<br>
+							<br>
+							
+						BOBBY: Paul O'Neill.<br>
+							<br>
+							
+						KRAMER: All right. What if I tell Paul O'Neill to hit a home run tomorrow, just for you.<br>
+							<br>
+							
+						BOBBY: Would he? Paul O'Neill would do that?<br>
+							<br>
+							
+						KRAMER: For you he would.<br>
+							<br>
+							
+						BOBBY: Would he hit two home runs?<br>
+							<br>
+							
+						KRAMER: Two? Sure kid, yeah. But then you gotta promise you'll do something for me.<br>
+							<br>
+							
+						BOBBY: I know. Get out of this bed one day and walk again.<br>
+							<br>
+							
+						KRAMER: Yeah, that would be nice. But I really just need this card.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Holly's apartment]<br>
+							<br>
+							
+						ELAINE: What about this candelabra?<br>
+							<br>
+							
+						HOLLY: Yeah, that was grandma Memma's also. She bought it on her trip to Europe in 1936. Jerry, I'm thrilled you like my mutton. I was afrais you only ate . . . salad.<br>
+							<br>
+							
+						JERRY: Hey, salad's got nothin' on this mutton.<br>
+							<br>
+							
+						HOLLY: That is so funny. Did you just make that up?<br>
+							<br>
+							
+						JERRY: I wish I could take credit for it. It's actually the line my butcher uses when we're chewing the fat. How about that beautiful desk over there? (hides meat in napkin in jacket)<br>
+							<br>
+							
+						HOLLY: That was in Grandma's study.<br>
+							<br>
+							
+						ELAINE: What did you do, ransack the place after she died?<br>
+							<br>
+							
+						JERRY: This is some FINE mutton.<br>
+							<br>
+							
+						ELAINE: I'm getting out of here. Can I borrow your jacket?<br>
+							<br>
+							
+						JERRY: Uh, well, uh the thing is that . . . (Jerry grabs jacket back)<br>
+							<br>
+							
+						ELAINE: It's cold out, and I didn't bring my own. Jerry! God forbid I should borrow one from Holly. It might have belonged to grandma Memma. Thanks for mutton.<br>
+							<br>
+							<br>
+							<br>
+							
+						[On the street - dogs following Elaine]<br>
+							<br>
+							
+						ELAINE: Down boy, nice doggy . I'm a nice person. Don't believe what you hear.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Holly's]<br>
+							<br>
+							
+						HOLLY: Where are the napkins?<br>
+							<br>
+							
+						JERRY: What?<br>
+							<br>
+							
+						HOLLY: Grandma Memma's napkins. There's two missing. Elaine took them didn't she?<br>
+							<br>
+							
+						JERRY: I don't know about that. Have you got any floss?<br>
+							<br>
+							
+						HOLLY: You heard her. She coveted them. I bet she took them just to spite me. She's probably having a good laugh about it right now.<br>
+							<br>
+							<br>
+							<br>
+							
+						[On the street dogs chasing Elaine]<br>
+							<br>
+							
+						ELAINE: Down doggy . oh oh a a a a a<br>
+							<br>
+							<br>
+							<br>
+							
+						[James' apartment]<br>
+							<br>
+							
+						JERRY: Elaine, what are you doing in this neighborhood?<br>
+							<br>
+							
+						ELAINE: Did you do with the dogs?<br>
+							<br>
+							
+						JERRY: Yeah, they're in the kitchen. . . . okay, quite! What's going on?<br>
+							<br>
+							
+						ELAINE: These dogs were chasing me. And no cab would stop and I had to get off the street. Then I remembered that you lived here.<br>
+							<br>
+							
+						JERRY: Why were dogs chasing you?<br>
+							<br>
+							
+						ELAINE: They just don't like me. It's a long story. I can tell you one day but I can't tell you right now.<br>
+							<br>
+							
+						JERRY: I would askk you to stay tonight but I only have the sofa bed and it's where I sleep.<br>
+							<br>
+							
+						ELAINE: We'll have to sleep head to toe.<br>
+							<br>
+							
+						JERRY: Head to toe?<br>
+							<br>
+							
+						ELAINE: Head to toe.<br>
+							<br>
+							<br>
+							<br>
+							
+						[The next morning at James']<br>
+							<br>
+							
+						ELAINE: Hey, wake up. It's 8:30 you were supposed to walk me up at 7:15.<br>
+							<br>
+							
+						JERRY: I'm sorry I didn't get any sleep you kept kicking me in the face.<br>
+							<br>
+							
+						ELAINE: You're a wake up guy. Don't you have calls to make?<br>
+							<br>
+							
+						JERRY: I'll make them later. Uh.<br>
+							<br>
+							
+						(Mr. Morgan's - he's asleep on the couch)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Yankee Stadium - George's office]<br>
+							<br>
+							
+						WILHELM: Have you seen Morgan?<br>
+							<br>
+							
+						GEORGE: He's not here?<br>
+							<br>
+							
+						WILHELM: No, He's late.<br>
+							<br>
+							
+						GEORGE: It's impossible. I got him a wake up service.<br>
+							<br>
+							
+						WILHELM: Now, George, you don't have to cover for him any more. He's going to be gone soon and I'm going to recommend you for his job.<br>
+							<br>
+							
+						GEORGE: . . . gone?<br>
+							<br>
+							<br>
+							<br>
+							
+						[Monk's]<br>
+							<br>
+							
+						JERRY: It sounds like all the winking got you a promotion.<br>
+							<br>
+							
+						GEORGE: I don't want Morgan's job. He's got a lot of work to do. Hey, Elaine, your friend never woke up Mr. Morgan.<br>
+							<br>
+							
+						ELAINE: Nah, he was tired. He had some feet in his face. My cousin Holly is completely insane. She keeps calling and accusing me of stealing her napkins.<br>
+							<br>
+							
+						GEORGE: Napkins?<br>
+							<br>
+							
+						ELAINE: I mean, why? Why would I take her stupid napkins.<br>
+							<br>
+							
+						JERRY: Because they were in the pockets of my jacket.<br>
+							<br>
+							
+						ELAINE: They were?<br>
+							<br>
+							
+						JERRY: Yes. I was using them to spit out the mutton.<br>
+							<br>
+							
+						ELAINE: Spit it out? I had dogs chasing me for that mutton. I was almost mauled because of that mutton.<br>
+							<br>
+							
+						GEORGE: What exactly is mutton?<br>
+							<br>
+							
+						JERRY: I don't know and I didn't want to find out. So where is my jacket?<br>
+							<br>
+							
+						ELAINE: Oh, I must have left it at Jame's<br>
+							<br>
+							
+						JERRY: You spent the night at James's? Did we?<br>
+							<br>
+							
+						ELAINE: Yeah but we reversed positions so there was no funny business.<br>
+							<br>
+							
+						JERRY: Reversed positions?<br>
+							<br>
+							
+						ELAINE: Yeah, you know, head to toe.<br>
+							<br>
+							
+						JERRY: So what your genitals are still lined up.<br>
+							<br>
+							
+						ELAINE: No, because I slept with my back to him.<br>
+							<br>
+							
+						(long pause - no comment from the guys)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Yankee Stadium]<br>
+							<br>
+							
+						KRAMER: Mr. O'Neill?<br>
+							<br>
+							
+						O'NEILL: Yeah.<br>
+							<br>
+							
+						KRAMER: Yeah, uh, look, you don't know me.<br>
+							<br>
+							
+						O'NEILL: I can give you an autograph there, but my pen's kind of screwed up. You'd only like half a &quot;P&quot; or something.<br>
+							<br>
+							
+						KRAMER: No, it's uh, not that see,. It's about a little boy in a hospital. I was wondering if you could do something to lift his spirits.<br>
+							<br>
+							
+						O'NEILL: Sure, I could help you there.<br>
+							<br>
+							
+						KRAMER: Sure, well I promised you would hit him two home runs.<br>
+							<br>
+							
+						O'NEILL: Say what?<br>
+							<br>
+							
+						KRAMER: You know, Klick!. A couple of dingers.<br>
+							<br>
+							
+						O'NEILL: You promised a kid in the hospital that I would hit two home runs?<br>
+							<br>
+							
+						KRAMER: Yeah, well, no good?<br>
+							<br>
+							
+						O'NEILL: Yeah. That's no good. It's terrible. You don't hit home runs like that. It's hard to hit home runs. And where the heck did you get two from?<br>
+							<br>
+							
+						KRAMER: Two is better than one.<br>
+							<br>
+							
+						O'NEILL: That, that's ridiculous. I'm not a home run hitter.<br>
+							<br>
+							
+						KRAMER: Well, Babe Ruth did it.<br>
+							<br>
+							
+						O'NEILL: He did not.<br>
+							<br>
+							
+						KRAMER: Oh, do you say that Babe Ruth is a liar?<br>
+							<br>
+							
+						O'NEILL: I'm not calling him a liar but he was not stupid enough to promise two.<br>
+							<br>
+							
+						KRAMER: Well, maybe I did overextend myself.<br>
+							<br>
+							
+						O'NEILL: How the heck did you get in here anyway?<br>
+							<br>
+							<br>
+							<br>
+							
+						[James']<br>
+							<br>
+							
+						JAMES: (on phone) Oh, hi Elaine. You know I lost all of my 6:30 clients because of you. . . . Yeah, well why did you have to stick your feet in my face? . . . Yes, I have the jacket. Hold on. . . . (to dogs) Fellas!<br>
+							<br>
+							<br>
+							<br>
+							
+						[Hospital]<br>
+							<br>
+							
+						TV: The Yankees take the field on a beautiful afternoon.<br>
+							<br>
+							
+						KRAMER: It's hot in here. Hey, Bobby, can I have some of your juice?<br>
+							<br>
+							
+						BOBBY: After Paul O'Neill hits his first home run.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Jerry's]<br>
+							<br>
+							
+						HOLLY: (from buzzer) It's Holly.<br>
+							<br>
+							
+						JERRY: Yeah. Come on up.<br>
+							<br>
+							
+						TV: And the two and one pitch to O'Neill. A towering shot back to deep right field and it's gone.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Hospital]<br>
+							<br>
+							
+						KRAMER: Yeah.<br>
+							<br>
+							
+						TV: A home run for Paul O'Neill. The Yanks lead one nothing.<br>
+							<br>
+							
+						KRAMER: OH YEAH! ALL RIGHT!<br>
+							<br>
+							
+						BOBBY: One more to go.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Jerry's]<br>
+							<br>
+							
+						(Holly enters)<br>
+							<br>
+							
+						JERRY: Hey. What's all this?<br>
+							<br>
+							
+						HOLLY: I decided I was going to make you dinner.<br>
+							<br>
+							
+						JERRY: I thought we were going out.<br>
+							<br>
+							
+						HOLLY: Well, after you scarfed up my mutton I had the irresistible urge to make pork chops for you. I said hello to Franco for you.<br>
+							<br>
+							
+						JERRY: Franco?<br>
+							<br>
+							
+						HOLLY: Your butcher, down the street.<br>
+							<br>
+							
+						JERRY: I bet he acted aloof like he didn't know me.<br>
+							<br>
+							
+						HOLLY: A little.<br>
+							<br>
+							
+						JERRY: That is so Franco.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Hospital]<br>
+							<br>
+							
+						TV: Bottom of the eighth, score tied at one apiece. Two and one to Paul O'Neill.<br>
+							<br>
+							
+						KRAMER: You know Bobby, it's very very hard to hit two home runs in one game. Even for Paul O'Neill.<br>
+							<br>
+							
+						KRAMER: He can do it, Mr. Kramer. I know he can. He'll do it for me.<br>
+							<br>
+							
+						TV: &quot;Klick! Long fly ball into deep left field over Bell's head . . . O'Neill's rounding second O'Neill going for third, O'Neill rounding . . .<br>
+							<br>
+							
+						KRAMER: Come on Come on!<br>
+							<br>
+							
+						TV: . . . third being waived in.<br>
+							<br>
+							
+						KRAMER: GO! GO!!<br>
+							<br>
+							
+						TV: . . . Martinez throws it over Alomar's head. O'Neill is safe at home. And the Yankees take the lead.<br>
+							<br>
+							
+						KRAMER: An In The Park Home Run!<br>
+							<br>
+							
+						BOBBY: Yeay!<br>
+							<br>
+							
+						KRAMER: All Right! Yeah, well, I guess I'll be on my way (grabs framed card)<br>
+							<br>
+							
+						TV: That's being scored a triple for Paul O'Neill with a throwing error charged to Martinez.<br>
+							<br>
+							
+						BOBBY: Hey, &#133;<br>
+							<br>
+							
+						KRAMER: Huh?<br>
+							<br>
+							
+						BOBBY: &#133; that's not a home run. (grabs frame)<br>
+							<br>
+							
+						KRAMER: Yeah, maybe not technically, but &#133;<br>
+							<br>
+							
+						BOBBY: You said he'd hit two home runs.<br>
+							<br>
+							
+						KRAMER: Oh, come on. Bobby, Bobby! That's just as good!<br>
+							<br>
+							
+						BOBBY: Well, you're not taking that card.<br>
+							<br>
+							
+						KRAMER: Now, Bobby, Bobby, we had a deal . . . gimme that &#133;<br>
+							<br>
+							<br>
+							<br>
+							
+						[Jerry's]<br>
+							<br>
+							
+						HOLLY: So, is the chop the way you like it?<br>
+							<br>
+							
+						JERRY: I usually like mine with an angioplasty.<br>
+							<br>
+							
+						(stuffs meat in sofa)<br>
+							<br>
+							
+						(Elaine enters)<br>
+							<br>
+							
+						ELAINE: You know something really stinks to high h&#133; Holly! What are you doing here?<br>
+							<br>
+							
+						JERRY: What everyone does here. - Cooking pork chops.<br>
+							<br>
+							
+						ELAINE: I'm uh, I'm meeting James here. He's bringing over your jacket.<br>
+							<br>
+							
+						HOLLY: What about the napkins?<br>
+							<br>
+							
+						ELAINE: I didn't take your napkins.<br>
+							<br>
+							
+						HOLLY: Then who did?<br>
+							<br>
+							
+						ELAINE: Ask Jerry.<br>
+							<br>
+							
+						JERRY: We could argue all night over who took the napkins. The point is in today's modern world it just doesn't seem relevant.<br>
+							<br>
+							<br>
+							<br>
+							
+						[George's office, Yankee Stadium]<br>
+							<br>
+							
+						WILHELM: I still want to know what happened to that birthday card? Now, Morgan, did you ever sign it?<br>
+							<br>
+							
+						MORGAN: No sir, George never gave it to me.<br>
+							<br>
+							
+						GEORGE: No, that's right, I didn't. I take full responsibility for the card not being here. I, uh, . . .<br>
+							<br>
+							
+						(Kramer enters)<br>
+							<br>
+							
+						KRAMER: Hi,<br>
+							<br>
+							
+						WILHELM: What's this?<br>
+							
+						KRAMER: Oh, it's a birthday card.<br>
+							<br>
+							
+						KRAMER: (to George) Oh, by the way, tomorrow night, Paull O'Neill has to catch a fly ball in his hat.<br>
+							<br>
+							
+						WILHELM: George, this is beautiful. Why didn't you tell me you were going to have it mounted like this?<br>
+							<br>
+							
+						KRAMER: And you were probably just going to stick it in an envelope.<br>
+							<br>
+							
+						WILHELM: Ha ha ha ha ha, George, keep up the good work.<br>
+							<br>
+							
+						MORGAN: Ha ha, uh, well you screwed me again, Costanza. How am I supposed to sign the card now when it's already under glass?<br>
+							<br>
+							<br>
+							<br>
+							
+						[Jerry's]<br>
+							<br>
+							
+						(James enters with his dogs)<br>
+							<br>
+							
+						ELAINE: Uh, this is,&#133;<br>
+							<br>
+							
+						HOLLY: Excuse me. What are those dogs wearing?<br>
+							<br>
+							
+						JAMES: Oh, bandanas, aren't they cute?<br>
+							<br>
+							
+						HOLLY: You gave Memma's napkins to some dogs?!<br>
+							<br>
+							
+						JERRY: Hey, what happened to my jacket?<br>
+							<br>
+							
+						JAMES: Oh, the dogs did that but it wasn't their fault, somebody stuffed some strange meat in the pocket.<br>
+							<br>
+							
+						HOLLY: Was it mutton?<br>
+							<br>
+							
+						JAMES: Could have been.<br>
+							<br>
+							
+						HOLLY: Do you always stuff meat in your pocket?<br>
+							<br>
+							
+						(Dogs climbing on sofa)<br>
+							<br>
+							
+						JERRY: Uh, sometimes I use the sofa.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Steinbrenner's office]<br>
+							<br>
+							
+						(George enters)<br>
+							<br>
+							
+						GEORGE: You wanted to see me, Mr. Steinbrenner?<br>
+							<br>
+							
+						STEINBRENNER: Yes, George, please, come in, come in.<br>
+							<br>
+							
+						STEINBRENNER: Thanks for the card. I loved it. Gosh it made me feel good. You know, word has it that you were the brains behind the whole thing.<br>
+							<br>
+							
+						GEORGE: Oh, no, not just me, the whole organization. Especially Mr. Morgan.<br>
+							<br>
+							
+						STEINBRENNER: Morgan, Morgan, you know his name is conspicuously absent from this card. Almost like he went out of his way not to sign it.<br>
+							<br>
+							
+						GEORGE: Oh no, Morgan is a good man sir.<br>
+							<br>
+							
+						STEINBRENNER: You can stop kowtowing to Morgan. Congratulations, you got his job.<br>
+							<br>
+							
+						GEORGE: Wa, uh, thank you sir, you know I am not quite sure I'm right for it.<br>
+							<br>
+							
+						STEINBRENNER: Stop it George, he's out, you're in.<br>
+							<br>
+							
+						STEINBRENNER: A lot more work you know.<br>
+							<br>
+							
+						GEORGE: I know.<br>
+							<br>
+							
+						STEINBRENNER: A lot more responsibility. Long long hours.<br>
+							<br>
+							
+						GEORGE: I know.<br>
+							<br>
+							
+						STEINBRENNER: Not much more money. But you'll finally get the recognition you deserve.<br>
+							<br>
+							
+						GEORGE: That's what I'm afraid of. You know Mr. Steinbrenner, . . .<br>
+							<br>
+							
+						STEINBRENNER: You know as painfull as it is I had to let a few people go over the years. Yogi Berra, Lou Pinella, Bucky Dent, Billy Martin, Dallas Green, Dick Houser, Bill Virdon, Billy Martin, Scott Marrow, Billy Martin, Bob Lemmon, Billy Martin, Gene Michael, Buck Showalter, &#133; uh, tut!, . . .George, you didn't hear that from me. (George exits) . . . George!<br>
+							<br>
+							
+						&nbsp;<br>
+							
+						The End</td>
+						</tr>
+						<tr height="6">
+							<td class="bottom2" width="645" height="6"></td>
+						</tr>
+						<tr>
+							<td width="645">
+								<div align="center">
+									<font size="-1">Copyright 2006 seinology.com | All Rights Reserved | Designed by 13erla</font></div>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+		<p></p>
+	</body>
+
+</html>

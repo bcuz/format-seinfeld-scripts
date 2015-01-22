@@ -1,0 +1,1220 @@
+<tdOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+<html>
+
+	<head>
+		<meta http-equiv="content-type" content="text/html;charset=ISO-8859-1">
+		<meta name="description" content="Top Source for Seinfeld">
+		<meta name="keywords" content="seinfeld, sienfeld, Jerry Seinfeld, Julia Louis Dreyfus, Jason Alexander, Michael Richards, Kramer, George, Costanza, Elaine Benes, morty, Larry David">
+		<title>Seinology.com :: Scripts :: 55-The Visa</title>
+	<link rel='stylesheet' href='/stylesheet.css' type='text/css'>
+	</head>
+
+	<body>
+			<table align="center" width="787" border="0" cellspacing="0" cellpadding="0">
+				<tr>
+					<td><font size="-2" color="red">Seinology.com - </font><font size="-3" color="black">Where Seinfeld Content and Accuracy Matter Most. Seinfeld scripts in pdf form, Seinfeld episode video clips, Seinfeld episode audio clips, Jerry Seinfeld appearances, Julia Louis-Dreyfus appearances, Michael Richards appearances, Jason Alexander appearances, Seinfeld discussion Forum, Seinfeld Where are they Now? Seinlanguage Newsletter, Popular Seinfeld Lists, Seinfeld episode standup, Seinfeld episode guide, Seinfeld fan fiction. Seinfeld content all on one domain. Seinology.com enjoy your stay.</font></td>
+				</tr>
+			</table>
+		
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr height="100">
+				<td class="logo"></td>
+			</tr>
+			<tr><td class="ads" align="center" background=#8694fa>
+				<script type="text/javascript"><!--
+google_ad_client = "pub-1924026976931416";
+google_ad_width = 728;
+google_ad_height = 90;
+google_ad_format = "728x90_as";
+google_ad_type = "text";
+google_ad_channel = "";
+google_color_border = "FFFFFF";
+google_color_bg = "8694fa";
+google_color_link = "0000FF";
+google_color_text = "000000";
+google_color_url = "002E3F";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></td></tr>
+		</table>
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr>
+				<td valign="top" width="136">
+					<table width="136" border="0" cellspacing="0" cellpadding="0">
+						<tr height="24">
+							<td class="navigation">
+								<div align="center">
+									
+									<b>Navigation</b></div>
+							</td>
+						</tr>
+						<tr height="199">
+							<td class="spacer1" valign="top" width="136" height="199">
+								<div align="center">
+									<font size="-1"><a href="http://www.seinology.com">Home</a><br>
+										<a href="http://board.seinology.com">Forum</a><br>
+										<a href="http://www.seinology.com/av.shtml">Audio/Video</a><br>
+										<a href="http://www.seinology.com/scripts.shtml">Scripts</a><br>
+										<a href="http://www.seinology.com/survivor.shtml">Survivor</a><br>
+										<a href="http://www.seinology.com/fanfics.shtml">Fan Fiction</a><br>
+										<a href="http://www.seinology.com/gallery/">Gallery</a><br>
+										<a href="http://www.seinology.com/newsletter.shtml">Newsletter</a><br>
+										<a href="http://www.seinology.com/lists.shtml">Lists</a><br>
+										<a href="http://www.seinology.com/epguide.shtml">Episode Guide</a><br>
+										<a href="http://www.seinology.com/links.shtml">Links</a><br>
+										<a href="http://www.seinology.com/faqother.shtml">Faq + others</a><br>
+										<a href="http://www.seinology.com/legal.shtml">Legal</a></font></div>
+							</td>
+						</tr>
+						
+						<tr>
+							<td class="nav2" width="136">
+							<div align="center"><b>Search</b></div></td>
+						</tr>
+						<tr>
+							<td class="spacer1" width="136" valign="top"><div align="center"><form method="get" action="http://www.seinology.com/search/search.cgi">
+<p><label for="fdse_Match">Match</label><br>
+<select name="Match" id="fdse_Match" size="1">
+<option value="1">All</option>
+<option value="0">Any</option>
+<option value="2">Phrase</option>
+</select></p>
+<p><label for="fdse_Realm">Where?</label><br>
+<select name="Realm" id="fdse_Realm" size="1">
+<option selected="selected" value="All">EntireSite</option>
+<option value="Ep Guide">Ep Guide</option>
+<option value="Images">Images</option>
+<option value="Lists">Lists</option>
+<option value="Newsletters">Newsletters</option>
+<option value="Scripts">Scripts</option>
+<option value="Notes..Nothing">Notes..Nothing</option>
+</select></p>
+<p><input type="text" name="Terms" size="14" id="fdse_Terms"><br>
+<input type="submit" class="submit" name="submitButtonName" value="Search"></p>
+</div></form></td>
+						</tr>
+						<tr><td class="bottom" width="136" height="10" valign="top">
+						</td>
+						</tr>
+					</table>
+				</td>
+				<td width="4"></td>
+				<td valign="top" width="645">
+					<table width="645" border="0" cellspacing="0" cellpadding="0">
+						<tr height="18">
+							<td width="645" height="35" class="bar">
+								<div align="center">
+									<b><font size="+2" color="black">Script</font></b></div>
+							</td>
+						</tr>
+						<tr height="362">
+							<td class="spacer2" valign="top" width="645" height="362">
+
+						<p><font size="-2">Episode 55 - The Visa<br>
+							
+						pc: 414, season 4, episode 15<br>
+							
+						Broadcast date: January 27, 1993<br>
+							<br>
+							
+						Written by Peter Mehlman<br>
+							
+						Directed by Tom Cherones<br>
+							<br>
+							
+						-------------------------------------------------------------------------------<br>
+							<br>
+							
+						The Cast<br>
+							
+						Regulars:<br>
+							
+						Jerry Seinfeld ....................... Jerry Seinfeld<br>
+							
+						Jason Alexander .................. George Costanza<br>
+							
+						Julia Louis-Dreyfus ............. Elaine Benes<br>
+							
+						Michael Richards ................. Kramer<br>
+							<br>
+							
+						Guest Stars:<br>
+							<br>
+							
+						Brian George ....................... Babu Bhatt<br>
+							
+						Maggie Han ......................... Cheryl<br>
+							
+						Ping Wu ............................... Ping<br>
+							
+						John Hamelin ....................... Babu's Brother<br>
+							
+						Gerry Bednob ..................... Babu's Friend<br>
+							<br>
+							
+						==================================================================<br>
+							<br>
+							
+						[Opening monologue]<br>
+							<br>
+							
+						What are lawyers, really? To me a lawyer is basically the person that knows the rules of the country. We're all throwing the dice, playing the game, moving our pieces around the board, but if there's a problem, the lawyer is the only person that has read the inside of the top of the box. I think one of the fun things for them is to say, &quot;objection.&quot; &quot;Objection! Objection, your Honor.&quot; Objection, of course, is the adult version of, &quot;Fraid not.&quot; To which the judge can say two things, he can say, &quot;overruled&quot; which is the adult version of &quot;Fraid so,&quot; or he could say, &quot;sustained,&quot; which is the adult version of &quot;Duh.&quot;<br>
+							<br>
+							<br>
+							
+						[George is at the counter at Monk's, he's talking with an Oriental woman.]<br>
+							<br>
+							
+						GEORGE: So you're a lawyer. What kind of cases do you handle?<br>
+							<br>
+							
+						CHERYL: Oh, everything. Divorce, patents, immigration and naturalization.<br>
+							<br>
+							
+						GEORGE: What is that, immigrants come over, you show them how to act natural?<br>
+							<br>
+							
+						CHERYL (laughing) Are your friends as funny as you?<br>
+							<br>
+							
+						GEORGE: No, they're not funny at all. No, I have no funny friends. I'm the funny one. El Clowno.<br>
+							<br>
+							
+						(Quick pan to the front door as Jerry and Elaine are entering.)<br>
+							<br>
+							
+						ELAINE: Look, I was nice enough to pick it up for you<br>
+							<br>
+							
+						JERRY: Hey, I've been back four days, I want my mail.<br>
+							<br>
+							
+						ELAINE: It's mostly bills, magazines and junk mail anyway.<br>
+							<br>
+							
+						JERRY: Elaine, that's what mail is. Without bills, magazines and junk mail, there is no mail.<br>
+							<br>
+							
+						(Cut back to George and Cheryl at the counter.)<br>
+							<br>
+							
+						CHERYL: Here's my card.<br>
+							<br>
+							
+						GEORGE: Oh, ok. Thank you. It was good talking to you.<br>
+							<br>
+							
+						CHERYL: Nice meeting you.<br>
+							<br>
+							
+						GEORGE: Yeah.<br>
+							<br>
+							
+						(Cheryl leaves, George walks over to the booth to meet Jerry and Elaine.)<br>
+							<br>
+							
+						ELAINE: Hi!<br>
+							<br>
+							
+						JERRY: Hey, how ya doin?<br>
+							<br>
+							
+						GEORGE: You would not believe what just happened. I was waiting for you and this woman was sitting at the counter.<br>
+							<br>
+							
+						ELAINE: What, the one who just left?<br>
+							<br>
+							
+						GEORGE: Yeah, yeah, and we started talking, and she's this lawyer who's incredible! Everything I said was funny! You know, she laughed at everything I said, she thinks I'm hilarious. You know in a way, it was almost too good. I started so good, I can't go any place but down now, ya know? I got no place to go.<br>
+							<br>
+							
+						ELAINE: Yeah, well, I guess it's all over.<br>
+							<br>
+							
+						JERRY: (looking behind the counter) Hey, is that Babu? It is! (walking over) Hey, Babu!<br>
+							<br>
+							
+						BABU: Jerry!<br>
+							<br>
+							
+						JERRY: Look at you, you got the job.<br>
+							<br>
+							
+						BABU: Yes, yes, they give me job thanks to you.<br>
+							<br>
+							
+						JERRY: Oh, I didn't do anything.<br>
+							<br>
+							
+						BABU: Yes, you do everything, get me job, you get me a place to live in your building.<br>
+							<br>
+							
+						JERRY: Come on.<br>
+							<br>
+							
+						BABU: You very very good man, you do everything for me. My family and I can never thank you enough for everything you do.<br>
+							<br>
+							
+						(Cut back to George and Elaine.)<br>
+							<br>
+							
+						GEORGE: You see, this is what I do with women. I start out too strong, now I have to become real, that's when it all falls apart. What good is real? They don't want real, they want funny.<br>
+							<br>
+							
+						ELAINE: No they don't.<br>
+							<br>
+							
+						GEORGE: Ooooh, yes they do.<br>
+							<br>
+							
+						ELAINE: Nooo.<br>
+							<br>
+							
+						GEORGE: Ya gotta put on a show, ya always gotta give them a big show. You always have to be 'on' otherwise why would they like me? They'd just go for a better looking guy with more money.<br>
+							<br>
+							
+						(Elaine nods her head in approval.)<br>
+							<br>
+							
+						GEORGE: You mean that's true, I'm right?!<br>
+							<br>
+							
+						JERRY: Ok, great, well, I'm glad everything worked out, Babu.<br>
+							<br>
+							
+						BABU: Oh, yes, yes, everything wonderful.<br>
+							<br>
+							
+						JERRY: Ok, I'll see you around the building.<br>
+							<br>
+							
+						BABU: I'll see you *in* the building.<br>
+							<br>
+							
+						JERRY: (returning to the table) Remember Babu Bhatt?<br>
+							<br>
+							
+						GEORGE: Who's he?<br>
+							<br>
+							
+						JERRY: Remember that guy who opened the restaurant across the street from the building last year and he wasn't doing so well and I told him he should make it into all Pakistani and that drove him right out of business? So, you uh, going with me to the auto show with me Saturday?<br>
+							<br>
+							
+						ELAINE: Yeah, yeah.<br>
+							<br>
+							
+						JERRY: Can you bring my mail then?<br>
+							<br>
+							
+						GEORGE: What mail?<br>
+							<br>
+							
+						ELAINE: I picked up his mail while he was on the road<br>
+							<br>
+							
+						GEORGE: Why didn't Kramer pick it up?<br>
+							<br>
+							
+						JERRY: Cause he's at that baseball fantasy camp in Florida.<br>
+							<br>
+							
+						GEORGE: Oh yeah, right. When's he coming back?<br>
+							<br>
+							
+						JERRY: Monday, I think.<br>
+							<br>
+							
+						GEORGE: Kramer goes to a fantasy camp. His whole life is a fantasy camp. People should plunk down two-thousand dollars to live like him for a week. Do nothing, fall ass-backwards into money, mooch food off your neighbors and have sex without dating; that's a fantasy camp.<br>
+							<br>
+							
+						JERRY: Hey listen, if you're gonna go out with this lawyer, why don't you have dinner with us and then maybe you can go to the auto show with her if you want, you know, have a little company, take the pressure off.<br>
+							<br>
+							
+						(George has a dream sequence where the four of them are at a dinner table and Cheryl is laughing hysterically at one of Jerry's jokes.)<br>
+							<br>
+							
+						JERRY: ...he never heard of corduroy!<br>
+							<br>
+							
+						CHERYL: (howling with laughter) Stop it, you're killing me!!<br>
+							<br>
+							
+						JERRY: He never heard of corduroy! True story, true story.<br>
+							<br>
+							
+						(Dream sequence ends.)<br>
+							<br>
+							
+						GEORGE: No, no I don't think so.<br>
+							<br>
+							
+						ELAINE: Why?<br>
+							<br>
+							
+						GEORGE: Well I think I'm better off going one-on-one.<br>
+							<br>
+							
+						JERRY: I don't know why you want to play man-to-man when you could play a zone.<br>
+							<br>
+							
+						GEORGE: She might not be comfortable.<br>
+							<br>
+							
+						ELAINE: Why? We're all very nice, we're very friendly.<br>
+							<br>
+							
+						JERRY: We'll be funny.<br>
+							<br>
+							
+						GEORGE: No! No. It's not good, I don't think so.<br>
+							<br>
+							
+						ELAINE: Alright, well if you change your mind, we'll wind up as Isabella's probably around seven.<br>
+							<br>
+							
+						JERRY: No, no Isabella's, I don't want to go to Isabella's.<br>
+							<br>
+							
+						ELAINE: Why?<br>
+							<br>
+							
+						JERRY: No, it's too trendy, no Isabella's.<br>
+							<br>
+							<br>
+							
+						[George and Cheryl are at Isabella's.]<br>
+							<br>
+							
+						GEORGE: (tasting the wine) Excellent. Like I really know what I'm talking about.<br>
+							<br>
+							
+						(Cheryl laughs.)<br>
+							<br>
+							
+						GEORGE: Toasting makes me uncomfortable. But toast, I love. Never start the day without a good piece of toast. In fact, let's toast to toast.<br>
+							<br>
+							
+						(Just then the headwaiter seats Jerry and Elaine at the next table.)<br>
+							<br>
+							
+						JERRY: Look who's here! Georgie-boy!<br>
+							<br>
+							
+						GEORGE: What are you doing here? I thought you said you hated Isabella's?<br>
+							<br>
+							
+						ELAINE: No, I talked him into it.<br>
+							<br>
+							
+						GEORGE: What happened to the auto show?<br>
+							<br>
+							
+						JERRY: Oh, we're still going, we're still going. Elaine, do the spokes model.<br>
+							<br>
+							
+						ELAINE: The turbo quadramatic transmission offers you the power and prestige to propel you well into the 21st century.<br>
+							<br>
+							
+						(Jerry and Cheryl laugh, George, unamused, tries pushing Jerry and Elaine away from their table.)<br>
+							<br>
+							
+						ELAINE (to Cheryl, who's rising to shake her outstretched hand) Hi.<br>
+							<br>
+							
+						GEORGE: Cheryl, Elaine, and uh, Jerry.<br>
+							<br>
+							
+						JERRY (shaking hands in turn) Hi, nice to meet you.<br>
+							<br>
+							
+						CHERYL: Would you like to join us?<br>
+							<br>
+							
+						GEORGE: Oh no no no, they don't want to join us.<br>
+							<br>
+							
+						CHERYL: Oh no, it's ok, don't be silly.<br>
+							<br>
+							
+						ELAINE: Ok, well why don't we just put these two tables together?<br>
+							<br>
+							
+						GEORGE: (as the others are repositioning the tables) No, no, you can't do that, they're round, it makes an 'eight' and, yeah, well alright.<br>
+							<br>
+							
+						ELAINE: Jerry? Jerry, tell them that funny story you were telling me--<br>
+							<br>
+							
+						GEORGE: No! No.<br>
+							<br>
+							
+						ELAINE: No George, it's so funny. We saw this cab driver's picture, right?<br>
+							<br>
+							
+						GEORGE: (interrupting) You know we should really order, the service is so slow here, by the time you get anything...<br>
+							<br>
+							
+						ELAINE: Oh, Cheryl, can I ask you a legal question? Um, I'm being sued.<br>
+							<br>
+							
+						CHERYL: Oh? What happened?<br>
+							<br>
+							
+						ELAINE: Well, I ran out to apologize to a virgin and I crossed against the light and I knocked over the delivery boy.<br>
+							<br>
+							
+						CHERYL: Was he Chinese?<br>
+							<br>
+							
+						ELAINE: Yeah.<br>
+							<br>
+							
+						CHERYL: Is your last name Benes?<br>
+							<br>
+							
+						JERRY: How did you know?<br>
+							<br>
+							
+						CHERYL: Ping is my cousin!<br>
+							<br>
+							
+						ELAINE: No!<br>
+							<br>
+							
+						JERRY: That's so funny!<br>
+							<br>
+							
+						CHERYL: I'm handling his case!<br>
+							<br>
+							
+						ELAINE: What? You're Cheryl Fong?<br>
+							<br>
+							
+						CHERYL: That's right!<br>
+							<br>
+							
+						(By now, they're all laughing.)<br>
+							<br>
+							
+						ELAINE: Oh my god, I can't believe it! That is such a coincidence!<br>
+							<br>
+							
+						CHERYL: Yeah, I know!<br>
+							<br>
+							
+						ELAINE: Wow, well, I guess you don't have any advice for me on how to win the case?<br>
+							<br>
+							
+						CHERYL: Will you excuse me? I have to make a call.<br>
+							<br>
+							
+						ELAINE: Tell Ping I said hello.<br>
+							<br>
+							
+						JERRY: Tell him you think you may have broken the case wide open.<br>
+							<br>
+							
+						(They all laugh as Cheryl walks away.)<br>
+							<br>
+							
+						GEORGE (suddenly not laughing) What are you doing? What are you doing?<br>
+							<br>
+							
+						JERRY: What?<br>
+							<br>
+							
+						GEORGE: This is not good. This is not good.<br>
+							<br>
+							
+						JERRY: What's the matter?<br>
+							<br>
+							
+						GEORGE: I just don't think it's such a great idea for you to sit here.<br>
+							<br>
+							
+						JERRY: Why not?<br>
+							<br>
+							
+						ELAINE: He thinks that if you're too funny, he might not look so funny.<br>
+							<br>
+							
+						JERRY: Biff?<br>
+							<br>
+							
+						GEORGE: What?<br>
+							<br>
+							
+						JERRY: You're not worried about that?<br>
+							<br>
+							
+						GEORGE: No, of course not.<br>
+							<br>
+							
+						JERRY: I mean, so what if I'm funny? Who cares?<br>
+							<br>
+							
+						ELAINE: He thinks that if a woman sees a guy put on a better show, she'll walk out on his show, go see the other show.<br>
+							<br>
+							
+						JERRY: Well, should we leave?<br>
+							<br>
+							
+						GEORGE: Maybe you don't have to be so funny. I mean, would it kill you not to be so funny all the time? That's all I'm asking. This woman thinks I'm very funny. Now you're gonna be funny, so what am I gonna be? I'm gonna be a short bald guy with glasses who suddenly doesn't seem so funny.<br>
+							<br>
+							
+						ELAINE: This is so ridiculous. Can we just go over there?<br>
+							<br>
+							
+						JERRY: I don't have to be funny, I don't care.<br>
+							<br>
+							
+						GEORGE: You don't?<br>
+							<br>
+							
+						JERRY: No way! It's completely under my control.<br>
+							<br>
+							
+						ELAINE: No, it's not. You cannot not be funny.<br>
+							<br>
+							
+						JERRY: Of course I can, am I being funny now?<br>
+							<br>
+							
+						ELAINE: A little.<br>
+							<br>
+							
+						JERRY: Oh, this is funny? I'm being funny?<br>
+							<br>
+							
+						ELAINE: Yeah.<br>
+							<br>
+							
+						JERRY: George, is this funny?<br>
+							<br>
+							
+						GEORGE: It's funny! (To Elaine) and it wouldn't kill you to not be so funny either.<br>
+							<br>
+							
+						ELAINE: What? What did I do?<br>
+							<br>
+							
+						(Cheryl returns.)<br>
+							<br>
+							
+						GEORGE: Hi.<br>
+							<br>
+							
+						JERRY: (subdued, almost somber) Hello. Welcome back.<br>
+							<br>
+							
+						CHERYL: Sorry, it was my aunt's birthday and she makes such a big deal about it.<br>
+							<br>
+							
+						ELAINE: Well, nobody likes to get old, right?<br>
+							<br>
+							
+						JERRY: Well, birthdays are merely symbolic of how another year has gone by and how little we've grown. No matter how desperate we are that someday a better self will emerge, with each flicker of the candles on the cake, we know it's not to be, that for the rest of our sad, wretched pathetic lives, this is who we are to the bitter end. Inevitably, irrevocably; happy birthday? No such thing.<br>
+							<br>
+							
+						GEORGE: Funny guy, huh?<br>
+							<br>
+							<br>
+							
+						[Elaine is bringing Jerry's mail to his apartment.]<br>
+							<br>
+							
+						ELAINE: Here, take it. I was glad to get rid of it.<br>
+							<br>
+							
+						JERRY: Well thank you very much, it's about time.<br>
+							<br>
+							
+						ELAINE: Oh listen, guess what? Cheryl convinced Ping to drop the case against me.<br>
+							<br>
+							
+						JERRY: Drop the case? Well, congratulations, that'll save you some money.<br>
+							<br>
+							
+						ELAINE: Yeah, no kidding. That lawyer was gonna charge me a fortune.<br>
+							<br>
+							
+						JERRY: (leafing through his mail) Oh great, a birth announcement from Arnie and Joy Harris.<br>
+							<br>
+							
+						(They hear a noise from the hallway.)<br>
+							<br>
+							
+						JERRY: Hear that? Guess who's back. (Opening the door) Hey!<br>
+							<br>
+							
+						KRAMER: Hey.<br>
+							<br>
+							
+						JERRY: I thought you weren't coming back till Monday.<br>
+							<br>
+							
+						KRAMER: Well, the camp ended a few days early.<br>
+							<br>
+							
+						JERRY: Why?<br>
+							<br>
+							
+						KRAMER: Uh, well there was an incident.<br>
+							<br>
+							
+						JERRY: What happened?<br>
+							<br>
+							
+						KRAMER: I punched Mickey Mantle in the mouth.<br>
+							<br>
+							
+						JERRY: What?<br>
+							<br>
+							
+						KRAMER: Yeah, I punched him and they took him to the hospital and then they canceled the rest of the week.<br>
+							<br>
+							
+						ELAINE: You punched who in the mouth?<br>
+							<br>
+							
+						KRAMER: Mickey Mantle.<br>
+							<br>
+							
+						JERRY: What happened?<br>
+							<br>
+							
+						KRAMER: Well, you know, we were playing a game and, you know, I was pitching, and I was really throwing some smoke. And Joe Pepitone, he was up, and man that guy, you know, he was crowding the plate.<br>
+							<br>
+							
+						JERRY: Wow! Joe Pepitone!<br>
+							<br>
+							
+						KRAMER: Yeah, well, Joe Pepitone or not, I own the inside of that plate. So I throw one, you know, inside, you know, a little chin music, put him right on his pants. Cause I gotta intimidate when I'm on the mound. Well the next pitch, he's right back in the same place. So, I had to plunk him.<br>
+							<br>
+							
+						JERRY: You plunked him.<br>
+							<br>
+							
+						KRAMER: Oh yeah. Well, he throws down his bat, he comes racing up to the mound. Next thing, both benches are cleared, you know? A brouhaha breaks out between the guys in the camp, you know, and the old Yankee players, and as I'm trying to get Moose Skowron off of one of my teammates, you know, somebody pulls me from behind, you know, and I turned around and I popped him. I looked down, and woah man, it's Mickey. I punched his lights out.<br>
+							<br>
+							
+						JERRY: Wow, this is incredible!<br>
+							<br>
+							
+						(A voice is heard from the hallway.)<br>
+							<br>
+							
+						BABU: Leave me alone! You can't do this to me!<br>
+							<br>
+							
+						JERRY: What's going on out there?<br>
+							<br>
+							
+						BABU: What are you doing? This is not right, people. You're making a very bad mistake, very bad.<br>
+							<br>
+							
+						JERRY: Babu? (leaving) I'll be right back.<br>
+							<br>
+							
+						ELAINE: (to Kramer) Yeah, so?<br>
+							<br>
+							
+						KRAMER: Then Hank Bauer, you know, he's screaming, &quot;Mickey! Mickey! What have you done with Mickey? You killed Mickey!&quot;<br>
+							<br>
+							
+						ELAINE: So what'd you do?<br>
+							<br>
+							
+						KRAMER: Well, I got the hell out of there.<br>
+							<br>
+							
+						JERRY (running back in) They took Babu away!<br>
+							<br>
+							
+						ELAINE: They took Babu away?!<br>
+							<br>
+							
+						JERRY: Yeah, the Immigration guy said his Visa was expired. Poor Babu, everything was going so well for him. He had an apartment, he had a job. What a shame.<br>
+							<br>
+							
+						BABU (calling from the street) Jerry! Jerry! Help me!<br>
+							<br>
+							
+						JERRY: I will, Babu! I will help you, Babu, don't worry!<br>
+							<br>
+							
+						KRAMER: Then Hank Bauer, you know, he's chasing me around, he trips over third base and knocks over Clete Boyer.<br>
+							<br>
+							
+						JERRY: (thumbing through his mail) Uh oh.<br>
+							<br>
+							
+						ELAINE: What?<br>
+							<br>
+							
+						JERRY: Well this is interesting.<br>
+							<br>
+							
+						ELAINE: What is it?<br>
+							<br>
+							
+						JERRY: It's a letter from the Immigration Bureau, it's Babu's Visa renewal application form. They must have put it in my mailbox by mistake.<br>
+							<br>
+							
+						KRAMER: Well, doesn't he need that?<br>
+							<br>
+							<br>
+							
+						[Jerry and Elaine are at Jerry's apartment.]<br>
+							<br>
+							
+						JERRY: If you had given me my mail last week when I got home, this whole thing never would have happened.<br>
+							<br>
+							
+						ELAINE: Well, you should have come to my house to pick it up.<br>
+							<br>
+							
+						JERRY: Yeah, so am I being funny now?<br>
+							<br>
+							
+						ELAINE: No, actually, you're not being funny now.<br>
+							<br>
+							
+						JERRY: See, I told you I wasn't funny all the time. (George enters) Hey George, look, I'm not funny now.<br>
+							<br>
+							
+						GEORGE: No, and you weren't funny last night either. In fact, you got us both so depressed, she asked me to drive her home after dinner.<br>
+							<br>
+							
+						JERRY: Oh look, I need to get in touch with Cheryl. Babu needs a lawyer, his Visa's expired.<br>
+							<br>
+							
+						GEORGE: What do you need her for? There's a million lawyers.<br>
+							<br>
+							
+						JERRY: Yeah, but you said this is one of the things that her firm does.<br>
+							<br>
+							
+						GEORGE: Alright, alright, but no funny business, same deal as last night.<br>
+							<br>
+							
+						JERRY: Ah, will you stop it already?<br>
+							<br>
+							
+						GEORGE: Jerry, please?<br>
+							<br>
+							
+						JERRY: How long is this gonna go on?<br>
+							<br>
+							
+						GEORGE: Till I'm comfortable.<br>
+							<br>
+							
+						JERRY: Well, when is that gonna be?<br>
+							<br>
+							
+						GEORGE: After consummation.<br>
+							<br>
+							
+						JERRY: Consummation? I don't think you have enough material.<br>
+							<br>
+							<br>
+							
+						[Jerry and Cheryl are at the coffee shop.]<br>
+							<br>
+							
+						CHERYL: I actually have a friend in the Immigration Department who owes me a big favor. You're very lucky.<br>
+							<br>
+							
+						JERRY: (somber) That's wonderful news. Thank you.<br>
+							<br>
+							
+						CHERYL: You're a very serious person, aren't you?<br>
+							<br>
+							
+						JERRY: Well, with so many people in the world deprived and unhappy, it doesn't seem like it would be fair to be cheerful.<br>
+							<br>
+							
+						CHERYL: I understand.<br>
+							<br>
+							
+						(Jerry reaches for the milk for his coffee.)<br>
+							<br>
+							
+						CHERYL: I think it's curdled.<br>
+							<br>
+							
+						JERRY: I don't care.<br>
+							<br>
+							
+						CHERYL: Do you ever laugh?<br>
+							<br>
+							
+						JERRY: Not really. Sometimes, when I'm in the tub.<br>
+							<br>
+							
+						CHERYL: That's so sad. What do you do?<br>
+							<br>
+							
+						JERRY: I'm a comedian. Oh, let me get that. (reaching for the check) You've been so helpful.<br>
+							<br>
+							
+						ELAINE: (entering as Jerry heads to the register) Hey, we're gonna go see Babu now, right?<br>
+							<br>
+							
+						JERRY: Yeah, I'll just pay for this.<br>
+							<br>
+							
+						ELAINE: Oh, I'm just gonna go say hi to Cheryl. (walking over to the booth) Hi.<br>
+							<br>
+							
+						CHERYL: Hi.<br>
+							<br>
+							
+						ELAINE: Listen, gosh, I wanted to thank you so much for convincing Ping to drop the case.<br>
+							<br>
+							
+						CHERYL: Well, after we met, you were all so nice. I just couldn't go through with it. But between you and me, you would have paid through the nose.<br>
+							<br>
+							
+						ELAINE (laughing) You're kidding.<br>
+							<br>
+							
+						CHERYL (laughing) No, I'm not.<br>
+							<br>
+							<br>
+							
+						[Jerry and Elaine are at the Immigration office.]<br>
+							<br>
+							
+						JERRY: Babu!<br>
+							<br>
+							
+						BABU: Jerry! Jerry, hello Jerry!<br>
+							<br>
+							
+						JERRY: You remember Elaine.<br>
+							<br>
+							
+						BABU: Yes, yes of course!<br>
+							<br>
+							
+						ELAINE: Nice to meet you.<br>
+							<br>
+							
+						BABU: So nice of you both to come.<br>
+							<br>
+							
+						JERRY: Oh, Babu.<br>
+							<br>
+							
+						BABU: No no, you're both very kind, very kind.<br>
+							<br>
+							
+						JERRY&amp; ELAINE (in unison) Oh, well, you know.<br>
+							<br>
+							
+						ELAINE: We try.<br>
+							<br>
+							
+						JERRY: We do what we can.<br>
+							<br>
+							
+						ELAINE: We do what we can.<br>
+							<br>
+							
+						BABU: The problem is I never got my Visa renewal form in the mail. I was expecting it.<br>
+							<br>
+							
+						JERRY: Yes, well, see, here's the thing, Babu. Um, what happened was I was away for a couple of weeks doing some comedy shows.<br>
+							<br>
+							
+						BABU: Comedy shows! You're a very funny man.<br>
+							<br>
+							
+						JERRY: Well, Elaine here was picking up my mail while I was away, because you know that little box can get very full.<br>
+							<br>
+							
+						BABU: Oh yes, of course. TV Guide, magazines, everything. You know, I would have picked up your mail, your box is right next to mine.<br>
+							<br>
+							
+						JERRY: Oh, I don't want to bother you.<br>
+							<br>
+							
+						BABU: No bother! You get me job, you get me apartment, you very very good man.<br>
+							<br>
+							
+						JERRY: So yesterday, after they took you away, I looked in my mail and I noticed that the mailman accidentally put your Visa renewal in my mail box.<br>
+							<br>
+							
+						BABU: Come again?<br>
+							<br>
+							
+						JERRY: You see, I've been home for a week and Elaine didn't give me my mail until yesterday, even though I asked her repeatedly for it.<br>
+							<br>
+							
+						ELAINE: Yeah, but Babu, he could have come to my house to pick it up.<br>
+							<br>
+							
+						BABU: You had my Visa application?!<br>
+							<br>
+							
+						JERRY: Well not technically.<br>
+							<br>
+							
+						BABU: (extremely and suddenly agitated) I kill you!!<br>
+							<br>
+							
+						JERRY: Well what about her?<br>
+							<br>
+							
+						BABU: I kill both of you!!<br>
+							<br>
+							
+						JERRY: Babu?!<br>
+							<br>
+							
+						BABU: No Babu! No Babu! You bad man! You very bad man! You very lazy bad man!<br>
+							<br>
+							
+						JERRY: Babu, I'm gonna fix everything! I have a lawyer who knows someone in the Immigration Department, they're gonna straighten the whole thing out, the wheels are in motion, things are happening even as we speak!<br>
+							<br>
+							
+						BABU: The wheels are in motion?<br>
+							<br>
+							
+						JERRY: The wheels are in motion, things are happening!<br>
+							<br>
+							<br>
+							
+						[George and Cheryl are parked.]<br>
+							<br>
+							
+						GEORGE: Jerry?<br>
+							<br>
+							
+						CHERYL: I'm very attracted to him.<br>
+							<br>
+							
+						GEORGE: You think the person you were talking to is him? That's not even close to him. He's funny, Jerry's funny.<br>
+							<br>
+							
+						CHERYL: He never said anything funny.<br>
+							<br>
+							
+						GEORGE: He can't not be funny.<br>
+							<br>
+							
+						CHERYL: No no no, he's dark. And disturbed.<br>
+							<br>
+							
+						GEORGE: Dark and disturbed? His whole life revolves around Superman and cereal. I convinced him to act like that so that you would think I was funnier. That's how disturbed I am! If you want disturbed, that's disturbed. You can't find sickness like that anywhere, you think sickness like that grows on trees? Nobody is sicker than me, nobody. He's pretending, I'm the genuine article.<br>
+							<br>
+							
+						CHERYL: So you're telling me Jerry's whole thing was an act?<br>
+							<br>
+							
+						GEORGE: Yes! And I put him up to it, because I'm sick! I'm the one that needs help.<br>
+							<br>
+							
+						CHERYL: I gotta go.<br>
+							<br>
+							
+						GEORGE: Well, should I call you later?<br>
+							<br>
+							
+						CHERYL: Please don't.<br>
+							<br>
+							
+						GEORGE: But, but I'm disturbed! I'm depressed! I'm inadequate! I got it all!!<br>
+							<br>
+							<br>
+							
+						[Jerry and Elaine are at Jerry's apartment.]<br>
+							<br>
+							
+						ELAINE: So, what's up with Babu? How come he's not back?<br>
+							<br>
+							
+						JERRY: I don't know, I don't understand it. Cheryl was supposed to take care<br>
+							
+						of it, he should be back by now. (Answering the buzzer) Yeah?<br>
+							<br>
+							
+						GEORGE: It's George.<br>
+							<br>
+							
+						JERRY: C'mon up.<br>
+							<br>
+							
+						(They hear a voice in the hallway, Jerry opens the door.)<br>
+							<br>
+							
+						JERRY: Babu must be back.<br>
+							<br>
+							
+						BABU'S BROTHER: Babu, my goodness, what has happened to you?<br>
+							<br>
+							
+						JERRY: Where's Babu?<br>
+							<br>
+							
+						BABU'S BROTHER: He is in Pakistan!<br>
+							<br>
+							
+						JERRY: Who are you?<br>
+							<br>
+							
+						BABU'S BROTHER: I am his brother. He knew a lawyer, it was all going to be fixed.<br>
+							<br>
+							
+						JERRY: I'm sure the lawyer did everything they could.<br>
+							<br>
+							
+						BABU'S BROTHER: Then where is Babu? What happened to Babu? Show me Babu!<br>
+							<br>
+							
+						ELAINE: (offering a drink) Snapple?<br>
+							<br>
+							
+						BABU'S BROTHER: No, too fruity.<br>
+							<br>
+							
+						(Babu's Brother leaves, George enters.)<br>
+							<br>
+							
+						JERRY: Hey, what happened? I thought Cheryl was gonna help Babu get his Visa.<br>
+							<br>
+							
+						GEORGE: She didn't help him?<br>
+							<br>
+							
+						JERRY: No.<br>
+							<br>
+							
+						GEORGE: Where is he?<br>
+							<br>
+							
+						JERRY: He's in Pakistan.<br>
+							<br>
+							
+						GEORGE: Oh boy.<br>
+							<br>
+							
+						JERRY: What do you mean, oh boy?<br>
+							<br>
+							
+						GEORGE: Well, last night she told me that she liked you. Not you, the disturbed you, so I had to tell her the truth.<br>
+							<br>
+							
+						JERRY: Told her the truth? Well, you got Babu deported.<br>
+							<br>
+							
+						GEORGE: What do you mean, I got? You didn't give him his Visa application.<br>
+							<br>
+							
+						JERRY: That's because she had my mail.<br>
+							<br>
+							
+						(Kramer enters.)<br>
+							<br>
+							
+						ELAINE: Yeah, well I wouldn't have had to get your mail if he hadn't gone to that fantasy camp.<br>
+							<br>
+							
+						KRAMER: Well, I just came back from Mickey Mantle's restaurant.<br>
+							<br>
+							
+						JERRY: How could you go in there?<br>
+							<br>
+							
+						KRAMER: Well, I had to. I had to apologize. I mean, I punched Mickey Mantle, my idol. It was eating me up inside!<br>
+							<br>
+							
+						JERRY: Well, what happened?<br>
+							<br>
+							
+						KRAMER: I got down in my knees and went, &quot;Go ahead, Mickey. Hit me. I'm begging you, Mickey, please hit me. C'mon, hit me. I love you, Mickey, I love you!&quot;<br>
+							<br>
+							
+						ELAINE: So, what did he do?<br>
+							<br>
+							
+						KRAMER: Well, the four of them, they picked me up by my pants and they threw me outside, right into a horse.<br>
+							<br>
+							
+						(There's a knock on Kramer's door.)<br>
+							<br>
+							
+						VOICE: Kramer?<br>
+							<br>
+							
+						KRAMER: Yeah? It's my Chinese food.<br>
+							<br>
+							
+						(Ping enters with a bag of food.)<br>
+							<br>
+							
+						ELAINE: Oh! Ping! Hi! Listen, thank you so much for dropping that lawsuit against me.<br>
+							<br>
+							
+						PING: Not anymore.<br>
+							<br>
+							
+						ELAINE: What?<br>
+							<br>
+							
+						PING: Cheryl call me last night, lawsuit back on.<br>
+							<br>
+							
+						ELAINE: Why?<br>
+							<br>
+							
+						PING: She call you and your friends big liars. You think she nice girl? Wait till you see her in court. She's a shark! They call her the Terminator. She never lose a case. Now you make her mad. She double the damages. Hasta la vista, baby.<br>
+							<br>
+							
+						(Ping exits.)<br>
+							<br>
+							<br>
+							
+						[Babu and a friend are sitting at a table in an outdoor cafe in Pakistan]<br>
+							<br>
+							
+						BABU: So his friend got the mail but she did not give it to him. And then he came to visit me. Said the lawyer was called to help, he said the wheels were in motion, but there was no motion. There was nothing. And so they sent me back here.<br>
+							<br>
+							
+						BABU'S FRIEND: This is a terrible story, Babu. What are you going to do?<br>
+							<br>
+							
+						BABU: I'm going to save up every rupee. Someday, I will get back to America, and when I do I will exact vengeance on this man. I cannot forget him. He haunts me. He is a very bad man. He is a very very bad man.<br>
+							<br>
+							<br>
+							
+						[Closing monologue]<br>
+							<br>
+							
+						I am for open immigration but that sign we have on the front of the Statue of Liberty, 'Give us your tired, your poor, your huddled masses...', can't we just say, 'Hey, the door's open, we'll take whoever you got.'? Do we have to specify the wretched refuse? I mean, why don't we just say, 'Give us the unhappy, the sad, the slow, the ugly, people that can't drive, that they have trouble merging, if they can't stay in their lane, if they don't signal, they can't parallel park, if they're sneezing, if they're stuffed up, if they're clogged, if they have bad penmanship, don't return calls, if they have dandruff, food between their teeth, if they have bad credit, if they have no credit, missed a spot shaving, in other words any dysfunctional defective slob that you can somehow cattle prod onto a wagon, send them over, we want 'em.'<br>
+							<br>
+							<br>
+							
+						The End</td>
+						</tr>
+						<tr height="6">
+							<td class="bottom2" width="645" height="6"></td>
+						</tr>
+						<tr>
+							<td width="645">
+								<div align="center">
+									<font size="-1">Copyright 2006 seinology.com | All Rights Reserved | Designed by 13erla</font></div>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+		<p></p>
+	</body>
+
+</html>

@@ -1,0 +1,1253 @@
+<tdOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+<html>
+
+	<head>
+		<meta http-equiv="content-type" content="text/html;charset=ISO-8859-1">
+		<meta name="description" content="Top Source for Seinfeld">
+		<meta name="keywords" content="seinfeld, sienfeld, Jerry Seinfeld, Julia Louis Dreyfus, Jason Alexander, Michael Richards, Kramer, George, Costanza, Elaine Benes, morty, Larry David">
+		<title>Seinology.com :: Scripts :: 155-The Muffin Tops</title>
+	<link rel='stylesheet' href='/stylesheet.css' type='text/css'>
+	</head>
+
+	<body>
+			<table align="center" width="787" border="0" cellspacing="0" cellpadding="0">
+				<tr>
+					<td><font size="-2" color="red">Seinology.com - </font><font size="-3" color="black">Where Seinfeld Content and Accuracy Matter Most. Seinfeld scripts in pdf form, Seinfeld episode video clips, Seinfeld episode audio clips, Jerry Seinfeld appearances, Julia Louis-Dreyfus appearances, Michael Richards appearances, Jason Alexander appearances, Seinfeld discussion Forum, Seinfeld Where are they Now? Seinlanguage Newsletter, Popular Seinfeld Lists, Seinfeld episode standup, Seinfeld episode guide, Seinfeld fan fiction. Seinfeld content all on one domain. Seinology.com enjoy your stay.</font></td>
+				</tr>
+			</table>
+		
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr height="100">
+				<td class="logo"></td>
+			</tr>
+			<tr><td class="ads" align="center" background=#8694fa>
+				<script type="text/javascript"><!--
+google_ad_client = "pub-1924026976931416";
+google_ad_width = 728;
+google_ad_height = 90;
+google_ad_format = "728x90_as";
+google_ad_type = "text";
+google_ad_channel = "";
+google_color_border = "FFFFFF";
+google_color_bg = "8694fa";
+google_color_link = "0000FF";
+google_color_text = "000000";
+google_color_url = "002E3F";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></td></tr>
+		</table>
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr>
+				<td valign="top" width="136">
+					<table width="136" border="0" cellspacing="0" cellpadding="0">
+						<tr height="24">
+							<td class="navigation">
+								<div align="center">
+									
+									<b>Navigation</b></div>
+							</td>
+						</tr>
+						<tr height="199">
+							<td class="spacer1" valign="top" width="136" height="199">
+								<div align="center">
+									<font size="-1"><a href="http://www.seinology.com">Home</a><br>
+										<a href="http://board.seinology.com">Forum</a><br>
+										<a href="http://www.seinology.com/av.shtml">Audio/Video</a><br>
+										<a href="http://www.seinology.com/scripts.shtml">Scripts</a><br>
+										<a href="http://www.seinology.com/survivor.shtml">Survivor</a><br>
+										<a href="http://www.seinology.com/fanfics.shtml">Fan Fiction</a><br>
+										<a href="http://www.seinology.com/gallery/">Gallery</a><br>
+										<a href="http://www.seinology.com/newsletter.shtml">Newsletter</a><br>
+										<a href="http://www.seinology.com/lists.shtml">Lists</a><br>
+										<a href="http://www.seinology.com/epguide.shtml">Episode Guide</a><br>
+										<a href="http://www.seinology.com/links.shtml">Links</a><br>
+										<a href="http://www.seinology.com/faqother.shtml">Faq + others</a><br>
+										<a href="http://www.seinology.com/legal.shtml">Legal</a></font></div>
+							</td>
+						</tr>
+						
+						<tr>
+							<td class="nav2" width="136">
+							<div align="center"><b>Search</b></div></td>
+						</tr>
+						<tr>
+							<td class="spacer1" width="136" valign="top"><div align="center"><form method="get" action="http://www.seinology.com/search/search.cgi">
+<p><label for="fdse_Match">Match</label><br>
+<select name="Match" id="fdse_Match" size="1">
+<option value="1">All</option>
+<option value="0">Any</option>
+<option value="2">Phrase</option>
+</select></p>
+<p><label for="fdse_Realm">Where?</label><br>
+<select name="Realm" id="fdse_Realm" size="1">
+<option selected="selected" value="All">EntireSite</option>
+<option value="Ep Guide">Ep Guide</option>
+<option value="Images">Images</option>
+<option value="Lists">Lists</option>
+<option value="Newsletters">Newsletters</option>
+<option value="Scripts">Scripts</option>
+<option value="Notes..Nothing">Notes..Nothing</option>
+</select></p>
+<p><input type="text" name="Terms" size="14" id="fdse_Terms"><br>
+<input type="submit" class="submit" name="submitButtonName" value="Search"></p>
+</div></form></td>
+						</tr>
+						<tr><td class="bottom" width="136" height="10" valign="top">
+						</td>
+						</tr>
+					</table>
+				</td>
+				<td width="4"></td>
+				<td valign="top" width="645">
+					<table width="645" border="0" cellspacing="0" cellpadding="0">
+						<tr height="18">
+							<td width="645" height="35" class="bar">
+								<div align="center">
+									<b><font size="+2" color="black">Script</font></b></div>
+							</td>
+						</tr>
+						<tr height="362">
+							<td class="spacer2" valign="top" width="645" height="362">
+
+						<p><font size="-2">Episode 155 - The Muffin Tops<br>
+							
+						pc: 821 season 8, episode 21<br>
+							
+						Broadcast date: May 8, 1997<br>
+							<br>
+							
+						Written by Spike Feresten<br>
+							
+						Directed by Andy Ackerman<br>
+							<br>
+							
+						-------------------------------------------------------------------------------<br>
+							<br>
+							
+						The Cast<br>
+							
+						Regulars:<br>
+							
+						Jerry Seinfeld ......................&nbsp; Jerry Seinfeld<br>
+							
+						Jason Alexander .................. George Costanza<br>
+							
+						Julia Louis-Dreyfus .............. Elaine Benes<br>
+							
+						Michael Richards .................. Cosmo Kramer<br>
+							<br>
+							
+						Guest Stars:<br>
+							<br>
+							
+						Rena Sofer ........................... Mary Anne<br>
+							
+						Melinda Clarke..................... Alex<br>
+							
+						Chaim Jeraffi ........................ Jiffy Dump Guy<br>
+							
+						Sonya Eddy ......................... Rebecca<br>
+							
+						Barry Kramer ...................... Bag Guy<br>
+							
+						Elayn Taylor ........................ Book Fan<br>
+							
+						Paige Moss ........................... Girl<br>
+							
+						Viola Kates Simpson ............. Old Woman<br>
+							
+						Jack Riley ............................. Rider<br>
+							
+						Bunny Summers ................... Rider<br>
+							
+						Earl Carroll .......................... Rider<br>
+							
+						Norman Brenner .................. Rider<br>
+							
+						Reuven Bar .......................... Foreign Guy<br>
+							
+						Vince Donvito ...................... Passerby<br>
+							
+						Chris Burmester ................... Passerby<br>
+							
+						Deck McKenzie .................... Man<br>
+							
+						Victoria Fischer .................... Bartender<br>
+							
+						Keith Sellon-Wright .............. Guy<br>
+							
+						rc: Wayne Knight ................. Newman<br>
+							
+						rc: John O'Hurley ................. J. Peterman<br>
+							
+						rc: Richard Fancy .................. Mr. Lippman<br>
+							<br>
+							
+						==================================================================<br>
+							<br>
+							
+						[Jerry and George walking down the street.]<br>
+							<br>
+							
+						JERRY: Hang on just let me pick up a paper.<br>
+							<br>
+							
+						MAN: Excuse me. Would you mind watching my bag for a minute?<br>
+							<br>
+							
+						GEORGE: Yeah. No problem.<br>
+							<br>
+							
+						JERRY: Let's go.<br>
+							<br>
+							
+						GEORGE: Woah, I gotta watch this guy's bag.<br>
+							<br>
+							
+						JERRY: For how long?<br>
+							<br>
+							
+						GEORGE: I'm sure he'll be back in a second.<br>
+							<br>
+							
+						JERRY: Come on.<br>
+							<br>
+							
+						GEORGE: Excuse me sir. Would you mind watching my bag for a minute?<br>
+							<br>
+							
+						MAN 2: Why? So I can stand here like an idiot not knowing if you'll ever come back?<br>
+							<br>
+							
+						(Jerry starts to leave.)<br>
+							<br>
+							
+						GEORGE: Where are you going?<br>
+							<br>
+							
+						JERRY: I'm going to be this guy's friend.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Jerry and George at Monk's]<br>
+							<br>
+							
+						JERRY: New clothes?<br>
+							<br>
+							
+						GEORGE: Yeah. I did some shopping. Some new clothes shopping. (turns to a man) Can I borrow your menu?<br>
+							<br>
+							
+						JERRY: Strange. For new pants, there's noticable wear on the buttocks of those chinos. Wait those are the clothes from the bag!<br>
+							<br>
+							
+						GEORGE: The guy never came back.<br>
+							<br>
+							
+						JERRY: He asked you to watch them not wear them.<br>
+							<br>
+							
+						GEORGE: I'm still watching them.<br>
+							<br>
+							
+						JERRY: You look like a tourist.<br>
+							<br>
+							
+						GEORGE: All right, let me ask you something: When do you start to worry about ear hair?<br>
+							<br>
+							
+						JERRY: When you hear like a soft russeling.<br>
+							<br>
+							
+						GEORGE: It's like puberty that never stops. Ear puberty, nose puberty, knuckle puberty, you gotta be vigilent. Let me ask you this: Do you know where Walker Street is downtown? I've got a league meeting there.<br>
+							<br>
+							
+						JERRY: Oh right, the new job, how is it?<br>
+							<br>
+							
+						GEORGE: I love it. New office, new salary. I'm the new Wilhelm.<br>
+							<br>
+							
+						JERRY: So who's the new you?<br>
+							<br>
+							
+						GEORGE: They got a new intern from Francis Louis High. His name is Keith. He comes in Mondays after school.<br>
+							<br>
+							
+						JERRY: Oh hi Alex.<br>
+							<br>
+							
+						ALEX: I'm sorry I'm late. Have you ordered yet?<br>
+							<br>
+							
+						JERRY: No.<br>
+							<br>
+							
+						ALEX: I'll be right back.<br>
+							<br>
+							
+						GEORGE: Where are you meeting these women? When they get off the bus at the port authority?<br>
+							<br>
+							
+						JERRY: Right here, George. In here. (pointing to his chest) Try opening this up. You'll find the biggest dating scene in the world.<br>
+							<br>
+							
+						GEORGE: Thanks. Thanks a lot.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Kramer in Jerry's apartment. Kramer searches in Jerry's couch for something and picks it up. Elaine enters. Kramer hurriedly puts the cushions back on the couch.]<br>
+							<br>
+							
+						KRAMER: Hey.<br>
+							<br>
+							
+						ELAINE: Hey.<br>
+							<br>
+							
+						KRAMER: Hi.<br>
+							<br>
+							
+						ELAINE: Where's Jerry?<br>
+							<br>
+							
+						KRAMER: Well he's in the shower. You want me to get him?<br>
+							<br>
+							
+						ELAINE: No. No no. Actually I kind of need to speak to you.<br>
+							<br>
+							
+						KRAMER: Well let's sit down.<br>
+							<br>
+							
+						ELAINE: Kramer, ahem, remember that whole deal with you selling Peterman your stories for his book and then he gave them back to you?<br>
+							<br>
+							
+						KRAMER: Vaguely.<br>
+							<br>
+							
+						ELAINE: Well I was kind of, hehehe, short on material and I, um, I put them in the book anyway.<br>
+							<br>
+							
+						KRAMER: You put my life's stories in his autobiography?<br>
+							<br>
+							
+						ELAINE: Kramer listen, it is such a stupid book. It doesn't matter.<br>
+							<br>
+							
+						KRAMER: Oh no. Sure. It matters. Wow. I've broken through, huh. I'm part of popular culture now. Listen I've got to thank Mr. Peterman.<br>
+							<br>
+							
+						ELAINE: He's doing a book signing at Waldenbooks this afternoon.<br>
+							<br>
+							
+						KRAMER: Waldenbooks? That's a major chain huh.<br>
+							<br>
+							
+						(Kramer enters the bathroom.)<br>
+							<br>
+							
+						KRAMER: He Jerry, I'm going to waldenbooks.<br>
+							<br>
+							
+						JERRY: (yelling) Get out! Get out! I don't want to live like this.<br>
+							<br>
+							
+						KRAMER: All right, let's go.<br>
+							<br>
+							<br>
+							<br>
+							
+						[At Waldenbooks.]<br>
+							<br>
+							
+						ELAINE: Mr. Lippman, how are you?<br>
+							<br>
+							
+						MR. LIPPMAN: Well I'm not bad. Not bad.<br>
+							<br>
+							
+						ELAINE: What are you doing here?<br>
+							<br>
+							
+						MR. LIPPMAN: I work for Pundant Publishishing. This is our book.<br>
+							<br>
+							
+						ELAINE: Oh.<br>
+							<br>
+							
+						MR. LIPPMAN: If you can call it that. Why is it every half-wit and sitcom star has his own book out now?<br>
+							<br>
+							
+						KRAMER: Hey buddy. Remember me?<br>
+							<br>
+							
+						MR. PETERMAN: You're that gangly fellow we bought the stories from.<br>
+							<br>
+							
+						KRAMER: Yeah, I'm just here to do my part. What's your name darling?<br>
+							<br>
+							
+						WOMAN:: Who are you?<br>
+							<br>
+							
+						KRAMER: I'm the real Peterman.<br>
+							<br>
+							
+						MR. PETERMAN: All right playtime's over.<br>
+							<br>
+							
+						KRAMER: Relax man. There's enough juice here to keep us all fat and giggley.<br>
+							<br>
+							
+						WOMAN: I can't believe somebody pulled the top off of this muffin.<br>
+							<br>
+							
+						ELAINE: That was me. I'm sorry. I don't like the stumps.<br>
+							<br>
+							
+						MR. LIPPMAN: So you just eat the tops.<br>
+							<br>
+							
+						ELAINE: Oh yeah. It's the best part. It's crunchy, it's explosive, it's where the muffin breaks free of the pan and sort of (makes hand motions) does it's own thing. I'll tell you. That's a million dollor idea right there. Just sell the tops.<br>
+							<br>
+							
+						(Two men forcefully pick Kramer up and push him out of the store.)<br>
+							<br>
+							
+						KRAMER: I have a right to be here. These are my fans. Hey you're hurting my elbow.<br>
+							<br>
+							
+						(George is walking down the street looking down at his map. He is bumping into people.)<br>
+							<br>
+							
+						MAN 1: Try looking up hayseed.<br>
+							<br>
+							
+						MAN 2: You wanna sightsee? Get on a bus.<br>
+							<br>
+							
+						MARY ANNE: Please don't think all New Yorkers are so rude.<br>
+							<br>
+							
+						GEORGE: Well actually I'm...<br>
+							<br>
+							
+						MARY ANNE: I'm Mary Anne. I work for the New York Visitor's Center. Where are you visiting from?<br>
+							<br>
+							
+						GEORGE: Little Rock, Arkensas.<br>
+							<br>
+							
+						MARY ANNE: Ooh.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Jerry is in his bathroom shaving. He thinks. He tilts the mirror down.]<br>
+							<br>
+							
+						JERRY: Hmm. That looks new.<br>
+							<br>
+							
+						(He thinks some more. He picks up his razor.)<br>
+							<br>
+							
+						KRAMER: So get this. Peterman has his henchmen forcefully eject me from the book signing like I'm some kind of a maniac.<br>
+							<br>
+							
+						JERRY: (uncomfortably) Yeah that's too bad.<br>
+							<br>
+							
+						KRAMER: What's the matter with you?<br>
+							<br>
+							
+						JERRY: (uncomfortably) Nothing.<br>
+							<br>
+							
+						KRAMER: No, no, no. Don't give me that. I know you. Something's wrong. What is it.<br>
+							<br>
+							
+						JERRY: I did something stupid.<br>
+							<br>
+							
+						KRAMER: What did you do?<br>
+							<br>
+							
+						JERRY: Well I was shaving. And I noticed an asymmetry in my chest hair and I was trying to even it out. Next thing I knew, (high pitched voice) Gone.<br>
+							<br>
+							
+						KRAMER: Don't you know you're not supposed to poke around down there.<br>
+							<br>
+							
+						JERRY: Well women do it.<br>
+							<br>
+							
+						KRAMER: (high pitched voice) &quot;Well women do it.&quot; I'll tell you what. I'll pick you up a sundress and a parasol and you can just (high pitched voice) sashey your pretty little self around the town square.<br>
+							<br>
+							
+						JERRY: Well what am I going to tell Alex?<br>
+							<br>
+							
+						KRAMER: Listen to me. You don't tell anybody about this. No one. You hear me?<br>
+							<br>
+							
+						JERRY: Um hum.<br>
+							<br>
+							
+						(George enters)<br>
+							<br>
+							
+						KRAMER: Hey, Jerry shaved his chest.<br>
+							<br>
+							
+						JERRY: Hey!<br>
+							<br>
+							
+						KRAMER: I forgot. Wait. Never mind.<br>
+							<br>
+							
+						(Jerry and Alex walking.)<br>
+							<br>
+							
+						ALEX: How about the beach this weekend?<br>
+							<br>
+							
+						JERRY: You couldn't pay me enough to go to the beach on a weekend. I mean it's hard enough...<br>
+							<br>
+							
+						ALEX: All right. All right. Wow is that a Mexican Hairless? Oh, I love those. Ooh, Hairless. This is where it's at. It's so much smoother and cleaner.<br>
+							<br>
+							
+						JERRY: Really?<br>
+							<br>
+							<br>
+							<br>
+							
+						[Elaine walks into a muffin shop]<br>
+							<br>
+							
+						ELAINE: &quot;Top of the Muffin to you!&quot;?<br>
+							<br>
+							
+						MR. LIPPMAN: Top of the muffin to you. Elaine!<br>
+							<br>
+							
+						ELAINE: Mr Lippman?<br>
+							<br>
+							<br>
+							<br>
+							
+						[George and Jerry at Jerry's apartment.]<br>
+							<br>
+							
+						JERRY: So you're pretending to be a tourist?<br>
+							<br>
+							
+						GEORGE: It's beautiful. She makes all the plans. I'm not from around here so it's okay if I'm stupid, and she knows I'm only in town visiting so there's no messy breakup<br>
+							<br>
+							
+						JERRY: How do you explain your apartment?<br>
+							<br>
+							
+						GEORGE: I got a hotel room.<br>
+							<br>
+							
+						JERRY: you moved into a hotel?<br>
+							<br>
+							
+						GEORGE: Well I don't know anyone here Jerry. Where else am I going to stay?<br>
+							<br>
+							
+						JERRY: So get this: we're in the park today Alex goes wild for this hairless dog.<br>
+							<br>
+							
+						GEORGE: So?<br>
+							<br>
+							
+						JERRY: So. I figure since she likes one hairless animal why not another.<br>
+							<br>
+							
+						GEORGE: Oh really. You tell her you shaved it?<br>
+							<br>
+							
+						JERRY: Are you nuts? I don't want her to think I'm one of those low-rise briefs guys who shaves his chest.<br>
+							<br>
+							
+						(Kramer is in a school bus. He honks his horn. Camera shot down on the bus.)<br>
+							<br>
+							
+						KRAMER: (yelling up at Jerry) Hey Jerry.<br>
+							<br>
+							
+						(Jerry pulls up the blinds on his upstairs window and looks down.)<br>
+							<br>
+							
+						KRAMER: (yelling) I'm starting a Peterman Reality Bus Tour. Check it out. Hahaha.<br>
+							<br>
+							
+						GEORGE: Reality tour?<br>
+							<br>
+							
+						JERRY: The last thing this guy's qualified to give a tour of is reality.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Elaine at the muffin shop]<br>
+							<br>
+							
+						ELAINE: This was my idea you stole my idea.<br>
+							<br>
+							
+						MR. LIPPMAN: Elaine these ideas are all in the air. They're in the air.<br>
+							<br>
+							
+						ELAINE: Well if that air is comming out of this face then it is my air and my idea.<br>
+							<br>
+							
+						MR. LIPPMAN: You want a muffin or not?<br>
+							<br>
+							
+						ELAINE: Peach.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Gerge and Mary Anne at Monks]<br>
+							<br>
+							
+						MARY ANNE: So I notice you don't have much of an accent.<br>
+							<br>
+							
+						GEORGE: Yeah my parents have it. Sometimes it skips a generation.<br>
+							<br>
+							
+						MARY ANNE: Look george, I'm really enjoying spending time with you but I'm not sure this is going to work out. At some point you're going back to your job at Tyler Chicken and your three-legged dog Willie.<br>
+							<br>
+							
+						GEORGE: Willie. Yeah.<br>
+							<br>
+							
+						MARY ANNE: And I'm still going to be here.<br>
+							<br>
+							
+						GEORGE: Well what if I told you I'm thinking of moving here?<br>
+							<br>
+							
+						MARY ANNE: (laughs) George, no offense. But this city would eat you alive.<br>
+							<br>
+							
+						JERRY: You're moving to New York? That's fantastic. I can see you all the time now.<br>
+							<br>
+							
+						GEORGE: Eat me alive, huh? We'll see who can make it in *this* town.<br>
+							<br>
+							
+						JERRY: What is it she think you can't do?<br>
+							<br>
+							
+						GEORGE: Find a job. Get an apartment.<br>
+							<br>
+							
+						JERRY: How did you do those things?<br>
+							<br>
+							
+						GEORGE: Never mind. The're done. All I have to do now is redo them. You know if you take everything I've ever done in my entire life and condense it down into one day, it looks decent.<br>
+							<br>
+							
+						JERRY: Hey, what were you doing with that bus yesterday?<br>
+							<br>
+							
+						KRAMER: Here you go, here you go, check it out.<br>
+							<br>
+							
+						JERRY: &quot;The Real Peterman Reality Bus Tour&quot;. I'm confused.<br>
+							<br>
+							
+						KRAMER: Peterman's book is big business. People want to know the stories behind the stories.<br>
+							<br>
+							
+						JERRY: Nobody wants to go on a three hour bus tour of a totally unknown person's life.<br>
+							<br>
+							
+						KRAMER: I'm only charging $37.50, plus you get a pizza bagel and desert.<br>
+							<br>
+							
+						GEORGE: What's desert?<br>
+							<br>
+							
+						KRAMER: Bite-size Three Musketeers. Just like the real Peterman eats.<br>
+							<br>
+							
+						GEORGE: He eats those?<br>
+							<br>
+							
+						KRAMER: No. I eat those. I'm the real Peterman.<br>
+							<br>
+							
+						GEORGE: I think I understand this. Jay Peterman is real. His biography is not. Now, you Kramer are real.<br>
+							<br>
+							
+						KRAMER: Talk to me.<br>
+							<br>
+							
+						GEORGE: But your life is Peterman's. Now the bus tour, which is real, takes to places that, while they are real, they are not real in sense that they did not *really* happen to the *real* Peterman which is you.<br>
+							<br>
+							
+						KRAMER: Understand?<br>
+							<br>
+							
+						JERRY: Yeah. $37.50 for a Three Musketeers.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Elaine and Mr. Lippman at Monk's]<br>
+							<br>
+							
+						MR. LIPPMAN: Elaine. I'm in over my head. Nobody likes my muffin tops.<br>
+							<br>
+							
+						ELAINE: So? What do you want me to do about it?<br>
+							<br>
+							
+						MR. LIPPMAN: You're the muffin top expert, tell me what I'm doing wrong.<br>
+							<br>
+							
+						ELAINE: Mr. Lippman, when I worked for you at Pendent Publishing, I believed in you, you know as a man of integrity. But, I saw you in that paper hat and that aprin...<br>
+							<br>
+							
+						MR. LIPPMAN: What if I cut you in for 30% of the profits?<br>
+							<br>
+							
+						ELAINE: Deal. Here's your problem. You're making just the muffin tops. You've gotta make the *whole* muffin. Then you... Pop the top, toss the stump. Taste.<br>
+							<br>
+							
+						MR. LIPPMAN: Ah. (takes a bite of the top.) Mmmmm. Ah hah?<br>
+							<br>
+							
+						ELAINE: Yeah.<br>
+							<br>
+							
+						MR. LIPPMAN: So what do we with the bottoms?<br>
+							<br>
+							
+						ELAINE: I don't know, give em to a soup kitchen.<br>
+							<br>
+							
+						MR. LIPPMAN: That's a good idea.<br>
+							<br>
+							
+						ELAINE: And one more thing, you really think we need the exclamation point? Because, it's not &quot;Top of the Muffin *TO YOU!!!*&quot;<br>
+							<br>
+							
+						MR. LIPPMAN: No. No. It is.<br>
+							<br>
+							<br>
+							<br>
+							
+						[At Jerry's apartment]<br>
+							<br>
+							
+						KRAMER: Hey Jerry. What is this? Lady Gillette? What's going on?<br>
+							<br>
+							
+						JERRY: What? Can't I get a moment's peace?<br>
+							<br>
+							
+						KRAMER: What are you doing to yourself?<br>
+							<br>
+							
+						(Jerry walks into camera view with his chest covered with shaving cream.)<br>
+							<br>
+							
+						JERRY: I can't stop. Alex thinks I'm naturally hairless.<br>
+							<br>
+							
+						KRAMER: You can't keep this up. Don't you know what's going to happen? Everytime you shave it, it's going to come in thicker and fuller and darker.<br>
+							<br>
+							
+						JERRY: Oh that's an old wives tale.<br>
+							<br>
+							
+						KRAMER: Is it? Look at this.<br>
+							<br>
+							
+						(Kramer walks off-screen and opens his shirt. On-screen, Jerry reels from the sight.)<br>
+							<br>
+							
+						KRAMER: (high pitched voice) Look at it! Look at it! And it's all me. I shaved there when I was a lifeguard.<br>
+							<br>
+							
+						JERRY: Oh come on. That's genetics. That's not going to happen to me.<br>
+							<br>
+							
+						KRAMER: Won't it? Or is it already starting to happen?<br>
+							<br>
+							<br>
+							<br>
+							
+						[Elaine at the muffin shop]<br>
+							<br>
+							
+						ELAINE: Wow. Look at this. We're cleaning up.<br>
+							<br>
+							
+						LIPPMAN: Oh, Rubin, get me another tray of lowfat cranberry.<br>
+							<br>
+							
+						REBECCA: Excuse me, I'm Rebecca Demore from the homeless shelter.<br>
+							<br>
+							
+						ELAINE: Oh, hi.<br>
+							<br>
+							
+						REBECCA: Are you the ones leaveing the muffing pieces behind our shelter?<br>
+							<br>
+							
+						ELAINE: You been enjoying them?<br>
+							<br>
+							
+						REBECCA: They're just stumps.<br>
+							<br>
+							
+						ELAINE: Well they're perfectly edible.<br>
+							<br>
+							
+						REBECCA: Oh, so you just assume that the homeless will eat them, they'll eat anything?<br>
+							<br>
+							
+						MR. LIPPMAN: No no, we just thought...<br>
+							<br>
+							
+						REBECCA: I know what you thought. They don't have homes, they don't have jobs, what do they need the top of a muffin for? They're lucky to get the stumps.<br>
+							<br>
+							
+						ELAINE: If the homeless don't like them the homeless don't have to eat them.<br>
+							<br>
+							
+						REBECCA: The homeless don't like them.<br>
+							<br>
+							
+						ELAINE: Fine.<br>
+							<br>
+							
+						REBECCA: We've never gotten so many complaints. Every two minutes, &quot;Where is the top of this muffin? Who ate the rest of this?&quot;<br>
+							<br>
+							
+						ELAINE: We were just trying to help.<br>
+							<br>
+							
+						REBECCA: Why don't you just drop off some chicken skins and lobster shells.<br>
+							<br>
+							
+						ELAINE: I think I might.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Mary Anne and George at George's &quot;new&quot; apartment.]<br>
+							<br>
+							
+						MARY ANNE: I can't believe you found something so quickly. How much you pay?<br>
+							<br>
+							
+						GEORGE: $2300.<br>
+							<br>
+							
+						MARY ANNE: Ouch. A month?<br>
+							<br>
+							
+						GEORGE: Yeah.<br>
+							<br>
+							
+						MARY ANNE: Well, guess that's all right for now, but if you say here for more than a few months, you're a real sucker.<br>
+							<br>
+							
+						GEORGE: Yeah, well I uh got lots of other stuff to show you too. Wait till you see the plum job that I landed.<br>
+							<br>
+							
+						MARY ANNE: Yeah. We should let this place air out anyway. It smells like the last tenant had monkeys or something.<br>
+							<br>
+							
+						(Mary Anne exits. George sniffs his armpit.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[On Kramer's bus.]<br>
+							<br>
+							
+						KRAMER: Comming up on the right, if you glance up you can just make out my bedroom window. It's the one that's covered in chicken wire.<br>
+							<br>
+							
+						WOMAN: Hey if you're the real Peterman, who come you're wearing those ratty clothes? The're not very romantic.<br>
+							<br>
+							
+						KRAMER: (over the speaker) Well that's your opinion.<br>
+							<br>
+							
+						MAN 1: Can I have another Three Musketeers? They're rather small.<br>
+							<br>
+							
+						KRAMER: Forget it. Okay Newman's postal route is around here somewhere.<br>
+							<br>
+							
+						MAN 2: Who's Newman?<br>
+							<br>
+							
+						MAN 3: Who cares.<br>
+							<br>
+							
+						MAN 4: Hey fake Peterman, let me off. I'm nautious.<br>
+							<br>
+							
+						MAN 1: Can I have his candy bar?<br>
+							<br>
+							
+						KRAMER: Ahh. Everyone just settle down. We have three hours left on this thing, and I can't drive and argue with you rubes all at the same time. Okay. Lomez's place of worship is right on the right here.<br>
+							<br>
+							<br>
+							<br>
+							
+						[At Jerry's apartment.]<br>
+							<br>
+							
+						JERRY: Why do I have to go on the tour?<br>
+							<br>
+							
+						KRAMER: Jerry you're a minor celebrity. If you go on this thing, it could create a minor stir. Bring that girlfriend of your and I'll only charge to 60 bucks.<br>
+							<br>
+							
+						(Elaine enters)<br>
+							<br>
+							
+						JERRY: Hey, how's business?<br>
+							<br>
+							
+						ELAINE: Ooh, I've got stump troubles. The Sanitation Department won't get rid of them all, I can't get a truck to haul this stuff until next week. Meanwhile, I'm sitting on a mountain of stumps.<br>
+							<br>
+							
+						KRAMER: All right, I've got to hose the puke off the floor of the bus.<br>
+							<br>
+							
+						ELAINE: Bus? Wait a minute, wait a minute, bus? You've got a bus?<br>
+							<br>
+							
+						KRAMER: Yeah.<br>
+							<br>
+							
+						ELAINE: You got any room on that thing?<br>
+							<br>
+							
+						KRAMER: Yeah there are a few seats still available.<br>
+							<br>
+							
+						ELAINE: Do you think you could transport some stumps for me? I'll make it worth your while.<br>
+							<br>
+							
+						KRAMER: Well, if they don't mind sitting in the back.<br>
+							<br>
+							
+						ELAINE: No they don't.<br>
+							<br>
+							
+						KRAMER: Are they war veterans?<br>
+							<br>
+							
+						(Elaine looks at him confused.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[In George's office.]<br>
+							<br>
+							
+						MARY ANNE: Wow this is your office.<br>
+							<br>
+							
+						MR. STEINBRENNER: Woah. Hello. Sorry George, didn't know you got a girl in here. Give me a signal on the doornob like a necktie or a sock or something. Come on George, help me out.<br>
+							<br>
+							
+						MARY ANNE: Mr. Steinbrenner, I would like to thank you for taking a chance on a hen supervisor at Tyler Chicken like our boy George here.<br>
+							<br>
+							
+						MR. STEINBRENNER: Hen supervisor from Tyler Chicken?<br>
+							<br>
+							
+						GEORGE: Yes. Very nice to have had her to mention... (starting to leave)<br>
+							<br>
+							
+						MR. STEINBRENNER: Wait a minute George.<br>
+							<br>
+							
+						GEORGE: Be right with you. Look Mr. Steinbrenner.<br>
+							<br>
+							
+						MR. STEINBRENNER: Moonlighting for Tyler Chicken. Pretty impressive George. Days with the New York Yankees and nights in Arkensas with a top flight bird outlet. And a hen supervisor to boot. I am blown. Bloooown away. Blown George. (vibration in the &quot;o&quot;'s) Bloooooooooooooooooooown.<br>
+							<br>
+							<br>
+							<br>
+							
+						[On Kramer's bus.]<br>
+							<br>
+							
+						ALEX: You know when you make a pizza bagel, you really shouldn't use cinnimon rasin.<br>
+							<br>
+							
+						JERRY: You also shouldn't use a donut.<br>
+							<br>
+							
+						(Kramer gets on the bus. He starts the tape player playing banjo music.)<br>
+							<br>
+							
+						KRAMER: All right ladies and gentlemen. Welcome to the Peterman Reality Tour...<br>
+							<br>
+							
+						TAPE PLAYER: Turn music off.<br>
+							<br>
+							
+						JERRY: Can we just go?<br>
+							<br>
+							
+						KRAMER: And go we will.<br>
+							<br>
+							
+						MAN: What is this? A piece of pound cake?<br>
+							<br>
+							
+						KRAMER: We have a bonus reality stop today. We will be hauling muffin stumps to the local repository.<br>
+							<br>
+							
+						MAN 2: We're going to a garbage dump?<br>
+							<br>
+							
+						KRAMER: And we're off.<br>
+							<br>
+							
+						JERRY: You know I never though he would be able to recreate the experience of actually knowing him, but this is pretty close.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Mr. Steinbrenner is sitting at his desk on the phone with the manager at Tyler chicken who is also sitting at his desk.]<br>
+							<br>
+							
+						MR. STEINBRENNER: (the back of his head to the camera) John Tyler? George Steinbreener here. I want to talk about George Castanza. I understand he's been dividing his time between us and you. I cannot have that.<br>
+							<br>
+							
+						JOHN TYLER: (the back of his head also to the camera) Well I don't know who he is but if you want him that bad I'm not giving him up that easily.<br>
+							<br>
+							
+						MR. STEINBRENNER: Oh is that so. Playing a little hardball huh Jonnyboy?<br>
+							<br>
+							
+						JOHN TYLER: How about this. You give me Castanza, I convert your concessions to all chicken no charge. Instead of hot dogs, chicken dogs. Instead of pretzels, chicken twists. Instead of beer, alcoholic chicken.<br>
+							<br>
+							
+						MR. STEINBRENNER: How do you make that alcoholic chicken?<br>
+							<br>
+							
+						JOHN TYLER: Let if ferment, just like everything else.<br>
+							<br>
+							
+						MR. STEINBRENNER: That stuff sounds great. All right. I'll have Costanza on the next bus.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Kramer at a garbage dump carrying a garbage bag.]<br>
+							<br>
+							
+						MAN: Hey hey hey hey hey. Where do you think you're going?<br>
+							<br>
+							
+						KRAMER: I was going to dump this.<br>
+							<br>
+							
+						MAN: It doesn't look like garbage.<br>
+							<br>
+							
+						KRAMER: Well it's muffin stumps<br>
+							<br>
+							
+						MAN: Where are the muffin tops?<br>
+							<br>
+							
+						KRAMER: This is a garbage dump. Just let me dump it.<br>
+							<br>
+							
+						MAN: Can't do it.<br>
+							<br>
+							
+						KRAMER: Is this a joke?<br>
+							<br>
+							
+						MAN: That's what I'd like to know about it.<br>
+							<br>
+							
+						ALEX: You have a pretty heavy beard, don't you?<br>
+							<br>
+							
+						JERRY: What's that?<br>
+							<br>
+							
+						ALEX: Well look it's almost time for you to shave again.<br>
+							<br>
+							
+						JERRY: Oh. Yeah.<br>
+							<br>
+							
+						KRAMER: (gets back on the bus, yelling) Well maybe I will take it up with Consumer Affairs. Ladies and Gentlemen you're in for an additional treat. We're going to extend the tour at no extra charge.<br>
+							<br>
+							
+						MAN: Where are we going?<br>
+							<br>
+							
+						KRAMER: (looking at a map) I don't know. (over the speaker) Uh, no more questions.<br>
+							<br>
+							
+						(Banjo music plays as they look for garbage dumps.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Next scene. Kramer argues with someone at a dump.]<br>
+							<br>
+							<br>
+							<br>
+							
+						[Next scene. A man vomits on the floor.]<br>
+							<br>
+							<br>
+							<br>
+							
+						[Next scene. Kramer is driving. He is sleepy. His head nods down onto the horn. The horn blows. Startled, Kramer sits back up. Banjo music finishes.]<br>
+							<br>
+							
+						WAITRESS: So, the New York Yankees traded you for a bunch of Tyler chicken.<br>
+							<br>
+							
+						GEORGE: Dogs, twists, a kind of fermented chicken drink.<br>
+							<br>
+							
+						MAN: Hey, aren't you the guy I asked to watch my clothes?<br>
+							<br>
+							
+						GEORGE: What clothes?<br>
+							<br>
+							
+						MAN: These clothes. The ones you're wearing.<br>
+							<br>
+							<br>
+							<br>
+							
+						[On Kramer's bus]<br>
+							<br>
+							
+						JERRY: (in low voice to next to Kramer) Kramer how much longer? My chest hair is comming back and it's itching me like crazy. I can't let her see me scratch it.<br>
+							<br>
+							
+						KRAMER: Don't worry. I've got a good feeling about this dump.<br>
+							<br>
+							
+						JERRY: I'm telling you man, I'm losing it.<br>
+							<br>
+							
+						(Kramer gets off the bus, carrying a garbage bag.)<br>
+							<br>
+							
+						(Eerie music is playing. Jerry looks out the bus window at a full moon. A dog starts barking.)<br>
+							<br>
+							
+						JERRY: I can't sit on this bus anymore. I think I'll go play with that dog.<br>
+							<br>
+							
+						KRAMER: I don't know where the tops are.<br>
+							<br>
+							
+						(Jerry runs past Kramer and another person. Eerie music still playing.)<br>
+							<br>
+							
+						KRAMER: Jerry what's the matter?<br>
+							<br>
+							
+						(In slow motion Jerry runs into the woods. At normal speed he runs behind a tree. Camera shot down on him as he starts scratching his chest.)<br>
+							<br>
+							
+						JERRY: (for the first half of the howl, a dog howls along with him.) Awoooooo-oooooooo, that feels good.<br>
+							<br>
+							
+						BARTENDER: Hey, you looking for George?<br>
+							<br>
+							
+						MARY ANNE: Yeah.<br>
+							<br>
+							
+						BARTENDER: He's been in the bathroom awhile. You might want to check on him.<br>
+							<br>
+							
+						GEORGE: (talking on the phone) Jerry you gotta bring me some clothes down here. I lost my job with the Yankees. I'm standing in the men's room on 43rd street in my underpants.<br>
+							<br>
+							
+						MARY ANNE: I told you this city would eat you alive.<br>
+							<br>
+							<br>
+							<br>
+							
+						[At the muffin shop.]<br>
+							<br>
+							
+						MR. LIPPMAN: What is this guy again?<br>
+							<br>
+							
+						ELAINE: They call him a Cleaner. He makes problems go away.<br>
+							<br>
+							
+						(Newman enters. )<br>
+							<br>
+							
+						NEWMAN: Hello Elaine. Where are they?<br>
+							<br>
+							
+						ELAINE: In the back.<br>
+							<br>
+							
+						NEWMAN: All right, I'm going to need a clean 8 ounce glass.<br>
+							<br>
+							
+						MR. LIPPMAN: What is going on here?<br>
+							<br>
+							
+						NEWMAN: If I'm curt, then I appologize. But as I understand it, we have a situation here and time is of the essence.<br>
+							<br>
+							
+						(Newman goes to the back room with the muffin stumps and sets down a cooler and an empty glass. From the cooler he takes out 4 bottles of milk and sets them down. He bites into a stump, then takes a drink of milk from the glass. (continuity error: he never actually poured the glass of milk.) He swishes the muffin and the milk together and swollows. He takes another stump.)<br>
+							<br>
+							<br>
+							
+						The End</td>
+						</tr>
+						<tr height="6">
+							<td class="bottom2" width="645" height="6"></td>
+						</tr>
+						<tr>
+							<td width="645">
+								<div align="center">
+									<font size="-1">Copyright 2006 seinology.com | All Rights Reserved | Designed by 13erla</font></div>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+		<p></p>
+	</body>
+
+</html>

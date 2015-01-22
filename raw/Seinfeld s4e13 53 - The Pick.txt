@@ -1,0 +1,1200 @@
+<tdOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+<html>
+
+	<head>
+		<meta http-equiv="content-type" content="text/html;charset=ISO-8859-1">
+		<meta name="description" content="Top Source for Seinfeld">
+		<meta name="keywords" content="seinfeld, sienfeld, Jerry Seinfeld, Julia Louis Dreyfus, Jason Alexander, Michael Richards, Kramer, George, Costanza, Elaine Benes, morty, Larry David">
+		<title>Seinology.com :: Scripts :: 53-The Pick</title>
+	<link rel='stylesheet' href='/stylesheet.css' type='text/css'>
+	</head>
+
+	<body>
+			<table align="center" width="787" border="0" cellspacing="0" cellpadding="0">
+				<tr>
+					<td><font size="-2" color="red">Seinology.com - </font><font size="-3" color="black">Where Seinfeld Content and Accuracy Matter Most. Seinfeld scripts in pdf form, Seinfeld episode video clips, Seinfeld episode audio clips, Jerry Seinfeld appearances, Julia Louis-Dreyfus appearances, Michael Richards appearances, Jason Alexander appearances, Seinfeld discussion Forum, Seinfeld Where are they Now? Seinlanguage Newsletter, Popular Seinfeld Lists, Seinfeld episode standup, Seinfeld episode guide, Seinfeld fan fiction. Seinfeld content all on one domain. Seinology.com enjoy your stay.</font></td>
+				</tr>
+			</table>
+		
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr height="100">
+				<td class="logo"></td>
+			</tr>
+			<tr><td class="ads" align="center" background=#8694fa>
+				<script type="text/javascript"><!--
+google_ad_client = "pub-1924026976931416";
+google_ad_width = 728;
+google_ad_height = 90;
+google_ad_format = "728x90_as";
+google_ad_type = "text";
+google_ad_channel = "";
+google_color_border = "FFFFFF";
+google_color_bg = "8694fa";
+google_color_link = "0000FF";
+google_color_text = "000000";
+google_color_url = "002E3F";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></td></tr>
+		</table>
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr>
+				<td valign="top" width="136">
+					<table width="136" border="0" cellspacing="0" cellpadding="0">
+						<tr height="24">
+							<td class="navigation">
+								<div align="center">
+									
+									<b>Navigation</b></div>
+							</td>
+						</tr>
+						<tr height="199">
+							<td class="spacer1" valign="top" width="136" height="199">
+								<div align="center">
+									<font size="-1"><a href="http://www.seinology.com">Home</a><br>
+										<a href="http://board.seinology.com">Forum</a><br>
+										<a href="http://www.seinology.com/av.shtml">Audio/Video</a><br>
+										<a href="http://www.seinology.com/scripts.shtml">Scripts</a><br>
+										<a href="http://www.seinology.com/survivor.shtml">Survivor</a><br>
+										<a href="http://www.seinology.com/fanfics.shtml">Fan Fiction</a><br>
+										<a href="http://www.seinology.com/gallery/">Gallery</a><br>
+										<a href="http://www.seinology.com/newsletter.shtml">Newsletter</a><br>
+										<a href="http://www.seinology.com/lists.shtml">Lists</a><br>
+										<a href="http://www.seinology.com/epguide.shtml">Episode Guide</a><br>
+										<a href="http://www.seinology.com/links.shtml">Links</a><br>
+										<a href="http://www.seinology.com/faqother.shtml">Faq + others</a><br>
+										<a href="http://www.seinology.com/legal.shtml">Legal</a></font></div>
+							</td>
+						</tr>
+						
+						<tr>
+							<td class="nav2" width="136">
+							<div align="center"><b>Search</b></div></td>
+						</tr>
+						<tr>
+							<td class="spacer1" width="136" valign="top"><div align="center"><form method="get" action="http://www.seinology.com/search/search.cgi">
+<p><label for="fdse_Match">Match</label><br>
+<select name="Match" id="fdse_Match" size="1">
+<option value="1">All</option>
+<option value="0">Any</option>
+<option value="2">Phrase</option>
+</select></p>
+<p><label for="fdse_Realm">Where?</label><br>
+<select name="Realm" id="fdse_Realm" size="1">
+<option selected="selected" value="All">EntireSite</option>
+<option value="Ep Guide">Ep Guide</option>
+<option value="Images">Images</option>
+<option value="Lists">Lists</option>
+<option value="Newsletters">Newsletters</option>
+<option value="Scripts">Scripts</option>
+<option value="Notes..Nothing">Notes..Nothing</option>
+</select></p>
+<p><input type="text" name="Terms" size="14" id="fdse_Terms"><br>
+<input type="submit" class="submit" name="submitButtonName" value="Search"></p>
+</div></form></td>
+						</tr>
+						<tr><td class="bottom" width="136" height="10" valign="top">
+						</td>
+						</tr>
+					</table>
+				</td>
+				<td width="4"></td>
+				<td valign="top" width="645">
+					<table width="645" border="0" cellspacing="0" cellpadding="0">
+						<tr height="18">
+							<td width="645" height="35" class="bar">
+								<div align="center">
+									<b><font size="+2" color="black">Script</font></b></div>
+							</td>
+						</tr>
+						<tr height="362">
+							<td class="spacer2" valign="top" width="645" height="362">
+
+						<p><font size="-2">Episode 53 - The Pick<br>
+							
+						pc: 413, season 4, episode 13<br>
+							
+						Broadcast date: December 16, 1992<br>
+							<br>
+							
+						Written by Larry Charles<br>
+							
+						Story by Larry David and Marc Jaffe<br>
+							
+						Directed by Tom Cherones<br>
+							<br>
+							
+						-------------------------------------------------------------------------------<br>
+							<br>
+							
+						The Cast<br>
+							
+						Regulars:<br>
+							
+						Jerry Seinfeld ....................... Jerry Seinfeld<br>
+							
+						Jason Alexander .................. George Costanza<br>
+							
+						Julia Louis-Dreyfus ............. Elaine Benes<br>
+							
+						Michael Richards ................. Kramer<br>
+							<br>
+							
+						Guest Stars:<br>
+							<br>
+							
+						Jennifer Campbell ................ Tia<br>
+							
+						Gina Hecht .......................... Dana Foley<br>
+							
+						Nicholas Hormann ............... Calvin Klein<br>
+							
+						Tony Carlin .......................... Fred<br>
+							
+						Francois Giroday ................. Male Executive<br>
+							
+						Blaire Baron ......................... Female Executive<br>
+							
+						Steve Schubert ..................... Man in Office<br>
+							
+						rc: Heidi Swedberg .............. Susan Biddle Ross<br>
+							
+						rc: Wayne Knight ................. Newman<br>
+							<br>
+							
+						==================================================================<br>
+							<br>
+							
+						[Jerry's Apartment]<br>
+							<br>
+							
+						GEORGE: I loved her Jerry, I loved her.<br>
+							<br>
+							
+						JERRY: No, you didn't.<br>
+							<br>
+							
+						GEORGE: And she loved me. Hoo, ho, she really did.<br>
+							<br>
+							
+						JERRY: No she didn't.<br>
+							<br>
+							
+						GEORGE: What am I going to do now? I can't live without Susan. I gotta get her back. How? How, am I gonna get her back?<br>
+							<br>
+							
+						ELAINE: [OC] Not only didn't you love her, you didn't even like her.<br>
+							<br>
+							
+						GEORGE: Who says?<br>
+							<br>
+							
+						ELAINE: You did.<br>
+							<br>
+							
+						GEORGE: Ah, ...A beautiful successful intelligent woman's in love with me and I throw it all away. uh oh boy. Now I'll spend the rest of my life living alone. I'll sit in my disgusting little apartment watching basketball games, eating Chinese take out. Walking around with no underwear. Because I'm too lazy to do a laundry.<br>
+							<br>
+							
+						JERRY: You walk around with no underwear?<br>
+							<br>
+							
+						GEORGE: Yeah, what do you do when you run out of laundry?<br>
+							<br>
+							
+						JERRY: I do a wash.<br>
+							<br>
+							
+						GEORGE: Who am I going to meet who is better than her? No one, Jerry. No one's better than her.<br>
+							<br>
+							
+						JERRY: When you were with her you said you couldn't stand her.<br>
+							<br>
+							
+						GEORGE: I loved her!<br>
+							<br>
+							
+						JERRY: You said goin up the steps of her apartment was like being taken to a cell.<br>
+							<br>
+							
+						GEORGE: I would give anything to be going up those stairs again.<br>
+							<br>
+							
+						GEORGE: I gotta call her. Should I call her?<br>
+							<br>
+							
+						JERRY: George, I don't know if that is such a good idea?<br>
+							<br>
+							
+						GEORGE: Whyie?<br>
+							<br>
+							
+						JERRY: You need some professional advice. Why don't you go see Elaine's friend? She's a therapist.<br>
+							<br>
+							
+						GEORGE: I'm not going to see that nut doctor she went to Europe with.<br>
+							<br>
+							
+						JERRY: No, no no [Elaine enters, flossing teeth] Elaine what's the name of that friend of yours ... that's a therapist ... the woman.<br>
+							<br>
+							
+						ELAINE: Dana Folley.<br>
+							<br>
+							
+						JERRY: Right, Dana Folley.<br>
+							<br>
+							
+						GEORGE: She any good?<br>
+							<br>
+							
+						ELAINE: Yeah, she's terrific. Why? You thinking of going?<br>
+							<br>
+							
+						GEORGE: Wa, uh, ...<br>
+							<br>
+							
+						ELAINE: Tia? Who's that?<br>
+							<br>
+							
+						JERRY: She's the model I met on the plane.<br>
+							<br>
+							
+						ELAINE: She sent you a Christmas card?<br>
+							<br>
+							
+						JERRY: Um uh. And we're going out Saturday night.<br>
+							<br>
+							
+						GEORGE: My Darling Susan! My DARLING!!!<br>
+							<br>
+							
+						(They ignore George)<br>
+							<br>
+							
+						JERRY: What are you doing?<br>
+							<br>
+							
+						ELAINE: ... date with Fred.<br>
+							<br>
+							
+						JERRY: The religious guy?<br>
+							<br>
+							
+						ELAINE: He's not THAT religious.<br>
+							<br>
+							
+						JERRY: Let us pray.<br>
+							<br>
+							
+						(Kramer Enters)<br>
+							<br>
+							
+						KRAMER: Hey, you got any Double Crunch?<br>
+							<br>
+							
+						JERRY: Yeah.<br>
+							<br>
+							
+						JERRY: Kramer, should I call Susan?<br>
+							<br>
+							
+						KRAMER: Now what does the little man inside you say? See you gotta listen to the little man.<br>
+							<br>
+							
+						GEORGE: My little man doesn't know.<br>
+							<br>
+							
+						KRAMER: The little man knows all.<br>
+							<br>
+							
+						GEORGE: My little man's an idiot.<br>
+							<br>
+							
+						ELAINE: See, she was clever. You know she put her picture on a card. I should do that. I never do anything like that.<br>
+							<br>
+							
+						KRAMER: You want a picture like that on a Christmas card? I can do that for you. ...<br>
+							<br>
+							
+						GEORGE: She kept such a nice clean apartment. She was so sanitary.<br>
+							<br>
+							
+						ELAINE: No, no, I was just thinking out loud I don't want my picture on a card.<br>
+							<br>
+							
+						KRAMER: No, no, I'll take your picture. I'll take care of everything.<br>
+							<br>
+							
+						GEORGE: She made a big breakfast every Sunday. I don't know what she put in those eggs.<br>
+							<br>
+							
+						KRAMER: All right, ... now, you come on over. I'll have my cereal and I'll take your picture.<br>
+							<br>
+							
+						ELAINE: Really? Can you really take a picture?<br>
+							<br>
+							
+						JERRY: Yeah, he's good. He takes good pictures. He's got equipment over there.<br>
+							<br>
+							
+						ELAINE: All right, ha ha<br>
+							<br>
+							
+						KRAMER: I don't know about that outfit though.<br>
+							<br>
+							
+						ELAINE: Why? What's wrong with it?<br>
+							<br>
+							
+						KRAMER: Well, we'll have to improvise.<br>
+							<br>
+							
+						(Elaine and Kramer exit)<br>
+							<br>
+							
+						GEORGE: (singing) Oh hey, if you happen to see the most beautiful girl who walked out on me. Tell her I'm sorry. Tell her I need my baby ... oh won't you tell her ... I love her. Oh hey, ...<br>
+							<br>
+							
+						JERRY: George I'm afraid I'm going to have to ask you to leave.<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						[Change of Scene Tia at Jerry's]<br>
+							<br>
+							
+						JERRY: So, I'm thinking of putting in na tropical fish tank right here.<br>
+							<br>
+							
+						TIA: Are you sure you're ready for that kind of comitment?<br>
+							<br>
+							
+						JERRY: Well, I figure if it doesn't work out I can always flush them down the toilet.<br>
+							<br>
+							
+						TIA: That's horrible!<br>
+							<br>
+							
+						JERRY: What's that perfume you're wearing?<br>
+							<br>
+							
+						TIA: oh I completely forgot I want you to see this. The CALVIN KLEIN ad I was telling you about came out today.<br>
+							<br>
+							
+						JERRY: What is that smell?<br>
+							<br>
+							
+						TIA: It's here somewhere.<br>
+							<br>
+							
+						JERRY: It smells like the beach.<br>
+							<br>
+							
+						TIA: Exactly.<br>
+							<br>
+							
+						JERRY: Oh my God is that the new perfume?<br>
+							<br>
+							
+						TIA: Yeah.<br>
+							<br>
+							
+						JERRY: I can't believe this. My next door neighbour had the idea for this exact perfume last year. He even met with an executive at CALVIN KLEIN. I can't believe they stole his idea.<br>
+							<br>
+							
+						TIA: Are you sure?<br>
+							<br>
+							
+						JERRY: And you're the model for this perfume?<br>
+							<br>
+							
+						(Noise)<br>
+							<br>
+							
+						JERRY: Uh, that's him. He just came home. ... Uh, the door [Jerry pushes his door against Kramer's entrance]<br>
+							<br>
+							
+						KRAMER: Hey<br>
+							<br>
+							
+						JERRY: Hey.<br>
+							<br>
+							
+						KRAMER: Hey, how ya' doing? [Trying to enter]<br>
+							<br>
+							
+						JERRY: Yeah, uh, I'll see you later.<br>
+							<br>
+							
+						KRAMER: I just wanted to borrow your Dust Buster.<br>
+							<br>
+							
+						JERRY: All right come on in. ... Just wait over HERE! Just wait here and I'll get it for you. ... Kramer this is Tia.<br>
+							<br>
+							
+						KRAMER: Hello.<br>
+							<br>
+							
+						(Jerry pushes Tia back away from Kramer)<br>
+							<br>
+							
+						KRAMER: How tall are you?<br>
+							<br>
+							
+						TIA: Five ten.<br>
+							<br>
+							
+						KRAMER: Come on lets see - Back to Back.<br>
+							<br>
+							
+						JERRY: NO! Kramer!<br>
+							<br>
+							
+						KRAMER: What's the matter with you? I just wanted to see how tall she was.<br>
+							<br>
+							
+						JERRY: Oh, you're tall - she's tall I'm tall. What's the difference who's tall. We're all tall.<br>
+							<br>
+							
+						KRAMER: What's that?<br>
+							<br>
+							
+						JERRY: What?<br>
+							<br>
+							
+						KRAMER: That smell. What's that smell?<br>
+							<br>
+							
+						JERRY: (starting the Dust Buster) What smell?<br>
+							<br>
+							
+						KRAMER: It's very familiar. I can't put my finger on it. It's very familiar.<br>
+							<br>
+							
+						JERRY: Oh, they're all the same. Here. [gives him Dust Buster] Now if you'll excuse us, ..<br>
+							<br>
+							
+						KRAMER: Yeah, okay, So I'll see you tomorrow uh?<br>
+							<br>
+							
+						JERRY: Okay.<br>
+							<br>
+							
+						KRAMER: Yeah. Nice meeting you.<br>
+							<br>
+							
+						TIA: Nice meeting you too.<br>
+							<br>
+							
+						JERRY: I'll see you later.<br>
+							<br>
+							
+						(Kramer slowly leaves as Jerry shuts door on him)<br>
+							<br>
+							
+						JERRY: Ooow, that was close.<br>
+							<br>
+							
+						KRAMER: [OC] THE BEACH!!!<br>
+							<br>
+							
+						(enters)<br>
+							<br>
+							
+						KRAMER: You smell like the beach. What's the name of that perfume? you're wearing.<br>
+							<br>
+							
+						TIA: It's Ocean by CALVIN KLEIN.<br>
+							<br>
+							
+						KRAMER: CALVIN KLEIN? No, no. That's my idea. They, they stole my idea. Y' see I had the idea of a cologne that makes you smell like you just came from the beach.<br>
+							<br>
+							
+						JERRY: I know look at this [shows ad]<br>
+							<br>
+							
+						KRAMER: Whooo, ... That's you! What is going on here? The gyp(?) he laughs at me then he steals my idea. I could have been a millionaire. I could have been a fragrance millionaire, Jerry. ... They're not going to get away with this.<br>
+							<br>
+							
+						(End of scene)<br>
+							<br>
+							<br>
+							
+						[Therapist's Office]<br>
+							<br>
+							
+						(George enters)<br>
+							<br>
+							
+						DANA: Hello. George, come in. Come in I've heard an awful lot about you. Please sit down.<br>
+							<br>
+							
+						GEORGE: Well hello. Um, ah, specifically the reason that I'm here, uh, I don't know uh what Elaine told you but uh I broke up with my girlfriend a couple of weeks ago. Actually she broke up with me [struggling with his coat zipper] and uh, well, I was the cause of it and uh, I just wanted to find out from you ... What's with this thing?<br>
+							<br>
+							
+						DANA: So uh, she broke up with you? ...<br>
+							<br>
+							
+						GEORGE: Yeah, and, ... Why won't this go down?<br>
+							<br>
+							
+						DANA: It's all right don't worry about it. So, why did she break up with you?<br>
+							<br>
+							
+						GEORGE: What is with this damn zipper?<br>
+							<br>
+							
+						DANA: It doesn't matter. You'll fix it later. Tell me about your girlfriend.<br>
+							<br>
+							
+						GEORGE: It's stuck on a piece of cloth here. I can't get the cloth out.<br>
+							<br>
+							
+						DANA: It doesn't matter, so ...<br>
+							<br>
+							
+						GEORGE: This is a brand new jacket. Boy this really burns me up, ...<br>
+							<br>
+							
+						DANA: George, George, look at me. Okay, forget about the zipper. ... What's your girlfriend's name?<br>
+							<br>
+							
+						GEORGE: ... Susan.<br>
+							<br>
+							
+						DANA: Okay, we're getting somewhere.<br>
+							<br>
+							
+						GEORGE: UH, ha ha, ... It's just SO frustrating. It's a brand new jacket.<br>
+							<br>
+							<br>
+							
+						[Jerry's Apartment]<br>
+							<br>
+							
+						ELAINE: Anyway so Fred and I are going to do some volunteer work for that Church on Amsterdam.<br>
+							<br>
+							
+						JERRY: Oh, volunteer work!. See that's what I like about the holiday season. That's the true spirit of Christmas. People being helped by people other than me. That makes me feel good inside. Look at what we have here. (mail). A Christmas card from Laine. You didn't have to go to all that trouble.<br>
+							<br>
+							
+						ELAINE: It was no trouble. My assistant did the whole thing.<br>
+							<br>
+							
+						JERRY: I didn't even see the picture. How did it come out?<br>
+							<br>
+							
+						ELAINE: Well, you know. It's a picture?<br>
+							<br>
+							
+						JERRY: Oh yeah. Look at that. Looks good. Kramer did a good job.<br>
+							<br>
+							
+						ELAINE: Yeah, well. How hard is it to take a picture?<br>
+							<br>
+							
+						JERRY: ... um ...<br>
+							<br>
+							
+						ELAINE: What?<br>
+							<br>
+							
+						JERRY: Did you look at look at this picture carefully?<br>
+							<br>
+							
+						ELAINE: Carefully?<br>
+							<br>
+							
+						JERRY: Because I'm not sure and and and correct me if I'm wrong but I think I see ... a nipple.<br>
+							<br>
+							
+						ELAINE: What?<br>
+							<br>
+							
+						JERRY: Here. Take a look. What, what is that?<br>
+							<br>
+							
+						ELAINE: (gasps) Oh my God! That's my nipple.<br>
+							<br>
+							
+						JERRY: That's what I thought.<br>
+							<br>
+							
+						ELAINE: That's my nipple. My nipple's exposed. I sent this card to hundreds of people! My parents. My boss. Uh, Nana and Papa.<br>
+							<br>
+							
+						JERRY: DIDN'T YOU LOOK AT THE PICTURE?<br>
+							<br>
+							
+						ELAINE: Oh God I didn't notice. Oh, what am I going to do? You know your whole life you go through painstaking efforts to hide your nipple and then BOOM, suddenly hundreds of people get their own personal shot of it.<br>
+							<br>
+							
+						(Kramer enters)<br>
+							<br>
+							
+						KRAMER: Hey!<br>
+							<br>
+							
+						ELAINE: Have you seen the card?<br>
+							<br>
+							
+						KRAMER: What card?<br>
+							<br>
+							
+						ELAINE: This car.<br>
+							<br>
+							
+						KRAMER: Yeah, yeah. Of course. I took it.<br>
+							<br>
+							
+						ELAINE: Well did you notice anything unusual about it?<br>
+							<br>
+							
+						KRAMER: No.<br>
+							<br>
+							
+						ELAINE: Well come here and take a look.<br>
+							<br>
+							
+						KRAMER: Yeah, so?<br>
+							<br>
+							
+						ELAINE: So, what's that?<br>
+							<br>
+							
+						KRAMER: That's a nipple.<br>
+							<br>
+							
+						ELAINE: Right!!<br>
+							<br>
+							
+						KRAMER: Ooo!<br>
+							<br>
+							
+						ELAINE: Aw, great!? Didn't you see that?<br>
+							<br>
+							
+						KRAMER: Aw, no, no I didn't notice it. no, uh,<br>
+							<br>
+							
+						ELAINE: It's because you made me wear that stupid shirt.<br>
+							<br>
+							
+						JERRY: Well, maybe no one noticed it. You didn't notice it. Let me go get Newman. We'll see if he sees it.<br>
+							<br>
+							
+						ELAINE: No. I don't want him looking.<br>
+							<br>
+							
+						JERRY: Oh what's the difference. Everybody else you know has it.<br>
+							<br>
+							
+						ELAINE: Oh my God. I sent one to the super in my building. My mailman. My ten year old little nephew. Sister Mary Catherine. Father Chelios. Oh my God Fred! I sent one to Fred.<br>
+							<br>
+							<br>
+							
+						[Jerry enters with Newman]<br>
+							<br>
+							
+						NEWMAN: Okay. What is it?<br>
+							<br>
+							
+						JERRY: Take a look at this card. Tell me if you notice anything unusual about it.<br>
+							<br>
+							
+						NEWMAN: Your nipple's showing.<br>
+							<br>
+							
+						JERRY: Okay. Thanks.<br>
+							<br>
+							
+						NEWMAN: Anything else?<br>
+							<br>
+							
+						JERRY: No.<br>
+							<br>
+							
+						NEWMAN: All right. See you later.<br>
+							<br>
+							
+						JERRY: What? So what? It's a nipple. A little round circular protuberance. What's the big deal? See everybody's got them. See I got them.<br>
+							<br>
+							
+						KRAMER: I got them too.<br>
+							<br>
+							
+						JERRY: Everybody's got them.<br>
+							<br>
+							<br>
+							
+						[Therapist's Office]<br>
+							<br>
+							
+						DANA: You see it's kind of got a little piece of cloth that's slipped underneath and it's ...<br>
+							<br>
+							
+						GEORGE: Pull it up a little bit.<br>
+							<br>
+							
+						DANA: Uhg. Well you hold it. Wait, uh, Damn It! I can't move it. God, I've never seen a zipper so stubborn. DAMN IT! I almost had it.<br>
+							<br>
+							
+						GEORGE: Yeah, okey, wait wait. That will separate.<br>
+							<br>
+							
+						DANA: No. Let me try...<br>
+							<br>
+							
+						GEORGE: Take it right off the chest...<br>
+							<br>
+							
+						DANA: Ugh, ..<br>
+							<br>
+							
+						GEORGE: You're gonna rip it. You're gonna rip it.<br>
+							<br>
+							
+						DANA: YEAH!! UGH!!! ARG!!! ... I am afraid we're going to have to stop.<br>
+							<br>
+							
+						GEORGE: Okay. Uh, my mother is is going to pay for the sessions. ... Oh,Elaine?<br>
+							<br>
+							
+						DANA: Yeah.<br>
+							<br>
+							
+						GEORGE: (stares at card)<br>
+							<br>
+							<br>
+							
+						[Jerry's car - BMW]<br>
+							<br>
+							
+						[Jerry scratching right side of nose. Tia in a cab sees him, in shock. Cab pulls away.]<br>
+							<br>
+							
+						JERRY: No, No, No, No, Oh, No.<br>
+							<br>
+							<br>
+							
+						[Jerry's Apartment]<br>
+							<br>
+							
+						(Jerry hanging up phone)<br>
+							<br>
+							
+						JERRY: Well every day for the past four days she hasn't returned one call.<br>
+							<br>
+							
+						GEORGE: Was it a scratch or a pick?<br>
+							<br>
+							
+						JERRY: It was a scratch.<br>
+							<br>
+							
+						GEORGE: Hey. It's me.<br>
+							<br>
+							
+						JERRY: Don't you think I know the difference between a pick and a scratch?<br>
+							<br>
+							
+						(Buzzer)<br>
+							<br>
+							
+						JERRY: Yeah?<br>
+							<br>
+							
+						ELAINE: (OC) It's me.<br>
+							<br>
+							
+						JERRY: Come on up.<br>
+							<br>
+							
+						GEORGE: Was there any nostril penetration?<br>
+							<br>
+							
+						JERRY: There may have been some incidental penetration. But from her angle she was in no position to make the call.<br>
+							<br>
+							
+						GEORGE: So let's say in her mind she witnessed a pick. Okay, so then what?<br>
+							<br>
+							
+						JERRY: Is that so unforgivable? Is that like breaking a commandment? Did God say to Moses thou shalt not pick?<br>
+							<br>
+							
+						GEORGE: I guarantee you that Moses was a picker. You wander throughh the desert for forty years with that dry air. ... You telling me you're not going to have occasion to clean house a little bit.<br>
+							<br>
+							
+						JERRY: Let me ask you something. If you were going out with somebody and if she did that what would, would you do? Would you continue going out with her?<br>
+							<br>
+							
+						GEORGE: No. That's disgusting!<br>
+							<br>
+							
+						(Elaine enters)<br>
+							<br>
+							
+						ELAINE: You cannot believe what I'm going through. That card is plastered all over the office. Everybody is calling me, Nip! ... Yeah. That's my new nickname at the office. Nip! These guys keep asking me out for drinks. Not only that, Fred, you know the guy I told you about? He hasn't called me in three days. ... [sees card] Oh please!<br>
+							<br>
+							
+						GEORGE: Hey. How come I didn't get a Christmas card? Everybody else got one. Jerry got one, Kramer got one. I thought we were good friends. I don't get a Christmas card. I don't get it.<br>
+							<br>
+							
+						ELAINE: You want a Christmas card? You want a Christmas card? All right here. [rubs George's head on her breasts] Here's your Christmas card.<br>
+							<br>
+							
+						(Kramer enters)<br>
+							<br>
+							
+						KRAMER: Got any Double Crunch?<br>
+							<br>
+							
+						JERRY: yeah. I think I do.<br>
+							<br>
+							
+						KRAMER: What's that perfume?<br>
+							<br>
+							
+						ELAINE: What, Ocean.<br>
+							<br>
+							
+						KRAMER: That's mine. That's my smell. Jerry you've got to get that model to get me an appointment with CALVIN KLEIN.<br>
+							<br>
+							
+						JERRY: I can't She won't return my calls because she caught me in a pick at a light.<br>
+							<br>
+							
+						KRAMER: I thought you said it was a scratch.<br>
+							<br>
+							
+						JERRY: But that's not what she thinks.<br>
+							<br>
+							
+						GEORGE: Why don't you call her agency. Maybe she's been out of town and she didn't get the calls.<br>
+							<br>
+							
+						JERRY: All right. I'll call the agency. [Elaine grabs card from George] Hello. Yes, I'm trying to get in touch with Tia Van Camp. Do you know if she's been in town? She's been in town. Oh really. well thank you very much. [hangs up] She has been in town. She's at CALVIN KLEIN's right now.<br>
+							<br>
+							
+						KRAMER: Let's go.<br>
+							<br>
+							<br>
+							
+						[Monk's]<br>
+							<br>
+							
+						GEORGE: It'll be different this time.<br>
+							<br>
+							
+						SUSAN: I need someone a little more stable.<br>
+							<br>
+							
+						GEORGE: I'm not stable? I'm like a rock. I take these glasses off, you can't tell the difference between me and a rock. I put these glasses on a rock. You know what jumps into most people's minds? Costanza!<br>
+							<br>
+							
+						SUSAN: People don't change.<br>
+							<br>
+							
+						GEORGE: I change I change. Two weeks ago I tried a soft boiled egg. Never liked it before. Now I'm dunkin a piece of toast in there and I'm loving it.<br>
+							<br>
+							
+						SUSAN: I'm not a soft boiled egg.<br>
+							<br>
+							
+						GEORGE: And I am not a piece of toast.<br>
+							<br>
+							
+						SUSAN: I just don't think we have anything in common.<br>
+							<br>
+							
+						GEORGE: That's okay. That's good. You think Louie Pasteur and his wife had anything in common? He was in the fields all day with the cows, you know with the milk, examining the milk, delving into milk, consummed with milk. Pasteurization, Homogenization, She was in the kitchen killing cockroaches with a boot on each hand.<br>
+							<br>
+							
+						SUSAN: Why were there so many cockroaches?<br>
+							<br>
+							
+						GEORGE: Because. There was a lot of cake lying around the house. Just sitting there going with all the excess milk from all the experiments [grins]<br>
+							<br>
+							
+						SUSAN: And they got along?<br>
+							<br>
+							
+						GEORGE: Yes! Yes. You know. She didn't know about Pasteurization. He didn't know anout Fumigation. But they made it work!<br>
+							<br>
+							<br>
+							
+						[Trump Towers]<br>
+							<br>
+							
+						KRAMER: I want to talk to Calvin.<br>
+							<br>
+							
+						SECRETARY: You can't go in there.<br>
+							<br>
+							
+						KRAMER: Let me talk to Calvin.<br>
+							<br>
+							
+						[Kramer enters office]<br>
+							<br>
+							
+						TIA: Kramer?<br>
+							<br>
+							
+						KRAMER: Yeah, uh.<br>
+							<br>
+							
+						CALVIN KLEIN: Who are you?<br>
+							<br>
+							
+						KRAMER: I'm here to talk about the ocean.<br>
+							<br>
+							
+						CALVIN KLEIN: Oh, yes kramer. I uh, think I know something about this. Will you excuse us Tia? [Tia leaves]<br>
+							<br>
+							
+						KRAMER: Now I don't want any trouble Calvin.<br>
+							<br>
+							
+						CALVIN KLEIN: Neither do I.<br>
+							<br>
+							<br>
+							
+						[Outside office]<br>
+							<br>
+							
+						JERRY: Hello there you are.<br>
+							<br>
+							
+						TIA: What are you doing here?<br>
+							<br>
+							
+						JERRY: Well, I had to talk to you - I noticed you haven't been returning my calls.<br>
+							<br>
+							
+						TIA: Well, I've been busy.<br>
+							<br>
+							
+						JERRY: Because I - I thought we had a good time the other night, an' the only explanation I can come up with is that you think that you caught me (flustered, he indicates a nose pick)<br>
+							<br>
+							
+						TIA: (Waving him off) I'd rather not talk about this..<br>
+							<br>
+							
+						JERRY: But I was clearly on the outer edge of the nostril.<br>
+							<br>
+							
+						TIA: I know what I saw. (Turns toward the elevators)<br>
+							<br>
+							
+						JERRY: But there - but there was no pick! I - I did not pick! There ws no piick!<br>
+							<br>
+							
+						TIA: I gotta go. (Quickly walks away from Jerry)<br>
+							<br>
+							
+						JERRY: No! No pick!<br>
+							<br>
+							
+						(Scene ends)<br>
+							<br>
+							<br>
+							
+						[Setting: Calvin Klein's office]<br>
+							<br>
+							
+						(Kramer, standing, is talking with Klein)<br>
+							<br>
+							
+						KRAMER: All right, now here's the scoop, Jockey. I, uh, I came in here last January to talk to one of your ffflunkies..<br>
+							<br>
+							
+						KLEIN: (Reflecting on Kramer) Interesting face..<br>
+							<br>
+							
+						KRAMER: Yeah.. And, um, when I told him my idea about the beach cologne, you know, he - he laughed at me.<br>
+							<br>
+							
+						KLEIN: You're very lithe, aren't you? Very graceful.<br>
+							<br>
+							
+						KRAMER: Well, yeah.<br>
+							<br>
+							
+						KLEIN: Sit down, eh? (Kramer, misjudging one side of the couch, sits down uncomfortably) You're very lean, but muscular..<br>
+							<br>
+							
+						KRAMER: You know, I try to take care of myself. I - I watch what I eat. Ah, just recently I cut out fructose.<br>
+							<br>
+							
+						KLEIN: You're spectacular.<br>
+							<br>
+							
+						KRAMER: (Flattered) Oh?<br>
+							<br>
+							
+						(Scene ends)<br>
+							<br>
+							<br>
+							
+						[Setting: Elaine's office]<br>
+							<br>
+							
+						(Elaine's fighting with her boyfriend, Fred, about her Christmas card)<br>
+							<br>
+							
+						ELAINE: I told you, Fred - my friend's next door neighbor took it.<br>
+							<br>
+							
+						FRED: (Incredulous) Soo - what happened?!<br>
+							<br>
+							
+						ELAINE: Well, I-I-I must a missed a button. I forgot to button it.<br>
+							<br>
+							
+						FRED: I really don't see how you could miss a button like that.<br>
+							<br>
+							
+						ELAINE: Oh, you've never missed a button?! (Phone rings, she puts it on speakerphone) Yeah?..<br>
+							<br>
+							
+						RECEPTIONIST: Your sister, Gail.<br>
+							<br>
+							
+						ELAINE: Oh, God - my nephew. (Picks up the phone and hits the button) Hi, Gail!.. Yu.. yu... Yes, Gail, I know how old he is.<br>
+							<br>
+							
+						CO-WORKER: (Pokes his head into the doorway) Hey, Nip, ya need that manuscript or can I take it home?<br>
+							<br>
+							
+						ELAINE: Yeah, take it! Take it!.. An' stop calling me &quot;Nip&quot;! (Co-worker takes it and quickly leaves. Elaine goes back to the phone) It was an accident! Well.. well.. it's gotta be somewhere. Look under his mattress.<br>
+							<br>
+							
+						(Scene ends)<br>
+							<br>
+							<br>
+							
+						[Setting: Susan's apartment building]<br>
+							<br>
+							
+						(George and Susan are slowly making their way up the stars to Susan's apartment. He's treating it very much like the long walk to an execution; she's mellow and happy)<br>
+							<br>
+							
+						(Scene ends)<br>
+							<br>
+							<br>
+							
+						[Setting: Calvin Klein's office]<br>
+							<br>
+							
+						(A couple people are sitting with Klein, and talking. Kramer is no where in sight)<br>
+							<br>
+							
+						WOMAN: About the focus group? I had nothing to do with the focus group. What's your point? (She sees Kramer emerge from another room. He's wearing only dress shoes, socks, and his briefs) My.. he's sexual, athletic.. an' without a trace of self-consciousness!<br>
+							<br>
+							
+						KLEIN: His buttocks are sublime!<br>
+							<br>
+							
+						MAN: Of course, his pectorals could use a little work - I suppose we could get him into the weight room.<br>
+							<br>
+							
+						WOMAN: (Mesmerized with Kramer's body) No, let's get him in the studio today. We can send these out immediately.<br>
+							<br>
+							
+						(Kramer casually puts his hand on the wall, attempting to lean on it, but the corner is rounded, and he slides along it, eventually falling down. Fortunately, the other people don't notice - they're talking amongst themselves)<br>
+							<br>
+							
+						MAN: You've done it again, C.K.!<br>
+							<br>
+							
+						(Scene ends)<br>
+							<br>
+							<br>
+							
+						[Setting: Calvin Klein office building]<br>
+							<br>
+							
+						(In a hallway, Tia and others are waiting for the elevator. Jerry, deciding to make a speach, starts to preach to the crowd)<br>
+							<br>
+							
+						JERRY: An' what if I did do it? Even though I admit to nothing, and never will. What does that make me? And I'm not here just defending myself but all those Pickers out there who've been caught. (Elevator doors open) Each an' every one of them, who has to suffer the shame and humiliation because of people like you.. (Everyone but Jerry is now in the elevator. Jerry's still addressing them) Are we not human?! If we pick, do we not bleed?! (Elevator doors shut. A few people in the hallway are looking at him, he turns and addresses them) I am not an animal!<br>
+							<br>
+							
+						(Scene ends)<br>
+							<br>
+							<br>
+							
+						[Setting: Elaine's office]<br>
+							<br>
+							
+						(Elaine's standing in the doorway, yelling at Fred)<br>
+							<br>
+							
+						ELAINE: I did not bare myself deliberately, but I tell you, I wish now that I had! (Fred, shocked by her speech, flees. She calls after him, still standing at the hallway) Because it is not me that has been exposed, but you! For I have seen the nipple on your soul!<br>
+							<br>
+							
+						(Scene ends)<br>
+							<br>
+							<br>
+							
+						[Monk's]<br>
+							<br>
+							
+						GX: So the minute I started up the steps to her apartment I knew I made a terrible mistake. Going back with her. So we're in her apartment she goes into the bathroom. I'm cursing myself; now how do I get out of this? Then it hits me like a bolt of lightening. The pick.<br>
+							<br>
+							
+						JERRY: The pick?<br>
+							<br>
+							
+						ELAINE: The pick?<br>
+							<br>
+							
+						GEORGE: She comes out of the bathroom, I'm in up to my wrist. You should have seen the look on her face.<br>
+							<br>
+							
+						JERRY: I think I've seen that look.<br>
+							<br>
+							
+						(Kramer enters)<br>
+							<br>
+							
+						KRAMER: I've got the magazine. The underwear ad came out.<br>
+							<br>
+							
+						JERRY: Boy, they really worked on your pectorals.<br>
+							<br>
+							
+						GEORGE: Your buttocks are spectacular.<br>
+							<br>
+							
+						ELAINE: Oh my!<br>
+							<br>
+							
+						KRAMER: What?<br>
+							<br>
+							
+						ELAINE: I'm not sure but... I think I see your...<br>
+							<br>
+							<br>
+							
+						The End</td>
+						</tr>
+						<tr height="6">
+							<td class="bottom2" width="645" height="6"></td>
+						</tr>
+						<tr>
+							<td width="645">
+								<div align="center">
+									<font size="-1">Copyright 2006 seinology.com | All Rights Reserved | Designed by 13erla</font></div>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+		<p></p>
+	</body>
+
+</html>

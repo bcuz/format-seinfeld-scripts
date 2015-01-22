@@ -1,0 +1,1388 @@
+<tdOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+<html>
+
+	<head>
+		<meta http-equiv="content-type" content="text/html;charset=ISO-8859-1">
+		<meta name="description" content="Top Source for Seinfeld">
+		<meta name="keywords" content="seinfeld, sienfeld, Jerry Seinfeld, Julia Louis Dreyfus, Jason Alexander, Michael Richards, Kramer, George, Costanza, Elaine Benes, morty, Larry David">
+		<title>Seinology.com :: Scripts :: 132-The Bottle Deposit(2)</title>
+	<link rel='stylesheet' href='/stylesheet.css' type='text/css'>
+	</head>
+
+	<body>
+			<table align="center" width="787" border="0" cellspacing="0" cellpadding="0">
+				<tr>
+					<td><font size="-2" color="red">Seinology.com - </font><font size="-3" color="black">Where Seinfeld Content and Accuracy Matter Most. Seinfeld scripts in pdf form, Seinfeld episode video clips, Seinfeld episode audio clips, Jerry Seinfeld appearances, Julia Louis-Dreyfus appearances, Michael Richards appearances, Jason Alexander appearances, Seinfeld discussion Forum, Seinfeld Where are they Now? Seinlanguage Newsletter, Popular Seinfeld Lists, Seinfeld episode standup, Seinfeld episode guide, Seinfeld fan fiction. Seinfeld content all on one domain. Seinology.com enjoy your stay.</font></td>
+				</tr>
+			</table>
+		
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr height="100">
+				<td class="logo"></td>
+			</tr>
+			<tr><td class="ads" align="center" background=#8694fa>
+				<script type="text/javascript"><!--
+google_ad_client = "pub-1924026976931416";
+google_ad_width = 728;
+google_ad_height = 90;
+google_ad_format = "728x90_as";
+google_ad_type = "text";
+google_ad_channel = "";
+google_color_border = "FFFFFF";
+google_color_bg = "8694fa";
+google_color_link = "0000FF";
+google_color_text = "000000";
+google_color_url = "002E3F";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></td></tr>
+		</table>
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr>
+				<td valign="top" width="136">
+					<table width="136" border="0" cellspacing="0" cellpadding="0">
+						<tr height="24">
+							<td class="navigation">
+								<div align="center">
+									
+									<b>Navigation</b></div>
+							</td>
+						</tr>
+						<tr height="199">
+							<td class="spacer1" valign="top" width="136" height="199">
+								<div align="center">
+									<font size="-1"><a href="http://www.seinology.com">Home</a><br>
+										<a href="http://board.seinology.com">Forum</a><br>
+										<a href="http://www.seinology.com/av.shtml">Audio/Video</a><br>
+										<a href="http://www.seinology.com/scripts.shtml">Scripts</a><br>
+										<a href="http://www.seinology.com/survivor.shtml">Survivor</a><br>
+										<a href="http://www.seinology.com/fanfics.shtml">Fan Fiction</a><br>
+										<a href="http://www.seinology.com/gallery/">Gallery</a><br>
+										<a href="http://www.seinology.com/newsletter.shtml">Newsletter</a><br>
+										<a href="http://www.seinology.com/lists.shtml">Lists</a><br>
+										<a href="http://www.seinology.com/epguide.shtml">Episode Guide</a><br>
+										<a href="http://www.seinology.com/links.shtml">Links</a><br>
+										<a href="http://www.seinology.com/faqother.shtml">Faq + others</a><br>
+										<a href="http://www.seinology.com/legal.shtml">Legal</a></font></div>
+							</td>
+						</tr>
+						
+						<tr>
+							<td class="nav2" width="136">
+							<div align="center"><b>Search</b></div></td>
+						</tr>
+						<tr>
+							<td class="spacer1" width="136" valign="top"><div align="center"><form method="get" action="http://www.seinology.com/search/search.cgi">
+<p><label for="fdse_Match">Match</label><br>
+<select name="Match" id="fdse_Match" size="1">
+<option value="1">All</option>
+<option value="0">Any</option>
+<option value="2">Phrase</option>
+</select></p>
+<p><label for="fdse_Realm">Where?</label><br>
+<select name="Realm" id="fdse_Realm" size="1">
+<option selected="selected" value="All">EntireSite</option>
+<option value="Ep Guide">Ep Guide</option>
+<option value="Images">Images</option>
+<option value="Lists">Lists</option>
+<option value="Newsletters">Newsletters</option>
+<option value="Scripts">Scripts</option>
+<option value="Notes..Nothing">Notes..Nothing</option>
+</select></p>
+<p><input type="text" name="Terms" size="14" id="fdse_Terms"><br>
+<input type="submit" class="submit" name="submitButtonName" value="Search"></p>
+</div></form></td>
+						</tr>
+						<tr><td class="bottom" width="136" height="10" valign="top">
+						</td>
+						</tr>
+					</table>
+				</td>
+				<td width="4"></td>
+				<td valign="top" width="645">
+					<table width="645" border="0" cellspacing="0" cellpadding="0">
+						<tr height="18">
+							<td width="645" height="35" class="bar">
+								<div align="center">
+									<b><font size="+2" color="black">Script</font></b></div>
+							</td>
+						</tr>
+						<tr height="362">
+							<td class="spacer2" valign="top" width="645" height="362">
+
+						<p><font size="-2">Episode 132 - The Bottle Deposit (2)<br>
+							
+						pc: 722, season 7, episode 22<br>
+							
+						Broadcast date: May 2, 1996<br>
+							
+						NOTE: Originally broadcast as part of a 60 min episode, with The Bottle Deposit (1)<br>
+							<br>
+							
+						Written by Gregg Kavet &amp; Andy Robin<br>
+							
+						Directed by Andy Ackerman<br>
+							<br>
+							
+						-------------------------------------------------------------------------------<br>
+							<br>
+							
+						The Cast<br>
+							
+						Regulars:<br>
+							
+						Jerry Seinfeld .......................&nbsp; Jerry Seinfeld<br>
+							
+						Jason Alexander ..................&nbsp; George Costanza<br>
+							
+						Julia Louis-Dreyfus .............&nbsp; Elaine Benes<br>
+							
+						Michael Richards .................&nbsp; Cosmo Kramer<br>
+							<br>
+							
+						Guest Stars:<br>
+							<br>
+							
+						Brad Garrett ........................ Tony<br>
+							
+						Mary Jo Keenen ................... Deena<br>
+							
+						Rance Howard ..................... Farmer<br>
+							
+						Nicholas Mele ....................... Detective<br>
+							
+						Karen Lynn Scott ................. Farmer's Daughter<br>
+							
+						Sandy Ward ......................... Pop<br>
+							
+						Dan O'Connor ...................... Young Cop<br>
+							
+						Bonnie McNeil ...................... Woman<br>
+							
+						rc: Wayne Knight ................. Newman<br>
+							
+						rc: Richard Herd .................. Wilhelm<br>
+							
+						rc: John O'Hurley ................. J. Peterman<br>
+							<br>
+							
+						==================================================================<br>
+							
+						[Montage of snippets]<br>
+							<br>
+							
+						JERRY (V.O.): Last week on Seinfeld.<br>
+							<br>
+							
+						A sequence of clips from The Bottle Deposit (1) establishes the story<br>
+							
+						so far: Newman and Kramer are using a USPS mail truck to run deposit bottles and cans to Michigan, in order to collect 10 cents on each of them. George has been given an assignment by Mr Wilhelm, but he hasn't a clue what it is. Elaine outbids Sue-Ellen Mishke at an auction, to buy John F Kennedy's golf clubs on behalf of Mr Peterman, and leaves them in the back of Jerry's car. Kramer and Newman have left groceries under the hood of Jerry's car, meaning Jerry has to take it to Tony the mechanic, who loves the car more than Jerry does. When Jerry asks for his car back, Tony flees in it, taking JFK's clubs with him.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Outside Auto Shop]<br>
+							<br>
+							
+						(Jerry and Elaine are outside the autoshop. Jerry is on the payphone.)<br>
+							<br>
+							
+						JERRY: Okay, thank you. (hangs up the phone)<br>
+							<br>
+							
+						ELAINE: So? What'd they say?<br>
+							<br>
+							
+						JERRY: They're sending a detective to my apartment tomorrow.<br>
+							<br>
+							
+						ELAINE: What the hell were you thinking leaving my clubs in that car?!<br>
+							<br>
+							
+						JERRY: Well, I didn't count on my mechanic pulling a Mary-Beth Whitehead, did I?<br>
+							<br>
+							
+						ELAINE: What kind of maniac is this guy?<br>
+							<br>
+							
+						JERRY: He's a very special maniac.<br>
+							<br>
+							
+						ELAINE: What am I supposed to tell Mr Peterman.<br>
+							<br>
+							
+						JERRY: I don't know.<br>
+							<br>
+							
+						ELAINE: Why couldn't you take better care of that car?!<br>
+							<br>
+							<br>
+							<br>
+							
+						[Elaine's Office]<br>
+							<br>
+							
+						(Elaine at her desk. Peterman enters.)<br>
+							<br>
+							
+						PETERMAN: Well, are they here?<br>
+							<br>
+							
+						ELAINE: Mr Peterman, uh... There seems to be a bit of a snag.<br>
+							<br>
+							
+						PETERMAN: Snag?<br>
+							<br>
+							
+						ELAINE: It seems that a psychotic mechanic has absconded with my friend's car.<br>
+							<br>
+							
+						PETERMAN: What does that have to do with my clubs?<br>
+							<br>
+							
+						ELAINE: They happened to be in the back seat at the time.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Jerry's Apartment]<br>
+							<br>
+							
+						(Jerry is talking with a police detective at his door.)<br>
+							<br>
+							
+						DETECTIVE: What was the suspect wearing at the time of the incident?<br>
+							<br>
+							
+						JERRY: You know, like mechanic's pants, a shirt that said 'Tony'. Lemme ask you something, have you ever seen a case like this before?<br>
+							<br>
+							
+						DETECTIVE: All the time. A mechanic forms an emotional attachment, thinks he'sgonna lose the car, he panics, he does something rash. I'm gonna ask you somepersonal questions. I'm sorry if I touch a nerve, but I think it'll help with the case. Had you been taking good care of the car?<br>
+							<br>
+							
+						JERRY: Had I been taking...?<br>
+							<br>
+							
+						DETECTIVE: Well, did you leave the A/C on? Do you zip over speed bumps? Do you ride the clutch? Things like that.<br>
+							<br>
+							
+						JERRY: W-well, what does it matter? It's my car, I can do whatever I want with it.<br>
+							<br>
+							
+						(The detective stares at Jerry.)<br>
+							<br>
+							
+						JERRY: Not that I would think of doing such things.<br>
+							<br>
+							
+						DETECTIVE: (making a note) Alright Mr Seinfeld, we'll let you know if we find anything. I gotta be honest with you, these cases never end up well.<br>
+							<br>
+							
+						JERRY: Well uh, whatever you can do. Thanks.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Yankee Stadium: George's Office]<br>
+							<br>
+							
+						(George sits at his desk, his forehead resting on a folder he has clutched in his hands. Mr Wilhelm enters, looking happy.)<br>
+							<br>
+							
+						GEORGE: (hesitant) Uh, Mr Wilhelm. Uh, about the project...<br>
+							<br>
+							
+						WILHELM: That's what I came to talk to you about. Great job George. (shakes George's hand) You really nailed it.<br>
+							<br>
+							
+						GEORGE: I did?<br>
+							<br>
+							
+						WILHELM: Oh yes, I read through it this morning. I couldn't have done it better myself, and I turned it right over to Mr Steinbrenner. Good work George.<br>
+							<br>
+							
+						(Wilhelm leaves. George looks stunned and confused.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Jerry's Apartment]<br>
+							<br>
+							
+						(By now, George is looking much more pleased.)<br>
+							<br>
+							
+						JERRY: I don't get it. He assigns it to you, you don't do it. Somehow it gets done, and now he's telling you what a great job you did.<br>
+							<br>
+							
+						GEORGE: Maybe somebody did it and didn't take credit for it. Maybe it was already done and didn't need doing in the first place. I have no idea who did it, what they did, or how they did it so well. And you know what? Jimmy crack corn and I don't care.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Mr Wilhelm's Home]<br>
+							<br>
+							
+						(Wilhelm sits on the couch. He has a newspaper and is talking to his wife, who's in another room.)<br>
+							<br>
+							
+						WILHELM: The gardener did a nice job planting the rose bushes, didn't he dear?<br>
+							<br>
+							
+						MRS WILHELM (O.C.): You planted the rose bushes, dear.<br>
+							<br>
+							
+						WILHELM: I did?<br>
+							<br>
+							
+						MRS WILHELM (O.C.): Yesterday. You remember.<br>
+							<br>
+							
+						WILHELM: (thinks for a moment) That's right. (pause) What's for dinner?<br>
+							<br>
+							
+						MRS WILHELM (O.C.): We just ate. Did you forget to take your medicine?<br>
+							<br>
+							
+						(Wilhelm can be seen struggling to recollect.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Jerry's Apartment]<br>
+							<br>
+							
+						(A still pleased looking George is fetching a drink from Jerry's fridge.)<br>
+							<br>
+							
+						GEORGE: The point is, however it got done, it's done. So, any luck with the car?<br>
+							<br>
+							
+						JERRY: No. The police have no leads (sitting on the couch arm) and I just found out today my insurance doesn't cover it.<br>
+							<br>
+							
+						GEORGE: Why not?<br>
+							<br>
+							
+						JERRY: They don't consider it stolen, if you wilfully give the guy the keys.<br>
+							<br>
+							
+						(The door opens and Elaine enters.)<br>
+							<br>
+							
+						ELAINE: (to George) Hey.<br>
+							<br>
+							
+						GEORGE: Hey.<br>
+							<br>
+							
+						ELAINE: (to Jerry) Hey. What did the detective say?<br>
+							<br>
+							
+						JERRY: They're looking.<br>
+							<br>
+							
+						GEORGE: I gotta go.<br>
+							<br>
+							
+						(George leaves. The phone rings and Jerry picks up.)<br>
+							<br>
+							
+						JERRY: Y'hello.<br>
+							<br>
+							
+						DETECTIVE (V.O.): Mr Seinfeld?<br>
+							<br>
+							
+						JERRY: Yeah.<br>
+							<br>
+							
+						DETECTIVE (V.O.): It's Detective McMahon...<br>
+							<br>
+							
+						(Elaine looks quizzical. Jerry mouths, 'It's the police')<br>
+							<br>
+							
+						DETECTIVE (V.O.): ...I'm at the warehouse on Pier 38. Ah, I think you'd better get down here.<br>
+							<br>
+							
+						JERRY: Yeah, okay. (to Elaine) They may have found the car.<br>
+							<br>
+							
+						ELAINE: (makes surprise noise) Are the clubs in it? Ask him.<br>
+							<br>
+							
+						JERRY: Are there golf clubs in the back?<br>
+							<br>
+							
+						DETECTIVE (V.O.): We really can't tell. You better bring your service records.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Pier 38 Warehouse]<br>
+							<br>
+							
+						(The interior of the warehouse is gloomy and dank. There are cars and parts of cars arranged round the area, together with tools, welding gear, etc. Detective McMahon stands beside a car-shaped object hidden under a white sheet. Jerry and Elaine are led in by a young patrolman who looks queasy.)<br>
+							<br>
+							
+						YOUNG COP: Watch where you step. There's quite a bit of... grease. Detective, Jerry Seinfeld is here.<br>
+							<br>
+							
+						DETECTIVE: How d'you do. Thanks for coming down.<br>
+							<br>
+							
+						JERRY: (indicating) This is Elaine Benes.<br>
+							<br>
+							
+						ELAINE: (explaining) We used to date, but now we're just friends.<br>
+							<br>
+							
+						DETECTIVE: I see.<br>
+							<br>
+							
+						JERRY: Yeah.<br>
+							<br>
+							
+						DETECTIVE: I'm sorry to make you go through this, but we need to make sure.<br>
+							<br>
+							
+						JERRY: Well, what's going on? What is this thing?<br>
+							<br>
+							
+						DETECTIVE: One of our patrolmen stumbled over this.<br>
+							<br>
+							
+						(He lifts the sheet, revealing what's beneath to Jerry and Elaine.)<br>
+							<br>
+							
+						ELAINE: (horrified) Huuh! (she turns away and covers her mouth)<br>
+							<br>
+							
+						JERRY: Oh my God!<br>
+							<br>
+							
+						(The young patrolman removes his cap out of respect for the victim.)<br>
+							<br>
+							
+						DETECTIVE: The block is nearly split apart. We found the overhead cams thirty feet away. We can only hope the body sold for scrap.<br>
+							<br>
+							
+						ELAINE: Oh, my God.<br>
+							<br>
+							
+						DETECTIVE: And we know it's a Saab. The angle on the Vee-6 is definitely ninety-two. The model is hard to determine because the drive train is all burnt out.<br>
+							<br>
+							
+						JERRY: What is that smell?<br>
+							<br>
+							
+						DETECTIVE: Look at the clutch.<br>
+							<br>
+							
+						(They look. Jerry and Elaine don't like what they see.)<br>
+							<br>
+							
+						ELAINE: Uuh.<br>
+							<br>
+							
+						(The patrolman cracks and leaves hurriedly, looking nauseous.)<br>
+							<br>
+							
+						YOUNG COP: Excuse me.<br>
+							<br>
+							
+						DETECTIVE: Whoever did this didn't just dismantle it. I mean, they took their time, they had fun. They were very systematic. They went out of their way to gouge the sides of every piston, and the turbo was separated from the housing and shoved right up the exhaust pipe.<br>
+							<br>
+							
+						ELAINE: Uhh<br>
+							<br>
+							
+						JERRY: Wait a second. Turbo? I didn't have a turbo.<br>
+							<br>
+							
+						DETECTIVE: Your car's not a turbo?<br>
+							<br>
+							
+						JERRY: No, it's a nine-hundred S. (happy) It's a turbo, Elaine, a turbo!<br>
+							<br>
+							
+						ELAINE: (sobbing happiness) It's a tu-hur-bo.<br>
+							<br>
+							
+						(Elaine and Jerry hug in happiness. In the background, another woman arrives.)<br>
+							<br>
+							
+						WOMAN: Excuse me, did you say turbo? Saab turbo nine-thousand? Is it... (voice breaking) midnight blue?<br>
+							<br>
+							
+						DETECTIVE: (condolences) Yes ma'am.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Mail Truck]<br>
+							<br>
+							
+						(Newman drives as he and Kramer give voice to their happiness.)<br>
+							<br>
+							
+						KRAMER/NEWMAN: (singing) Nine thousand, nine hundred and ninety-nine bottle and cans in the trunk, nine thousand, nine hundred and ninety-nine bottles and cans. At ten cents a bottle and ten cents a can, we're pulling in five hundred dollars a man. Nine thousand, nine hundred and ninety-eight bottle and cans in the trunk, nine thousand, nine hundred and ninety-eight bottles and cans. We fill up with gas, we count up our cash!!...<br>
+							<br>
+							
+						(Their singing ends shambolically as they lose track of the lyrics. But the pair still look gleeful.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Jerry's Apartment/Jerry's car]<br>
+							<br>
+							
+						(The phone rings in Jerry's apartment. He picks it up.)<br>
+							<br>
+							
+						JERRY: Hello.<br>
+							<br>
+							
+						TONY: Hey Jerry, it's Tony.<br>
+							<br>
+							
+						JERRY: Tony, where are you?<br>
+							<br>
+							
+						(The Saab is driving down a quiet country road at night.)<br>
+							<br>
+							
+						TONY: Aw look, I just want you to know that the car is fine. I got her all fixed up. We're in a nice area, no potholes, no traffic. So there's nothing to worry about. Okay? In fact, here, somebody wants to talk to you.<br>
+							<br>
+							
+						(Tony holds the phone toward the dash and revs the engine a little. Jerry can hear the engine noise over the phone.)<br>
+							<br>
+							
+						JERRY: Tony, y-you better bring that car back!<br>
+							<br>
+							
+						TONY: (angry) Nobody's giving anything back! You tried to take it from me, I don't forget that.<br>
+							<br>
+							
+						JERRY: Tony, it is my car, and I want it back!<br>
+							<br>
+							
+						TONY: Oh, your car. You want your car back!<br>
+							<br>
+							
+						JERRY: Tony.<br>
+							<br>
+							
+						TONY: Listen, that registration may have your name on it, Jerry. But this engine's running on my sweat and my blood.<br>
+							<br>
+							
+						(Tony hangs up the phone.)<br>
+							<br>
+							
+						JERRY: (exasperated) Where do I find these guys?<br>
+							<br>
+							<br>
+							<br>
+							
+						[Mail Truck]<br>
+							<br>
+							
+						(Kramer is driving the truck along a highway in daylight.)<br>
+							<br>
+							
+						NEWMAN: How much gas we got?<br>
+							<br>
+							
+						KRAMER: Three quarters of a tank.<br>
+							<br>
+							
+						(Newman punches the numbers into a calculator.)<br>
+							<br>
+							
+						KRAMER: That's better than we estimated.<br>
+							<br>
+							
+						NEWMAN: (smugly) That is seven dollars and twenty-two cents better.<br>
+							<br>
+							
+						(They give a smug little laugh.)<br>
+							<br>
+							
+						NEWMAN: Maybe we could uh, stop for a snack.<br>
+							<br>
+							
+						KRAMER: Ah, no, that's not in the budget.<br>
+							<br>
+							
+						NEWMAN: Yeah well, the budget changed, you know. I mean, it might be a good investment.<br>
+							<br>
+							
+						KRAMER: That's not a good investment, that's a loss.<br>
+							<br>
+							
+						(A convertible black Saab passes the mail truck.)<br>
+							<br>
+							
+						KRAMER: Hey, d'you see that car? Looks like Jerry's. I'm gonna check out that license plate.<br>
+							<br>
+							
+						(He accelerates the mail truck to close on the Saab, and leans forward, straining to make out the plate.)<br>
+							<br>
+							
+						KRAMER: Yeah, those are New York plates.<br>
+							<br>
+							
+						NEWMAN: Is that Jerry's number?<br>
+							<br>
+							
+						KRAMER: I don't know, but that's New York and we're in Ohio. Those are pretty good odds.<br>
+							<br>
+							
+						(Kramer reaches under his seat, rummaging for something.)<br>
+							<br>
+							
+						NEWMAN: What're you doing?<br>
+							<br>
+							
+						KRAMER: I'm calling Jerry.<br>
+							<br>
+							
+						NEWMAN: On what?<br>
+							<br>
+							
+						KRAMER: Brought my phone.<br>
+							<br>
+							
+						(He pulls out his mobile and hits the speed dial for Jerry.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Jerry's Apartment/Mail Truck]<br>
+							<br>
+							
+						JERRY: (answering phone) Y'hello.<br>
+							<br>
+							
+						KRAMER: Yeah, hey Jerry, what's your licence plate number?<br>
+							<br>
+							
+						JERRY: Why, what's up?<br>
+							<br>
+							
+						KRAMER: Yeah, well I think I spotted your car.<br>
+							<br>
+							
+						JERRY: Oh my god, you're kidding. (dives for his wallet) Hang on a second. (reading from his registration) It's JVN 728.<br>
+							<br>
+							
+						KRAMER: (checks the car ahead of him) Hey, that's it! That's it. Hey, uh look, we got him. We're driving right behind him in a truck.<br>
+							<br>
+							
+						JERRY: Oh my god. Yeah, yeah, he said he brought it to the country.<br>
+							<br>
+							
+						KRAMER: Well we're in the country and we're right on his tail.<br>
+							<br>
+							
+						JERRY: Good work Kramer, this is incredible.<br>
+							<br>
+							
+						KRAMER: Yeah, don't worry Jerry. We're right on this guy like stink on a monkey! I'll check back with you.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Elaine's Office/Jerry's Apartment]<br>
+							<br>
+							
+						(The phone rings in Elaine's office. She answers it.)<br>
+							<br>
+							
+						ELAINE: Elaine Benes.<br>
+							<br>
+							
+						JERRY: Yeah, it's me. Kramer found the car!<br>
+							<br>
+							
+						ELAINE: Oh my god, where is it?<br>
+							<br>
+							
+						JERRY: It's somewhere in the country, they're following 'em.<br>
+							<br>
+							
+						ELAINE: Are the clubs there?<br>
+							<br>
+							
+						JERRY: I don't know. They're tailing him. I'm waiting for them to call me back.<br>
+							<br>
+							
+						ELAINE: Alright, I'm heading over right now.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Jerry's Apartment]<br>
+							<br>
+							
+						(Elaine enters at a rush.)<br>
+							<br>
+							
+						ELAINE: What's the status?<br>
+							<br>
+							
+						JERRY: Last check-in, they were still on him.<br>
+							<br>
+							
+						ELAINE: Well, have they called the police yet?<br>
+							<br>
+							
+						JERRY: No, they won't call the police.<br>
+							<br>
+							
+						ELAINE: What? Why not?<br>
+							<br>
+							
+						JERRY: They're afraid they'll get in trouble for misusing a mail truck. Kramer doesn't want a record.<br>
+							<br>
+							
+						ELAINE: Kramer has a record.<br>
+							<br>
+							
+						JERRY: Not a Federal record.<br>
+							<br>
+							
+						(The phone rings. Jerry grabs the handset by the couch, Elaine picks up in the kitchen.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Mail Truck/Jerry's Apartment]<br>
+							<br>
+							
+						ELAINE/JERRY: Kramer?<br>
+							<br>
+							
+						JERRY: What's going on?<br>
+							<br>
+							
+						KRAMER: Yeah, nothing. We're still following him.<br>
+							<br>
+							
+						(Ahead of the truck, the black Saab indicates his intention to move onto the off-ramp.)<br>
+							<br>
+							
+						KRAMER: Wait a second, he's getting off. Yeah, he's gonna be going south on the one-thirty-five.<br>
+							<br>
+							
+						ELAINE: Keep following him.<br>
+							<br>
+							
+						KRAMER: Alright, alright, I'll follow him.<br>
+							<br>
+							
+						NEWMAN: Hey, we can't follow him, we're going north to Michigan.<br>
+							<br>
+							
+						KRAMER: Yeah, hey listen, I can't. It's gonna be taking us out of our way.<br>
+							<br>
+							
+						ELAINE: I need those clubs.<br>
+							<br>
+							
+						JERRY: Kramer, I want my car.<br>
+							<br>
+							
+						KRAMER: Well, I don't know what to do.<br>
+							<br>
+							
+						NEWMAN: Hey, we got ten thousand deposit bottles here. I mean, this guy could be going to Arkansas.<br>
+							<br>
+							
+						JERRY: Keep following him Kramer. don't let me down.<br>
+							<br>
+							
+						NEWMAN: Hey, don't listen to him. I mean, we can't afford a detour. Our budget won't hold it.<br>
+							<br>
+							
+						KRAMER: Well, I don't know what to do man!<br>
+							<br>
+							
+						NEWMAN: Kramer! Stay left. Left, left, left.<br>
+							<br>
+							
+						ELAINE/JERRY: Right. Go right!/South!<br>
+							<br>
+							
+						KRAMER: Alright! Alright. I'm getting off! I'm gonna go on the ramp.<br>
+							<br>
+							
+						(Kramer swerves onto the off-ramp at the last moment. Tyres squeal and the truck sways.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Mail Truck]<br>
+							<br>
+							
+						NEWMAN: I hope you realise what you've done. You've destroyed our whole venture.<br>
+							<br>
+							
+						KRAMER: This ramp is steep.<br>
+							<br>
+							
+						NEWMAN: All my work, my planning, my genius. All for nought.<br>
+							<br>
+							
+						KRAMER: Alright, look, we're pulling too much weight. He's getting away from us here. (indicating) Take the wheel.<br>
+							<br>
+							
+						(Newman reaches across and takes the steering wheel as Kramer gets out of the driving seat.)<br>
+							<br>
+							
+						NEWMAN: What're you doing?<br>
+							<br>
+							
+						KRAMER: (climbing though into the back of the truck) I'm gonna get something.<br>
+							<br>
+							
+						NEWMAN: Are you crazy?<br>
+							<br>
+							
+						(The truck swerves as Newman slides into the driving seat.)<br>
+							<br>
+							
+						KRAMER: Keep your foot on the gas.<br>
+							<br>
+							
+						(Kramer shoves his way through the sackloads of bottles and cans.)<br>
+							<br>
+							
+						NEWMAN: Hey! You're not dumping those bottles back there, are you?<br>
+							<br>
+							
+						(Kramer slides open the rear door of the truck.)<br>
+							<br>
+							
+						NEWMAN: Hey Kramer, those have wholesale value! We could cut our losses.<br>
+							<br>
+							
+						(Kramer grabs a sack and heaves it out the back of the truck.)<br>
+							<br>
+							
+						KRAMER: Look out below!!<br>
+							<br>
+							
+						(Car horns can be heard as the sack lands in the carriageway. Kramer grabs another sack and hurls that out, with another yelled warning.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Yankee Stadium: Steinbrenner's Office]<br>
+							<br>
+							
+						(Steinbrenner sits behind his desk. He's examining something on his desktop with a large powerful magnifying glass.)<br>
+							<br>
+							
+						STEINBRENNER: (to himself) With this magnifying glass, I feel like a scientist.<br>
+							<br>
+							
+						(There is a tap at the door, and George cautiously enters.)<br>
+							<br>
+							
+						GEORGE: You wanted to see me, sir?<br>
+							<br>
+							
+						STEINBRENNER: Ah, come in George, come in.<br>
+							<br>
+							
+						(George strolls up to Big Stein's desk, looking more confident.)<br>
+							<br>
+							
+						STEINBRENNER: Uh, Wilhelm gave me this project you worked on.<br>
+							<br>
+							
+						GEORGE: (smiling) Yes sir.<br>
+							<br>
+							
+						STEINBRENNER: Let me ask you something, George. You having any personal problems at home? Girl trouble, love trouble of any kind?<br>
+							<br>
+							
+						GEORGE: (wondering where this is leading) No sir.<br>
+							<br>
+							
+						STEINBRENNER: What about drugs? You doing some of that crack cocaine? You on the pipe?<br>
+							<br>
+							
+						GEORGE: (worried now) No sir.<br>
+							<br>
+							
+						STEINBRENNER: Are you seeing a psychiatrist? Bcause I got a flash for you young man, you're non compos mentis! You got some bats in the belfry!<br>
+							<br>
+							
+						GEORGE: What're.. What're you talking about?<br>
+							<br>
+							
+						STEINBRENNER: George, I've read this report. It's very troubling, very troubling indeed. It's a sick mind at work here.<br>
+							<br>
+							
+						(Two burly guys who are clearly medical orderlies come into the room behind George.)<br>
+							<br>
+							
+						STEINBRENNER: Okay, come on boys, come on in here. George, this is Herb and Dan.<br>
+							<br>
+							
+						(George regards the two guys, very nervously as they approach him and stand behind him, one on either shoulder.)<br>
+							<br>
+							
+						STEINBRENNER: They're gonna take you away to a nice place where you can get some help. They're very friendly people there. My brother-in-law was there for a couple of weeks. The man was obsessed with lactating women. They completely cured him, although he still eats a lot of cheese.<br>
+							<br>
+							
+						(Herb and Dan take hold of George's arms. George gets panicky)<br>
+							<br>
+							
+						GEORGE: Ah, see, Mister.. I didn't write that report. That, that's not mine.<br>
+							<br>
+							
+						(Herb and Dan begin to drag the struggling George across the office toward the door.)<br>
+							<br>
+							
+						STEINBRENNER: Of course you didn't George. Of course you didn't write it.<br>
+							<br>
+							
+						GEORGE: I didn't do it! It..It just got done. I don't know how it got done, but it did.<br>
+							<br>
+							
+						(As Herb and Dan haul George through the door, George makes his last stand, trying to get a hold on the doorframe with his feet. Eventually he is dragged out into the corridor and vanishes from view.)<br>
+							<br>
+							
+						STEINBRENNER: Of course. Of course it got done. Things get done all the time, I understand. (as George disappears) Don't worry, your job'll be waiting for you when you get back. (banging his fist on his desk) Get better George. Get better!<br>
+							<br>
+							<br>
+							<br>
+							
+						[Mail Truck]<br>
+							<br>
+							
+						(The Saab travels down a quiet country road at night, followed by the mail truck. Kramer is driving, Newman looks furious in the passenger seat.)<br>
+							<br>
+							
+						KRAMER: (frustrated) Damn. I don't understand this. I've ditched every bottle and can, and we still can't gain. It's like we're...<br>
+							<br>
+							
+						(He looks across at the substantial bulk of Newman and a thought occurs.)<br>
+							<br>
+							
+						KRAMER: ...sluggish.<br>
+							<br>
+							
+						NEWMAN: I went through all those bottles and all those cans, for what? What a waste. And I'm really gonna catch hell for those missing mailbags.<br>
+							<br>
+							
+						KRAMER: Heyy, wasn't that a pie stand back there?<br>
+							<br>
+							
+						NEWMAN: (perks up) A pie stand? Where?<br>
+							<br>
+							
+						KRAMER: Oh yeah. Home-made pies, two hundred yards back.<br>
+							<br>
+							
+						NEWMAN: Aww, c'mon, pull over, pull over will ya.<br>
+							<br>
+							
+						(Kramer pulls the truck into the roadside. As it halts, Newman sticks his head out the window to peer back down the road.)<br>
+							<br>
+							
+						NEWMAN: Where? I..I..I don't see it.<br>
+							<br>
+							
+						KRAMER: Well open the door, you get a better look.<br>
+							<br>
+							
+						(Newman slides back the door and leans out.)<br>
+							<br>
+							
+						NEWMAN: I don't see any pie...<br>
+							<br>
+							
+						(Kramer plants his foot firmly in Newman's backside and heaves him out of the truck.)<br>
+							<br>
+							
+						NEWMAN: ...Aargh!<br>
+							<br>
+							
+						(As Newman lands heavily in the verge, Kramer slides the door shut and drives away.)<br>
+							<br>
+							
+						NEWMAN: Kramer!!<br>
+							<br>
+							
+						KRAMER: I'm sorry Newman, you were holding us back.<br>
+							<br>
+							
+						NEWMAN: (after speeding truck) Kramer!!<br>
+							<br>
+							
+						(In the mail truck, Kramer picks up his phone and redials.)<br>
+							<br>
+							
+						KRAMER: (shouting) Jerry! We've lost the fat man, and we're running lean. We're back on track, buddy!<br>
+							<br>
+							<br>
+							<br>
+							
+						[Country Roadside]<br>
+							<br>
+							
+						(Newman wanders forlornly along the roadside at night. He tries to thumb a ride from passing traffic, displaying his uniform insignia to drivers.)<br>
+							<br>
+							
+						NEWMAN: Federal employee. Federal employee.<br>
+							<br>
+							
+						(Aside from a few blaring car horns, he gets no response. He continues his trudge, a sour look on his face.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Countryside]<br>
+							<br>
+							
+						(Newman struggles up a steep slope. Newman pushes his way through a field of crops. He emerges from the vegetation and sees a farmhouse, its lights blazing. His face lights up. He stumbles towards the welcoming lights, tripping and falling, before picking himself up and running up to the building.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Farm]<br>
+							<br>
+							
+						(Newman reaches the steps to the porch and stumbles up them. As he reaches the door, a scent catches his attention. Looking to the window, he sees a pie left out on the window sill to cool. A craftier look comes to his face. He turns back to the door and knocks. After a few seconds, it opens.)<br>
+							<br>
+							
+						FARMER: Hello stranger.<br>
+							<br>
+							
+						NEWMAN: (a touch desperate) Ah, look, I..I'm sorry to bother you, but I'm a US postal worker and my mail truck was just ambushed by a band of backwoods mail-hating survivalists.<br>
+							<br>
+							
+						FARMER: Calm down, now. Calm down. Don't worry, we'll take care of you. This farm ain't much, but uh, you're welcome to what we have. Hot bath, hearty meal, clean bed.<br>
+							<br>
+							
+						NEWMAN: Oh, thank you, sir.<br>
+							<br>
+							
+						FARMER: Just have one rule. Keep your hands off my daughter.<br>
+							<br>
+							
+						(Just then, the daughter in question slinks up behind the farmer. Blonde, twenty-ish, just one walking temptation.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Mail Truck/Jerry's Apartment]<br>
+							<br>
+							
+						(Kramer has the mail truck right behind Jerry's Saab as they race along a quiet country road.)<br>
+							<br>
+							
+						KRAMER: Jerry, we got 'im. I'm riding his tail. There's no escape. He's running scared, buddy.<br>
+							<br>
+							
+						(Jerry and Elaine are sitting on the couch, each with a phone handset.)<br>
+							<br>
+							
+						JERRY: How's the gas situation?<br>
+							<br>
+							
+						KRAMER: (checks dial) I got enough to get to Memphis.<br>
+							<br>
+							
+						(In front of him, Tony reaches into the back seat of the Saab.)<br>
+							<br>
+							
+						KRAMER: He's reaching in back. He's grabbing at something.<br>
+							<br>
+							
+						(Tony extracts a long, metallic object from behind himself.)<br>
+							<br>
+							
+						KRAMER: He's pulling out a gun! He's got a gun, Jerry!!<br>
+							<br>
+							
+						JERRY: Duck, Kramer! Duck!<br>
+							<br>
+							
+						(Kramer crouches as far as he can. Tony flings the object at Kramer's mail truck. It crashes against the windshield and bounces away.)<br>
+							<br>
+							
+						KRAMER: It's a golf club! It's no gun. He threw a golf club at me!<br>
+							<br>
+							
+						ELAINE: Those are JFK's golf clubs!<br>
+							<br>
+							
+						(Tony hurls another club at the mail truck. Again, it bounces off the windshield, leaving some cracks.)<br>
+							<br>
+							
+						KRAMER: Hey, I'm under fire here. (another club hits) I'm under heavy fire here, boy. (another hit) Jeez! That was a five-iron!<br>
+							<br>
+							
+						ELAINE: Stop the truck, Kramer. Pick up the clubs!<br>
+							<br>
+							
+						JERRY: No, don't stop, Kramer. Keep going, don't let him get away.<br>
+							<br>
+							
+						KRAMER: Wait a minute, I think he's done. (peers at the Saab) Oh no, he's taking out the woods!<br>
+							<br>
+							
+						(Tony flings a heavy wood at the truck.)<br>
+							<br>
+							
+						KRAMER: (noise)<br>
+							<br>
+							
+						(The Saab leads the truck down the road, with Tony hurling club after club over his shoulder and into the front of the truck.)<br>
+							<br>
+							
+						KRAMER: (yelling at Tony) You'll have to do a lot better than that!<br>
+							<br>
+							
+						(Tony hurls the golf bag at the truck. It slams solidly against the windshield, Kramer flinches, the truck swerves. The front wheel runs over a club on the tarmac and the tyre bursts.)<br>
+							<br>
+							
+						JERRY: (hearing the noises) What's happening!<br>
+							<br>
+							
+						(The truck is rattling and lurching as it struggles along the road.)<br>
+							<br>
+							
+						KRAMER: This truck is dying. We're losing him.<br>
+							<br>
+							
+						(The Saab easily outpaces the truck and accelerates away. The truck staggers to a halt, giving out a death rattle. A cloud of steam and smoke erupts from under the hood.)<br>
+							<br>
+							
+						KRAMER: I think we lost him.<br>
+							<br>
+							
+						JERRY: (disappointment) Dammit!<br>
+							<br>
+							
+						ELAINE: (quietly) Can you stop and pick up those clubs Kramer?<br>
+							<br>
+							
+						KRAMER: (subdued) Yeah, yeah, I'll get 'em.<br>
+							<br>
+							
+						(Jerry hangs up.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Country]<br>
+							<br>
+							
+						(Kramer climbs out of the truck and looks back down the road. He kicks the deflated tyre. Coming to the front of the truck, he picks a club off the front bumper and pulls the broken shaft of another out of the radiator grille. Kramer walks along the road with the bent and broken clubs. He comes upon the bag and transfers the clubs into it. Slinging it over his shoulder, he continues on his way, picking up more battered golf clubs as he goes.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Farm]<br>
+							<br>
+							
+						(Newman, the farmer and the farmer's daughter sit round the kitchen table. They are working their way through a generous meal.)<br>
+							<br>
+							
+						FARMER: Enjoy that mutton?<br>
+							<br>
+							
+						NEWMAN: (mouth full) It's delicious mutton. This is uh, this is outta sight. I would, I would love to get the recipe. It's very good.<br>
+							<br>
+							
+						(The farmer's daughter is staring at Newman and toying with her fork, touching it to her lips and teeth. (It's difficult to be arousing with cutlery, but she's giving it a pretty good shot.) Newman notices this and tries to take a nonchalant sip from a glass, but it goes down the wrong way and he splutters.)<br>
+							<br>
+							
+						FARMER: That cider too strong for you?<br>
+							<br>
+							
+						NEWMAN: No, no. I love strong cider. (for the farmer's daughter's benefit) I'm a big, strong, cider guy.<br>
+							<br>
+							
+						(The farmer's daughter licks her lips.)<br>
+							<br>
+							
+						FARMER: Gonna be milking Holsteins in the morning, if you'd like to lend a hand.<br>
+							<br>
+							
+						NEWMAN: (reluctant) You know, I don't really know that much about uh.. I don't have any.. I don't.. I don't think I know much about that.<br>
+							<br>
+							
+						FARMER: Ahh, Susie here'll teach you.<br>
+							<br>
+							
+						(The farmer's daughter goes wide eyed.)<br>
+							<br>
+							
+						FARMER: Just gotta pull on the teat a little.<br>
+							<br>
+							
+						(Susie and Newman half-laugh nervously.)<br>
+							<br>
+							
+						SUSIE: (suggestive) Nice having a big, strong, man around.<br>
+							<br>
+							
+						NEWMAN: You know, those mail bags, they get mighty heavy. I uh, I Nautilus, of course. (puffs out his chest)<br>
+							<br>
+							
+						(The farmer looks at him oddly.)<br>
+							<br>
+							
+						NEWMAN: (breaking from his pose) Can I have some gravy?<br>
+							<br>
+							<br>
+							<br>
+							
+						[Institution]<br>
+							<br>
+							
+						(George is using a payphone in the corner of the room. His free hand is holding the waistband of his trousers. In the background are a couple of inmates and visitors, and an orderly. Notable among them are Pop and Deena Lazzari, previously seen in 'The Gum'.)<br>
+							<br>
+							
+						GEORGE: (desperate) Steinbrenner had me committed! I'm in the nuthouse!<br>
+							<br>
+							
+						DEENA: I'll be back same time next week, Pop.<br>
+							<br>
+							
+						GEORGE: (quieter desperation) They took my belt, Jerry. I got nothing to hold my pants up. (listens) Well, you gotta come over here now! Just tell 'em what we talked about, how I, how I, I didn't do the project.<br>
+							<br>
+							
+						(Deena spots George as she makes her way out of the room.)<br>
+							<br>
+							
+						DEENA: George?<br>
+							<br>
+							
+						(George looks like his salvation has arrived. He hangs up the phone.)<br>
+							<br>
+							
+						DEENA: I see you're finally getting some help.<br>
+							<br>
+							
+						GEORGE: Aw, hoh, oh Deena, thank God. (he hugs Deena) Thank God you're here. Listen, you gotta help me. You gotta tell these people that I'm okay. You know that I don't belong in here.<br>
+							<br>
+							
+						DEENA: George, this is the best thing for you. (she walks away)<br>
+							<br>
+							
+						GEORGE: Yea... (sinks in) What? No, no!<br>
+							<br>
+							
+						(As he tries to follow Deena, the orderly grabs hold of him and restrains him.)<br>
+							<br>
+							
+						GEORGE: Deena! Deena, wait a... Deena, help!<br>
+							<br>
+							
+						(George is almost in tears and hops from foot to foot in frustration as the orderly holds him. Pop Lazzari wanders over.)<br>
+							<br>
+							
+						POP: Is that little Georgie C? How's the folks? You still got that nice little car?<br>
+							<br>
+							<br>
+							<br>
+							
+						[Countryside]<br>
+							<br>
+							
+						(Kramer approaches a familiar farmhouse. As he mounts the steps up to the porch, a commotion erupts inside the place. A gunshot rings out and the farmer's daughter screams. Kramer flinches. The farmer can be heard yelling angrily. The door is flung open and Newman runs out pulling up his trousers.)<br>
+							<br>
+							
+						NEWMAN: (screaming in panic) Aaah!! Aaah!<br>
+							<br>
+							
+						KRAMER: What you doing?!<br>
+							<br>
+							
+						NEWMAN: (pushing past Kramer) Kramer, help me! Help me!<br>
+							<br>
+							
+						(Newman sets off running. From the door of the farmhouse comes the farmer, armed with a shotgun, closely followed by his daughter, whose shirt is undone and hair is dishevelled.)<br>
+							<br>
+							
+						KRAMER: (takes one look and sets off after Newman) Jeez!<br>
+							<br>
+							
+						FARMER: (taking aim) I told you to keep away from my daughter!<br>
+							<br>
+							
+						(As Kramer and Newman reach the edge of the crops, the farmer fires a shot. Both Newman and Kramer leap in the air and run into the cover of the crop. Before the farmer can fire again, his daughter pushes the barrel of the shotgun downward, spoiling his aim.)<br>
+							<br>
+							
+						SUSIE: No daddy, you'll hurt him! I love him! (waving after Newman) Goodbye Norman, goodbye.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Elaine's Office]<br>
+							<br>
+							
+						(Elaine is sitting with her head in her hands. Peterman enters at a rush.)<br>
+							<br>
+							
+						PETERMAN: (excited) Elaine! You found the clubs. That's wonderful news. Where are they?<br>
+							<br>
+							
+						ELAINE: (not the soul of happiness) Yep. Lemme get 'em for you, Mr Peterman.<br>
+							<br>
+							
+						PETERMAN: Oh, I'll be inaugrating them this weekend, with none other than Ethel Kennedy. A woman whose triumph in the face of tragedy is exceeded only by her proclivity to procreate.<br>
+							<br>
+							
+						(Elaine puts the bag of clubs down beside Peterman. The clubs are, of course, wrecked. Elaine looks like she's expecting a poor reaction. Peterman picks up a club or two, staring in disbelief at the twisted metal.)<br>
+							<br>
+							
+						ELAINE: The uh, the letter of, authenticity's in the side pocket there.<br>
+							<br>
+							
+						PETERMAN: Elaine. I never knew Kennedy had such a temper.<br>
+							<br>
+							
+						ELAINE: (spotting a chance to keep her job) Oh. Oh yeah. The only thing worse was his slice. (she laughs nervously)<br>
+							<br>
+							
+						PETERMAN: See you on Monday.<br>
+							<br>
+							
+						(Peterman picks up the bag and heads for the door.)<br>
+							<br>
+							
+						ELAINE: Have a good game.<br>
+							<br>
+							<br>
+							
+						The End</td>
+						</tr>
+						<tr height="6">
+							<td class="bottom2" width="645" height="6"></td>
+						</tr>
+						<tr>
+							<td width="645">
+								<div align="center">
+									<font size="-1">Copyright 2006 seinology.com | All Rights Reserved | Designed by 13erla</font></div>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+		<p></p>
+	</body>
+
+</html>

@@ -1,0 +1,1234 @@
+<tdOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+<html>
+
+	<head>
+		<meta http-equiv="content-type" content="text/html;charset=ISO-8859-1">
+		<meta name="description" content="Top Source for Seinfeld">
+		<meta name="keywords" content="seinfeld, sienfeld, Jerry Seinfeld, Julia Louis Dreyfus, Jason Alexander, Michael Richards, Kramer, George, Costanza, Elaine Benes, morty, Larry David">
+		<title>Seinology.com :: Scripts :: 69-The Bris</title>
+	<link rel='stylesheet' href='/stylesheet.css' type='text/css'>
+	</head>
+
+	<body>
+			<table align="center" width="787" border="0" cellspacing="0" cellpadding="0">
+				<tr>
+					<td><font size="-2" color="red">Seinology.com - </font><font size="-3" color="black">Where Seinfeld Content and Accuracy Matter Most. Seinfeld scripts in pdf form, Seinfeld episode video clips, Seinfeld episode audio clips, Jerry Seinfeld appearances, Julia Louis-Dreyfus appearances, Michael Richards appearances, Jason Alexander appearances, Seinfeld discussion Forum, Seinfeld Where are they Now? Seinlanguage Newsletter, Popular Seinfeld Lists, Seinfeld episode standup, Seinfeld episode guide, Seinfeld fan fiction. Seinfeld content all on one domain. Seinology.com enjoy your stay.</font></td>
+				</tr>
+			</table>
+		
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr height="100">
+				<td class="logo"></td>
+			</tr>
+			<tr><td class="ads" align="center" background=#8694fa>
+				<script type="text/javascript"><!--
+google_ad_client = "pub-1924026976931416";
+google_ad_width = 728;
+google_ad_height = 90;
+google_ad_format = "728x90_as";
+google_ad_type = "text";
+google_ad_channel = "";
+google_color_border = "FFFFFF";
+google_color_bg = "8694fa";
+google_color_link = "0000FF";
+google_color_text = "000000";
+google_color_url = "002E3F";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></td></tr>
+		</table>
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr>
+				<td valign="top" width="136">
+					<table width="136" border="0" cellspacing="0" cellpadding="0">
+						<tr height="24">
+							<td class="navigation">
+								<div align="center">
+									
+									<b>Navigation</b></div>
+							</td>
+						</tr>
+						<tr height="199">
+							<td class="spacer1" valign="top" width="136" height="199">
+								<div align="center">
+									<font size="-1"><a href="http://www.seinology.com">Home</a><br>
+										<a href="http://board.seinology.com">Forum</a><br>
+										<a href="http://www.seinology.com/av.shtml">Audio/Video</a><br>
+										<a href="http://www.seinology.com/scripts.shtml">Scripts</a><br>
+										<a href="http://www.seinology.com/survivor.shtml">Survivor</a><br>
+										<a href="http://www.seinology.com/fanfics.shtml">Fan Fiction</a><br>
+										<a href="http://www.seinology.com/gallery/">Gallery</a><br>
+										<a href="http://www.seinology.com/newsletter.shtml">Newsletter</a><br>
+										<a href="http://www.seinology.com/lists.shtml">Lists</a><br>
+										<a href="http://www.seinology.com/epguide.shtml">Episode Guide</a><br>
+										<a href="http://www.seinology.com/links.shtml">Links</a><br>
+										<a href="http://www.seinology.com/faqother.shtml">Faq + others</a><br>
+										<a href="http://www.seinology.com/legal.shtml">Legal</a></font></div>
+							</td>
+						</tr>
+						
+						<tr>
+							<td class="nav2" width="136">
+							<div align="center"><b>Search</b></div></td>
+						</tr>
+						<tr>
+							<td class="spacer1" width="136" valign="top"><div align="center"><form method="get" action="http://www.seinology.com/search/search.cgi">
+<p><label for="fdse_Match">Match</label><br>
+<select name="Match" id="fdse_Match" size="1">
+<option value="1">All</option>
+<option value="0">Any</option>
+<option value="2">Phrase</option>
+</select></p>
+<p><label for="fdse_Realm">Where?</label><br>
+<select name="Realm" id="fdse_Realm" size="1">
+<option selected="selected" value="All">EntireSite</option>
+<option value="Ep Guide">Ep Guide</option>
+<option value="Images">Images</option>
+<option value="Lists">Lists</option>
+<option value="Newsletters">Newsletters</option>
+<option value="Scripts">Scripts</option>
+<option value="Notes..Nothing">Notes..Nothing</option>
+</select></p>
+<p><input type="text" name="Terms" size="14" id="fdse_Terms"><br>
+<input type="submit" class="submit" name="submitButtonName" value="Search"></p>
+</div></form></td>
+						</tr>
+						<tr><td class="bottom" width="136" height="10" valign="top">
+						</td>
+						</tr>
+					</table>
+				</td>
+				<td width="4"></td>
+				<td valign="top" width="645">
+					<table width="645" border="0" cellspacing="0" cellpadding="0">
+						<tr height="18">
+							<td width="645" height="35" class="bar">
+								<div align="center">
+									<b><font size="+2" color="black">Script</font></b></div>
+							</td>
+						</tr>
+						<tr height="362">
+							<td class="spacer2" valign="top" width="645" height="362">
+
+						<p><font size="-2">Episode 69 - The Bris<br>
+							
+						pc: 505, season 5, episode 5<br>
+							
+						Broadcast date: October 14, 1993<br>
+							<br>
+							
+						Written by Larry Charles<br>
+							
+						Directed by Tom Cherones<br>
+							<br>
+							
+						-------------------------------------------------------------------------------<br>
+							<br>
+							
+						The Cast<br>
+							
+						Regulars:<br>
+							
+						Jerry Seinfeld ....................... Jerry Seinfeld<br>
+							
+						Jason Alexander .................. George Costanza<br>
+							
+						Julia Louis-Dreyfus ............. Elaine Benes<br>
+							
+						Michael Richards ................. Kramer<br>
+							<br>
+							
+						Guest Stars:<br>
+							<br>
+							
+						Charles Levin ....................... Mohel<br>
+							
+						Debra Mooney .................... Mrs. Sweedler<br>
+							
+						Tom Alan Robbins ............... Stan<br>
+							
+						Jeannie Elias ......................... Myra<br>
+							
+						John Gegenhuber ................ Resident<br>
+							
+						Tia Riebling .......................... Woman<br>
+							
+						Frank Noon ......................... Patient<br>
+							<br>
+							
+						==================================================================<br>
+							<br>
+							
+						[Opening Monologue]<br>
+							<br>
+							
+						Really at the Hospital, the basic treatment everybody gets, is to lie in a bed. What is wrong with the human being, lie down. Doctor never says to you 'Well your condition isn't as bad as we originally thought we want you to kinda (leans against a door jam) lean against a door jam for seven to ten days. See how that feels' (stops leaning against the door jam) Alright it's always a bed, unless you goto the emergency room then it's a chair. You were shot, you were stabbed, you were run over. Have a seat. There's always a very uh interesting cultural ethnic mix to the hospital staff isn't it? It's like a local news team in there. The doctor is like the anchor man he's got the white hair, he's in charge, the nurse is like the feature reporter you know. You listen to her but it's always 'And now back to your doctor.' And the orderlies come in with the food and the bed pans and that's like your sports and weather.<br>
+							<br>
+							<br>
+							
+						[INT. HOSPITAL ROOM - DAY]<br>
+							<br>
+							
+						(Jerry, Elaine and George are visiting with the new parents, Myra and Stan Flick and their baby Steven. Myra discreetly breast feeds the baby. Stand is in the midst of the harrowing birth story, as Jerry and Elaine alternate between boredom and squirming. George, sits by the window, staring out, ignoring the proceeding.)<br>
+							<br>
+							
+						STAN: ...And then baby's head comes out, and I'm screaming and my brother who's been videotaping the whole thing turns green, his eyes roll up in his head and he blacks out, he drops the camera, the camera breaks, and then, the placenta comes flying out.<br>
+							<br>
+							
+						ELAINE: Whoa.<br>
+							<br>
+							
+						STAN: And then doctor says...<br>
+							<br>
+							
+						JERRY: (interrupting) Thanks, that's enough.<br>
+							<br>
+							
+						(Jerry and Elaine exchange glances, Myra is breast feeding. Jerry winces, he can't watch. he is visibly unsettled.)<br>
+							<br>
+							
+						STAN: Will you look at that kid. Sucking away. Sucking like there's no tomorrow. Suck, suck, suck...<br>
+							<br>
+							
+						JERRY: (Looking away) Yeah, yeah, yeah.<br>
+							<br>
+							
+						STAN: Look at that Jerry, look at that. Sucking, sucking...<br>
+							<br>
+							
+						JERRY: Yeah, I looked. I saw.<br>
+							<br>
+							
+						STAN: This doesn't make you uncomfortable, does it?<br>
+							<br>
+							
+						JERRY: No, Uncomfortable? Not at all. (ASIDE TO ELAINE) My friend's wife's breast sticking out - why would that make me uncomfortable?<br>
+							<br>
+							
+						STAN: Look at him.<br>
+							<br>
+							
+						JERRY: So how long do they do this?<br>
+							<br>
+							
+						STAN: Jus, a year or two.<br>
+							<br>
+							
+						JERRY: No break?<br>
+							<br>
+							
+						STAN: After that comes the weaning.<br>
+							<br>
+							
+						JERRY: So after the sucking, comes the weaning.<br>
+							<br>
+							
+						ELAINE: First the sucking then the weaning.<br>
+							<br>
+							
+						JERRY: Well, you gotta wean.<br>
+							<br>
+							
+						STAN: Gotta wean.<br>
+							<br>
+							
+						ELAINE: Must wean.<br>
+							<br>
+							
+						(George walks away from the window and taps Jerry on the back)<br>
+							<br>
+							
+						GEORGE: What about that spot I got?<br>
+							<br>
+							
+						JERRY: Yeah, I saw the spot.<br>
+							<br>
+							
+						GEORGE: You open the door to the car, boom, you walk right into the hospital. Eh, You can't beat that spot. (starts doing a little dance) I am on a roll. I'm just willing these great parking spots.<br>
+							<br>
+							
+						JERRY: George...<br>
+							<br>
+							
+						GEORGE: Maybe the baby would like to see my spot. A positive, uplifting message to start his life out with. Huh, You can still get a great space in this city - if you apply yourself.<br>
+							<br>
+							
+						JERRY: (to Elaine) Where's Kramer? Shouldn't he be here by now.<br>
+							<br>
+							
+						ELAINE: Did you give him the room number?<br>
+							<br>
+							
+						JERRY: Ya, 1397.<br>
+							<br>
+							<br>
+							<br>
+							
+						[INT. HOSPITAL CORRIDOR]<br>
+							<br>
+							
+						(Kramer searching for the room)<br>
+							<br>
+							
+						KRAMER: 1937, 1937, 1937...<br>
+							<br>
+							
+						(A wandering patient stops him)<br>
+							<br>
+							
+						PATIENT: Excuse me. Do you know where the elevator is?<br>
+							<br>
+							
+						(Kramer looks around)<br>
+							<br>
+							
+						KRAMER: Uh ya, it's right around the corner there.<br>
+							<br>
+							
+						(Patient smiles and takes off around the corner. Kramer walks a bit further finds 1937<br>
+							<br>
+							
+						KRAMER: 1937.<br>
+							<br>
+							
+						(He enters the room. Two orderlies run down the hallway looking for someone.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[IN HOSPITAL ROOM #2 - DAY 1 KRAMER LOOKS AROUND. THERE IS A PATIENT BEHIND A CURTAIN. OUTSIDE THE CURTAIN IS A TRAY OF FOOD. HE PICKS UP THE TRAY. KRAMER IS HUNGRY AND LIKES HOSPITAL FOOD TO BOOT. AS HE STUFF HIS FACE, HE BECOMES AWARE OF A STRANGE SOUND EMANATING FROM BEHIND THE CURTAIN. IT SOUNDS LIKE THE &quot;OINK&quot; OR &quot;SQUEAL&quot; OF A PIG. HIS CURIOSITY GETTING THE BEST OF HIM, WITH HIS MOUTH FULL, HE STEPS INSIDE THE PARTITIONED AREA. A BEAT. THEN HE COMES BURSTING OUT, SPITTING FOOD AND SCREAMING.]<br>
+							<br>
+							
+						KRAMER: Oh! God, It's a Pig man! A pig man!<br>
+							<br>
+							
+						(Kramer exits the room and runs down the hallway)<br>
+							<br>
+							<br>
+							<br>
+							
+						[INT HOSPITAL ROOM]<br>
+							<br>
+							
+						STAN: ..So anyway, Jerry, Elaine, we have something we want to ask you.<br>
+							<br>
+							
+						GEORGE: You gotta look at this. I pulled it in perfectly equidistant from the car in front of me and the car behind me.<br>
+							<br>
+							
+						JERRY: Will you shut up George.<br>
+							<br>
+							
+						ELAINE: I'm taking a cab home. I can't this anymore.<br>
+							<br>
+							
+						JERRY: You were saying Stan? I-I'm sorry about that.<br>
+							<br>
+							
+						STAN: Myra and I would like you and Elaine to be the Godparents of Steven.<br>
+							<br>
+							
+						ELAINE: Huuh, Wow.<br>
+							<br>
+							
+						JERRY: Me? Godfather?<br>
+							<br>
+							
+						STAN: Yes.<br>
+							<br>
+							
+						JERRY: (a la &quot;Don Corleone&quot;) Never go against the family, Elaine.<br>
+							<br>
+							
+						ELAINE: What?<br>
+							<br>
+							
+						(Kramer Enters)<br>
+							<br>
+							
+						KRAMER: Hey, I just saw a pig man! A pig man! Ya know he was sleeping and then he woke up and he looked up at me an-and he made this horrible sound, this (Quells like a pig).<br>
+							<br>
+							
+						GEORGE: Kramer, what the hell are you talking about?<br>
+							<br>
+							
+						KRAMER: I'm talking about the pig man. I went into the wrong room and there he was.<br>
+							<br>
+							
+						GEORGE: A pig-man?<br>
+							<br>
+							
+						KRAMER: A pig-man. Half pig, half man!<br>
+							<br>
+							
+						ELAINE: That's great Kramer... So-So, anyway, tell us what's involved in being a Godparent.<br>
+							<br>
+							
+						JERRY: (a la &quot;Don Corleione&quot;) Elaine, never ask me about my business!.... (SHEEPISH) &quot;Godfather.&quot;<br>
+							<br>
+							
+						STAN: The most important thing is you help with the bris.<br>
+							<br>
+							
+						JERRY: The bris?<br>
+							<br>
+							
+						KRAMER: A bris? You mean circumcision?<br>
+							<br>
+							
+						STAN: Ya.<br>
+							<br>
+							
+						KRAMER: I would advise against that.<br>
+							<br>
+							
+						ELAINE: Wha, Kramer. It's a tradition.<br>
+							<br>
+							
+						KRAMER: Ya well, so was uh sacrificing virgins to appease the gods, but we don't do that anymore.<br>
+							<br>
+							
+						JERRY: Well, maybe we should.<br>
+							<br>
+							
+						GEORGE: (knocks on the window) Hey, why are all those people milling around my car?<br>
+							<br>
+							
+						KRAMER: I don't know.<br>
+							<br>
+							
+						JERRY: Maybe they're admiring your spot.<br>
+							<br>
+							
+						KRAMER: They're all looking up.<br>
+							<br>
+							
+						GEORGE: Hey, there's a guy up the roof.<br>
+							<br>
+							
+						KRAMER: Whoa. That's the guy that I told where the elevator was.<br>
+							<br>
+							
+						GEORGE: Oh well, I hope he doesn't jum...<br>
+							<br>
+							
+						GEORGE, ELAINE, KRAMER, JERRY, &amp; STAN: Oh my!<br>
+							<br>
+							
+						(By everyone's reaction we see he has jumped. Then we heard the thud of the patient on George's Car.)<br>
+							<br>
+							
+						GEORGE: My car! My caaaaarrrr!<br>
+							<br>
+							
+						(George races out of the room.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[INT JERRY'S APARTMENT]<br>
+							<br>
+							
+						ELAINE: A Mohel! What the hell is a Mohel?<br>
+							<br>
+							
+						JERRY: A Mohel is the person that performs the circumcision.<br>
+							<br>
+							
+						ELAINE: Where am I going to find a Mohel? (LOOKING THROUGH THE YELLOW PAGES, MUTTERING) Motels, models... How do you find a Mohel?<br>
+							<br>
+							
+						JERRY: Oh, finding a Mohel is a piece of cake. Any idiot can find a Mohel. I have to hold the baby while they do it. That's a tough job. How would you like that?<br>
+							<br>
+							
+						ELAINE: Hey Jerry, you ever seen one?<br>
+							<br>
+							
+						JERRY: You mean that wasn't uh.<br>
+							<br>
+							
+						ELAINE: Yeah.<br>
+							<br>
+							
+						JERRY: No.. you?<br>
+							<br>
+							
+						ELAINE: Ya.<br>
+							<br>
+							
+						JERRY: What'd you think?<br>
+							<br>
+							
+						ELAINE: (shakes her head) No, had no face, no personality. It was like a martian. But hey, you know that's me.<br>
+							<br>
+							
+						JERRY: Hey.<br>
+							<br>
+							
+						(George enters)<br>
+							<br>
+							
+						GEORGE: Well I just got the estimate. It's going to cost more to fix that roof than the car's worth, So I'm going over to see that hospital administrator today. Someone is gonna pay for this damage and it's not gonna be me.<br>
+							<br>
+							
+						JERRY: Ah, you're screwed.<br>
+							<br>
+							
+						GEORGE: I know, swan dives from twenty floors up, lands right on top. What do I got a bulls eye up there? He couldn't move over two feet? Land on the sidewalk. It's city property.<br>
+							<br>
+							
+						ELAINE: Well I have to interview a Mohel.<br>
+							<br>
+							
+						JERRY: How about our little Elaine huh? Attended the finest finishing schools on the Eastern seaboard. Equestrian competitions. Debutante balls. Look at her now. Interviewing Mohels.<br>
+							<br>
+							
+						(SUDDENLY, KRAMER ENTERS, HOLDING THE PAPER, EXPLODES WITH A SPASMOF REVELATION.)<br>
+							<br>
+							
+						KRAMER: YEA!<br>
+							<br>
+							
+						JERRY: What's the matter?<br>
+							<br>
+							
+						ELAINE: Are you alright?<br>
+							<br>
+							
+						KRAMER: Don't even question my instincts, because my instincts are honed. (RE:PAPER) Look at that.<br>
+							<br>
+							
+						JERRY: What now?<br>
+							<br>
+							
+						KRAMER: Look look.<br>
+							<br>
+							
+						JERRY: (Kramer shows Jerry and Elaine the paper) &quot;Hospital receives grant to conduct DNA research&quot;..&quot; Government funds genetic research at area hospital&quot; ... Yeah, so?<br>
+							<br>
+							
+						KRAMER: pig-man, baby. pig-man.<br>
+							<br>
+							
+						ELAINE: If I hear about this pig-man one more time...<br>
+							<br>
+							
+						KRAMER: Hey, I'm tellin ya the pig-man is alive. The government has been experimenting with pig-men since the fifties.<br>
+							<br>
+							
+						JERRY: Oh, will you stop it. Just because a hospital studying DNA research doesn't mean they're creating a race of mutant pig-men!<br>
+							<br>
+							
+						KRAMER: Jerry wake up to reality. It's a military thing. They're probably creating a whole army of pig warriors.<br>
+							<br>
+							
+						GEORGE: I tell you something. I wish there were pig-men. You get a few of these pig-men walking around suddenly I'm looking a whole lot better. Then if somebody wants to fix me up at least they could say, &quot;Hey he's no pig-man!&quot;<br>
+							<br>
+							
+						JERRY: Believe me, there'd be plenty of women going for these pig-men. Whatever the deformity is there's always some group of perverts that's attracted to it. &quot;Oo that little tail really turns me on.&quot;<br>
+							<br>
+							
+						(ELAINE GROANS AND HEADS FOR THE DOOR.)<br>
+							<br>
+							
+						ELAINE: (MUMBLES) That's just about enough<br>
+							<br>
+							
+						JERRY: Oh, what's the matter this doesn't interest you?<br>
+							<br>
+							
+						ELAINE: Oh, no, it's fascinating, but could you do me a favor, could ya tape the rest of the pig-men and the women who love them discussion and I'll listen to it the next time I'm here. I've gotta go find a Mohel.<br>
+							<br>
+							
+						KRAMER: You know, you should call this off, Elaine. It's a barbaric ritual.<br>
+							<br>
+							
+						ELAINE: Well, perhaps one day when the pig-men roam free it will be stopped Kramer. Until then, off with their heads.<br>
+							<br>
+							
+						(ELAINE LEAVES.)<br>
+							<br>
+							
+						GEORGE: But Kramer, isn't it a question of hygiene?<br>
+							<br>
+							
+						KRAMER: It's a myth. Besides, it makes sex more pleasurable.<br>
+							<br>
+							
+						GEORGE: Yeah. So how does that help me?<br>
+							<br>
+							
+						JERRY: (TO GEORGE) Hey George, you ever see one?<br>
+							<br>
+							
+						GEORGE: Yeah, my roommate in college.<br>
+							<br>
+							
+						JERRY: So what'd you think?<br>
+							<br>
+							
+						GEORGE: (thinks for a second) I got used to it.<br>
+							<br>
+							<br>
+							<br>
+							
+						[INT. HOSPITAL CORRIDOR DAY 2 JERRY AND KRAMER ENTER. PEOPLE PASS IN HALLWAY.]<br>
+							<br>
+							
+						JERRY: Alright, I'm waiting. I-I want to see the pig-man. Show me the pig- man.<br>
+							<br>
+							
+						KRAMER: Oh, don't worry. I'm gonna show you, and you'll never be the same.<br>
+							<br>
+							
+						JERRY: Maybe he's just a guy with a nose like this. (holds his nose up like a pig) You know a lot of people have a nose like this, they're not necessarily pig-men.<br>
+							<br>
+							
+						KRAMER: Believe me, Jerry, somewhere in this hospital the anguished &quot;oink&quot; of pig-man cries out for help.<br>
+							<br>
+							
+						JERRY: Well, if I hear an anguished &quot;oink&quot;, I'm outta here. I-I don't see any pig-men. Look (HE POINTS AT PASSERBY) Human, human, human... (HE LOOKS DOWN CORRIDOR, WITH ALARM.) (WITH MOCK ALARM) Wait a second! (Grabs Kramer)<br>
+							<br>
+							
+						KRAMER: What?!<br>
+							<br>
+							
+						JERRY: Oh, it's George.<br>
+							<br>
+							
+						(GEORGE APPROACHES.)<br>
+							<br>
+							
+						GEORGE: Alright the administrator's on the third floor. I'll meet you guys back at the car.<br>
+							<br>
+							
+						KRAMER: Wait wait George. You got room in the car for the pig-man huh?<br>
+							<br>
+							
+						GEORGE: The pig-man can take the bus.<br>
+							<br>
+							
+						KRAMER: George, if the pig-man had a car, he would give you a ride.<br>
+							<br>
+							
+						GEORGE: How do you know? What if pig-man had a two-seater?<br>
+							<br>
+							
+						KRAMER: Be realistic George.<br>
+							<br>
+							
+						GEORGE: I'll tell you what, if pig-man shows up, we'll squeeze him in. I'll see you later.<br>
+							<br>
+							
+						KRAMER: Yea.<br>
+							<br>
+							
+						(GEORGE EXITS.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[INT HOSPITAL ADMINISTRATION OFFICE - DAY 2 THE ADMINISTRATOR, MRS. SWEEDLER, USHERS GEORGE IN. THEY SIT ON EITHER SIDE OF HER DESK.]<br>
+							<br>
+							
+						MRS. SWEEDLER: Mr. Costanza, come in, come in. It's been a very trying couple of days around the hospital. Doctors, patients, everyone, just grief stricken over this unfortunate occurrence.<br>
+							<br>
+							
+						GEORGE: Well, I join them in their grief.<br>
+							<br>
+							
+						MRS. SWEEDLER: Horrible thing. Flew right past the children's wing. All the sick children, in the playroom, looking out the window, just traumatized by the incident. Apparently, they thought he was flying. You know how children are, &quot;Oh look. A man is flying. A man is flying&quot; And then, splat...<br>
+							<br>
+							
+						GEORGE: That's where I come in. Umm, on splat. Uh, you see, Mrs. Sweedler, or is it hospital administrator Sweedler?<br>
+							<br>
+							
+						MRS. SWEEDLER: Mrs. Sweedler's fine.<br>
+							<br>
+							
+						GEORGE: Mrs. Sweedler thank you. Y-You see, this tragedy affected me in a very, very personal way.<br>
+							<br>
+							
+						MRS. SWEEDLER: How is that?<br>
+							<br>
+							
+						GEORGE: Yes, well you see, the deceased landed on my car. The uh splat, as it were, actually occurred on the roof of my car. Now of course I can't help but feel that had it been a convertible this whole tragedy might have been averted but I've never been the kind of guy to buy a convertible, what with the baldness and everything.<br>
+							<br>
+							
+						MRS. SWEEDLER: Well I have known bald men who owned convertibles. They wore a hat.<br>
+							<br>
+							
+						GEORGE: Yes but then everything is all pulled down and it's jus.. Anyway. The damage, unfortunately, has marred an otherwise fine automobile, rendering it virtually undriveable.<br>
+							<br>
+							
+						Mrs. SWEEDLER: (STIFFENING) Yes, well, that is a shame.<br>
+							<br>
+							
+						GEORGE: Yes, a shame. That is exactly how I would put it. Now Mrs. Sweedler, with all due discretion and sensitivity, and taking in the whole scope of the situation, I just can't help but think that, the hospital is somehow responsible for compensating the other, still living 'victim' of horrendous, horrendous tragedy.<br>
+							<br>
+							
+						(SHE GLARES)<br>
+							<br>
+							
+						MRS. SWEEDLER: Mr.Constanza.<br>
+							<br>
+							
+						GEORGE: Yes.<br>
+							<br>
+							
+						MRS. SWEEDLER: A man plummeted tragically to his ultimate demise -<br>
+							<br>
+							
+						GEORGE: Yes.<br>
+							<br>
+							
+						MRS. SWEEDLER: ... and you greedily, callously want to profit from it?<br>
+							<br>
+							
+						GEORGE: (PULLING OUT ESTIMATE OUT OF HIS POCKET) Well, profit. I think you'll see from the estimate that I'm not really profiting that much. They might be a little high, but..<br>
+							<br>
+							
+						MRS. SWEEDLER: Get out! Get out, now! Get out of my office.<br>
+							<br>
+							
+						(GEORGE PUTS HIS ESTIMATES ON THE DESK AND BEGINS TO EXIT.)<br>
+							<br>
+							
+						GEORGE: Should I leave this..?<br>
+							<br>
+							
+						MRS. SWEEDLER: GET OUT!<br>
+							<br>
+							
+						(HE EXITS.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[INT HOSPITAL CORRIDOR]<br>
+							<br>
+							
+						(Kramer walks into the room he believes to be the Pigman's and there isn't anyone in there.)<br>
+							<br>
+							
+						KRAMER: Excuse me. What happened to the man, that was in this room before?<br>
+							<br>
+							
+						RESIDENT: I don't know what you're talking about.<br>
+							<br>
+							
+						KRAMER: You know. (HE PUSHES HIS NOSE UP WITH HIS THUMB).<br>
+							<br>
+							
+						RESIDENT: No.<br>
+							<br>
+							
+						KRAMER: (STILL HOLDING HIS NOSE UP ) This doesn't look familiar to you?<br>
+							<br>
+							
+						RESIDENT: Uh, Sir?<br>
+							<br>
+							
+						KRAMER: Look, I know what's going on. The oink, oink.<br>
+							<br>
+							
+						RESIDENT: Yes well if you'll excuse me. I really have some patients I have to attend to.<br>
+							<br>
+							
+						(HE TRIES TO MOVE ON. KRAMER GRABS HIM BY THE LAPELS AND BACKS HIM AGAINST THE WALL. JERRY LOOKS THE OTHER WAY.)<br>
+							<br>
+							
+						KRAMER: (TOUGH TALKING) Now listen to me you little quack, There was a half man, half pig in that room over there. Now where is he?! Where is he?!<br>
+							<br>
+							
+						RESIDENT: Half-what?<br>
+							<br>
+							
+						KRAMER: You know what I mean - pork, sausage, (A LA PORKY PIG) A-deek-a-deek-a- deek th-th-th-that's all folks.<br>
+							<br>
+							
+						RESIDENT: I think he's been released.<br>
+							<br>
+							
+						(KRAMER RELEASES THE RESIDENT, WHO RUNS AWAY.)<br>
+							<br>
+							
+						KRAMER: He's lying.<br>
+							<br>
+							
+						JERRY: Alright Kramer, enough of this. Let's go find George.<br>
+							<br>
+							
+						KRAMER: Alright you go ahead.<br>
+							<br>
+							
+						(KRAMER WALKS OFF.)<br>
+							<br>
+							
+						JERRY: Kramer.<br>
+							<br>
+							<br>
+							<br>
+							
+						[The Flicks' Place]<br>
+							<br>
+							
+						(An assortment of people there to take part in the circumcision)<br>
+							<br>
+							
+						JERRY: Where's the Mohel?<br>
+							<br>
+							
+						ELAINE: He'll be here.<br>
+							<br>
+							
+						JERRY: He's late already.<br>
+							<br>
+							
+						ELAINE: Relax. You'd think you were getting whacked.<br>
+							<br>
+							
+						JERRY: I don't know why he asked me to be the Godfather. We're not even that close of friends. Just cause we're on the softball team, I'm the pitcher, he's the catcher he thinks we have a special relationship?<br>
+							<br>
+							
+						ELAINE: I thought pitchers and catchers did have a special rapport.<br>
+							<br>
+							
+						JERRY: Well maybe in hardball with all the signals and everything but I'm just lobbing it in. We don't have any conferences. He doesn't come out to the mound and encourage me.<br>
+							<br>
+							
+						ELAINE: What about me? I mean I just watched a few games with her sitting in the stands.<br>
+							<br>
+							
+						JERRY: Don't they have any closer friends. They're level jumping on our friendship.<br>
+							<br>
+							
+						ELAINE: Yes it is level jumping.<br>
+							<br>
+							
+						(George talking to a Woman)<br>
+							<br>
+							
+						GEORGE: So uh... been to a bris before?<br>
+							<br>
+							
+						WOMAN: No.<br>
+							<br>
+							
+						GEORGE: I've been to a few of em. If you uh start to get woozy later, which is quite common, stay close to me. I'll get you through it. (chuckles)<br>
+							<br>
+							
+						WOMAN: I'm a cardiologist. I think I'll manage.<br>
+							<br>
+							
+						(She walks away)<br>
+							<br>
+							
+						GEORGE: Oh.<br>
+							<br>
+							
+						(Kramer and Myra; Myra is sobbing)<br>
+							<br>
+							
+						KRAMER: We're not talking about a manicure. Imagine, this is going to be his first memory. Of his parents just standing there while some stranger (Does some motions of cutting; Myra sobs more) cutting off a piece of his manhood and then serves a catered lunch.<br>
+							<br>
+							
+						(MYRA RUNS AWAY, SOBBING)<br>
+							<br>
+							
+						STAN: (Seeing Myra run away sobbing) Myra?<br>
+							<br>
+							
+						KRAMER Oh, she'll be okay.<br>
+							<br>
+							
+						(HE SLINKS AWAY. ELAINE ANGRILY CONFRONTS KRAMER.)<br>
+							<br>
+							
+						ELAINE: Kramer, what's the matter with you?<br>
+							<br>
+							
+						KRAMER: Me?<br>
+							<br>
+							
+						(Doorbell rings interrupting Elaine)<br>
+							<br>
+							
+						ELAINE: (to everyone) Oh, that's the Mohel.<br>
+							<br>
+							
+						ALL: (ADLIB) It's the Mohel! the Mohel is here! Thank God, the Mohel is here.<br>
+							<br>
+							
+						(Elaine opens the door)<br>
+							<br>
+							
+						ELAINE: Hello.<br>
+							<br>
+							
+						(Elaine shakes hands with the Mohel as he enters)<br>
+							<br>
+							
+						MOHEL: (to Elaine) Hello, Hello (shaking hands with Jerry) Hello, I'm the Mohel.<br>
+							<br>
+							
+						JERRY: Hello.<br>
+							<br>
+							
+						MOHEL: (cont'd) (shakes Stan's hand) It's very nice to meet you all... (A PAN CLANGS TO THE GROUND. THE MOHEL SNAPS.) Oh! What was that?!? Jeez. Scared the hell out of me. My god. I almost had a heart attack! (THE CROWD GROWS UNEASY) (CALMING DOWN) Ok, I'm fine, I'm fine. Anyway, we're here to perform the mitzvah of the bris... (The Baby starts crying) (WITH INCREASING TENSION) ...Is the baby gonna cry like that? Is that how the baby cries, with the loud, sustained, squealing cry, 'cause that could pose a problem. Do you have any control of your child 'cause this will be the time to exercise it when baby is crying in that high-pitched, squealing tone that can drive you insane!!!<br>
+							<br>
+							
+						(MRS. FLICK TAKES THE BABY INTO THE OTHER ROOM. THE MOHEL MASSAGES HIS FOREHEAD.)<br>
+							<br>
+							
+						ELAINE: Did you find the place alright?<br>
+							<br>
+							
+						MOHEL: Did I find it alright? Could you send me to a more dangerous neighborhood? I'm dreading walking back to the subway, someone shouldn't crack me over the head and steal my bag, Because I'll be lying there and people will spit on me and empty my pockets. I'll be lying in the gutter like a bum, like a dog, like a mutt, like a mongrel, like an animal! God forbid anybody should help me or call an ambulance. Oh no, that's too much trouble to pick up a phone and press a few buttons. Ahh! What's the point.<br>
+							<br>
+							
+						ELAINE: (setting down her glass) Oh, ya haha.<br>
+							<br>
+							
+						MOHEL: (TO ELAINE INTERRUPTING) Darling, you see where that glass is? How that glass is near the edge of the table. You got the whole table there to put the glass, why you chose the absolute edge, so half the glass is hanging off the table, you breath and that glass falls over, then you're gonna have broken glass on the carpet, embedded in the carpet fibers, deep, deep in the shag, broken glass, bits of broken glass that you never get out. you can't get it out with a vacuum cleaner. Even on your hands and knees with a magnifying glass, you can't get all the pieces, and then you think you got it all and two years later, you're walkin' barefoot and you step on a piece of broken glass and you kill yourself, is that what you want? I don't think you want that, is it? .. Do ya? Huh?<br>
+							<br>
+							
+						(THE MOHEL BEGINS TWITCHING.)<br>
+							<br>
+							
+						ELAINE: (to Myra) He's very highly recommended. So...<br>
+							<br>
+							
+						MOHEL: (to George) You're holding the baby?<br>
+							<br>
+							
+						GEORGE: (getting up out of his chair to get out of the Mohel's way) No, No.<br>
+							<br>
+							
+						MOHEL: Hello! Who's holding the baby?!? Who's holding the baby?<br>
+							<br>
+							
+						ELAINE Jerry is.. (TO JERRY) Jerry? You wanna?<br>
+							<br>
+							
+						JERRY: (uncertain) Yeah. I'm holding the baby.<br>
+							<br>
+							
+						ELAINE: (pushing Jerry over to the Mohel) Ok, go.<br>
+							<br>
+							
+						JERRY: I'm going.<br>
+							<br>
+							
+						ELAINE: Go.<br>
+							<br>
+							
+						JERRY: I'm going.<br>
+							<br>
+							
+						ELAINE: C'mon<br>
+							<br>
+							
+						JERRY: Don't push me.<br>
+							<br>
+							
+						MOHEL: Okay. you sit here. Now I need the baby. Bring me the baby. I need the baby!<br>
+							<br>
+							
+						(Myra gets ready to hand the baby to the Mohel; Kramer then grabs the baby)<br>
+							<br>
+							
+						KRAMER: No, I'm not going to let this happen.<br>
+							<br>
+							
+						(Shocked by this everyone is yelling at Kramer to give up the baby. Kramer trying to get away gets on the couch and then falls with the baby in his arms. Fortunately Stan is able to gain control of the baby as Kramer falls and hands the baby back to Jerry)<br>
+							<br>
+							
+						ALL: (numerous voices) Kramer! Let go of the baby! Kramer!<br>
+							<br>
+							
+						MOHEL: People compose yourselves. (Shouting as the struggle ends) This is a bris. We are performing a bris here, not a burlesque show. This is not a school play! This is not a baggy pants farce! This is a bris. An sacred, ancient ceremony, symbolizing the covenant between God and Abraham... or something. (The Mohel opens his bag to start the process but drops it and his instruments fall out. People attempt to help him out) No! Don't touch it! Don't touch a thing!<br>
+							<br>
+							
+						ELAINE: Ok.<br>
+							<br>
+							
+						MOHEL: (muttering to Jerry).. I coulda been a kosher butcher like my brother. The money's good. There's a union, with benefits. And, cows have no families. You make a mistake with a cow, you move on with your life... Anyway.<br>
+							<br>
+							
+						(The Mohel has the instrument ready to perform the circumcision He twitches and his hand is trembling. Jerry is very nervous and bug-eyed. George faints)<br>
+							<br>
+							<br>
+							<br>
+							
+						[George's Car]<br>
+							<br>
+							
+						JERRY: Hurry up George! Step on it!<br>
+							<br>
+							
+						GEORGE: Alright, alright!<br>
+							<br>
+							
+						JERRY: That damn Mohel - he circumcised my finger! The Mohel circumcised my finger!<br>
+							<br>
+							
+						ELAINE: You flinched.<br>
+							<br>
+							
+						JERRY: Flinched? I did not flinch. George, did I flinch?<br>
+							<br>
+							
+						ELAINE: Oh how would he know. He blacked out. He fainted.<br>
+							<br>
+							
+						GEORGE: It was very traumatic. The last thing I remember is you flinching. Then, everything went black.<br>
+							<br>
+							
+						JERRY: Who's got a tissues? I need more tissues! Look at this thing. It's my phone finger!<br>
+							<br>
+							
+						GEORGE: Be careful, you're getting blood all over the car.<br>
+							<br>
+							
+						KRAMER: What about the baby?<br>
+							<br>
+							
+						JERRY: Oh the baby's fine. They just took him to the hospital as a precautionary measure. But look at me. I'm the one who's hurt.<br>
+							<br>
+							
+						ELAINE: Would you stop it? You're just gonna need a few stitches.<br>
+							<br>
+							
+						JERRY: A few stitches? I've never had stitches. I'll be deformed. I can't live with that. It goes against my whole personality. It's not me!<br>
+							<br>
+							
+						GEORGE: Hey look a that - boy are you lucky - another great spot - right in front of the hospital. In an emergency yet! How lucky are you huh? Is that unbelievable? How unbelievable is that huh? Come on, give it to me, give it to me.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Hospital]<br>
+							<br>
+							
+						(Jerry, George, Elaine and Kramer walking down the corridor)<br>
+							<br>
+							
+						GEORGE: I have never seen a Mohel like that.<br>
+							<br>
+							
+						JERRY: That was a one in a million Mohel.<br>
+							<br>
+							
+						ELAINE: I said I'm sorry.<br>
+							<br>
+							
+						JERRY: Look at this.<br>
+							<br>
+							
+						KRAMER: Oh you'll be ok. I'll see you later.<br>
+							<br>
+							
+						(Kramer heads off down the other corridor)<br>
+							<br>
+							
+						GEORGE: Wha, where is he going?<br>
+							<br>
+							
+						(ELAINE LIFTS NOSE UP WITH HER THUMB.)<br>
+							<br>
+							
+						GEORGE (con'td) I'm gonna look for a bathroom.<br>
+							<br>
+							
+						(George heads off back where the Four started. Elaine and Jerry continue down the corridor and find the Mohel)<br>
+							<br>
+							
+						JERRY: Oh well if it isn't Shakey the Mohel! Nice job on the circumcision but it's not supposed to be a finger.<br>
+							<br>
+							
+						MOHEL: (RE:JERRY) The circumcision was perfect. The finger was your fault! You flinched!<br>
+							<br>
+							
+						JERRY: Oh who made you a Mohel? Whadya, get your degree from a matchbook?<br>
+							<br>
+							
+						MOHEL: (HE MAKES A SUDDEN MOVEMENT) Ya See! He flinched again!<br>
+							<br>
+							
+						JERRY: Nice Mohel picking, Elaine. You picked a helluva Mohel!<br>
+							<br>
+							
+						MOHEL: One more peep out of you and I'll slice you up like a smoked sturgeon.<br>
+							<br>
+							
+						JERRY: Oh don't threaten me, Butcher Boy.<br>
+							<br>
+							
+						MOHEL: Butcher Boy?!<br>
+							<br>
+							
+						JERRY: Ya what was this? (HE IMITATES MOHEL'S FLINCHING)<br>
+							<br>
+							
+						MOHEL: What was this? (HE IMITATES JERRY)<br>
+							<br>
+							
+						(JERRY AND MOHEL GET INTO A STRUGGLE.)<br>
+							<br>
+							
+						MOHEL (cont;d) It was your fault!<br>
+							<br>
+							
+						JERRY: It was not!<br>
+							<br>
+							
+						ELAINE: Jerry, be careful. The Mohel's got a knife!<br>
+							<br>
+							
+						(The Flicks enter; Elaine tries to break up the struggle)<br>
+							<br>
+							
+						STAN: (holding the Mohel back) Hey, hey what's going on out here? You two should be ashamed of yourselves, both of ya!<br>
+							<br>
+							
+						MOHEL: Ah, blood.<br>
+							<br>
+							
+						ELAINE: Oh, how's the baby?<br>
+							<br>
+							
+						STAN: There's nothing wrong with the baby.<br>
+							<br>
+							
+						MYRA: The circumcision went fine.<br>
+							<br>
+							
+						MOHEL: Thank god the flincher didn't harm the baby.<br>
+							<br>
+							
+						STAN: Amen.<br>
+							<br>
+							
+						(THE MOHEL LEANS INTO JERRY AND WHISPERS.)<br>
+							<br>
+							
+						MOHEL: I will get you for this. This is my business, this is my life. No one ruins this for me. No one! (TO ELAINE) Here's my card.<br>
+							<br>
+							
+						(The Mohel Exits; George is seen coming down the corridor;)<br>
+							<br>
+							
+						KRAMER: (off screen) Outta My Way!<br>
+							<br>
+							
+						(All watch as Kramer comes dashing down the corridor, He is carrying the pigman on his back. &quot;Oinking&quot; is heard as Kramer runs by; George signals to Jerry, Elaine, Myra and Stan with his finger holding up his nose and pointing the direction Kramer went)<br>
+							<br>
+							<br>
+							<br>
+							
+						[INT. JERRY'S APARTMENT]<br>
+							<br>
+							
+						JERRY: (struggling to open a bottle with his bandaged finger) I can't do it. (A LA GODFATHER) Look what they did to my boy, They massacred my boy.<br>
+							<br>
+							
+						ELAINE: You really do the worst Godfather I ever heard. You're not even close.<br>
+							<br>
+							
+						(Buzzer)<br>
+							<br>
+							
+						JERRY: (walking over the the buzzer to answer it) Oh, that's the Flicks.<br>
+							<br>
+							
+						GEORGE: (ON PHONE) It's a '76 Chevy Impala. They stole it right in front of the hospital. I saw the guy drive off in it. Well he's about five feet tall, hairless, pink complexion.. (Elaine puts her finger on her nose) looks like a pig. Yeah, alright alright, thank you, thank you. (Kramer enters) So any word from the &quot;pig-man&quot;?<br>
+							<br>
+							
+						KRAMER: No.<br>
+							<br>
+							
+						GEORGE: No. And he's not a pig-man is he?<br>
+							<br>
+							
+						KRAMER: NO, he's not.. Just a fat little mental patient.<br>
+							<br>
+							
+						(THE FLICKS ENTER)<br>
+							<br>
+							
+						JERRY: Myra, Stan.<br>
+							<br>
+							
+						(ELAINE GOES TO ADMIRE BABY. MYRA PULLS HIM AWAY.)<br>
+							<br>
+							
+						MYRA: Don't touch him<br>
+							<br>
+							
+						JERRY: What's the matter?<br>
+							<br>
+							
+						STAN: You're out, Jerry. You're out as Godfather. You too, Elaine. You're both out.<br>
+							<br>
+							
+						ELAINE: But I didn't do anything.<br>
+							<br>
+							
+						STAN: No, no buts. We made up our minds. (turns to Kramer) We want Kramer. He showed us how much he cares about Steven.<br>
+							<br>
+							
+						(Godfather Theme begins to play; The Flicks head to Kramer's apartment)<br>
+							<br>
+							
+						KRAMER: (Leaving: A LA GODFATHER) Don't ever go against the family Jerry.<br>
+							<br>
+							
+						(Kramer joins the Flicks in his Apartment)<br>
+							<br>
+							
+						STAN: (grabbing Kramer's hand) Godfather.<br>
+							<br>
+							
+						MYRA: (grabbing Kramer's other hand) Godfather.<br>
+							<br>
+							
+						KRAMER: Yes<br>
+							<br>
+							
+						(Stan Closes the door; Jerry, George and Elaine look on in shock)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Closing Monologue]<br>
+							<br>
+							
+						To me what's really amazing is that for every job that there is in the world, there's someone willing to do it. Someone goes 'Yes, I will stand in the tunnel breathing exhaust fumes watching the cars go by making sure every thing's okay.' Someone goes 'Yes, I will work behind the elephant with the big shovel, I will do it.' Doctors go 'Yes I will confine myself to one particularly objectionable part of the human body all day every day. I will do it.' I think a lot of people that are unemployed are not really able to find work, they're just easily disgusted. 'Yes I'm starving and my family no clothing or shelter but I'm not cleaning that up.'<br>
+							<br>
+							
+						*Note: During this closing monologue; Jerry's finger is bandaged the same way it was during this episode.<br>
+							<br>
+							<br>
+							
+						The End</td>
+						</tr>
+						<tr height="6">
+							<td class="bottom2" width="645" height="6"></td>
+						</tr>
+						<tr>
+							<td width="645">
+								<div align="center">
+									<font size="-1">Copyright 2006 seinology.com | All Rights Reserved | Designed by 13erla</font></div>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+		<p></p>
+	</body>
+
+</html>

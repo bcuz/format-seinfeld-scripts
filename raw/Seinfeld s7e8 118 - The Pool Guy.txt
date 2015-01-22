@@ -1,0 +1,1562 @@
+<tdOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+<html>
+
+	<head>
+		<meta http-equiv="content-type" content="text/html;charset=ISO-8859-1">
+		<meta name="description" content="Top Source for Seinfeld">
+		<meta name="keywords" content="seinfeld, sienfeld, Jerry Seinfeld, Julia Louis Dreyfus, Jason Alexander, Michael Richards, Kramer, George, Costanza, Elaine Benes, morty, Larry David">
+		<title>Seinology.com :: Scripts :: 118-The Pool Guy</title>
+	<link rel='stylesheet' href='/stylesheet.css' type='text/css'>
+	</head>
+
+	<body>
+			<table align="center" width="787" border="0" cellspacing="0" cellpadding="0">
+				<tr>
+					<td><font size="-2" color="red">Seinology.com - </font><font size="-3" color="black">Where Seinfeld Content and Accuracy Matter Most. Seinfeld scripts in pdf form, Seinfeld episode video clips, Seinfeld episode audio clips, Jerry Seinfeld appearances, Julia Louis-Dreyfus appearances, Michael Richards appearances, Jason Alexander appearances, Seinfeld discussion Forum, Seinfeld Where are they Now? Seinlanguage Newsletter, Popular Seinfeld Lists, Seinfeld episode standup, Seinfeld episode guide, Seinfeld fan fiction. Seinfeld content all on one domain. Seinology.com enjoy your stay.</font></td>
+				</tr>
+			</table>
+		
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr height="100">
+				<td class="logo"></td>
+			</tr>
+			<tr><td class="ads" align="center" background=#8694fa>
+				<script type="text/javascript"><!--
+google_ad_client = "pub-1924026976931416";
+google_ad_width = 728;
+google_ad_height = 90;
+google_ad_format = "728x90_as";
+google_ad_type = "text";
+google_ad_channel = "";
+google_color_border = "FFFFFF";
+google_color_bg = "8694fa";
+google_color_link = "0000FF";
+google_color_text = "000000";
+google_color_url = "002E3F";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></td></tr>
+		</table>
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr>
+				<td valign="top" width="136">
+					<table width="136" border="0" cellspacing="0" cellpadding="0">
+						<tr height="24">
+							<td class="navigation">
+								<div align="center">
+									
+									<b>Navigation</b></div>
+							</td>
+						</tr>
+						<tr height="199">
+							<td class="spacer1" valign="top" width="136" height="199">
+								<div align="center">
+									<font size="-1"><a href="http://www.seinology.com">Home</a><br>
+										<a href="http://board.seinology.com">Forum</a><br>
+										<a href="http://www.seinology.com/av.shtml">Audio/Video</a><br>
+										<a href="http://www.seinology.com/scripts.shtml">Scripts</a><br>
+										<a href="http://www.seinology.com/survivor.shtml">Survivor</a><br>
+										<a href="http://www.seinology.com/fanfics.shtml">Fan Fiction</a><br>
+										<a href="http://www.seinology.com/gallery/">Gallery</a><br>
+										<a href="http://www.seinology.com/newsletter.shtml">Newsletter</a><br>
+										<a href="http://www.seinology.com/lists.shtml">Lists</a><br>
+										<a href="http://www.seinology.com/epguide.shtml">Episode Guide</a><br>
+										<a href="http://www.seinology.com/links.shtml">Links</a><br>
+										<a href="http://www.seinology.com/faqother.shtml">Faq + others</a><br>
+										<a href="http://www.seinology.com/legal.shtml">Legal</a></font></div>
+							</td>
+						</tr>
+						
+						<tr>
+							<td class="nav2" width="136">
+							<div align="center"><b>Search</b></div></td>
+						</tr>
+						<tr>
+							<td class="spacer1" width="136" valign="top"><div align="center"><form method="get" action="http://www.seinology.com/search/search.cgi">
+<p><label for="fdse_Match">Match</label><br>
+<select name="Match" id="fdse_Match" size="1">
+<option value="1">All</option>
+<option value="0">Any</option>
+<option value="2">Phrase</option>
+</select></p>
+<p><label for="fdse_Realm">Where?</label><br>
+<select name="Realm" id="fdse_Realm" size="1">
+<option selected="selected" value="All">EntireSite</option>
+<option value="Ep Guide">Ep Guide</option>
+<option value="Images">Images</option>
+<option value="Lists">Lists</option>
+<option value="Newsletters">Newsletters</option>
+<option value="Scripts">Scripts</option>
+<option value="Notes..Nothing">Notes..Nothing</option>
+</select></p>
+<p><input type="text" name="Terms" size="14" id="fdse_Terms"><br>
+<input type="submit" class="submit" name="submitButtonName" value="Search"></p>
+</div></form></td>
+						</tr>
+						<tr><td class="bottom" width="136" height="10" valign="top">
+						</td>
+						</tr>
+					</table>
+				</td>
+				<td width="4"></td>
+				<td valign="top" width="645">
+					<table width="645" border="0" cellspacing="0" cellpadding="0">
+						<tr height="18">
+							<td width="645" height="35" class="bar">
+								<div align="center">
+									<b><font size="+2" color="black">Script</font></b></div>
+							</td>
+						</tr>
+						<tr height="362">
+							<td class="spacer2" valign="top" width="645" height="362">
+
+						<p><font size="-2">Episode 118 - The Pool Guy<br>
+							
+						pc: 708, season 7, episode 8<br>
+							
+						Broadcast date: November 16, 1995<br>
+							<br>
+							
+						Written by David Mandel<br>
+							
+						Directed by Andy Ackerman<br>
+							<br>
+							
+						-------------------------------------------------------------------------------<br>
+							<br>
+							
+						The Cast<br>
+							
+						Regulars:<br>
+							
+						Jerry Seinfeld ....................... Jerry Seinfeld<br>
+							
+						Jason Alexander .................. George Costanza<br>
+							
+						Julia Louis-Dreyfus ............. Elaine Benes<br>
+							
+						Michael Richards ................. Cosmo Kramer<br>
+							<br>
+							
+						Guest Stars:<br>
+							<br>
+							
+						Carlos Jacott ....................... Ramon (The Pool Guy)<br>
+							
+						Billy Williams ...................... Usher<br>
+							
+						Alec Mapa .......................... Paul<br>
+							
+						Dom Magwili ..................... Dustin<br>
+							
+						rc: Wayne Knight .............. Newman<br>
+							
+						rc: Heidi Swedberg ............ Susan Biddle Ross<br>
+							<br>
+							
+						==================================================================<br>
+							<br>
+							
+						[Opening Monologue]<br>
+							<br>
+							
+						I&#146;d like to know when Tic-Tac-Toe became the Pound sign, that's what I&#146;d like to know. Why don't they call it what it really is -- &#147;Leave your numeric message now and then press Archie&#146;s head.&#148; And what is that redial button? Let's face it -- you're either going to get the person, the machine or they have call waiting. Who is redialing and redialing? This is like the harassment key for people in a fight, you know.<br>
+							
+						(Jerry holds his right hand up to the side of his face, thumb and pinky extended like a phone receiver)<br>
+							
+						&#147;Hey I&#146;m not through --&#148; CLICK. Blulululululu.<br>
+							
+						&#147;You can't do that to me --&#148; CLICK. Blulululululu.<br>
+							
+						&#147;And another thing --&#148; CLICK. Blulululululu.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Exterior daylight shot of Jerry's brick apartment building, then inside.]<br>
+							<br>
+							
+						GEORGE: Let me ask you a question. Who would win in a fight between you and me?<br>
+							<br>
+							
+						JERRY: Well, what do you mean?<br>
+							<br>
+							
+						GEORGE: Well if you and I ever got into, like a really serious fight you know, and the punches started flying -- who do you think would win?<br>
+							<br>
+							
+						JERRY: Well I think that's pretty obvious.<br>
+							<br>
+							
+						GEORGE: Yeah. Me too.<br>
+							<br>
+							
+						(Elaine enters carrying a cup of coffee)<br>
+							<br>
+							
+						JERRY: Hey Elaine.<br>
+							<br>
+							
+						ELAINE: Hey.<br>
+							<br>
+							
+						JERRY: Who, who, who do you think would win in a fight between me and ah, gorgeous George here. (pointing up and down at George)<br>
+							<br>
+							
+						ELAINE: You mean in a real Fight Fight?<br>
+							<br>
+							
+						JERRY: Mona a Baldo .<br>
+							<br>
+							
+						ELAINE: George.<br>
+							<br>
+							
+						GEORGE: Ah-Ha! (he turns and walks over to the refrigerator)<br>
+							<br>
+							
+						JERRY: Why?<br>
+							<br>
+							
+						ELAINE: George fights dirty. (she sips her coffee)<br>
+							<br>
+							
+						JERRY: Really? What would you do?<br>
+							<br>
+							
+						GEORGE: Pull hair, Poke eyes, Groin stuff. Whatever I gotta do. (he opens a blue bottled beverage)<br>
+							<br>
+							
+						JERRY: Hmm.<br>
+							<br>
+							
+						ELAINE: So. Listen ... You're not doing anything tomorrow, are you? Because I have an extra ticket to the historical clothing exhibit at the Met.<br>
+							<br>
+							
+						JERRY: I&#146;m sorry.<br>
+							<br>
+							
+						ELAINE: George?<br>
+							<br>
+							
+						GEORGE: Would I want to see what Mary Todd wore to Lincoln's funeral?<br>
+							<br>
+							
+						ELAINE: There's nobody I can go with.<br>
+							<br>
+							
+						(Kramer enters)<br>
+							<br>
+							
+						ELAINE: You know what. I don't have one female friend left.<br>
+							<br>
+							
+						KRAMER: Oh, no, of course you don't. You're a Man's Woman. You hate other women, and they hate you.<br>
+							<br>
+							
+						ELAINE: Thank you.<br>
+							<br>
+							
+						KRAMER: So Jerry, (smacks hands and rubs palms together) What time we going to the movies?<br>
+							<br>
+							
+						JERRY: Ah, how about 8:30?<br>
+							<br>
+							
+						KRAMER: Saddle up and ride. (opens the fridge and pulls out some food -- takes a big bite)<br>
+							<br>
+							
+						JERRY: You want to get something to eat first?<br>
+							<br>
+							
+						KRAMER: (mumbling with full mouth) No, I&#146;m good.<br>
+							<br>
+							
+						GEORGE: I wonder if, ah, Susan ... (picks up the phone from the coffee table, then decides not to call) No. I better just go. (claps hands) heh. All right! See ya. (grabs his rain coat from the hook by the door and rushes out)<br>
+							<br>
+							
+						KRAMER: There's nothing more pathetic, than a grown man, who&#146;s afraid of a woman . (voice get high-pitched for the last line)<br>
+							<br>
+							
+						JERRY: Hey, why don't cha ask Susan?<br>
+							<br>
+							
+						ELAINE: George's Susan?<br>
+							<br>
+							
+						JERRY: Yeah.<br>
+							<br>
+							
+						ELAINE: Yeah. Why not Susan. I should be friends with Susan. (smacks her forehead with hand) Of course! Susan! Oh! OK, I&#146;ll see you guys. Huh. (rushes out the door.)<br>
+							<br>
+							
+						KRAMER: That's gunna be trouble.<br>
+							<br>
+							
+						JERRY: Why?<br>
+							<br>
+							
+						KRAMER: Jerry, don't you see? This world here, this is George's sanctuary. If Susan comes into contact with this world, his world's collide. You know what happens then?<br>
+							<br>
+							
+						(Kramer raises his hands into the air and slowly brings them together in an explosion. He's holding some food in one hand, so when his hands come into contact food flies all over)<br>
+							<br>
+							
+						KRAMER: Ka shha shha shha Pkooo (exploding sound)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Camera fades from the apt. to the Paragon Movie Theater. Jerry and Kramer wait outside in a line to buy tickets.]<br>
+							<br>
+							
+						KRAMER: Did I tell you I&#146;m getting a new telephone number?<br>
+							<br>
+							
+						JERRY: How come?<br>
+							<br>
+							
+						KRAMER: Whew, chicks man. Too many chicks know my number.<br>
+							<br>
+							
+						(Jerry looks at Kramer, raises his eyebrows with an expression that says &#147;really?&#148;)<br>
+							<br>
+							
+						RAMON: (recognizes Jerry) Hey Jerry. How are you Mr. Backstroke?<br>
+							<br>
+							
+						JERRY: Kramer this is Ramon, from the new health club I joined.<br>
+							<br>
+							
+						KRAMER: Oh, yeah.<br>
+							<br>
+							
+						RAMON: So you know what happened don't chu?<br>
+							<br>
+							
+						JERRY: No what?<br>
+							<br>
+							
+						RAMON: I got fired.<br>
+							<br>
+							
+						JERRY: Really?<br>
+							<br>
+							
+						RAMON: Yeah, said I put too much chlorine in the pool.<br>
+							<br>
+							
+						JERRY: Ahh.<br>
+							<br>
+							
+						RAMON: Hey well, ah, stay out of the deep end, eh.<br>
+							<br>
+							
+						JERRY: OK, see you later.<br>
+							<br>
+							
+						KRAMER: What's in the deep end?<br>
+							<br>
+							<br>
+							<br>
+							
+						[Night exterior of George's apartment building, then inside. Susan sits on the couch reading.]<br>
+							<br>
+							
+						(Telephone rings)<br>
+							<br>
+							
+						GEORGE: Hello?<br>
+							<br>
+							
+						ELAINE: Hey George.<br>
+							<br>
+							
+						GEORGE: Hey Elainie. What's going on?<br>
+							<br>
+							
+						ELAINE: (sitting up in bed) Nothing much, um. Can I talk to Susan<br>
+							<br>
+							
+						GEORGE: Ha, Yeah right, hang on, I&#146;ll ah, I&#146;ll get her for you. he, he, he, he. Seriously, what's up?<br>
+							<br>
+							
+						ELAINE: No, George really. Can I talk to Susan?<br>
+							<br>
+							
+						GEORGE: Susan, why?<br>
+							<br>
+							
+						ELAINE: Because I want to ask her to lunch and to the Met tomorrow.<br>
+							<br>
+							
+						GEORGE: Oh, I don't think you want to do that.<br>
+							<br>
+							
+						ELAINE: Why not?<br>
+							<br>
+							
+						GEORGE: Well what would be the point of that?<br>
+							<br>
+							
+						(Susan, hearing her name glances over at George)<br>
+							<br>
+							
+						ELAINE: George, are you going to put her on the phone?<br>
+							<br>
+							
+						GEORGE: Where did this come from all of a sudden?<br>
+							<br>
+							
+						ELAINE: George, are you going to let me talk to Susan, or Not?<br>
+							<br>
+							
+						GEORGE: I really think I should have been consulted about this.<br>
+							<br>
+							
+						(George takes the phone from his ear and walks over to the couch and hands the phone to Susan)<br>
+							<br>
+							
+						GEORGE: Here ... something.<br>
+							<br>
+							
+						SUSAN: Hello? (with hesitant surprise) Oh, that sounds great. I love that sort of stuff.<br>
+							<br>
+							
+						(George stands behind the couch, arms crossed with his right hand clenched up to his mouth. He takes off his glasses, puts his left hand just above his eyes and rubs them in disbelief and walks out of the room.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Night exterior of a busy NYC street. Large lit advertising signs for Panasonic, JVC and a couple of McDonalds &#147;Golden Arches&#148; are visible. Then to the inside of the movie theater.]<br>
+							<br>
+							
+						KRAMER: You want to sit here?<br>
+							<br>
+							
+						JERRY: Yeah. (Kramer sits in the seat next to Jerry) Uh, uh, oh, oh, Over there. (points to the next seat over)<br>
+							<br>
+							
+						KRAMER: Why?<br>
+							<br>
+							
+						JERRY: Little buffer zone.<br>
+							<br>
+							
+						KRAMER: (Quietly) Buffer zone (Kramer moves to the other seat)<br>
+							<br>
+							
+						JERRY: Thank you. If we were in my apartment and we were watching a movie on the couch, would we sit right next to each other?<br>
+							<br>
+							
+						KRAMER: No. You got a point.<br>
+							<br>
+							
+						JERRY: All right.<br>
+							<br>
+							
+						KRAMER: I can't ...<br>
+							<br>
+							
+						JERRY: What are you doing?<br>
+							<br>
+							
+						KRAMER: Well these seats have no lumbar.<br>
+							<br>
+							
+						JERRY: Oh hey, there's Ramon. Pre, pretend we're talking.<br>
+							<br>
+							
+						(Ramon is looking for a seat. He's carrying a drink, a bunch of napkins, and a huge bucket of popcorn)<br>
+							<br>
+							
+						KRAMER: We are talking.<br>
+							<br>
+							
+						JERRY: Pretend it's interesting.<br>
+							<br>
+							
+						KRAMER: So, ah then, I ah had to kill him and ah, well the police are still looking for me.<br>
+							<br>
+							
+						JERRY: That's shocking, but sounds ...<br>
+							<br>
+							
+						RAMON: Hey, hi Jerry.<br>
+							<br>
+							
+						JERRY: Oh, hey Ramon.<br>
+							<br>
+							
+						RAMON: Hey, hey, I took a bunch of napkins. You want some?<br>
+							<br>
+							
+						JERRY: Oh, no thanks. (turns back to Kramer)<br>
+							<br>
+							
+						RAMON: Hey, ahhh, is this seat taken?<br>
+							<br>
+							
+						(Ramon proceeds to sit down between Kramer and Jerry)<br>
+							<br>
+							
+						JERRY: No.<br>
+							<br>
+							
+						(As Ramon sits down, he bumps into Kramer and startles him. Jerry looks like he can't believe Ramon sat down. Ramon is bobbing his head front to back with his neck, like sitting there worked out pretty good)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Exterior of Jerry's apartment building then inside where Jerry and George are talking.]<br>
+							<br>
+							
+						JERRY: And then the worst part is, after the movie, he leached on to us ... We wound up having coffee with him for like two hours. Then he walks us home, all the way back to the front of the building. Finally I said, look Ramon, I gotta go to bed now.<br>
+							<br>
+							
+						GEORGE: By the way, have you spoken to Elaine yet today?<br>
+							<br>
+							
+						JERRY: No why?<br>
+							<br>
+							
+						GEORGE: (sighs) She called Susan last night.<br>
+							<br>
+							
+						JERRY: Oh yeah, I know.<br>
+							<br>
+							
+						GEORGE: How do you know?<br>
+							<br>
+							
+						JERRY: Well it was my idea.<br>
+							<br>
+							
+						GEORGE: Your idea?<br>
+							<br>
+							
+						JERRY: Yeah.<br>
+							<br>
+							
+						GEORGE: Wha&#146;d you do that for?<br>
+							<br>
+							
+						JERRY: She was looking for someone to go to the show with.<br>
+							<br>
+							
+						GEORGE: Well that was a really stupid thing! You know what's going to happen now?<br>
+							<br>
+							
+						JERRY: World's collide. (points at George)<br>
+							<br>
+							
+						GEORGE: Whe ... Well yeah!<br>
+							<br>
+							
+						JERRY: Because this world is your sanctuary and if that world comes into contact with --<br>
+							<br>
+							
+						GEORGE: YES! It Blows Up! If you knew that, what did you tell Elaine for?<br>
+							<br>
+							
+						JERRY: I didn&#146;t know. Kramer told me about the worlds.<br>
+							<br>
+							
+						GEORGE: You couldn't figure out the &#147;World's Theory&#148; for yourself? It's just common sense. Anybody knows, ya gotta keep your worlds apart. (gesturing with hands going outward)<br>
+							<br>
+							
+						JERRY: Yeah, I guess I slipped up.<br>
+							<br>
+							
+						(Kramer enters)<br>
+							<br>
+							
+						KRAMER: Hey.<br>
+							<br>
+							
+						GEORGE: Hey.<br>
+							<br>
+							
+						JERRY: Hey.<br>
+							<br>
+							
+						GEORGE: He knows the worlds theory.<br>
+							<br>
+							
+						KRAMER: What is it blowing up?<br>
+							<br>
+							
+						GEORGE: Ha! (grabs his coat and exits the apartment)<br>
+							<br>
+							
+						(Telephone rings - Kramer pulls a cordless phone from his pocket)<br>
+							<br>
+							
+						KRAMER: Cosmo, go. No, no, na, na. (he pushes the end button and pushes the antenna down) Boy this new telephone number's driving me crazy -- wrong numbers, every five minutes.<br>
+							<br>
+							
+						JERRY: What is it?<br>
+							<br>
+							
+						KRAMER: Well it's 555-3455.<br>
+							<br>
+							
+						JERRY: 555-3455.<br>
+							<br>
+							
+						KRAMER: Yeah.<br>
+							<br>
+							
+						JERRY: (picks up the phone on the coffee table) &#147;555-3455.&#148; Well wait a second, don't you see that's 555-FILK.<br>
+							<br>
+							
+						KRAMER: What's Filk?<br>
+							<br>
+							
+						JERRY: Filk&#146;s nothing, but 555-FILM is Movie Phone.<br>
+							<br>
+							
+						KRAMER: Oh Movie Phone.<br>
+							<br>
+							
+						JERRY: Yes, so people are just dialing it by mistake and getting you.<br>
+							<br>
+							
+						KRAMER: So, I&#146;m Filk?<br>
+							<br>
+							
+						JERRY: You're Filk.<br>
+							<br>
+							
+						KRAMER: Oh, Mama.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Susan and Elaine are walking down the sidewalk.]<br>
+							<br>
+							
+						ELAINE: Well what about that number Susan B. Anthony wore to the 19th Amendment party. Hnuh. Eye yye yye.<br>
+							<br>
+							
+						SUSAN: Oh whoo. Quite the D&egrave;Colletage for a suffragette.<br>
+							<br>
+							
+						ELAINE: Ha, ha, ha, ha, well it must have been one hell of a party.<br>
+							<br>
+							
+						SUSAN: Whoo.<br>
+							<br>
+							
+						ELAINE: Ha, ha, ha, ha.<br>
+							<br>
+							
+						SUSAN: Oh, I know what I wanted to tell you.<br>
+							<br>
+							
+						ELAINE: What?<br>
+							<br>
+							
+						SUSAN: Ehahh, forget it.<br>
+							<br>
+							
+						ELAINE: What? You can tell me. I&#146;ll put it in the vault.<br>
+							<br>
+							
+						SUSAN: The vault?<br>
+							<br>
+							
+						ELAINE: Mm-Hmm.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Exterior shot of Physique (Jerry's health club) then inside to the men's locker room where Jerry is putting some clothes in a gym bag. Some men are in the background talking.]<br>
+							<br>
+							
+						PAUL - Locker room Attendant #1: Oy, Mr. Seinfeld. We heard you went to the movies with Ramon.<br>
+							<br>
+							
+						JERRY: Oh, well, I didn&#146;t actually go with Ramon. I just bumped into him there. (putting on coat)<br>
+							<br>
+							
+						DUSTIN - Locker room Attendant #2: It's a good thing he has friends like you to cheer him up.<br>
+							<br>
+							
+						PAUL: Tell him to call us.<br>
+							<br>
+							
+						DUSTIN: Tell him, Dustin says, &#147;Hello.&#148;<br>
+							<br>
+							
+						JERRY: All right, I gotta go.<br>
+							<br>
+							
+						PAUL: To see Ramon?<br>
+							<br>
+							
+						(Paul, with his eyes wide open looking at Jerry. Dustin stares off the other direction, laughing to himself)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Exterior of Jerry's apartment building, then inside Jerry's apartment.]<br>
+							<br>
+							
+						JERRY: What else did you two do?<br>
+							<br>
+							
+						ELAINE: Oh, I don't know, you know, girlie stuff.<br>
+							<br>
+							
+						JERRY: Ah, so, ah, flower shows and, shopping for pretty bows, and then back to her place, strip down to bra and panties for a tickle fight?<br>
+							<br>
+							
+						(Elaine stands there for a good 6 seconds with arms crossed, blank expression, just looking at Jerry)<br>
+							<br>
+							
+						ELAINE: That's really what you think girls do, isn't it?<br>
+							<br>
+							
+						JERRY: Yes, I do. (very serious)<br>
+							<br>
+							
+						ELAINE: All rightee. (turns and walks to the bathroom)<br>
+							<br>
+							
+						JERRY: Hey you know George isn't to happy, ahh, about your new friendship.<br>
+							<br>
+							
+						ELAINE: Yeah? Well I don't really give a Sh... (closing the bathroom door)<br>
+							<br>
+							
+						(Kramer enters and leaves the door open)<br>
+							<br>
+							
+						KRAMER: Hey man, what's going on?<br>
+							<br>
+							
+						JERRY: Hey.<br>
+							<br>
+							
+						(Telephone rings)<br>
+							<br>
+							
+						KRAMER: Ooh, here we go. (pulls a cordless phone from his pocket) Yeah hello. Yeah, no, no, no, hold on.<br>
+							<br>
+							
+						(Kramer walks over to the table, opens the newspaper to the movie section)<br>
+							<br>
+							
+						KRAMER: Yeah, Cupid&#146;s Rifle -- 8:30, Sony Lincoln Square. Yeah, no, no, no, no problem, yeah.<br>
+							<br>
+							
+						(Kramer hangs up the cordless and pushes the antenna back in, puts the phone in his pocket)<br>
+							<br>
+							
+						JERRY: You're looking up movies for people now?<br>
+							<br>
+							
+						KRAMER: I got time.<br>
+							<br>
+							
+						(Telephone rings)<br>
+							<br>
+							
+						KRAMER: And this. (pulls out the cordless phone from his pocket) Cosmo here. Yeah, un-huh, no, no, no, no, I&#146;ll help. Yeah, Firestorm&#146;s good. I saw it yesterday. Yeah well my buddy Jerry , ah, he's seen it twice. You want to talk to him? Here -- (holds the phone out to Jerry)<br>
+							<br>
+							
+						JERRY: (shaking his head no) No Kramer I don't want to talk to him.<br>
+							<br>
+							
+						(Jerry is backing away, as Kramer attempt to foist the phone on to Jerry, but he will not take it -- Kramer continues to try and get Jerry to take the phone from him)<br>
+							<br>
+							
+						** Continuity Error -- During this part of the scene, we clearly see Kramer&#146;s right hand holding the phone, his left hand is empty. This sequence is shot from several camera angles. At the end of the sequence, Kramer is holding the folded newspaper in his left hand -- he did not reach over to pick up the paper -- so this is obviously a Continuity Error **<br>
+							<br>
+							
+						KRAMER: Just, just tell him about the picture. What's the matter with you? Stop it. (puts the phone back to his ear) Yes, are you still there? Look I&#146;m sorry about that. All right there's an 8:30 and a 10:15showing.<br>
+							<br>
+							
+						(Kramer walks out the open door and into his apt. with the newspaper. Elaine walks back into the living room, wondering what just happened, she gestures towards Kramer as he exits)<br>
+							<br>
+							
+						(Intercom buzzes)<br>
+							<br>
+							
+						JERRY: Oh that's George. (presses the intercom button) Yeah?<br>
+							<br>
+							
+						RAMON: (Hey it's Ramon)<br>
+							<br>
+							
+						JERRY: What?<br>
+							<br>
+							
+						RAMON: (Hey, It's Ramon Jerry. I&#146;m coming up)<br>
+							<br>
+							
+						JERRY: (to Ramon) Oh. Okay. (to Elaine) Wh, what is he doing here?<br>
+							<br>
+							
+						ELAINE: Who? Who is Ramon?<br>
+							<br>
+							
+						JERRY: He's the pool guy.<br>
+							<br>
+							
+						ELAINE: What pool guy?<br>
+							<br>
+							
+						JERRY: Do me a favor. Just stick around while he's here.<br>
+							<br>
+							
+						ELAINE: Yeah, no problem.<br>
+							<br>
+							
+						----------------------------------------------------<br>
+							
+						** Inconsistency in reality -- Ramon shows up at Jerry's door, 8 seconds from the time when Jerry stops pressing the intercom buzzer. Either Ramon would have to run up 5 flights of stairs incredibly fast (he does not appear out of breath) or those are some very fast elevators.<br>
+							<br>
+							
+						-- and we know from a Episode 6 The Ex-Girlfriend that Elaine complains about the slow elevators in Jerry's apt. building. **<br>
+							<br>
+							
+						Episode 6 The Ex-Girlfriend<br>
+							
+						ELAINE: You know, you have the slowest elevator in the entire city? That's hard to get used to when you're in so many other fast ones.<br>
+							<br>
+							
+						JERRY: Well, the apartment elevators are always slower than the offices, because you don't have to be home on time.<br>
+							
+						----------------------------------------------------<br>
+							<br>
+							
+						RAMON: Hee hey, hey Jerry (claps hands and points both index fingers at him) How are you, crazy guy?<br>
+							<br>
+							
+						JERRY: Hey. So, ah, Ramon this is my friend Elaine.<br>
+							<br>
+							
+						ELAINE: Yeah and I was just leaving. Bye-bye Jerry. (smiling as she closes the door. Jerry looks at her like he can not believe she left him on his own)<br>
+							<br>
+							
+						JERRY: So, ah, what are you doing around here Ramon?<br>
+							<br>
+							
+						RAMON: Well, I was in the neighborhood. I figured I&#146;d check you out.<br>
+							<br>
+							
+						JERRY: Ah, actually, I ka, kinda had some things to do.<br>
+							<br>
+							
+						RAMON: Oh, oh yeah. Wha? Where you going?<br>
+							<br>
+							
+						JERRY: Ah, just, you know, I don't know. Stuff, I gotta do. (grabs coat and throws it over his shoulder)<br>
+							<br>
+							
+						RAMON: Hey that's cool. I&#146;m up for some stuff<br>
+							<br>
+							
+						JERRY: All right.<br>
+							<br>
+							
+						(They head for the door)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Moving subway cars blur by, then inside the subway car where Jerry sits next to Ramon]<br>
+							<br>
+							
+						RAMON: So get this. I get down there, and right away, I see the drain is clogged. I mean it's obvious. Can you believe it?<br>
+							<br>
+							
+						JERRY: All right Ramon, I&#146;m going to get going.<br>
+							<br>
+							
+						(Subway train stops and door opens)<br>
+							<br>
+							
+						JERRY: I think we should separate here actually.<br>
+							<br>
+							
+						RAMON: What are you trying to say Jerry?<br>
+							<br>
+							
+						JERRY: Look Ramon, you're, you're a nice guy. But I, I actually only have three friends. I really can't handle any more.<br>
+							<br>
+							
+						RAMON: Oh I see. It's cause I clean pools, right?<br>
+							<br>
+							
+						JERRY: That has nothing to do with it.<br>
+							<br>
+							
+						RAMON: You su -- (no audio) (through the moving subway window, Ramon is swearing and pointing at Jerry)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Exterior of George's apartment building then inside his apartment.]<br>
+							<br>
+							
+						SUSAN: Yeah, we got along real well.<br>
+							<br>
+							
+						GEORGE: You know, uh, she has no female friends! You know that, don't cha? Something strange about a woman who&#146;s friends are all men.<br>
+							<br>
+							
+						SUSAN: Yeah, I know. We talked all about that.<br>
+							<br>
+							
+						GEORGE: You talked all about that?<br>
+							<br>
+							
+						SUSAN: Oh yeah. Elaine opened up her vault.<br>
+							<br>
+							
+						GEORGE: Did you just say vault?<br>
+							<br>
+							
+						SUSAN: Yeah, why? Did I use it wrong?<br>
+							<br>
+							
+						GEORGE: You got that from Elaine.<br>
+							<br>
+							
+						SUSAN: Yeah. So what?<br>
+							<br>
+							
+						GEORGE: Well it's a little strange. You going to start to talk like Elaine from now on?<br>
+							<br>
+							
+						SUSAN: I don't know. Anyway I thought we'd all go to a movie on Friday.<br>
+							<br>
+							
+						GEORGE: We&#146;d all go to movie on Friday?<br>
+							<br>
+							
+						SUSAN: Yeah.<br>
+							<br>
+							
+						GEORGE: This is not good. World's are colliding! George is getting upset!<br>
+							<br>
+							<br>
+							<br>
+							
+						[Inside Jerry's apartment -- Jerry sits on the couch listening to George.]<br>
+							<br>
+							
+						GEORGE: Ah you have no idea of the magnitude of this thing. If she is allowed to infiltrate this world, then George Costanza as you know him, Ceases to Exist! You see, right now, I have Relationship George, but there is also Independent George. That's the George you know, the George you grew up with -- Movie George, Coffee shop George, Liar George, Bawdy George.<br>
+							<br>
+							
+						JERRY: I, I love that George.<br>
+							<br>
+							
+						GEORGE: Me Too! And he's Dying Jerry! If Relationship George walks through this door, he will Kill Independent George! A George, divided against itself, Cannot Stand!<br>
+							<br>
+							
+						(Elaine enters)<br>
+							<br>
+							
+						GEORGE: You're Killing Independent George! You know that, don't you?<br>
+							<br>
+							
+						ELAINE: George I don't even want to get --<br>
+							<br>
+							
+						GEORGE: You know what word Susan used last night? Hnuh. Vault! hu,<br>
+							
+						hu, hu.<br>
+							<br>
+							
+						ELAINE: So?<br>
+							<br>
+							
+						GEORGE: She got that from you!<br>
+							<br>
+							
+						ELAINE: Well, I didn&#146;t tell here to say it.<br>
+							<br>
+							
+						GEORGE: Is she the only girl in the whole world? Why can't you get find your own girl?<br>
+							<br>
+							
+						ELAINE: I Like Her!<br>
+							<br>
+							
+						GEORGE: You see (to Jerry). You see. You see what I&#146;m talking about. It's all just slipping away. And you're letting it happen. (exits -- slamming the door)<br>
+							<br>
+							
+						JERRY: So you want to catch a movie later?<br>
+							<br>
+							
+						ELAINE: Ahh, yeah, sure.<br>
+							<br>
+							
+						JERRY: I don't have a paper though.<br>
+							<br>
+							
+						ELAINE: Hmm. (picks up the phone and dials)<br>
+							<br>
+							
+						(Ring)<br>
+							<br>
+							
+						KRAMER: Hewwo and welcome to Movie phone. Brought to you by the New York Times and Hot 97. Coming to theaters this Friday ... Kevin Bacon, Susan Sarandon -- &#147;You've got to get me over that mountain!&#148; &#147;Now&#148; (bang, bang) &#147;AHHHHHHHHHH&#148; There is no place higher than ... Mountain High . Rated R. If you know the name of the movie you'd like to see, press 1.<br>
+							<br>
+							
+						ELAINE: Kramer, is that you?<br>
+							<br>
+							
+						KRAMER: Elaine?<br>
+							<br>
+							
+						ELAINE: Uh, what time does Chow Fun start?<br>
+							<br>
+							
+						KRAMER: I don't know.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Exterior of the Physique health club, then inside to the men's locker room.]<br>
+							<br>
+							
+						RAMON: Well, well. Look who&#146;s here.<br>
+							<br>
+							
+						JERRY: Ramon, what are you doing here? You could get in trouble.<br>
+							<br>
+							
+						RAMON: No, I don't think so Jerry. You see they gave me my job back.<br>
+							<br>
+							
+						JERRY: What?<br>
+							<br>
+							
+						RAMON: I&#146;m a pool boy ... again.<br>
+							<br>
+							
+						JERRY: Look Ramon, about the other day. I&#146;m sorry if I offended you. I get a little crabby on the subway.<br>
+							<br>
+							
+						RAMON: Do you?<br>
+							<br>
+							
+						JERRY: What happened to all the towels?<br>
+							<br>
+							
+						RAMON: Oh, ah, I guess they must have disappeared. (walks away)<br>
+							<br>
+							
+						(Newman rushes up to Jerry)<br>
+							<br>
+							
+						NEWMAN: Hey Jerry. Look at all the towels they gave me! I really hit the jackpot! (holding a large stack of towels, Newman pats his face with the top one) Ha, ha, ha.<br>
+							<br>
+							
+						(Jerry extends his arms, making a vain attempt at a reach for a towel as Newman walks away)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Exterior of Elaine's building. Elaine and Jerry walk down the steps and on to the sidewalk.]<br>
+							<br>
+							
+						JERRY: It's been a terrible situation down there the past couple of days. He's really been making things uncomfortable for me. There's always a big pile of dirty towels in front of my locker ...<br>
+							<br>
+							
+						ELAINE: Uh-huh.<br>
+							<br>
+							
+						JERRY: And then when I come out of the pool, my towel's always gone.<br>
+							<br>
+							
+						ELAINE: Uhh, so frustrating!<br>
+							<br>
+							
+						JERRY: Tell me about it.<br>
+							<br>
+							
+						ELAINE: Uhh, so you want to join me and Susan for lunch at the coffee shop?<br>
+							<br>
+							
+						JERRY: You're meeting Susan for lunch at the coffee shop?<br>
+							<br>
+							
+						ELAINE: Yeah.<br>
+							<br>
+							
+						JERRY: I&#146;m meeting George for lunch at the coffee shop.<br>
+							<br>
+							
+						ELAINE: Oh, huh. Well, this should be very interesting.<br>
+							<br>
+							
+						(Elaine walks off, while Jerry stands there contemplating the upcoming ramifications)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Elaine and Jerry enter Monk&#146;s coffee shop as Susan sits across the booth from Kramer.]<br>
+							<br>
+							
+						SUSAN: Hey! Elaine! Jerry. Over here!<br>
+							<br>
+							
+						KRAMER: There they are.<br>
+							<br>
+							
+						SUSAN: Yeah, look who I ran into.<br>
+							<br>
+							
+						KRAMER: Hey.<br>
+							<br>
+							
+						ELAINE: Yeah. (sits down next to Susan)<br>
+							<br>
+							
+						KRAMER: Yeah.<br>
+							<br>
+							
+						ELAINE: Ahh.<br>
+							<br>
+							
+						(Jerry stands a few paces from the booth, looking around for George, and feeling uncomfortable about the upcoming events)<br>
+							<br>
+							
+						KRAMER: Come on Jerry. Aren't you going to join us?<br>
+							<br>
+							
+						JERRY: Ah, you know. I&#146;m supposed to meet, eh, someone -- I&#146;ll, I&#146;ll wait for them outside. (walks towards the door)<br>
+							<br>
+							
+						KRAMER: Yeah, wait here. Come on, sit down. What's the matter with you?<br>
+							<br>
+							
+						JERRY: This is gonna to be ugly. (quietly)<br>
+							<br>
+							
+						(Jerry sits down next to Kramer)<br>
+							<br>
+							
+						SUSAN: What's that Jerry?<br>
+							<br>
+							
+						JERRY: (coughing) I said, boy am I ugly.<br>
+							<br>
+							
+						(George enters the coffee shop)<br>
+							<br>
+							
+						SUSAN: Oh, hey, hey, Georgie boy, over here.<br>
+							<br>
+							
+						(George walks in and stops, looking at the four of them sitting in the booth. He nods his head and extends his arm in acknowledgment, nods his head again, he lightly claps his hands and walks up to the table)<br>
+							<br>
+							
+						GEORGE: One, two ... three, four.<br>
+							<br>
+							
+						(extending his arm and counting to Elaine, Susan, Kramer and Jerry, who he puts his hand under Jerry's chin and then makes a fist and presses it to Jerry's cheek)<br>
+							<br>
+							
+						GEORGE: Ha Ho! (he turns and walks out the door)<br>
+							<br>
+							
+						SUSAN: Hey George!<br>
+							<br>
+							
+						JERRY: We'll pull up another chair.<br>
+							<br>
+							<br>
+							
+						New scene.<br>
+							
+						Exterior of Reggie&#146;s diner, then inside where George sits alone in a<br>
+							
+						booth. He eats in silence. A man sits at the counter, sipping coffee.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Exterior shot of the Physique health club, then inside to the pool. Jerry is swimming while Ramon is cleaning the pool with a large squeegee on a long pole.]<br>
+							<br>
+							
+						JERRY: I see you there Ramon.<br>
+							<br>
+							
+						(Ramon jabs a little bit at Jerry with the squeegee)<br>
+							<br>
+							
+						JERRY: Hey, l&#145;ll just keep swimming. Hey, hey. I&#146;m not done. I know what you're up to Ramon. Because I&#146;m a member here, this is my place to swim.<br>
+							<br>
+							
+						(Ramon pushes the squeegee out into Jerry's swim path -- Jerry grabs the squeegee pole and they struggle in a push-pull match)<br>
+							<br>
+							
+						JERRY: Hey, you better cut it out Ramon. Just stop it.<br>
+							<br>
+							
+						(Ramon loses his balance and Jerry pulls him into the pool)<br>
+							<br>
+							
+						RAMON: Oh.<br>
+							<br>
+							
+						(Newman runs towards the pool in one of those old time bathing suits)<br>
+							<br>
+							
+						NEWMAN: Olly, olly, oxen, free!<br>
+							<br>
+							
+						(It looks like Newman tries to do a cannonball into the pool, filmed in slow motion. Ramon looks up with a stunned look on his face, seeing Newman as he jumps into the pool on top of him.)<br>
+							<br>
+							
+						JERRY: (NO!)<br>
+							<br>
+							
+						(Camera fade to Ramon, lying unconscious on the tile pool deck. Newman and Jerry are kneeling over him.)<br>
+							<br>
+							
+						JERRY: I think he's gonna need, mouth-to-mouth resuscitation.<br>
+							<br>
+							
+						NEWMAN: Mouth-to-mouth?<br>
+							<br>
+							
+						JERRY: Yeah.<br>
+							<br>
+							
+						NEWMAN: Huh.<br>
+							<br>
+							
+						JERRY: Well? Go ahead.<br>
+							<br>
+							
+						NEWMAN: You go.<br>
+							<br>
+							
+						JERRY: You knocked him out.<br>
+							<br>
+							
+						NEWMAN: Yeah, but you pulled him in.<br>
+							<br>
+							
+						JERRY: Come on Newman. Do it.<br>
+							<br>
+							
+						NEWMAN: Nah.<br>
+							<br>
+							
+						JERRY: He might die.<br>
+							<br>
+							
+						NEWMAN: Yeah. Maybe.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Night exterior of George's apartment building, then inside where Susan and Elaine are sitting and talking.]<br>
+							<br>
+							
+						ELAINE: (on the phone to) Look Jerry, we'll meet you at the theater. (hangs up the phone) OK, next showings at 9:00, we can't wait any longer.<br>
+							<br>
+							
+						SUSAN: Elaine, where could he be? It's not like George to just disappear.<br>
+							<br>
+							
+						ELAINE: Look, let's just leave him a note, okay?<br>
+							<br>
+							
+						SUSAN: Oh, I don't know.<br>
+							<br>
+							
+						ELAINE: Oh, come on, come on, come on. (picks up pad of paper and writes) &#147;George, Elaine and I went to see Chunnel ... with Jerry.&#148; Love?<br>
+							<br>
+							
+						SUSAN: Yeah.<br>
+							<br>
+							
+						ELAINE: &#147;Love ... Susan.&#148;<br>
+							<br>
+							<br>
+							<br>
+							
+						[Camera fade to Elaine, Susan and Jerry outside the Paragon movie theater. It's night as they wait in line to buy tickets.]<br>
+							<br>
+							
+						JERRY: So eventually these people came and, somebody, gave him mouth-to-mouth.<br>
+							<br>
+							
+						ELAINE: He could have died<br>
+							<br>
+							
+						JERRY: Yeah, it was a gamble.<br>
+							<br>
+							
+						SUSAN: Why didn&#146;t you give him mouth-to-mouth?<br>
+							<br>
+							
+						JERRY: Ah. (makes face)<br>
+							<br>
+							
+						ELAINE: How can you possibly show your face there again?<br>
+							<br>
+							
+						JERRY: Oh I can't. They revoked my membership. Newman too. You know, we can't go anywhere near there.<br>
+							<br>
+							
+						(they move up to the ticket window)<br>
+							<br>
+							
+						ELAINE: Hi, ah, three for Chunnel -- two adults ... one child. (looking towards Jerry)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Night exterior of George's apartment building, then inside where George finds the note.]<br>
+							<br>
+							
+						GEORGE: What the hell is this? &#147;George, Elaine and I went to see Chunnel ... with Jerry.&#148; With Jerry, huh? With Jerry! Great. Great! (dials phone) Probably went to the 84th St. That's where I always go with Jerry.<br>
+							<br>
+							
+						(Rings)<br>
+							<br>
+							
+						KRAMER: Hewwo and welcome to Movie phone. If you know the name of the movie you'd like to see, press one.<br>
+							<br>
+							
+						GEORGE: Come on. Come on.<br>
+							<br>
+							
+						KRAMER: Using your touch-tone keypad, please enter the first three letters of the movie title, now.<br>
+							<br>
+							
+						(George presses 3 keys)<br>
+							<br>
+							
+						KRAMER: You've selected ... Agent Zero? If that's correct, press one.<br>
+							<br>
+							
+						GEORGE: What?<br>
+							<br>
+							
+						KRAMER: Ah, you've selected ... Brown-Eyed Girl? If this is correct, press one.<br>
+							<br>
+							
+						(George looks baffled)<br>
+							<br>
+							
+						KRAMER: Why don't you just tell me the name of the movie you've selected.<br>
+							<br>
+							
+						GEORGE: Chunnel ?<br>
+							<br>
+							
+						KRAMER: To find the theater nearest you, please enter your five digit zip-code, now.<br>
+							<br>
+							
+						(George enters his zip-code)<br>
+							<br>
+							
+						KRAMER: Why don't you just tell me where you want to see the movie?<br>
+							<br>
+							
+						GEORGE: Lowes Paragon, 84th and Broadway.<br>
+							<br>
+							
+						KRAMER: (picks up paper) Chunnel , is playing at the Paragon 84th Street cinema in the main theater at 9:30 PM.<br>
+							<br>
+							
+						GEORGE: Yeah, now I gotcha! (hangs up the phone and rushes out the door)<br>
+							<br>
+							
+						KRAMER: It's also playing in theater number two at 9:00.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Night exterior of United Artists Theater with a busy street in the foreground -- taxi's drive by. Then inside to a darkened theater, George, in the isle, searches for Jerry, Elaine and Susan. He's trying to be quiet and still get their attention.]<br>
+							<br>
+							
+						GEORGE: Jerry ... Where are you? I know you like to sit back here. Elaine! Susan!<br>
+							<br>
+							
+						MOVIE PATRON: SHH!<br>
+							<br>
+							
+						(from the movie we hear this dialogue: &#147;The English Channel Tunnel, Chunnel, runs 32.3 miles, with two openings. One here, in England and another one here, in France. That's all we got. Thank you for your time gentlemen. Can I ask you a question Mr. McKittrick.&#148; -- it's a bit hard to hear the movie dialogue, as we are supposed to be focused on George, but I was able to make out most of it)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Cut to Susan, Elaine and Jerry watching Chunnel in the theater next door. Jerry is eating popcorn while Elaine sips a drink and eats a bit of popcorn]<br>
+							<br>
+							
+						JERRY: I can't figure out what's going on here. I can't follow the plot. Why did they kill that guy? I thought he was with them?<br>
+							<br>
+							
+						SUSAN: No, no. That's not the guy. That's a different guy.<br>
+							<br>
+							
+						(Susan looks irritated at Jerry and Elaine's talking)<br>
+							<br>
+							
+						JERRY: What is he doing in the Chunnel?<br>
+							<br>
+							
+						SUSAN: Would you two, Please?<br>
+							<br>
+							
+						(movie voice - clearly it's Larry David's voice) ( Everybody out of the Chunnel! Everybody out! )<br>
+							<br>
+							
+						(Elaine and Jerry stop eating, sink back into their seats and look at each other, with silent expressions that say &#147;what is her problem.&#148;)<br>
+							<br>
+							
+						(again, from the movie we hear this dialogue: &#147;Let me tell you something about the Chunnel, Mr. Thane. That our only freeway is adept. (inaudible) Elaine Brookstone will get the money bag (inaudible) Not as long as I have these long stickers. Find him and Kill him! I don't care if we have to turn this Chunnel upside down! Find Him! Everybody out of the Chunnel! Everybody out! The Chunnel&#146;s gonna blow! AHHHHHH (Explosion)&#148;<br>
+							<br>
+							
+						** this time it's really tough to make all of it out, so there are some inaudible parts, but I tried to pick up most of it)<br>
+							<br>
+							<br>
+							<br>
+							
+						[back to George in the other theater. He stands at the front of the theater, the movie screen behind and above him. He is still trying to find Jerry, Elaine and Susan.]<br>
+							<br>
+							
+						GEORGE: Susan! Jerry! Where are you? I know you're there! Answer me!<br>
+							<br>
+							
+						MOVIE PATRON: (Hey, sit down!)<br>
+							<br>
+							
+						GEORGE: Hey. Hey. Answer me! Come on, show yourselves!<br>
+							<br>
+							
+						MOVIE PATRON: (Hey, we're trying to watch a movie here!)<br>
+							<br>
+							
+						GEORGE: Drink your soda! Come on! I know you're there, laughing at me. Laughing and lying and laughing! I had to go to Reggies, Jerry! Reggies!<br>
+							<br>
+							
+						MOVIE PATRON: (Move it off of there!)<br>
+							<br>
+							
+						GEORGE: Where are you!<br>
+							<br>
+							
+						2nd MOVIE PATRON: (Hey are you sure you got the right theater?)<br>
+							<br>
+							
+						GEORGE: Yeah, yeah, yeah. Chunnel . Susan!<br>
+							<br>
+							
+						2nd MOVIE PATRON: (It's playing in two theaters.)<br>
+							<br>
+							
+						GEORGE: Two theaters?<br>
+							<br>
+							
+						2nd MOVIE PATRON: (Yeah, there's a 9:00 too.)<br>
+							<br>
+							
+						GEORGE: Oh. Sorry.<br>
+							<br>
+							
+						(A large bucket of popcorn is thrown at George. He tries to deflect it, but the popcorn flies all over)<br>
+							<br>
+							
+						(once again, from the movie we hear this dialogue: &#147;There's something else, your ex-wife. Alexandra? She's in France, I&#146;m telling ya. No, she's in the Chunnel. The Chunnel? No! Mr. President, I&#146;m sorry to disturb you. What is it? There's something about the Chunnel. Oh?&#148; (inaudible) And that means your daughter is in the Chunnel. Somewhere between France and ... (inaudible)&#148;<br>
+							<br>
+							
+						** Again, it's really tough to make all of it out, so there are some inaudible parts, but I tried to pick up most of it)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Elaine, Susan and Jerry exit the theater.]<br>
+							<br>
+							
+						ELAINE: I thought that was pretty good, huh?<br>
+							<br>
+							
+						JERRY: Wha&#146;d you think Susan?<br>
+							<br>
+							
+						SUSAN: Oh, I don't know. I couldn't hear anything. You, you talked the whole movie.<br>
+							<br>
+							
+						ELAINE: Oh, well come on. You want to go grab a bite to eat?<br>
+							<br>
+							
+						JERRY: Yeah.<br>
+							<br>
+							
+						SUSAN: Ah, no. I don't think so.<br>
+							<br>
+							
+						ELAINE: Why not?<br>
+							<br>
+							
+						SUSAN: Well you know, all you guys ever do is sit around the coffee shop talking, sit around Jerry's apartment talking. Frankly, I don't know how you can stand it. I&#146;ll see you.<br>
+							<br>
+							
+						(Susan turns to walk away, but stops and looks at George being escorted out of the theater by two ushers. He struggles to try and stay inside the theater, but they forcefully remove him. Jerry, Elaine and Susan watch as George it escorted out -- he does not see the three of them standing there.)<br>
+							<br>
+							
+						GEORGE: I know they're in there, the three of them, laughing at me. Together, laughing and lying.<br>
+							<br>
+							
+						USHER: Let's go pal.<br>
+							<br>
+							
+						GEORGE: They're -- They're killing independent George! And they're, they're all in on it! World's are colliding!<br>
+							<br>
+							
+						(Camera freeze on George with the two ushers)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Outside Kramer&#146;s apartment door: 5B A partial view of a man's face and his hand knocks 3 times on the door.]<br>
+							<br>
+							
+						MOVIE PHONE GUY: Hello, and welcome to your worst nightmare.<br>
+							<br>
+							
+						(Kramer, sitting on the couch, reading the paper and eating cereal is obviously startled by the voice at his door)<br>
+							<br>
+							
+						MOVIE PHONE GUY: (con&#146;t) I know your in there, Cosmo Kramer, Apartment 5B. You're in big trouble, Now. You've been sealing my business. If you'd like to do this the easy way, open the door, Now. Or, please select the number of seconds, you'd like to wait, before I break this door down. Please select Now.<br>
+							<br>
+							
+						(as the Movie Phone Guy talks, Kramer slides off the couch and ducks down under the coffee table, then pops back up with a dazed look.)<br>
+							<br>
+							<br>
+							
+						The End</td>
+						</tr>
+						<tr height="6">
+							<td class="bottom2" width="645" height="6"></td>
+						</tr>
+						<tr>
+							<td width="645">
+								<div align="center">
+									<font size="-1">Copyright 2006 seinology.com | All Rights Reserved | Designed by 13erla</font></div>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+		<p></p>
+	</body>
+
+</html>

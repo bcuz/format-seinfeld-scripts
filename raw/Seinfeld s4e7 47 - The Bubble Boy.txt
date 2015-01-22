@@ -1,0 +1,1606 @@
+<tdOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+<html>
+
+	<head>
+		<meta http-equiv="content-type" content="text/html;charset=ISO-8859-1">
+		<meta name="description" content="Top Source for Seinfeld">
+		<meta name="keywords" content="seinfeld, sienfeld, Jerry Seinfeld, Julia Louis Dreyfus, Jason Alexander, Michael Richards, Kramer, George, Costanza, Elaine Benes, morty, Larry David">
+		<title>Seinology.com :: Scripts :: 47-The Bubble Boy</title>
+	<link rel='stylesheet' href='/stylesheet.css' type='text/css'>
+	</head>
+
+	<body>
+			<table align="center" width="787" border="0" cellspacing="0" cellpadding="0">
+				<tr>
+					<td><font size="-2" color="red">Seinology.com - </font><font size="-3" color="black">Where Seinfeld Content and Accuracy Matter Most. Seinfeld scripts in pdf form, Seinfeld episode video clips, Seinfeld episode audio clips, Jerry Seinfeld appearances, Julia Louis-Dreyfus appearances, Michael Richards appearances, Jason Alexander appearances, Seinfeld discussion Forum, Seinfeld Where are they Now? Seinlanguage Newsletter, Popular Seinfeld Lists, Seinfeld episode standup, Seinfeld episode guide, Seinfeld fan fiction. Seinfeld content all on one domain. Seinology.com enjoy your stay.</font></td>
+				</tr>
+			</table>
+		
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr height="100">
+				<td class="logo"></td>
+			</tr>
+			<tr><td class="ads" align="center" background=#8694fa>
+				<script type="text/javascript"><!--
+google_ad_client = "pub-1924026976931416";
+google_ad_width = 728;
+google_ad_height = 90;
+google_ad_format = "728x90_as";
+google_ad_type = "text";
+google_ad_channel = "";
+google_color_border = "FFFFFF";
+google_color_bg = "8694fa";
+google_color_link = "0000FF";
+google_color_text = "000000";
+google_color_url = "002E3F";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></td></tr>
+		</table>
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr>
+				<td valign="top" width="136">
+					<table width="136" border="0" cellspacing="0" cellpadding="0">
+						<tr height="24">
+							<td class="navigation">
+								<div align="center">
+									
+									<b>Navigation</b></div>
+							</td>
+						</tr>
+						<tr height="199">
+							<td class="spacer1" valign="top" width="136" height="199">
+								<div align="center">
+									<font size="-1"><a href="http://www.seinology.com">Home</a><br>
+										<a href="http://board.seinology.com">Forum</a><br>
+										<a href="http://www.seinology.com/av.shtml">Audio/Video</a><br>
+										<a href="http://www.seinology.com/scripts.shtml">Scripts</a><br>
+										<a href="http://www.seinology.com/survivor.shtml">Survivor</a><br>
+										<a href="http://www.seinology.com/fanfics.shtml">Fan Fiction</a><br>
+										<a href="http://www.seinology.com/gallery/">Gallery</a><br>
+										<a href="http://www.seinology.com/newsletter.shtml">Newsletter</a><br>
+										<a href="http://www.seinology.com/lists.shtml">Lists</a><br>
+										<a href="http://www.seinology.com/epguide.shtml">Episode Guide</a><br>
+										<a href="http://www.seinology.com/links.shtml">Links</a><br>
+										<a href="http://www.seinology.com/faqother.shtml">Faq + others</a><br>
+										<a href="http://www.seinology.com/legal.shtml">Legal</a></font></div>
+							</td>
+						</tr>
+						
+						<tr>
+							<td class="nav2" width="136">
+							<div align="center"><b>Search</b></div></td>
+						</tr>
+						<tr>
+							<td class="spacer1" width="136" valign="top"><div align="center"><form method="get" action="http://www.seinology.com/search/search.cgi">
+<p><label for="fdse_Match">Match</label><br>
+<select name="Match" id="fdse_Match" size="1">
+<option value="1">All</option>
+<option value="0">Any</option>
+<option value="2">Phrase</option>
+</select></p>
+<p><label for="fdse_Realm">Where?</label><br>
+<select name="Realm" id="fdse_Realm" size="1">
+<option selected="selected" value="All">EntireSite</option>
+<option value="Ep Guide">Ep Guide</option>
+<option value="Images">Images</option>
+<option value="Lists">Lists</option>
+<option value="Newsletters">Newsletters</option>
+<option value="Scripts">Scripts</option>
+<option value="Notes..Nothing">Notes..Nothing</option>
+</select></p>
+<p><input type="text" name="Terms" size="14" id="fdse_Terms"><br>
+<input type="submit" class="submit" name="submitButtonName" value="Search"></p>
+</div></form></td>
+						</tr>
+						<tr><td class="bottom" width="136" height="10" valign="top">
+						</td>
+						</tr>
+					</table>
+				</td>
+				<td width="4"></td>
+				<td valign="top" width="645">
+					<table width="645" border="0" cellspacing="0" cellpadding="0">
+						<tr height="18">
+							<td width="645" height="35" class="bar">
+								<div align="center">
+									<b><font size="+2" color="black">Script</font></b></div>
+							</td>
+						</tr>
+						<tr height="362">
+							<td class="spacer2" valign="top" width="645" height="362">
+
+						<p><font size="-2">Episode 47 - The Bubble Boy<br>
+							
+						pc: 407, season 4, episode 7<br>
+							
+						Broadcast date: October 7, 1992<br>
+							<br>
+							
+						Written by Larry David &amp; Larry Charles<br>
+							
+						Directed by Tom Cherones<br>
+							<br>
+							
+						-------------------------------------------------------------------------------<br>
+							<br>
+							
+						The Cast<br>
+							
+						Regulars:<br>
+							
+						Jerry Seinfeld ...................... Jerry Seinfeld<br>
+							
+						Jason Alexander ................. George Costanza<br>
+							
+						Julia Louis-Dreyfus ............. Elaine Benes<br>
+							
+						Michael Richards ................. Kramer<br>
+							<br>
+							
+						Guest Stars:<br>
+							<br>
+							
+						Jessica Lundy ..................... Naomi<br>
+							
+						Brian Doyle-Murray ........... Mel<br>
+							
+						Carol Mansell ..................... Mother<br>
+							
+						O-lan Jones ........................ Waitress<br>
+							
+						Jon Hayman ....................... Voice and Arm of Donald (The Bubble Boy)<br>
+							
+						George Gerdes .................. Man #1<br>
+							
+						Tony Pappenfuss ............... Man #2<br>
+							
+						rc: Heidi Swedberg ............ Susan Biddle Ross<br>
+							<br>
+							
+						==================================================================<br>
+							<br>
+							
+						Comedy club - Jerry on stage with the opening monologue<br>
+							<br>
+							
+						JERRY: Have you ever called someone up, and you're disappointed when they answer the phone?&nbsp; You wanted the machine.&nbsp; You know, and you're always kind of thrown off, (left hand up to side of face, pretending its a receiver) you go &quot;Oh, I eh, I - I didn't know you were there, I ah - just wanted to leave a message saying, sorry I missed you.&quot;<br>
+							<br>
+							
+						So here what we have is two people who hate each other, don't really ever want to talk, but the phone machine is like this relationship respirator keeping these marginal brain dead relationships alive.&nbsp; And we all do it -- Why? So that when we come home, you can see that little flashing red light.&nbsp; You go &quot;all right, messages.&quot;&nbsp; You see, people need that.&nbsp; It's very important for human beings to feel they are popular and well liked amongst a large group of people that we don't care for.<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						Stock shot of Hunan Chinese restaurant at night<br>
+							<br>
+							
+						(Jerry and Naomi enter Jerry's apartment)<br>
+							<br>
+							
+						JERRY: Well this is it.<br>
+							<br>
+							
+						NAOMI: Oh, this is nice. Thanks again for the Chinese food.<br>
+							<br>
+							
+						JERRY: Oh, you're welcome. You know I think I ate too much of that garlic.<br>
+							<br>
+							
+						NAOMI: Yeah, me too.<br>
+							<br>
+							
+						JERRY: No, I ate the whole plate. I didn't know those little things were garlic. I thought they were peanuts.<br>
+							<br>
+							
+						NAOMI: (laughs) - Nnnhhahahahahahahahahahahahahaha (obnoxious laugh). Oh, you know what? I think Naked Gun is on. Oh I've seen it. I laughed through that whole thing. You wanna watch?<br>
+							<br>
+							
+						JERRY: No, I mean, I don't think so.<br>
+							<br>
+							
+						NAOMI: I thought you liked to laugh. I thought you were happy go lucky.<br>
+							<br>
+							
+						JERRY: No, no, no. I'm not happy, I'm not lucky, and I don't go. If anything I'm sad stop unlucky.<br>
+							<br>
+							
+						NAOMI: Ahahahahahahahahaha.<br>
+							<br>
+							
+						JERRY: That's not funny Naomi.<br>
+							<br>
+							
+						NAOMI: Ah hahahaha. (points at Jerry)<br>
+							<br>
+							
+						JERRY: I didn't mean to be funny there. Why don't you check the TV guide. I think uh, Holocaust is on.<br>
+							<br>
+							
+						(Jerry goes over to the answering machine and plays the message, then walks back over to the kitchen to get a drink from his bottled water.&nbsp; Naomi sits on the couch looking through the TV Guide, also listening to George's message)<br>
+							<br>
+							
+						GEORGE: (on the answering machine) Jerry, it's George. Hey, hey are you all set for the weekend. This is going to be great. You're going to have a great time with Naomi.<br>
+							<br>
+							
+						(Naomi smiles. Jerry takes a sip of water)<br>
+							<br>
+							
+						GEORGE: (con't) All right, you know she's got that laugh. What did you say? It's like Elmer Fudd sitting on a juicer?<br>
+							<br>
+							
+						(Naomi stops reading, looks up, pondering what George just said.&nbsp; Jerry puts down his water and sprints over to the machine)<br>
+							<br>
+							
+						GEORGE: (con't) A-Anyway, I was thinking we would take two cars up to the cabin and that way if one of wanted to stay you know...<br>
+							<br>
+							
+						(Jerry trying to stop the tape -- he rips the answering machine out of the wall plug)<br>
+							<br>
+							
+						JERRY: This thing has never worked right. (holding the machine in his hand)<br>
+							<br>
+							
+						NAOMI: You think I, laugh like Elmer Fudd sitting on a juicer?<br>
+							<br>
+							
+						JERRY: Well, first of all Elmer Fudd is one of the most beloved internationally known cartoon characters of all time. &quot;I'm going to kill that cwazy wabbit ... hahahahahaaa &quot; Come on. Not only that, a juicer is one of the healthiest ways ... (Naomi exits) it makes the juice ... it extracts the-the pulp and-and-and the vitamins, for-for long life and-and-and vitality.<br>
+							<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						[in Jerry's apartment]<br>
+							<br>
+							
+						JERRY: How could you leave a message like that on my machine.?<br>
+							<br>
+							
+						GEORGE: Well how could you just play your message in front of anybody?<br>
+							<br>
+							
+						JERRY: Because I didn't think anyone would leave it!<br>
+							<br>
+							
+						GEORGE: Well, I didn't think anyone would play it.<br>
+							<br>
+							
+						JERRY: Well, now she's not going away for this weekend.<br>
+							<br>
+							
+						GEORGE: What do you mean not goin'? Come on, we got plans here. Call her up.<br>
+							<br>
+							
+						JERRY: Nah, it's better anyway. I mean really. What was going to happen? I'm a comedian. How can I go out with a girl with a laugh like that? I mean izz-it's like ah, it's like Coco Chanel goin' out with a fish monger. You know, cause she's with all the perfumes and a fish monger's pretty bad smell.<br>
+							<br>
+							
+						GEORGE: Wh-Well maybe you should ask Elaine.<br>
+							<br>
+							
+						JERRY: Yeah but if I ask Elaine, then Kramer will feel slighted.<br>
+							<br>
+							
+						GEORGE: Oh no no no no, don't say anything to Kramer. Susan can't stand him. He vomited all over her.<br>
+							<br>
+							
+						JERRY: Yeah, .. wait a minute do you smell smoke?<br>
+							<br>
+							
+						(Kramer enters smoking a cigar)<br>
+							<br>
+							
+						KRAMER: Hmm.<br>
+							<br>
+							
+						JERRY: Ah, Kramer.<br>
+							<br>
+							
+						KRAMER: Hello boys, (in an Irish accent) top of the morning to ya. What do you say?<br>
+							
+						What do ya be?<br>
+							<br>
+							
+						JERRY: Will you put that thing out before you start another fire. You had to give him a box of cigars.<br>
+							<br>
+							
+						KRAMER: So, what are you guys doin' this weekend?<br>
+							<br>
+							
+						JERRY and GEORGE: uh uh, we're uh ..<br>
+							<br>
+							
+						KRAMER: Because I'm going to be playing golf at the Westchester country club. Mmh.<br>
+							<br>
+							
+						JERRY: Westchester? Isn't that a private club?<br>
+							<br>
+							
+						KRAMER: Oh, that's right buddy. It's private. It's very private. But I met the pro at the golf shop up on 49th St. -- I gave him one of these Cubans and he invites me up to play a free round ... then he says anytime I lay one of these babies on him it's going to be the same deal. Ha ha. Idn't that beautiful.<br>
+							<br>
+							
+						JERRY: and GEORGE: Ye, hu, um Ye,<br>
+							<br>
+							
+						KRAMER: Man, I'm going to be hitting the links all weekend.&nbsp; Ffoooo (Taking an imaginary swing, he makes the sound of a golf ball being hit)<br>
+							<br>
+							
+						GEORGE: Gee, that's-that's too bad.<br>
+							<br>
+							
+						JERRY: Yeah, too bad.<br>
+							<br>
+							
+						KRAMER: Why? What wa?<br>
+							<br>
+							
+						GEORGE: Well, cause we were just saying we were going to ask you to come up to the country with us this weekend.&nbsp; Susan's father has a cabin up there.&nbsp; But, eh, all right, well.<br>
+							<br>
+							
+						KRAMER: Well, what, they got any golf courses up there?<br>
+							<br>
+							
+						JERRY and GEORGE: No, no, no, no, no, no, no.<br>
+							<br>
+							
+						GEORGE: No, no that's ah, that's pie country.<br>
+							<br>
+							
+						JERRY: Yeah<br>
+							<br>
+							
+						GEORGE: Yeah, they eh, they do a lot of baking up there.<br>
+							<br>
+							
+						KRAMER: Uh huh.<br>
+							<br>
+							
+						JERRY: They sell them by the side of the road.&nbsp; Blueberry, Blackberry ....<br>
+							<br>
+							
+						GEORGE: Blackberry, Boysenberry ...<br>
+							<br>
+							
+						JERRY: Boysenberry, Huckleberry ...<br>
+							<br>
+							
+						GEORGE: Huckleberry, Raspberry...<br>
+							<br>
+							
+						JERRY: Raspberry, Strawberry ...<br>
+							<br>
+							
+						GEORGE: Strawberry, Cranberry ...<br>
+							<br>
+							
+						JERRY: Peach.<br>
+							
+						&nbsp;<br>
+							
+						&nbsp;<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						(MONKS)<br>
+							<br>
+							
+						ELAINE: I don't know.<br>
+							<br>
+							
+						JERRY: Come on. I don't want to tag along with George and Susan. If you're there it'll be a better group.<br>
+							<br>
+							
+						ELAINE: What's that?<br>
+							<br>
+							
+						JERRY: Ah, it's an autographed picture for my dry cleaner. I never know what to write on these things. I hate doin' this.<br>
+							<br>
+							
+						ELAINE: &quot;I'm very imPRESSED&quot;? ... Ah you mean pressed caus' its like a dry cleaner?<br>
+							<br>
+							
+						JERRY: Yeah, see that's why I hate it. So, come on, you going to go?<br>
+							<br>
+							
+						ELAINE: Well what about the sleeping arrangements? In the Cabin!<br>
+							<br>
+							
+						JERRY: Well, um same bed ...<br>
+							<br>
+							
+						ELAINE: uh huh (very quietly)<br>
+							<br>
+							
+						JERRY: .. and uh, underwear and a tee shirt.<br>
+							<br>
+							
+						ELAINE: What about me?<br>
+							<br>
+							
+						JERRY: Well you'd be naked of course.<br>
+							<br>
+							
+						ELAINE: Uh, that's, ...<br>
+							<br>
+							
+						MEL: Excuse me, Jerry Seinfeld?<br>
+							<br>
+							
+						JERRY: Yeah.<br>
+							<br>
+							
+						MEL: My name's Sanger, Mel Sanger.<br>
+							<br>
+							
+						JERRY: Hi.<br>
+							<br>
+							
+						MEL: I drive that truck out there.<br>
+							<br>
+							
+						JERRY: Oh, the Yoo Hoo?<br>
+							<br>
+							
+						MEL: Yeah.<br>
+							<br>
+							
+						JERRY: I love Yoo Hoo.<br>
+							<br>
+							
+						MEL: Yes, it's a fine product. Anyway I saw you on the Tonight Show a couple weeks ago. I was watching the show with my son Donald. He's got this rare immune deficiency in his blood ... the damnedest thing. Doctors say he has to live in a plastic bubble. Can you imagine that? A bubble.<br>
+							<br>
+							
+						JERRY: A bubble?<br>
+							<br>
+							
+						ELAINE: A bubble?<br>
+							<br>
+							
+						MEL: Yes, a bubble!<br>
+							<br>
+							
+						MEL: Do you mind? May I?<br>
+							<br>
+							
+						ELAINE: Oh, sure.<br>
+							<br>
+							
+						(Mel sits down with them)<br>
+							<br>
+							
+						MEL: Ah, It'd break your heart seein' him in there. It's like a prisoner. No friends - just his mother and me. And I'm out there six days a week haulin' Yoo Hoo. We have sacrificed everything. All for the sake of our little ... bubble boy.<br>
+							<br>
+							
+						(breaks up in tears)<br>
+							<br>
+							
+						MEL: (in tears) Excuse me, I ah ...<br>
+							<br>
+							
+						ELAINE: Oh right here (giving out paper napkins to Mel and Jerry and herself)<br>
+							<br>
+							
+						(MEL AND ELAINE WIPE TEARS FROM THEIR EYES, JERRY WIPES CRUMBS FROM HIS MOUTH and picks his teeth at the corner of his mouth)<br>
+							<br>
+							
+						MEL: Excuse me, anyway we were watching ya on TV.<br>
+							<br>
+							
+						JERRY: You get in the bubble with him?<br>
+							<br>
+							
+						MEL: No. He can see through the bubble. It's plastic.<br>
+							<br>
+							
+						JERRY: Oh, I thought it was like an igloo.<br>
+							<br>
+							
+						MEL: No, it's clear.<br>
+							<br>
+							
+						JERRY: Ah ha.<br>
+							<br>
+							
+						ELAINE: Who has the remote?&nbsp; (wipes a tear from her eye)<br>
+							<br>
+							
+						MEL: He does.<br>
+							<br>
+							
+						ELAINE: The remote goes through the bubble?<br>
+							<br>
+							
+						MEL: Yeah, he's in the bubble with the remote.<br>
+							<br>
+							
+						JERRY: So you have no control over the remote?<br>
+							<br>
+							
+						MEL: No, it's frustrating.<br>
+							<br>
+							
+						JERRY: Mmm<br>
+							<br>
+							
+						ELAINE: Yeah, of course, yeah. (blows her nose)<br>
+							<br>
+							
+						MEL: So anyway, you're his favorite comedian. He laughed so hard the other night we had to give him an extra shot of hemoglobin.<br>
+							<br>
+							
+						JERRY: Awe... That's nice!<br>
+							<br>
+							
+						MEL: Tomorrow is his birthday and it would mean so much to him if you could find it in your heart ta' pay him a visit and, just say hello.<br>
+							<br>
+							
+						JERRY: Hu, well, tomorrow, I, ...<br>
+							<br>
+							
+						ELAINE: Jerry! Of course he'd pay him a visit. You'd be happy to.<br>
+							<br>
+							
+						JERRY: Yeah, uh, Ok, uh, tomorrow uh, where da ya - where do you live, uh, up town? Upper west side?<br>
+							<br>
+							
+						MEL: No, up state.<br>
+							<br>
+							
+						JERRY: Up state! Hummm.<br>
+							
+						&nbsp;<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						(Jerry's apartment)<br>
+							<br>
+							
+						JERRY: He's a bubble boy.<br>
+							<br>
+							
+						GEORGE: A bubble boy?<br>
+							<br>
+							
+						JERRY: Yes. A bubble boy.<br>
+							<br>
+							
+						SUSAN: What's a bubble boy?<br>
+							<br>
+							
+						JERRY: He lives in a bubble.<br>
+							<br>
+							
+						GEORGE: Boy!<br>
+							<br>
+							
+						SUSAN: Say, so what kind of a bubble? Like an igloo?<br>
+							<br>
+							
+						JERRY: No, that's what I thought but apparently it's just a big piece of plastic dividing the room.<br>
+							<br>
+							
+						SUSAN: Oh.<br>
+							<br>
+							
+						GEORGE: What kind of plastic do you think it is? What do you think like that dry cleaning plastic?<br>
+							<br>
+							
+						JERRY: That's no good. He wouldn't last ten minutes in there. Anyway what can I do, I promised I'd go visit him tomorrow.&nbsp; It's his birthday. I can't go to the cabin.<br>
+							<br>
+							
+						SUSAN: Well, where does he live?<br>
+							<br>
+							
+						JERRY: I don't know, up state, Falls, somethin'<br>
+							<br>
+							
+						SUSAN: Wait a minute, This is right on the way to the cabin.<br>
+							<br>
+							
+						GEORGE: Well all right, beautiful, so you stop in. Ya, ya visit the bubble boy for twenty minutes and then we can go.<br>
+							<br>
+							
+						JERRY: You think we can do it?<br>
+							<br>
+							
+						SUSAN: Oh I know exactly where this is. You can just follow us.<br>
+							<br>
+							
+						JERRY: Oh, great. Ok we'll goin' away. I think I'm excited.<br>
+							<br>
+							
+						GEORGE: (laughs) hu hu.<br>
+							<br>
+							
+						SUSAN: I'm excited. Oh, you're going to love this cabin. My grandfather built it in 1947. It's it's incredible.<br>
+							<br>
+							
+						JERRY: Ohh.<br>
+							<br>
+							
+						GEORGE: All right there you go. It's a '47 cabin all right. So, we'll see you tomorrow.<br>
+							<br>
+							
+						JERRY: OK.<br>
+							<br>
+							
+						(Kramer enters with golf bag, clubs and outfit, smoking a cigar)<br>
+							<br>
+							
+						KRAMER: Well,<br>
+							<br>
+							
+						GEORGE: and JERRY: Very nice, very nice, nice.<br>
+							<br>
+							
+						(Susan recoils at his presence)<br>
+							<br>
+							
+						KRAMER: Well, I'm off to the links.<br>
+							<br>
+							
+						GEORGE: and JERRY: Yeah.<br>
+							<br>
+							
+						KRAMER: Listen, I want to thank you for the invite up state. I'm sorry I can't make it.<br>
+							<br>
+							
+						GEORGE: (clears his throat)<br>
+							<br>
+							
+						SUSAN: The what?<br>
+							<br>
+							
+						GEORGE: Uh, nothing, lets get going. Come on. (laughs) hu hu.<br>
+							<br>
+							
+						SUSAN: Did you ...&nbsp; (George grabs her hand)<br>
+							<br>
+							
+						GEORGE: No, no, no we'll talk about it later.<br>
+							<br>
+							
+						SUSAN: Is that one of the cigars my father gave you?&nbsp; (Susan is pulled from the apt. and Kramer looks out the door to watch them leave)<br>
+							
+						&nbsp;<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						(2 cars on the road George leading, Jerry following --)<br>
+							<br>
+							
+						(IN Jerry's car on highway)<br>
+							<br>
+							
+						ELAINE: Hey, what's with George and Susan? Does he actually like her?<br>
+							<br>
+							
+						JERRY: Ah, I don't know if he likes her as much as he likes it.?<br>
+							<br>
+							
+						ELAINE: Oh, that's nice!<br>
+							<br>
+							
+						JERRY: What's he doing? What is his hurry?<br>
+							<br>
+							
+						(George's car pulls away at a high rate of speed)<br>
+							<br>
+							
+						ELAINE: Well you know George. It's not good enough to get there. You gotta make good time.<br>
+							<br>
+							
+						JERRY: I know he once went from West 81st Street to Kennedy Airport in 25 minutes.<br>
+							
+						I-I never heard the end of it<br>
+							<br>
+							
+						ELAINE: Hmhmhm (laughing quietly)<br>
+							<br>
+							
+						JERRY: Look at him.<br>
+							<br>
+							
+						ELAINE: Hmhmhm (laughing quietly)<br>
+							<br>
+							
+						(In George's car)<br>
+							<br>
+							
+						GEORGE: Would you stop that please. Would you just stop that?<br>
+							<br>
+							
+						SUSAN: Why?<br>
+							<br>
+							
+						GEORGE:&nbsp; Knock it off, just sit in your seat over there you're distracting me. We're making incredible time here. I once went into Kennedy Airport from West 81st Street to in uh, in 15 minutes. hu uh.&nbsp; Oh, here hold this. It's uh, ten dollars for the tolls.<br>
+							<br>
+							
+						(Jerry's car)<br>
+							<br>
+							
+						JERRY: What's he doing? Is he out of his mind? Do you see him? I don't even think I see him anymore. Where is he?<br>
+							<br>
+							
+						ELAINE: Isn't that blue car him?<br>
+							<br>
+							
+						JERRY: No, no that's not him. What happened to him? I can't believe it. I lost him. That stupid idiot. Now what are we going to do?<br>
+							<br>
+							
+						ELAINE: It's no big deal Jerry. We'll just meet him at the bubble boy's house.<br>
+							<br>
+							
+						JERRY: I don't even know where the bubble boy lives. I - I don't even remember the name of the town.<br>
+							<br>
+							
+						ELAINE: Wa',you don't have the directions?<br>
+							<br>
+							
+						JERRY: No, I was following him.<br>
+							<br>
+							
+						ELAINE: How could you not take the directions?<br>
+							<br>
+							
+						JERRY: Because, HE'S my directions.<br>
+							<br>
+							
+						(from George's car)<br>
+							<br>
+							
+						SUSAN: I didn't see them George.<br>
+							<br>
+							
+						(Jerry ranting in his car)<br>
+							<br>
+							
+						JERRY: We make all these plans - this idiot goes a hundred miles an hour - the whole weekend's over - incredible - just like that -<br>
+							<br>
+							
+						ELAINE: Poor little bubble boy. He's sitting there waiting for you in his bubble, or igloo thing, whatever.<br>
+							<br>
+							
+						JERRY: I DON'T KNOW WHAT TO DO. I DON'T KNOW WHERE I AM.<br>
+							<br>
+							
+						ELAINE: Here just get off at this exit. We'll figure somethin' out.<br>
+							<br>
+							
+						(from George's car)<br>
+							<br>
+							
+						SUSAN: We lost them. Do you KNOW THAT. WE LOST THEM!<br>
+							<br>
+							
+						GEORGE: Well it's not my fault. Seinfeld can't drive. How hard is it to follow somebody?<br>
+							<br>
+							
+						SUSAN: Well now what are you gonna do?<br>
+							<br>
+							
+						GEORGE: It's fine, we'll just meet him at the bubble boy's house.<br>
+							<br>
+							
+						SUSAN: Does he have the address?<br>
+							
+						&nbsp;<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						(Jerry's apartment - Kramer enters - singing something undeterminable, he picks up a piece of paper from the counter)<br>
+							<br>
+							
+						JERRY: (answering machine) Leave a message. I'll call you back. Thanks.<br>
+							<br>
+							
+						NAOMI: (on phone speaker) Hi, Jerry it's Naomi.&nbsp; Ah, listen, if its not too late I, changed my mind, I'd like to go to the cabin.<br>
+							<br>
+							
+						KRAMER: Wait, wai, ... ... Yeah. Hello!, Hi, Aw, this is Kramer. Yeah, I'm the next door neighbor. Aw, well you know, ah Jerry's left, uh, uh, But listen, ah, see ah, my golf game got canceled. Uh, I'm thinkin' of going up myself... They got pies and ah, I got the directions right here.<br>
+							
+						&nbsp;<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						(Kramer's car)<br>
+							<br>
+							
+						KRAMER: So then I drive all the way up to the country club and then I find out they got a tournament goin' on. Do you mind if I smoke?<br>
+							<br>
+							
+						NAOMI: No.<br>
+							<br>
+							
+						KRAMER: These are Cubans. (IN FAKE SPANISH) Maria, poquendo los scientos de estes con gleam.<br>
+							<br>
+							
+						NAOMI: Ha ha ha ha ha ha ... Ha ha ha ha ha ha ... Ha haaaa<br>
+							<br>
+							
+						(Kramer points at her and laughs)<br>
+							
+						&nbsp;<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						(The Sangers' house, on the front porch)<br>
+							<br>
+							
+						GEORGE: I don't know of this is the house. I don't see Jerry's car anywhere.<br>
+							<br>
+							
+						(Susan smooches him - playfully biting George's right ear lobe)<br>
+							<br>
+							
+						GEORGE: Would you stop it. (Susan playfully bites his ear lobe again)&nbsp; Would you quit it please.&nbsp; Someone is going to see us here.<br>
+							<br>
+							
+						SUSAN: So what? You are SUCH a prude.<br>
+							<br>
+							
+						GEORGE: Hey, I am not a prude sweetheart. I swing with the best of them. (snapping his fingers 5 times)<br>
+							<br>
+							
+						SUSAN: Okay, Come on lets go in.<br>
+							<br>
+							
+						GEORGE: What?<br>
+							<br>
+							
+						SUSAN: Well we should at least tell them what happened. They might be very late if they make it at all.<br>
+							<br>
+							
+						GEORGE: I can't go in there. I can't face the bubble boy.<br>
+							<br>
+							
+						SUSAN: What's the matter?<br>
+							<br>
+							
+						GEORGE: I-I just don't react well to these situations. My grandmother died two months early because of the way I reacted in the hospital. She was getting' better. And then I went to pay her a visit. She saw my face. BOOM. That was the end of it.<br>
+							<br>
+							
+						SUSAN: Okay, we're goin' in. Come on.<br>
+							<br>
+							
+						GEORGE: Susan, wait please... (grabs her)&nbsp; Please ...<br>
+							<br>
+							
+						SUSAN: Come on George. George stop. George.<br>
+							<br>
+							
+						GEORGE: Susan, Susan would you wai,....<br>
+							
+						&nbsp;<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						(Highway diner)<br>
+							<br>
+							
+						JERRY: (ranting)&nbsp; I can't believe how a little thing like George going too fast - and my whole weekend is gone - the plans, the packing, ... everything.<br>
+							<br>
+							
+						ELAINE: Your whole weekend? What about the bubble boy?<br>
+							<br>
+							
+						JERRY: Why do you keep bringing up the bubble boy. You don't have to mention the bubble boy?&nbsp; I know about the bubble boy. I'm aware of the bubble boy. Why do you keep reminding me about the bubble boy?<br>
+							<br>
+							
+						(Elaine stares at him and blows a bubble with bubble gum.&nbsp; The waitress comes up to the counter.)<br>
+							<br>
+							
+						JERRY: I'll have a cup of coffee and a turkey club.<br>
+							<br>
+							
+						WAITRESS: How ?bout you?<br>
+							<br>
+							
+						ELAINE: Um, I'll just have a glass of water.<br>
+							<br>
+							
+						(the waitress turns and walks away)<br>
+							<br>
+							
+						JERRY: (whispers) You can't just have water.<br>
+							<br>
+							
+						ELAINE: Why not? That's all I want.<br>
+							<br>
+							
+						JERRY: Well this is not like a park bench where you just come in and sit down. It's a business.<br>
+							<br>
+							
+						(the waitress comes back and pulls out a cup and saucer)<br>
+							<br>
+							
+						WAITRESS: Hold it a second. Don't ?chu play on TV?<br>
+							<br>
+							
+						JERRY: Oh, no.<br>
+							<br>
+							
+						ELAINE: YES! yes. You saw him on TV.<br>
+							<br>
+							
+						WAITRESS: What's your name?<br>
+							<br>
+							
+						ELAINE: Jerry Seinfeld.<br>
+							<br>
+							
+						JERRY: Elaaaiinne...<br>
+							<br>
+							
+						WAITRESS: Garry Seinfield! I saw you on the Tonight Show.<br>
+							<br>
+							
+						ELAINE: Right. Hey, wouldn't you like an autographed picture?<br>
+							<br>
+							
+						WAITRESS: Oh, ha ha<br>
+							<br>
+							
+						JERRY: Uh, I don't have anymore pictures Elaine.<br>
+							<br>
+							
+						ELAINE: He's lying. They're in the trunk (takes car keys) Now you get to sign another one.<br>
+							<br>
+							
+						JERRY: I'm not lying.<br>
+							<br>
+							
+						ELAINE: Yeah, yeah he is. (as she leaves)<br>
+							<br>
+							
+						JERRY: She'll have a cup of coffee and a broiled chicken.<br>
+							
+						&nbsp;<br>
+							
+						&nbsp;<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						(Sanger's house)<br>
+							<br>
+							
+						MRS. SANGER: See it's not really a bubble. A lot of people think it's an igloo. But it's really just a plastic divider.<br>
+							<br>
+							
+						GEORGE: Huh (quietly)<br>
+							<br>
+							
+						GEORGE: and SUSAN: (nod)<br>
+							<br>
+							
+						(long pause)<br>
+							<br>
+							
+						GEORGE: Can you uh, go in the bubble?<br>
+							<br>
+							
+						MRS. SANGER: Well, you have to put so many things on because of the germs.<br>
+							<br>
+							
+						MEL: The gloves, the mask, it's a whole production.<br>
+							<br>
+							
+						GEORGE: So then he makes his own bed?<br>
+							<br>
+							
+						MRS. SANGER: Well, that's one of the things we fight about.<br>
+							<br>
+							
+						(George points at her, understanding what she is saying)<br>
+							<br>
+							
+						MEL: Would you like to meet him?<br>
+							<br>
+							
+						GEORGE: Uh, well, you know,...<br>
+							<br>
+							
+						MRS. SANGER: Oh, he loves games. Maybe you could play Trivial Pursuit with him.<br>
+							<br>
+							
+						DONALD: HEY MA WHAT THE HELL DO I GOT TO DO TO GET SOME FOOD AROUND HERE? I'M STARVIN'. AND IF IT'S PEANUT BUTTER, I'M GONNA SHOVE IT IN YOUR FACE.<br>
+							<br>
+							
+						MRS. SANGER: (embarrassed) Ha...ha ha ha ha, ha.<br>
+							
+						&nbsp;<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						(Highway Diner)<br>
+							<br>
+							
+						ELAINE: (laughing) hehehe -- One picture left in the trunk.<br>
+							<br>
+							
+						JERRY: Uh, THANKS! This is FUN! Yeah, this turned out to be a GREAT weekend.<br>
+							<br>
+							
+						ELAINE: Where's my water?<br>
+							<br>
+							
+						JERRY: Oh, it's comin'. - Here ya' go.<br>
+							<br>
+							
+						WAITRESS: Thanks.<br>
+							<br>
+							
+						ELAINE: Waddya' write?<br>
+							<br>
+							
+						WAITRESS: &quot;Nothing's finer than being in your diner.&quot;<br>
+							<br>
+							
+						ELAINE: Hu hu hu hu hu hu hu hu hu hu hu hu hu hu hu hu hu &quot;Ther - There is nothing finer than being in your diner.&quot;?<br>
+							<br>
+							
+						JERRY: No good?<br>
+							<br>
+							
+						ELAINE: THIS is what you came up with?<br>
+							<br>
+							
+						JERRY: Well.<br>
+							<br>
+							
+						ELAINE: That is so lame. Jerry, people are going to be reading that for the next twenty years and laughing at you.<br>
+							<br>
+							
+						JERRY: Yeah, yeah, you're right. Excuse me, excuse me. Would you mind. I'd like to take the picture back.<br>
+							<br>
+							
+						WAITRESS: Why<br>
+							<br>
+							
+						JERRY: I, I'm not happy with what I wrote.<br>
+							<br>
+							
+						WAITRESS: It's good. I like it.<br>
+							<br>
+							
+						JERRY: No, believe me it's not good. I'll mail you a new one with something really funny written on it.<br>
+							<br>
+							
+						WAITRESS: Well, when you mail me a new one I'll send you back this one.<br>
+							<br>
+							
+						JERRY: No, look, you don't understand. I, I want the picture.<br>
+							<br>
+							
+						WAITRESS: RIGHT! (leaves)<br>
+							
+						&nbsp;<br>
+							
+						&nbsp;<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						(Donald's room)<br>
+							<br>
+							
+						MRS. SANGER: This is Donald.<br>
+							<br>
+							
+						GEORGE: Hi. (waves to Donald and laughs) hahahaha.<br>
+							<br>
+							
+						SUSAN: Hello.<br>
+							<br>
+							
+						DONALD: WHO ARE YOU? Where's Seinfeld?<br>
+							<br>
+							
+						MRS. SANGER: He's on his way. These are his friends.<br>
+							<br>
+							
+						DONALD: WHAT ARE YOU LOOKIN' AT? NEVER SEEN A KID IN A BUBBLE BEFORE?<br>
+							<br>
+							
+						GEORGE: Tsst...'Course I have. Come on. My cousin's in a bubble. My friend Jeffrey's uh, sister, also ... bubble ... you know.&nbsp; I got a lot of bubble experience. Come on.<br>
+							<br>
+							
+						DONALD: WHAT'S YOUR STORY?<br>
+							<br>
+							
+						SUSAN: I-I-I have no story.<br>
+							<br>
+							
+						GEORGE: She works for NBC.<br>
+							<br>
+							
+						DONALD: HOW 'BOUT TAKING YOUR TOP OFF?<br>
+							<br>
+							
+						MRS. SANGER: Donald, behave yourself.<br>
+							<br>
+							
+						DONALD: COME ON.<br>
+							<br>
+							
+						MRS. SANGER: I know. I know. Why don't you play a game of Trivial Pursuit?<br>
+							<br>
+							
+						GEORGE: Ah, well, you know we gotta been running because of the ...<br>
+							<br>
+							
+						DONALD: Ooo. WHAT? ARE YOU AFRAID?<br>
+							<br>
+							
+						GEORGE: A-hu no, uh, it's just that ...<br>
+							<br>
+							
+						DONALD: WELL I'M GOING TO KICK YOUR ASS.<br>
+							
+						&nbsp;<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						(Highway Diner)<br>
+							<br>
+							
+						JERRY: Look, I was nice enough to give you the picture. I don't like what I wrote. I don't want it up there. Now please just give it back to me.<br>
+							<br>
+							
+						WAITRESS: You are really startin' to get under my skin.<br>
+							<br>
+							
+						JERRY: I want that picture.<br>
+							<br>
+							
+						WAITRESS: Well, you can't have it! In fact maybe you better just pay your check and get out.<br>
+							<br>
+							
+						(Elaine digging into the roast chicken)<br>
+							<br>
+							
+						JERRY: I'm not paying for anything until I get that back.<br>
+							<br>
+							
+						WAITRESS: Well, you ain't getting' it back.<br>
+							<br>
+							
+						JERRY: Well, maybe I'll just take it back.<br>
+							<br>
+							
+						(The waitress hits the picture on the wall with her open hand flush against it)<br>
+							<br>
+							
+						ELAINE: This chicken is really good.<br>
+							
+						&nbsp;<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						(Bubble Boy's room - George pulls a Trivial Pursuit card -- The Bubble Boy's right arm ala space suit type arm and a glove at the end to protect him)<br>
+							<br>
+							
+						DONALD: OK, HISTORY ... THIS IS FOR THE GAME. ... HOW YA DOIN' OVER THERE? ... NOT TOO GOOD!<br>
+							<br>
+							
+						GEORGE: All right Bubble Boy. Let's just play... Who invaded Spain in the 8th century?<br>
+							<br>
+							
+						DONALD: THAT'S A JOKE. THE MOORS.<br>
+							<br>
+							
+						GEORGE: Oh, Noooo, I'm so sorry. It's the MOOPS. The correct answer is, The MOOPS.<br>
+							<br>
+							
+						DONALD: MOOPS? LET ME SEE THAT. THAT'S NOT MOOPS YOU JERK, IT'S MOORS. IT'S A MISPRINT.<br>
+							<br>
+							
+						GEORGE: I'm sorry the card says MOOPS.<br>
+							<br>
+							
+						DONALD: IT DOESN'T MATTER. IT'S MOORS. THERE'S NO, MOOPS.<br>
+							<br>
+							
+						GEORGE: It's MOOPS.<br>
+							<br>
+							
+						DONALD: MOORS.<br>
+							<br>
+							
+						GEORGE: MOOPS,<br>
+							<br>
+							
+						DONALD: MOORS!<br>
+							
+						&nbsp;<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						(The cabin)<br>
+							<br>
+							
+						KRAMER: Hey!&nbsp; Anybody home?&nbsp; Oh boy.<br>
+							<br>
+							
+						NAOMI: What should we do?<br>
+							<br>
+							
+						KRAMER: Ah, hold these (boxes of) pies.<br>
+							<br>
+							
+						(Kramer opens a window by the front door of the cabin)<br>
+							<br>
+							
+						KRAMER: Okay.<br>
+							<br>
+							
+						( Kramer falls in through the open window knocking over a bunch of stuff)<br>
+							
+						&nbsp;<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						(Donald's room)<br>
+							<br>
+							
+						GEORGE: Help, someone. (BUBBLE BOY is strangling George)<br>
+							<br>
+							
+						DONALD: THERE'S NO MOOPS. YOU IDIOT.<br>
+							<br>
+							
+						SUSAN: Stop it. Let go of him!<br>
+							<br>
+							
+						Mrs. SANGER: Donald, stop it! Now, let go of him Donald. Donald!<br>
+							<br>
+							
+						DONALD: I'M GOING TO KILL HIM.<br>
+							<br>
+							
+						GEORGE: You're choking me.<br>
+							<br>
+							
+						Mrs. SANGER: Donald, ... Donald...<br>
+							<br>
+							
+						DONALD: MOORS. SAY MOORS!<br>
+							<br>
+							
+						GEORGE: MOOPS, MOOPS<br>
+							<br>
+							
+						Mrs. SANGER: Donald, No. ... Donald, stop it ..<br>
+							<br>
+							
+						(Susan bursts the bubble)<br>
+							<br>
+							
+						(hissing sound and Donald's hands leave George's throat)<br>
+							
+						&nbsp;<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						(Highway Diner)<br>
+							<br>
+							
+						(Waitress is strangling Jerry, the cook is grabbing Jerry, Elaine is grabbing the cook)<br>
+							<br>
+							
+						JERRY: What are you doing? You're choking me. Elaine!<br>
+							<br>
+							
+						WAITRESS: Are you going to pay for that?<br>
+							<br>
+							
+						JERRY: No, I want the picture back.<br>
+							<br>
+							
+						(angry guy enters)<br>
+							<br>
+							
+						MAN #1: Something's happened to the Bubble Boy. They're rushing him to the hospital.<br>
+							<br>
+							
+						WAITRESS: What? (releases Jerry)<br>
+							<br>
+							
+						JERRY: The Bubble Boy? He lives around here?<br>
+							<br>
+							
+						MAN #1: That's his house right down the road.<br>
+							<br>
+							
+						MAN #2: He got in a fight with some guy.<br>
+							<br>
+							
+						Guy1: What kind of person would hurt the Bubble Boy?<br>
+							<br>
+							
+						MAN #2: Some little bald guy from the city.<br>
+							<br>
+							
+						MAN #1: Come on -- Vern, Page, Preston, don't you think we ought to do somethin'?<br>
+							<br>
+							
+						(Elaine and Jerry make their escape)<br>
+							
+						&nbsp;<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						(The cabin)<br>
+							<br>
+							
+						KRAMER: Naomi, come on let's get goin'.<br>
+							<br>
+							
+						(Kramer is smoking a Cuban cigar and testing a fishing rod and reel)<br>
+							<br>
+							
+						NAOMI: But that lake must be freezing.<br>
+							<br>
+							
+						(Kramer sets his burning cigar on the mantle above the fireplace)<br>
+							<br>
+							
+						KRAMER: Nah, it's good for ya'. Retards the aging process.<br>
+							<br>
+							
+						(Kramer casts the fishing pole away and pulls it back in -- it hits him in the face, startling himself.&nbsp; Naomi enters in a blue robe with a couple of towels -- she tosses one to Kramer, which he does not catch.)<br>
+							<br>
+							
+						NAOMI: Ready to go swimming?<br>
+							<br>
+							
+						KRAMER: Let's go.... OK. (he snaps the towel at Naomi's backside)&nbsp; GOTCHA.<br>
+							<br>
+							
+						NAOMI: AHAaaaaaha<br>
+							<br>
+							
+						KRAMER: HeYAWaaa<br>
+							
+						&nbsp;<br>
+							
+						(Kramer pulls the door behind them as they run out -- Camera shot of the lit cigar -- it falls from the mantle onto a pile of newspapers -- either from the vibration of the door being closed or the vacuum of air being created that causes the cigar to fall -- either way, the cigar was placed on the mantle in a precarious position.)<br>
+							
+						&nbsp;<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						(The Sanger house)<br>
+							<br>
+							
+						(George stands in the open front door.&nbsp; The emergency lights can be seen flashing in the reflection of the window -- he motions with both hands to Susan lets go? She comes out the door and he puts his hand to her back as a slight gesture as the walk down the few steps)<br>
+							<br>
+							
+						GEORGE: JERRY! What happened to you?<br>
+							<br>
+							
+						JERRY: What happened to you? You were going like a hundred miles an hour.<br>
+							<br>
+							
+						GEORGE: Oh I was not. The BUBBLE BOY was tried to kill me.<br>
+							<br>
+							
+						(Mel Sanger and his wife exit the house and head off camera towards the emergency vehicles.)<br>
+							<br>
+							
+						ELAINE: What?<br>
+							<br>
+							
+						GEORGE: Yeah, Susan tell him.<br>
+							<br>
+							
+						SUSAN: It's a long story.<br>
+							<br>
+							
+						GEORGE: Yeah.<br>
+							<br>
+							
+						(Two emergency med. techs. pulling a stretcher on wheels out the door with Donald the Bubble Boy? on it. They stop so he can talk to the group.)<br>
+							<br>
+							
+						DONALD: HEY SEINFELD!<br>
+							<br>
+							
+						JERRY: Hey, Happy Birthday.<br>
+							<br>
+							
+						ELAINE: Hi.<br>
+							<br>
+							
+						DONALD: THANKS FOR SHOWING UP. YOU KNOW YOUR FRIEND HERE TRIED TO KILL ME.<br>
+							<br>
+							
+						GEORGE: Oh, you lying little snot. And he's a cheater. Aren't ya' you little twerp?<br>
+							<br>
+							
+						DONALD: MOORS<br>
+							<br>
+							
+						GEORGE: MOOPS<br>
+							<br>
+							
+						DONALD: MOORS<br>
+							<br>
+							
+						GEORGE: MOOPS<br>
+							<br>
+							
+						DONALD: MOORS<br>
+							<br>
+							
+						GEORGE: MOOPS<br>
+							<br>
+							
+						(The towns people arrive - about 10 of them)<br>
+							<br>
+							
+						MAN #1: There's the guy who tried to kill the Bubble Boy. Get him!<br>
+							<br>
+							
+						GEORGE: Go, go, get out, ...<br>
+							<br>
+							
+						(Our heroes scrambling -- they run for it)<br>
+							
+						&nbsp;<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						(Night shot of a fire truck racing down the road, passing cars, sirens blasting, lights flashing)<br>
+							<br>
+							
+						(Jerry's car -- Jerry's and Elaine)<br>
+							<br>
+							
+						JERRY: Fire engines?<br>
+							<br>
+							
+						(Jerry looks as the fire truck passes his car)<br>
+							<br>
+							
+						(George's car -- Susan looks tired as her head is on the head rest -- she rolls her head to the side to glance at the fire truck cruising by)<br>
+							<br>
+							
+						GEORGE: What? Must be a big one.<br>
+							
+						&nbsp;<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						(Night shot -- In the woods, a smoky haze, backlit with streams of blue light and smoke through the trees)<br>
+							<br>
+							
+						ELAINE: Do you smell something?<br>
+							<br>
+							
+						JERRY: Yeah,<br>
+							<br>
+							
+						SUSAN: Smoke.<br>
+							<br>
+							
+						GEORGE: Yeah, (cough) Definite smoke.<br>
+							<br>
+							
+						ELAINE: Arghhh, look it's a fire! (cough)<br>
+							<br>
+							
+						(They emerge from the woods -- Susan first carrying a flashlight and a red bag, George with a bag of groceries, Elaine and Jerry follow&nbsp; -- they stand looking at the burning cabin)<br>
+							<br>
+							
+						(Night shot of the cabin burning)<br>
+							<br>
+							
+						JERRY: Holy cow! look at that!<br>
+							<br>
+							
+						SUSAN: IT'S MY FATHER'S CABIN!<br>
+							<br>
+							
+						ELAINE: The CABIN is on fire!<br>
+							<br>
+							
+						GEORGE: (Apprehensively) Um. I just realized. Ya' never gave me back the change from the tolls.<br>
+							<br>
+							
+						ELAINE: How could this have happened?<br>
+							<br>
+							
+						(Kramer and Naomi arrive wearing their robes, with the towels over their shoulders)<br>
+							<br>
+							
+						KRAMER: (singing) ... It's a big, wild, funky mountain man ...<br>
+							<br>
+							
+						NAOMI: Oh, my god, the cabin?<br>
+							<br>
+							
+						JERRY: What are you two doin' here?<br>
+							<br>
+							
+						NAOMI: Look at that.<br>
+							<br>
+							
+						(Night shot of the cabin burning)<br>
+							<br>
+							
+						JERRY: You didn't ... (makes motion like he's lighting a cigar)<br>
+							<br>
+							
+						KRAMER: My Cubans!&nbsp; (runs off to the burning cabin)<br>
+							
+						&nbsp;<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						[Jerry on stage - Closing monologue]<br>
+							<br>
+							
+						Something very scary and exciting about fire, ah people always run to see a fire. They're very proud, if they have a fireplace.&nbsp; And I think that's what smoking is really all about.&nbsp; That's the power of smoke it's just this thing (pretends to be smoking) -- ?I got fire right here in my hand. Smoke and fire is literally, coming right out of my mouth.?<br>
+							<br>
+							
+						And it's very intimidating to the non-smoker, ?cause it's like talking to someone that's going my head could open up, lava could explode out, pour right down my face, doesn't bother me a bit.<br>
+							<br>
+							
+						And then a cigar is even worse -- I mean a cigar, is like -- you think this end is bad, look at this wet, disgusting, chewed up nub huh -- How scary is that??<br>
+							
+						&nbsp;<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						THE END<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						** Pies - Just in case you did not know what these two kinds of pies are:<br>
+							<br>
+							
+						Boysenberry: The edible fruit obtained by crossing the blackberry, raspberry, and loganberry.&nbsp; [ After Rudolph Boysen, 20th century U.S. horticulturist ]<br>
+							<br>
+							
+						Huckleberry: The edible black or dark blue berry of any of various North American shrubs.&nbsp; 2. A shrub yielding this berry.</td>
+						</tr>
+						<tr height="6">
+							<td class="bottom2" width="645" height="6"></td>
+						</tr>
+						<tr>
+							<td width="645">
+								<div align="center">
+									<font size="-1">Copyright 2006 seinology.com | All Rights Reserved | Designed by 13erla</font></div>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+		<p></p>
+	</body>
+
+</html>

@@ -1,0 +1,1360 @@
+<tdOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+<html>
+
+	<head>
+		<meta http-equiv="content-type" content="text/html;charset=ISO-8859-1">
+		<meta name="description" content="Top Source for Seinfeld">
+		<meta name="keywords" content="seinfeld, sienfeld, Jerry Seinfeld, Julia Louis Dreyfus, Jason Alexander, Michael Richards, Kramer, George, Costanza, Elaine Benes, morty, Larry David">
+		<title>Seinology.com :: Scripts :: 107-The Fusilli Jerry</title>
+	<link rel='stylesheet' href='/stylesheet.css' type='text/css'>
+	</head>
+
+	<body>
+			<table align="center" width="787" border="0" cellspacing="0" cellpadding="0">
+				<tr>
+					<td><font size="-2" color="red">Seinology.com - </font><font size="-3" color="black">Where Seinfeld Content and Accuracy Matter Most. Seinfeld scripts in pdf form, Seinfeld episode video clips, Seinfeld episode audio clips, Jerry Seinfeld appearances, Julia Louis-Dreyfus appearances, Michael Richards appearances, Jason Alexander appearances, Seinfeld discussion Forum, Seinfeld Where are they Now? Seinlanguage Newsletter, Popular Seinfeld Lists, Seinfeld episode standup, Seinfeld episode guide, Seinfeld fan fiction. Seinfeld content all on one domain. Seinology.com enjoy your stay.</font></td>
+				</tr>
+			</table>
+		
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr height="100">
+				<td class="logo"></td>
+			</tr>
+			<tr><td class="ads" align="center" background=#8694fa>
+				<script type="text/javascript"><!--
+google_ad_client = "pub-1924026976931416";
+google_ad_width = 728;
+google_ad_height = 90;
+google_ad_format = "728x90_as";
+google_ad_type = "text";
+google_ad_channel = "";
+google_color_border = "FFFFFF";
+google_color_bg = "8694fa";
+google_color_link = "0000FF";
+google_color_text = "000000";
+google_color_url = "002E3F";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></td></tr>
+		</table>
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr>
+				<td valign="top" width="136">
+					<table width="136" border="0" cellspacing="0" cellpadding="0">
+						<tr height="24">
+							<td class="navigation">
+								<div align="center">
+									
+									<b>Navigation</b></div>
+							</td>
+						</tr>
+						<tr height="199">
+							<td class="spacer1" valign="top" width="136" height="199">
+								<div align="center">
+									<font size="-1"><a href="http://www.seinology.com">Home</a><br>
+										<a href="http://board.seinology.com">Forum</a><br>
+										<a href="http://www.seinology.com/av.shtml">Audio/Video</a><br>
+										<a href="http://www.seinology.com/scripts.shtml">Scripts</a><br>
+										<a href="http://www.seinology.com/survivor.shtml">Survivor</a><br>
+										<a href="http://www.seinology.com/fanfics.shtml">Fan Fiction</a><br>
+										<a href="http://www.seinology.com/gallery/">Gallery</a><br>
+										<a href="http://www.seinology.com/newsletter.shtml">Newsletter</a><br>
+										<a href="http://www.seinology.com/lists.shtml">Lists</a><br>
+										<a href="http://www.seinology.com/epguide.shtml">Episode Guide</a><br>
+										<a href="http://www.seinology.com/links.shtml">Links</a><br>
+										<a href="http://www.seinology.com/faqother.shtml">Faq + others</a><br>
+										<a href="http://www.seinology.com/legal.shtml">Legal</a></font></div>
+							</td>
+						</tr>
+						
+						<tr>
+							<td class="nav2" width="136">
+							<div align="center"><b>Search</b></div></td>
+						</tr>
+						<tr>
+							<td class="spacer1" width="136" valign="top"><div align="center"><form method="get" action="http://www.seinology.com/search/search.cgi">
+<p><label for="fdse_Match">Match</label><br>
+<select name="Match" id="fdse_Match" size="1">
+<option value="1">All</option>
+<option value="0">Any</option>
+<option value="2">Phrase</option>
+</select></p>
+<p><label for="fdse_Realm">Where?</label><br>
+<select name="Realm" id="fdse_Realm" size="1">
+<option selected="selected" value="All">EntireSite</option>
+<option value="Ep Guide">Ep Guide</option>
+<option value="Images">Images</option>
+<option value="Lists">Lists</option>
+<option value="Newsletters">Newsletters</option>
+<option value="Scripts">Scripts</option>
+<option value="Notes..Nothing">Notes..Nothing</option>
+</select></p>
+<p><input type="text" name="Terms" size="14" id="fdse_Terms"><br>
+<input type="submit" class="submit" name="submitButtonName" value="Search"></p>
+</div></form></td>
+						</tr>
+						<tr><td class="bottom" width="136" height="10" valign="top">
+						</td>
+						</tr>
+					</table>
+				</td>
+				<td width="4"></td>
+				<td valign="top" width="645">
+					<table width="645" border="0" cellspacing="0" cellpadding="0">
+						<tr height="18">
+							<td width="645" height="35" class="bar">
+								<div align="center">
+									<b><font size="+2" color="black">Script</font></b></div>
+							</td>
+						</tr>
+						<tr height="362">
+							<td class="spacer2" valign="top" width="645" height="362">
+
+						<p><font size="-2">Episode 107 - The Fusilli Jerry<br>
+							
+						pc: 619, season 6, episode 21<br>
+							
+						Broadcast date: April 27, 1995<br>
+							<br>
+							
+						Written by Marjorie Gross<br>
+							
+						Story by Marjorie Gross &amp; Jonathan Gross and Ron Hague &amp; Charlie Rubin<br>
+							
+						Directed by Andy Ackerman<br>
+							<br>
+							
+						-------------------------------------------------------------------------------<br>
+							<br>
+							
+						The Cast<br>
+							
+						Regulars:<br>
+							
+						Jerry Seinfeld ....................... Jerry Seinfeld<br>
+							
+						Jason Alexander .................. George Costanza<br>
+							
+						Julia Louis-Dreyfus ............. Elaine Benes<br>
+							
+						Michael Richards ................. Cosmo Kramer<br>
+							<br>
+							
+						Guest Stars:<br>
+							<br>
+							
+						Marla Sucharetza ................. Nancy<br>
+							
+						Lou Cutell ............................ Dr. Cooperman<br>
+							
+						Yvette Cruise ....................... Clerk<br>
+							
+						rc: Estelle Harris ................... Estelle Costanza<br>
+							
+						rc: Jerry Stiller ...................... Frank Costanza<br>
+							
+						rc:&nbsp; Patrick Warburton ......... David Puddy<br>
+							<br>
+							
+						==================================================================<br>
+							<br>
+							
+						[Opening Scene: Jerry and Elaine are outside, heading towards the apartment building]<br>
+							<br>
+							
+						JERRY: I hear you're going out with David Putty.<br>
+							<br>
+							
+						ELAINE: Yeah. What, is it a problem?<br>
+							<br>
+							
+						JERRY: Well, I think he could've asked me. Supposed to be a friend of mine.<br>
+							<br>
+							
+						ELAINE: Well, I guess he figured you just wouldn't care. It *has* been a few years.<br>
+							<br>
+							
+						JERRY: Elaine, you always care who an ex-girlfriend dates. You don't want it to be someone you know, and you don't want it to be someone better than you. Now, even though the latter is *obviously* impossible.<br>
+							<br>
+							
+						ELAINE: Oh, god.<br>
+							<br>
+							
+						JERRY: The former still applies. I don't know what it is, but I just can't see you with a mechanic.<br>
+							<br>
+							
+						ELAINE: Oh, yeah. Right, right. Well, all those mechanics do is work all day with their hands and their *big*, *muscular* arms on machines, and then they come home dripping with animal sexuality like Stanley Kowalski. What a huge turn-off that is.<br>
+							<br>
+							
+						JERRY: All right.<br>
+							<br>
+							<br>
+							<br>
+							
+						[At Monk's, George and Estelle are looking over their menus]<br>
+							<br>
+							
+						GEORGE: Look at that. They got lobster on the menu. Who would order a lobster here. I mean, do they bring a lobster in everyday hoping *todays* the day.<br>
+							<br>
+							
+						ESTELLE: So what if they have a lobster. Suddenly you're a shell-fish connoisseur.<br>
+							<br>
+							
+						GEORGE: You know, I think we really need to be in front of a television set. You take T.V. out of this relationship, it is *just* torture.<br>
+							<br>
+							
+						ESTELLE: So, I'm getting an eye job.<br>
+							<br>
+							
+						GEORGE: An eye job? Ma, you don't need an eye job.<br>
+							<br>
+							
+						ESTELLE: Georgie, I'm a divorcee.<br>
+							<br>
+							
+						GEORGE: No, you're not a divorcee. You&yuml;re just separated. You're---you're a separatee.<br>
+							<br>
+							
+						ESTELLE: Well, I'm out there, George.<br>
+							<br>
+							
+						GEORGE: No, you're not out there.<br>
+							<br>
+							
+						ESTELLE: I am, too!<br>
+							<br>
+							
+						GEORGE: You're not out there! You can't be, because *I* am out there. And if I see *you* out there, there's not enough voltage in this world to electroshock me back into coherence!<br>
+							<br>
+							
+						ESTELLE: Well, anyway, the operation is on Tuesday and I need you to drive me home because I'll be all drugged up.<br>
+							<br>
+							
+						GEORGE: Tuesday? I can't do it Tuesday. Steinbrenner needs me to run---<br>
+							<br>
+							
+						ESTELLE: This is the only time the doctor *has*.<br>
+							<br>
+							
+						(Kramer walks by their table on his way out)<br>
+							<br>
+							
+						GEORGE: Kramer, hey, hey! (Gets up out of his seat)<br>
+							<br>
+							
+						KRAMER: Hi, little buddy.<br>
+							<br>
+							
+						GEORGE: Come on over and sit down.<br>
+							<br>
+							
+						KRAMER: Hey, listen, I gotta go somewhere.<br>
+							<br>
+							
+						GEORGE: No, you're gonna sit down, you son of a gun...<br>
+							<br>
+							
+						KRAMER: All right, I'm sitting down. How are you? (Kisses Estelle on the cheek)<br>
+							<br>
+							
+						ESTELLE: So, Kramer. I'm getting an eye job.<br>
+							<br>
+							
+						KRAMER: Oh, yeah, good for you. Hey, you have to look your best. You're out there now.<br>
+							<br>
+							
+						GEORGE: She's not out there!<br>
+							<br>
+							
+						KRAMER: So, who is your doctor?<br>
+							<br>
+							
+						ESTELLE: Uh, Bakersoll.<br>
+							<br>
+							
+						KRAMER: (whistles). He's good. He's *very* good. He worked on this kid from Guatemala with no nose. Turned him into Ricardo Montalban.<br>
+							<br>
+							
+						GEORGE: Hey, Kramer, what are you doing Tuesday?<br>
+							<br>
+							
+						KRAMER: Tuesday? Uh...<br>
+							<br>
+							
+						GEORGE: Why doesn't *he* pick you up after the operation. He's got the car with the bench seats that you like.<br>
+							<br>
+							
+						ESTELLE: Oh, I don't care.<br>
+							<br>
+							
+						KRAMER: Yeah, I know, but I can't drive anybody anywhere until I go down to the motor vehicle bureau and get my new plates.<br>
+							<br>
+							
+						GEORGE: Well, giddy-up!<br>
+							<br>
+							<br>
+							<br>
+							
+						[At the motor vehicle bureau...]<br>
+							<br>
+							
+						KRAMER: Yeah, I'm here to pick up my new plates. My name is Kramer. Cosmo Kramer.<br>
+							<br>
+							
+						CLERK: Kramer.... (checks computer) All right...<br>
+							<br>
+							
+						KRAMER: All righty...<br>
+							<br>
+							
+						CLERK: Sign right here, please. (hands over clipboard)<br>
+							<br>
+							
+						KRAMER: (signs it) Okay. (The clerk hands him a manila envelope). Thanks. (opens up the envelope) Assman? Oh, no, these don't belong to me. I'm not the Assman. I think there's been a mistake.<br>
+							<br>
+							
+						CLERK: What's your name again?<br>
+							<br>
+							
+						KRAMER: Cosmo Kramer.<br>
+							<br>
+							
+						CLERK: (checks computer again) Cosmo Kramer. You *are* the Assman.<br>
+							<br>
+							
+						KRAMER: No! I'm not the Assman.<br>
+							<br>
+							
+						CLERK: Well, as far as the state of New York is concerned, you are.<br>
+							<br>
+							
+						(Failing to clear up the mistake, Kramer drives off with the new plates attached)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Meanwhile, we join Elaine and David---in bed, I should add. David, who apparently looks satisfied, is still breathless. Elaine, on the other hand, is looking somewhat, preoccupied]<br>
+							<br>
+							
+						DAVID: How do you feel?<br>
+							<br>
+							
+						ELAINE: Fine.<br>
+							<br>
+							
+						DAVID: Something the matter?<br>
+							<br>
+							
+						ELAINE: No.<br>
+							<br>
+							
+						DAVID: Then what is it?<br>
+							<br>
+							
+						ELAINE: No, nothing.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Later on, at Monk's, Jerry has just come in to meet Elaine. He joins her at the booth]<br>
+							<br>
+							
+						JERRY: Hi.<br>
+							<br>
+							
+						ELAINE: I was with David *Putty* last night.<br>
+							<br>
+							
+						JERRY: Yeah, so.<br>
+							<br>
+							
+						ELAINE: He did the move.<br>
+							<br>
+							
+						JERRY: What move?<br>
+							<br>
+							
+						ELAINE: You know...*the* move.<br>
+							<br>
+							
+						JERRY: Wait a second. *My* move?<br>
+							<br>
+							
+						(Elaine nods).<br>
+							<br>
+							
+						JERRY: David Putty used *my* move?<br>
+							<br>
+							
+						ELAINE: Yes, yes.<br>
+							<br>
+							
+						JERRY: Are you sure?<br>
+							<br>
+							
+						ELAINE: Jerry! There is no confusing *that* move with any other move.<br>
+							<br>
+							
+						JERRY: I can't believe it. He *stole* my move.<br>
+							<br>
+							
+						ELAINE: What else did you tell (reaches over to slap Jerry) him. (does it again) The two of you must have had *quite* a little chat!<br>
+							<br>
+							
+						JERRY: Oh, it wasn't like that! I didn't even mention you. You know, we were in the garage. You know how garages are. They're conducive to sex talk. It's a high-testosterone area.<br>
+							<br>
+							
+						ELAINE: Because of all the pistons and the lube jobs?<br>
+							<br>
+							
+						JERRY: Well, I'm going down to that garage and telling him to stop doing it.<br>
+							<br>
+							
+						ELAINE: Well, wait---wait a second.<br>
+							<br>
+							
+						JERRY: What?<br>
+							<br>
+							
+						ELAINE: Isn't that a little...rash?<br>
+							<br>
+							
+						JERRY: No! He stole my move!<br>
+							<br>
+							
+						ELAINE: Yeah, but...*I* like the move.<br>
+							<br>
+							
+						JERRY: Yeah, but it's like another comedian stealing my material.<br>
+							<br>
+							
+						ELAINE: Well, he doesn't even do it exactly the same. He--he--he uses a pinch at the end instead of the *swirl*!<br>
+							<br>
+							
+						JERRY: Oh, yeah. The pinch. *I've* done the pinch. That's not new. Besides which, I don't know how you could trust any of his moves now. His whole *repertoire* could be lifted.<br>
+							<br>
+							
+						ELAINE: You know, it's strange, because he's such an honest mechanic.<br>
+							<br>
+							
+						JERRY: I know, he's probably the only honest mechanic in New York.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Later, Jerry and George are outside, where Jerry has just bought a candy bar at the newsstand]<br>
+							<br>
+							
+						JERRY: ...so he stole my move and he's using it on Elaine.<br>
+							<br>
+							
+						GEORGE: You told David Putty your move and you didn't tell *me*? I *need* a move. You know I have no moves, Jerry. (points to the candy bar) Gimme a bite.<br>
+							<br>
+							
+						JERRY: Can I just get it opened first?<br>
+							<br>
+							
+						GEORGE: I can't believe you're hoarding sex moves. I'm out there rubbing two sticks together. You walk around with a zippo.<br>
+							<br>
+							
+						JERRY: All right, all right. Here. (hands George a piece of the candy bar).<br>
+							<br>
+							
+						GEORGE: (takes a bite) Oh, that's good. That's very good.<br>
+							<br>
+							
+						JERRY: You feel better?<br>
+							<br>
+							
+						GEORGE: Yeah, much better. All right, so what's the move, because I need *something*. This woman I'm dating, it's like she's doing her nails during love-making.<br>
+							<br>
+							
+						JERRY: Nancy Klopper?<br>
+							<br>
+							
+						GEORGE: Yeah. Never seen anyone so bored. I'm working like a dog here. Give me a moan. *Something*. I'd settle for a belch, for god's sake. All right, come on, let's have it.<br>
+							<br>
+							
+						JERRY: All right, George. I'm gonna tell you. But I just wanna make sure, before---<br>
+							<br>
+							
+						GEORGE: Yeah, yeah, yeah. It's in the vault. I'm putting it in the vault.<br>
+							<br>
+							
+						JERRY: It's not even a question of that. The point is when something like this is passed along, one must be certain that it's going to be used in a *conscientious* way. This is not some parlor trick to be used---<br>
+							<br>
+							
+						GEORGE: You're gonna tell me...or not.<br>
+							<br>
+							
+						JERRY: All right. On your bed. You got a headboard? You'll need a headboard.<br>
+							<br>
+							
+						GEORGE: I got a headboard.<br>
+							<br>
+							
+						JERRY: Is it padded?<br>
+							<br>
+							
+						GEORGE: No.<br>
+							<br>
+							
+						JERRY: Good. How tall is she?<br>
+							<br>
+							
+						GEORGE: Five-foot four. Why?<br>
+							<br>
+							
+						JERRY: You can't have more than a one-foot differential in your heights. Otherwise, you could really hurt your neck.<br>
+							<br>
+							
+						GEORGE: I can't tell ya how much I appreciate this.<br>
+							<br>
+							
+						JERRY: George, if you could master this, you'll never be alone again.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Back at Jerry's apartment: Jerry and George have just walked in, still conversing on the same subject]<br>
+							<br>
+							
+						JERRY: Now, the ending is kind of an option. I use the swirl. I like the swirl. I'm comfortable with the swirl. *I* feel the swirl is a great capper. He uses the pinch, which I find a little presumptuous.<br>
+							<br>
+							
+						GEORGE: Is it a clockwise swirl?<br>
+							<br>
+							
+						JERRY: I prefer clockwise, but it's not written in stone.<br>
+							<br>
+							
+						(Kramer enters, holding an object of some kind).<br>
+							<br>
+							
+						KRAMER: Here you go, buddy. (shows it to Jerry).<br>
+							<br>
+							
+						JERRY: What is it?<br>
+							<br>
+							
+						KRAMER: *Fusilli* Jerry! It's made from Fusilli pasta. See the microphone?<br>
+							<br>
+							
+						JERRY: When did you do this?<br>
+							<br>
+							
+						KRAMER: In my spare time. (turns to George). You know, I'm working on one of you, George. I'm using ravioli. See, the hard part is to find a pasta that captures the individual.<br>
+							<br>
+							
+						JERRY: Oh... Why Fusilli?<br>
+							<br>
+							
+						KRAMER: Because *you're* silly. Get it? (hands the Fusilli to Jerry) Yeah...<br>
+							<br>
+							
+						JERRY: Well, thank you very much.<br>
+							<br>
+							
+						GEORGE: So, did you get your new plates?<br>
+							<br>
+							
+						KRAMER: Oh...yeah. I got my new plates. But they mixed them up. Somebody got mine and I got their *vanity* plates.<br>
+							<br>
+							
+						GEORGE: What do they say?<br>
+							<br>
+							
+						KRAMER: Assman.<br>
+							<br>
+							
+						JERRY: Assman?<br>
+							<br>
+							
+						KRAMER: Yeah. Assman, Jerry. I'm Cosmo Kramer, the Assman!<br>
+							<br>
+							
+						JERRY: Who would order a license plate that says &quot;Assman&quot;?<br>
+							<br>
+							
+						GEORGE: Maybe they're Wilt Chamberlain's.<br>
+							<br>
+							
+						JERRY: It doesn't have to be someone who gets a lot of women. It could be just some guy with a big ass.<br>
+							<br>
+							
+						KRAMER: Yeah, or it could be a proctologist.<br>
+							<br>
+							
+						JERRY: Yeah. Proctologist.<br>
+							<br>
+							
+						GEORGE: Come on! No doctor would put that on his car.<br>
+							<br>
+							
+						KRAMER: Have you ever *met* a proctologist? Well, they usually have a very good sense of humor. You meet a proctologist at a party, don't walk away. *Plant* yourself there, because you will hear the funniest stories you've ever heard. See, no one wants to admit to them that they *stuck* something up there. Never! It's always an accident. Every proctologist story ends in the same way: &quot;It was a million to one shot, Doc. Million to one.&quot;<br>
+							<br>
+							
+						(A phone rings in the distant)<br>
+							<br>
+							
+						KRAMER: Oh! There's my phone. (He leaves)<br>
+							<br>
+							
+						GEORGE: So, where you gonna stick this (points to the Fusilli Jerry)<br>
+							<br>
+							
+						JERRY: I'll tell you where I'd like to stick it.<br>
+							<br>
+							<br>
+							<br>
+							
+						[We cut to the garage where David Putty is working on a car. Jerry walks in]<br>
+							<br>
+							
+						JERRY: Hey, David.<br>
+							<br>
+							
+						DAVID: Oh, hi, Jerry.<br>
+							<br>
+							
+						JERRY: Hey, what's the story? I hear you're doing my move.<br>
+							<br>
+							
+						DAVID: What move?<br>
+							<br>
+							
+						JERRY: What move? *My* move. The one I told you about. You used it on Elaine.<br>
+							<br>
+							
+						DAVID: You're move? What, are you kidding? I was doing that before I knew you. All you told me about was the ending.<br>
+							<br>
+							
+						JERRY: The ending is the whole thing. Without the ending, it's nothing. You had *nothing*.<br>
+							<br>
+							
+						DAVID: Oh, that ending was *so* obvious. I would have figured it out anyway. I didn't need you to tell me that stupid twist.<br>
+							<br>
+							
+						JERRY: Swirl.<br>
+							<br>
+							
+						DAVID: Whatever. I don't even do it.<br>
+							<br>
+							
+						JERRY: Oh, yeah, I know. You do the *pinch*.<br>
+							<br>
+							
+						DAVID: Yeah, that's right.<br>
+							<br>
+							
+						JERRY: You can't come up with your own stuff , so you *steal* other peoples? You're nothing but a hack.<br>
+							<br>
+							
+						DAVID: Are you through, 'cuz, uh, I gotta get back to work.<br>
+							<br>
+							
+						JERRY: Well, I'll tell you what I'll do, you know. If you wanna do it out of town...okay. But not in the city.<br>
+							<br>
+							
+						DAVID: All right, how about the next time your car breaks down, you take *that* out of town.<br>
+							<br>
+							
+						JERRY: Fine.<br>
+							<br>
+							
+						DAVID: Good!<br>
+							<br>
+							<br>
+							<br>
+							
+						[While driving, Jerry hits a pothole and his car is now making a clanking noise]<br>
+							<br>
+							<br>
+							<br>
+							
+						[We join George and Nancy, who are....getting busy under the covers.]<br>
+							<br>
+							
+						NANCY: Ow, George! (crawls out from beneath the covers) What are you doing?<br>
+							<br>
+							
+						GEORGE: (pops his head out of the covers, looking a bit confused) Uh...you know, uh...pleasuring you.<br>
+							<br>
+							
+						NANCY: Well, stop it!<br>
+							<br>
+							
+						GEORGE: You don't like the move?<br>
+							<br>
+							
+						NANCY: No. I don't.<br>
+							<br>
+							
+						GEORGE: You're kidding.<br>
+							<br>
+							
+						NANCY: No, I'm not. It feels like aliens poking at my body.<br>
+							<br>
+							
+						GEORGE: Sorry. I'll just go back to my usual routine.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Back to Elaine and David in the middle of, uh...you know...]<br>
+							<br>
+							
+						ELAINE: Oh, god! Oh, god, Dave! Oh, yes! Yes!<br>
+							<br>
+							
+						DAVID: No, I'm sorry.<br>
+							<br>
+							
+						ELAINE: What?!!<br>
+							<br>
+							
+						DAVID: I can't do the move.<br>
+							<br>
+							
+						ELAINE: What?<br>
+							<br>
+							
+						DAVID: Oh, he's ruined it for me.<br>
+							<br>
+							
+						ELAINE: Oh, oh, come on, please?<br>
+							<br>
+							
+						DAVID: No, he called me a hack. I'm just not into doing it anymore.<br>
+							<br>
+							
+						ELAINE: Oh, so---so that's it?<br>
+							<br>
+							
+						DAVID: I'll come up with some new stuff.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Cut to Kramer heading towards his car. He picks up a note on his windshield and reads it...]<br>
+							<br>
+							
+						KRAMER: &quot;Call me. Thirty-six, twenty-four, forty-six. I think I have what you're looking for.&quot; (Pleased by the note, Kramer stumbles into his car).<br>
+							<br>
+							
+						(Meanwhile, Estelle is at Dr. Bakersoll's office)<br>
+							<br>
+							
+						DR. BAKERSOLL: I must caution you about one thing. You can't cry for at least ten day. You can ruin the operation.<br>
+							<br>
+							
+						ESTELLE: Oh, okay.<br>
+							<br>
+							
+						DR. BAKERSOLL: Now, is someone coming to pick you up?<br>
+							<br>
+							
+						ESTELLE: Yes, my son's friend should be here any minute.<br>
+							<br>
+							<br>
+							<br>
+							
+						[In the parking lot just outside, Kramer has pulls into a &quot;Doctors Only&quot; space]<br>
+							<br>
+							
+						SECURITY GUARD: Can I help you?<br>
+							<br>
+							
+						KRAMER: Ah, yeah. Doctor Cosmo Kramer. (points to plate) Proctology.<br>
+							<br>
+							
+						SECURITY GUARD: Oh, oh, okay. Sure...<br>
+							<br>
+							
+						KRAMER: Thanks. Have a good day.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Kramer is driving Estelle home]<br>
+							<br>
+							
+						KRAMER: I just can't get over how fantastic you look.<br>
+							<br>
+							
+						ESTELLE: Oh, really?<br>
+							<br>
+							
+						KRAMER: Oh, yeah. This takes twenty years off.<br>
+							<br>
+							
+						ESTELLE: And it was all done by laser. I don't even need bandages.<br>
+							<br>
+							
+						(As a car passes Kramer, someone yells out, &quot;Yo, Assman! Look at the Assman!&quot; Kramer waves).<br>
+							<br>
+							
+						ESTELLE: Did he say &quot;Assman&quot;?<br>
+							<br>
+							
+						KRAMER: Oh, yeah.<br>
+							<br>
+							
+						ESTELLE: Oh my goodness.<br>
+							<br>
+							
+						(Another car passes: &quot;Hey, the Assman's in town!&quot;)<br>
+							<br>
+							
+						KRAMER: You got that straight!<br>
+							<br>
+							
+						ESTELLE: Boy. I never dreamed it could make such a difference.<br>
+							<br>
+							
+						(Kramer makes a sudden stop, and in a protective gesture, he sticks his arm out in front of Estelle.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Back to Jerry's apartment]<br>
+							<br>
+							
+						JERRY: You must have done *something* wrong. You probably screwed up the order. Did you close with the swirl?<br>
+							<br>
+							
+						GEORGE: Supposed to close with the swirl?<br>
+							<br>
+							
+						JERRY: Oh my god. Yes, you close with the swirl. There's a progression there. I told you to write it down.<br>
+							<br>
+							
+						GEORGE: Yeah, yeah, should've written it down.<br>
+							<br>
+							
+						(Bzzz. Jerry walks over to answer it)<br>
+							<br>
+							
+						JERRY: Yeah?<br>
+							<br>
+							
+						BUZZER: Elaine.<br>
+							<br>
+							
+						JERRY: C'mon up. (turns to George) You know what? Do me a favor. Don't even do the move anymore. You're gonna give it a bad name.<br>
+							<br>
+							
+						(The phone rings)<br>
+							<br>
+							
+						JERRY: Hello? Yeah, this is Jerry Seinfeld. What? Twenty-eight hundred dollars?!! That's the estimate on my car?!! No, don't even do anything. I'm gonna think about it. Okay, bye.<br>
+							<br>
+							
+						GEORGE: What's to think about? If Putty says it's what it is, it's what it is. He's not gonna cheat you.<br>
+							<br>
+							
+						JERRY: Except that it's not Putty.<br>
+							<br>
+							
+						GEORGE: What happened to Putty?<br>
+							<br>
+							
+						JERRY: Eh, we had a little fight about the move. I took her to this other place. I think they might be trying to screw me.<br>
+							<br>
+							
+						GEORGE: Well, of course they're trying to screw you. What do you think? That's what they do. They can make up anything. Nobody knows. &quot;By the way, you need a new Johnson rod in there.&quot; &quot;Oh, a Johnson rod. Yeah, well, you better put one of those on.&quot;<br>
+							<br>
+							
+						(Elaine comes in looking a bit peeved)<br>
+							<br>
+							
+						JERRY: Hey, Elaine.<br>
+							<br>
+							
+						ELAINE: Yeah, yeah, hello.<br>
+							<br>
+							
+						JERRY: Is it something I said?<br>
+							<br>
+							
+						ELAINE: Yes! As a matter of fact! David Putty won't do the move anymore.<br>
+							<br>
+							
+						JERRY: Really?<br>
+							<br>
+							
+						ELAINE: Oh, he's come up with some other move. You should see this thing.<br>
+							<br>
+							
+						JERRY: What is it?<br>
+							<br>
+							
+						ELAINE: Oh, it's a lot of just fancy-shmancy stuff. You know what it's like? It's like a big budget movie with a story that goes *nowhere*.<br>
+							<br>
+							
+						JERRY: Huh.<br>
+							<br>
+							
+						ELAINE: I mean, this move is no good, Jerry. It's just taking up a lot of my time. And I...will not stand by and allow him to perform this move on me, when a perfectly good move is just sitting in the barn doing nothing!<br>
+							<br>
+							
+						GEORGE: Let me ask you a question. This new move. Is there a knuckle involved in any way?<br>
+							<br>
+							
+						ELAINE: Yes. As a matter of fact, there is.<br>
+							<br>
+							
+						GEORGE: I think that's mine.<br>
+							<br>
+							
+						ELAINE: I'm not surprised.<br>
+							<br>
+							
+						JERRY: Listen. I need you to do me a favor. When's the next time you're gonna see him?<br>
+							<br>
+							
+						ELAINE: Why?<br>
+							<br>
+							
+						JERRY: You gotta get an estimate on my car from him. I think this garage is trying to screw me.<br>
+							<br>
+							
+						ELAINE: An estimate? How am I supposed to do that?<br>
+							<br>
+							
+						JERRY: Well, look. Here's the work order with everything that broke. Just kind of bring it up at the right time and find out. (hands Elaine the work order)<br>
+							<br>
+							
+						ELAINE: (takes the work order and points to the Fusilli Jerry sitting on the table) What? What is this?<br>
+							<br>
+							
+						JERRY: That's, uh, Fusilli Jerry.<br>
+							<br>
+							
+						ELAINE: Fusilli Jerry?<br>
+							<br>
+							
+						JERRY: Yeah. Kramer made it.<br>
+							<br>
+							
+						GEORGE: All right, listen, I'll see you guys later.<br>
+							<br>
+							
+						(As George is leaving, Kramer comes in with a female companion)<br>
+							<br>
+							
+						JERRY: Hey, Assman!<br>
+							<br>
+							
+						KRAMER: Hey, well, this is Sally.<br>
+							<br>
+							
+						SALLY: Hello.<br>
+							<br>
+							
+						JERRY: Hi.<br>
+							<br>
+							
+						ELAINE: Hi.<br>
+							<br>
+							
+						KRAMER: Shall we go?<br>
+							<br>
+							
+						SALLY: Okay. (turns around and walks out with an exaggerated swing of her hips)<br>
+							<br>
+							
+						(Elaine, Jerry, and George make a face)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Back at the Costanzas' house...]<br>
+							<br>
+							
+						ESTELLE: You can't face the fact that I'm improving myself.<br>
+							<br>
+							
+						FRANK: You're not the only one improving yourself. I worked out with a dumbbell yesterday. I feel *vigorous*.<br>
+							<br>
+							
+						ESTELLE: Just take your mail and go home. I have things to do.<br>
+							<br>
+							
+						FRANK: I got things to do, too.<br>
+							<br>
+							
+						ESTELLE: Don't upset me! I can't cry!<br>
+							<br>
+							
+						FRANK: Getting an eye job like some Manhattanite, huh?<br>
+							<br>
+							
+						ESTELLE: Well, it's already working. Kramer made a pass at me.<br>
+							<br>
+							
+						FRANK: Kramer made a pass at you? You're crazy.<br>
+							<br>
+							
+						ESTELLE: I'm not crazy. He stopped short and made a grab.<br>
+							<br>
+							
+						FRANK: He stopped short? That's my move. I'm gonna kill him!<br>
+							<br>
+							<br>
+							<br>
+							
+						[Once again, we join Elaine and David...in bed as usual...doing what they do best]<br>
+							<br>
+							
+						ELAINE: Hey, let me ask you a question.<br>
+							<br>
+							
+						DAVID: Sure.<br>
+							<br>
+							
+						ELAINE: What do you charge for blown shocks?<br>
+							<br>
+							
+						DAVID: What?<br>
+							<br>
+							
+						ELAINE: Two, three hundred?<br>
+							<br>
+							
+						DAVID: I don't know. Maybe five hundred.<br>
+							<br>
+							
+						ELAINE: Ah.<br>
+							<br>
+							
+						(They go back to kissing)<br>
+							<br>
+							
+						ELAINE: What about a bad gasket?<br>
+							<br>
+							
+						DAVID: Bad gasket?<br>
+							<br>
+							
+						ELAINE: Yeah. Like a terrible gasket.<br>
+							<br>
+							
+						DAVID: What is all this?<br>
+							<br>
+							
+						ELAINE: Nothing, nothing. I'm just taking an interest in what you...do.<br>
+							<br>
+							
+						DAVID: What kind of car is it?<br>
+							<br>
+							
+						ELAINE: Oh...any kind of---of a Swedish car.<br>
+							<br>
+							
+						DAVID: All together, that could run about sixteen hundred.<br>
+							<br>
+							
+						ELAINE: Oh.<br>
+							<br>
+							
+						(Kiss again)<br>
+							<br>
+							
+						ELAINE: Is that with the parts and labor?<br>
+							<br>
+							
+						DAVID: Uh-huh.<br>
+							<br>
+							
+						ELAINE: Hmm.<br>
+							<br>
+							
+						(Kiss...again)<br>
+							<br>
+							
+						ELAINE: Oh, no. No, David. No, please. Not the knuckle....<br>
+							<br>
+							<br>
+							<br>
+							
+						[Back to George and Nancy in bed. George is looking quite pleased with himself. Nancy, on the other hand, looks...bewildered...pleasantly surprised...]<br>
+							<br>
+							
+						NANCY: Wow. That was...*great*. I mean...*wow*.<br>
+							<br>
+							
+						GEORGE: It just came to me.<br>
+							<br>
+							
+						NANCY: I---I've never in my life have---have I---. What was that?<br>
+							<br>
+							
+						GEORGE: You mean in the end?<br>
+							<br>
+							
+						NANCY: Uh-huh.<br>
+							<br>
+							
+						GEORGE: A counter-clockwise swirl.<br>
+							<br>
+							
+						(Spotting something on George's hand)<br>
+							<br>
+							
+						NANCY: What's that?<br>
+							<br>
+							
+						GEORGE: What?<br>
+							<br>
+							
+						NANCY: On---on your hand? Let me see what's on your hand.<br>
+							<br>
+							
+						GEORGE: Nothing. I don't know...just a little dirt.<br>
+							<br>
+							
+						NANCY: Give me that. (grabs his hand) I wanna see what's on your hand.<br>
+							<br>
+							
+						(They struggle for a bit, but Nancy finally gets a hold of his hand and tries to make out the scribble)<br>
+							<br>
+							
+						NANCY: Number one. Take her leg.... Oh, my god! Crib notes? You've got crib notes?!!<br>
+							<br>
+							
+						GEORGE: It's a very complicated move! I couldn't remember it all.<br>
+							<br>
+							
+						NANCY: Oh, my god, you're sick. (gets out of bed)<br>
+							<br>
+							
+						GEORGE: You know, it's not the S.A.T.s!<br>
+							<br>
+							<br>
+							<br>
+							
+						[Cut to Frank on the streets. He spots Kramer's car. He looks inside the back window and sees the &quot;Bro&quot;---or is it the &quot;Manssierre&quot;? He checks out the plates]<br>
+							<br>
+							
+						FRANK: Assman? I'll get him, Assman!<br>
+							<br>
+							
+						(Back to Jerry's apartment)<br>
+							<br>
+							
+						JERRY: Sixteen hundred dollars? That's all? *Ooh*, they are ripping me off.<br>
+							<br>
+							
+						ELAINE: So what are you going to do?<br>
+							<br>
+							
+						JERRY: Well, that's it. I'm going back to Putty. No move is worth this.<br>
+							<br>
+							
+						ELAINE: Oh! You mean you don't care if he does the move anymore?<br>
+							<br>
+							
+						JERRY: Are you kidding? He can do every move I've ever done! Do you know what a good mechanic is worth? You can't compare that to sex.<br>
+							<br>
+							
+						(There's a knock at the door and Jerry goes over to answer it)<br>
+							<br>
+							
+						JERRY: Hi, Mr. Constanza. What's uh...?<br>
+							<br>
+							
+						FRANK: Where's your friend Kramer?<br>
+							<br>
+							
+						JERRY: I don't know. Why?<br>
+							<br>
+							
+						FRANK: Because I'm looking for him. That's why. He stopped short.<br>
+							<br>
+							
+						JERRY: What do you mean?<br>
+							<br>
+							
+						FRANK: In a car, with my wife. He stopped short. You think I don't know what that's about? That's my old move! I used it on Estelle forty years ago! I told everybody about it! Everybody knows! (Demonstrates) Hmmph! I stopped short.<br>
+							<br>
+							
+						JERRY: Really, stopping short. That's a good move.<br>
+							<br>
+							
+						FRANK: You're not kidding it's a good move!<br>
+							<br>
+							
+						(Kramer walks in.)<br>
+							<br>
+							
+						KRAMER: Hey.<br>
+							<br>
+							
+						JERRY: Hey.<br>
+							<br>
+							
+						KRAMER: Hey, Frank.<br>
+							<br>
+							
+						FRANK: Don't Frank me! I know what you did. How dare you stop short with my wife!<br>
+							<br>
+							
+						KRAMER: C'mon, Frank, relax. I don't even know what you're talking about.<br>
+							<br>
+							
+						(Frank backs Kramer into the table, knocking the Fusilli Jerry to the floor)<br>
+							<br>
+							
+						FRANK: You think I don't know, Assman?!! To think I almost split the profits on the Manssierre with you.<br>
+							<br>
+							
+						KRAMER: Bro.<br>
+							<br>
+							
+						FRANK: Manssierre!<br>
+							<br>
+							
+						KRAMER: Bro!<br>
+							<br>
+							
+						FRANK: Manssierre! You...!<br>
+							<br>
+							
+						(Frank grabs Kramer by the collar and in doing so, he slips and falls right on top of the Fusilli Jerry)<br>
+							<br>
+							
+						FRANK: Aah!!!<br>
+							<br>
+							
+						JERRY: Oh, my god!<br>
+							<br>
+							
+						(Everyone gasps in horror, including George, who was just walking in at that very moment)<br>
+							<br>
+							<br>
+							<br>
+							
+						[At the medical center, the gang is in the waiting room, waiting for the word on Frank's condition. Looks like they're still in shock<br>
+							<br>
+							
+						JERRY: If I wasn't there, I wouldn't have believed it.<br>
+							<br>
+							
+						ELAINE: Me either.<br>
+							<br>
+							
+						GEORGE: They say this guy's the best.<br>
+							<br>
+							
+						JERRY: He had to use cork-screw pasta.<br>
+							<br>
+							
+						(At that thought, Jerry, George, and Elaine shift uncomfortably in their seats. Meanwhile, Kramer is checking out the pictures on the wall. He spots something...)<br>
+							<br>
+							
+						KRAMER: Jerry. Jerry, come here. Take a look at this.<br>
+							<br>
+							
+						(Jerry joins him)<br>
+							<br>
+							
+						KRAMER: The name on the boat. Look at it.<br>
+							<br>
+							
+						JERRY: Assman!<br>
+							<br>
+							
+						KRAMER: Yeah (points towards the doctor's office), he's the Assman! Jerry, *he's* the Assman!<br>
+							<br>
+							
+						(The doctor walks in)<br>
+							<br>
+							
+						DOCTOR: Which one is the son?<br>
+							<br>
+							
+						GEORGE: (stands up) I am.<br>
+							<br>
+							
+						DOCTOR: Ah. I'm Doctor Cooperman. I just want you to know that this won't take long. And he's going to be fine.<br>
+							<br>
+							
+						(Kramer stops Dr. Cooperman at the door.)<br>
+							<br>
+							
+						KRAMER: Yeah, excuse me, uh... You didn't by any chance recently get the wrong license plates?<br>
+							<br>
+							
+						DR. COOPERMAN: Yes. I'm still waiting for the motor vehicle bureau to straighten it out.<br>
+							<br>
+							
+						KRAMER: So...you're the Assman.<br>
+							<br>
+							
+						(Dr. Cooperman winks and heads back to where Frank is waiting)<br>
+							<br>
+							
+						FRANK: It was a million to one shot, Doc. Million to one.<br>
+							<br>
+							<br>
+							<br>
+							
+						[Back at the Costanza's house, George and Frank are just walking in]<br>
+							<br>
+							
+						ESTELLE: Where have you been?!! You were supposed to fix the stove! I've been waiting for hours!<br>
+							<br>
+							
+						FRANK: I fell on some Fusilli.<br>
+							<br>
+							
+						ESTELLE: Fusilli?<br>
+							<br>
+							
+						FRANK: You know, the corkscrew pasta. It was a Fusilli Jerry. It got stuck in me. Had to go to the proctologist.<br>
+							<br>
+							
+						ESTELLE: The proctologist? Are you okay?<br>
+							<br>
+							
+						FRANK: Yeah.<br>
+							<br>
+							
+						ESTELLE: Oh, I was so worried. (grabs a couple of tissues from the box)<br>
+							<br>
+							
+						GEORGE: Ma, don't cry!<br>
+							<br>
+							
+						ESTELLE: Oh, I can't help it!<br>
+							<br>
+							
+						GEORGE: Ma, your eyes!<br>
+							<br>
+							
+						ESTELLE: Oh!<br>
+							<br>
+							<br>
+							
+						The End</td>
+						</tr>
+						<tr height="6">
+							<td class="bottom2" width="645" height="6"></td>
+						</tr>
+						<tr>
+							<td width="645">
+								<div align="center">
+									<font size="-1">Copyright 2006 seinology.com | All Rights Reserved | Designed by 13erla</font></div>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+		<p></p>
+	</body>
+
+</html>

@@ -1,0 +1,936 @@
+<tdOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+<html>
+
+	<head>
+		<meta http-equiv="content-type" content="text/html;charset=ISO-8859-1">
+		<meta name="description" content="Top Source for Seinfeld">
+		<meta name="keywords" content="seinfeld, sienfeld, Jerry Seinfeld, Julia Louis Dreyfus, Jason Alexander, Michael Richards, Kramer, George, Costanza, Elaine Benes, morty, Larry David">
+		<title>Seinology.com :: Scripts :: 106-The Doodle</title>
+	<link rel='stylesheet' href='/stylesheet.css' type='text/css'>
+	</head>
+
+	<body>
+			<table align="center" width="787" border="0" cellspacing="0" cellpadding="0">
+				<tr>
+					<td><font size="-2" color="red">Seinology.com - </font><font size="-3" color="black">Where Seinfeld Content and Accuracy Matter Most. Seinfeld scripts in pdf form, Seinfeld episode video clips, Seinfeld episode audio clips, Jerry Seinfeld appearances, Julia Louis-Dreyfus appearances, Michael Richards appearances, Jason Alexander appearances, Seinfeld discussion Forum, Seinfeld Where are they Now? Seinlanguage Newsletter, Popular Seinfeld Lists, Seinfeld episode standup, Seinfeld episode guide, Seinfeld fan fiction. Seinfeld content all on one domain. Seinology.com enjoy your stay.</font></td>
+				</tr>
+			</table>
+		
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr height="100">
+				<td class="logo"></td>
+			</tr>
+			<tr><td class="ads" align="center" background=#8694fa>
+				<script type="text/javascript"><!--
+google_ad_client = "pub-1924026976931416";
+google_ad_width = 728;
+google_ad_height = 90;
+google_ad_format = "728x90_as";
+google_ad_type = "text";
+google_ad_channel = "";
+google_color_border = "FFFFFF";
+google_color_bg = "8694fa";
+google_color_link = "0000FF";
+google_color_text = "000000";
+google_color_url = "002E3F";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></td></tr>
+		</table>
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr>
+				<td valign="top" width="136">
+					<table width="136" border="0" cellspacing="0" cellpadding="0">
+						<tr height="24">
+							<td class="navigation">
+								<div align="center">
+									
+									<b>Navigation</b></div>
+							</td>
+						</tr>
+						<tr height="199">
+							<td class="spacer1" valign="top" width="136" height="199">
+								<div align="center">
+									<font size="-1"><a href="http://www.seinology.com">Home</a><br>
+										<a href="http://board.seinology.com">Forum</a><br>
+										<a href="http://www.seinology.com/av.shtml">Audio/Video</a><br>
+										<a href="http://www.seinology.com/scripts.shtml">Scripts</a><br>
+										<a href="http://www.seinology.com/survivor.shtml">Survivor</a><br>
+										<a href="http://www.seinology.com/fanfics.shtml">Fan Fiction</a><br>
+										<a href="http://www.seinology.com/gallery/">Gallery</a><br>
+										<a href="http://www.seinology.com/newsletter.shtml">Newsletter</a><br>
+										<a href="http://www.seinology.com/lists.shtml">Lists</a><br>
+										<a href="http://www.seinology.com/epguide.shtml">Episode Guide</a><br>
+										<a href="http://www.seinology.com/links.shtml">Links</a><br>
+										<a href="http://www.seinology.com/faqother.shtml">Faq + others</a><br>
+										<a href="http://www.seinology.com/legal.shtml">Legal</a></font></div>
+							</td>
+						</tr>
+						
+						<tr>
+							<td class="nav2" width="136">
+							<div align="center"><b>Search</b></div></td>
+						</tr>
+						<tr>
+							<td class="spacer1" width="136" valign="top"><div align="center"><form method="get" action="http://www.seinology.com/search/search.cgi">
+<p><label for="fdse_Match">Match</label><br>
+<select name="Match" id="fdse_Match" size="1">
+<option value="1">All</option>
+<option value="0">Any</option>
+<option value="2">Phrase</option>
+</select></p>
+<p><label for="fdse_Realm">Where?</label><br>
+<select name="Realm" id="fdse_Realm" size="1">
+<option selected="selected" value="All">EntireSite</option>
+<option value="Ep Guide">Ep Guide</option>
+<option value="Images">Images</option>
+<option value="Lists">Lists</option>
+<option value="Newsletters">Newsletters</option>
+<option value="Scripts">Scripts</option>
+<option value="Notes..Nothing">Notes..Nothing</option>
+</select></p>
+<p><input type="text" name="Terms" size="14" id="fdse_Terms"><br>
+<input type="submit" class="submit" name="submitButtonName" value="Search"></p>
+</div></form></td>
+						</tr>
+						<tr><td class="bottom" width="136" height="10" valign="top">
+						</td>
+						</tr>
+					</table>
+				</td>
+				<td width="4"></td>
+				<td valign="top" width="645">
+					<table width="645" border="0" cellspacing="0" cellpadding="0">
+						<tr height="18">
+							<td width="645" height="35" class="bar">
+								<div align="center">
+									<b><font size="+2" color="black">Script</font></b></div>
+							</td>
+						</tr>
+						<tr height="362">
+							<td class="spacer2" valign="top" width="645" height="362">
+
+						<p><font size="-2">Episode 106 - The Doodle<br>
+							pc: 618, season 6, episode 20<br>
+							Broadcast date: April 6, 1995<br>
+							<br>
+							Written by Alec Berg &amp; Jeff Schaffer<br>
+							Directed by Andy Ackerman<br>
+							<br>
+							-------------------------------------------------------------------------------<br>
+							<br>
+							The Cast<br>
+							Regulars:<br>
+							Jerry Seinfeld ....................... Jerry Seinfeld<br>
+							Jason Alexander .................. George Costanza<br>
+							Julia Louis-Dreyfus ............. Elaine Benes<br>
+							Michael Richards ................. Cosmo Kramer<br>
+							<br>
+							Guest Stars:<br>
+							<br>
+							Billye Ree Wallace .................. Nana<br>
+							Christa Miller ......................... Paula<br>
+							Dana Wheeler-Nicholson ...... Shelly<br>
+							Guy Siner ............................. Mandel<br>
+							Ellis E. Williams ..................... Karl<br>
+							Coby Turner ........................ Judy<br>
+							Wayne C. Dvorak ................ Teacher<br>
+							Norman Brenner .................. Passerby<br>
+							rc: Wayne Knight ................. Newman<br>
+							rc: Barney Martin ................. Morty Seinfeld<br>
+							rc: Liz Sheridan .................... Helen Seinfeld<br>
+							rc: Len Lesser ...................... Uncle Leo<br>
+							<br>
+							==================================================================<br>
+							<br>
+							[Opening Monologue] <br>
+							<br>
+							They call themselves exterminators but they can't really do it. The best they can do is get the bugs to somebody else's house. They just relocate them , y'know what I mean, they're bug realtors is what they are. Ahmmmm.. I'll think you'll be happy here , there's a lotta crumbs not much light, ahmmm they usually sleep through the night, so you'll really have a (?) of the place. Nobody really cares about killing insects, even the animal rights people don't care. You could probably walk into an animal rights organization meeting and hear a speech like; The only way to stop the cruelty of the scientific testing on animals is (slaps his face)...Ha! Got him , is to boycott these companies. <br>
+							<br>
+							<br>
+							<br>
+							[Restaurant]<br>
+							<br>
+							GEORGE: Jerry it's funny, Paula and I actually met because of Elaine. <br>
+							<br>
+							PAULA: Elaine is in my drawing class at the new school <br>
+							<br>
+							GEORGE: ..And I went down there one time to see... <br>
+							<br>
+							JERRY: (cuts in) A nude model. <br>
+							<br>
+							GEORGE: If Elaine wanted to get some coffee. <br>
+							<br>
+							JERRY: You know I went out once with a nude model. Never let me see her naked. Hundreds of people see her naked every week, except me. Needless to say it was quite vexing. <br>
+							<br>
+							GEORGE: Are you through? <br>
+							<br>
+							JERRY: Yeah! <br>
+							<br>
+							GEORGE: So Anyway, I started to compliment Elaine on her sketches and it turns out,they're Paula's. <br>
+							<br>
+							PAULA: George, I just like to doodle <br>
+							<br>
+							(Jerry picks up a pecan that his girlfriend had just masticated.)<br>
+							<br>
+							GEORGE: Oh! Dropped a napkin...(Whispers) Jerry! <br>
+							<br>
+							JERRY: What? <br>
+							<br>
+							GEORGE: What are you doing?...She had those nuts in her mouth, she just spit them out. <br>
+							<br>
+							JERRY: (spits the nut) OooH!!! You. you ate these? You sucked on these and put them on the plate? <br>
+							<br>
+							SHELLY: Well I didn't know you were gonna eat them? <br>
+							<br>
+							JERRY: Soo... <br>
+							<br>
+							SHELLY: I'm sorry you find me so repulsive? <br>
+							<br>
+							JERRY: No ,no I don't, I mean, Don't be silly.. <br>
+							<br>
+							SHELLY: Yeah! <br>
+							<br>
+							JERRY: It's just... <br>
+							<br>
+							SHELLY: Well, hem ,if you'll excuse me I think I'll just go to the ladies room. <br>
+							<br>
+							PAULA: I'll join you. <br>
+							<br>
+							JERRY: Oh! man did you see that. I ate discarded food. <br>
+							<br>
+							GEORGE: Well I've done that. <br>
+							<br>
+							JERRY: Yeah, but with you it's intentional. <br>
+							<br>
+							GEORGE: Haven't you kissed her? <br>
+							<br>
+							JERRY: Yeah, but this is different , this is like ,you know, semi digested food stuff. You know the next stop is the stomach and you can take it from there. <br>
+							<br>
+							(George stops a passing busboy) <br>
+							<br>
+							GEORGE: Excuse me just for a second. ( fixes his hair looking at his reflection in a coffee pot.) <br>
+							<br>
+							JERRY: AH. Yes that's gonna make a big difference. <br>
+							<br>
+							GEORGE: This is dating , you can't leave anything to chance. <br>
+							<br>
+							JERRY: Hey ,You think that Shelly's upset that I made such a big deal about the pecan. <br>
+							<br>
+							GEORGE: Hehummm , Yeah! <br>
+							<br>
+							JERRY: Thanks. <br>
+							<br>
+							GEORGE: No problem. <br>
+							<br>
+							(The girls return from the ladies room.) <br>
+							<br>
+							SHELLY: Well Jerry , I guess we should get going . <br>
+							<br>
+							JERRY: Ah! boy. <br>
+							<br>
+							GEORGE: Well, it was very nice meeting you Shelly and Jerry be careful, there's a lot of nuts out there. (to Paula) All right you have everything? <br>
+							<br>
+							PAULA: Can you grab my purse. <br>
+							<br>
+							GEORGE: Yeah.( reaches for the purse and finds a piece of paper . he looks annoyed. <br>
+							<br>
+							&nbsp;<br>
+							<br>
+							[Monks, next day. George showing Jerry the piece of paper he picked up] <br>
+							<br>
+							JERRY: Yeah! So <br>
+							<br>
+							GEORGE: Don't you see what this is? <br>
+							<br>
+							JERRY: Yeah! It's a doodle. <br>
+							<br>
+							GEORGE: Yeah!, a doodle of me...look at the size of the nose , the ears, all my features are distorted. <br>
+							<br>
+							JERRY: Oh!.It's an affectionate caricature. <br>
+							<br>
+							GEORGE: I'm grotesque . I look like a troll. <br>
+							<br>
+							JERRY: It's just a drawing. <br>
+							<br>
+							GEORGE: Don't you see what this says? How can you possibly like somebody ,if you think they look like this? <br>
+							<br>
+							(Elaine walks in) <br>
+							<br>
+							GEORGE: (gets up to leave the table) HELLO!!! (angrily) <br>
+							<br>
+							ELAINE: What is with him? <br>
+							<br>
+							JERRY: the usual <br>
+							<br>
+							ELAINE: So, you know what? My friend Judy recommended me for a job at Viking Press. <br>
+							<br>
+							JERRY: Good for you <br>
+							<br>
+							ELAINE: Yeah! But get this. Viking has a deal with the Plaza Hotel, they got a two bedroom suite, there, for out-of-town clients...So guess what I did? <br>
+							<br>
+							JERRY: Oh! Come on, you told them you're from out-of-town just so you could stay in a hotel room. <br>
+							<br>
+							ELAINE: I know, I know Jerry.. but it's The Plazaaa... I've never stayed there .It'll be like a little vacation <br>
+							<br>
+							JERRY: Well be sure to catch a Broadway show while you're in town. <br>
+							<br>
+							ELAINE: ( laughs)Listen, I've used your parents address in Florida. <br>
+							<br>
+							JERRY: Oh! There coming to town tomorrow by the way. <br>
+							<br>
+							ELAINE: Hey. What's this.?. <br>
+							<br>
+							JERRY: Don't ask. <br>
+							<br>
+							ELAINE: What is it ..A drawing of Mr. Magoo <br>
+							<br>
+							JERRY: No ,it's George ( Elaine laughs heartily) <br>
+							<br>
+							(George comes back) <br>
+							<br>
+							ELAINE: It is.. <br>
+							<br>
+							GEORGE: You enjoying yourself? (More laughs from Elaine) <br>
+							<br>
+							ELAINE: Sorry. <br>
+							<br>
+							GEORGE: You see. You see! Listen when is your next drawing class? <br>
+							<br>
+							ELAINE: Tomorrow . <br>
+							<br>
+							GEORGE: All right, I want you to do me a favor. <br>
+							<br>
+							ELAINE: What? <br>
+							<br>
+							GEORGE: I want you to find out is she likes me. <br>
+							<br>
+							ELAINE: Find out if likes you?. What, are you in High School?...George come on can't you just talk to her yourself? <br>
+							<br>
+							GEORGE: But she's gonna know that I like her more than she likes me. <br>
+							<br>
+							JERRY: You know my parents are coming in and I got some clean up to do , so if you and Potsie are done scheming.... <br>
+							<br>
+							&nbsp;<br>
+							<br>
+							[Jerry's apartment] <br>
+							<br>
+							KRAMER: Well, they're in... <br>
+							<br>
+							JERRY: What's in? <br>
+							<br>
+							KRAMER: The MACANAW PEACHES ,Jerry , the MACANAW PEACHES!!!! &nbsp;<br>
+							<br>
+							JERRY: Aah! .. right. The ones from Oregon that are only ripe for two weeks a year.. <br>
+							<br>
+							KRAMER: Yeah Yeah I split a case with Newman..I waited all year for this.. Oooh this is fantastic.. Makes your taste buds come alive....It's like having a circus in your mouth.....Take a taste <br>
+							<br>
+							JERRY: Nah, I don't wanna <br>
+							<br>
+							KRAMER: Come on ,Just take a taste <br>
+							<br>
+							JERRY: I don't want it.. <br>
+							<br>
+							KRAMER: Come on JUST TASTE!!! <br>
+							<br>
+							JERRY: I DON'T WANT IT .... <br>
+							<br>
+							KRAMER: HE..YA. AYA. AYYYYYAAAAA!!!! <br>
+							<br>
+							JERRY: I am not gonna taste your peach. I ate some one's pecan last night, I'm not gonna eat your peach. <br>
+							<br>
+							KRAMER: Jerry , this is a miracle of nature that exists for a brief period. It's like the Aurora Borealis. <br>
+							<br>
+							(Jerry scratches his ankle furiously) <br>
+							<br>
+							JERRY: ..What is this? <br>
+							<br>
+							KRAMER: What? <br>
+							<br>
+							JERRY: Yeah! I think I got flea bites. <br>
+							<br>
+							KRAMER: Flea bites? <br>
+							<br>
+							JERRY: Look at this, my ankle's all bitten up. <br>
+							<br>
+							KRAMER: You got a dog? <br>
+							<br>
+							JERRY: No. <br>
+							<br>
+							KRAMER: Well, that is strange. <br>
+							<br>
+							JERRY: How could I have fleas? <br>
+							<br>
+							KRAMER: Don't sweat it buddy...I used to have fleas. <br>
+							<br>
+							JERRY: What did you do about them? <br>
+							<br>
+							KRAMER: What do you mean?... <br>
+							<br>
+							&nbsp;<br>
+							<br>
+							[Jerry's parents come through the door.] <br>
+							<br>
+							MORTY: Hey guys . Jerry . Kramer <br>
+							<br>
+							HELEN: Hi Jerry......What's wrong? <br>
+							<br>
+							JERRY: Nothing... <br>
+							<br>
+							HELEN: Jerry, I'm your mother, now what is it? <br>
+							<br>
+							JERRY: Mom, Dad.....I have fleas.. <br>
+							<br>
+							&nbsp;<br>
+							<br>
+							[Elaine's drawing class] &nbsp;<br>
+							<br>
+							ELAINE: Hey Paula!.. I hear you been going out with George Costanza? <br>
+							<br>
+							PAULA: How did you know?? <br>
+							<br>
+							ELAINE: Everybody knows. y'know George told me he thinks you're totally cute and everything. <br>
+							<br>
+							PAULA: He said that? <br>
+							<br>
+							ELAINE: Ha hum...Do you like George? <br>
+							<br>
+							PAULA: Yeaaah! he's cool. <br>
+							<br>
+							ELAINE: No I mean...Do you like him or do you like him like him? <br>
+							<br>
+							PAULA: Like like.. looks aren't important to me ,you know? <br>
+							<br>
+							TEACHER: Miss Benes , Are you chewing gum? <br>
+							<br>
+							ELAINE: (nods) HumHummmm.... <br>
+							<br>
+							(Elaine spits the gum in the waste basket then as the teacher turns around she makes a throwing up motion at Paula.) <br>
+							<br>
+							<br>
+							<br>
+							[Later at Jerry's] <br>
+							<br>
+							KARL: Yep!...In your bedroom too Mr. Seinfeld. You've got a full outbreak of fleas on your hands. <br>
+							<br>
+							JERRY: I don't get this. How did this happen. I don't have a dog. <br>
+							<br>
+							KARL: I don't explain 'em Mr. Seinfeld. I just exterminate them. <br>
+							<br>
+							JERRY: I don't understand this.. <br>
+							<br>
+							KARL: I 'm gonna have to seal the place up for 48 hours and fog it. That's the only way to get rid of them. <br>
+							<br>
+							JERRY: Nobody can be in here for 48 hours, I got my parents in town. <br>
+							<br>
+							KARL: Well , unless you want to kill them. They can't stay in here. This stuff is pretty toxic. I'll go get my stuff, it's in the truck. <br>
+							<br>
+							JERRY: Okay.. <br>
+							<br>
+							(Elaine comes in) <br>
+							<br>
+							ELAINE: Hi....??? <br>
+							<br>
+							JERY: Bug guy. <br>
+							<br>
+							ELAINE: Why do you have a bug guy? <br>
+							<br>
+							JERRY: I have fleas. <br>
+							<br>
+							ELAINE: Argh.. Fleas ( strikes the purse she just deposited on the couch) How did you get fleas? <br>
+							<br>
+							JERRY: I don't know...But every one's got to clear out of the apartment for two days. I don't know what I'm gonna do with my parents. they'll never let me pay for a hotel and if they go to someplace on their own I'm sure it's gonna be some awful dump. Wait a second.. Have you checked in The Plaza yet? <br>
+							<br>
+							ELAINE: No....Oh No.... <br>
+							<br>
+							JERRY: Come on,c'mon <br>
+							<br>
+							ELAINE: No, No... <br>
+							<br>
+							JERRY: c'mon ,c'mon.... <br>
+							<br>
+							ELAINE: No, No... <br>
+							<br>
+							JERRY: c'mon, c'mon.... <br>
+							<br>
+							ELAINE: No, No....Yesss!!!!!! <br>
+							<br>
+							JERRY: Yes!!! <br>
+							<br>
+							(Door buzzer) <br>
+							<br>
+							JERRY: Yes!!! <br>
+							<br>
+							GEORGE: yeah! <br>
+							<br>
+							ELAINE: Well what about you. Where you gonna stay? <br>
+							<br>
+							JERRY: I dunno , I'm gonna ask Shelley ,but she still might be upset from the masticated pecan incident. <br>
+							<br>
+							ELAINE: Hey!! I found out from Paula; She likes George. I'll bet he'll be relieved. <br>
+							<br>
+							JERRY: Yeah.. When he's dead he'll be relieved... Oh by the way Viking Press sent a Fedex for you to my parents. They brought it with 'em. <br>
+							<br>
+							ELAINE: Yeah that's just some stuff about the company. <br>
+							<br>
+							GEORGE: Hum..( to Elaine) Hey! did you talk to Paula? <br>
+							<br>
+							ELAINE: Yeah. <br>
+							<br>
+							GEORGE: So what did she say? <br>
+							<br>
+							ELAINE: She...likes you.. <br>
+							<br>
+							GEORGE: She said she liked me. No kiddin' she said that? <br>
+							<br>
+							ELAINE: Ya! <br>
+							<br>
+							GEORGE: Those were her exact words, I like George. <br>
+							<br>
+							ELAINE: Yep! <br>
+							<br>
+							GEORGE: Ha Haaaaaaa... Jerry how do you like that.You see I get myself in a dizzy, I'm all worked up and for what? <br>
+							<br>
+							ELAINE: For nothing.. <br>
+							<br>
+							GEORGE: ha Ha.. <br>
+							<br>
+							ELAINE: In fact she said that looks aren't even that important to her... <br>
+							<br>
+							GEORGE: You see.....WHAT!! <br>
+							<br>
+							ELAINE: Ah Oh!! <br>
+							<br>
+							GEORGE: She said looks aren't important to her? <br>
+							<br>
+							ELAINE: Well..hum...let me rephrase that, She said.... <br>
+							<br>
+							GEORGE: She thinks I'm ugly. I knew it. <br>
+							<br>
+							JERRY: You see the thing of it is, there's a lot of ugly people out there walking around, but they don't know they're ugly, because nobody actually tells them. <br>
+							<br>
+							GEORGE: .....So what's your point? <br>
+							<br>
+							JERRY: I dunno... <br>
+							<br>
+							ELAINE: Okay.. The point , George, is she likes you. <br>
+							<br>
+							GEORGE: Oh!, so what. I'd rather she hate me and thought I was good looking....At least I can get somebody else. (scratching his chest) What is this? Why am I itching? <br>
+							<br>
+							JERRY: That'd be the fleas. <br>
+							<br>
+							&nbsp;<br>
+							<br>
+							[At the Plaza Hotel] <br>
+							<br>
+							JERRY: Hey!!! <br>
+							<br>
+							MORTY: Hey! I do you like this? Huh, huh! <br>
+							<br>
+							HELEN: Oh! my god, Morty lets go, this is too nice. <br>
+							<br>
+							MORTY: Hey! This is the kind of room Sinatra stays in. Hey! look , Macadamian nuts. <br>
+							<br>
+							HELEN: Macadamian nuts? <br>
+							<br>
+							MORTY: Hey! You know what these cost, they're like 80 cents a nut. <br>
+							<br>
+							HELEN: Jerry, are you sure this all right? <br>
+							<br>
+							JERRY: Yeah! it's all taken care of. <br>
+							<br>
+							MORTY: ( from the other room) Hey!!! They got a phone in the john here. <br>
+							<br>
+							&nbsp;<br>
+							<br>
+							[Outside Elaine's building] <br>
+							<br>
+							ELAINE: Judy . <br>
+							<br>
+							JUDY: Hey!!!!. <br>
+							<br>
+							ELAINE: Hi, Thank you so much for recommending me to Viking Press . <br>
+							<br>
+							JUDY: It is my pleasure , just make sure you give that manuscript a good read. <br>
+							<br>
+							ELAINE: Manuscript? <br>
+							<br>
+							JUDY: Yeah. I'm sure they Fedexed you a manuscript. They want to see that you can read an unpublished work and give insightful criticism. <br>
+							<br>
+							ELAINE: Oooh!! <br>
+							<br>
+							JUDY: Read it twice if you have to. This is a big step in your career. <br>
+							<br>
+							ELAINE: Yeah! hmmm..I gotta go.. <br>
+							<br>
+							JUDY: Hey! What about lunch? <br>
+							<br>
+							ELAINE: (she leaves hurriedly) I gotta gooo... <br>
+							<br>
+							&nbsp;<br>
+							<br>
+							[Catches up with Jerry on the street.] <br>
+							<br>
+							ELAINE: Thank god I found you.. <br>
+							<br>
+							JERRY: Oh! Hey! <br>
+							<br>
+							ELAINE: You still got that Fedex? <br>
+							<br>
+							JERRY: Yeah! I got it . It's in the apartment, but we can't go in there it's being fumigated. <br>
+							<br>
+							ELAINE: No I'll take my chances. Come on...( Grabs him by the coat and head back to his place) <br>
+							<br>
+							&nbsp;<br>
+							<br>
+							[Jerry's place . There is a sign on the door that says &quot;Fumigation Do not enter&quot;] <br>
+							<br>
+							JERRY: You see? <br>
+							<br>
+							ELAINE: Jerry , I need that Fedex right now.. <br>
+							<br>
+							JERRY: I told you to take it. <br>
+							<br>
+							ELAINE: Well, I didn't know that it was a manuscript that I had to read... <br>
+							<br>
+							JERRY: Well, You can't go in there it's like a gas chamber in there. <br>
+							<br>
+							(Kramer comes out of the apartment.) <br>
+							<br>
+							KRAMER: I left a Macanaw peach in your refrigerator. <br>
+							<br>
+							JERRY: Kramer, they're fumigating. There's toxic gas in there. <br>
+							<br>
+							KRAMER: Toxic gas!!! <br>
+							<br>
+							JERRY: Aw! You'll be fine, you were in there for what , a couple of minutes. <br>
+							<br>
+							KRAMER: An hour and a half!!! I was reading a manuscript, I just couldn't put it down. <br>
+							<br>
+							ELAINE: My manuscript? <br>
+							<br>
+							JERRY: How do you feel? <br>
+							<br>
+							KRAMER: Now that you mention it , a little woozy. <br>
+							<br>
+							ELAINE: Kramer You got go back in there grab my manuscript. <br>
+							<br>
+							KRAMER: I'm not going back in there!! <br>
+							<br>
+							ELAINE: all right then, where is it?? <br>
+							<br>
+							KRAMER: I left it on the coffee table or somethin' <br>
+							<br>
+							JERRY: Well wh..wh.what are you doing? <br>
+							<br>
+							ELAINE: I'm going in . <br>
+							<br>
+							JERRY: Didn't you see the sign on the door? <br>
+							<br>
+							KRAMER: Well I thought it was so your parents wouldn't walk in while you're with a girl. <br>
+							<br>
+							(Elaine breathes heavily does the sign of the cross and enters. She goes to the coffee table then looks underneath the couch and finishes by his desk then the dinner table. She runs out of air so she has to rush out.) <br>
+							<br>
+							ELAINE: ( Heavy Panting) It's not on any table, Kramer. Where is it? <br>
+							<br>
+							KRAMER: Well I don't know . I was in the bathroom , the kitchen... <br>
+							<br>
+							ELAINE: Okay... bathroom....kitchen. <br>
+							<br>
+							JERRY: Can you get me a soda? <br>
+							<br>
+							(Elaine goes back in) <br>
+							<br>
+							KRAMER: Jerry, I had some milk, I made a sandwich. I got to get out of the building. <br>
+							<br>
+							(Elaine searches the kitchen , then the couch cushions and gives up.) <br>
+							<br>
+							ELAINE: (again pants) I couldn't find it anywhere. How did you get fleas anyway? <br>
+							<br>
+							JERRY: I don't know. Who could've been in my apartment. <br>
+							<br>
+							ELAINE: I 've looked everywhere , even under the couch but all I could find were the stupid Chunky wrappers. I couldn't.... <br>
+							<br>
+							JERRY: Wait a minute . Did you say chunky wrappers? <br>
+							<br>
+							ELAINE: Yeah! <br>
+							<br>
+							JERRY: Let me see those. ( smells them) Oh! I know the chunky that left these Chunkies......NEWMAN!!! I've got him. <br>
+							<br>
+							&nbsp;<br>
+							<br>
+							<br>
+							[Newman's door . Jerry knocks] <br>
+							<br>
+							JERRY: Newman . Open the door, Newman, I know you're in there. <br>
+							<br>
+							NEWMAN: Hello jerry. What a pleasant surprise. <br>
+							<br>
+							JERRY: There's nothing pleasant about it, so lets just cut the crap.. You gave me fleas. I know it and you know it.. <br>
+							<br>
+							NEWMAN: Fleas? Bwa ha ha ha ha .That's preposterous. How can I , give you fleas. Now if you don't mind... <br>
+							<br>
+							JERRY: Oh! but I do. There's probably fleas crawling all over your little snack bar. ( as he says this Newman is wildly scratching behind his back. he suddenly stops when Jerry turns around) <br>
+							<br>
+							NEWMAN: So , you have fleas. Maybe you keep your house in a state of disrepair. Maybe you live in squalor.<br>
+							<br>
+							JERRY: You know Newman , the thing about fleas is that they irritate the skin and they start to...itch. Oh! maybe you can hold out five seconds or ten, maybe fifteen or twenty but after a while, no matter how much will power a person may have. It won't matter, because they're crawling , crawling on your skin. Up your legs , up your spine , up your back..... <br>
+							<br>
+							NEWMAN: (Cannot take this torture anymore) Baaaaaaaaarrhhhhhhhhhhh....I'm ripped with fleas ( scratches furiously) <br>
+							<br>
+							&nbsp;<br>
+							<br>
+							[Plaza Hotel, Morty is getting a massage.] <br>
+							<br>
+							MORTY: Oh! Oh! That feels good. Hey! This guy charges a hundred bucks an hour but I'm telling ya he's worth every penny OOOOHH! <br>
+							<br>
+							HELEN: I'm next. <br>
+							<br>
+							MORTY: Hey! Leo, get this, four movies at once; Pay Per View. <br>
+							<br>
+							LEO: I love these nuts. <br>
+							<br>
+							NANA: This Champagne's gone flat. ( throws her glass over her shoulder) <br>
+							<br>
+							HELEN: Nana!!! <br>
+							<br>
+							NANA: He Ha Ha Ha...Let the chambermaid clean it up <br>
+							<br>
+							&nbsp;<br>
+							<br>
+							[On the street in front of a flower shop] <br>
+							<br>
+							GEORGE: Hello.. <br>
+							<br>
+							PAULA: What's the matter?... <br>
+							<br>
+							GEORGE: Well I spoke to Elaine... <br>
+							<br>
+							PAULA: Hey! Look , no shave. <br>
+							<br>
+							GEORGE: No...Why should that make any difference to you? <br>
+							<br>
+							PAULA: It doesn't.. <br>
+							<br>
+							GEORGE: Of course not. You don't care what I look like. <br>
+							<br>
+							PAULA: That's right I don't. <br>
+							<br>
+							GEORGE: I suppose I could just pull this out ( his tucked shirt)and walk around like this and you wouldn't care? <br>
+							<br>
+							PAULA: Not a wit. <br>
+							<br>
+							GEORGE: Hu humm? i suppose we could go to Lincoln Center and I'd be wearing sneakers and jeans and that would be fine too. <br>
+							<br>
+							PAULA: You can wear sweatpants. <br>
+							<br>
+							GEORGE: I could.. <br>
+							<br>
+							PAULA: (seductively) You could drape yourself in velvet, for all I care. <br>
+							<br>
+							GEORGE: Velvet... <br>
+							<br>
+							&nbsp;<br>
+							<br>
+							[Monks] <br>
+							<br>
+							ELAINE: Did you read the whole thing? <br>
+							<br>
+							KRAMER: Oh! yeah. <br>
+							<br>
+							ELAINE: Huh . So What's it about? <br>
+							<br>
+							KRAMER: Well it's a story about love, deception, greed, lust and...unbridled enthusiasm. <br>
+							<br>
+							ELAINE: unbridled enthusiasm...? <br>
+							<br>
+							KRAMER: Well , that's what led to Billy Mumphrey's downfall. <br>
+							<br>
+							ELAINE: Oh! boy. <br>
+							<br>
+							KRAMER: You see Elaine, Billy was a simple country boy. You might say a cockeyed optimist, who got himself mixed up in the high stakes game of world diplomacy and international intrigue. <br>
+							<br>
+							ELAINE: Oh! my God. <br>
+							<br>
+							KRAMER: ah! Here we go. <br>
+							<br>
+							ELAINE: (to the waitress) can I have a scotch on the rocks. <br>
+							<br>
+							KRAMER: May I..( pointing her food) <br>
+							<br>
+							ELAINE: (feeling sick) Yeah! go ahead. <br>
+							<br>
+							KRAMER: what is this? <br>
+							<br>
+							ELAINE: What? What are you doin'? ( Kramer salting her food) <br>
+							<br>
+							KRAMER: I can't taste this. <br>
+							<br>
+							ELAINE: What are you talking about? <br>
+							<br>
+							KRAMER: This food ,it has no taste......nothin' I'm gettin' nothin'...( realizes) It must be the toxic gas from the fumigation......( he leaves paranoid and confused) <br>
+							<br>
+							&nbsp;<br>
+							<br>
+							[At Shelly's] <br>
+							<br>
+							JERRY: Hey, thanks a lot for lettin' me stay here. <br>
+							<br>
+							SHELLY: Well, I don't keep pecans in the house so I didn't think it'd be a problem. <br>
+							<br>
+							JERRY: ( embarrassed laugh) ...Oh! Damn.. <br>
+							<br>
+							SHELLY: What's the matter? <br>
+							<br>
+							JERRY: I forgot my toothbrush. <br>
+							<br>
+							SHELLY: Oh! no problem.....You can use mine. <br>
+							<br>
+							JERRY: Yours?....You know what I'll think I'll brush later. <br>
+							<br>
+							SHELLY: Brush now. <br>
+							<br>
+							JERRY: (long pause).......Sure. ( humms a song then stares at the toothbrush) <br>
+							<br>
+							&nbsp;<br>
+							<br>
+							[Kramer and Newman who is coming out of the market eating a peach.] <br>
+							<br>
+							KRAMER: Newman ,Let me have a bite of your Macanaw.. <br>
+							<br>
+							NEWMAN: What for, you got your own. <br>
+							<br>
+							KRAMER: Come on ,c'mon i need to taste it. ( takes his peach).....Nothin' , Can't even taste a Macanaw. <br>
+							<br>
+							NEWMAN: ( resumes eating) Well that's a shame. <br>
+							<br>
+							KRAMER: Waited all year and I can't even taste it.. <br>
+							<br>
+							NEWMAN: You can't taste 'em . Why waste 'em . Why not give them all to me. <br>
+							<br>
+							&nbsp;<br>
+							<br>
+							[At Viking Press.] <br>
+							<br>
+							ELAINE: It's a story about love , deception ,greed , lust and.... unbridled enthusiasm . <br>
+							<br>
+							MANDEL: Unbridled enthusiasm. <br>
+							<br>
+							ELAINE: Yeah!..tha..that's right. that That's what led to...(throath clearing) Billy Mumphrey's downfall. <br>
+							<br>
+							MANDEL: hmmm...interesting take. So you believe, has he not been so enthusiastic he could have adverted disaster. <br>
+							<br>
+							ELAINE: Yes...Ye..Yes..That's right...You see ,Billy Mumphrey was a simple country boy. Some might say a cockeyed optimist, who got caught up in the dirty game of world diplomacy and International intrigue. <br>
+							<br>
+							MANDEL: So.. It was more a question of attitude than politics.. <br>
+							<br>
+							ELAINE: Yes, yes Mr. Mandel. <br>
+							<br>
+							&nbsp;<br>
+							<br>
+							[Plaza Hotel] <br>
+							<br>
+							MORTY: Hey! Under Siege is on again. Whose up for it? <br>
+							<br>
+							LEO: No more nuts. Awrghh..... <br>
+							<br>
+							&nbsp;<br>
+							<br>
+							[Monks. George walks in wearing velvet.] <br>
+							<br>
+							JERRY: Oh! my god. What the hell is this? ..... Don't tell me.......Velvet!!! <br>
+							<br>
+							GEORGE: It's the real deal. <br>
+							<br>
+							JERRY: She's seen you in this thing. <br>
+							<br>
+							GEORGE: That's right...We just had sex......You know Jerry I've been searching for someone a long time. Well the search is over. <br>
+							<br>
+							JERRY: And now the search for the right psychiatrist begins. <br>
+							<br>
+							GEORGE: He he...So huh! What's with the suitcase. <br>
+							<br>
+							JERRY: Ahh! She threw me out. <br>
+							<br>
+							GEORGE: Why? <br>
+							<br>
+							JERRY: I wouldn't use her toothbrush. <br>
+							<br>
+							GEORGE: So where are you staying? <br>
+							<br>
+							JERRY: Well I guess I'm stuck with the Velvet Fog. <br>
+							<br>
+							&nbsp;<br>
+							<br>
+							[At Viking again.] <br>
+							<br>
+							MANDEL: Three hours of massage time , twelve in-room movies including several adult features, five shoe shines and four hundred dolars worth of snacks. Not to mention the damage to the room. <br>
+							<br>
+							ELAINE: Mr Mandel, you don't understand ...my my friend had fleas. I ran into the gas, it could have killed me, and my, my other friend couldn't taste his peaches ,they only good for two weeks. <br>
+							<br>
+							MANDEL: I think , you've read, one too many, Billy Mumphrey stories. Good day Miss Benes. <br>
+							<br>
+							ELAINE: Okay...Good day.. <br>
+							<br>
+							<br>
+							<br>
+							[Monks again. George comes in eating a Macanaw peach.]<br>
+							<br>
+							PAULA: Hi George. <br>
+							<br>
+							GEORGE: ( mouth full) Hi, this is fantastic ( puts the pit in the a plate)D'you ever had a Macanaw peach? <br>
+							<br>
+							PAULA: Oh! yeah I love those. <br>
+							<br>
+							GEORGE: Too bad , it's all done. <br>
+							<br>
+							(Paula takes the pit and puts it in her mouth. George stares in disbelief , then disgust.)<br>
+							<br>
+							<br>
+							<br>
+							[Kramer is about to lick an envelope he is about to send.]<br>
+							<br>
+							KRAMER: ya....Yes!....Yes! it's back I can taste again. ( to a passerby) Hey! What's the date today? <br>
+							<br>
+							PASSERBY: The fifteenth. <br>
+							<br>
+							KRAMER: Fifteenth , Yes last day for the Macanaws. I can still make it. Wait.. Newman... <br>
+							<br>
+							NEWMAN: Sorry , last one . Would you want to suck the pit? <br>
+							<br>
+							KRAMER: ( fake laugh ) Look Hubert. It's the mailman. You remember the mailman don't you. <br>
+							<br>
+							(unleashes a dog; Dog proceeds to chase after Newman)<br>
+							<br>
+							<br>
+							<br>
+							[Finally at The Plaza Hotel]<br>
+							<br>
+							ELAINE: ( knocks) Hello is anybody here?.. <br>
+							<br>
+							LEO: They said they were sending an Asian woman. <br>
+							<br>
+							ELAINE: Oh! my God. <br>
+							<br>
+							&nbsp;<br>
+							The End</td>
+						</tr>
+						<tr height="6">
+							<td class="bottom2" width="645" height="6"></td>
+						</tr>
+						<tr>
+							<td width="645">
+								<div align="center">
+									<font size="-1">Copyright 2006 seinology.com | All Rights Reserved | Designed by 13erla</font></div>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+		<p></p>
+	</body>
+
+</html>

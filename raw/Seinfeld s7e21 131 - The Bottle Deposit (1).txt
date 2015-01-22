@@ -1,0 +1,1281 @@
+<tdOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+<html>
+
+	<head>
+		<meta http-equiv="content-type" content="text/html;charset=ISO-8859-1">
+		<meta name="description" content="Top Source for Seinfeld">
+		<meta name="keywords" content="seinfeld, sienfeld, Jerry Seinfeld, Julia Louis Dreyfus, Jason Alexander, Michael Richards, Kramer, George, Costanza, Elaine Benes, morty, Larry David">
+		<title>Seinology.com :: Scripts :: 131-The Bottle Deposit(1)</title>
+	<link rel='stylesheet' href='/stylesheet.css' type='text/css'>
+	</head>
+
+	<body>
+			<table align="center" width="787" border="0" cellspacing="0" cellpadding="0">
+				<tr>
+					<td><font size="-2" color="red">Seinology.com - </font><font size="-3" color="black">Where Seinfeld Content and Accuracy Matter Most. Seinfeld scripts in pdf form, Seinfeld episode video clips, Seinfeld episode audio clips, Jerry Seinfeld appearances, Julia Louis-Dreyfus appearances, Michael Richards appearances, Jason Alexander appearances, Seinfeld discussion Forum, Seinfeld Where are they Now? Seinlanguage Newsletter, Popular Seinfeld Lists, Seinfeld episode standup, Seinfeld episode guide, Seinfeld fan fiction. Seinfeld content all on one domain. Seinology.com enjoy your stay.</font></td>
+				</tr>
+			</table>
+		
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr height="100">
+				<td class="logo"></td>
+			</tr>
+			<tr><td class="ads" align="center" background=#8694fa>
+				<script type="text/javascript"><!--
+google_ad_client = "pub-1924026976931416";
+google_ad_width = 728;
+google_ad_height = 90;
+google_ad_format = "728x90_as";
+google_ad_type = "text";
+google_ad_channel = "";
+google_color_border = "FFFFFF";
+google_color_bg = "8694fa";
+google_color_link = "0000FF";
+google_color_text = "000000";
+google_color_url = "002E3F";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></td></tr>
+		</table>
+		<table width="787" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr>
+				<td valign="top" width="136">
+					<table width="136" border="0" cellspacing="0" cellpadding="0">
+						<tr height="24">
+							<td class="navigation">
+								<div align="center">
+									
+									<b>Navigation</b></div>
+							</td>
+						</tr>
+						<tr height="199">
+							<td class="spacer1" valign="top" width="136" height="199">
+								<div align="center">
+									<font size="-1"><a href="http://www.seinology.com">Home</a><br>
+										<a href="http://board.seinology.com">Forum</a><br>
+										<a href="http://www.seinology.com/av.shtml">Audio/Video</a><br>
+										<a href="http://www.seinology.com/scripts.shtml">Scripts</a><br>
+										<a href="http://www.seinology.com/survivor.shtml">Survivor</a><br>
+										<a href="http://www.seinology.com/fanfics.shtml">Fan Fiction</a><br>
+										<a href="http://www.seinology.com/gallery/">Gallery</a><br>
+										<a href="http://www.seinology.com/newsletter.shtml">Newsletter</a><br>
+										<a href="http://www.seinology.com/lists.shtml">Lists</a><br>
+										<a href="http://www.seinology.com/epguide.shtml">Episode Guide</a><br>
+										<a href="http://www.seinology.com/links.shtml">Links</a><br>
+										<a href="http://www.seinology.com/faqother.shtml">Faq + others</a><br>
+										<a href="http://www.seinology.com/legal.shtml">Legal</a></font></div>
+							</td>
+						</tr>
+						
+						<tr>
+							<td class="nav2" width="136">
+							<div align="center"><b>Search</b></div></td>
+						</tr>
+						<tr>
+							<td class="spacer1" width="136" valign="top"><div align="center"><form method="get" action="http://www.seinology.com/search/search.cgi">
+<p><label for="fdse_Match">Match</label><br>
+<select name="Match" id="fdse_Match" size="1">
+<option value="1">All</option>
+<option value="0">Any</option>
+<option value="2">Phrase</option>
+</select></p>
+<p><label for="fdse_Realm">Where?</label><br>
+<select name="Realm" id="fdse_Realm" size="1">
+<option selected="selected" value="All">EntireSite</option>
+<option value="Ep Guide">Ep Guide</option>
+<option value="Images">Images</option>
+<option value="Lists">Lists</option>
+<option value="Newsletters">Newsletters</option>
+<option value="Scripts">Scripts</option>
+<option value="Notes..Nothing">Notes..Nothing</option>
+</select></p>
+<p><input type="text" name="Terms" size="14" id="fdse_Terms"><br>
+<input type="submit" class="submit" name="submitButtonName" value="Search"></p>
+</div></form></td>
+						</tr>
+						<tr><td class="bottom" width="136" height="10" valign="top">
+						</td>
+						</tr>
+					</table>
+				</td>
+				<td width="4"></td>
+				<td valign="top" width="645">
+					<table width="645" border="0" cellspacing="0" cellpadding="0">
+						<tr height="18">
+							<td width="645" height="35" class="bar">
+								<div align="center">
+									<b><font size="+2" color="black">Script</font></b></div>
+							</td>
+						</tr>
+						<tr height="362">
+							<td class="spacer2" valign="top" width="645" height="362">
+
+						<p><font size="-2">Episode 131 - The Bottle Deposit (1)<br>
+							
+						pc: 721, season 7, episode 21<br>
+							
+						Broadcast date: May 2, 1996<br>
+							
+						NOTE: Originally broadcast as part of a 60 min episode, with The Bottle Deposit (2)<br>
+							<br>
+							
+						Written by Gregg Kavet &amp; Andy Robin<br>
+							
+						Directed by Andy Ackerman<br>
+							<br>
+							
+						-------------------------------------------------------------------------------<br>
+							<br>
+							
+						The Cast<br>
+							
+						Regulars:<br>
+							
+						Jerry Seinfeld .......................&nbsp; Jerry Seinfeld<br>
+							
+						Jason Alexander ..................&nbsp; George Costanza<br>
+							
+						Julia Louis-Dreyfus .............&nbsp; Elaine Benes<br>
+							
+						Michael Richards .................&nbsp; Cosmo Kramer<br>
+							<br>
+							
+						Guest Stars:<br>
+							<br>
+							
+						Brad Garrett ........................ Tony<br>
+							
+						Brenda Strong ..................... Sue Ellen Mischke<br>
+							
+						Patrick Kerr ......................... Clerk<br>
+							
+						Harvey Jason ...................... Auctioneer<br>
+							
+						Larry Polson ........................ Homeless Guy<br>
+							
+						rc: Wayne Knight ................ Newman<br>
+							
+						rc: Richard Herd ................. Wilhelm<br>
+							
+						rc: John O'Hurley ................ J. Peterman<br>
+							<br>
+							
+						==================================================================<br>
+							<br>
+							
+						[Opening Monologue]<br>
+							<br>
+							
+						I love it when you get your car back from the car place, and it's got that paper mat on the floor. Like they're so obsessed with cleanliness, they don't even want their shoes to touch the carpet. Meanwhile, the mechanic comes out; he looks like Al Jolson. He's covered in goo, from head to toe. You can't even see him. Although, I prefer that to when they have the lab coat, The clipboard and the nice glasses. Now you know you're getting screwed. (as concerned car owner) 'Can I see it?' (as doctor-like mechanic) 'You better not. It's idling quietly right now. I think it should stay overnight. We wanna keep an eye on it, and we wanna keep the bill running up.'<br>
+							<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						[Yankee Stadium]<br>
+							<br>
+							
+						(Mr Wilhelm is hurrying along a corridor, with George trailing in his wake. As Wilhelm speaks, George is making notes onto a pad and looking flustered.)<br>
+							<br>
+							
+						WILHELM: And you can tell the players that I reimburse the trainer for the cigarettes and the dive checks.<br>
+							<br>
+							
+						GEORGE: Sorry, the players will be reimbursed?<br>
+							<br>
+							
+						WILHELM: The trainer, George. Tell the players I'll reimburse the trainer. What's the matter with you? This is the third time I've had to repeat myself.<br>
+							<br>
+							
+						GEORGE: Sorry, Mr Wilhelm.<br>
+							<br>
+							
+						WILHELM: Look, sorry doesn't cut it. We're running a ball club here George. You've got to pay attention.<br>
+							<br>
+							
+						GEORGE: I know, sir. It won't happen again.<br>
+							<br>
+							
+						WILHELM: Lemme see, I uh, I had an assignment for you... uh.<br>
+							<br>
+							
+						(Wilhelm wanders across the corridor, thinking to himself, he opens the door to the men's room and strolls through.)<br>
+							<br>
+							
+						WILHELM: Lemme think here.<br>
+							<br>
+							
+						(George starts to follow Wilhelm into the men's room, but thinks better of it. He wonders briefly what to do, then leans against the wall by the door, to await Wilhelm's return.)<br>
+							<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						[Elaine's Office]<br>
+							<br>
+							
+						(Elaine sits behind her desk working at her computer. Mr Peterman enters. He's carrying an auction house catalogue.)<br>
+							<br>
+							
+						PETERMAN: Elaine.<br>
+							<br>
+							
+						ELAINE: Hi, Mr Peterman.<br>
+							<br>
+							
+						PETERMAN: You know what a huge fan I am of John F Kennedy.<br>
+							<br>
+							
+						ELAINE: I do.<br>
+							<br>
+							
+						PETERMAN: It was the Peace Corps that gave me my start in this business. (nostalgic) Clothing the naked natives of Bantu Besh.<br>
+							<br>
+							
+						ELAINE: The pygmy pullover.<br>
+							<br>
+							
+						PETERMAN: Sotheby's is having an auction of JFK's memorabilia. One item in particular has caught my eye. The presidential golf clubs. To me, they capture that indefinable romance that was Camelot.<br>
+							<br>
+							
+						ELAINE: Whatever.<br>
+							<br>
+							
+						PETERMAN: But, unfortunately I will be out of town with my lady-friend and therefore unable to bid on the lot. I was hoping maybe you would go in my stead.<br>
+							<br>
+							
+						ELAINE: Oh. (pleasant surprise) Oh yeah, I'd be happy to. Uhm, how much d'you want this thing? (smilingly) I mean, you know, how high are you willing to go?<br>
+							<br>
+							
+						PETERMAN: I would see no trouble in spending up to, say, ten thousand dollars. Have my secretary give you a signed cheque.<br>
+							<br>
+							
+						(He drops the catalogue on the surprised Elaine's desk and exits.)<br>
+							<br>
+							
+						ELAINE: Wow.<br>
+							<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						[Yankee Stadium]<br>
+							<br>
+							
+						(George still waits outside the men's room. He's been waiting a while. He looks at his watch and decides to go in. As he enters, he finds Wilhelm emerging from a stall, and still talking.)<br>
+							<br>
+							
+						WILHELM: ...when you're done George, and bring it directly to me. Mr Steinbrenner is very interested in this.<br>
+							<br>
+							
+						(Wilhelm washes his hands, while George looks panicky and opts to bluff it out.)<br>
+							<br>
+							
+						GEORGE: Yes, sir.<br>
+							<br>
+							
+						WILHELM: (drying his hands and heading for the door) Yes, George. I want you to make this project a top priority.<br>
+							<br>
+							
+						GEORGE: I will, sir. Top priority.<br>
+							<br>
+							
+						WILHELM: (exiting) Top priority.<br>
+							<br>
+							
+						GEORGE: Top priority.<br>
+							<br>
+							
+						(George throws up his arms in despair.)<br>
+							<br>
+							<br>
+							<br>
+							
+						[Jerry's Apartment]<br>
+							<br>
+							
+						(Jerry and George stand. George is explaining what happened.)<br>
+							<br>
+							
+						GEORGE: So he walks out of the stall, he's been talking the whole time.<br>
+							<br>
+							
+						JERRY: He pulled an LBJ on you.<br>
+							<br>
+							
+						GEORGE: LBJ?<br>
+							<br>
+							
+						JERRY: Lyndon Johnson, used to do that to his staffers.<br>
+							<br>
+							
+						GEORGE: No kidding?<br>
+							<br>
+							
+						JERRY: Oh yeah. He'd hold national security meetings in there. He planned the Hanoi bombing after a bad Thai meal.<br>
+							<br>
+							
+						GEORGE: Well, I still don't know what I'm supposed to do. I don't even know what my assignment is.<br>
+							<br>
+							
+						JERRY: Ask him to repeat it. Tell him there was an echo in there.<br>
+							<br>
+							
+						GEORGE: I can't. He's been on my case about not paying attention. Besides, it's too late, I already told him I heard him.<br>
+							<br>
+							
+						JERRY: You know what you do? Ask him a follow-up question. Tell him you're having trouble getting started, and you want his advice.<br>
+							<br>
+							
+						GEORGE: Yeah, follow-up question, that'll work.<br>
+							<br>
+							
+						(The door opens and Kramer enters, followed by Newman. Kramer is carrying a large can of some foodstuff, from which he is eating the odd morsel. Newman has a pack of soda (mellow yellow?), and is swigging from one of the bottles.)<br>
+							<br>
+							
+						KRAMER: Hey buddy.<br>
+							<br>
+							
+						JERRY: Hey.<br>
+							<br>
+							
+						GEORGE: Hey.<br>
+							<br>
+							
+						JERRY: Can I have my keys...<br>
+							<br>
+							
+						KRAMER: (tossing car keys to Jerry) Yeah.<br>
+							<br>
+							
+						JERRY: (catching keys) ...back, please?<br>
+							<br>
+							
+						KRAMER: You shoulda come, Jerry.<br>
+							<br>
+							
+						NEWMAN: We made quite a haul.<br>
+							<br>
+							
+						GEORGE: Where'd you go?<br>
+							<br>
+							
+						KRAMER: Price club.<br>
+							<br>
+							
+						GEORGE: Why didn't you take your car?<br>
+							<br>
+							
+						KRAMER: Ah, the steering wheel fell off. I don't know where it is.<br>
+							<br>
+							
+						(Newman finishes his soda and drops the bottle in Jerry's bin.)<br>
+							<br>
+							
+						KRAMER: What're you doing. (fetching the bottle from the trash) Don't throw that away.<br>
+							<br>
+							
+						NEWMAN: Well, I'm not paying the five cents for that stupid recycling thing.<br>
+							<br>
+							
+						KRAMER: You don't pay five cents, you get five cents back. Here, read the label here. (reads from bottle) Vermont, Connecticut, Massachusetts, New York. Refund, (brings bottle up close to Newman's eyes) vrrup, five cents.<br>
+							<br>
+							
+						NEWMAN: (taking bottle) Refund?<br>
+							<br>
+							
+						KRAMER: Yes.<br>
+							<br>
+							
+						JERRY: Well, what d'you think the hoboes are doing?<br>
+							<br>
+							
+						NEWMAN: I don't know, they're deranged.<br>
+							<br>
+							
+						(Kramer and Newman sit on Jerry's couch. Kramer has TV Guide, Newman still reading the bottle.)<br>
+							<br>
+							
+						GEORGE: Awright, listen, can you uh, gimme a lift back to my place?<br>
+							<br>
+							
+						JERRY: No I can't. I gotta pick up Elaine. I'm taking her to this Kennedy auction.<br>
+							<br>
+							
+						GEORGE: Awright, I'll see you later.<br>
+							<br>
+							
+						(George leaves. Jerry exits to the bedroom.)<br>
+							<br>
+							
+						NEWMAN: (peering at bottle label) What is this 'MI, ten cents'?<br>
+							<br>
+							
+						KRAMER: That's Michigan. In Michigan you get ten cents.<br>
+							<br>
+							
+						NEWMAN: Ten cents!?<br>
+							<br>
+							
+						KRAMER: Yeah.<br>
+							<br>
+							
+						NEWMAN: Wait a minute. You mean you get five cents here, and ten cents there. You could round up bottles here and run 'em out to Michigan for the difference.<br>
+							<br>
+							
+						KRAMER: No, it doesn't work.<br>
+							<br>
+							
+						NEWMAN: What d'you mean it doesn't work? You get enough bottles together...<br>
+							<br>
+							
+						KRAMER: Yeah, you overload your inventory and you blow your margins on gasoline. Trust me, it doesn't work.<br>
+							<br>
+							
+						JERRY: (re-entering) Hey, you're not talking that Michigan deposit bottle scam again, are you?<br>
+							<br>
+							
+						KRAMER: No, no, I'm off that.<br>
+							<br>
+							
+						NEWMAN: You tried it?<br>
+							<br>
+							
+						KRAMER: Oh yeah. Every which way. Couldn't crunch the numbers. It drove me crazy.<br>
+							<br>
+							
+						JERRY: (leaving) You two keep an eye on each other?<br>
+							<br>
+							
+						NEWMAN/KRAMER: (simultaneous) No problem. You bet.<br>
+							<br>
+							
+						(Jerry exits, shaking his head.)<br>
+							<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						[Sotheby's]<br>
+							<br>
+							
+						(An auction room, with several rows of seating facing a platform with a lectern for the auctioneer. Many people sit or stand around, with catalogues and numbered paddles for making bids. Jerry and Elaine enter.)<br>
+							<br>
+							
+						JERRY: Are you sure you didn't hear my car making a funny noise? I know those two idiots did something to it.<br>
+							<br>
+							
+						ELAINE: No, I didn't hear anything. (she spots a familiar face) Oh, my God, look who's here.<br>
+							<br>
+							
+						JERRY: Sue Ellen Mishke, the braless 'O Henry' candy bar heiress.<br>
+							<br>
+							
+						(Sue Ellen notices them, and comes over.)<br>
+							<br>
+							
+						SUE ELLEN: Well. Hello Elaine. Jerry.<br>
+							<br>
+							
+						ELAINE: Hi Sue Ellen.<br>
+							<br>
+							
+						JERRY: Hi Sue Ellen.<br>
+							<br>
+							
+						SUE ELLEN: I'm surprised to see you here. Come to catch a glimpse of high society?<br>
+							<br>
+							
+						ELAINE: (faked laughter) Oh, ho ha ha. No, no, I'm actually here to bid, Sue Ellen. I mean that is if anything is to my liking.<br>
+							<br>
+							
+						JERRY: I'm here to catch a glimpse... of high society.<br>
+							<br>
+							
+						SUE ELLEN: Well, I hope you find something that fits your budget.<br>
+							<br>
+							
+						(Sue Ellen walks away to her seat. Elaine and Jerry make their way to their seats,)<br>
+							<br>
+							
+						ELAINE: (half under her breath and half to Jerry) I... hate that woman.<br>
+							<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						[Jerry's Apartment]<br>
+							<br>
+							
+						(Kramer and Newman are still on Jerry's couch. Kramer is watching TV, While Newman has been working something out on a pad.)<br>
+							<br>
+							
+						NEWMAN: I don't understand. You fill an eighteen-wheeler?<br>
+							<br>
+							
+						KRAMER: No, an eighteen-wheeler's no good. Too much overhead. You got permits, weigh-stations, tolls... Look, you're way outta your league.<br>
+							<br>
+							
+						NEWMAN: I wanna learn. I want to know why.<br>
+							<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						[Sotheby's]<br>
+							<br>
+							
+						(A bag of golf clubs is brought onto the platform.)<br>
+							<br>
+							
+						ELAINE: (loudly, for the benefit of Sue-Ellen) Oh. Those are handsome. Look at that set. Yeah, think I might bid on those.<br>
+							<br>
+							
+						AUCTIONEER: Lot number seven forty-five. We have a full set of golf clubs, that were owned by President John F Kennedy, as seen in the famous photograph of the president chipping at Burning Tree on the morning of the Bay of Pigs invasion. The set in perfect condition, and we will start the bidding at four thousand dollars. Four thousand dollars? Do I have four thousand dollars?<br>
+							<br>
+							
+						(A man behind Elaine raises his paddle to bid.)<br>
+							<br>
+							
+						AUCTIONEER: I have four thousand dollars. Do I have five? (another person bids) Five thousand dollars. I have five thousand dollars. Do I have six? Six thousand dollars for this set of beautiful clubs. (another bid) Six. I have six thousand dollars. Can I have sixty-five hundred?<br>
+							<br>
+							
+						(Elaine raises her paddle to bid.)<br>
+							<br>
+							
+						AUCTIONEER: Sixty-five hundred to the dark-haired person on the right. We are at sixty-five hundred, do I hear sixty-six hundred?<br>
+							<br>
+							
+						(Sue-Ellen looks thoughtful.)<br>
+							<br>
+							
+						AUCTIONEER: The president's own golf clubs. Leisure life at Camelot. Sixty-five hundred going once...<br>
+							<br>
+							
+						(Jerry and Elaine think they've got them.)<br>
+							<br>
+							
+						SUE ELLEN: Eight thousand.<br>
+							<br>
+							
+						AUCTIONEER: Eight thousand. We have eight thousand. The bid is now eight thousand dollars.<br>
+							<br>
+							
+						ELAINE: (to Jerry) What is she doing? She's starting in on the bidding now? (to Auctioneer) Eighty-five hundred!<br>
+							<br>
+							
+						AUCTIONEER: We have eighty-five...<br>
+							<br>
+							
+						SUE ELLEN: Nine thousand.<br>
+							<br>
+							
+						AUCTIONEER: Nine thousand dollars.<br>
+							<br>
+							
+						JERRY: Think she wants those clubs.<br>
+							<br>
+							
+						AUCTIONEER: Do I hear ninety-five? Ninety-five hundred...<br>
+							<br>
+							
+						ELAINE: Ninety-five hundred.<br>
+							<br>
+							
+						SUE ELLEN: Ten thousand.<br>
+							<br>
+							
+						AUCTIONEER: Ten thousand, to the shapely woman on the left. Ten thousand going once...<br>
+							<br>
+							
+						JERRY: Well, that's your ceiling.<br>
+							<br>
+							
+						AUCTIONEER: Ten thousand going twice...<br>
+							<br>
+							
+						(Sue Ellen looks over at Elaine, with a smirk.)<br>
+							<br>
+							
+						ELAINE: (determined) Eleven thousand!<br>
+							<br>
+							
+						SUE ELLEN: Twelve thousand.<br>
+							<br>
+							
+						ELAINE: (angrier) Thirteen thousand!<br>
+							<br>
+							
+						SUE ELLEN: Fourteen thousand.<br>
+							<br>
+							
+						ELAINE: (vicious) Fifteen thousand!!<br>
+							<br>
+							
+						(Jerry buries his face in his hands.)<br>
+							<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						[Jerry's Car]<br>
+							<br>
+							
+						(Jerry is driving Elaine home. In the back seat, the golf clubs can be seen. There is a persistent clunking sound coming from the car.)<br>
+							<br>
+							
+						ELAINE: Peterman is gonna kill me.<br>
+							<br>
+							
+						JERRY: I really thought you had her there at seventeen thousand.<br>
+							<br>
+							
+						ELAINE: Why didn't you stop me?<br>
+							<br>
+							
+						JERRY: Do you hear this clunking?<br>
+							<br>
+							
+						ELAINE: (listening) A little.<br>
+							<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						[Jerry's Car, later]<br>
+							<br>
+							
+						(The Saab halts outside Elaine's apartment building.)<br>
+							<br>
+							
+						ELAINE: Oh. You know what? (indicates clubs) I'm gonna grab these from you later. You'll take care of 'em, okay? Okay. See you tomorrow.<br>
+							<br>
+							
+						JERRY: Okay.<br>
+							<br>
+							
+						ELAINE: Alrighty, bye.<br>
+							<br>
+							
+						JERRY: Bye.<br>
+							<br>
+							
+						(Elaine leaves the car and walks away. Jerry restarts the car, when he notices steam and smoke emerging from under the hood.)<br>
+							<br>
+							
+						JERRY: What's going on here?<br>
+							<br>
+							
+						(Jerry gets out of the car and runs to raise the hood.)<br>
+							<br>
+							
+						JERRY: Oh God!<br>
+							<br>
+							
+						(Jerry opens the hood of his car. As the smoke and steam clears, it becomes clear there are a variety of comestibles arranged on and around the engine compartment.)<br>
+							<br>
+							
+						JERRY: (angry) Oh, you idiots!<br>
+							<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						[Jerry's Apartment]<br>
+							<br>
+							
+						(Kramer and Newman still occupy the couch.)<br>
+							<br>
+							
+						NEWMAN: So we could put the bottles in a U-haul. You know, go lean and mean?<br>
+							<br>
+							
+						KRAMER: Newman, it's a dead-end, c'mon. (Jerry enters) Hey, there he is.<br>
+							<br>
+							
+						JERRY: Hey. You put your groceries under the hood of my car?<br>
+							<br>
+							
+						KRAMER: (to Newman) Aw, that's right, we forgot about those.<br>
+							<br>
+							
+						NEWMAN: (to Kramer) That's where my missing soda is.<br>
+							<br>
+							
+						JERRY: And your crab legs, and a thing of cheese. The Triple-A guy said I was this close to sucking a muffin down the carburetor. What were you thinking?<br>
+							<br>
+							
+						KRAMER: We ran outta space.<br>
+							<br>
+							
+						JERRY: Now I gotta take the car down to Tony and get it checked out.<br>
+							<br>
+							
+						KRAMER: Ah, Tony, he's good.<br>
+							<br>
+							
+						JERRY: Yeah, he's real good. But he's so obsessive about the car. He makes me feel guilty about every little thing that's wrong with it. I gotta get it washed before I bring it down to him, or I'm afraid he'll yell at me.<br>
+							<br>
+							
+						KRAMER: (offering the artichoke can) 'Choke?'<br>
+							<br>
+							
+						JERRY: No, thank you.<br>
+							<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						[Auto Shop]<br>
+							<br>
+							
+						(Jerry and Tony stand beside the Saab. Jerry looks worried and Tony is looking like he's in love with the car. He runs his hands over the roof and along the lines of the bodywork. Tony is a little intense.)<br>
+							<br>
+							
+						TONY: (lovingly) Oh, yeah. I remember this car. Beautiful car.<br>
+							<br>
+							
+						JERRY: Yeah. So, anyway, the engine's been idling a little rough. I thought it might be time for a check up...<br>
+							<br>
+							
+						(Tony isn't hearing Jerry. He climbs into the driver's seat and begins ferreting about.)<br>
+							<br>
+							
+						JERRY: There's really nothing wrong on the inside.<br>
+							<br>
+							
+						TONY: Well, the shift knob is loose. You know about that?<br>
+							<br>
+							
+						JERRY: No, I hadn't noticed.<br>
+							<br>
+							
+						TONY: (accusingly) Have you been picking at it?<br>
+							<br>
+							
+						JERRY: Have I been picking at it? No. You know. It's just wear and tear.<br>
+							<br>
+							
+						TONY: (disapprovingly) Wear and tear. I see.<br>
+							<br>
+							
+						JERRY: The engine is really the only thing that needs checking.<br>
+							<br>
+							
+						TONY: You been rotating the tires?<br>
+							<br>
+							
+						JERRY: Try to.<br>
+							<br>
+							
+						TONY: (sharp) You don't try to. You do it! Fifty-one percent of all turns are right turns. You know that? 'Try to.'<br>
+							<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						[Elaine's Office]<br>
+							<br>
+							
+						PETERMAN: Twenty thousand dollars!?! Elaine, that's twice the amount I authorised you to spend.<br>
+							<br>
+							
+						ELAINE: I know, Mr Peterman, but but but but once I saw them, I just couldn't stand to let anyone else have them. (warming to her subject) You know, certainly not some stuck-up candy bar heiress who shamelessly flaunts herself in public without any regard...<br>
+							<br>
+							
+						PETERMAN: Well, where are they?<br>
+							<br>
+							
+						ELAINE: (ingratiatingly) They should be here today.<br>
+							<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						[George's Office]<br>
+							<br>
+							
+						(George stands, silently rehearsing his follow-up question. Wilhelm walks by the window, down the corridor. George takes the plunge.)<br>
+							<br>
+							
+						GEORGE: Uh, Mr Wilhelm.<br>
+							<br>
+							
+						WILHELM: (entering the office) Yes George.<br>
+							<br>
+							
+						GEORGE: Hi, I was just uh... I just had one little question about uh, my assignment.<br>
+							<br>
+							
+						WILHELM: Yes, well I trust things are moving smoothly. Mr Steinbrenner's counting on you, you know.<br>
+							<br>
+							
+						GEORGE: Yes, yes. Very smooth, super smooth. No, but I really wanna attack this thing, you know. Sink my teeth into it. So I was just wondering... what do you think would be the very best way to get started?<br>
+							<br>
+							
+						WILHELM: (confusion) Get started? I don't understand, George.<br>
+							<br>
+							
+						GEORGE: Well, I was wondering...<br>
+							<br>
+							
+						WILHELM: You mean you haven't been to payroll?<br>
+							<br>
+							
+						GEORGE: Payroll? No, no, I haven't done that.<br>
+							<br>
+							
+						WILHELM: Well, what's the problem? Now come on George. I told the big man you were moving on this. Now, don't let him down!<br>
+							<br>
+							
+						(Wilhelm leaves.)<br>
+							<br>
+							
+						GEORGE: Payroll!!<br>
+							<br>
+							
+						(George grabs his jacket, races to the door, checks Wilhelm has gone, and darts off down the corridor.)<br>
+							<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						[Yankee Stadium: Payroll Office]<br>
+							<br>
+							
+						(A meek looking clerk sits behind a counter. George enters.)<br>
+							<br>
+							
+						GEORGE: Hello there. I'm George Costanza.<br>
+							<br>
+							
+						CLERK: Yes?<br>
+							<br>
+							
+						GEORGE: Assistant to the travelling secretary. (fishing for a reaction) I'm uh, working on the project.<br>
+							<br>
+							
+						CLERK: What project?<br>
+							<br>
+							
+						GEORGE: Payroll project. Wilhelm? Big uh, big payroll project.<br>
+							<br>
+							
+						CLERK: You're gonna have to fill me in.<br>
+							<br>
+							
+						GEORGE: You know what, I'll just uh, I'll just look around for a little while. (moving to come round the counter) I'll just browse around.<br>
+							<br>
+							
+						CLERK: (blocking George) Hey, wait, hey. Excuse me, uh, you can't come back here.<br>
+							<br>
+							
+						GEORGE: Look, I am under direct orders from Mr Wilhelm. So if you have a problem with that, maybe you should just take it up with him.<br>
+							<br>
+							
+						CLERK: Well, maybe I will.<br>
+							<br>
+							
+						GEORGE: (spotting possible salvation) You know what, I urge you to take it up with him. Go ahead, give him a call, he'll tell you what I'm doing here. (half to himself) Then you can tell me.<br>
+							<br>
+							
+						CLERK: (on phone) Mr Wilhelm, uh, this is Lafarge in payroll. Uh, there's a Costanza here, says he's working on some project?<br>
+							<br>
+							
+						(George is leaning across the counter, trying to hear Wilhelm's side of the converstion.)<br>
+							<br>
+							
+						CLERK: (on phone) Oh. (he swaps the phone to his other ear) Oh, I see. (listens) Interesting. (listens) Well, that's quite a project. Alright, thank you.<br>
+							<br>
+							
+						(The clerk puts down the phone. George looks expectant.)<br>
+							<br>
+							
+						CLERK: (apologetically) Ah, I'm sorry uh, that I doubted you. Whatever you need, just uh, make yourself at home.<br>
+							<br>
+							
+						GEORGE: So he explained it all to you?<br>
+							<br>
+							
+						CLERK: Yes, he explained it all very clearly.<br>
+							<br>
+							
+						GEORGE: What'd he tell you?<br>
+							<br>
+							
+						CLERK: (upset) Look! You were right, I was wrong! You don't have to humiliate me about it, alright!<br>
+							<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						[Newman's Apartment}<br>
+							<br>
+							
+						(Newman sits on his couch. He's using an old mechanical adding machine and a pad to work on permutations for the 'Michigan deposit bottle scam'. There are spools of used paper from the adding machine all over the table and maps of the northeastern states of the US pinned up on the wall. He taps out a series of number, pulls the handle and reads the result, then looks at what he's written on his pad.)<br>
+							<br>
+							
+						NEWMAN: Damn!<br>
+							<br>
+							
+						(Frustrated, he sits back. He notices a framed photograph of his mother. A thought occurs.)<br>
+							<br>
+							
+						NEWMAN (V.O.): Oh, Mother's Day. (inspiration strikes) Wait a second. Mother's Day?!<br>
+							<br>
+							
+						(He starts typing figures into the adding machine rapidly. He mouths numbers to himself, shrugging as he makes estimates. When he finishes he tears the paper strip from the machine, compares it to figures on his pad.)<br>
+							<br>
+							
+						NEWMAN: (triumphant) Yessss!<br>
+							<br>
+							
+						(In celebration he swigs from a bottle of soda.)<br>
+							<br>
+							
+						NEWMAN: Ahaha!<br>
+							<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						[Hallway]<br>
+							<br>
+							
+						(Newman hurries up to Kramer's door and hammers on it with his fist. He waits a few seconds, then impatiently hammers again.)<br>
+							<br>
+							
+						NEWMAN: Come on Kramer!<br>
+							<br>
+							
+						(The door opens to reveal Kramer midway through a shave, holding a razor, with foam on his face.)<br>
+							<br>
+							
+						KRAMER: Wha...?<br>
+							<br>
+							
+						NEWMAN: It's the truck, Kramer. The truck!<br>
+							<br>
+							
+						KRAMER: Look, Newman, I told you to let this thing go.<br>
+							<br>
+							
+						NEWMAN: No, no, no, no no. Listen to me. Most days, the post office sends one truckload of mail to the second domestic regional sorting facility in Sagenaw, Michigan.<br>
+							<br>
+							
+						KRAMER: (interested) Uh-huh.<br>
+							<br>
+							
+						NEWMAN: But, on the week before holidays, we see a surge. On alentine's Day, we send two trucks. On Christmas, four, packed to the brim. And tomorrow, if history is any guide, will see some spillover into a fifth truck.<br>
+							<br>
+							
+						KRAMER: (realisation) Mother's Day.<br>
+							<br>
+							
+						NEWMAN: The mother of all mail days. And guess who signed up for the truck.<br>
+							<br>
+							
+						KRAMER: A free truck? Oh boy, that completely changes our cost structure. Our G and A goes down fifty percent.<br>
+							<br>
+							
+						NEWMAN: (excited) We carry a coupla bags of mail, and the rest is ours!<br>
+							<br>
+							
+						KRAMER: Newman, you magnificent bastard, you did it!<br>
+							<br>
+							
+						NEWMAN: (triumph) Let the collecting begin!<br>
+							<br>
+							
+						(They embrace joyfully.)<br>
+							<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						[Montage of scenes]<br>
+							<br>
+							
+						(A woman puts a soda can on top of a mail box while she reaches into her bag for something to post. A hand reaches from behind the box, picks up the can and disappears back behind the box. The woman is flummoxed by the can's disappearance. Newman stands nonchalantly beside a dumpster with a plastic sack containing some bottles and cans. In the dumpster, Kramer roots about beneath the plastic and cardboard, before coming up and handing a bottle to Newman, who drops it into his sack. In Monk's, a waitress puts a tray of empty bottle onto a shelf behind Kramer, who's eating a meal. As she leaves, he reaches behind him, takes the tray and tips the bottles into another plastic sack. Newman stands in a doorway on the street. A homeless guy pushes a shopping cart full of bottles and cans past. Newman drops a few coins onto the sidewalk, attracting the attention of the homeless guy, who leaves his cart to retrieve the change. Newman darts from the doorway, grabs hold of the cart and races away down the street, leaving the homeless guy shaking a fist and yelling after him. Newman finishes a bottle of soda and hands the empty to Kramer, who hands another bottle to Newman. There's a long line of empty bottles already on the table and Newman's looking close to capacity. As Newman reluctantly begins to drink this latest one, Kramer opens another and taps him on the stomach, causing Newman to splutter and spray soda across the table. A cigar-smoking Kramer and a gleeful Newman, regard the back of a mail truck, filled with plastic sacks of bottles and cans. They slap palms and shake hands as Kramer pulls down the door and flips the handle closed.)<br>
+							<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						[Yankee Stadium: George's Office]<br>
+							<br>
+							
+						(George has his head down on his desk. Wilhelm walks jauntily along the corridor and enters the office.)<br>
+							<br>
+							
+						WILHELM: So...<br>
+							<br>
+							
+						(George snaps awake.)<br>
+							<br>
+							
+						WILHELM: ...did you go down to payroll?<br>
+							<br>
+							
+						GEORGE: (standing) Yes, payroll. Yes I did. Very productive. Payroll... Paid off.<br>
+							<br>
+							
+						WILHELM: (pleased) Well then, I guess you'll be heading downtown then, huh?<br>
+							<br>
+							
+						GEORGE: Oh, yeah. Downtown. Definitely.<br>
+							<br>
+							
+						WILHELM: Well, I'm very interested to see how this thing turns out.<br>
+							<br>
+							
+						GEORGE: (to himself) Yeah, you said it. (to Wilhelm) Uh, excuse me, Mr Wilhelm. Uh, do you really think... Well, is this downtown trip really necessary, you know, for the project?<br>
+							<br>
+							
+						WILHELM: Oh no, you've got to go downtown, George. It's all downtown. Just like the song says.<br>
+							<br>
+							
+						GEORGE: The song?<br>
+							<br>
+							
+						WILHELM: There's your answer. Downtown.<br>
+							<br>
+							
+						(Wilhelm leaves.)<br>
+							<br>
+							
+						GEORGE: (thoughtful) Downtown.<br>
+							<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						[Monk's]<br>
+							<br>
+							
+						(George and Jerry in a booth.)<br>
+							<br>
+							
+						JERRY: The song Downtown? You mean the Petula Clark song?<br>
+							<br>
+							
+						GEORGE: Yeah.<br>
+							<br>
+							
+						JERRY: You sure he didn't just mention it because you happened to be going downtown?<br>
+							<br>
+							
+						GEORGE: I think he was trying to tell me something, like it had some sort of a meaning.<br>
+							<br>
+							
+						JERRY: Okay, so how does it go?<br>
+							<br>
+							
+						GEORGE: 'When you're alone, and life is making you lonely, you can always go...'<br>
+							<br>
+							
+						JERRY: '... downtown.'<br>
+							<br>
+							
+						GEORGE: 'Maybe you know some little places to go, where they never close...'<br>
+							<br>
+							
+						JERRY: '...downtown.'<br>
+							<br>
+							
+						GEORGE: Wait a second. 'Little places to go, where they never close.' What's a little place that never closes?<br>
+							<br>
+							
+						JERRY: Seven-eleven?<br>
+							<br>
+							
+						GEORGE: 'Just listen to the music of the traffic, in the city. Linger on the sidewalk, where the neon lights are pretty.' Where the neon lights are pretty. The Broadway area?<br>
+							<br>
+							
+						JERRY: No, that's midtown.<br>
+							<br>
+							
+						GEORGE: 'The lights are much brighter there. You can forget all your troubles, forget all your cares, just go...'<br>
+							<br>
+							
+						JERRY: '...down town.'<br>
+							<br>
+							
+						GEORGE: 'Things'll be great, when you're...'<br>
+							<br>
+							
+						JERRY: '...downtown.'<br>
+							<br>
+							
+						GEORGE: I got nothing, Jerry. Nothing.<br>
+							<br>
+							
+						JERRY: Well, 'don't hang around and let your troubles surround you. There are movie shows...'<br>
+							<br>
+							
+						GEORGE: You think I should come clean? What d'you think, you think I Should confess?<br>
+							<br>
+							
+						JERRY: How can you lose?<br>
+							<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						[Jerry's Apartment/Elaine's Office]<br>
+							<br>
+							
+						(Jerry enters. He goes to his answering machine and plays the messages.)<br>
+							<br>
+							
+						TONY (O.S.): Yeah, Jerry, it's Tony Abato at the shop. Look, we gotta talk. You better come down, any time after four.<br>
+							<br>
+							
+						(Jerry looks less than happy at the prospect. The phone rings, and Jerry answers.)<br>
+							<br>
+							
+						JERRY: Hello.<br>
+							<br>
+							
+						ELAINE: Hi, it's me.<br>
+							<br>
+							
+						JERRY: Oh, hi.<br>
+							<br>
+							
+						ELAINE: Listen, I need to come over and pick up the clubs for Peterman.<br>
+							<br>
+							
+						JERRY: Oh, you know what?<br>
+							<br>
+							
+						ELAINE: (worry) Oh no. What?<br>
+							<br>
+							
+						JERRY: Oh, no. It's no big deal. I left the clubs in the car.<br>
+							<br>
+							
+						ELAINE: You left them in the car? How could you leave them in the car?<br>
+							<br>
+							
+						JERRY: I forgot.<br>
+							<br>
+							
+						ELAINE: Oh, go down and get them.<br>
+							<br>
+							
+						JERRY: I can't. The car's at the mechanics.<br>
+							<br>
+							
+						ELAINE: Ah, this is great. Alright, well, where is the mechanic? I'll just go and pick 'em up myself.<br>
+							<br>
+							
+						JERRY: No, no, you can't. He's working on the car right now. You can not disturb him while he's working. But I'm going down there in like an hour, if you wanna meet me down there. You know the place, it's on fifty-sixth street?<br>
+							<br>
+							
+						ELAINE: (resigned) Ugh, okay, alright, fine.<br>
+							<br>
+							
+						&nbsp;<br>
+							<br>
+							
+						[Outside Auto Shop]<br>
+							<br>
+							
+						(Jerry looks a touch anxious as Tony approaches. Tony is still real intense.)<br>
+							<br>
+							
+						JERRY: Hey, Tony.<br>
+							<br>
+							
+						TONY: Thanks for coming in, Jerry.<br>
+							<br>
+							
+						JERRY: Sure.<br>
+							<br>
+							
+						TONY: I think I know what's goin' on here, and I just wanna hear it from you. But I want you to be straight with me. Don't lie to me, Jerry. You know that motor oil you're puttin' in there? (reproachful) From one of those quicky lube places, isn't it?<br>
+							<br>
+							
+						JERRY: Well, I change it so often, I mean to come all the way down here...<br>
+							<br>
+							
+						TONY: Jerry, motor oil is the lifeblood of a car. Okay, you put in a low-grade oil, you could damage vital engine parts. Okay. (holds up component) See this gasket? (throws it down) I have no confidence in that gasket.<br>
+							<br>
+							
+						JERRY: I really wanna...<br>
+							<br>
+							
+						TONY: Here's what I wanna do. I wanna overhaul the entire engine. But it's gonna take a major commitment from you. You're gonna have to keep it under sixty miles an hour for a while. You gotta come in, and you gotta get the oil changed every thousand miles.<br>
+							<br>
+							
+						JERRY: How much money is this gonna cost me?<br>
+							<br>
+							
+						TONY: (contempt) Huh. I don't understand you. It's your own car we're talking about. You know you wrote the wrong mileage down on the form? You barely know the car. You don't know the mileage, you don't know the tyre pressure. When was the last time you even checked the washer fluid?<br>
+							<br>
+							
+						JERRY: The washer fluid is fine.<br>
+							<br>
+							
+						TONY: (angry) The washer fluid is not fine!<br>
+							<br>
+							
+						JERRY: Alright, you know what, uhm... I just wanna take my car, and I'm gonna bring it someplace else.<br>
+							<br>
+							
+						TONY: What d'you mean?<br>
+							<br>
+							
+						JERRY: Just, can I have my car? I wanna pay my bill, I'm gonna be on my way.<br>
+							<br>
+							
+						TONY: Well, the car's on a lift.<br>
+							<br>
+							
+						JERRY: Well, just get it down.<br>
+							<br>
+							
+						TONY: (subdued) Alright. Okay. Well, uhm, wait here and I'll uh, I'll bring it around.<br>
+							<br>
+							
+						JERRY: Okay. Thank you, very much.<br>
+							<br>
+							
+						(Tony walks away into the auto shop. Elaine arrives.)<br>
+							<br>
+							
+						ELAINE: Hey. Where's the car?<br>
+							<br>
+							
+						JERRY: He's bringing it.<br>
+							<br>
+							
+						ELAINE: Good.<br>
+							<br>
+							
+						(There is the sound of a car starting up, then a squeal of tires and Jerry's Saab emerges from the auto shop at high speed. It passes Jerry and Elaine and Races away down the street. They stare open-mouthed after the car, and at each other in astonishment.)<br>
+							<br>
+							<br>
+							
+						[...to be continued]</td>
+						</tr>
+						<tr height="6">
+							<td class="bottom2" width="645" height="6"></td>
+						</tr>
+						<tr>
+							<td width="645">
+								<div align="center">
+									<font size="-1">Copyright 2006 seinology.com | All Rights Reserved | Designed by 13erla</font></div>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+		<p></p>
+	</body>
+
+</html>
