@@ -31,10 +31,11 @@ def magic(start_num):
 	for num in range(start_num, end_num+1):
 		global counter
 	 	counter = num
-
+	 	# if the episode number is a duplicate, go on to the next episode number
 		if num in duplicates:
 			continue
 		else:
+			# open the file we're working with, read it (which makes it a string), and save it the contents variable
 			contents = open("Seinfeld " + str(num) + ".txt").read()
 		
 		# uses the find_nth function to find the second instance of " - ", which is nearby the title of the script
@@ -117,21 +118,10 @@ def magic(start_num):
 		else:
 			episode = "s9e" + str(season9.index(num)+1)
 
-		# open a file with the designated title in writing mode
-		f = open("output\\SF " + str(num) + " " + episode + " - " + title + ".txt", 'w')
+		# open a file with the designated title in writing mode. Save files in teh output directory
+		f = open("output\\SF" + str(num) + " " + episode + " - " + title + ".txt", 'w')
 		# write the script to the file
 		f.write(output)
 		f.close()
 
 magic(start_num)
-
-if end_num == 180:
-	try:
-	 	fil = open("Seinfeld s9e23 179 - The Finale (1).txt", 'r') 
-
-		if True:
-			print "Ending..."
-
-	except:
-		print "Continuing..."
-		magic(counter+1)	
