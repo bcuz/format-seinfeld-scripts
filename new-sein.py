@@ -35,37 +35,37 @@ def magic(start_num):
 		if num in duplicates:
 			continue
 		else:
-			webpage = open("Seinfeld " + str(num) + ".txt").read()
+			contents = open("Seinfeld " + str(num) + ".txt").read()
 		
 		# uses the find_nth function to find the second instance of " - ", which is nearby the title of the script
-		find_title = find_nth(webpage, " - ") 
-		# finds the "-" character in the webpage, but it starts looking at the point where find_title is found. 
+		find_title = find_nth(contents, " - ") 
+		# finds the "-" character in the contents, but it starts looking at the point where find_title is found. 
 		# So we're really only moving the cursor from the first character of " - " to the "-" character itself
 		# this can probably be deleted actually, and more added to begin_title (which would become find_title) below
-		begin_title = webpage.lower().find("-", find_title)
+		begin_title = contents.lower().find("-", find_title)
 		# find where the title grabbing will stop. Starts searching after the index given by begin_title
-		end_title = webpage.find("<", begin_title+1)
+		end_title = contents.find("<", begin_title+1)
 
 		# the title starts to be grabbed at the character right after "- " and ends being extracted at the character
 		# right before "<"
-		title = webpage[begin_title+2:end_title]
+		title = contents[begin_title+2:end_title]
 
 		#find the index where the scripts begin
-		find_script = webpage.find("=====<br>")
+		find_script = contents.find("=====<br>")
 		
 		# if "=====<br>" is not found, look for "=&nbsp;<br>", which is how two episodes are formatted instead
 		if find_script == -1:
-			find_script = webpage.find("=&nbsp;<br>")
+			find_script = contents.find("=&nbsp;<br>")
 		if find_script == -1:
-			find_script = webpage.find("=</font></p>")	
+			find_script = contents.find("=</font></p>")	
 
 		#go to the last character of find_script	
-		begin_script = webpage.find(">", find_script)
+		begin_script = contents.find(">", find_script)
 		#start looking for the end of script after the index of begin_script. Episodes end when there's a </td>
-		end_script = webpage.lower().find("</td>", begin_script+1)
+		end_script = contents.lower().find("</td>", begin_script+1)
 		# the script starts at the character after ">" and ends at the character just befoer </td> This extracts
 		# all the information between these two points
-		output = webpage[begin_script+1:end_script]
+		output = contents[begin_script+1:end_script]
 
 		# tidying up the script contents
 		replace_with_quote = ["&quot;", "&#148;", "&#147;"]
