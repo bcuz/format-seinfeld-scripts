@@ -63,6 +63,8 @@ def magic(start_num):
 		# if "=====<br>" is not found, look for "=&nbsp;<br>", which is how two episodes are formatted instead
 		if find_script == -1:
 			find_script = webpage.find("=&nbsp;<br>")
+		if find_script == -1:
+			find_script = webpage.find("=</font></p>")	
 
 		#go to the last character of find_script	
 		begin_script = webpage.find(">", find_script)
@@ -73,14 +75,19 @@ def magic(start_num):
 		output = webpage[begin_script+1:end_script]
 
 		# tidying up the script contents
-		replace_with_quote = ["&quot;", "&#148;", "&#147;"]
+		replace_with_quote = ["&quot;", "&#148;", "&#147;", ]
 
 		for special_char in replace_with_quote:
-			output = output.replace(special_char, "\"")
+			output = output.replace(special_char, '"')
 
 		output = output.replace("\t", "")
 		output = output.replace("<br>", "")
 		output = output.replace("&nbsp;", "") # this might cause problems, but for now it gets rid of special code
+		output = output.replace('<font size="-2">', "")
+		output = output.replace('</font>', "")
+		output = output.replace('<p>', "")
+		output = output.replace('</p>', "") 
+		output = output.replace("&rsquo;", "'")
 		output = output.replace("&#146;", "'")
 		output = output.replace("&#145;", "'")
 		output = output.replace("&#150;", "-")
@@ -119,7 +126,7 @@ def magic(start_num):
 			episode = "s9e" + str(season9.index(num)+1)
 
 		# open a file with the designated title in writing mode
-		f = open("Seinfeld " + episode + " - " + title + ".txt", 'w')
+		f = open("Seinfeld " + episode + " " + str(num) + " - " + title + ".txt", 'w')
 		# write the script to the file
 		f.write(output)
 		f.close()
