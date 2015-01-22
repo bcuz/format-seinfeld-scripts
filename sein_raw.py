@@ -57,13 +57,19 @@ def magic(start_num):
 
 magic(start_num)
 
+# Test to see if all the files have been downloaded, if a request to go all the way to the last
+# episode has been made. 
 if end_num == 180:
 	try:
+		# attempts to open the last episode that should've been created
 	 	fil = open("Seinfeld 179.txt", 'r') 
 
+	 	# if the file is found, the program ends
 		if True:
 			print "Ending..."
 
+	# if the file isn't found, we run the function again, starting from the episode after 
+	# the process stopped		
 	except:
 		print "Continuing..."
 		magic(counter+1)	
