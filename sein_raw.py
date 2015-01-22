@@ -48,47 +48,6 @@ def magic(start_num):
 		else:
 			webpage = urllib.urlopen("http://www.seinology.com/scripts/script-" + str(num) + ".shtml").read()
 
-		find_title = find_nth(webpage, " - ") 
-		# finds the "-" character in the webpage, but it starts looking at the point where find_title is found. 
-		# So we're really only moving the cursor from the first character of " - " to the "-" character itself
-		# this can probably be deleted actually, and more added to begin_title (which would become find_title) below
-		begin_title = webpage.lower().find("-", find_title)
-		# find where the title grabbing will stop. Starts searching after the index given by begin_title
-		end_title = webpage.find("<", begin_title+1)
-
-		# the title starts to be grabbed at the character right after "- " and ends being extracted at the character
-		# right before "<"
-		title = webpage[begin_title+2:end_title]			
-
-		season1 = range(1, 6)
-		season2 = range(6, 18)
-		season3 = range(18, 41)
-		season4 = range(41, 65)
-		season5 = range(65, 87)
-		season6 = range(87, 111)
-		season7 = range(111, 135)
-		season8 = range(135, 157)
-		season9 = range(157, 181)
-
-		if num in season1:
-			episode = "s1e" + str(season1.index(num)+1)
-		elif num in season2:
-			episode = "s2e" + str(season2.index(num)+1)
-		elif num in season3:
-			episode = "s3e" + str(season3.index(num)+1)
-		elif num in season4:
-			episode = "s4e" + str(season4.index(num)+1)
-		elif num in season5:
-			episode = "s5e" + str(season5.index(num)+1)
-		elif num in season6:
-			episode = "s6e" + str(season6.index(num)+1)
-		elif num in season7:
-			episode = "s7e" + str(season7.index(num)+1)
-		elif num in season8:
-			episode = "s8e" + str(season8.index(num)+1)
-		else:
-			episode = "s9e" + str(season9.index(num)+1)
-
 		# open a file with the designated title in writing mode
 		f = open("Seinfeld " + str(num) + ".txt", 'w')
 		# write the script to the file
