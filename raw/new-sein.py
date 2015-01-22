@@ -22,26 +22,17 @@ if end_num == 0:
 def find_nth(str1, substr1):
   return str1.find(substr1,str1.find(substr1)+1)
 
-# episodes that have the same link and are wierdly conjoined like "82and83"
-conjoined = [82, 100, 177, 179]
 # the first script saved is start_num, and the last script saved is end_num - 1
 # since range stops at the number before second in range(first, second)
 def magic(start_num):
 	for num in range(start_num, end_num+1):
 		global counter
 	 	counter = num
-		# deals with the conjoined scripts
-		if num in conjoined:
-			webpage = open("http://www.seinology.com/scripts/script-" + str(num) + "and" + str(num+1) + ".shtml").read()
-		# if the episode number is a duplicate, go on to the next episode number
-		elif num in duplicates:
+
+		if num in duplicates:
 			continue
-		# deals with scripts 1-9, which are formatted like script-01		
-		elif num in range(1, 10):
-			webpage = urllib.urlopen("http://www.seinology.com/scripts/script-0" + str(num) + ".shtml").read()		
-		# deals with the rest of the episodes
 		else:
-			webpage = urllib.urlopen("http://www.seinology.com/scripts/script-" + str(num) + ".shtml").read()
+			webpage = open("Seinfeld " + str(num) + ".txt").read()
 		
 		# uses the find_nth function to find the second instance of " - ", which is nearby the title of the script
 		find_title = find_nth(webpage, " - ") 
@@ -124,18 +115,20 @@ def magic(start_num):
 			episode = "s9e" + str(season9.index(num)+1)
 
 		# open a file with the designated title in writing mode
-		f = open("Seinfeld " + episode + " " + str(num) + " - " + title + ".txt", 'w')
+		f = open("output\\Seinfeld " + episode + " " + str(num) + " - " + title + ".txt", 'w')
 		# write the script to the file
 		f.write(output)
 		f.close()
 		# need to open it according to the title. Maybe I should simply have the raw html saved without 
-		# the title? Definitely has to be in a different order. How do I grab the title without going online?
+		# the title? Definitely has to be in a different order. How do I grab the title without going online? Need
+		# to open the file to get it's title though. What if it didn't have a title? If it was just 1, 2, 3
+		# could probably figure out how to do it without using urllib again. If i had a list of all the seinfeld episodes
 
 magic(start_num)
 
 if end_num == 180:
 	try:
-	 	fil = open("Seinfeld s9e23 - The Finale (1).txt", 'r') 
+	 	fil = open("Seinfeld s9e23 179 - The Finale (1).txt", 'r') 
 
 		if True:
 			print "Ending..."
