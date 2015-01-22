@@ -122,10 +122,6 @@ def magic(start_num):
 		# write the script to the file
 		f.write(output)
 		f.close()
-		# need to open it according to the title. Maybe I should simply have the raw html saved without 
-		# the title? Definitely has to be in a different order. How do I grab the title without going online? Need
-		# to open the file to get it's title though. What if it didn't have a title? If it was just 1, 2, 3
-		# could probably figure out how to do it without using urllib again. If i had a list of all the seinfeld episodes
 
 magic(start_num)
 
