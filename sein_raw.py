@@ -1,7 +1,9 @@
 import urllib
 from sys import argv
 
-# This file saves the raw html of each episode in it's own file
+# This file saves the raw html of each episode in it's own file formatted "Seinfeld #episode number#"
+# There's no need to really run this file ever again, unless something happens to my current library
+# of saved raw html files
 
 # after "py filename.py" you put the first script you want up to and including the last script
 # It'll download all scripts in between. If you just want one script, you enter the same number twice
@@ -98,7 +100,7 @@ magic(start_num)
 
 if end_num == 180:
 	try:
-	 	fil = open("Seinfeld s9e23 - The Finale (1).txt", 'r') 
+	 	fil = open("Seinfeld 179.txt", 'r') 
 
 		if True:
 			print "Ending..."
