@@ -118,7 +118,7 @@ def magic(start_num):
 			episode = "s9e" + str(season9.index(num)+1)
 
 		# open a file with the designated title in writing mode
-		f = open("output\\Seinfeld " + episode + " " + str(num) + " - " + title + ".txt", 'w')
+		f = open("output\\SF " + str(num) + " " + episode + " - " + title + ".txt", 'w')
 		# write the script to the file
 		f.write(output)
 		f.close()
