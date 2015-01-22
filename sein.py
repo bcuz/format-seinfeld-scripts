@@ -75,7 +75,7 @@ def magic(start_num):
 		output = webpage[begin_script+1:end_script]
 
 		# tidying up the script contents
-		replace_with_quote = ["&quot;", "&#148;", "&#147;", ]
+		replace_with_quote = ["&quot;", "&#148;", "&#147;"]
 
 		for special_char in replace_with_quote:
 			output = output.replace(special_char, '"')
