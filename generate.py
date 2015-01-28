@@ -6,7 +6,10 @@ import re
 
 # on the command line, after "py generate.py" you can give it one number to generate that script. Or you
 # can give it two numbers to it'll generate scripts from the first number to the last number (inclusive) 
-if len(sys.argv) == 3:
+if "all" in sys.argv:
+	start_num = 1
+	end_num = 180
+elif len(sys.argv) == 3:
 	script, start_num, end_num = sys.argv
 elif len(sys.argv) == 2:
 	script, start_num = sys.argv
