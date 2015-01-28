@@ -1,4 +1,4 @@
-import urllib
+import urllib2
 from sys import argv
 
 # This file saves the raw html of each episode in it's own file formatted "Seinfeld *episode number*"
@@ -37,16 +37,16 @@ def magic(start_num):
 	 	counter = num
 		# deals with the conjoined scripts
 		if num in conjoined:
-			webpage = urllib.urlopen("http://www.seinology.com/scripts/script-" + str(num) + "and" + str(num+1) + ".shtml").read()
+			webpage = urllib2.urlopen("http://www.seinology.com/scripts/script-" + str(num) + "and" + str(num+1) + ".shtml", timeout=1).read()
 		# if the episode number is a duplicate, go on to the next episode number
 		elif num in duplicates:
 			continue
 		# deals with scripts 1-9, which are formatted like script-01		
 		elif num in range(1, 10):
-			webpage = urllib.urlopen("http://www.seinology.com/scripts/script-0" + str(num) + ".shtml").read()		
+			webpage = urllib2.urlopen("http://www.seinology.com/scripts/script-0" + str(num) + ".shtml", timeout=1).read()		
 		# deals with the rest of the episodes
 		else:
-			webpage = urllib.urlopen("http://www.seinology.com/scripts/script-" + str(num) + ".shtml").read()
+			webpage = urllib2.urlopen("http://www.seinology.com/scripts/script-" + str(num) + ".shtml", timeout=1).read()
 
 		# open a file with the designated title in writing mode
 		f = open("Seinfeld " + str(num) + ".txt", 'w')
