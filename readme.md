@@ -4,7 +4,7 @@ is already included in the repo.
 Requirements: Python 2.x
 
 Examples of usage:
-*all generated files will appear in the "output" folder*
+Note: all generated files will appear in the "output" folder
 
 Inputting "python generate.py 1" in the command line will generate a file for episode 1
 
