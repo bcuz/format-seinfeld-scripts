@@ -3,8 +3,9 @@ is already included in the repo.
 
 Requirements: Python 2.x
 
-Examples of usage:
 Note: all generated files will appear in the "output" folder
+
+Examples of usage:
 
 Inputting "python generate.py 1" in the command line will generate a file for episode 1
 
