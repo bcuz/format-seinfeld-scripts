@@ -6,7 +6,14 @@ import re
 
 # after "py filename.py" you put the first script you want up to and including the last script
 # It'll download all scripts in between. If you just want one script, you enter the same number twice
-script, start_num, end_num = sys.argv
+if len(sys.argv) == 3:
+	script, start_num, end_num = sys.argv
+elif len(sys.argv) == 2:
+	script, start_num = sys.argv
+	end_num = start_num
+else:
+	print "Please enter at least one episode number"
+	sys.exit()
 # converts the number from a string to a num, so it can be used in a range
 start_num = int(start_num)
 end_num = int(end_num)
