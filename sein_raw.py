@@ -1,7 +1,7 @@
 import urllib
 from sys import argv
 
-# This file saves the raw html of each episode in it's own file formatted "Seinfeld #episode number#"
+# This file saves the raw html of each episode in it's own file formatted "Seinfeld *episode number*"
 # There's no need to really run this file ever again, unless something happens to my current library
 # of saved raw html files
 
